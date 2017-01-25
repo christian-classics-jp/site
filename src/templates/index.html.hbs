@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ siteTitle }}</title>
+    <meta charset="utf-8">
+    <link href="./css/main.css" rel="stylesheet" type="text/css">
+    <link href="./css/spectre.min.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <header>
+      <div class="header">
+        <h1 class="header-title"><a href="index.html">{{ siteTitle }}</a></h1>
+      </div>
+    </header>
+
+    <div class="main">
+      <div class="article-list">
+        <ul>
+          {{#each nav}}
+          <li><a href="{{fileName}}">{{title}}</a></li>
+          {{/each}}
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>

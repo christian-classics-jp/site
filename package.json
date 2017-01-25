@@ -1,0 +1,33 @@
+{
+  "name": "simplest-site-template",
+  "version": "1.0.0",
+  "description": "Simplest static HTML site template",
+  "dependencies": {
+    "autoprefixer": "^6.4.0",
+    "concat-stream": "^1.5.1",
+    "handlebars": "^4.0.5",
+    "markdown-to-html": "0.0.11",
+    "mkdirp": "^0.5.1",
+    "node-sass": "^3.8.0",
+    "postcss": "^5.1.1",
+    "spectre.css": "^0.1.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "./ci/build-html.js && ./ci/build-css.js"
+  },
+  "repository": "FujiHaruka/simplest-site-template",
+  "keywords": [
+    "HTML"
+  ],
+  "author": {
+    "name": "Fuji Haruka",
+    "email": "fizzyjohn316@gmail.com",
+    "url": "https://github.com/FujiHaruka"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FujiHaruka/simplest-site-template/issues"
+  },
+  "homepage": "https://github.com/FujiHaruka/simplest-site-template#readme"
+}

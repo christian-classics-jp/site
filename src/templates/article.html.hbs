@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }} | {{ siteTitle }}</title>
+    <meta charset="utf-8">
+    <link href="./css/main.css" rel="stylesheet" type="text/css">
+    <link href="./css/spectre.min.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <header>
+      <div class="header">
+        <h1 class="header-title"><a href="index.html">{{ siteTitle }}</a></h1>
+      </div>
+    </header>
+
+    <div class="main">
+      <article>
+        {{{ article }}}
+      </article>
+
+      <div class="next-article">
+      {{#if next}}
+        <div class="mb-5">{{ loc.NEXT_MESSAGE }}</div>
+        <div>
+          <a href="{{ next.fileName }}">{{ next.title }}</a>
+        </div>
+      {{else}}
+        <div class="mb-5">{{ loc.TO_TOP_MESSAGE }}</div>
+        <div>
+          <a href="index.html">{{ siteTitle }}</a>
+        </div>
+      {{/if}}
+      </div>
+    </div>
+
+    <footer>
+      <div class="copy-right">{{ loc.COPY_RIGHT }}</div>
+    </footer>
+  </body>
+</html>
