@@ -16,6 +16,10 @@ header h1 {
     text-decoration: none;
     color: #666; }
 
+.description {
+  margin-top: 5em;
+}
+
 .article-list {
   padding: 1em;
   width: 100%;

@@ -28,12 +28,12 @@ co(function * () {
   let readme = fs.readFileSync(join(__dirname, `../repos/${repos}/README.md`)).toString()
   // '# title' => 'title'
   let siteTitle = readme.split('\n')[0].slice(1).trim()
-  let distDir = join(__dirname, `../doc/${repos}`)
-  yield buildHtml(siteTitle, markdowns, distDir)
+  let distDir = join(__dirname, `../docs/${repos}`)
+  yield buildHtml(siteTitle, markdowns, distDir, repos)
 
   // --- Build CSS ---
 
-  let cssDistDir = join(__dirname, `../doc/${repos}/css`)
+  let cssDistDir = join(__dirname, `../docs/${repos}/css`)
   yield buildCSS(cssDistDir)
 }).catch(e => console.error(e))
 

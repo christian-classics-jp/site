@@ -16,9 +16,10 @@ const {
  * MarkdownファイルからHTMLファイルを生成する
  * @param siteTitle サイトのタイトル
  * @param markdowns markdownファイルの { path, name } の配列
- * @param distDir HTMLファイル出力先の
+ * @param distDir HTMLファイル出力先のディレクトリ
+ * @param repos リポジトリ名
  */
-function buildHtml (siteTitle, markdowns, distDir) {
+function buildHtml (siteTitle, markdowns, distDir, repos) {
   return co(function * () {
     mkdirp.sync(distDir)
     // Markdown articles to HTML
@@ -60,6 +61,7 @@ function buildHtml (siteTitle, markdowns, distDir) {
     let indexTmpl = Handlebars.compile(indexHbs)
     let indexPage = indexTmpl({
       siteTitle,
+      repos,
       loc,
       nav: articles
     })
