@@ -61,6 +61,8 @@ article {
     border-bottom: 2px solid rgba(77, 124, 162, 0.2); }
   article h2, article h3, article h4, article h5 {
     font-size: 1.6em; }
+  article p {
+    margin: 0 0 2rem; }
 
 .next-article {
   margin-top: 3em;
