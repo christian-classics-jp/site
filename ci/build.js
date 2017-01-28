@@ -23,7 +23,7 @@ co(function * () {
   let markdowns = names.map((name) => ({
     path: join(__dirname, `../repos/${repos}/src/${name}/jp.md`),
     name
-  }))
+  })).filter((md) => fs.existsSync(md.path))
 
   let readme = fs.readFileSync(join(__dirname, `../repos/${repos}/README.md`)).toString()
   // '# title' => 'title'
