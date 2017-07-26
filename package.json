@@ -4,6 +4,7 @@
   "description": "Simplest static HTML site template",
   "dependencies": {
     "autoprefixer": "^6.4.0",
+    "co": "^4.6.0",
     "concat-stream": "^1.5.1",
     "handlebars": "^4.0.5",
     "markdown-to-html": "0.0.11",
