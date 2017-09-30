@@ -6,7 +6,11 @@ const buildCSS = require('./helpers/buildCss')
 const pull = require('./helpers/pull')
 
 co(function * () {
-  let repos = process.argv[2]
+  const repos = process.argv[2]
+  const singlePage = process.argv[3] === 'single'
+  if (singlePage) {
+    console.log('Single page mode')
+  }
   if (!repos) {
     showUsage()
     process.exit(0)
@@ -14,7 +18,7 @@ co(function * () {
 
   pull(repos)
 
-  buildHtml(repos)
+  buildHtml(repos, {singlePage})
 
   const cssDistDir = join(__dirname, `../docs/${repos}/css`)
   yield buildCSS(cssDistDir)

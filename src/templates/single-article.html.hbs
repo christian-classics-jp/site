@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ siteTitle }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="./css/spectre.min.css" rel="stylesheet" type="text/css">
+    <link href="./css/main.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <header>
+      <div class="header">
+        <h1 class="header-title"><a href="index.html">{{ siteTitle }}</a></h1>
+      </div>
+    </header>
+
+    <div class="main">
+      <article>
+        {{{ article }}}
+      </article>
+    </div>
+
+    <footer>
+      <h2><a href="https://github.com/christian-classics-jp/{{ repos }}">この本について(GitHub Repository)</a></h2>
+      <h2 class="mt-10"><a href="../">本の一覧へ</a></h2>
+    </footer>
+  </body>
+</html>

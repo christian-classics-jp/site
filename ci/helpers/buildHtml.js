@@ -1,5 +1,5 @@
 const marked = require('marked')
-const {REPOS_DIR, INDEX_TEMPLATE_PATH, ARTICLE_TEMPLATE_PATH, PUBLIC_DIR} = require('./consts')
+const {REPOS_DIR, INDEX_TEMPLATE_PATH, SINGLEPAGE_TMPLE_PATH, ARTICLE_TEMPLATE_PATH, PUBLIC_DIR} = require('./consts')
 const fs = require('fs')
 const {join} = require('path')
 const hbs = require('handlebars')
@@ -23,7 +23,7 @@ const readTmpl = (tmplPath) => hbs.compile(fs.readFileSync(tmplPath, {encoding: 
  */
 async function buildHtml (repos, options = {}) {
   const {
-    index = true
+    singlePage = false
   } = options
   const {
     getDestDir,
@@ -53,15 +53,15 @@ async function buildHtml (repos, options = {}) {
       fileName: fileNames[i + 1]
     }
   }))
-  const pages = datasets.map((data) => articleTmpl(data))
 
-  articleNames.forEach((name, i) => {
-    const htmlPath = getHtmlPath(name)
-    const page = pages[i]
-    fs.writeFileSync(htmlPath, page)
-  })
+  if (!singlePage) {
+    const pages = datasets.map((data) => articleTmpl(data))
+    articleNames.forEach((name, i) => {
+      const htmlPath = getHtmlPath(name)
+      const page = pages[i]
+      fs.writeFileSync(htmlPath, page)
+    })
 
-  if (index) {
     const indexTmpl = readTmpl(INDEX_TEMPLATE_PATH)
     const indexPage = indexTmpl({
       siteTitle,
@@ -74,6 +74,11 @@ async function buildHtml (repos, options = {}) {
     })
     const indexPath = join(getDestDir(), 'index.html')
     fs.writeFileSync(indexPath, indexPage)
+  } else {
+    const singlePageTmpl = readTmpl(SINGLEPAGE_TMPLE_PATH)
+    const page = singlePageTmpl(datasets[0])
+    const indexPath = join(getDestDir(), 'index.html')
+    fs.writeFileSync(indexPath, page)
   }
 }
 
