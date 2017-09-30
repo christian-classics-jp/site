@@ -1,9 +1,9 @@
 #!/usr/bin/env node
+const co = require('co')
 const fs = require('fs')
 const { execSync } = require('child_process')
 const { join } = require('path')
 const mkdirp = require('mkdirp')
-const co = require('co')
 const compiler = require('node-sass')
 const autoprefixer = require('autoprefixer')
 const postcss = require('postcss')
