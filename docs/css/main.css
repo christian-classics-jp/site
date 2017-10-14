@@ -1,10 +1,11 @@
+@charset "UTF-8";
 html, body {
   margin: 0;
   padding: 0; }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', '游ゴシック  Medium', meiryo, sans-serif;
-  background-color: white; }
+  background-color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', '游ゴシック  Medium', meiryo, sans-serif; }
 
 header {
   padding: 0.8em;
@@ -16,10 +17,6 @@ header h1 {
   header h1 a {
     text-decoration: none;
     color: #666; }
-
-.description {
-  margin-top: 5em;
-}
 
 .article-list {
   padding: 1em;
@@ -62,8 +59,13 @@ article {
     font-size: 1.8em;
     padding-bottom: 6px;
     border-bottom: 2px solid rgba(77, 124, 162, 0.2); }
+  article h2 {
+    margin-bottom: 2.5rem;
+    color: #4d7ca2; }
   article h2, article h3, article h4, article h5 {
-    font-size: 1.6em; }
+    font-size: 1.3em; }
+  article p {
+    margin: 0 0 2rem; }
 
 .next-article {
   margin-top: 3em;
@@ -80,12 +82,12 @@ footer {
     text-align: center;
     margin-top: 3em;
     margin: 0;
-    font-size: 1.4em; }
+    font-size: 1.2em; }
     footer h2 a {
       text-decoration: none; }
 
-.copy-right {
+.copy-right, .logo-credit {
   text-align: right; }
-  .copy-right a {
+  .copy-right a, .logo-credit a {
     text-decoration: none;
     color: #999; }

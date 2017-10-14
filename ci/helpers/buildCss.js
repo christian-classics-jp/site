@@ -45,4 +45,8 @@ function compile (scss) {
   })
 }
 
+if (!module.parent) {
+  buildCSS(join(__dirname, '../..', 'docs/css'))
+}
+
 module.exports = buildCSS
