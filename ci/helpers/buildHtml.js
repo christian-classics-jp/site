@@ -17,6 +17,7 @@ const about = (repos) => ({
   getHtmlPath: (name) => join(PUBLIC_DIR, repos, `${name}.html`)
 })
 const readTmpl = (tmplPath) => hbs.compile(fs.readFileSync(tmplPath, {encoding: 'utf-8'}).toString())
+const TOP_URL = 'https://christian-classics-jp.github.io/site/'
 
 /**
  * MarkdownファイルからHTMLファイルを生成する
@@ -44,10 +45,13 @@ async function buildHtml (repos, options = {}) {
 
   const articleTmpl = readTmpl(ARTICLE_TEMPLATE_PATH)
   const datasets = articleNames.map((name, i) => ({
+    topUrl: TOP_URL,
+    repos,
     siteTitle,
     loc,
     title: titles[i],
     article: htmls[i],
+    fileName: fileNames[i],
     next: {
       title: titles[i + 1],
       fileName: fileNames[i + 1]
@@ -64,6 +68,7 @@ async function buildHtml (repos, options = {}) {
 
     const indexTmpl = readTmpl(INDEX_TEMPLATE_PATH)
     const indexPage = indexTmpl({
+      topUrl: TOP_URL,
       siteTitle,
       repos,
       loc,
