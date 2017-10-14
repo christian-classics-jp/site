@@ -15,7 +15,8 @@ let repos = [
   'first-clement',
   'pilgrims-progress',
   'incarnation',
-  'christian-pilgrim'
+  'christian-pilgrim',
+  'wesley-sermons'
 ]
 
 let cloned = fs.readdirSync('repos')
