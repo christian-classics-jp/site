@@ -1,0 +1,93 @@
+@charset "UTF-8";
+html, body {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background-color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', '游ゴシック  Medium', meiryo, sans-serif; }
+
+header {
+  padding: 0.8em;
+  padding-left: 1.2em; }
+
+header h1 {
+  margin: 0;
+  font-size: 1.6em; }
+  header h1 a {
+    text-decoration: none;
+    color: #666; }
+
+.article-list {
+  padding: 1em;
+  width: 100%;
+  box-sizing: border-box;
+  max-width: 700px; }
+  .article-list ul {
+    list-style: none; }
+  .article-list li {
+    margin-top: 1.5em; }
+  .article-list a {
+    text-decoration: none; }
+
+.main {
+  box-sizing: border-box;
+  padding: 1em;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+article {
+  max-width: 700px;
+  width: 100%;
+  font-size: 1.6rem;
+  line-height: 1.5em;
+  letter-spacing: .02em;
+  text-align: justify; }
+  article h1 {
+    color: #4d7ca2;
+    font-size: 1.8em;
+    padding-bottom: 6px;
+    border-bottom: 2px solid rgba(77, 124, 162, 0.2); }
+  article h2 {
+    margin-bottom: 2.5rem;
+    color: #4d7ca2; }
+  article h2, article h3, article h4, article h5 {
+    font-size: 1.3em; }
+  article p {
+    margin: 0 0 2rem; }
+
+.next-article {
+  margin-top: 3em;
+  margin-bottom: 2em; }
+  .next-article a {
+    text-decoration: none; }
+
+footer {
+  box-sizing: border-box;
+  padding: 2em;
+  padding-top: 3em;
+  width: 100%; }
+  footer h2 {
+    text-align: center;
+    margin-top: 3em;
+    margin: 0;
+    font-size: 1.2em; }
+    footer h2 a {
+      text-decoration: none; }
+
+.copy-right {
+  text-align: right; }
+  .copy-right a {
+    text-decoration: none;
+    color: #999; }
