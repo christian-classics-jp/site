@@ -47,6 +47,9 @@ header h1 {
       -ms-flex-align: center;
           align-items: center; }
 
+.description {
+  margin-top: 5em; }
+
 article {
   max-width: 700px;
   width: 100%;
@@ -86,8 +89,9 @@ footer {
     footer h2 a {
       text-decoration: none; }
 
-.copy-right {
-  text-align: right; }
-  .copy-right a {
+.copy-right, .logo-credit {
+  text-align: right;
+  color: #999; }
+  .copy-right a, .logo-credit a {
     text-decoration: none;
     color: #999; }
