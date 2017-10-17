@@ -3,7 +3,7 @@ const {REPOS_DIR, INDEX_TEMPLATE_PATH, SINGLEPAGE_TMPLE_PATH, ARTICLE_TEMPLATE_P
 const fs = require('fs')
 const {join} = require('path')
 const hbs = require('handlebars')
-const loc = require('../../src/info/loc.json')
+const loc = require('../../assets/info/loc.json')
 const mkdirp = require('mkdirp')
 const siteTitleFromReadme = require('./siteTitleFromReadme')
 
