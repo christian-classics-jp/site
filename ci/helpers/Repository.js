@@ -32,7 +32,7 @@ class Repository {
 
   get epubPath () {
     const {repos} = this
-    return join(REPOS_DIR, 'epub', `${repos}.epub`)
+    return join(PUBLIC_DIR, 'epub', `${repos}.epub`)
   }
 
   htmlPath (name) {
