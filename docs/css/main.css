@@ -89,6 +89,15 @@ footer {
     footer h2 a {
       text-decoration: none; }
 
+.download {
+  color: #5764c6;
+  padding: 8px;
+  border: 1px solid #5764c6;
+  border-radius: 4px; }
+
+.download:hover {
+  background: rgba(87, 100, 198, 0.07); }
+
 .copy-right, .logo-credit {
   text-align: right;
   color: #999; }
