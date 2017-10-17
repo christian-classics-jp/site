@@ -1,13 +1,17 @@
 #!/usr/bin/env node
 const { join } = require('path')
-const co = require('co')
 const buildHtml = require('./helpers/buildHtml')
 const buildCSS = require('./helpers/buildCss')
 const pull = require('./helpers/pull')
 
-co(function * () {
-  const repos = process.argv[2]
-  const singlePage = process.argv[3] === 'single'
+const repos = process.argv[2]
+const singlePage = process.argv[3] === 'single'
+build(repos, {singlePage}).catch(console.error)
+
+async function build (repos, options = {}) {
+  const {
+    singlePage
+  } = options
   if (singlePage) {
     console.log('Single page mode')
   }
@@ -21,8 +25,8 @@ co(function * () {
   buildHtml(repos, {singlePage})
 
   const cssDistDir = join(__dirname, `../docs/${repos}/css`)
-  yield buildCSS(cssDistDir)
-}).catch(e => console.error(e))
+  await buildCSS(cssDistDir)
+}
 
 function showUsage () {
   console.log(`
