@@ -1,44 +1,32 @@
 const marked = require('marked')
-const {REPOS_DIR, INDEX_TEMPLATE_PATH, SINGLEPAGE_TMPLE_PATH, ARTICLE_TEMPLATE_PATH, PUBLIC_DIR} = require('./consts')
+const {INDEX_TEMPLATE_PATH, SINGLEPAGE_TMPLE_PATH, ARTICLE_TEMPLATE_PATH} = require('./consts')
 const fs = require('fs')
 const {join} = require('path')
 const hbs = require('handlebars')
 const loc = require('../../assets/info/loc.json')
 const mkdirp = require('mkdirp')
-const siteTitleFromReadme = require('./siteTitleFromReadme')
+const Repository = require('./Repository')
 
 // title は最初にヒットする h1 要素である
 const markdownTitle = (markdown) => markdown.match(/# (.+)/)[1]
-const about = (repos) => ({
-  getDestDir: () => join(PUBLIC_DIR, repos),
-  getArticleNames: () => fs.readdirSync(join(REPOS_DIR, repos, 'src')).filter((name) => fs.existsSync(join(REPOS_DIR, repos, 'src', name, 'jp.md'))),
-  // jp.md に記事がある
-  readMarkdown: (name) => fs.readFileSync(join(REPOS_DIR, repos, 'src', name, 'jp.md')).toString(),
-  getHtmlPath: (name) => join(PUBLIC_DIR, repos, `${name}.html`)
-})
 const readTmpl = (tmplPath) => hbs.compile(fs.readFileSync(tmplPath, {encoding: 'utf-8'}).toString())
 const TOP_URL = 'https://christian-classics-jp.github.io/site/'
 
 /**
  * MarkdownファイルからHTMLファイルを生成する
  */
-async function buildHtml (repos, options = {}) {
+async function buildHtml (reposName, options = {}) {
   const {
     singlePage = false
   } = options
-  const {
-    getDestDir,
-    getArticleNames,
-    readMarkdown,
-    getHtmlPath
-  } = about(repos)
+  const repos = new Repository(reposName)
 
-  mkdirp.sync(getDestDir())
+  mkdirp.sync(repos.destDir)
 
-  const siteTitle = siteTitleFromReadme(repos)
+  const siteTitle = repos.title
 
-  const articleNames = getArticleNames(repos)
-  const markdowns = articleNames.map(readMarkdown)
+  const articleNames = repos.articleNames
+  const markdowns = articleNames.map(repos.readArticleMarkdown.bind(repos))
   const titles = markdowns.map(markdownTitle)
   const htmls = markdowns.map((m) => marked(m))
   const fileNames = articleNames.map((name) => `${name}.html`)
@@ -46,7 +34,7 @@ async function buildHtml (repos, options = {}) {
   const articleTmpl = readTmpl(ARTICLE_TEMPLATE_PATH)
   const datasets = articleNames.map((name, i) => ({
     topUrl: TOP_URL,
-    repos,
+    repos: repos.repos,
     siteTitle,
     loc,
     title: titles[i],
@@ -61,7 +49,7 @@ async function buildHtml (repos, options = {}) {
   if (!singlePage) {
     const pages = datasets.map((data) => articleTmpl(data))
     articleNames.forEach((name, i) => {
-      const htmlPath = getHtmlPath(name)
+      const htmlPath = repos.htmlPath(name)
       const page = pages[i]
       fs.writeFileSync(htmlPath, page)
     })
@@ -70,19 +58,19 @@ async function buildHtml (repos, options = {}) {
     const indexPage = indexTmpl({
       topUrl: TOP_URL,
       siteTitle,
-      repos,
+      repos: repos.repos,
       loc,
       nav: articleNames.map((name, i) => ({
         fileName: fileNames[i],
         title: titles[i]
       }))
     })
-    const indexPath = join(getDestDir(), 'index.html')
+    const indexPath = join(repos.destDir, 'index.html')
     fs.writeFileSync(indexPath, indexPage)
   } else {
     const singlePageTmpl = readTmpl(SINGLEPAGE_TMPLE_PATH)
     const page = singlePageTmpl(datasets[0])
-    const indexPath = join(getDestDir(), 'index.html')
+    const indexPath = join(repos.destDir, 'index.html')
     fs.writeFileSync(indexPath, page)
   }
 }

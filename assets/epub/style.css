@@ -1,0 +1,191 @@
+/* でんでんコンバーター縦書きデフォルトをカスタマイズ */
+@charset "UTF-8";
+@namespace "http://www.w3.org/1999/xhtml";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+.epub-author {
+  color: #555;
+}
+
+.epub-link {
+  margin-bottom: 30px;
+}
+
+.epub-link a {
+  color: #666;
+  font-size: 90%;
+}
+
+.toc-author {
+  font-size: 90%;
+  color: #555;
+}
+
+.toc-link {
+  color: #999;
+  font-size: 85%;
+  display: block;
+}
+
+.table-of-content {
+  list-style: none;
+}
+
+hr {
+  border: 0;
+  border-bottom: 1px solid #dedede;
+  margin: 60px 10%;
+}
+
+html {
+  -epub-writing-mode: vertical-rl;
+}
+
+body {
+  text-align: justify;
+  text-justify: inter-ideograph;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', '游ゴシック  Medium', meiryo, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', '游ゴシック  Medium', meiryo, sans-serif;
+  font-weight: normal;
+  color: inherit;
+}
+
+h1 {
+  font-size: 1.6em;
+  margin-right: 0.625em;
+  margin-left: 0.625em;
+}
+
+h2 {
+  font-size: 1.4em;
+  margin-right: 0.83333em;
+  margin-left: 0.83333em;
+}
+
+h3 {
+  font-size: 1.125em;
+  margin-right: 1.11111em;
+  margin-left: 1.11111em;
+}
+
+h4 {
+  font-size: 1em;
+  margin-right: 1.25em;
+  margin-left: 1.25em;
+}
+
+h5 {
+  font-size: 0.875em;
+  margin-right: 1.42857em;
+  margin-left: 1.42857em;
+}
+
+h6 {
+  font-size: 0.75em;
+  margin-right: 1.66667em;
+  margin-left: 1.66667em;
+}
+
+p {
+  margin-right: 1.25em;
+  margin-left: 1.25em;
+}
+
+p, li, dt, dd {
+  line-height: 1.7;
+}
+
+blockquote, ul,
+fieldset, form,
+ol, dl, menu {
+  margin-right: 1.25em;
+  margin-left: 1.25em;
+  padding: 0;
+}
+
+blockquote blockquote, blockquote ol, blockquote ul, blockquote dl, ol blockquote, ol ol, ol ul, ol dl, ul blockquote, ul ol, ul ul, ul dl, dl blockquote, dl ol, dl ul, dl dl {
+  margin-right: 0em;
+  margin-left: 0em;
+}
+
+ol, ul, menu, dd {
+  margin-top: 2em;
+}
+
+a {
+  color: #0538b2;
+  text-decoration: none;
+}
+a:hover {
+  color: #b2058e;
+}
+a:active {
+  color: #b27f05;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+hr {
+  margin-right: 1.25em;
+  margin-left: 1.25em;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.pagenum {
+  color: gray;
+  font-size: 0.8em;
+}
+
+.footnotes hr {
+  margin-right: 1.25em;
+  margin-left: 1.25em;
+}
+.footnotes ol {
+  margin-top: 2em;
+}
+.footnotes li {
+  font-size: 0.875em;
+}
+
+h2 {
+  margin-top: 0.66667em;
+}
+
+h3 {
+  margin-top: 1.77778em;
+}
+
+blockquote {
+  margin-top: 1em;
+}
+
+@media print {
+  h1 {
+    page-break-before: always;
+  }
+
+  h1, h2, h3,
+  h4, h5, h6 {
+    page-break-after: avoid;
+  }
+
+  ul, ol, dl {
+    page-break-before: avoid;
+  }
+}
