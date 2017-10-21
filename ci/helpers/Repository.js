@@ -35,6 +35,11 @@ class Repository {
     return join(PUBLIC_DIR, 'epub', `${repos}.epub`)
   }
 
+  get url () {
+    const {repos} = this
+    return `https://github.com/christian-classics-jp/${repos}`
+  }
+
   htmlPath (name) {
     const {repos} = this
     return join(PUBLIC_DIR, repos, `${name}.html`)
