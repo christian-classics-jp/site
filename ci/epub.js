@@ -46,5 +46,4 @@ async function epub (reposName) {
     appendChapterTitles: false,
     tocTitle: TOC_TITLE
   })
-  // fs.writeFileSync('tmp/index.html', htmls[0])
 }

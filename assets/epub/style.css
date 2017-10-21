@@ -55,6 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 1.6em;
+  margin-top: 2em;
   margin-right: 0.625em;
   margin-left: 0.625em;
 }
@@ -90,6 +91,7 @@ h6 {
 }
 
 p {
+  text-indent: 1em;
   margin-right: 1.25em;
   margin-left: 1.25em;
 }
