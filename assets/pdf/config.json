@@ -1,0 +1,15 @@
+{
+  "format": "A4",
+  "border": {
+    "top": "15mm",
+    "bottom": "15mm",
+    "left": "20mm",
+    "right": "20mm"
+  },
+  "footer": {
+    "height": "10mm",
+    "contents": {
+      "default": "<div class=\"page-footer\">- {{page}} -</div>"
+    }
+  }
+}

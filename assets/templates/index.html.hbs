@@ -25,11 +25,19 @@
 
     <div class="main">
       <div class="article-list">
+        {{#if completed}}
+        <h5>目次</h5>
+        {{/if}}
         <ul>
           {{#each nav}}
           <li><a href="{{fileName}}">{{title}}</a></li>
           {{/each}}
         </ul>
+        {{#if completed}}
+          <h5>ダウンロード版</h5>
+          <a href="{{pdfUrl}}" class="download" download title="PDF形式でダウンロード">PDF形式</a>
+          <a href="{{epubUrl}}" class="download" download title="EPUB形式でダウンロード">EPUB形式</a>
+        {{/if}}
       </div>
     </div>
 

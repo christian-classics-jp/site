@@ -27,7 +27,15 @@ class Repository {
 
   get book () {
     const {repos} = this
-    return require(join(REPOS_DIR, repos, 'book.json'))
+    try {
+      return require(join(REPOS_DIR, repos, 'book.json'))
+    } catch (e) {
+      return null
+    }
+  }
+
+  get completed () {
+    return Boolean(this.book)
   }
 
   get epubPath () {
@@ -35,9 +43,24 @@ class Repository {
     return join(PUBLIC_DIR, 'epub', `${repos}.epub`)
   }
 
+  get pdfPath () {
+    const {repos} = this
+    return join(PUBLIC_DIR, 'pdf', `${repos}.pdf`)
+  }
+
   get url () {
     const {repos} = this
     return `https://github.com/christian-classics-jp/${repos}`
+  }
+
+  get epubUrl () {
+    const {repos} = this
+    return `https://christian-classics-jp.github.io/site/epub/${repos}.epub`
+  }
+
+  get pdfUrl () {
+    const {repos} = this
+    return `https://christian-classics-jp.github.io/site/pdf/${repos}.pdf`
   }
 
   htmlPath (name) {

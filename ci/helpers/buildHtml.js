@@ -55,11 +55,19 @@ async function buildHtml (reposName, options = {}) {
     })
 
     const indexTmpl = readTmpl(INDEX_TEMPLATE_PATH)
+    const {
+      completed,
+      epubUrl,
+      pdfUrl
+    } = repos
     const indexPage = indexTmpl({
       topUrl: TOP_URL,
       siteTitle,
       repos: repos.repos,
       loc,
+      completed,
+      epubUrl,
+      pdfUrl,
       nav: articleNames.map((name, i) => ({
         fileName: fileNames[i],
         title: titles[i]

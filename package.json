@@ -8,7 +8,7 @@
     "concat-stream": "^1.5.1",
     "epub-gen": "^0.0.17",
     "handlebars": "^4.0.5",
-    "markdown-to-html": "0.0.11",
+    "html-pdf": "^2.2.0",
     "marked": "^0.3.6",
     "mkdirp": "^0.5.1",
     "node-sass": "^3.8.0",
