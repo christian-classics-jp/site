@@ -47,6 +47,9 @@ header h1 {
       -ms-flex-align: center;
           align-items: center; }
 
+.description {
+  margin-top: 5em; }
+
 article {
   max-width: 700px;
   width: 100%;
@@ -59,8 +62,12 @@ article {
     font-size: 1.8em;
     padding-bottom: 6px;
     border-bottom: 2px solid rgba(77, 124, 162, 0.2); }
+  article h2 {
+    margin-top: 3.5rem;
+    margin-bottom: 2.5rem;
+    color: #4d7ca2; }
   article h2, article h3, article h4, article h5 {
-    font-size: 1.6em; }
+    font-size: 1.3em; }
   article p {
     margin: 0 0 2rem; }
 
@@ -83,8 +90,20 @@ footer {
     footer h2 a {
       text-decoration: none; }
 
-.copy-right {
-  text-align: right; }
-  .copy-right a {
+.download {
+  display: inline-block;
+  color: #5764c6;
+  margin: 12px;
+  padding: 8px;
+  border: 1px solid #5764c6;
+  border-radius: 4px; }
+
+.download:hover {
+  background: rgba(87, 100, 198, 0.07); }
+
+.copy-right, .logo-credit {
+  text-align: right;
+  color: #999; }
+  .copy-right a, .logo-credit a {
     text-decoration: none;
     color: #999; }
