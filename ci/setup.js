@@ -8,7 +8,7 @@ process.chdir(join(__dirname, '..'))
 
 mkdirp.sync('repos')
 
-let repos = [
+const repos = [
   'ever-increasing-faith',
   'faith-that-prevails',
   'andrew-murray-humility',
@@ -19,15 +19,15 @@ let repos = [
   'wesley-sermons'
 ]
 
-let cloned = fs.readdirSync('repos')
+const cloned = fs.readdirSync('repos')
 
 repos.forEach(repo => {
   if (cloned.includes(repo)) {
     return
   }
-  let command = `git clone https://github.com/christian-classics-jp/${repo}.git`
+  const command = `git clone https://github.com/christian-classics-jp/${repo}.git`
   console.log('>', command)
-  let out = execSync(command, {
+  const out = execSync(command, {
     cwd: join(__dirname, '../repos')
   }).toString()
   console.log(out)

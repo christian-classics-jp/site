@@ -4,11 +4,10 @@
   "description": "Simplest static HTML site template",
   "dependencies": {
     "co": "^4.6.0",
-    "concat-stream": "^1.5.1",
-    "epub-gen": "^0.0.17",
+    "epub-gen": "^0.1.0",
     "handlebars": "^4.0.5",
     "html-pdf": "^2.2.0",
-    "marked": "^0.3.6",
+    "marked": "^0.7.0",
     "mkdirp": "^0.5.1"
   },
   "devDependencies": {},
