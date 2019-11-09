@@ -3,17 +3,13 @@
   "version": "1.0.0",
   "description": "Simplest static HTML site template",
   "dependencies": {
-    "autoprefixer": "^6.4.0",
     "co": "^4.6.0",
     "concat-stream": "^1.5.1",
     "epub-gen": "^0.0.17",
     "handlebars": "^4.0.5",
     "html-pdf": "^2.2.0",
     "marked": "^0.3.6",
-    "mkdirp": "^0.5.1",
-    "node-sass": "^3.8.0",
-    "postcss": "^5.1.1",
-    "spectre.css": "^0.1.31"
+    "mkdirp": "^0.5.1"
   },
   "devDependencies": {},
   "scripts": {

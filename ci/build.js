@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 const { join } = require('path')
 const buildHtml = require('./helpers/buildHtml')
-const buildCSS = require('./helpers/buildCss')
 const pull = require('./helpers/pull')
 
 const repos = process.argv[2]
@@ -23,9 +22,6 @@ async function build (repos, options = {}) {
   pull(repos)
 
   buildHtml(repos, {singlePage})
-
-  const cssDistDir = join(__dirname, `../docs/${repos}/css`)
-  await buildCSS(cssDistDir)
 }
 
 function showUsage () {
