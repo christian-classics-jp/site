@@ -5,7 +5,7 @@
   "dependencies": {
     "co": "^4.6.0",
     "epub-gen": "^0.1.0",
-    "handlebars": "^4.0.5",
+    "handlebars": "^4.7.7",
     "html-pdf": "^2.2.0",
     "marked": "^0.7.0",
     "mkdirp": "^0.5.1"
