@@ -6,7 +6,7 @@
     "co": "^4.6.0",
     "epub-gen": "^0.1.0",
     "handlebars": "^4.0.5",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "marked": "^0.7.0",
     "mkdirp": "^0.5.1"
   },
