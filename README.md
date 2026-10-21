@@ -36,7 +36,7 @@ Section 4
 + [x] 2	The Plain "Ease," Demas, and the silver mine
 + [x] 3	Lot's wife
 + [x] 4	The River of the Water of Life
-+ [ ] 5	By-Path Meadow and Giant Despair
++ [x] 5	By-Path Meadow and Giant Despair
 + [ ] 6	The Delectable Mountains
 
 Section 5
