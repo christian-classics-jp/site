@@ -26,7 +26,7 @@ Section 2
 + [x] 7	The Valley of the Shadow of Death
 
 Section 3
-+ [ ] 1	Faithful
++ [x] 1	Faithful
 + [ ] 2	Talkative
 + [ ] 3	Evangelist
 + [ ] 4	Vanity Fair
