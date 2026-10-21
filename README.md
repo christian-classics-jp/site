@@ -46,7 +46,7 @@ Section 5
 + [x] 4	Atheist
 + [x] 5	The Enchanted Ground
 + [x] 6	Ignorance again
-+ [ ] 7	The story of Temporary
++ [x] 7	The story of Temporary
 + [ ] 8	The country of Beulah
 + [ ] 9	Crossing the river to reach the Celestial City
 + [ ] 10	Ignorance is cast away from the gates of the city
