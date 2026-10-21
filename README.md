@@ -37,7 +37,7 @@ Section 4
 + [x] 3	Lot's wife
 + [x] 4	The River of the Water of Life
 + [x] 5	By-Path Meadow and Giant Despair
-+ [ ] 6	The Delectable Mountains
++ [x] 6	The Delectable Mountains
 
 Section 5
 + [ ] 1	Ignorance
