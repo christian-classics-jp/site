@@ -45,7 +45,7 @@ Section 5
 + [x] 3	The Flatterer
 + [x] 4	Atheist
 + [x] 5	The Enchanted Ground
-+ [ ] 6	Ignorance again
++ [x] 6	Ignorance again
 + [ ] 7	The story of Temporary
 + [ ] 8	The country of Beulah
 + [ ] 9	Crossing the river to reach the Celestial City
