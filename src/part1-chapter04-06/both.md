@@ -46,7 +46,7 @@ The shepherds, I say, whose names were Knowledge, Experience, Watchful, and Sinc
 二人は、喜んで留まると答えた。そして、夜もすっかり更けていたので、その晩は休んだ。
 
 Then I saw in my dream, that in the morning the shepherds called up Christian and Hopeful to walk with them upon the mountains. So they went forth with them, and walked a while, having a pleasant prospect on every side. Then said the shepherds one to another, Shall we show these pilgrims some wonders? So when they had concluded to do it, they had them first to the top of a hill called Error, which was very steep on the farthest side, and bid them look down to the bottom. So Christian and Hopeful looked down, and saw at the bottom several men dashed all to pieces by a fall that they had had from the top. Then said Christian, What meaneth this? The shepherds answered, Have you not heard of them that were made to err, by hearkening to Hymenius and Philetus, as concerning the faith of the resurrection of the body? 2 Tim. 2:17,18. They answered, Yes. Then said the shepherds, Those that you see lie dashed in pieces at the bottom of this mountain are they; and they have continued to this day unburied, as you see, for an example to others to take heed how they clamber too high, or how they come too near the brink of this mountain.
-それから私が夢の中で見ていると、朝になって、羊飼いたちはクリスチャンと希望を呼び起こし、いっしょに山を歩こうと誘った。そこで二人は羊飼いたちと出かけ、しばらく歩いた。どちらを見ても、心地よい眺めが広がっていた。すると羊飼いたちは互いに言った。
+それから私が夢の中で見ていると、朝になって、羊飼いたちはクリスチャンと〈希望〉を呼び起こし、いっしょに山を歩こうと誘った。そこで二人は羊飼いたちと出かけ、しばらく歩いた。どちらを見ても、心地よい眺めが広がっていた。すると羊飼いたちは互いに言った。
 
 「この巡礼者たちに、不思議なものをいくつか見せてはどうでしょう」
 
