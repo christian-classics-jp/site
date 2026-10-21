@@ -34,7 +34,7 @@ Section 3
 Section 4
 + [x] 1	By-Ends and his friends
 + [x] 2	The Plain "Ease," Demas, and the silver mine
-+ [ ] 3	Lot's wife
++ [x] 3	Lot's wife
 + [ ] 4	The River of the Water of Life
 + [ ] 5	By-Path Meadow and Giant Despair
 + [ ] 6	The Delectable Mountains
