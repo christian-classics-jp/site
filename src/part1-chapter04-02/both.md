@@ -2,10 +2,10 @@
 [The Plain "Ease," Demas, and the silver mine]
 
 Then Christian and Hopeful outwent them again, and went till they came at a delicate plain, called Ease, where they went with much content; but that plain was but narrow, so they were quickly got over it. Now at the farther side of that plain was a little hill, called Lucre, and in that hill a silver-mine, which some of them that had formerly gone that way, because of the rarity of it, had turned aside to see; but going too near the brim of the pit, the ground, being deceitful under them, broke, and they were slain: some also had been maimed there, and could not, to their dying day, be their own men again.
-クリスチャンと希望は、また彼らを引き離して進んだ。やがて二人は、〈安楽〉という心地よい野に着いた。二人はそこを、大いに満ち足りて歩いた。けれども、その野は狭かったので、すぐに通り過ぎてしまった。野の向こうの端には、〈利得〉という小さな丘があった。その丘には銀山があった。以前この道を通った人々の中には、銀山が珍しいので、わき道にそれて見に行った者たちがいた。けれども、穴の縁に近づきすぎると、足もとの地面は見かけと違ってもろく、崩れ落ちた。こうして、その人たちは死んだ。また、そこで体を損ない、死ぬ日まで元の自分に戻れなかった者もいた。
+クリスチャンと〈希望〉は、また彼らを引き離して進んだ。やがて二人は、〈安楽〉という心地よい野に着いた。二人はそこを、大いに満ち足りて歩いた。けれども、その野は狭かったので、すぐに通り過ぎてしまった。野の向こうの端には、〈利得〉という小さな丘があった。その丘には銀山があった。以前この道を通った人々の中には、銀山が珍しいので、わき道にそれて見に行った者たちがいた。けれども、穴の縁に近づきすぎると、足もとの地面は見かけと違ってもろく、崩れ落ちた。こうして、その人たちは死んだ。また、そこで体を損ない、死ぬ日まで元の自分に戻れなかった者もいた。
 
 Then I saw in my dream, that a little off the road, over against the silver-mine, stood Demas (gentleman-like) to call passengers to come and see; who said to Christian and his fellow, Ho! turn aside hither, and I will show you a thing.
-私が夢の中で見ていると、道から少し外れた、銀山の向かいに、デマスが立っていた。紳士らしい身なりで、通りかかる人に、来て見るようにと呼びかけていた。デマスはクリスチャンとその連れに言った。
+私が夢の中で見ていると、道から少し外れた、銀山の向かいに、デマスが立っていた。紳士然として、通りかかる人に、来て見るようにと呼びかけていた。デマスはクリスチャンとその連れに言った。
 
 「おーい、こちらへ寄っていきなさい。よいものをお見せしましょう」
 
@@ -32,10 +32,10 @@ DEMAS. Not very dangerous, except to those that are careless; but withal he blus
 けれども、そう言いながら、デマスは顔を赤らめた。
 
 CHR. Then said Christian to Hopeful, Let us not stir a step, but still keep on our way.
-クリスチャン「一歩も動かないで、このまま道を進みましょう」
+クリスチャン「あちらへは一歩も寄らずに、このまま道を進みましょう」
 
 HOPE. I will warrant you, when By-ends comes up, if he hath the same invitation as we, he will turn in thither to see.
-希望「請け合ってもいいですが、下心が追いついてきて、私たちと同じように誘われたら、きっと見にそれていきますよ」
+希望「請け合ってもいいですが、〈下心〉が追いついてきて、私たちと同じように誘われたら、きっと見にそれていきますよ」
 
 CHR. No doubt thereof, for his principles lead him that way, and a hundred to one but he dies there.
 クリスチャン「そうに決まっています。あの人の主義が、そちらへ向かわせるのですから。百のうち九十九まで、あの人はあそこで死ぬでしょう」
@@ -44,7 +44,7 @@ DEMAS. Then Demas called again, saying, But will you not come over and see?
 デマス「それでも、こちらへ見に来ないのですか」
 
 CHR. Then Christian roundly answered, saying, Demas, thou art an enemy to the right ways of the Lord of this way, and hast been already condemned for thine own turning aside, by one of his Majesty’s judges, 2 Tim. 4:10; and why seekest thou to bring us into the like condemnation? Besides, if we at all turn aside, our Lord the King will certainly hear thereof, and will there put us to shame, where we would stand with boldness before him.
-クリスチャン「デマスよ、あなたはこの道の主の、まっすぐな道に敵対する者です。あなたは自分がわき道にそれたために、王に仕える裁き人の一人から、すでに罪に定められています（第二テモテ四・一〇）。それなのに、なぜ私たちを同じ罪に引き込もうとするのですか。それに、私たちが少しでもわき道にそれれば、私たちの主である王は、必ずそれをお聞きになります。そして、私たちが御前に大胆に立ちたいと願うその場所で、私たちを恥じ入らせるでしょう」
+クリスチャン「デマスよ、あなたはこの道の主の、まっすぐな道に敵対する者です。あなたは自分がわき道にそれたために、王に仕える裁き人の一人から、すでに罪に定められています（第二テモテ四・一〇）。それなのに、なぜ私たちまで、同じさばきに陥れようとするのですか。それに、私たちが少しでもわき道にそれれば、私たちの主である王は、必ずそれをお聞きになります。そして、私たちが御前に大胆に立ちたいと願うその場所で、私たちを恥じ入らせるでしょう」
 
 Demas cried again, that he also was one of their fraternity; and that if they would tarry a little, he also himself would walk with them.
 デマスはまた叫んで、自分もあなたがたの兄弟の一人だ、と言った。そして、少し待ってくれるなら、自分も一緒に歩いて行こう、と言った。
