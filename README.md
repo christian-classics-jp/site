@@ -40,7 +40,7 @@ Section 4
 + [x] 6	The Delectable Mountains
 
 Section 5
-+ [ ] 1	Ignorance
++ [x] 1	Ignorance
 + [ ] 2	The story of Little-Faith
 + [ ] 3	The Flatterer
 + [ ] 4	Atheist
