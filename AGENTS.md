@@ -20,9 +20,26 @@
 
 ## 聖書
 
-- 聖書の引用は口語訳聖書（1955 年版）を参考にし、文脈に合わせて言い換えてよい。記憶で書かず、本文を検索して確かめる。
-- 口語訳の本文は https://github.com/FujiHaruka/bible-api の `mysql/sql/create-table.sql.tar.gz` にある（1955 年版で、日本聖書協会が後に訂正した語句を含まない）。展開した SQL を `rg "^\('Rom\.7\.24', "` のように英語の書名略称・章・節で検索する。
+- 聖書の引用は口語訳聖書（1955 年版）を参考にし、文脈に合わせて言い換えてよい。記憶で書かず、次の手順で本文を確かめる。
 - 箇所の表記は書名の略称と漢数字を使う：`（イザヤ六四・六、第一ヨハネ二・一六）`。範囲は `〜` で書く：`（使徒一六・三〇〜三一）`。
+
+### 口語訳との照合
+
+本文は `../bible-api`（https://github.com/FujiHaruka/bible-api）の `mysql/sql/create-table.sql.tar.gz` にある。1955 年版の本文で、日本聖書協会が後に訂正した語句（著作権が残っている）は含まない。サーバーは起動せず、展開もせずに `rg -z -a` で直接検索する。
+
+```sh
+# ない場合はクローンする
+git clone https://github.com/FujiHaruka/bible-api.git ../bible-api
+
+# 節を指定して引く。キーは英語の書名略称・章・節（Gen, Ps, Prov, Matt, 1Cor, 2Pet, Rev など）
+rg -z -a -o "\('Rom\.7\.24', '[^']*'" ../bible-api/mysql/sql/create-table.sql.tar.gz
+
+# 語句から節を探す
+rg -z -a -o "\('[^']+', '[^']*みじめな人間[^']*'" ../bible-api/mysql/sql/create-table.sql.tar.gz
+```
+
+- 原文が聖句をそのまま引いているところは、口語訳の文言に揃える。
+- 原文が聖句を言い換えているところや、前後の文脈で意味が通らなくなるところは、口語訳を参考にして言い換える。
 
 ## ビルド
 
