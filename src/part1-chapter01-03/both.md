@@ -7,7 +7,7 @@ WORLD. How now, good fellow, whither away after this burdened manner?
 世の賢者「こんにちは。そんなに大きな重荷を背負ってどちらに行かれるのですか」
 
 CHR. A burdened manner indeed, as ever I think poor creature had! And whereas you ask me, Whither away? I tell you, sir, I am going to yonder wicket-gate before me; for there, as I am informed, I shall be put into a way to be rid of my heavy burden.
-クリスチャン「まったく、これほどの重荷を背負ったあわれな者はいないでしょう！ それで、どちらにと聞かれましたね。私は、あちら前方に見える狭い門に行こうとしています。そこに行けば、この重たい荷物を背中から降ろしてもらえると聞きまして」
+クリスチャン「まったく、これほどの重荷を背負ったあわれな者はいないでしょう！　それで、どちらにと聞かれましたね。私は、あちら前方に見える狭い門に行こうとしています。そこに行けば、この重たい荷物を背中から降ろしてもらえると聞きまして」
 
 WORLD. Hast thou a wife and children?
 世の賢者「あなたには、妻子はおられますか」
@@ -37,7 +37,7 @@ WORLD. I beshrew him for his counsel! there is not a more dangerous and troubles
 Thou hast met with something, as I perceive, already; for I see the dirt of the Slough of Despond is upon thee: but that slough is the beginning of the sorrows that do attend those that go on in that way.
 Hear me; I am older than thou: thou art like to meet with, in the way which thou goest, wearisomeness, painfulness, hunger, perils, nakedness, sword, lions, dragons, darkness, and, in a word, death, and what not.
 These things are certainly true, having been confirmed by many testimonies. And should a man so carelessly cast away himself, by giving heed to a stranger?
-世の賢者「そんな助言をするなんて、まったくひどい人ですね！ 彼があなたに勧めた道ほど危険で困難な道は、この世に他にありませんよ。助言どおりに行ったら大変なことになります。お察ししますが、さっそくやっかいごとに巻き込まれたんでしょう。なにしろ、〈失望の沼〉の泥が体に付いていますからね。沼は悲しみの始まりにすぎません。このまま行くと多くの悲しみにあうことになります。
+世の賢者「そんな助言をするなんて、まったくひどい人ですね！　彼があなたに勧めた道ほど危険で困難な道は、この世に他にありませんよ。助言どおりに行ったら大変なことになります。お察ししますが、さっそくやっかいごとに巻き込まれたんでしょう。なにしろ、〈失望の沼〉の泥が体に付いていますからね。沼は悲しみの始まりにすぎません。このまま行くと多くの悲しみにあうことになります。
 
 よく聞いてくださいね。私はあなたより齢を重ねています。あなたが歩いている道で待ち構えているのは、疲労困憊、痛み、飢え、危険、裸、剣、獅子、竜、闇、そして死などです。本当です。嘘じゃありません。多くの証言があります。それなのに、赤の他人の言うことを真に受けて、そんなに軽々しく身を投げ出してよいものでしょうか」
 

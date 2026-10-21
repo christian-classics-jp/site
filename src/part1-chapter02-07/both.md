@@ -17,7 +17,7 @@ CHR. Why, what’s the matter? said Christian.
 クリスチャン「どうなさったのですか」
 
 MEN. Matter! said they; we were going that way as you are going, and went as far as we durst: and indeed we were almost past coming back; for had we gone a little further, we had not been here to bring the news to thee.
-二人「どうもこうもありません！ 我々はあなたが向かっている先に行ってきました。勇気の続く限り進みました。実のところ、もう少しで戻れなくなるところでした。もう少し先まで行っていたら、ここであなたに知らせることもできなかったでしょう」
+二人「どうもこうもありません！　我々はあなたが向かっている先に行ってきました。勇気の続く限り進みました。実のところ、もう少しで戻れなくなるところでした。もう少し先まで行っていたら、ここであなたに知らせることもできなかったでしょう」
 
 CHR. But what have you met with? said Christian.
 クリスチャン「いったい何があったのですか」
@@ -29,7 +29,7 @@ CHR. But what have you seen? said Christian.
 クリスチャン「何を見たのですか」
 
 MEN. Seen! why the valley itself, which is as dark as pitch: we also saw there the hobgoblins, satyrs, and dragons of the pit: we heard also in that valley a continual howling and yelling, as of a people under unutterable misery, who there sat bound in affliction and irons: and over that valley hang the discouraging clouds of confusion: Death also doth always spread his wings over it. In a word, it is every whit dreadful, being utterly without order. Job 3:5; 10:22.
-二人「見ましたとも！ 谷そのものが真っ暗闇でした。地獄の妖精やサテュロスや竜もいました。また、鉄かせをはめられて捕らえられている人々が、筆舌に尽くしがたい苦しみにあって、絶え間なく悲痛な叫び声をあげているのが聞こえました。谷の上には混沌の雲がかかっていて、勇気をくじきます。死もまた谷の上に常に翼を広げています。あらゆる点で最悪で、まったくの無秩序だということです」（ヨブ三・五、一〇・二二）
+二人「見ましたとも！　谷そのものが真っ暗闇でした。地獄の妖精やサテュロスや竜もいました。また、鉄かせをはめられて捕らえられている人々が、筆舌に尽くしがたい苦しみにあって、絶え間なく悲痛な叫び声をあげているのが聞こえました。谷の上には混沌の雲がかかっていて、勇気をくじきます。死もまた谷の上に常に翼を広げています。あらゆる点で最悪で、まったくの無秩序だということです」（ヨブ三・五、一〇・二二）
 
 CHR. Then, said Christian, I perceive not yet, by what you have said, but that this is my way to the desired haven. [Psalm 44:18,19; Jer. 2:6.]
 クリスチャン「お話をうかがっても、やはりここが私の望む港へ至る道だとしか思えません」（詩篇四四・一八〜一九、エレミヤ二・六）
@@ -100,7 +100,7 @@ Might have been catch’d, entangled, and cast down;
 But since I live, let Jesus wear the crown."
 世にもふしぎなことよ、と言うより他にありません<br/>
 ここで降りかかった苦しみと悩みの中で<br/>
-生かされたとは！ ほむべきかな<br/>
+生かされたとは！　ほむべきかな<br/>
 そこから私を救ってくださった御手よ<br/>
 闇の中の危険と悪魔と地獄と罪が<br/>
 この谷を歩む私を取り囲み<br/>

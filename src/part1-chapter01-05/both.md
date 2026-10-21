@@ -157,13 +157,13 @@ CHR. But canst thou not now repent and turn?
 クリスチャン「でも、今からでも悔い改めて立ち返ることはできないのですか」
 
 MAN. God hath denied me repentance. His word gives me no encouragement to believe; yea, himself hath shut me up in this iron cage: nor can all the men in the world let me out. Oh eternity! eternity! how shall I grapple with the misery that I must meet with in eternity?
-男「神が私から悔い改めを取り上げたのだ。神のことばはもう私を信仰へと励まさない。そうだ、神ご自身が私を牢獄に閉じ込めた。世界中のどんな人間でも私を外に出せない。ああ、永遠よ！ 永遠よ！ 永遠に味わわなければならないこの不幸に、私はどうして立ち向かえようか」
+男「神が私から悔い改めを取り上げたのだ。神のことばはもう私を信仰へと励まさない。そうだ、神ご自身が私を牢獄に閉じ込めた。世界中のどんな人間でも私を外に出せない。ああ、永遠よ！　永遠よ！　永遠に味わわなければならないこの不幸に、私はどうして立ち向かえようか」
 
 INTER. Then said the Interpreter to Christian, Let this man’ misery be remembered by thee, and be an everlasting caution to thee.
 解釈者「この男の不幸をとこしえの戒めとして覚えてください」
 
 CHR. Well, said Christian, this is fearful! God help me to watch and to be sober, and to pray that I may shun the cause of this man’ misery. Sir, is it not time for me to go on my way now?
-クリスチャン「なんとおそろしい！ 私が目を覚まして気をつけていられるように、神が助けてくださいますように。また、この男の不幸の原因を避けられるよう祈れますように。先生、そろそろ私は旅を続けるべき時ではないでしょうか」
+クリスチャン「なんとおそろしい！　私が目を覚まして気をつけていられるように、神が助けてくださいますように。また、この男の不幸の原因を避けられるよう祈れますように。先生、そろそろ私は旅を続けるべき時ではないでしょうか」
 
 INTER. Tarry till I shall show thee one thing more, and then thou shalt go on thy way. So he took Christian by the hand again and led him into a chamber where there was one rising out of bed; and as he put on his raiment, he shook and trembled. Then said Christian, Why doth this man thus tremble? The Interpreter then bid him tell to Christian the reason of his so doing.
 解釈者「もうひとつだけお見せしますから、それまでお待ちください。その後でお行きなさい」

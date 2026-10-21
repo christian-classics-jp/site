@@ -30,5 +30,5 @@ Must here the strings that bound it to me crack?
 
 Blest cross! blest sepulchre! blest rather be
 The Man that there was put to shame for me!"
-さいわいな十字架よ！ さいわいな墓よ！ いや、むしろさいわいあれ、<br/>
+さいわいな十字架よ！　さいわいな墓よ！　いや、むしろさいわいあれ、<br/>
 そこで私のために辱めを受けてくださった方に！」

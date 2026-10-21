@@ -76,7 +76,7 @@ CHR. Truly, said Christian, I have said the truth of Pliable; and if I should al
 クリスチャン「そうです。軟弱に関してお話ししたことは事実です。ですが、私自身のことをお話しすると、彼と私は似たりよったりです。彼が自分の家に戻ったのは事実ですが、私も死の道に外れて行きました。世の賢者という人の肉の議論に説き伏せられて、そこに行きました」
 
 GOOD. Oh, did he light upon you? What, he would have had you have seek for ease at the hands of Mr. Legality! They are both of them a very cheat. But did you take his counsel?
-好意「そうですか、彼と会ったのですか。彼はきっと、〈遵法〉に助けを求めて平穏を得なさいというふうに仕向けたのでしょうね！ あの二人はまったくひどい詐欺師です。それで、彼の助言を聞き入れたのですか」
+好意「そうですか、彼と会ったのですか。彼はきっと、〈遵法〉に助けを求めて平穏を得なさいというふうに仕向けたのでしょうね！　あの二人はまったくひどい詐欺師です。それで、彼の助言を聞き入れたのですか」
 
 CHR. Yes, as far as I durst. I went to find out Mr. Legality, until I thought that the mountain that stands by his house would have fallen upon my head; wherefore there I was forced to stop.
 クリスチャン「はい、思い切れるところまでは。遵法を探しに行ったのですが、彼の家のそばにある山が頭上に落ちてきそうに思えたので、そこで立ち止まらざるを得ませんでした」
