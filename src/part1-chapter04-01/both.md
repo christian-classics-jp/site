@@ -2,7 +2,7 @@
 [By-Ends and his friends]
 
 Now I saw in my dream, that Christian went not forth alone; for there was one whose name was Hopeful, (being so made by the beholding of Christian and Faithful in their words and behavior, in their sufferings at the fair,) who joined himself unto him, and entering into a brotherly covenant, told him that he would be his companion. Thus one died to bear testimony to the truth, and another rises out of his ashes to be a companion with Christian in his pilgrimage.
-私が夢の中で見ていると、クリスチャンは一人で出て行ったのではなかった。〈希望〉という名の人が、彼に加わったのである。希望は、クリスチャンと忠実が市で苦しみを受けたときの言葉とふるまいを見て、巡礼者になったのだった。希望はクリスチャンと兄弟の契りを結び、旅の連れになりたいと言った。こうして、一人は真理をあかしするために死んだ。そしてもう一人が、その灰の中からよみがえり、クリスチャンの巡礼の連れとなったのである。
+私が夢の中で見ていると、クリスチャンは一人で出て行ったのではなかった。〈希望〉という名の人が、彼に加わったのである。希望は、クリスチャンと〈忠実〉が市で苦しみを受けたときの言葉とふるまいを見て、望みを抱くようになった。希望はクリスチャンと兄弟の契りを結び、旅の連れになりたいと言った。こうして、一人は真理をあかしするために死んだ。そしてもう一人が、その灰の中からよみがえり、クリスチャンの巡礼の連れとなった。
 
 This Hopeful also told Christian, that there were many more of the men in the fair that would take their time, and follow after.
 希望はまた、クリスチャンにこう言った。市の人々の中には、折を見てあとに続く者がまだ大勢いる、と。
@@ -17,7 +17,7 @@ So I saw, that quickly after they were got out of the fair, they overtook one th
 From Fair-speech? said Christian; is there any good that lives there? Prov. 26:25. BY. Yes, said By-ends, I hope so.
 クリスチャン「甘言の町からですか。あそこに善い人が住んでいるのでしょうか（箴言二六・二五）」
 
-下心「ええ、住んでいると思いますよ」
+下心「ええ、そう願っていますよ」
 
 CHR. Pray, sir, what may I call you? said Christian.
 クリスチャン「失礼ですが、何とお呼びすればよいでしょうか」
@@ -50,14 +50,14 @@ Then Christian stepped a little aside to his fellow Hopeful, saying, it runs in 
 
 すると希望は言った。
 
-「聞いてごらんなさい。自分の名を恥じたりはしないはずです」
+「聞いてみてはどうですか。自分の名を恥じたりはしないはずです」
 
 そこでクリスチャンは、またその男に追いついて言った。
 
 「あなたは、世の中の誰よりも物事をよくご存じのような話し方をなさいますね。私の見当が外れていなければ、あなたが誰なのか、だいたい察しがつきます。あなたは甘言の町の下心さんではありませんか」
 
 BY. This is not my name, but indeed it is a nickname that is given me by some that cannot abide me, and I must be content to bear it as a reproach, as other good men have borne theirs before me.
-下心「それは私の名前ではありません。実はあだ名でして、私を嫌う人たちが付けたのです。ほかの善い人たちも、私より前に、それぞれのそしりを負ってきました。私も、これをそしりとして負うことで満足しなくてはなりません」
+下心「それは私の名前ではありません。実はあだ名でして、私を嫌う人たちが付けたのです。ほかの善い人たちも、私より前に、それぞれのそしりを負ってきました。私も、これをそしりとして甘んじて負わなければなりません」
 
 CHR. But did you never give an occasion to men to call you by this name?
 クリスチャン「けれども、人からその名で呼ばれるようなきっかけを、ご自分で作ったことはないのですか」
@@ -98,7 +98,7 @@ BY. They are a couple of far country-men, that, after their mode, are going on p
 下心「遠い国から来た二人連れです。あの人たちなりのやり方で、巡礼に出ているのです」
 
 MONEY. Alas! why did they not stay, that we might have had their good company? for they, and we, and you, sir, I hope, are all going on pilgrimage.
-金好き「それは残念！　なぜ待っていてくれなかったのでしょう。そうすれば、よい道連れになれたでしょうに。あの人たちも私たちも、そしてあなたも、皆巡礼に出ているのでしょうから」
+金好き「それは残念！　なぜ待っていてくれなかったのでしょう。そうすれば、よい道連れになれたでしょうに。あの人たちも私たちも、そしてきっとあなたも、皆巡礼に出ているのですから」
 
 BY. We are so, indeed; but the men before us are so rigid, and love so much their own notions, and do also so lightly esteem the opinions of others, that let a man be ever so godly, yet if he jumps not with them in all things, they thrust him quite out of their company.
 下心「たしかにそうです。けれども、前を行く二人はひどく頑固なのです。自分たちの考えばかり大事にして、ほかの人の意見を軽んじます。どんなに信心深い人でも、何から何まで二人と考えが合わなければ、すっかり仲間から締め出してしまうのです」
@@ -110,7 +110,7 @@ BY. Why, they, after their headstrong manner, conclude that it is their duty to 
 下心「それがですね、あの二人は強情にもこう決めてかかっているのです。どんな天気でも旅を急いで進むのが自分たちの務めだ、と。でも私は、風や潮を待とうという考えです。あの二人は、神のためなら一度にすべてを賭けようとします。でも私は、あらゆる好機をとらえて、自分のいのちと財産を守ろうとします。あの二人は、ほかの人が皆反対しても、自分たちの考えを曲げません。でも私は、時勢と自分の安全が許す範囲でだけ、信仰を持とうとします。あの二人は、信仰がぼろをまとってさげすまれているときに味方します。でも私は、信仰が銀の靴をはき、日の光を浴び、拍手を受けて歩くときに味方するのです」
 
 HOLD-THE-WORLD. Aye, and hold you there still, good Mr. By-ends; for, for my part, I can count him but a fool, that having the liberty to keep what he has, shall be so unwise as to lose it. Let us be wise as serpents. It is best to make hay while the sun shines. You see how the bee lieth still in winter, and bestirs her only when she can have profit with pleasure. God sends sometimes rain, and sometimes sunshine: if they be such fools to go through the first, yet let us be content to take fair weather along with us. For my part, I like that religion best that will stand with the security of God’s good blessings unto us; for who can imagine, that is ruled by his reason, since God has bestowed upon us the good things of this life, but that he would have us keep them for his sake? Abraham and Solomon grew rich in religion; and Job says, that a good man shall lay up gold as dust; but he must not be such as the men before us, if they be as you have described them.
-この世大事「そうとも、下心さん、その考えを守り通しなさい。わしに言わせれば、持っているものを守る自由がありながら、愚かにもそれを失うような者は、ばか者でしかない。へびのように賢くあろうではないか。日の照るうちに干し草を作れ、と言うだろう。ほれ、蜂は冬のあいだじっとしていて、楽しみながら得をできるときにだけ動き出す。神は雨を降らせることもあれば、日を照らすこともある。あの連中が愚かにも雨の中を進むというなら、それもよかろう。わしらは晴れた日を選んで進めばよいのだ。わしとしては、神のよい祝福をしっかり守れる信仰がいちばん好きだ。神はこの世のよいものを、わしらに授けてくださった。それなら、神のためにそれを手放さずにおけと望んでおられるに決まっている。理性に従う者なら、誰でもそう考えるはずだ。アブラハムもソロモンも、信仰を持ちながら富んだ。ヨブも、善い人は金をちりのように積み上げると言っている。ただし、その善い人が、前を行く連中のような者であってはならん。あんたの言うとおりの連中ならな」
+この世大事「そうとも、下心さん、その考えを守り通しなさい。わしに言わせれば、持っているものを守る自由がありながら、愚かにもそれを失うような者は、ばか者でしかない。へびのように賢くあろうではないか。『日の照るうちに干し草を作れ』と言うだろう。ほれ、蜂は冬のあいだじっとしていて、楽しみと得の両方があるときにだけ動き出す。神は雨を降らせることもあれば、日を照らすこともある。あの連中が愚かにも雨の中を進むというなら、それもよかろう。わしらは晴れた日を選んで進めばよいのだ。わしとしては、神のよい祝福をしっかり守れる信仰がいちばん好きだ。神はこの世のよいものを、わしらに授けてくださった。それなら、神のためにそれを手放さずにおけと望んでおられるに決まっている。理性に従う者なら、誰でもそう考えるはずだ。アブラハムもソロモンも、信仰を持ちながら富んだ。ヨブも、善い人は金をちりのように積み上げると言っている。ただし、その善い人が、前を行く連中のような者であってはならん。あんたの言うとおりの連中ならな」
 
 SAVE. I think that we are all agreed in this matter; and therefore there needs no more words about it.
 ため込み「この件については、私たちは皆同じ考えのようですな。ですから、これ以上言うことはありません」
@@ -125,7 +125,7 @@ MONEY. I see the bottom of your question; and with these gentlemen’s good leav
 金好き「ご質問の底にあるものはわかります。こちらの紳士方のお許しをいただいて、お答えしてみましょう。まず、牧師自身にかかわる問いとしてお答えします。ある牧師がいるとします。立派な人ですが、ごく小さな聖職禄しか持っていません。そして、もっと大きくて、はるかに実入りのよい禄に目をつけています。今まさにそれを得る好機もあります。ただし、そのためには、もっと勉強し、もっとたびたび熱心に説教しなければなりません。また、会衆の気質がそれを求めるので、自分の主義のいくつかを変えなければなりません。私に言わせれば、そうしてはいけない理由など見当たりません。召しを受けているならば、です。いや、それどころか、ほかにもいろいろ手を尽くしたってかまいません。それでも、その人は正直者でいられます。その理由は次のとおりです」
 
 1. His desire of a greater benefice is lawful, (this cannot be contradicted,) since it is set before him by Providence; so then he may get it if he can, making no question for conscience’ sake.
-「第一に、より大きな禄を望むことは正しいことです。これに反論の余地はありません。神の摂理によって目の前に置かれたのですから。ですから、得られるものなら得てよいのです。いちいち良心に問うことはいりません」
+「第一に、より大きな禄を望むことは正当なことです。これに反論の余地はありません。神の摂理によって目の前に置かれたのですから。ですから、得られるものなら得てよいのです。いちいち良心に問うことはいりません」
 
 2. Besides, his desire after that benefice makes him more studious, a more zealous preacher, etc., and so makes him a better man, yea, makes him better improve his parts, which is according to the mind of God.
 「第二に、その禄を望む心があるので、彼はもっと勉強するようになり、もっと熱心に説教するようになります。こうして、彼はよりよい人間になるのです。そうです、自分の才能をいっそう磨くようになります。それは神のみこころにかなうことです」
@@ -143,13 +143,13 @@ And now to the second part of the question, which concerns the tradesman you men
 「第一に、信心深くなることは徳です。どんな手段で信心深くなろうとも、です」
 
 2. Nor is it unlawful to get a rich wife, or more custom to my shop.
-「第二に、金持ちの妻をもらうことも、店の客を増やすことも、不正ではありません」
+「第二に、金持ちの妻をもらうことも、私の店の客を増やすことも、不正ではありません」
 
 3. Besides, the man that gets these by becoming religious, gets that which is good of them that are good, by becoming good himself; so then here is a good wife, and good customers, and good gain, and all these by becoming religious, which is good: therefore, to become religious to get all these is a good and profitable design.
 「第三に、信心深くなることでこれらを得る人は、自分が善い者になることで、善い人々から善いものを得るのです。つまり、善い妻と、善い客と、善いもうけが得られます。しかも、どれも信心深くなるという善いことによってです。ですから、これらすべてを得るために信心深くなるのは、善い、得になる計画なのです」
 
 This answer, thus made by Mr. Money-love to Mr. By-ends’ question, was highly applauded by them all; wherefore they concluded, upon the whole, that it was most wholesome and advantageous. And because, as they thought, no man was able to contradict it; and because Christian and Hopeful were yet within call, they jointly agreed to assault them with the question as soon as they overtook them; and the rather, because they had opposed Mr. By-ends before. So they called after them, and they stopped and stood still till they came up to them; but they concluded, as they went, that not Mr. By-ends, but old Mr. Hold-the-world should propound the question to them, because, as they supposed, their answer to him would be without the remainder of that heat that was kindled betwixt Mr. By-ends and them at their parting a little before.
-下心の問いに対する金好きのこの答えは、皆から大いにほめそやされた。そこで彼らは、全体として、これはまことに健全で有益な答えだと結論した。誰もこれに反論できないと思った。しかも、クリスチャンと希望はまだ声の届くところにいた。そこで彼らは、二人に追いついたらすぐ、この問いで攻めてやろうと申し合わせた。二人が先ほど下心に逆らったのだから、なおさらである。そこで彼らは二人に呼びかけた。二人は立ち止まり、彼らが来るまで待っていた。彼らは歩きながら、下心ではなく、老人のこの世大事に問いを出させようと決めた。さっき別れぎわに、下心と二人のあいだで熱が燃え上がった。この世大事に対してなら、二人の答えにその熱が残らないだろうと考えたのである。
+下心の問いに対する金好きのこの答えは、皆から大いにほめそやされた。そこで彼らは、全体として、これはまことに健全で有益な答えだと結論した。誰もこれに反論できないと思った。しかも、クリスチャンと希望はまだ声の届くところにいた。そこで彼らは、二人に追いついたらすぐ、この問いで攻めてやろうと申し合わせた。二人が先ほど下心に逆らったのだから、なおさらである。そこで彼らは二人に呼びかけた。二人は立ち止まり、彼らが来るまで待っていた。彼らは歩きながら、下心ではなく、老人のこの世大事に問いを出させようと決めた。少し前の別れぎわ、下心と二人のあいだには激しい言い合いがあった。この世大事が相手なら、二人の答えにそのほとぼりは残らないだろうと考えたのである。
 
 So they came up to each other, and after a short salutation, Mr. Hold-the-world propounded the question to Christian and his fellow, and then bid them to answer if they could.
 こうして彼らは互いに近づいた。短い挨拶のあと、この世大事はクリスチャンとその連れに問いを出した。そして、答えられるものなら答えてみよ、と言った。
@@ -172,7 +172,7 @@ Then said Christian, Even a babe in religion may answer ten thousand such questi
 「第四に、魔術師シモンもこの信仰の持ち主でした。聖霊を受けて、それで金をもうけようとしたのです。そして、ペテロの口から、それにふさわしい宣告を受けました（使徒八・一九〜二二）」
 
 5. Neither will it go out of my mind, but that that man who takes up religion for the world, will throw away religion for the world; for so surely as Judas designed the world in becoming religious, so surely did he also sell religion and his Master for the same. To answer the question, therefore, affirmatively, as I perceive you have done, and to accept of, as authentic, such answer, is heathenish, hypocritical, and devilish; and your reward will be according to your works.
-「第五に、私はこう思わずにいられません。この世のために信仰を手に取る者は、この世のために信仰を投げ捨てるでしょう。ユダが信心深くなったとき、この世を目当てにしていたのは確かです。それと同じく確かに、ユダは同じこの世のために、信仰と自分の主を売りました。ですから、あなたがたのように、この問いに、そうしてよいと答えるのは、異邦人のすることです。その答えを正しいと認めるのは、偽善者のすること、悪魔のすることです。あなたがたは、自分の行いに応じて報いを受けるでしょう」
+「第五に、私はこう思わずにいられません。この世のために信仰を手に取る者は、この世のために信仰を投げ捨てるでしょう。ユダが信心深くなったとき、この世を目当てにしていたのは確かです。それと同じく確かに、ユダは同じこの世のために、信仰と自分の主を売りました。ですから、あなたがたのように、この問いにそうしてよいと答えるのも、その答えを正しいと認めるのも、異邦人のすること、偽善者のすること、悪魔のすることです。あなたがたは、自分の行いに応じて報いを受けるでしょう」
 
 Then they stood staring one upon another, but had not wherewith to answer Christian. Hopeful also approved of the soundness of Christian’s answer; so there was a great silence among them. Mr. By-ends and his company also staggered and kept behind, that Christian and Hopeful might outgo them. Then said Christian to his fellow, If these men cannot stand before the sentence of men, what will they do with the sentence of God? And if they are mute when dealt with by vessels of clay, what will they do when they shall be rebuked by the flames of a devouring fire?
 すると彼らは互いに顔を見合わせて立ちつくした。クリスチャンに返す言葉がなかったのである。希望もクリスチャンの答えが正しいことを認めた。こうして、一同はすっかり黙りこんでしまった。下心とその仲間たちはたじろいで、あとに下がった。クリスチャンと希望に先に行かせるためである。そこでクリスチャンは連れに言った。
