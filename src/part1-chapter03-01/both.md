@@ -69,7 +69,7 @@ FAITH. I met him once in the streets, but he leered away on the other side, as o
 忠実「通りで一度会いましたが、自分のしたことを恥じているように、目をそらして反対側へ行ってしまいました。だから、話はしませんでした」
 
 CHR. Well, at my first setting out I had hopes of that man; but now I fear he will perish in the overthrow of the city. For it has happened to him according to the true proverb, The dog is turned to his vomit again, and the sow that was washed to her wallowing in the mire. [2 Pet. 2:22.]
-クリスチャン「そうですか。旅に出た当初、私は軟弱に望みをかけていました。でも今は、彼があの町と一緒に滅びてしまうのではないかと心配です。『犬は自分の吐いた物に帰り、豚は洗われても、また泥の中にころがって行く』という真実のことわざどおりになってしまったのですから」（第二ペテロ二・二二）
+クリスチャン「そうですか。旅に出た当初、私は軟弱に望みをかけていました。でも今は、彼があの町と一緒に滅びてしまうのではないかと心配です。『犬は自分の吐いた物に帰り、豚は洗われても、また、どろの中にころがって行く』という真実のことわざどおりになってしまったのですから」（第二ペテロ二・二二）
 
 FAITH. These are my fears of him too; but who can hinder that which will be?
 忠実「私も同じことを心配しています。けれども、起こるべきことを誰が止められるでしょうか」
@@ -116,13 +116,13 @@ CHR. Well, and what conclusion came the old man and you to at last?
 クリスチャン「それで結局、どうすることにしたのですか」
 
 FAITH. Why, at first I found myself somewhat inclinable to go with the man, for I thought he spake very fair; but looking in his forehead, as I talked with him, I saw there written, "Put off the old man with his deeds."
-忠実「最初は、老人と一緒に行ってもいいような気になりました。とても立派なことを言うと思ったものですから。ところが、話しながら老人の額を見ると、こう書いてあったのです。『古き人をその行いと共に脱ぎ捨てよ』」
+忠実「最初は、老人と一緒に行ってもいいような気になりました。とても立派なことを言うと思ったものですから。ところが、話しながら老人の額を見ると、こう書いてあったのです。『古き人をその行いと一緒に脱ぎ捨てよ』」
 
 CHR. And how then?
 クリスチャン「それからどうなりましたか」
 
 FAITH. Then it came burning hot into my mind, that, whatever he said, and however he flattered, when he got me home to his house he would sell me for a slave. So I bid him forbear to talk, for I would not come near the door of his house. Then he reviled me, and told me that he would send such a one after me that should make my way bitter to my soul. So I turned to go away from him; but just as I turned myself to go thence, I felt him take hold of my flesh, and give me such a deadly twitch back, that I thought he had pulled part of me after himself: this made me cry, "O wretched man." Rom. 7:24. So I went on my way up the hill. Now, when I had got above half-way up, I looked behind me, and saw one coming after me, swift as the wind; so he overtook me just about the place where the settle stands.
-忠実「すると、ある思いが燃えるように心に浮かびました。老人が何を言おうと、どんなにおだてようと、ひとたび家に連れて行かれたら、私は奴隷として売り飛ばされるに違いない、と。それで、話はもう結構です、あなたの家の戸口にも近寄りませんから、と言いました。すると老人は私をののしり、お前の旅路を魂にとって苦いものにしてやる者を後から差し向けてやる、と言いました。それで私は老人に背を向けて立ち去ろうとしました。ところが、向きを変えたちょうどそのとき、老人が私の肉をつかんで、ぐいとひどく引き戻すのを感じました。体の一部を持って行かれたかと思うほどでした。それで私は叫びました。『ああ、わたしはなんというみじめな人間なのだろう』（ローマ七・二四）。こうして私は丘を登っていきました。半分ほど登ったところで後ろを振り返ると、誰かが風のように速く後を追ってくるのが見えました。そして、ちょうど休憩所のあたりで私に追いついたのです」
+忠実「すると、ある思いが燃えるように心に浮かびました。老人が何を言おうと、どんなにおだてようと、ひとたび家に連れて行かれたら、私は奴隷として売り飛ばされるに違いない、と。それで、話はもう結構です、あなたの家の戸口にも近寄りませんから、と言いました。すると老人は私をののしり、お前の旅路を魂にとって苦いものにしてやる者を後から差し向けてやる、と言いました。それで私は老人に背を向けて立ち去ろうとしました。ところが、向きを変えたちょうどそのとき、老人が私の肉をつかんで、ぐいとひどく引き戻すのを感じました。体の一部を持って行かれたかと思うほどでした。それで私は叫びました。『ああ、わたしは、なんというみじめな人間なのだろう』（ローマ七・二四）。こうして私は丘を登っていきました。半分ほど登ったところで後ろを振り返ると、誰かが風のように速く後を追ってくるのが見えました。そして、ちょうど休憩所のあたりで私に追いついたのです」
 
 CHR. Just there, said Christian, did I sit down to rest me; but being overcome with sleep, I there lost this roll out of my bosom.
 クリスチャン「ちょうどそこで、私は座って休んだのです。けれど、眠気に負けてしまい、そこでこの巻物を懐から落としてしまいました」
@@ -160,7 +160,7 @@ CHR. Well, and how did you answer him?
 FAITH. I told him, that although all these that he named, might claim a kindred of me, and that rightly, (for indeed they were my relations according to the flesh,) yet since I became a pilgrim they have disowned me, and I also have rejected them; and therefore they were to me now no more than if they had never been of my lineage.
 忠実「こう答えました。あなたが名前をあげた人たちは、私の親類だと言うかもしれないし、それはもっともです（確かに肉によれば私の親類なのですから）。けれども、私が巡礼者になってからは、あの人たちは私を勘当しましたし、私のほうでも縁を切りました。だから今の私にとって、あの人たちは初めから血のつながりがなかったも同然です、と。
 I told him, moreover, that as to this valley, he had quite misrepresented the thing; for before honor is humility, and a haughty spirit before a fall. Therefore, said I, I had rather go through this valley to the honor that was so accounted by the wisest, than choose that which he esteemed most worthy of our affections.
-さらにこうも言いました。この谷について、あなたはまったく間違ったことを言っています。『謙遜は栄誉に先立ち』、『高ぶる霊は倒れに先立つ』のです。だから私は、あなたが最も心を寄せるに値すると思うものを選ぶよりも、最も知恵ある人々が栄誉とみなしたものに向かって、この谷を通るほうを選びます、と」
+さらにこうも言いました。この谷について、あなたはまったく間違ったことを言っています。『謙遜は、栄誉に先だつ』、『誇る心は倒れにさきだつ』のです。だから私は、あなたが最も心を寄せるに値すると思うものを選ぶよりも、最も知恵ある人々が栄誉とみなしたものに向かって、この谷を通るほうを選びます、と」
 
 CHR. Met you with nothing else in that valley?
 クリスチャン「その谷では他に何にも出会いませんでしたか」
