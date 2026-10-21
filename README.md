@@ -28,7 +28,7 @@ Section 2
 Section 3
 + [x] 1	Faithful
 + [x] 2	Talkative
-+ [ ] 3	Evangelist
++ [x] 3	Evangelist
 + [ ] 4	Vanity Fair
 
 Section 4
