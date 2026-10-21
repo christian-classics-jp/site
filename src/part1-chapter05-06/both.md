@@ -4,13 +4,13 @@
 I saw then in my dream, that Hopeful looked back, and saw Ignorance, whom they had left behind, coming after. Look, said he to Christian, how far yonder youngster loitereth behind.
 私が夢の中で見ていると、〈希望〉が後ろを振り返った。すると、二人が置いてきた〈無知〉が、あとからついて来るのが見えた。希望はクリスチャンに言った。
 
-「ごらんなさい。あの若者は、あんなに後ろのほうをのろのろ歩いています」
+「ご覧なさい。あの若者は、あんなに後ろのほうをのろのろ歩いています」
 
 CHR. Aye, aye, I see him: he careth not for our company.
 クリスチャン「ええ、ええ、見えます。あの人は、私たちと一緒にいたくないのです」
 
 HOPE. But I trow it would not have hurt him, had he kept pace with us hitherto.
-希望「でも、ここまで私たちと足並みをそろえて来ていたとしても、あの人に害はなかったと思うのですが」
+希望「でも、ここまで私たちと足並みをそろえて来ても、あの人の損にはならなかったでしょうに」
 
 CHR. That is true; but I warrant you he thinketh otherwise.
 クリスチャン「そのとおりです。でも、あの人はきっと、そうは思っていないのでしょう」
@@ -48,16 +48,16 @@ CHR. What good motions? Pray tell us.
 クリスチャン「どんな良い思いですか。どうか聞かせてください」
 
 IGNOR. Why, I think of God and heaven.
-無知「それはもう、神と天国のことを思うのですよ」
+無知「何って、神と天国のことを思うのですよ」
 
 CHR. So do the devils and damned souls.
-クリスチャン「それなら、悪魔たちも、地獄に落ちた魂たちも同じです」
+クリスチャン「悪魔たちも、地獄に落ちた魂たちも、そうしていますよ」
 
 IGNOR. But I think of them, and desire them.
 無知「でも私は、神と天国のことを思って、それを慕い求めているのですよ」
 
 CHR. So do many that are never like to come there. "The soul of the sluggard desireth, and hath nothing." [Prov. 13:4.]
-クリスチャン「それなら、決してそこへ行けそうもない多くの人々も同じです。『なまけ者の心は、願い求めても、何も得ない』とあります（箴言一三・四）」
+クリスチャン「決してそこへ行けそうもない多くの人々も、そうしています。『なまけ者の心は、願い求めても、何も得ない』とあります（箴言一三・四）」
 
 IGNOR. But I think of them, and leave all for them.
 無知「でも私は、神と天国のことを思って、そのためにすべてを捨てているのですよ」
@@ -135,10 +135,10 @@ IGNOR. What are good thoughts concerning God?
 無知「神についての良い思いとは、どういうものですか」
 
 CHR. Even, as I have said concerning ourselves, when our thoughts of God do agree with what the word saith of him; and that is, when we think of his being and attributes as the word hath taught, of which I cannot now discourse at large. But to speak of him with reference to us: then have we right thoughts of God when we think that he knows us better than we know ourselves, and can see sin in us when and where we can see none in ourselves; when we think he knows our inmost thoughts, and that our heart, with all its depths, is always open unto his eyes; also when we think that all our righteousness stinks in his nostrils, and that therefore he cannot abide to see us stand before him in any confidence, even in all our best performances.
-クリスチャン「私たち自身について言ったのと同じです。神についての私たちの思いが、みことばが神について言っていることと一致するときです。つまり、神のご存在とご性質について、みことばが教えているとおりに考えるときです。そのことについては、今は詳しく話せません。けれども、私たちとの関わりで神について言えば、こうです。神は、私たちが自分自身を知るよりもよく私たちを知っておられる、と考えるとき、私たちは神について正しい思いを持っています。私たちが自分のうちに罪を見つけられないときにも、見つけられない所にも、神は私たちのうちに罪を見ることがおできになる、と考えるときもそうです。神は私たちの心の奥底の思いを知っておられ、私たちの心は、その深みに至るまで、いつも神の目の前に開かれている、と考えるときもそうです。また、私たちの義はみな、神の御前で悪臭を放っている、と考えるときもそうです。ですから神は、私たちが何かを頼みにして御前に立つのを、見るに忍びないのです。たとえそれが、私たちの最善の行いであってもです」
+クリスチャン「私たち自身について言ったのと同じです。神についての私たちの思いが、みことばが神について言っていることと一致するときです。つまり、神のご存在とご性質について、みことばが教えているとおりに考えるときです。そのことについては、今は詳しく話せません。けれども、私たちとの関わりで神について言えば、こうです。神は、私たちが自分自身を知るよりもよく私たちを知っておられる、と考えるとき、私たちは神について正しい思いを持っています。私たちが自分のうちに少しも罪を見いだせないときにも、またそのような所でも、神は私たちのうちに罪を見ることがおできになる、と考えるときもそうです。神は私たちの心の奥底の思いを知っておられ、私たちの心は、その深みに至るまで、いつも神の目の前に開かれている、と考えるときもそうです。また、私たちの義はみな、神の御前で悪臭を放っている、と考えるときもそうです。ですから神は、私たちが何かを頼みにして御前に立つことを、決してお許しになりません。たとえそれが、私たちの最善の行いであってもです」
 
 IGNOR. Do you think that I am such a fool as to think that God can see no further than I; or that I would come to God in the best of my performances?
-無知「私が、神には私より先のことは見えないと思うほどの愚か者だとでも思うのですか。自分の最善の行いを頼みにして、神に近づくような者だとでも思うのですか」
+無知「私が、神には私が見る以上のものは見えないと思うほどの愚か者だとでも思うのですか。自分の最善の行いを頼みにして、神に近づくような者だとでも思うのですか」
 
 CHR. Why, how dost thou think in this matter?
 クリスチャン「では、このことについて、あなたはどう考えているのですか」
@@ -166,18 +166,18 @@ CHR. Let me give an answer to this confession of thy faith.
 3. This faith maketh not Christ a justifier of thy person, but of thy actions; and of thy person for thy action’s sake, which is false.
 4. Therefore this faith is deceitful, even such as will leave thee under wrath in the day of God Almighty: for true justifying faith puts the soul, as sensible of its lost condition by the law, upon flying for refuge unto Christ’s righteousness; (which righteousness of his is not an act of grace by which he maketh, for justification, thy obedience accepted with God, but his personal obedience to the law, in doing and suffering for us what that required at our hands;) this righteousness, I say, true faith accepteth; under the skirt of which the soul being shrouded, and by it presented as spotless before God, it is accepted, and acquitted from condemnation.
 IGNOR. What! would you have us trust to what Christ in his own person has done without us? This conceit would loosen the reins of our lust, and tolerate us to live as we list: for what matter how we live, if we may be justified by Christ’s personal righteousness from all, when we believe it?
-一、あなたの信じ方は、空想の信仰です。このような信仰は、みことばのどこにも書かれていないからです。<br/>二、あなたの信じ方は、偽りの信仰です。義とされることを、キリストご自身の義から取り去って、あなた自身の義に当てはめているからです。<br/>三、この信仰は、キリストを、あなたという人を義とする方ではなく、あなたの行いを義とする方にしています。そして、あなたの行いのゆえに、あなたという人を義とする方にしています。これは偽りです。<br/>四、ですから、この信仰は人を欺くものです。全能の神の日に、あなたを御怒りの下に置き去りにするような信仰です。本当に人を義とする信仰は、律法によって自分が失われた状態にあると感じている魂を、キリストの義へと逃れさせ、そこに避け所を求めさせます。このキリストの義は、あなたが義とされるように、あなたの従順を神に受け入れさせる恵みの行為ではありません。それは、律法が私たちに求めていることを、私たちのために行い、また苦しみを受けてくださった、キリストご自身の律法への従順なのです。本当の信仰が受け入れるのは、この義です。魂はこの義の衣のすそに包まれ、この義によって、神の前に汚れのない者として差し出されます。こうして魂は受け入れられ、罪に定められることから解き放たれるのです」
+一、あなたが信じているのは、空想の信仰です。このような信仰は、みことばのどこにも書かれていないからです。<br/>二、あなたが信じているのは、偽りの信仰です。義とされることを、キリストご自身の義から取り去って、あなた自身の義に当てはめているからです。<br/>三、この信仰は、キリストを、あなたという人を義とする方ではなく、あなたの行いを義とする方にしています。そして、あなたの行いのゆえに、あなたという人を義とする方にしています。これは偽りです。<br/>四、ですから、この信仰は人を欺くものです。全能の神の日に、あなたを御怒りの下に置き去りにするような信仰です。本当に人を義とする信仰は、律法によって自分が失われた状態にあると感じている魂を、キリストの義へと逃れさせ、そこに避け所を求めさせます。このキリストの義は、あなたが義とされるように、あなたの従順を神に受け入れさせる恵みの行為ではありません。それは、律法が私たちに求めていることを、私たちのために行い、また苦しみを受けてくださった、キリストご自身の律法への従順なのです。本当の信仰が受け入れるのは、この義です。魂はこの義の衣のすそに包まれ、この義によって、神の前に汚れのない者として差し出されます。こうして魂は受け入れられ、罪に定められることから解き放たれるのです」
 
 無知「なんですって！　キリストが私たち抜きで、ご自身でなさったことに頼れと言うのですか。そんな考えでは、私たちの欲望の手綱がゆるんでしまいます。好き勝手に生きてもかまわないことになりますよ。信じさえすれば、キリストご自身の義によってすべてから義とされるのなら、どう生きようとかまわないではありませんか」
 
 CHR. Ignorance is thy name, and as thy name is, so art thou: even this thy answer demonstrateth what I say. Ignorant thou art of what justifying righteousness is, and as ignorant how to secure thy soul, through the faith of it, from the heavy wrath of God. Yea, thou also art ignorant of the true effects of saving faith in this righteousness of Christ, which is to bow and win over the heart to God in Christ, to love his name, his word, ways, and people, and not as thou ignorantly imaginest.
-クリスチャン「無知、それがあなたの名前です。そして、名前のとおりの人です。今のあなたの答えが、まさに私の言うことを証明しています。あなたは、人を義とする義が何であるかを知りません。その義を信じることによって、神の重い御怒りから自分の魂を守るにはどうすればよいかも、同じように知りません。それに、キリストのこの義を信じる救いの信仰が、本当はどんな実を結ぶのかも知らないのです。その信仰は、心をかがませて、キリストにある神のほうへ引き寄せます。そして、神の御名と、みことばと、道と、神の民とを愛させるのです。あなたが知りもしないで思い描いているようなものではありません」
+クリスチャン「無知、それがあなたの名前です。そして、名前のとおりの人です。今のあなたの答えが、まさに私の言うことを証明しています。あなたは、人を義とする義が何であるかを知りません。その義を信じることによって、神の重い御怒りから自分の魂を守るにはどうすればよいかも、同じように知りません。それに、キリストのこの義を信じる救いの信仰が、本当はどんな実を結ぶのかも知らないのです。その信仰は、心をへりくだらせて、キリストにある神のほうへ引き寄せます。そして、神の御名と、みことばと、道と、神の民とを愛させるのです。あなたが知りもしないで思い描いているようなものではありません」
 
 HOPE. Ask him if ever he had Christ revealed to him from heaven.
 希望「天からキリストを示していただいたことがあるかどうか、あの人に聞いてみてください」
 
 IGNOR. What! you are a man for revelations! I do believe, that what both you and all the rest of you say about that matter, is but the fruit of distracted brains.
-無知「なんですって！　あなたは啓示とやらを有り難がる人なんですね。あなたも、ほかのみなさんも、そのことについて言っていることは、混乱した頭から出てきたものにすぎないと、私は本当にそう思いますよ」
+無知「なんですって！　あなたは啓示とやらをありがたがる人なんですね。あなたも、ほかのみなさんも、そのことについて言っていることは、混乱した頭から出てきたものにすぎませんよ。私は本気でそう思っています」
 
 HOPE. Why, man, Christ is so hid in God from the natural apprehensions of the flesh, that he cannot by any man be savingly known, unless God the Father reveals him to him.
 希望「いいですか、あなた。キリストは神のうちに隠されていて、肉の生まれながらの理解では、とらえることができません。ですから、父なる神がキリストを示してくださらないかぎり、誰も救いに至るようにキリストを知ることはできないのです」
@@ -186,7 +186,7 @@ IGNOR. That is your faith, but not mine, yet mine, I doubt not, is as good as yo
 無知「それはあなたの信仰で、私の信仰ではありません。でも私の信仰も、あなたの信仰に劣らず良いものだと思っていますよ。あなたほど、頭の中に妙な考えをたくさん持ってはいませんけれどね」
 
 CHR. Give me leave to put in a word. You ought not so slightly to speak of this matter: for this I will boldly affirm, even as my good companion hath done, that no man can know Jesus Christ but by the revelation of the Father: yea, and faith too, by which the soul layeth hold upon Christ, (if it be right,) must be wrought by the exceeding greatness of his mighty power, [Matt. 11:27; 1 Cor. 12:3; Eph. 1:17-19]; the working of which faith, I perceive, poor Ignorance, thou art ignorant of. Be awakened, then, see thine own wretchedness, and fly to the Lord Jesus; and by his righteousness, which is the righteousness of God, (for he himself is God,) thou shalt be delivered from condemnation.
-クリスチャン「ひと言言わせてください。このことを、そんなに軽々しく話すべきではありません。私の良い連れが言ったのと同じように、私もはっきり言います。父が示してくださらなければ、誰もイエス・キリストを知ることはできません。それだけではありません。魂がキリストをつかむ信仰も、それが正しい信仰であるなら、神の力強い活動によって働く絶大な力によって生み出されなければならないのです（マタイ一一・二七、第一コリント一二・三、エペソ一・一七〜一九）。哀れな無知さん、あなたは、その信仰の働きを知らないのですね。ですから、目を覚ましなさい。自分のみじめさを見て、主イエスのもとへ逃れなさい。そうすれば、主の義によって、あなたは罪に定められることから救い出されます。その義は神の義です。主ご自身が神だからです」
+クリスチャン「ひと言言わせてください。このことを、そんなに軽々しく話すべきではありません。私の良い連れが言ったのと同じように、私もはっきり言います。父が示してくださらなければ、誰もイエス・キリストを知ることはできません。それだけではありません。魂がキリストをつかむ信仰も、それが正しい信仰であるなら、神の力強い活動によって働く絶大な力で、生み出されなければならないのです（マタイ一一・二七、第一コリント一二・三、エペソ一・一七〜一九）。哀れな無知さん、あなたは、その信仰の働きを知らないのですね。ですから、目を覚ましなさい。自分のみじめさを見て、主イエスのもとへ逃れなさい。そうすれば、主の義によって、あなたは罪に定められることから救い出されます。その義は神の義です。主ご自身が神だからです」
 
 IGNOR.You go so fast I cannot keep pace with you; do you go on before: I must stay a while behind.
 無知「あなたがたは歩くのが速すぎて、私はついていけません。どうぞ先に行ってください。私はしばらく後ろから行きますよ」
@@ -203,7 +203,7 @@ Good counsel, taken well, saves; therefore hear.
 But if thou yet shalt slight it, thou wilt be
 The loser, Ignorance, I’ll warrant thee."
 Then Christian addressed himself thus to his fellow:
-「さて無知よ、まだ愚かなままでいるのか<br/>十たびも与えられた良い勧めを軽んじて。<br/>なおもそれを拒むなら、やがて<br/>そうしたことの災いを思い知るだろう。<br/>人よ、間に合ううちに思い出せ。へりくだれ、恐れるな。<br/>良い勧めは、よく受け入れれば救う。だから聞け。<br/>だが、なおもそれを軽んじるなら<br/>損をするのは無知よ、ほかならぬ自分だ、請け合おう」
+「さて無知よ、まだ愚かなままでいるのか<br/>十たびも与えられた良い勧めを軽んじて。<br/>なおもそれを拒むなら、やがて<br/>そうしたことの災いを思い知るだろう。<br/>人よ、間に合ううちに思い出せ。へりくだれ、恐れるな。<br/>良い勧めは、よく受け入れれば救う。だから聞け。<br/>だが、なおもそれを軽んじるなら<br/>損をするのは自分自身だ、無知よ、請け合おう」
 
 それからクリスチャンは、連れにこう語りかけた。
 
@@ -218,7 +218,7 @@ HOPE. Alas! there are abundance in our town in his condition, whole families, ye
 希望「ああ、私たちの町には、あの人と同じような状態の人がたくさんいます。家族ぐるみで、いや、通りぐるみでいるのです。しかも、巡礼者の中にもいるのです。私たちのところにさえ、そんなに大勢いるのですから、あの人が生まれた所には、いったいどれほどいることでしょうか」
 
 CHR. Indeed, the word saith, "He hath blinded their eyes, lest they should see," etc. But, now we are by ourselves, what do you think of such men? Have they at no time, think you, convictions of sin, and so, consequently, fears that their state is dangerous?
-クリスチャン「本当に、みことばには『神は彼らの目をくらまし、心をかたくなになさった。それは、彼らが目で見ず、心で悟らず』とあります。それはそうと、今は二人だけですから聞きますが、ああいう人たちのことを、どう思いますか。あの人たちは、罪を自覚することが一度もないのでしょうか。そして、そのために、自分の状態が危ないと恐れることもないのでしょうか」
+クリスチャン「本当に、みことばには『神は彼らの目をくらまし、心をかたくなになさった』などとあります。それはそうと、今は二人だけですから聞きますが、ああいう人たちのことを、どう思いますか。あの人たちは、罪を自覚することが一度もないのでしょうか。そして、そのために、自分の状態が危ないと恐れることもないのでしょうか」
 
 HOPE. Nay, do you answer that question yourself, for you are the elder man.
 希望「いいえ、その質問には、あなたご自身が答えてください。あなたのほうが年上なのですから」
@@ -244,7 +244,7 @@ CHR. True or right fear is discovered by three things:
 HOPE. Well said; I believe you have said the truth. Are we now almost got past the Enchanted Ground?
 一、その起こりによってです。正しい恐れは、救いに至る罪の自覚から生まれます。<br/>二、それは魂を駆り立て、救いを求めてキリストにしっかりとすがらせます。<br/>三、それは魂のうちに、神と、みことばと、神の道とを深く敬う心を生み、保ち続けます。そして魂をやわらかに保ち、右にも左にもそこからそれるのを恐れさせます。神をはずかしめ、魂の平安をこわし、御霊を悲しませ、敵にそしらせるようなことに向かうのを、恐れさせるのです」
 
-希望「よく言われました。おっしゃるとおりだと思います。ところで、私たちはもう〈魔法の地〉をほとんど通り過ぎたのでしょうか」
+希望「よく言ってくださいました。本当にそのとおりだと思います。ところで、私たちはもう〈魔法の地〉をほとんど通り過ぎたのでしょうか」
 
 CHR. Why? are you weary of this discourse?
 クリスチャン「どうしてですか。この話に飽きたのですか」
@@ -259,7 +259,7 @@ HOPE. How do they seek to stifle them?
 希望「どのようにして押し殺そうとするのですか」
 
 CHR. 1. They think that those fears are wrought by the devil, (though indeed they are wrought of God,) and thinking so, they resist them, as things that directly tend to their overthrow. 2. They also think that these fears tend to the spoiling of their faith; when, alas for them, poor men that they are, they have none at all; and therefore they harden their hearts against them. 3. They presume they ought not to fear, and therefore, in despite of them, wax presumptuously confident. 4. They see that those fears tend to take away from them their pitiful old self-holiness, and therefore they resist them with all their might.
-クリスチャン「第一に、彼らはそうした恐れが悪魔によって生み出されたものだと思います。本当は神によって生み出されたものなのにです。そう思うので、自分を打ち倒そうとするものとして、恐れに逆らいます。第二に、彼らはまた、そうした恐れが自分の信仰をだめにすると思います。ところが哀れなことに、彼らには信仰などまったくないのです。そうして、恐れに対して心をかたくなにします。第三に、彼らは、自分は恐れるべきではないと思い込みます。ですから、恐れをものともせずに、思い上がって自信を強めていきます。第四に、彼らは、そうした恐れが、自分たちの哀れな古い自己流の聖さを取り去ろうとするのを見ます。ですから、全力で恐れに逆らうのです」
+クリスチャン「第一に、彼らはそうした恐れが悪魔によって生み出されたものだと思います。本当は神によって生み出されたものなのにです。そう思うので、自分を打ち倒そうとするものとして、恐れに逆らいます。第二に、彼らはまた、そうした恐れが自分の信仰をだめにすると思います。ところが哀れなことに、彼らには信仰などまったくないのです。ですから、恐れに対して心をかたくなにします。第三に、彼らは、自分は恐れるべきではないと思い込みます。ですから、恐れをものともせずに、思い上がって自信を強めていきます。第四に、彼らは、そうした恐れが、自分たちの哀れな古い自己流の聖さを取り去ろうとするのを見ます。ですから、全力で恐れに逆らうのです」
 
 HOPE. I know something of this myself; for before I knew myself it was so with me.
 希望「私にも、そういうことに少し覚えがあります。自分のことがわかるまでは、私もそうでしたから」
