@@ -44,7 +44,7 @@ Section 5
 + [x] 2	The story of Little-Faith
 + [x] 3	The Flatterer
 + [x] 4	Atheist
-+ [ ] 5	The Enchanted Ground
++ [x] 5	The Enchanted Ground
 + [ ] 6	Ignorance again
 + [ ] 7	The story of Temporary
 + [ ] 8	The country of Beulah
