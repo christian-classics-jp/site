@@ -2,7 +2,7 @@
 [Talkative]
 
 Moreover, I saw in my dream, that as they went on, Faithful, as he chanced to look on one side, saw a man whose name was Talkative, walking at a distance beside them; for in this place there was room enough for them all to walk. He was a tall man, and something more comely at a distance than at hand. To this man Faithful addressed himself in this manner.
-私が夢の中で見ていると、二人が進んでいくうちに、忠実がふと横に目をやった。すると、〈多弁〉という名の男が、少し離れて並んで歩いているのが見えた。このあたりは道幅が広く、皆で並んで歩けたのである。多弁は背の高い男で、近くで見るより遠くから見たほうがいくらか見栄えがした。忠実はこの男にこう話しかけた。
+私が夢の中で見ていると、二人が進んでいくうちに、〈忠実〉がふと横に目をやった。すると、〈多弁〉という名の男が、少し離れて並んで歩いているのが見えた。このあたりは道幅が広く、皆で並んで歩けたのである。多弁は背の高い男で、近くで見るより遠くから見たほうがいくらか見栄えがした。忠実はこの男にこう話しかけた。
 
 FAITH. Friend, whither away? Are you going to the heavenly country?
 忠実「友よ、どちらへ行かれるのですか。天の国へ行かれるのですか」
