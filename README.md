@@ -42,7 +42,7 @@ Section 4
 Section 5
 + [x] 1	Ignorance
 + [x] 2	The story of Little-Faith
-+ [ ] 3	The Flatterer
++ [x] 3	The Flatterer
 + [ ] 4	Atheist
 + [ ] 5	The Enchanted Ground
 + [ ] 6	Ignorance again
