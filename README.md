@@ -50,4 +50,4 @@ Section 5
 + [x] 8	The country of Beulah
 + [x] 9	Crossing the river to reach the Celestial City
 + [x] 10	Ignorance is cast away from the gates of the city
-+ [ ] 11	Conclusion
++ [x] 11	Conclusion
