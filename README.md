@@ -32,7 +32,7 @@ Section 3
 + [x] 4	Vanity Fair
 
 Section 4
-+ [ ] 1	By-Ends and his friends
++ [x] 1	By-Ends and his friends
 + [ ] 2	The Plain "Ease," Demas, and the silver mine
 + [ ] 3	Lot's wife
 + [ ] 4	The River of the Water of Life
