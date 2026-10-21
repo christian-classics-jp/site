@@ -1,7 +1,7 @@
 # （三） 世の賢者
 Now as Christian was walking solitary by himself, he espied one afar off come crossing over the field to meet him; and their hap was to meet just as they were crossing the way of each other. The gentleman’ name that met him was Mr. Worldly Wiseman: he dwelt in the town of Carnal Policy, a very great town, and also hard by from whence Christian came. This man then, meeting with Christian, and having some inkling 4 of him, (for Christian’ setting forth from the city of Destruction was much noised abroad, not only in the town where he dwelt, but also it began to be the town-talk in some other places) - Mr. Worldly Wiseman, therefore, having some guess of him, by beholding his laborious going, by observing his sighs and groans, and the like, began thus to enter into some talk with Christian.
 
-さて、クリスチャンがひとりで歩いていると、平野の向こうから人が来るのが見えた。二人は交差路でばったりと出会った。その人の名前は〈世の賢者〉といった。〈滅びの町〉の近くにある〈世の知恵〉という大きな町に住んでいた。彼はクリスチャンのことを噂で聞いていた。というのも、クリスチャンが滅びの町を出立したことは大きな騒ぎになったので、地元だけでなく、他の町にまで噂が広がっていたのである。クリスチャンが苦しそうに歩き、青息吐息になっているのを見て、それと察した彼は話しかけた。
+さて、クリスチャンがひとりで歩いていると、平野の向こうから人が来るのが見えた。二人は交差路でばったりと出会った。その人の名前は〈世の賢者〉といった。〈滅びの町〉の近くにある〈肉の知恵〉という大きな町に住んでいた。彼はクリスチャンのことを噂で聞いていた。というのも、クリスチャンが滅びの町を出立したことは大きな騒ぎになったので、地元だけでなく、他の町にまで噂が広がっていたのである。クリスチャンが苦しそうに歩き、青息吐息になっているのを見て、それと察した彼は話しかけた。
 
 WORLD. How now, good fellow, whither away after this burdened manner?
 世の賢者「こんにちは。そんなに大きな重荷を背負ってどちらに行かれるのですか」

@@ -11,14 +11,10 @@ Then I saw in my dream, that these good companions, when Christian was got down 
 Their golden mouths make him sufficient mends
 For all his griefs; and when they let him go,
 He’s clad with northern steel from top to toe."
-きよらかな友人たちといる間<br/>
-その黄金の口により<br/>
-クリスチャンは休みを得た。<br/>
-あらゆる嘆き悲しみが<br/>
-その交わりで癒やされた。<br/>
-旅の続きに出るときに<br/>
-鋼の武具をいただいた。<br/>
-頭のてっぺんからつまさきまで。
+クリスチャンが敬虔な友らといる間<br/>
+その黄金の口は、あらゆる嘆きを<br/>
+十分に償った。そして送り出すとき<br/>
+頭から足まで北方の鋼で彼を装わせた。
 
 But now, in this valley of Humiliation, poor Christian was hard put to it; for he had gone but a little way before he espied a foul fiend coming over the field to meet him: his name is Apollyon. Then did Christian begin to be afraid, and to cast in his mind whether to go back, or to stand his ground. But he considered again, that he had no armor for his back, and therefore thought that to turn the back to him might give him greater advantage with ease to pierce him with his darts; therefore he resolved to venture and stand his ground: for, thought he, had I no more in mine eye than the saving of my life, it would be the best way to stand.
 だが、へりくだりの谷を歩いていると、あわれなクリスチャンは困難に出会った。少し進んだところで、道の向こうから汚れた悪鬼が来たのだ。名前はアポリュオン（破壊者）といった。クリスチャンはおびえた。引き返すか、その場で踏みとどまるか、思いめぐらした。だが、思い直した。彼の背面は武具を身につけていない。だから、背中を見せて引き返せば、奴の矢で打たれる隙を与えかねない。勇気をもって踏みとどまることに決め、足に力をこめた。たとえ自分のいのちを救うことしか考えないとしても、踏みとどまるのが最善だと、クリスチャンは考えた。
@@ -128,18 +124,14 @@ But blessed Michael helped me, and I,
 By dint of sword, did quickly make him fly:
 Therefore to Him let me give lasting praise,
 And thank and bless his holy name always."
-強大なるベルゼバブ<br/>
-悪魔の王は画策し<br/>
-彼を私に派遣した。<br/>
-彼は地獄の憎しみで<br/>
-激しく私と戦った。<br/>
-だがさいわいなミカエルの<br/>
-助けによって剣をふるい<br/>
-彼はすぐさま敗退した。<br/>
-私は神にいつまでも<br/>
-賛美と感謝をささげます。<br/>
-聖なる御名に栄光が<br/>
-世々とこしえにあるように。
+悪鬼の頭、強大なるベルゼバブは<br/>
+私の破滅をたくらみ、そのために<br/>
+武具をまとわせて彼を送り出した。彼は<br/>
+地獄の怒りに燃え、激しく私に挑んだ。<br/>
+だが、ほむべきミカエルが私を助け<br/>
+私は剣をふるって、たちまち彼を退けた。<br/>
+だから、あの方にとこしえの賛美をささげ<br/>
+その聖なる御名に、いつも感謝し、ほめたたえよう。
 
 Then there came to him a hand with some of the leaves of the tree of life, the which Christian took and applied to the wounds that he had received in the battle, and was healed immediately. He also sat down in that place to eat bread, and to drink of the bottle that was given him a little before: so, being refreshed, he addressed himself to his journey with his sword drawn in his hand; for he said, I know not but some other enemy may be at hand. But he met with no other affront from Apollyon quite through this valley.
 それから、彼のところに手がおりてきて、数枚のいのちの木の葉が差し出された。クリスチャンはそれを取って、先の戦いで受けた傷にあてた。するとすぐに、傷は癒やされた。また彼はその場に座って、少し前にいただいたパンを食べ、飲み物を飲んだ。それで力を得て、旅を続けることにした。剣を手にさげ、彼は言った。「まだ他にも敵が近くにいるかもしれない」。だが、この谷を抜けるまで、アポリュオンから再び襲われることはなかった。

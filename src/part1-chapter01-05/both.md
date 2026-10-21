@@ -34,30 +34,30 @@ INTER. The Interpreter answered, This parlor is the heart of a man that was neve
 解釈者「この部屋は、これまで一度も福音の豊かな恵みによってきよめられたことのない人の心です。ほこりは、その人全体を汚している原罪と内なる腐敗です。初めに掃き始めた者は律法で、水を持ってきてまいた乙女は福音です。ご覧になったとおり、掃き始めるとほこりが部屋中に舞うので、その者には部屋をきよめることができず、むしろあなたは息が詰まりそうになりました。その意味は、律法はその働きによって心を罪からきよめるどころか、罪を明るみに出して禁じながらも、魂のうちで罪を生き返らせ（ローマ七・九）、罪に力を与え（第一コリント一五・五六）、罪を増し加える（ローマ五・二〇）ということです。律法には罪を抑える力を与えることができないからです。また、乙女が部屋に水をまくと部屋がきよらかになりましたが、その意味は、福音が豊かで尊い感化をもって心に来ると、乙女が床に水をまいてほこりを鎮めたように、罪は征服され抑えられ、福音を信じる信仰によって魂がきよめられるということです。そうして、栄光の王が住まうにふさわしい部屋になるのです（ヨハネ一五・三、エペソ五・二六、使徒一五・九、ローマ一六・二五〜二六）」
 
 I saw moreover in my dream, that the Interpreter took him by the hand, and had him into a little room, where sat two little children, each one in his chair. The name of the eldest was Passion, and the name of the other Patience. Passion seemed to be much discontented, but Patience was very quiet. Then Christian asked, "What is the reason of the discontent of Passion?" The Interpreter answered, "The governor of them would have him stay for his best things till the beginning of the next year, but he will have all now; but Patience is willing to wait." Then I saw that one came to Passion, and brought him a bag of treasure, and poured it down at his feet: the which he took up, and rejoiced therein, and withal laughed Patience to scorn. But I beheld but a while, and he had lavished all away, and had nothing left him but rags.
-また私が夢で見ていると、解釈者がクリスチャンの手を取って、小部屋に連れて行った。そこには小さな子供が二人、椅子に座っていた。年上のほうは〈熱情〉という名前で、年下のほうは〈忍耐〉という名前だった。熱情はひどく不機嫌そうで、忍耐は静かにしていた。
+また私が夢で見ていると、解釈者がクリスチャンの手を取って、小部屋に連れて行った。そこには小さな子供が二人、椅子に座っていた。年上のほうは〈激情〉という名前で、年下のほうは〈忍耐〉という名前だった。激情はひどく不機嫌そうで、忍耐は静かにしていた。
 
-クリスチャン「どうして熱情は不機嫌なのですか」
+クリスチャン「どうして激情は不機嫌なのですか」
 
 解釈者「二人の主人が、最も良いものは来年の初めまで待つようにと言い付けましたが、彼は今すぐすべてのものを欲しています。けれども、忍耐は喜んで待っています」
 
-すると、人が熱情のところに宝の入った袋を持って来て、足元にあけた。熱情はそれを取り上げて得意満面になり、忍耐を馬鹿にして笑った。けれども、熱情はあっというまに財産を使い果たし、あとにはくずだけが残った。
+すると、人が激情のところに宝の入った袋を持って来て、足元にあけた。激情はそれを取り上げて得意満面になり、忍耐を馬鹿にして笑った。けれども、激情はあっというまに財産を使い果たし、あとにはくずだけが残った。
 
 CHR. Then said Christian to the Interpreter, Expound this matter more fully to me.
 クリスチャン「このことをもっと詳しく教えてください」
 
 INTER. So he said, These two lads are figures; Passion of the men of this world, and Patience of the men of that which is to come; for, as here thou seest, passion will have all now, this year, that is to say, in this world; so are the men of this world: They must have all their good things now; they cannot stay till the next year, that is, until the next world, for their portion of good. That proverb, "A bird in the hand is worth two in the bush," is of more authority with them than are all the divine testimonies of the good of the world to come. But as thou sawest that he had quickly lavished all away, and had presently left him nothing but rags, so will it be with all such men at the end of this world.
-解釈者「この二人の子供はたとえです。熱情はこの世の人を、忍耐はやがて来る世の人を表しています。ご覧のとおり、熱情は今すぐすべてのものを欲しています。今年のうちに、つまりこの世にあるうちにです。この世の人も同じです。この世の人は今の世で良いものを受けなければ気が済みません。次の年まで、すなわち次の世まで、良いものの分け前を待っていられません。この世の人にとっては、やがて来る世の良いものについての神の証言のすべてよりも、『捕まえた一羽の鳥は藪の中にいる二羽にまさる』という格言のほうが権威があるのです。熱情はあっというまに財産を使い果たし、後にはくずしか残っていませんが、この世の人も、世の終わりにはそのようになります」
+解釈者「この二人の子供はたとえです。激情はこの世の人を、忍耐はやがて来る世の人を表しています。ご覧のとおり、激情は今すぐすべてのものを欲しています。今年のうちに、つまりこの世にあるうちにです。この世の人も同じです。この世の人は今の世で良いものを受けなければ気が済みません。次の年まで、すなわち次の世まで、良いものの分け前を待っていられません。この世の人にとっては、やがて来る世の良いものについての神の証言のすべてよりも、『捕まえた一羽の鳥は藪の中にいる二羽にまさる』という格言のほうが権威があるのです。激情はあっというまに財産を使い果たし、後にはくずしか残っていませんが、この世の人も、世の終わりにはそのようになります」
 
 CHR. Then said Christian, Now I see that Patience has the best wisdom, and that upon many accounts. 1. Because he stays for the best things. 2. And also because he will have the glory of his, when the other has nothing but rags.
 クリスチャン「忍耐が深い知恵を持っていることがわかりました。
 
 一、忍耐は最も良いものを待っている<br/>
-二、熱情にはくずしか残らないが、忍耐は栄光を受けるようになる
+二、激情にはくずしか残らないが、忍耐は栄光を受けるようになる
 
 こういった点で知恵がありますね」
 
 INTER. Nay, you may add another, to wit, the glory of the next world will never wear out; but these are suddenly gone. Therefore Passion had not so much reason to laugh at Patience because he had his good things first, as Patience will have to laugh at Passion because he had his best things last; for first must give place to last, because last must have his time to come: but last gives place to nothing, for there is not another to succeed. He, therefore, that hath his portion first, must needs have a time to spend it; but he that hath his portion last, must have it lastingly: therefore it is said of Dives, "In thy lifetime thou receivedst thy good things, and likewise Lazarus evil things; but now he is comforted, and thou art tormented." [Luke 16:25.]
-解釈者「もうひとつ付け加えると、次の世の栄光は決して衰えませんが、この世のものは突然消えてしまいます。だから、熱情が最初に良いものを受けたからといって忍耐を笑う理由よりも、忍耐が最後に最も良いものを受けて熱情を笑う理由のほうがずっと大きいのです。最後のものにもやがて来る時があるので、最初のものは最後のものに席を譲らなければなりませんが、最後のものは何にも席を譲りません。もうその後を継ぐものはありませんから。ですから、最初に分け前をもらった者はそれを時間とともに消費せざるを得ませんが、最後に分け前をもらう者は永遠にそれを保ちます。金持ちについてこう言われているとおりです。『あなたは生前よいものを受け、ラザロの方は悪いものを受けた。しかし今ここでは、彼は慰められ、あなたは苦しみもだえている』（ルカ一六・二五）」
+解釈者「もうひとつ付け加えると、次の世の栄光は決して衰えませんが、この世のものは突然消えてしまいます。だから、激情が最初に良いものを受けたからといって忍耐を笑う理由よりも、忍耐が最後に最も良いものを受けて激情を笑う理由のほうがずっと大きいのです。最後のものにもやがて来る時があるので、最初のものは最後のものに席を譲らなければなりませんが、最後のものは何にも席を譲りません。もうその後を継ぐものはありませんから。ですから、最初に分け前をもらった者はそれを時間とともに消費せざるを得ませんが、最後に分け前をもらう者は永遠にそれを保ちます。金持ちについてこう言われているとおりです。『あなたは生前よいものを受け、ラザロの方は悪いものを受けた。しかし今ここでは、彼は慰められ、あなたは苦しみもだえている』（ルカ一六・二五）」
 
 CHR. Then I perceive it is not best to cover things that are now, but to wait for things to come.
 クリスチャン「そうですか。現在のものを欲しがるのではなく、やがて来るものを待ち望むべきだということがわかりました」

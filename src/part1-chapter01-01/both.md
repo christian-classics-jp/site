@@ -58,7 +58,7 @@ The Man therefore Read it, and looking upon Evangelist very carefully; said, Whi
 
 伝道者は、広大な平野のほうを指差して、こう言った。
 
-「向こうにある狭き門が見えますか」（マタイ七・一三〜一四）
+「向こうにある狭い門が見えますか」（マタイ七・一三〜一四）
 
 「いいえ」
 
@@ -66,7 +66,7 @@ The Man therefore Read it, and looking upon Evangelist very carefully; said, Whi
 
 「はい、見えると思います」
 
-「あの光から目を離さずに、まっすぐにそちらに向かって行ってください。そうすれば、狭き門が見えてきます。その扉を叩けば、そこであなたがすべきことを教えてくれます」
+「あの光から目を離さずに、まっすぐにそちらに向かって行ってください。そうすれば、狭い門が見えてきます。その扉を叩けば、そこであなたがすべきことを教えてくれます」
 So I saw in my Dream that the Man began to run; Now he had not run far from his own door, but his Wife and Children perceiving it, began to cry after him to return: [Luke 14.26] but the Man put his fingers in his Ears, and ran on crying, Life, life, Eternal Life: so he looked not behind him [Gen. 19.17.], but fled towards the middle of the Plain.
 
 私は夢の中で見ていた。男は走りだした。その場所は自分の家からそれほど離れていなかったが、妻と子供は気づき、彼に「帰ってきなさい」と大声で呼びかけた（ルカ一四・二六）。だが、彼は耳を指でふさいで、こう叫びながら走った。
