@@ -7,7 +7,7 @@ They went then till they came to the Delectable Mountains, which mountains belon
 「この喜びの山々は、どなたのものですか。ここで草を食べている羊は、どなたの羊ですか」
 
 SHEP. These mountains are Emmanuel’s land, and they are within sight of his city; and the sheep also are his, and he laid down his life for them. John 10:11,15.
-羊飼い「この山々は〈インマヌエルの地〉で、あの方の都が見えるところにあります。羊もあの方のものです。あの方は、羊のためにいのちを捨てられました（ヨハネ一〇・一一、一五）」
+羊飼い「この山々は〈インマヌエルの地〉で、インマヌエルの都が見えるところにあります。羊もこの方のものです。この方は、羊のためにいのちを捨てられました（ヨハネ一〇・一一、一五）」
 
 CHR. Is this the way to the Celestial City?
 クリスチャン「これは天の都へ行く道ですか」
@@ -34,7 +34,7 @@ SHEP. The Lord of these mountains hath given us a charge not to be forgetful to 
 羊飼い「この山々の主は、旅人をもてなすことを忘れてはならない、と私たちに命じておられます（ヘブル一三・二）。ですから、この地の良いものは、みなあなたがたの前にあります」
 
 I saw also in my dream, that when the shepherds perceived that they were wayfaring men, they also put questions to them, (to which they made answer as in other places,) as, Whence came you? and, How got you into the way? and, By what means have you so persevered therein? for but few of them that begin to come hither, do show their face on these mountains. But when the shepherds heard their answers, being pleased therewith, they looked very lovingly upon them, and said, Welcome to the Delectable Mountains.
-また私が夢の中で見ていると、羊飼いたちは、二人が旅人だと知って、今度は二人に問いかけた。二人はほかの場所でしたのと同じように答えた。羊飼いたちは、どこから来たのか、どうやってこの道に入ったのか、どうやってここまで道を守り通したのか、と尋ねた。ここへ来ようと歩み出す者は多いが、この山々に顔を見せる者はわずかしかいないからである。羊飼いたちは二人の答えを聞いて喜んだ。そして、二人をたいへん愛情深く見つめて言った。
+また私が夢の中で見ていると、羊飼いたちは、二人が旅人だと知ると、今度は自分たちから、どこから来たのか、どうやってこの道に入ったのか、どうやってここまで道を守り通したのか、と尋ねた。二人はほかの場所でしたのと同じように答えた。ここへ来ようと歩み出す者は多いが、この山々に顔を見せる者はわずかしかいないからである。羊飼いたちは二人の答えを聞いて喜んだ。そして、二人をたいへん愛情深く見つめて言った。
 
 「喜びの山々へようこそ」
 
@@ -43,7 +43,7 @@ The shepherds, I say, whose names were Knowledge, Experience, Watchful, and Sinc
 
 「しばらくここに留まってください。私たちと親しくなっていただきたいのです。それにもまして、この喜びの山々の良いものを味わって、心を慰めていただきたいのです」
 
-二人は、喜んで留まりますと答えた。そして、夜もすっかり更けていたので、その晩は休んだ。
+二人は、喜んで留まると答えた。そして、夜もすっかり更けていたので、その晩は休んだ。
 
 Then I saw in my dream, that in the morning the shepherds called up Christian and Hopeful to walk with them upon the mountains. So they went forth with them, and walked a while, having a pleasant prospect on every side. Then said the shepherds one to another, Shall we show these pilgrims some wonders? So when they had concluded to do it, they had them first to the top of a hill called Error, which was very steep on the farthest side, and bid them look down to the bottom. So Christian and Hopeful looked down, and saw at the bottom several men dashed all to pieces by a fall that they had had from the top. Then said Christian, What meaneth this? The shepherds answered, Have you not heard of them that were made to err, by hearkening to Hymenius and Philetus, as concerning the faith of the resurrection of the body? 2 Tim. 2:17,18. They answered, Yes. Then said the shepherds, Those that you see lie dashed in pieces at the bottom of this mountain are they; and they have continued to this day unburied, as you see, for an example to others to take heed how they clamber too high, or how they come too near the brink of this mountain.
 それから私が夢の中で見ていると、朝になって、羊飼いたちはクリスチャンと希望を呼び起こし、いっしょに山を歩こうと誘った。そこで二人は羊飼いたちと出かけ、しばらく歩いた。どちらを見ても、心地よい眺めが広がっていた。すると羊飼いたちは互いに言った。
@@ -56,14 +56,14 @@ Then I saw in my dream, that in the morning the shepherds called up Christian an
 
 羊飼いたちは答えた。
 
-「ヒメナオとピレトに耳を貸して、体の復活の信仰について迷わされた人たちのことを、聞いたことはありませんか（第二テモテ二・一七〜一八）」
+「ヒメナオとピレトに耳を貸して、体の復活の信仰について誤りに陥った人たちのことを、聞いたことはありませんか（第二テモテ二・一七〜一八）」
 
 二人は、はい、と答えた。すると羊飼いたちは言った。
 
 「この山のふもとに砕けて倒れているのが、その人たちです。ご覧のとおり、今日まで葬られずにいます。ほかの人たちへの見せしめとして、高く登りすぎたり、この山の崖っぷちに近づきすぎたりしないよう、気をつけさせるためです」
 
 Then I saw that they had them to the top of another mountain, and the name of that is Caution, and bid them look afar off; which, when they did, they perceived, as they thought, several men walking up and down among the tombs that were there; and they perceived that the men were blind, because they stumbled sometimes upon the tombs, and because they could not get out from among them. Then said Christian, What means this?
-それから私が見ていると、羊飼いたちは二人を別の山の頂に連れて行った。その山の名は〈警戒〉という。羊飼いたちは二人に、遠くを見るように言った。二人がそうすると、そこにある墓の間を、何人もの男が行ったり来たりしているのが見えたように思った。男たちは目が見えないのだとわかった。ときどき墓につまずいたし、墓の間から抜け出せずにいたからである。クリスチャンは言った。
+それから私が見ていると、羊飼いたちは二人を別の山の頂に連れて行った。その山の名は〈警戒〉という。羊飼いたちは二人に、遠くを見るように言った。二人がそうすると、そこにある墓の間を、何人もの男が行ったり来たりしているのが見えたように思った。男たちは目が見えないのだとわかった。ときどき墓につまずき、また墓の間から抜け出せずにいたからである。クリスチャンは言った。
 
 「これはどういうことですか」
 
@@ -128,4 +128,4 @@ Things deep, things hid, and that mysterious be."
 深いこと、隠れたこと、奥義に満ちたことを」
 
 When they were about to depart, one of the shepherds gave them a note of the way. Another of them bid them beware of the Flatterer. The third bid them take heed that they slept not upon Enchanted Ground. And the fourth bid them God speed. So I awoke from my dream.
-二人が出発しようとすると、羊飼いの一人が、道筋を記した書きつけを渡した。もう一人は、〈へつらい者〉に気をつけるようにと言った。三人目は、〈魔法の地〉で眠り込まないように用心しなさいと言った。そして四人目は、神の祝福を祈って二人を送り出した。こうして私は夢から覚めた。
+二人が出発しようとすると、羊飼いの一人が、道筋を記した書きつけを渡した。二人目は、〈へつらい者〉に気をつけるようにと言った。三人目は、〈魔法の地〉で眠り込まないようにと注意した。そして四人目は、神の祝福を祈って二人を送り出した。こうして私は夢から覚めた。
