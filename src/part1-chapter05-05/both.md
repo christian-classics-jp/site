@@ -60,7 +60,7 @@ CHR. Yes, that is my meaning.
 クリスチャン「ええ、そういう意味です」
 
 HOPE. I continued a great while in the delight of those things which were seen and sold at our fair; things which I believe now would have, had I continued in them still, drowned me in perdition and destruction.
-希望「私は長いあいだ、私たちの町の市で見せられ、売られている物を楽しんでいました。今にして思えば、あのまま楽しみ続けていたら、私は滅びと破滅の中におぼれていたでしょう」
+希望「私は長いあいだ、私たちの町の市で見せられ、売られている物を楽しんでいました。今にして思えば、あのまま楽しみ続けていたら、私は滅びと破壊とに沈んでいたでしょう」
 
 CHR. What things were they?
 クリスチャン「それはどんな物でしたか」
@@ -78,7 +78,7 @@ CHR. But what was the cause of your carrying of it thus to the first workings of
 クリスチャン「でも、祝福に満ちた神の御霊が初めて働きかけてくださったのに、どうしてそんなふうに応じたのですか」
 
 HOPE. The causes were, 1. I was ignorant that this was the work of God upon me. I never thought that by awakenings for sin, God at first begins the conversion of a sinner. 2. Sin was yet very sweet to my flesh, and I was loth to leave it. 3. I could not tell how to part with mine old companions, their presence and actions were so desirable unto me. 4. The hours in which convictions were upon me, were such troublesome and such heart-affrighting hours, that I could not bear, no not so much as the remembrance of them upon my heart.
-希望「わけはいくつかありました。第一に、それが私に対する神の御業だと知らなかったのです。神が罪人を回心させるとき、まず罪に目覚めさせることから始められるとは、思ってもみませんでした。第二に、罪はまだ私の肉にとってとても甘く、手放したくなかったのです。第三に、昔の仲間とどう別れたらいいかわかりませんでした。仲間といることも、仲間のすることも、私にはたまらなく好ましかったのです。第四に、罪を自覚させられている時間は、とても苦しく、心が震えあがるような時間でした。私はそれに耐えられませんでした。心に思い出すことさえ、耐えられなかったのです」
+希望「わけはいくつかありました。第一に、それが私に対する神のみわざだと知らなかったのです。神が罪人を回心させるとき、まず罪に目覚めさせることから始められるとは、思ってもみませんでした。第二に、罪はまだ私の肉にとってとても甘く、手放したくなかったのです。第三に、昔の仲間とどう別れたらいいかわかりませんでした。仲間といることも、仲間のすることも、私にはたまらなく好ましかったのです。第四に、罪を自覚させられている時間は、とても苦しく、心が震えあがるような時間でした。私はそれに耐えられませんでした。心に思い出すことさえ、耐えられなかったのです」
 
 CHR. Then, as it seems, sometimes you got rid of your trouble?
 クリスチャン「それでは、ときにはその苦しみから逃れられたということですか」
@@ -143,7 +143,7 @@ CHR. Well, and how did you apply this to yourself?
 クリスチャン「なるほど。それを、自分にどう当てはめたのですか」
 
 HOPE. Why, I thought thus with myself: I have by my sins run a great way into God’s book, and my now reforming will not pay off that score; therefore I should think still, under all my present amendments, But how shall I be freed from that damnation that I brought myself in danger of by my former transgressions?
-希望「心の中で、こう考えたのです。私は罪によって、神の帳簿に大きな借りを作ってしまった。今さら生活を改めても、その勘定を払いきれはしない。ですから、今どれほど行いを改めていても、やはり考えずにはいられませんでした。『それでは、前に犯した罪のせいで招いてしまった滅びから、どうしたら解き放たれるのだろうか』と」
+希望「心の中で、こう考えたのです。『私は罪によって、神の帳簿に大きな借りを作ってしまった。今さら生活を改めても、その勘定を払いきれはしない』。ですから、今どれほど行いを改めていても、やはり考えずにはいられませんでした。『それでは、前に犯した罪のせいで招いてしまった滅びから、どうしたら解き放たれるのだろうか』と」
 
 CHR. A very good application: but pray go on.
 クリスチャン「とてもよい当てはめ方です。どうぞ続けてください」
@@ -179,7 +179,7 @@ CHR. And what did you do then?
 クリスチャン「それで、どうしたのですか」
 
 HOPE. I made my objections against my believing, for that I thought he was not willing to save me.
-希望「私は、信じることにためらいを口にしました。その方は私を救おうとは思っておられないだろう、と思ったのです」
+希望「私は、信じることに異を唱えました。その方は私を救おうとは思っておられないだろう、と思ったのです」
 
 CHR. And what said Faithful to you then?
 クリスチャン「すると、忠実さんは何と言いましたか」
@@ -221,10 +221,10 @@ CHR. And how was he revealed unto you?
 クリスチャン「それで、御子はどのようにあなたに示されたのですか」
 
 HOPE. I did not see him with my bodily eyes, but with the eyes of my understanding, Eph. 1:18,19; and thus it was. One day I was very sad, I think sadder than at any one time in my life; and this sadness was through a fresh sight of the greatness and vileness of my sins. And as I was then looking for nothing but hell, and the everlasting damnation of my soul, suddenly, as I thought, I saw the Lord Jesus looking down from heaven upon me, and saying, "Believe on the Lord Jesus Christ, and thou shalt be saved." Acts 16:31.
-希望「この肉の目で見たのではありません。心の目で見たのです（エペソ一・一八〜一九）。それはこういうことでした。ある日、私はとても悲しんでいました。生涯でいちばん悲しかったと思います。その悲しみは、自分の罪がどれほど大きく、どれほど卑しいかを、新たに思い知らされたためでした。私はもう、地獄と、自分の魂の永遠の滅びのほかには、何も待ち受けていないと思っていました。そのとき突然、主イエスが天から私を見下ろして、こう言われるのが見えたように思いました。『主イエス・キリストを信じなさい。そうすれば、あなたは救われます』（使徒一六・三一）。
+希望「この肉の目で見たのではありません。心の目で見たのです（エペソ一・一八〜一九）。それはこういうことでした。ある日、私はとても悲しんでいました。生涯でいちばん悲しかったと思います。その悲しみは、自分の罪がどれほど大きく、どれほど卑しいかを、新たに思い知らされたためでした。私はもう、地獄と、自分の魂の永遠の滅びのほかには、何も待ち受けていないと思っていました。そのとき突然、主イエスが天から私を見下ろして、こう言われるのが見えたように思いました。『主イエス・キリストを信じなさい。そうしたら、あなたは救われます』（使徒一六・三一）。
 
 But I replied, Lord, I am a great, a very great sinner: and he answered, "My grace is sufficient for thee." [2 Cor. 12:9.] Then I said, But, Lord, what is believing? And then I saw from that saying, "He that cometh to me shall never hunger, and he that believeth on me shall never thirst," [John 6:35], that believing and coming was all one; and that he that came, that is, that ran out in his heart and affections after salvation by Christ, he indeed believed in Christ. Then the water stood in mine eyes, and I asked further, But, Lord, may such a great sinner as I am be indeed accepted of thee, and be saved by thee? And I heard him say, "And him that cometh to me, I will in no wise cast out." [John 6:37.] Then I said, But how, Lord, must I consider of thee in my coming to thee, that my faith may be placed aright upon thee? Then he said, "Christ Jesus came into the world to save sinners." [1 Tim. 1:15.] He is the end of the law for righteousness to every one that believes. [Rom.10:4, and chap. 4.] He died for our sins, and rose again for our justification. [Rom. 4:25.] He loved us, and washed us from our sins in his own blood. [Rev. 1:5.] He is the Mediator between God and us. [1 Tim. 2:5.] He ever liveth to make intercession for us. [Heb. 7:25.] From all which I gathered, that I must look for righteousness in his person, and for satisfaction for my sins by his blood: that what he did in obedience to his Father’s law, and in submitting to the penalty thereof, was not for himself, but for him that will accept it for his salvation, and be thankful. And now was my heart full of joy, mine eyes full of tears, and mine affections running over with love to the name, people, and ways of Jesus Christ.
-私は『主よ、私は大きな、本当に大きな罪人です』と申し上げました。すると主は『わたしの恵みはあなたに対して十分である』と答えられました（第二コリント一二・九）。私が『でも主よ、信じるとはどういうことですか』と尋ねると、『わたしに来る者は決して飢えることがなく、わたしを信じる者は決してかわくことがない』（ヨハネ六・三五）というみことばから、わかったのです。信じることと来ることとは、同じなのです。来る者、つまり、心と思いを尽くしてキリストによる救いを追い求める者こそ、本当にキリストを信じているのです。私は目に涙を浮かべて、さらに尋ねました。『でも主よ、私のような大きな罪人が、本当にあなたに受け入れられ、あなたに救っていただけるのでしょうか』。すると主がこう言われるのが聞こえました。『わたしに来る者を決して拒みはしない』（ヨハネ六・三七）。私は言いました。『でも主よ、私の信仰を正しくあなたに置くには、あなたのもとに行くとき、あなたのことをどのように考えればよいのでしょうか』。すると主は言われました。『キリスト・イエスは、罪人を救うためにこの世にきて下さった』（第一テモテ一・一五）。この方は、すべて信じる者に義を得させるために、律法の終わりとなられました（ローマ一〇・四、四章）。この方は私たちの罪のために死に、私たちが義とされるためによみがえられました（ローマ四・二五）。この方は私たちを愛し、ご自分の血によって私たちを罪から洗いきよめてくださいました（黙示録一・五）。この方は、神と私たちとの間の仲保者です（第一テモテ二・五）。この方は、いつも生きていて、私たちのためにとりなしておられます（ヘブル七・二五）。これらすべてから、私は悟りました。義はこの方ご自身のうちに求めなければなりません。罪のつぐないは、この方の血によって求めなければなりません。この方が父の律法に従ってなさったことも、律法の刑罰に身をゆだねられたことも、ご自分のためではありませんでした。それを自分の救いとして受け入れ、感謝する者のためだったのです。そのとき、私の心は喜びに満ち、目は涙でいっぱいになりました。そして、イエス・キリストの御名と、その民と、その道への愛が、心からあふれ出したのです」
+私は『主よ、私は大きな、本当に大きな罪人です』と申し上げました。すると主は『わたしの恵みはあなたに対して十分である』と答えられました（第二コリント一二・九）。私は『でも主よ、信じるとはどういうことですか』と尋ねました。すると、『わたしに来る者は決して飢えることがなく、わたしを信じる者は決してかわくことがない』（ヨハネ六・三五）というみことばから、わかったのです。信じることと来ることとは、同じなのです。来る者、つまり、心と思いを尽くしてキリストによる救いを追い求める者こそ、本当にキリストを信じているのです。私は目に涙を浮かべて、さらに尋ねました。『でも主よ、私のような大きな罪人が、本当にあなたに受け入れられ、あなたに救っていただけるのでしょうか』。すると主がこう言われるのが聞こえました。『わたしに来る者を決して拒みはしない』（ヨハネ六・三七）。私は言いました。『でも主よ、私の信仰を正しくあなたに置くには、あなたのもとに行くとき、あなたのことをどのように考えればよいのでしょうか』。すると主は言われました。『キリスト・イエスは、罪人を救うためにこの世にきて下さった』（第一テモテ一・一五）。この方は、すべて信じる者に義を得させるために、律法の終わりとなられました（ローマ一〇・四、四章）。この方は私たちの罪のために死に、私たちが義とされるためによみがえられました（ローマ四・二五）。この方は私たちを愛し、ご自分の血によって私たちを罪から洗いきよめてくださいました（黙示録一・五）。この方は、神と私たちとの間の仲保者です（第一テモテ二・五）。この方は、いつも生きていて、私たちのためにとりなしておられます（ヘブル七・二五）。これらすべてから、私は悟りました。義はこの方ご自身のうちに求めなければなりません。罪のつぐないは、この方の血によって求めなければなりません。この方が父の律法に従ってなさったことも、律法の刑罰に身をゆだねられたことも、ご自分のためではありませんでした。それを自分の救いとして受け入れ、感謝する者のためだったのです。そのとき、私の心は喜びに満ち、目は涙でいっぱいになりました。そして、イエス・キリストの御名と、その民と、その道への愛が、心からあふれ出したのです」
 
 CHR. This was a revelation of Christ to your soul indeed. But tell me particularly what effect this had upon your spirit.
 クリスチャン「それはまさに、キリストがあなたの魂に示されたのですね。でも、それがあなたの心にどんな影響を与えたのか、詳しく聞かせてください」
