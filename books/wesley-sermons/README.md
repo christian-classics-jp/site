@@ -12,7 +12,7 @@
 + [x] Sermon 2. The Almost Christian
 + [x] Sermon 3. Awake, Thou That Sleepest
 + [x] Sermon 4. Scriptural Christianity
-+ [ ] Sermon 5. Justification By Faith
++ [x] Sermon 5. Justification By Faith
 + [ ] Sermon 6. The Righteousness Of Faith
 + [ ] Sermon 7. The Way To The Kingdom
 + [ ] Sermon 8. The First Fruits Of The Spirit
