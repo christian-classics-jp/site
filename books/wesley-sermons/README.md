@@ -27,7 +27,7 @@
 + [x] Sermon 22. Upon Our Lord's Sermon On The Mount: Discourse Two
 + [x] Sermon 23. Upon Our Lord's Sermon On The Mount: Discourse Three
 + [x] Sermon 24. Upon Our Lord's Sermon On The Mount: Discourse Four
-+ [ ] Sermon 25. Upon Our Lord's Sermon On The Mount: Discourse Five
++ [x] Sermon 25. Upon Our Lord's Sermon On The Mount: Discourse Five
 + [ ] Sermon 26. Upon Our Lord's Sermon On The Mount: Discourse Six
 + [ ] Sermon 27. Upon Our Lord's Sermon On The Mount: Discourse Seven
 + [ ] Sermon 28. Upon Our Lord's Sermon On The Mount: Discourse Eight
