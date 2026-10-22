@@ -13,7 +13,7 @@ and having, next, laid down rules touching that right intention which we are to 
 2. In the fifth chapter, our great Teacher has fully described inward religion in its various branches.
 （二）　第五章で、私たちの偉大な教師は、内なる宗教を、そのさまざまな枝に分けて十分に描き出されました。
 He has there laid before us those dispositions of soul which constitute real Christianity; the tempers contained in that "holiness, without which no man shall see the Lord;" the affections which, when flowing from their proper fountain, from a living faith in God through Christ Jesus, are intrinsically and essentially good, and acceptable to God.
-そこで主は、真のキリスト教を形づくる魂の性向を、私たちの前に示されました。それは、聖性に含まれる気質です。この聖性について、「きよくならなければ、だれも主を見ることはできない」と言われています（ヘブル一二・一四）。また、それは心の思いです。その心の思いが本来の泉から流れ出るとします。すなわち、キリスト・イエスを通して神を信じる生きた信仰から流れ出るとします。そのとき、それはそれ自体として、本質的に善であり、神に受け入れられるものです。
+そこで主は、真のキリスト教を形づくる魂の性向を、私たちの前に示されました。それは、聖性に含まれる気質です。この聖性について、「きよくならなければ、だれも主を見ることはできない」と言われています（ヘブル一二・一四）。また、それは心の思いです。その心の思いは、本来の泉から流れ出るとき、それ自体として、本質的に善であり、神に受け入れられるものです。本来の泉とは、キリスト・イエスを通して神を信じる生きた信仰です。
 In the sixth he hath shown how all our actions likewise, even those that are indifferent in their own nature, may be made holy, and good, and acceptable to God, by a pure and holy intention.
 第六章では、私たちのすべての行いも同じようになりうることを示されました。純粋で聖い意図によって、聖く、良い、神に受け入れられるものとなりうるのです。それ自体の性質では善でも悪でもない行いでさえ、そうなるのです。
 Whatever is done without this he declares is of no value with God: Whereas, whatever outward works are thus consecrated to God are, in his sight, of great price.
@@ -49,7 +49,7 @@ These cannot but hear of those who are not of the world; who follow after the re
 who earnestly desire such measures of these holy tempers as they have not yet attained, and wait for them in doing all good to all men, and patiently suffering evil.
 これらの聖い気質を、まだ到達していない程度にまで得たいと、熱心に願っています。そして、すべての人にあらゆる善を行い、忍耐して悪を耐え忍びながら、それを待ち望んでいるのです。
 Whoever go but thus far cannot be hid, no more than "a city set upon a hill."
-ここまで進んだ人はだれでも、隠れることができません。それは、「山の上にある町」（マタイ五・一四）と同じです。
+ここまで進んだだけの人でも、だれであれ、隠れることができません。それは、「山の上にある町」（マタイ五・一四）と同じです。
 And why do not those who 'see" their "good works glorify their Father which is in heaven"
 では、なぜ、その人々の「よいおこないを見」る者たちが、「天にいます」その「父をあがめ」ないのでしょうか（マタイ五・一六）。
 What excuse have they for not treading in their steps -- for not imitating their example and being followers of them, as they are also of Christ
@@ -86,9 +86,9 @@ Cast out the beam of love of the world! Love not the world, neither the things o
 Only use the world, but enjoy God. Seek all thy happiness in him!
 世はただ用いるだけにして、神を楽しみなさい。あなたの幸いのすべてを、神のうちに求めなさい。
 Above all, cast out the grand beam, that supine carelessness and indifference! Deeply consider, that "one thing is needful;" the one thing which thou hast scarce ever thought of.
-何よりも、あの大きな梁、すなわち怠惰な無頓着と無関心を取りのけなさい！　「無くてならぬもの」は「一つだけ」であることを（ルカ一〇・四二）、深く考えなさい。それは、あなたがこれまでほとんど考えたこともない、ただ一つのことです。
+何よりも、あの大きな梁、すなわち怠惰な無頓着と無関心を取りのけなさい！　「無くてならぬもの」は「一つだけ」（ルカ一〇・四二）であることを、深く考えなさい。それは、あなたがこれまでほとんど考えたこともない、ただ一つのことです。
 Know and feel, that thou art a poor, vile, guilty worm, quivering over the great gulf! What art thou A sinner born to die; a leaf driven before the wind; a vapour ready to vanish away, just appearing, and then scattered into air, to be no more seen! See this!
-あなたは、大きな淵の上で震えている、哀れな、卑しい、罪ある虫けらです。そのことを知り、感じなさい！　あなたは何者でしょうか。死ぬために生れた罪人です。風に吹き回される木の葉です。しばしの間あらわれて、たちまち消え行く霧（ヤコブ四・一四）、空中に散って、もう二度と見られなくなる霧です。このことを見なさい。
+あなたは、大きな淵の上で震えている、哀れな、卑しい、罪ある虫けらです。そのことを知り、感じなさい！　あなたは何者でしょうか。死ぬために生れた罪人です。風に吹き回される木の葉です（ヨブ一三・二五）。しばしの間あらわれて、たちまち消え行く霧（ヤコブ四・一四）、空中に散って、もう二度と見られなくなる霧です。このことを見なさい。
 "And then shalt thou see clearly to cast out the mote out of thy brother's eye." Then, if thou hast leisure from the concerns of thy own soul, thou shalt know how to correct thy brother also.
 「そうすれば、はっきり見えるようになって、兄弟の目からちりを取りのけることができるでしょう」（マタイ七・五）。そのとき、自分の魂の事柄から手が空いているなら、兄弟をも正す方法が分かるでしょう。
 
@@ -160,10 +160,10 @@ Yea, a Heathen could reply, when the chief of the Jewish nation desired to have 
 // 異教徒は総督フェスト。口語訳は「その人を見放してしまうのは」。英文はこの部分を to judge に言い換えて引用符の外に置くので、「」の外で英文から訳した。
 
 13. Indeed we could not easily fall into sinful judging were we only to observe that rule which another [Seneca] of those heathen Romans affirms to have been the measure of his own practice.
-（一三）　実際、あの異教のローマ人のもうひとり〔セネカ〕が、自分の行いの尺度であったと断言している規則があります。その規則を守りさえすれば、私たちはたやすく罪深いさばきに陥ることはないでしょう。
+（一三）　実際、あの異教のローマ人たちの中のもうひとり〔セネカ〕が、自分の行いの尺度であったと断言している規則があります。その規則を守りさえすれば、私たちはたやすく罪深いさばきに陥ることはないでしょう。
 // 英文の [Seneca] を〔〕で訳した。
 "I am so far," says he, "from lightly believing every man's or any man's evidence against another, that I do not easily or immediately believe a man's evidence against himself. I always allow him second I thoughts, and many times counsel too."
-彼はこう言います。「私は、ある人がほかの人に不利な証言をするとき、それがだれの証言であっても、軽々しく信じたりはしません。それどころか、人が自分自身に不利な証言をしても、たやすく、すぐには信じないのです。私はいつも、その人に考え直す時間を与え、しばしば助言も与えます」。
+彼はこう言います。「私は、ある人がほかの人に不利な証言をするとき、それがだれの証言であっても、軽々しく信じたりはしません。それどころか、人が自分自身に不利な証言をしても、たやすく、すぐには信じないのです。私はいつも、その人に考え直す時間を与え、しばしば人に相談する機会も与えます」。
 // 出典は確認できなかった。
 Go, thou who art called a Christian, and do likewise, lest the heathen rise and condemn thee in that day!
 クリスチャンと呼ばれているあなたも、行って同じようにしなさい（ルカ一〇・三七）。そうでないと、かの日に異教徒が立ち上がって、あなたを罪に定めるでしょう（マタイ一二・四一）！
@@ -181,7 +181,7 @@ Thou hast then done thy part. Then think of it no more, but commend the whole to
 そのとき、あなたは自分の務めを果たしたのです。それからは、もうそのことを考えず、すべてを神にゆだねなさい。
 
 15. But supposing thou hast by the grace of God "cast the beam out of thine own eye," and dost now "clearly see the mote or the beam which is in thy brother's eye," yet beware thou dost not receive hurt thyself by endeavouring to help him.
-（一五）　けれども、あなたが神の恵みによって「自分の目から梁を取りのけ」（マタイ七・五）、今は兄弟の目にあるちりや梁が「はっきり見える」（マタイ七・五）とします。それでも、兄弟を助けようと努めることで、自分が害を受けないように気をつけなさい。
+（一五）　けれども、あなたが神の恵みによって「自分の目から梁を取りのけ」（マタイ七・五）、今は「兄弟の目にあるちり」（マタイ七・三）や梁が「はっきり見える」（マタイ七・五）とします。それでも、兄弟を助けようと努めることで、自分が害を受けないように気をつけなさい。
 Still "give not that which is holy unto dogs." Do not lightly account any to be of this number; but if it evidently appear that they deserve the title, then "cast ye not your pearls before swine."
 やはり、「聖なるものを犬にやってはなりません」（マタイ七・六）。だれであれ、軽々しくこの部類に数えてはなりません。けれども、その呼び名に値することが明らかになったなら、そのときは、「真珠を豚に投げてやってはなりません」（マタイ七・六）。
 Beware of that zeal which is not according to knowledge.
@@ -235,7 +235,7 @@ What conception can they have of being made partakers of the divine nature, who 
 Just as much knowledge as swine have of pearls, and as much relish as they have for them, so much relish have they for the deep things of God, so much knowledge of the mysteries of the gospel, who are immersed in the mire of this world, in worldly pleasures, desires, and cares.
 この世の泥沼に、すなわち世の快楽と欲望と心配事に、浸りきっている人々がいます。彼らが神の深み（第一コリント二・一〇）を味わい、福音の奥義を知る程度は、豚が真珠を知り、真珠を味わう程度とちょうど同じです。
 O cast not those pearls before these, "lest they trample them under their feet!" -- lest they utterly despise what they cannot understand, and speak evil of the things which they know not.
-ああ、これらの真珠を、こういう人々の前に投げてはなりません。「恐らく彼らはそれらを足で踏みつけ」るからです（マタイ七・六）！　すなわち、自分に理解できないものをまったく軽んじ、自分が知りもしないことをそしるからです（ユダ一〇）。
+ああ、これらの真珠を、こういう人々の前に投げてはなりません。「恐らく彼らはそれらを足で踏みつけ」るでしょう（マタイ七・六）！　すなわち、自分に理解できないものをまったく軽んじ、自分が知りもしないことをそしるでしょう（ユダ一〇）。
 Nay, it is probable this would not be the only inconvenience which would follow.
 いや、起こる不都合はおそらく、それだけではないでしょう。
 It would not be strange if they were, according to their nature, to "turn again, and rend you;" if they were to return you evil for good, cursing for blessing, and hatred for your goodwill.
@@ -254,7 +254,7 @@ Therefore whatever you desire or want, either for others or for your own soul, "
 The neglect of this is a Third grand hindrance of holiness. Still we "have not, because we ask not."
 これを怠ることが、聖性を妨げる第三の大きなものです。私たちは今もなお、「求めないから得られない」のです（ヤコブ四・二）。
 O how meek and gentle, how lowly in heart, how full of love both to God and men, might ye have been at this day, if you had only asked; -- if you had continued instant in prayer! Therefore, now, at least, "ask, and it shall be given unto you."
-ああ、あなたがたがただ求めてさえいたなら、常に祈り続けていたなら（ローマ一二・一二）、どうだったでしょう。今日、どれほど柔和で優しく、心へりくだり、神と人への愛に満ちていたかもしれないことでしょう！　ですから、少なくとも今からは、「求めよ、そうすれば、与えられるでしょう」（マタイ七・七）。
+ああ、あなたがたがただ求めてさえいたなら、常に祈り続けていたなら（ローマ一二・一二）、今日、どれほど柔和で優しく、心へりくだり、神と人への愛に満ちていられたことでしょう！　ですから、少なくとも今からは、「求めよ、そうすれば、与えられるでしょう」（マタイ七・七）。
 Ask, that ye may throughly experience and perfectly practise the whole of that religion which our Lord has here so beautifully described.
 求めなさい。私たちの主がここでこれほど美しく描かれた宗教の全体を、徹底して経験し、完全に実践できるように求めなさい。
 It shall then be given you, to be holy as he is holy, both in heart and in all manner of conversation.
@@ -269,7 +269,7 @@ Press on to the mark: Take no denial: Let him not go until he bless you. And the
 目標を目ざして進みなさい（ピリピ三・一四）。拒まれても引き下がってはなりません。主が祝福してくださるまで、主を去らせてはなりません（創世記三二・二六）。そうすれば、あわれみの門、聖性の門、天の門が、あなたがたのために開かれるでしょう。
 
 19. It is in compassion to the hardness of our hearts, so unready to believe the goodness of God, that our Lord is pleased to enlarge upon this head, and to repeat and confirm what he hath spoken.
-（一九）　私たちの心はかたくなで、神の善を信じようとしません。主はそれをあわれんで、この点について詳しく語り、言われたことを繰り返し、確かなものとしてくださいます。
+（一九）　私たちの心はかたくなで、神の善をなかなか信じようとしません。主はそれをあわれんで、この点について詳しく語り、言われたことを繰り返し、確かなものとしてくださいます。
 "For everyone," saith he, "that asketh, receiveth;" so that none need come short of the blessing;
 主はこう言われます。「すべて求める者は得」るのです（マタイ七・八）。ですから、だれも祝福にあずかりそこなう必要はありません。
 "and he that seeketh," even everyone that seeketh, "findeth" the love and the image of God;
@@ -312,7 +312,7 @@ And thus much is certain, that it commends itself, as soon as heard, to every ma
 少なくとも次のことは確かです。この規則は、聞いたとたんに、すべての人の良心と理解力とに受け入れられます。ですから、だれも、知りながらこれに背くなら、自分の胸のうちで罪に定められずにはいられないのです。
 
 23. "This is the law and the prophets." Whatsoever is written in that law which God of old revealed to mankind, and whatsoever precepts God has given by his holy Prophets which have been since the world began," they are all summed up in these few words, they are all contained in this short direction.
-（二三）　「これが律法であり預言者です」（マタイ七・一二）。神が昔、人類に示された律法に書かれていることは、みなそうです。神が「古くから、聖なる預言者たち」（ルカ一・七〇）によって与えられた戒めも、みなそうです。それらはすべて、この短い言葉のうちに要約され、この簡潔な指示のうちに含まれているのです。
+（二三）　「これが律法であり預言者です」（マタイ七・一二）。神が昔、人類に示された律法に書かれていることは、何であれ、この短い言葉のうちに要約されています。神が「古くから、聖なる預言者たち」（ルカ一・七〇）によって与えられた戒めも、何であれ、そうです。それらはすべて、この簡潔な指示のうちに含まれているのです。
 And this, rightly understood, comprises the whole of that religion which our Lord came to establish upon earth.
 そして、これを正しく理解するなら、主が地上に打ち立てるために来られた宗教の全体が、ここに含まれています。
 
@@ -337,7 +337,7 @@ Apply this to yourself. Do not unto another what you would not he should do unto
 26. Again: We would that all men should love and esteem us, and behave towards us according to justice, mercy, and truth.
 （二六）　また、私たちは、すべての人が自分を愛し、重んじ、正義とあわれみと真実とをもって自分に接してくれることを望みます。
 And we may reasonably desire that they should do us all the good they can do without injuring themselves; yea, that in outward things (according to the known rule,) their superfluities should give way to our conveniencies, their conveniencies to our necessities, and their necessities to our extremities.
-そして、人々が自分を損なわずにできるかぎりの善を、私たちにしてくれることを、道理にかなって望むことができます。そうです、外のものについては、よく知られた規則のとおりに譲られることを望めます。彼らの余分なものは私たちの便利のために、彼らの便利は私たちの必要のために譲られます。彼らの必要は私たちの窮乏のために譲られるのです。
+そして、人々が自分を損なわずにできるかぎりの善を、私たちにしてくれることを、道理にかなって望むことができます。そうです、外のものについては、よく知られた規則のとおりにしてくれることさえ望めます。すなわち、彼らの余分なものは私たちの便利のために、彼らの便利は私たちの必要のために譲られることを望めます。彼らの必要は私たちの窮乏のために譲られることを望めるのです。
 Now then, let us walk by the same rule: Let us do unto all as we would they should do to us. Let us love and honour all men. Let justice, mercy, and truth govern all our minds and actions.
 それなら、私たちも同じ規則に従って歩みましょう。人々にしてほしいと望むとおりに、すべての人にしましょう。すべての人を愛し、敬いましょう。正義とあわれみと真実とが、私たちの思いと行いのすべてを治めるようにしましょう。
 Let our superfluities give way to our neighbour's conveniencies; (and who then will have any superfluities left) our conveniencies to our neighbour's necessities; our necessities to his extremities.
@@ -348,14 +348,14 @@ Let our superfluities give way to our neighbour's conveniencies; (and who then w
 "As many as walk by this rule, peace be to them, and mercy;" for they are "the Israel of God."
 「この法則に従って進む人々の上に、平和とあわれみとがありますように」（ガラテヤ六・一六）。彼らは「神のイスラエル」だからです（ガラテヤ六・一六）。
 But then be it observed, none can walk by this rule (nor ever did from the beginning of the world,) none can love his neighbour as himself, unless he first love God.
-けれども、次のことに注意しなければなりません。まず神を愛するのでなければ、だれもこの規則に従って歩むことはできません（世の初めから、だれもそうできた者はいません）。だれも、自分を愛するように隣り人を愛する（マタイ二二・三九）ことはできないのです。
+けれども、次のことに注意しなければなりません。まず神を愛するのでなければ、だれもこの規則に従って歩むことはできません（世の初めから、神を愛さずにそう歩んだ者はいません）。自分を愛するように隣り人を愛する（マタイ二二・三九）こともできないのです。
 And none can love God unless he believe in Christ; unless he have redemption through his blood, and the Spirit of God bearing witness with his spirit that he is a child of God.
 そして、キリストを信じるのでなければ、だれも神を愛することはできません。キリストの血によるあがない（エペソ一・七）を受けていなければ、愛することはできません。神の御霊が、自分の霊と共に、自分が神の子であることをあかししてくださる（ローマ八・一六）のでなければ、愛することはできないのです。
 Faith, therefore, is still the root of all, of present as well as future salvation.
 ですから、信仰はどこまでも、すべての根です。将来の救いの根であるだけでなく、今の救いの根でもあるのです。
 Still we must say to every sinner, "Believe in the Lord Jesus Christ, and thou shalt be saved."
-私たちは今もなお、すべての罪人に言わなければなりません。「主イエス」・キリスト「を信じなさい。そうしたら、あなたも救われます」（使徒一六・三一）。
-// 口語訳の使徒一六・三一 には「キリスト」がない（写本の違い）ので、「」の外に出した。英文が引かない「あなたの家族も」は除いた。
+私たちは今もなお、すべての罪人に言わなければなりません。「主イエス」キリスト「を信じなさい。そうしたら」、あなたは「救われます」（使徒一六・三一）。
+// 口語訳の使徒一六・三一 には「キリスト」がない（写本の違い）ので、「」の外に出した。口語訳は「あなたもあなたの家族も救われます」。英文が引かない「あなたの家族も」を除き、「あなたは」を「」の外に出した。
 Thou shalt be saved now, that thou mayst be saved for ever; saved on earth, that thou mayst be saved in heaven.
 あなたは今救われます。それは、永遠に救われるためです。地上で救われます。それは、天で救われるためです。
 Believe in him, and thy faith will work by love.
