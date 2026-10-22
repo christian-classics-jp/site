@@ -11,7 +11,7 @@ CHR. But how do you think to get in at the gate? for you may find some difficult
 クリスチャン「でも、門のところでどうやって入れてもらうつもりですか。そこでは難しいことがあるかもしれませんよ」
 
 IGNOR. As other people do, said he.
-無知「ほかの善い人たちと同じようにして入りますよ」
+無知「ほかの人たちと同じようにして入りますよ」
 
 CHR. But what have you to show at that gate, that may cause that the gate should be opened to you?
 クリスチャン「でも、門を開けてもらうために、そこで何を見せられるのですか」
