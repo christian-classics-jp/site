@@ -14,7 +14,7 @@
 + [x] Sermon 4. Scriptural Christianity
 + [x] Sermon 5. Justification By Faith
 + [x] Sermon 6. The Righteousness Of Faith
-+ [ ] Sermon 7. The Way To The Kingdom
++ [x] Sermon 7. The Way To The Kingdom
 + [ ] Sermon 8. The First Fruits Of The Spirit
 + [ ] Sermon 9. The Spirit Of Bondage And Of Adoption
 + [ ] Sermon 10. The Witness Of The Spirit: Discourse One
