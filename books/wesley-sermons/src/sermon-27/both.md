@@ -21,7 +21,7 @@ And many have run into the opposite extreme, disregarding all outward duties, pe
 And many who had a real zeal for God have, for a time, fallen into the snare on either hand.
 そして、神に対して本当に熱心であった多くの人々も、しばらくの間、どちらかの側のわなに陥りました。
 Some have magnified faith to the utter exclusion of good works, not only from being the cause of our justification, (for we know that man is justified freely by the redemption which is in Jesus,) but from being the necessary fruit of it, yea, from having any place in the religion of Jesus Christ.
-ある人々は、信仰を重んじるあまり、良きわざをまったく締め出しました。良きわざが私たちの義認の原因であることを否定しただけではありません（人は、イエスによるあがないによって価なしに義とされる（ローマ三・二四）ことを、私たちは知っているからです）。良きわざが義認の必然の実であることも否定しました。それどころか、イエス・キリストの宗教の中に何かの場所を持つことさえ、否定したのです。
+ある人々は、信仰を重んじるあまり、良きわざをまったく締め出しました。良きわざが私たちの義認の原因であることを否定しただけではありません。人は、イエスによるあがないによって価なしに義とされる（ローマ三・二四）ことを、私たちは知っているからです。良きわざが義認の必然の実であることも否定しました。それどころか、イエス・キリストの宗教の中に何かの場所を持つことさえ、否定したのです。
 Others, eager to avoid this dangerous mistake, have run as much too far the contrary way; and either maintained that good works were the cause, at least the previous condition, of justification, -- or spoken of them as if they were all in all, the whole religion of Jesus Christ.
 ほかの人々は、この危険な誤りを避けようとするあまり、反対の方向へ同じほど行き過ぎました。良きわざが義認の原因であり、少なくとも先立つ条件であると主張したのです。あるいは、良きわざがすべてであるかのように、イエス・キリストの宗教の全体であるかのように語りました。
 
@@ -33,7 +33,7 @@ And this very thing has confirmed others in the neglect, if not contempt, of the
 そして、まさにこのことのために、ほかの人々は、神の定めをおろそかにし、軽蔑さえする態度を、ますます固めました。神の定めは、それが打ち立てるはずの目的そのものを掘り崩し、覆すために、これほどみじめに悪用されたのです。
 
 4. But of all the means of grace there is scarce any concerning which men have run into greater extremes, than that of which our Lord speaks in the above-mentioned words, I mean religious fasting.
-（四）　けれども、恵みの手段のうちで、人々がこれ以上の極端に走ったものはほとんどありません。それは、私たちの主が先に挙げた言葉で語っておられるもの、すなわち宗教的な断食です。
+（四）　けれども、恵みの手段のうちで、宗教的な断食ほど、人々が極端に走ったものはほとんどありません。それは、私たちの主が先に挙げた言葉で語っておられるものです。
 How have some exalted this beyond all Scripture and reason; -- and others utterly disregarded it; as it were revenging themselves by undervaluing as much as the former had overvalued it!
 ある人々は、これを聖書と理性のすべてを越えて、どれほど高めてきたことでしょう。そして、ほかの人々は、これをまったく顧みませんでした。前者が重んじすぎたのと同じほど軽んじることで、いわば仕返しをしたのです。
 Those have spoken of it, as if it were all in all; if not the end itself, yet infallibly connected with it: These, as if it were just nothing, as if it were a fruitless labour, which had no relation at all thereto.
@@ -63,7 +63,7 @@ I. 1. I shall endeavour to show, First, what is the nature of fasting, and what 
 As to the nature of it, all the inspired writers, both in the Old Testament and the New, take the word to fast in one single sense, for not to eat, to abstain from food.
 その性質について言えば、旧約と新約とを問わず、霊感を受けた書き手はみな、断食するという語をただ一つの意味にとっています。食べないこと、食物を断つことです。
 This is so clear, that it would be labour lost to quote the words of David, Nehemiah, Isaiah, and the Prophets which followed, or of our Lord and his Apostles; all agreeing in this, that to fast, is, not to eat for a time prescribed.
-これはあまりにも明らかです。ですから、ダビデ、ネヘミヤ、イザヤ、その後に続いた預言者たちの言葉を引くのは、むだな骨折りでしょう。私たちの主と使徒たちの言葉を引くのも、同じです。彼らはみな、断食するとは定められた間食べないことだ、という点で一致しているのです。
+これはあまりにも明らかです。ですから、ダビデ、ネヘミヤ、イザヤ、その後に続いた預言者たちの言葉を引くのは、むだな骨折りでしょう。私たちの主と使徒たちの言葉を引くのも、同じです。彼らはみな、断食するとは定められた期間、食べないことだ、という点で一致しているのです。
 
 2. To this, other circumstances were usually joined by them of old, which had no necessary connexion with it.
 （二）　昔の人々は、これにほかの事柄も付け加えるのが常でした。それらは、断食と必然のつながりを持たない事柄です。
@@ -116,7 +116,7 @@ Perhaps from a mistaken imitation of this might spring the very ancient custom o
 Such was the fast of the seventh month, appointed by God himself to be observed by all Israel under the severest penalty.
 たとえば、七月の断食がそうです。これは、神ご自身が、最も厳しい罰をもって、全イスラエルに守らせるように定められたものです。
 "The Lord spake unto Moses, saying, On the tenth day of this seventh month, there shall be a day of atonement: And ye shall afflict your souls, -- to make an atonement for you before the Lord your God.
-主はモーセに言われました。「特にその七月の十日は贖罪の日です。あなたがたは身を悩まし」、「あなたがたのために、あなたがたの神、主の前にあがないを」しなければなりません（レビ記二三・二六〜二八）。
+主はモーセに言われました。「特にその七月の十日は贖罪の日です。あなたがたは」、「身を悩まし」、「あなたがたのために、あなたがたの神、主の前にあがないを」しなければなりません（レビ記二三・二六〜二八）。
 For whatsoever soul it be that shall not be afflicted in that same day, he shall be cut off from among his people." (Lev. 23:26, &c.)
 「すべてその日に身を悩まさない者は、民のうちから断たれるでしょう」（レビ記二三・二九）。
 In after-ages, several other stated fasts were added to these.
@@ -175,7 +175,7 @@ like St. Paul, who, after he was led into Damascus, "was three days without sigh
 ちょうど聖パウロがそうでした。彼はダマスコに連れて行かれたあと、「三日間、目が見えず、また食べることも飲むこともしなかった」のです（使徒九・九）。
 
 Yea, when the storm rose high; "when an horrible dread overwhelmed" one who had been without God in the world, his soul would "loathe all manner of meat;" it would be unpleasing and irksome to him;
-そうです、嵐が激しくなり、この世で神もなく過ごしてきた人を（エペソ二・一二）、「はなはだしい恐れが」「おおう」ときがあります（詩篇五五・五）。そのとき、その人の魂は「すべての食物をきら」うでしょう（詩篇一〇七・一八）。食物は不快で、わずらわしいものとなるでしょう。
+そうです、嵐が激しくなるときがあります。「はなはだしい恐れが」、この世で神もなく過ごしてきた人を（エペソ二・一二）「おおい」ます（詩篇五五・五）。そのとき、その人の魂は「すべての食物をきら」うでしょう（詩篇一〇七・一八）。食物は不快で、わずらわしいものとなるでしょう。
 // 英文の when an horrible dread overwhelmed は祈祷書の詩篇五五・五 の言い回し。口語訳とほぼ同じ意味なので、口語訳で引いた。
 he would be impatient of anything that should interrupt his ceaseless cry, "Lord, save or I perish."
 その人は絶え間なく叫びます。「主よ、お助けください」、私は滅びそうです、と（マタイ八・二五）。その叫びを妨げるものには、何であれ我慢できなくなるでしょう。
@@ -186,17 +186,17 @@ How strongly is this expressed by our Church in the first part of the Homily on 
 "When men feel in themselves the heavy burden of sin, see damnation to be the reward of it, and behold, with the eye of their mind, the horror of hell, they tremble, they quake, and are inwardly touched with sorrowfulness of heart, and cannot but accuse themselves, and open their grief unto Almighty God, and call unto him for mercy.
 「人が自分の内に罪の重荷を感じ、その報いが滅びであることを知り、心の目で地獄の恐ろしさを見るとします。そのとき、人は震え、おののき、心の悲しみに内から打たれます。そして、自分を責めずにはいられず、全能の神に自分の嘆きを打ち明け、神にあわれみを呼び求めます。
 This being done seriously, their mind is so occupied, [taken up,] partly with sorrow and heaviness, partly with an earnest desire to be delivered from this danger of hell and damnation, that all desire of meat and drink is laid apart, and loathsomeness [or loathing] of all worldly things and pleasure cometh in place.
-これが真剣になされると、その人の心はすっかりふさがれ〔奪われ〕ます。一方では悲しみと重苦しさで、一方では地獄と滅びのこの危険から救われたいという切なる願いで、ふさがれるのです。そのため、食べ物や飲み物への願いはすべて脇に置かれます。そして、この世のあらゆる物事と楽しみへのいとわしさ〔すなわち嫌悪〕が、それに代わって入ってきます。
+これが真剣になされると、その人の心はすっかりふさがれ〔奪われ〕ます。一方では悲しみと重苦しさで、他方では地獄と滅びのこの危険から救われたいという切なる願いで、ふさがれるのです。そのため、食べ物や飲み物への願いはすべて脇に置かれます。そして、この世のあらゆる物事と楽しみへのいとわしさ〔すなわち嫌悪〕が、それに代わって入ってきます。
 // 〔〕は、ウェスレーが説教集の古い語に添えた言い換え。
 So that nothing then liketh them more than to weep, to lament, to mourn, and both with words and behaviour of body to show themselves weary of life."
 こうして、そのときには、泣き、嘆き、悲しむことほど、彼らの心にかなうものはありません。言葉と体のふるまいの両方で、生きることに疲れたことを示すことほど、心にかなうものはないのです」（説教集「断食について」第一部）。
 
 3. Another reason or ground of fasting is this: Many of those who now fear God are deeply sensible how often they have sinned against him, by the abuse of these lawful things.
-（三）　断食のもう一つの理由、すなわち根拠は、こうです。今神を恐れている人々の多くは、こうした正当なものを乱用して、どれほどたびたび神に罪を犯してきたかを深く感じています。
+（三）　断食のもう一つの理由、すなわち根拠は、こうです。今、神を恐れている人々の多くは、こうした正当なものを乱用して、どれほどたびたび神に罪を犯してきたかを深く感じています。
 They know how much they have sinned by excess of food; how long they have transgressed the holy law of God, with regard to temperance, if not sobriety too; how they have indulged their sensual appetites, perhaps to the impairing even their bodily health, -- certainly to the no small hurt of their soul
 彼らは、食べ過ぎによってどれほど多くの罪を犯してきたかを知っています。節度について、またおそらくは節酒についても、どれほど長く神の聖なる律法に背いてきたかを知っています。また、自分がどれほど肉の欲にふけってきたかを知っています。おそらく体の健康を損なうほどに、そして確かに、魂を少なからず傷つけるほどにです。
 For hereby they continually fed and increased that sprightly folly, that airiness of mind, that levity of temper, that gay inattention to things of the deepest concern, that giddiness and carelessness of spirit, which were no other than drunkenness of soul, which stupefied all their noblest faculties, no less than excess of wine or strong drink.
-こうして、彼らは絶えず、あの浮かれた愚かさを養い、増し加えてきたのです。あの心の軽さ、気質の浮つき、最も大切な事柄に対する陽気な無関心、霊の浮ついた不注意をです。それらは、まさに魂の酩酊にほかなりませんでした。それらは、ぶどう酒や強い酒の飲み過ぎと同じように、彼らの最も高貴な能力をすべて麻痺させたのです。
+こうして、彼らは絶えず、あの浮かれた愚かさを養い、増し加えてきたのです。あの心の軽さ、気質の浮つき、最も大切な事柄に対する陽気な無関心、霊の軽はずみと不注意をです。それらは、まさに魂の酩酊にほかなりませんでした。それらは、ぶどう酒や強い酒の飲み過ぎと同じように、彼らの最も高貴な能力をすべて麻痺させたのです。
 To remove, therefore, the effect, they remove the cause.
 ですから、その結果を取り除くために、彼らは原因を取り除きます。
 They keep at a distance from all excess.
@@ -223,7 +223,7 @@ Here is another perpetual reason for fasting; to remove the food of lust and sen
 （五）　断食のもう一つの理由も、まったく省く必要はないでしょう（もっとも、それをあまり重んじるのがよいことかどうか、私には分かりません）。それは、ある善い人々が詳しく主張してきた理由です。
 namely, the punishing themselves for having abused the good gifts of God, by sometimes wholly refraining from them; thus exercising a kind of holy revenge upon themselves, for their past folly and ingratitude, in turning the things which should have been for their health into an occasion of falling.
 すなわち、神の良い賜物を乱用したことのために、ときにはそれをまったく断つことで、自分を罰することです。こうして彼らは、自分自身に一種の聖なる報復を加えるのです。自分の健康のためになるはずのものを、つまずきの機会に変えてしまった、過去の愚かさと恩知らずとに対してです。
-// the things which should have been for their health into an occasion of falling は、祈祷書の詩篇六九・二三 の言い回し。
+// the things which should have been for their health into an occasion of falling は、祈祷書の詩篇六九・二三（口語訳では六九・二二）の言い回し。
 They suppose David to have had an eye to this, when he said, "I wept and chastened," or punished, "my soul with fasting;" and St. Paul, when he mentions "what revenge" godly sorrow occasioned in the Corinthians.
 彼らの考えでは、ダビデはこのことを念頭に置いていました。泣いて、断食をもって自分の魂を懲らしめた、すなわち罰した、と言ったときです（詩篇六九・一〇）。また聖パウロも、神のみこころに添うた悲しみがコリントの人々を「処罰に至らせた」と述べるとき（第二コリント七・一一）、そうでした。
 // 口語訳の詩篇六九・一〇 は「わたしが断食をもってわたしの魂を悩ませば」で、英文（I wept and chastened my soul with fasting）と違う。英文から訳し、「」に入れなかった。第二コリント七・一一 の「処罰」は、英文では what revenge（どれほどの報復を）。
@@ -245,7 +245,7 @@ And he hath, in all ages, appointed this to be a means of averting his wrath, an
 How powerful a means this is to avert the wrath of God, we may learn from the remarkable instance of Ahab.
 これが神の怒りをそらすのに、どれほど力のある手段であるかは、アハブの著しい例から学ぶことができます。
 "There was none like him who did sell himself" -- wholly give himself up, like a slave bought with money -- "to work wickedness."
-「アハブのように」悪を行うことに身を売った者は「なかった」のです（列王紀上二一・二五）。身を売るとは、お金で買われた奴隷のように、自分をすっかり明け渡すことです。
+「アハブのように」、「悪を行うことに」身を売った者は「なかった」のです（列王紀上二一・二五）。身を売るとは、お金で買われた奴隷のように、自分をすっかり明け渡すことです。
 // 口語訳の列王紀上二一・二五 は「悪を行うことに身をゆだねた」。英文は sell himself で、ウェスレーはその語を説明しているので、「身を売った」として「」の外に出した。
 Yet when he "rent his clothes, and put sackcloth upon his flesh, and fasted, and went softly, the word of the Lord came to Elijah, saying, Seest thou how Ahab humbleth himself before me Because he humbleth himself before me, I will not bring the evil in his days."
 それでも、アハブが「衣を裂き、荒布を身にまとい、食を断ち」、「打ちしおれて歩いた」とき（列王紀上二一・二七）、主の言葉がエリヤに臨みました。「アハブがわたしの前にへりくだっているのを見ましたか。彼がわたしの前にへりくだっているゆえ、わたしは彼の世には災を下しません」（列王紀上二一・二八〜二九）。
@@ -264,7 +264,7 @@ When Jonah had declared, "Yet forty days and Nineveh shall be overthrown," the p
 "For the King of Nineveh arose from his throne, and laid his robe from him, and covered him with sackcloth, and sat in ashes.
 ニネベの王も、「その王座から立ち上がり、朝服を脱ぎ、荒布をまとい、灰の中に座し」たのです（ヨナ三・六）。
 And he caused it to be proclaimed and published through Nineveh, Let neither man nor beast, herd nor flock, taste anything: Let them not feed, nor drink water:"
-そして、王はニネベ中にふれさせて言いました。「人も獣も牛も羊もみな、何をも味わってはなりません。物を食い、水を飲んではなりません」（ヨナ三・七）。
+そして、王は「ニネベ中にふれさせて言」いました。「人も獣も牛も羊もみな、何をも味わってはなりません。物を食い、水を飲んではなりません」（ヨナ三・七）。
 (Not that the beast had sinned, or could repent; but that, by their example, man might be admonished, considering that, for his sin, the anger of God was hanging over all creatures:)
 （獣が罪を犯したとか、悔い改めることができたとかいうのではありません。そうではなく、人がその例によって諭されるためでした。人の罪のために、神の怒りがすべての被造物の上にかかっていることを、人が考えるためです。）
 "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not"
@@ -296,7 +296,7 @@ And God granted him mercy in the sight of the king. (Neh. 1:4-11)
 10. In like manner, the apostles always joined fasting with prayer when they desired the blessing of God on any important undertaking.
 （一〇）　同じように、使徒たちは、大切な事業に神の祝福を願うとき、いつも断食を祈りに結びつけました。
 Thus we read, (Acts 13.,) "There were in the church that was at Antioch certain Prophets and Teachers: As they ministered to the Lord and fasted," doubtless for direction in this very affair, "the Holy Ghost said, Separate me Barnabas and Saul, for the work whereunto I have called them.
-こうして、次のように記されています。「アンテオケにある教会には」、「預言者や教師がいた」（使徒一三・一）。「一同が主に礼拝をささげ、断食をしていると」（それはきっと、まさにこの件で導きを得るためでした）、「聖霊が『さあ、バルナバとサウロとを、わたしのために聖別して、彼らに授けておいた仕事に当らせなさい』と告げ」ました（使徒一三・二）。
+こうして、次のように記されています。「アンテオケにある教会には」、「預言者や教師がい」ました（使徒一三・一）。「一同が主に礼拝をささげ、断食をしていると」（それはきっと、まさにこの件で導きを得るためでした）、「聖霊が『さあ、バルナバとサウロとを、わたしのために聖別して、彼らに授けておいた仕事に当らせなさい』と告げ」ました（使徒一三・二）。
 And when they had" a second time "fasted and prayed, and laid their hands on them, they sent them away." (Acts 13:1-3.)
 そこで一同は、もう一度、「断食と祈とをして、手をふたりの上においた後、出発させ」ました（使徒一三・三）。
 
@@ -306,7 +306,7 @@ Thus also Paul and Barnabas themselves, as we read in the following chapter, whe
 Yea, that blessings are to be obtained in the use of this means, which are no otherwise attainable, our Lord expressly declares in his answer to his disciples, asking, "Why could not we cast him out
 そうです、ほかの方法では得られない祝福が、この手段を用いることで得られます。私たちの主は、そのことをはっきりと宣言しておられます。弟子たちの問いに答えられた言葉の中でです。弟子たちは問いました。「わたしたちは、どうして霊を追い出せなかったのですか」（マタイ一七・一九）。
 Jesus said unto them, Because of your unbelief: For verily I say unto you, If ye have faith as a grain of mustard-seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.
-イエスは言われました。あなたがたが信じないからです。「よく言い聞かせておきますが、もし、からし種一粒ほどの信仰があるなら、この山にむかって『ここからあそこに移れ』と言えば、移るでしょう」。そして、「あなたがたにできない事は、何もないでしょう」（マタイ一七・二〇）。
+イエスは言われました。それは、あなたがたが信じないからです、と。「よく言い聞かせておきますが、もし、からし種一粒ほどの信仰があるなら、この山にむかって『ここからあそこに移れ』と言えば、移るでしょう」。そして、「あなたがたにできない事は、何もないでしょう」（マタイ一七・二〇）。
 Howbeit, this kind" of devils "goeth not out but by prayer and fasting:" (Matt. 17:19, &c.:) --
 「しかし、このたぐいは」、すなわちこの種の悪霊は、「祈と断食とによらなければ、追い出すことはできません」（マタイ一七・二一）。
 // 口語訳のマタイ一七・二〇 は「あなたがたの信仰が足りないからである」。英文は Because of your unbelief なので、英文から訳し、「」に入れなかった。一七・二一 は、口語訳では〔〕に入っている（写本の違い）。
@@ -318,15 +318,15 @@ These being the appointed means of attaining that faith whereby the very devils 
 Such is that remarkable one by the Prophet Joel:
 預言者ヨエルによる、あの著しい啓示がそうです。
 "Therefore saith the Lord, Turn you to me with all your heart, and with fasting, and with weeping, and with mourning: -- Who knoweth if he will return and repent, and leave a blessing behind him Blow the trumpet in Zion, sanctify a fast, call a solemn assembly: --
-「主は言われる、『今からでも、あなたがたは心をつくし、断食と嘆きと、悲しみとをもってわたしに帰れ』」（ヨエル二・一二）。「神があるいは立ち返り、思いかえして祝福をその後に残し」てくださらないと、「だれが知るでしょうか」（ヨエル二・一四）。「シオンでラッパを吹きならせ。断食を聖別し、聖会を召集しなさい」（ヨエル二・一五）。
+主は言われます。「あなたがたは心をつくし、断食と嘆きと、悲しみとをもってわたしに帰れ」（ヨエル二・一二）。「神があるいは立ち返り、思いかえして祝福をその後に残し」てくださらないと、「だれが知るでしょうか」（ヨエル二・一四）。「シオンでラッパを吹きならせ。断食を聖別し、聖会を召集しなさい」（ヨエル二・一五）。
 Then will the Lord be jealous over his land, and will pity his people. Yea, I will send you corn, and wine, and oil: -- I will no more make you a reproach among the Heathen." (Joel 2.12. &c.)
-そのとき、「主は自分の地のために、ねたみを起し、その民をあわれまれ」ます（ヨエル二・一八）。「見よ、わたしは穀物と新しい酒と油とをあなたがたに送ります」。「わたしは重ねてあなたがたにもろもろの国民のうちでそしりを受けさせません」（ヨエル二・一九）。
+そのとき、「主は自分の地のために、ねたみを起し、その民をあわれまれ」ます（ヨエル二・一八）。そうです、「わたしは穀物と新しい酒と油とをあなたがたに送ります」。「わたしは重ねてあなたがたにもろもろの国民のうちでそしりを受けさせません」（ヨエル二・一九）。
 // 口語訳のヨエル二・一八 は過去形（あわれまれた）。英文は未来形なので、語尾を「」の外に出した。
 
 Nor are they only temporal blessings which God directs his people to expect in the use of these means.
 また、これらの手段を用いるときに、神がご自分の民に期待するように示されるのは、この世の祝福だけではありません。
 For, at the same time that he promised to those who should seek him with fasting, and weeping, and mourning, "I will restore you the years which locust hath eaten, the canker-worm, and the caterpillar, and the palmer-worm, my great army;"
-神は、断食と嘆きと悲しみとをもってご自分を求める人々に、こう約束されました。「わたしがあなたがたに送った大軍、すなわち群がるいなご、とびいなご、滅ぼすいなご、かみ食らういなごの食った年をわたしはあなたがたに償います」（ヨエル二・二五）。
+神は、断食と嘆きと悲しみとをもってご自分を求める人々に、こう約束されました。わたしの「大軍、すなわち群がるいなご、とびいなご、滅ぼすいなご、かみ食らういなごの食った年をわたしはあなたがたに償います」（ヨエル二・二五）。
 he subjoins, "So shall ye eat and be satisfied, and praise the name of the Lord your God. -- Ye shall also know that I am in the midst of Israel, and that I am the Lord your God."
 それと同時に、こう付け加えておられます。「あなたがたは、じゅうぶん食べて飽き」、「あなたがたの神、主のみ名をほめたたえ」ます（ヨエル二・二六）。「あなたがたはイスラエルのうちにわたしのいることを知り、主なるわたしがあなたがたの神であ」ることを知ります（ヨエル二・二七）。
 And then immediately follows the great gospel promise: "I will pour out my Spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, and your young men shall see visions: And also upon the servants and upon the handmaids in those days will I pour out my Spirit." [Joel 2:28-29]
@@ -420,17 +420,17 @@ Do what God commands as he commands it; and then, doubtless, his promise shall n
 4. "But is it not mere superstition," (so it has been, Fourthly, objected,) "to imagine that God regards such little things as these"
 （四）　第四に、こう反論されてきました。「しかし、神がこのような小さなことに目を留められると思うのは、ただの迷信ではないか」。
 If you say it is, you condemn all the generations of God's children.
-もしそうだと言うなら、あなたは神の子らのすべての世代を罪に定めることになります。
+もしそうだと言うなら、あなたは神の子らのすべての世代を責めることになります。
 But will you say, These were all weak, superstitious men
 けれども、あなたは、この人たちはみな弱く迷信深い人間だった、と言うのでしょうか。
 Can you be so hardy as to affirm this, both of Moses and Joshua, of Samuel and David, of Jehosaphat, Ezra, Nehemiah, and all the prophets yea, of a greater than all, -- the Son of God himself
 あなたは、モーセとヨシュア、サムエルとダビデについて、そう断言するほど大胆になれるのでしょうか。ヨシャパテ、エズラ、ネヘミヤ、すべての預言者たちについても、そうでしょうか。そうです、これらすべての人にまさる方、すなわち神の御子ご自身についても、そう断言できるのでしょうか。
 It is certain, both our Master, and all these his servants, did imagine that fasting is not a little thing, and that He who is higher than the highest doth regard it.
-確かなことがあります。私たちの主人も、そのしもべであるこれらすべての人々も、こう考えていたのです。断食は小さなことではなく、いと高き者よりもさらに高い方がそれに目を留められる、と。
+確かなことがあります。私たちの主人も、そのしもべであるこれらすべての人々も、こう考えていたのです。断食は小さなことではなく、最も高い者よりもさらに高い方がそれに目を留められる、と。
 Of the same judgment, it is plain, were all his Apostles, after they were "filled with the Holy Ghost, and with wisdom."
 明らかに、主の使徒たちもみな、同じ考えでした。彼らが「御霊と知恵とに満ちた」者となってからも、そうでした（使徒六・三）。
 When they had the "unction of the Holy One, teaching them all things," they still approved themselves the Ministers of God, "by fastings," as well as "by the armour of righteousness on the right hand and on the left."
-彼らは「聖なる者に油を注がれ」（第一ヨハネ二・二〇）、その油が「すべてのことを」彼らに「教え」ていました（第一ヨハネ二・二七）。そのときにも、彼らはなお「神の僕として、自分を人々にあらわし」ていました（第二コリント六・四）。「左右に持っている義の武器により」（第二コリント六・七）だけでなく、断食によっても、そうしたのです（第二コリント六・五）。
+彼らは「聖なる者に油を注がれ」（第一ヨハネ二・二〇）、その油が「すべてのことを」彼らに「教え」ていました（第一ヨハネ二・二七）。そのときにも、彼らはなお、神の僕として自分を人々にあらわしていました（第二コリント六・四）。「左右に持っている義の武器により」（第二コリント六・七）だけでなく、断食によっても、そうしたのです（第二コリント六・五）。
 // 口語訳の第二コリント六・五 は「飢餓にも」。英文は by fastings なので、英文から訳し、「」に入れなかった。
 After "the bridegroom was taken from them, then did they fast in those days."
 「花婿が奪い去られる」と、彼らは「その日には断食を」しました（ルカ五・三五）。
@@ -457,7 +457,7 @@ Practise it by all means; but not so as thereby to set aside a command of God, a
 6. Use continually then as much abstinence as you please; which, taken thus, is no other than Christian temperance; but this need not at all interfere with your observing solemn times of fasting and prayer.
 （六）　ですから、好きなだけ、絶えず節制をしなさい。このような意味での節制は、クリスチャンの節度にほかなりません。けれども、これは、あなたが厳かな断食と祈りのときを守ることを、少しも妨げる必要はありません。
 For instance: Your habitual abstinence or temperance would not prevent your fasting in secret, if you were suddenly overwhelmed with huge sorrow and remorse, and with horrible fear and dismay.
-たとえば、あなたが突然、大きな悲しみと悔恨、恐ろしい恐れとおびえに襲われたとします。そのとき、ふだんの節制や節度は、あなたがひそかに断食することを妨げないでしょう。
+たとえば、あなたが突然、大きな悲しみと悔恨、すさまじい恐れとおびえに襲われたとします。そのとき、ふだんの節制や節度は、あなたがひそかに断食することを妨げないでしょう。
 Such a situation of mind would almost constrain you to fast; you would loathe your daily food; you would scarce endure even to take such supplies as were needful for the body, till God "lifted you up out of the horrible pit, and set your feet upon a rock, and ordered your goings."
 そのような心の状態になれば、あなたはほとんど断食せずにはいられないでしょう。日ごとの食物をいやがるでしょう。体に必要な補給をとることさえ、ほとんど耐えられないでしょう。神が「滅びの穴から」あなたを「引きあげて」、あなたの「足を岩の上におき」、あなたの「歩みをたしかにされ」るまでは、そうなのです（詩篇四〇・二）。
 // 英文は祈祷書の詩篇四〇・二 の言い回し（the horrible pit）。口語訳とほぼ同じ意味なので、口語訳で引いた。
@@ -467,7 +467,7 @@ You would need none to instruct you not to eat bread till you had obtained the r
 くちびるの求め（詩篇二一・二）がかなえられるまでパンを食べるなと、だれかに教えてもらう必要はないでしょう。
 
 7. Again, had you been at Nineveh when it was proclaimed throughout the city, "Let neither man nor beast, herd nor flock, taste anything: Let them not feed or drink water, but let them cry mightily unto God;" -- would your continual fast have been any reason for not bearing part in that general humiliation
-（七）　また、あなたがニネベにいたとします。そして、町中にこうふれられたとします。「人も獣も牛も羊もみな、何をも味わってはなりません。物を食い、水を飲んではなりません」（ヨナ三・七）。「ひたすら神に呼ばわ」りなさい（ヨナ三・八）。そのとき、あなたが絶えず断食していることは、あの全体のへりくだりに加わらない理由になったでしょうか。
+（七）　また、あなたがニネベにいたとします。そして、町中にこうふれられたとします。「人も獣も牛も羊もみな、何をも味わってはなりません。物を食い、水を飲んではなりません」（ヨナ三・七）。「ひたすら神に呼ばわり」なさい（ヨナ三・八）。そのとき、あなたが絶えず断食していることは、あの全体のへりくだりに加わらない理由になったでしょうか。
 Doubtless it would not.
 疑いもなく、ならなかったでしょう。
 You would have been as much concerned as any other not to taste food on that day.
@@ -496,13 +496,13 @@ to wait for an increase of purifying grace, drawing our affections to things abo
 また、清める恵みが増し加えられるのを待ち望むことです。その恵みは、私たちの心を上にあるものへと引き寄せます（コロサイ三・二）。さらに、祈りに真剣さと熱心を加えることです。神の怒りをそらし、神がイエス・キリストにあって私たちに与えてくださった、尊く大いなる約束（第二ペテロ一・四）のすべてを得ることです。
 
 Let us beware of mocking God, of turning our fast, as well as our prayers, into an abomination unto the Lord, by the mixture of any temporal view, particularly by seeking the praise of men.
-神をあざけることのないように気をつけましょう。この世のねらいを少しでも混ぜ、とくに人の賞賛を求めるなら、私たちは祈りだけでなく断食をも、主に忌みきらわれるものに変えてしまいます。そうならないように気をつけましょう。
+神をあざけることのないように気をつけましょう。この世のねらいを少しでも混ぜるなら、とくに人の賞賛を求めるなら、祈りだけでなく断食も、主に忌みきらわれるものになってしまいます。そうならないように気をつけましょう。
 Against this our blessed Lord more peculiarly guards us in the words of the text.
 私たちの祝福された主は、本文の言葉で、とくにこのことに対して私たちを守っておられます。
 "Moreover when ye fast, be ye not as the hypocrites:" -- Such were too many who were called the people of God; "of a sad countenance;" sour, affectedly sad, putting their looks into a peculiar form.
 「また断食をする時には、偽善者がするように」してはなりません（マタイ六・一六）。神の民と呼ばれていた人々の中にも、そのような者があまりにも多くいました。「陰気な顔つきをする」とは（マタイ六・一六）、気むずかしい顔をし、わざと悲しげにし、表情を特別な形に作ることです。
 "For they disfigure their faces," not only by unnatural distortions, but also by covering them with dust and ashes; "that they may appear unto men to fast;" this is their chief, if not only design.
-「彼らは」、「自分の顔を見苦しくする」のです（マタイ六・一六）。不自然にゆがめるだけでなく、ちりと灰で顔をおおうことによってもです。それは「断食をしていることを人に見せようとして」です（マタイ六・一六）。これこそ、彼らのただ一つのねらいではないにしても、おもなねらいです。
+「彼らは」、「自分の顔を見苦しくする」のです（マタイ六・一六）。不自然にゆがめるだけでなく、ちりと灰で顔をおおうことによってもです。それは、「断食をしていることを人に見せよう」とするためです（マタイ六・一六）。これこそ、彼らのただ一つのねらいではないにしても、おもなねらいです。
 "Verily, I say unto you, They have their reward;" even the admiration and praise of men.
 「よく言っておきます。彼らはその報いを受けてしまっています」（マタイ六・一六）。すなわち、人の感嘆と賞賛を受けてしまっているのです。
 "But thou, when thou fastest, anoint thy head, and wash thy face:" Do as thou art accustomed to do at other times;
@@ -542,7 +542,7 @@ For we may not offer God murder for sacrifice, or destroy our bodies to help our
 But at these solemn seasons, we may, even in great weakness of body, avoid that other extreme, for which God condemns those who of old expostulated with him for not accepting their fasts.
 けれども、こうした厳かなときには、体がひどく弱っていても、もう一方の極端を避けることはできます。昔、自分たちの断食を受け入れてくださらないと言って神に抗議した人々を、神はこの極端のゆえに責められたのです。
 "Wherefore have we fasted, say they, and thou seest not -- Behold, in the day of your fast you find pleasure, saith the Lord."
-彼らは言います。「われわれが断食したのに、なぜ、ごらんにならないのか」（イザヤ五八・三）。主は言われます。「見よ、あなたがたの断食の日には、おのが楽しみを求め」ています（イザヤ五八・三）。
+彼らは言います。「われわれが断食したのに、なぜ、ごらんにならないのですか」（イザヤ五八・三）。主は言われます。「見よ、あなたがたの断食の日には、おのが楽しみを求め」ています（イザヤ五八・三）。
 If we cannot wholly abstain from food, we may, at least, abstain from pleasant food; and then we shall not seek his face in vain.
 食物をまったく断つことができないなら、少なくとも、おいしい食物を断つことはできます。そうすれば、私たちは、むなしく神の御顔を求めることにはならないでしょう。
 
@@ -555,14 +555,14 @@ Let it be a season of devout mourning, of godly sorrow for sin; such a sorrow as
 For ye were made sorry after a godly manner, that ye might receive damage by us in nothing.
 あなたがたがそのように悲しんだのは、神のみこころに添うたことであって、わたしたちからはなんの損害も受けなかったのです。
 For godly sorrow" -- h kata qeon luph, -- the sorrow which is according to God, which is a precious gift of his Spirit, lifting the soul to God from whom it flows -- "worketh repentance to salvation, not to be repented of."
-神のみこころに添うた悲しみは」、原語ではヘー・カタ・テオン・リュペー（ἡ κατὰ θεὸν λύπη）です。それは神に従う悲しみであり、神の御霊の尊い賜物です。その悲しみは、魂を、それが流れ出てくる源である神へと引き上げます。この悲しみは、「悔いのない救を得させる悔改めに導」きます（第二コリント七・九〜一〇）。
+神のみこころに添うた悲しみは」、原語ではヘー・カタ・テオン・リュペー（ἡ κατὰ θεὸν λύπη）です。それは神に従う悲しみであり、神の御霊の尊い賜物です。この悲しみは神から流れ出て、魂を神へと引き上げます。この悲しみは、「悔いのない救を得させる悔改めに導」きます（第二コリント七・九〜一〇）。
 // 英文の転写は h kata qeon luph。
 Yea, and let our sorrowing after a godly sort work in us the same inward and outward repentance; the same entire change of heart, renewed after the image of God, in righteousness and true holiness; and the same change of life, till we are holy as He is holy, in all manner of conversation.
 そうです、神のみこころに添うた私たちの悲しみが、私たちのうちにも同じ内と外の悔い改めを生み出すようにしましょう。真の義と聖とにおいて神のかたちに新しくされる（エペソ四・二四）、同じ全き心の変化を生み出すようにしましょう。そして、私たちがあらゆるふるまいにおいて、神が聖であるように聖なる者となるまで（第一ペテロ一・一五）、同じ生活の変化を生み出すようにしましょう。
 Let it work in us the same carefulness to be found in him, without spot and blameless; the same clearing of ourselves, by our lives rather than words, by our abstaining from all appearance of evil;
 その悲しみが、私たちのうちに同じ熱情を生み出すようにしましょう。しみもなくきずもなく、主のうちに見いだされようとする熱情です（第二ペテロ三・一四）。また、同じ弁明を生み出すようにしましょう。言葉よりも生活によって、悪のように見えるものすべてから遠ざかることによって、身の潔白を明かす弁明です。
 the same indignation, vehement abhorrence of every sin; the same fear of our own deceitful hearts; the same desire to be in all things conformed to the holy and acceptable will of God;
-同じ義憤、すなわちあらゆる罪への激しい嫌悪を生み出しましょう。偽る自分の心に対する（エレミヤ一七・九）、同じ恐れを生み出しましょう。すべてのことにおいて、聖く、神に喜ばれる神の御旨にかなう者となりたいという、同じ愛慕を生み出しましょう。
+同じ義憤、すなわちあらゆる罪への激しい嫌悪を生み出しましょう。偽る自分の心に対する（エレミヤ一七・九）、同じ恐れを生み出しましょう。すべてのことにおいて、聖く、喜ばれる神の御旨にかなう者となりたいという、同じ愛慕を生み出しましょう。
 the same zeal for whatever may be a means of his glory, and of our growth in the knowledge of our Lord Jesus Christ; and the same revenge against Satan and all his works, against all filthiness both of flesh and Spirit. (2 Cor. 7:9, &c.)
 同じ熱意を生み出しましょう。神の栄光の手段となりうるもの、また私たちの主イエス・キリストを知る知識において成長する手段となりうるものに対する熱意です。そして、サタンとそのすべてのわざとに対する、また肉と霊とのいっさいの汚れ（第二コリント七・一）に対する、同じ報復の心を生み出しましょう（第二コリント七・一一）。
 // 熱情・弁明・義憤・恐れ・愛慕・熱意・報復は、第二コリント七・一一 の語に対応させた（口語訳の「処罰」は、英文では revenge）。
