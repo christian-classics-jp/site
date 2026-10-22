@@ -20,7 +20,7 @@
 + [x] Sermon 10. The Witness Of The Spirit: Discourse One
 + [x] Sermon 12. The Witness Of Our Own Spirit
 + [x] Sermon 16. The Means Of Grace
-+ [ ] Sermon 17. The Circumcision Of The Heart
++ [x] Sermon 17. The Circumcision Of The Heart
 + [ ] Sermon 18. The Marks Of The New Birth
 + [ ] Sermon 19. The Great Privilege Of Those That Are Born Of God
 + [ ] Sermon 21. Upon Our Lord's Sermon On The Mount: Discourse One
