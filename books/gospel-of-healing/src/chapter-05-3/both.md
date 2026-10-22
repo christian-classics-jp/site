@@ -66,7 +66,7 @@ THE BLIND MAN AT BETHSAIDA. Mark viii. 22.
 （一）　キリストが最初になさったことは、この男の手を取って町の外に連れ出すことでした。群衆から離れたところでひとり考える時間を与え、キリストと共に歩くこと、暗闇の中でキリストを信頼することを教えるためでした。私たちについても同じで、最初にキリストはご自分と二人きりになるところに連れ出します。そうして長い時間が経ってから、私たちはキリストの御顔を仰ぎ見、キリストが私たちを導いてくださったことを知るようになります。
 
 2 Next He begins the work of healing him by a simple anointing, as a sign, and putting His hands upon his eyes. The result is a partial healing, but distorted and unsatisfactory. Thus would He teach us that sometimes our progress will be partial and by successive stages. Many never get beyond this first stage.
-（二）　次にキリストは、しるしとして簡素な油注ぎをし、男の目の上に御手を置いて、癒しのみわざを始められました。その結果、部分的に癒やされましたが、まだ視界はぼやけていて不十分でした。この出来事によって主が教えてくださっているのは、私たちの癒しが部分的で、少しずつ段階的に進んでいくことが時々あるということです。この最初の段階から先に進めない人がたくさんいます。
+（二）　次にキリストは、しるしとして簡素な油注ぎをし、男の目の上に御手を置いて、癒しのみわざを始められました。その結果、部分的に癒されましたが、まだ視界はぼやけていて不十分でした。この出来事によって主が教えてくださっているのは、私たちの癒しが部分的で、少しずつ段階的に進んでいくことが時々あるということです。この最初の段階から先に進めない人がたくさんいます。
 
 3 There is a third stage-perfect sight; and it comes from one cause: a look at Jesus. "I see men," he said the first time; and while he only saw men, he saw nothing clearly. But the second time the Lord made Him "look up," and now he saw clearly. That one look at Jesus, even through the dimness, made all things clear and whole.
 （三）　三番目の段階として、完全に見えるようになりました。ひとつの理由があります。それはイエスを見ることです。「人が見えます」と男は最初言いました。そして人をただ見ているあいだは、何もはっきり見えませんでした。けれども二度目に、主が彼に「見上げ」させると、はっきり見えるようになりました。おぼろげな目でもイエスをひと目見たことで、あらゆるものがはっきりと完全に見えるようになったのです。

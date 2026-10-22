@@ -31,7 +31,7 @@ The healing of Abimelech, Miriam, Job, Naaman and Hezekiah; the case of the Lepe
 His own life was a complete summary of Christianity; and from His words and works we may surely gather the great intent of redemption. And what was the testimony of His life to physical healing?
 キリストご自身の生涯は、キリスト教の完全な要約です。キリストのことばとみわざから、贖いの壮大な目的を確かに読み取ることができます。キリストのご生涯は肉体的な癒しに関してどんな証言をしているのでしょうか。
 He went about their cities healing all manner of sickness and disease among the people. He healed all that had need of healing, that it might be fulfilled which was spoken by Esaias the Prophet, "Himself took our infirmities, and bare our sicknesses."
-キリストは町々を巡り歩いて、民の中のあらゆる病気、あらゆるわずらいをお癒やしになりました。治療を要する人たちをみなお癒やしになりました。それは、預言者イザヤによって「彼は、わたしたちのわずらいを身に受け、わたしたちの病を負うた」と言われた言葉が成就するためでした。
+キリストは町々を巡り歩いて、民の中のあらゆる病気、あらゆるわずらいをお癒しになりました。治療を要する人たちをみなお癒しになりました。それは、預言者イザヤによって「彼は、わたしたちのわずらいを身に受け、わたしたちの病を負うた」と言われた言葉が成就するためでした。
 Now, when we remember that this was not an occasional incident, but a chief part of His ministry; that He began His work with it, that He continued it to the close of His life; that He did it on all possible occasions and in every variety of cases, that He did it heartily, willingly, and without leaving any doubt or question of His will;
 さあ、思い出しましょう。このことはたまさか起きたのではなく、キリストの主要な働きでした。キリストはその働きを癒しで始め、地上の生涯の終わりまで継続なさいました。キリストは可能なかぎりあらゆる機会をとらえ、さまざまな状況にあって癒しを行われました。真心から、ご自身の意志で、それがみこころであることに疑問の余地も残さずに。
 that He distinctly said to the doubting leper, "I will," and was only grieved when men hesitated to fully trust Him and when we realize that in all this He was but unfolding the real purpose of His great redemption, and revealing His own unchanging character and love, and that he has distinctly assured us that He is still "the same yesterday, to-day, and for ever "--surely we have a great principle to rest our faith upon, as secure as the Rock of Ages.
@@ -46,7 +46,7 @@ But, again, it is most distinctly stated in the 53rd chapter of Isaiah, as we ha
 しかしまた、すでに見たように、イザヤ書五十三章で最も明確に述べられていることですが、キリストは私たちの病を負い、私たちの痛みをになったと言われています。「負う」という単語は罪の贖いのために使われる単語と同じです。この単語は、贖罪のやぎが人々のもろもろの悪を負って去る箇所で使われ、またイザヤ書の同じ章で「多くの人の罪を負い」という節でも使われています。
 // イザヤ五三・四の口語訳は「われわれの悲しみをになった」。原文は肉体の苦しみを負ったことを論じているので、英文の pains に従って「痛み」とした。
 In the same sense, then, as He has borne away our sins has he also borne our sicknesses. And Peter also states that "He bare our sins in His own body on the tree . . . . by whose stripes we are healed."
-ですから、彼が私たちの罪を負ったのと同じ意味で、私たちの病気をも負ってくださったのです。ペテロもこう述べています。「十字架にかかって、わたしたちの罪をご自分の身に負われた。……その傷によって、あなたがたは、いやされたのである。」（第一ペテロ二・二四）
+ですから、彼が私たちの罪を負ったのと同じ意味で、私たちの病気をも負ってくださったのです。ペテロもこう述べています。「十字架にかかって、わたしたちの罪をご自分の身に負われた。……その傷によって、あなたがたは、いやされたのである」（第一ペテロ二・二四）。
 In His own body He has borne all our bodily liabilities for sin, and our bodies are set free. That one cruel "stripe" of His-for the word is singular-summed up in it all the aches and pains of a suffering world; and there is no longer need that we should suffer what He has sufficiently borne. Thus our healing becomes a great redemption right, which we simply claim as our purchased inheritance through the blood of His Cross.
 罪のために私たちの肉体が負うべきものを、キリストはすべてご自身のからだに負ってくださいました。それで、私たちの肉体は自由になりました。キリストが受けたあのむごい一つの「傷」が――原語は単数形です――苦しんでいる世界のすべての痛みをその中に集約しています。キリストが完全に負ってくださったものについて、私たちはもう苦しむ必要がありません。神癒は素晴らしい贖いに含まれている権利となりました。ですから、私たちは十字架の血で買い取られた相続分として、神癒を単純に求めます。
 
@@ -109,13 +109,13 @@ It has all the old physical power, and produces all the ancient results upon the
 So Mary had to learn in the very first moment of the resurrection. "Touch me not--I ascend." Thus, henceforth, must she know Him as the Ascended One. So Paul had ceased to know Christ Jesus after the flesh.
 このことを、マリヤは復活にまみえた最初の瞬間に学ばなければなりませんでした。「わたしにさわってはいけない。わたしは上って行く。」それ以降、マリヤはキリストを昇天のキリストとして知らなければなりませんでした。同じように、パウロもキリスト・イエスを肉によって知ることをやめました。
 So He had to guard the disciples at Capernaum, where, speaking of the Living Bread-the Source of healing-He adds: "What and if ye shall see the Son of man ascend up where He was before? It is the Spirit that quickeneth; the flesh profiteth nothing."
-同じように、イエスはカペナウムで弟子たちに注意を与えなければなりませんでした。生けるパン――癒しの供給源でもある――について話されたとき、こう付け加えました。「それでは、もし人の子が前にいた所に上るのを見たら、どうなるのか。人を生かすものは霊であって、肉はなんの役にも立たない。」（ヨハネ六・六二〜六三）
+同じように、イエスはカペナウムで弟子たちに注意を与えなければなりませんでした。生けるパン――癒しの供給源でもある――について話されたとき、こう付け加えました。「それでは、もし人の子が前にいた所に上るのを見たら、どうなるのか。人を生かすものは霊であって、肉はなんの役にも立たない」（ヨハネ六・六二〜六三）。
 This is the reason why many find it hard to meet the Healer. They do not know the Holy Ghost. They do not know God spiritually. The sun in the heavens would be but a cold and glaring ball of ice were it not for the atmosphere which brings His warmth and light to us and diffuses them through our world.
 多くの人が癒し主と出会うのが難しいのはこういうわけです。彼らは聖霊を知りません。神を霊的に知りません。天の太陽は、もし大気が熱と光を伝えず、世界に散乱させなければ、ただの冷たく輝く氷のボールにすぎません。
 And Christ's life and love cannot reach us without the intermediate Spirit, the Light, the Atmosphere, the Divine Medium who brings and sheds abroad His life and light, His love and Presence in our being, the taking of the things of Jesus and showing them to us, extracting the very essence of His life and frame, and sweetly diffusing it through every vessel, nerve, organ and function of our being.
 キリストのいのちと愛も、媒介となる聖霊なしには私たちに届きません。聖霊こそが光であり大気であり、キリストのいのちと光を注ぎ、愛と臨在を私たちの内側にもたらす神の仲介者です。聖霊が、イエスのものを受けて、それを私たちに知らせ、イエスのいのちとからだの本質をとらえて、私たちの血管、神経、器官、機能のすみずみにまで優しく行き渡らせるのです。
 Yes, He is the great Quickener. It was through the Holy Ghost that Jesus cast out devils on earth,-and now, if the Spirit of Him that raised up Jesus from the dead dwell in you, He that raised up Christ from the dead shall also quicken your mortal body through His Spirit that dwelleth in us.
-そうです、聖霊はいのちを与える方です。イエスが地上で悪霊を追い出したのは聖霊の御力によってでした。現在も同じです。「もし、イエスを死人の中からよみがえらせたかたの御霊が、あなたがたの内に宿っているなら、キリスト・イエスを死人の中からよみがえらせたかたは、あなたがたの内に宿っている御霊によって、あなたがたの死ぬべきからだをも、生かしてくださるであろう。」（ローマ八・一一）
+そうです、聖霊はいのちを与える方です。イエスが地上で悪霊を追い出したのは聖霊の御力によってでした。現在も同じです。「もし、イエスを死人の中からよみがえらせたかたの御霊が、あなたがたの内に宿っているなら、キリスト・イエスを死人の中からよみがえらせたかたは、あなたがたの内に宿っている御霊によって、あなたがたの死ぬべきからだをも、生かしてくださるであろう」（ローマ八・一一）。
 
 9 This new life must come, like all the blessings of Christ's redemption, as the FREE GRACE OF GOD, WITHOUT WORKS, AND WITHOUT DISTINCTION OF MERIT OR RESPECT OF PERSONS.
 【九】　この新しいいのちは、キリストの贖いにあるどの祝福とも同じく、**わざによらない神の自由な恵みであり、人の功績による差別やえこひいきがありません**。
@@ -123,7 +123,7 @@ Yes, He is the great Quickener. It was through the Holy Ghost that Jesus cast ou
 Everything that comes through Christ must come as grace. There can be no works mingled with justifying faith, except those which come after justification, and as its fruits.
 キリストを通じて与えられるものはすべて恵みです。人を義とする信仰に、行いを混ぜることはできません。例外は、義とされた後に、その実として伴う行いだけです。
 Any others are dead works, and fatal to our salvation. Even so, our healing must be wholly of God, or not of grace at all. If Christ heals he must do it alone.
-それ以外の行いはすべて死んだわざであって、救いにとって致命的です。同じように、癒しも完全に神から出たものでなければなりません。そうでなければ、まったく恵みではありません。キリストがお癒やしになるなら、ただおひとりでお癒しになります。
+それ以外の行いはすべて死んだわざであって、救いにとって致命的です。同じように、癒しも完全に神から出たものでなければなりません。そうでなければ、まったく恵みではありません。キリストがお癒しになるなら、ただおひとりでお癒しになります。
 This principle ought to settle for ever the question of using means in connection with faith for healing. The natural and the spiritual, the earthly and the heavenly, the works of man and the grace of God, cannot be mixed, any more than you could expect to harness a tortoise with a locomotive, or make a great sea cable part of iron and part of hemp.
 この原理は、神癒の信仰と他の手段を組み合わせて使って良いのかという疑問を永遠に解決してくれます。亀と機関車を同時に走らせたり、大きな海底ケーブルを一部は鉄、一部は麻で作ったりするのがありえないように、自然のものと霊的なもの、地上的なものと天的なもの、人間のわざと神の恵みは、混合されえません。
 They cannot work together. The gifts of the Gospel are Sovereign gifts. God can do the most difficult things for us Himself. But He cannot help our self-sufficiency to do the easiest. A hopeless case is therefore much more hopeful than one where we think we can do something ourselves. We must "Venture on Him, venture wholly, Let no other trust intrude."
@@ -131,7 +131,7 @@ They cannot work together. The gifts of the Gospel are Sovereign gifts. God can 
 If healing is to be sought by natural means, let us get all the best results of skill and experience. But if it is to be through the name of Jesus it must be by grace alone. It follows also in the same connection that if it be a part of the Gospel and a gift of Christ, it must be an impartial one, limited only by the great "whosoever" of the Gospel.
 癒しが自然の方法で求められるべきものならば、あらゆる技と経験を駆使しましょう。けれども、癒しがイエスの御名を通して与えられるものであれば、ただ恵みのみによって得られます。同様に、癒しが福音の一部であり、キリストの賜物であるならば、福音の偉大な「誰にでも」という性質にのみ制約されて、必ず公平に与えられます。
 It is not a special gift of discriminating favoritism, but a great and common heritage of faith and obedience. It is "Whosoever will, let him take the water of life freely." It is true all who come must conform to the simple conditions of obedient faith; but these are impartial without respect of persons, and within the reach of all.
-選り好みで差別されるような特別な賜物ではありません。誰にでも与えられる、信仰と従順の偉大な相続分です。「いのちの水がほしい者は、価なしにそれを受けるがよい。」（黙示録二二・一七）来る者は従順の信仰という単純な条件を満たさなければならないことは真実ですが、その条件は人を分け隔てしない公平なもので、すべての人の手の届くところにあります。
+選り好みで差別されるような特別な賜物ではありません。誰にでも与えられる、信仰と従順の偉大な相続分です。「いのちの水がほしい者は、価なしにそれを受けるがよい」（黙示録二二・一七）。来る者は従順の信仰という単純な条件を満たさなければならないことは真実ですが、その条件は人を分け隔てしない公平なもので、すべての人の手の届くところにあります。
 
 10 The simple condition of this great Blessing, alike the condition of all the blessings of the Gospel-is FAITH WITHOUT SIGHT. Grace without works and faith without sight must always go together as twin principles of Glorious Gospel. The one thing God asks from all who are to receive His grace is that they shall trust His simple word where they have nothing else but His word to trust.
 【十】　この偉大な祝福の単純な条件は、福音に含まれる祝福すべてについて言えることですが、**見ずに信じる信仰**です。
@@ -153,7 +153,7 @@ But how wonderful! The tense is completely changed. It is no longer a promise, b
 11 Is there any principle involving THE OBLIGATION of faith in reference to physical healing? Is it an optional matter with us how we shall be healed, and whether we shall trust God or look to man? Is it "an ordinance and a statute" for us, and a matter of simple obedience?
 【十一】　からだの癒しについて信仰の**義務**に関する原理はあるのでしょうか。
 
-どのように癒やされるか、あるいは私たちが神を信頼するか人を見るかは、私たちが自由に選択できるのでしょうか。それとも「定めとおきて」であって、単純に従うべき事柄でしょうか。
+どのように癒されるか、あるいは私たちが神を信頼するか人を見るかは、私たちが自由に選択できるのでしょうか。それとも「定めとおきて」であって、単純に従うべき事柄でしょうか。
 // 出エジプト一五・二五後半（マラ）は照合に使った口語訳本文に欠けているため、第三章の「定めとおきて」に揃えた。
 Is it His great prerogative to deal with the bodies He has redeemed, and an impertinence for man, and unsanctified man, to tamper with them, and an equal impertinence for us to choose some other way than His? Is the Gospel of salvation a commandment as well as a promise, and is the Gospel of healing of equal authority?
 贖われた者たちの身体を神がどう取り扱うかは神の偉大な特権であって、人間が、それも聖められていない人間がそれをいじり回すのは僭越であり、私たちが神の方法以外の道を選ぶのも同じく僭越なのでしょうか。救いの福音は約束であると同時に命令でもあるのでしょうか。そして、癒しの福音にも同じ権威があるのでしょうか。
@@ -181,9 +181,9 @@ The stalk must rise and grow strong enough to bear its heavy fruit. Many persons
 13 The Limitations of Healing are also fixed by certain principles. A. It is not the immortal life. Why should people ever die if Christ will always heal? Because faith can only go as far as God's promise, and God has nowhere promised that we shall never die during this Dispensation. The promise is fullness of life and health and strength up to the measure of our natural life, and until our life-work is done.
 【十三】　癒しの限界もまたある原理によって定められています。
 
-（一）　それは不死のいのちではありません。キリストがいつも癒やしてくださるのなら、どうして人は死ぬのでしょうか。信仰が到達できるのは神の約束の範囲内までだからです。神は私たちがこの経綸の時代に死ななくなることをどこにも約束しておられません。約束されているのは、自然のいのちの長さまで、私たちの生涯の働きがなされるまでの間、いのちと健康と強さが持続することです。
+（一）　それは不死のいのちではありません。キリストがいつも癒してくださるのなら、どうして人は死ぬのでしょうか。信仰が到達できるのは神の約束の範囲内までだからです。神は私たちがこの経綸の時代に死ななくなることをどこにも約束しておられません。約束されているのは、自然のいのちの長さまで、私たちの生涯の働きがなされるまでの間、いのちと健康と強さが持続することです。
 True, it is the life of the resurrection which we have; but it is not the whole of it, but only the first fruits. In speaking of our immortal life in II. Cor. v. the Apostle says: "Now He that hath wrought as for this self-same thing is God, who also hath given us the earnest of the Spirit"
-私たちがいただいているのは復活のいのちであることは真実ですが、その全体ではなく、ただ初穂だけです。不死のいのちについて第二コリント五章で使徒が語っています。「わたしたちを、この事にかなう者にして下さったのは、神である。そして、神はその保証として御霊をわたしたちに賜わったのである。」（第二コリント五・五）
+私たちがいただいているのは復活のいのちであることは真実ですが、その全体ではなく、ただ初穂だけです。不死のいのちについて第二コリント五章で使徒が語っています。「わたしたちを、この事にかなう者にして下さったのは、神である。そして、神はその保証として御霊をわたしたちに賜わったのである」（第二コリント五・五）。
 // 口語訳の「保証」は KJV の earnest。次の段落で原文は earnest を手付のたとえで説明しているので、そちらは「この保証、私たちがいただいた手付金」としてつないだ。
 That is, as our earnest was a handful of the very soil of the purchased farm, but only a handful, so God has given us now, by His Spirit, in our new physical life, a handful of the very life of the resurrection. But it is only a handful, and the fullness will not come until His coming. But that handful is worth all the soil of earth and the natural life a hundredfold.
 すなわち、この保証、私たちがいただいた手付金は買い取られた農場そのものの土のひと握りですが、それはひと握りにすぎません。同じように神が御霊によって私たちに与えてくださった新しい肉体的いのちも、復活のいのちのひと握り分です。ひと握りだけが与えられていて、完全なものは主の来臨まで来ません。けれども、そのひと握りには、地上のすべての土と自然のいのちの百倍もの価値があります。
@@ -193,4 +193,4 @@ B. The next limitation has reference to the measure and degree in which we can e
 But we shall have no strength for mere display, and certainly none to waste in recklessness, or spend in selfishness and sin. Within the limits of our Godappointed work, and these limits may be very wide-much wider than any mere natural strength--we can do all things through Christ that strengtheneth us, and may fearlessly undertake all labors, self-denials, and difficulties in the face of exposure, weakness, unhealthy conditions of climate, and the most engrossing demands upon strength and time, where Christ clearly leads and calls us;
 しかし、誇示するためだけの強さや、むやみに浪費したり自己中心や罪に費やすための力はありません。神に任じられた働きという限界はありますが、この限界は非常に広いものです。どんな自然の強さよりも広いです。その限界の内であれば、私たちは私たちを強くしてくださるキリストによって、何事でもすることができます。キリストがはっきりと私たちを導き、召しておられるところでは、野ざらしや弱さや健康に悪い気候、強さと時間を最も奪う要求に直面しても、あらゆる苦役、自己否定、困難を恐れずに引き受けることができます。
 and we shall have His protecting power and find that "God is able to make all grace abound so that we, always having all sufficiency in all things, may abound unto every good work." But let us touch the forbidden earth, get out of that sacred circle of His will, or spend our strength on self or sin, and our life will wither-like Jonah's gourd and Samson's arm. Yes, it must be true in our life; all true-not one part wanting, "OF Him, and THROUGH Him, and TO HIM - are all things to whom be glory for ever. Amen."
-私たちは神の守りの御力を得て、次の真実を見出します。「神はあなたがたにあらゆる恵みを豊かに与え、あなたがたを常にすべてのことに満ち足らせ、すべての良いわざに富ませる力のあるかたなのである。」（第二コリント九・八）しかし、禁断の地に触れ、神のみこころの聖なる領域から出て、その強さを自己と罪のために費やしてみなさい。たちまちいのちがしおれてしまいます――ヨナのとうごまやサムソンの腕のように。そうです、次のことばが私たちのいのちにおいて真実とならなければなりません。どの部分も欠けることなく、すべてが真実と。「万物は、神からいで、神によって成り、神に帰するのである。栄光がとこしえに神にあるように、アーメン。」（ローマ一一・三六）
+私たちは神の守りの御力を得て、次の真実を見出します。「神はあなたがたにあらゆる恵みを豊かに与え、あなたがたを常にすべてのことに満ち足らせ、すべての良いわざに富ませる力のあるかたなのである」（第二コリント九・八）。しかし、禁断の地に触れ、神のみこころの聖なる領域から出て、その強さを自己と罪のために費やしてみなさい。たちまちいのちがしおれてしまいます――ヨナのとうごまやサムソンの腕のように。そうです、次のことばが私たちのいのちにおいて真実とならなければなりません。どの部分も欠けることなく、すべてが真実と。「万物は、神からいで、神によって成り、神に帰するのである。栄光がとこしえに神にあるように、アーメン」（ローマ一一・三六）。
