@@ -2,7 +2,7 @@
 The First Fruits of the Spirit
 
 "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit." Rom. 8:1
-「こういうわけで、今やキリスト・イエスにある者」、すなわち「肉によらず霊によって歩く」者は、「罪に定められることがありません」（ローマ八・一）。
+「こういうわけで、今やキリスト・イエスにある者」、すなわち「肉によらず霊によって歩く」者は、「罪に定められることがありません」（ローマ八・一）
 // 英文（欽定訳）の who walk not after the flesh, but after the Spirit は、口語訳のローマ八・一にない（写本の違い）。同じ句のある八・四の口語訳「肉によらず霊によって歩く」を用いた。本文中も同じ。
 // 題は、ローマ八・二三の口語訳「御霊の最初の実」による。
 
@@ -30,13 +30,13 @@ for they "have received, not the spirit of the world, but the Spirit which is of
 which Spirit "beareth witness with their spirits, that they are the children of God."
 この御霊は、彼らの「霊と共に」、彼らが「神の子であることをあかしして」くださいます（ローマ八・一六）。
 And to this is added the testimony of their conscience, "that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, they have had their conversation in the world" (2 Cor. 1:12).
-これに、彼らの「良心のあかし」が加わります。自分たちは、単純さと神からの誠実さとをもって、「人間の知恵によってではなく神の恵みによって」、「この世で」ふるまってきた、という良心のあかしです（第二コリント一・一二）。
+これに、彼らの「良心のあかし」が加わります。自分たちは「この世で」、単純さと、神にかなう誠実さとをもってふるまってきた。「人間の知恵によってではなく神の恵みによって」ふるまってきた。良心は、そうあかしするのです（第二コリント一・一二）。
 // 欽定訳の第二コリント一・一二 in simplicity and godly sincerity は、口語訳では「神の神聖と真実とによって」（写本の違い）。英文に合わせて訳し、「」に入れなかった。
 
 3. But because this scripture has been so frequently misunderstood, and that in so dangerous a manner;
 （三）　けれども、この聖句は、たびたび誤解されてきました。それも、きわめて危険なしかたで誤解されてきたのです。
 because such multitudes of "unlearned and unstable men" (oi amaqeis kai asthriktoi, men untaught of God, and consequently unestablished in the truth which is after godliness) have wrested it to their own destruction;
-実に多くの「無学で心の定まらない者たち」が、この聖句に「無理な解釈をほどこして、自分の滅亡を招いて」きました（第二ペテロ三・一六）。ギリシャ語ではホイ・アマテイス・カイ・アステーリクトイ（οἱ ἀμαθεῖς καὶ ἀστήρικτοι）、すなわち、神に教えられておらず、そのため「信心にかなう真理」に堅く立っていない人々です（テトス一・一）。
+実に多くの「無学で心の定まらない者たち」が、この聖句に「無理な解釈をほどこして、自分の滅亡を招いて」きました（第二ペテロ三・一六）。ギリシャ語ではホイ・アマテイス・カイ・アステーリクトイ（οἱ ἀμαθεῖς καὶ ἀστήρικτοι）です。神に教えられておらず、そのため「信心にかなう真理」に堅く立っていない人々のことです（テトス一・一）。
 // 英文の oi amaqeis kai asthriktoi は、ギリシャ語 οἱ ἀμαθεῖς καὶ ἀστήρικτοι の転写。
 I propose to show, as clearly as I can,
 そこで私は、できるかぎりはっきりと、次のことを示したいと思います。<br/>
@@ -60,7 +60,7 @@ these, "who have redemption through his blood," are properly said to be 'in him'
 for they dwell in Christ, and Christ in them.
 彼らはキリストのうちにおり、キリストも彼らのうちにおられるからです（ヨハネ六・五六）。
 They are joined unto the Lord in one Spirit.
-彼らは「主につ」き、「主と一つの霊になる」のです（第一コリント六・一七）。
+彼らは「主につく者」として、「主と一つの霊になる」のです（第一コリント六・一七）。
 They are ingrafted into him as branches into the vine.
 枝がぶどうの木に接がれるように、彼らはキリストに接がれています。
 They are united, as members to their head, in a manner which words cannot express, nor could it before enter into their hearts to conceive.
@@ -104,18 +104,18 @@ insomuch that every fresh assault which they undergo, only gives them fresh occa
 They are taught of him to love God and their neighbour, with a love which is as "a well of water, springing up into everlasting life."
 彼らは御霊に教えられて、神と隣り人とを愛します。その愛は、「永遠のいのちに至る水が、わきあがる」泉のようです（ヨハネ四・一四）。
 And by him they are led into every holy desire, into every divine and heavenly temper, till every thought which arises in their heart is holiness unto the Lord.
-また、彼らは御霊に導かれて、あらゆる聖なる願いに、あらゆる神的な、天的な気質に入っていきます。そしてついには、心に起こる思いの一つ一つが、主に聖なるものとなるのです。
+また、彼らは御霊に導かれて、あらゆる聖なる願いに、あらゆる神的な、天的な気質に入っていきます。そしてついには、心に起こる思いの一つ一つが、「主に聖なる」ものとなるのです（出エジプト二八・三六）。
 
 5. They who "walk after the Spirit," are also led by him into all holiness of conversation.
 （五）　「霊によって歩く」人々は、また御霊に導かれて、あらゆる聖なるふるまいに入ります。
 Their "speech is always in grace, seasoned with salt"; with the love and fear of God.
-彼らの言葉は、「いつも、塩で味つけられた、やさしい言葉」です（コロサイ四・六）。神への愛と神への畏れという塩で、味つけられているのです。
+彼らの言葉は、「いつも、塩で味つけられた、やさしい言葉」です（コロサイ四・六）。神への愛と神への恐れという塩で、味つけられているのです。
 "No corrupt communication comes out of their mouth; but only that which is good," that which is "to the use of edifying," which is "meet to minister grace to the hearers."
 彼らは、「悪い言葉をいっさい」「口から出」しません。良い言葉だけを語ります。「人の徳を高めるのに役立つような言葉」、「聞いている者の益になる」言葉を語るのです（エペソ四・二九）。
 And herein likewise do they exercise themselves day and night, to do only the things which please God;
-また、彼らは、次のことにも昼も夜も励みます。まず、ただ神に喜ばれることだけを行うことです。
+また、彼らは、次のことにも昼も夜も励みます。ただ神に喜ばれることだけを行うことです。
 in all their outward behaviour to follow him "who left us an example that we might tread in his steps";
-外に現れるすべてのふるまいにおいて、キリストに従うことです。キリストは、私たちが「御足の跡を踏み従うようにと、模範を残され」た方です（第一ペテロ二・二一）。
+すなわち、外に現れるすべてのふるまいにおいて、キリストに従うことです。キリストは、私たちが「御足の跡を踏み従うようにと、模範を残され」た方です（第一ペテロ二・二一）。
 in all their intercourse with their neighbour, to walk in justice, mercy, and truth;
 隣り人とのすべての交わりにおいて、公正とあわれみと真実のうちに歩むことです。
 and "whatsoever they do," in every circumstances of life, to "do all to the glory of God.
@@ -139,7 +139,7 @@ II. 1. I proposed to show, in the second place, how "there is no condemnation to
 （一）　私は第二に、このように「キリスト・イエスにある者」、このように「肉によらず霊によって歩く」者が、どのように「罪に定められることがない」のかを示すと述べました。
 
 And, first, to believers in Christ, walking thus, "there is no condemnation" on account of their past sins.
-まず第一に、このように歩むキリストを信じる人々は、過去の罪のために「罪に定められることがない」のです。
+まず第一に、キリストを信じてこのように歩む人々は、過去の罪のために「罪に定められることがない」のです。
 God condemneth them not for any of these;
 神は、過去の罪のどれについても、彼らを罪に定められません。
 they are as though they had never been;
@@ -170,7 +170,7 @@ flowing from a continual sense of his pardoning mercy, and "the answer of a good
 3. If it be said, "But sometimes a believer in Christ may lose his sight of the mercy of God;
 （三）　ある人は、こう言うかもしれません。「けれども、キリストを信じる者も、ときには神のあわれみを見失うことがあるではないか。
 sometimes such darkness may fall upon him that he no longer sees him that is invisible, no longer feels that witness in himself of his part in the atoning blood;
-ときには、深い闇がその人に下って、もはや『見えないかた』が見えなくなる（ヘブル一一・二七）。あがないの血にあずかっているという、自分のうちのあかしを、もはや感じなくなる。
+ときには、深い闇がその人に下って、もはや『見えないかた』を見ることができなくなる（ヘブル一一・二七）。あがないの血にあずかっているという、自分のうちのあかしを、もはや感じなくなる。
 and then he is inwardly condemned, he hath again "the sentence of death in himself" ':
 そのとき、その人は内側で罪に定められる。再び、自分のうちに死の宣告を受けるのではないか（第二コリント一・九）」。
 // 欽定訳の第二コリント一・九 the sentence of death in ourselves は、口語訳では「心のうちで死を覚悟し」。英文に合わせて訳し、『』に入れなかった。
@@ -198,7 +198,7 @@ This is the continual proof of their "love of God, that they keep his commandmen
 he cannot, so long as that seed of God, that loving, holy faith remaineth in him.
 その神の種、すなわち、愛に満ちた聖なる信仰がその人のうちにとどまっているかぎり、その人は罪を犯すことができないのです。
 So long as "he keepeth himself" herein, "that wicked one toucheth him not."
-その人がこのうちに自分を守っているかぎり、「悪しき者が手を触れるようなことは」ありません（第一ヨハネ五・一八）。
+その人がこの信仰のうちに自分を守っているかぎり、「悪しき者が手を触れるようなことは」ありません（第一ヨハネ五・一八）。
 // 欽定訳の第一ヨハネ五・一八 he that is begotten of God keepeth himself は、口語訳では「神から生れたかたが彼を守っていて下さる」（写本の違い）。英文に合わせて「自分を守っている」とし、「」に入れなかった。
 Now it is evident, he is not condemned for the sins which he doth not commit at all.
 さて、まったく犯していない罪のために、その人が罪に定められないことは明らかです。
@@ -213,7 +213,7 @@ But against the fruits of the Spirit "there is no law" (5:23);
 as the Apostle more largely declares in those memorable words of his former Epistle to Timothy:
 使徒は、テモテへの第一の手紙の、あの忘れがたい言葉で、このことをさらにくわしく宣言しています。
 "We know that the law is good, if a man use it lawfully; knowing this," (if, while he uses the law of God, in order either to convince or direct, he know and remember this),
-「私たちが知っているとおり、律法なるものは、法に従って用いるなら、良いもの」です。それは、次のことを知っている場合です。すなわち、神の律法を用いて、人に罪を自覚させたり、人を導いたりするとき、次のことを知り、覚えている場合です。
+「私たちが知っているとおり、律法なるものは、法に従って用いるなら、良いもの」です。ただしそれは、神の律法を用いて人に罪を自覚させたり、人を導いたりするときに、次のことを知り、覚えている場合です。
 oti dikaiv nomos ou keitai, (not, "that the law is not made for a righteous man," but) "that the law does not lie against a righteous man:"
 ホティ・ディカイオー・ノモス・ウー・ケイタイ（ὅτι δικαίῳ νόμος οὐ κεῖται）。これは、「律法は正しい人のために定められたのではな」い、という意味ではありません。「律法は正しい人に対して置かれていない」という意味です。
 // 英文の oti dikaiv nomos ou keitai は、ギリシャ語 ὅτι δικαίῳ νόμος οὐ κεῖται の転写（dikaiv は dikaiw の誤植）。ウェスレーは欽定訳 the law is not made for a righteous man を退けている。口語訳「律法は正しい人のために定められたのではなく」も同じ趣旨なので、退けられる訳には口語訳を引き、ウェスレーの訳は英文から訳した。
@@ -231,7 +231,7 @@ that they have in them the seeds of pride and vanity, of anger, lust, and evil d
 is too plain to be denied, being matter of daily experience.
 このことは、あまりにも明らかで、否定することはできません。毎日経験することだからです。
 And on this account it is, that St. Paul, speaking to those whom he had just before witnessed to be "in Christ Jesus," (1 Cor. 1:2, 9), to have been "called of God into the fellowship "(or participation) "of his Son Jesus Christ ";
-そのためにパウロは、コリントの人々に次のように宣言しています。パウロは、そのすぐ前に、彼らが「キリスト・イエスにあって」いる人々、「神によって召され、御子」「イエス・キリストとの交わり」に、すなわち、御子にあずかることに、「はいらせていただいた」人々だとあかししていました（第一コリント一・二、九）。
+そのためにパウロは、コリントの人々に語るとき、こうしています。パウロは、そのすぐ前に、彼らが「キリスト・イエスにあって」きよめられた人々だとあかししていました。また、「神によって召され、御子」「イエス・キリストとの交わり」に、すなわち御子にあずかることに、「はいらせていただいた」人々だとも、あかししていました（第一コリント一・二、九）。
 yet declares, "Brethren, I could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ" (1 Cor. 3:1):
 それなのに、こう宣言しているのです。「兄弟たちよ。私はあなたがたには、霊の人に対するように話すことができず、むしろ、肉に属する者、すなわち、キリストにある幼な子に話すように話しました」（第一コリント三・一）。
 "babes in Christ"; so we see they were "in Christ"; they were believers in a low degree.
@@ -271,7 +271,7 @@ yet there is no condemnation to them still, either from God or from their own he
 The consideration of these manifold defects only gives them a deeper sense, that they have always need of that blood of sprinkling which speaks for them in the ears of God, and that Advocate with the Father "who ever liveth to make intercession for them."
 このような多くの欠けを思うと、彼らはただ、いっそう深く感じるようになるだけです。自分にはいつも、あの「そそがれた血」が必要だと感じるのです（ヘブル一二・二四）。その血は、神の耳に、彼らのために語ってくれます。また、父のみもとにいる「助け主」が必要だと感じるのです（第一ヨハネ二・一）。この方は、「いつも生きていて彼らのためにとりなしておられる」のです（ヘブル七・二五）。
 So far are these from driving them away from him in whom they have believed, that they rather drive them the closer to him whom they feel the want of every moment.
-このような欠けは、彼らを、「自分の信じてきたかた」から遠ざけるどころではありません（第二テモテ一・一二）。むしろ、いっそう近くへと彼らを追いやるのです。一瞬一瞬、なくてはならないと感じている方のもとへです。
+このような欠けは、彼らを、「自分の信じてきたかた」から遠ざけるどころではありません（第二テモテ一・一二）。むしろ、いっそう近くへと彼らを押しやるのです。一瞬一瞬、なくてはならないと感じている方のもとへです。
 And, at the same time, the deeper sense they have of this want, the more earnest desire do they feel, and the more diligent they are, as they "have received the Lord Jesus, so to walk in him."
 同時に、この必要を深く感じれば感じるほど、彼らはいっそう切に願い、いっそう励むようになります。主イエスを「受けいれたのだから、彼にあって歩」こうとするのです（コロサイ二・六）。
 
@@ -280,7 +280,7 @@ And, at the same time, the deeper sense they have of this want, the more earnest
 Perhaps it were advisable rather to call them infirmities: that we may not seem to give any countenance to sin, or to extenuate it in any degree, by thus coupling it with infirmity.
 むしろ、それをただ弱さと呼ぶほうがよいかもしれません。このように罪を弱さと結びつけると、罪を少しでも認めたり、軽く見たりしているように思われかねないからです。
 But (if we must retain so ambiguous and dangerous an expression), by sins of infirmity I would mean, such involuntary failings as the saying a thing we believe true, though, in fact, it prove to be false;
-けれども、このようにあいまいで危険な表現をどうしても残さなければならないなら、私は、弱さの罪とは、意図しない過ちのことだと言いたいと思います。たとえば、本当だと信じていることを言ったのに、実際には偽りだとわかるような場合です。
+けれども、このようにあいまいで危険な表現を、どうしても残さなければならないとしましょう。それなら私は、弱さの罪とは、意図しない過ちのことだと言いたいと思います。たとえば、本当だと信じていることを言ったのに、実際には偽りだとわかるような場合です。
 or, the hurting our neighbour without knowing or designing it, perhaps when we designed to do him good.
 あるいは、知らずに、そのつもりもなく、隣り人を傷つけてしまう場合です。もしかすると、その人に善を行おうとしたときに、そうなるかもしれません。
 Though these are deviations from the holy, and acceptable, and perfect will of God, yet they are not properly sins, nor do they bring any guilt on the conscience of "them which are in Christ Jesus."
@@ -352,13 +352,13 @@ and, as such, must expose the sinner to condemnation, both from God and his own 
 そして、故意の罪である以上、その罪人は、神からも自分の良心からも、罪に定められずにはすみません。
 
 13. On the other hand, there may be sudden assaults, either from the world, or the god of this world, and frequently from our own evil hearts, which we did not, and hardly could, foresee.
-（一三）　一方、突然の攻撃もありえます。世から、あるいは「この世の神」から（第二コリント四・四）、そして、しばしば私たち自身の悪い心から来る攻撃です。私たちはそれを予見しませんでしたし、ほとんど予見することもできませんでした。
+（一三）　一方、突然の攻撃もありえます。世から、あるいは「この世の神」から（第二コリント四・四）、そして、しばしば私たち自身の悪い心から来る攻撃です。私たちが予見しなかった、また、ほとんど予見できなかった攻撃です。
 And by these even a believer, while weak in faith, may possibly be borne down, suppose into a degree of anger, or thinking evil of another, with scarce any concurrence of his will.
 信じる者でさえ、信仰が弱いうちは、こうした攻撃に押し倒されることがあるかもしれません。たとえば、意志がほとんど同意していないのに、ある程度の怒りに、あるいは人を悪く思うことに、押し流されるかもしれません。
 Now in such a case, the jealous God would undoubtedly show him that he had done foolishly.
 さて、このような場合、ねたむ神は（出エジプト二〇・五）、疑いもなく、その人に、愚かなことをしたと示されるでしょう。
 He would be convinced of having swerved from the perfect law, from the mind which was in Christ, and consequently, grieved with a godly sorrow, and lovingly ashamed before God.
-その人は、完全な律法から、キリストのうちにあった思いから（ピリピ二・五）、それてしまったことを自覚するでしょう。そして、「神のみこころに添うた悲しみ」をもって悲しみ（第二コリント七・一〇）、愛のうちに神の前で恥じ入るでしょう。
+その人は、完全な律法から、キリストのうちにあった思いから、それてしまったことを自覚するでしょう。そして、「神のみこころに添うた悲しみ」をもって悲しみ（第二コリント七・一〇）、愛のうちに神の前で恥じ入るでしょう。
 Yet need he not come into condemnation.
 けれども、その人が罪に定められる必要はありません。
 God layeth not folly to his charge, but hath compassion upon him, "even as a father pitieth his own children."
@@ -375,7 +375,7 @@ III. 1. It remains only to draw some practical inferences from the preceding con
 And, first, if there be "no condemnation to them which are in Christ Jesus," and "walk not after the flesh , but after the Spirit," on account of their past sin;
 まず第一に、「キリスト・イエスにある」者、「肉によらず霊によって歩く」者が、過去の罪のために「罪に定められることがない」としましょう。
 then why art thou fearful, O thou of little faith
-それなら、「なぜこわがるのですか、信仰の薄い者よ」（マタイ八・二六）。
+それなら、「なぜこわがるのですか」、「信仰の薄い者」よ（マタイ八・二六）。
 Though thy sins were once more in number than the sand, what is that to thee, now thou art in Christ Jesus
 あなたの罪が、かつては浜べの砂よりも多かったとしても、今キリスト・イエスにあるあなたに、それが何の関係があるでしょうか。
 "Who shall lay anything to the charge of God's elect It is God that justifieth: Who is he that condemneth"
@@ -386,7 +386,7 @@ all the sins thou hast committed from thy youth up, until the hour when thou was
 Thou art now "born of the Spirit:" wilt thou be troubled or afraid of what is done before thou wert born
 あなたは今、「霊から生れ」ています（ヨハネ三・六）。それなのに、生まれる前に行ったことで、心を乱したり恐れたりするのでしょうか。
 Away with thy fears! thou art not called to fear, but to the "spirit of love and of a sound mind."
-恐れを捨て去りなさい！　あなたが召されたのは、恐れるためではなく、「愛と慎みとの霊」のためです（第二テモテ一・七）。
+恐れを捨て去りなさい！　あなたは、恐れるためにではなく、「愛と慎みとの霊」にあずかるために召されたのです（第二テモテ一・七）。
 know thy calling! rejoice in God thy Saviour, and give thanks to God thy Father through him!
 自分の召しを知りなさい！　「救主なる神をたたえ」（ルカ一・四七）、キリストを通して父なる神に感謝しなさい！
 
@@ -395,7 +395,7 @@ know thy calling! rejoice in God thy Saviour, and give thanks to God thy Father 
 It is meet thou shouldest abhor thyself; and it is God who hath wrought thee to this self-same thing.
 あなたがみずから恨むのは、ふさわしいことです。そして、あなたを「この事にかなう者にして」くださったのは、神なのです（第二コリント五・五）。
 But, dost thou now believe hath he again enabled thee to say, "I know that my Redeemer liveth"; "and the life which I now live, I live by faith in the Son of God"
-けれども、あなたは今、信じていますか。神は再び、あなたにこう言わせてくださったでしょうか。「私は知っています。私をあがなう者は生きておられます」（ヨブ一九・二五）。「私がいま」生きているのは、「神の御子を信じる信仰によって、生きているのです」（ガラテヤ二・二〇）。
+けれども、あなたは今、信じていますか。神は再び、あなたにこう言わせてくださったでしょうか。「私は知る、私をあがなう者は生きておられます」（ヨブ一九・二五）。「私がいま」生きているのは、「神の御子を信じる信仰によって」です（ガラテヤ二・二〇）。
 Then that faith again cancels all that is past, and there is no condemnation to thee.
 それなら、その信仰が再び、過去のすべてを帳消しにします。あなたは罪に定められることがありません。
 At whatsoever time thou truly believest in the name of the Son of God, all thy sins, antecedent to that hour, vanish away as the morning dew.
@@ -403,11 +403,11 @@ At whatsoever time thou truly believest in the name of the Son of God, all thy s
 Now then, "stand thou fast in the liberty wherewith Christ hath made thee free."
 それなら今、キリストが与えてくださった自由のうちに、「堅く立って」いなさい（ガラテヤ五・一）。
 he hath once more made thee free from the power of sin, as well as from the guilt and punishment of it.
-キリストは、もう一度、あなたを罪の罪責と罰から解放してくださいました。それだけでなく、罪の力からも解放してくださったのです。
+キリストは、もう一度、あなたを罪責と罰から解放してくださいました。それだけでなく、罪の力からも解放してくださったのです。
 O "be not entangled again with the yoke of bondage!"
-ああ、「二度と奴隷のくびきにつながれてはなりません！」（ガラテヤ五・一）
+ああ、「二度と奴隷のくびきにつながれてはなりません！」（ガラテヤ五・一）。
 --neither the vile, devilish bondage of sin, of evil desires, evil tempers, or words, or works, the most grievous yoke on this side hell;
-罪の奴隷となる、卑しい、悪魔的なくびきにも、悪い願い、悪い気質、悪い言葉、悪い行いの奴隷となるくびきにも、つながれてはなりません。それは、地獄のこちら側で最もつらいくびきです。
+罪の奴隷となる、卑しい、悪魔的なくびきにつながれてはなりません。悪い願い、悪い気質、悪い言葉、悪い行いの奴隷となるくびきにも、つながれてはなりません。それは、地獄のこちら側で最もつらいくびきです。
 nor the bondage of slavish, tormenting fear, of guilt and self-condemnation.
 奴隷のように人を苦しめる恐れや、罪責や、自分を罪に定める思いのくびきにも、つながれてはなりません。
 
@@ -432,11 +432,9 @@ But this I know, with the utmost degree of certainty, "he that committeth sin is
 Therefore, thou art of thy father the devil.
 ですから、あなたは「自分の父、すなわち、悪魔から出てきた者」です（ヨハネ八・四四）。
 It cannot be denied: for the works of thy father thou doest.
-それは否定できません。あなたは、「あなたの父のわざを行っている」からです（ヨハネ八・四一）。
-O flatter not thyself with vain hopes!
-ああ、むなしい望みで自分を慰めてはなりません！
-Say not to thy soul, "Peace peace!" For there is no peace.
-自分の魂に、「平安、平安」と言ってはなりません。「平安がない」のですから（エレミヤ六・一四）。
+それは否定できません。あなたは、あなたの「父のわざを行っている」からです（ヨハネ八・四一）。
+O flatter not thyself with vain hopes! Say not to thy soul, "Peace peace!" For there is no peace.
+ああ、むなしい望みで自分を欺いてはなりません！　自分の魂に、「平安、平安」と言ってはなりません。「平安がない」のですから（エレミヤ六・一四）。
 Cry aloud! Cry unto God out of the deep; if haply he may hear thy voice.
 大声で叫びなさい！　「深い淵から」神に「呼ばわ」りなさい（詩篇一三〇・一）。もしかしたら、神があなたの声を聞いてくださるかもしれません。
 Come unto him as at first, as wretched and poor, as sinful, miserable, blind and naked!
@@ -455,7 +453,7 @@ Repine not, because thou still comest short of the glorious image of God;
 nor yet because pride, self-will, or unbelief, cleave to all thy words and works.
 高ぶりや我意や不信仰が、あなたのすべての言葉と行いにまといついているからといっても、嘆いてはなりません。
 And be not afraid to know all this evil of thy heart, to know thyself as also thou art known.
-また、自分の心のこのすべての悪を知ることを、恐れてはなりません。「完全に知られているように」、自分を知ることを恐れてはなりません（第一コリント一三・一二）。
+また、自分の心のこのすべての悪を知ることを、恐れてはなりません。「知られているように」、自分を知ることを恐れてはなりません（第一コリント一三・一二）。
 Yea, desire of God, that thou mayest not think of thyself more highly than thou oughtest to think.
 そうです、「思うべき限度を越えて思いあがることなく」いられるように（ローマ一二・三）、神に願いなさい。
 Let thy continual prayer be,
@@ -479,30 +477,20 @@ Be abased. Be humbled in the dust.
 See thyself nothing, less than nothing, and vanity.
 自分を無と見なしなさい。「無きもの」以下の、「むなしいもの」と見なしなさい（イザヤ四〇・一七）。
 But still, "Let not thy heart be troubled, neither let it be afraid."
-けれども、それでも、「心を騒がせるな、またおじけるな」（ヨハネ一四・二七）。
+けれども、それでも、「心を騒がせるな、またおじけ」てはなりません（ヨハネ一四・二七）。
 Still hold fast, "I, even I, have an Advocate with the Father, Jesus Christ the righteous."
 「ほかならぬこの私にも、父のみもとには助け主、すなわち、義なるイエス・キリストがおられる」（第一ヨハネ二・一）。この確信を、なおしっかりと保ちなさい。
 "And as the heavens are higher than the earth, so is his love higher than even my sins."
 「天が地よりも高いように、主の愛は、私の罪よりもなお高い」。
 // 詩篇一〇三・一一、イザヤ五五・九の言い回しをもとにした信者の言葉なので、出典は付けなかった。前の文も信者の言葉なので、口語訳にない語を「」に含めた。
-Therefore, God is merciful to thee a sinner! such a sinner as thou art!
-ですから、神は罪人のあなたを、あわれんでくださいます！　まさにあなたのような罪人を、あわれんでくださるのです！
-God is love; and Christ hath died!
-「神は愛です」（第一ヨハネ四・八）。そして、キリストは死んでくださったのです！
-Therefore, the Father himself loveth thee! Thou art his child!
-ですから、「父ご自身が」あなたを「愛しておいでになる」のです（ヨハネ一六・二七）。あなたは神の子です！
-Therefore he will withhold from thee no manner of thing that is good.
-ですから、神はあなたに、「良い物を拒まれることは」決してありません（詩篇八四・一一）。
-Is it good, that the whole body of sin, which is now crucified in thee, should be destroyed It shall be done!
-今あなたのうちで十字架につけられている「罪のからだ」全体が、「滅び」ることは良いことでしょうか（ローマ六・六）。それは成し遂げられます！
-Thou shalt be "cleansed from all filthiness, both of flesh and spirit."
-あなたは、「肉と霊とのいっさいの汚れから」きよめられるのです（第二コリント七・一）。
-Is it good, that nothing should remain in thy heart but the pure love of God alone Be of good cheer!
-あなたの心に、ただ神への純粋な愛のほかは何も残らないことは、良いことでしょうか。元気を出しなさい！
-"Thou shalt love the Lord thy God, with all thy heart, and mind, and soul, and strength."
-あなたは、「心をつくし、精神をつくし、思いをつくし、力をつくして、主なるあなたの神を愛」するようになるのです（マルコ一二・三〇）。
+Therefore, God is merciful to thee a sinner! such a sinner as thou art! God is love; and Christ hath died! Therefore, the Father himself loveth thee! Thou art his child! Therefore he will withhold from thee no manner of thing that is good.
+ですから、神は罪人のあなたを、あわれんでくださいます！　まさにあなたのような罪人を、あわれんでくださるのです！　「神は愛です」（第一ヨハネ四・八）。そして、キリストは死んでくださったのです！　ですから、「父ご自身が」あなたを「愛しておいでになる」のです（ヨハネ一六・二七）。あなたは神の子です！　ですから、神はあなたに、「良い物を拒まれることは」決してありません（詩篇八四・一一）。
+Is it good, that the whole body of sin, which is now crucified in thee, should be destroyed It shall be done! Thou shalt be "cleansed from all filthiness, both of flesh and spirit."
+今あなたのうちで十字架につけられている「罪のからだ」全体が、「滅び」ることは良いことでしょうか（ローマ六・六）。それは成し遂げられます！　あなたは、「肉と霊とのいっさいの汚れから」きよめられるのです（第二コリント七・一）。
+Is it good, that nothing should remain in thy heart but the pure love of God alone Be of good cheer! "Thou shalt love the Lord thy God, with all thy heart, and mind, and soul, and strength."
+あなたの心に、ただ神への純粋な愛のほかは何も残らないことは、良いことでしょうか。元気を出しなさい！　あなたは、「心をつくし、精神をつくし、思いをつくし、力をつくして、主なるあなたの神を愛」するようになるのです（マルコ一二・三〇）。
 "Faithful is he that hath promised, who also will do it."
-「約束をしてくださったのは忠実なかたであ」り（ヘブル一〇・二三）、「このことをしてくださる」のです（第一テサロニケ五・二四）。
+「約束をしてくださったのは忠実なかた」であり（ヘブル一〇・二三）、「このことをしてくださる」のです（第一テサロニケ五・二四）。
 It is thy part, patiently to continue in the work of faith, and in the labour of love;
 あなたのなすべきことは、忍耐して、「信仰の働きと、愛の労苦と」を続けることです（第一テサロニケ一・三）。
 and in cheerful peace, in humble confidence, with calm and resigned and yet earnest expectation, to wait till the zeal of the Lord of hosts shall perform this.
@@ -517,17 +505,15 @@ Thou art still foolish and weak, blind and ignorant; more weak than any words ca
 more foolish than it call yet enter into thy heart to conceive; knowing nothing yet as thou oughtest to know.
 あなたの心にまだ思い浮かびもしないほど愚かです。「知らなければならないほどの事すら、まだ知って」いません（第一コリント八・二）。
 Yet let not all thy weakness and folly, or any fruit thereof, which thou art not yet able to avoid, shake thy faith, thy filial trust in God, or disturb thy peace or joy in the Lord.
-けれども、あなたの弱さと愚かさのすべてに、また、まだ避けることのできないその実のどれにも、あなたの信仰を、神への子としての信頼を、揺るがさせてはなりません。主にある平安や喜びを、かき乱させてはなりません。
+あなたには、まだ弱さと愚かさがあります。まだ避けることのできない、その実もあります。けれども、そのどれにも、あなたの信仰を、神への子としての信頼を、揺るがさせてはなりません。主にある平安や喜びを、かき乱させてはなりません。
 The rule which some give, as to wilful sins, and which, in that case, may perhaps be dangerous, is undoubtedly wise and safe if it be applied only to the case of weakness and infirmities.
-ある人々は、故意の罪について、ある規則を与えています。その規則は、故意の罪の場合には危険かもしれません。けれども、弱さと欠けの場合にだけ当てはめるなら、疑いもなく賢明で安全です。
+ある人々は、故意の罪について、ある規則を与えています。その規則は、故意の罪の場合には危険かもしれません。けれども、弱さともろさの場合にだけ当てはめるなら、疑いもなく賢明で安全です。
 Art thou fallen, O man of God yet, do not lie there, fretting thyself and bemoaning thy weakness;
 「神の人よ」（第一テモテ六・一一）、あなたは倒れたのですか。それでも、そこに倒れたまま、思い悩み、自分の弱さを嘆いていてはなりません。
 but meekly say, "Lord, I shall fall every moment, unless thou uphold me with thy hand."
 むしろ、柔和にこう言いなさい。「主よ、あなたが御手で私をささえてくださらなければ、私は一瞬ごとに倒れます」。
-And then arise! Leap and walk! Go on thy way!
-そして、起き上がりなさい！　踊りあがって、歩きなさい！　自分の道を進みなさい！
-"run with patience the race that is set before Thee."
-「あなたの参加すべき競走を、耐え忍んで走りぬ」きなさい（ヘブル一二・一）。
+And then arise! Leap and walk! Go on thy way! "run with patience the race that is set before Thee."
+そして、起き上がりなさい！　踊りあがって、歩きなさい！　自分の道を進みなさい！　あなたの「参加すべき競走を、耐え忍んで走りぬ」きなさい（ヘブル一二・一）。
 
 6. Lastly. Since a believer need not come into condemnation, even though he be surprised into what his soul abhors; (suppose his being surprised is not owing to any carelessness or wilful neglect of his own);
 （六）　最後に、信じる者は、不意打ちを受けて、魂が忌みきらうことに陥ったとしても、罪に定められる必要はありません（ただし、不意打ちを受けたのが、自分の不注意や故意の怠慢のせいではない場合です）。
@@ -548,6 +534,6 @@ Thou shalt love him that loveth thee, and it sufficeth: more love will bring mor
 And, as soon as thou lovest him with all thy heart, thou shalt be perfect and entire, lacking nothing."
 そして、心をつくして主を愛するやいなや、あなたは「なんら欠点のない、完全な、でき上がった」者となるのです（ヤコブ一・四）。
 Wait in peace for that hour, when the God of peace shall sanctify thee wholly, so that thy whole spirit and soul and body may be preserved blameless unto the coming of our Lord Jesus Christ!"
-平安のうちに、その時を待ちなさい。「平和の神ご自身が」、あなたを「全くきよめて」くださる時です。そして、あなたの「霊と心とからだとを完全に守って、私たちの主イエス・キリストの来臨のときに、責められるところのない者にして」くださる時です（第一テサロニケ五・二三）。
+平安のうちに、その時を待ちなさい。「平和の神」が、あなたを「全くきよめて」くださる時です。そして、あなたの「霊と心とからだとを完全に守って、私たちの主イエス・キリストの来臨のときに、責められるところのない者にして」くださる時です（第一テサロニケ五・二三）。
 
 // Edited by the Rev. Derek Johnson (semi-retired pastor in England) and his wife Beryl, with minor corrections and alterations by Ryan Danker and George Lyons of Northwest Nazarene University for the Wesley Center for Applied Theology.
