@@ -25,14 +25,20 @@ He answered, Sir, I perceive by the book in my hand, that I am condemned to die,
 
 また、私は見た。彼はあちらこちらの道を見定めていた。いかにも逃げ出したいようだったが、呆然と立ち尽くしていた。どの道に進めばよいかわからなかったからだと、私には思われた。なお見ていると、伝道者という名前の男がやってきた。
 
-「どうしてあなたは泣いているのですか」
+「どうしてあなたは泣いているのですか（ヨブ三三・二三）」
 
 彼は答えた。
 
-「先生、この手にある本を読んでいてわかったのです。私には死ぬことと、死後裁きを受けることが定められています（ヘブル九・二七）。かといって、死ぬのも嫌ですし（ヨブ一六・二一〜二二）、裁きに耐えることもできません（エゼキエル二二・一四）」
+「先生、この手にある本を読んでいてわかったのです。私には死ぬことと、死後裁きを受けることが定められています（ヘブル九・二七）。かといって、死ぬのも嫌ですし（ヨブ一六・二一）、裁きに耐えることもできません（エゼキエル二二・一四）」
 
-// 未訳：Gutenberg 版にある詩
-CHRISTIAN no sooner leaves the World but meets EVANGELIST, who lovingly him greets With tidings of another: and doth show Him how to mount to that from this below.
+CHRISTIAN no sooner leaves the World but meets
+EVANGELIST, who lovingly him greets
+With tidings of another: and doth show
+Him how to mount to that from this below.
+クリスチャンがこの世を去るやいなや出会うのは<br/>
+伝道者。伝道者は愛をこめて彼を迎え<br/>
+もうひとつの世の知らせを告げ、教える<br/>
+この下の世からかの世へ登るすべを。
 
 Then said Evangelist, Why not willing to die, since this life is attended with so many evils? The man answered, Because I fear that this burden is upon my back will sink me lower than the grave, and I shall fall into Tophet. [Isa. 30:33] And, Sir, if I be not fit to go to prison, I am not fit, I am sure, to go to judgement, and from thence to execution; and the thoughts of these things make me cry.
 伝道者は尋ねた。
@@ -115,7 +121,7 @@ CHR. No, not I, said the other, because I have laid my hand to the plough. [Luke
 クリスチャン「戻りません。私はすでに手をすきにかけたものですから（ルカ九・六二）」
 
 OBST. Come, then, neighbour Pliable, let us turn again, and go home without him; there is a company of these crazy-headed coxcombs, that, when they take a fancy by the end, are wiser in their own eyes than seven men that can render a reason. [Prov. 26:16]
-強情「軟弱よ、さあ戻ろう。この男は置いていこう。こういう頭のおかしな馬鹿者の連中は、いったん何かを思い込んだが最後、良く答えることのできる七人の者よりも、自分のほうが賢いと思っているんだ」
+強情「軟弱よ、さあ戻ろう。この男は置いていこう。こういう頭のおかしな馬鹿者の連中は、いったん何かを思い込んだが最後、良く答えることのできる七人の者よりも、自分のほうが賢いと思っているんだ（箴言二六・一六）」
 
 PLI. Then said Pliable, Don't revile; if what the good Christian says is true, the things he looks after are better than ours: my heart inclines to go with my neighbour.
 軟弱「いや、悪く言ってはいけないよ。この善良なクリスチャンの言っていることがもしも真実だったら、彼が求めているものは僕らの持ち物よりも素晴らしいんだから。僕の心はこの隣人と一緒に行きたがっているんだ」
@@ -124,7 +130,7 @@ OBST. What! more fools still! Be ruled by me, and go back; who knows whither suc
 強情「何だって！　お前もおかしくなったのか。俺の言うことを聞け。戻るんだ。こんな頭のおかしな奴についていったら、どうなるかわかったもんじゃない。さあ帰った帰った。よく考えろ」
 
 CHR. Nay, but do thou come with thy neighbour, Pliable; there are such things to be had which I spoke of, and many more glorious besides. If you believe not me, read here in this book; and for the truth of what is expressed therein, behold, all is confirmed by the blood of Him that made it. [Heb. 9:17-22; 13:20]
-クリスチャン「軟弱さん、私と行きましょう。私が話したものだけでなく、さらに栄光あるものを得られます。もし私を信じられないなら、この本を読んでごらんなさい。書かれていることが真実である証拠に、ほら、すべての箇所がこれを書いた方の血によって保証されています（ヘブル一三・二〇〜二一）」
+クリスチャン「いいえ、軟弱さん、あなたこそ隣人の私と行きましょう。私が話したものだけでなく、さらに栄光あるものを得られます。もし私を信じられないなら、この本を読んでごらんなさい。書かれていることが真実である証拠に、ほら、すべての箇所がこれを書いた方の血によって保証されています（ヘブル九・一七〜二二、一三・二〇）」
 
 PLI. Well, neighbour Obstinate, said Pliable, I begin to come to a point; I intend to go along with this good man, and to cast in my lot with him: but, my good companion, do you know the way to this desired place?
 軟弱「ええと、強情さん、僕はもう腹が決まりました。この善良なお方について行って、運命を共にします。でも、クリスチャンさん、あなたはこの望みの地に行く道をご存知なのですか」
@@ -150,7 +156,7 @@ PLI. Come, neighbour Christian, since there are none but us two here, tell me no
 軟弱「クリスチャンさん、ここにはもう私たち二人しかいませんから、もっと詳しく教えてくださいな。私たちが行く先にあるのは、どんなもので、どのように楽しめるものなのですか」
 
 CHR. I can better conceive of them with my mind, than speak of them with my tongue. God's things unspeakable: but yet, since you are desirous to know, I will read of them in my book.
-クリスチャン「うーん、私は心の中でははっきりと感じ取っていますが、うまく話せません。ですが、あなたがしきりに知りたがるものですから、本に書いてあることを読んであげましょう」
+クリスチャン「うーん、私は心の中でははっきりと感じ取っていますが、うまく話せません。神のことは言い表せないものです。ですが、あなたがしきりに知りたがるものですから、本に書いてあることを読んであげましょう」
 
 PLI. And do you think that the words of your book are certainly true?
 軟弱「この本が、完全に真実を語っているとお考えなのですか」
@@ -162,31 +168,31 @@ PLI. Well said; what things are they?
 軟弱「なるほど。では、どんなことが書かれているのですか」
 
 CHR. There is an endless kingdom to be inhabited, and everlasting life to be given us, that we may inhabit that kingdom for ever. [Isa. 45:17; John 10:28,29]
-クリスチャン「私たちの住まいとなる永遠の御国、私たちに与えられる永遠のいのちです。私たちは永遠にその御国に住まうようになります（イザヤ四五・一七、ヨハネ一〇・二七〜二九）」
+クリスチャン「私たちの住まいとなる永遠の御国、私たちに与えられる永遠のいのちです。私たちは永遠にその御国に住まうようになります（イザヤ四五・一七、ヨハネ一〇・二八〜二九）」
 
 PLI. Well said; and what else?
 軟弱「そうですか。他には何がありますか」
 
 CHR. There are crowns and glory to be given us, and garments that will make us shine like the sun in the firmament of heaven. [2 Tim. 4:8; Rev. 3:4; Matt. 13:43]
-クリスチャン「私たちに与えられる栄光の王冠です。私たちを天の大空にある太陽のように光り輝かせる衣もあります（第二テモテ四・八、黙示録三・四、マタイ一三・四三）」
+クリスチャン「私たちに与えられる王冠と栄光です。私たちを天の大空にある太陽のように光り輝かせる衣もあります（第二テモテ四・八、黙示録三・四、マタイ一三・四三）」
 
 PLI. This is very pleasant; and what else?
 軟弱「最高ですね。他にはどうですか」
 
 CHR. There shall be no more crying, nor Sorrow: for He that is owner of the place will wipe all tears from our eyes. [Isa. 25.6-8; Rev. 7:17, 21:4]
-クリスチャン「もはや涙も悲しみもありません。その場所の主人である方が、私たちの目から涙をことごとくぬぐいとってくださるからです（イザヤ二五・八、黙示録七・一六〜一七、黙示録二一・四）」
+クリスチャン「もはや涙も悲しみもありません。その場所の主人である方が、私たちの目から涙をことごとくぬぐいとってくださるからです（イザヤ二五・六〜八、黙示録七・一七、二一・四）」
 
 PLI. And what company shall we have there?
 軟弱「それで、そこではどんなお仲間がいらっしゃるのですか」
 
 CHR. There we shall be with seraphims and cherubims, creatures that will dazzle your eyes to look on them. [Isa. 6:2] There also you shall meet with thousands and ten thousands that have gone before us to that place; none of them are hurtful, but loving and holy; every one walking in the sight of God, and standing in his presence with acceptance for ever. [1 Thess. 4:16,17; Rev. 5:11] In a word, there we shall see the elders with their golden crowns [Rev. 4:4], there we shall see the holy virgins with their golden harps [Rev. 14:1-5], there we shall see men that by the world were cut in pieces, burnt in flames, eaten of beasts, drowned in the seas, for the love that they bare to the Lord of the place, all well, and clothed with immortality as with a garment. [John 12:25; 2 Cor. 5:4]
-クリスチャン「セラフィム、ケルビム（イザヤ六・二、第一テサロニケ四・一六〜一七、黙示録五・一一）、見るもまばゆい生き物が一緒にいます。そこでは、私たちよりも先にそこに行った、何千、何万もの仲間にも出会うでしょう。誰一人としていじわるな者はおらず、愛があり、聖なる者たちばかりです。誰もが、神の御目にかなって歩み、神の御前で永遠に受け入れられています。つまり、金の王冠をかぶった長老たちに会います（黙示録四・四）。金の竪琴を持った聖なる乙女たちに会います（黙示録一四・一〜五）。主を愛するゆえに世によって切り裂かれた者、火で焼かれた者、獣の餌となった者、海に投げ込まれた者に会います（ヨハネ一二・二五）。皆すこやかで、服を着るように不死を着せられています（第二コリント五・二〜三、五）」
+クリスチャン「セラフィム、ケルビム（イザヤ六・二）、見るもまばゆい生き物が一緒にいます。そこでは、私たちよりも先にそこに行った、何千、何万もの仲間にも出会うでしょう。誰一人としていじわるな者はおらず、愛があり、聖なる者たちばかりです。誰もが、神の御目にかなって歩み、神の御前で永遠に受け入れられています（第一テサロニケ四・一六〜一七、黙示録五・一一）。つまり、金の王冠をかぶった長老たちに会います（黙示録四・四）。金の竪琴を持った聖なる乙女たちに会います（黙示録一四・一〜五）。主を愛するゆえに世によって切り裂かれた者、火で焼かれた者、獣の餌となった者、海に投げ込まれた者に会います（ヨハネ一二・二五）。皆すこやかで、服を着るように不死を着せられています（第二コリント五・四）」
 
 PLI. The hearing of this is enough to ravish one's heart. But are these things to be enjoyed? How shall we get to be sharers thereof?
 軟弱「それを聞くだけでもう心が踊りますね。でも、それは本当に味わえるものなのでしょうか。どうしたら私たちもそれにあずかれるのでしょうか」
 
 CHR. The Lord, the Governor of the country, hath recorded that in this book; the substance of which is, If we be truly willing to have it, he will bestow it upon us freely.
-クリスチャン「かの御国の支配者である主が、この本に書き記してくださいました（イザヤ五五・一二、ヨハネ七・三七、ヨハネ六・三七、黙示録二一・六、黙示録二二・一七）。その要点は、私たちがそれを真摯に求めるなら、主が私たちに気前よく与えてくださるということです」
+クリスチャン「かの御国の支配者である主が、この本に書き記してくださいました。その要点は、私たちがそれを真摯に求めるなら、主が私たちに気前よく与えてくださるということです」
 
 PLI. Well, my good companion, glad am I to hear of these things: come on, let us mend our pace.
 軟弱「ああ、お仲間さん、それを聞いて嬉しくなりました。さあ、急ぎましょう」
