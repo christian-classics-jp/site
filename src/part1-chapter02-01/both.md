@@ -17,8 +17,14 @@ Then Christian gave three leaps for joy, and went on singing--
 
 一番目の人が言った。「あなたの罪はゆるされた」（マルコ二・五）。二番目の人は、彼のぼろ着を脱がせて、立派な外套を着せた（ゼカリヤ三・四）。三番目の人は彼のひたいに印をつけた（エペソ一・一三）。そして、彼に封印された巻物を手渡した。走りながらこれを見るように、そして天の門に着いたらこれを渡すように、と彼に言いつけた。こうして三人は去った。クリスチャンは喜びのあまり三度跳び上がり、それから歌いながら進んだ。
 
-// 未訳：Gutenberg 版にある詩
-"Who's this? the Pilgrim. How! 'tis very true, Old things are past away, all's become new. Strange! he's another man, upon my word, They be fine feathers that make a fine bird.
+"Who's this? the Pilgrim. How! 'tis very true,
+Old things are past away, all's become new.
+Strange! he's another man, upon my word,
+They be fine feathers that make a fine bird.
+これは誰だ。あの巡礼者だ。なんと！　まことに<br/>
+古いものは過ぎ去り、すべてが新しくなった。<br/>
+不思議だ！　まるで別人ではないか<br/>
+りっぱな羽根がりっぱな鳥をつくるのだ。
 
 "Thus far I did come laden with my sin;
 Nor could aught ease the grief that I was in
