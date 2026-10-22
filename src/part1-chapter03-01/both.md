@@ -94,6 +94,7 @@ FAITH. You know what I mean; all carnal and fleshly content.
 
 CHR. Thank God you have escaped her: "The abhorred of the Lord shall fall into her ditch." [Ps. 22:14]
 クリスチャン「彼女から逃れられたことを神に感謝します。『主に憎まれる者はその穴に陥る』のですから（箴言二二・一四）」
+// 原文の出典は Ps. 22:14 だが、詩篇二二・一四は無関係で、引用は箴言二二・一四なのでそのままにした。
 
 FAITH. Nay, I know not whether I did wholly escape her or no.
 忠実「いえ、浮気のわなから完全に逃れられたのかどうか、自分でもわからないのです」
@@ -110,7 +111,7 @@ CHR. Did you meet with no other assault as you came?
 FAITH. When I came to the foot of the hill called Difficulty, I met with a very aged man, who asked me what I was, and whither bound. I told him that I am a pilgrim, going to the Celestial City. Then said the old man, Thou lookest like an honest fellow; wilt thou be content to dwell with me for the wages that I shall give thee? Then I asked him his name, and where he dwelt. He said his name was Adam the First, and that he dwelt in the town of Deceit. [Eph. 4:22]
 忠実「〈困難〉という名の丘のふもとに着いたとき、ひどく年老いた人に会いました。お前は何者で、どこへ行くのかと尋ねられたので、天の都へ向かう巡礼者だと答えました。すると老人は言いました。『あんたは正直者のようだ。わしが払う給金で、わしと一緒に暮らす気はないかね』。私は老人の名前と、どこに住んでいるのかを尋ねました。名は第一の人アダムといい、〈偽りの町〉に住んでいるとのことでした（エペソ四・二二）。
 I asked him then what was his work, and what the wages he would give. He told me that his work was many delights; and his wages that I should be his heir at last. I further asked him what house he kept, and what other servants he had. So he told me that his house was maintained with all the dainties in the world; and that his servants were those of his own begetting. Then I asked if he had any children. He said that he had but three daughters: The Lust of the Flesh, The Lust of the Eyes, and The Pride of Life, and that I should marry them all if I would. [1 John 2:16] Then I asked how long time he would have me live with him? And he told me, As long as he lived himself.
-それから、仕事は何で、給金は何かと尋ねました。仕事はさまざまな楽しみで、給金は最後に自分の跡取りになれることだというのです。さらに、どんな暮らしをしていて、ほかにどんな召使いがいるのかと尋ねました。暮らしは世のあらゆるご馳走でまかなわれていて、召使いはみな自分の血を分けた者たちだということでした。それから、子供は何人いるのかと尋ねました。娘が三人だけいて、名前は〈肉の欲〉、〈目の欲〉、〈生活の見栄〉だといいます（第一ヨハネ二・一六）。望むならその娘たちと結婚してもよい、と。最後に、どれくらいの期間一緒に暮らしてほしいのかと尋ねると、自分が生きているかぎりずっとだ、とのことでした」
+それから、仕事は何で、給金は何かと尋ねました。仕事はさまざまな楽しみで、給金は最後に自分の跡取りになれることだというのです。さらに、どんな暮らしをしていて、ほかにどんな召使いがいるのかと尋ねました。暮らしは世のあらゆるご馳走でまかなわれていて、召使いはみな自分の血を分けた者たちだということでした。それから、子供はいるのかと尋ねました。娘が三人だけいて、名前は〈肉の欲〉、〈目の欲〉、〈生活の見栄〉だといいます（第一ヨハネ二・一六）。望むならその娘たちみなと結婚してもよい、と。最後に、どれくらいの期間一緒に暮らしてほしいのかと尋ねると、自分が生きているかぎりずっとだ、とのことでした」
 
 CHR. Well, and what conclusion came the old man and you to at last?
 クリスチャン「それで結局、どうすることにしたのですか」
@@ -153,7 +154,7 @@ CHR. He told me, indeed, that he saw you go by, but I wish you had called at the
 クリスチャン「そういえば守衛があなたの通り過ぎるのを見たと教えてくれました。あなたもお屋敷に立ち寄ればよかったでしょうに。きっと一生忘れられない珍しいものをたくさん見せてもらえましたよ。ところで、どうか教えてください。〈へりくだりの谷〉では誰にも会いませんでしたか」
 
 FAITH. Yes, I met with one Discontent, who would willingly have persuaded me to go back again with him; his reason was, for that the valley was altogether without honour. He told me, moreover, that there to go was the way to disobey all my friends, as Pride, Arrogancy, Self-conceit, Worldly-glory, with others, who he knew, as he said, would be very much offended, if I made such a fool of myself as to wade through this valley.
-忠実「ええ、〈不平不満〉という人に会いました。一緒に引き返そうとしきりに誘ってきました。その理由というのが、この谷にはまったく栄誉がないから、というのです。さらに言うには、そこへ行けば私の友人たちの機嫌をみな損ねることになる、と。〈誇り〉、〈傲慢〉、〈うぬぼれ〉、〈世の栄光〉など、彼の知っている人たちです。もし私がこの谷を渡るなどという愚かなことをすれば、その人たちはひどく腹を立てるだろう、と言いました」
+忠実「ええ、〈不平不満〉という人に会いました。一緒に引き返そうとしきりに誘ってきました。その理由というのが、この谷にはまったく栄誉がないから、というのです。さらに言うには、そこへ行けば私の友人たちにみな背くことになる、と。〈誇り〉、〈傲慢〉、〈うぬぼれ〉、〈世の栄光〉など、彼の知っている人たちです。もし私がこの谷を渡るなどという愚かなことをすれば、その人たちはひどく腹を立てるだろう、と言いました」
 
 CHR. Well, and how did you answer him?
 クリスチャン「それで、不平不満には何と返事したのですか」
@@ -175,7 +176,7 @@ CHR. Why, what did he say to you?
 FAITH. What! why, he objected against religion itself; he said it was a pitiful, low, sneaking business for a man to mind religion; he said that a tender conscience was an unmanly thing; and that for a man to watch over his words and ways, so as to tie up himself from that hectoring liberty that the brave spirits of the times accustom themselves unto, would make him the ridicule of the times.
 忠実「何と言ったか、ですか。そうですね、恥は宗教そのものにけちをつけたのです。宗教に心を向けるなど、人として情けなく、卑しく、こそこそしたことだと言いました。繊細な良心は男らしくない、とも言いました。今の時代の威勢のいい連中は好き勝手にふるまうことに慣れているのに、自分の言葉と行いに気をつけて、その自由から自分を縛るようなことをすれば、時代の笑い者になる、と。
 He objected also, that but few of the mighty, rich, or wise, were ever of my opinion [1 Cor. 1:26; 3:18; Phil. 3:7,8]; nor any of them neither [John 7:48], before they were persuaded to be fools, and to be of a voluntary fondness, to venture the loss of all, for nobody knows what. He, moreover, objected the base and low estate and condition of those that were chiefly the pilgrims of the times in which they lived: also their ignorance and want of understanding in all natural science.
-さらに彼は、権力者や金持ちや賢者で私と同じ考えを持った者はほとんどいない、と言いました。いたとしても、それは愚か者になるよう説き伏せられ、わけのわからないもののためにすべてを失う危険を好んで冒すようになってからのことだ、と（第一コリント一・二六、三・一八、ピリピ三・七〜九、ヨハネ七・四八）。それだけでなく、今の時代の巡礼者の多くが身分も低く貧しいこと、また自然科学についてまったく無知で理解に欠けていることにも、けちをつけました。
+さらに彼は、権力者や金持ちや賢者で私と同じ考えを持った者はほとんどいない、と言いました。いたとしても、それは愚か者になるよう説き伏せられ、わけのわからないもののためにすべてを失う危険を好んで冒すようになってからのことだ、と（第一コリント一・二六、三・一八、ピリピ三・七〜八、ヨハネ七・四八）。それだけでなく、今の時代の巡礼者の多くが身分も低く貧しいこと、また自然科学についてまったく無知で理解に欠けていることにも、けちをつけました。
 Yea, he did hold me to it at that rate also, about a great many more things than here I relate; as, that it was a shame to sit whining and mourning under a sermon, and a shame to come sighing and groaning home: that it was a shame to ask my neighbour forgiveness for petty faults, or to make restitution where I have taken from any.
 そんな調子で彼は、今話したこと以外にもさまざまな話をしました。教会の説教を聞いて泣いたり嘆いたりするのは恥だとか、家でため息をついたり呻いたりするのは恥だとか、取るに足りない失敗のために隣人に赦しを乞うのは恥だとか、誰かから取ったものを返すのは恥だとか、そういう話もありました。
 He said, also, that religion made a man grow strange to the great, because of a few vices, which he called by finer names; and made him own and respect the base, because of the same religious fraternity. And is not this, said he, a shame?
