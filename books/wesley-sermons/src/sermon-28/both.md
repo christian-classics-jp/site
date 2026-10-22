@@ -12,7 +12,7 @@ our Lord proceeds to the actions of common life, and shows that the same purity 
 私たちの主は、そうした行いから、日常の生活の行いへと進まれます。そして、施しや断食や祈りと同じように、普通の仕事においても、同じ意図の純粋さがどうしても必要であることを示されます。
 
 And without question the same purity of intention "which makes our alms and devotions acceptable must also make our labour or employment a proper offering to God.
-そして、疑いもなく、ここでも同じ意図の純粋さが求められます。「施しと祈りとを神に受け入れられるものにする」意図の純粋さが、「私たちの労働や職業をも、神へのふさわしいささげものにしなければなりません。
+そして、疑いもなく、「施しと祈りとを神に受け入れられるものにする」同じ意図の純粋さが、「私たちの労働や職業をも、神へのふさわしいささげものにしなければなりません。
 // この引用の出典は確認できなかった。
 If a man pursues his business that he may raise himself to a state of honour and riches in the world, he is no longer serving God in his employment, and has no more title to a reward from God than he who gives alms that he may be seen, or prays that he may be heard of men.
 人が、世の中で名誉と富のある身分に自分を引き上げようとして仕事に励むなら、その人はもはや職業において神に仕えてはいません。そして、人に見られるために施しをする人や、人に聞かれるために祈る人と同じく、神からの報いを受ける資格はありません。
@@ -53,7 +53,7 @@ This is the first thing we may here understand by light.
 "He which of old commanded light to shine out of darkness, shall shine in thy heart:"
 昔、「『やみの中から光が照りいでよ』と仰せになった神は」、あなたの「心を照して」くださるでしょう（第二コリント四・六）。
 He shall enlighten the eyes of thy understanding with the knowledge of the glory of God.
-神は、神の栄光の知識によって、あなたの心の目を明らかにしてくださいます（エペソ一・一八、第二コリント四・六）。
+神は、ご自分の栄光の知識によって、あなたの心の目を明らかにしてくださいます（エペソ一・一八、第二コリント四・六）。
 His Spirit shall reveal unto thee the deep things of God.
 神の御霊は、あなたに神の深みを啓示してくださいます（第一コリント二・一〇）。
 The inspiration of the Holy One shall give thee understanding, and cause thee to know wisdom secretly.
@@ -68,7 +68,7 @@ Then clouds again rest upon our souls.
 Doubts and fears again overwhelm us.
 疑いと恐れが、再び私たちを圧倒します。
 We are tossed to and fro, and know not what to do, or which is the path wherein we should go.
-私たちは吹きまわされ（エペソ四・一四）、どうしてよいか分からず（第二歴代二〇・一二）、どの道を行くべきかも分からなくなります。
+私たちは吹きまわされ（エペソ四・一四）、いかになすべきかを知らず（第二歴代二〇・一二）、どの道を行くべきかも分からなくなります。
 But when we desire and seek nothing but God, clouds and doubts vanish away.
 けれども、神のほかに何も願わず、求めないとき、雲と疑いは消え去ります。
 We who "were sometime darkness are now light in the Lord."
@@ -88,23 +88,23 @@ While thou lookest unto Jesus and Him alone thou shalt be filled with the mind t
 Thy soul shall be renewed day by day after the image of him that created it.
 あなたの魂は、それを造られた方のかたちに従って（コロサイ三・一〇）、日ごとに新しくされていくでしょう（第二コリント四・一六）。
 If the eye of thy mind be not removed from him, if thou endurest "as seeing him that is invisible," and seeking nothing else in heaven or earth,
-あなたの心の目が神から離れないとします。あなたが「見えないかたを見ているようにして、忍びとお」し（ヘブル一一・二七）、天にも地にもほかに何も求めないとします。
+あなたの心の目が神から離れないとします。あなたが「見えないかたを見ているようにして」（ヘブル一一・二七）忍びとおし、天にも地にもほかに何も求めないとします。
 then as thou beholdest the glory of the Lord thou shalt be transformed "into the same image, from glory to glory, by the Spirit of the Lord."
 そのとき、あなたは主の栄光を見つつ、「栄光から栄光へと、主と同じ姿に変えられていく」でしょう。それは「霊なる主の働きによる」のです（第二コリント三・一八）。
 
 And it is also matter of daily experience that "by grace we are" thus "saved through faith."
-また、私たちがこのように「恵みにより、信仰によって」救われていることも（エペソ二・八）、日々の経験の事実です。
+また、私たちがこのように「恵みにより」、信仰によって救われていることも（エペソ二・八）、日々の経験の事実です。
 It is by faith that the eye of the mind is opened to see the light of the glorious love of God.
 心の目が開かれて、神の栄光ある愛の光を見るようになるのは、信仰によるのです。
 And as long as it is steadily fixed thereon, on God in Christ, reconciling the world unto himself, we are more and more filled with the love of God and man, with meekness, gentleness, long-suffering;
-そして、心の目は、その光に、すなわちキリストにおいて世をご自分に和解させておられる神に（第二コリント五・一九）、据えられます。そうしてしっかりと据えられているかぎり、私たちは、神と人への愛に、柔和と慈愛と寛容とに、ますます満たされていきます（ガラテヤ五・二二〜二三）。
+そして、心の目が、その光に、すなわちキリストにおいて世をご自分に和解させておられる神に（第二コリント五・一九）、しっかりと据えられているとします。そのかぎり、私たちは、神と人への愛に、柔和と慈愛と寛容とに、ますます満たされていきます（ガラテヤ五・二二〜二三）。
 with all the fruits of holiness, which are, through Christ Jesus, to the glory of God the Father.
 また、聖性のあらゆる実に満たされていきます。それは、キリスト・イエスによって、父なる神の栄光をあらわすものです（ピリピ一・一一）。
 
 5. This light which fills him who has a single eye implies, Thirdly, happiness as well as holiness.
 （五）　澄んだ目を持つ人を満たすこの光は、第三に、聖性だけでなく幸いをも含んでいます。
 Surely "light is sweet, and a pleasant thing it is to see the sun:" But how much more to see the Sun of Righteousness continually shining upon the soul!
-確かに、「光は快いものです。目に太陽を見るのは楽しいことです」（伝道一一・七）。けれども、義の太陽が（マラキ四・二）絶えず魂の上を照らしているのを見るのは、それよりどれほど楽しいことでしょう。
+確かに、「光は快いものです。目に太陽を見るのは楽しいことです」（伝道一一・七）。けれども、義の太陽が（マラキ四・二）絶えず魂の上を照しているのを見るのは、それよりどれほど楽しいことでしょう。
 And if there be any consolation in Christ, if any comfort of love, if any peace that passeth all understanding, if any rejoicing in hope of the glory of God, they all belong to him whose eye is single.
 もし何かキリストにある慰め、愛の励ましがあるなら（ピリピ二・一）、それは目の澄んだ人のものです。人知ではとうてい測り知ることのできない平安（ピリピ四・七）があるなら、それも目の澄んだ人のものです。神の栄光にあずかる希望をもっての喜び（ローマ五・二）も、そうです。
 Thus is his "whole body full of light."
@@ -119,7 +119,7 @@ He walketh in the light as God is in the light, rejoicing evermore, praying with
 If the eye be not single, then it is evil.
 目が澄んでいなければ、それは悪いのです。
 If the intention in whatever we do be not singly to God, if we seek anything else, then our "mind and conscience are defiled."
-私たちが何をするにしても、その意図がただ神だけに向けられていないなら、ほかの何かを求めるなら、私たちの「知性も良心も汚れてしまって」います（テトス一・一五）。
+私たちが何をするにしても、その意図がただ神だけに向けられていないとします。ほかの何かを求めるとします。そのとき、私たちの「知性も良心も汚れてしまって」います（テトス一・一五）。
 
 Our eye therefore is evil if in anything we do we aim at any other end than God;
 ですから、何をするにしても神以外の目的を目指すなら、私たちの目は悪いのです。
@@ -169,7 +169,7 @@ There is no rest in this world or the world to come, but only in God, the centre
 "If the light which is in thee be darkness, how great is that darkness!"
 「もしあなたの内なる光が暗ければ、その暗さは、どんなでしょう」（マタイ六・二三）。
 If the intention which ought to enlighten the whole soul, to fill it with knowledge, and love, and peace, and which in fact does so as long as it is single, as long as it aims at God alone --
-意図は、魂の全体を照らし、知識と愛と平安とで魂を満たすはずのものです。そして実際、それが澄んでいるかぎり、ただ神だけを目指しているかぎり、そうするのです。
+意図は、魂の全体を照し、知識と愛と平安とで魂を満たすはずのものです。そして実際、それが澄んでいるかぎり、ただ神だけを目指しているかぎり、そうするのです。
 if this be darkness; if it aim at anything beside God, and consequently cover the soul with darkness instead of light, with ignorance and error, with sin and misery: O how great is that darkness!
 もしこの意図が暗いとします。神以外の何かを目指し、その結果、魂を光ではなくやみで、無知と誤りで、罪と悲惨とで覆うとします。ああ、そのやみは、どれほど大きいことでしょう。
 It is the very smoke which ascends out of the bottomless pit! It is the essential night which reigns in the lowest deep, in the land of the shadow of death!
@@ -183,7 +183,7 @@ If you do, it is plain your eye is evil; it is not singly fixed on God.
 With regard to most of the commandments of God, whether relating to the heart or life, the Heathens of Africa or America stand much on a level with those that are called Christians.
 神の戒めの大部分について考えてみましょう。心に関わるものであれ生活に関わるものであれ、アフリカやアメリカの異教徒は、クリスチャンと呼ばれる人々とほぼ同じ水準に立っています。
 The Christians observe them (a few only being excepted) very near as much as the Heathens.
-クリスチャンは（わずかな例外を除いて）、異教徒とほとんど同じ程度にしか、それを守っていません。
+クリスチャンは（わずかな例外を除いて）、異教徒とほとんど同じ程度に、それを守っています。
 For instance: the generality of the natives of England, commonly called Christians, are as sober and as temperate as the generality of the heathens near the Cape of Good Hope.
 たとえば、イングランド生れの人々は、普通クリスチャンと呼ばれています。その大多数は、喜望峰の近くに住む異教徒の大多数と同じくらいに、酒を慎み、節度を保っています。
 And so the Dutch or French Christians are as humble and as chaste as the Choctaw or Cherokee Indians.
@@ -201,7 +201,7 @@ He desires and seeks nothing more than plain food to eat and plain raiment to pu
 And he seeks this only from day to day.
 しかも、それをその日その日に求めるだけです。
 He reserves, he lays up nothing; unless it be as much corn at one season of the year as he will need before that season returns.
-何も蓄えず、何もたくわえません。ただ、一年のある季節に、その季節が再びめぐって来るまでに必要なだけの穀物をたくわえるのは別です。
+何も取っておかず、何もたくわえません。ただ、一年のある季節に、その季節が再びめぐって来るまでに必要なだけの穀物をたくわえるのは別です。
 This command, therefore, the heathens, though they know it not, do constantly and punctually observe.
 ですから、異教徒は、この命令を知らないのに、絶えず、きちょうめんに守っているのです。
 They "lay up for themselves no treasures upon earth;" no stores of purple or fine linen, of gold or silver, which either "moth or rust may corrupt", or "thieves break through and steal."
@@ -250,7 +250,7 @@ And let us, First, observe what is not forbidden in this command, that we may th
 そこで、まず、この命令で禁じられていないことは何かに注目しましょう。そうすれば、禁じられていることは何かを、はっきりと見分けることができるでしょう。
 
 We are not forbidden in this command, First, to "provide things honest in the sight of all men," to provide wherewith we may render unto all their due, -- whatsoever they can justly demand of us.
-第一に、この命令は、すべての人の前で正しいものを備えること（ローマ一二・一七）を、私たちに禁じてはいません。すべての人に、その当然受けるべきもの（ローマ一三・七）を返せるように備えることも、禁じてはいないのです。それは、彼らが私たちに正当に求めうるもののすべてです。
+第一に、この命令は、すべての人の前で正しいものを備えること（ローマ一二・一七）を、私たちに禁じてはいません。すべての人に、その当然受けるべきものを返せるように備えることも、禁じてはいないのです。それは、彼らが私たちに正当に求めうるもののすべてです。
 // 口語訳のローマ一二・一七 は「すべての人に対して善を図りなさい」。英文 provide things honest in the sight of all men に合わせ、「」に入れずに英文から訳した。
 So far from it that we are taught of God to "owe no man anything."
 それどころか、私たちは、「何人にも借りがあってはならない」と神から教えられています（ローマ一三・八）。
@@ -267,7 +267,8 @@ Nor yet are we forbidden, Thirdly, to provide for our children, and for those of
 This also it is our duty to do, even upon principles of heathen morality.
 これもまた、異教徒の道徳の原則から言ってさえ、私たちの務めです。
 Every man ought to provide the plain necessaries of life both for his own wife and children, and to put them into a capacity of providing these for themselves when he is gone hence and is no more seen.
-だれでも、自分の妻と子供たちのために、生活に必要な質素なものを備えるべきです。そして、自分が去って、もはや見られなくなったとき（詩篇三九・一三）、彼らが自分でそれを備えることができるようにしておくべきです。
+だれでも、自分の妻と子供たちのために、生活に必要な質素なものを備えるべきです。そして、自分が去って、もはや見られなくなったとき、彼らが自分でそれを備えることができるようにしておくべきです。
+// 祈祷書の詩篇三九・一五 の言い回し。口語訳（三九・一三）と文言が違うので出典を付けなかった。
 I say, of providing these, the plain necessaries of life; not delicacies, not superfluities; --
 私が言うのは、これら、すなわち生活に必要な質素なものを備えることです。ごちそうでも、ぜいたく品でもありません。
 and that by their diligent labour; for it is no man's duty to furnish them any more than himself with the means either Of luxury or idleness.
@@ -291,7 +292,7 @@ If the words have any meaning at all, it must be this; for they are capable of n
 Consequently, whoever he is that, owing no man anything, and having food and raiment for himself and his household, together with a sufficiency to carry on his worldly business so far as answers these reasonable purposes;
 したがって、だれにも借りがなく、自分と家族のための衣食がある人がいるとします（第一テモテ六・八）。そのうえ、これらの道理にかなった目的を果たすのに足りるだけ、世の仕事を続ける蓄えもあるとします。
 whosoever, I say, being already in these circumstances, seeks a still larger portion on earth; he lives in an open habitual denial of the Lord that bought him.
-すでにこのような状態にありながら、地上でなおいっそう多くの分け前を求める人は、だれであれ、と私は言います。その人は、自分を買い取ってくださった主を（第二ペテロ二・一）、公然と、習慣的に否定して生きているのです。
+繰り返して言います。すでにこのような状態にありながら、地上でなおいっそう多くの分け前を求める人は、だれであれ、自分をあがなってくださった主を（第二ペテロ二・一）、公然と、習慣的に否定して生きているのです。
 He hath practically denied the faith, and is worse than" an African or American "infidel."
 その人は、実際上「その信仰を捨てたことになるのであって」、アフリカやアメリカの「不信者以上にわるい」のです（第一テモテ五・八）。
 // 英文の He hath practically denied the faith, and is worse than" には閉じる引用符だけがある。§11 と同じ聖句なので「」に入れた。
@@ -311,7 +312,7 @@ When will ye be persuaded to choose the better part; that which cannot be taken 
 When will ye seek only to "lay up treasures in heaven," renouncing, dreading, abhorring all other
 いつになったら、ほかのすべての宝を捨て、恐れ、忌みきらって、ただ「天に、宝をたくわえ」ることだけを求めるのですか（マタイ六・二〇）。
 If you aim at "laying up treasures on earth," you are not barely losing your time and spending your strength for that which is not bread:
-もし「地上に、宝をたくわえ」ることを（マタイ六・一九）目指すなら、あなたがたは、ただ時間をむだにし、かてにもならぬもののために力を費やしているだけではありません（イザヤ五五・二）。
+もし「地上に、宝をたくわえ」ることを（マタイ六・一九）目指すなら、あなたがたは、ただ時間をむだにしているだけではありません。かてにもならぬもののために力を費やしているだけでもないのです（イザヤ五五・二）。
 for what is the fruit if you succeed -- You have murdered your own soul! You have extinguished the last spark of spiritual life therein! Now indeed, in the midst of life you are in death! You are a living man, but a dead Christian.
 もし成功したら、その実は何でしょうか。あなたがたは自分の魂を殺したのです！　魂のうちにある霊のいのちの最後の火花を、消してしまったのです！　今や、まことに、あなたがたは生のただ中で死の中にいます！　あなたがたは、生きている人間ですが、死んだクリスチャンなのです。
 // in the midst of life you are in death は、祈祷書「埋葬式」の言い回し。
@@ -320,7 +321,7 @@ for what is the fruit if you succeed -- You have murdered your own soul! You hav
 Your heart is sunk into the dust, your soul cleaveth to the ground.
 あなたがたの心はちりの中に沈み、魂は地についています。
 Your affections are set, not on things above, but on things of the earth; on poor husks that may poison, but cannot satisfy an everlasting spirit made for God.
-あなたがたの心は、上にあるものではなく、地上のものに向けられています（コロサイ三・二）。哀れないなご豆に（ルカ一五・一六）向けられているのです。それは、神のために造られた永遠の霊を、毒することはあっても、満たすことはできません。
+あなたがたの心の思いは、上にあるものではなく、地上のものに向けられています（コロサイ三・二）。哀れないなご豆に（ルカ一五・一六）向けられているのです。それは、神のために造られた永遠の霊を、毒することはあっても、満たすことはできません。
 Your love your joy, your desire are all placed on the things which perish in the using.
 あなたがたの愛も、喜びも、願いも、みな、使えば尽きてしまうもの（コロサイ二・二二）に置かれています。
 You have thrown away the treasure in heaven: God and Christ are lost! You have gained riches, and hell-fire!
@@ -432,7 +433,7 @@ He is more rarely visited by these unwelcome guests: and if they come there at a
 彼のもとには、こうした招かれざる客はめったに訪れません。たとえ訪れても、「雲をいただく宮殿」からよりも、小さな小屋からのほうが、たやすく追い払われるのです。
 // cloud-topt palaces は、シェイクスピア『あらし』四幕一場の the cloud-capp'd towers, the gorgeous palaces に似た言い回し。
 And during the time that thy body is chastened with pain, or consumes away with pining sickness, how do thy treasures help thee Let the poor Heathen answer, --
-そして、あなたの体が痛みに懲らしめられ、やつれる病に衰えていく間、あなたの宝はどのようにあなたを助けるでしょうか。哀れな異教徒に答えさせましょう。
+そして、あなたの体が痛みによって懲らされ（ヨブ三三・一九）、やつれる病に衰えていく間、あなたの宝はどのようにあなたを助けるでしょうか。哀れな異教徒に答えさせましょう。
 
 Ut lippum pictae tabulae, fomenta podugrum Auriculas citharae collecta sorde dolentes.
 % Ut lippum pictae tabulae, fomenta podagrum, Auriculas citharae collecta sorde dolentes. （ただれ目に描いた絵が、痛風に湿布が、耳垢がたまって痛む耳に竪琴が役立つほどにしか、役に立たない）
@@ -500,7 +501,7 @@ Appeal we therefore to fact.
 Are the rich and great the only happy men And is each of them more or less happy in proportion to his measure of riches Are they happy at all I had well nigh said, they are of all men most miserable!
 富んだ人々、身分の高い人々だけが、幸いな人なのでしょうか。そして、そのひとりひとりは、自分の富の量に比例して、幸いであったりなかったりするのでしょうか。そもそも彼らは幸いなのでしょうか。私は、彼らはすべての人の中で最もあわれむべき者だ（第一コリント一五・一九）、と言いそうになりました。
 Rich man, for once, speak the truth from thy heart. Speak, both for thyself, and for thy brethren!
-富んだ人よ、一度でいいから、心から真実を語りなさい。自分のためにも、兄弟たちのためにも、語りなさい！
+富んだ人よ、一度でいいから、心から真実を語りなさい（詩篇一五・二）。自分のためにも、兄弟たちのためにも、語りなさい！
 
 Amidst our plenty something still,-
 有り余るものの中にあっても、なお何かが、<br/>
@@ -509,7 +510,7 @@ To me, to thee, to him is wanting!
 That cruel something unpossessed
 その手に入らない残酷な何かが、<br/>
 Corrodes and leavens all the rest.
-ほかのすべてを蝕み、酸っぱくする。
+ほかのすべてを蝕み、損なう。
 // 出典は確認できなかった。
 
 Yea, and so it will, till thy wearisome days of vanity are shut up in the night of death.
@@ -535,7 +536,7 @@ When all the things of earth can give no support, he will "make all thy bed in t
 地上のあらゆるものが何の支えも与えられないとき、神は、あなたが病むとき、あなたの床をすっかり整えてくださいます（詩篇四一・三）。
 // 口語訳の詩篇四一・三 は「その病をことごとくいやされる」。英文 make all thy bed in thy sickness（病のときに床をすっかり整える）と違うので、「」に入れずに英文から訳した。
 He will sweeten thy pain; the consolations of God shall cause thee to clap thy hands in the flames.
-神は、あなたの痛みを和らげてくださいます。神の慰めは（詩篇九四・一九）、炎の中でさえ、あなたに手を打ち鳴らさせるでしょう。
+神は、あなたの痛みを和らげてくださいます。神の慰めは（ヨブ一五・一一）、炎の中でさえ、あなたに手を打ち鳴らさせるでしょう。
 And even when this house of earth" is well nigh shaken down, when it is just ready to drop into the dust,
 そして、やがてこの地上の家（第二コリント五・一）は、ほとんど揺り倒され、今にもちりの中に崩れ落ちようとするでしょう。
 // 英文の this house of earth" には閉じる引用符だけがある。口語訳の第二コリント五・一（地上の幕屋）と文言が違うので、「」に入れなかった。
@@ -560,15 +561,15 @@ He transfuses the joys that are at his own right hand into all he bestows on his
 "Lay not up for" thyself "treasures upon earth."
 「自分のために」（マタイ六・一九）、「地上に、宝をたくわえてはなりません」（マタイ六・一九）。
 This is a flat, positive command; full as clear as "Thou shalt not commit adultery."
-これは、きっぱりとした、積極的な命令です。「あなたは姦淫してはならない」（出エジプト二〇・一四）と同じくらい、はっきりしています。
+これは、きっぱりとした、明文の命令です。「あなたは姦淫してはならない」（出エジプト二〇・一四）と少しも変わらないほど、はっきりしています。
 How then is it possible for a rich man to grow richer without denying the Lord that bought him
-それなら、富んだ人が、自分を買い取ってくださった主を否定せずに（第二ペテロ二・一）、さらに富むことが、どうしてできるでしょうか。
+それなら、富んだ人が、自分をあがなってくださった主を否定せずに（第二ペテロ二・一）、さらに富むことが、どうしてできるでしょうか。
 Yea, how can any man who has already the necessaries of life gain or aim at more, and be guiltless
 そうです、すでに生活の必需品を持っている人が、それ以上のものを得ようとし、また目指すとします。それで罪がないということが、どうしてありうるでしょうか。
 "Lay not up," saith our Lord, "treasures upon earth."
 私たちの主は言われます。「地上に、宝をたくわえてはなりません」（マタイ六・一九）。
 If, in spite of this, you do and will lay up money or goods, which "moth or rust may corrupt, or thieves break through and steal;"
-それにもかかわらず、あなたが、「虫が食い、さびがつき、また、盗人らが押し入って盗み出す」ような（マタイ六・一九）お金や財産を、たくわえ、またたくわえようとするとします。
+それにもかかわらず、あなたがお金や財産をたくわえ、またたくわえようとするとします。それは、「虫が食い、さびがつき、また、盗人らが押し入って盗み出す」ようなものです（マタイ六・一九）。
 if you will add house to house, or field to field, -- why do you call yourself a Christian
 家に家を建て連ね、田畑に田畑をまし加えようとするとします（イザヤ五・八）。それなら、なぜ自分をクリスチャンと呼ぶのですか。
 You do not obey Jesus Christ. You do not design it. Why do you name yourself by his name
@@ -599,7 +600,7 @@ because so far as it is spent wrong, so far it is spent in the support of some w
 If therefore you don't spend your money in doing good to others, you must spend it to the hurt of yourself.
 ですから、もしお金をほかの人に善を行うために使わないなら、自分を害するために使うことになるのです。
 You act like one that refuses the cordial to his sick friend which he cannot drink himself without inflaming his blood.
-あなたは、こういう人と同じことをしているのです。病気の友に強壮剤を与えることを拒みながら、その強壮剤は、自分で飲めば血をたぎらせてしまうものなのです。
+あなたは、こういう人と同じことをしているのです。自分で飲めば血をたぎらせてしまうだけの強壮剤を、病気の友に与えることを拒む人です。
 For this is the case of superfluous money, if you give it to those who want it is a cordial; if you spend it upon yourself in something that you do not want it only inflames and disorders your mind.
 余分なお金とは、まさにそういうものだからです。それを必要としている人に与えれば、それは強壮剤です。必要でもない何かのために自分に費やせば、それはあなたの心をたぎらせ、乱すだけです。
 
@@ -619,7 +620,7 @@ They are so many weights upon our mind, that makes us less able and less incline
 "So that money thus spent is not merely wasted or lost, but it is spent to bad purposes and miserable effects; to the corruption and disorder of our hearts; to the making us unable to follow the sublime doctrines of the gospel.
 「ですから、このように使われたお金は、ただ浪費され、失われるだけではありません。悪い目的とみじめな結果のために使われるのです。私たちの心を堕落させ、乱すために、私たちが福音の崇高な教えに従えなくなるようにするために、使われるのです。
 It is but like keeping money from the poor to buy poison for ourselves."
-それは、貧しい人々からお金を取り上げて、自分のために毒を買うようなものにすぎません」。
+それは、貧しい人々にお金を渡さずにおいて、自分のために毒を買うようなものにすぎません」。
 
 24. Equally inexcusable are those who lay up what they do not need for any reasonable purposes: --
 （二四）　どんな道理にかなった目的のためにも必要でないものを、たくわえる人々も、同じように弁解の余地がありません。
@@ -634,7 +635,7 @@ If he should rather choose to amuse himself with hoarding them up than entitle h
 "Now money has very much the nature of eyes and feet.
 「さて、お金は、目や足と非常によく似た性質を持っています。
 If therefore we lock it up in chests, while the poor and distressed want it for their necessary uses, we are not far from the cruelty of him that chooses rather to hoard up the hands and eyes than to give them to those that want them.
-ですから、貧しい人々や苦しんでいる人々が必要な用のためにお金を必要としているのに、私たちがそれを箱にしまい込んで鍵をかけるなら、私たちは、あの人の残酷さから遠くありません。手や目を、それを必要としている人々に与えるよりも、ため込むほうを選ぶ人の残酷さです。
+ですから、貧しい人々や苦しんでいる人々は、必要な用のためにお金を必要としています。それなのに、私たちがそれを箱にしまい込んで鍵をかけるなら、あの人の残酷さから遠くありません。手や目を、それを必要としている人々に与えるよりも、ため込むほうを選ぶ人の残酷さです。
 If we choose to lay it up rather than to entitle ourselves to an eternal reward by disposing of our money well, we are guilty of his madness that rather chooses to lock up eyes and hands than to make himself for ever blessed by giving them to those that want them."
 もし、お金をよく用いて永遠の報いを受ける資格を得るよりも、それをたくわえるほうを選ぶなら、私たちは、あの人の狂気と同じ罪を犯しています。目や手を、必要としている人々に与えて永遠に祝福された者となるよりも、しまい込むほうを選ぶ人の狂気です」。
 
@@ -645,7 +646,7 @@ A vast majority of them are under a curse, under the peculiar curse of God; inas
 but also robbing the poor, the hungry, the naked, wronging the widow and the fatherless, and making themselves accountable for all the want, affliction, and distress which they may but do not remove.
 それだけではありません。彼らは、貧しい人、飢えた人、裸の人から盗み、やもめとみなしごを虐げています。そして、取り除くことができるのに取り除かない、あらゆる欠乏と苦しみと悩みとについて、自分に責任を負わせているのです。
 Yea, doth not the blood of all those who perish for want of what they either lay up or lay out needlessly, cry against them from the earth O what account will they give to him who is ready to judge both the quick and the dead!
-彼らが不必要にたくわえたり費やしたりするもののために、それに欠けて滅びる人々がいます。そうです、そのすべての人々の血が、地から彼らを訴えて叫んでいる（創世記四・一〇）のではないでしょうか。ああ、彼らは、生ける者と死ねる者とをさばくかたに（第一ペテロ四・五）、どんな申し開きをするのでしょうか！
+彼らが不必要にたくわえたり費やしたりするもの、それがないために滅びる人々がいます。そうです、そのすべての人々の血が、地から彼らを訴えて叫んでいる（創世記四・一〇）のではないでしょうか。ああ、彼らは、生ける者と死ねる者とをさばくかたに（第一ペテロ四・五）、どんな申し開きをするのでしょうか！
 
 26. The true way of employing what you do not want yourselves you may, Fourthly, learn from those words of our Lord which are the counterpart of what went before:
 （二六）　第四に、自分に必要でないものを用いる正しい方法は、私たちの主の言葉から学ぶことができます。それは、前に述べた言葉と対をなす言葉です。
@@ -656,7 +657,7 @@ Put out whatever thou canst spare upon better security than this world can affor
 Lay up thy treasures in the bank of heaven; and God shall restore them in that day.
 あなたの宝を天の銀行にたくわえなさい。そうすれば、神はかの日に、それを返してくださいます。
 "He that hath pity upon the poor lendeth unto the Lord, and look, what he layeth out, it shall be paid him again."
-「貧しい者をあわれむ者は主に貸すのです」。その人が施すものは何であれ、その人に返されるのです（箴言一九・一七）。
+「貧しい者をあわれむ者は主に貸すのです」（箴言一九・一七）。その人が施すものは何であれ、その人に返されるのです。
 // 英文は、祈祷書「聖餐式」の献金の句（箴言一九・一七）。口語訳の後半は「その施しは主が償われる」なので、後半を英文から訳し、「」の外に出した。
 "Place that," saith he, "unto my account. Howbeit, thou owest me thine own self besides!"
 主は言われます。「それをわたしの借りにしておいて」ください（ピレモン一八）。けれども、そのうえ、「あなたが、あなた自身をわたしに負うている」のです（ピレモン一九）！
@@ -677,14 +678,14 @@ The wise steward, after having provided his own household with what is needful f
 賢い家令は、いのちと信心とにかかわるもの（第二ペテロ一・三）を自分の家族に備えます。そのあと、そのつど残る「不正の富」（ルカ一六・九）のすべてで、自分のために友だちをつくります。それは、自分が尽きたとき、彼らが自分を「永遠のすまいに迎えてくれる」ためです（ルカ一六・九）。
 // ルカ一六・九 の when he fails は、口語訳では「富が無くなった場合」。説教二十五と同じく、英文から訳して「」の外に出した。
 that whensoever his earthly tabernacle is dissolved, they who were before carried into Abraham's bosom, after having eaten his bread, and worn the fleece of his flock., and praised God for the consolation, may welcome him into paradise, and to "the house of God, eternal in the heavens."
-すなわち、いつであれ彼の地上の幕屋がこわれるときに（第二コリント五・一）、迎えてもらうためです。先にアブラハムのふところに送られた人々がいます（ルカ一六・二二）。彼らは、彼のパンを食べ、彼の羊の毛を着て（ヨブ三一・二〇）、その慰めのゆえに神をほめたたえた人々です。その人々が、彼をパラダイスに迎え、「天にある」神の「永遠の家」に迎えるのです（第二コリント五・一）。
+すなわち、いつであれ彼の地上の幕屋がこわれるときに（第二コリント五・一）、迎えてもらうためです。先にアブラハムのふところに送られた人々がいます（ルカ一六・二二）。彼らは、彼のパンを食べ、彼の羊の毛を着て（ヨブ三一・二〇）、その慰めのゆえに神をほめたたえた人々です。その人々が、彼をパラダイスに迎え、「天にある」、神の「永遠の家」に迎えるのです（第二コリント五・一）。
 
 27. We "charge" you, therefore, "who are rich in this world," as having authority from our great Lord and Master, agadoergein, -- to be habitually doing good, to live in a course of good works.
 （二七）　ですから、私たちは、私たちの偉大な主であり主人である方から権威を受けた者として、「この世で富んでいる」あなたがたに「命じ」ます（第一テモテ六・一七）。アガトエルゲイン（ἀγαθοεργεῖν）、すなわち習慣的に善を行い、良きわざを続けて生きるようにと命じるのです（第一テモテ六・一八）。
 // 英文の転写は agadoergein。
 "Be ye merciful as your Father which is in heaven is merciful;" who doth good, and ceaseth not.
-天にいます「あなたがたの父なる神が慈悲深いように、あなたがたも慈悲深い者と」なりなさい（ルカ六・三六）。父は善を行い、やめることがありません。
-// 天にいますは、ウェスレーの挿入。
+天にいます「あなたがたの父」が「慈悲深いように、あなたがたも慈悲深い者と」なりなさい（ルカ六・三六）。父は善を行い、やめることがありません。
+// 天にいますは、ウェスレーの挿入。口語訳の「父なる神」の「なる神」は英文にないので除いた。
 "Be ye merciful," -- how far After your power, with all the ability which God giveth.
 「慈悲深い者と」なりなさい（ルカ六・三六）。どこまででしょうか。あなたがたの力に応じて、神が与えてくださるあらゆる能力をもってです。
 Make this your only measure of doing good, not any beggarly maxims or customs of the world.
@@ -722,7 +723,7 @@ The great foundation indeed of all the blessings of God, whether temporal or ete
 And "other foundation," in this sense, "can no man lay;" no, not an Apostle, no, not an angel from heaven.
 そして、この意味では、ほかの土台を「すえることは、だれにもできません」（第一コリント三・一一）。そうです、使徒にもできず、天からの御使にもできません（ガラテヤ一・八）。
 But through his merits, whatever we do in his name is a foundation for a good reward in the day when "every man shall receive his own reward, according to his own labour."
-けれども、キリストの功績によって、私たちがキリストの名によって行うことは何でも、「それぞれその働きに応じて報酬を得る」日に（第一コリント三・八）、良い報いを受ける土台となります。
+けれども、キリストの功績によって、私たちがキリストの名によって行うことは何でも、良い報いを受ける土台となります。それは、「それぞれその働きに応じて報酬を得る」日のための土台です（第一コリント三・八）。
 Therefore "labour" thou "not for the meat that perisheth, but for that which endureth unto everlasting life."
 ですから、あなたは「朽ちる食物のためではなく、永遠のいのちに至る朽ちない食物のために働」きなさい（ヨハネ六・二七）。
 Therefore "whatsoever thy hand" now "findeth to do, do it with thy might."
@@ -731,7 +732,7 @@ Therefore let
 ですから、次のようにしなさい。
 
 No fair occasion pass undeeded by;
-良い機会を一つも、気づかずに過ごさせるな。<br/>
+良い機会を一つも見過ごすな。<br/>
 Snatching the golden moments as they fly,
 飛び去る黄金のときをつかみ取り、<br/>
 Thou by few fleeting years ensure eternity!
