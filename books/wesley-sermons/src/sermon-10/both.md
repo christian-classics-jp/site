@@ -6,7 +6,7 @@ The Witness of the Spirit: Discourse One
 「御霊みずから、私たちの霊と共に、私たちが神の子であることをあかししてくださいます」（ローマ八・一六）
 
 1. How many vain men, not understanding what they spake, neither whereof they affirmed, have wrested this Scripture to the great loss if not the destruction of their souls!
-（一）　なんと多くのむなしい人々が、自分の言っていることも主張していることもわからないまま（第一テモテ一・七）、この聖句に無理な解釈をほどこしてきたことでしょう（第二ペテロ三・一六）。そうして、自分の魂に大きな損失を、いや、滅亡をさえ招いてきたのです。
+（一）　なんと多くのむなしい人々が、この聖句に無理な解釈をほどこしてきたことでしょう（第二ペテロ三・一六）。彼らは、自分の言っていることも主張していることも、わからないのです（第一テモテ一・七）。そうして、自分の魂に大きな損失を、いや、滅亡をさえ招いてきたのです。
 How many have mistaken the voice of their own imagination for this witness of the Spirit of God, and thence idly presumed they were the children of God while they were doing the works of the devil!
 なんと多くの人々が、自分の想像の声を、神の御霊のこのあかしと取り違えてきたことでしょう。そこから、悪魔のわざを行いながら、自分は神の子だと、愚かにも思い上がってきたのです。
 These are truly and properly enthusiasts; and, indeed, in the worst sense of the word.
@@ -14,23 +14,23 @@ These are truly and properly enthusiasts; and, indeed, in the worst sense of the
 But with what difficulty are they convinced thereof, especially if they have drank deep into that spirit of error!
 けれども、彼らにそのことを悟らせるのは、なんと難しいことでしょう。とりわけ、あの「迷いの霊」を深く飲み込んでいる場合には、そうです（第一ヨハネ四・六）。
 All endeavours to bring them to the knowledge of themselves they will then account fighting against God;
-そうなると、彼らは、自分自身を知らせようとするどんな努力も、神に敵対することだと見なすでしょう。
+そうなると、彼らは、自分の本当の姿を悟らせようとするどんな努力も、神に敵対することだと見なすでしょう。
 and that vehemence and impetuosity of spirit which they call "contending earnestly for the faith," sets them so far above all the usual methods of conviction that we may well say, "With men it is impossible."
-彼らは、自分たちの霊の激しさと性急さを、熱心に「信仰のために戦う」ことだと呼びます（ユダ三）。その激しさが、彼らを、罪を悟らせる普通の方法のどれもが届かないところに置いてしまうのです。ですから、まさに「人にはそれはできません」と言ってよいでしょう（マタイ一九・二六）。
+彼らは、自分たちの霊の激しさと性急さを、熱心に「信仰のために戦う」ことだと呼びます（ユダ三）。その激しさが、彼らを、誤りを悟らせる普通の方法のどれもが届かないところに置いてしまうのです。ですから、まさに「人にはそれはできません」と言ってよいでしょう（マタイ一九・二六）。
 
 2. Who can then be surprised if many reasonable men, seeing the dreadful effects of this delusion, and labouring to keep at the utmost distance from it, should sometimes lean toward another extreme --
 （二）　多くの分別のある人々は、この惑わしの恐ろしい結果を見て、それからできるだけ遠ざかろうと努めています。そういう人々が、ときにはもう一方の極端に傾いたとしても、だれが驚くでしょうか。
 if they are not forward to believe any who speak of having this witness concerning which others have so grievously erred --
-このあかしについては、ほかの人々がひどく誤ってきました。そのため、彼らは、このあかしを持っていると言う人を、だれであれ、すぐには信じようとしません。
+このあかしについては、ほかの人々がひどく誤ってきました。ですから、彼らが、このあかしを持っていると言う人をすぐには信じなくても、驚くことはありません。
 if they are almost ready to set all down for enthusiasts, who use the expressions which have been so terribly abused --
-ひどく乱用されてきた言い回しを使う人を、みな熱狂者と決めつけそうにさえなります。
+ひどく乱用されてきた言い回しを使う人を、みな熱狂者と決めつけそうになっても、無理はありません。
 yea, if they should question whether the witness or testimony here spoken of, be the privilege of ordinary Christians, and not, rather, one of those extraordinary gifts which they suppose belonged only to the apostolic age
-それどころか、ここで言われているあかし、すなわち証言は、普通のクリスチャンの特権ではないのではないか、と疑うかもしれません。むしろ、使徒の時代にだけ属していたと彼らが考える、あの特別な賜物の一つではないか、と疑うのです。
+それどころか、ここで言われているあかし、すなわち証言を、普通のクリスチャンの特権ではないのではないかと疑っても、無理はないのです。むしろ、使徒の時代にだけ属していたと彼らが考える、あの特別な賜物の一つではないか、と疑うのです。
 
 3 . But is there any necessity laid upon us of running either into one extreme or the other
 （三）　けれども、私たちは、どちらかの極端に走らなければならないのでしょうか。
 May we not steer a middle course -- keep a sufficient distance from that spirit of error and enthusiasm, without denying the gift of God, and giving up the great privilege of his children
-中道を進むことはできないのでしょうか。すなわち、あの迷いと熱狂の霊からは十分に距離を保ちながら、神の賜物を否定することも、神の子たちの大きな特権を手放すこともしない道です。
+中道を進むことはできないのでしょうか。あの迷いと熱狂の霊からは、十分に距離を保ちます。それでいて、神の賜物を否定せず、神の子たちの大きな特権も手放さない道です。
 Surely we may. In order thereto, let us consider, in the presence and fear of God,
 確かに、できます。そのために、神の御前で、神を恐れつつ、次のことを考えましょう。<br/>
 First. What is this witness or testimony of our spirit; what is the testimony of God's Spirit; and, how does he "bear witness with our spirit that we are the children of God"
@@ -49,10 +49,10 @@ It does not appear but the original text may fairly be understood thus.
 The Apostle had just said, in the preceding verse, "Ye have received the Spirit of adoption, whereby we cry, Abba, Father;"
 使徒は、直前の節で、こう言ったばかりです。あなたがたは、「子たる身分を授ける霊を受けたのです。その霊によって、私たちは『アバ、父よ』と呼ぶのです」（ローマ八・一五）。
 and immediately subjoins, Auto to pneuma (some copies read to auto pneuma) summarturei tv pneumati hmvn, oti esmen tekna qeou, which may be translated, "The same Spirit beareth witness to our spirit that we are the children of God"
-そして、すぐにこう続けています。アウト・ト・プネウマ・スュンマルテュレイ・トー・プネウマティ・ヘーモーン・ホティ・エスメン・テクナ・テウー（αὐτὸ τὸ πνεῦμα συμμαρτυρεῖ τῷ πνεύματι ἡμῶν, ὅτι ἐσμὲν τέκνα θεοῦ）。いくつかの写本では、初めの語句がト・アウト・プネウマ（τὸ αὐτὸ πνεῦμα）となっています。これは、こう訳すことができます。「同じ御霊が、私たちの霊に、私たちが神の子であることをあかしされる」。
+そして、すぐにこう続けています。アウト・ト・プネウマ・スュンマルテュレイ・トー・プネウマティ・ヘーモーン・ホティ・エスメン・テクナ・テウー（αὐτὸ τὸ πνεῦμα συμμαρτυρεῖ τῷ πνεύματι ἡμῶν, ὅτι ἐσμὲν τέκνα θεοῦ）。いくつかの写本では、初めの語句がト・アウト・プネウマ（τὸ αὐτὸ πνεῦμα）となっています。これは、こう訳すことができます。「同じ御霊が、私たちの霊に、私たちが神の子であることをあかしされる」（ローマ八・一六）。
 (the preposition sun only denoting that he witnesses this at the same time that he enables us to cry Abba, Father.)
 前置詞のスュン（σύν）が表しているのは、ただ次のことです。御霊は、私たちが「アバ、父よ」と呼べるようにしてくださるのと同時に、このことをあかしされるのです。
-// 英文の Auto to pneuma, to auto pneuma, summarturei tv pneumati hmvn, oti esmen tekna qeou, sun は、ギリシャ語 αὐτὸ τὸ πνεῦμα, τὸ αὐτὸ πνεῦμα, συμμαρτυρεῖ τῷ πνεύματι ἡμῶν, ὅτι ἐσμὲν τέκνα θεοῦ, σύν の転写（v は w、q は θ を表す）。ウェスレーは欽定訳 beareth witness with our spirit に代えて to our spirit と訳してみせているので、その訳は英文から訳した。
+// 英文の Auto to pneuma, to auto pneuma, summarturei tv pneumati hmvn, oti esmen tekna qeou, sun は、ギリシャ語 αὐτὸ τὸ πνεῦμα, τὸ αὐτὸ πνεῦμα, συμμαρτυρεῖ τῷ πνεύματι ἡμῶν, ὅτι ἐσμὲν τέκνα θεοῦ, σύν の転写（v は ω、h は η、q は θ を表す）。ウェスレーは欽定訳 beareth witness with our spirit に代えて to our spirit と訳してみせているので、ウェスレーの訳なので、口語訳ではなく英文から訳した。
 But I contend not; seeing so many other texts, with the experience of all real Christians, sufficiently evince, that there is in every believer, both the testimony of God's Spirit, and the testimony of his own, that he is a child of God.
 けれども、私はこのことで争いません。ほかの多くの聖句と、すべての本当のクリスチャンの経験とが、十分に示しているからです。すべての信者のうちには、自分が神の子であるという、神の御霊のあかしと、自分自身の霊のあかしとの両方があるのです。
 
@@ -69,9 +69,9 @@ And by the reason or understanding that God has given him, which religion was de
 every man applying those scriptural marks to himself, may know whether he is a child of God.
 この理性によって、人はだれでも、聖書の示すしるしを自分に当てはめ、自分が神の子かどうかを知ることができるのです。
 Thus, if he know, First, "as many as are led by the Spirit of God," into all holy tempers and actions, "they are the sons of God;" (for which he has the infallible assurance of holy writ;)
-たとえば、その人は、第一に、こう知っています。「すべて神の御霊に導かれている者は」、すなわち、あらゆる聖い気質と行いへと導かれている者は、「神の子」なのです（ローマ八・一四）。これについては、聖書という誤りのない保証があります。
+たとえば、その人が、第一に、次のことを知っているとします。「すべて神の御霊に導かれている者は」、すなわち、あらゆる聖い気質と行いへと導かれている者は、「神の子」なのです（ローマ八・一四）。これについては、聖書という誤りのない保証があります。
 Secondly, I am thus "led by the Spirit of God;" he will easily conclude, -- "Therefore I am a son of God."
-第二に、自分はそのように「神の御霊に導かれている」と知っているなら（ローマ八・一四）、たやすくこう結論するでしょう。「だから、私は神の子である」。
+第二に、自分はそのように「神の御霊に導かれている」と知っているとします（ローマ八・一四）。そうすれば、たやすくこう結論するでしょう。「だから、私は神の子である」。
 
 3. Agreeable to this are all those plain declarations of St. John, in his First Epistle:
 （三）　ヨハネが第一の手紙で述べている、あの明らかな言葉のすべても、これと一致しています。
@@ -91,9 +91,9 @@ And, "hereby we know that he abideth in us, by the" obedient "spirit which he ha
 また、「神が私たちのうちにいますことは、神が私たちに賜わった」従順な「御霊によって知るのです」（第一ヨハネ三・二四）。
 
 4. It is highly probable there never were any children of God, from the beginning of the world unto this day, who were farther advanced in the grace of God and the knowledge of our Lord Jesus Christ, than the Apostle John, at the time when he wrote these words, and the fathers in Christ to whom he wrote.
-（四）　世の初めから今日に至るまで、神の恵みと、私たちの主イエス・キリストを知る知識とにおいて、これほど進んでいた神の子は、おそらくいなかったでしょう。これらの言葉を書いたときの使徒ヨハネと、彼が書き送ったキリストにある父たちのことです。
+（四）　これらの言葉を書いたときの使徒ヨハネと、彼が書き送ったキリストにある父たちを考えてみましょう。世の初めから今日まで、神の恵みと、私たちの主イエス・キリストを知る知識とにおいて、彼らより進んだ神の子は、おそらくいなかったでしょう。
 Notwithstanding which, it is evident both the Apostle himself, and all those pillars in God's temple, were very far from despising these marks of their being the children of God; and that they applied them to their own souls for the confirmation of their faith.
-それにもかかわらず、使徒自身も、神の聖所のあの柱たちもみな（黙示録三・一二）、自分たちが神の子であることのこれらのしるしを、決して軽んじてはいませんでした。それは明らかです。彼らは、信仰を確かにするために、これらのしるしを自分の魂に当てはめたのです。
+それにもかかわらず、使徒自身も、神の聖所のあの柱たちもみな（黙示録三・一二）、これらのしるしを決して軽んじませんでした。自分たちが神の子であることのしるしとして、信仰を確かにするために、自分の魂に当てはめたのです。それは明らかです。
 Yet all this is no other than rational evidence, the witness of our spirit, our reason or understanding.
 けれども、これはすべて理性的な証拠にすぎません。私たちの霊、すなわち私たちの理性や悟りのあかしにすぎないのです。
 It all resolves into this: Those who have these marks are the children of God: But we have these marks. Therefore we are children of God.
@@ -118,7 +118,7 @@ By the same you must be directly assured, if you love your neighbour as yourself
 And with regard to the outward mark of the children of God, which is, according to St. John, the keeping his commandments, you undoubtedly know in your own breast, if, by the grace of God, it belongs to you.
 また、神の子たちの外面のしるしは、ヨハネによれば、神の戒めを守ることです。神の恵みによって、このしるしが自分にあるかどうかも、あなたは自分の胸のうちで疑いなく知っています。
 Your conscience informs you from day to day, if you do not take the name of God within your lips unless with seriousness and devotion, with reverence and godly fear;
-あなたの良心は、日ごとにあなたに知らせます。あなたが神の名を口にするときには、必ずまじめさと敬虔な思いをもち、畏敬と神への恐れをもって口にしているかどうかを、知らせるのです。
+あなたの良心は、日ごとにあなたに知らせます。神の名を口にするときは、いつも、まじめさと敬虔な思い、畏敬と神への恐れをもっているかどうかを、知らせるのです。
 if you remember the Sabbath-day to keep it holy; if you honour your father and mother;
 「安息日を覚えて、これを聖と」しているかどうかも（出エジプト二〇・八）、「父と母を敬」っているかどうかも（出エジプト二〇・一二）、知らせます。
 if you do to all as you would they should do unto you; if you possess your body in sanctification and honour; and if, whether you eat or drink, you are temperate therein, and do all to the glory of God.
@@ -165,17 +165,18 @@ Since, therefore, this testimony of his Spirit must precede the love of God and 
 9. Then, and not till then, -- when the Spirit of God beareth that witness to our spirit, "God hath loved thee, and given his own Son to be the propitiation for thy sins; the Son of God hath loved thee, and hath washed thee from thy sins in his blood," --
 （九）　神の御霊が私たちの霊に、こうあかししてくださるときがきます。「神はあなたを愛し、あなたの罪のために、ご自分の御子をあがないの供え物として与えられました（第一ヨハネ四・一〇）。神の御子はあなたを愛し、その血によって、あなたを罪から洗い清められました」（黙示録一・五）。
 // 欽定訳の黙示録一・五 washed us from our sins は、口語訳では「罪から解放し」（写本の違い）。英文に合わせて「洗い清め」とした。
+// 御霊のあかしの言葉なので、第一ヨハネ四・一〇と黙示録一・五の口語訳を二人称に言い換え、全体を一つの「」に入れた。
 "we love God, because he first loved us;" and, for his sake, we love our brother also.
 そのとき、そしてそのときに初めて、私たちは神を愛するのです。「神がまず私たちを愛してくださった」からです（第一ヨハネ四・一九）。そして、神のために、兄弟をも愛するのです。
 And of this we cannot but be conscious to ourselves: We "know the things that are freely given to us of God."
 そして、私たちは、このことを自覚せずにはいられません。私たちは、「神から賜わった恵みを悟る」のです（第一コリント二・一二）。
 We know that we love God and keep his commandments; and "hereby also we know that we are of God."
-私たちは、自分が神を愛し、神の戒めを守っていることを知っています（第一ヨハネ五・二）。そして、「それによって」また、私たちが「神から出たもの」であることを知るのです（第一ヨハネ三・一九、四・六）。
+私たちは、自分が神を愛し、神の戒めを守っていることを知っています。そして、「それによって」また、私たちが「神から出たもの」であることを知るのです（第一ヨハネ三・一九、四・六）。
 This is that testimony of our own spirit, which, so long as we continue to love God and keep his commandments, continues joined with the testimony of God's Spirit, "that we are the children of God."
 これが、私たち自身の霊のあかしです。私たちが神を愛し、神の戒めを守り続けるかぎり、このあかしは、神の御霊のあかしと結び合わされ続けます。そして、「私たちが神の子であること」をあかしし続けるのです（ローマ八・一六）。
 
 10. Not that I would by any means be understood, by anything which has been spoken concerning it, to exclude the operation of the Spirit of God, even from the testimony of our own spirit. In no wise.
-（一〇）　これについて述べてきたことによって、私が、私たち自身の霊のあかしからさえ、神の御霊の働きを締め出そうとしている、と受け取られては困ります。決してそうではありません。
+（一〇）　私は、私たち自身の霊のあかしからさえ、神の御霊の働きを締め出そうとしているのではありません。これについて述べてきたことを、そう受け取られては困ります。決してそうではありません。
 It is he that not only worketh in us every manner of thing that is good, but also shines upon his own work, and clearly shows what he has wrought.
 御霊は、私たちのうちに、あらゆる良いことを行われるだけではありません。ご自分のわざを照らし、ご自分が行われたことをはっきりと示してくださるのです。
 Accordingly, this is spoken of by St. Paul, as one great end of our receiving the Spirit, "that we may know the things which are freely given to us of God:"
@@ -185,11 +186,11 @@ That he may strengthen the testimony of our conscience, touching our 'simplicity
 // 欽定訳の第二コリント一・一二 in simplicity and godly sincerity は、口語訳では「神の神聖と真実とによって」（写本の違い）。英文に合わせて訳し、「良心のあかし」だけを「」に入れた。
 
 11. Should it still be inquired, "How does the Spirit of God bear witness with our spirit, that we are the children of God,' so as to exclude all doubt, and evince the reality of our sonship" --
-（一一）　それでもなお、こう尋ねられるかもしれません。「神の御霊は、どのようにして、私たちの霊と共に、私たちが神の子であることをあかしされるのか。どのようにして、あらゆる疑いを締め出し、私たちが本当に神の子であることを示されるのか」。
+（一一）　それでもなお、こう尋ねられるかもしれません。「神の御霊は、どのようにして、『私たちの霊と共に、私たちが神の子であることをあかし』されるのか（ローマ八・一六）。どのようにして、あらゆる疑いを締め出し、私たちが本当に神の子であることを示されるのか」。
 the answer is clear from what has been observed above.
 その答えは、これまでに述べてきたことから明らかです。
 And, First, as to the witness of our spirit: The soul as intimately and evidently perceives when it loves, delights, and rejoices in God, as when it loves and delights in anything on earth.
-まず第一に、私たちの霊のあかしについて言えば、魂は、自分が神を愛し、神を楽しみ、神を喜んでいるとき、それを親しく、はっきりと感じ取ります。地上の何かを愛し、楽しんでいるときと同じように感じ取るのです。
+まず第一に、私たちの霊のあかしについて考えましょう。魂は、自分が神を愛し、神を楽しみ、神を喜んでいるとき、それをじかに、はっきりと感じ取ります。地上の何かを愛し、楽しんでいるときと同じように感じ取るのです。
 And it can no more doubt, whether it loves, delights, and rejoices or no, than whether it exists or no.
 魂は、自分が存在しているかどうかを疑えないのと同じように、自分が愛し、楽しみ、喜んでいるかどうかを疑うことはできません。
 If, therefore this be just reasoning,
@@ -206,9 +207,9 @@ Therefore, I am a child of God: --
 Then a Christian can in no wise doubt of his being a child of God.
 それなら、クリスチャンは、自分が神の子であることを、決して疑うことはできません。
 Of the former proposition he has as full an assurance as he has that the Scriptures are of God; and of his thus loving God, he has an inward proof, which is nothing short of self-evidence.
-前の命題については、聖書が神から出たものであることと同じほど、十分な確信を持っています。また、自分がこのように神を愛していることについては、内的な証拠を持っています。それは、自明であることにほかなりません。
+前の命題については、聖書が神から出たものであることと同じほど、十分な確信を持っています。また、自分がこのように神を愛していることについては、内的な証拠を持っています。それは、自明と言うほかない証拠です。
 Thus, the testimony of our own spirit is with the most intimate conviction manifested to our hearts, in such a manner, as beyond all reasonable doubt to evince the reality of our sonship.
-こうして、私たち自身の霊のあかしは、最も親しい確信をもって、私たちの心に示されます。それは、私たちが本当に神の子であることを、あらゆる理にかなった疑いを越えて示すほどなのです。
+こうして、私たち自身の霊のあかしは、最も深い内なる確信をもって、私たちの心に示されます。それは、私たちが本当に神の子であることを、あらゆる理にかなった疑いを越えて示すほどなのです。
 
 12. The manner how the divine testimony is manifested to the heart, I do not take upon me to explain.
 （一二）　神のあかしが、どのようにして心に示されるのか。そのしかたを、私はあえて説明しようとは思いません。
@@ -308,7 +309,7 @@ But do these fruits attend that supposed testimony of the Spirit in a presumptuo
 The more confident he is of the favour of God, the more is he lifted up; the more does he exalt himself, the more haughty and assuming is his whole behaviour.
 その人は、神の恵みに確信を持てば持つほど、高ぶります。ますます自分を高くし、ふるまいのすべてが、ますます傲慢で、思い上がったものになります。
 The stronger witness he imagines himself to have, the more overbearing is he to all around him; the more incapable of receiving any reproof; the more impatient of contradiction.
-自分が強いあかしを持っていると思えば思うほど、周りのすべての人に対して横柄になります。どんな戒めも、ますます受けいれられなくなり、反対されることに、ますます我慢できなくなるのです。
+自分が強いあかしを持っていると思えば思うほど、周りのすべての人に対して横柄になります。どんな忠告も、ますます受けいれられなくなり、反対されることに、ますます我慢できなくなるのです。
 Instead of being more meek, and gentle, and teachable, more "swift to hear, and slow to speak," he is more slow to hear, and swift to speak; more unready to learn of anyone; more fiery and vehement in his temper, and eager in his conversation.
 もっと柔和で、優しく、教えを受けやすくなるのではありません。もっと「聞くに早く、語るにおそく」なるのでもありません（ヤコブ一・一九）。かえって、ますます聞くにおそく、語るに早くなります。だれからも、ますます学ぼうとしなくなります。気質はますます激しく荒々しくなり、ふるまいはますますせっかちになるのです。
 Yea, perhaps, there will sometimes appear a kind of fierceness in his air, his manner of speaking, his whole deportment, as if he were just going to take the matter out of God's hands, and himself to "devour the adversaries."
@@ -333,7 +334,7 @@ But now, looking on himself as "not under the law," he thinks he is no longer ob
 He is therefore less zealous of good works: less careful to abstain from evil; less watchful over his own heart; less jealous over his tongue.
 そのため、以前ほど「良いわざに熱心」ではありません（テトス二・一四）。悪を避けることにも、自分の心を見張ることにも、自分の舌に用心することにも、以前ほど気を配りません。
 He is less earnest to deny himself, and to take up his cross daily.
-「自分を捨て、日々自分の十字架を負う」ことにも（ルカ九・二三）、以前ほど熱心ではありません。
+「自分を捨て、日々自分の十字架を負」うことにも（ルカ九・二三）、以前ほど熱心ではありません。
 In a word, the whole form of his life is changed since he has fancied himself to be at liberty.
 一言で言えば、自分は自由だと思い込んでから、その人の生活の形全体が変わってしまったのです。
 He is no longer "exercising himself unto godliness;" "wrestling not only with flesh and blood, but with principalities and powers," enduring hardships, "agonizing to enter in at the strait gate."
@@ -381,7 +382,7 @@ And this difference also is immediately and directly perceived, if our spiritual
 10. To require a more minute and philosophical account of the manner whereby we distinguish these, and of the criteria, or intrinsic marks, whereby we know the voice of God, is to make a demand which can never be answered; no, not by one who has the deepest knowledge of God.
 （一〇）　私たちがこれらを見分けるしかたについて、もっと細かな、哲学的な説明を求める人がいます。神の声を知る基準、すなわち内在的なしるしについて、説明を求めるのです。けれども、それは決して答えられることのない要求です。神を最も深く知っている人でさえ、答えられないのです。
 Suppose when Paul answered before Agrippa, the wise Roman had said, "Thou talkest of hearing the voice of the Son of God. How dost thou know it was his voice By what criteria, what intrinsic marks, dost thou know the voice of God Explain to me the manner of distinguishing this from a human or angelic voice."
-パウロがアグリッパの前で弁明したとき（使徒二六章）、あの賢いローマ人が、こう言ったとしましょう。「あなたは、神の子の声を聞いたと言う。どうして、それが神の子の声だとわかるのか。どんな基準、どんな内在的なしるしによって、神の声を知るのか。この声を、人の声や御使の声と見分けるしかたを、説明してみよ」。
+パウロがアグリッパの前で弁明したとき（使徒二六章）、あの賢いローマ人が、こう言ったとしましょう。「あなたは、神の御子の声を聞いたと言う。どうして、それが御子の声だとわかるのか。どんな基準、どんな内在的なしるしによって、神の声を知るのか。この声を、人の声や御使の声と見分けるしかたを、説明してみよ」。
 Can you believe the Apostle himself would have once attempted to answer so idle a demand
 使徒自身が、そのようなくだらない要求に、一度でも答えようとしたと思えるでしょうか。
 And yet, doubtless, the moment he heard that voice he knew it was the voice of God.
@@ -435,7 +436,7 @@ He is not divided against himself, or a destroyer of sin, his own work.
 No; it is none but the Son of God who cometh to "destroy the works of the devil." [1 John 3:8]
 いいえ、「悪魔のわざを滅ぼ」すために来られるのは、神の御子だけです（第一ヨハネ三・八）。
 As surely therefore as holiness is of God, and as sin is the work of the devil, so surely the witness thou hast in thyself is not of Satan, but of God.
-ですから、聖性は神から出たものであり、罪は悪魔のわざです。それが確かであるのと同じように、あなたが自分のうちに持っているあかしが、サタンからではなく神から出たものであることも確かなのです。
+ですから、聖性は神から出たものであり、罪は悪魔のわざです。それと同じほど確かに、あなたのうちにあるあかしは、サタンからではなく、神から出たものです。
 
 14. Well then mayst thou say, "Thanks be unto God for his unspeakable gift!" [2 Cor. 9:15] Thanks be unto God, who giveth me to "know in whom I have believed;" [2 Tim. 1:12] who hath "sent forth the Spirit of his Son into my heart, crying, Abba, Father," [Gal. 4:6] and even now, "bearing witness with my spirit that I am a child of God!" [Rom. 8:16]
 （一四）　ですから、あなたはこう言ってよいのです。「言いつくせない賜物のゆえに、神に感謝します（第二コリント九・一五）。私に、自分の信じてきたかたを知らせてくださる神に、感謝します（第二テモテ一・一二）。神は、『アバ、父よ』と呼ぶ御子の霊を、私の心の中に送ってくださいました（ガラテヤ四・六）。その御霊は今も、私の霊と共に、私が神の子であることをあかししてくださるのです！」（ローマ八・一六）。
@@ -451,7 +452,7 @@ Beloved, if thou hast this hope in thyself, purify thyself as he is pure.
 While thou beholdest what manner of love the Father hath given thee, that thou shouldst be called a child of God; [1 John 3:1] cleanse thyself "from all filthiness of flesh and Spirit, perfecting holiness in the fear of God;" [2 Cor. 7:1]
 あなたが「神の子と呼ばれるためには、どんなに大きな愛を父から賜わったことか」を見つめなさい（第一ヨハネ三・一）。そうしつつ、「肉と霊とのいっさいの汚れから自分をきよめ、神をおそれて全く清く」なりなさい（第二コリント七・一）。
 and let all thy thoughts, words, and works be a spiritual sacrifice, holy, acceptable to God through Christ Jesus! [Rom. 12:1, 2]
-そして、あなたの思いも言葉も行いも、すべてを聖なる霊のいけにえとしなさい。「イエス・キリストにより、神によろこばれる」いけにえとしなさい（第一ペテロ二・五、ローマ一二・一）。
+そして、あなたの思いも言葉も行いも、すべてを、聖なる、霊のいけにえとしなさい。「イエス・キリストにより、神によろこばれる」いけにえとしなさい（第一ペテロ二・五、ローマ一二・一）。
 // 英文の出典は Rom. 12:1, 2 だが、spiritual sacrifice … acceptable to God through Christ Jesus は第一ペテロ二・五による。両方を示した。
 
 // Edited by Connie Dunn (Academic Dean, Australian Nazarene Theological College) with corrections and additions by Ryan Danker and George Lyons of Northwest Nazarene University for the Wesley Center for Applied Theology.
