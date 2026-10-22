@@ -72,7 +72,7 @@ CHR. Sir, which is my way to this honest man's house?
 クリスチャン「では、すみませんが、その正直な方の家へはどのように行ったらよいでしょうか」
 
 WORLD. Do you see yonder hill?
-世の賢者「向こうにある高い山が見えますか」
+世の賢者「向こうにある山が見えますか」
 
 CHR. Yes, very well.
 クリスチャン「はい、よく見えます」
@@ -84,8 +84,14 @@ So Christian turned out of his way to go to Mr. Legality's house for help; but, 
 And now he began to be sorry that he had taken Mr. Worldly Wiseman's counsel. And with that he saw Evangelist coming to meet him; at the sight also of whom he began to blush for shame. So Evangelist drew nearer and nearer; and coming up to him, he looked upon him with a severe and dreadful countenance, and thus began to reason with Christian.
 こうしてクリスチャンは道を変更して、助けを求めに遵法の家に向かった。ところが、山のふもとに来ると彼は困難を感じた。山は高くそびえ立って見え、道の真横に崖がせり出していた。先に進むのは危険だと感じた。いまにも岩が頭上に落ちてきそうだった。クリスチャンは呆然と立ち尽くした。背中の重荷は、本来の道にいたときよりもずっしりと重くなっていた。山から炎も吹き出てきた（出エジプト一九・一六、一八）。クリスチャンは、身が焼かれるのではないかと怯えた。ここに来て、恐怖で汗をかき、体が震えた（ヘブル一二・二一）。世の賢者の忠告に従ったことを後悔し始めた。そうこうしていると、向こうから伝道者がやってくるのが見えた。クリスチャンは恥ずかしくなって顔を真っ赤にした。伝道者はだんだんと近づいてきた。そして、彼の目の前に来て、きびしい表情でじっと見つめ、諭し始めた。
 
-// 未訳：Gutenberg 版にある詩
-When Christians unto carnal men give ear, Out of their way they go, and pay for 't dear; For Master Worldly Wiseman can but shew A saint the way to bondage and to woe.
+When Christians unto carnal men give ear,
+Out of their way they go, and pay for 't dear;
+For Master Worldly Wiseman can but shew
+A saint the way to bondage and to woe.
+クリスチャンが肉の人に耳を貸せば<br/>
+道を外れ、高い代償を払うことになる。<br/>
+世の賢者が聖徒に示せるのは<br/>
+束縛と苦しみに至る道だけなのだから。
 
 EVAN. What dost thou here, Christian? said he: at which words Christian knew not what to answer; wherefore at present he stood speechless before him. Then said Evangelist further, Art not thou the man that I found crying without the walls of the City of Destruction?
 伝道者「クリスチャンさん、ここで何をしているのですか」
@@ -151,7 +157,7 @@ Then Christian fell down at his feet as dead, crying, "Woe is me, for I am undon
 
 伝道者は彼の右手を握って、言った。
 
-『人には、その犯すすべての罪も神を汚す言葉も、ゆるされる』（マタイ一二・三一）
+『人には、その犯すすべての罪も神を汚す言葉も、ゆるされる』（マタイ一二・三一、マルコ三・二八）
 
 『信じない者にならないで、信じる者になりなさい』（ヨハネ二〇・二七）
 
@@ -173,14 +179,14 @@ First, Thou must abhor his turning thee out of the way; and thine own consenting
 
 これが、私があなたを送り出した門です。
 
-『命にいたる門は狭く、その道は細い。そして、それを見いだす者が少ない』（マタイ七・一三〜一四）
+『命にいたる門は狭く、その道は細い。そして、それを見いだす者が少ない』（マタイ七・一四）
 
 ところが、この悪い者は、この狭い門から、またそこに至る道から、あなたを外し、もう少しで滅びに至らせるところでした。だから、あなたを道から外した彼の助言を憎み、彼に聞き従った自分自身を忌み嫌いなさい。
 
 Secondly, Thou must abhor his labouring to render the cross odious unto thee; for thou art to prefer it "before the treasures in Egypt." [Heb. 11:25,26] Besides the King of glory hath told thee, that he that "will save his life shall lose it." [Mark 8:35; John 12:25; Matt. 10:39] And, "He that cometh after me, and hateth not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple." [Luke 14:26] I say, therefore, for man to labour to persuade thee, that that shall be thy death, without which, THE TRUTH hath said, thou canst not have eternal life; this doctrine thou must abhor.
 第二に、十字架を嫌悪させようとした彼の働きを拒絶しなければなりません。なぜなら、エジプトの宝を前にしても、十字架をそれにまさる富と思うべきだからです（ヘブル一一・二五〜二六）。それに、栄光の王はあなたにこう言われました。
 
-『自分の命を救おうと思う者はそれを失う』（マルコ八・三八、ヨハネ一二・二五、マタイ一〇・三九）
+『自分の命を救おうと思う者はそれを失う』（マルコ八・三五、ヨハネ一二・二五、マタイ一〇・三九）
 
 『だれでも、父、母、妻、子、兄弟、姉妹、さらに自分の命までも捨てて、わたしのもとに来るのでなければ、わたしの弟子となることはできない』（ルカ一四・二六）
 
