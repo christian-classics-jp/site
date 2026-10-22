@@ -292,7 +292,7 @@ If the words have any meaning at all, it must be this; for they are capable of n
 Consequently, whoever he is that, owing no man anything, and having food and raiment for himself and his household, together with a sufficiency to carry on his worldly business so far as answers these reasonable purposes;
 したがって、だれにも借りがなく、自分と家族のための衣食がある人がいるとします（第一テモテ六・八）。そのうえ、これらの道理にかなった目的を果たすのに足りるだけ、世の仕事を続ける蓄えもあるとします。
 whosoever, I say, being already in these circumstances, seeks a still larger portion on earth; he lives in an open habitual denial of the Lord that bought him.
-繰り返して言います。すでにこのような状態にありながら、地上でなおいっそう多くの分け前を求める人は、だれであれ、自分をあがなってくださった主を（第二ペテロ二・一）、公然と、習慣的に否定して生きているのです。
+繰り返して言います。すでにこのような状態にありながら、地上でなおいっそう多くの分け前を求める人がいます。その人は、だれであれ、自分をあがなってくださった主を（第二ペテロ二・一）、公然と、習慣的に否定して生きているのです。
 He hath practically denied the faith, and is worse than" an African or American "infidel."
 その人は、実際上「その信仰を捨てたことになるのであって」、アフリカやアメリカの「不信者以上にわるい」のです（第一テモテ五・八）。
 // 英文の He hath practically denied the faith, and is worse than" には閉じる引用符だけがある。§11 と同じ聖句なので「」に入れた。
