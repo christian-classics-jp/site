@@ -6,7 +6,7 @@
 
 - 1 節 = 1 ディレクトリ `src/part1-chapterXX-YY/`。README の Section X の Y 番目に対応する。
 - 編集するのは `both.md`（英日対訳）だけ。`jp.md` はビルド生成物なので手で編集しない。
-- 英語原文（Wikisource 由来）は変更しない。
+- 英語原文（Project Gutenberg #131 由来）は変更しない。
 
 ## 訳し始める前に
 

@@ -1,6 +1,6 @@
 # ジョン・バニヤン『天路歴程』
 
-ジョン・バニヤン『天路歴程』（1678-1684）の翻訳。原文は [Wikisource](https://en.wikisource.org/wiki/The_Pilgrim%27s_Progress) による。
+ジョン・バニヤン『天路歴程』（1678-1684）の翻訳。原文は [Project Gutenberg #131](https://www.gutenberg.org/ebooks/131) による（2024 年 10 月 29 日更新の版を、2026 年 10 月 22 日に取得）。節の分け方と英語の節題は、以前に原文としていた Wikisource の版（2023 年に削除）にならう。
 
 聖書の引用は口語訳聖書を参考にした。
 
