@@ -9,7 +9,7 @@ Upon Our Lord's Sermon on the Mount: Discourse Nine
 1. It is recorded of the nations whom the King of Assyria, after he had carried Israel away into captivity, placed in the cities of Samaria, that "they feared the Lord, and served their own gods."
 （一）　アッスリヤの王は、イスラエルを捕囚として連れ去ったあと、諸国の民を連れてきて、サマリヤの町々に住まわせました（列王紀下一七・二四）。その民について、「彼らは主を敬ったが」、また「自分たちの神々にも仕えた」と記されています（列王紀下一七・三三）。
 "These nations," saith the inspired writer, "feared the Lord;" performed an outward service to him (a plain proof that they had a fear of God, though not according to knowledge;)
-霊感を受けた記者は言います。「これらの民は主を敬い」、主に外面の奉仕をささげました（列王紀下一七・四一）。これは、知識によるものではなかったとしても、彼らに神を恐れる心があったことのはっきりした証拠です。
+霊感を受けた記者は言います。「これらの民は主を敬い」（列王紀下一七・四一）、主に外面の奉仕をささげました。これは、知識によるものではなかったとしても、彼らに神を恐れる心があったことのはっきりした証拠です。
 "and served their graven images, both their children, and their children's children: As did their fathers, so do they unto this day. (2 Kings 17:33, &c.)
 けれども、彼らは「またその刻んだ像にも仕えたが、その子たちも、孫たちも同様であって、彼らはその先祖がおこなったように今日までおこなっている」のです（列王紀下一七・四一）。
 // 英文の出典 (2 Kings 17:33, &c.) は、実際に引いている三三節と四一節を示した。
@@ -19,7 +19,7 @@ How nearly does the practice of most modern Christians resemble this of the anci
 There are those who "teach them" as there were who taught the Assyrians, "the manner of the God of the land;" the God whose name the country bears to this day, and who was once worshipped there with an holy worship:
 アッスリヤ人に教えた者たちがいたように、今も「その国の神のおきてを」彼らに「教え」る者たちがいます（列王紀下一七・二七）。その神とは、今日までその国がその名を帯びている神であり、かつてそこで聖い礼拝をもって拝まれていた神です。
 "Howbeit," they do not serve him alone; they do not fear him enough for this: But "every nation maketh gods of their own: Every nation in the cities wherein they dwell."
-「しかし」（列王紀下一七・二九）、彼らは主だけに仕えているのではありません。そうするほどには、主を敬っていないのです。かえって、「その民はおのおの自分の神々を造って」います。「民は皆住んでいる町々で」そうしているのです（列王紀下一七・二九）。
+「しかし」（列王紀下一七・二九）、彼らは主だけに仕えているのではありません。そうするほどには、主を敬っていないのです。かえって、「その民はおのおの自分の神々を造って」います（列王紀下一七・二九）。「民は皆住んでいる町々で」そうしているのです（列王紀下一七・二九）。
 "These nations fear the Lord;" they have not laid aside the outward form of worshipping him; but "they serve their graven images,' silver and gold, the work of men's hands:
 「これらの民は主を敬」っています（列王紀下一七・四一）。主を拝む外面の形を捨ててはいません。けれども、「その刻んだ像に」仕えているのです（列王紀下一七・四一）。それは、しろがねとこがね、人の手のわざです（詩篇一一五・四）。
 Money, pleasure, and praise, the gods of this world, more than divide their service with the God of Israel.
@@ -33,7 +33,7 @@ This is the manner both of "their children and their children's children; as did
 彼らは主を敬わず、主がヤコブの子孫に命じられた律法と戒めにも従っていません（列王紀下一七・三四）。
 // 照合データの列王紀下一七・三四 には前半（今日に至るまで彼らは先のならわしにしたがっておこなっている）しかないので、英文が引く後半は「」に入れずに英文から訳した。
 with whom the Lord made a covenant, and charged them, saying, Ye shall not fear other gods, nor serve them. --
-主は「彼らと契約を結び、彼らに命じて言われ」ました。「あなたがたは他の神々を敬って」はならず、「彼らに仕え」てもならない、と（列王紀下一七・三五）。
+主は「彼らと契約を結び、彼らに命じて言われ」ました（列王紀下一七・三五）。「あなたがたは他の神々を敬ってはなりません」。また、「彼らに仕え」てもなりません（列王紀下一七・三五）。
 But the Lord your God ye shall fear; and he shall deliver you out of the hand of all your enemies."
 「ただあなたがたの神、主を敬わなければなりません。主はあなたがたをそのすべての敵の手から救い出されるでしょう」（列王紀下一七・三九）。
 
@@ -61,7 +61,7 @@ Therefore, whatsoever the wise men of the world may suppose, "ye cannot serve Go
 ですから、世の知者たちがどう考えようと、「あなたがたは、神と富とに兼ね仕えることはできません」（マタイ六・二四）。
 
 4. Mammon was the name of one of the heathen gods, who was supposed to preside over riches.
-（四）　ここで「富」と訳されている語は、原語ではマモンです。マモンは異教の神々の一つの名で、富をつかさどると考えられていました。
+（四）　ここで「富」と訳されている語は、原語ではマモンです。マモンは、富をつかさどると考えられていた異教の神の名です。
 // 英文は mammon。口語訳は「富」と訳しているので、「原語では」と補った。
 It is here understood of riches themselves; gold and silver; or, in general, money; and, by a common figure of speech, of all that may be purchased thereby; such as ease, honor, and sensual pleasure.
 ここでは、富そのもの、すなわち金と銀、あるいは一般に金銭を指しています。また、よくある言葉のあやによって、金銭で買えるすべてのもの、たとえば安楽や名誉や官能の快楽をも指しています。
@@ -153,7 +153,7 @@ the expecting that satisfaction in the things of the world, which can never be f
 神の外では決して見いだせない満足を、世のもののうちに期待することです。
 
 And if we do this, we cannot but make the world our end; the ultimate end, if not of all, at least of many, of our undertakings, many of our actions and designs;
-そして、こうしているなら、私たちは世を自分の目的とせずにはいられません。私たちの企てのすべてとは言わないまでも、少なくともその多くの、また多くの行いと目論見の、究極の目的とするのです。
+そして、こうしているなら、私たちは世を自分の目的とせずにはいられません。私たちの企てのすべてとは言わないまでも、少なくとも多くの企てや行いや目論見の、究極の目的とするのです。
 in which we shall aim only at an increase of wealth, at the obtaining pleasure or praise, at the gaining a larger measure of temporal things, without any reference to things eternal.
 そうした企てにおいて、私たちは、永遠のものには何の顧慮もしないでしょう。ただ富を増やすこと、快楽や称賛を得ること、この世のものをもっと多く手に入れることだけを目指すのです。
 
@@ -189,7 +189,7 @@ to sacrifice to ourselves; aim at our own ease and pleasure, in the general cour
 自分自身にいけにえをささげ、言葉においても行いにおいても、ふだんの歩みの全体で、自分の安楽と快楽とを目指すことです。
 
 Now what can be more undeniably clear than that we cannot thus serve God and mammon
-さて、私たちがこのように神と富とに兼ね仕えることはできない（マタイ六・二四）。これ以上に、否定しようもなく明らかなことがあるでしょうか。
+さて、私たちは、このように神と富とに兼ね仕えることはできません（マタイ六・二四）。これ以上に、否定しようもなく明らかなことがあるでしょうか。
 
 12. Does not every man see, that he cannot comfortably serve both
 （一二）　だれでも、両方に仕えては心安らかでいられないことが分かるのではないでしょうか。
@@ -344,18 +344,18 @@ This care is not only a sore disease, a grievous sickness of soul, but also an h
 It is a high affront to the gracious Governor and wise Disposer of all things; necessarily implying, that the great Judge does not do right; that he does not order all things well.
 それは、恵み深い統治者、万物を賢く配する方に対する、大きな侮辱です。それは必ず、偉大な審判者が公義を行われない（創世記一八・二五）、万物を良く整えられない、ということを含んでいます。
 It plainly implies, that he is wanting, either in wisdom, if he does not know what things we stand in need of; or in goodness, if he does not provide those things for all who put their trust in him.
-それは、はっきりと次のことを含んでいます。私たちに何が必要かを神がご存じないなら、神には知恵が欠けていることになります。神に信頼するすべての人に、神がそれを備えてくださらないなら、神には善が欠けていることになります。
+それは、神には知恵か善かのどちらかが欠けている、ということをはっきりと含んでいます。私たちに何が必要かを神がご存じないなら、知恵が欠けていることになります。神に信頼するすべての人に、神がそれを備えてくださらないなら、善が欠けていることになります。
 Beware, therefore, that you take not thought in this sense: Be ye anxiously careful for nothing.
-ですから、この意味で思いわずらわないように気をつけなさい。何事も思い煩ってはなりません（ピリピ四・六）。
+ですから、この意味で思いわずらわないように気をつけなさい。何事も思いわずらってはなりません（ピリピ四・六）。
 Take no uneasy thought: This is a plain, sure rule, Uneasy care is unlawful care.
 不安な思いわずらいをしてはなりません。不安な心配は許されない心配である、というのが、はっきりとした確かな規則です。
 With a single eye to God, do all that in you lies to provide things honest in the sight of all men.
-ただ神だけに目を注いで、すべての人の前で正しいものを備えるために、自分にできるかぎりのことをしなさい。
+澄んだ目でただ神だけを見つめ、すべての人の前で正しいものを備えるために、自分にできるかぎりのことをしなさい。
 And then give up all into better hands; leave the whole event to God.
 そのうえで、すべてをもっと良い手にゆだね、結果はすべて神にまかせなさい。
 
 18. "Take no thought" of this kind, no uneasy thought, even "for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment"
-（一八）　この種の思いわずらい、すなわち不安な思いわずらいを、してはなりません。「何を食べようか、何を飲もうかと、自分のいのちのことで思いわずらい、何を着ようかと自分のからだのことで思いわずらってはなりません。いのちは食物にまさり、からだは着物にまさるではありませんか」（マタイ六・二五）。
+（一八）　この種の思いわずらい、すなわち不安な思いわずらいは、自分のいのちのことでさえ、してはなりません。「何を食べようか、何を飲もうかと、自分のいのちのことで思いわずらい、何を着ようかと自分のからだのことで思いわずらってはなりません。いのちは食物にまさり、からだは着物にまさるではありませんか」（マタイ六・二五）。
 If then God gave you life, the greater gift, will he not give you food to sustain it
 では、神がより大きな賜物であるいのちを与えられたのなら、それを支える食物を与えてくださらないはずがあるでしょうか。
 If he hath given you the body, how can ye doubt but he will give you raiment to cover it
@@ -378,12 +378,12 @@ What profit have you then from this anxious thought It is every way fruitless an
 "Consider the lilies of the field, how they grow; they toil not, neither do they spin; and yet I say unto you, that even Solomon in all his glory was not arrayed like one of these.
 「野の花がどうして育っているか、考えて見なさい。働きもせず、紡ぎもしません。しかし、あなたがたに言いますが、栄華をきわめた時のソロモンでさえ、この花の一つほどにも着飾ってはいませんでした」（マタイ六・二八〜二九）。
 Wherefore, if God so clothe the grass of the field, which to-day is, and to-morrow is cast into the oven," (is cut down, burned up, and seen no more,) "shall he not much more clothe you, O ye of little faith"
-「きょうは生えていて、あすは炉に投げ入れられる野の草でさえ」、すなわち刈り取られ、焼かれ、もう二度と見られなくなる草でさえ、「神はこのように装ってくださるのなら、あなたがたに、それ以上よくしてくださらないはずがあるでしょうか。ああ、信仰の薄い者たちよ」（マタイ六・三〇）。
+「きょうは生えていて、あすは炉に投げ入れられる野の草」は、刈り取られ、焼かれ、もう二度と見られなくなります。その草「でさえ、神はこのように装ってくださるのなら、あなたがたに、それ以上よくしてくださらないはずがあるでしょうか。ああ、信仰の薄い者たちよ」（マタイ六・三〇）。
 you, whom he made to endure for ever and ever, to be pictures of his own eternity! Ye are indeed of little faith; otherwise ye could not doubt of his love and care; no, not for a moment.
 神は、あなたがたを、いつまでも存続するように、ご自分の永遠の姿を映すものとして造られたのです！　あなたがたは、まことに信仰の薄い者です。そうでなければ、神の愛と配慮を疑うことはできないはずです。そうです、一瞬たりとも疑えないはずです。
 
 19. "Therefore take no thought, saying, What shall we eat," if we lay up no treasure upon earth "What shall we drink," if we serve God with all our strength, if our eye be singly fixed on him "Wherewithal shall we be clothed," if we are not conformed to the world, if we disoblige those by whom we might be profited
-（一九）　「だから、何を食べようか」（マタイ六・三一）、地上に宝をたくわえないとしたら。「何を飲もうか」、力をつくして神に仕え、目をただ神だけに据えるとしたら。「あるいは何を着ようか」、世と同じ姿にならず、自分に益を与えてくれるはずの人々の機嫌をそこねるとしたら。そう「言って思いわずらってはなりません」（マタイ六・三一）。
+（一九）　地上に宝をたくわえないとしたら、「何を食べようか」（マタイ六・三一）。力をつくして神に仕え、目をただ神だけに据えるとしたら、「何を飲もうか」。世と同じ姿にならず、自分に益を与えてくれるかもしれない人々の機嫌をそこねるとしたら、「何を着ようか」。「だから」、そう「言って思いわずらってはなりません」（マタイ六・三一）。
 "For after all these things do the Gentiles seek," -- the Heathens who know not God.
 「これらのものはみな、異邦人が切に求めているもの」です（マタイ六・三二）。異邦人とは、神を知らない異教徒です（第一テサロニケ四・五）。
 But ye are sensible "your heavenly Father knoweth that ye have need of all these things."
@@ -463,7 +463,7 @@ through the faith of Christ, through the revelation of Jesus Christ in us, and b
 These shall be added, -- they shall be thrown in, over and above.
 これらのものは添えて与えられます。おまけとして、余分に与えられるのです。
 In seeking the peace and the love of God, you shall not only find what you more immediately seek, even the kingdom that cannot be moved; but also what you seek not, -- not at all for its own sake, but only in reference to the other.
-神の平安と神の愛とを求めるなら、あなたがたは、より直接に求めているもの、すなわち震われない国（ヘブル一二・二八）を見いだすだけではありません。求めていないものも見いだすのです。それは、決してそれ自体のために求めるのではなく、ただ前者との関わりにおいてだけ求めるものです。
+神の平安と神の愛とを求めるなら、あなたがたは、より直接に求めているもの、すなわち震われない国（ヘブル一二・二八）を見いだすだけではありません。求めていないもの、すなわち、それ自体のためには決して求めず、ただ前者との関わりにおいてだけ求めるものも、見いだすのです。
 You shall find in your way to the kingdom, all outward things, so far as they are expedient for you.
 あなたがたは御国への道の途中で、外のあらゆるものを、それがあなたがたのためになるかぎり、見いだすでしょう。
 This care God hath taken upon himself: Cast you all your care upon Him.
@@ -497,7 +497,7 @@ It is enough: Give yourself up into his hands. If you live another day, he will 
 25. Above all, do not make the care of future things a pretence for neglecting present duty.
 （二五）　何よりも、将来のことへの心配を、今の務めを怠る口実にしてはなりません。
 This is the most fatal way of "taking thought for the morrow." And how common is it among men! Many, if we exhort them to keep a conscience void of offence, to abstain from what they are convinced is evil, do not scruple to reply, "How then must we live Must we not take care of ourselves and of our families"
-これは、「あすのことを思いわずら」う（マタイ六・三四）最も致命的な仕方です。しかも、それは人々の間に何とありふれていることでしょう！　私たちは多くの人に、良心に責められることのない状態を保つように（使徒二四・一六）、悪だと確信していることを控えるように、と勧めます。すると、彼らはためらわずにこう答えます。「それなら、どうやって生きていけというのか。自分と家族の面倒を見なくてもよいというのか」。
+これは、「あすのことを思いわずら」う（マタイ六・三四）最も致命的な仕方です。しかも、それは人々の間に何とありふれていることでしょう！　私たちが多くの人に、良心に責められることのない状態を保つように（使徒二四・一六）、悪だと確信していることを控えるように、と勧めるとします。すると、彼らはためらわずにこう答えます。「それなら、どうやって生きていけというのか。自分と家族の面倒を見なくてもよいというのか」。
 And this they imagine to be a sufficient reason for continuing in known, wilful sin.
 そして彼らは、これが、知りながら故意に罪を犯し続ける十分な理由になると思い込んでいます。
 They say, and perhaps think, they would serve God now, were it not that they should, by and by, lose their bread.
@@ -534,7 +534,7 @@ Or perhaps you are now in heaviness of soul: God, as it were, hides his face fro
 You see little of the light of his countenance: You cannot taste his redeeming love.
 神の御顔の光が、ほとんど見えません。神のあがないの愛を味わうことができません。
 In such a temper of mind, how natural is it to say, "O how I will praise God, when the light of his countenance shall be again lifted up upon my soul! How will I exhort others to praise him, when his love is again shed abroad in my heart! Then I will do thus and thus: I will speak for God in all places: I will not be ashamed of the gospel of Christ. Then I will redeem the time: I will use to the uttermost every talent I have received."
-そのような心の状態にあるとき、こう言うのは何と自然なことでしょう。「ああ、神のみ顔の光が（詩篇四・六）再び私の魂の上に照されるとき、私はどんなに神をほめたたえることだろう！　神の愛が再び私の心に注がれるとき（ローマ五・五）、私はどんなに人々に、神をほめたたえるよう勧めることだろう！　そのときには、こうもし、ああもしよう。どこででも神のために語ろう。キリストの福音を恥としない（ローマ一・一六）。そのときには、時を生かして用いよう（エペソ五・一六）。受けたすべてのタラントを、余すところなく用いよう」。
+そのような心の状態にあるとき、こう言うのは何と自然なことでしょう。「ああ、神が再び御顔の光を私の魂の上に照されるとき（詩篇四・六）、私はどんなに神をほめたたえることだろう！　神の愛が再び私の心に注がれるとき（ローマ五・五）、私はどんなに人々に、神をほめたたえるよう勧めることだろう！　そのときには、こうもし、ああもしよう。どこででも神のために語ろう。キリストの福音を恥としない（ローマ一・一六）。そのときには、時を生かして用いよう（エペソ五・一六）。受けたすべてのタラントを、余すところなく用いよう」。
 Do not believe thyself. Thou wilt not do it then, unless thou doest it now.
 自分を信じてはなりません。今しないなら、そのときにもしないでしょう。
 "He that is faithful in that which is little," of whatsoever kind it be, whether it be worldly substance, or the fear or love of God, "will be faithful in that which is much."
@@ -590,11 +590,11 @@ Therefore, live to-day: Lose not an hour: Use this moment; for it is your portio
 The generations that were from the beginning of the world, where are they now Fled away: Forgotten.
 世の初めからあった世代は、今どこにいるのでしょうか。過ぎ去り、忘れられました。
 They were; they lived their day; they were shook off of the earth, as leaves off of their trees: They mouldered away into common dust! Another and another race succeeded; then they "followed the generation of their fathers, and shall never more see the light."
-彼らはいました。自分の日を生きました。そして、木から葉が振り落とされるように、地から振り落とされました。朽ち果てて、ありふれたちりとなったのです！　次々に別の世代が続きました。そして彼らも、「おのれの先祖の仲間に連な」りました。「彼らは絶えて光を見ることが」ありません（詩篇四九・一九）。
+彼らはいました。自分の日を生きました。そして、木から葉が振り落とされるように、地から振り落とされました。朽ち果てて、ありふれたちりとなったのです！　次々に別の世代が続きました。そして彼らも、「おのれの先祖の仲間に連な」りました（詩篇四九・一九）。「彼らは絶えて光を見ることが」ありません（詩篇四九・一九）。
 Now is thy turn upon the earth.
 今は、地上でのあなたの番です。
 "Rejoice, O young man, in the days of thy youth! Enjoy the very, very now, by enjoying Him "whose years fail not."
-「若い者よ、あなたの若い時に楽しみ」なさい（伝道一一・九）。「よわいは終ることが」ない方を楽しむことによって（詩篇一〇二・二七）、まさに今この時を楽しみなさい。
+「若い者よ、あなたの若い時に楽しみ」なさい（伝道一一・九）。「よわいは終ることが」ない方（詩篇一〇二・二七）を楽しむことによって、まさに今この時を楽しみなさい。
 // 英文の "Rejoice, O young man … には閉じる引用符がない。伝道一一・九 の句だけを「」に入れた。
 Now let thine eye be singly fixed on Him in "whom is no variableness neither shadow of turning!"
 今、あなたの目を、ただこの方だけに据えなさい。この方には、「変化とか回転の影とかいうものはない」のです（ヤコブ一・一七）。
@@ -603,7 +603,7 @@ Now give Him thy heart; now stay thyself on Him: Now be thou holy, as he is holy
 Now lay hold on the blessed opportunity of doing his acceptable and perfect will!
 今、神に喜ばれる全きみこころ（ローマ一二・二）を行う、この祝福された機会をとらえなさい。
 Now rejoice to "suffer the loss of all things," so thou mayest "win Christ!"
-今、「すべてを失」うことを喜びなさい。そうして、「キリストを得る」のです（ピリピ三・八）！
+今、「すべてを失」うことを喜びなさい（ピリピ三・八）。そうして、「キリストを得る」のです（ピリピ三・八）！
 
 29. Gladly suffer to-day, for his name's sake, whatsoever he permits this day to come upon thee.
 （二九）　神がきょうあなたに臨むのを許されることは、何であれ、御名のために（使徒五・四一）、きょう喜んで忍びなさい。
