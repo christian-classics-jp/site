@@ -24,7 +24,7 @@ CHR. Not I, said Christian, I have heard of this place before now; and how many 
 Then Christian called to Demas, saying, Is not the place dangerous? Hath it not hindered many in their pilgrimage? [Hos. 14:8]
 そこでクリスチャンは、デマスに呼びかけて言った。
 
-「ここは危ない場所ではありませんか。これまで大勢の人の巡礼を妨げてきたのではありませんか（ホセア九・六）」
+「ここは危ない場所ではありませんか。これまで大勢の人の巡礼を妨げてきたのではありませんか（ホセア一四・八）」
 
 DEMAS. Not very dangerous, except to those that are careless, (but withal, he blushed as he spake).
 デマス「不注意な人でなければ、たいして危なくはありませんよ」
@@ -56,7 +56,7 @@ DEMAS. Yes, my name is Demas; I am the son of Abraham.
 デマス「ええ、私の名はデマスです。アブラハムの子です」
 
 CHR. I know you; Gehazi was your great-grandfather, and Judas your father; and you have trod in their steps. [2 Kings 5:20, Matt. 26:14,15, 27:1-5] It is but a devilish prank that thou usest; thy father was hanged for a traitor, and thou deservest no better reward. Assure thyself, that when we come to the King, we will do him word of this thy behaviour.
-クリスチャン「あなたのことは知っています。ゲハジはあなたの曽祖父で、ユダはあなたの父です。あなたはその足跡を踏んできました。あなたのしていることは、悪魔のような悪だくみにすぎません。あなたの父は裏切り者として首をつりました。あなたもそれ以上の報いには値しません（第二列王五・二〇〜二七、マタイ二六・一四〜一五、二七・三〜五）。覚悟しておきなさい。私たちは王のもとに着いたら、あなたのこのふるまいを王に申し上げます」
+クリスチャン「あなたのことは知っています。ゲハジはあなたの曽祖父で、ユダはあなたの父です。あなたはその足跡を踏んできました（第二列王五・二〇、マタイ二六・一四〜一五、二七・一〜五）。あなたのしていることは、悪魔のような悪だくみにすぎません。あなたの父は裏切り者として首をつりました。あなたもそれ以上の報いには値しません。覚悟しておきなさい。私たちは王のもとに着いたら、あなたのこのふるまいを王に申し上げます」
 
 Thus they went their way.
 By this time By-ends and his companions were come again within sight, and they, at the first beck, went over to Demas. Now, whether they fell into the pit by looking over the brink thereof, or whether they went down to dig, or whether they were smothered in the bottom by the damps that commonly arise, of these things I am not certain; but this I observed, that they never were seen again in the way. Then sang Christian--
