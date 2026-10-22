@@ -6,7 +6,7 @@ Upon Our Lord's Sermon On The Mount: Discourse Thirteen
 「わたしにむかって『主よ、主よ』と言う者が、みな天国にはいるのではなく、ただ、天にいますわが父の御旨を行う者だけが、はいるのです。その日には、多くの者が、わたしにむかって『主よ、主よ、わたしたちはあなたの名によって預言したではありませんか。また、あなたの名によって悪霊を追い出し、あなたの名によって多くの力あるわざを行ったではありませんか』と言うでしょう。そのとき、わたしは彼らにはっきり、こう言います、『あなたがたを全く知らない。不法を働く者どもよ、行ってしまえ』。それで、わたしのこれらの言葉を聞いて行うものを、岩の上に自分の家を建てた賢い人に比べることができます。雨が降り、洪水が押し寄せ、風が吹いてその家に打ちつけても、倒れることはありません。岩を土台としているからです。また、わたしのこれらの言葉を聞いても行わない者を、砂の上に自分の家を建てた愚かな人に比べることができます。雨が降り、洪水が押し寄せ、風が吹いてその家に打ちつけると、倒れてしまいます。そしてその倒れ方はひどいのです」（マタイ七・二一〜二七）
 
 1. Our Divine Teacher, having declared the whole counsel of God with regard to the way of salvation, and observed the chief hindrances of those who desire to walk therein, now closes the whole with these weighty words;
-（一）　神である私たちの教師は、救いの道について神の計画の全体を告げ知らせ（使徒二〇・二七）、その道を歩もうと願う人々の主な妨げにも目を留められました。そして今、この重みのある言葉で全体を結ばれます。
+（一）　神である私たちの教師は、救いの道について神のみ旨をあますところなく告げ知らせ（使徒二〇・二七）、その道を歩もうと願う人々の主な妨げをも指摘されました。そして今、この重みのある言葉で全体を結ばれます。
 thereby, as it were, setting his seal to his prophecy, and impressing his whole authority on what he had delivered, that it might stand firm to all generations.
 それによって、いわばご自分の預言に封印をし、語ってきたことにご自分の全権威を刻みつけられるのです。それが代々にわたって堅く立つためです。
 
@@ -72,7 +72,7 @@ Reader, if God hath ever blessed my word to thy soul, pray that he may be mercif
 // merciful to me a sinner はルカ一八・一三 の取税人の祈りの言い回し（口語訳「罪人のわたしをおゆるしください」）。文言が違うので出典を付けなかった。
 
 2. The saying, "Lord, Lord," may, Secondly, imply the doing no harm.
-（二）　第二に、「主よ、主よ」（マタイ七・二一）と言うことには、害を行わないことが含まれるかもしれません。
+（二）　第二に、「主よ、主よ」（マタイ七・二一）と言うことには、害を行わないことが含まれることもあります。
 We may abstain from every presumptuous sin, from every kind of outward wickedness.
 私たちは、あらゆる故意の罪から、あらゆる種類の外的な悪から、遠ざかることができます。
 We may refrain from all those ways of acting or speaking which are forbidden in holy writ.
@@ -89,22 +89,22 @@ Still this is no more than saying, "Lord, Lord;" and if we go no farther than th
 これもまた、「主よ、主よ」（マタイ七・二一）と言うことにすぎません。もしこれより先に進まないなら、私たちは決して「天国にはいる」ことはできません（マタイ七・二一）。
 
 3. The saying, "Lord, Lord," may imply, Thirdly, many of what are usually styled good works.
-（三）　第三に、「主よ、主よ」（マタイ七・二一）と言うことには、ふつう良きわざと呼ばれているものの多くが含まれるかもしれません。
+（三）　第三に、「主よ、主よ」（マタイ七・二一）と言うことには、ふつう良きわざと呼ばれているものの多くが含まれることもあります。
 A man may attend the supper of the Lord, may hear abundance of excellent sermons, and omit no opportunity of partaking all the other ordinances of God.
-人は主の晩餐（第一コリント一一・二〇）に連なり、すぐれた説教をたくさん聞き、ほかのすべての神の定めにあずかる機会を一つも逃さないこともできます。
+人は主の晩餐に連なり、すぐれた説教をたくさん聞き、ほかのすべての神の定めにあずかる機会を一つも逃さないこともできます。
 I may do good to my neighbour, deal my bread to the hungry, and cover the naked with a garment.
 私は、隣人に善を行い、飢えた者に自分のパンを分け与え、裸の者に着物を着せる（イザヤ五八・七）こともできます。
 I may be so zealous of good works as even to "give all my goods to feed the poor."
-良いわざに熱心なあまり、「自分の全財産を人に施」す（第一コリント一三・三）ほどになることさえできます。
+良いわざに熱心な（テトス二・一四）あまり、「自分の全財産を人に施」す（第一コリント一三・三）ほどになることさえできます。
 Yea, and I may do all this with a desire to please God, and a real belief that I do please him thereby;
 そうです、私は、神に喜ばれたいと願って、これらすべてをすることもできるのです。それによって本当に神に喜ばれていると、心から信じてすることもできるのです。
 (which is undeniably the case of those our Lord introduces, saying unto him, "Lord, Lord;") and still I may have no part in the glory which shall be revealed.
-（主に「主よ、主よ」（マタイ七・二二）と言う者として主が登場させておられる人々が、否定しようもなくそうです。）それでもなお、私は、やがて現される栄光（ローマ八・一八）に何のかかわりも持たないかもしれません。
+主が登場させておられる、主に「主よ、主よ」（マタイ七・二二）と言う人々は、否定しようもなく、まさにそうでした。それでもなお、私は、やがて現される栄光（ローマ八・一八）に何のかかわりも持たないかもしれません。
 
 4. If any man marvels at this, let him acknowledge he is a stranger to the whole religion of Jesus Christ;
-（四）　もし、このことを不思議に思う人がいるなら、その人は、自分がイエス・キリストの宗教の全体を知らない者であることを認めなさい。
+（四）　もし、このことを不思議に思う人がいるなら、その人は、自分がイエス・キリストの宗教の全体を知らない者であることを認めるべきです。
 and, in particular, to that perfect portraiture thereof which he has set before us in this discourse.
-とりわけ、主がこの説教で私たちの前に示された、その宗教の完全な肖像を知らない者であることを認めなさい。
+とりわけ、主がこの説教で私たちの前に示された、その宗教の完全な肖像を知らない者であることを、認めるべきです。
 For how far short is all this of that righteousness and true holiness which he has described therein!
 これらすべては、主がそこに描かれた真の義と聖（エペソ四・二四）に、何と遠く及ばないことでしょう！
 How widely distant from that inward kingdom of heaven which is now opened in the believing soul, -- which is first sown in the heart as a grain of mustard-seed, but afterwards putteth forth great branches, on which grow all the fruits of righteousness, every good temper, and word, and work.
@@ -119,7 +119,7 @@ our Lord well knew that many would not receive this saying, and therefore confir
 but, what is abundantly more than this, "We have prophesied in thy name; in thy name have we cast out devils; in thy name done many wonderful works."
 それよりもはるかに大きなことを言うのです。「わたしたちはあなたの名によって預言し」、「あなたの名によって悪霊を追い出し、あなたの名によって多くの力あるわざを行」いました（マタイ七・二二）、と。
 "We have prophesied;" -- we have declared thy will to mankind; we have showed sinners the way to peace and glory.
-「わたしたちは…預言し」ました（マタイ七・二二）。すなわち、私たちは、あなたの御旨を人々に告げ知らせました。罪人たちに、平和と栄光への道を示しました。
+「わたしたちは」「預言し」ました（マタイ七・二二）。すなわち、私たちは、あなたの御旨を人々に告げ知らせました。罪人たちに、平和と栄光への道を示しました。
 And we have done this "in thy name;" according to the truth of thy gospel; yea, and by thy authority, who didst confirm the word with the Holy Ghost sent down from heaven.
 そして、私たちはこれを「あなたの名によって」（マタイ七・二二）しました。あなたの福音の真理に従ってしました。そうです、あなたの権威によってしたのです。あなたは、天からつかわされた聖霊（第一ペテロ一・一二）によって、御言の確かなことをお示しになりました（マルコ一六・二〇）。
 For in or by thy name, by the power of thy word and of thy Spirit, "have we cast out devils;" out of the souls which they had long claimed as their own, and whereof they had full and quiet possession.
@@ -128,7 +128,7 @@ For in or by thy name, by the power of thy word and of thy Spirit, "have we cast
 「あなたの名によって」、すなわち私たちの力ではなく、あなたの力によって、「多くの力あるわざを行」いました（マタイ七・二二）。私たちを通して語る「神の子の声を」、「死んだ人たち」さえ「聞」いて、生きたほどです（ヨハネ五・二五）。
 // 英文 "We have prophesied;" 以下は、この人々の言い分をウェスレーが敷衍したもの。地の文として訳し、一人称を「私たち」とした。
 "And then will I profess" even "unto them, I never knew you;" no, not then, when you were "casting out devils in my name:"
-「そのとき、わたしは」この人々にさえ「はっきり、こう言います、『あなたがたを全く知らない』」（マタイ七・二三）。そうです、あなたがたが「わたしの名によって悪霊を追い出し」ていた（マタイ七・二二）そのときでさえ、知らなかったのです。
+「そのとき、わたしは」この人々にさえ「はっきり、こう言います、『あなたがたを全く知らない』」（マタイ七・二三）。そうです、あなたがたがわたしの名によって「悪霊を追い出し」ていた（マタイ七・二二）そのときでさえ、知らなかったのです。
 Even then I did not know you as my own; for your heart was not right toward God.
 そのときでさえ、わたしは、あなたがたをわたしのものとして知ってはいませんでした。あなたがたの心が神の前に正しくなかった（使徒八・二一）からです。
 Ye were not yourselves meek and lowly; ye were not lovers of God, and of all mankind; ye were not renewed in the image of God; ye were not holy as I am holy.
@@ -232,7 +232,7 @@ Accordingly, "the rain" will impetuously descend; only at such times and in such
 「洪水」、すなわち激流が「押し寄せ」ます（マタイ七・二五）。洪水は大波をあげ、恐ろしく荒れ狂います。
 // lift up their waves and rage horribly は、祈祷書の詩篇九三・四〜五 の言い回し。口語訳と文言が違うので出典を付けなかった。
 But to them also, the Lord that sitteth above the water-floods, that remaineth a King for ever, will say, "Hitherto shall ye come, and no farther: Here shall your proud waves be stayed."
-けれども、洪水の上に座し、とこしえに王であられる主（詩篇二九・一〇）は、それらにもこう言われます。「ここまで来てもよい、越えてはならぬ」、あなたがたの「高波はここにとどまる」のだ（ヨブ三八・一一）、と。
+けれども、洪水の上に座し、とこしえに王であられる主（詩篇二九・一〇）は、それらにもこう言われます。「ここまで来てもよい、越えてはならぬ」、あなたがたの「高波はここにとどまるのだ」（ヨブ三八・一一）、と。
 // the Lord that sitteth above the water-floods, that remaineth a King for ever は、祈祷書の詩篇二九・九 の言い回し。口語訳二九・一〇 とほぼ同じなので出典を付けた。ヨブ三八・一一 の「おまえ」は、英文が ye/your なので「」の外に「あなたがた」と出した。
 "The winds will blow, and beat upon that house," as though they would tear it up from the foundation: But they cannot prevail: It falleth not; for it is founded upon a rock.
 「風が吹いてその家に打ちつけ」ます（マタイ七・二五）。まるで、家を土台から引き抜こうとするかのようです。けれども、風は打ち勝つことができません。家は倒れません。岩を土台としているからです（マタイ七・二五）。
@@ -247,7 +247,7 @@ He "shall not fear though the earth be moved, and though the hills be carried in
 ## 【三】　実践への適用
 
 III. 1. How nearly then does it concern every child of man, practically to apply these things to himself! diligently to examine on what foundation he builds, whether on a rock or on the sand!
-（一）　それなら、これらのことを実際に自分に当てはめることは、すべての人の子にとって、何と身近な問題でしょう！　自分が何の土台の上に、岩の上にか砂の上にか、建てているかを念入りに調べることは、何と身近な問題でしょう！
+（一）　それなら、これらのことを実際に自分に当てはめることは、すべての人の子にとって、何と切実なことでしょう！　自分が何の土台の上に、岩の上にか砂の上にか、建てているかを念入りに調べることは、何と切実なことでしょう！
 How deeply are you concerned to inquire, "What is the foundation of my hope Whereon do I build my expectation of entering into the kingdom of heaven
 あなたにとって、次のように問うことは、何と深くかかわることでしょう。「私の望みの土台は何か。天国にはいるという期待を、私は何の上に建てているのか。
 Is it not built on the sand upon my orthodoxy, or right opinions, which, by a gross abuse of words, I have called faith upon my having a set of notions, suppose more rational or scriptural than others have"
@@ -257,17 +257,17 @@ Alas! what madness is this! Surely this is building on the sand, or, rather, on 
 Say, "I am convinced of this: Am I not again building my hope on what is equally unable to support it
 こう言いなさい。「私はこのことを確信した。だが、私はまたしても、同じように望みを支えることのできないものの上に、望みを建ててはいないか。
 Perhaps on my belonging to 'so excellent a church; reformed after the true Scripture model; blessed with the purest doctrine, the most primitive liturgy, the most apostolical form of government!"
-もしかすると、自分が『これほどすぐれた教会に属していること』の上に建ててはいないか。『まことの聖書の型に従って改革され、最も純粋な教理と、最も初代教会に近い典礼と、最も使徒的な教会政治とに恵まれた教会！』に」。
-// 英文の引用符は、開きが一重（'）、閉じが二重（"）で対応していない。'so excellent a church 以下を、自分の教会を誇る言葉として『』で訳した。
+もしかすると、『これほどすぐれた教会、まことの聖書の型に従って改革され、最も純粋な教理と、最も初代教会に近い典礼と、最も使徒的な教会政治とに恵まれた教会！』に属していることの上に、建ててはいないか。
+// 英文の引用符は、'so excellent a church の開き（'）に閉じがなく、government! の後に " がある。続く文も一人称（me, I）の独白なので、Say, " からの「」を sand. まで延ばし常体にした。教会を誇る句は『』にした。
 These are, doubtless, so many reasons for praising God, as they may be so many helps to holiness; but they are not holiness itself:
-これらは、疑いもなく、神を賛美するそれだけの理由です。それだけ聖性への助けにもなりうるからです。けれども、それは聖性そのものではありません。
+これらは、疑いもなく、どれも神を賛美する理由だ。どれも聖性への助けになりうるからだ。けれども、それは聖性そのものではない。
 And if they are separate from it, they will profit me nothing; nay, they will leave me the more without excuse, and exposed to the greater damnation.
-そして、もしそれが聖性から切り離されているなら、私に何の益にもならないでしょう。いや、私をいっそう弁解の余地のない者（ローマ一・二〇）とし、もっときびしいさばき（マタイ二三・一四）にさらすでしょう。
+そして、もしそれが聖性から切り離されているなら、私に何の益にもならない。いや、私をいっそう弁解の余地のない者（ローマ一・二〇）とし、もっときびしいさばき（マタイ二三・一四）にさらすだろう。
 Therefore, if I build my hope upon this foundation, I am still building upon the sand.
-ですから、もし私がこの土台の上に望みを建てるなら、私はやはり砂の上に建てているのです。
+だから、もし私がこの土台の上に望みを建てるなら、私はやはり砂の上に建てているのだ」。
 
 2. You cannot, you dare not, rest here.
-（二）　あなたは、ここに安んじることはできません。あえて安んじようとはしないでしょう。
+（二）　あなたは、ここに安んじることはできません。安んじてはならないのです。
 Upon what next will you build your hope of salvation -- upon your innocence upon your doing no harm your not wronging or hurting anyone
 次には、救いの望みを何の上に建てるのでしょうか。自分の潔白の上にでしょうか。害を行わないこと、だれにも不正をせず、だれも傷つけないことの上にでしょうか。
 Well; allow this plea to be true.
@@ -283,7 +283,7 @@ You may go thus far, and yet never come to heaven.
 When all this harmlessness flows from a right principle, it is the least part of the religion of Christ.
 この害のなさがすべて正しい原理から流れ出ているときでも、それはキリストの宗教のいちばん小さな部分です。
 But in you it does not flow from a right principle, and therefore is no part at all of religion.
-けれども、あなたの場合、それは正しい原理から流れ出ていません。ですから、宗教のどんな部分でもまったくないのです。
+けれども、あなたの場合、それは正しい原理から流れ出ていません。ですから、宗教の一部でさえまったくないのです。
 So that in grounding your hope of salvation on this, you are still building upon the sand.
 ですから、この上に救いの望みを置くなら、あなたはやはり砂の上に建てているのです。
 
@@ -304,7 +304,7 @@ Still, therefore, you build upon the sand.
 ですから、あなたはやはり砂の上に建てているのです。
 
 4. Over and above all this, are you zealous of good works Do you, as you have time, do good to all men
-（四）　これらすべてに加えて、あなたは良いわざに熱心でしょうか。機会のあるごとに、だれに対しても善を行っているでしょうか（ガラテヤ六・一〇）。
+（四）　これらすべてに加えて、あなたは良いわざに熱心（テトス二・一四）でしょうか。機会のあるごとに、だれに対しても善を行っているでしょうか（ガラテヤ六・一〇）。
 Do you feed the hungry, and clothe the naked, and visit the fatherless and widow in their affliction
 飢えた者に食べさせ、裸の者に着せ、困っている孤児や、やもめを見舞っているでしょうか（ヤコブ一・二七）。
 Do you visit those that are sick relieve them that are in prison Is any a stranger, and you take him in
@@ -434,7 +434,7 @@ Being, through the power of his grace, purified from pride, by deep poverty of s
 from anger, from every unkind or turbulent passion, by meekness and mercifulness;
 柔和とあわれみによって、怒りから、あらゆる不親切な激情や荒々しい激情からきよめられなさい。
 from every desire but to please and enjoy God, by hunger and thirst after righteousness;
-義に飢えかわくことによって、神に喜ばれ、神を喜ぶこと以外のあらゆる願いからきよめられなさい。
+義に飢えかわく（マタイ五・六）ことによって、神に喜ばれ、神を喜ぶこと以外のあらゆる願いからきよめられなさい。
 now love the Lord thy God with all thy heart, and with all thy strength!"
 そのうえで、今、「心をつくし」、「力をつくして、主なるあなたの神を愛し」なさい（マルコ一二・三〇）！
 // 英文は strength! の後に閉じ引用符だけがある。開き引用符がないので、マルコ一二・三〇 の句だけを「」に入れた。
@@ -458,6 +458,6 @@ Be thou a lover of God and of all mankind! In this spirit do and suffer all thin
 Thus show thy faith by thy works; thus "do the will of thy Father which is in heaven!"
 このようにして、行いによって信仰を見せなさい（ヤコブ二・一八）。このようにして、「天にいます」あなたの「父の御旨を行」いなさい（マタイ七・二一）！
 And, as sure as thou now walkest with God on earth, thou shalt also reign with him in glory!
-そして、あなたが今地上で神とともに歩んでいる（創世記五・二四）のが確かであるように、栄光のうちに神と共に支配することも確かなのです！
+そして、あなたが今地上で神とともに歩んでいる（創世記五・二四）のが確かであるように、栄光のうちに神とともに支配することも確かなのです！
 
 // Edited by Debi Carter with corrections by Ryan Danker and George Lyons for the Wesley Center for Applied Theology.
