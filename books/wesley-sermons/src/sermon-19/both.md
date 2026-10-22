@@ -9,7 +9,7 @@ The Great Privilege of Those That Are Born of God
 It being certain, on the one hand, that whoever is justified is also born of God; and, on the other, that whoever is born of God is also justified; yea, that both these gifts of God are given to every believer in one and the same moment.
 確かに、一方では、義とされた者はだれでも、神からも生れています。他方では、神から生れた者はだれでも、義ともされています。そうです、神のこの二つの賜物は、信じる者のだれにも、まったく同じ瞬間に与えられるのです。
 In one point of time his sins are blotted out, and he is born again of God.
-ある一つの時点で、その人の罪は消し去られ、その人は神から新しく生れるのです。
+同じ一つの時点で、その人の罪は消し去られ、その人は神から新しく生れるのです。
 
 2. But though it be allowed, that justification and the new birth are, in point of time, inseparable from each other, yet are they easily distinguished, as being not the same, but things of a widely different nature.
 （二）　けれども、義認と新生とが、時の上では互いに切り離せないことを認めるとしても、両者はたやすく区別されます。同じものではなく、性質のまったく異なるものだからです。
@@ -27,7 +27,7 @@ So that, although they are joined together in point of time, yet are they of who
 ですから、両者は、時の上ではひとつに結ばれていても、まったく別の性質のものなのです。
 
 3. The not discerning this, the not observing the wide difference there is between being justified and being born again, has occasioned exceeding great confusion of thought in many who have treated on this subject;
-（三）　このことを見分けないこと、すなわち、義とされることと新しく生れることとの大きな違いに気づかないことが、混乱を招いてきました。この問題を論じてきた多くの人の考えに、ひどい混乱を引き起してきたのです。
+（三）　このことを見分けないこと、すなわち、義とされることと新しく生れることとの大きな違いに気づかないことが、多くの人を混乱させてきました。この問題を論じてきた人々の考えに、ひどい混乱を引き起してきたのです。
 particularly when they have attempted to explain this great privilege of the children of God; to show how "whosoever is born of God doth not commit sin."
 特に、神の子たちのこの大いなる特権を説明しようとしたときに、そうでした。どのようにして「すべて神から生れた者は、罪を犯さない」のかを示そうとしたときです（第一ヨハネ三・九）。
 
@@ -83,7 +83,7 @@ And hence springs a continual increase of strength, of motion, and of sensation;
 そこから、力と動きと感覚とが、絶えず増していきます。からだの感覚がみな、今や目覚め、それぞれにふさわしい対象を与えられているからです。
 
 His eyes are now opened to perceive the light, which, silently flowing in upon them, discovers not only itself, but an infinite variety of things, with which before he was wholly unacquainted.
-その子の目は、今や開かれて、光をとらえます。光は静かに目に流れ込み、光そのものだけでなく、数限りない種々さまざまなものを見せてくれます。それらは、以前にはまったく知らなかったものです。
+その子の目は、今や開かれて、光をとらえます。光は静かに目に流れ込み、光そのものだけでなく、数限りない、さまざまなものを見せてくれます。それらは、以前にはまったく知らなかったものです。
 His ears are unclosed, and sounds rush in with endless diversity.
 その子の耳は開かれ、限りなく多様な音がどっと流れ込みます。
 Every sense is employed upon such objects as are peculiarly suitable to it;
@@ -103,7 +103,7 @@ God is continually calling to him from on high, but he heareth not; his ears are
 神は、絶えず高い所からその人に呼びかけておられます。けれども、その人には聞えません。耳が閉ざされているので、まじない師がどんなに巧みにまじないをしても、その声はその人に届かないのです（詩篇五八・五）。
 // 照合に使う口語訳の本文に詩篇五八・四〜五がないので、英文から訳し、「」に入れなかった。
 He seeth not the things of the Spirit of God; the eyes of his understanding being closed, and utter darkness covering his whole soul, surrounding him on every side.
-その人には、神の御霊のことが見えません。その人の心の目は閉ざされ（エペソ一・一八）、まったくのやみがその魂全体をおおい、四方からその人を包んでいるからです。
+その人には、神の御霊のことが見えません。その人の心の目は閉ざされ、まったくのやみがその魂全体をおおい、四方からその人を包んでいるからです。
 It is true he may have some faint dawnings of life, some small beginnings of spiritual motion;
 確かに、その人にも、いのちのかすかな夜明けがあるかもしれません。霊の動きの小さな始まりがあるかもしれません。
 but as yet he has no spiritual senses capable of discerning spiritual objects;
@@ -138,14 +138,14 @@ And by this new kind of spiritual respiration, spiritual life is not only sustai
 He sees what is "the exceeding greatness of his power" and of his love toward them that believe.
 その人は、神の「力」と愛とが、「信じる者にとっていかに絶大なものであるか」を見ています（エペソ一・一九）。
 He sees that God is merciful to him a sinner, that he is reconciled through the Son of his love.
-神が罪人の自分をあわれんでくださること（ルカ一八・一三）、神の愛する御子を通して神と和解していること（コロサイ一・一三）を、見ています。
+神が罪人の自分をあわれんでくださること、神の愛する御子を通して神と和解していること（コロサイ一・一三）を、見ています。
 He clearly perceives both the pardoning love of God, and all his "exceeding great and precious promises."
 赦してくださる神の愛も、神の「尊く、大いなる約束」のすべても（第二ペテロ一・四）、はっきりと見てとっています。
 "God, who commanded the light to shine out of the darkness, hath shined," and doth shine, "in his heart," to enlighten him with "the knowledge of the glory of God in the face of Jesus Christ."
-「『やみの中から光が照りいでよ』と仰せになった神は」、その人の「心を照してくださった」のであり、今も照しておられます。それは、その人を照らして、「キリストの顔に輝く神の栄光の知識を明らかにする」ためです（第二コリント四・六）。
+「『やみの中から光が照りいでよ』と仰せになった神は」、その人の「心を照してくださった」のであり、今も照しておられます。それは、その人を照して、「キリストの顔に輝く神の栄光の知識を明らかにする」ためです（第二コリント四・六）。
 // 欽定訳の第二コリント四・六 Jesus Christ は、口語訳では「キリスト」（写本の違い）。口語訳に従った。
 All the darkness is now passed away, and he abides in the light of God's countenance.
-やみはすべて、今や過ぎ去りました。その人は、神の御顔の光のうちにとどまっています。
+やみはすべて、今や過ぎ去りました（第一ヨハネ二・八）。その人は、神の御顔の光のうちにとどまっています。
 
 10. His ears are now opened, and the voice of God no longer calls in vain.
 （一〇）　今や、その人の耳は開かれ、神の声は、もはやむなしく呼びかけることはありません。
@@ -154,7 +154,7 @@ He hears and obeys the heavenly calling: He knows the voice of his Shepherd.
 All his spiritual senses being now awakened, he has a clear intercourse with the invisible world; and hence he knows more and more of the things which before it could not "enter into his heart to conceive."
 霊の感覚がみな今や目覚めているので、その人は、見えない世界とはっきりと交わっています。そのため、以前にはその人の「心に思い浮びもしなかった」ことを、ますます多く知るようになります（第一コリント二・九）。
 He now knows what the peace of God is; what is joy in the Holy Ghost; what the love of God which is shed abroad in the heart of them that believe in him through Christ Jesus.
-その人は今、神の平安とは何かを知っています（ピリピ四・七）。聖霊における喜びとは何かを（ローマ一四・一七）、キリスト・イエスを通して神を信じる人々の心に注がれている神の愛とは何かを（ローマ五・五）、知っているのです。
+その人は今、神の平安とは何かを知っています（ピリピ四・七）。聖霊における喜びとは何かを知っています（ローマ一四・一七）。キリスト・イエスを通して神を信じる人々の心に注がれている、神の愛とは何かを知っています（ローマ五・五）。
 Thus the veil being removed which before interrupted the light and voice, the knowledge and love of God, he who is born of the Spirit, dwelling in love, "dwelleth in God, and God in him."
 こうして、以前には神の光と声、神を知る知識と神の愛とをさえぎっていたおおいが、取り除かれます。霊から生れた人は、愛のうちにいて、「神におり、神も彼にいます」（第一ヨハネ四・一六）。
 
@@ -193,7 +193,7 @@ They did transgress the plain, known laws of God, speaking or acting what they k
 He knew in whom he had believed; "he was strong in faith, giving glory to God."
 ダビデは、自分の信じてきたかたを知っていました（第二テモテ一・一二）。「信仰によって強められ、栄光を神に帰し」ていたのです（ローマ四・二〇）。
 "The Lord," saith he, "is my Shepherd; therefore can I lack nothing. He shall feed me in green pastures, and lead me forth beside the waters of comfort. Yea, though I walk through the valley of the shadow of death, I will fear no evil; for thou art with me." (Psalm 23: 1 &c.)
-ダビデは言います。「主はわたしの牧者であって、わたしには乏しいことがありません。主はわたしを緑の牧場に伏させ、いこいのみぎわに伴われます。たといわたしは死の陰の谷を歩むとも、わざわいを恐れません。あなたがわたしと共におられるからです」（詩篇二三・一〜四）。
+ダビデは言います。「主はわたしの牧者であって、わたしには乏しいことがありません。主はわたしを緑の牧場に伏させ、いこいのみぎわに伴われます。たといわたしは死の陰の谷を歩むとも、わざわいを恐れません。あなたがわたしと共におられるからです」（詩篇二三・一〜二、四）。
 // この段落の四つの詩篇は祈祷書の詩篇の訳。口語訳とほぼ同じ文言なので、口語訳で引いた。
 He was filled with love; such as often constrained him to cry out, "I will love thee, O Lord, my strength: The Lord is my stony rock, and my defence; the horn also of my salvation, and my refuge." (Psalm 28:1.)
 ダビデは、愛に満たされていました。その愛に迫られて、しばしばこう叫びました。「わが力なる主よ、わたしはあなたを愛します。主はわが岩、わが城」、「わが救の角、わが高きやぐらです」（詩篇一八・一〜二）。
@@ -206,13 +206,13 @@ And yet such a child of God could and did commit sin; yea, the horrid sins of ad
 それなのに、このような神の子が、罪を犯すことができ、また実際に犯したのです。そうです、姦淫と殺人という恐ろしい罪をです。
 
 5. And even after the Holy Ghost was more largely given, after "life and immortality were brought to light by the gospel" we want not instances of the same melancholy kind, which were also doubtless written for our instruction.
-（五）　聖霊がもっと豊かに与えられたあとにも、同じような悲しい実例には事欠きません。キリストが「福音によっていのちと不死とを明らかに示された」あとにもです（第二テモテ一・一〇）。それらも、疑いなく、私たちの教のために書かれたのです（ローマ一五・四）。
+（五）　聖霊がもっと豊かに与えられたあとにも、同じような悲しい実例には事欠きません。キリストが「福音によっていのちと不死とを明らかに示された」あとにもです（第二テモテ一・一〇）。それらも、疑いなく、私たちの教えのために書かれたのです（ローマ一五・四）。
 Thus he who (probably from his selling all that he had, and bringing the price for the relief of his poor brethren) was by the apostles themselves surnamed Barnabas, that is, the son of consolation; (Acts 4:36, 37;)
 たとえば、使徒たち自身から、バルナバ、すなわち慰めの子と呼ばれた人がいます（使徒四・三六〜三七）。そう呼ばれたのは、おそらく、持っていたものをすべて売り、その代金を持ってきて、貧しい兄弟たちを助けたからでしょう。
 who was so honoured at Antioch, as to be selected with Saul out of all the disciples, to carry their relief unto the brethren in Judea; (Acts 11:29, 30;)
 彼は、アンテオケで重んじられ、すべての弟子の中からサウロと共に選ばれて、ユダヤの兄弟たちに援助を届けました（使徒一一・二九〜三〇）。
 this Barnabas, who, at his return from Judea, was, by the peculiar direction of the Holy Ghost, solemnly "separated from the other Prophets and Teachers, for the work whereunto God had called him," (Acts 13:1-4,)
-ユダヤから帰ると、このバルナバは、聖霊の特別な指示によって、ほかの預言者や教師たちから厳かに聖別されました（使徒一三・一〜四）。神が召された仕事に当らせるためです。
+ユダヤから帰ると、このバルナバは、聖霊の特別な指示によって、ほかの預言者や教師たちの中から、厳かに聖別されました（使徒一三・一〜四）。神が召された仕事に当らせるためです。
 // 欽定訳の使徒一三・二 Separate me … for the work whereunto I have called them を、ウェスレーは言い換えている。口語訳の「わたしのために聖別して、彼らに授けておいた仕事に当らせなさい」とは文言が異なるので、「」に入れなかった。
 even to accompany the great Apostle among the Gentiles, and to be his fellow-labourer in every place; --
 その仕事とは、偉大な使徒に同行して異邦人の間に行き、どこででもその同労者となることでした。
@@ -231,13 +231,13 @@ When Peter, the aged, the zealous, the first of the apostles, one of the three m
 ペテロは、年長で熱心な、使徒たちの筆頭であり、主に最も目をかけられた三人のひとりでした。そのペテロが「アンテオケにきたとき、彼に非難すべきことがあったので、わたしは面とむかって彼をなじった」のです（ガラテヤ二・一一）。
 // 口語訳のガラテヤ二章は「ケパ」。英文の Peter に合わせ、名前は「」の外に置いた。
 For before that certain came from James, he did eat with the Gentiles" -- the Heathens converted to the Christian faith, as having been peculiarly taught of God, that he "should not call any man common or unclean." (Acts 10:28.)
-「ヤコブのもとからある人々が来るまでは、彼は異邦人と食を共にしていた」からです（ガラテヤ二・一二）。異邦人とは、キリスト教の信仰に改宗した異教徒たちです。ペテロは、「どんな人間をも清くないとか、汚れているとか言ってはならない」と（使徒一〇・二八）、神から特別に教えられていたのです。
+「ヤコブのもとからある人々が来るまでは、彼は異邦人と食を共にしていた」からです（ガラテヤ二・一二）。異邦人とは、キリスト教の信仰に改宗した異教徒たちです。ペテロは、「どんな人間をも清くないとか、汚れているとか言ってはならない」と（使徒一〇・二八）、神から特別に教えられていたので、そうしていたのです。
 "But, when they were come, he separated himself, fearing them which were of the circumcision.
-「彼らがきてからは」、「割礼の者どもを恐れ」、「離れて行った」のです（ガラテヤ二・一二）。
+ところが、「彼らがきてからは」、ペテロは「割礼の者どもを恐れ」、「離れて行った」のです（ガラテヤ二・一二）。
 And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.
 「そして、ほかのユダヤ人たちも彼と共に偽善の行為をし、バルナバまでがそのような偽善に引きずり込まれ」ました（ガラテヤ二・一三）。
 But when I saw that they walked not uprightly, according to the truth of the gospel, I said unto Peter, before them all, If thou, being a Jew, livest after the manner of the Gentiles," -- not regarding the ceremonial law of Moses, -- "why compellest thou the Gentiles to live as do the Jews" (Gal. 2:11, &c.)
-「彼らが福音の真理に従ってまっすぐに歩いていないのを見て、わたしは衆人の面前で」ペテロに「言った、『あなたは、ユダヤ人であるのに、異邦人のように生活していながら』」。すなわち、モーセの儀式律法を顧みないでいながら、「『どうして異邦人にユダヤ人のようになることをしいるのか』」（ガラテヤ二・一四）。
+「彼らが福音の真理に従ってまっすぐに歩いていないのを見て、わたしは衆人の面前で」ペテロに「言った、『あなたは、ユダヤ人であるのに、異邦人のように生活していながら』」（すなわち、モーセの儀式律法を顧みないでいながら）、「『どうして異邦人にユダヤ人のようになることをしいるのか』」（ガラテヤ二・一四）。
 // 口語訳のガラテヤ二・一四にある「自分自身はユダヤ人のように生活しないで」は、英文が引いていないので除いた。
 Here is also plain, undeniable sin committed by one who was undoubtedly born of God.
 ここにも、疑いもなく神から生れていた人が犯した、明白で否定しようのない罪があります。
@@ -250,9 +250,9 @@ But if he keepeth not himself, if he abide not in the faith, he may commit sin e
 けれども、自分を守らず、信仰にとどまらないなら、その人も、ほかの人と同じように罪を犯すことがありえます。
 
 It is easy therefore to understand, how any of these children of God might be moved from his own steadfastness, and yet the great truth of God, declared by the Apostle, remain steadfast and unshaken.
-ですから、たやすく理解できます。これらの神の子のだれであれ、自分の確信を失うことがありえます（第二ペテロ三・一七）。それでも、使徒が宣言した神の大いなる真理は、堅く立って揺るぎません。
+ですから、次の二つがどうして両立するのかは、たやすく理解できます。これらの神の子のだれであれ、自分の確信を失うことがありえます（第二ペテロ三・一七）。それでも、使徒が宣言した神の大いなる真理は、堅く立って揺るぎません。
 He did not "keep himself," by that grace of God which was sufficient for him.
-その人は、自分に十分であった神の恵みによって（第二コリント一二・九）、自分を守らなかったのです（第一ヨハネ五・一八）。
+神の恵みは、その人に十分でした（第二コリント一二・九）。それなのに、その人は、その恵みによって自分を守らなかったのです（第一ヨハネ五・一八）。
 He fell, step by step, First, into negative, inward sin, not "stirring up the gift of God which was in him," not "watching unto prayer," not "pressing on to the mark of the prize of his high calling:"
 その人は、一歩一歩、落ちていきました。まず、消極的な内の罪に落ちました。自分のうちにある「神の賜物を、再び燃えたたせ」ず（第二テモテ一・六）、「努めて祈」りませんでした（第一ペテロ四・七）。「上に召してくださる神の賞与を得ようと」、「目標を目ざして」進むこともしませんでした（ピリピ三・一四）。
 Then, into positive inward sin, inclining to wickedness with his heart, giving way to some evil desire or temper:
@@ -267,7 +267,7 @@ and, being then weak and like another man, he was capable of committing even out
 He loved God in sincerity.
 真実をもって神を愛していました。
 He could truly say, "Whom have I in heaven but thee and there is none upon earth," neither person nor thing, "that I desire in comparison of thee."
-ダビデは、心からこう言うことができました。「わたしはあなたのほかに、だれを天にもち得よう。地には」、人であれ物であれ、あなたと比べて「慕うものは」ありません（詩篇七三・二五）。
+ダビデは、心からこう言うことができました。「わたしはあなたのほかに、だれを天にもち得」るでしょうか。「地には」、人であれ物であれ、あなたと比べて「慕うものは」ありません（詩篇七三・二五）。
 // 祈祷書の詩篇の訳。in comparison of thee は祈祷書の言い回しなので、「」の外に置いた。
 But still there remained in his heart that corruption of nature, which is the seed of all evil.
 けれども、ダビデの心には、なおあの性質の腐敗が残っていました。それは、あらゆる悪の種です。
@@ -277,7 +277,7 @@ But still there remained in his heart that corruption of nature, which is the se
 He felt a temptation; a thought which tended to evil.
 ダビデは誘惑を感じました。悪へと傾く思いです。
 The Spirit of God did not fail to convince him of this.
-神の御霊は、必ずそのことを彼に悟らせてくださいました。
+神の御霊は、そのことを確かに彼に悟らせてくださいました。
 He doubtless heard and knew the warning voice; but he yielded in some measure to the thought, and the temptation began to prevail over him.
 ダビデは疑いもなく、その警告の声を聞き、それと知っていました。けれども、その思いにいくらか屈したので、誘惑が彼を支配し始めました。
 Hereby his spirit was sullied; he saw God still; but it was more dimly than before.
@@ -312,7 +312,7 @@ He then rushed on as a horse into the battle, and knowingly committed the outwar
 (5.) The Holy Spirit is grieved; his faith is weakened; and his love of God grows cold.
 五、聖霊は悲しまれ（エペソ四・三〇）、その人の信仰は弱まり、神への愛は冷えていきます（マタイ二四・一二）。<br/>
 (6.) The Spirit reproves him more sharply, and saith, "This is the way; walk thou in it."
-六、御霊は、もっと厳しくその人に忠告し、言われます。「これは道だ、これに」歩みなさい（イザヤ三〇・二一）。<br/>
+六、御霊は、もっと厳しくその人に忠告し、言われます。「これは道だ、これに歩みなさい」（イザヤ三〇・二一）。<br/>
 (7.) He turns away from the painful voice of God, and listens to the pleasing voice of the tempter.
 七、その人は、耳に痛い神の声から顔をそむけ、耳に快い誘惑者の声に聞き従います。<br/>
 (8.) Evil desire begins and spreads in his soul, till faith and love vanish away: He is then capable of committing outward sin, the power of the Lord being departed from him.
@@ -366,7 +366,7 @@ that nevertheless we are even then liable to temptation, particularly to the sin
 that if the loving eye of the soul be steadily fixed on God, the temptation soon vanishes away:
 魂の愛のまなざしが、ゆるぎなく神に注がれているなら、誘惑はすぐに消え去る、ということです。
 But if not, if we are exelkomenoi, (as the Apostle James speaks, James 1:14,) drawn out of God by our own desire, and deleazomenoi, caught by the bait of present or promised pleasure;
-けれども、そうでないなら、どうでしょうか。使徒ヤコブの言葉で言えば（ヤコブ一・一四）、私たちがエクセルコメノイ（ἐξελκόμενοι）となるとします。自分の欲によって神から引き出されるのです。また、デレアゾメノイ（δελεαζόμενοι）となるとします。目の前の快楽や約束された快楽のえさにかかるのです。
+けれども、そうでないなら、どうでしょうか。使徒ヤコブの言葉で言えば（ヤコブ一・一四）、私たちがエクセルコメノイ（ἐξελκόμενοι）となるとします。自分の欲によって神から引き離されるのです。また、デレアゾメノイ（δελεαζόμενοι）となるとします。目の前の快楽や約束された快楽のえさにかかるのです。
 // 英文の転写は exelkomenoi と deleazomenoi。
 then that desire, conceived in us, brings forth sin;
 すると、その欲が私たちのうちにはらんで、罪を生みます（ヤコブ一・一五）。
@@ -387,16 +387,16 @@ and an unceasing return of love, praise, and prayer, offering up all the thought
 3. And hence we may, Thirdly, infer the absolute necessity of this re-action of the soul, (whatsoever it be called,) in order to the continuance of the divine life therein.
 （三）　そこから、第三に、魂のこの応答（それを何と呼ぶにせよ）が、どうしても必要であることを推論できます。魂のうちの神のいのちが続くためです。
 For it plainly appears, God does not continue to act upon the soul, unless the soul re-acts upon God.
-魂が神に応答しなければ、神は魂に働きかけ続けられないことは、明らかだからです。
+魂が神に応答しなければ、神は魂に働きかけ続けてはくださらないことは、明らかだからです。
 He prevents us indeed with the blessings of his goodness.
 確かに、神は、慈しみの祝福をもって、私たちに先立ってくださいます。
 // 祈祷書の詩篇二一・三 thou shalt prevent him with the blessings of goodness の言い回しによる。口語訳とは文言が異なるので、出典を付けなかった。
 He first loves us, and manifests himself unto us.
 神がまず私たちを愛し（第一ヨハネ四・一九）、ご自身を私たちに現してくださいます。
 While we are yet afar off, he calls us to himself, and shines upon our hearts.
-私たちがまだ遠く離れているうちに（ルカ一五・二〇）、神は私たちをご自分のもとへ呼び、私たちの心を照らしてくださいます（第二コリント四・六）。
+私たちがまだ遠く離れているうちに（ルカ一五・二〇）、神は私たちをご自分のもとへ呼び、私たちの心を照してくださいます（第二コリント四・六）。
 But if we do not then love him who first loved us; if we will not hearken to his voice; if we turn our eye away from him, and will not attend to the light which he pours upon us; his Spirit will not always strive:
-けれども、そのとき、私たちが、まず愛してくださった方を愛さないとします。その声に聞き従おうとせず、その方から目をそむけ、その方が注いでくださる光に心を向けようとしないとします。そうすれば、神の御霊は、いつまでも私たちと争われるわけではありません。
+けれども、そのとき、私たちが、まず愛してくださった方を愛さないとします。その声に聞き従おうとせず、その方から目をそむけ、その方が注いでくださる光に心を向けようとしないとします。そうなれば、神の御霊は、いつまでも私たちと争ってはくださいません。
 // 欽定訳の創世記六・三 My spirit shall not always strive with man による。口語訳は「わたしの霊はながく人の中にとどまらない」で文言が異なるので、英文から訳し、出典を付けなかった。
 He will gradually withdraw, and leave us to the darkness of our own hearts.
 御霊は、しだいに退き、私たちを自分の心のやみにまかせてしまわれます。
