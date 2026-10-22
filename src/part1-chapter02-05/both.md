@@ -2,16 +2,20 @@
 
 The House Beautiful
 Now, by this time he was come to the arbour again, where for a while he sat down and wept; but at last, as Christian would have it, looking sorrowfully down under the settle, there he espied his roll; the which he, with trembling and haste, catched up, and put it into his bosom. But who can tell how joyful this man was when he had gotten his roll again! for this roll was the assurance of his life and acceptance at the desired haven. Therefore he laid it up in his bosom, gave thanks to God for directing his eye to the place where it lay, and with joy and tears betook himself again to his journey. But oh, how nimbly now did he go up the rest of the hill! Yet, before he got up, the sun went down upon Christian; and this made him again recall the vanity of his sleeping to his remembrance; and thus he again began to condole with himself: O thou sinful sleep; how, for thy sake, am I like to be benighted in my journey! I must walk without the sun; darkness must cover the path of my feet; and I must hear the noise of the doleful creatures, because of my sinful sleep. [1 Thes. 5:6,7] Now also he remembered the story that Mistrust and Timorous told him of; how they were frighted with the sight of the lions. Then said Christian to himself again, These beasts range in the night for their prey; and if they should meet with me in the dark, how should I shift them? How should I escape being by them torn in pieces? Thus he went on his way. But while he was thus bewailing his unhappy miscarriage, he lift up his eyes, and behold there was a very stately palace before him, the name of which was Beautiful; and it stood just by the highway side.
-やっと休憩小屋に着くと、クリスチャンはその場にへたりこんで泣いた。すこし経ってから（神のみこころによって）悲しげに椅子の下に目線をやった。そこに巻物があった。彼はふるえながら急いで巻物を拾い、ふところにしまった。巻物が見つかってどんなに喜んだことか。この巻物はいのちの保証であり、望みの天における通行証なのだ。巻物のある場所に目を向けさせてくださった神に感謝した。喜びの涙にむせびながら旅を再開した。足取り軽く山を駆け上がった。ところが、登りきらないうちに日が沈んでしまった。改めて時間を無駄にしたことが思い知らされるのだった。それでまた彼は嘆き始めた。ああ、罪深い眠りよ！　お前のせいで、旅の途中で日が暮れてしまいそうだ！　太陽なしで歩かなくては。自分の罪のせいで、闇が足元を覆い、動物の物悲しい鳴き声を聞かなくてはならないのだ！　〈臆病〉と〈不信〉が獅子を見ておびえたという話も思い出された。クリスチャンはひとりつぶやいた。「獅子どもが餌を探して歩き回るのは夜だ。暗闇の中で見つかったらどうやって逃れよう。ばらばらに食い殺されずに逃げられるだろうか」。不幸な過ちを嘆きながら歩いていたが、ふと目を上げると、前方に立派な邸宅が見えた。道沿いに建っているその邸宅の名前は〈美し〉といった。
+// 旧英文の as Providence would have it が Gutenberg 版では as Christian would have it。「願ったとおり」と訳した
+やっと休憩小屋に着くと、クリスチャンはその場にへたりこんで泣いた。すこし経ってから、悲しげに椅子の下に目線をやった。すると願ったとおり、そこに巻物があった。彼はふるえながら急いで巻物を拾い、ふところにしまった。巻物が見つかってどんなに喜んだことか。この巻物はいのちの保証であり、望みの天における通行証なのだ。巻物のある場所に目を向けさせてくださった神に感謝した。喜びの涙にむせびながら旅を再開した。足取り軽く山を駆け上がった。ところが、登りきらないうちに日が沈んでしまった。改めて時間を無駄にしたことが思い知らされるのだった。それでまた彼は嘆き始めた。ああ、罪深い眠りよ！　お前のせいで、旅の途中で日が暮れてしまいそうだ！　太陽なしで歩かなくては。自分の罪のせいで、闇が足元を覆い、動物の物悲しい鳴き声を聞かなくてはならないのだ（第一テサロニケ五・六〜七）。〈臆病〉と〈不信〉が獅子を見ておびえたという話も思い出された。クリスチャンはひとりつぶやいた。「獅子どもが餌を探して歩き回るのは夜だ。暗闇の中で見つかったらどうやって逃れよう。ばらばらに食い殺されずに逃げられるだろうか」。不幸な過ちを嘆きながら歩いていたが、ふと目を上げると、前方に立派な邸宅が見えた。道沿いに建っているその邸宅の名前は〈美し〉といった。
 
 So I saw in my dream that he made haste and went forward, that if possible he might get lodging there. Now, before he had gone far, he entered into a very narrow passage, which was about a furlong off the porter's lodge; and looking very narrowly before him as he went, he espied two lions in the way. Now, thought he, I see the dangers that Mistrust and Timorous were driven back by. (The lions were chained, but he saw not the chains.) Then he was afraid, and thought also himself to go back after them, for he thought nothing but death was before him. But the porter at the lodge, whose name is Watchful, perceiving that Christian made a halt as if he would go back, cried unto him, saying, Is thy strength so small? [Mark 8:34-37] Fear not the lions, for they are chained, and are placed there for trial of faith where it is, and for discovery of those that had none. Keep in the midst of the path, no hurt shall come unto thee.
-私が夢の中で見ていると、クリスチャンはそこに急いだ。宿を借りられるかもしれない。しばらく進むと狭い道に入った。あと二百メートルほど歩けば守衛の詰所に着く。ところが、狭い道の途中で二頭の獅子に出くわした。不信と臆病が引き返した危険な場所というのはここのことだな、と彼は思った。（獅子はじつは鎖に繋がれていたが、暗くて見えなかった。）足が震え、自分も引き返そうかと考えた。目の前にあるのはまさしく死だ。ところが、ちょうど詰所の守衛が彼に気づいた。守衛の名前は〈用心〉といった。用心はクリスチャンが引き返そうと立ち往生しているのに気づいて、大声で呼びかけた。「あなたの力はそんなにも小さいのですか（マルコ四・四〇）。獅子を恐れてはなりません。鎖に繋いであります。信仰のある者にはその信仰を試すため、信仰のない者にはそのことを明らかにするために、そこに置かれているのです。道の真ん中をお歩きなさい。危害を加えることはありません」
+私が夢の中で見ていると、クリスチャンはそこに急いだ。宿を借りられるかもしれない。しばらく進むと狭い道に入った。あと二百メートルほど歩けば守衛の詰所に着く。ところが、狭い道の途中で二頭の獅子に出くわした。不信と臆病が引き返した危険な場所というのはここのことだな、と彼は思った。（獅子はじつは鎖に繋がれていたが、暗くて見えなかった。）足が震え、自分も引き返そうかと考えた。目の前にあるのはまさしく死だ。ところが、ちょうど詰所の守衛が彼に気づいた。守衛の名前は〈用心〉といった。用心はクリスチャンが引き返そうと立ち往生しているのに気づいて、大声で呼びかけた。「あなたの力はそんなにも小さいのですか（マルコ八・三四〜三七）。獅子を恐れてはなりません。鎖に繋いであります。信仰のある者にはその信仰を試すため、信仰のない者にはそのことを明らかにするために、そこに置かれているのです。道の真ん中をお歩きなさい。危害を加えることはありません」
 
-// 未訳：Gutenberg 版にある詩
 "Difficulty is behind, Fear is before,
 Though he's got on the hill, the lions roar;
 A Christian man is never long at ease,
 When one fright's gone, another doth him seize."
+〈困難〉は後ろに、恐れは前にある。<br/>
+山は登りきったが、獅子がほえている。<br/>
+クリスチャンたる者に、長い安らぎはない。<br/>
+ひとつの恐れが去れば、また別の恐れに襲われる。
 
 Then I saw that he went on, trembling for fear of the lions, but taking good heed to the directions of the porter; he heard them roar, but they did him no harm. Then he clapped his hands, and went on till he came and stood before the gate where the porter was. Then said Christian to the porter, Sir, what house is this? And may I lodge here to-night? The porter answered, This house was built by the Lord of the hill, and he built it for the relief and security of pilgrims. The porter also asked whence he was, and whither he was going.
 クリスチャンはおびえつつも守衛の言うとおり真ん中を歩いた。獅子たちは恐ろしいうなり声をあげたが、危害は加えなかった。クリスチャンは手を叩きながら歩き、守衛のいる門の前に着いた。クリスチャンは守衛に言った。「このお屋敷は何でしょうか。一晩ここで泊めていただけませんか」。守衛は答えた。「この屋敷は、巡礼者の安全と休息のために主がお建てになったものです。あなたはどこから来て、どこに向かっておられるのですか」
@@ -104,7 +108,7 @@ PRUD. Do you not yet bear away with you some of the things that then you were co
 
 CHR. Yes, but greatly against my will; especially my inward and carnal cogitations, with which all my countrymen, as well as myself, were delighted; but now all those things are my grief; and might I but choose mine own things,
 I would choose never to think of those things more; but when I would be doing of that which is best, that which is worst is with me. [Rom 7:16-19]
-クリスチャン「はい。私の意志にまったく反してそうなることはあります。とりわけ内なる肉の思いです。私の同胞はそれにふけっていました。私自身もそうでした。けれども、今はそうしたものは私にとって悲しみです。もし自分で選べるものなら、もう二度と、あのようなことは考えないことを選ぶでしょう。それなのに、私は心で最善を行いたいと願っても、最悪が私にまとわりつくのです（ローマ七・一五、二一）」
+クリスチャン「はい。私の意志にまったく反してそうなることはあります。とりわけ内なる肉の思いです。私の同胞はそれにふけっていました。私自身もそうでした。けれども、今はそうしたものは私にとって悲しみです。もし自分で選べるものなら、もう二度と、あのようなことは考えないことを選ぶでしょう。それなのに、私は心で最善を行いたいと願っても、最悪が私にまとわりつくのです（ローマ七・一六〜一九）」
 
 PRUD. Do you not find sometimes, as if those things were vanquished, which at other times are your perplexity?
 思慮「そのようなものを打ち負かしたと感じるときもあれば、逆に圧倒されるときもある、ということでしょうか」
@@ -225,4 +229,4 @@ CHR. Well, said Christian, good Porter, the Lord be with thee, and add to all th
 
 守衛「今頃は、この丘のふもとに着いているでしょう」
 
-クリスチャン「そうですか。守衛さん、主があなたと共におられますように。あなたが私に親切にしてくださったので、その報いにまったき祝福が増し加えられますように」
+クリスチャン「そうですか。守衛さん、主があなたと共におられますように。あなたが私に親切にしてくださったので、その報いにあらゆる祝福が豊かに増し加えられますように」
