@@ -6,7 +6,7 @@ Upon Our Lord's Sermon On The Mount: Discourse Eleven
 「狭い門からはいりなさい。滅びにいたる門は大きく、その道は広いのです。そして、そこからはいって行く者が多いのです。いのちにいたる門は狭く、その道は細いのです。そして、それを見いだす者が少ないのです」（マタイ七・一三〜一四）
 
 1. Our Lord, having warned us of the dangers which easily beset us at our first entrance upon real religion, the hinderances which naturally arise from within, from the wickedness of our own hearts; now proceeds to apprize us of the hinderances from without, particularly ill example and ill advice.
-（一）　私たちの主は、真の宗教に初めて入るときに、たやすく私たちにまといつく危険について警告されました。それは、内側から、すなわち私たち自身の心の悪から自然に生じる妨げでした。今、主は進んで、外側からの妨げ、とりわけ悪い模範と悪い助言とについて、私たちに知らせようとされます。
+（一）　私たちの主は、真の宗教に初めて入るときに、たやすく私たちにまといつく危険について警告されました。それは、内側から、すなわち私たち自身の心の悪から自然に生じる妨げでした。そして今、主は、外側からの妨げ、とりわけ悪い模範と悪い助言とについて、私たちに知らせようとされます。
 By one or the other of these, thousands, who once ran well, have drawn back unto perdition; -- yea, many of those who were not novices in religion, who had made some progress in righteousness.
 そのどちらかによって、かつてはよく走っていた（ガラテヤ五・七）何千もの人々が、信仰を捨てて滅びてしまいました（ヘブル一〇・三九）。そうです、宗教の初心者ではなく、義においていくらか進んでいた人々の多くも、そうなったのです。
 His caution, therefore, against these he presses upon us with all possible earnestness, and repeats again and again, in variety of expressions, lest by any means we should let it slip.
@@ -14,7 +14,7 @@ His caution, therefore, against these he presses upon us with all possible earne
 Thus, effectually to guard us against the former, "Enter ye in," saith he, "at the strait gate: For wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it:"
 こうして、前者から私たちを確かに守るために、主は言われます。「狭い門からはいりなさい。滅びにいたる門は大きく、その道は広いのです。そして、そこからはいって行く者が多いのです。いのちにいたる門は狭く、その道は細いのです。そして、それを見いだす者が少ないのです」（マタイ七・一三〜一四）。
 To secure us from the latter, "Beware," saith he, "of false prophets." We shall, at present, consider the former only.
-後者から私たちを守るためには、「にせ預言者を警戒しなさい」と言われます（マタイ七・一五）。今は、前者だけを考えることにします。
+後者から私たちを守るためには、「にせ預言者を警戒しなさい」（マタイ七・一五）と言われます。今は、前者だけを考えることにします。
 
 2. "Enter ye in," saith our blessed Lord, "at the strait gate: For wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it."
 （二）　私たちの祝福された主は言われます。「狭い門からはいりなさい。滅びにいたる門は大きく、その道は広いのです。そして、そこからはいって行く者が多いのです。いのちにいたる門は狭く、その道は細いのです。そして、それを見いだす者が少ないのです」（マタイ七・一三〜一四）。
@@ -34,7 +34,7 @@ I. 1. We may observe, First, the inseparable properties of the way to hell: "Wid
 （一）　第一に、私たちは、地獄への道の切り離せない特質を認めることができます。「滅びにいたる門は大きく、その道は広いのです。そして、そこからはいって行く者が多いのです」（マタイ七・一三）。
 
 2. Wide indeed is the gate, and broad the way, that leadeth to destruction! For sin is the gate of hell, and wickedness the way to destruction.
-（二）　まことに、滅びにいたる門は大きく、その道は広いのです！　罪が地獄の門であり、悪が滅びへの道だからです。
+（二）　まことに、滅びにいたる門は大きく、その道は広いのです（マタイ七・一三）！　罪が地獄の門であり、悪が滅びへの道だからです。
 And how wide a gate is that of sin! How broad is the way of wickedness! The "commandment" of God "is exceeding broad;" as extending not only to all our actions, but to every word which goeth out of our lips, yea, every thought that rises in our heart.
 罪の門は、何と大きいことでしょう！　悪の道は、何と広いことでしょう！　神の「戒めは限りなく広いのです」（詩篇一一九・九六）。それは、私たちのすべての行いに及ぶだけではありません。唇から出るすべての言葉にも、そうです、心にわき起こるすべての思いにも及ぶのです。
 And sin is equally broad with the commandment, seeing any breach of the commandment is sin.
@@ -51,9 +51,10 @@ Can we fix any bounds to them Do they not diffuse themselves through all our tho
 Are they not the leaven which leavens, more or less, the whole mass of our affections
 それらは、多かれ少なかれ、私たちの心の思いのかたまり全体をふくらませるパン種（第一コリント五・六）ではないでしょうか。
 May we not, on a close and faithful examination of ourselves, perceive these roots of bitterness continually springing up, infecting all our words, and tainting all our actions
-自分自身を綿密に、誠実に調べてみましょう。すると、これらの苦い根（ヘブル一二・一五）が絶えずはえ出ているのに気づくのではないでしょうか。それが、私たちのすべての言葉を毒し、すべての行いを汚しているのに気づくのではないでしょうか。
+自分自身を綿密に、誠実に調べるなら、これらの苦い根（ヘブル一二・一五）が絶えずはえ出ているのに気づくのではないでしょうか。それが、私たちのすべての言葉を毒し、すべての行いを汚しているのに気づくのではないでしょうか。
 And how innumerable an offspring do they bring forth, in every age and nation! Even enough to cover the whole earth with darkness and cruel habitations.
 そして、それらは、どの時代にも、どの国民の中にも、何と数えきれない子孫を生み出すことでしょう！　それは、全地を暗やみと暴力のすまい（詩篇七四・二〇）とでおおうほどです。
+// darkness and cruel habitations は祈祷書の詩篇七四篇の言い回し。口語訳とほぼ同じ意味なので、口語訳で引いた。
 
 4. O who is able to reckon up their accursed fruits; to count all the sins, whether against God or our neighbour, not which imagination might paint, but which may be matter of daily, melancholy experience
 （四）　ああ、だれが、そののろわれた実を数え上げることができるでしょうか。神に対するものであれ、隣人に対するものであれ、すべての罪を数えることができるでしょうか。想像が描き出すような罪ではありません。日々の、痛ましい経験となりうる罪です。
@@ -80,14 +81,15 @@ These then, none can deny, are all in the way that leadeth to destruction.
 Add to these, those who have a name indeed that they live, but were never yet alive to God; those that outwardly appear fair to men, but are inwardly full of all uncleanness; full of pride or vanity, of anger or revenge, of ambition or covetousness; lovers of themselves, lovers of the world, lovers of pleasure more than lovers of God.
 この人々に、次の人々を加えなさい。生きているというのは名だけで、まだ一度も神に対して生きたことのない人々です。外側は人に美しく見えても、内側はあらゆる不潔なものでいっぱいの人々です（マタイ二三・二七〜二八）。高慢や虚栄、怒りや復讐心、野心や貪欲でいっぱいの人々です。自分を愛する者、世を愛する者、神よりも快楽を愛する者です（第二テモテ三・二、四）。
 These, indeed, may be highly esteemed of men; but they are an abomination to the Lord. And how greatly will these saints of the world swell the number of the children of hell!
-確かに、この人々は人々の間で尊ばれるかもしれません。けれども、主のみまえでは忌みきらわれる者です（ルカ一六・一五）。これらの世の聖人たちは、地獄の子（マタイ二三・一五）の数を、何と大きくふくらませることでしょう。
+確かに、この人々は人の間で尊ばれるかもしれません。けれども、主のみまえでは忌みきらわれる者です（ルカ一六・一五）。これらの世の聖人たちは、地獄の子（マタイ二三・一五）の数を、何と大きくふくらませることでしょう。
 Yea, add all, whatever they be in other respects, whether they have more or less of the form of godliness, who, "being ignorant of God's righteousness, and seeking to establish their own righteousness," as the ground of their reconciliation to God and acceptance with him, of consequence have not "submitted themselves unto the righteousness which is of God" by faith.
-そうです、さらに次の人々をみな加えなさい。ほかの点ではどうであれ、また、敬虔の形（第二テモテ三・五）を多く持っていても少なく持っていても、加えなさい。それは、「神の義を知らないで、自分の義を立てようと努め」る人々です（ローマ一〇・三）。彼らは、神と和解し、神に受け入れられる根拠として、自分の義を立てようとするのです。その結果、信仰による「神からの義」（ピリピ三・九）に「従わなかった」のです（ローマ一〇・三）。
+そうです、さらに次の人々をみな加えなさい。ほかの点ではどうであれ、また、敬虔の形（第二テモテ三・五）を多く持っていても少なく持っていても、みな加えるのです。その人々は、「神の義を知らないで、自分の義を立てようと努め」る人々です（ローマ一〇・三）。彼らは、神と和解し、神に受け入れられる根拠として、自分の義を立てようとするのです。その結果、信仰による「神からの義」（ピリピ三・九）に「従わなかった」のです（ローマ一〇・三）。
 Now, all these things joined together in one, how terribly true is our Lord's assertion, "Wide is the gate, and broad is the way, that leadeth to destruction, and many there be who go in thereat!"
 さて、これらをすべて一つに合わせるなら、主の次の断言は、何と恐ろしいほど真実でしょう。「滅びにいたる門は大きく、その道は広いのです。そして、そこからはいって行く者が多いのです」（マタイ七・一三）。
 
 6. Nor does this only concern the vulgar herd, -- the poor, base, stupid part of mankind. Men of eminence in the world, men who have many fields and yoke of oxen, do not desire to be excused from this.
-（六）　また、これは卑しい群衆、すなわち人類の中の貧しく、卑しく、愚かな部分だけに関わることではありません。世の中で名の知れた人々、多くの畑や何対もの牛を持つ人々（ルカ一四・一八〜一九）も、これだけは断ろうとはしません。
+（六）　また、これは卑しい群衆、すなわち人類の中の貧しく、卑しく、愚かな部分だけに関わることではありません。世の中で名の知れた人々、多くの畑や何対もの牛を持つ人々も、これだけは断ろうとはしません。
+// ルカ一四・一八〜一九 の譬えの言い回し。口語訳と文言が違うので出典を付けなかった。
 On the contrary, "many wise men after the flesh," according to the human methods of judging, "many mighty," in power, in courage, in riches, many "noble, are called;" called into the broad way, by the world, the flesh, and the devil; and they are not disobedient to that calling
 それどころか、人間的に知恵のある者、すなわち人間の判断の仕方で知恵があるとされる者が、多く召されています。権力や勇気や富において力のある者が多く、身分の高い者が多く、召されています（第一コリント一・二六）。世と肉と悪魔によって、広い道へと召されているのです。そして、彼らはその召しにそむきません。
 // 英文は第一コリント一・二六 の not many を many に変えて引くので、「」に入れずに訳した。
@@ -101,7 +103,7 @@ The more blessings they have received from God, the more sins do they commit; us
 II. 1. And the very reason why many of these go on so securely in the broad way, is, because it is broad; not considering that this is the inseparable property of the way to destruction.
 （一）　これらの人々の多くが、広い道をこれほど安心して進んで行く理由は、まさに、その道が広いからです。それが滅びへの道の切り離せない特質であることを、考えないのです。
 "Many there be," saith our Lord, "which go in thereat:" for the very reason why they should flee from it, even "because strait is the gate, and narrow the way that leadeth unto life, and few there be that find it."
-主は、「そこからはいって行く者が多い」と言われます（マタイ七・一三）。彼らは、まさにそこから逃げるべき理由のために、そこへはいって行くのです。逃げるべきなのは、「いのちにいたる門は狭く、その道は細い」からです。「それを見いだす者が少ない」からです（マタイ七・一四）。
+主は、「そこからはいって行く者が多い」（マタイ七・一三）と言われます。彼らは、まさにそこから逃げるべき理由のために、そこへはいって行くのです。逃げるべきなのは、「いのちにいたる門は狭く、その道は細い」（マタイ七・一四）からです。「それを見いだす者が少ない」からです（マタイ七・一四）。
 
 2. This is an inseparable property of the way to heaven. So narrow is the way that leadeth unto life, unto life everlasting, -- so strait the gate, -- that nothing unclean, nothing unholy, can enter.
 （二）　これが、天国への道の切り離せない特質です。いのちに、すなわち永遠のいのちにいたる道は、それほど細く、その門はそれほど狭いのです。汚れたものも、聖くないものも、何一つはいることができません（黙示録二一・二七）。
@@ -115,7 +117,7 @@ He must not only be saved from all sinful actions, and from all evil and useless
 3. For, "narrow is the way that leadeth unto life;" the way of universal holiness.
 （三）　なぜなら、いのちにいたる「その道は細い」からです（マタイ七・一四）。それは、あらゆる面にわたる聖性の道です。
 Narrow indeed is the way of poverty of spirit; the way of holy mourning; the way of meekness; and that of hungering and thirsting after righteousness.
-まことに、こころの貧しさの道は細いのです。聖い悲しみの道、柔和の道、義に飢えかわく道も細いのです。
+まことに、こころの貧しさの道は細いのです。聖い悲しみの道、柔和の道、義に飢えかわく（マタイ五・六）道も細いのです。
 Narrow is the way of mercifulness; of love unfeigned; the way of purity of heart; of doing good unto all men; and of gladly suffering evil, all manner of evil, for righteousness' sake.
 あわれみ深さの道、偽りのない愛（第二コリント六・六）の道、心の清さの道は細いのです。すべての人に善を行う道、義のために（マタイ五・一〇）悪を、あらゆる悪を喜んで耐え忍ぶ道も細いのです。
 
@@ -127,9 +129,9 @@ How few that are clear, before God, from acts either of injustice or unkindness!
 What a small proportion of mankind are innocent even of outward transgressions! And how much smaller a proportion have their hearts right before God, -- clean and holy in his sight!
 外面の違反についてさえ罪のない者は、人類のうちの何とわずかな割合でしょう！　まして、神の前に心が正しく、神の目に清く聖い者は、何とさらにわずかなことでしょう。
 Where are they, whom his all-searching eye discerns to be truly humble; to abhor themselves in dust and ashes, in the presence of God their Saviour; to be deeply and steadily serious, feeling their wants, and "passing the time of their sojourning with fear;" truly meek and gentle, never "overcome of evil, but overcoming evil with good;" thoroughly athirst for God, and continually painting after a renewal in his likeness
-すべてを探り知る神の目が、次のような者と見分ける人々は、どこにいるのでしょうか。本当に謙遜な人々、救い主なる神の前で、ちりと灰の中で自分を忌みきらう人々です。自分の欠乏を感じ、「地上に宿っている間を、おそれの心をもって過ご」し（第一ペテロ一・一七）、深く、変わることなくまじめな人々です。本当に柔和で優しく、決して「悪に負け」ず、かえって「善をもって悪に勝」つ（ローマ一二・二一）人々です。心から神を慕いかわき（詩篇四二・二）、神のかたちに新たにされることを絶えずあえぎ求める人々です。
+すべてを探り知る神の目が、次のような者と見分ける人々は、どこにいるのでしょうか。本当に謙遜な人々、救い主なる神の前で、ちりと灰の中で自分を忌みきらう人々です。自分の欠乏を感じ、「宿っている間を、おそれの心をもって過ご」し（第一ペテロ一・一七）、深く、変わることなくまじめな人々です。本当に柔和で優しく、決して「悪に負け」ず、かえって「善をもって悪に勝」つ（ローマ一二・二一）人々です。心から神を慕いかわき（詩篇四二・二）、神のかたちに新たにされることを絶えずあえぎ求める人々です。
 How thinly are they scattered over the earth, whose souls are enlarged in love to all mankind; and who love God with all their strength, who have given him their hearts, and desire nothing else in earth or heaven!
-魂がすべての人への愛に広げられている人々は、地上に何とまばらにしか散らばっていないことでしょう。力をつくして神を愛し（マルコ一二・三〇）、神に心をささげ、天にも地にも神のほかに何も慕わない（詩篇七三・二五）人々も、そうです。
+次のような人々は、地上に何とまばらにしか散らばっていないことでしょう。魂がすべての人への愛に広げられ、力をつくして神を愛し（マルコ一二・三〇）、神に心をささげ、天にも地にも神のほかに何も慕わない（詩篇七三・二五）人々です。
 How few are those lovers of God and man, that spend their whole strength in doing good unto all men; and are ready to suffer all things, yea, death itself, to save one soul from eternal death!
 神と人とを愛する人々で、すべての人に善を行うために全力を費やす者は、何と少ないことでしょう。一つの魂を永遠の死から救い出す（ヤコブ五・二〇）ために、すべてを、そうです、死そのものをも忍ぶ覚悟のある者は、何と少ないことでしょう！
 
@@ -174,12 +176,12 @@ Besides, even those few are not wise men, not men of learning or eloquence. They
 They know not how to prove what they profess to believe; or to explain even what they say they experience.
 自分が信じていると公言することを、どう証明すればよいか分かりません。自分が経験していると言うことさえ、説明できません。
 Surely such advocates as these will never recommend, but rather discredit, the cause they have espoused.
-確かに、このような弁護者たちは、自分の支持する主張を決して人に勧めることにはならず、かえってその信用を落とすでしょう。
+確かに、このような弁護者たちは、自分の支持する主張を人に勧めるどころか、かえってその信用を落とすでしょう。
 
 10. Add to this, that they are not noble, not honourable men: If they were, you might bear with their folly.
 （一〇）　これに加えて、彼らは身分の高い人々でも、地位のある人々でもありません。もしそうなら、彼らの愚かさを我慢できるかもしれません。
 They are men of no interest, no authority, of no account in the world. They are mean and base; low in life; and such as have no power, if they had the will, to hurt you.
-彼らは、世の中で何の勢力も、何の権威もなく、物の数にも入らない人々です。卑しく、身分の低い、暮らしの低い人々です。たとえその気があっても、あなたを害する力のない人々です。
+彼らは、世の中で何の勢力も、何の権威もなく、物の数にも入らない人々です。卑しく、さもしく、身分の低い人々です。たとえその気があっても、あなたを害する力のない人々です。
 Therefore there is nothing at all to be feared from them; and there is nothing at all to hope: For the greater part of them may say, "Silver and gold have I none;" at least a very moderate share.
 ですから、彼らから恐れるべきものは何もありません。望むべきものも何もありません。彼らの大部分は、「金銀はわたしには無い」（使徒三・六）と言えるからです。少なくとも、ごくわずかしか持っていません。
 Nay, some of them have scarce food to eat, or raiment to put on.
@@ -195,7 +197,7 @@ So that both your fears, your hopes, and all your desires (except those which yo
 III. 1. Therefore it is, that our Lord so earnestly exhorts, "Enter ye in at the strait gate."
 （一）　だからこそ、主はこれほど熱心に勧められるのです。「狭い門からはいりなさい」（マタイ七・一三）。
 Or, (as the same exhortation is elsewhere expressed,) "Strive to enter in:" agvnizesqe eiselqein, -- "strive as in an agony:"
-あるいは（同じ勧めが別の箇所で言い表されているように）、「はいるように努めなさい」（ルカ一三・二四）。原語はアゴーニゼスセ・エイセルセイン（ἀγωνίζεσθε εἰσελθεῖν）です。すなわち、「苦闘するように努めなさい」（ルカ一三・二四）ということです。
+あるいは（同じ勧めが別の箇所で言い表されているように）、「はいるように努めなさい」（ルカ一三・二四）。原語はアゴーニゼステ・エイセルテイン（ἀγωνίζεσθε εἰσελθεῖν）です。すなわち、「苦闘するように努めなさい」（ルカ一三・二四）ということです。
 // 英文の転写は agvnizesqe eiselqein。「苦闘するように努めなさい」はウェスレー自身の訳。
 "For many," saith our Lord, "shall seek to enter in," indolently strive, "and shall not be able."
 主は言われます。「はいろうとしても」、すなわち怠惰に努めても、「はいれない人が多い」のです（ルカ一三・二四）。
@@ -203,20 +205,20 @@ Or, (as the same exhortation is elsewhere expressed,) "Strive to enter in:" agvn
 2. It is true, he intimates what may seem another reason for this, for their not being able to enter in, in the words which immediately follow these.
 （二）　確かに、主は、これにすぐ続く言葉の中で、彼らがはいれないことについて、別の理由と思えるものをほのめかしておられます。
 For after he had said, "Many, I say unto you, will seek to enter in, and shall not be able," he subjoins,
-主は、「はいろうとしても、はいれない人が多い」とあなたがたに言っておく、と言われました（ルカ一三・二四）。そのあとで、こう付け加えられるのです。
+主は、「はいろうとしても、はいれない人が多い」（ルカ一三・二四）と、あなたがたに言っておく、と言われました。そのあとで、こう付け加えられるのです。
 "When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without," arxhsqe exv estanai, -- rather, ye stand without; for arxhsqe seems to be only an elegant expletive, -- "and to knock at the door, saying, Lord, Lord, open unto us; he shall answer and say unto you, I know you not: Depart from me, all ye workers of iniquity." (Luke 13:24, &c.)
-「家の主人が立って戸を閉じてしまってから、あなたがたが外に立ち戸をたたき始めて、『ご主人様、どうぞあけてください』と言っても、主人はそれに答えて、『わたしは知らない。悪事を働く者どもよ、みんな行ってしまえ』と言うでしょう」（ルカ一三・二五、二七）。原文はアルクセースセ・エクソー・ヘスタナイ（ἄρξησθε ἔξω ἑστάναι）で、直訳すれば『外に立ち始め』です。けれども、むしろ『外に立ち』と読むべきでしょう。アルクセースセ（始める）は、文を整える優美な虚辞にすぎないと思われるからです。
-// 英文の転写は arxhsqe exv estanai と arxhsqe。英文の出典は (Luke 13:24, &c.)。英文は二五節と二七節をつないで引く。Lord, Lord は口語訳では「ご主人様」一回（写本の違い）。I know you not は、口語訳二七節の「あなたがたがどこからきた人なのか、わたしは知らない」から「わたしは知らない」だけを引いた。I say unto you は口語訳にないので「」の外に出した。口語訳は「始めて」を「戸をたたき」にかけるので、ギリシャ語の注解は聖句の後に置いた。
+「家の主人が立って戸を閉じてしまってから、あなたがたが外に立ち戸をたたき始めて、『ご主人様、どうぞあけてください』と言っても、主人はそれに答えて、『わたしは知らない。悪事を働く者どもよ、みんな行ってしまえ』と言うでしょう」（ルカ一三・二五、二七）。原文はアルクセーステ・エクソー・ヘスタナイ（ἄρξησθε ἔξω ἑστάναι）で、直訳すれば『外に立ち始め』です。けれども、むしろ『外に立ち』と読むべきでしょう。アルクセーステ（始める）は、文を整える優美な虚辞にすぎないと思われるからです。
+// 英文の転写は arxhsqe exv estanai と arxhsqe。英文の出典は (Luke 13:24, &c.)。英文は二五節と二七節をつないで引く。Lord, Lord は口語訳では「ご主人様」一回（写本の違い）。I know you not は、口語訳の「あなたがたがどこからきた人なのか、わたしは知らない」から「わたしは知らない」だけを引いた（二五節にも同じ句がある）。I say unto you は口語訳にないので「」の外に出した。口語訳は「始めて」を「戸をたたき」にかけるので、ギリシャ語の注解は聖句の後に置いた。
 
 3. It may appear, upon a transient view of these words, that their delaying to seek at all, rather than their manner of seeking, was the reason why they were not able to enter in. But it comes, in effect, to the same thing.
 （三）　この言葉をざっと見ると、こう見えるかもしれません。彼らがはいれなかった理由は、その求め方よりも、むしろ求めること自体を遅らせたことにあった、と。けれども、結局は同じことになるのです。
 They were, therefore, commanded to depart, because they had been "workers of iniquity;" because they had walked in the broad road; in other words, because they had not agonized to "enter in at the strait gate."
 彼らが立ち去るよう命じられたのは、「悪事を働く者ども」（ルカ一三・二七）だったからです。広い道を歩んできたからです。言いかえれば、苦闘して「狭い戸口からはいる」ように努めなかったからです（ルカ一三・二四）。
 Probably they did seek, before the door was shut; but that did not suffice: And they did strive, after the door was shut; but then it was too late.
-おそらく彼らは、戸が閉じられる前にも求めはしたのでしょう。けれども、それでは足りませんでした。そして、戸が閉じられたあとには、確かに努めました。けれども、そのときにはもう遅すぎたのです。
+おそらく彼らは、戸が閉じられる前に求めはしたのでしょう。けれども、それでは足りませんでした。そして、戸が閉じられたあとには、確かに努めました。けれども、そのときにはもう遅すぎたのです。
 
 4. Therefore strive ye now, in this your day, to "enter in at the strait gate."
-（四）　ですから、あなたがたは今、あなたがたのこの日に、「狭い戸口からはいるように努め」なさい（ルカ一三・二四）。
+（四）　ですから、あなたがたは今、あなたがたのこの日に、「狭い戸口からはいる」（ルカ一三・二四）ように努めなさい。
 And in order thereto, settle it in your heart, and let it be ever uppermost in your thoughts, that if you are in a broad way, you are in the way that leadeth to destruction.
 そのために、次のことを心に定め、いつも思いの一番上に置きなさい。もしあなたが広い道にいるなら、あなたは滅びにいたる道にいるのだ、ということです。
 If many go with you, as sure as God is true, both they and you are going to hell! If you are walking as the generality of men walk, you are walking to the bottomless pit! Are many wise, many rich, many mighty, or noble travelling with you in the same way By this token, without going any farther, you know it does not lead to life.
@@ -231,9 +233,9 @@ Yet a little while, and thou wilt "come to an innumerable company of angels, to 
 5. Now, then, "strive to enter in at the strait gate," being penetrated with the deepest sense of the inexpressible danger your soul is in, so long as you are in a broad way, -- so long as you are void of poverty of spirit, and all that inward religion, which the many, the rich, the wise, account madness.
 （五）　それでは今、「狭い戸口からはいるように努め」なさい（ルカ一三・二四）。あなたの魂が置かれている言いようのない危険を、心の底まで深く感じながら、努めなさい。広い道にいるかぎり、あなたの魂はその危険の中にあるのです。こころの貧しさを欠き、あの内なる宗教のすべてを欠いているかぎり、そうなのです。その内なる宗教を、多くの人々、富んだ人々、賢い人々は狂気と見なします。
 "Strive to enter in;" being pierced with sorrow and shame for having so long run on with the unthinking crowd, utterly neglecting, if not despising, that "holiness without which no man can see the Lord."
-「はいるように努めなさい」（ルカ一三・二四）。これほど長い間、考えのない群衆と一緒に走り続けてきたことを悔い、悲しみと恥とに刺し通されながら、努めなさい。その間、あなたは聖性を、軽んじてはいなかったとしても、まったくなおざりにしてきたのです。「きよくならなければ、だれも主を見ることはできない」（ヘブル一二・一四）と言われる、あの聖性です。
+「はいるように努めなさい」（ルカ一三・二四）。これほど長い間、考えのない群衆と一緒に走り続けてきたことへの悲しみと恥とに刺し通されながら、努めなさい。その間、あなたは聖性を、軽んじてはいなかったとしても、まったくなおざりにしてきたのです。「きよくならなければ、だれも主を見ることはできない」（ヘブル一二・一四）と言われる、あの聖性です。
 Strive, as in an agony of holy fear, lest "a promise being made you of entering into his rest," even that "rest which remaineth for the people of God," you should nevertheless "come short of it."
-聖い恐れに苦しみもだえるようにして、努めなさい。あなたがたには「神の安息にはいるべき約束が」与えられています（ヘブル四・一）。それは、「神の民のためにまだ残されている」安息です（ヘブル四・九）。それなのに、万一にも「はいりそこなう」ことのないように、努めなさい（ヘブル四・一）。
+聖い恐れのうちに苦闘するようにして、努めなさい。あなたがたには「神の安息にはいるべき約束が」（ヘブル四・一）与えられています。それは、「神の民のためにまだ残されている」（ヘブル四・九）安息です。それなのに、万一にも「はいりそこなう」（ヘブル四・一）ことのないように、努めなさい。
 // 口語訳のヘブル四・一 は「約束が、まだ存続しているにかかわらず」。英文は a promise being made you と言い換えるので、「約束が」までを「」に入れた。
 Strive, in all the fervour of desire, with "groanings which cannot be uttered. Strive by prayer without ceasing; at all times, in all places, lifting up your heart to God, and giving him no rest, till you "awake up after his likeness" and are "satisfied with it."
 燃えるような願いを尽くし、「言葉にあらわせない切なるうめき」（ローマ八・二六）をもって、努めなさい。絶えず祈る（第一テサロニケ五・一七）ことによって、努めなさい。いつでも、どこでも、心を神に向けて上げ、神を休ませずに（イザヤ六二・七）、努めなさい。神のみかたちに似た者として目ざめ、それに満ち足りるまで、努めなさい。
