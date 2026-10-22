@@ -11,7 +11,7 @@ Christian then seeing them lie in this case went to them, if peradventure he mig
 
 怠惰「もう少し眠ろう」
 
-厚顔「桶はどれも自分の底で立つものさ」
+厚顔「桶はどれも自分の底で立つものさ。ほかにどう答えろというんだ」
 
 こうして彼らは再び眠りについた。クリスチャンは旅を続けた。
 
@@ -37,7 +37,7 @@ FORM. and HYP. They told him, that, as for that, he needed not to trouble his he
 形式主義と偽善「どうぞご心配なく。我々の国では皆がしてきたことですから。必要とあらば、千年以上もこの伝統が続いてきたことを証言する証拠も出せます」
 
 CHR. But, said Christian, will your practice stand a trial at law?
-クリスチャン「それでも、神の法廷で裁きを受けるときに耐えられるでしょうか」
+クリスチャン「それでも、あなたがたのそのやり方は、神の法廷で裁きを受けるときに耐えられるでしょうか」
 
 FORM. and HYP. They told him, That custom, it being of so long a standing as above a thousand years, would, doubtless, now be admitted as a thing legal by any impartial judge; and besides, said they, if we get into the way, what's matter which way we get in? if we are in, we are in; thou art but in the way, who, as we perceive, came in at the gate; and we are also in the way, that came tumbling over the wall; wherein, now, is thy condition better than ours?
 形式主義と偽善「この伝統は千年以上も前から受け継がれてきた確固たるものです。ですから公平な裁判官なら、きっと合法と認めるはずです。それにひとたび道に入ったら、どこから入ったかなど問題になるでしょうか。道に入ったなら、もう入ったのです。あなたは確かに門を通ってこの道にいます。我々も壁を乗り越えてですがこの道にいます。あなたのほうが我々よりどこが優っているというのでしょうか」
@@ -49,7 +49,7 @@ To this they made him but little answer; only they bid him look to himself. Then
 二人は言葉に詰まり、余計なお世話だ、と言い捨てた。それから、二人とクリスチャンはほとんど話さずに同じ道を歩いた。おもむろに二人は言った。「戒めとおきてに従うことに関しては、我々はあなたと同じくらい良心に忠実ですよ。だから、あなたと何の違いもありません。唯一の違いはあなたの着ている外套だけです。それは裸の恥を隠すために誰か隣人からもらったものでしょう」
 
 CHR. By laws and ordinances you will not be saved, since you came not in by the door. [Gal. 2:16] And as for this coat that is on my back, it was given me by the Lord of the place whither I go; and that, as you say, to cover my nakedness with. And I take it as a token of his kindness to me; for I had nothing but rags before. And besides, thus I comfort myself as I go: Surely, think I, when I come to the gate of the city, the Lord thereof will know me for good since I have this coat on my back--a coat that he gave me freely in the day that he stripped me of my rags. I have, moreover, a mark in my forehead, of which, perhaps, you have taken no notice, which one of my Lord's most intimate associates fixed there in the day that my burden fell off my shoulders. I will tell you, moreover, that I had then given me a roll, sealed, to comfort me by reading as I go on the way; I was also bid to give it in at the Celestial Gate, in token of my certain going in after it; all which things, I doubt, you want, and want them because you came not in at the gate.
-クリスチャン「あなたがたは門から入らなかったのですから、戒めとおきてによっては救われません（ガラテヤ二・一六）。私の着ている外套ですが、これは私が向かっている所の主からいただいたものです。おっしゃるとおり、裸の恥をおおうためです。これは私への好意のしるしです。以前の私はぼろ布しか持っていなかったものですから。それと、旅の道中でこれが私を慰めてくれます。都の門に到着したとき、この外套を着ているために、そこにおられる主がきっと私を歓迎してくださると思います。この外套は、主が私のぼろ布を脱がせてくださった日に、気前よく私にくださったものですから。また、お気づきでないかもしれませんが、私のひたいには印が付けられています。これは、私の肩から重荷が落ちた日に、主に最も近しい方のひとりが付けてくださったものです。そのときにもうひとつ、封をされた巻物をいただきました。道中これを読んで慰めを得るようにと、また天の門でこれを通行証として手渡すようにと言われました。あなたがたにはこれらのものがどれも欠けているのではないでしょうか。入口の門から入らなかったからです」
+クリスチャン「あなたがたは門から入らなかったのですから、戒めとおきてによっては救われません（ガラテヤ二・一六）。私の着ている外套ですが、これは私が向かっている所の主からいただいたものです。おっしゃるとおり、裸の恥をおおうためです。これは私への主の好意のしるしです。以前の私はぼろ布しか持っていなかったものですから。それと、旅の道中でこれが私を慰めてくれます。都の門に到着したとき、この外套を着ているために、そこにおられる主がきっと私を歓迎してくださると思います。この外套は、主が私のぼろ布を脱がせてくださった日に、気前よく私にくださったものですから。また、お気づきでないかもしれませんが、私のひたいには印が付けられています。これは、私の肩から重荷が落ちた日に、主に最も近しい方のひとりが付けてくださったものです。そのときにもうひとつ、封をされた巻物をいただきました。道中これを読んで慰めを得るようにと、また天の門でこれを通行証として手渡すようにと言われました。あなたがたにはこれらのものがどれも欠けているのではないでしょうか。入口の門から入らなかったからです」
 
 To these things they gave him no answer; only they looked upon each other, and laughed. Then, I saw that they went on all, save that Christian kept before, who had no more talk but with himself, and that sometimes sighingly, and sometimes comfortably; also he would be often reading in the roll that one of the Shining Ones gave him, by which he was refreshed.
 二人は答えず、お互いに顔を見合わせて笑うだけだった。それから私が見ていると、彼らは道を続けたが、クリスチャンはもう二人と話さずに、ため息をついたり心躍らせたりしながらひとり前に進んだ。また、輝く者のひとりから受け取った巻物を読んでは慰めを得た。
