@@ -32,7 +32,8 @@ CHR. Then said Christian, What means this?
 
 INTER. The Interpreter answered, This parlour is the heart of a man that was never sanctified by the sweet grace of the gospel; the dust is his original sin and inward corruptions, that have defiled the whole man. He that began to sweep at first, is the Law; but she that brought water, and did sprinkle it, is the Gospel. Now, whereas thou sawest, that so soon as the first began to sweep, the dust did so fly about that the room by him could not be cleansed, but that thou wast almost choked therewith; this is to shew thee, that the law, instead of cleansing the heart (by its working) from sin, doth revive, put strength into, and increase it in the soul, even as it doth discover and forbid it, for it doth not give power to subdue. [Rom. 7:6; 1 Cor. 15:56; Rom. 5:20]
 Again, as thou sawest the damsel sprinkle the room with water, upon which it was cleansed with pleasure; this is to show thee, that when the gospel comes in the sweet and precious influences thereof to the heart, then, I say, even as thou sawest the damsel lay the dust by sprinkling the floor with water, so is sin vanquished and subdued, and the soul made clean through the faith of it, and consequently fit for the King of glory to inhabit. [John 15:3; Eph. 5:26; Acts 15:9; Rom. 16:25,26; John 15:13]
-解釈者「この部屋は、これまで一度も福音の豊かな恵みによってきよめられたことのない人の心です。ほこりは、その人全体を汚している原罪と内なる腐敗です。初めに掃き始めた者は律法で、水を持ってきてまいた乙女は福音です。ご覧になったとおり、掃き始めるとほこりが部屋中に舞うので、その者には部屋をきよめることができず、むしろあなたは息が詰まりそうになりました。その意味は、律法はその働きによって心を罪からきよめるどころか、罪を明るみに出して禁じながらも、魂のうちで罪を生き返らせ（ローマ七・九）、罪に力を与え（第一コリント一五・五六）、罪を増し加える（ローマ五・二〇）ということです。律法には罪を抑える力を与えることができないからです。また、乙女が部屋に水をまくと部屋がきよらかになりましたが、その意味は、福音が豊かで尊い感化をもって心に来ると、乙女が床に水をまいてほこりを鎮めたように、罪は征服され抑えられ、福音を信じる信仰によって魂がきよめられるということです。そうして、栄光の王が住まうにふさわしい部屋になるのです（ヨハネ一五・三、エペソ五・二六、使徒一五・九、ローマ一六・二五〜二六）」
+解釈者「この部屋は、これまで一度も福音の豊かな恵みによってきよめられたことのない人の心です。ほこりは、その人全体を汚している原罪と内なる腐敗です。初めに掃き始めた者は律法で、水を持ってきてまいた乙女は福音です。ご覧になったとおり、掃き始めるとほこりが部屋中に舞うので、その者には部屋をきよめることができず、むしろあなたは息が詰まりそうになりました。その意味は、律法はその働きによって心を罪からきよめるどころか、罪を明るみに出して禁じながらも、魂のうちで罪を生き返らせ（ローマ七・九）、罪に力を与え（第一コリント一五・五六）、罪を増し加える（ローマ五・二〇）ということです。律法には罪を抑える力を与えることができないからです。また、乙女が部屋に水をまくと部屋がきよらかになりましたが、その意味は、福音が豊かで尊い感化をもって心に来ると、乙女が床に水をまいてほこりを鎮めたように、罪は征服され抑えられ、福音を信じる信仰によって魂がきよめられるということです。そうして、栄光の王が住まうにふさわしい部屋になるのです（ヨハネ一五・三、エペソ五・二六、使徒一五・九、ローマ一六・二五〜二六、ヨハネ一五・一三）」
+// 新英文の Rom 7:6 は誤植とみて、文意に合う旧英文の Rom 7:9 とした
 
 I saw, moreover, in my dream, that the Interpreter took him by the hand, and had him into a little room, where sat two little children, each one in his chair. The name of the eldest was Passion, and the name of the other Patience. Passion seemed to be much discontented; but Patience was very quiet. Then Christian asked, What is the reason of the discontent of Passion? The Interpreter answered, The Governor of them would have him stay for his best things till the beginning of the next year; but he will have all now: but Patience is willing to wait.
 Then I saw that one came to Passion, and brought him a bag of treasure, and poured it down at his feet, the which he took up and rejoiced therein, and withal laughed Patience to scorn. But I beheld but a while, and he had lavished all away, and had nothing left him but rags.
@@ -93,7 +94,7 @@ Then said Christian, May we go in thither?
 Then the Interpreter took him, and led him up towards the door of the palace; and behold, at the door stood a great company of men, as desirous to go in; but durst not. There also sat a man at a little distance from the door, at a table-side, with a book and his inkhorn before him, to take the name of him that should enter therein; he saw also, that in the doorway stood many men in armour to keep it, being resolved to do the men that would enter what hurt and mischief they could. Now was Christian somewhat in amaze. At last, when every man started back for fear of the armed men, Christian saw a man of a very stout countenance come up to the man that sat there to write, saying, Set down my name, Sir: the which when he had done, he saw the man draw his sword, and put a helmet upon his head, and rush toward the door upon the armed men, who laid upon him with deadly force; but the man, not at all discouraged, fell to cutting and hacking most fiercely. So after he had received and given many wounds to those that attempted to keep him out, he cut his way through them all [Acts 14:22], and pressed forward into the palace, at which there was a pleasant voice heard from those that were within, even of those that walked upon the top of the palace, saying--
 解釈者は彼を宮殿の入り口に連れて行った。扉の前には大勢の人が詰めかけていて、中に入りたそうにしていたが、入る勇気がなかった。少し離れたところに椅子とテーブルがあり、そこに座っている人がいた。テーブルには本とインクが置いてあり、宮殿に入る人の名前を書き留めるためのものだった。また、宮殿の入り口には鎧を着た門番がたくさんいて、中に押し入ろうとする者を攻撃しようと構えていた。
 
-クリスチャンはそれを見て唖然としていた。しばらくすると、門に詰めかけていた人々は門番に恐れをなして退散しはじめた。ひとりの勇ましい顔つきの男がテーブルに座って書いている人に近づいて、「私の名前を書いてください」と言った。そして名前を書いてもらうと、彼は剣を抜いて、兜をかぶり、門番のところに走っていった。門番たちは殺さんばかりの勢いで彼に襲いかかった。ところが、その男は少しもひるまず、果敢に剣を振り回した。追い返そうとする門番たちと斬り合って、彼は多くの傷を負い、また負わせた（マタイ一一・一二、使徒一四・二二）が、ついに門番たちの間に道を切り開いて、宮殿に押し入った。すると、中から歓喜の声が聞こえてきた。宮殿の上のほうにいる人たちの声だった。
+クリスチャンはそれを見て唖然としていた。しばらくすると、門に詰めかけていた人々は門番に恐れをなして退散しはじめた。ひとりの勇ましい顔つきの男がテーブルに座って書いている人に近づいて、「私の名前を書いてください」と言った。そして名前を書いてもらうと、彼は剣を抜いて、兜をかぶり、門番のところに走っていった。門番たちは殺さんばかりの勢いで彼に襲いかかった。ところが、その男は少しもひるまず、果敢に剣を振り回した。追い返そうとする門番たちと斬り合って、彼は多くの傷を負い、また負わせたが、ついに門番たちの間に道を切り開いて（使徒一四・二二）、宮殿に押し入った。すると、中から歓喜の声が聞こえてきた。宮殿の上のほうにいる人たちの声だった。
 
 "Come in, come in;
 Eternal glory thou shalt win."
@@ -134,30 +135,32 @@ CHR. But how camest thou in this condition?
 MAN. I left off to watch and be sober. I laid the reins, upon the neck of my lusts; I sinned against the light of the Word and the goodness of God; I have grieved the Spirit, and he is gone; I tempted the devil, and he is come to me; I have provoked God to anger, and he has left me: I have so hardened my heart, that I cannot repent.
 男「目を覚まして気をつけていることをやめてしまった。私は情欲の手綱をゆるめ、好き放題にさせた。私はみことばの光に対して、また神の善に対して罪を犯した。私は聖霊を悲しませたので、聖霊は去った。悪魔を誘ったので、悪魔が私のところに来た。神を怒らせたので、神は私を去った。私は心をかたくなにし、悔い改めることができなくなったのだ」
 
-Then said Christian to the Interpreter, But is there no hope for such a man as this? Ask him, said the Interpreter. Nay,
-それで、クリスチャンは解釈者に言った。「ですが、このような人にはもう希望はないのでしょうか」。解釈者は「本人に尋ねてみなさい」とだけ答えた。
+Then said Christian to the Interpreter, But is there no hope for such a man as this? Ask him, said the Interpreter.
+それで、クリスチャンは解釈者に言った。「ですが、このような人にはもう希望はないのでしょうか」。解釈者は「本人に尋ねてみなさい」と答えた。
 
-said Christian, pray, Sir, do you.
+Nay, said Christian, pray, Sir, do you.
 INTER. Then said the Interpreter, Is there no hope, but you must be kept in the iron cage of despair?
-クリスチャン「もう希望はないのでしょうか。失意の牢獄から出られないのでしょうか」
+クリスチャン「いいえ、先生、どうかあなたが尋ねてください」
+
+解釈者「もう希望はないのですか。失意の牢獄から出られないのですか」
 
 MAN. No, none at all.
 男「ああ、もう希望は残っていない」
 
 INTER. Why, the Son of the Blessed is very pitiful.
-クリスチャン「でも、ほむべき方の御子はとてもあわれみ深い方ですのに」
+解釈者「でも、ほむべき方の御子はとてもあわれみ深い方ですのに」
 
 MAN. I have crucified him to myself afresh [Heb. 6:6]; I have despised his person [Luke 19:14]; I have despised his righteousness; I have "counted his blood an unholy thing"; I have "done despite to the Spirit of grace". [Heb. 10:28-29] Therefore I have shut myself out of all the promises, and there now remains to me nothing but threatenings, dreadful threatenings, fearful threatenings, of certain judgement and fiery indignation, which shall devour me as an adversary.
-男「私は御子を、もう一度、自ら十字架につけたのだ（ヘブル六・六）。御子を軽んじた（ルカ一九・一四）。御子の義を軽んじた。御子の血を汚れたものとみなした。恵みの御霊を侮った（ヘブル一〇・二九）。だから、私は自分をすべての約束から閉め出した。今、私に残されているものはおどしだけだ。恐ろしく、確かなおどしだ。必ず来る裁きと燃える御怒りが、逆らう者として私を焼き尽くすというおどしだけなのだ」
+男「私は御子を、もう一度、自ら十字架につけたのだ（ヘブル六・六）。御子を軽んじた（ルカ一九・一四）。御子の義を軽んじた。御子の血を汚れたものとみなした。恵みの御霊を侮った（ヘブル一〇・二八〜二九）。だから、私は自分をすべての約束から閉め出した。今、私に残されているものはおどしだけだ。恐ろしい、身の毛のよだつおどしだ。必ず来る裁きと燃える御怒りが、逆らう者として私を焼き尽くすというおどしだけなのだ」
 
 INTER. For what did you bring yourself into this condition?
-クリスチャン「どうしてそんなふうになったのですか」
+解釈者「どうしてそんなふうになったのですか」
 
 MAN. For the lusts, pleasures, and profits of this world; in the enjoyment of which I did then promise myself much delight; but now every one of those things also bite me, and gnaw me like a burning worm.
 男「この世の情欲、享楽、利益だ。そういうものにどっぷりとつかって、大いに楽しめるだろうと思った。だが今や、それらのものがひとつ残らず、燃える虫のように私をかみ、かじり食っている」
 
 INTER. But canst thou not now repent and turn?
-クリスチャン「でも、今からでも悔い改めて立ち返ることはできないのですか」
+解釈者「でも、今からでも悔い改めて立ち返ることはできないのですか」
 
 MAN. God hath denied me repentance. His Word gives me no encouragement to believe; yea, himself hath shut me up in this iron cage; nor can all the men in the world let me out. O eternity, eternity! how shall I grapple with the misery that I must meet with in eternity!
 男「神が私から悔い改めを取り上げたのだ。神のことばはもう私を信仰へと励まさない。そうだ、神ご自身が私を牢獄に閉じ込めた。世界中のどんな人間でも私を外に出せない。ああ、永遠よ！　永遠よ！　永遠に味わわなければならないこの不幸に、私はどうして立ち向かえようか」
@@ -179,15 +182,16 @@ So he began and said, This night, as I was in my sleep, I dreamed, and behold th
 
 『死人たちよ、起きて裁きを受けに来なさい』
 
-すると、岩が裂け、墓が開き、死人がそこから出てきました。ある者は歓喜して天を見上げ、ある者は山の下に隠れようとしていました。それから、雲の上に座っておられる方が本を開き、世界よ近づきなさいと命じるのを見ました。ところが、彼の前から吹き出る激しい炎のゆえに、彼と世界との間には、法廷での裁判官と囚人のように一定の距離が保たれていました（第一コリント一五、第一テサロニケ四・一六、ユダ一・一五、ヨハネ五・二八〜二九、第二テサロニケ一・八〜一〇、黙示録二〇・一一〜一四、イザヤ二六・二一、ミカ七・一六〜一七、詩篇五・四、詩篇五〇・一〜三、マラキ三・二〜三、ダニエル七・九〜一〇）。また、雲の上の方に従っている軍勢に、こう命じるのが聞こえました。
+すると、岩が裂け、墓が開き、死人がそこから出てきました。ある者は歓喜して天を見上げ、ある者は山の下に隠れようとしていました（第一コリント一五・五二、第一テサロニケ四・一六、ユダ一・一四、ヨハネ五・二八〜二九、第二テサロニケ一・七〜八、黙示録二〇・一一〜一四、イザヤ二六・二一、ミカ七・一六〜一七、詩篇五〇・一〜三、ダニエル七・一〇）。それから、雲の上に座っておられる方が本を開き、世界よ近づきなさいと命じるのを見ました。ところが、彼の前から吹き出る激しい炎のゆえに、彼と世界との間には、法廷での裁判官と囚人のように一定の距離が保たれていました（マラキ三・二〜三、ダニエル七・九〜一〇）。また、雲の上の方に従っている軍勢に、こう命じるのが聞こえました。
 
-『毒麦、殻、刈り株を集めて、火の池に投げ込め』（マタイ三・一二、マタイ一八・三〇、マタイ二四・三〇、マラキ四・一）
+『毒麦、殻、刈り株を集めて、火の池に投げ込め』（マタイ三・一二、一三・三〇、マラキ四・一）
 
 すると、私の立っているところのすぐ近くに、底知れぬ穴が口を開きました。そこからすさまじい音でおびただしい量の煙と炭火が吹き出てきました。また、同じ軍勢にこう言われました。
 
 『私の麦を倉に納めよ』（ルカ三・一七）
 
 すると、大勢の者が雲の中に引き上げられていくのが見えましたが、私は取り残されました（第一テサロニケ四・一六〜一七）。私もどこかに隠れようとしましたが、できませんでした。雲の上の方が私をじっと見つめておられたからです。心の中に私の罪もあふれてきて、良心が自分を責め立てました（ローマ二・一四〜一五）。そこで眠りから覚めました」
+// 新英文の Ps 95:1-3 と Rom 3:14,15 は文脈に合わないので誤植とみて、旧英文の Ps 50:1-3、Rom 2:14,15 とした
 
 CHR. But what is it that made you so afraid of this sight?
 クリスチャン「けれども、その夢を見て、どうしてそんなに恐れているのですか」
