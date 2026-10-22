@@ -1,6 +1,12 @@
 {
-  "NEXT_MESSAGE": "Next",
-  "TO_TOP_MESSAGE": "TOP Page",
+  "NEXT_MESSAGE": "次の章",
+  "PREV_MESSAGE": "前の章",
+  "TO_TOP_MESSAGE": "目次へ",
+  "TOC": "目次",
+  "BOOK_LIST": "本の一覧",
+  "PAGER_LABEL": "章の移動",
+  "SITE_NAV_LABEL": "サイト内のリンク",
+  "SITE_NAME": "christian-classics-jp",
   "URL": "https://christian-classics-jp.github.io/site/",
   "COPY_RIGHT": "© 2016 christian-classics-jp."
 }

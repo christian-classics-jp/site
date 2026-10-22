@@ -1,28 +1,33 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
   <head>
-    <title>{{ siteTitle }}</title>
     <meta charset="utf-8">
+    <title>{{ siteTitle }}</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="./css/spectre.min.css" rel="stylesheet" type="text/css">
+    <meta name="theme-color" content="#fbf9f4" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#1c1b19" media="(prefers-color-scheme: dark)">
     <link href="./css/main.css" rel="stylesheet" type="text/css">
   </head>
   <body>
     <header>
       <div class="header">
-        <h1 class="header-title"><a href="index.html">{{ siteTitle }}</a></h1>
+        <a class="header-title" href="../">{{ loc.SITE_NAME }}</a>
       </div>
     </header>
 
-    <div class="main">
+    <main class="main">
       <article>
         {{{ article }}}
       </article>
-    </div>
+    </main>
 
     <footer>
-      <h2><a href="https://github.com/christian-classics-jp/{{ repos }}">この本について(GitHub Repository)</a></h2>
-      <h2 class="mt-10"><a href="../">本の一覧へ</a></h2>
+      <nav aria-label="{{ loc.SITE_NAV_LABEL }}">
+        <ul>
+          <li><a href="https://github.com/christian-classics-jp/{{ repos }}">この本について（GitHub）</a></li>
+          <li><a href="../">{{ loc.BOOK_LIST }}</a></li>
+        </ul>
+      </nav>
     </footer>
   </body>
 </html>

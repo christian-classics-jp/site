@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-    <title>{{ title }} | {{ siteTitle }}</title>
     <meta charset="utf-8">
-    <meta name="theme-color" content="#4d7ca2">
+    <title>{{ title }} | {{ siteTitle }}</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#fbf9f4" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#1c1b19" media="(prefers-color-scheme: dark)">
     <link rel="shortcut icon" href="{{ topUrl }}logo/favicon.png">
     <meta property="og:title" content="{{ title }} | {{ siteTitle }}" />
     <meta property="og:type" content="article" />
@@ -13,38 +14,49 @@
     <meta property="og:site_name" content="{{ siteTitle }}" />
     <meta property="og:description" content="{{ title }}" />
     <meta name="twitter:card" content="summary" />
-    <link href="./css/spectre.min.css" rel="stylesheet" type="text/css">
     <link href="./css/main.css" rel="stylesheet" type="text/css">
   </head>
   <body>
     <header>
       <div class="header">
-        <h1 class="header-title"><a href="index.html">{{ siteTitle }}</a></h1>
+        <a class="header-title" href="index.html">{{ siteTitle }}</a>
       </div>
     </header>
 
-    <div class="main">
+    <main class="main">
       <article>
         {{{ article }}}
       </article>
 
-      <div class="next-article">
-      {{#if next.title}}
-        <div class="mb-5">{{ loc.NEXT_MESSAGE }}</div>
-        <div>
-          <a href="{{ next.fileName }}">{{ next.title }}</a>
-        </div>
-      {{else}}
-        <div class="mb-5">{{ loc.TO_TOP_MESSAGE }}</div>
-        <div>
-          <a href="index.html">{{ siteTitle }}</a>
-        </div>
+      <nav class="pager" aria-label="{{ loc.PAGER_LABEL }}">
+      {{#if prev.title}}
+        <a class="pager-prev" href="{{ prev.fileName }}" rel="prev">
+          <span class="pager-label">{{ loc.PREV_MESSAGE }}</span>
+          <span class="pager-title">{{ prev.title }}</span>
+        </a>
       {{/if}}
-      </div>
-    </div>
+      {{#if next.title}}
+        <a class="pager-next" href="{{ next.fileName }}" rel="next">
+          <span class="pager-label">{{ loc.NEXT_MESSAGE }}</span>
+          <span class="pager-title">{{ next.title }}</span>
+        </a>
+      {{else}}
+        <a class="pager-next" href="index.html">
+          <span class="pager-label">{{ loc.TO_TOP_MESSAGE }}</span>
+          <span class="pager-title">{{ siteTitle }}</span>
+        </a>
+      {{/if}}
+      </nav>
+    </main>
 
     <footer>
-      <div class="copy-right"><a href="{{ loc.URL }}">{{ loc.COPY_RIGHT }}</a></div>
+      <nav aria-label="{{ loc.SITE_NAV_LABEL }}">
+        <ul>
+          <li><a href="index.html">{{ loc.TOC }}</a></li>
+          <li><a href="../">{{ loc.BOOK_LIST }}</a></li>
+        </ul>
+      </nav>
+      <p class="copy-right"><a href="{{ loc.URL }}">{{ loc.COPY_RIGHT }}</a></p>
     </footer>
   </body>
 </html>

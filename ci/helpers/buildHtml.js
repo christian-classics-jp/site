@@ -1,5 +1,5 @@
 const marked = require('marked')
-const {INDEX_TEMPLATE_PATH, SINGLEPAGE_TMPLE_PATH, ARTICLE_TEMPLATE_PATH} = require('./consts')
+const {INDEX_TEMPLATE_PATH, SINGLEPAGE_TMPLE_PATH, ARTICLE_TEMPLATE_PATH, STYLE_PATH} = require('./consts')
 const fs = require('fs')
 const {join} = require('path')
 const hbs = require('handlebars')
@@ -9,6 +9,12 @@ const Repository = require('./Repository')
 
 // title は最初にヒットする h1 要素である
 const markdownTitle = (markdown) => markdown.match(/# (.+)/)[1]
+const markVerse = (html) => html.replace(/<p>((?:(?!<\/?p>)[\s\S])*)<\/p>/g, (paragraph, body) => {
+  const lines = body.split(/<br\s*\/?>\s*/)
+  if (lines.length < 2) return paragraph
+  return `<p class="verse">${lines.map((line) => `<span class="verse-line">${line}</span>`).join('')}</p>`
+})
+const markChapterNumber = (html) => html.replace(/(<h1[^>]*>)(（[^）]+）)\s*/, '$1<span class="chapter-number">$2</span>')
 const readTmpl = (tmplPath) => hbs.compile(fs.readFileSync(tmplPath, {encoding: 'utf-8'}).toString())
 const TOP_URL = 'https://christian-classics-jp.github.io/site/'
 
@@ -21,14 +27,15 @@ async function buildHtml (reposName, options = {}) {
   } = options
   const repos = new Repository(reposName)
 
-  mkdirp.sync(repos.destDir)
+  mkdirp.sync(join(repos.destDir, 'css'))
+  fs.copyFileSync(STYLE_PATH, join(repos.destDir, 'css', 'main.css'))
 
   const siteTitle = repos.title
 
   const articleNames = repos.articleNames
   const markdowns = articleNames.map(repos.readArticleMarkdown.bind(repos))
   const titles = markdowns.map(markdownTitle)
-  const htmls = markdowns.map((m) => marked(m))
+  const htmls = markdowns.map((m) => markChapterNumber(markVerse(marked(m))))
   const fileNames = articleNames.map((name) => `${name}.html`)
 
   const articleTmpl = readTmpl(ARTICLE_TEMPLATE_PATH)
@@ -40,6 +47,10 @@ async function buildHtml (reposName, options = {}) {
     title: titles[i],
     article: htmls[i],
     fileName: fileNames[i],
+    prev: {
+      title: titles[i - 1],
+      fileName: fileNames[i - 1]
+    },
     next: {
       title: titles[i + 1],
       fileName: fileNames[i + 1]
