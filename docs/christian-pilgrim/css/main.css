@@ -243,8 +243,7 @@ article strong {
 
 article em {
   font-style: normal;
-  -webkit-text-emphasis: sesame;
-  text-emphasis: sesame;
+  font-weight: 700;
 }
 
 /* chapter navigation */
