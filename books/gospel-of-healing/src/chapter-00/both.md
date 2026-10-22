@@ -18,4 +18,4 @@ We should not be surprised if it should have an important place in the greatest 
 やがて教会に訪れる最も偉大な霊的覚醒において、これが重要な位置を占めることに驚いてはなりません。疑いようもなく、これは私たちの主の再臨が近づいている希望と密接に結びついています。
 
 It is most important that it should be ever held in its true place in relation to the other parts of the Gospel. It is not the whole Gospel, nor the chief part of it, but it is a part, and in its due subordination to the whole, it will prove, like the Gospel itself, the power of God unto everyone that believeth.
-最も大切なことは、神癒を福音の他の部分との関係において正しく位置付けることです。神癒は福音全体ではありません。福音の主要部分でもありません。福音全体に従属しています。神癒が証明するのは、福音それ自体と同じように、信じる者すべてに神の力が働くという事実です。
+最も大切なことは、神癒を福音の他の部分との関係において正しく位置付けることです。神癒は福音全体ではありません。福音の主要部分でもありません。福音全体に従属しています。そうであれば神癒は、福音それ自体と同じように、すべて信じる者にとって神の力となるでしょう。
