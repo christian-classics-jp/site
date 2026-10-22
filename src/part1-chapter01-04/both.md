@@ -5,9 +5,16 @@ Then did Christian address himself to go back; and Evangelist, after he had kiss
 クリスチャンはもとの道に戻ることにした。伝道者は彼に口づけをしてほほえみ、祝福を祈った。それからクリスチャンは先を急いだ。道中、誰にも話しかけず、また誰かに話しかけられても答えなかった。まるで禁じられた地にずっと足を踏み入れている者のようで、〈世の賢者〉の助言に従うためにそれた道に再び戻るまでは、決して安心できなかった。そこからしばらく歩いて、クリスチャンは門に到着した。見上げると、こう書いてあった。
 
 『門をたたけ、そうすれば、あけてもらえるであろう』（マタイ七・七）
+// 新英文の出典は Matt 7:8 だが、引用の文言はマタイ七・七のものなので、七・七とした
 
-// 未訳：Gutenberg 版にある詩
-"He that will enter in must first without Stand knocking at the Gate, nor need he doubt That is A KNOCKER but to enter in; For God can love him, and forgive his sin."
+"He that will enter in must first without
+Stand knocking at the Gate, nor need he doubt
+That is A KNOCKER but to enter in;
+For God can love him, and forgive his sin."
+入ろうとする者は、まず外に<br/>
+立って門を叩かねばならない。叩く者なら<br/>
+入れることを疑うには及ばない。<br/>
+神は彼を愛し、その罪をゆるしてくださるのだから。
 
 He knocked, therefore, more than once or twice, saying--
 クリスチャンは門を叩いた。一度、二度、それからもう一度。
