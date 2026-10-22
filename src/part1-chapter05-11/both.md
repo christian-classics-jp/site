@@ -24,7 +24,6 @@ What if my gold be wrapped up in ore?--
 None throws away the apple for the core.
 But if thou shalt cast all away as vain,
 I know not but 'twill make me dream again.
-JOHN BUNYAN
 さて読者よ、私は自分の夢をあなたに語った。<br/>
 解き明かせるものなら、私に解き明かしてほしい。<br/>
 あるいはあなた自身に、あるいは隣人に。だが気をつけてほしい<br/>
@@ -47,5 +46,3 @@ JOHN BUNYAN
 芯があるからといって、りんごを捨てる者はいない。<br/>
 けれども、すべてを空しいものとして捨てるなら<br/>
 私はまた夢を見ることになるかもしれない。
-
-ジョン・バニヤン
