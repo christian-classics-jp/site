@@ -25,10 +25,10 @@ In more than twenty things which I set down.
 This done, I twenty more had in my crown;
 And they again began to multiply,
 Like sparks that from the coals of fire do fly.
-いきさつはこうだ。この福音の時代に<br/>
-聖徒たちの歩む道と競走について書いているうちに<br/>
-私はふと、たとえ話に入りこんでしまった<br/>
-聖徒たちの旅路と、栄光に至る道をめぐるたとえ話に。<br/>
+いきさつはこうだ。この福音の時代の<br/>
+聖徒たちが歩む道と競走について書いているうちに<br/>
+私はふと、寓意に入りこんでしまった<br/>
+聖徒たちの旅路と、栄光に至る道をめぐる寓意に。<br/>
 書きとめたことは二十を超えた。<br/>
 書き終えると、頭にはさらに二十が浮かんでいた。<br/>
 それがまた増え始めた<br/>
@@ -88,14 +88,14 @@ Some said, It might do good; others said, No.
 ほかの人々に見せて、確かめようとした<br/>
 けなされるか、認められるかを。<br/>
 ある人は「生かせ」と言い、ある人は「殺せ」と言った。<br/>
-ある人は「ジョン、出版しなさい」と言い、ほかの人は「やめておけ」と言った。<br/>
+ある人は「ジョン、出版しろ」と言い、ほかの人は「やめておけ」と言った。<br/>
 ある人は「役に立つかもしれない」と言い、ほかの人は「立たない」と言った。
 
 Now was I in a strait, and did not see
 Which was the best thing to be done by me:
 At last I thought, Since you are thus divided,
 I print it will, and so the case decided.
-さあ、私は板挟みになり<br/>
+さて、私は板ばさみになり<br/>
 どうするのがいちばんよいのか、わからなくなった。<br/>
 ついに私は思った。意見がこう分かれているのなら<br/>
 出版してしまおう。こうして事は決まった。
@@ -149,13 +149,13 @@ None can distinguish this from that: they suit
 Her well when hungry; but, if she be full,
 She spews out both, and makes their blessings null.
 このような文体で書いてはいけないのか。<br/>
-このような方法で書いて、それでいて的を外さずに<br/>
+このような方法で書いて、それでいて<br/>
 私のめあて、つまりあなたの益にかなうことはできないのか。なぜいけないのか。<br/>
 暗い雲は雨をもたらすが、明るい雲はもたらさない。<br/>
 そうだ、暗くても明るくても、銀のしずくを<br/>
 降らせさえすれば、大地は作物を実らせて<br/>
 どちらをもたたえ、どちらにも文句をつけない。<br/>
-両方が実らせたものを、ともに蓄える。<br/>
+両方がともに実らせたものを蓄える。<br/>
 そうだ、両方をすっかり混ぜ合わせるので、その実りの中で<br/>
 どれがどちらのものか、だれにも見分けられない。大地は<br/>
 飢えているときには両方を喜ぶ。だが満ち足りていれば<br/>
@@ -224,7 +224,7 @@ Some men, by feigned words, as dark as mine,
 Make truth to spangle and its rays to shine.
 「それでもまだ、すっかり納得はできない<br/>
 あなたのこの本が、厳しく試されたときに持ちこたえるとは」<br/>
-おや、何が問題なのか。「暗くてわかりにくい」と。それがどうした。<br/>
+おや、何が問題なのか。「暗くてわかりにくい」と。それがどうしたのか。<br/>
 「だが作り話だ」と。それがどうしたというのか。<br/>
 私のと同じくらい暗い作り話のことばで<br/>
 真理をきらめかせ、その光を輝かせる人もいる。
@@ -251,15 +251,15 @@ That finds the light and grace that in them be.
 たしかに、神のことを人々に書き記す者の<br/>
 筆には、堅実さがふさわしい。<br/>
 だが、比喩で語るからといって<br/>
-私に堅実さが欠けていることになるのか。神の律法は<br/>
-福音の律法は、昔、示されたではないか<br/>
+私に堅実さが欠けていることになるのか。神の律法、<br/>
+その福音の律法は、昔、示されたではないか<br/>
 型や影や比喩によって。それでも<br/>
 思慮のある人なら、それにけちをつけるのをためらう<br/>
 至高の知恵に挑みかかる者と見なされないように。いや、むしろ身をかがめて<br/>
 捜し求める。釘や輪によって<br/>
 子牛や羊によって、若い雌牛や雄羊によって<br/>
 鳥や草によって、また小羊の血によって<br/>
-神が何を語っておられるのかを。幸いなのは<br/>
+神が何を語っておられるのかを。さいわいなのは<br/>
 それらの中にある光と恵みを<br/>
 見いだす人だ。
 
@@ -340,9 +340,9 @@ The use of parables; in which lay hid
 That gold, those pearls, and precious stones that were
 Worth digging for, and that with greatest care.
 テモテが健全なことばを用い<br/>
-愚にもつかない作り話を退けるべきことは、私も知っている。<br/>
+愚にもつかない作り話を避けるべきことは、私も知っている。<br/>
 だが、謹厳なパウロも、たとえを用いることを<br/>
-どこでも彼に禁じてはいない。たとえの中には<br/>
+彼に禁じたところはどこにもない。たとえの中には<br/>
 あの金、あの真珠、あの宝石が隠されていた<br/>
 掘り出す値打ちのある、それも細心の注意を払って掘るに値するものが。
 
@@ -397,13 +397,13 @@ And he makes base things usher in divine.
 二、木のように高い身分の人々も<br/>
 問答の形で書いている。それでも、そう書いたからといって<br/>
 彼らを軽んじる者はいない。もちろん、真理を<br/>
-ゆがめるのなら、彼らはのろわれよ。そのために用いる技ものろわれよ。<br/>
+ゆがめるのなら、彼らはのろわれるがよい。そのために用いる技も、のろわれるがよい。<br/>
 だが真理には自由を与えよう。あなたや私に向かって<br/>
 打って出る自由を<br/>
 神のお望みになるやり方で。ご自分の計画のために<br/>
 私たちの思いと筆を導くすべを、私たちに初めて耕すことを教えた方より<br/>
 よく知っている者が、だれかいるだろうか。<br/>
-その方は卑しいものに、神聖なものを先導させるのだ。
+その方は卑しいものに、神聖なものの先ぶれをさせるのだ。
 
 3. I find that holy writ in many places
 Hath semblance with this method, where the cases
@@ -424,7 +424,7 @@ That pulls the strong down, and makes weak ones stand.
 さて、筆を置く前に<br/>
 私の本の益を示そう。それから<br/>
 あなたも本も、あの御手にゆだねよう<br/>
-強い者を引き倒し、弱い者を立たせる御手に。
+強い者を引きおろし、弱い者を立たせる御手に。
 
 This book it chalketh out before thine eyes
 The man that seeks the everlasting prize;
@@ -471,7 +471,7 @@ And may be, to the helpless, comforters.
 作り話の中に真理を見たいか。<br/>
 あなたは忘れっぽいか。元日から<br/>
 大みそかまで覚えていたいか。<br/>
-それなら、私の空想を読むがよい。草の実のようにくっついて離れず<br/>
+それなら、私の空想を読むがよい。オナモミの実のようにくっついて離れず<br/>
 頼る者のない人には、慰めとなるかもしれない。
 
 This book is writ in such a dialect
@@ -491,7 +491,7 @@ And find thyself again without a charm?
 Wouldst read thyself, and read thou knowest not what,
 And yet know whether thou art blest or not,
 この本は、気のない人々の心をも<br/>
-動かすような言葉づかいで書かれている。<br/>
+動かすようなことばづかいで書かれている。<br/>
 目新しく見えるが、その中にあるのは<br/>
 健全で誠実な福音の調べばかりだ。<br/>
 あなたは憂いを晴らしたいか。<br/>
@@ -501,7 +501,7 @@ And yet know whether thou art blest or not,
 骨の肉をつつくのが好きか。それとも<br/>
 雲の中に人を見て、その人が語りかけるのを聞きたいか。<br/>
 眠らずに夢の中にいたいか。<br/>
-それとも、たちまち笑ったり泣いたりしたいか。<br/>
+それとも、同じひとときに笑いもし泣きもしたいか。<br/>
 何の害も受けずに我を忘れ<br/>
 まじないなしに、また我に返りたいか。<br/>
 自分自身を読み、何とも知れないものを読み<br/>
