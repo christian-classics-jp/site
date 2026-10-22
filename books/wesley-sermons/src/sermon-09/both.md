@@ -17,7 +17,7 @@ The Spirit of Bondage and of Adoption
 2. The spirit of bondage and fear is widely distant from this loving Spirit of adoption:
 （二）　奴隷と恐れの霊は、この愛に満ちた、子たる身分を授ける霊から、遠くかけ離れています。
 Those who are influenced only by slavish fear, cannot be termed "the sons of God;"
-奴隷的な恐れだけに動かされている人々は、「神の子」と呼ばれることはできません。
+奴隷的な恐れだけに動かされている人々は、「神の子」と呼ぶことはできません。
 yet some of them may be styled his servants, and are "not far from the kingdom of heaven."
 けれども、そのうちのある人々は、神の僕と呼ばれてよいでしょう。その人々は、天国から「遠くない」のです（マルコ一二・三四）。
 
@@ -32,11 +32,11 @@ but the greater part have neither the fear of God before their eyes, nor the lov
 けれども、大部分の人々は、「目の前には、神に対する恐れがな」く（ローマ三・一八）、心のうちに神への愛もありません。
 
 4. Perhaps most of you, who, by the mercy of God, now partake of a better spirit, may remember the time when ye were as they, when ye were under the same condemnation.
-（四）　あなたがたの多くは、神のあわれみによって、今はもっと良い霊にあずかっています。そのあなたがたも、かつては彼らと同じであり、同じように罪に定められていました。その時を、おそらく覚えているでしょう。
+（四）　あなたがたの多くは、神のあわれみによって、今はもっと良い霊にあずかっています。そのあなたがたも、かつては彼らと同じであり、同じように罪に定められていました。そのときを、おそらく覚えているでしょう。
 But at first ye knew it not, though ye were wallowing daily in your sins and in your blood;
 けれども、初めはそれを知りませんでした。日ごとに罪の中に、「血の中にころがりまわって」いたのにです（エゼキエル一六・六）。
 till, in due time, ye "received the spirit of fear;" (ye received, for this also is the gift of God;)
-やがて、時が来て、あなたがたは恐れの霊を受けました。受けたと言うのは、これもまた神の賜物だからです。
+やがて、ときが来て、あなたがたは恐れの霊を受けました。受けたと言うのは、これもまた神の賜物だからです。
 and afterwards, fear vanished away, and the Spirit of love filled your hearts.
 そののち、恐れは消えうせ、愛の霊があなたがたの心を満たしたのです。
 
@@ -78,9 +78,9 @@ He is utterly ignorant of God, knowing nothing concerning him as he ought to kno
 He is totally a stranger to the law of God, as to its true, inward, spiritual meaning.
 神の律法にも、まったくうとい者です。律法の本当の、内的な、霊的な意味を知らないのです。
 He has no conception of that evangelical holiness, without which no man shall see the Lord;
-あの福音的な聖性についても、何も考えたことがありません。それなしには「だれも主を見ることはできない」聖性です（ヘブル一二・一四）。
+あの福音的な聖性についても、思いも及びません。それなしには「だれも主を見ることはできない」聖性です（ヘブル一二・一四）。
 nor of the happiness which they only find whose "life is hid with Christ in God."
-また、自分の「いのちは、キリストと共に神のうちに隠されている」人々だけが見いだす幸いについても（コロサイ三・三）、何も考えたことがありません。
+また、自分の「いのちは、キリストと共に神のうちに隠されている」人々だけが見いだす幸いについても（コロサイ三・三）、思いも及びません。
 
 2. And for this very reason, because he is fast asleep, he is, in some sense, at rest.
 （二）　まさにそのために、すなわち、ぐっすり眠っているために、その人は、ある意味で安らかです。
@@ -99,7 +99,7 @@ If not saying in his heart, "There is no God;" or, that "he sitteth on the circl
 その人は、心のうちで「神はない」と言わないかもしれません（詩篇一四・一）。あるいは、神は天の円の上に座していて、地で行われることを見おろそうとはしない、と言わないかもしれません。
 // 英文の he sitteth on the circle of the heavens, and humbleth not himself to behold the things which are done on earth は、イザヤ四〇・二二（circle of the earth）と詩篇一一三・六（humbleth himself to behold the things that are in heaven, and in the earth）を組み合わせ、not を加えた言い回し。口語訳と文言が合わないので、「」に入れず、出典を付けなかった。
 yet satisfying himself as well to all Epicurean intents and purposes, by saying, "God is merciful;"
-それでも、「神はあわれみ深い」と言って、それと少しも変わらずに満足しています。エピクロス派の考える神と、何も変わらないのです。
+それでも、「神はあわれみ深い」と言って、同じように満足しています。実質においては、エピクロス派と何も変わらないのです。
 confounding and swallowing up all at once in that unwieldy idea of mercy, all his holiness and essential hatred of sin; all his justice, wisdom, and truth.
 あわれみという、大ざっぱな考えの中に、すべてを一度にのみ込ませてしまうのです。神の聖さも、罪への本質的な憎しみも、神の正義も、知恵も、真実も、ごちゃまぜにのみ込ませてしまうのです。
 He is in no dread of the vengeance denounced against those who obey not the blessed law of God, because he understands it not.
@@ -146,7 +146,7 @@ particularly if he has large possessions; if he enjoy an affluent fortune; then 
 And so long as he thus doeth well unto himself, men will doubtless speak good of him.
 そして、このように「みずから幸な時に」は、疑いもなく、人々はその人をほめるでしょう（詩篇四九・一八）。
 They will say, "He is a happy man."
-「あの人は幸せな人だ」と言うでしょう。
+「あの人は幸いな人だ」と言うでしょう。
 For, indeed, this is the sum of worldly happiness; to dress, and visit, and talk, and eat, and drink, and rise up to play.
 実際、この世の幸いの中身は、これに尽きるからです。着飾り、訪ね合い、おしゃべりをし、食べ、飲み、「立って戯れ」ることです（出エジプト三二・六）。
 
@@ -161,14 +161,14 @@ from superstition, the disease of fools and cowards, always righteous over much;
 and from bigotry, continually incident to those who have not a free and generous way of thinking."
 偏狭からも自由だ。偏狭は、自由で寛大な考え方を持たない人々に、いつもつきまとうものだ」。
 And too sure it is, that he is altogether free from the "wisdom which cometh from above," from holiness, from the religion of the heart, from the whole mind which was in Christ.
-そして、確かにその人は、まったく自由なのです。「上からの知恵」からも（ヤコブ三・一七）、聖性からも、心の宗教からも自由です。キリストのうちにあった思いのすべてから、すっかり自由なのです。
+そして、悲しいことに、その人がまったく自由であるのは確かなのです。「上からの知恵」からも（ヤコブ三・一七）、聖性からも、心の宗教からも自由です。キリストのうちにあった思いのすべてから、すっかり自由なのです。
 
 7. For all this time he is the servant of sin.
 （七）　その間ずっと、その人は「罪の奴隷」だからです（ヨハネ八・三四）。
 He commits sin, more or less, day by day.
 日ごとに、多かれ少なかれ罪を犯しています。
 Yet he is not troubled: He "is in no bondage," as some speak; he feels no condemnation.
-それでも、心を悩ませません。ある人々の言ったように、「奴隷になったことなどは、一度もない」のです（ヨハネ八・三三）。罪に定められているとも感じません。
+それでも、心を悩ませません。ある人々の言い方を借りれば、「奴隷になったことなどは、一度もない」のです（ヨハネ八・三三）。罪に定められているとも感じません。
 He contents himself (even though he should profess to believe that the Christian Revelation is of God) with, "Man is frail. We are all weak. Every man has his infirmity."
 その人は、こう言って満足しています（キリスト教の啓示が神から出たものだと信じている、と公言していてもです）。「人間はもろいものだ。私たちはみな弱い。人にはだれでも弱さがある」。
 Perhaps he quotes Scripture: "Why, does not Solomon say, -- The righteous man falls into sin seven times a day! -- And, doubtless, they are all hypocrites or enthusiasts who pretend to be better than their neighbours."
@@ -195,7 +195,7 @@ II. 1. By some awful providence, or by his word applied with the demonstration o
 He is terribly shaken out of his sleep, and awakes into a consciousness of his danger.
 その人は、恐ろしく揺り動かされて眠りから覚め、自分の危険に気づきます。
 Perhaps in a moment, perhaps by degrees, the eyes of his understanding are opened, and now first (the veil being in part removed) discern the real state he is in.
-一瞬のうちにかもしれませんし、少しずつかもしれませんが、その人の心の目が開かれます。そして今初めて、自分が置かれている本当の状態を見分けるのです。おおいが一部取り除かれたからです（第二コリント三・一六）。
+一瞬のうちにかもしれませんし、少しずつかもしれませんが、その人の心の目が開かれます。そして今初めて、おおいが一部取り除かれて（第二コリント三・一六）、自分が置かれている本当の状態を見分けるのです。
 Horrid light breaks in upon his soul; such light, as may be conceived to gleam from the bottomless pit, from the lowest deep, from a lake of fire burning with brimstone.
 恐ろしい光が、その人の魂に差し込みます。それは、「底知れぬ所」から（黙示録二〇・一）、最も深い淵から、「硫黄の燃えている火の池」から（黙示録一九・二〇）、ほのかに照り出ると思えるような光です。
 He at last sees the loving, the merciful God is also "a consuming fire;"
@@ -233,15 +233,16 @@ of having "trodden under foot the son of God," who would have saved him from his
 また、自分が「神の子を踏みつけ」てきたことを、自覚しているからです。神の子は、その人を罪から救おうとしてくださったのにです。そして、「契約の血を汚れたもの」とし、ありふれた、きよめる力のないものと見なしてきたことを、自覚しているからです（ヘブル一〇・二九）。
 
 3. And as he knows, "all things are naked and open unto the eyes of him with whom we have to do," so he sees himself naked,
-（三）　その人は、「すべてのものは、神の目には裸であり、あらわにされている」ことを知っています（ヘブル四・一三）。そのように、自分自身も裸であることを見ます。
+（三）　その人は、「すべてのものは、神の目には裸であり、あらわにされている」ことを知っています。「この神に対して、私たちは言い開きをしなくてはならない」のです（ヘブル四・一三）。そのように、自分自身も裸であることを見ます。
 stripped of all the fig-leaves which he had sewed together, of all his poor pretenses to religion or virtue, and his wretched excuses for sinning against God.
 自分が「つづり合わせ」た「いちじくの葉」を（創世三・七）、すべてはぎ取られています。宗教や徳を装うみすぼらしい見せかけも、神に罪を犯したことへのみじめな言い訳も、すべてはぎ取られているのです。
 He now sets himself like the ancient sacrifices, cleft in sunder, as it were, from the neck downward, so that all within him stands confessed.
 今、その人は、自分を昔のいけにえのように見ます。いわば首から下まで切り裂かれ、内側のすべてがさらけ出されているのです。
+// 英文の sets himself は、sees himself の誤植と見て訳した。
 His heart is bare, and he sees it is all sin, "deceitful above all things, desperately wicked;"
 その人の心はむき出しになり、それがすべて罪であることを見ます。心は「よろずの物よりも偽るもので、はなはだしく悪に染まっている」のです（エレミヤ一七・九）。
 that it is altogether corrupt and abominable, more than it is possible for tongue to express;
-心はまったく腐敗し、忌まわしく、舌で言い表すことのできる以上です。
+心は、舌では言い表せないほど、まったく腐敗し、忌まわしいものです。
 that there dwelleth therein no good thing, but unrighteousness and ungodliness only;
 そこには「善なるものが宿っていない」こと（ローマ七・一八）、ただ不義と不信心だけがあることを見ます。
 every motion thereof, every temper and thought, being only evil continually.
@@ -387,7 +388,7 @@ my mind, my conscience is on God's side;
 10. How lively a portraiture is this of one "under the law;" one who feels the burden he cannot shake off;
 （一〇）　これは、「律法の下にある」人の、なんと生き生きとした肖像でしょうか。振り払うことのできない重荷を感じている人の肖像です。
 who pants after liberty, power, and love, but is in fear and bondage still! until the time that God answers the wretched man, crying out, "Who shall deliver me" from this bondage of sin, from this body of death -- "The grace of God, through Jesus Christ thy Lord."
-自由と力と愛とを慕いあえぎながら、なお恐れと奴隷の状態の中にいる人の肖像です！　そのみじめな人は、「だれが」、この罪の奴隷の状態から、「この死のからだから、私を救ってくれるでしょうか」と叫びます。神がその人に、あなたの主イエス・キリストによる神の恵みが救う、と答えてくださるときまで、そうなのです。
+自由と力と愛とを慕いあえぎながら、なお恐れと奴隷の状態の中にいる人の肖像です！　そのみじめな人は、「だれが」、この罪の奴隷の状態から、「この死のからだから、私を救ってくれるでしょうか」と叫びます（ローマ七・二四）。神がその人に、あなたの主イエス・キリストによる神の恵みが救う、と答えてくださるときまで、そうなのです。
 // 欽定訳のローマ七・二五 I thank God through Jesus Christ our Lord は、口語訳では「わたしたちの主イエス・キリストによって、神は感謝すべきかな」。ウェスレーは写本の異読 The grace of God に従い、神の答えとして thy Lord としている。英文から訳し、「」に入れず、出典を付けなかった。
 
 ## 【三】　恵みの下にある人の状態
@@ -454,9 +455,9 @@ Here ends also that bondage unto fear; for "his heart standeth fast, believing i
 ここで、あの恐れをいだかせる奴隷の状態も終わります。「その心は主に信頼してゆるがない」からです（詩篇一一二・七）。
 // 英文は、祈祷書の詩篇一一二・七（his heart standeth fast, and believeth in the Lord）による。口語訳とほぼ同じ内容なので、口語訳を引いた。
 He cannot fear any longer the wrath of God; for he knows it is now turned away from him, and looks upon Him no more as an angry Judge, but as a loving Father.
-その人は、もはや神の怒りを恐れることができません。その怒りが今は自分から離れ去ったことを、知っているからです。神を、もはや怒れる審判者としてではなく、愛に満ちた父として仰ぐからです。
+その人は、もはや神の怒りを恐れることはありません。その怒りが今は自分から離れ去ったことを、知っているからです。神を、もはや怒れる審判者としてではなく、愛に満ちた父として仰ぐからです。
 He cannot fear the devil, knowing he has "no power, except it be given him from above."
-悪魔を恐れることもできません。悪魔は、「上から賜わるのでなければ」、「なんの権威もない」と知っているからです（ヨハネ一九・一一）。
+悪魔を恐れることもありません。悪魔は、「上から賜わるのでなければ」、「なんの権威もない」と知っているからです（ヨハネ一九・一一）。
 He fears not hell; being an heir of the kingdom of heaven:
 地獄も恐れません。天の御国の世継ぎだからです。
 Consequently, he has no fear of death; by reason whereof he was in time past, for so many years, "subject to bondage."
@@ -468,7 +469,7 @@ he groaneth earnestly, desiring to be clothed upon with that house which is from
 He groans to shake off this house of earth, that "mortality" may be "swallowed up of life;"
 この地上の家を脱ぎ捨てたいと、うめいています。「死ぬべきものがいのちにのまれてしまう」ためです（第二コリント五・四）。
 knowing that God "hath wrought him for the self-same thing; who hath also given him the earnest of his Spirit."
-その人を「この事にかなう者にしてくださったのは、神」であり、「神はその保証として御霊を」その人に「賜わった」ことを、知っているからです（第二コリント五・五）。
+その人は知っているからです。その人を「この事にかなう者にしてくださったのは、神」です。「神はその保証として御霊を」その人に「賜わった」のです（第二コリント五・五）。
 
 5. And "where the Spirit of the Lord is, there is liberty;"
 （五）　そして、「主の霊のあるところには、自由があります」（第二コリント三・一七）。
@@ -481,7 +482,7 @@ The snare is broken, and he is delivered.
 He not only strives, but likewise prevails; he not only fights, but conquers also.
 その人は、努めるだけでなく、勝ちを得ます。戦うだけでなく、打ち勝ちもするのです。
 "Henceforth he does not serve sin." (Chap. 6:6 &c.)
-その人は、「もはや、罪の奴隷となることがない」のです（ローマ六・六以下）。
+その人は、「もはや、罪の奴隷となることがない」のです（ローマ六・六）。
 He is "dead unto sin, and alive unto God;"
 その人は、「罪に対して死んだ者であり」、「神に生きている者」です（ローマ六・一一）。
 "sin doth not now reign," even "in his mortal body," nor doth he "obey it in the desires thereof."
@@ -522,7 +523,7 @@ The Heathen, baptized or unbaptized, hath a fancied liberty, which is indeed lic
 the Jew, or one under the Jewish dispensation, is in heavy, grievous bondage;
 ユダヤ人、すなわちユダヤ教の制度の下にある人は、重い、つらい奴隷の状態にあります。
 the Christian enjoys the true glorious liberty of the sons of God.
-クリスチャンは、「神の子たちの」まことの「栄光の自由」を楽しんでいます。
+クリスチャンは、「神の子たちの」まことの「栄光の自由」を楽しんでいます（ローマ八・二一）。
 An unawakened child of the devil sins willingly, one that is awakened sins unwillingly;
 目覚めていない悪魔の子は、自ら進んで罪を犯します。目覚めた人は、心ならずも罪を犯します。
 a child of God "sinneth not," but "keepeth himself, and the wicked one toucheth him not."
@@ -540,7 +541,7 @@ the man under grace fights and conquers, yea, is "more than conqueror, through h
 IV. 1. From this plain account of the three-fold state of man, the natural, the legal, and the evangelical, it appears that it is not sufficient to divide mankind into sincere and insincere.
 （一）　人の三つの状態、すなわち生れながらの状態、律法の状態、福音の状態について、ありのままに述べてきました。ここから明らかなように、人類を誠実な者と不誠実な者とに分けるだけでは十分ではありません。
 A man may be sincere in any of these states; not only when he has the "Spirit of adoption," but while he has the "spirit of bondage unto fear;" yea, while he has neither this fear, nor love.
-人は、これらのどの状態においても誠実でありえます。「子たる身分を授ける霊」を持っているときだけでなく、「恐れをいだかせる奴隷の霊」を持っている間も、そうです。いや、この恐れも愛も持っていない間でさえ、誠実でありえるのです。
+人は、これらのどの状態においても誠実でありえます。「子たる身分を授ける霊」を持っているときだけでなく、「恐れをいだかせる奴隷の霊」を持っている間も、そうです（ローマ八・一五）。いや、この恐れも愛も持っていない間でさえ、誠実でありうるのです。
 For undoubtedly there may be sincere Heathens, as well as sincere Jews, or Christians.
 疑いもなく、誠実なユダヤ人や誠実なクリスチャンがいるのと同じように、誠実な異邦人もいるからです。
 This circumstance, them does by no means prove, that, a man is in a state of acceptance with God.
@@ -578,14 +579,14 @@ If unwillingly, still thou art his servant. God deliver thee out of his hands!
 Art thou daily fighting against all sin And daily more than conqueror I acknowledge thee for a child of God. O stand fast in thy glorious liberty! Art thou fighting, but not conquering striving for the mastery, but not able to attain Then thou art not yet a believer in Christ; but follow on, and thou shalt know the Lord.
 あなたは日ごとに、あらゆる罪と戦っていますか。そして日ごとに、「勝ち得て余りがある」でしょうか（ローマ八・三七）。それなら、私はあなたを神の子と認めます。ああ、あなたの栄光ある自由のうちに堅く立ちなさい！　あなたは戦っているけれども、打ち勝っていないのですか。勝利を得ようと努めているけれども、得ることができないのですか。それなら、あなたはまだキリストを信じる者ではありません。けれども、追い求めて行きなさい。そうすれば、主を知るようになるでしょう。
 Art thou not fighting at all, but leading an easy, indolent, fashionable life! O how hast thou dared to name the name of Christ, only to make it a reproach among the Heathen Awake, thou sleeper! Call upon thy God before the deep swallow thee up!
-それとも、あなたはまったく戦わず、気楽な、怠惰な、流行に従う生活を送っているのですか。ああ、あなたはどうして、キリストの名を名のりながら、その名を異邦人の間で辱めるようなことをしてきたのですか。「眠っている者よ、起きなさい」（エペソ五・一四）。「淵が」あなたを「のむ」前に（詩篇六九・一五）、「あなたの神に呼ばわりなさい」（ヨナ一・六）。
+それとも、あなたはまったく戦わず、気楽な、怠惰な、流行に従う生活を送っているのですか。ああ、あなたはよくも、キリストの名を名のってきたものです。ただ、その名を異邦人の間で辱めるためにです。眠っている者よ、「起きて」、「淵が」あなたを「のむ」前に（詩篇六九・一五）、「あなたの神に呼ばわりなさい」（ヨナ一・六）。
 
 2. Perhaps one reason why so many think of themselves more highly than they ought to think, why they do not discern what state they are in, is because these several states of soul are often mingled together, and in some measure meet in one and the same person.
 （二）　多くの人が、「思うべき限度を越えて思いあが」り（ローマ一二・三）、自分がどんな状態にあるかを見分けないのは、なぜでしょうか。その理由の一つは、おそらく、魂のこれらの状態が、しばしば混じり合っていることでしょう。ある程度まで、一人の同じ人のうちに同時にあるのです。
 Thus experience shows, that the legal state, or state of fear, is frequently mixed with the natural;
 たとえば、経験の示すところでは、律法の状態、すなわち恐れの状態は、しばしば生れながらの状態と混じり合っています。
 for few men are so fast asleep in sin, but they are sometimes more or less awakened.
-罪の中にぐっすり眠っていても、ときには多かれ少なかれ目覚めることのない人は、ほとんどいないからです。
+罪の中でどれほどぐっすり眠っている人でも、ときには多かれ少なかれ目を覚ますものだからです。
 As the Spirit of God does not "wait for the call of man," so, at some times he will be heard.
 神の御霊は、人に呼ばれるのを待たれません。そのように、ときには、御霊はご自分の声を聞かせられます。
 // 英文の wait for the call of man は、ミカ五・七の欽定訳 nor waiteth for the sons of men による言い回し（口語訳「人の子らを待たずに」）。文言が合わないので、「」に入れず、出典を付けなかった。
@@ -617,7 +618,7 @@ and hereby they are encouraged to "run with patience the race which is set befor
 そして、これによって励まされ、「参加すべき競走を、耐え忍んで走りぬ」こうとするのです（ヘブル一二・一）。
 
 3. Another reason why many deceive themselves, is, because they do not consider how far a man may go, and yet be in a natural, or, at best, a legal state.
-（三）　多くの人が自分を欺くもう一つの理由は、こういうことです。人はどこまで進んでも、なお生れながらの状態に、よくても律法の状態にとどまりうる。そのことを考えないのです。
+（三）　多くの人が自分を欺くもう一つの理由は、こういうことです。人はかなり先まで進んでいながら、なお生れながらの状態に、よくても律法の状態にとどまっていることがありえます。そのことを考えないのです。
 A man may be of a compassionate and a benevolent temper; he may be affable, courteous, generous, friendly;
 人は、あわれみ深い、慈悲深い気質を持っているかもしれません。人当たりがよく、礼儀正しく、気前がよく、友好的であるかもしれません。
 he may have some degree of meekness, patience, temperance, and of many other moral virtues.
@@ -627,7 +628,7 @@ He may feel many desires of shaking off all vice, and of attaining higher degree
 He may abstain from much evil; perhaps from all that is grossly contrary to justice, mercy, or truth.
 多くの悪を避けるかもしれません。正義やあわれみや真実にはなはだしく反することは、すべて避けるかもしれません。
 He may do much good, may feed the hungry, clothe the naked, relieve the widow and fatherless.
-多くの善を行い、飢えた者に食べさせ、裸の者に着せ（マタイ二五・三五〜三六）、やもめや孤児を助けるかもしれません（ヤコブ一・二七）。
+多くの善を行い、飢えた者に食べさせ、裸の者に着せ（マタイ二五・三五〜三六）、やもめや孤児を見舞うかもしれません（ヤコブ一・二七）。
 He may attend public worship, use prayer in private, read many books of devotion;
 公の礼拝に出席し、ひそかに祈り、多くの信仰書を読むかもしれません。
 and yet, for all this, he may be a mere natural man, knowing neither himself nor God;
@@ -642,7 +643,7 @@ vehement desires to cast off every sin, and to fulfill all righteousness;
 frequent rejoicing in hope, and touches of love often glancing upon the soul;
 たびたび「望みをいだいて喜び」（ローマ一二・一二）、愛のひらめきがしばしば魂に触れたとしましょう。
 yet neither do these prove a man to be under grace; to have true, living, Christian faith, unless the Spirit of adoption abide in his heart, unless he can continually cry, "Abba, Father!"
-それでも、これらは、その人が恵みの下にあること、まことの、生きた、クリスチャンの信仰を持っていることを、証明しません。子たる身分を授ける霊がその人の心にとどまっていなければ、また、絶えず「アバ、父よ」と呼ぶことができなければ、証明しないのです。
+それでも、これらは、その人が恵みの下にあること、まことの、生きた、クリスチャンの信仰を持っていることを、証明しません。子たる身分を授ける霊がその人の心にとどまり、絶えず「アバ、父よ」と呼ぶことができるのでなければ、証明しないのです。
 
 4. Beware, then, thou who art called by the name of Christ, that thou come not short of the mark of thy high calling.
 （四）　ですから、キリストの名で呼ばれているあなたよ、気をつけなさい。「上に召してくださる」その召しの目標に（ピリピ三・一四）、達しそこなうことのないようにしなさい。
