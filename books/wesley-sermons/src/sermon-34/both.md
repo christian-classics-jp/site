@@ -28,7 +28,7 @@ So then if, while her husband liveth, she be married to another man, she shall b
 From this particular instance the Apostle proceeds to draw that general conclusion: "Wherefore, my brethren," by a plain parity of reason, "ye also are become dead to the law," the whole Mosaic institution, "by the body of Christ," offered for you, and bringing you under a new dispensation:
 使徒は、この一つの例から進んで、あの一般的な結論を引き出します。「わたしの兄弟たちよ。このように」、明らかに同じ理屈によって、「あなたがたも、キリストのからだをとおして、律法に対して死んだのです」（ローマ七・四）。この律法とは、モーセの制度全体のことです。キリストのからだは、あなたがたのためにささげられ、あなたがたを新しい制度のもとに置きました。
 "That ye should" without any blame "be married to another, even to him who is raised from the dead;" and hath thereby given proof of his authority to make the change; "that we should bring forth fruit unto God."
-「それは、あなたがたが」何のとがめも受けずに「他の人、すなわち、死人の中からよみがえられたかたのもの」となるためです（ローマ七・四）。この方は、よみがえりによって、この変更をする権威を示されました。さらに、それは「こうして、わたしたちが神のために実を結ぶに至るためなのです」（ローマ七・四）。
+「それは、あなたがたが」何のとがめも受けずに「他の人、すなわち、死人の中からよみがえられたかたのもの」となるためです（ローマ七・四）。この方は、よみがえりによって、この変更をする権威を示されました。それはまた、「わたしたちが神のために実を結ぶに至るためなのです」（ローマ七・四）。
 And this we can do now, whereas before we could not:
 以前はできなかったこのことが、今はできるのです。
 "for when we were in the flesh" -- under the power of the flesh, that is, of corrupt nature, which was necessarily the case till we knew the power of Christ's resurrection, "the motions of sins, which were by the law," -- which were shown and inflamed by the Mosaic law, not conquered, "did work in our members," -- broke out various ways, "to bring forth fruit unto death."
@@ -40,7 +40,7 @@ And this we can do now, whereas before we could not:
 それは、私たちのために死んでよみがえられた方に、「新しい霊によって」、すなわち新しい霊的な制度において「仕え」るためです（ローマ七・六）。「古い文字によってではなく」、すなわちモーセの制度の文字に従った、ただ外的な奉仕によってではありません（ローマ七・六）。
 
 3. The Apostle, having gone thus far in proving that the Christian had set aside the Jewish dispensation, and that the moral law itself, though it could never pass away, yet stood on a different foundation from what it did before, -- now stops to propose and answer an objection:
-（三）　使徒は、ここまで論証を進めてきました。クリスチャンはユダヤ教の制度をわきに置いたことを、論証してきたのです。また、道徳律法そのものも、決して過ぎ去ることはありえないとはいえ、以前とは違う土台の上に立っていることを、論証してきたのです。そして今、立ち止まって、一つの反論を持ち出し、それに答えます。
+（三）　使徒は、ここまで論証を進めてきました。キリスト教の制度がユダヤ教の制度を廃したことを、論証してきたのです。また、道徳律法そのものは、決して過ぎ去ることはありえないとはいえ、以前とは違う土台の上に立っていることも、論証しました。そして今、立ち止まって、一つの反論を持ち出し、それに答えます。
 "What shall we say then Is the law sin"
 「それでは、わたしたちは、なんと言いましょうか。律法は罪なのでしょうか」（ローマ七・七）。
 So some might infer from a misapprehension of those words, "the motions of sins, which were by the law."
@@ -73,11 +73,11 @@ I. 1. I shall, first, endeavour to show the original of the moral law, often cal
 Now this is not, as some may have possibly imagined, of so late an institution as the time of Moses.
 さて、この律法は、ある人々が想像したかもしれないように、モーセの時代になってようやく定められたものではありません。
 Noah declared it to men long before that time, and Enoch before him.
-ノアは、その時よりずっと前に、これを人々に告げ知らせました。ノアより前には、エノクが告げ知らせました。
+ノアは、そのときよりずっと前に、これを人々に告げ知らせました。ノアより前には、エノクが告げ知らせました。
 But we may trace its original higher still, even beyond the foundation of the world:
 けれども、その起源は、さらにさかのぼり、世の基が置かれる前にまでたどることができます。
 to that period, unknown indeed to men, but doubtless enrolled in the annals of eternity, when "the morning stars" first "sang together," being newly called into existence.
-それは、人には知られていないものの、疑いなく永遠の年代記にしるされている時です。そのとき、新たに存在へと呼び出された「明けの星」が、初めて「相共に歌」いました（ヨブ三八・七）。
+それは、人には知られていないものの、疑いなく永遠の年代記にしるされているときです。そのとき、新たに存在へと呼び出された「明けの星」が、初めて「相共に歌」いました（ヨブ三八・七）。
 It pleased the great Creator to make these, his first-born sons, intelligent beings, that they might know him that created them.
 偉大な創造者は、これらの者を、すなわちご自分の長子たちを、知性を持つ者として造ることをよしとされました。彼らが、自分を造られた方を知るためです。
 For this end he endued them with understanding, to discern truth from falsehood, good from evil; and, as a necessary result of this, with liberty, -- a capacity of choosing the one and refusing the other.
@@ -93,16 +93,16 @@ seeing every instance of obedience to that law would both add to the perfection 
 その律法に一つ従うたびに、彼らの性質の完全さが増し、またいっそう高い報いを受ける資格が与えられるからです。その報いは、正しい審判者が、時が来れば与えてくださるものでした。
 
 3. In like manner, when God, in his appointed time, had created a new order of intelligent beings, when he had raised man form the dust of the earth, breathed into him the breath of life, and caused him to become a living soul, endued with power to choose good or evil;
-（三）　同じように、神は、定めた時に、知性を持つ者の新しい種族を造られました。土のちりから人を起こし、いのちの息を吹きいれて、生きた者とされました（創世記二・七）。善と悪とを選ぶ力を授けられた者としてです。
+（三）　同じように、神は、定められたときに、知性を持つ者の新しい種族を造られました。土のちりから人を起こし、いのちの息を吹きいれて、生きた者とされました（創世記二・七）。善と悪とを選ぶ力を授けられた者としてです。
 he gave to this free, intelligent creature the same law as to his first-born children, -- not wrote, indeed, upon tables of stone, or any corruptible substance, but engraven on his heart by the finger of God;
 そのとき、神は、この自由で知性を持つ被造物に、長子たちに与えたのと同じ律法を与えられました。もっとも、それは石の板や、朽ちる何かの物質に書かれたのではありません。神の指によって人の心に刻まれたのです。
 wrote in the inmost spirit both of men and of angels; to the intent it might never be far off, never hard to be understood, but always at hand, and always shining with clear light, even as the sun in the midst of heaven.
-それは、人と御使との霊のいちばん奥に書かれました。律法が決して遠いものでも、わかりにくいものでもなく（申命記三〇・一一）、いつも手近にあって、中天の太陽のように、いつも澄んだ光で輝いているためです。
+それは、人と御使との霊のいちばん奥に書かれました。律法が決して遠いものでも、わかりにくいものでもない（申命記三〇・一一）ためです。いつも手近にあって、中天の太陽のように、いつも澄んだ光で輝いているためです。
 
 4. Such was the original of the law of God.
 （四）　神の律法の起源は、このようなものでした。
 With regard to man, it was coeval with his nature; but with regard to the elder sons of God, it shone in its full splendour "or ever the mountains were brought forth, or the earth and the round world were made."
-人について言えば、律法は人の性質と同じ時に始まりました。けれども、神の年長の子らについて言えば、律法はもっと前から、その輝きを余すところなく放っていました。「山がまだ生れず」、地と世界とがまだ「造られなかったとき」（詩篇九〇・二）に、すでに輝いていたのです。
+人について言えば、律法は人の性質と同じときに始まりました。けれども、神の年長の子らについて言えば、律法はもっと前から、その輝きを余すところなく放っていました。「山がまだ生れず」、地と世界とがまだ「造られなかったとき」（詩篇九〇・二）に、すでに輝いていたのです。
 // 英文の詩篇九〇・二 は祈祷書の詩篇。口語訳の「あなたが」は英文にないので「」の外で訳した。
 But it was not long before man rebelled against God, and, by breaking this glorious law, wellnigh effaced it out of his heart;
 けれども、まもなく人は神にそむき、この栄光ある律法を破って、自分の心からそれをほとんど消し去ってしまいました。
@@ -122,12 +122,12 @@ But, notwithstanding this light, all flesh had, in process of time, "corrupted t
 till he chose out of mankind a peculiar people, to whom he gave a more perfect knowledge of his law;
 そこで、ついに神は人々の中から一つの特別な民を選び、ご自分の律法についてのいっそう完全な知識をお与えになりました。
 and the heads of this, because they were slow of understanding, he wrote on two tables of stone, which he commanded the fathers to teach their children, through all succeeding generations.
-そして、この民は悟りが鈍かったので、律法の要点を二枚の石の板に書かれました。そして父たちに、後に続くすべての世代にわたって、それを子供たちに教えるよう命じられました。
+そして、この民は悟りが鈍かったので、律法の要点を二枚の石の板に書かれました。また、父たちに、後に続くすべての世代にわたって、それを子供たちに教えるよう命じられました。
 
 6. And thus it is, that the law of God is now made known to them that know not God.
 （六）　こうして今、神を知らない人々にも、神の律法が知らされているのです。
 They hear, with the hearing of the ear, the things that were written aforetime for our instruction.
-彼らは、私たちの教のために、これまでに書かれた事がら（ローマ一五・四）を、耳で聞いています。
+彼らは、私たちの教えのために、これまでに書かれた事がら（ローマ一五・四）を、耳で聞いています。
 But this does not suffice: they cannot, by this means, comprehend the height, and depth, and length, and breadth thereof.
 けれども、これでは十分ではありません。彼らは、これによって律法の高さ、深さ、長さ、広さ（エペソ三・一八）を理解することはできないのです。
 God alone can reveal this by his Spirit.
@@ -162,7 +162,7 @@ It is true, the word is sometimes so understood; as when the Apostle says, speak
 But it cannot be so understood in the text; for the Apostle never bestows so high commendations as these upon that imperfect and shadowy dispensation.
 けれども、この聖句では、そのように理解することはできません。使徒は、あの不完全で影のような制度に、これほど高い賛辞を与えることは決してないからです。
 He nowhere affirms the Mosaic to be a spiritual law; or, that it is holy, and just, and good.
-使徒は、モーセの制度が霊的な律法であるとも、それが聖であって、正しく、かつ善なるものであるとも、どこにも言っていません。
+使徒は、モーセの制度が霊的な律法である（ローマ七・一四）とも、それが聖であって、正しく、かつ善なるもの（ローマ七・一二）であるとも、どこにも言っていません。
 Neither is it true, that God will write that law in the hearts of those whose iniquities he remembers no more.
 また、神が、もはやその罪を思い出されない人々（ヘブル八・一二）の心に、その律法を書きしるされる、というのも本当ではありません。
 It remains, that "the law," eminently so termed, is no other than the moral law.
@@ -199,7 +199,7 @@ What is it but the original ideas of truth and good, which were lodged in the un
 5. If we survey the law of God in another point of view, it is supreme, unchangeable reason; it is unalterable rectitude, it is the everlasting fitness of all things that are or ever were created.
 （五）　神の律法を別の視点から眺めるなら、それは至高の、変わることのない理性です。変えることのできない正しさです。存在するもの、またかつて造られたすべてのものの、永遠の適合性です。
 I am sensible, what a shortness, and even impropriety, there is, in these and all other human expressions, when we endeavour by these faint pictures to shadow out the deep things of God.
-私たちは、こうしたかすかな絵で、神の深み（第一コリント二・一〇）を描き出そうと努めます。そのとき、これらの言葉にも、人間のほかのあらゆる言葉にも、どれほど足りないところがあり、不適切なところさえあるかを、私はわきまえています。
+私たちは、こうしたかすかな絵で、神の深み（第一コリント二・一〇）を描き出そうと努めます。そのとき、これらの言葉にも、人間のほかのどんな言葉にも、どれほど足りないところがあるかを、私はわきまえています。不適切なところさえあるのです。
 Nevertheless, we have no better, indeed no other way, during this our infant state of existence.
 それでも、私たちがこの幼な子のような状態にある間は、これよりよい道はありません。いや、ほかに道はないのです。
 As we now "know" but "in part," so we are constrained to "prophesy," that is, speak of the things of God, "in part" also.
@@ -212,7 +212,7 @@ While I am "a child," I must "speak as a child:" but I shall soon "put away chil
 6. But to return.
 （六）　話をもとに戻しましょう。
 The law of God (speaking after the manner of men) is a copy of the eternal mind, a transcript of the divine nature:
-人間的な言い方をするなら（ローマ六・一九）、神の律法は、永遠の御心の写しであり、神の本性の写本です。
+人間的な言い方をするなら（ローマ六・一九）、神の律法は、永遠の知性の写しであり、神の本性の写本です。
 Yea, it is the fairest offspring of the everlasting Father, the brightest efflux of his essential wisdom, the visible beauty of the Most High.
 そうです、それは、永遠の父の最も美しい子であり、父の本質である知恵の最も輝かしい流出であり、いと高き方の目に見える美しさです。
 It is the delight and wonder of cherubim and seraphim, and all the company of heaven, and the glory and joy of every wise believer, every well-instructed child of God upon earth.
@@ -253,7 +253,7 @@ As sin is, in its very nature, enmity to God, so his law is enmity to sin.
 罪がその本性からして神に敵するものであるように、神の律法は罪に敵するものです。
 
 4. Therefore it is that the Apostle rejects with such abhorrence that blasphemous supposition, that the law of God is either sin itself, or the cause of sin.
-（四）　ですから、使徒は、神の律法が罪そのものであるとか、罪の原因であるとかいう、冒涜的な想定を、これほどの嫌悪をもって退けるのです。
+（四）　ですから、使徒は、ある冒涜的な想定を、これほどの嫌悪をもって退けるのです。神の律法が罪そのものである、あるいは罪の原因である、という想定です。
 God forbid that we should suppose it is the cause of sin, because it is the discoverer of it; because it detects the hidden things of darkness, and drags them out into open day.
 律法が罪を見つけ出すからといって、律法を罪の原因だと考えることなど、決してあってはなりません。律法が、やみに隠れたことを見破り、白日のもとに引き出すからといって、そう考えてはならないのです。
 It is true, by this means (as the Apostle observes, Rom. 7:13,) "sin appears to be sin."
@@ -269,7 +269,7 @@ Yea, and it is true, that "sin worketh death by that which is good;" which in it
 When it is dragged out to light, it rages the more: when it is restrained, it bursts out with greater violence.
 罪は、明るみに引き出されると、いっそう荒れ狂います。抑えられると、いっそう激しく噴き出します。
 Thus the Apostle (speaking in the person of one who was convinced of sin, but not yet delivered from it,) "Sin, taking occasion by the commandment" detecting and endeavouring to restrain it, disdained the restraint, and so much the more "wrought in me all manner of concupiscence" (Rom. 7:8;) all manner of foolish and hurtful desire, which that commandment sought to restrain.
-こうして使徒は、罪を自覚しながら、まだそこから解放されていない人の立場で語ります。「罪は戒めによって機会を捕え」たのです（ローマ七・八）。その戒めは、罪を見破り、抑えようとするものでした。罪はその抑えをあなどって、なおさら「わたしの内に働いて、あらゆるむさぼりを起させ」ました（ローマ七・八）。すなわち、あらゆる愚かで有害な欲を起させたのです。それは、あの戒めが抑えようとした欲でした。
+こうして使徒は、罪を自覚しながら、まだそこから解放されていない人の立場で語ります。「罪は戒めによって機会を捕え」たのです（ローマ七・八）。その戒めは、罪を見破り、抑えようとするものでした。罪はその抑えをあなどって、なおさら「わたしの内に働いて、あらゆるむさぼりを起させ」ました（ローマ七・八）。すなわち、あらゆる愚かで有害な欲を起こさせたのです。それは、あの戒めが抑えようとした欲でした。
 Thus, "when the commandment came, sin revived" (Rom. 7:9;) it fretted and raged the more.
 こうして、「戒めが来るに及んで、罪は生き返」りました（ローマ七・九）。罪はいっそういら立ち、荒れ狂ったのです。
 But this is no stain on the commandment.
@@ -296,7 +296,7 @@ It is exactly agreeable to the fitnesses of things, whether essential or acciden
 It clashes with none of these in any degree; nor is ever unconnected with them.
 律法は、そのどれとも少しも衝突しません。また、そのどれとも無関係であることはありません。
 If the word be taken in that sense, there is nothing arbitrary in the law of God.
-その言葉をそういう意味にとるなら、神の律法には、恣意的なものは何もありません。
+恣意的という言葉を、ものごとと無関係という意味にとるなら、神の律法には、恣意的なものは何もありません。
 Although still the whole and every part thereof is totally dependent upon his will; so that, "Thy will be done," is the supreme, universal law both in earth and heaven.
 とはいえ、律法の全体もその一部分も、すべてまったく神の御旨にかかっています。ですから、「みこころが」「行われますように」（マタイ六・一〇）ということが、地においても天においても、至高の、普遍の律法なのです。
 
@@ -334,7 +334,7 @@ By his will, "for his pleasure" alone, they all "are and were created."
 // for his pleasure は、口語訳では「御旨によって」。英文がこの句を by his will と重ねて言うので、「」の外で訳した。
 
 9. And yet it may be granted (which is probably all that a considerate person would contend for,) that in every particular case, God wills this or this (suppose, that men should honour their parents,) because it is right, agreeable to the fitness of things, to the relation wherein they stand.
-（九）　それでも、次のことは認めてよいでしょう。おそらく、思慮深い人が主張したいのは、これだけでしょう。すなわち、一つ一つの場合において、神がこのこと、あるいはあのこと（たとえば、人が父母を敬うこと）を望まれるのは、それが正しいからだ、ということです。それが、ものごとの適合性に、すなわち、人が置かれている関係にかなっているからです。
+（九）　それでも、次のことは認めてよいでしょう。おそらく、思慮深い人が主張したいのは、これだけでしょう。すなわち、一つ一つの場合において、神がこのこと、あるいはあのことを望まれるのは、それが正しいからだ、ということです。たとえば、人が父母を敬うことがそうです。それが、ものごとの適合性に、すなわち、人が置かれている関係にかなっているからです。
 
 10. The law, then, is right and just concerning all things.
 （一〇）　こうして、律法は、すべてのことについて正しく、公正です。
@@ -458,15 +458,15 @@ It is the grand means whereby the blessed Spirit prepares the believer for large
 律法は、ほむべき御霊が、神のいのちをさらに豊かに分け与えるために、信者を備えさせる大いなる手段です。
 
 I am afraid this great and important truth is little understood, not only by the world, but even by many whom God hath taken out of the world, who are real children of God by faith.
-この大切で重要な真理は、世の人々にだけでなく、神が世から取り出された多くの人々にさえ、ほとんど理解されていないのではないかと思います。彼らは、信仰による本当の神の子たちなのですが。
+この大切で重要な真理は、ほとんど理解されていないのではないかと思います。世の人々にだけでなく、神が世から取り出された多くの人々にさえ、そうなのです。彼らは、信仰による本当の神の子たちなのですが。
 Many of these lay it down as an unquestioned truth, that when we come to Christ, we have done with the law; and that, in this sense, "Christ is the end of the law to every one that believeth."
 その多くの人々は、疑う余地のない真理として、こう決めてかかっています。私たちはキリストのもとに来たとき、律法とは縁が切れたのだ、そしてこの意味で、「キリストは、すべて信じる者に」「律法の終り」なのだ（ローマ一〇・四）、と。
 "The end of the law:" so he is, "for righteousness," for justification, "to every one that believeth."
-「律法の終り」（ローマ一〇・四）。確かにキリストはそうです。「すべて信じる者に義を得させるために」、すなわち義認のために、律法の終りとなられたのです（ローマ一〇・四）。
+「律法の終り」（ローマ一〇・四）。確かにキリストはそうです。「すべて信じる者に義を得させるために」、すなわち義認のために、「律法の終りとなられた」のです（ローマ一〇・四）。
 Herein the law is at an end.
 この点で、律法は終わっています。
 It justifies none, but only brings them to Christ; who is also, in another respect, the end or scope of the law, -- the point at which it continually aims.
-律法はだれをも義としません。ただ人々をキリストのもとに連れて行くだけです。そして、キリストはまた、別の点でも律法の終り、すなわち目標です。律法が絶えず目ざしている的なのです。
+律法はだれをも義としません。ただ人々をキリストのもとに連れて行くだけです。そして、キリストはまた、別の点でも律法の終わり、すなわち目標です。律法が絶えず目ざしている的なのです。
 But when it has brought us to him it has yet a farther office, namely, to keep us with him.
 けれども、律法は私たちをキリストのもとに連れて行ったあとにも、なお務めを持っています。私たちをキリストのもとにとどめておくことです。
 For it is continually exciting all believers, the more they see of its height, and depth, and length, and breadth, to exhort one another so much the more, --
@@ -496,17 +496,17 @@ and, Thirdly, in confirming our hope of whatsoever it commands and we have not y
 第三に、律法が命じていながら私たちがまだ達していないことについて、私たちの望みを確かにするのに役立ちます。すなわち、キリストの約束の満ちあふれるものを実際に手にするまで、恵みに恵みを（ヨハネ一・一六）受けるという望みです。
 
 5. How clearly does this agree with the experience of every true believer!
-（五）　このことは、本当の信者すべての経験と、何とはっきり一致することでしょう！
+（五）　このことは、本当の信者すべての経験と、何とはっきり一致していることでしょう。
 While he cries out, "O what love have I unto thy law! all the day long is my study in it;" he sees daily, in that divine mirror, more and more of his own sinfulness.
 信者は、「いかにわたしはあなたのおきてを愛することでしょう。わたしはひねもすこれを深く思います」（詩篇一一九・九七）と叫びます。そう叫びながら、あの神の鏡のうちに、自分の罪深さを日ごとにますます見ていくのです。
 // 英文の詩篇一一九・九七 は祈祷書の詩篇。口語訳とほぼ同じ意味なので口語訳で引いた。
 He sees more and more clearly, that he is still a sinner in all things, -- that neither his heart nor his ways are right before God; and that every moment sends him to Christ.
 彼は、いよいよはっきりと見ます。自分は、すべての点でなお罪人であることを見ます。自分の心も道も神の前に正しくないことを見ます。そして、その一瞬一瞬が自分をキリストのもとへ送ることを見るのです。
 This shows him the meaning of what is written, "Thou shalt make a plate of pure gold, and grave upon it, Holiness to the Lord.
-これによって、彼は次のように書かれていることの意味を知ります。「あなたはまた純金の板を造り、その上に『主に聖なる者』と刻みなさい。
+これによって、彼は次のように書かれていることの意味を知ります。「あなたはまた純金の板を造り」、「その上に『主に聖なる者』と刻みなさい。
 And it shall be upon Aaron's forehead," (the type of our great High-Priest,) "that Aaron may bear the iniquity of the holy things, which the children of Israel shall hallow in all their holy gifts" (so far are our prayers or holy things from atoning for the rest of our sin!) "and it shall be always upon his forehead, that they may be accepted before the Lord" (Exod. 28:36, 38.)
 これはアロンの額にあり」（アロンは、私たちの偉大な大祭司の型です）、「そしてアロンはイスラエルの人々がささげる聖なる物、すなわち彼らのもろもろの聖なる供え物についての罪の責めを負うでしょう」。私たちの祈りや聖なる物は、私たちに残っている罪をあがなうどころではないのです！　「これは主の前にそれらの受けいれられるため、常にアロンの額になければなりません」（出エジプト二八・三六、三八）。
-// 三六節の「印の彫刻のように」は英文が引かないので除いた。
+// 三六節の「印の彫刻のように」は英文が引かないので、「」を分けて除いた。
 
 6. To explain this by a single instance: The law says, "Thou shalt not kill;" and hereby, (as our Lord teaches,) forbids not only outward acts, but every unkind word or thought.
 （六）　ただ一つの例でこれを説明しましょう。律法は、「あなたは殺してはならない」（出エジプト二〇・一三）と言います。そして、主が教えておられるように（マタイ五・二一〜二二）、律法はこれによって、外的な行いだけでなく、あらゆる不親切な言葉や思いをも禁じています。
@@ -514,7 +514,7 @@ Now, the more I look into this perfect law, the more I feel how far I come short
 さて、私は、この完全な律法をのぞき込めばのぞき込むほど、自分がどれほどそれに及ばないかを感じます。そして、それを感じれば感じるほど、キリストの血と御霊とを必要としていることを感じます。私のすべての罪をあがなう血と、私の心をきよめ、私を「完全な、でき上がった」、「なんら欠点のない」者（ヤコブ一・四）としてくださる御霊とをです。
 
 7. Therefore I cannot spare the law one moment, no more than I can spare Christ; seeing I now want it as much to keep me to Christ, as I ever wanted it to bring me to him.
-（七）　ですから、私は、キリストなしにやっていけないのと同じく、律法なしにも一瞬たりともやっていけません。かつて私をキリストのもとに連れて行くために律法を必要としたのと同じだけ、今、私をキリストのもとにとどめておくために律法を必要としているからです。
+（七）　ですから、私は、キリストなしにやっていけないのと同じく、律法なしにも一瞬たりともやっていけません。かつて私は、キリストのもとに連れて行かれるために律法を必要としました。今も、それと同じだけ、キリストのもとにとどまるために律法を必要としているからです。
 Otherwise, this "evil heart of unbelief" would immediately "depart from the living God."
 そうでなければ、この「不信仰な悪い心」は、たちまち「生ける神から離れ去る」でしょう（ヘブル三・一二）。
 Indeed each is continually sending me to the other, -- the law to Christ, and Christ to the law.
@@ -524,7 +524,7 @@ On the one hand, the height and depth of the law constrain me to fly to the love
 // above gold or precious stones は、祈祷書の詩篇一一九・一二七 の言い回し（above gold and precious stone）。口語訳は「金よりも、純金よりもまさって」なので、「金よりも」だけを「」に入れた。
 
 8. Who art thou then, O man, that "judgest the law, and speakest evil of the law" -- that rankest it with sin, Satan, and death and sendest them all to hell together
-（八）　それなら、「ああ人よ」（ローマ九・二〇）、「律法をさばき」、「律法をそし」るあなたは（ヤコブ四・一一）、いったい何者なのでしょうか。律法を罪やサタンや死と同列に置き、それらをみな一緒に地獄へ送ってしまうあなたは、いったい何者なのでしょうか。
+（八）　それなら、「ああ人よ」（ローマ九・二〇）、「律法をさばき」、「律法をそし」る（ヤコブ四・一一）あなたは、いったい何者なのでしょうか。律法を罪やサタンや死と同列に置き、それらをみな一緒に地獄へ送ってしまうあなたは、いったい何者なのでしょうか。
 The Apostle James esteemed judging or "speaking evil of the law" so enormous a piece of wickedness, that he knew not how to aggravate the guilt of judging our brethren more, than by showing it included this.
 使徒ヤコブは、律法をさばくこと、すなわち「律法をそし」ること（ヤコブ四・一一）を、きわめて大きな悪だと考えました。ですから、兄弟をさばく罪がこれを含むことを示すよりほかに、その罪の重さを強調する方法を知らなかったのです。
 "So now," says he, "thou art not a doer of the law, but a judge!"
@@ -559,11 +559,11 @@ Let this continually lead thee to the atoning blood, continually confirm thy hop
 （一〇）　そして、あなたの主は、すでにその言葉を成就してくださったかもしれません。すでにご自分の「律法を」あなたの「心にしる」してくださった（エレミヤ三一・三三）かもしれません。そうなら、キリストがあなたを自由にしてくださった、その自由のうちに「堅く立って」いなさい（ガラテヤ五・一）。
 // ガラテヤ五・一 の欽定訳 stand fast in the liberty wherewith Christ hath made us free は、口語訳「自由を得させるために、キリストはわたしたちを解放して下さった…堅く立って」と文の組み立てが違うので、「堅く立って」だけを「」に入れた。
 Thou art not only made free from Jewish ceremonies, from the guilt of sin, and the fear of hell (these are so far from being the whole, that they are the least and lowest part of Christian liberty;) but, what is infinitely more, from the power of sin, from serving the devil, from offending God.
-あなたは、ユダヤ教の儀式から、罪責から、地獄への恐れから自由にされただけではありません（これらは、クリスチャンの自由の全体どころか、そのいちばん小さく、いちばん低い部分です）。それよりはるかに大きなこととして、罪の力から、悪魔に仕えることから、神を怒らせることから、自由にされたのです。
+あなたは、ユダヤ教の儀式から、罪責から、地獄への恐れから自由にされただけではありません。これらは、クリスチャンの自由の全体どころか、そのいちばん小さく、いちばん低い部分です。それよりはるかに大きなこととして、罪の力から、悪魔に仕えることから、神を怒らせることから、自由にされたのです。
 O stand fast in this liberty; in comparison of which, all the rest is not even worthy to be named! Stand fast in loving God with all thy heart, and serving him with all thy strength!
 ああ、この自由のうちに堅く立ちなさい。これに比べれば、ほかのすべては、名を挙げる値打ちさえありません！　心をつくして神を愛し、力をつくして神に仕えることのうちに、堅く立ちなさい。
 This is perfect freedom; thus to keep his law, and to walk in all his commandments blameless.
-これこそ完全な自由です。このように神の律法を守り、神のすべての戒めを落度なく行う（ルカ一・六）ことです。
+これこそ完全な自由です。このように神の律法を守り、神のすべての戒めを落ち度なく行う（ルカ一・六）ことです。
 // perfect freedom は、祈祷書「朝の祈り」の平和のための特祷（whose service is perfect freedom）の言い回し。
 "Be not entangled again with the yoke of bondage."
 「二度と奴隷のくびきにつながれてはなりません」（ガラテヤ五・一）。
