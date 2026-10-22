@@ -6,7 +6,7 @@ Upon Our Lord's Sermon On The Mount: Discourse Four
 「あなたがたは、地の塩です。もし塩のききめがなくなったら、何によってその味が取りもどされるでしょうか。もはや、なんの役にも立たず、ただ外に捨てられて、人々にふみつけられるだけです。あなたがたは、世の光です。山の上にある町は隠れることができません。また、あかりをつけて、それを枡の下におく者はいません。むしろ燭台の上において、家の中のすべてのものを照させるのです。そのように、あなたがたの光を人々の前に輝かし、そして、人々があなたがたのよいおこないを見て、天にいますあなたがたの父をあがめるようにしなさい」（マタイ五・一三〜一六）
 
 1. The beauty of holiness, of that inward man of the heart which is renewed after the image of God, cannot but strike every eye which God hath opened, -- every enlightened understanding.
-（一）　聖性の美しさは、すなわち、神のかたちに従って新しくされた（コロサイ三・一〇）、あの心の内なる人の美しさは、神が開いてくださったすべての目を、すなわち、照されたすべての理解力を、打たずにはいません。
+（一）　聖性の美しさ、すなわち、神のかたちに従って新しくされた（コロサイ三・一〇）、あの心の内なる人の美しさがあります。それは、神が開いてくださったすべての目を、すなわち、照されたすべての理解力を、引きつけずにはいません。
 The ornament of a meek, humble, loving spirit, will at least excite the approbation of all those who are capable in any degree, of discerning spiritual good and evil.
 柔和で、へりくだった、愛に満ちた霊という飾りは（第一ペテロ三・四）、少なくとも是認を受けるでしょう。霊的な善悪をいくらかでも見分けることのできる人なら、だれからもです。
 From the hour men begin to emerge out of the darkness which covers the giddy, unthinking world, they cannot but perceive how desirable a thing it is to be thus transformed into the likeness of him that created us.
@@ -21,7 +21,7 @@ apaugasma ths doxhs autou, -- "the beaming forth of his" eternal "glory;"
 and yet so tempered and softened, that even the children of men may herein see God and live;
 それでいて、その輝きは和らげられているので、人の子らでさえ、ここに神を見て、なお生きていることができます（出エジプト三三・二〇）。
 carakthr ths upostasevs autou, -- "the character, the stamp, the living impression, of his person," who is the fountain of beauty and love, the original source of all excellency and perfection.
-また、カラクテール・テース・ヒュポスタセオース・アウトゥー（χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ）、すなわち、「神の本質の刻印、押された印、生きた写し」です（ヘブル一・三）。神は、美と愛の泉であり、あらゆる卓越と完全の本源です。
+また、原語は、カラクテール・テース・ヒュポスタセオース・アウトゥー（χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ）です。すなわち、「神の本質の刻印、押された印、生きた写し」です（ヘブル一・三）。神は、美と愛の泉であり、あらゆる卓越と完全の本源です。
 
 2. If religion, therefore, were carried no farther than this, they could have no doubt concerning it; they should have no objection against pursuing it with the whole ardour of their souls.
 （二）　ですから、もし宗教がこれ以上に及ばないなら、彼らは宗教について、何の疑いもいだかないでしょう。魂の熱意をすべて傾けてそれを追い求めることにも、何の異論もないでしょう。
@@ -48,7 +48,7 @@ yea, that have for a season deceived and led away no inconsiderable number of th
 そうです、彼らは、一時は、選民の少なからぬ数を惑わし、連れ去ってきました。その人々は、どの時代にも、金めっきのわなに陥り、わずかに歯の皮をもってのがれたのです（ヨブ一九・二〇）。
 
 5. But has our Lord been wanting on his part Has he not sufficiently guarded us against this pleasing delusion
-（五）　けれども、私たちの主は、ご自分の側で何か欠けておられたでしょうか。この心地よい惑わしに対して、私たちを十分に守ってはくださらなかったでしょうか。
+（五）　けれども、私たちの主は、ご自分の務めに何か欠けたところがおありだったでしょうか。この心地よい惑わしに対して、私たちを十分に守ってはくださらなかったでしょうか。
 Has he not armed us here with armour of proof against Satan "transformed into an angel of light"
 「光の天使に擬装」したサタンに対して（第二コリント一一・一四）、ここで、私たちに堅固なよろいを着せてはくださらなかったでしょうか。
 Yea, verily: He here defends, in the clearest and strongest manner, the active, patient religion he had just described.
@@ -110,7 +110,7 @@ So that to attempt turning this into a solitary virtue is to destroy it from the
 4. Another necessary branch of true Christianity is peacemaking, or doing of good.
 （四）　まことのキリスト教のもう一つの必要な部分は、平和をつくり出すこと、すなわち善を行うことです。
 That this is equally essential with any of the other parts of the religion of Jesus Christ, there can be no stronger argument to evince, (and therefore it would be absurd to allege any other,) than that it is here inserted in the original plan he has laid down of the fundamentals of his religion.
-これが、イエス・キリストの宗教のほかのどの部分とも同じように本質的であることを示すのに、何よりも強い論拠があります（ですから、ほかの論拠を挙げるのはばかげているでしょう）。それは、主がご自分の宗教の根本について定められた、もとの設計図の中に、これがここで組み込まれている、ということです。
+これが、イエス・キリストの宗教のほかのどの部分とも同じように本質的であることを示すのに、これ以上強い論拠はありえません（ですから、ほかの論拠を挙げるのはばかげているでしょう）。それは、主がご自分の宗教の根本について定められた、もとの設計図の中に、これがここで組み込まれている、ということです。
 Therefore, to set aside this is the same daring insult on the authority of our Great Master as to set aside mercifulness, purity of heart, or any other branch of his institution.
 ですから、これを退けるのは、私たちの偉大な主人の権威に対する大胆な侮辱です。あわれみ深さや心の清さや、主の定められたほかのどの部分を退けるのと、同じ侮辱なのです。
 But this is apparently set aside by all who call us to the wilderness; who recommend entire solitude either to the babes, or the young men, or the fathers in Christ.
@@ -123,7 +123,7 @@ What can be more plain, than that this fundamental branch of the religion of Jes
 5. "But is it not expedient, however," one might naturally ask, "to converse only with good men, -- only with those whom we know to be meek and merciful, -- holy of heart and holy of life
 （五）　「それでも、善い人々とだけ交わるほうが、得策ではないか」と、当然尋ねる人もいるでしょう。「柔和であわれみ深く、心も生活も聖いと分かっている人々とだけ、交わるほうがよいのではないか。
 Is it not expedient to refrain from any conversation or intercourse with men of the opposite character, -- men who do not obey, perhaps do not believe, the gospel of our Lord Jesus Christ
-それとは反対の性格の人々もいる。私たちの主イエス・キリストの福音に従わず、おそらくは信じてもいない人々だ。そういう人々とは、どんな付き合いも交わりも控えるほうが、得策ではないか。
+それとは反対の性格の人々もいる。私たちの主イエス・キリストの福音に従わず、おそらくは信じてもいない人々だ（第二テサロニケ一・八）。そういう人々とは、どんな付き合いも交わりも控えるほうが、得策ではないか。
 The advice of St. Paul to the Christians at Corinth may seem to favour this: "I wrote unto you in an epistle not to company with fornicators." (1 Cor. 5:9)
 コリントのクリスチャンたちへのパウロの勧めも、これを支持しているように見える。『わたしは前の手紙で、不品行な者たちと交際してはいけないと書いた』（第一コリント五・九）」。
 And it is certainly not advisable so to company with them, or with any of the workers of iniquity, as to have any particular familiarity, or any strictness of friendship with them.
@@ -162,12 +162,12 @@ of that mercifulness, whereby "we love our enemies, bless them that curse us, do
 また、あのあわれみ深さがそうです。それによって私たちは、「敵を愛し」（マタイ五・四四）、「のろう者を祝福し」、「憎む者に親切に」し（ルカ六・二七〜二八）、「はずかしめる者」や「迫害する者のために祈」ります（ルカ六・二八、マタイ五・四四）。
 // 口語訳のマタイ五・四四にない句は、説教二十三にならい、ルカ六・二七〜二八で引いた。
 and of that complication of love and all holy tempers which is exercised in suffering for righteousness' sake.
-さらに、義のために苦しむ中で働く、愛とあらゆる聖い気質との、あの結び合わさったものがそうです。
+さらに、義のために苦しむ（第一ペテロ三・一四）中で働く、あの愛とあらゆる聖い気質とが一つに結び合わさったものがそうです。
 Now all these, it is clear, could have no being, were we to have no commerce with any but real Christians.
 明らかに、もし私たちが本当のクリスチャン以外のだれとも交わらないなら、これらはみな、存在しえないでしょう。
 
 7. Indeed were we wholly to separate ourselves from sinners, how could we possibly answer that character which our Lord gives us in these very words
-（七）　実際、もし私たちが罪人たちから完全に離れてしまうなら、どうしてあの呼び名にふさわしくありえるでしょうか。主がまさにこの言葉で私たちに与えておられる呼び名です。
+（七）　実際、もし私たちが罪人たちから完全に離れてしまうなら、どうしてあの呼び名にふさわしくありうるでしょうか。主がまさにこの言葉で私たちに与えておられる呼び名です。
 "Ye" (Christians, ye that are lowly, serious and meek; ye that hunger after righteousness, that love God and man, that do good to all, and therefore suffer evil; ye) "are the salt of the earth:"
 「あなたがたは」（クリスチャンたちよ、へりくだって、まじめで、柔和なあなたがたよ。義に飢え、神と人とを愛し、すべての人に善を行い、そのために悪を忍ぶあなたがたよ。そのあなたがたは）、「地の塩です」（マタイ五・一三）。
 It is your very nature to season whatever is round about you.
@@ -190,14 +190,14 @@ which indeed they cannot possibly fail to do, so long as it remains in their own
 "If the salt have lost its savour, wherewith shall it be salted It is thenceforth good for nothing but to be cast out, and trodden under foot of men:"
 「もし塩のききめがなくなったら、何によってその味が取りもどされるでしょうか。もはや、なんの役にも立たず、ただ外に捨てられて、人々にふみつけられるだけです」（マタイ五・一三）。
 If ye who were holy and heavenly-minded, and consequently zealous of good works, have no longer that savour in yourselves, and do therefore no longer season others;
-聖く、天に思いを向け、そのために良きわざに熱心であったあなたがたが、もはや自分のうちにその味を持たないとします。そのために、もはやほかの人々に味をつけないとします。
+聖く、天に思いを向け、そのために良きわざに熱心であった（テトス二・一四）あなたがたが、もはや自分のうちにその味を持たないとします。そのために、もはやほかの人々に味をつけないとします。
 if you are grown flat, insipid, dead, both careless of your own soul and useless to the souls of other men; `wherewith shall ye be salted How shall ye be recovered
 気が抜け、味がなくなり、死んだようになって、自分の魂には無頓着になり、ほかの人々の魂には役に立たなくなったとします。そうなら、あなたがたは、何によって塩味をつけられるのでしょうか。どうして元に戻れるでしょうか。
 // 英文の `wherewith … には閉じ引用符がない。マタイ五・一三をあなたがたに当てはめた言い換えと見て、「」に入れなかった。
 What help What hope Can tasteless salt be restored to its savour No;
 どんな助けがあるでしょうか。どんな望みがあるでしょうか。味のなくなった塩が、その味を取りもどせるでしょうか。いいえ、できません。
 "it is thenceforth good for nothing but to be cast out," even as the mire in the streets, "and to be trodden under foot of men," to be overwhelmed with everlasting contempt.
-「もはや、なんの役にも立たず、ただ外に捨てられて」、ちまたの泥のように、「人々にふみつけられるだけです」（マタイ五・一三）。限りない恥辱に沈められるだけなのです（ダニエル一二・二）。
+「もはや、なんの役にも立たず、ただ外に捨てられて」、ちまたの泥のように（イザヤ一〇・六）、「人々にふみつけられるだけです」（マタイ五・一三）。限りない恥辱に沈められるだけなのです（ダニエル一二・二）。
 If ye had never known the Lord, there might have been hope, -- if ye had never been "found in him:"
 もしあなたがたが、一度も主を知らなかったなら、望みもあったかもしれません。「キリストのうちに」見いだされたことが一度もなかったなら（ピリピ三・九）、です。
 But what can you now say to that, his solemn declaration, just parallel to what he hath here spoken
@@ -212,18 +212,18 @@ He that abideth in me, and I in him, bringeth forth much fruit."
 9. Toward those who have never tasted of the good word, God is indeed pitiful and of tender mercy.
 （九）　神の良きみ言葉を一度も味わったことのない人々に対しては（ヘブル六・五）、神は確かに、慈愛とあわれみとに富んだ方です（ヤコブ五・一一）。
 But justice takes place with regard to those who have tasted that the Lord is gracious, and have afterwards turned back "from the holy commandment" then "delivered to them."
-けれども、正義が行われる人々もいます。主が恵み深い方であることを味わい知りながら（第一ペテロ二・三）、そののち、そのとき「自分に授けられた聖なる戒め」から離れ去った人々です（第二ペテロ二・二一）。
+けれども、正義が行われる人々もいます。主が恵み深い方であることを味わい知りながら（第一ペテロ二・三）、そののち、かつて「自分に授けられた聖なる戒め」から離れ去った人々です（第二ペテロ二・二一）。
 "For it is impossible for those who were once enlightened;" (Heb. 6:4, &c;) in whose hearts God had once shined, to enlighten them with the knowledge of the glory of God in the face of Jesus Christ;
 「いったん、光を受け」た人々がいます（ヘブル六・四）。すなわち、イエス・キリストの顔に輝く神の栄光の知識を与えるために、神がかつてその心を照してくださった人々です（第二コリント四・六）。
 "who have tasted of the heavenly gift" of redemption in his blood, the forgiveness of sins;
-彼らは、キリストの血によるあがない、すなわち罪の赦しという、「天よりの賜物を味わい」ました（ヘブル六・四）。
+彼らは、キリストの血によるあがない、すなわち罪の赦しという（エペソ一・七）、「天よりの賜物を味わい」ました（ヘブル六・四）。
 "and were made partakers of the Holy Ghost," of lowliness, of meekness, and of the love of God and man shed abroad in their hearts by the Holy Ghost which was given unto them;
 「聖霊にあずかる者となり」ました（ヘブル六・四）。へりくだりと柔和とに、また、与えられた聖霊によって心に注がれた、神と人とへの愛に（ローマ五・五）、あずかったのです。
 and "have fallen away," -- kai parapesontas -- (here is not a supposition, but a flat declaration of matter of fact)
-そして、「そののち堕落した」のです（ヘブル六・六）。原語はカイ・パラペソンタス（καὶ παραπεσόντας）です。ここにあるのは仮定ではなく、事実の率直な宣言です。
-// 英文の転写は kai parapesontas。口語訳のヘブル六・六は「そののち堕落した場合には」。ウェスレーは仮定ではないと言うので、「場合には」を除いた。
+そして、「堕落した」のです（ヘブル六・六）。原語はカイ・パラペソンタス（καὶ παραπεσόντας）です。ここにあるのは仮定ではなく、事実の率直な宣言です。
+// 英文の転写は kai parapesontas。口語訳のヘブル六・六は「そののち堕落した場合には」。ウェスレーは仮定ではないと言うので、「場合には」を除いた（「そののち」は英文にない）。
 "to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame."
-こういう人々が、「ふたたび悔改めにたち帰ることは不可能です」（ヘブル六・六）。彼らは、「またもや神の御子を、自ら十字架につけて、さらしものにするわけである」からです（ヘブル六・六）。
+こういう人々が、「ふたたび悔改めにたち帰ることは不可能です」（ヘブル六・六）。彼らは、「またもや神の御子を、自ら十字架につけて、さらしものにする」からです（ヘブル六・六）。
 
 But that none may misunderstand these awful words, it should be carefully observed,
 けれども、だれもこの恐るべき言葉を誤解しないように、次のことに注意深く目を留めるべきです。<br/>
@@ -244,7 +244,7 @@ But let him above all things beware, lest his "heart be hardened by the deceitfu
 lest he should sink lower and lower, till he wholly fall away, till he become as salt that hath lost its savour:
 ますます低く沈んでいき、ついには完全に堕落して、ききめのなくなった塩のようになることがないように（マタイ五・一三）、気をつけなければなりません。
 For if we thus sin wilfully, after we have received the experimental "knowledge of the truth, there remaineth no more sacrifice for sins; but a certain, fearful looking for of fiery indignation, which shall devour the adversaries."
-もし私たちが、体験による「真理の知識を受けたのちにも」、このようにことさらに罪を犯すなら、「罪のためのいけにえは、もはやあり得ません」。ただ、「逆らう者たちを焼きつくす激しい火」を、「恐れつつ待つことだけがあります」（ヘブル一〇・二六〜二七）。
+もし私たちが、体験による「真理の知識を受けたのちにも」、このようにことさらに罪を犯すなら、「罪のためのいけにえは、もはやあり得ません」（ヘブル一〇・二六）。ただ、「逆らう者たちを焼きつくす激しい火」を、「恐れつつ待つことだけがあります」（ヘブル一〇・二七）。
 // 英文はヘブル一〇・二七の judgment（さばき）を引かないので、口語訳の「さばきと」を除いた。
 
 ## 【二】　この宗教を隠すことはできない
@@ -252,9 +252,9 @@ For if we thus sin wilfully, after we have received the experimental "knowledge 
 II. 1. "But although we may not wholly separate ourselves from mankind, although it be granted we ought to season them with the religion which God has wrought in our hearts, yet may not this be done insensibly
 （一）　「けれども、人々から完全に離れてはならないとしよう。神が私たちの心に造り出してくださった宗教で、人々に味をつけるべきだ、ということも認めよう。それでも、それを人知れず行ってはいけないのか。
 May we not convey this into others in a secret and almost imperceptible manner, so that scarce anyone shall be able to observe how or when it is done
-ひそかに、ほとんど気づかれない仕方で、それをほかの人々に伝えてはいけないのか。いつ、どのようにそれがなされたのか、ほとんどだれにも分からないようにだ。
+ひそかに、ほとんど気づかれない仕方で、それをほかの人々に伝えてはいけないのか。いつ、どのようにそれがなされたのか、ほとんどだれにも分からないように。
 -- even as salt conveys its own savour into that which is seasoned thereby, without any noise, and without being liable to any outward observation.
-ちょうど塩が、少しも音を立てず、外から少しも気づかれずに、味をつけるものに自分の味を伝えるようにだ。
+ちょうど塩が、少しも音を立てず、外から少しも気づかれずに、味をつけるものに自分の味を伝えるように。
 And if so, although we do not go out of the world, yet we may lie hid in it.
 もしそうなら、私たちは、世から出て行かなくても、世の中に隠れていることができる。
 We may thus far keep our religion to ourselves; and not offend lo those whom we cannot help."
@@ -306,7 +306,7 @@ If a Christian could be hid, he could not be compared to a city set upon an hill
 Never, therefore, let it enter into the heart of him whom God hath renewed in the spirit of his mind, to hide that light, to keep his religion to himself;
 ですから、神によって心の深みまで新たにされた人は（エペソ四・二三）、その光を隠そうという思いを、決して心にいだいてはなりません。自分の宗教を自分の中にしまっておこうという思いも、いだいてはなりません。
 especially considering it is not only impossible to conceal true Christianity, but likewise absolutely contrary to the design of the great Author of it.
-とりわけ、まことのキリスト教を隠すことは、不可能であるだけではありません。その偉大な創始者の意図にまったく反することでもあるのです。
+まして、まことのキリスト教を隠すことは、不可能であるだけではありません。その偉大な創始者の意図にまったく反することでもあるのです。
 
 5. This plainly appears from the following words: "Neither do men light a candle, to put it under a bushel."
 （五）　このことは、次の言葉からはっきり分かります。「また、あかりをつけて、それを枡の下におく者はいません」（マタイ五・一五）。
@@ -332,7 +332,7 @@ They have led a few poor sheep out of the darkness of the world, and guided thei
 彼らは、少数のあわれな羊を世のやみから連れ出し、その足を平和の道へ導いてきました（ルカ一・七九）。
 
 7. One might imagine that, where both Scripture and the reason of things speak so clearly and expressly, there could not be much advanced on the other side, at least not with any appearance of truth.
-（七）　聖書も事物の道理もこれほど明白に、はっきりと語っているのだから、反対の側からは、たいしたことは言えないだろう、と思う人もいるでしょう。少なくとも、もっともらしいことは何も言えないだろう、と。
+（七）　聖書も事物の道理も、これほど明白に、はっきりと語っています。ですから、反対の側からはたいしたことは言えないだろう、と思う人もいるでしょう。少なくとも、もっともらしいことは何も言えないだろう、と。
 But they who imagine thus know little of the depths of Satan.
 けれども、そう思う人は、サタンの深みを（黙示録二・二四）ほとんど知らないのです。
 After all that Scripture and reason have said, so exceeding plausible are the pretences for solitary religion, for a Christian's going out of the world, or at least hiding himself in it, that we need all the wisdom of God to see through the snare, and all the power of God to escape it;
@@ -386,13 +386,13 @@ It is true, that without this, whatever we do, whatever we suffer, profits us no
 But it does not follow, that love is all in such a sense as to supersede either faith or good works.
 けれども、だからといって、愛が、信仰や良きわざに取って代わるような意味ですべてである、ということにはなりません。
 It is "the fulfilling of the law," not by releasing us from, but by constraining us to obey it.
-愛が「律法を完成するもの」であるのは（ローマ一三・一〇）、私たちを律法から解き放つことによってではなく、律法に従うように私たちを駆り立てることによってです。
+愛は「律法を完成するもの」です（ローマ一三・一〇）。それは、私たちを律法から解き放つからではありません。律法に従うように私たちを駆り立てるからです。
 It is "the end of the commandment," as every commandment leads to and centres in it.
-愛が、戒めの「目標としている」ものであるのは（第一テモテ一・五）、あらゆる戒めが愛へと導き、愛に集まるからです。
+愛が、戒めが「目標としている」ものであるのは（第一テモテ一・五）、あらゆる戒めが愛へと導き、愛に集まるからです。
 It is allowed, that whatever we do or suffer without love, profits us nothing.
 愛なしに何を行っても、何を忍んでも、無益であることは、認めます。
 But withal, whatever we do or suffer in love, though it were only the suffering reproach for Christ, or the giving a cup of cold water in his name, it shall in no wise lose its reward.
-けれども同時に、愛をもって行い、忍ぶことは何であれ、決してその報いからもれることはありません（マタイ一〇・四二）。たとえそれが、キリストのためにそしりを受けることだけであっても、キリストの名のゆえに冷たい水一杯を飲ませることだけであっても、そうなのです。
+けれども同時に、愛をもって行い、忍ぶことは何であれ、決してその報いからもれることはありません（マタイ一〇・四二）。それがただ、キリストのためにそしりを受けることであっても、そうです。キリストの名のゆえに冷たい水一杯を飲ませることであっても、そうです。
 
 3. "But does not the Apostle direct us to `follow after charity' And does he not term it `a more excellent way'" --
 （三）　「けれども、使徒は、『愛を追い求めなさい』と命じているではないか（第一コリント一四・一）。それを『最もすぐれた道』と呼んでいるではないか（第一コリント一二・三一）」。
@@ -410,8 +410,8 @@ In the same verse also wherein he terms this, the way of love, "a more excellent
 "Covet earnestly," saith he, "the best gifts; and yet I show unto you a more excellent way." (1 Cor. 12:31.)
 使徒は言います。「更に大いなる賜物を得ようと熱心に努めなさい。そこで、わたしは最もすぐれた道をあなたがたに示しましょう」（第一コリント一二・三一）。
 More excellent than what Than the gifts of healing, of speaking with tongues, and of interpreting, mentioned in the preceding verse;
-何よりもすぐれているのでしょうか。前の節で挙げられている、いやしの賜物や、異言を語ることや、異言を解くことよりもです（第一コリント一二・三〇）。
-// 英文の a more excellent way は比較級で、ウェスレーは何と比べてかを論じている。口語訳は「最もすぐれた道」なので、「何よりもすぐれているのか」と問う形にした。
+何と比べて、すぐれているのでしょうか。前の節で挙げられている、いやしの賜物や、異言を語ることや、異言を解くことよりもです（第一コリント一二・三〇）。
+// 英文の a more excellent way は比較級で、ウェスレーは何と比べてかを論じている。口語訳は「最もすぐれた道」なので、「何と比べて、すぐれているのか」と問う形にした。
 but not more excellent than the way of obedience.
 けれども、従順の道よりすぐれている、というのではありません。
 Of this the Apostle is not speaking; neither is he speaking of outward religion at all:
@@ -422,7 +422,7 @@ So that this text is quite wide of the present question.
 But suppose the Apostle had been speaking of outward as well as inward religion, and comparing them together;
 けれども、仮に使徒が、内の宗教と同じく外の宗教についても語っていて、両者を比べていたとします。
 suppose, in the comparison, he had given the preference ever so much to the latter;
-その比較の中で、内の宗教を、どれほど強く優先していたとします。
+その比較の中で、内の宗教のほうをきわめて強く優先していたとします。
 suppose he had preferred (as he justly might) a loving heart, before all outward works whatever;
 （当然そうしてよいのですが）愛に満ちた心を、どんな外のわざよりも優先していたとします。
 yet it would not follow that we were to reject either one or the other.
@@ -452,7 +452,7 @@ Why, it is to worship him with our spirit; to worship him in that manner which n
 It is to believe in him as a wise, just, holy Being, of purer eyes than to behold iniquity;
 それは、神を、賢く、正しく、聖い方として信じることです。目が清く、不義を見られない方として（ハバクク一・一三）信じることです。
 and yet merciful, gracious, and long-suffering; forgiving iniquity, and transgression and sin; casting all our sins behind his back, and accepting us in the Beloved.
-しかもなお、あわれみあり、恵みあり、怒ることおそく、悪と、とがと、罪とを赦す方として（出エジプト三四・六〜七）信じることです。私たちの罪をことごとくご自分の後に捨て（イザヤ三八・一七）、愛する御子にあって私たちを受け入れてくださる方として（エペソ一・六）信じることです。
+しかもなお、あわれみあり、恵みあり、怒ることおそく、悪と、とがと、罪とを赦す方として（出エジプト三四・六〜七）信じることです。私たちの罪をことごとくご自分の後に捨て（イザヤ三八・一七）、愛する御子にあって私たちを受け入れてくださる方として信じることです。
 It is, to love him, to delight in him, to desire him, with all our heart, and mind, and soul, and strength;
 それは、心をつくし、思いをつくし、精神をつくし、力をつくして（マルコ一二・三〇）、神を愛し、神を喜び、神を慕い求めることです。
 to imitate him we love, by purifying ourselves, even as he is pure;
@@ -462,7 +462,7 @@ and to obey him whom we love, and in whom we believe, both in thought, and word,
 Consequently, one branch of the worshipping God in spirit and in truth is, the keeping his outward commandments.
 したがって、霊とまこととをもって神を礼拝することの一つの枝は、神の外の戒めを守ることです。
 To glorify him, therefore with our bodies, as well as with our spirits; to go through outward work with hearts lifted up to him;
-ですから、霊をもってだけでなく、からだをもっても神の栄光をあらわすこと。心を神に引き上げながら、外の仕事をやり遂げること。
+ですから、霊をもってだけでなく、からだをもっても神の栄光をあらわすこと（第一コリント六・二〇）。心を神に引き上げながら、外の仕事をやり遂げること。
 to make our daily employment a sacrifice to God; to buy and sell, to eat and drink, to his glory;
 日々の仕事を神へのいけにえとすること。神の栄光のために、売り買いし、飲み食いすること（第一コリント一〇・三一）。
 -- this is worshipping God in spirit and in truth, as much as the praying to him in a wilderness.
@@ -475,9 +475,9 @@ Therefore to give ourselves up entirely to this, would be to destroy many branch
 For it is a great mistake, to suppose that an attention to those outward things, whereto the providence of God hath called us, is any clog to a Christian, or any hindrance at all to his always seeing Him that is invisible.
 なぜなら、神の摂理が私たちを召された外の事柄に心を配っても、クリスチャンの足かせにはならないからです。見えないかたをいつも見ていることの（ヘブル一一・二七）、少しの妨げにもなりません。そうなると考えるのは、大きな間違いです。
 It does not at all damp the ardour of his thought; it does not encumber or distract his mind;
-それは、その人の思いの熱を少しもくじきません。その人の心をわずらわせたり、乱したりもしません。
+外の事柄に心を配っても、その人の思いの熱は少しもくじかれません。その人の心がわずらわされたり、乱されたりもしません。
 it gives him no uneasy or hurtful care, who does it all as unto the Lord;
-すべてを主に対してするように行う人に、不安な、害になる思い煩いを与えることもありません。
+すべてを主に対してするように（コロサイ三・二三）行う人には、不安な、害になる思い煩いも生じません。
 who hath learned whatsoever he doth, in word or deed, to do all in the name of the Lord Jesus;
 その人は、言葉によるとわざによるとを問わず、何をするにも、いっさい主イエスの名によってすることを学んでいるのです（コロサイ三・一七）。
 having only one eye of the soul, which moves round on outward things, and one immovably fixed on God.
@@ -486,6 +486,7 @@ Learn what this meaneth, ye poor recluses, that you may clearly discern your own
 あわれな隠遁者たちよ、これがどういう意味か学びなさい。自分の信仰の薄さを、はっきりと見分けるためです。
 Yea, that you may no longer judge others by yourselves, go and learn what that meaneth: --
 そうです、もう自分を基準にしてほかの人をさばかないように、次の言葉がどういう意味か、学んできなさい（マタイ九・一三）。
+
 Thou, O Lord, in tender love
 主よ、あなたは優しい愛をもって<br/>
 Dost all my burdens bear;
@@ -499,7 +500,7 @@ Calm on tumult's wheel I sit;
 Midst busy multitudes alone;
 忙しい群衆のただ中で、ひとり、<br/>
 Sweetly waiting at thy feet
-あなたの足もとで、楽しく待ちます。<br/>
+あなたの足もとで、心安らかに待ちます。<br/>
 Till all thy will he done.
 あなたのみこころが、すべて成るまで。<br/>
 // 讃美歌の一節。出典は確認できなかった。
@@ -548,7 +549,7 @@ If you can, and do not, whatever becomes of them, you shall go away into everlas
 It is our part to do all that in us lies, as diligently as if we could change them ourselves, and then to leave the event to him.
 私たちの務めは、まるで自分で心を変えられるかのように熱心に、自分にできるすべてのことを行い、そのうえで結果を神にゆだねることです。<br/>
 (3.) God, in answer to their prayers, builds up his children by each other in every good gift;
-三、神は、子供たちの祈りに答えて、互を通して、あらゆる良い賜物において子供たちを築き上げられます。
+三、神は、子供たちの祈りに答えて、子供たちどうしを通して、あらゆる良い賜物において子供たちを築き上げられます。
 nourishing and strengthening the whole "body by that which every joint supplieth."
 神は「すべての節々の助けにより」、「全身」を養い、強められるのです（エペソ四・一六）。
 So that "the eye cannot say to the hand, I have no need of thee;" no, nor even "the head to the feet, I have no need of you."
@@ -566,7 +567,7 @@ When he spurns thy love, and blasphemes the good word, then it is time to give h
 8. "We have tried; we have laboured to reform sinners; and what did it avail On many we could make no impression at all.
 （八）　「私たちは試してみた。罪人たちを改めさせようと努めた。それで、何の役に立ったか。多くの人には、何の感銘も与えられなかった。
 And if some were changed for a while, yet their goodness was but as the morning dew, and they were soon as bad, nay, worse than ever:
-しばらくの間、変わった人がいても、その善良さは朝の露のようなもので（ホセア六・四）、彼らはすぐに元どおり悪くなった。いや、以前よりも悪くなった。
+しばらくの間、変わった人がいても、その善良さは朝の露のようなもので、彼らはすぐに元どおり悪くなった。いや、以前よりも悪くなった。
 So that we only hurt them, and ourselves too; for our minds were hurried and discomposed, -- perhaps filled with anger instead of love:
 だから、私たちは彼らを傷つけ、自分自身も傷つけただけだった。私たちの心は、せき立てられ、かき乱され、おそらく愛ではなく怒りで満たされたのだから。
 Therefore, we had better have kept our religion to ourselves."
@@ -604,14 +605,14 @@ Only be wiser by experience: Attempt it every time more cautiously than before.
 Be more humbled before God, more deeply convinced that of yourself you can do nothing.
 神の前に、もっとへりくだりなさい。自分では何一つできないことを（ヨハネ一五・五）、もっと深く確信しなさい。
 Be more jealous over your own spirit; more gentle, and watchful unto prayer.
-自分の霊に、もっと気を配りなさい。もっと優しくなり、目をさまして祈りなさい。
+自分の霊に、もっと気を配りなさい。もっと優しく、もっと目をさまして祈りなさい。
 Thus "cast your bread upon the waters, and you shall find it again after many days."
 こうして、「あなたのパンを水の上に投げ」なさい。そうすれば、「多くの日の後、あなたはそれを得る」のです（伝道一一・一）。
 
 ## 【四】　実践への適用
 
 IV. 1. Notwithstanding all these plausible pretences for hiding it, "let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."
-（一）　光を隠すためのこうしたもっともらしい口実がどれほどあっても、「あなたがたの光を人々の前に輝かし、そして、人々があなたがたのよいおこないを見て、天にいますあなたがたの父をあがめるようにしなさい」（マタイ五・一六）。
+（一）　光を隠すためのこうしたもっともらしい口実がどれほどあっても、「そのように、あなたがたの光を人々の前に輝かし、そして、人々があなたがたのよいおこないを見て、天にいますあなたがたの父をあがめるようにしなさい」（マタイ五・一六）。
 This is the practical application which our Lord himself makes of the foregoing considerations.
 これが、私たちの主ご自身が、先の考察から引き出しておられる、実践への適用です。
 
@@ -630,10 +631,10 @@ but let it shine before men, before all with whom you are, in the whole tenor of
 Let it shine still more eminently in your actions, in your doing all possible good to all men;
 あなたがたの行いにおいて、すべての人にできるかぎりの善を行うことにおいて、さらにいっそう際立って輝かしなさい。
 and in your suffering for righteousness' sake, while you "rejoice and are exceeding glad, knowing that great is your reward in heaven."
-また、義のために苦しむことにおいて、輝かしなさい。そのとき、あなたがたは、「天においてあなたがたの受ける報いは大きい」ことを知って、「喜び、よろこ」ぶのです（マタイ五・一二）。
+また、義のために苦しむことにおいて（第一ペテロ三・一四）、輝かしなさい。そのとき、あなたがたは、「天においてあなたがたの受ける報いは大きい」ことを知って、「喜び、よろこ」ぶのです（マタイ五・一二）。
 
 2. "Let your light so shine before men, that they may see your good works:" -- So far let a Christian be from ever designing or desiring to conceal his religion!
-（二）　「そのように、あなたがたの光を人々の前に輝かし、そして、人々があなたがたのよいおこないを見」るようにしなさい（マタイ五・一六）。ですから、クリスチャンは、自分の宗教を隠そうともくろんだり、願ったりすることから、遠く離れていなければなりません。
+（二）　「そのように、あなたがたの光を人々の前に輝かし、そして、人々があなたがたのよいおこないを見」るようにしなさい（マタイ五・一六）。クリスチャンは、自分の宗教を隠そうともくろんだり願ったりすることなど、決してあってはなりません。
 On the contrary, let it be your desire, not to conceal it; not to put the light under a bushel.
 それどころか、宗教を隠さないことを、光を枡の下におかないことを（マタイ五・一五）、あなたがたの願いとしなさい。
 Let it be your care to place it "on a candlestick, that it may give light to all that are in the house."
@@ -648,7 +649,7 @@ But let it be your sole aim, that all who see your good works may "glorify your 
 With this view, be plain, open, undisguised.
 この目的のために、飾らず、隠しだてをせず、偽りのない者でありなさい。
 Let your love be without dissimulation: Why should you hide fair, disinterested love
-「愛には偽りがあってはなりません」（ローマ一二・九）。公正で、私心のない愛を、なぜ隠す必要があるでしょうか。
+あなたがたの愛には偽りがあってはなりません（ローマ一二・九）。美しく、私心のない愛を、なぜ隠す必要があるでしょうか。
 Let there be no guile found in your mouth: Let your words be the genuine picture of your heart.
 あなたがたの口に偽りがないようにしなさい（黙示録一四・五）。あなたがたの言葉が、心のありのままの写しとなるようにしなさい。
 Let there be no darkness or reservedness in your conversation, no disguise in your behaviour.
@@ -664,7 +665,7 @@ and, by returning themselves `to the great Bishop of their souls, "glorify your 
 // 英文の `to the great Bishop … には閉じ引用符がない。第一ペテロ二・二五の言い換えと見て、「」に入れなかった。
 
 4. With this one design, that men may glorify God in you, go on in his name, and in the power of his might.
-（四）　人々があなたがたのうちに神をあがめるように。このただ一つの意図をもって、神の御名によって、神の偉大な力によって（エペソ六・一〇）、進んで行きなさい。
+（四）　人々があなたがたを見て神をあがめるようにという、このただ一つの意図をもって、神の御名によって、神の偉大な力によって（エペソ六・一〇）、進んで行きなさい。
 Be not ashamed even to stand alone, so it be in the ways of God.
 たとえひとりで立つことになっても、それが神の道においてであるなら、恥じてはなりません。
 Let the light which is in your heart shine in all good works both works of piety and works of mercy.
