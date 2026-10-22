@@ -11,7 +11,7 @@
 + [x] Sermon 1. Salvation By Faith
 + [x] Sermon 2. The Almost Christian
 + [x] Sermon 3. Awake, Thou That Sleepest
-+ [ ] Sermon 4. Scriptural Christianity
++ [x] Sermon 4. Scriptural Christianity
 + [ ] Sermon 5. Justification By Faith
 + [ ] Sermon 6. The Righteousness Of Faith
 + [ ] Sermon 7. The Way To The Kingdom
