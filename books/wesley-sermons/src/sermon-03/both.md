@@ -83,7 +83,7 @@ he wants nothing of godliness, but the power; nothing of religion, but the spiri
 その人の敬虔に欠けているのは、力だけです。その宗教に欠けているのは、霊だけです。そのキリスト教に欠けているのは、真理といのちだけです。
 
 7. But know ye not, that, however highly esteemed among men such a Christian as this may be, he is an abomination in the sight of God, and an heir of every woe which the Son of God, yesterday, to-day, and for ever, denounces against "scribes and Pharisees, hypocrites"
-（七）　けれども、あなたがたは知らないのですか。このようなクリスチャンは、「人々の間で」どれほど「尊ばれ」ていても、「神のみまえでは忌みきらわれ」ます（ルカ一六・一五）。神の御子は「きのうも、きょうも、いつまでも」（ヘブル一三・八）、「偽善な律法学者、パリサイ人たち」にわざわいを宣告しておられます。その人は、そのわざわいをことごとく受け継ぐ者なのです。
+（七）　けれども、あなたがたは知らないのですか。このようなクリスチャンは、「人々の間で」どれほど「尊ばれ」ていても、「神のみまえでは忌みきらわれ」ます（ルカ一六・一五）。神の御子は「きのうも、きょうも、いつまでも」（ヘブル一三・八）、「偽善な律法学者、パリサイ人たち」にわざわいを宣告しておられます（マタイ二三章）。その人は、そのわざわいをことごとく受け継ぐ者なのです。
 he hath "made clean the outside of the cup and the platter," but within is full of all filthiness.
 その人は、「杯と皿との外側はきよめる」のですが、内側はあらゆる汚れに満ちています（マタイ二三・二五）。
 "An evil disease cleaveth still unto him, so that his inward parts are very wickedness."
@@ -112,7 +112,7 @@ thou shalt lose the life of thy soul; thou shalt die to God: shalt be separated 
 9. Thus first was dissolved the vital union of our soul with God; insomuch that "in the midst of" natural "life, we are" now in spiritual "death."
 （九）　こうして初めて、私たちの魂と神との生きた結びつきが断たれました。そのため、私たちはいま、肉体の「生のさなかにあって」、霊の「死のうちにある」のです（祈祷書「埋葬式」）。
 And herein we remain till the Second Adam becomes a quickening Spirit to us; till he raises the dead, the dead in sin, in pleasure, riches or honours.
-そして、第二のアダムが私たちにとって「命を与える霊」となられるまで（第一コリント一五・四五）、私たちはこの状態にとどまります。キリストが死人をよみがえらせてくださるまでです。罪のうちに、快楽や富や名誉のうちに死んでいる者をです。
+そして、第二のアダムが私たちにとって「いのちを与える霊」となられるまで（第一コリント一五・四五）、私たちはこの状態にとどまります。キリストが死人をよみがえらせてくださるまでです。罪のうちに、快楽や富や名誉のうちに死んでいる者をです。
 But, before any dead soul can live, he "hears" (hearkens to) "the voice of the Son of God": he is made sensible of his lost estate, and receives the sentence of death in himself.
 けれども、死んだ魂が生きるには、その前に「神の子の声を聞く」（耳を傾ける）のです（ヨハネ五・二五）。自分が滅びた状態にあることに気づかされ、自分のうちに死の宣告を受けるのです（第二コリント一・九）。
 he knows himself to be "dead while he liveth;" dead to God, and all the things of God; having no more power to perform the actions of a living Christian, than a dead body to perform the functions of a living man.
@@ -142,10 +142,10 @@ he is not content with being utterly ignorant of spiritual things, but he denies
 Even as you know that your body is now alive.
 あなたがたが、自分のからだがいま生きていると知っているのと同じように、知ることができるのです。
 Faith is the life of the soul; and if ye have this life abiding in you, ye want no marks to evidence it to yourself, but elegchos pneumatos, that divine consciousness, that witness of God, which is more and greater than ten thousand human witnesses.
-信仰は魂のいのちです。このいのちがあなたがたのうちにとどまっているなら、それを自分に確かめるしるしは、ほかに要りません。原語でエレンコス・プネウマトス（御霊の確証）と言うものがあれば足ります。それは神から与えられる自覚であり、神のあかしです。人間の一万人の証人よりも、まさって大きなものです。
+信仰は魂のいのちです。このいのちがあなたがたのうちにとどまっているなら、それを自分に確かめるしるしは、ほかに要りません。原語でエレンコス・プネウマトス（御霊の確証）と言うものがあれば足ります。それは神から与えられる自覚であり、神のあかしです。人間の証人が一万人いるよりも、まさって大きなものです。
 
 12. If he doth not now bear witness with thy spirit, that thou art a child of God, O that he might convince thee, thou poor unawakened sinner, by his demonstration and power, that thou art a child of the devil!
-（一二）　まだ目覚めていない、あわれな罪人よ。いま御霊が、あなたの霊と共に、あなたが神の子であることをあかししておられないなら（ローマ八・一六）、どうか御霊がその証明と力によって、あなたが悪魔の子であることを悟らせてくださいますように。
+（一二）　まだ目覚めていない、あわれな罪人よ。いま御霊が、あなたの霊と共に、あなたが神の子であることをあかししておられないなら（ローマ八・一六）、どうか御霊が悟らせてくださいますように。あなたが悪魔の子であることを、その証明と力によって悟らせてくださいますように。
 O that, as I prophesy, there might now be "a noise and a shaking;" and may "the bones come together, bone to his bone!" Then "come from the four winds, O Breath! and breathe on these slain, that they may live!"
 どうか、私が預言しているいま、「声があり」、「動く音があり」、「骨と骨が集まって相つらな」りますように（エゼキエル三七・七）。そのとき、「息よ、四方から吹いて来て、この殺された者たちの上に吹き、彼らを生かしてください」（エゼキエル三七・九）。
 And do not ye harden your hearts, and resist the Holy Ghost, who even now is come to convince you of sin, "because you believe not on the name of the only begotten Son of God."
@@ -159,6 +159,7 @@ God calleth thee now by my mouth; and bids thee know thyself, thou fallen spirit
 神はいま、私の口を通してあなたを呼んでおられます。堕落した霊よ、神はあなたに、自分自身を知りなさいと命じておられます。あなたの本当の状態と、この世でのただ一つの務めを知りなさいと命じておられるのです。
 "What meanest thou, O sleeper Arise! Call upon thy God, if so be thy God will think upon thee, that thou perish not."
 「眠っている者よ、あなたはどうして眠っているのですか。起きて、あなたの神に呼ばわりなさい。神があるいは、あなたを顧みて、助けてくださるでしょう」（ヨナ一・六）。
+// 口語訳は「われわれを顧みて」。英文（thy God will think upon thee）は眠る者ひとりへの呼びかけに言い換えているので、「あなたを顧みて」とし、「眠っている者よ」を足した。
 A mighty tempest is stirred up round about thee, and thou art sinking into the depths of perdition, the gulf of God's judgements.
 あなたの周りには、「激しい暴風」が起こっています（ヨナ一・四）。あなたは、滅びの深みに、神のさばきの淵に沈みかけています。
 If thou wouldest escape them, cast thyself into them. "Judge thyself, and thou shalt not be judged of the Lord."
@@ -166,11 +167,11 @@ If thou wouldest escape them, cast thyself into them. "Judge thyself, and thou s
 // 第一コリント一一・三一の口語訳は「自分をよくわきまえておくならば」。英文（欽定訳 judge ourselves）は前の文の「さばき」を受けているので、「さばく」とした。
 
 2. Awake, awake! Stand up this moment, lest thou "drink at the Lord's hand the cup of his fury."
-（二）　「起きよ、起きよ」！　いま「立」ちなさい。「主の手から憤りの杯をうけて飲」むことのないためです（イザヤ五一・一七）。
+（二）　起きなさい、起きなさい！　いま立ちなさい。「主の手から憤りの杯をうけて飲」むことのないためです（イザヤ五一・一七）。
 Stir up thyself to lay hold on the Lord, the Lord thy Righteousness, mighty to save!
 「みずから励んで」、主に「よりすが」りなさい（イザヤ六四・七）。主は「われわれの正義」であり（エレミヤ二三・六）、「救を施す力ある」方です（イザヤ六三・一）。
 "Shake thyself from the dust." At least, let the earthquake of God's threatenings shake thee.
-「あなたの身からちりを振り落せ」（イザヤ五二・二）。せめて、神の警告という地震に、揺り動かされなさい。
+「あなたの身からちりを振り落しなさい」（イザヤ五二・二）。せめて、神の警告という地震に、揺り動かされなさい。
 Awake, and cry out with the trembling jailer, "What must I do to be saved"
 目を覚まして、「おののきながら」ひれ伏した獄吏と共に（使徒一六・二九）、叫びなさい。「私は救われるために、何をすべきでしょうか」（使徒一六・三〇）。
 And never rest till thou believest on the Lord Jesus, with a faith which is his gift, by the operation of his Spirit.
@@ -196,7 +197,7 @@ And mayest thou feel the stroke of an Almighty Hand, raising thee, with, "Arise 
 （五）　永遠の霊よ、この世の幸福の夢から覚めなさい！　神はあなたを、ご自分のために造られたのではありませんか。それなら、あなたは神のうちに憩うまで、憩うことができません。
 // 「神のうちに憩うまで」は、アウグスティヌス『告白』一・一の言葉による。
 Return, thou wanderer! Fly back to thy ark, This is not thy home.
-さまよう者よ、帰りなさい！　はとがノアのもとに帰ったように、あなたの箱舟へ飛んで帰りなさい（創世八・九）。ここはあなたの家ではありません。
+さまよう者よ、帰りなさい！　あなたの箱舟へ飛んで帰りなさい。ここはあなたの家ではありません。
 Think not of building tabernacles here. Thou art but a stranger, a sojourner upon earth; a creature of a day, but just launching out into an unchangeable state.
 ここに小屋を建てようと考えてはなりません（マタイ一七・四）。あなたは地上では、「旅びと」、「寄留者」にすぎません（詩篇三九・一二）。一日かぎりの被造物で、変わることのない状態へ、いま漕ぎ出そうとしているのです。
 Make haste. Eternity is at hand. Eternity depends on this moment. An eternity of happiness, or an eternity of misery!
@@ -238,9 +239,9 @@ Hast thou "received the Holy Ghost" Or dost thou start at the question, not know
 あなたは「聖霊を受けた」のですか。それとも、「聖霊なるものがあること」さえ知らずに、この問いにぎょっとするのですか（使徒一九・二）。
 
 9. If it offends thee, be thou assured, that thou neither art a Christian, nor desirest to be one.
-（九）　この問いがあなたの気にさわるなら、確かに言えます。あなたはクリスチャンではなく、クリスチャンになりたいとも思っていないのです。
+（九）　この問いがあなたの気にさわるなら、はっきり知っておきなさい。あなたはクリスチャンではなく、クリスチャンになりたいとも思っていないのです。
 Nay, thy very prayer is turned into sin; and thou hast solemnly mocked God this very day, by praying for the inspiration of his Holy Spirit, when thou didst not believe there was any such thing to be received.
-いや、あなたの祈りそのものが、罪に変わっています。あなたは今日、神の聖霊の感動を求めて祈りました。けれども、受けられるそのようなものがあるとは、信じていなかったのです。そうして、あなたはおごそかに神をあざけったのです。
+いや、あなたの祈りそのものが、罪に変わっています。あなたは今日、神の聖霊の感動を求めて祈りました。けれども、そのようなものが受けられるとは、信じていなかったのです。そうして、あなたはおごそかに神をあざけったのです。
 
 10. Yet, on the authority of God's Word, and our own Church, I must repeat the question, "Hast thou received the Holy Ghost"
 （一〇）　それでも、私は神のことばと私たちの教会の権威によって、この問いを繰り返さなければなりません。「あなたは聖霊を受けたのですか」。
@@ -285,6 +286,7 @@ Hast thou received the faithful saying as the whole foundation of thy hope, "tha
 「キリスト・イエスは、罪人を救うためにこの世にきてくださった」という確実な言葉を（第一テモテ一・一五）、あなたは自分の望みの土台のすべてとして受け入れましたか。
 Hast thou learned what that meaneth, "I came not to call the righteous, but sinners to repentance I am not sent, but unto the lost sheep"
 次の言葉がどういう意味か、学びましたか。「わたしがきたのは、義人を招くためではなく、罪人を招いて悔い改めさせるためです」（マタイ九・一三）。「わたしは、失われた羊以外の者には、つかわされていません」（マタイ一五・二四）。
+// マタイ九・一三の口語訳には「悔い改め」がない。英文（欽定訳 to repentance）に合わせ、ルカ五・三二の口語訳の文言を借りた。
 Art thou (he that heareth, let him understand!) lost, dead, damned already
 あなたは、失われた者、死んだ者、すでに罪に定められた者ですか。聞く者は悟りなさい。
 Dost thou know thy deserts Dost thou feel thy wants
@@ -307,16 +309,16 @@ Now, "awake, thou that sleepest" in spiritual death, that thou sleep not in deat
 Feel thy lost estate, and "arise from the dead." Leave thine old companions in sin and death.
 自分の滅びた状態を感じ取り、「死人のなかから、立ち上がりなさい」。罪と死のうちにいる昔の仲間から離れなさい。
 Follow thou Jesus, and let the dead bury their dead.
-イエスに従いなさい。そして、「その死人を葬ることは、死人に任せておく」のです（マタイ八・二二）。
+イエスに従いなさい。そして、「その死人を葬ることは、死人に任せておき」なさい（マタイ八・二二）。
 "Save thyself from this untoward generation." "Come out from among them, and be thou separate, and touch not the unclean thing, and the Lord shall receive thee." "Christ shall give thee light."
-「この曲った時代から救われ」なさい（使徒二・四〇）。「彼らの間から出て行き、彼らと分離せよ」。「汚れたものに触てはならない。触なければ」、主はあなたを「受けいれ」てくださいます（第二コリント六・一七）。「キリストがあなたを照してくださいます」。
+「この曲った時代から救われ」なさい（使徒二・四〇）。「彼らの間から出て行き、彼らと分離しなさい」。「汚れたものに触てはならない。触なければ」、主はあなたを「受けいれ」てくださいます（第二コリント六・一七）。「キリストがあなたを照してくださいます」。
 
 ## 【三】　「キリストがあなたを照してくださる」という約束
 
 III. 1. This promise, I come, lastly, to explain.
 （一）　最後に、この約束を説き明かします。
 And how encouraging a consideration is this, that whosoever thou art, who obeyest his call, thou canst not seek his face in vain! If thou even now "awakest, and arisest from the dead," he hath bound himself to "give thee light."
-これは、なんと心強いことでしょう。あなたがだれであっても、主の呼びかけに従うなら、主の御顔をむなしく求めることは決してないのです！　あなたがいま「起き」て、「死人のなかから、立ち上が」るなら、主は「あなたを照す」と、ご自分に約束を課しておられます。
+これは、なんと心強いことでしょう。あなたがだれであっても、主の呼びかけに従うなら、主の御顔をむなしく求めることは決してないのです！　あなたがいま「起き」て、「死人のなかから、立ち上が」るなら、主は「あなたを照す」と、固く約束しておられます。
 "The Lord shall give thee grace and glory;" the light of his grace here, and the light of his glory when thou receivest the crown that fadeth not away.
 「主は恵みと誉とを与え」てくださいます（詩篇八四・一一）。この世では恵みの光を与え、「しぼむことのない栄光の冠」を受けるときには（第一ペテロ五・四）、栄光の光を与えてくださるのです。
 "Thy light shall break forth as the morning, and thy darkness be as the noon-day."
@@ -326,7 +328,7 @@ And how encouraging a consideration is this, that whosoever thou art, who obeyes
 On them that fear the Lord shall "the Sun of Righteousness arise with healing in his wings."
 主を恐れる者には、「義の太陽がのぼり、その翼には、いやす力を備えて」います（マラキ四・二）。
 And in that day it shall be said unto thee, "Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee."
-その日、あなたにこう言われます。「起きよ、光を放て。あなたの光が臨み、主の栄光があなたの上にのぼったからです」（イザヤ六〇・一）。
+その日、あなたにこう言われます。「起きなさい、光を放ちなさい。あなたの光が臨み、主の栄光があなたの上にのぼったからです」（イザヤ六〇・一）。
 For Christ shall reveal himself in thee: and he is the true Light.
 キリストが、あなたのうちにご自分を現してくださるからです。キリストこそ、「まことの光」です（ヨハネ一・九）。
 
@@ -335,14 +337,14 @@ For Christ shall reveal himself in thee: and he is the true Light.
 and thou shalt then be a temple of the living God, and Christ shall "dwell in thy heart by faith;"
 そのとき、あなたは「生ける神の宮」となります（第二コリント六・一六）。「信仰によって、キリストがあなたの心のうちに住」んでくださいます。
 and, "being rooted and grounded in love, thou shalt be able to comprehend with all saints, what is the breadth, and length, and depth, and height of that love of Christ which passeth knowledge."
-そして、あなたは「愛に根ざし愛を基として」、「すべての聖徒と共に」、「人知をはるかに越えたキリストの愛」の「広さ、長さ、高さ、深さを理解することができ」るようになります（エペソ三・一七〜一九）。
+そして、あなたは「愛に根ざし愛を基として」、「すべての聖徒と共に」理解することができるようになります。「人知をはるかに越えたキリストの愛」の「広さ、長さ、高さ、深さ」をです（エペソ三・一七〜一九）。
 
 3. Ye see your calling, brethren.
 （三）　兄弟たちよ、あなたがたは自分の受けた召しがわかるでしょう（第一コリント一・二六）。
 We are called to be "an habitation of God through his Spirit;" and, through his Spirit dwelling in us, to be saints here, and partakers of the inheritance of the saints in light.
 私たちは、「霊なる神のすまい」となるように召されています（エペソ二・二二）。私たちのうちに住まわれる御霊によって、この世で聖徒となり、「光のうちにある聖徒たちの特権にあずかる」ように召されているのです（コロサイ一・一二）。
 So exceeding great are the promises which are given unto us, actually given unto us who believe! For by faith "we receive, not the spirit of the world, but the Spirit which is of God" --the sum of all the promises-- "that we may know the things that are freely given to us of God."
-私たちに与えられている約束は、それほど「尊く、大いなる」ものです（第二ペテロ一・四）。信じる私たちに、現に与えられているのです！　信仰によって、「私たちが受けたのは、この世の霊ではなく、神からの霊」だからです。この御霊こそ、すべての約束をまとめたものです。それは、「神から賜わった恵みを悟るため」です（第一コリント二・一二）。
+私たちに与えられている約束は、なんと「尊く、大いなる」ものでしょう（第二ペテロ一・四）。信じる私たちに、現に与えられているのです！　信仰によって、「私たちが受けたのは、この世の霊ではなく、神からの霊」だからです。この御霊こそ、すべての約束をまとめたものです。それは、「神から賜わった恵みを悟るため」です（第一コリント二・一二）。
 
 4. The Spirit of Christ is that great gift of God, which at sundry times, and in divers manners, he hath promised to man, and hath fully bestowed since the time that Christ was glorified.
 （四）　キリストの御霊は、神の大いなる賜物です。神は「いろいろな時に、いろいろな方法で」（ヘブル一・一）、この賜物を人に約束してこられました。そして、キリストが「栄光を受け」られてからは（ヨハネ七・三九）、余すところなく与えてくださいました。
@@ -369,13 +371,13 @@ Thou shalt be sanctified also through faith which is in Jesus, and shalt set to 
 6. Men and brethren, let me freely speak unto you, and suffer ye the word of exhortation, even from one the least esteemed in the Church.
 （六）　兄弟たちよ、あなたがたに率直に語らせてください（使徒二・二九）。教会でいちばん軽んじられている者からであっても、この「勧めの言葉を受けいれて」ください（ヘブル一三・二二）。
 Your conscience beareth you witness in the Holy Ghost, that these things are so, if so be ye have tasted that the Lord is gracious.
-あなたがたが、「主が恵み深いかたであることを」「味わい知った」のなら（第一ペテロ二・三）、あなたがたの「良心も聖霊によって」、これらのことがそのとおりだと「あかし」しています（ローマ九・一）。
+あなたがたが、「主が恵み深いかたであることを」「味わい知った」のなら（第一ペテロ二・三）、これらのことはそのとおりです。あなたがたの「良心も聖霊によって」、そう「あかし」しています（ローマ九・一）。
 "This is eternal life, to know the only true God, and Jesus Christ, whom he hath sent."
 「永遠のいのちとは、唯一の、まことの神」と、神が「つかわされたイエス・キリストとを知ること」です（ヨハネ一七・三）。
 This experimental knowledge, and this alone, is true Christianity.
 このように体験によって知ること、ただこれだけが、まことのキリスト教です。
 he is a Christian who hath received the Spirit of Christ. he is not a Christian who hath not received him. Neither is it possible to have received him, and not know it.
-キリストの御霊を受けた人が、クリスチャンです。御霊を受けていない人は、クリスチャンではありません（ローマ八・九）。また、御霊を受けていながら、それを知らないということはありえません。
+キリストの御霊を受けた人が、クリスチャンです。御霊を受けていない人は、クリスチャンではありません。また、御霊を受けていながら、それを知らないということはありえません。
 "For, at that day" (when he cometh, saith our Lord), "ye shall know that I am in My Father, and you in Me, and I in you."
 私たちの主は、こう言われます。「その日には」（つまり、御霊が来られるときには）、「わたしはわたしの父におり、あなたがたはわたしにおり、また、わたしがあなたがたにおることが、わかるでしょう」（ヨハネ一四・二〇）。
 This is that "Spirit of Truth, whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you" (John 14:17).
@@ -388,7 +390,7 @@ But every spirit which confesseth not this is not of God.
 Yea, "this is that spirit of Antichrist, whereof ye have heard that it should come into the world; and even now it is in the world."
 そうです、「これは、反キリストの霊です。あなたがたは、それが来るとかねて聞いていましたが、今やすでに世にきています」（第一ヨハネ四・三）。
 he is Antichrist whosoever denies the inspiration of the Holy Ghost, or that the indwelling Spirit of God is the common privilege of all believers, the blessing of the gospel, the unspeakable gift, the universal promise, the criterion of a real Christian.
-聖霊の感動を否定する者は、だれであっても反キリストです。神の御霊が内に住まわれることを否定する者も、反キリストです。御霊の内住は、すべての信じる者に共通の特権です。福音の祝福であり、「言いつくせない賜物」です（第二コリント九・一五）。すべての人への約束であり、本物のクリスチャンを見分ける基準です。
+聖霊の感動を否定する者は、だれであっても反キリストです。内に住まわれる神の御霊が、すべての信じる者に共通の特権であることを否定する者も、反キリストです。御霊は福音の祝福であり、「言いつくせない賜物」です（第二コリント九・一五）。すべての人への約束であり、本物のクリスチャンを見分ける基準です。
 
 8. It nothing helps them to say, "We do not deny the assistance of God's Spirit; but only this inspiration, this receiving the Holy Ghost: and being sensible of it.
 （八）　彼らがこう言っても、何の助けにもなりません。「私たちは、神の御霊の助けを否定しているのではない。否定しているのは、この感動だけだ。聖霊を受けて、それを感じるということだけだ。
@@ -418,7 +420,7 @@ that it should be almost universally denied, ridiculed, and exploded, as mere fr
 This is "that falling away" which was to come--that general apostasy of all orders and degrees of men, which we even now find to have overspread the earth.
 これが、来るはずであった「背教」です（第二テサロニケ二・三）。あらゆる階層、あらゆる身分の人々の、全面的な背教です。私たちはいまでさえ、それが地をおおっているのを見ています。
 "Run to and fro in the streets of Jerusalem, and see if ye can find a man," a man that loveth the Lord his God with all his heart, and serveth him with all his strength.
-「エルサレムのちまたを行きめぐり」、「ひとりでもあるか捜してみよ」（エレミヤ五・一）。心をつくして主なる神を愛し、力をつくして神に仕える人が、ひとりでもいるでしょうか。
+「エルサレムのちまたを行きめぐり」、「ひとりでもあるか捜してみなさい」（エレミヤ五・一）。心をつくして主なる神を愛し、力をつくして神に仕える人が、ひとりでもいるでしょうか。
 How does our own land mourn (that we look no farther) under the overflowings of ungodliness! What villanies of every kind are committed day by day; yea, too often with impunity, by those who sin with a high hand, and glory in their shame!
 ほかの国は見ないとしても、私たちの国は、あふれる不敬虔の下で、なんと嘆いていることでしょう！　あらゆる種類の悪事が、日ごとに行われています。それも多くの場合、とがめられずに行われています。行っているのは、「故意に罪を犯す者」（民数一五・三〇）、「その恥」を「栄光」とする者たちです（ピリピ三・一九）。
 Who can reckon up the oaths, curses, profaneness blasphemies; the lying, slandering, evil-speaking; the Sabbath-breaking, gluttony, drunkenness, revenge; the whoredoms, adulteries, and various uncleanness; the frauds, injustice, oppression, extortion, which overspread our land as a flood
@@ -431,7 +433,7 @@ For, where is he that loveth either God or his neighbour, as he hath given us co
 On the one hand, are those who have not so much as the form of godliness; on the other, those who have the form only: there stands the open, there the painted, sepulchre.
 一方には、敬虔の形さえ持たない人々がいます。もう一方には、形だけを持つ人々がいます。こちらには口を開けた墓があり、あちらには白く塗った墓があるのです。
 So that in very deed, whosoever were earnestly to behold any public gathering together of the people (I fear those in our churches are not to be excepted) might easily perceive, "that the one part were Sadducees, and the other Pharisees":
-ですから、人々が公に集まるところを、だれかが注意深く見るなら、まさにこう気づくでしょう。私たちの教会での集まりも、残念ながら例外ではないと思います。「一部はサドカイ人であり、一部はパリサイ人である」のです（使徒二三・六）。
+ですから、人々が公に集まるところを、だれかが注意深く見るなら、まさにこう気づくでしょう。「一部はサドカイ人であり、一部はパリサイ人である」と（使徒二三・六）。残念ながら、私たちの教会での集まりも例外ではないと思います。
 the one having almost as little concern about religion, as if there were "no resurrection, neither angel nor spirit;" and the other making it a mere lifeless form, a dull round of external performances, without either true faith, or the love of God, or joy in the Holy Ghost!
 一方の人々は、「復活とか天使とか霊とかは、いっさい存在しない」かのように（使徒二三・八）、宗教にほとんど関心を持ちません。もう一方の人々は、宗教をただの生気のない形にしています。まことの信仰も、神の愛も、聖霊における喜びもない、外面的な務めの退屈な繰り返しにしているのです！
 
@@ -447,9 +449,9 @@ he hath appointed us indeed to be "the salt of the earth: but if the salt hath l
 神は確かに、私たちを「地の塩」と定められました。けれども、「もし塩のききめがなくなったら」、「もはや、なんの役にも立たず、ただ外に捨てられて、人々にふみつけられるだけ」です（マタイ五・一三）。
 
 13. And "shall I not visit for these things, saith the Lord Shall not My soul be avenged on such a nation as this"
-（一三）　そして、主はこう言われます。「わたしはこれらの事のために彼らを罰しないでいられようか。このような国民にあだを返さないであろうか」（エレミヤ五・九）。
+（一三）　そして、主はこう言われます。「わたしはこれらの事のために彼らを罰しないでいられましょうか。このような国民にあだを返さないでしょうか」（エレミヤ五・九）。
 Yea, we know not how soon he may say to the sword, "Sword, go through this land!"
-そうです、主がいつ剣に向かって、「つるぎよ、この地を行きめぐれ」と言われるか（エゼキエル一四・一七）、私たちにはわかりません。
+そうです、主がいつつるぎに向かって、「つるぎよ、この地を行きめぐれ」と言われるか（エゼキエル一四・一七）、私たちにはわかりません。
 he hath given us long space to repent. he lets us alone this year also: but he warns and awakens us by thunder.
 主は私たちに、悔い改めるための長い時を与えてこられました。「ことしも、そのままにして」くださっています（ルカ一三・八）。けれども、雷によって私たちに警告し、私たちを目覚めさせておられます。
 his judgements are abroad in the earth; and we have all reason to expect the heaviest of all, even that he "should come unto us quickly, and remove our candlestick out of its place, except we repent and do the first works;"
@@ -459,7 +461,7 @@ unless we return to the principles of the Reformation, the truth and simplicity 
 Perhaps we are now resisting the last effort of divine grace to save us.
 もしかすると、私たちはいま、私たちを救おうとする神の恵みの最後の働きかけに、逆らっているのかもしれません。
 Perhaps we have well-nigh "filled up the measure of our iniquities," by rejecting the counsel of God against ourselves, and casting out his messengers.
-もしかすると、「自分たちに対する神のみこころを無にし」（ルカ七・三〇）、神の使者たちを追い出して、もう少しで「悪の枡目を満たす」ところまで来ているのかもしれません（マタイ二三・三二）。
+もしかすると、私たちは「自分たちに対する神のみこころを無にし」（ルカ七・三〇）、神の使者たちを追い出してきたのかもしれません。そうして、もう少しで「悪の枡目を満たす」ところまで来ているのかもしれません（マタイ二三・三二）。
 
 14. O God, "in the midst of wrath, remember mercy!" Be glorified in our reformation, not in our destruction! Let us "hear the rod, and him that appointed it!" Now that Thy "judgements are abroad in the earth," let the inhabitants of the world "learn righteousness!"
 （一四）　神よ、「怒る時にもあわれみを思いおこしてください」（ハバクク三・二）。私たちを滅ぼすことによってではなく、改めさせることによって、栄光をお受けください！　私たちが「むちと、それを定めた方とに聞き従う」ようにしてください（ミカ六・九）。あなたの「さばきが地に行われる」いま、「世に住む者」に「正義を学」ばせてください（イザヤ二六・九）。
@@ -469,6 +471,7 @@ Perhaps we have well-nigh "filled up the measure of our iniquities," by rejectin
 （一五）　兄弟たちよ、私たちが「眠りからさめるべき時が、すでにきて」います（ローマ一三・一一）。「大いなるラッパが鳴りひび」く前に（イザヤ二七・一三）、私たちの国が血に染まった野となる前に、目を覚まさなければなりません。
 O may we speedily see the things that make for our peace, before they are hid from our eyes! "Turn Thou us, O good Lord, and let Thine anger cease from us. O Lord, look down from heaven, behold and visit this vine;" and cause us to know "the time of our visitation."
 どうか、「平和をもたらす道」が私たちの「目に隠され」る前に（ルカ一九・四二）、すぐにそれを悟ることができますように！　「恵み深い主よ、私たちを回復し、私たちに対するあなたの憤りをおやめください」（詩篇八五・四）。「主よ、再び天から見おろして、このぶどうの木をかえりみてください」（詩篇八〇・一四）。私たちに、「神のおとずれの時」を知らせてください（ルカ一九・四四）。
+// 詩篇八五・四の口語訳は「われらの救の神よ」。英文の O good Lord は祈祷書（大斎始日の懺悔式）の文言なので、それに合わせた。
 "Help us, O God of our salvation, for the glory of Thy name! O deliver us, and be merciful to our sins, for Thy name's sake! And so we will not go back from Thee. O let us live, and we shall call upon Thy name. Turn us again, O Lord God of Hosts! Show the light of Thy countenance, and we shall be whole."
 「私たちの救の神よ、み名の栄光のために私たちを助け、み名のために私たちを救い、私たちの罪をおゆるしください」（詩篇七九・九）。「そうすれば、私たちはあなたを離れ退くことはありません。私たちを生かしてください。私たちはあなたのみ名を呼びます。万軍の神、主よ、私たちをもとに返し、み顔の光を照してください。そうすれば私たちは救をえるでしょう」（詩篇八〇・一八〜一九）。
 
