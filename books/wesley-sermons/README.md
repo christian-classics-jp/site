@@ -10,7 +10,7 @@
 
 + [x] Sermon 1. Salvation By Faith
 + [x] Sermon 2. The Almost Christian
-+ [ ] Sermon 3. Awake, Thou That Sleepest
++ [x] Sermon 3. Awake, Thou That Sleepest
 + [ ] Sermon 4. Scriptural Christianity
 + [ ] Sermon 5. Justification By Faith
 + [ ] Sermon 6. The Righteousness Of Faith
