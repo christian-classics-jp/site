@@ -36,7 +36,7 @@
 + [x] Sermon 31. Upon Our Lord's Sermon On The Mount: Discourse Eleven
 + [x] Sermon 32. Upon Our Lord's Sermon On The Mount: Discourse Twelve
 + [x] Sermon 33. Upon Our Lord's Sermon On The Mount: Discourse Thirteen
-+ [ ] Sermon 34. The Original, Nature, Property, And Use Of The Law
++ [x] Sermon 34. The Original, Nature, Property, And Use Of The Law
 + [ ] Sermon 35. The Law Established Through Faith: Discourse One
 + [ ] Sermon 36. The Law Established Through Faith: Discourse Two
 + [ ] Sermon 37. The Nature Of Enthusiasm
