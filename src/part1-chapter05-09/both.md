@@ -6,7 +6,7 @@
 // クリスチャンの叫び（詩篇六九・二、四二・七）は原文に引用符がないので、口語訳に揃えず「私」で訳した。
 
 So I saw that when they awoke, they addressed themselves to go up to the city; but, as I said, the reflection of the sun upon the city (for the city was pure gold) was so extremely glorious that they could not, as yet, with open face behold it, but through an instrument made for that purpose. So I saw, that as I went on, there met them two men, in raiment that shone like gold; also their faces shone as the light. [Rev. 21:18, 2 Cor. 3:18]
-私が見ていると、二人は目を覚まし、都へ上っていく支度をした。けれども、前にも言ったように、都に照り返す日の光はあまりにも輝かしかった。都は純金でできていたのである（黙示録二一・一八）。それで二人は、まだ顔おおいなしに都を見ることができなかった。そのために作られた器具を通して見るほかなかったのである（第二コリント三・一八）。さらに見ていると、二人が進んでいくうちに、金のように輝く衣を着た人が二人、彼らを出迎えた。その顔も光のように輝いていた。
+私が見ていると、二人は目を覚まし、都へ上っていく支度をした。けれども、前にも言ったように、都に照り返す日の光はあまりにも輝かしかった。都は純金でできていたのである。それで二人は、まだ顔おおいなしに都を見ることができなかった。そのために作られた器具を通して見るほかなかったのである。さらに見ていくと、金のように輝く衣を着た人が二人、彼らを出迎えた。その顔も光のように輝いていた（黙示録二一・一八、第二コリント三・一八）。
 
 These men asked the Pilgrims whence they came; and they told them. They also asked them where they had lodged, what difficulties and dangers, what comforts and pleasures they had met in the way; and they told them. Then said the men that met them, You have but two difficulties more to meet with, and then you are in the city.
 その人たちは巡礼者たちに、どこから来たのかと尋ねた。巡礼者たちは答えた。その人たちはまた、どこに泊まったのか、道中でどんな困難や危険に、どんな慰めや楽しみに出会ったのかと尋ねた。巡礼者たちはそれにも答えた。すると、出迎えた人たちは言った。
@@ -28,7 +28,7 @@ Now, I further saw, that betwixt them and the gate was a river, but there was no
 The Pilgrims then began to inquire if there was no other way to the gate; to which they answered, Yes; but there hath not any, save two, to wit, Enoch and Elijah, been permitted to tread that path since the foundation of the world, nor shall, until the last trumpet shall sound. [1 Cor. 15:51,52] The Pilgrims then, especially Christian, began to despond in their minds, and looked this way and that, but no way could be found by them by which they might escape the river. Then they asked the men if the waters were all of a depth. They said: No; yet they could not help them in that case; for, said they, you shall find it deeper or shallower as you believe in the King of the place.
 そこで巡礼者たちは、門へ行くほかの道はないのかと尋ねた。その人たちは答えた。
 
-「あります。けれども、世の初めから、その道を通ることをゆるされたのは、エノクとエリヤの二人だけです。終わりのラッパが鳴るまで、ほかにゆるされる者はありません」
+「あります。けれども、世の初めから、その道を通ることをゆるされたのは、エノクとエリヤの二人だけです。終わりのラッパが鳴るまで、ほかにゆるされる者はありません（第一コリント一五・五一〜五二）」
 
 すると巡礼者たちは気落ちし始めた。とりわけクリスチャンがそうだった。二人はあちらこちらを見回したが、川を避けて通れる道はどこにも見つからなかった。そこで二人は、水の深さはどこも同じなのかと尋ねた。その人たちは、そうではないと答えた。けれども、そのことでは二人を助けることはできなかった。その人たちはこう言ったのである。
 
@@ -92,13 +92,19 @@ Now, upon the bank of the river, on the other side, they saw the two shining men
 Now you must note that the city stood upon a mighty hill, but the Pilgrims went up that hill with ease, because they had these two men to lead them up by the arms; also, they had left their mortal garments behind them in the river, for though they went in with them, they came out without them. They, therefore, went up here with much agility and speed, though the foundation upon which the city was framed was higher than the clouds. They therefore went up through the regions of the air, sweetly talking as they went, being comforted, because they safely got over the river, and had such glorious companions to attend them.
 ここで心にとめておいてほしいのは、都が大きな山の上に建っていたことである。けれども、巡礼者たちは楽々とその山を登っていった。あの輝く者たちが両腕を取って、上へと導いてくれたからである。また、二人は死ぬべき身の衣を、川の中に置いてきていた。それを着たまま川に入ったのに、出てきたときには着ていなかったのである。都の土台は雲よりも高いところにあった。それでも二人は、とても身軽に、すばやく登っていった。こうして二人は、道々楽しく語り合いながら、大空を通って上っていった。無事に川を越えたこと、またこれほど栄光ある連れが付き添ってくれていることに、心慰められていたのである。
 
-// 未訳：Gutenberg 版にある詩
-Now, now, look how the holy pilgrims ride, Clouds are their chariots, angels are their guide: Who would not here for him all hazards run, That thus provides for his when this world's done?
+Now, now, look how the holy pilgrims ride,
+Clouds are their chariots, angels are their guide:
+Who would not here for him all hazards run,
+That thus provides for his when this world's done?
+さあ、さあ、見よ、聖なる巡礼者たちが乗りゆくさまを。<br/>
+雲は彼らの車、天使は彼らの導き手。<br/>
+ここで誰が、その方のためにあらゆる危険を冒さずにいようか<br/>
+この世を終えたご自分の民に、こうして備えてくださる方のために。
 
 The talk they had with the Shining Ones was about the glory of the place; who told them that the beauty and glory of it was inexpressible. There, said they, is the Mount Zion, the heavenly Jerusalem, the innumerable company of angels, and the spirits of just men made perfect. [Heb. 12:22-24] You are going now, said they, to the paradise of God, wherein you shall see the tree of life, and eat of the never-fading fruits thereof; and when you come there, you shall have white robes given you, and your walk and talk shall be every day with the King, even all the days of eternity. [Rev. 2:7, 3:4, 21:4,5] There you shall not see again such things as you saw when you were in the lower region upon the earth, to wit, sorrow, sickness, affliction, and death, for the former things are passed away. You are now going to Abraham, to Isaac, and Jacob, and to the prophets--men that God hath taken away from the evil to come, and that are now resting upon their beds, each one walking in his righteousness. [Isa. 57:1,2, 65:17] The men then asked, What must we do in the holy place? To whom it was answered, You must there receive the comforts of all your toil, and have joy for all your sorrow; you must reap what you have sown, even the fruit of all your prayers, and tears, and sufferings for the King by the way. [Gal. 6:7] In that place you must wear crowns of gold, and enjoy the perpetual sight and vision of the Holy One, for there you shall see him as he is. [1 John 3:2] There also you shall serve him continually with praise, with shouting, and thanksgiving, whom you desired to serve in the world, though with much difficulty, because of the infirmity of your flesh. There your eyes shall be delighted with seeing, and your ears with hearing the pleasant voice of the Mighty One. There you shall enjoy your friends again that are gone thither before you; and there you shall with joy receive, even every one that follows into the holy place after you. There also shall you be clothed with glory and majesty, and put into an equipage fit to ride out with the King of Glory. When he shall come with sound of trumpet in the clouds, as upon the wings of the wind, you shall come with him; and when he shall sit upon the throne of judgment; you shall sit by him; yea, and when he shall pass sentence upon all the workers of iniquity, let them be angels or men, you also shall have a voice in that judgment, because they were his and your enemies. [1 Thes. 4:13-16, Jude 1:14, Dan. 7:9,10, 1 Cor. 6:2,3] Also, when he shall again return to the city, you shall go too, with sound of trumpet, and be ever with him.
 輝く者たちと交わした話は、その場所の栄光についてだった。輝く者たちは、その美しさと栄光は言葉では言いあらわせないと語った。
 
-「そこには『シオンの山、天にあるエルサレム、無数の天使の祝会、全うされた義人の霊』があります（ヘブル一二・二二〜二四）。あなたがたは今、神のパラダイスへ向かっているのです。そこでいのちの木を見て、決してしぼむことのないその実を食べるでしょう。そこに着けば白い衣を与えられ、毎日王と共に歩み、語り合うのです。それも永遠に、いつまでもです（黙示録二・七、三・四〜五、二二・五）。そこでは、下の地上で見たようなものは、もう見ることはありません。すなわち、悲しみ、病、苦しみ、死です。『先のものが、すでに過ぎ去ったからである』（黙示録二一・四）。あなたがたは今、アブラハム、イサク、ヤコブのもとへ、預言者たちのもとへ行くのです。彼らは、来るべき災の前に、神が取り去られた人々です。そして今は『その床に休み、それぞれ正直に歩んで』いるのです」
+「そこには『シオンの山、天にあるエルサレム、無数の天使の祝会、全うされた義人の霊』があります（ヘブル一二・二二〜二四）。あなたがたは今、神のパラダイスへ向かっているのです。そこでいのちの木を見て、決してしぼむことのないその実を食べるでしょう。そこに着けば白い衣を与えられ、毎日王と共に歩み、語り合うのです。それも永遠に、いつまでもです（黙示録二・七、三・四、二一・四〜五）。そこでは、下の地上で見たようなものは、もう見ることはありません。すなわち、悲しみ、病、苦しみ、死です。『先のものが、すでに過ぎ去ったからである』。あなたがたは今、アブラハム、イサク、ヤコブのもとへ、預言者たちのもとへ行くのです。彼らは、来るべき災の前に、神が取り去られた人々です。そして今は『その床に休み、それぞれ正直に歩んで』いるのです（イザヤ五七・一〜二、六五・一七）」
 
 そこで巡礼者たちは尋ねた。
 
@@ -106,7 +112,7 @@ The talk they had with the Shining Ones was about the glory of the place; who to
 
 輝く者たちは答えた。
 
-「そこであなたがたは、すべての労苦の慰めを受け、すべての悲しみに代えて喜びを得ます。自分のまいたもの、すなわち道中、王のためにささげた祈り、流した涙、耐えた苦しみの実を刈り取るのです（ガラテヤ六・七〜八）。その所では金の冠をかぶり、聖なる方をいつも仰ぎ見ることができます。『そのまことの御姿を見る』からです（第一ヨハネ三・二）。そこではまた、賛美と喜びの叫びと感謝とをもって、絶えずその方に仕えます。この世でも、肉の弱さのためにひどく苦労しながら、その方に仕えたいと願ってきたのでした。そこでは、あなたがたの目は見ることを喜び、耳は力ある方の快い声を聞くことを喜ぶでしょう。先にそこへ行った友人たちとも、また共に楽しむことができます。あとから聖なる所に来る人々を、一人残らず喜んで迎えることもできます。そこではまた、栄光と威厳とを身にまといます。そして、栄光の王と共に出かけるにふさわしい装いを与えられます。王がラッパの響きとともに、風の翼に乗るようにして雲のうちに来られるとき、あなたがたも王と共に来るのです。王がさばきの座に着かれるとき、あなたがたもそのかたわらに座ります。実に、王が不法を行うすべての者に判決を下されるとき、それが天使であれ人であれ、あなたがたもそのさばきに加わるのです。彼らは王の敵であり、あなたがたの敵でもあったからです。また、王が再び都へ帰られるとき、あなたがたもラッパの響きとともに帰り、いつまでも王と共にいるのです（第一テサロニケ四・一四〜一七、ユダ一四〜一五、ダニエル七・九〜一〇、第一コリント六・二〜三）」
+「そこであなたがたは、すべての労苦の慰めを受け、すべての悲しみに代えて喜びを得ます。自分のまいたもの、すなわち道中、王のためにささげた祈り、流した涙、耐えた苦しみの実を刈り取るのです（ガラテヤ六・七）。その所では金の冠をかぶり、聖なる方をいつも仰ぎ見ることができます。『そのまことの御姿を見る』からです（第一ヨハネ三・二）。そこではまた、賛美と喜びの叫びと感謝とをもって、絶えずその方に仕えます。この世でも、肉の弱さのためにひどく苦労しながら、その方に仕えたいと願ってきたのでした。そこでは、あなたがたの目は見ることを喜び、耳は力ある方の快い声を聞くことを喜ぶでしょう。先にそこへ行った友人たちとも、また共に楽しむことができます。あとから聖なる所に来る人々を、一人残らず喜んで迎えることもできます。そこではまた、栄光と威厳とを身にまといます。そして、栄光の王と共に出かけるにふさわしい装いを与えられます。王がラッパの響きとともに、風の翼に乗るようにして雲のうちに来られるとき、あなたがたも王と共に来るのです。王がさばきの座に着かれるとき、あなたがたもそのかたわらに座ります。実に、王が不法を行うすべての者に判決を下されるとき、それが天使であれ人であれ、あなたがたもそのさばきに加わるのです。彼らは王の敵であり、あなたがたの敵でもあったからです（第一テサロニケ四・一三〜一六、ユダ一四、ダニエル七・九〜一〇、第一コリント六・二〜三）。また、王が再び都へ帰られるとき、あなたがたもラッパの響きとともに帰り、いつまでも王と共にいるのです」
 
 Now while they were thus drawing towards the gate, behold a company of the heavenly host came out to meet them; to whom it was said, by the other two Shining Ones, These are the men that have loved our Lord when they were in the world, and that have left all for his holy name; and he hath sent us to fetch them, and we have brought them thus far on their desired journey, that they may go in and look their Redeemer in the face with joy. Then the heavenly host gave a great shout, saying, "Blessed are they which are called unto the marriage supper of the Lamb." [Rev. 19:9] There came out also at this time to meet them, several of the King's trumpeters, clothed in white and shining raiment, who, with melodious noises, and loud, made even the heavens to echo with their sound. These trumpeters saluted Christian and his fellow with ten thousand welcomes from the world; and this they did with shouting, and sound of trumpet.
 さて、彼らがこうして門に近づいていくと、見よ、天の軍勢の一団が出迎えに来た。あの二人の輝く者は、その一団に言った。
@@ -127,7 +133,7 @@ Now, when they were come up to the gate, there was written over it in letters of
 
 "Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city." [Rev. 22:14]
 Then I saw in my dream that the Shining Men bid them call at the gate; the which, when they did, some looked from above over the gate, to wit, Enoch, Moses, and Elijah, &c., to whom it was said, These pilgrims are come from the City of Destruction, for the love that they bear to the King of this place; and then the Pilgrims gave in unto them each man his certificate, which they had received in the beginning; those, therefore, were carried in to the King, who, when he had read them, said, Where are the men? To whom it was answered, They are standing without the gate. The King then commanded to open the gate, "That the righteous nation," said he, "which keepeth the truth, may enter in." [Isa. 26:2]
-『いのちの木にあずかる特権を与えられ、また門をとおって都にはいるために、その戒めを行う者たちは、さいわいである』
+『いのちの木にあずかる特権を与えられ、また門をとおって都にはいるために、その戒めを行う者たちは、さいわいである』（黙示録二二・一四）
 
 それから私が夢の中で見ていると、輝く者たちは、門で呼ばわるようにと二人に言った。二人がそうすると、門の上から何人かがのぞいた。エノク、モーセ、エリヤなどであった。その人々に向かって、こう告げられた。
 
@@ -157,10 +163,10 @@ I also heard the men themselves, that they sang with a loud voice, saying,
 "BLESSING AND HONOUR, AND GLORY, AND POWER, BE UNTO HIM THAT SITTETH UPON THE THRONE, AND UNTO THE LAMB, FOR EVER AND EVER." [Rev. 5:13]
 Now, just as the gates were opened to let in the men, I looked in after them, and, behold, the City shone like the sun; the streets also were paved with gold, and in them walked many men, with crowns on their heads, palms in their hands, and golden harps to sing praises withal.
 There were also of them that had wings, and they answered one another without intermission, saying, "Holy, holy, holy is the Lord." [Rev. 4:8] And after that they shut up the gates; which, when I had seen, I wished myself among them.
-「御座にいますかたと小羊とに、さんびと、ほまれと、栄光と、権力とが、世々限りなくあるように」
+「御座にいますかたと小羊とに、さんびと、ほまれと、栄光と、権力とが、世々限りなくあるように」（黙示録五・一三）
 
 さて、二人を入れるために門が開かれたちょうどそのとき、私は二人のあとから中をのぞいた。すると見よ、都は太陽のように輝いていた。通りも金で敷きつめられていた。そこには大勢の人が歩いていた。頭には冠をかぶり、手にはしゅろの枝を持ち、賛美を歌うための金の竪琴を携えていた。翼のある者たちもいた。彼らは絶え間なく互いに呼びかわして言った。
 
-「聖なるかな、聖なるかな、聖なるかな、主」
+「聖なるかな、聖なるかな、聖なるかな、主」（黙示録四・八）
 
 それから門は閉ざされた。それを見て、私は自分もあの人たちの中にいたらと願った。
