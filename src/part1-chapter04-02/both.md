@@ -24,7 +24,8 @@ CHR. Not I, said Christian, I have heard of this place before now; and how many 
 Then Christian called to Demas, saying, Is not the place dangerous? Hath it not hindered many in their pilgrimage? [Hos. 14:8]
 そこでクリスチャンは、デマスに呼びかけて言った。
 
-「ここは危ない場所ではありませんか。これまで大勢の人の巡礼を妨げてきたのではありませんか（ホセア一四・八）」
+「ここは危ない場所ではありませんか。これまで大勢の人の巡礼を妨げてきたのではありませんか（ホセア九・六）」
+// 新英文の Hos. 14:8 は偶像の節で文脈に合わないので誤植とみて、銀の宝物を言う旧英文の Hos. 9:6 とした
 
 DEMAS. Not very dangerous, except to those that are careless, (but withal, he blushed as he spake).
 デマス「不注意な人でなければ、たいして危なくはありませんよ」
