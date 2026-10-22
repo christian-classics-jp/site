@@ -40,7 +40,8 @@ Secondly, the folly of trusting in the righteousness of the law, and the wisdom 
 ## 【一】　律法による義と信仰による義
 
 I. 1. And, First, "the righteousness which is of the law saith, The man which doeth these things shall live by them."
-（一）　まず第一に、「律法による義を行う人は、その義によって生きる」と言われています（ローマ一〇・五）。
+（一）　まず第一に、律法による義は、こう言っています。「もし人が、これを行うならば、これによって生きるでしょう」（レビ記一八・五）。
+// 英文はローマ一〇・五の言い換え。ローマ一〇・五の口語訳「律法による義を行う人は、その義によって生きる」は「律法による義は言う」の形に入らないため、パウロが引くレビ記一八・五の文言を使った。
 Constantly and perfectly observe all these things to do them, and then thou shalt live for ever.
 これらのことをすべて、絶えず、完全に守り行いなさい。そうすれば、あなたは永遠に生きる、というのです。
 This law, or covenant, (usually called the Covenant of Works,) given by God to man in Paradise, required an obedience perfect in all its parts, entire and wanting nothing, as the condition of his eternal continuance in the holiness and happiness wherein he was created.
@@ -73,7 +74,7 @@ Nor did it answer the demand of this covenant, to love God with every power and 
 また、あらゆる力、あらゆる能力で神を愛しても、それだけでは、この契約の求めにこたえたことになりませんでした。その一つ一つの力を限りまで用い、魂にできるかぎりのすべてをもって、神を愛さなければならなかったのです。
 
 4. One thing more was indispensably required by the righteousness of the law, namely, that this universal obedience, this perfect holiness both of heart and life, should be perfectly uninterrupted also, should continue without any intermission, from the moment wherein God created man, and breathed into his nostrils the breath of life, until the days of his trial should be ended, and he should be confirmed in life everlasting.
-（四）　律法の義は、もう一つのことを、欠くことのできないものとして求めました。このすべてにわたる従順、心と生活とのこの完全な聖性が、まったく途切れずに続くことです。それは、神が人を造り、そのいのちの息を鼻に吹き入れられた瞬間から始まります（創世記二・七）。そして、試みの日々が終わり、人が永遠のいのちに堅く立てられるときまで、少しも休まず続かなければなりませんでした。
+（四）　律法の義は、もう一つのことを、欠くことのできないものとして求めました。このすべてにわたる従順、心と生活とのこの完全な聖性が、まったく途切れずに続くことです。それは、神が人を造り、その鼻にいのちの息を吹き入れられた瞬間から始まります（創世記二・七）。そして、試みの日々が終わり、人が永遠のいのちに堅く立てられるときまで、少しも休まず続かなければなりませんでした。
 
 5. The righteousness, then, which is of the law, speaketh on this wise:
 （五）　ですから、律法による義は、こう言っています。
@@ -86,7 +87,7 @@ Love the Lord thy God with all thy heart. Love, as thyself, every soul that he h
 Desire nothing but God. Aim at God in every thought, in every word and work.
 神のほかに、何も望んではなりません。あらゆる思い、あらゆる言葉とわざにおいて、神を目指しなさい。
 Swerve not, in one motion of body or soul, from him, thy mark, and the prize of thy high calling;
-からだや魂のただ一つの動きにおいても、神からそれてはなりません。神こそ、あなたの目標であり、上に召してくださる賞与なのです。
+からだや魂のただ一つの動きにおいても、神からそれてはなりません。神こそ、あなたの目標であり、上への召しの賞与なのです。
 and let all that is in thee praise his holy name, every power and faculty of thy soul, in every kind, in every degree, and at every moment of thine existence.
 あなたのうちなるすべてのものに、その聖なるみ名をほめさせなさい（詩篇一〇三・一）。あなたの魂のあらゆる力、あらゆる能力に、あらゆる種類、あらゆる程度において、ほめさせなさい。あなたが存在するあらゆる瞬間に、ほめさせなさい。
 `This do, and thou shalt live:'
@@ -95,7 +96,7 @@ Thy light shall shine, thy love shall flame more and more, till thou art receive
 あなたの光は輝き、あなたの愛はますます燃え上がります。そしてついに、あなたは天にある神の家に迎え入れられ、世々限りなく神と共に支配するのです」。
 
 6. "But the righteousness which is of faith speaketh on this wise: Say not in thine heart, Who shall ascend into heaven that is, to bring down Christ from above;" (as though it were some impossible task which God required thee previously to perform in order to thine acceptance;)
-（六）　「しかし、信仰による義は、こう言っています。『あなたは心のうちで、だれが天に上るであろうかと言うな』。それは、キリストを引き降ろすことです」（ローマ一〇・六）。これは、天に上ることを、受け入れられるために前もって果たすよう神から求められた、何か不可能な務めであるかのように考えるな、ということです。
+（六）　「しかし、信仰による義は、こう言っています。『あなたは心のうちで、だれが天に上るであろうかと言うな』。それは、キリストを引き降ろすことです」（ローマ一〇・六）。これは、天に上ることが、何か不可能な務めであるかのように考えるな、ということです。あなたが受け入れられるために、前もって果たすよう神から求められた務めであるかのようにです。
 "or, Who shall descend into the deep that is, to bring up Christ from the dead;" (as though that were still remaining to be done, for the sake of which thou wert to be accepted;)
 「また、『だれが底知れぬ所に下るであろうかと言うな』。それは、キリストを死人の中から引き上げることです」（ローマ一〇・七）。これは、あなたが受け入れられるためには、それがまだなされずに残っているかのように考えるな、ということです。
 "but what saith it The word," according to the tenor of which thou mayest now be accepted as an heir of life eternal, "is nigh thee, even in thy mouth, and in thy heart; that is, the word of faith which we preach," -- the new covenant which God hath now established with sinful man, through Christ Jesus.
@@ -106,7 +107,7 @@ Thy light shall shine, thy love shall flame more and more, till thou art receive
 This was in part revealed to Adam, soon after his fall; being contained in the original promise, made to him and his seed, concerning the Seed of the Woman, who should "bruise the serpent's head." (Gen. 3:15.)
 これは、アダムが堕落してまもなく、アダムに部分的に啓示されました。アダムとその子孫に与えられた最初の約束に、含まれていたのです。それは、女のすえが、へびの「かしらを砕」く、という約束です（創世記三・一五）。
 It was a little more clearly revealed to Abraham, by the angel of God from heaven, saying, "By myself have I sworn, saith the Lord, that in thy seed shall all the nations of the world be blessed." (Gen. 12:15, 18.)
-アブラハムには、天からの神の使によって、もう少しはっきりと啓示されました。使はこう言いました。「主は言われます。『わたしは自分をさして誓います。地のもろもろの国民はあなたの子孫によって祝福を得るでしょう』」（創世記二二・一六、一八）。
+アブラハムには、天からの神の使によって、もう少しはっきりと啓示されました。使はこう言いました。「主は言われました。『わたしは自分をさして誓います。地のもろもろの国民はあなたの子孫によって祝福を得るでしょう』」（創世記二二・一六、一八）。
 // 英文の出典 Gen. 12:15, 18 は誤植。引用は創世記二二・一六と一八の言葉なので、訳ではそれを示した。
 It was yet more fully made known to Moses, to David, and to the Prophets that followed; and, through them, to many of the people of God in their respective generations.
 それは、モーセに、ダビデに、そしてその後の預言者たちに、さらに十分に知らされました。そして彼らを通して、それぞれの時代の神の民の多くに知らされました。
@@ -118,7 +119,7 @@ Still "life and immortality" were not so "brought to light" to the Jews of old, 
 8. Now, this covenant saith not to sinful man, "Perform unsinning obedience, and live."
 （八）　さて、この契約は、罪深い人に向かって、「罪のない従順を果たせ、そして生きよ」とは言いません。
 If this were the term, he would have no more benefit by all which Christ hath done and suffered for him, than if he was required, in order to life, to "ascend into heaven, and bring down Christ from above;" or to "descend into the deep," into the invisible world, and "bring up Christ from the dead."
-もしそれが条件であれば、キリストが人のためになさったこと、苦しまれたことのすべても、人には何の益にもなりません。いのちを得るために、「天に上」って「キリストを引き降ろす」ことや、目に見えない世界である「底知れぬ所に下」って、「キリストを死人の中から引き上げる」ことを求められるのと、変わらないでしょう（ローマ一〇・六〜七）。
+もしそれが条件であれば、キリストが人のためになさったこと、苦しまれたことのすべても、人には何の益にもなりません。いのちを得るために、「天に上」って「キリストを引き降ろす」よう求められるのと、変わらないでしょう。あるいは、目に見えない世界である「底知れぬ所に下」って、「キリストを死人の中から引き上げる」よう求められるのと、変わらないでしょう（ローマ一〇・六〜七）。
 It doth not require any impossibility to be done: (Although to mere man, what it requires would be impossible; but not to man assisted by the Spirit of God:) This were only to mock human weakness.
 この契約は、不可能なことを行うよう求めはしません。（もっとも、この契約の求めることも、ただの人には不可能でしょう。けれども、神の御霊に助けられた人には不可能ではありません。）不可能なことを求めるのは、人間の弱さをあざけることにほかならないでしょう。
 Indeed, strictly speaking, the covenant of grace doth not require us to do anything at all, as absolutely and indispensably necessary in order to our justification; but only, to believe in Him who, for the sake of his Son, and the propitiation which he hath made, "justifieth the ungodly that worketh not," and imputes his faith to him for righteousness.
@@ -160,7 +161,7 @@ The essential, unchangeable difference is this:
 The one supposes him to whom it is given to be already holy and happy, created in the image and enjoying the favour of God; and prescribes the condition whereon he may continue therein, in love and joy, life and immortality:
 一方の契約は、それを与えられる人が、すでに聖であり幸いであることを前提としています。神のかたちに造られ、神の恵みを享受している人です。そして、その人がその状態に、愛と喜び、いのちと不死のうちに、とどまり続けるための条件を定めています。
 The other supposes him to whom it is given to be now unholy and unhappy, fallen short of the glorious image of God, having the wrath of God abiding on him, and hastening, through sin, whereby his soul is dead, to bodily death, and death everlasting;
-他方の契約は、それを与えられる人が、今は聖でなく不幸であることを前提としています。その人は、神の栄光あるかたちを失い、神の怒りがその上にとどまっています。その魂は、罪によってすでに死んでいます。そして、その罪によって、からだの死へ、さらに永遠の死へと急いでいます。
+他方の契約は、それを与えられる人が、今は聖でなく不幸であることを前提としています。その人は、神の栄光あるかたちを失い、神の怒りがその上にとどまっています（ヨハネ三・三六）。その魂は、罪によってすでに死んでいます。そして、その罪によって、からだの死へ、さらに永遠の死へと急いでいます。
 and to man in this state it prescribes the condition whereon he may regain the pearl he has lost, may recover the favour and image of God, may retrieve the life of God in his soul, and be restored to the knowledge and the love of God, which is the beginning of life eternal.
 そして、この状態にある人のために、条件を定めています。失った真珠を取り戻し、神の恵みと神のかたちを回復し、魂のうちに神のいのちを取り戻すための条件です。神を知り、神を愛する者に、再びされるための条件です。神を知り、神を愛することこそ、永遠のいのちの始まりなのです。
 
@@ -172,13 +173,14 @@ Whereas, the covenant of grace, in order to man's recovery of the favour and the
 13. Yet, again: The covenant of works required of Adam and all his children, to pay the price themselves, in consideration of which they were to receive all the future blessings of God.
 （一三）　さらにまた、行いの契約は、アダムとそのすべての子らに、自分で代価を支払うことを求めました。その代価と引き換えに、神のこれからのすべての祝福を受けるはずだったのです。
 But, in the covenant of grace, seeing we have nothing to pay, God "frankly forgives us all:"
-けれども、恵みの契約では、私たちには支払うものが何もないので、神は私たちのすべてを、価なしに「ゆるして」くださいます（ルカ七・四二）。
+けれども、恵みの契約では、私たちには支払うものが何もないので、神は私たちをみな、価なしに「ゆるして」くださいます（ルカ七・四二）。
 // ルカ七・四二の口語訳は「彼はふたり共ゆるしてやった」。英文は欽定訳（he frankly forgave them both）を自分たちのことに言い換えているので、「ゆるして」だけを引いた。
 Provided only, that we believe in Him who hath paid the price for us; who hath given himself a "Propitiation for our sins, for the sins of the whole world."
 ただ、私たちのために代価を支払ってくださった方を、信じさえすればよいのです。その方は、ご自身を「私たちの罪のための、あがないの供え物」としてくださいました。「全世界の罪のため」の供え物です（第一ヨハネ二・二）。
 
 14. Thus the first covenant required what is now afar off from all the children of men; namely, unsinning obedience, which is far from those who are "conceived and born in sin."
-（一四）　このように、最初の契約は、今はすべての人の子から遠く離れたものを求めました。すなわち、罪のない従順です。それは、罪のうちにみごもられ、罪のうちに生まれた者からは、遠く離れています（詩篇五一・五）。
+（一四）　このように、最初の契約は、今はすべての人の子から遠く離れたものを求めました。すなわち、罪のない従順です。それは、「罪のうちにみごもられ、罪のうちに生まれた」者からは、遠く離れています（祈祷書「幼児洗礼式」）。
+// 祈祷書「幼児洗礼式」の冒頭の言葉（all men be conceived and born in sin）。背景は詩篇五一・五（口語訳「わたしは不義のなかに生れました。わたしの母は罪のうちにわたしをみごもりました」）。
 Whereas, the second requires what is nigh at hand; as though it should say,
 これに対して、第二の契約は、すぐ近くにあるものを求めます。あたかも、こう言っているかのようです。
 "Thou art sin! God is love! Thou by sin art fallen short of the glory of God; yet there is mercy with him.
@@ -223,7 +225,7 @@ It must be perfect and entire in every point, or it answers not the demand of th
 But which of you is able to perform such obedience; or, consequently, to live thereby
 けれども、あなたがたのうちのだれが、そのような従順を果たすことができるでしょうか。したがって、それによって生きることができるでしょうか。
 Who among you fulfils every jot and tittle even of the outward commandments of God doing nothing, great or small, which God forbids leaving nothing undone which he enjoins speaking no idle word having your conversation always "meet to minister grace to the hearers" and, "whether you eat or drink, or whatever you do, doing all to the glory of God"
-あなたがたのうちのだれが、神の外なる戒めでさえ、その一点一画まで全うしているでしょうか。神の禁じておられることを、大小にかかわらず何一つ行わない人がいるでしょうか。神の命じておられることを、何一つ怠らない人がいるでしょうか。無益な言葉を一つも語らない人がいるでしょうか。そのふるまいがいつも「聞いている者の益になる」人がいるでしょうか（エペソ四・二九）。「飲むにも食べるにも、また何事をするにも、すべて神の栄光のために」している人がいるでしょうか（第一コリント一〇・三一）。
+あなたがたのうちのだれが、神の外なる戒めでさえ、その一点一画まで全うしているでしょうか。神の禁じておられることを、大小にかかわらず何一つ行わない人がいるでしょうか。神の命じておられることを、何一つ怠らない人がいるでしょうか。無益な言葉を一つも語らない人がいるでしょうか。その語ることがいつも「聞いている者の益になる」人がいるでしょうか（エペソ四・二九）。「飲むにも食べるにも、また何事をするにも、すべて神の栄光のために」している人がいるでしょうか（第一コリント一〇・三一）。
 // エペソ四・二九の欽定訳は minister grace unto the hearers。口語訳の「聞いている者の益になる」を引いた。
 And how much less are you able to fulfil all the inward commandments of God! those which require that every temper and motion of your soul should be holiness unto the Lord!
 まして、神の内なる戒めのすべてを全うすることなど、なおさらできません。内なる戒めは、あなたがたの魂のあらゆる気質、あらゆる動きが、主に聖なるものであることを求めるのです。
@@ -268,7 +270,7 @@ nay, who cannot of himself think one good thought; who is indeed all sin, a mere
 whose actual transgressions, in word and deed, are more in number than the hairs of his head
 言葉と行いにおける人の自罪は、その頭の毛よりも多いのです（詩篇四〇・一二）。
 What stupidity, what senselessness must it be for such an unclean, guilty, helpless worm as this, to dream of seeking acceptance by his own righteousness, of living by "the righteousness which is of the law!"
-このような汚れた、罪ある、無力な虫けらが、自分の義によって受け入れられようとし、「律法による義」によって生きようと夢見るとは、なんと愚かな、なんと無分別なことでしょう！
+このような者は、汚れた、罪ある、無力な虫けらです。その者が、自分の義によって受け入れられようとし、「律法による義」によって生きようと夢見るのです。なんと愚かな、なんと無分別なことでしょう！
 
 6. Now, whatsoever considerations prove the folly of trusting in the "righteousness which is of the law," prove equally the wisdom of submitting to the "righteousness which is of God by faith."
 （六）　さて、「律法による義」に頼ることの愚かさを証明する考察は、どれも同じように、「信仰に基く神からの義」に従うことの知恵を証明します（ピリピ三・九）。
@@ -291,7 +293,7 @@ that, on all these accounts, we are displeasing to Him who is of purer eyes than
 that we cannot, by any of our righteousness, (for indeed we have none at all,) nor by any of our works, (for they are as the tree upon which they grow,) appease the wrath of God, or avert the punishment we have justly deserved;
 私たちは、自分のどんな義によっても（実際、義など何一つ持っていないのです）、自分のどんなわざによっても（わざは、それの実る木と同じです）、神の怒りをなだめることも、当然受けるべき罰をそらすこともできません。
 yea, that, if left to ourselves, we shall only wax worse and worse, sink deeper and deeper into sin, offend God more and more, both with our evil works, and with the evil tempers of our carnal mind, till we fill up the measure of our iniquities, and bring upon ourselves swift destruction
-そうです、もし自分の思いのままに放っておかれるなら、私たちはただ悪から悪へと落ちていくだけです。ますます深く罪に沈み、悪いわざによっても、肉の思いの悪い気質によっても、ますます神を怒らせます。そしてついには、自分の不義の枡目を満たし、すみやかな滅亡を自分の身に招くのです。
+そうです、もし自分の思いのままに放っておかれるなら、私たちはただ悪から悪へと落ちていくだけです（第二テモテ三・一三）。ますます深く罪に沈み、悪いわざによっても、肉の思いの悪い気質によっても、ますます神を怒らせます。そしてついには、自分の不義の枡目を満たし、すみやかな滅亡を自分の身に招くのです（第二ペテロ二・一）。
 And is not this the very state wherein by nature we are
 そして、これこそ、私たちが生まれながらにある状態そのものではないでしょうか。
 To acknowledge this, then, both with our heart and lips, that is, to disclaim our own righteousness, "the righteousness which is of the law," is to act according to the real nature of things, and, consequently, is an instance of true wisdom.
@@ -385,7 +387,7 @@ Was ever love like thine
 Look steadily upon him, till he looks on thee, and breaks thy hard heart.
 イエスをじっと見つめなさい。イエスがあなたを見つめ、あなたのかたくなな心を砕いてくださるまでです。
 Then shall thy "head" be "waters," and thy "eyes fountains of tears."
-そのとき、あなたの「頭が水となり」、あなたの「目が涙の泉となる」でしょう（エレミヤ九・一）。
+そのとき、あなたの「頭が水となり」、あなたの「目が涙の泉とな」るでしょう（エレミヤ九・一）。
 
 4. Nor yet do thou say, "I must do something more before I come to Christ."
 （四）　また、「キリストのもとに行く前に、私はもっと何かしなければならない」とも言ってはなりません。
@@ -417,12 +419,12 @@ Above all, how long wilt thou forget, that whatsoever thou doest, or whatsoever 
 yea, and that it must all be cast behind thy back, trampled under foot, made no account of, or thou wilt never find favour in God's sight;
 そうです、それはみな、うしろに投げ捨て、足で踏みつけ、ないものと見なさなければなりません。そうでなければ、あなたは決して神の前に恵みを得られないでしょう。
 because, until then, thou canst not ask it, as a mere sinner, guilty, lost, undone, having nothing to plead, nothing to offer to God, but only the merits of his well-beloved Son, "who loved thee, and gave himself for thee!"
-そうするまでは、あなたは、ただの罪人として恵みを求めることができないからです。罪ある、失われた、破滅した罪人として、神に申し立てるものも、ささげるものも何一つ持たずに、求めることができないからです。申し立てるのは、ただ神の愛する御子の功績だけです。御子は、あなたを愛し、あなたのためにご自身をささげられたのです（ガラテヤ二・二〇）。
+そうするまでは、あなたは、ただの罪人として恵みを求めることができないからです。罪ある、失われた、破滅した罪人として、神に申し立てるものも、ささげるものも何一つ持たずに、求めることができないからです。申し立てるのは、ただ神の愛する御子の功績だけです。御子は、あなたを「愛し」、あなたの「ためにご自身をささげられた」のです（ガラテヤ二・二〇）。
 
 6. To conclude. Whosoever thou art, O man, who hast the sentence of death in thyself, who feelest thyself a condemned sinner, and hast the wrath of God abiding on thee:
-（六）　結びに言います。人よ、あなたがだれであっても、自分のうちに死の宣告を受け、自分が罪に定められた罪人であると感じ、神の怒りが自分の上にとどまっているなら（ヨハネ三・三六）、こう言います。
+（六）　結びに言います。人よ、あなたはだれであってもかまいません。自分のうちに死の宣告を受け、自分が罪に定められた罪人であると感じ、神の怒りが自分の上にとどまっているあなたに（ヨハネ三・三六）、主はこう言われます。
 Unto thee saith the Lord, not, "Do this," -- perfectly obey all my commands, -- "and live;" but, "Believe in the Lord Jesus Christ, and thou shalt be saved."
-主はあなたに、「これを行え」（わたしのすべての戒めに完全に従え）、「そして生きよ」とは言われません。「主イエスを信じなさい。そうしたら、あなた」は「救われます」と言われるのです（使徒一六・三一）。
+「これを行え」（わたしのすべての戒めに完全に従え）、「そして生きよ」ではありません。「主イエスを信じなさい。そうしたら、あなた」は「救われます」と言われるのです（使徒一六・三一）。
 "The word of faith is nigh unto thee:"
 「信仰の言葉」は、「あなたの近くにあ」ります（ローマ一〇・八）。
 Now, at this instant, in the present moment, and in thy present state, sinner as thou art, just as thou art, believe the gospel;
