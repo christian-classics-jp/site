@@ -16,7 +16,7 @@ He speaks particularly of salvation from the guilt of sin, which he commonly ter
 And that all men stood in need of this, that none could plead their own innocence, he proves at large by various arguments, addressed to the Jews as well as the Heathens.
 すべての人がこの救いを必要としています。だれも自分の潔白を申し立てることはできません。使徒はこのことを、さまざまな議論によって詳しく証明します。その議論は、異邦人にもユダヤ人にも向けられています。
 Hence he infers, (in the 19th verse of this chapter,) "that every mouth," whether of Jew or Heathen, must be "stopped" from excusing or justifying himself, "and all the world become guilty before God."
-そこから使徒は、この章の一九節で、こう推論します。ユダヤ人の口であれ異邦人の口であれ、「すべての口が」、自分を弁解し義とすることから「ふさがれ」なければなりません（ローマ三・一九）。そして、全世界が神の前に罪ある者とならなければならないのです。
+そこから使徒は、この章の一九節で、こう推論します。ユダヤ人の口であれ異邦人の口であれ、「すべての口が」、自分を弁解したり義としたりできないよう、「ふさがれ」なければなりません（ローマ三・一九）。そして、全世界が神の前に罪ある者とならなければならないのです。
 // ローマ三・一九 の欽定訳 become guilty before God は、口語訳では「神のさばきに服する」。英文に合わせて、この句は「」の外で訳した。
 "Therefore," saith he, by his own obedience, "by the words of the law, shall no flesh be justified in his sight."
 それゆえ、と使徒は言います。人は自分の従順によって、すなわち「律法を行うことによっては、すべての人間は神の前に義とせられない」のです（ローマ三・二〇）。
@@ -33,7 +33,7 @@ And all (who attain) "are justified freely by his grace, through the redemption 
 that he might be just, and yet the justifier of him which believeth in Jesus; -- "that without any impeachment to his justice, he might show him mercy for the sake of that propitiation.
 「こうして、神みずからが義となり、さらに、イエスを信じる者を義とされる」のです（ローマ三・二六）。すなわち、ご自分の正しさを少しも損なうことなく、あの供え物のゆえに、その人にあわれみを示されるのです。
 "Therefore we conclude," (which was the grand position he had undertaken to establish,) "that a man is justified by faith, without the works of the law." (Verses 20-28.)
-そこで、「わたしたちは、こう思う」と使徒は結論します（ローマ三・二八）。これこそ、使徒が確立しようとした大きな命題でした。「人が義とされるのは、律法の行いによるのではなく、信仰による」のです（ローマ三・二八）。
+そこで、「わたしたちは、こう思う」（ローマ三・二八）と使徒は結論します。これこそ、使徒が確立しようとした大きな命題でした。「人が義とされるのは、律法の行いによるのではなく、信仰による」のです（ローマ三・二八）。
 // 英文は段落の終わりに (Verses 20-28.) とまとめて出典を示す。訳では引用ごとに出典を付けた。英文の by the words of the law は by the deeds of the law の誤り。
 
 2. It was easy to foresee an objection which might be made, and which has in fact been made in all ages; namely, that to say we are justified without the works of the law, is to abolish the law.
@@ -44,7 +44,7 @@ The Apostle, without entering into a formal dispute, simply denies the charge.
 使徒はこう言います。「すると、信仰のゆえに、わたしたちは律法を無効にするのでしょうか。断じてそうではない。かえって、律法を確立するのです」（ローマ三・三一）。
 
 3. The strange imagination of some, that St. Paul, when he says, "A man is justified without the works of the law," means only ceremonial law, is abundantly confuted by these very words.
-（三）　聖パウロは、「人が義とされるのは、律法の行いによるのではな」い（ローマ三・二八）と言います。ある人々は、それは儀式律法のことだけを言っているのだ、と考えます。この奇妙な考えは、まさにこの言葉によって、十分に論破されます。
+（三）　聖パウロは、「人が義とされるのは、律法の行いによるのではな」い（ローマ三・二八）と言います。ある人々は、それは儀式律法のことだけを言っているのだ、と考えます。この奇妙な考えは、先に引いた三一節の言葉そのものによって、十分に論破されます。
 For did St. Paul establish the ceremonial law
 聖パウロは、儀式律法を確立したでしょうか。
 It is evident he did not.
@@ -66,14 +66,14 @@ They would no more spare the moral than the ceremonial law, but were for "hewing
 // サムエルがアガグを寸断した故事による。ガラテヤ五・二 の「もし割礼を受けるなら」を、反対者は「何かの律法を確立するなら」に置きかえている。
 
 5. But is the zeal of these men according to knowledge
-（五）　けれども、この人々の熱心は、「深い知識による」（ローマ一〇・二）ものでしょうか。
+（五）　けれども、この人々の熱心は、深い知識による（ローマ一〇・二）ものでしょうか。
 Have they observed the connexion between the law and faith and that, considering the close connexion between them, to destroy one is indeed to destroy both --
 彼らは、律法と信仰との結びつきに目をとめたでしょうか。そして、両者が固く結びついていることを考えるなら、一方を滅ぼすことは、実は両方を滅ぼすことだ、と気づいたでしょうか。
 that, to abolish the moral law, is, in truth, to abolish faith and the law together as leaving no proper means, either of bringing us to faith, or of stirring up that gift of God in our soul.
-道徳律法を廃することは、実は信仰と律法とをともに廃することだ、と気づいたでしょうか。そうすれば、私たちを信仰に導く手段も、魂のうちにあるあの神の賜物を燃え立たせる（第二テモテ一・六）手段も、ふさわしいものは何も残らないのです。
+道徳律法を廃することは、実は信仰と律法とをともに廃することだ、と気づいたでしょうか。私たちを信仰に導く手段も、魂のうちにあるあの神の賜物を燃え立たせる（第二テモテ一・六）手段も、ふさわしいものが何も残らなくなるからです。
 
 6. It therefore behoves all who desire either to come to Christ, or to walk in him whom they have received, to take heed how they "make void the law through faith;"
-（六）　キリストのもとに来たいと願う人もいれば、受け入れたキリストにあって歩みたい（コロサイ二・六）と願う人もいます。ですから、その人々はみな、「信仰のゆえに」「律法を無効にする」（ローマ三・三一）ことのないよう、気をつけなければなりません。
+（六）　ですから、キリストのもとに来たいと願う人も、受け入れたキリストにあって歩みたい（コロサイ二・六）と願う人も、みな気をつけなければなりません。「信仰のゆえに」「律法を無効にする」（ローマ三・三一）ことのないようにです。
 to secure us effectually against which, let us inquire, First, Which are the most usual ways of making "void the law through faith"
 そうならないよう確かに身を守るために、次のことを調べてみましょう。<br/>
 第一に、「信仰のゆえに」「律法を無効にする」（ローマ三・三一）最もありふれたやり方は何か。<br/>
@@ -95,7 +95,7 @@ More especially, when it is done with design; when it is made a rule, not to pre
 2. All this proceeds from the deepest ignorance of the nature, properties, and use of the law;
 （二）　これはすべて、律法の性質と特質と用途とについての、まったくの無知から出ています。
 and proves, that those who act thus, either know not Christ, -- are utter strangers to living faith, -- or, at least, that they are but babes in Christ, and, as such, "unskilled in the word of righteousness."
-そして、このようにふるまう人々が、キリストを知らないことを証明しています。生きた信仰をまったく知らないのです。そうでなくても、少なくとも、彼らはキリストにある幼な子（第一コリント三・一）にすぎず、それゆえ「義の言葉」に通じていない（ヘブル五・一三）ことを証明しています。
+そして、このようにふるまう人々について、次のどちらかを証明しています。彼らがキリストを知らず、生きた信仰をまったく知らないことです。そうでなければ、少なくとも、彼らがキリストにある幼な子（第一コリント三・一）にすぎず、それゆえ「義の言葉」に通じていない（ヘブル五・一三）ことです。
 
 3. Their grand plea is this: That preaching the gospel, that is, according to their judgment, the speaking of nothing but the sufferings and merits of Christ, answers all the ends of the law.
 （三）　彼らの大きな言い分はこうです。福音を説教することが、律法のあらゆる目的を果たす、というのです。福音を説教するとは、彼らの判断によれば、キリストの苦しみと功績のほかは何も語らないことです。
@@ -146,7 +146,7 @@ Only preach you just as Paul preached, and the dispute is at an end.
 ただパウロが説教したとおりに、あなたも説教しなさい。そうすれば、論争は終わります。
 
 For although we are certain he preached Christ in as perfect a manner as the very chief of the Apostle, yet who preached the law more than St. Paul
-パウロが、あの「大使徒たち」（第二コリント一一・五）にも劣らず完全な仕方でキリストを宣べ伝えたことは、確かです。それでも、聖パウロ以上に律法を説教した人がいたでしょうか。
+パウロが、あの大使徒たち（第二コリント一一・五）にも劣らず完全な仕方でキリストを宣べ伝えたことは、確かです。それでも、聖パウロ以上に律法を説教した人がいたでしょうか。
 Therefore he did not think the gospel answered the same end.
 ですから、パウロは、福音が律法と同じ目的を果たすとは考えていなかったのです。
 
@@ -157,14 +157,14 @@ Therefore he did not think the gospel answered the same end.
 Beware therefore, lest that come upon you which is spoken of in the Prophets;
 だから預言者たちの書にかいてある次のようなことが、あなたがたの身に起らないように気をつけなさい。
 Behold, ye despisers, and wonder, and perish: For I work a work in your days, a work which you will in no wise believe, though a man declare it unto you." (Acts 13:39, 40.)
-『見よ、侮る者たちよ。驚け、そして滅び去れ。わたしは、あなたがたの時代に一つの事をする。それは、人がどんなに説明して聞かせても、あなたがたのとうてい信じないような事なのです』」（使徒一三・三九〜四一）。
-// 英文の出典は Acts 13:39, 40 だが、引用は四一節まで続くので三九〜四一とした。
+『見よ、侮る者たちよ。驚け、そして滅び去れ。わたしは、あなたがたの時代に一つの事をする。それは、人がどんなに説明して聞かせても、あなたがたのとうてい信じないような事なのです』」（使徒一三・三八〜四一）。
+// 英文の出典は Acts 13:39, 40。引用は四一節まで続き、冒頭の句は口語訳では三八節にあるので、三八〜四一とした。
 Now it is manifest, all this is preaching the law, in the sense wherein you understand the term;
 さて、明らかに、これはすべて、あなたがたがこの言葉を理解している意味での、律法の説教です。
 even although great part of, if not all, his hearers, were either Jews or religious proselytes, (verse 43.) and, therefore, probably many of them, in some degree at least, convicted of sin already.
-しかも、パウロの聞き手は、全部ではないにしても大部分が、ユダヤ人か「信心深い改宗者たち」（使徒一三・四三）でした。ですから、おそらくその多くは、少なくともある程度、すでに罪を悟っていたのです。
+パウロの聞き手は、全部ではないにしても大部分が、ユダヤ人か信心深い改宗者たち（使徒一三・四三）でした。ですから、おそらくその多くは、少なくともある程度、すでに罪を悟っていたでしょう。それでも、これは律法の説教なのです。
 He first reminds them, that they could not be justified by the law of Moses, but only by faith in Christ;
-パウロはまず、人はモーセの律法によっては義とされず、ただキリストを信じる信仰によって義とされることを、彼らに思い起こさせます。
+パウロはまず、彼らに思い起こさせます。人はモーセの律法によっては義とされず、ただキリストを信じる信仰によって義とされる、ということをです。
 and then severely threatens them with the judgments of God, which is in the strongest sense, preaching the law.
 そのうえで、神のさばきをもって彼らを厳しく警告します。これは、最も強い意味で、律法の説教です。
 
@@ -189,26 +189,26 @@ and in the case of one so deeply convicted of sin, who would not have said the s
 But to the men of Athens you find him speaking in a quite different manner;
 けれども、アテネの人々には、パウロはまったく違う仕方で語っています。
 reproving their superstition, ignorance, and idolatry; and strongly moving them to repent, from the consideration of a future judgment, and of the resurrection from the dead. (17:24-31.)
-彼らの迷信と無知と偶像礼拝とを責め、来たるべきさばきと、死人の中からのよみがえりとを考えさせて、悔い改めるよう強く促しているのです（使徒一七・二四〜三一）。
+彼らの迷信と無知と偶像礼拝とを責めています。そして、来たるべきさばきと、死人の中からのよみがえりとを考えさせて、悔い改めるよう強く促しているのです（使徒一七・二四〜三一）。
 Likewise when Felix sent for Paul, on purpose that he might "hear him concerning the faith in Christ;"
 同じように、ペリクスは、キリストに対する「信仰のことを、彼から聞」くために（使徒二四・二四）、わざわざパウロを呼び出しました。
 // 使徒二四・二四 の口語訳は「キリスト・イエスに対する信仰」。英文の the faith in Christ に合わせ、「キリストに対する」を「」の外に出した。
 instead of preaching Christ in your sense, (which would probably have caused the Governor either to mock or to contradict and blaspheme,)
 そのとき、パウロは、あなたがたの言う意味でキリストを宣べ伝えることはしませんでした。そうしていたら、おそらく総督は、あざけるか、反対してののしるかしたでしょう。
 "he reasoned of righteousness, temperance, and judgment to come," till Felix (hardened as he was) "trembled." (24:24, 25.)
-パウロは、「正義、節制、未来の審判」について「論じ」ました（使徒二四・二五）。そしてついに、ペリクスは、あれほどかたくなな人であったのに、震えたのです（使徒二四・二五）。
-// trembled は口語訳では「不安を感じてきて」。英文に合わせ「震えた」とし、「」に入れなかった（説教三十にならう）。英文が引かない口語訳の「など」は除いた。
+パウロは、「正義、節制、未来の審判」について「論じ」ました（使徒二四・二五）。そしてついに、ペリクスは、あれほどかたくなな人であったのに、震えたのです。
+// trembled は口語訳では「不安を感じてきて」。英文に合わせ「震えた」とし、「」に入れず、出典は前の文に付けた（説教三十にならう）。英文が引かない口語訳の「など」は除いた。
 Go thou, and tread in his steps.
 あなたも行って、パウロの足跡に従いなさい。
 Preach Christ to the careless sinner, by reasoning "of righteousness, temperance, and judgment to come!"
-「正義、節制、未来の審判」について論じる（使徒二四・二五）ことによって、無関心な罪人にキリストを宣べ伝えなさい！
+「正義、節制、未来の審判」（使徒二四・二五）について論じることによって、無関心な罪人にキリストを宣べ伝えなさい！
 
 9. If you say, "But he preached Christ in a different manner in his Epistles:" I answer,
 （九）　あなたが「しかし、パウロは手紙の中では、違う仕方でキリストを宣べ伝えたではないか」と言うなら、私はこう答えます。<br/>
 (1.) He did not there preach at all; not in that sense wherein we speak: For preaching, in our present question, means speaking before a congregation. But, waving this, I answer,
 一、パウロは、手紙の中では、そもそも説教していません。少なくとも、私たちが言う意味では説教していません。いまの問題で説教というのは、会衆の前で語ることだからです。けれども、このことはおくとしても、こう答えます。<br/>
 (2.) His Epistles are directed, not to unbelievers, such as those we are now speaking of, but "to the saints of God," in Rome, Corinth, Philippi, and other places.
-二、パウロの手紙は、いま話しているような不信者にではなく、ローマやコリントやピリピなどにいる神の「聖徒」たち（ローマ一・七、第一コリント一・二、ピリピ一・一）にあてられています。
+二、パウロの手紙は、いま話しているような不信者にあてられたのではありません。ローマやコリントやピリピなどにいる神の「聖徒」たち（ローマ一・七、第一コリント一・二、ピリピ一・一）にあてられています。
 Now, unquestionably, he would speak more of Christ to these than to those who were without God in the world.
 疑いもなく、パウロは、この世の中で神もない者（エペソ二・一二）に対してよりも、この人々に対して、キリストのことを多く語ったでしょう。<br/>
 And yet, (3.) Every one of these is full of the law, even the Epistles to the Romans and the Galatians; in both of which he does what you term "preaching the law," and that to believers, as well as unbelievers.
@@ -217,13 +217,14 @@ And yet, (3.) Every one of these is full of the law, even the Epistles to the Ro
 10. From hence it is plain, you know not what it is to preach Christ, in the sense of the Apostle.
 （一〇）　このことから明らかなように、あなたがたは、使徒の言う意味でキリストを宣べ伝えるとはどういうことかを、知らないのです。
 For doubtless St. Paul judged himself to be preaching Christ, both to Felix, and at Antioch, Lystra, and Athens:
-疑いもなく、聖パウロは、ペリクスに対しても、アンテオケでもルステラでもアテネでも、自分はキリストを宣べ伝えていると考えていました。
+疑いもなく、聖パウロは、自分はキリストを宣べ伝えていると考えていました。ペリクスに対しても、アンテオケでもルステラでもアテネでも、そうです。
 From whose example every thinking man must infer, that not only the declaring the love of Christ to sinners, but also the declaring that he will come from heaven in flaming fire, is, in the Apostle's sense, preaching Christ; yea, in the full scriptural meaning of the word.
 この模範から、考える人ならだれでも、こう推論しなければなりません。罪人へのキリストの愛を告げることは、使徒の言う意味でキリストを宣べ伝えることです。それだけでなく、キリストが炎の中で天から来られる（第二テサロニケ一・七）と告げることも、そうなのです。そうです、聖書が言うこの言葉の十分な意味で、そうなのです。
 To preach Christ, is to preach what he hath revealed, either in the Old or New Testament;
-キリストを宣べ伝えるとは、キリストが旧約聖書であれ新約聖書であれ、啓示されたことを宣べ伝えることです。
+キリストを宣べ伝えるとは、旧約聖書であれ新約聖書であれ、キリストが啓示されたことを宣べ伝えることです。
 so that you are really preaching Christ, when you are saying, "The wicked shall be turned into hell, and all the people that forget God," as when you are saying, "Behold the Lamb of God, which taketh away the sin of the world!"
-ですから、「見よ、世の罪を取り除く神の小羊」（ヨハネ一・二九）と言うときと同じように、「悪しき者、また神を忘れるもろもろの国民は陰府へ去って行きます」（詩篇九・一七）と言うときも、あなたは本当にキリストを宣べ伝えているのです。
+ですから、あなたが「見よ、世の罪を取り除く神の小羊」（ヨハネ一・二九）と言うとき、あなたは本当にキリストを宣べ伝えています。それと同じように、「悪しき者、また神を忘れるもろもろの国民は陰府へ去って行きます」（詩篇九・一七）と言うときも、本当にキリストを宣べ伝えているのです。
+// 詩篇九・一七 の all the people は祈祷書の詩篇の文言（欽定訳は nations）。口語訳とほぼ同文なので口語訳で引いた。
 
 11. Consider this well; -- that to preach Christ, is to preach all things that Christ hath spoken; all his promises; all his threatenings and commands; all that is written in his book;
 （一一）　このことをよく考えなさい。キリストを宣べ伝えるとは、キリストが語られたすべてのことを宣べ伝えることです。キリストのすべての約束、すべての警告と命令、キリストの書にしるされているすべてのことを宣べ伝えることです。
@@ -231,7 +232,7 @@ and then you will know how to preach Christ, without making void the law.
 そうすれば、律法を無効にすることなしにキリストを宣べ伝えるにはどうすればよいかが、分かるでしょう。
 
 12. "But does not the greatest blessing attend those discourses wherein we peculiarly preach the merits and suffering of Christ"
-（一二）　「しかし、キリストの功績と苦しみをとりわけ説教する説教にこそ、最大の祝福が伴うのではないか」。
+（一二）　「しかし、キリストの功績と苦しみをとりわけ語る説教にこそ、最大の祝福が伴うのではないか」。
 
 Probably when we preach to a congregation of mourners, or of believers, these will be attended with the greatest blessing; because such discourses are peculiarly suited to their state.
 嘆き悲しむ人々の会衆、あるいは信者の会衆に説教するときには、おそらく、そうした説教に最大の祝福が伴うでしょう。そういう説教は、彼らの状態にとりわけふさわしいからです。
@@ -255,10 +256,10 @@ II. 1. A Second way of making void the law through faith is, the teaching that f
 This divides itself into a thousand smaller paths, and many there are that walk therein.
 この道は、千もの細い小道に分かれています。そして、そこを歩く人がたくさんいます。
 Indeed there are few that wholly escape it; few who are convinced, we are saved by faith, but are sooner or later, more or less, drawn aside into this by-way.
-実際、これをまったく免れる人はほとんどいません。私たちが信仰によって救われると確信した人で、遅かれ早かれ、多かれ少なかれ、このわき道に引き込まれない人は、ほとんどいないのです。
+実際、これをまったく免れる人はほとんどいません。私たちが信仰によって救われると確信した人は、ほとんどみな、遅かれ早かれ、多かれ少なかれ、このわき道に引き込まれるのです。
 
 2. All those are drawn into this by-way who, if it be not settled judgment that faith in Christ entirely sets aside the necessity of keeping his law; yet suppose either sets aside the necessity of keeping his law; yet suppose either,
-（二）　次のような人々は、みなこのわき道に引き込まれています。彼らは、キリストを信じる信仰があればキリストの律法を守る必要はまったくなくなる、とはっきり判断してはいないかもしれません。それでも、次のどれかを想定しているのです。<br/>
+（二）　次のような人々は、みなこのわき道に引き込まれています。キリストを信じる信仰があれば、キリストの律法を守る必要はまったくなくなる。彼らは、そうはっきり判断してはいないかもしれません。それでも、次のどれかを想定しているのです。<br/>
 // 英文の yet suppose either sets aside the necessity of keeping his law; は前の句の重複（1872 年版の誤植）なので訳さなかった。
 (1.) That holiness is less necessary now than it was before Christ came; or,
 一、聖性は、キリストが来られる前ほどには、今は必要でない。<br/>
@@ -323,7 +324,7 @@ We are justified without the works of the law, as any previous condition of just
 So that if good works do not follow our faith, even all inward and outward holiness, it is plain our faith is nothing worth; we are yet in our sins.
 ですから、もし良きわざが、すなわち内と外とのあらゆる聖性が、私たちの信仰に続かないとします。そのときは、私たちの信仰に何の値打ちもないことは明らかです。私たちは、いまなお罪の中にいるのです（第一コリント一五・一七）。
 Therefore, that we are justified by faith, even by our faith without works, is no ground for making void the law through faith; or for imagining that faith is a dispensation from any kind or degree of holiness.
-ですから、私たちは信仰によって、しかも行いによらない信仰によって義とされます。けれども、そのことは、信仰のゆえに律法を無効にする根拠にはなりません。信仰があれば、どんな種類、どんな程度の聖性も免除される、と思う根拠にもなりません。
+私たちは信仰によって、しかも行いによらない信仰によって義とされます。けれども、ここまで見てきたように、そのことは、信仰のゆえに律法を無効にする根拠にはなりません。信仰があれば、どんな種類、どんな程度の聖性も免除される、と思う根拠にもなりません。
 
 7. "Nay, but does not St. Paul expressly say, `Unto him that worketh not, but believeth on Him that justifieth the ungodly, his faith is counted for righteousness'
 （七）　「いや、聖パウロははっきりこう言っているではないか。『働きはなくても、不信心な者を義とするかたを信じる人は、その信仰が義と認められる』（ローマ四・五）。
@@ -345,7 +346,7 @@ We allow,
 (3.) That he justifies him by faith alone, without any goodness or righteousness preceding:
 三、神は、先立つどんな善も義もなしに、ただ信仰によってその人を義とされます。<br/>
 And, (4.) That faith is then counted to him for righteousness; namely, for preceding righteousness; that is, God, through the merits of Christ, accepts him that believes, as if he had already fulfilled all righteousness.
-四、そのとき、信仰がその人の義と認められます（ローマ四・五）。すなわち、先立つ義と認められるのです。言いかえれば、神は、キリストの功績によって、信じる者を、その人がすでにすべての義を果たしたかのように受け入れてくださるのです。
+四、そのとき、信仰がその人の義と認められます（ローマ四・五）。すなわち、先立つ義と認められるのです。言いかえれば、神は、キリストの功績によって、信じる者を受け入れてくださるのです。その人がすでにすべての義を果たしたかのようにです。
 But what is all this to your point
 けれども、これがみな、あなたの論点と何のかかわりがあるでしょうか。
 The Apostle does not say, either here or elsewhere, that this faith is counted to him for subsequent righteousness.
@@ -370,7 +371,7 @@ A caution which it is needful thoroughly to consider, because it is of the last 
 これは、徹底的に考える必要のある警告です。この上なく重要だからです。
 
 2. The being "under the law," may here mean,
-（二）　「律法の下に」（ローマ六・一五）あるとは、ここでは次のことを意味するでしょう。<br/>
+（二）　「律法の下に」（ローマ六・一五）あるとは、ここでは次のような意味にとることができます。<br/>
 (1.) The being obliged to observe the ceremonial law:
 一、儀式律法を守る義務を負っていること。<br/>
 (2.) The being obliged to conform to the whole Mosaic institution:
@@ -387,7 +388,7 @@ On the contrary, he is "under grace," under a more benign, gracious dispensation
 As he is no longer under the ceremonial law, nor under the Mosaic institution; as he is not obliged to keep even the moral law, as the condition of his acceptance;
 信者は、もはや儀式律法のもとにも、モーセの制度のもとにもありません。受け入れられる条件として道徳律法を守る義務さえ負っていません。
 so he is delivered from the wrath and the curse of God, from all sense of guilt and condemnation, and from all that horror and fear of death and hell whereby he was all his life before subject to bondage.
-それと同じように、信者は、神の怒りとのろいから、また罪責と罪に定められることとを感じることから、すっかり救い出されています。以前、信者は、死と地獄へのあの恐怖と恐れのために、一生涯、奴隷となっていました（ヘブル二・一五）。その恐怖と恐れのすべてからも、救い出されているのです。
+それと同じように、信者は、神の怒りとのろいから救い出されています。罪責と罪に定められることとを感じることからも、すっかり救い出されています。以前、信者は、死と地獄へのあの恐怖と恐れのために、一生涯、奴隷となっていました（ヘブル二・一五）。その恐怖と恐れのすべてからも、救い出されているのです。
 And he now performs (which while "under the law" he could not do) a willing and universal obedience.
 そして信者は今、喜んでする全面的な従順をささげます。これは、「律法の下に」（ローマ六・一五）あった間はできなかったことです。
 He obeys not from the motive of slavish fear, but on a nobler principle; namely, the grace of God ruling in his heart, and causing all his works to be wrought in love.
@@ -406,7 +407,7 @@ Has it not infected you
 Examine yourself honestly and closely.
 正直に、念入りに、自分を調べなさい。
 Do you not do now what you durst not have done when you was "under the law," or (as we commonly call it) under conviction
-あなたは「律法の下に」（ローマ六・一五）あったとき、すなわち、私たちがふつう言う罪の自覚のもとにあったとき、あえてしなかったことがあるでしょう。それを、今はしているのではありませんか。
+あなたは「律法の下に」（ローマ六・一五）、すなわち、私たちがふつう言う罪の自覚のもとにあったとき、あえてしなかったことがあるでしょう。それを、今はしているのではありませんか。
 For instance: You durst not then indulge yourself in food:
 たとえば、そのとき、あなたは食べ物でぜいたくをしようとはしませんでした。
 You took just what was needful, and that of the cheapest kind.
@@ -425,14 +426,14 @@ You would not do anything, great or small, merely to gratify your curiosity.
 You regarded only cleanliness and necessity, or at most very moderate convenience, either in furniture or apparel;
 家具でも衣服でも、清潔さと必要だけを、せいぜいごく控えめな便利さだけを考えていました。
 superfluity and finery of whatever kind, as well as fashionable elegance, were both a terror and an abomination to you.
-どんな種類のものであれ、余分なものや飾り立てたものは、流行の優雅さと同じく、あなたにとって恐ろしいものであり、忌まわしいものでした。
+どんな種類のものであれ、余分なものや飾り立てたものは、あなたにとって恐ろしいものであり、忌まわしいものでした。流行の優雅さも、同じでした。
 
 Are they so still
 今もそうでしょうか。
 Is your conscience as tender now in these things as it was then
 これらのことで、あなたの良心は、今もあのときと同じように敏感でしょうか。
 Do you still follow the same rule both in furniture and apparel, trampling all finer, all superfluity, every thing useless, every thing merely ornamental, however fashionable, underfoot
-今も家具と衣服とで同じ規則に従っているでしょうか。あらゆる飾りと余分なもの、無用なもの、ただ飾りのためだけのものを、どれほど流行していても、足の下に踏みつけているでしょうか。
+今も家具と衣服とで同じ規則に従っているでしょうか。あらゆる飾り立てたもの、あらゆる余分なもの、無用なもの、ただ飾りのためだけのものを、足の下に踏みつけているでしょうか。どれほど流行しているものでもです。
 Rather, have you not resumed what you had once laid aside, and what you could not then use without wounding you conscience
 むしろ、いったん捨てたものを、また使うようになっていないでしょうか。あのときには、良心を傷つけずには使えなかったものをです。
 And have you not learned to say, "O, I am not so scrupulous now"
@@ -460,10 +461,10 @@ Are not you less careful as to the expense both of money and time
 Cannot you now lay out either, as you could not have done once
 今は、かつてはできなかったような仕方で、そのどちらをも使えるようになっていないでしょうか。
 Alas! how has that "which should have been for your health, proved to you an occasion of falling!"
-ああ、あなたの益となるべきであったものが、何とあなたのつまずきの機会となってしまったことでしょう。
-// 祈祷書の詩篇六九・二三（口語訳六九・二二）の言い回し（let the things that should have been for their wealth be unto them an occasion of falling）。口語訳「彼らが犠牲をささげる祭を、わなとしてください」と文言が違うので、「」に入れず出典も付けなかった。
+ああ、何と、「あなたの益となるべきであったものが、あなたのつまずきの機会となってしまった」ことでしょう。
+// 祈祷書の詩篇六九・二三（口語訳六九・二二）の言い回し（let the things that should have been for their wealth be unto them an occasion of falling）。口語訳「彼らが犠牲をささげる祭を、わなとしてください」と文言が違うので、「」に入れて英文から訳し、出典は付けなかった。
 How have you "sinned because you was not under the law, but under grace!"
-「律法の下にではなく、恵みの下にあるからといって」（ローマ六・一五）、あなたは何と罪を犯してしまったことでしょう！
+あなたは何と、「律法の下にではなく、恵みの下にあるからといって」「罪を犯」した（ローマ六・一五）ことでしょう！
 
 7. God forbid you should any longer continue thus to "turn the grace of God into lasciviousness!" O remember how clear and strong a conviction you once had concerning all these things!
 （七）　あなたがこれ以上このように「神の恵みを放縦な生活に変え」（ユダ四）続けることなど、決してあってはなりません！　ああ、これらすべてのことについて、かつてあなたがどれほど明らかで強い確信を持っていたかを、思い起こしなさい。
@@ -506,7 +507,7 @@ Did not you then fast often; or use abstinence to the uttermost of your power
 Was not you much in prayer, (cold and heavy as you was,) while you was hanging over the mouth of hell
 地獄の口の上にぶら下がっていた間、心は冷たく重かったとはいえ、あなたは多くの時を祈りに費やしたではありませんか。
 Did you not speak and not spare even for and unknown God
-知られない神（使徒一七・二三）のためにさえ、あなたは語って、惜しまなかったではありませんか。
+知られない神（使徒一七・二三）のためにさえ、あなたはためらわずに語ったではありませんか。
 Did you not boldly plead his cause -- reprove sinners -- and avow the truth before an adulterous generation
 大胆にその方のために弁じ、罪人を責め、邪悪な時代（マルコ八・三八）の前で真理を公言したではありませんか。
 And are you now a believer in Christ
@@ -516,7 +517,7 @@ Have you the faith that overcometh the world
 What! and are less zealous for your Master now, than you was when you knew him not less diligent in fasting, in prayer, in hearing his word, in calling sinners to God
 何ということでしょう。それなのに、今あなたは、主人を知らなかったときよりも、主人のために熱心でなくなっているのですか。断食にも、祈りにも、主人の言葉を聞くことにも、罪人を神に招くことにも、前ほど励まなくなっているのですか。
 O repent! See and feel your grievous loss! Remember from whence you are fallen! Bewail your unfaithfulness! Now be zealous and do the first works; lest, if you continue to "make void the law through faith," God cut you off, and appoint you your portion with the unbelievers!
-ああ、悔い改めなさい！　自分のいたましい損失を見て、感じなさい！　どこから落ちたかを思い起こしなさい（黙示録二・五）！　自分の不忠実を嘆きなさい！　今こそ熱心になって（黙示録三・一九）、初めのわざを行いなさい（黙示録二・五）。そうしないで、「信仰のゆえに」「律法を無効にする」（ローマ三・三一）ことを続けるなら、神はあなたを断ち、不信者たちと同じ目にあわせられるでしょう！
+ああ、悔い改めなさい！　自分のいたましい損失を見て、感じなさい！　どこから落ちたかを思い起こしなさい（黙示録二・五）！　自分の不忠実を嘆きなさい！　今こそ熱心になって（黙示録三・一九）、初めのわざを行いなさい（黙示録二・五）。もし「信仰のゆえに」「律法を無効にする」（ローマ三・三一）ことを続けるなら、神はあなたを断ち、不信者たちと同じ目にあわせられるでしょう！
 // appoint you your portion with the unbelievers は、ルカ一二・四六 の欽定訳の言い回し。口語訳は「不忠実なものたちと同じ目にあわせる」で、unbelievers と語が違うので、出典を付けなかった。
 
 // Edited by Josh Williams with corrections by Ryan Danker and George Lyons of Northwest Nazarene University for the Wesley Center for Applied Theology.
