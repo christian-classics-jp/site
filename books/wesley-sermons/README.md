@@ -9,7 +9,7 @@
 ## 翻訳進捗表
 
 + [x] Sermon 1. Salvation By Faith
-+ [ ] Sermon 2. The Almost Christian
++ [x] Sermon 2. The Almost Christian
 + [ ] Sermon 3. Awake, Thou That Sleepest
 + [ ] Sermon 4. Scriptural Christianity
 + [ ] Sermon 5. Justification By Faith
