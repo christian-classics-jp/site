@@ -24,7 +24,7 @@
 + [x] Sermon 18. The Marks Of The New Birth
 + [x] Sermon 19. The Great Privilege Of Those That Are Born Of God
 + [x] Sermon 21. Upon Our Lord's Sermon On The Mount: Discourse One
-+ [ ] Sermon 22. Upon Our Lord's Sermon On The Mount: Discourse Two
++ [x] Sermon 22. Upon Our Lord's Sermon On The Mount: Discourse Two
 + [ ] Sermon 23. Upon Our Lord's Sermon On The Mount: Discourse Three
 + [ ] Sermon 24. Upon Our Lord's Sermon On The Mount: Discourse Four
 + [ ] Sermon 25. Upon Our Lord's Sermon On The Mount: Discourse Five
