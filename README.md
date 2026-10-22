@@ -9,7 +9,7 @@
 ### Part I
 
 Section 1
-+ [ ] 0	The AUTHOR'S Apology For His BOOK
++ [x] 0	The AUTHOR'S Apology For His BOOK
 + [x] 1	Flight from the City of Destruction
 + [x] 2	The Slough of Despond
 + [x] 3	Mr. Worldly Wiseman
