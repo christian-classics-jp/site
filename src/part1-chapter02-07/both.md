@@ -6,7 +6,7 @@ Now here Christian was worse put to it than in his fight with Apollyon, as by th
 さて、〈へりくだりの谷〉の終わりにさしかかると、また別の谷があった。そこは〈死の陰の谷〉と呼ばれていた。クリスチャンはそこを通らなければならなかった。天の都への道がその真ん中を通っていたからである。この谷は非常に孤独な場所だった。預言者エレミヤはこの谷をこう描いている。「荒野なる、穴の多い荒れた地、かわいた死の陰の地、（クリスチャンのほかは）人の通らない、人の住まない地」（エレミヤ二・六）。これからの成り行きをご覧になればわかるように、この場所でクリスチャンはアポリュオンとの戦いよりも激しい悪戦苦闘を強いられたのだった。
 
 I saw then in my dream, that when Christian was got to the borders of the Shadow of Death, there met him two men, children of them that brought up an evil report of the good land [Num. 13], making haste to go back; to whom Christian spake as follows:--
-私が夢の中で見ていると、クリスチャンが死の陰の谷の入り口にさしかかったとき、二人の男が急いで引き返してきた。二人は、良い地を悪く言いふらした者たちの子らであった（民数記一三・三二）。クリスチャンは次のように話しかけた。
+私が夢の中で見ていると、クリスチャンが死の陰の谷の入り口にさしかかったとき、二人の男が急いで引き返してきた。二人は、良い地を悪く言いふらした者たちの子らであった（民数記一三章）。クリスチャンは次のように話しかけた。
 
 CHR. Whither are you going?
 クリスチャン「お二人はどこに行かれるのですか」
@@ -24,7 +24,7 @@ CHR. But what have you met with? said Christian.
 クリスチャン「いったい何があったのですか」
 
 MEN. Why, we were almost in the Valley of the Shadow of Death; but that, by good hap, we looked before us, and saw the danger before we came to it. [Ps. 44:19; 107:10]
-二人「もう少しで死の陰の谷に入るところでした。運よく前方を見渡したので、たどり着く前に危険に気づいたのです」（詩篇四四・一九、一〇七・一九）
+二人「もう少しで死の陰の谷に入るところでした。運よく前方を見渡したので、たどり着く前に危険に気づいたのです」（詩篇四四・一九、一〇七・一〇）
 
 CHR. But what have you seen? said Christian.
 クリスチャン「何を見たのですか」
@@ -33,7 +33,7 @@ MEN. Seen! Why, the Valley itself, which is as dark as pitch; we also saw there 
 二人「見ましたとも！　谷そのものが真っ暗闇でした。地獄の妖精やサテュロスや竜もいました。また、鉄かせをはめられて捕らえられている人々が、筆舌に尽くしがたい苦しみにあって、絶え間なく悲痛な叫び声をあげているのが聞こえました。谷の上には混沌の雲がかかっていて、勇気をくじきます。死もまた谷の上に常に翼を広げています。あらゆる点で最悪で、まったくの無秩序だということです」（ヨブ三・五、一〇・二二）
 
 CHR. Then, said Christian, I perceive not yet, by what you have said, but that this is my way to the desired haven. [Jer. 2:6]
-クリスチャン「お話をうかがっても、やはりここが私の望む港へ至る道だとしか思えません」（詩篇四四・一八〜一九、エレミヤ二・六）
+クリスチャン「お話をうかがっても、やはりここが私の望む港へ至る道だとしか思えません」（エレミヤ二・六）
 
 MEN. Be it thy way; we will not choose it for ours.
 二人「あなたはお行きになればよろしい。我々はここを通りません」
@@ -42,16 +42,19 @@ So, they parted, and Christian went on his way, but still with his sword drawn i
 そこで別れ、クリスチャンは道を進んだ。手には剣をにぎりしめたままだった。攻撃を受けるのではないかと恐れていたのだ。
 
 I saw then in my dream, so far as this valley reached, there was on the right hand a very deep ditch; that ditch is it into which the blind have led the blind in all ages, and have both there miserably perished. [Ps. 69:14,15] Again, behold, on the left hand, there was a very dangerous quag, into which, if even a good man falls, he can find no bottom for his foot to stand on. Into that quag King David once did fall, and had no doubt therein been smothered, had not HE that is able plucked him out.
-私が夢の中で見ていると、この谷のずっと先まで、道の右側に深い溝が続いていた。昔から盲人が盲人を導いてはその溝に落ち、双方とも無惨に滅ぼされるのだった。また、見よ、左側には危険なぬかるみがあり、善人でさえそこに落ちると、足場を失い、立っていられなくなるのだった。かつてはダビデ王がそのぬかるみに落ちた。力あるお方が引き抜いてくださらなかったなら、間違いなくそこで息絶えていただろう（詩篇六九・一四）。
+私が夢の中で見ていると、この谷のずっと先まで、道の右側に深い溝が続いていた。昔から盲人が盲人を導いてはその溝に落ち、双方とも無惨に滅ぼされるのだった（詩篇六九・一四〜一五）。また、見よ、左側には危険なぬかるみがあり、善人でさえそこに落ちると、足場を失い、立っていられなくなるのだった。かつてはダビデ王がそのぬかるみに落ちた。力あるお方が引き抜いてくださらなかったなら、間違いなくそこで息絶えていただろう。
 
 The pathway was here also exceeding narrow, and therefore good Christian was the more put to it; for when he sought, in the dark, to shun the ditch on the one hand, he was ready to tip over into the mire on the other; also when he sought to escape the mire, without great carefulness he would be ready to fall into the ditch. Thus he went on, and I heard him here sigh bitterly; for, besides the dangers mentioned above, the pathway was here so dark, and ofttimes, when he lift up his foot to set forward, he knew not where or upon what he should set it next.
 中央の道はあまりにも狭かったため、善良なクリスチャンはますます難儀した。暗闇の中、溝を避けようとするともう片側のぬかるみにはまりそうになるし、ぬかるみを避けようとするとよほど注意しなければ溝に落ちそうになるのだった。それでも進んだが、彼はやがて悲痛なため息をついた。というのも、先の危険に加えて、通り道は非常に暗く、彼が前に進もうと足を上げても、次にどこへ、何の上に下ろせばよいかわからないことがしばしばだったからである。
 
-// 未訳：Gutenberg 版にある詩
 Poor man! where art thou now? thy day is night.
 Good man, be not cast down, thou yet art right,
 Thy way to heaven lies by the gates of Hell;
 Cheer up, hold out, with thee it shall go well.
+あわれな人よ！　いまどこにいるのか。昼が夜になってしまった。<br/>
+善き人よ、うなだれるな。まだ道をそれてはいない。<br/>
+天への道は地獄の門のそばを通っているのだ。<br/>
+元気を出せ、耐え抜け。きっとうまくいく。
 
 About the midst of this valley, I perceived the mouth of hell to be, and it stood also hard by the wayside. Now, thought Christian, what shall I do? And ever and anon the flame and smoke would come out in such abundance, with sparks and hideous noises, (things that cared not for Christian's sword, as did Apollyon before), that he was forced to put up his sword, and betake himself to another weapon called All-prayer. [Eph. 6:18] So he cried in my hearing, "O Lord, I beseech thee, deliver my soul!" [Ps. 116:4] Thus he went on a great while, yet still the flames would be reaching towards him. Also he heard doleful voices, and rushings to and fro, so that sometimes he thought he should be torn in pieces, or trodden down like mire in the streets.
 谷の中ごろで、私は地獄の口を見た。道のすぐそばに恐ろしい口を開けていた。さあ、どうしたものか、とクリスチャンは思った。ときどき、炎と煙がバチバチとおぞましい音を立てておびただしく吹き出していた。（アポリュオンがおじ恐れたクリスチャンの剣に対してさえ、まるで意に介さぬようだった。）やむをえずクリスチャンは剣をしまい、別の武器を取り出した。〈すべての祈り〉である（エペソ六・一八）。私は彼が大声で祈るのを聞いた。「主よ、どうぞわたしの魂をお救いください」（詩篇一一六・四）。こうしてクリスチャンは長いあいだ進んだが、炎はなおも彼のほうへ伸びてきた。また、悲しげな声や、あたりを駆けまわる音が聞こえ、ときには自分が引き裂かれるのではないか、あるいは道端の泥のように踏みつけられるのではないかと思うほどだった。
@@ -82,7 +85,7 @@ Now morning being come, he looked back, not out of desire to return, but to see,
 朝になった。クリスチャンは後ろを振り返った。引き返したいと思ったわけではない。暗闇の中で通り抜けてきた危険がどれほどのものだったか、日の光で確かめたかったのである。見ると、片側にある深い溝、その反対側のぬかるみ、それらにはさまれた狭い道がはっきり見えた。地獄の妖精、サテュロス、竜もはるか遠くに見えた。夜が明けてからは近寄ってこなかったのである。それでも、「（主が）暗やみの中から隠れた事どもをあらわし、暗黒を光に引き出し」（ヨブ一二・二二）たと書いてあるとおり、それらの光景ははっきり見えるところとなった。
 
 Now was Christian much affected with his deliverance from all the dangers of his solitary way; which dangers, though he feared them more before, yet he saw them more clearly now, because the light of the day made them conspicuous to him.
-クリスチャンはこの孤独で危険な道を歩みぬいた解放感で胸をなでおろした。道中では非常に恐ろしかった数々の危険が、太陽の光にさらされてはっきりと見えるようになっていた。
+クリスチャンはこの孤独で危険な道を歩みぬいた解放感で胸をなでおろした。道中では今よりずっと恐ろしく思えた数々の危険が、太陽の光にさらされてはっきりと見えるようになっていた。
 
 And about this time the sun was rising, and this was another mercy to Christian; for you must note, that though the first part of the Valley of the Shadow of Death was dangerous, yet this second part which he was yet to go, was, if possible, far more dangerous; for from the place where he now stood, even to the end of the valley, the way was all along set so full of snares, traps, gins, and nets here, and so full of pits, pitfalls, deep holes, and shelvings down there, that, had it now been dark, as it was when he came the first part of the way, had he had a thousand souls, they had in reason been cast away; but, as I said just now, the sun was rising. Then said he, "His candle shineth upon my head, and by his light I walk through darkness." [Job 29:3]
 しかも、このころ日が昇りつつあったことは、クリスチャンにとってまた別の恵みであった。というのも、死の陰の谷の前半も危険だったが、これから進む後半は、それよりはるかに危険だったからである。クリスチャンが今立っている場所から谷の終端まで道沿いに、落とし穴や罠や捕獲網がそこら中にあり、溝やくぼみや深い穴や落ち込む段差がそこかしこにあった。もしも来た道のように暗闇の中を歩かなければならないとしたら、命がいくつあっても足りなかったにちがいない。だが、今は太陽が出ているのだ。クリスチャンはこう口にした。「彼のともしびがわたしの頭の上に輝き、彼の光によってわたしは暗やみを歩む」（ヨブ二九・三）
