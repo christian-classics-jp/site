@@ -33,14 +33,14 @@ He is teaching us the true way to life everlasting; the royal way which leads to
 From the character of the Speaker, we are well assured that he hath declared the full and perfect will of God.
 語っておられる方がどういう方かを考えれば、私たちは確信できます。この方は、神の完全で欠けのないみこころを告げてくださったのです。
 He hath uttered not one tittle too much, -- nothing more than he had received of the Father; nor too little, -- he hath not shunned to declare the whole counsel of God; much less hath he uttered anything wrong, anything contrary to the will of him that sent him.
-多すぎることは一画も語っておられません。御父から受けたこと以上は、何も語っておられないのです。少なすぎることもありません。神のみ旨をあますところなく伝えることを、避けられなかったのです（使徒二〇・二七）。まして、何か誤ったこと、ご自分をつかわされた方のみこころに反することを、語られたはずがありません。
+多すぎることは一画も語っておられません。御父から受けたこと以上は、何も語っておられないのです。少なすぎることもありません。神のみ旨をあますところなく伝えることを、ためらわれなかったのです（使徒二〇・二七）。まして、何か誤ったこと、ご自分をつかわされた方のみこころに反することを、語られたはずがありません。
 All his words are true and right concerning all things, and shall stand fast for ever and ever.
 この方の言葉はみな、すべてのことについて真実で正しく、世々かぎりなく堅く立ちます（詩篇一一一・八）。
 
 And we may easily remark, that in explaining and confirming these faithful and true sayings, he takes care to refute not only the mistakes of the Scribes and Pharisees, which then were the false comments whereby the Jewish Teachers of that age had perverted the word of God, but all the practical mistakes that are inconsistent with salvation, which should ever arise in the Christian Church;
-また、たやすく気づくことがあります。主は、これらの信ずべき、まことの言葉を（黙示録二二・六）説き明かし、確かなものとされます。そのとき、注意深く誤りを退けておられるのです。律法学者やパリサイ人の誤りを退けられるだけではありません。それは当時の誤った注釈で、その時代のユダヤ人の教師たちは、それによって神の言葉をゆがめていました。主は、救いと相いれない、実際の生活にかかわる誤りも、すべて退けておられます。キリスト教会にいつか起るはずの誤りです。
+また、たやすく気づくことがあります。主は、これらの信ずべき、まことの言葉を（黙示録二二・六）説き明かし、確かなものとされます。そのとき、注意深く誤りを退けておられるのです。律法学者やパリサイ人の誤りを退けられるだけではありません。それは当時の誤った注釈で、その時代のユダヤ人の教師たちは、それによって神の言葉をゆがめていました。主は、救いと相いれない、実際の生活にかかわる誤りも、すべて退けておられます。それがキリスト教会にいつ起るものであってもです。
 all the comments whereby the Christian Teachers (so called) of any age or nation should pervert the word of God, and teach unwary souls to seek death in the error of their life.
-どの時代、どの国でも、クリスチャンの教師たち（そう呼ばれている人々）は、さまざまな注釈によって神の言葉をゆがめるでしょう。そして、不注意な魂に、迷いの生活をして死を求めるように教えるでしょう。主は、そのような注釈もすべて退けておられるのです。
+どの時代、どの国であれ、クリスチャンの教師たち（そう呼ばれている人々）が、さまざまな注釈によって神の言葉をゆがめることがあります。そして、不注意な魂に、迷いの生活をして死を求めるように教えることがあります。主は、そのような注釈もすべて退けておられるのです。
 // seek death in the error of their life は、外典の知恵の書一・一二 Seek not death in the error of your life の言い回しによる。
 
 4. And hence we are naturally led to observe, whom it is that he is here teaching.
@@ -55,7 +55,7 @@ Oi maqhtai autou, without any force put upon the expression, may be understood o
 これは、原語ではホイ・マセータイ・アウトゥー（οἱ μαθηταὶ αὐτοῦ）、すなわち「彼の弟子たち」です。この言葉は、無理に解釈しなくても、主から学びたいと願ったすべての人を指すと理解できます。
 // 英文の転写は Oi maqhtai autou。
 But to put this out of all question, to make it undeniably plain that where it is said, "He opened his mouth and taught them," the word them includes all the multitudes who went up with him into the mountain, we need only observe the concluding verses of the seventh chapter:
-けれども、これを疑いの余地のないものにするには、七章の結びの節を見るだけで十分です。「イエスは口を開き、彼らに教えて」とあります（マタイ五・二）。その「彼ら」という語には、主と共に山に登ったすべての群衆が含まれています。七章の結びを見れば、そのことが否定しようもなく明らかになるのです。
+けれども、これを疑いの余地のないものにしましょう。「イエスは口を開き、彼らに教えて」とあります（マタイ五・二）。その「彼ら」という語には、主と共に山に登ったすべての群衆が含まれています。それを否定しようもなく明らかにするには、七章の結びの節を見るだけで十分です。
 "And it came to pass, when Jesus had ended these sayings, the multitudes (oi ocloi) were astonished at his doctrine," or teaching;
 「イエスがこれらの言を語り終えられると、群衆は」（ホイ・オクロイ、οἱ ὄχλοι）「その教にひどく驚」きました（マタイ七・二八）。すなわち、主の教え方に驚いたのです。
 // 英文の転写は oi ocloi。英文は doctrine に or teaching と言い添えている。口語訳の「教」は両方の意味を含むので、言い添えは「教え方」と訳した。
@@ -126,19 +126,19 @@ But even here how wide a difference is there between one and the other! "Even th
 8. Above all, with what amazing love does the Son of God here reveal his Father's will to man! He does not bring us again "to the mount that burned with fire, nor unto blackness, and darkness, and tempest."
 （八）　何よりも、神の御子は、ここでなんと驚くべき愛をもって、御父のみこころを人に示しておられることでしょう！　御子は、私たちを再び、「火が燃え、黒雲や暗やみやあらしにつつまれ」た山に連れて行かれるのではありません（ヘブル一二・一八）。
 He does not speak as when he "thundered out of heaven;" when the Highest "gave his thunder, hail-stones, and coals of fire."
-主は「天に雷をとどろかせ」、「いと高き者がみ声を出されると、ひょうと燃える炭とが降ってき」ました（詩篇一八・一三）。そのときのように語られるのでもありません。
+主が「天に雷をとどろかせ」、「いと高き者がみ声を出されると、ひょうと燃える炭とが降ってき」たときがありました（詩篇一八・一三）。主は、そのときのように語られるのでもありません。
 // 祈祷書の詩篇一八・一三の訳。口語訳とほぼ同じ文言なので、口語訳で引いた。
 He now addresses us with his still, small voice, -- "Blessed," or happy, "are the poor in spirit."
-今、主は、静かな細い声で（列王紀上一九・一二）、私たちに語りかけておられます。「こころの貧しい人たちは、さいわいである」（マタイ五・三）。すなわち、幸いなのです。
+今、主は、静かな細い声で（列王紀上一九・一二）、私たちに語りかけておられます。「こころの貧しい人たちは、さいわいです」（マタイ五・三）。すなわち、幸いなのです。
 // 欽定訳の Blessed に、ウェスレーは or happy と言い添えている（【一】（二）でも、そう訳すべきだと言う）。口語訳の「さいわい」はすでにその意味なので、言い添えは「幸い」とだけ訳した。
 Happy are the mourners; the meek; those that hunger after righteousness; the merciful; the pure in heart: Happy in the end, and in the way; happy in this life, and in life everlasting! As if he had said, "Who is he that lusteth to live, and would fain see good days Behold, I show you the thing which your soul longeth for! See the way you have so long sought in vain; the way of pleasantness; the path to calm, joyous peace, to heaven below and heaven above!"
-幸いなのは、悲しんでいる人たち、柔和な人たち、義に飢えかわいている人たち、あわれみ深い人たち、心の清い人たちです（マタイ五・四〜八）。終りにおいても、その途中においても幸いです。この世のいのちにおいても、永遠のいのちにおいても幸いです！　まるで、こう言われたかのようです。「さいわいを見ようとして、いのちを慕い、ながらえることを好む人はだれか（詩篇三四・一二）。見よ、わたしは、あなたがたの魂が慕い求めているものを示します！　あなたがたが長い間むなしく探してきた道を見なさい。それは楽しい道です（箴言三・一七）。静かで喜びに満ちた平安に至る道、地上の天と天上の天とに至る道です！」
+幸いなのは、悲しんでいる人たち、柔和な人たち、義に飢えかわいている人たち、あわれみ深い人たち、心の清い人たちです（マタイ五・四〜八）。終りにおいても、その途中においても幸いです。この世のいのちにおいても、永遠のいのちにおいても幸いです！　まるで、こう言われたかのようです。「さいわいを見ようとして、いのちを慕い、ながらえることを好む人はだれでしょうか（詩篇三四・一二）。見よ、わたしは、あなたがたの魂が慕い求めているものを示します！　あなたがたが長い間むなしく探してきた道を見なさい。それは楽しい道です（箴言三・一七）。静かで喜びに満ちた平安に至る道、地上の天と天上の天とに至る道です！」
 // lusteth to live は祈祷書の詩篇三四・一二の訳。口語訳とほぼ同じ意味なので、口語訳で引いた。
 
 9. At the same time, with what authority does he teach! Well might they say, "Not as the Scribes."
-（九）　同時に、主はなんと権威をもって教えておられることでしょう！　人々が、「律法学者たちのようにではなく」と言ったのも（マタイ七・二九）、もっともです。
+（九）　同時に、主はなんと権威をもって教えておられることでしょう！　「律法学者たちのようにではなく」と言われているのも（マタイ七・二九）、もっともです。
 Observe the manner, (but it cannot be expressed in words,) the air, with which he speaks! Not as Moses, the servant of God; not as Abraham, his friend; not as any of the Prophets; nor as any of the sons of men.
-主の語り方に、その語られる様子に目を留めなさい（とはいえ、それは言葉では言い表せません）！　神の僕モーセのようにではありません。「神の友」アブラハムのようにでもありません（ヤコブ二・二三）。どの預言者のようにでも、どの人の子のようにでもありません。
+主の語り方に、その語られる様子に目を留めなさい（とはいえ、それは言葉では言い表せません）！　神の僕モーセのようにではありません。神の友アブラハムのようにでもありません（ヤコブ二・二三）。どの預言者のようにでも、どの人の子のようにでもありません。
 It is something more than human; more than can agree to any created being.
 それは、人間を超えたものです。どんな造られたものにもふさわしくないほどのものです。
 It speaks the Creator of all! A God, a God appears! Yea, o vn, the Being of beings, JEHOVAH, the self-existent, the Supreme, the God who is over all, blessed for ever!
@@ -178,7 +178,7 @@ We begin at the lowest of these gifts of God, yet so as not to relinquish this, 
 It may not improbably be supposed, that our Lord looked on those who were round about him, and, observing that not many rich were there, but rather the poor of the world, took occasion from thence to make a transition from temporal to spiritual things.
 次のように考えても、無理はないでしょう。私たちの主は、周りにいた人々を見回されました。そして、そこには富んだ者は多くなく、むしろこの世の貧しい人たちがいるのに気づかれました（ヤコブ二・五）。そこで、それをきっかけに、この世のことから霊のことへと話を移されたのです。
 "Blessed," saith he, (or happy, -- so the word should be rendered, both in this and the following verses,) "are the poor in spirit."
-主は言われます。「こころの貧しい人たちは、さいわいである」（マタイ五・三）。「さいわい」とは、幸いということです。この節でも続く節でも、この語はそう訳すべきなのです。
+主は言われます。「こころの貧しい人たちは、さいわいです」（マタイ五・三）。「さいわい」とは、幸いということです。この節でも続く節でも、この語はそう訳すべきなのです。
 He does not say, they that are poor, as to outward circumstances, -- it being not impossible, that some of these may be as far from happiness as a monarch upon his throne; but "the poor in spirit," -- they who, whatever their outward circumstances are, have that disposition of heart which is the first step to all real, substantial happiness, either in this world, or that which is to come.
 主は、外の境遇において貧しい人たちとは言っておられません。そのような人たちの中にも、王座の上の君主と同じほど、幸いから遠い人がいないとはかぎらないからです。主が言われるのは、「こころの貧しい人たち」です（マタイ五・三）。外の境遇がどうであれ、ある心の傾きを持っている人たちです。それは、この世でも来るべき世でも、本当の、実質のある幸いのすべてに至る第一歩となる心の傾きです。
 
@@ -189,14 +189,14 @@ Perhaps they have been induced so to judge, by wholly confining their thoughts t
 And hence many have wholly divested themselves, not only of riches, but of all worldly goods.
 そのため、多くの人が、富だけでなく、この世の財産をすべて、すっかり手放しました。
 Hence also the vows of voluntary poverty seem to have arisen in the Romish Church; it being supposed, that so eminent a degree of this fundamental grace must be a large step toward the "kingdom of heaven."
-ローマ教会で自発的な清貧の誓願が生じたのも、そこからのようです。この根本的な恵みをこれほど際立った程度に持つことは、「天国」へ向かう大きな一歩に違いない、と考えられたのです（マタイ五・三）。
+ローマ教会で自発的な清貧の誓願が生じたのも、そこからのようです。この根本的な徳をこれほど際立った程度に持つことは、「天国」へ向かう大きな一歩に違いない、と考えられたのです（マタイ五・三）。
 
 But these do not seem to have observed, First, that the expression of St. Paul must be understood with some restriction; otherwise it is not true; for the love of money is not the root, the sole root, of all evil.
 けれども、この人々は、次のことに気づいていなかったようです。第一に、パウロの言葉は、ある制限をつけて理解しなければなりません。そうでなければ、真実ではありません。金銭を愛することは、すべての悪の根、ただ一つの根ではないからです。
 There are a thousand other roots of evil in the world, as sad experience daily shows.
 悲しい経験が日々示しているとおり、世には悪の根がほかに数え切れないほどあります。
 His meaning can only be, it is the root of very many evils; perhaps of more than any single vice besides. --
-パウロの意味は、それが非常に多くの悪の根だ、ということでしかありえません。おそらく、ほかのどの悪徳一つよりも多くの悪の根なのです。
+パウロの意味は、それが非常に多くの悪の根だ、ということでしかありえません。おそらく、ほかのどんな悪徳よりも多くの悪の根なのです。
 Secondly, that this sense of the expression, "poor in spirit," will by no means suit our Lord's present design, which is to lay a general foundation whereon the whole fabric of Christianity may be built; a design which would be in no wise answered by guarding against one particular vice:
 第二に、「こころの貧しい」という表現をこの意味に取ると（マタイ五・三）、私たちの主の今の意図に少しも合いません。主の意図は、キリスト教の建物全体をその上に建てることのできる、全体の土台をすえることです。ある一つの悪徳を防ぐだけでは、その意図にはまったくかないません。
 So that, if even this were supposed to be one part of his meaning, it could not possibly be the whole. --
@@ -274,7 +274,7 @@ He next shows that the Jews were no better than they, and were therefore under t
 He proceeds to show, that they were helpless as well as guilty, which is the plain purport of all those expressions:
 使徒はさらに、彼らが罪責を負っているだけでなく、無力でもあることを示します。次の言葉は、どれもはっきりとその趣旨を語っています。
 "Therefore by the deeds of the law there shall no flesh be justified:" -- "But now the righteousness of God, which is by faith of Jesus Christ, without the law, is manifested:" -- "We conclude, that a man is justified by faith, without the deeds of the law:" --
-「律法を行うことによっては、すべての人間は」「義とせられません」（ローマ三・二〇）。「しかし今や」、「イエス・キリストを信じる信仰による神の義」が、「律法とは別に」「現されました」（ローマ三・二一〜二二）。「わたしたちは、こう思う。人が義とされるのは、律法の行いによるのではなく、信仰によるのです」（ローマ三・二八）。
+「律法を行うことによっては、すべての人間は」「義とせられません」（ローマ三・二〇）。「しかし今や」、「イエス・キリストを信じる信仰による神の義」が、「律法とは別に」「現されました」（ローマ三・二一〜二二）。「わたしたちは、こう思います。人が義とされるのは、律法の行いによるのではなく、信仰によるのです」（ローマ三・二八）。
 // 口語訳のローマ三・二〇の「神の前に」は、英文が引いていないので除いた。
 Expressions all tending to the same point, even to "hide pride from man;" to humble him to the dust, without teaching him to reflect upon his humility as a virtue; to inspire him with that full, piercing conviction of his utter sinfulness, guilt, and helplessness, which casts the sinner, stripped of all, lost and undone, on his strong Helper, Jesus Christ the Righteous.
 これらの言葉は、どれも同じ一点を目ざしています。「高ぶりを人から除き」（ヨブ三三・一七）、人をちりにまで低くすることです。しかも、自分の謙遜を徳として省みるようには教えません。人に、自分のまったくの罪深さと罪責と無力とについて、余すところのない、刺し通すような確信を起させるのです。この確信が、罪人を、すべてをはがされ、失われ、滅びかけた罪人を、その力強い助け手のもとに投げ出させます。義なるイエス・キリストのもとにです（第一ヨハネ二・一）。
@@ -285,7 +285,7 @@ This was ever hid from the wise men of this world; insomuch that the whole Roman
 このことは、この世の知者たちには、いつも隠されていました（マタイ一一・二五）。そのため、ローマの言葉全体にも、謙遜を表す名前さえありません。アウグストゥスの時代に、あれほど磨かれたにもかかわらずです（よく知られているように、私たちがこの語を借りてきたもとの語は、ラテン語ではまったく別の意味を持っています）。いいえ、豊かなギリシャ語全体にも、偉大な使徒が作るまでは、そのような語は見当たりませんでした。
 
 10. O that we may feel what they were not able to express! Sinner, awake! Know thyself! Know and feel, that thou wert "shapen in wickedness," and that "in sin did thy mother conceive thee;" and that thou thyself hast been heaping up sin upon sin, ever since thou couldst discern good from evil! Sink under the mighty hand of God, as guilty of death eternal; and cast off, renounce, abhor, all imagination of ever being able to help thyself! Be it all thy hope to be washed in His blood, and renewed by his almighty Spirit, who himself "bare all our sins in his own body on the tree!" So shalt thou witness, "Happy are the poor in spirit: For theirs is the kingdom of heaven."
-（一〇）　ああ、彼らが言い表すことのできなかったものを、私たちが感じとることができますように！　罪人よ、目をさましなさい！　自分自身を知りなさい！　知り、また感じなさい。あなたは「不義のなかに生れ」、「母は罪のうちに」あなたを「みごもりました」（詩篇五一・五）。そして、あなた自身も、善悪をわきまえられるようになってからずっと、罪に罪を積み重ねてきたのです！　永遠の死に値する者として、「神の力強い御手の下に」沈みなさい（第一ペテロ五・六）。自分で自分を助けられるという思いを、すべて捨て、退け、忌みきらいなさい！　主の血で洗われ、主の全能の御霊によって新たにされること（テトス三・五）を、あなたの望みのすべてとしなさい。主ご自身が、「十字架にかかって、わたしたちの罪を」すべて「ご自分の身に負われた」のです（第一ペテロ二・二四）！　そうすれば、あなたはあかしするようになります。「こころの貧しい人たちは、さいわいである、天国は彼らのものです」（マタイ五・三）。
+（一〇）　ああ、彼らが言い表すことのできなかったものを、私たちが感じとることができますように！　罪人よ、目をさましなさい！　自分自身を知りなさい！　知り、また感じなさい。あなたは「不義のなかに生れ」、「母は罪のうちに」あなたを「みごもりました」（詩篇五一・五）。そして、あなた自身も、善悪をわきまえられるようになってからずっと、罪に罪を積み重ねてきたのです！　永遠の死に値する者として、神の力強い御手の下に沈みなさい（第一ペテロ五・六）。自分で自分を助けられるという思いを、すべて捨て、退け、忌みきらいなさい！　主の血で洗われ、主の全能の御霊によって新たにされること（テトス三・五）を、あなたの望みのすべてとしなさい。主ご自身が、「十字架にかかって、わたしたちの罪を」すべて「ご自分の身に負われた」のです（第一ペテロ二・二四）！　そうすれば、あなたはあかしするようになります。「こころの貧しい人たちは、さいわいである、天国は彼らのものです」（マタイ五・三）。
 // shapen in wickedness は祈祷書の詩篇五一・五の訳。口語訳とほぼ同じ文言なので、口語訳で引いた。washed in His blood は欽定訳の黙示録一・五 washed us from our sins in his own blood によるが、口語訳は「その血によってわたしたちを罪から解放し」（写本の違い）なので、出典を付けなかった。
 
 11. This is that kingdom of heaven, or of God, which is within us; even "righteousness, and peace, and joy in the Holy Ghost."
@@ -297,7 +297,7 @@ What is it but the love of God, because he first loved us, and the love of all m
 それは、神がまず私たちを愛してくださったので（第一ヨハネ四・一九）神を愛し、神のゆえにすべての人を愛することではないでしょうか。
 
 And what is this "peace," the peace of God, but that calm serenity of soul, that sweet repose in the blood of Jesus, which leaves no doubt of our acceptance in him; which excludes all fear, but the loving filial fear of offending our Father which is in heaven
-また、この「平和」（ローマ一四・一七）、すなわち神の平安とは（ピリピ四・七）、何でしょうか。それは、魂の静かな落ち着きではないでしょうか。イエスの血のうちにある、甘い安らぎではないでしょうか。それは、私たちが主にあって受けいれられていることに、何の疑いも残しません。天にいます私たちの父を（マタイ六・九）悲しませることを恐れる、愛に満ちた子としての恐れのほかは、すべての恐れを締め出すのです。
+また、この「平和」（ローマ一四・一七）、すなわち神の平安とは（ピリピ四・七）、何でしょうか。それは、魂の静かな落ち着きではないでしょうか。イエスの血のうちにある、甘い安らぎではないでしょうか。それは、私たちが主にあって受けいれられていることに、何の疑いも残しません。天にいます私たちの父の（マタイ六・九）みこころにそむくことを恐れる、愛に満ちた子としての恐れのほかは、すべての恐れを締め出すのです。
 
 This inward kingdom implies also "joy in the Holy Ghost;" who seals upon our hearts "the redemption which is in Jesus," the righteousness of Christ imputed to us "for the remission of the sins that are past;"
 この内なる御国には、「聖霊における喜び」も含まれています（ローマ一四・一七）。聖霊は、イエスによる「あがない」を（ローマ三・二四）、私たちの心に証印してくださいます。過去の罪の赦しのために私たちのものとされた、キリストの義を証印してくださるのです（ローマ三・二五）。
@@ -340,7 +340,7 @@ Nevertheless, the conviction we feel of inbred sin is deeper and deeper every da
 The more we grow in grace, the more do we see of the desperate wickedness of our heart.
 私たちは、恵みにおいて成長すればするほど（第二ペテロ三・一八）、自分の心がはなはだしく悪に染まっていることを（エレミヤ一七・九）、ますます見るようになります。
 The more we advance in the knowledge and love of God, through our Lord Jesus Christ, (as great a mystery as this may appear to those who know not the power of God unto salvation,) the more do we discern of our alienation from God, of the enmity that is in our carnal mind, and the necessity of our being entirely renewed in righteousness and true holiness.
-私たちは、主イエス・キリストを通して、神を知る知識と神への愛とにおいて進めば進むほど、ますます多くを見分けるようになります。神から遠く離れていること（エペソ四・一八）、肉の思いにある敵意（ローマ八・七）、そして、真の義と聖とにおいて（エペソ四・二四）まったく新しくされる必要があることを、見分けるのです。救を得させる神の力を知らない人々には（ローマ一・一六）、これは大きな奥義に見えるかもしれません。
+私たちは、主イエス・キリストを通して、神を知る知識と神への愛とにおいて進みます。進めば進むほど、ますます多くを見分けるようになります。神から遠く離れていること（エペソ四・一八）、肉の思いにある敵意（ローマ八・七）を見分けるのです。そして、真の義と聖とにおいて（エペソ四・二四）、まったく新しくされる必要があることを見分けるのです。救を得させる神の力を知らない人々には（ローマ一・一六）、これは大きな奥義に見えるかもしれません。
 
 ## 【二】　悲しんでいる人たちの幸い
 
@@ -380,7 +380,7 @@ It is not strange if their soul is now disquieted within them, and trouble and h
 今、彼らの魂が彼らのうちに思いみだれ（詩篇四二・五）、悩みと苦しみが彼らに臨んでも（詩篇一一九・一四三）、不思議ではありません。
 Nor will their great enemy fail to improve the occasion; to ask, "Where is now thy God Where is now the blessedness whereof thou spakest the beginning of the kingdom of heaven Yea, hath God said, 'Thy sins are forgiven thee' Surely God hath not said it. It was only a dream, a mere delusion, a creature of thy own imagination. If thy sins are forgiven, why art thou thus Can a pardoned sinner be thus unholy" --
 彼らの大敵も、この機会を逃さずに利用します。そして、こう問いかけます。「おまえの神は、今どこにいるのか（詩篇四二・三）。おまえが口にしていたあの幸い、天国の始まりは、今どこにあるのか（ガラテヤ四・一五）。ほんとうに神が（創世記三・一）、『あなたの罪はゆるされた』と言われたのか（マタイ九・二）。神がそう言われたはずはない。それはただの夢、ただの惑わし、おまえ自身の想像の産物にすぎなかったのだ。罪がゆるされているなら、なぜおまえはこんなありさまなのか。ゆるされた罪人が、こんなに聖くないことがありうるのか」。
-// 大敵の言葉は、いくつかの聖句をつないだものなので、一つの「」にまとめた。
+// 大敵の言葉は、いくつかの聖句をつないだものなので、一つの「」にまとめた。ガラテヤ四・一五は口語訳では「感激」で欽定訳 blessedness と異なるので、英文から訳した。
 And, if then, instead of immediately crying to God, they reason with him that is wiser than they, they will be in heaviness indeed, in sorrow of heart, in anguish not to be expressed.
 そのとき、すぐに神に叫び求めないで、自分たちより賢い者と議論するとします。そうすれば、彼らは本当に憂いに沈み、心に悲しみを抱き、言い表せない苦しみのうちに置かれるでしょう。
 Nay even when God shines again upon the soul, and takes away all doubt of his past mercy, still he that is weak in faith may be tempted and troubled on account of what is to come; especially when inward sin revives, and thrusts sore at him that he may fall.
@@ -414,13 +414,13 @@ This "full assurance of faith" swallows up all doubt, as well as all tormenting 
 この「信仰の確信」は（ヘブル一〇・二二）、すべての疑いも、苦しめるすべての恐れも、のみ尽くします。神が今、彼らに、永遠の宝の（ヘブル一〇・三四）確かな望みと、恵みによる「力強い励まし」とを（ヘブル六・一八）、与えてくださるからです。
 // strong consolation through grace は、ヘブル六・一八 strong consolation と第二テサロニケ二・一六 good hope through grace とを合わせた言い回し。口語訳と同じ「力強い励まし」だけを「」に入れた。
 Without disputing whether it be possible for any of those to "fall away, who were once enlightened and made partakers of the Holy Ghost," it suffices them to say, by the power now resting upon them, "Who shall separate us from the love of Christ -- I am persuaded, that neither death nor life, nor things present nor things to come, nor height nor depth, shall be able to separate us from the love of God, which is in Christ Jesus our Lord." (Rom. 8:35-39.)
-「いったん、光を受けて」、「聖霊にあずかる者とな」った人が（ヘブル六・四）、「そののち堕落」することがありうるかどうかを（ヘブル六・六）、彼らは論じません。今自分たちの上にとどまっている力によって、こう言えば十分なのです。「だれが、キリストの愛からわたしたちを離れさせるのか。わたしは確信します。死も生も、現在のものも将来のものも、高いものも深いものも、わたしたちの主キリスト・イエスにおける神の愛から、わたしたちを引き離すことはできません」（ローマ八・三五〜三九）。
+「いったん、光を受けて」、「聖霊にあずかる者とな」った人が（ヘブル六・四）、「そののち堕落」することがありうるかどうかを（ヘブル六・六）、彼らは論じません。今自分たちの上にとどまっている力によって、こう言えば十分なのです。「だれが、キリストの愛からわたしたちを離れさせるのでしょうか。わたしは確信します。死も生も、現在のものも将来のものも、高いものも深いものも、わたしたちの主キリスト・イエスにおける神の愛から、わたしたちを引き離すことはできません」（ローマ八・三五〜三九）。
 // 口語訳のローマ八・三八〜三九にある「天使も支配者も」「力あるものも」「その他どんな被造物も」は、英文が引いていないので除いた。
 
 5. This whole process, both of mourning for an absent God, and recovering the joy of his countenance, seems to be shadowed out in what our Lord spoke to his Apostles, the night before his passion:
 （五）　神がおられないことを悲しみ、御顔の喜びを取り戻す。この過程の全体は、私たちの主が受難の前夜に使徒たちに語られた言葉に、あらかじめ描かれているようです。
 "Do ye inquire of that I said, A little while, and ye shall not see me: And again, a little while, and ye shall see me Verily, verily, I say unto you, that ye shall weep and lament;" namely, when ye do not see me; "but the world shall rejoice;" shall triumph over you, as though your hope were now come to an end.
-「しばらくすればわたしを見なくなる、またしばらくすればわたしに会えるであろうと、わたしが言ったことで、互に論じ合っているのですか。よくよくあなたがたに言っておく。あなたがたは泣き悲しみます」（ヨハネ一六・一九〜二〇）。すなわち、わたしを見ないときにです。しかし、「この世は喜ぶでしょう」（ヨハネ一六・二〇）。あなたがたの望みが今や尽きたかのように、あなたがたに勝ち誇るのです。
+「しばらくすればわたしを見なくなる、またしばらくすればわたしに会えるであろうと、わたしが言ったことで、互に論じ合っているのですか。よくよくあなたがたに言っておきます。あなたがたは泣き悲しみます」（ヨハネ一六・一九〜二〇）。すなわち、わたしを見ないときにです。しかし、「この世は喜ぶでしょう」（ヨハネ一六・二〇）。あなたがたの望みが今や尽きたかのように、あなたがたに勝ち誇るのです。
 "And ye shall be sorrowful," through doubt, through fear, through temptation, through vehement desire; "but your sorrow shall be turned into joy," by the return of Him whom your soul loveth.
 「あなたがたは憂えている」のです（ヨハネ一六・二〇）。疑いのために、恐れのために、誘惑のために、激しい慕わしさのためにです。しかし、「その憂いは喜びに変るでしょう」（ヨハネ一六・二〇）。あなたがたの魂の愛する方が（雅歌三・一）、帰ってこられることによってです。
 "A woman when she is in travail hath sorrow, because her hour is come. But as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world.
@@ -456,7 +456,7 @@ And it is no wonder at all, that this judgment should be passed by those who kno
 Suppose, as two persons were walking together, one should suddenly stop, and with the strongest signs of fear and amazement, cry out, "On what a precipice do we stand! See, we are on the point of being dashed in pieces! Another step, and we fall into that huge abyss! Stop! I will not go on for all the world!" --
 二人の人が一緒に歩いていて、一方が突然立ち止まったとします。そして、ひどく恐れ驚いた様子で、こう叫んだとします。「なんという断崖の上に、私たちは立っているのだ！　見ろ、もう少しで粉々に砕けるところだ！　もう一歩で、あの巨大な淵に落ちてしまう！　止まれ！　世界をもらっても、私はこれ以上進まない！」
 when the other, who seemed, to himself at least, equally sharp-sighted, looked forward and saw nothing of all this; what would he think of his companion, but that he was beside himself; that his head was out of order; that much religion (if he was not guilty of "much learning") had certainly made him mad!
-ところが、もう一方の人は、少なくとも自分では同じように目が利くつもりでした。それなのに、前を見ても、そんなものは何も見えなかったとします。その人は、連れのことを何と思うでしょうか。気が狂った、頭がおかしくなった、と思うだけでしょう。「博学」の罪は犯していないとしても（使徒二六・二四）、信心が過ぎて、きっと気が狂ったのだ、と思うだけでしょう！
+ところが、もう一方の人は、少なくとも自分では同じように目が利くつもりでした。それなのに、前を見ても、そんなものは何も見えなかったとします。その人は、連れのことを何と思うでしょうか。気が狂った、頭がおかしくなった、と思うだけでしょう。「博学」の罪は犯していないとしても（使徒二六・二四）、宗教に凝りすぎて、きっと気が狂ったのだ、と思うだけでしょう！
 
 8. But let not the children of God, "the mourners in Sion," be moved by any of these things.
 （八）　けれども、神の子たち、すなわち「シオンの中の悲しむ者」たちは（イザヤ六一・三）、こうしたことのどれにも動かされてはなりません。
@@ -470,6 +470,7 @@ It has already swallowed up more than words can express, nations, and kindreds, 
 その淵は、すでに言葉で言い表せないほど多くのものをのみ込んできました。あらゆる国民、部族、民族、国語の人々です（黙示録七・九）。そして、うわついた、みじめな人の子らを、彼らが見ていようといまいと、なおのみ込もうと口を開けています。
 O cry aloud! Spare not! Lift up your voice to Him who grasps both time and eternity, both for yourselves and your brethren, that ye may be counted worthy to escape the destruction that cometh as a whirlwind! that ye may be brought safe through all the waves and storms into the haven where you would be! Weep for yourselves, till he wipes away the tears from your eyes.
 ああ、大いに呼ばわりなさい。声を惜しんではなりません（イザヤ五八・一）！　時と永遠とを両方とも手に握っておられる方に向かって、声をあげなさい。自分のためにも、兄弟たちのためにも、声をあげなさい。つむじ風のように臨む滅びから（箴言一・二七）、のがれるにふさわしい者とされるためです（ルカ二一・三六）！　あらゆる波と嵐を通り抜けて、望む港へと無事に導かれるためです（詩篇一〇七・三〇）！　自分のために泣きなさい。神があなたがたの目から涙をぬぐいとってくださるまで、泣きなさい（黙示録七・一七）。
+// counted worthy to escape は欽定訳のルカ二一・三六 accounted worthy to escape による。口語訳は「のがれて、人の子の前に立つことができるように」（写本の違い）なので、英文から訳した。
 And even then, weep for the miseries that come upon the earth, till the Lord of all shall put a period to misery and sin, shall wipe away the tears from all faces, and "the knowledge of the Lord shall cover the earth, as the waters cover the sea."
 そして、そのときでさえ、地に臨む悲惨のために泣きなさい。万物の主が悲惨と罪とに終りを告げ、すべての顔から涙をぬぐい（イザヤ二五・八）、「水が海をおおっているように、主を知る知識が地に満ちる」（イザヤ一一・九）ときまで、泣きなさい。
 
