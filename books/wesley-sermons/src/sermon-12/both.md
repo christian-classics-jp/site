@@ -9,7 +9,7 @@ The Witness of Our Own Spirit
 1. Such is the voice of every true believer in Christ, so long as he abides in faith and love.
 （一）　これは、キリストを本当に信じるすべての信者の声です。信仰と愛のうちにとどまっているかぎり、そうなのです。
 "He that followeth me," saith our Lord, "walketh not in darkness:" And while he hath the light, he rejoiceth therein.
-主は、「わたしに従って来る者は」、「やみのうちを歩くことがありません」と言われます（ヨハネ八・一二）。そして、信者は、光を持っている間は、その光を喜びます。
+主は、「わたしに従って来る者は、やみのうちを歩くことがありません」と言われます（ヨハネ八・一二）。そして、信者は、光を持っている間は、その光を喜びます。
 As he hath "received the Lord Jesus Christ," so he walketh in him;
 信者は、「主キリスト・イエスを受けいれた」ように、キリストにあって歩みます（コロサイ二・六）。
 and while he walketh in him, the exhortation of the Apostle takes place in his soul, day by day, "Rejoice in the Lord always; and again I say, Rejoice."
@@ -27,7 +27,7 @@ But, in order to understand this the more thoroughly, it will be requisite to we
 One would imagine it was an exceedingly difficult thing to discover this, when we consider how large and numerous volumes have been from time to time wrote on this subject; and how all the treasures of ancient and modern learning have been ransacked, in order to explain it.
 この問題については、これまでに、大部の書物が数多く書かれてきました。それを説明するために、古今の学問の宝が残らずあさられてきました。それを考えると、この意味を見いだすのは、きわめて難しいことのように思われるでしょう。
 And yet it is to be feared, it has not received much light from all those elaborate inquiries.
-けれども、そうした手の込んだ研究のすべてによっても、この問題にはあまり光が当てられなかったのではないでしょうか。
+けれども、そうした手の込んだ研究のすべてによっても、この問題にはあまり光が当てられてこなかったように思われます。
 Rather, have not most of those writers puzzled the cause; "darkening counsel by words without knowledge;" perplexing a subject, plain in itself, and easy to be understood
 むしろ、そうした著作家の多くは、問題を混乱させてきたのではないでしょうか。「無知の言葉をもって」、「計りごとを暗く」してきたのではないでしょうか（ヨブ三八・二）。それ自体は明らかで、わかりやすい主題を、わかりにくくしてきたのではないでしょうか。
 For, set aside but hard words, and every man of an honest heart will soon understand the thing.
@@ -38,7 +38,7 @@ For, set aside but hard words, and every man of an honest heart will soon unders
 In particular, we are capable of perceiving whatsoever passes in our own hearts or lives; of knowing whatsoever we feel or do; and that either while it passes, or when it is past.
 とりわけ、私たちは、自分の心や生活の中で起こることを、何でも知覚できます。自分が感じることや行うことを、何でも知ることができます。それも、それが起こっている間にも、起こったあとにも、知ることができるのです。
 This we mean when we say, man is a conscious being: He hath a consciousness, or inward perception, both of things present and past, relating to himself, of his own tempers and outward behavior.
-人間は自覚をもつ存在だと言うとき、私たちが意味しているのは、このことです。人間は、自分にかかわる今のことと過ぎたこと、自分の気質と外の行いについて、自覚、すなわち内なる知覚を持っているのです。
+人間は自覚をもつ存在だと言うとき、私たちが意味しているのは、このことです。人間は、自分にかかわる今のことと過ぎたことについて、自覚、すなわち内なる知覚を持っています。自分の気質と外の行いについても、それを持っているのです。
 But what we usually term conscience, implies somewhat more than this.
 けれども、私たちがふつう良心と呼んでいるものは、これ以上のものを含んでいます。
 It is not barely the knowledge of our present or the remembrance of our preceding life.
@@ -54,14 +54,14 @@ And to Christians it is undeniably preferable, on another account also; namely, 
 また、クリスチャンにとっては、もう一つの理由からも、古い言葉のほうがよいことは否定できません。それが聖書の言葉だからです。神の知恵が、霊感による書物の中で用いることにした言葉だからです。
 
 And according to the meaning wherein it is generally used there, particularly in the Epistles of St. Paul, we may understand by conscience, a faculty or power, implanted by God in every soul that comes into the world, of perceiving what is right or wrong in his own heart or life, in his tempers, thoughts, words, and actions.
-聖書の中で、とりわけパウロの手紙の中で、この言葉が一般に用いられている意味があります。その意味に従えば、良心とは、一つの能力、すなわち力だと理解してよいでしょう。神が、この世に生れてくるすべての魂に植えつけられた力です。それは、自分の心や生活において、自分の気質、思い、言葉、行いにおいて、何が正しく何が誤っているかを知覚する力なのです。
+聖書の中で、とりわけパウロの手紙の中で、この言葉が一般に用いられている意味があります。その意味に従えば、良心とは、一つの能力、すなわち力だと理解してよいでしょう。神が、この世に生れてくるすべての魂に植えつけられた力です。それは、何が正しく何が誤っているかを知覚する力です。自分の心や生活において、自分の気質、思い、言葉、行いにおいて、それを知覚するのです。
 
 6. But what is the rule whereby men are to judge of right and wrong Whereby their conscience is to be directed
 （六）　けれども、人が正しいことと誤ったことを判断する規準は何でしょうか。良心は何によって導かれるべきなのでしょうか。
 The rule of Heathens, as the Apostle teaches elsewhere is "the law written in their hearts;" by the finger of God;
-使徒がほかの箇所で教えているように、異邦人の規準は、神の指によって「その心にしるされている」律法です。
+使徒がほかの箇所で教えているように、異邦人の規準は、神の指によって「その心にしるされている」律法です（ローマ二・一五）。
 "their conscience also bearing witness," whether they walk by this rule or not, "and their thoughts the mean while accusing, or even excusing," acquitting, defending them; h kai apologoumenvn. (Rom. 2:14, 15.)
-彼らがこの規準によって歩んでいるかどうかを、「彼らの良心も共にあかしをして」います。そして、「その判断が互にあるいは訴え、あるいは弁明し合う」のです。すなわち、彼らを無罪とし、弁護するのです。原文では、エー・カイ・アポログーメノーン（ἢ καὶ ἀπολογουμένων）です（ローマ二・一四〜一五）。
+彼らがこの規準によって歩んでいるかどうかを、「彼らの良心も共にあかしをして」います。そして、「その判断が」その間に「あるいは訴え、あるいは弁明し」ます。すなわち、彼らを無罪とし、弁護するのです。原文では、エー・カイ・アポログーメノーン（ἢ καὶ ἀπολογουμένων）です（ローマ二・一四〜一五）。
 // 英文の h kai apologoumenvn は、ギリシャ語 ἢ καὶ ἀπολογουμένων（あるいは弁明し）の転写。
 But the Christian rule of right and wrong is the word of God, the writings of the Old and New Testament; all that the Prophets and "holy men of old" wrote "as they were moved by the Holy Ghost;"
 けれども、クリスチャンにとって正しいことと誤ったことの規準は、神の言葉、すなわち旧約と新約の書物です。預言者たちと昔の聖なる人々が、「聖霊に感じ」て書いたもののすべてです（第二ペテロ一・二一）。
@@ -83,12 +83,12 @@ this being the whole and sole outward rule whereby his conscience is to be direc
 （七）　そして、良心が実際にこれによって導かれているなら、その人は、神に対する正しい良心の応答を持っているのです（第一ペテロ三・二一）。
 // 英文の the answer of a good conscience toward God は、第一ペテロ三・二一の欽定訳による。口語訳は「明らかな良心を神に願い求めること」で訳が異なるので、説教十と同じく英文から訳し、「」に入れなかった。
 "A good conscience is what is elsewhere termed by the Apostle, "a conscience void of offense."
-正しい良心とは、使徒がほかの箇所で、責められることのない良心と呼んでいるものです。
+正しい良心とは、使徒がほかの箇所で、「良心に責められることのない」状態と呼んでいるものです（使徒二四・一六）。
 So, what he at one time expresses thus, "I have lived in all good conscience before God until this day;" (Acts 23:1;)
 使徒は、あるときには、こう言い表しています。「私は今日まで、神の前に、ひたすら明らかな良心にしたがって行動してきました」（使徒二三・一）。
+// 使徒二三・一の good conscience は、口語訳では「明らかな良心」。
 he denotes at another, by that expression, "Herein do I exercise myself, to have always a conscience void of offense toward God, and toward men." (Acts 24:16.)
 同じことを、別のときには、こう言い表しています。「私はまた、神に対しまた人に対して、良心に責められることのないように、常に努めています」（使徒二四・一六）。
-// 使徒二三・一の good conscience は、口語訳では「明らかな良心」。
 Now in order to this there is absolutely required, First, a right understanding of the word of God, or his "holy, and acceptable, and perfect will" concerning us, as it is revealed therein.
 さて、このためには、どうしても必要なことがあります。第一に、神の言葉を正しく理解することです。すなわち、そこに示されている、私たちについての神の聖なる、喜ばれる、完全な御旨を、正しく理解することです（ローマ一二・二）。
 // 英文の holy, and acceptable, and perfect will は、欽定訳のローマ一二・二では good, and acceptable, and perfect, will。口語訳は「何が善であって、神に喜ばれ、かつ全きことであるか」で語順も異なるので、英文から訳し、「」に入れなかった。
@@ -145,7 +145,7 @@ It extends to all our actions and words; to the employment of all our powers and
 私たちのすべての行いと言葉に及び、私たちのすべての力と能力の用い方に及びます。神に対しても人に対しても、私たちが受けたあらゆる賜物を用いるしかたに及ぶのです。
 
 10. "We have had our conversation in the world;" even in the world of the ungodly: Not only among the children of God; (that were comparatively a little thing;) but among the children of the devil, among those that lie in wickedness, en tv ponhrv, in the wicked one.
-（一〇）　私たちは「この世で」ふるまってきた、とあります。それも、不信心な者たちの世においてです。神の子たちの間でだけではありません（それなら、比べれば小さなことでしょう）。悪魔の子たちの間で、悪のうちに横たわる人々の間で、ふるまってきたのです。原文ではエン・トー・ポネーロー（ἐν τῷ πονηρῷ）、すなわち「悪しき者の」うちにある人々です（第一ヨハネ五・一九）。
+（一〇）　私たちは「この世で」ふるまってきた、とあります（第二コリント一・一二）。それも、不信心な者たちの世においてです。神の子たちの間でだけではありません（それなら、比べれば小さなことでしょう）。悪魔の子たちの間で、悪のうちにある人々の間で、ふるまってきたのです。原文ではエン・トー・ポネーロー（ἐν τῷ πονηρῷ）、すなわち「悪しき者の」うちにある人々です（第一ヨハネ五・一九）。
 // 英文の en tv ponhrv は、ギリシャ語 ἐν τῷ πονηρῷ の転写。ウェスレーは、欽定訳の第一ヨハネ五・一九 lieth in wickedness を in the wicked one と訳し直している。口語訳は「悪しき者の配下にある」。
 What a world is this! How thoroughly impregnated with the spirit it continually breathes.
 これは、なんという世でしょう！　この世は、自分が絶えず吐き出している霊に、なんと深くしみとおっていることでしょう。
@@ -156,16 +156,16 @@ Like their father, they are always lying in wait, or "walking about, seeking who
 using fraud or force, secret wiles or open violence, to destroy those who are not of the world;
 欺きや力ずく、ひそかな策略やあからさまな暴力を用いて、世のものでない人々を滅ぼそうとします（ヨハネ一七・一六）。
 continually warring against our souls, and, by old or new weapons, and devices of every kind, labouring to bring them back into the snare of the devil, into the broad road that leadeth to destruction.
-絶えず私たちの魂に戦いをいどみ（第一ペテロ二・一一）、古い武器や新しい武器、あらゆる種類のたくらみによって、魂を連れ戻そうと骨折ります。悪魔のわなへ（第二テモテ二・二六）、滅びにいたる広い道へ（マタイ七・一三）、連れ戻そうとするのです。
+絶えず私たちの魂に戦いをいどみます（第一ペテロ二・一一）。古い武器や新しい武器、あらゆる種類のたくらみによって、魂を連れ戻そうと骨折ります。悪魔のわなへ（第二テモテ二・二六）、滅びにいたる広い道へ（マタイ七・一三）、連れ戻そうとするのです。
 
 11. "We have had our" whole "conversation," in such a world, "in simplicity and godly sincerity."
-（一一）　私たちは、このような世で、単純さと神にかなう誠実さとをもって、生活全体をふるまってきた、とあります。
+（一一）　私たちは、このような世で、単純さと神にかなう誠実さとをもって、生活のすべてにおいてふるまってきた、とあります。
 First, in simplicity: This is what our Lord recommends, under the name of a "single eye."
-第一に、単純さをもってです。これは、私たちの主が、目が「澄んで」いることとして勧めておられるものです。
+第一に、単純さをもってです。これは、私たちの主が、目が「澄んで」いることとして勧めておられるものです（マタイ六・二二）。
 "The light of the body," saith he, "is the eye. If therefore thine eye be single, the whole body shall be full of light."
 主はこう言われます。「目はからだのあかりです。だから、あなたの目が澄んでおれば、全身も明るいでしょう」（マタイ六・二二）。
 The meaning whereof is this: What the eye is to the body, that the intention is to all the words and actions:
-その意味は、こうです。目がからだに対してあるように、意図はすべての言葉と行いに対してあります。
+その意味は、こうです。目がからだにとって果たす役割を、意図は、すべての言葉と行いにとって果たします。
 If therefore this eye of thy soul be single, all thy actions and conversation shall be "full of light," of the light of heaven, of love, and peace, and joy in the Holy Ghost.
 ですから、あなたの魂のこの目が澄んでいれば、あなたのすべての行いとふるまいは、光に満ちるでしょう。天の光、すなわち愛と平和と聖霊における喜びの光に満ちるのです（ローマ一四・一七）。
 
@@ -174,10 +174,10 @@ We are then simple of heart, when the eye of our mind is singly fixed on God;
 when in all things we aim at God alone, as our God, our portion, our strength, our happiness, our exceeding great reward, our all, in time and eternity.
 すべてのことにおいて、ただ神だけを目指しているときです。神を、私たちの神、私たちの受ける分、私たちの力、私たちの幸いとして目指すのです。また、私たちのはなはだ大きい報いとして（創世記一五・一）、時においても永遠においても、私たちのすべてとして目指すのです。
 This is simplicity; when a steady view, a single intention of promoting his glory, of doing and suffering his blessed will, runs through our whole soul, fills all our heart, and is the constant spring of all our thoughts, desires, and purposes.
-これが単純さです。神の栄光をあらわし、神の祝福されたみこころを行い、またそれを忍ぼうとする、揺るがない目当て、ひたむきな意図があるときです。その意図が、私たちの魂全体を貫き、心全体を満たし、すべての思いと願いと目的の、絶えない泉となっているときです。
+これが単純さです。揺るがない目当て、ひたむきな意図があるときです。神の栄光をあらわし、神の祝福されたみこころを行い、またそれを忍ぼうとする意図です。その意図が、私たちの魂全体を貫き、心全体を満たし、すべての思いと願いと目的の、絶えない泉となっているときです。
 
 12. "We have had our conversation in the world," Secondly, "in godly sincerity."
-（一二）　第二に、私たちは「この世で」、神にかなう誠実さをもってふるまってきた、とあります。
+（一二）　第二に、私たちは「この世で」、神にかなう誠実さをもってふるまってきた、とあります（第二コリント一・一二）。
 the difference between simplicity and sincerity seems to be chiefly this: Simplicity regards the intention itself, sincerity the execution of it;
 単純さと誠実さとの違いは、主に次の点にあるように思われます。単純さは意図そのものにかかわり、誠実さはその実行にかかわるのです。
 and this sincerity relates not barely to our words, but to our whole conversation, as described above.
@@ -187,7 +187,7 @@ It is not here to be understood in that narrow sense, wherein St. Paul himself s
 but in a more extensive meaning, as actually hitting the mark, which we aim at by simplicity.
 もっと広い意味で、単純さによって目指す的に、実際に当たることとして理解すべきです。
 Accordingly, it implies in this place, that we do, in fact, speak and do all to the glory of God; that all our words are not only pointed at this, but actually conducive thereto;
-ですから、ここで誠実さが意味するのは、次のことです。私たちが、実際に、すべてを神の栄光のために語り、行うことです。私たちのすべての言葉が、ただ神の栄光を目指すだけでなく、実際にそれに役立つことです。
+ですから、ここで誠実さが意味するのは、次のことです。私たちが、実際に、すべてを神の栄光のために語り、行うことです（第一コリント一〇・三一）。私たちのすべての言葉が、ただ神の栄光を目指すだけでなく、実際にそれに役立つことです。
 that all our actions flow on in an even stream, uniformly subservient to this great end;
 私たちのすべての行いが、一筋の流れとなって、この大きな目的に一貫して仕えることです。
 and that, in our whole lives, we are moving straight toward God, and that continually; walking steadily on in the highway of holiness, in the paths of justice, mercy, and truth.
@@ -207,7 +207,7 @@ which is still more clearly declared in the following words, "Not with fleshly w
 このことは、続く言葉で、もっとはっきりと示されています。「人間の知恵によってではなく神の恵みによって」（第二コリント一・一二）。
 
 14. "Not with fleshly wisdom:" As if he had said, "We cannot thus converse in the world, by any natural strength of understanding, neither by any naturally acquired knowledge or wisdom.
-（一四）　「人間の知恵によってではなく」とあります。使徒は、こう言っているかのようです。「私たちは、生れながらの悟りの力によっては、この世でこのようにふるまうことはできません。生れながらに身につけた知識や知恵によっても、できません。
+（一四）　「人間の知恵によってではなく」とあります（第二コリント一・一二）。使徒は、こう言っているかのようです。「私たちは、生れながらの悟りの力によっては、この世でこのようにふるまうことはできません。生れながらに身につけた知識や知恵によっても、できません。
 // 欽定訳 fleshly wisdom は、口語訳では「人間の知恵」。英文の言い換えも、これに合わせて訳した。
 We cannot gain this simplicity, or practise this sincerity, by the force either of good sense, good nature, or good breeding.
 良識の力によっても、善良な性質の力によっても、よいしつけの力によっても、できません。そうした力では、この単純さを得ることも、この誠実さを実践することもできないのです。
@@ -216,7 +216,7 @@ It overshoots all our native courage and resolution, as well as all our precepts
 The power of custom is not able to train us up to this, nor the most exquisite rules of human education.
 習慣の力も、人間の教育の最も精緻な規則も、私たちをここまで訓練することはできません。
 Neither could I Paul ever attain hereto, notwithstanding all the advantages I enjoyed, so long as I was in the flesh, in my natural state, and pursued it only by fleshly, natural wisdom."
-私パウロも、多くの利点に恵まれていましたが、ここに達することはできませんでした。肉にあったかぎり、すなわち生れながらの状態にあったかぎり、達することはできなかったのです。ただ人間の知恵、生れながらの知恵で追い求めていたからです」。
+私パウロも、あらゆる利点に恵まれていましたが、ここに達することはできませんでした。肉にあったかぎり、すなわち生れながらの状態にあったかぎり、達することはできなかったのです。ただ人間の知恵、生れながらの知恵で追い求めていたからです」。
 
 And yet surely, if any man could, Paul himself might have attained thereto by that wisdom:
 けれども、確かに、もしだれかにできたとすれば、パウロ自身こそ、その知恵によってそこに達しえたでしょう。
@@ -234,7 +234,7 @@ It was all but lost labour; in a deep, piercing sense of which he was at length 
 それはすべて、むだな骨折りにすぎませんでした。パウロは、そのことを深く、身にしみて感じ、ついにこう叫ばずにはいられなかったのです。「私にとって益であったこれらのものを」、「私の主キリスト・イエスを知る知識の絶大な価値のゆえに」、「損と思うようになりました」（ピリピ三・七〜八）。
 
 15. It could not be that ever he should attain to this but by the "excellent knowledge of Jesus Christ" our Lord; or, "by the grace of God," -- another expression of nearly the same import.
-（一五）　パウロがここに達しえたのは、ただ私たちの主イエス・キリストを「知る知識の絶大な価値」によってでした。言いかえれば、「神の恵みによって」です。これは、ほぼ同じ意味の、別の言い方です。
+（一五）　パウロがここに達しえたのは、ただ私たちの主イエス・キリストを「知る知識の絶大な価値」によってでした（ピリピ三・八）。言いかえれば、「神の恵みによって」です（第二コリント一・一二）。これは、ほぼ同じ意味の、別の言い方です。
 By "the grace of God" is sometimes to be understood that free love, that unmerited mercy, by which I a sinner, through the merits of Christ, am now reconciled to God.
 「神の恵み」は、ときには、あの価なしの愛、受けるに値しないあわれみを指します。それによって、罪人である私が、キリストの功績のゆえに、今、神と和解させられているのです。
 But in this place it rather means that power of God the Holy Ghost, which "worketh in us both to will and to do of his good pleasure."
@@ -255,7 +255,7 @@ We now have "the testimony of our conscience," which we could never have by fles
 We may now therefore readily conceive, how he that hath this testimony in himself rejoiceth evermore.
 ですから、今や、このあかしを自分のうちに持つ人が、どのようにしていつも喜んでいるのかが、たやすくわかるでしょう。
 "My soul," may he say, "doth magnify the Lord, and my spirit rejoiceth in God my Saviour."
-その人は、こう言うことができます。「私の魂は主をあがめ」、私の霊は「救主なる神を」喜びます（ルカ一・四六〜四七）。
+その人は、こう言うことができます。「私の魂は主をあがめ、私の霊は救主なる神を」喜びます（ルカ一・四六〜四七）。
 // 欽定訳のルカ一・四七 rejoiceth は、口語訳では「たたえます」。喜びを論じる箇所なので、英文に合わせて訳し、「」の外に置いた。
 I rejoice in him, who, of his own unmerited love, of his own free and tender mercy, "hath called me into this state of salvation," wherein, through his power, I now stand.
 私は神を喜びます。神は、受けるに値しないご自分の愛により、価なしの優しいあわれみにより、「この救いの状態に私を召してくださった」のです（祈祷書「教理問答」）。私は今、神の力によって、その状態に立っています。
@@ -273,11 +273,11 @@ Simplicity, a single eye to him, in every motion of my heart; power always to fi
 Purity, desiring nothing more but God; "crucifying the flesh with its affections and lusts;" "setting my affections on things above, not on things of the earth:" --
 それは、純粋さです。神のほかには何も望まないことです。「肉を、その情と欲と共に十字架につけ」（ガラテヤ五・二四）、「上にあるものを思」い、「地上のものに心を引かれ」ないことです（コロサイ三・二）。
 Holiness, a recovery of the image of God, a renewal of soul "after his likeness:" --
-それは、聖性です。神のかたちの回復であり、魂が神に似たものへと新しくされることです。
+それは、聖性です。神のかたちの回復であり、魂が神に「かたどって」新しくされることです（創世記一・二六）。
 And Godly Sincerity, directing all my words and works, so as to conduce to his glory.
 そして、それは、神にかなう誠実さです。私のすべての言葉と行いを、神の栄光に役立つように導く誠実さです。
 In this I likewise rejoice, yea, and will rejoice, because my conscience beareth me witness in the Holy Ghost, by the light he continually pours in upon it, that "walk worthy of the vocation wherewith I am called;"
-このことでも、私は喜んでいますし、また喜ぶでしょう（ピリピ一・一八）。私の良心が、聖霊によって私にあかしをしているからです（ローマ九・一）。聖霊が絶えず良心に注ぎ込む光によって、私が「召されたその召しにふさわしく歩」んでいることを（エペソ四・一）、あかししているのです。
+このことでも、私は喜んでいますし、また喜ぶでしょう（ピリピ一・一八）。私の良心が、聖霊によって私にあかしをしているからです（ローマ九・一）。聖霊が絶えず良心に注ぎ込まれる光によって、私が「召されたその召しにふさわしく歩」んでいることを（エペソ四・一）、あかししているのです。
 that I "abstain from all appearance of evil," fleeing from sin as from the face of a serpent;
 私が「あらゆる種類の悪から遠ざか」り（第一テサロニケ五・二二）、蛇の前から逃げるように罪から逃げていることを、あかししているのです。
 // fleeing from sin as from the face of a serpent は、外典シラ書（集会の書）二一・二の言葉。英文から訳した。
@@ -286,9 +286,9 @@ that as I have opportunity I do all possible good, in every kind, to all men;
 that I follow my Lord in all my steps, and do what is acceptable in his sight.
 私が、一歩一歩、主に従い、みこころにかなうことを行っていることを（第一ヨハネ三・二二）、あかししているのです。
 I rejoice, because I both see and feel, through the inspiration of God's Holy Spirit, that all my works are wrought in him, yea, and that it is He who worketh all my works in me.
-私は喜びます。神の聖霊の息吹によって、私のすべてのわざが神にあってなされていることを、見て、感じるからです。いや、私のすべてのわざを私のうちになし遂げてくださるのは神なのだと（イザヤ二六・一二）、見て、感じるからです。
+私は喜びます。神の聖霊の息吹によって、私のすべてのわざが神にあってなされていることを（ヨハネ三・二一）、見て、感じるからです。いや、私のすべてのわざを私のうちになし遂げてくださるのは神なのだと（イザヤ二六・一二）、見て、感じるからです。
 I rejoice in seeing through the light of God, which shines in my heart, that I have power to walk in his ways; and that, through his grace, I turn not therefrom, to the right hand or to the left.
-私は、私の心に輝く神の光によって、神の道を歩む力が私にあることを見て、喜びます。神の恵みによって、その道から右にも左にもそれないことを見て（申命記五・三二）、喜ぶのです。
+私は、心に輝く神の光によって、神の道を歩む力が自分にあることを見て、喜びます。神の恵みによって、その道から右にも左にもそれないことを見て（申命記五・三二）、喜ぶのです。
 
 17. Such is the ground and the nature of that joy whereby an adult Christian rejoiceth evermore.
 （一七）　成熟したクリスチャンがいつも喜んでいる、その喜びの根拠と本質は、このようなものです。
@@ -321,13 +321,13 @@ yea, who, at last, "counted not their lives dear unto themselves, so they might 
 So far from it, that he was an utter stranger to this joy, till the eyes of his understanding were opened;
 それどころか、クリスチャンは、悟りの目が開かれるまでは、この喜びをまったく知りませんでした。
 that he knew it not, until he had spiritual senses, fitted to discern spiritual good and evil.
-霊的な善悪を見分けるのにふさわしい、霊の感覚を持つまでは、この喜びを知らなかったのです。
+霊的な善悪を見分けるのにふさわしい、霊の感覚を持つまでは（ヘブル五・一四）、この喜びを知らなかったのです。
 And now the eye of his soul waxeth not dim: He was never so sharp-sighted before:
 そして今、その魂の目はかすむことがありません。以前には、これほど鋭く見えたことはありませんでした。
 He has so quick a perception of the smallest things, as is quite amazing to the natural man.
 ごく小さなことも、すばやく感じ取ります。生れながらの人がすっかり驚くほどです。
 As a mote is visible in the sun-beam, so to him who is walking in the light, in the beams of the uncreated Sun, every mote of sin is visible.
-日の光の中では、ちりが見えます。それと同じように、光の中を、造られたのではない太陽の光の中を歩む人には、罪のちりの一つ一つが見えるのです。
+日の光の中では、ちりが見えます。それと同じように、光の中を（第一ヨハネ一・七）、造られたのではない太陽の光の中を歩む人には、罪のちりの一つ一つが見えるのです。
 Nor does he close the eyes of his conscience any more: That sleep is departed from him.
 その人は、もう良心の目を閉じることもありません。あの眠りは、その人から去ったのです。
 His soul is always broad awake: No more slumber or folding of the hands to rest! He is always standing on the tower, and hearkening what his lord will say concerning him; and always rejoicing in this very thing, in "seeing him that is invisible."
@@ -356,7 +356,7 @@ The first abhorr'd approach of ill;
 Quick, as the apple of an eye,
 目のひとみのように敏く、<br/>
 The slightest touch of sin to feel.
-罪のかすかな触れにも、気づくことができますように。<br/>
+罪がかすかに触れても、気づくことができますように。<br/>
 // 讃美歌の一節。
 
 20. To conclude. Christian joy is joy in obedience; joy in loving God and keeping his commandments:
@@ -368,12 +368,12 @@ Not so: We are already pardoned and accepted through the mercy of God in Christ 
 Not as if we were by our own obedience to procure life, life from the death of sin: This also we have already through the grace of God.
 また、自分の従順によっていのちを、罪の死からのいのちを得ようとするかのように、守るのでもありません。このいのちも、私たちは神の恵みによって、すでに持っているのです。
 Us "hath he quickened, who were dead in sins;" and now we are "alive to God, through Jesus Christ our Lord."
-神は、「罪過によって死んでいた私たちを」生かしてくださいました（エペソ二・五）。そして今、私たちは、私たちの主「キリスト・イエスにあって神に生きている」のです（ローマ六・一一）。
+神は、「罪過によって死んでいた私たちを」「生かし」てくださいました（エペソ二・五）。そして今、私たちは、私たちの主「キリスト・イエスにあって神に生きている」のです（ローマ六・一一）。
 // 欽定訳のローマ六・一一 through Jesus Christ our Lord の our Lord は、口語訳にない（写本の違い）。「私たちの主」を「」の外に置いた。
 But we rejoice in walking according to the covenant of grace, in holy love and happy obedience.
 けれども、私たちは、恵みの契約にしたがって、聖なる愛と幸いな従順のうちに歩むことを喜びます。
 We rejoice in knowing that, "being justified through his grace," we have "not received that grace of God in vain: "that God having freely (not for the sake of our willing or running, but through the blood of the Lamb) reconciled us to himself, we run, in the strength which he hath given us, the way of his commandments.
-私たちは、「恵みによって義とされ」て（テトス三・七）、「神の恵みをいたずらに受け」なかったことを知って喜びます（第二コリント六・一）。神は、価なしに私たちをご自分と和解させてくださいました。私たちが望んだり走ったりしたからではなく、小羊の血によってです。そして私たちは、神が与えてくださった力によって、神の戒めの道を走るのです（詩篇一一九・三二）。
+私たちは、「恵みによって義とされ」て（テトス三・七）、「神の恵みをいたずらに受け」なかったことを知って喜びます（第二コリント六・一）。神は、価なしに私たちをご自分と和解させてくださいました。私たちが望んだり走ったりしたからではなく、小羊の血によってです。そして、私たちが、神が与えてくださった力によって、神の戒めの道を走っていることを（詩篇一一九・三二）、知って喜ぶのです。
 He hath "girded us with strength unto the war," and we gladly "fight the good fight of faith."
 神は、「戦いのために」私たちに「力を帯びさせ」てくださいました（詩篇一八・三九）。そして私たちは、喜んで「信仰の戦いをりっぱに戦いぬ」くのです（第一テモテ六・一二）。
 We rejoice through him who liveth in our hearts by faith, to "lay hold of eternal life."
