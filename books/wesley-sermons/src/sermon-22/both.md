@@ -128,11 +128,11 @@ the third, to burning alive, inflicted only on the highest offenders, in the "va
 // 英文の転写は Gh Ennwn。ヘブライ語のゲー・ヒンノム（ヒンノムの谷）をギリシャ文字で写したもの。新約聖書の「地獄」（ゲヘナ）はこの語から来ている。
 
 10. And whereas men naturally imagine, that God will excuse their defect in some duties, for their exactness in others; our Lord next takes care to cut off that vain, though common imagination.
-（一〇）　人は生れつき、ある務めをきちんと果せば、神はほかの務めの欠けを大目に見てくださるだろう、と思い込みます。そこで、私たちの主は次に、このむなしい、しかしよくある思い込みを断ち切るように、気を配られます。
+（一〇）　人は生れつき、ある務めをきちんと果たせば、神はほかの務めの欠けを大目に見てくださるだろう、と思い込みます。そこで、私たちの主は次に、このむなしい、しかしよくある思い込みを断ち切るように、気を配られます。
 He shows, that it is impossible for any sinner to commute with God; who will not accept one duty for another, nor take a part of obedience for the whole.
 主は、どんな罪人も神と取り引きすることはできない、と示されます。神は、ある務めを別の務めの代りに受けいれることも、従順の一部を全体の代りに受け取ることもなさらないのです。
 He warns us, that the performing our duty to God will not excuse us from our duty to our neighbour;
-主は、私たちに警告されます。神への務めを果しても、それで隣り人への務めを免れることはできない、と言われるのです。
+主は、私たちに警告されます。神への務めを果たしても、それで隣り人への務めを免れることはできない、と言われるのです。
 that works of piety, as they are called, will be so far from commending us to God, if we are wanting in charity, that, on the contrary, that want of charity will make all those works an abomination to the Lord.
 また、こうも警告されます。私たちに愛が欠けていれば、いわゆる敬虔のわざも、私たちを神に推薦するどころではない。かえって、その愛の欠如が、それらのわざをみな主に忌みきらわれるものにしてしまう、と言われるのです。
 
@@ -291,7 +291,7 @@ A whole eternity of love.
 6. Whosoever then thou art, to whom God hath given to "hunger and thirst after righteousness," cry unto him that thou mayest never lose that inestimable gift, -- that this divine appetite may never cease.
 （六）　ですから、あなたがだれであれ、神があなたに、「義に飢えかわ」くことを与えてくださったなら（マタイ五・六）、神に叫び求めなさい。あの計り知れない賜物を決して失わないように、この神聖な食欲が決してやまないように、叫び求めなさい。
 If many rebuke thee, and bid thee hold thy peace, regard them not; yea, cry so much the more, "Jesus, Master, have mercy on me!" " Let me not live, but to be holy as thou art holy!"
-多くの人があなたをしかって黙らせようとしても（マルコ一〇・四八）、気にかけてはなりません。そうです、ますます激しく叫びなさい。「イエスさま」、私を「あわれんでください」（ルカ一七・一三）。「あなたが聖なる方であるように聖なる者となるためでなければ、私を生かしておかないでください」（第一ペテロ一・一六）。
+多くの人があなたをしかって黙らせようとしても（マルコ一〇・四八）、気にかけてはなりません。そうです、ますます激しく叫びなさい。「イエスさま」、私を「あわれんでください」（ルカ一七・一三）。「あなたが聖なる方であるように聖なる者となるためでなければ（第一ペテロ一・一六）、私を生かしておかないでください」。
 No more "spend thy money for that which is not bread, nor thy labour for that which satisfieth not."
 もう、「かてにもならぬもののために金を費し、飽きることもできぬもののために労」してはなりません（イザヤ五五・二）。
 Canst thou hope to dig happiness out of the earth, -- to find it in the things of the world O trample under foot all its pleasures, despise its honours, count its riches as dung and dross, -- yea, and all the things which are beneath the sun, --"for the excellency of the knowledge of Christ Jesus," for the entire renewal of thy soul in that image of God wherein it was originally created.
@@ -353,7 +353,7 @@ And the greater his love, the more does he rejoice in the blessings of all manki
 そして、愛が大きければ大きいほど、すべての人の受ける祝福を、ますます喜びます。どんな被造物に対しても、どんな種類、どんな程度のねたみからも、ますます遠く離れるのです。
 
 6. Love ou perpereuetai, -- not "vaunteth not itself;" which coincides with the very next words; but rather, (as the word likewise properly imports,) is not rash or hasty in judging; it will not hastily condemn any one.
-（六）　愛はウー・ペルペレウエタイ（οὐ περπερεύεται）です。これは、「高ぶらない」という意味ではありません（第一コリント一三・四）。それでは、すぐ次の言葉と同じになってしまいます。むしろ、この語が本来同じように意味しているとおり、さばくことに無謀でなく、性急でない、という意味です。愛は、だれをも性急に罪に定めません。
+（六）　愛はウー・ペルペレウエタイ（οὐ περπερεύεται）です。これは、「高ぶらない」という意味ではありません（第一コリント一三・四）。それでは、すぐ次の言葉と同じになってしまいます。むしろ、この語の本来の意味でもあるとおり、さばくことに無謀でなく、性急でない、という意味です。愛は、だれをも性急に罪に定めません。
 // 英文の転写は ou perpereuetai。欽定訳は vaunteth not itself、口語訳は「高ぶらない」と訳す。次の「誇らない」（欽定訳 is not puffed up）と重なる、というのがウェスレーの指摘。
 It does not pass a severe sentence, on a slight or sudden view of things: It first weighs all the evidence, particularly that which is brought in favour of the accused.
 ちょっと見ただけで、あるいは急いで見ただけで、厳しい判決を下すことはしません。まず、すべての証拠を量ります。特に、訴えられている人に有利な証拠を量るのです。
@@ -361,7 +361,7 @@ A true lover of his neighbour is not like the generality of men, who, even in ca
 本当に隣り人を愛する人は、世の大多数の人のようではありません。大多数の人は、きわめて微妙な事柄においてさえ、「少し見て、大いに推測し、そうして結論に飛びつく」のです。
 // see a little … conclusion の出典は確認できなかった。
 No: He proceeds with wariness and circumspection, taking heed to every step; willingly subscribing to that rule of the ancient Heathen, (O where will the modern Christian appear!) "I am so far from lightly believing what one man says against another, that I will not easily believe what a man says against himself. I will always allow him second thoughts, and many times counsel too."
-いいえ、その人は、用心深く、慎重に進みます。一歩一歩に気をつけます。そして、古代の異教徒のあの規則に、喜んで従います（ああ、それに比べて、今のクリスチャンはどう見えることでしょう！）。「私は、ある人がほかの人について言う悪口を、軽々しく信じない。それどころか、人が自分自身について言う悪いことさえ、たやすくは信じない。いつもその人に考え直す機会を与え、多くの場合、助言も与えよう」。
+いいえ、その人は、用心深く、慎重に進みます。一歩一歩に気をつけます。そして、古代の異教徒のあの規則に、喜んで従います（ああ、それに比べて、今のクリスチャンはどう見えることでしょう！）。「私は、ある人がほかの人について言う悪口を、軽々しく信じない。それどころか、人が自分自身について言う悪いことさえ、たやすくは信じない。いつもその人に考え直す機会を与え、多くの場合は、人に相談する機会も与えよう」。
 // 古代の異教徒の規則の出典は確認できなかった。
 
 7. It follows, love "is not puffed up:" It does not incline or suffer any man "to think more highly of himself than he ought to think;" but rather to think soberly: Yea, it humbles the soul unto the dust.
@@ -371,7 +371,7 @@ It destroys all high conceits, engendering pride; and makes us rejoice to be as 
 They who are "kindly affectioned one to another with brotherly love," cannot but "in honour prefer one another."
 「兄弟の愛をもって互にいつくしみ」合う人たちは（ローマ一二・一〇）、「進んで互に尊敬し合」わずにはいられません（ローマ一二・一〇）。
 Those who, having the same love, are of one accord, do in lowliness of mind "each esteem other better than themselves."
-同じ愛の心を持ち、心を合わせている人たちは（ピリピ二・二）、へりくだった心をもって（ピリピ二・三）、「互に人を自分よりすぐれた者と」します（ピリピ二・三）。
+同じ愛の心を持ち、心を合わせている人たちは（ピリピ二・二）、へりくだった心をもって「互に人を自分よりすぐれた者と」します（ピリピ二・三）。
 
 8. "It doth not behave itself unseemly:" It is not rude, or willingly offensive to any.
 （八）　愛は「不作法をしません」（第一コリント一三・五）。粗野ではなく、だれに対しても、わざと気を悪くさせることはしません。
@@ -401,12 +401,12 @@ He does not think of himself, so long as that zeal for the glory of God swallows
 神の栄光を求めるあの熱心にのみ込まれているかぎり、自分のことは考えません。
 Nay, at some times he may almost seem, through an excess of love, to give up himself, both his soul and his body; while he cries out, with Moses, "O, this people have sinned a great sin; yet now, if thou wilt forgive their sin -- ; and if not, blot me out of the book which thou hast written;" (Exod. 32:31, 32;) -- or, with St. Paul, "I could wish that myself were accursed from Christ, for my brethren, my kinsmen according to the flesh!" (Rom. 9:3.)
 いや、ときには、愛があふれるあまり、自分自身を、魂もからだも、ほとんど捨ててしまうように見えることさえあります。モーセと共に、こう叫ぶのです。「ああ、この民は大いなる罪を犯し」ました。「今もしあなたが、彼らの罪をゆるされますならば」と言いかけます。そして、「しかし、もしかなわなければ、どうぞあなたが書きしるされたふみから、わたしの名を消し去ってください」と叫ぶのです（出エジプト三二・三一〜三二）。あるいは、パウロと共に、こう叫ぶのです。「わたしの兄弟、肉による同族のためなら、わたしのこの身がのろわれて、キリストから離されてもいといません」（ローマ九・三）。
-// 英文の -- は言いさしを表す。口語訳では「――」。「と言いかけて」と訳した。英文が引かない口語訳の「自分のために金の神を造りました」は除いた。
+// 英文の -- は言いさしを表す。口語訳では「――」。「と言いかけます」と訳した。英文が引かない口語訳の「自分のために金の神を造りました」は除いた。
 
 10. No marvel that such "love is not provoked:" ou paroxunetai.
 （一〇）　このような愛が「いらだたない」のも（第一コリント一三・五）、不思議ではありません。原語はウー・パロクシュネタイ（οὐ παροξύνεται）です。
 Let it be observed, the word easily, strangely inserted in the translation, is not in the original: St. Paul's words are absolute.
-注意してほしいのですが、「たやすく」という語は、訳に奇妙にも差し込まれていますが、原文にはありません。パウロの言葉は無条件なのです。
+注意してほしいことがあります。英語の聖書は、ここを「たやすくいらだたない」と訳しています。けれども、この「たやすく」という語は、奇妙にも訳に差し込まれたもので、原文にはありません。パウロの言葉は無条件なのです。
 // 英文の転写は ou paroxunetai。欽定訳は is not easily provoked。口語訳の「いらだたない」には easily に当たる語がない。
 "Love is not provoked:" It is not provoked to unkindness toward any one.
 愛は「いらだたない」のです（第一コリント一三・五）。だれに対しても、いらだって不親切になることはありません。
@@ -416,18 +416,18 @@ In all trials it looketh unto Jesus, and is more than conqueror in his love.
 あらゆる試練の中で、愛はイエスを仰ぎ見て（ヘブル一二・二）、主の愛によって勝ち得て余りがあります（ローマ八・三七）。
 
 It is not improbable that our translators inserted that word, as it were, to excuse the Apostle; who, as they supposed, might otherwise appear to be wanting in the very love which he so beautifully describes.
-私たちの訳者たちがこの語を差し込んだのは、いわば使徒を弁護するためだったのかもしれません。そうしなければ、使徒は、自分がこれほど美しく描いている当の愛に欠けているように見えかねない、と彼らは考えたのでしょう。
+英語の聖書の訳者たちがこの語を差し込んだのは、いわば使徒を弁護するためだったのかもしれません。そうしなければ、使徒は、自分がこれほど美しく描いている当の愛に欠けているように見えかねない、と彼らは考えたのでしょう。
 They seem to have supposed this from a phrase in the Acts of the Apostles; which is likewise very inaccurately translated.
 彼らがそう考えたのは、使徒行伝のある言い回しのためのようです。その言い回しも、同じように、きわめて不正確に訳されています。
 When Paul and Barnabas disagreed concerning John, the translation runs thus, "And the contention was so sharp between them, that they departed asunder." (Acts 15:39.)
-パウロとバルナバがヨハネのことで意見が分かれたとき、訳はこうなっています。「そして、ふたりの間の争いがあまりに激しかったので、ふたりは別れ別れになった」（使徒一五・三九）。
+パウロとバルナバが、マルコというヨハネのことで（使徒一五・三七）意見が分かれたとき、訳はこうなっています。「そして、ふたりの間の争いがあまりに激しかったので、ふたりは別れ別れになりました」（使徒一五・三九）。
 // 欽定訳の訳文なので、英文から訳した。口語訳は「こうして激論が起り、その結果ふたりは互に別れ別れになり」。
 This naturally induces the reader to suppose, that they were equally sharp therein; that St. Paul, who was undoubtedly right, with regard to the point in question, (it being quite improper to take John with them again, who had deserted them before,) was as much provoked as Barnabas, who gave such a proof of his anger, as to leave the work for which he had been set apart by the Holy Ghost.
-これを読むと、読者は自然に、二人とも同じように激しかったのだと考えてしまいます。パウロも、バルナバと同じほどいらだったのだと考えてしまうのです。けれども、問題の点については、疑いなくパウロが正しかったのです（以前に一行から離れたヨハネを（使徒一五・三八）、再び連れて行くのは、まったくふさわしくありませんでした）。バルナバは、聖霊によって聖別されて当てられた仕事を（使徒一三・二）、捨ててしまうほどの怒りを示しました。
+これを読むと、読者は自然に、二人とも同じように激しかったのだと考えてしまいます。パウロも、バルナバと同じほどいらだったのだと考えてしまうのです。けれども、問題の点については、疑いなくパウロが正しかったのです。以前に一行から離れたヨハネを（使徒一五・三八）、再び連れて行くのは、まったくふさわしくなかったからです。バルナバは、聖霊によって聖別されて当てられた仕事を（使徒一三・二）、捨ててしまうほどの怒りを示しました。
 But the original imports no such thing; nor does it affirm that St. Paul was provoked at all.
 けれども、原文は、そのような意味を少しも含んでいません。パウロがいらだったとは、まったく言っていないのです。
 It simply says, kai egeneto paroxusmos, -- "And there was a sharpness," a paroxysm of anger; in consequence of which Barnabas left St. Paul, took John, and went his own way.
-原文は、ただ、カイ・エゲネト・パロクシュスモス（καὶ ἐγένετο παροξυσμός）、すなわち「そして、激しいいらだちが起った」と言っているだけです（使徒一五・三九）。それは、怒りの発作です。その結果、バルナバはパウロを離れ、ヨハネを連れて、自分の道を行きました。
+原文は、ただ、カイ・エゲネト・パロクシュスモス（καὶ ἐγένετο παροξυσμός）、すなわち「そして、激しいいらだちが起りました」と言っているだけです（使徒一五・三九）。それは、怒りの発作です。その結果、バルナバはパウロを離れ、ヨハネを連れて、自分の道を行きました。
 // 英文の転写は kai egeneto paroxusmos。And there was a sharpness はウェスレー自身の訳。パロクシュスモスは、第一コリント一三・五のパロクシュネタイ（いらだつ）と同じ語根なので、「いらだち」と訳した。
 Paul then "chose Silas and departed, being recommended by the brethren to the grace of God;" (which is not said concerning Barnabas;) "and he went through Syria and Cilicia," as he had proposed, "confirming the churches." [Acts 15:39-41] But to return.
 それから、「パウロはシラスを選び、兄弟たちから」神の「恵みにゆだねられて、出発し」ました（使徒一五・四〇）。バルナバについては、そうは言われていません。「そしてパウロは」、予定していたとおり、「シリヤ、キリキヤの地方をとおって、諸教会を力づけ」ました（使徒一五・四一）。話をもとに戻しましょう。
@@ -599,15 +599,15 @@ these Christian nations, that are all on fire with intestine broils, party again
 these Christian families, torn asunder with envy, jealousy, anger, domestic jars, without number, without end!
 このクリスチャンの家庭を見なさい。ねたみ、嫉妬、怒り、家庭内のいさかいによって、数限りなく、果てしなく引き裂かれています。
 yea, what is most dreadful, most to be lamented of all, these Christian Churches! --Churches ("tell it not in Gath," -- but, alas! how can we hide it, either from Jews, Turks, or Pagans) that bear the name of Christ, the Prince of Peace, and wage continual war with each other! that convert sinners by burning them alive! that are "drunk with the blood of the saints!"
-そうです、何よりも恐ろしく、何よりも嘆かわしいのは、このクリスチャンの教会です！　これらの教会は（「ガテにこの事を告げてはいけない」（サムエル記下一・二〇）。けれども、ああ、ユダヤ人からも、トルコ人からも、異教徒からも、どうしてこれを隠せるでしょうか）、平和の君（イザヤ九・六）であるキリストの名を負いながら、互に絶え間なく戦っています！　罪人を生きたまま焼いて改宗させています！　「聖徒の血」に「酔いしれて」います（黙示録一七・六）。
+そうです、何よりも恐ろしく、何よりも嘆かわしいのは、このクリスチャンの教会です！　これらの教会は、平和の君（イザヤ九・六）であるキリストの名を負いながら、互に絶え間なく戦っています！　「ガテにこの事を告げてはいけない」（サムエル記下一・二〇）。けれども、ああ、ユダヤ人からも、トルコ人からも、異教徒からも、どうしてこれを隠せるでしょうか。罪人を生きたまま焼いて改宗させています！　「聖徒の血」に「酔いしれて」います（黙示録一七・六）。
 -- Does this praise belong only to "Babylon the Great, the mother of harlots and abominations of the earth" Nay, verily; but Reformed Churches (so called) have fairly learned to tread in her steps.
-このほまれは、「大いなるバビロン、淫婦どもと地の憎むべきものらとの母」（黙示録一七・五）だけのものでしょうか。いいえ、決してそうではありません。改革派の教会（そう呼ばれている教会）も、すっかりその足跡を踏むことを覚えてしまいました。
+このほまれは、「大いなるバビロン、淫婦どもと地の憎むべきものらとの母」（黙示録一七・五）だけのものでしょうか。いいえ、決してそうではありません。宗教改革を経た教会（そう呼ばれている教会）も、すっかりその足跡を踏むことを覚えてしまいました。
 Protestant Churches too know to persecute, when they have power in their hands, even unto blood.
 プロテスタントの教会も、権力を手にすると、血を流すまで迫害することを知っています。
 And, meanwhile, how do they also anathematize each other! devote each other to the nethermost hell! What wrath, what contention, what malice, what bitterness, is everywhere found among them, even where they agree in essentials, and only differ in opinions, or in the circumstantials of religion! Who follows after only the "things that make for peace, and things wherewith one may edify another"
 そのうえ、彼らもまた、なんと互をのろい合っていることでしょう！　互を最も深い地獄に落とそうとしています！　彼らの間には、どこにでも、なんという憤り、なんという争い、なんという悪意、なんという苦々しさがあることでしょう！　宗教の本質では一致していて、ただ意見や宗教の付随的なことで違っているだけのところでさえ、そうなのです。ただ「平和に役立つことや、互の徳を高めること」だけを（ローマ一四・一九）、追い求める人がいるでしょうか。
 O God! how long Shall thy promise fail Fear it not, ye little flock! Against hope, believe in hope! It is your Father's good pleasure yet to renew the face of the earth.
-ああ、神よ！　いつまでですか。あなたの約束はすたれるのでしょうか（詩篇七七・八）。恐れるな、小さい群れよ（ルカ一二・三二）！　望み得ないのに、なおも望みつつ信じなさい（ローマ四・一八）！　地のおもてを再び新たにすることは（詩篇一〇四・三〇）、あなたがたの父のみこころなのです（ルカ一二・三二）。
+ああ、神よ！　いつまでですか。あなたの約束はすたれるのでしょうか（詩篇七七・八）。小さい群れよ、それを恐れてはなりません（ルカ一二・三二）！　望み得ないのに、なおも望みつつ信じなさい（ローマ四・一八）！　地のおもてを再び新たにすることは（詩篇一〇四・三〇）、あなたがたの父のみこころなのです（ルカ一二・三二）。
 Surely all these things shall come to an end, and the inhabitants of the earth shall learn righteousness.
 確かに、これらのことはみな終りを告げ、世に住む者は正義を学びます（イザヤ二六・九）。
 "Nation shall not lift up sword against nation, neither shall they know war any more."
