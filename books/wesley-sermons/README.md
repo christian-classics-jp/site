@@ -18,7 +18,7 @@
 + [x] Sermon 8. The First Fruits Of The Spirit
 + [x] Sermon 9. The Spirit Of Bondage And Of Adoption
 + [x] Sermon 10. The Witness Of The Spirit: Discourse One
-+ [ ] Sermon 12. The Witness Of Our Own Spirit
++ [x] Sermon 12. The Witness Of Our Own Spirit
 + [ ] Sermon 16. The Means Of Grace
 + [ ] Sermon 17. The Circumcision Of The Heart
 + [ ] Sermon 18. The Marks Of The New Birth
