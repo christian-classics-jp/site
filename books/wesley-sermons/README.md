@@ -22,7 +22,7 @@
 + [x] Sermon 16. The Means Of Grace
 + [x] Sermon 17. The Circumcision Of The Heart
 + [x] Sermon 18. The Marks Of The New Birth
-+ [ ] Sermon 19. The Great Privilege Of Those That Are Born Of God
++ [x] Sermon 19. The Great Privilege Of Those That Are Born Of God
 + [ ] Sermon 21. Upon Our Lord's Sermon On The Mount: Discourse One
 + [ ] Sermon 22. Upon Our Lord's Sermon On The Mount: Discourse Two
 + [ ] Sermon 23. Upon Our Lord's Sermon On The Mount: Discourse Three
