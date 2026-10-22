@@ -118,6 +118,7 @@ IGNOR. When do our thoughts of ourselves agree with the Word of God?
 
 CHR. When we pass the same judgment upon ourselves which the Word passes. To explain myself--the Word of God saith of persons in a natural condition, "There is none righteous, there is none that doeth good." [Rom. 3] It saith also, that "every imagination of the heart of man is only evil, and that continually." [Gen. 6:5] And again, "The imagination of man's heart is evil from his youth." [Rom. 8:21] Now then, when we think thus of ourselves, having sense thereof, then are our thoughts good ones, because according to the Word of God.
 クリスチャン「みことばが私たちに下すのと同じさばきを、私たちが自分自身に下すときです。説明しましょう。神のみことばは、生まれながらの状態にある人々について、『義人はいない。善を行う者はいない』と言っています（ローマ三章）。また、『人が心に思いはかることは、すべていつも悪い事ばかりである』とも言っています（創世記六・五）。さらに、『人が心に思い図ることは、幼い時から悪い』とも言っています（創世記八・二一）。そこで、私たちがそのことを身にしみて感じ、自分自身をこのように考えるとき、私たちの思いは良い思いなのです。神のみことばにかなっているからです」
+// 新英文の出典は Rom. 8:21 だが、引用は創世記八・二一なので、そちらにした
 
 IGNOR. I will never believe that my heart is thus bad.
 無知「私の心がそんなに悪いなんて、決して信じませんよ」
@@ -129,7 +130,7 @@ IGNOR. Make out your meaning.
 無知「どういう意味か、はっきり言ってください」
 
 CHR. Why, the Word of God saith that man's ways are crooked ways; not good, but perverse. [Ps. 125:5, Prov. 2:15] It saith they are naturally out of the good way, that they have not known it. [Rom. 3] Now, when a man thus thinketh of his ways,--I say, when he doth sensibly, and with heart-humiliation, thus think, then hath he good thoughts of his own ways, because his thoughts now agree with the judgment of the Word of God.
-クリスチャン「つまり、こういうことです。神のみことばは、人の道は曲がった道で、良い道ではなく、よこしまな道だと言っています。人は生まれながら良い道からそれていて、その道を知らないとも言っています（詩篇一二五・五、箴言二・一五、ローマ三・一二）。そこで、人が自分の道についてこのように考えるとき、つまり、身にしみて感じ、心からへりくだってこのように考えるとき、その人は自分の道について良い思いを持っているのです。その人の思いが、今や神のみことばのさばきと一致しているからです」
+クリスチャン「つまり、こういうことです。神のみことばは、人の道は曲がった道で、良い道ではなく、よこしまな道だと言っています（詩篇一二五・五、箴言二・一五）。人は生まれながら良い道からそれていて、その道を知らないとも言っています（ローマ三章）。そこで、人が自分の道についてこのように考えるとき、つまり、身にしみて感じ、心からへりくだってこのように考えるとき、その人は自分の道について良い思いを持っているのです。その人の思いが、今や神のみことばのさばきと一致しているからです」
 
 IGNOR. What are good thoughts concerning God?
 無知「神についての良い思いとは、どういうものですか」
@@ -166,7 +167,7 @@ CHR. Let me give an answer to this confession of thy faith:--
 3. This faith maketh not Christ a justifier of thy person, but of thy actions; and of thy person for thy actions' sake, which is false.
 4. Therefore, this faith is deceitful, even such as will leave thee under wrath, in the day of God Almighty; for true justifying faith puts the soul, as sensible of its condition by the law, upon flying for refuge unto Christ's righteousness, which righteousness of his is not an act of grace, by which he maketh for justification, thy obedience accepted with God; but his personal obedience to the law, in doing and suffering for us what that required at our hands; this righteousness, I say, true faith accepteth; under the skirt of which, the soul being shrouded, and by it presented as spotless before God, it is accepted, and acquit from condemnation.
 IGNOR. What! would you have us trust to what Christ, in his own person, has done without us? This conceit would loosen the reins of our lust, and tolerate us to live as we list; for what matter how we live, if we may be justified by Christ's personal righteousness from all, when we believe it?
-一、あなたが信じているのは、空想の信仰です。このような信仰は、みことばのどこにも書かれていないからです。<br/>二、あなたが信じているのは、偽りの信仰です。義とされることを、キリストご自身の義から取り去って、あなた自身の義に当てはめているからです。<br/>三、この信仰は、キリストを、あなたという人を義とする方ではなく、あなたの行いを義とする方にしています。そして、あなたの行いのゆえに、あなたという人を義とする方にしています。これは偽りです。<br/>四、ですから、この信仰は人を欺くものです。全能の神の日に、あなたを御怒りの下に置き去りにするような信仰です。本当に人を義とする信仰は、律法によって自分が失われた状態にあると感じている魂を、キリストの義へと逃れさせ、そこに避け所を求めさせます。このキリストの義は、あなたが義とされるように、あなたの従順を神に受け入れさせる恵みの行為ではありません。それは、律法が私たちに求めていることを、私たちのために行い、また苦しみを受けてくださった、キリストご自身の律法への従順なのです。本当の信仰が受け入れるのは、この義です。魂はこの義の衣のすそに包まれ、この義によって、神の前に汚れのない者として差し出されます。こうして魂は受け入れられ、罪に定められることから解き放たれるのです」
+一、あなたが信じているのは、空想の信仰です。このような信仰は、みことばのどこにも書かれていないからです。<br/>二、あなたが信じているのは、偽りの信仰です。義とされることを、キリストご自身の義から取り去って、あなた自身の義に当てはめているからです。<br/>三、この信仰は、キリストを、あなたという人を義とする方ではなく、あなたの行いを義とする方にしています。そして、あなたの行いのゆえに、あなたという人を義とする方にしています。これは偽りです。<br/>四、ですから、この信仰は人を欺くものです。全能の神の日に、あなたを御怒りの下に置き去りにするような信仰です。本当に人を義とする信仰は、律法によって自分の状態を感じ取っている魂を、キリストの義へと逃れさせ、そこに避け所を求めさせます。このキリストの義は、あなたが義とされるように、あなたの従順を神に受け入れさせる恵みの行為ではありません。それは、律法が私たちに求めていることを、私たちのために行い、また苦しみを受けてくださった、キリストご自身の律法への従順なのです。本当の信仰が受け入れるのは、この義です。魂はこの義の衣のすそに包まれ、この義によって、神の前に汚れのない者として差し出されます。こうして魂は受け入れられ、罪に定められることから解き放たれるのです」
 
 無知「なんですって！　キリストが私たち抜きで、ご自身でなさったことに頼れと言うのですか。そんな考えでは、私たちの欲望の手綱がゆるんでしまいます。好き勝手に生きてもかまわないことになりますよ。信じさえすれば、キリストご自身の義によってすべてから義とされるのなら、どう生きようとかまわないではありませんか」
 
@@ -186,7 +187,7 @@ IGNOR. That is your faith, but not mine; yet mine, I doubt not, is as good as yo
 無知「それはあなたの信仰で、私の信仰ではありません。でも私の信仰も、あなたの信仰に劣らず良いものだと思っていますよ。あなたほど、頭の中に妙な考えをたくさん持ってはいませんけれどね」
 
 CHR. Give me leave to put in a word. You ought not so slightly to speak of this matter; for this I will boldly affirm, even as my good companion hath done, that no man can know Jesus Christ but by the revelation of the Father; [Matt. 11:27] yea, and faith too, by which the soul layeth hold upon Christ, if it be right, must be wrought by the exceeding greatness of his mighty power; the working of which faith, I perceive, poor Ignorance, thou art ignorant of. [1 Cor. 12:3, Eph. 1:18,19] Be awakened, then, see thine own wretchedness, and fly to the Lord Jesus; and by his righteousness, which is the righteousness of God, for he himself is God, thou shalt be delivered from condemnation.
-クリスチャン「ひと言言わせてください。このことを、そんなに軽々しく話すべきではありません。私の良い連れが言ったのと同じように、私もはっきり言います。父が示してくださらなければ、誰もイエス・キリストを知ることはできません。それだけではありません。魂がキリストをつかむ信仰も、それが正しい信仰であるなら、神の力強い活動によって働く絶大な力で、生み出されなければならないのです（マタイ一一・二七、第一コリント一二・三、エペソ一・一七〜一九）。哀れな無知さん、あなたは、その信仰の働きを知らないのですね。ですから、目を覚ましなさい。自分のみじめさを見て、主イエスのもとへ逃れなさい。そうすれば、主の義によって、あなたは罪に定められることから救い出されます。その義は神の義です。主ご自身が神だからです」
+クリスチャン「ひと言言わせてください。このことを、そんなに軽々しく話すべきではありません。私の良い連れが言ったのと同じように、私もはっきり言います。父が示してくださらなければ、誰もイエス・キリストを知ることはできません（マタイ一一・二七）。それだけではありません。魂がキリストをつかむ信仰も、それが正しい信仰であるなら、神の力強い活動によって働く絶大な力で、生み出されなければならないのです。哀れな無知さん、あなたは、その信仰の働きを知らないのですね（第一コリント一二・三、エペソ一・一八〜一九）。ですから、目を覚ましなさい。自分のみじめさを見て、主イエスのもとへ逃れなさい。そうすれば、主の義によって、あなたは罪に定められることから救い出されます。その義は神の義です。主ご自身が神だからです」
 
 IGNOR. You go so fast, I cannot keep pace with you. Do you go on before; I must stay a while behind.
 無知「あなたがたは歩くのが速すぎて、私はついていけません。どうぞ先に行ってください。私はしばらく後ろから行きますよ」
@@ -231,7 +232,7 @@ HOPE. I do believe, as you say, that fear tends much to men's good, and to make 
 希望「あなたの言うとおりだと、私も信じます。恐れは人のためになることが多いのです。巡礼を始めるときに、人を正しく歩ませるものでもあります」
 
 CHR. Without all doubt it doth, if it be right; for so says the Word, "The fear of the Lord is the beginning of wisdom." [Prov. 1:7, 9:10, Job 28:28, Ps. 111:10]
-クリスチャン「それが正しい恐れであるなら、疑いなくそうです。みことばも『主を恐れることは知恵のはじめである』と言っているのですから（ヨブ二八・二八、詩篇一一一・一〇、箴言一・七、九・一〇）」
+クリスチャン「それが正しい恐れであるなら、疑いなくそうです。みことばも『主を恐れることは知恵のはじめである』と言っているのですから（箴言一・七、九・一〇、ヨブ二八・二八、詩篇一一一・一〇）」
 
 HOPE. How will you describe right fear?
 希望「正しい恐れを、あなたならどのように説明しますか」
