@@ -36,7 +36,7 @@ So that now they love the Lord their God with all their heart, and with all thei
 ですから、彼らは今、心をつくし、精神をつくし、思いをつくし、力をつくして、主なる彼らの神を愛しています（マルコ一二・三〇）。
 
 3. But how little has this purity of heart been regarded by the false teachers of all ages!
-（三）　けれども、どの時代の偽教師たちも、この心の清さを、なんとわずかしか顧みなかったことでしょう！
+（三）　けれども、どの時代の偽教師たちも、この心の清さを、なんとわずかしか顧みなかったことでしょう。
 They have taught men barely to abstain from such outward impurities as God hath forbidden by name; but they did not strike at the heart; and by not guarding against, they in effect countenanced, inward corruptions.
 彼らは人々に、神が名指しで禁じられた外の汚れを避けることだけを教えてきました。けれども、心には切り込みませんでした。そして、内なる腐敗を防がなかったことによって、実際にはそれを容認したのです。
 
@@ -104,7 +104,7 @@ The pure in heart see all things full of God.
 They see Him in the firmament of heaven; in the moon, walking in brightness; in the sun, when he rejoiceth as a giant to run his course.
 天の大空に神を見ます。照りわたって動く月に（ヨブ三一・二六）、神を見ます。勇士のように、その道を喜び走る日に（詩篇一九・五）、神を見ます。
 They see Him "making the clouds his chariots, and walking upon the wings of the wind."
-神が「雲をおのれのいくさ車とし、風の翼に乗りあるく」のを見ます（詩篇一〇四・三）。
+神が「雲をおのれのいくさ車とし、風の翼に乗りある」くのを見ます（詩篇一〇四・三）。
 They see Him "preparing rain for the earth, and blessing the increase of it; giving grass for the cattle, and green herb for the use of man."
 神が「地のために雨を備え」（詩篇一四七・八）、地の「もえ出るのを祝福し」（詩篇六五・一〇）、「家畜のために草をはえさせ、また人のために」青草を与えられるのを見ます（詩篇一〇四・一四）。
 // 英文は祈祷書の詩篇一四七・八、六五・一〇、一〇四・一四をつないだ言い回し。口語訳の語句で引き、合わない green herb（青草）は「」の外に出した。
@@ -120,7 +120,7 @@ They see his hand ever over them for good; giving them all things in weight and 
 神の御手が、いつも彼らの上にあって、彼らの益をはかっているのを見ます。神は、すべてのものを、重さと量りとに従って彼らに与えられます。彼らの頭の毛までも数え（マタイ一〇・三〇）、彼らとそのすべての所有物のまわりに、まがきを設けられます（ヨブ一・一〇）。そして、ご自分の知恵とあわれみの深さに従って、彼らの生涯のあらゆる事情を整えられるのです。
 
 8. But in a more especial manner they see God in his ordinances.
-（八）　けれども、彼らが最も特別な仕方で神を見るのは、神の定めの中においてです。
+（八）　けれども、彼らがもっと特別な仕方で神を見るのは、神の定めの中においてです。
 Whether they appear in the great congregation, to "pay him the honour due unto his name," "and worship him in the beauty of holiness;"
 彼らは、大いなる会衆の中に出て（詩篇二二・二五）、「そのみ名にふさわしい栄光を主に帰」し、「聖なる装いをして主を拝」みます（詩篇九六・八〜九）。
 or "enter into their closets," and there pour out their souls before their "Father which is in secret;"
@@ -139,7 +139,7 @@ They see him, as it were, face to face, and "talk with him, as a man talking wit
 9. But how far were they from seeing God, who, having heard "that it had been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths," (Matt. 5:33,) interpreted it thus,
 （九）　けれども、ある人々は、神を見ることから、なんと遠かったことでしょう。彼らは、「昔の人々に『いつわり誓うな、誓ったことは、すべて主に対して果せ』と言われていた」ことを聞いて（マタイ五・三三）、それをこう解釈したのです。
 Thou shalt not forswear thyself, when thou swearest by the Lord Jehovah. Thou "shalt perform unto the Lord" these thine oaths;" but as to other oaths, he regardeth them not.
-「主なるエホバをさして誓うときには、いつわり誓うな。そのような誓いは、主に対して果せ。けれども、ほかの誓いなら、主は顧みない」。
+「主なるエホバをさして誓うときには、いつわり誓うな。そのような誓いは、『主に対して果せ』。けれども、ほかの誓いなら、主は顧みない」。
 
 So the Pharisees taught.
 パリサイ人は、そう教えました。
@@ -156,7 +156,7 @@ and, therefore, this is the same as to swear by Him who sitteth upon the circle 
 "Nor by the earth; for it is his footstool;" (Matt. 5:35;) and he is as intimately present in earth as heaven:
 「また地をさして誓うな。そこは神の足台であるからです」（マタイ五・三五）。神は、天と同じように地にも、親しく臨んでおられます。
 "Neither by Jerusalem; for it is the city of the great King;" and God is well known in her palaces.
-「またエルサレムをさして誓うな。それは『大王の都』であるからです」（マタイ五・三五）。神は、その宮殿でよく知られておられます。
+「またエルサレムをさして誓うな。それは『大王の都』であるからです」（マタイ五・三五）。神は、その宮殿でよく知られています。
 // God is well known in her palaces は、詩篇四八・三（欽定訳 God is known in her palaces）の言い回し。口語訳は文言が違うので、出典を付けなかった。
 "Neither shalt thou swear by thy head; because thou canst not make one hair white or black;" (Matt. 5:36;) because even this, it is plain, is not thine, but God's, the sole disposer of all in heaven and earth.
 「また、自分の頭をさして誓うな。あなたは髪の毛一すじさえ、白くも黒くもすることができません」（マタイ五・三六）。明らかに、頭でさえ、あなたのものではなく、神のものだからです。神だけが、天と地のすべてを意のままにされるのです。
@@ -183,7 +183,7 @@ Jesus immediately answered in the affirmative, "Thou hast said;" (that is, the t
 (5.) From the example of St. Paul, who we think had the Spirit of God, and well understood the mind of his Master.
 五、パウロの模範からです。パウロは神の御霊を受けており、自分の主のみこころをよく理解していた、と私たちは考えます。
 "God is my witness," saith he, to the Romans, "that without ceasing I make mention of you always in my prayers:" (Rom. 1:9:)
-パウロは、ローマ人には、神が自分の証人であると言って、祈るたびに絶えずローマ人のことを覚えている、と書いています（ローマ一・九）。
+パウロは、ローマ人には、神が自分の証人であると言って、祈るたびに絶えず彼らのことを覚えている、と書いています（ローマ一・九）。
 // ローマ一・九は照合データにないので、英文から訳し、「」に入れなかった。
 To the Corinthians, "I call God to record upon my soul, that to spare you I came not as yet unto Corinth:" (2 Cor. 1:23:)
 コリント人には、こう書いています。「わたしは自分の魂をかけ、神を証人に呼び求めて言うが、わたしがコリントに行かないでいるのは、あなたがたに対して寛大でありたいためです」（第二コリント一・二三）。
@@ -210,7 +210,7 @@ II. 1. Thus far our Lord has been more directly employed in teaching the religio
 He has shown what Christians are to be.
 クリスチャンがどのような者であるべきかを示してこられました。
 He proceeds to show, what they are to do also; -- how inward holiness is to exert itself in our outward conversation.
-主は続いて、クリスチャンが何をなすべきかも示されます。内なる聖さが、外のふるまいにどう現れるべきかを示されるのです。
+主は続いて、クリスチャンが何をなすべきかも示されます。内なる聖性が、外のふるまいにどう現れるべきかを示されるのです。
 "Blessed," saith he, "are the peacemakers; for they shall be called the children of God."
 主は言われます。「平和をつくり出す人たちは、さいわいである、彼らは神の子と呼ばれるでしょう」（マタイ五・九）。
 
@@ -222,7 +222,7 @@ It is well known that eirhnh, in the sacred writings, implies all manner of good
 Accordingly, when St. Paul, in the titles of his epistles, wishes grace and peace to the Romans or the Corinthians, it is as if he had said,
 ですから、パウロが手紙の冒頭で、ローマ人やコリント人に恵みと平安を祈るとき、それは、こう言っているのと同じです。
 "As a fruit of the free, undeserved love and favour of God, may you enjoy all blessings, spiritual and temporal; all the good things which God hath prepared for them that love him."
-「神の価なしの、受けるに値しない愛と恵みとの実として、あなたがたが、霊とこの世とのあらゆる祝福を享受するように。神がご自分を愛する者たちのために備えられた、あらゆる良いものを享受するように」（第一コリント二・九）。
+「神の価なしの、受けるに値しない愛と恵みとの実として、あなたがたが、霊とこの世とのあらゆる祝福を享受するように。神がご自分を愛する者たちのために備えられた（第一コリント二・九）、あらゆる良いものを享受するように」。
 
 3. Hence we may easily learn, in how wide a sense the term peace-makers is to be understood.
 （三）　ここから、「平和をつくり出す人たち」という語を、どれほど広い意味に理解すべきかが、たやすく分かります。
@@ -240,7 +240,7 @@ that as they have all "one Lord, one faith," as they are all "called in one hope
 神の子たちにとって、「主は一つ、信仰は一つ」です（エペソ四・五）。彼らはみな、「一つの望みを目ざして召された」のです（エペソ四・四）。それと同じように、みなが「召されたその召しにふさわしく歩き、できる限り謙虚で、かつ柔和であり、寛容を示し、愛をもって互に忍びあい、平和のきずなで結ばれて、聖霊による一致を守り続けるように努め」るように、と彼らは願うのです（エペソ四・一〜三）。
 
 4. But in the full extent of the word, a peace-maker is one that, as he hath opportunity, "doth good unto all men;"
-（四）　けれども、この語の十分な広がりにおいては、平和をつくり出す人とは、次のような人のことです。その人は、機会のあるごとに、「だれに対しても」「善を行い」ます（ガラテヤ六・一〇）。
+（四）　けれども、この語の十分な広がりにおいては、平和をつくり出す人とは、次のような人のことです。その人は、機会のあるごとに、「だれに対しても」「善を行」います（ガラテヤ六・一〇）。
 one that, being filled with the love of God and of all mankind, cannot confine the expressions of it to his own family, or friends, or acquaintance, or party, or to those of his own opinions; -- no, nor those who are partakers of like precious faith;
 その人は、神への愛とすべての人への愛とに満たされています。そのため、その愛の表し方を限ることができません。自分の家族や友人や知人に、自分の党派に、自分と同じ意見の人々に限ることはできないのです。いや、同じ尊い信仰を授かった人々にさえ（第二ペテロ一・一）、限ることができないのです。
 but steps over all these narrow bounds, that he may do good to every man, that he may, some way or other, manifest his love to neighbours and strangers, friends and enemies.
@@ -267,13 +267,13 @@ And all this he does, not as unto man; but remembering him that hath said, "Inas
 そして、そのすべてを、人に対してするのではなく、こう言われた方を覚えて行うのです。「わたしの兄弟であるこれらの最も小さい者のひとりにしたのは、すなわち、わたしにしたのです」（マタイ二五・四〇）。
 
 6. How much more does he rejoice, if he can do any good to the soul of any man!
-（六）　まして、だれかの魂に何かの善を行うことができるなら、その人はどれほど喜ぶことでしょう！
+（六）　まして、だれかの魂に何かの善を行うことができるなら、その人はどれほど喜ぶことでしょう。
 This power, indeed, belongeth unto God.
 確かに、この力は神に属します（詩篇六二・一一）。
 It is He only that changes the heart, without which every other change is lighter than vanity.
 心を変えるのは、神だけです。心が変わらなければ、ほかのどんな変化も、むなしさよりも軽いのです。
 Nevertheless, it pleases Him who worketh all in all, to help man chiefly by man; to convey his own power, and blessing, and love, through one man to another.
-けれども、すべてのものの中に働いてすべてのことをなさる方は（第一コリント一二・六）、主に人を通して人を助けることを、よしとされます。ご自分の力と祝福と愛とを、ある人を通してほかの人に伝えることを、よしとされるのです。
+けれども、すべてのものの中に働いてすべてのことをなさる方は（第一コリント一二・六）、おもに人を通して人を助けることを、よしとされます。ご自分の力と祝福と愛とを、ある人を通してほかの人に伝えることを、よしとされるのです。
 Therefore, although it be certain that "the help which is done upon earth, God doth it himself;" yet has no man need, on this account to stand idle in his vineyard.
 ですから、地上でなされる助けは神ご自身がなさるのだ、ということは確かです。それでも、だからといって、神のぶどう園で何もしないで立っている必要は（マタイ二〇・六）、だれにもありません。
 // the help which is done upon earth … は祈祷書の詩篇七四・一三の訳。口語訳（七四・一二「救を世の中に行われた」）とは文言が違うので、英文から訳し、「」に入れなかった。
@@ -294,7 +294,7 @@ to strengthen those that stand, that they may "run with patience the race which 
 to build up in their most holy faith those that know in whom they have believed;
 自分の信じてきたかたを知っている人々を（第二テモテ一・一二）、最も神聖な信仰の上に築き上げます（ユダ二〇）。
 to exhort them to stir up the gift of God which is in them, that daily growing in grace, "an entrance may be ministered unto them abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ."
-その人々に、内にいただいた神の賜物を再び燃えたたせるように（第二テモテ一・六）勧めます。それは、彼らが日ごとに恵みにおいて成長し（第二ペテロ三・一八）、「わたしたちの主また救主イエス・キリストの永遠の国に入る恵みが」、彼らに「豊かに与えられる」ためです（第二ペテロ一・一一）。
+その人々に、内にいただいた神の賜物を再び燃えたたせるように（第二テモテ一・六）勧めます。それは、彼らが日ごとに恵みにおいて成長し、「わたしたちの主また救主イエス・キリストの永遠の国に入る恵みが」、彼らに「豊かに与えられる」ためです（第二ペテロ一・一一）。
 
 7. "Blessed" are they who are thus continually employed in the work of faith and the labour of love;
 （七）　このように、信仰の働きと愛の労苦とに（第一テサロニケ一・三）絶えず励んでいる人たちは、「さいわい」です（マタイ五・九）。
@@ -360,7 +360,7 @@ Because they are meek: "Tame, passive fools, just fit to be trampled upon:" --
 Because they hunger and thirst after righteousness: "A parcel of hot-brained enthusiasts, gaping after they know not what, not content with rational religion, but running mad after raptures and inward feelings:" --
 彼らが義に飢えかわいているからです。「頭に血ののぼった熱狂者の一団だ。何だか分からないものを、口をあけて追い求めている。理にかなった宗教では満足せず、恍惚や内なる感情を求めて、狂ったように走り回っている」。
 Because they are merciful, lovers of all, lovers of the evil and unthankful: "Encouraging all manner of wickedness; nay, tempting people to do mischief by impunity: and men who, it is to be feared, have their own religion still to seek; very loose in their principles:" --
-彼らがあわれみ深く、すべての人を愛し、恩を知らない者や悪人をも（ルカ六・三五）愛するからです。「あらゆる悪事を助長している。いや、罰を受けないのをいいことに、人々をいたずらに誘っている。どうやら、自分の宗教をまだ探している連中らしい。主義のまったくいいかげんな連中だ」。
+彼らがあわれみ深く、すべての人を愛し、恩を知らない者や悪人をも（ルカ六・三五）愛するからです。「あらゆる悪事を助長している。いや、罰せずにおくことで、人々を悪事に誘っている。どうやら、自分自身はまだ宗教を持っていない連中らしい。主義のまったくいいかげんな連中だ」。
 Because they are pure in heart: "Uncharitable creatures, that damn all the world, but those that are of their own sort! Blasphemous wretches, that pretend to make God a liar, to live without sin!" --
 彼らが心の清い人だからです。「自分たちの仲間のほかは、世の中の人をみな地獄に落とす、思いやりのない連中だ！　罪なしに生きると言い張って、神を偽り者にする（第一ヨハネ一・一〇）、神を汚すろくでなしどもだ！」
 Above all, because they are peace-makers; because they take all opportunities of doing good to all men.
@@ -410,7 +410,7 @@ Therefore, were it only on this account, all the servants of the devil will pers
 5. Should it be inquired, Fourthly, how they will persecute them, it may be answered in general,
 （五）　第四に、彼らはどのように迫害するのか、と尋ねるなら、大まかには、こう答えられます。
 Just in that manner and measure which the wise Disposer of all sees will be most for his glory, -- will tend most to his children's growth in grace, and the enlargement of his own kingdom.
-万物を賢く治める方が、ご自分の栄光に最もかなうと見られる、まさにその仕方と程度で迫害するのです。それは、神の子たちが恵みにおいて成長し、神ご自身の国が広がることに、最も役立つ仕方と程度です。
+彼らは、万物を賢く治める方が、ご自分の栄光に最もかなうと見られる、まさにその仕方と程度で迫害するのです。それは、神の子たちが恵みにおいて成長し、神ご自身の国が広がることに、最も役立つ仕方と程度です。
 There is no one branch of God's government of the world which is more to be admired than this.
 神が世を治められるあらゆる面の中で、これほど驚嘆すべきものはありません。
 His ear is never heavy to the threatenings of the persecutor, or the cry of the persecuted.
@@ -428,7 +428,7 @@ At some rare times, as when Christianity was planted first, and while it was tak
 There was a peculiar reason why he suffered this with regard to the Apostles, that their evidence might be the more unexceptionable.
 使徒たちについて神がこれを許されたのには、特別な理由がありました。彼らのあかしが、いっそう非の打ちどころのないものになるためです。
 But from the annals of the church we learn another, and a far different reason, why he suffered the heavy persecutions which rose in the second and third centuries;
-けれども、二世紀と三世紀には激しい迫害が起りました。神がそれを許された理由については、教会の年代記から、別の、まったく異なる理由を学びます。
+けれども、二世紀と三世紀には激しい迫害が起りました。神がそれを許されたのには、別の、まったく異なる理由があったことを、教会の年代記から学びます。
 namely, because "the mystery of iniquity" did so strongly "work;" because of the monstrous corruptions which even then reigned in the church:
 すなわち、「不法の秘密の力が」それほど強く「働いて」いたからです（第二テサロニケ二・七）。そのころすでに教会を支配していた、ひどい腐敗のためです。
 These God chastised, and at the same time strove to heal, by those severe but necessary visitations.
@@ -447,7 +447,7 @@ And, above all, he had caused the pure light of his gospel to arise and shine am
 But what return did he find "He looked for righteousness; but behold a cry!" -- a cry of oppression and wrong, of ambition and injustice, of malice, and fraud, and covetousness.
 けれども、神はどんな報いを受けられたでしょうか。「正義を望まれたのに、見よ、叫び」です（イザヤ五・七）。それは、しえたげと不正の叫び、野心と不義の叫び、悪意と詐欺と貪欲の叫びでした。
 Yea, the cry of those who even then expired in the flames entered into the ears of the Lord of Sabaoth.
-そうです、そのころ炎の中で息絶えた人々の叫びが、万軍の主の耳に達しました（ヤコブ五・四）。
+そうです、そのころでさえ炎の中で息絶えた人々の叫びが、万軍の主の耳に達しました（ヤコブ五・四）。
 It was then God arose to maintain his own cause against those that held the truth in unrighteousness.
 そのとき、神は立ち上がり、不義をもって真理をはばもうとする人々に対して（ローマ一・一八）、ご自分の訴えを守られたのです。
 Then he sold them into the hands of their persecutors, by a judgment mixed with mercy; an affliction to punish, and yet a medicine to heal, the grievous backslidings of his people.
@@ -540,9 +540,9 @@ They must blacken you to excuse themselves:
 Rejoice, because by his mark also ye know unto whom ye belong.
 喜びなさい。この印によっても、あなたがたは、自分がだれに属しているかが分かるからです。
 And, because great is your reward in heaven," -- the reward purchased by the blood of the covenant, and freely bestowed in proportion to your sufferings, as well as to your holiness of heart and life.
-また、「天においてあなたがたの受ける報いは大きい」からです（マタイ五・一二）。それは、契約の血によって（ヘブル一〇・二九）買い取られた報いです。あなたがたの心と生活の聖さに応じて、また苦しみに応じて、価なしに与えられる報いです。
+また、「天においてあなたがたの受ける報いは大きい」からです（マタイ五・一二）。それは、契約の血によって（ヘブル一〇・二九）買い取られた報いです。あなたがたの心と生活の聖性に応じて、また苦しみに応じて、価なしに与えられる報いです。
 Be exceeding glad;" knowing that "these light afflictions, which are but for a moment, work out for you a far more exceeding and eternal weight of glory."
-大いに喜びなさい。「このしばらくの軽い患難は働いて、永遠の重い栄光を、あふれるばかりに」あなたがたに「得させる」ことを知っているからです（第二コリント四・一七）。
+「よろこ」びなさい（マタイ五・一二）。「このしばらくの軽い患難は働いて、永遠の重い栄光を、あふれるばかりに」あなたがたに「得させる」ことを知っているからです（第二コリント四・一七）。
 
 12. Meantime, let no persecution turn you out of the way of lowliness and meekness, of love and beneficence.
 （一二）　その間にも、どんな迫害によっても、へりくだりと柔和の道から、愛と善行の道から、それてはなりません。
@@ -645,7 +645,7 @@ Rather cry out, "Is this the religion of Jesus of Nazareth the religion which I 
 むしろ、こう叫びなさい。「これが、ナザレのイエスの宗教なのか。わたしが迫害していた宗教なのか！　もう二度と、神を敵にまわす者とならないように（使徒五・三九）。主よ、わたしは何をしたらよいでしょうか」（使徒二二・一〇）。
 // 欽定訳の使徒九・六の Lord, what wilt thou have me to do は、口語訳の九・六にない（写本の違い）。同じ意味の使徒二二・一〇の口語訳で引き、この叫び全体の一人称を「わたし」にそろえた。
 What beauty appears in the whole! How just a symmetry! What exact proportion in every part! How desirable is the happiness here described! How venerable, how lovely the holiness!
-全体に、なんという美しさが現れていることでしょう！　なんという正しい釣り合いでしょう！　どの部分も、なんと正確に均整がとれていることでしょう！　ここに描かれた幸いは、なんと望ましいことでしょう！　その聖さは、なんと尊く、なんと麗しいことでしょう。
+全体に、なんという美しさが現れていることでしょう！　なんという正しい釣り合いでしょう！　どの部分も、なんと正確に均整がとれていることでしょう！　ここに描かれた幸いは、なんと望ましいことでしょう！　その聖性は、なんと尊く、なんと麗しいことでしょう。
 This is the spirit of religion; the quintessence of it. These are indeed the fundamentals of Christianity.
 これが宗教の精神、宗教の精髄です。これらこそ、まことにキリスト教の根本です。
 O that we may not be hearers of it only! -- "like a man beholding his own face in a glass, who goeth his way, and straightway forgetteth what manner of man he was."
