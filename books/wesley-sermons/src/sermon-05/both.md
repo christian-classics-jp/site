@@ -9,7 +9,7 @@ Justification By Faith
 It contains the foundation of all our hope, inasmuch as while we are at enmity with God, there can be no true peace, no solid joy, either in time or in eternity.
 この問いには、私たちのすべての希望の土台が含まれています。私たちが神と敵対しているかぎり、この世においても永遠においても、まことの平安も、確かな喜びもありえないからです。
 What peace can there be, while our own heart condemns us; and much more, He that is "greater than our heart, and knoweth all things"
-自分の心が自分を責めているのに、どんな平安がありうるでしょうか。まして、「私たちの心よりも大いなるかたであって、すべてをご存じ」である方が責めておられるなら（第一ヨハネ三・二〇）、なおさらです。
+自分の心が自分を責めているのに、どんな平安がありうるでしょうか。まして、「私たちの心よりも大いなるかたであって、すべてをご存じ」の神が責めておられるなら（第一ヨハネ三・二〇）、なおさらです。
 What solid joy, either in this world or that to come, while "the wrath of God abideth on us"
 「神の怒りが」私たちの「上にとどまる」かぎり（ヨハネ三・三六）、この世でも来たるべき世でも、どんな確かな喜びがありうるでしょうか。
 
@@ -18,7 +18,7 @@ What solid joy, either in this world or that to come, while "the wrath of God ab
 Indeed, not only confused, but often utterly false; contrary to the truth, as light to darkness; notions absolutely inconsistent with the oracles of God, and with the whole analogy of faith.
 実際、混乱しているだけではありません。しばしば、まったくの誤りです。光がやみに反するように、真理に反しています。神の託宣とも、信仰の類比の全体とも、まったく相いれない考えです。
 And hence, erring concerning the very foundation, they could not possibly build thereon; at least, not "gold, silver, or precious stones," which would endure when tried as by fire; but only "hay and stubble," neither acceptable to God, nor profitable to man.
-こうして彼らは、土台そのものについて誤っているので、その上に建てることなどできませんでした。少なくとも、「金、銀、宝石」で建てることはできませんでした。それなら、火で「ためす」ときにも耐えたでしょう。彼らが建てたのは、「草」や「わら」だけでした（第一コリント三・一二〜一三）。それは神に喜ばれず、人の益にもなりません。
+こうして彼らは、土台そのものについて誤っているので、その上に建てることなどできませんでした。少なくとも、「金、銀、宝石」で建てることはできませんでした。それらは、火で「ためす」ときにも耐えたはずです。彼らが建てたのは、「草」や「わら」だけでした（第一コリント三・一二〜一三）。それは神に喜ばれず、人の益にもなりません。
 
 3. In order to justice, in far as in me lies, to the vast importance of the subject, to save those that seek the truth in sincerity from "vain jangling and strife of words," to clear the confusedness of thought into which so many have already been led thereby, and to give them true and just conceptions of this great mystery of godliness, I shall endeavour to show,
 （三）　この主題は、きわめて重要です。私は、自分にできるかぎり、その重要さにふさわしく語りたいと思います。また、真理を誠実に求める人々を、「空論」や「言葉の争い」から守りたいと思います（第一テモテ一・六、六・四）。すでに多くの人がそれによって陥った思いの混乱を、晴らしたいと思います。そして、この大いなる「信心の奥義」について（第一テモテ三・一六）、正しく的確な理解を与えたいと思います。そのために、次のことを示すよう努めます。
@@ -38,7 +38,7 @@ I. I am, First, to show, what is the general ground of this whole doctrine of ju
 まず第一に、この義認の教理全体の、一般的な土台が何かを示します。
 
 1. In the image of God was man made, holy as he that created him is holy; merciful as the Author of all is merciful; perfect as his Father in heaven is perfect.
-（一）　人は、神のかたちに造られました（創世記一・二七）。人を造られた方が聖であるように、人も聖でした（第一ペテロ一・一五）。万物の造り主が慈悲深いように、人も慈悲深い者でした（ルカ六・三六）。天の父が完全であられるように、人も完全でした（マタイ五・四八）。
+（一）　人は、神のかたちに造られました（創世記一・二七）。人を造られた方が聖であるように、人も聖でした（第一ペテロ一・一六）。万物の造り主が慈悲深いように、人も慈悲深い者でした（ルカ六・三六）。天の父が完全であられるように、人も完全でした（マタイ五・四八）。
 As God is love, so man, dwelling in love, dwelt in God, and God in him.
 神が愛であるように、人も愛のうちに住み、そうして神のうちに住んでいました。神もまた、人のうちに住んでおられました（第一ヨハネ四・一六）。
 God made him to be an "image of his own eternity," an incorruptible picture of the God of glory.
@@ -49,12 +49,12 @@ He was accordingly pure, as God is pure, from every spot of sin.
 He knew not evil in any kind or degree, but was inwardly and outwardly sinless and undefiled.
 人は、どんな種類、どんな程度の悪も知りませんでした。内にも外にも罪がなく、汚れのない者でした。
 He "loved the Lord his God with all his heart, and with all his mind, and soul, and strength."
-人は、「心をつくし、思いをつくし、精神をつくし、力をつくして、主なる」自分の「神を愛し」ていました（マルコ一二・三〇）。
+人は、「心をつくし、精神をつくし、思いをつくし、力をつくして、主なる」自分の「神を愛し」ていました（マルコ一二・三〇）。
 
 2. To man thus upright and perfect, God gave a perfect law, to which he required full and perfect obedience.
 （二）　このように正しく完全な人に、神は完全な律法を与えられました。そして、それに完全に、余すところなく従うことを求められました。
 He required full obedience in every point, and this to be performed without any intermission, from the moment man became a living soul, till the time of his trial should be ended.
-神は、あらゆる点で完全に従うことを求められました。しかも、少しも途切れることなく従うことをです。人が「生きた者となった」瞬間から（創世記二・七）、その試みの期間が終わる時までです。
+神は、あらゆる点で完全に従うことを求められました。しかも、少しも途切れることなく従うことをです。人が「生きた者となった」瞬間から（創世記二・七）、その試みの期間が終わるときまでです。
 No allowance was made for any falling short: As, indeed, there was no need of any; man being altogether equal to the task assigned, and thoroughly furnished for every good word and work.
 少しでも足りないことは、容赦されませんでした。実際、その必要もありませんでした。人は、課せられた務めを十分に果たすことができたからです。あらゆる良い言葉とわざのために、「完全にととのえられ」ていたからです（第二テモテ三・一七）。
 
@@ -91,7 +91,7 @@ And being already dead in spirit, dead to God, dead in sin, he hastened on to de
 6. Thus "by one man sin entered into the world, and death by sin. And so death passed upon all men," as being contained in him who was the common father and representative of us all.
 （六）　こうして、「ひとりの人によって、罪がこの世にはいり、また罪によって死がはいって」きました。「こうして」、「死が全人類にはいり込んだ」のです（ローマ五・一二）。全人類は、私たちすべての共通の父であり代表者であったその人のうちに、含まれていたからです。
 Thus, "through the offence of one," all are dead, dead to God, dead in sin, dwelling in a corruptible, mortal body, shortly to be dissolved, and under the sentence of death eternal.
-このように、「ひとりの罪過のために」（ローマ五・一五）、すべての人が死んでいます。神に対して死に、罪のうちに死んでいます。やがて朽ち果てる、朽ちるべき、死ぬべきからだに住み、永遠の死の宣告の下にあります。
+このように、「ひとりの罪過のために」（ローマ五・一五）、すべての人が死んでいます。神に対して死に、罪のうちに死んでいます。やがて崩れ去る、朽ちるべき、死ぬべきからだに住み、永遠の死の宣告の下にあります。
 For as, "by one man's disobedience," all "were made sinners;" so, by that offence of one, "judgment came upon all men to condemnation." (Romans v. 12, &c.)
 「ひとりの人の不従順によって」、すべての人が「罪人とされた」ように（ローマ五・一九）、そのひとりの罪過によって、「すべての人が罪に定められた」のです（ローマ五・一八）。
 // 英文の出典は Romans v. 12, &c.（一二節以下）。引用ごとに節を示した。
@@ -101,9 +101,9 @@ For as, "by one man's disobedience," all "were made sinners;" so, by that offenc
 In the fullness of time he was made Man, another common Head of mankind, a second general Parent and Representative of the whole human race.
 「時の満ちるに及んで」（ガラテヤ四・四）、御子は人となられました。人類のもう一人の共通のかしら、全人類の第二の共通の親、また代表者となられたのです。
 And as such it was that "he bore our griefs," "the Lord laying upon him the iniquities of us all."
-そのような方として、御子は「私たちの悲しみをにな」われました（イザヤ五三・四）。「主は私たちすべての者の不義を、彼の上におかれ」たのです（イザヤ五三・六）。
+そのような方として、御子は「われわれの悲しみをにな」われました（イザヤ五三・四）。「主はわれわれすべての者の不義を、彼の上におかれ」たのです（イザヤ五三・六）。
 Then was he "wounded for our transgressions, and bruised for our iniquities."
-そのとき御子は、「私たちのとがのために傷つけられ、私たちの不義のために砕かれ」ました（イザヤ五三・五）。
+そのとき御子は、「われわれのとがのために傷つけられ、われわれの不義のために砕かれ」ました（イザヤ五三・五）。
 "He made his soul an offering for sin:" He poured out his blood for the transgressors: He "bare our sins in his own body on the tree," that by his stripes we might be healed:
 御子は「自分を、とがの供え物と」されました（イザヤ五三・一〇）。とがある者のために、その血を注ぎ出されました。「十字架にかかって、私たちの罪をご自分の身に負われ」ました。「その傷によって」、私たちが「いやされ」るためです（第一ペテロ二・二四）。
 And by that one oblation of himself, once offered, he hath redeemed me and all mankind; having thereby "made a full, perfect, and sufficient sacrifice and satisfaction for the sins of the whole world."
@@ -144,14 +144,14 @@ So that, although some rare instances may be found, wherein the term "justified"
 In the whole scriptural account of this matter, as above laid down, neither that accuser nor his accusation appears to be at all taken in.
 この事がらについての聖書の説明全体は、上に述べたとおりです。そこには、あの訴える者も、その訴えも、まったく入っていないように見えます。
 It can not indeed be denied, that he is the "accuser" of men, emphatically so called.
-確かに、サタンがとりわけ人を「訴える者」と呼ばれていることは（黙示録一二・一〇）、否定できません。
+確かに、サタンが人を「訴える者」であり（黙示録一二・一〇）、とりわけそう呼ばれていることは、否定できません。
 But it does in nowise appear, that the great Apostle hath any reference to this, more or less, in all he hath written touching justification, either to the Romans or the Galatians.
 けれども、あの大使徒は、義認についてローマ人にもガラテヤ人にも書き送りました。そのすべての中で、このことに多少なりとも触れているとは、決して見えません。
 
 3. It is also far easier to take for granted, than to prove from any clear scripture testimony, that justification is the clearing us from the accusation brought against us by the law:
 （三）　また、義認とは、律法が私たちに対して起こす訴えから、私たちを解放することだ、という考えもあります。これも、聖書の明白なあかしから証明するよりは、当然のこととして決めてかかるほうが、はるかにたやすいものです。
 At least if this forced, unnatural way of speaking mean either more or less than this, that, whereas we have transgressed the law of God, and thereby deserved the damnation of hell, God does not inflict on those who are justified the punishment which they had deserved.
-少なくとも、この無理で不自然な言い方が、次のことと少しでも違うことを意味するなら、そうです。私たちは神の律法に背き、そのため地獄の刑罰に値する者となりました。けれども神は、義とされた者には、彼らが当然受けるべきであった罰を下されません。
+少なくとも、この無理で不自然な言い方が、次のことと少しでも違うことを意味するなら、の話です。すなわち、私たちは神の律法に背き、そのため地獄の刑罰に値する者となりました。けれども神は、義とされた者には、彼らが当然受けるべきであった罰を下されません。
 
 4. Least of all does justification imply, that God is deceived in those whom he justifies; that he thinks them to be what, in fact, they are not; that he accounts them to be otherwise than they are.
 （四）　まして義認は、神がご自分の義とする人々について欺かれている、ということでは決してありません。神が、実際にはそうでない者を、そうであると考えておられる、ということではありません。人々を、実際とは違う者と見なしておられる、ということでもありません。
@@ -160,7 +160,7 @@ It does by no means imply, that God judges concerning us contrary to the real na
 Surely no. The judgment of the all-wise God is always according to truth.
 決してそうではありません。全知の神のさばきは、いつも真理に従っています。
 Neither can it ever consist with his unerring wisdom, to think that I am innocent, to judge that I am righteous or holy, because another is so.
-ほかの人が潔白であり、義であり聖であるからといって、私をそうだと考え、そうだと判断する。そのようなことは、誤りのない神の知恵と決して両立しません。
+ほかの人が潔白であり、義であり聖であるからといって、私をそうだと考え、そうだと判断すること。そのようなことは、誤りのない神の知恵と決して両立しません。
 He can no more, in this manner, confound me with Christ, than with David or Abraham.
 神が、このようにして私をキリストと混同されることは、ありえません。ダビデやアブラハムと混同されることがありえないのと、同じです。
 Let any man to whom God hath given understanding, weigh this without prejudice; and he cannot but perceive, that such a notion of justification is neither reconcilable to reason nor Scripture.
@@ -178,7 +178,7 @@ So he explains it himself, more particularly in this and in the following chapte
 Thus, in the next verses but one to the text, "Blessed are they," saith he, "whose iniquities are forgiven, and whose sins are covered: Blessed is the man to whom the Lord will not impute sin."
 たとえば、本文から一節おいた次の節で、パウロはこう言います。「不法をゆるされ、罪をおおわれた人たちは、さいわいです。罪を主に認められない人は、さいわいです」（ローマ四・七〜八）。
 To him that is justified or forgiven, God "will not impute sin" to his condemnation.
-義とされた人、すなわち赦された人について、神は、その人を罪に定めるために「罪を」「認め」られることはありません。
+神は、義とされた人、すなわち赦された人の「罪を」、その人を罪に定めるために「認め」られることはありません。
 He will not condemn him on that account, either in this world or in that which is to come.
 この世においても、来たるべき世においても、神はその罪のゆえにその人を罪に定められません。
 His sins, all his past sins, in thought, word, and deed, are covered, are blotted out, shall not be remembered or mentioned against him, any more than if they had not been.
@@ -213,7 +213,7 @@ It is only sinners that have any occasion for pardon: It is sin alone which admi
 Forgiveness, therefore, has an immediate reference to sin, and, in this respect, to nothing else.
 ですから、赦しは直接に罪にかかわります。この点では、ほかの何ものにもかかわりません。
 It is our "unrighteousness" to which the pardoning God is "merciful:" It is our "iniquity" which he "remembereth no more."
-赦してくださる神が「あわれ」まれるのは、私たちの「不義」です。神が「もはや」「思い出すことはしない」とされるのは、私たちの「罪」です（ヘブル八・一二）。
+赦してくださる神が「あわれ」まれるのは、私たちの「不義」です。神が「もはや」「思い出すことはしない」と言われるのは、私たちの「罪」です（ヘブル八・一二）。
 
 2. This seems not to be at all considered by those who so vehemently contend that a man must be sanctified, that is, holy, before he can be justified; especially by such of them as affirm, that universal holiness or obedience must precede justification.
 （二）　ところが、このことをまったく考えていないように見える人々がいます。人は義とされる前に、聖化されていなければならない、すなわち聖でなければならない、と激しく主張する人々です。とりわけ、あらゆる点での聖性、あるいは従順が義認に先立たなければならない、と断言する人々がそうです。
@@ -228,7 +228,7 @@ God justifieth not the godly, but the ungodly; not those that are holy already, 
 Upon what condition he doeth this, will be considered quickly: but whatever it is, it cannot be holiness.
 神がどんな条件でこれをなさるのかは、まもなく考えます。けれども、それが何であるにせよ、聖性ではありえません。
 To assert this, is to say the Lamb of God takes away only those sins which were taken away before.
-それを聖性だと主張するのは、「神の小羊」が「取り除く」のは、すでに取り除かれていた罪だけだ、と言うことです（ヨハネ一・二九）。
+それを聖性だと主張するなら、「神の小羊」はすでに取り除かれていた罪だけを「取り除く」、と言うことになります（ヨハネ一・二九）。
 
 3. Does then the good Shepherd seek and save only those that are found already
 （三）　では、よい羊飼は、すでに見つかっている者だけを、尋ね出して救われるのでしょうか。
@@ -240,7 +240,7 @@ He saves from the guilt of sin, (and, at the same time, from the power,) sinners
 主は、あらゆる種類、あらゆる程度の罪人を、罪の罪責から（そして同時に、罪の力から）救われます。それまでまったく不信心であった人々です。そのうちに「父の愛」がなかった人々です（第一ヨハネ二・一五）。ですから、そのうちには「善なるものが宿っていない」人々です（ローマ七・一八）。よい気質、まことにクリスチャンらしい気質は何一つなく、あるのは悪い、忌まわしい気質ばかりでした。高ぶり、怒り、世への愛です。これらは、「神に敵する」「肉の思い」の、まぎれもない実です（ローマ八・七）。
 
 4. These who are sick, the burden of whose sins is intolerable, are they that need a Physician; these who are guilty, who groan under the wrath of God, are they that need a pardon.
-（四）　病人、すなわち罪の重荷に耐えられない人々こそ、医者を必要とします（マタイ九・一二）。罪責を負い、神の怒りの下でうめく人々こそ、赦しを必要とします。
+（四）　病人、すなわち罪の重荷に耐えられない人々こそ、医者を必要とします。罪責を負い、神の怒りの下でうめく人々こそ、赦しを必要とします。
 These who are "condemned already," not only by God, but also by their own conscience, as by a thousand witnesses, of all their ungodliness, both in thought, and word, and work, cry aloud for Him that "justifieth the ungodly," through the redemption that is in Jesus; --the ungodly, and "him that worketh not;"
 この人々は、思いと言葉と行いにおけるすべての不信心のゆえに、「すでにさばかれて」います（ヨハネ三・一八）。神によってだけでなく、千人の証人によるかのように、自分の良心によってもさばかれています。この人々は、「不信心な者を義とする」方を求めて、大声で叫びます。その方は、イエスによるあがないによって（ローマ三・二四）、不信心な者を、「働き」のない者を義とされるのです（ローマ四・五）。
 that worketh not, before he is justified, anything that is good, that is truly virtuous or holy, but only evil continually.
@@ -257,11 +257,11 @@ He may do these, even before he is justified; and these are, in one sense, "good
 But it does not follow, that they are, strictly speaking, good in themselves, or good in the sight of God.
 けれども、だからといって、それが厳密な意味でそれ自体よいものであるとか、神の目によいものであるとかいうことにはなりません。
 All truly "good works" (to use the words of our Church) "follow after justification;" and they are therefore good and "acceptable to God in Christ," because they "spring out of a true and living faith."
-まことの「良きわざ」はすべて（私たちの教会の言葉を借りれば）、「義認のあとに続く」ものです。そして、それが「まことの生きた信仰から」「生じる」ものだからこそ、よいものであり、「キリストにあって神に受け入れられる」のです（三十九箇条第一二条）。
+まことの「良きわざ」はすべて（私たちの教会の言葉を借りれば）、「義認のあとに続く」ものです。それは「まことの生きた信仰から」「生じる」ものです。だからこそ、よいものであり、「キリストにあって神に受け入れられる」のです（三十九箇条第一二条）。
 By a parity of reason, all "works done before justification are not good," in the Christian sense, "forasmuch as they spring not of faith in Jesus Christ;" (though from some kind of faith in God they may spring;)
 同じ理由によって、「義認の前になされたわざ」は、クリスチャン的な意味では、どれも「よくありません」。「それはイエス・キリストを信じる信仰から生じるものではない」からです（もっとも、神についてのある種の信仰からは生じるかもしれません）。
 "yea, rather, for that they are not done as God hath willed and commanded them to be done, we doubt not" (how strange soever it may appear to some) "but they have the nature of sin."
-「いや、むしろ、それは神が行うようにと望み、命じられたとおりに行われていないので、罪の性質を持っていることを、私たちは疑いません」（三十九箇条第一三条）。ある人々には、どんなに奇妙に見えようともです。
+「いや、むしろ、それは神が望み、命じられたとおりに行われていません。ですから、罪の性質を持っていることを、私たちは疑いません」（三十九箇条第一三条）。ある人々には、どんなに奇妙に見えようともです。
 // 第一三条の原文は Works done before the grace of Christ, and the Inspiration of his Spirit（キリストの恵みと御霊の感動の前になされたわざ）。英文はこれを「義認の前になされたわざ」と言い換えている。
 
 6. Perhaps those who doubt of this have not duly considered the weighty reason which is here assigned, why no works done before justification can be truly and properly good.
@@ -283,7 +283,7 @@ The first proposition is self-evident; and the second, that no works done before
 But none of our works can be done in this love, while the love of the Father (of God as our Father) is not in us; and this love can not be in us till we receive the "Spirit of Adoption, crying in , our hearts, Abba, Father."
 けれども、「父の愛」（私たちの父としての神への愛）が私たちのうちにない間は（第一ヨハネ二・一五）、私たちのわざは、どれもこの愛をもって行うことができません。そして、この愛は、私たちが「子たる身分を授ける霊」を受けるまでは（ローマ八・一五）、私たちのうちにありえません。その霊は、私たちの「心の中に」、「『アバ、父よ』と呼ぶ」霊です（ガラテヤ四・六）。
 If, therefore, God doth not "justify the ungodly," and him that (in this sense) "worketh not," then hath Christ died in vain; then, notwithstanding his death, can no flesh living be justified.
-ですから、もし神が「不信心な者を義とする」ことをされず、（この意味で）「働き」のない者を義とされないなら、「キリストの死はむだであった」ことになります（ガラテヤ二・二一）。そうなれば、キリストが死なれたにもかかわらず、「生ける者はひとりも」「義とされない」のです（詩篇一四三・二）。
+ですから、もし神が「不信心な者を義とする」ことをされず、（この意味で）「働き」のない者を義とされないとしましょう。そうであれば、「キリストの死はむだであった」ことになります（ガラテヤ二・二一）。そうなれば、キリストが死なれたにもかかわらず、「生ける者はひとりも」「義とされない」のです（詩篇一四三・二）。
 
 ## 【四】　どのような条件で義とされるのか
 
@@ -292,7 +292,7 @@ IV. 1. But on what terms, then, is he justified who is altogether "ungodly," and
 And "he that believeth is not condemned;" yea, he is "passed from death unto life."
 そして、「彼を信じる者は、さばかれません」（ヨハネ三・一八）。そうです、その人は「死からいのちに移っている」のです（ヨハネ五・二四）。
 "For the righteousness (or mercy) of God is by faith of Jesus Christ unto all and upon all them that believe: --Whom God hath set forth for a propitiation, through faith in his blood; that he might be just, and" (consistently with his justice) "the Justifier of him which believeth in Jesus:"
-「それは、イエス・キリストを信じる信仰による神の義（あるいは、あわれみ）であって、すべて信じる人に与えられるものです」（ローマ三・二二）。「神はこのキリストを立てて、その血による、信仰をもって受けるべきあがないの供え物とされました」（ローマ三・二五）。「こうして、神みずからが義となり」、（その義と矛盾することなく）「さらに、イエスを信じる者を義とされるのです」（ローマ三・二六）。
+「それは、イエス・キリストを信じる信仰による神の義」（あるいは、あわれみ）「であって、すべて信じる人に与えられるものです」（ローマ三・二二）。「神はこのキリストを立てて、その血による、信仰をもって受けるべきあがないの供え物とされました」（ローマ三・二五）。「こうして、神みずからが義となり」、（その義と矛盾することなく）「さらに、イエスを信じる者を義とされるのです」（ローマ三・二六）。
 "Therefore we conclude that a man is justified by faith without the deeds of the law;" without previous obedience to the moral law, which, indeed, he could not, till now, perform.
 「私たちは、こう思います。人が義とされるのは、律法の行いによるのではなく、信仰によるのです」（ローマ三・二八）。律法の行いによるのではない、すなわち、それに先立って道徳律法に従うことによるのではありません。実際、人はそのときまで、道徳律法に従うことができなかったのです。
 That it is the moral law, and that alone, which is here intended, appears evidently from the words that follow:
@@ -309,20 +309,20 @@ What law do we establish by faith Not the ritual law: Not the ceremonial law of 
 Justifying faith implies, not only a divine evidence or conviction that "God was in Christ, reconciling the world unto himself;" but a sure trust and confidence that Christ died for "my" sins, that he loved "me," and gave himself for "me."
 義とする信仰には、「神はキリストにおいて世をご自分に和解させ」たという（第二コリント五・一九）、神から与えられた証拠、あるいは確信が含まれます。それだけではありません。キリストがほかならぬ私の罪のために死なれ、「私を愛し、私のためにご自身をささげられた」という（ガラテヤ二・二〇）、確かな信頼と確信も含まれるのです。
 And at what time soever a sinner thus believes, be it in early childhood, in the strength of his years, or when he is old and hoary-haired, God justifieth that ungodly one: God, for the sake of his Son, pardoneth and absolveth him, who had in him, till then, no good thing.
-罪人がこのように信じるなら、それがいつであっても、神はその不信心な者を義とされます。幼いころでも、働き盛りのときでも、年老いて白髪になったときでもです。神は、御子のゆえに、その人を赦し、罪から解き放たれます。その人のうちには、それまで、よいものは何一つなかったのです。
+罪人がこのように信じるなら、それがいつであっても、神はその不信心な者を義とされます。幼いころでも、働き盛りのときでも、年老いて白髪になったときでもです。神は、御子のゆえに、その人を赦し、罪から解き放ってくださいます。その人のうちには、それまで、よいものは何一つなかったのです。
 Repentance, indeed, God had given him before; but that repentance was neither more nor less than a deep sense of the want of all good, and the presence of all evil.
 確かに神は、それより前に、その人に悔い改めを与えておられました。けれども、その悔い改めとは、あらゆる善が欠けていること、あらゆる悪が宿っていることを、深く感じることにほかなりませんでした。
 And whatever good he hath, or doeth, from that hour when he first believes in God through Christ, faith does not "find," but "bring."
-その人がキリストを通して初めて神を信じたときから、その人が持つ善、行う善は、どんなものであれ、信仰が「見いだす」のではなく、信仰が「もたらす」のです。
+その人は、キリストを通して初めて神を信じたときから、善を持ち、善を行うようになります。その善は、どんなものであれ、信仰が「見いだす」のではありません。信仰が「もたらす」のです。
 This is the fruit of faith. First the tree is good, and then the fruit is good also.
-これは、信仰の実です。まず木が良く、それから実も良くなるのです（マタイ一二・三三）。
+これは、信仰の実です。まず木が良く、それから実も良くなるのです。
 
 3. I cannot describe the nature of this faith better than in the words of our own Church:
 （三）　この信仰の性質を、私たちの教会の言葉よりもうまく言い表すことは、私にはできません。
 "The only instrument of salvation" (whereof justification is one branch) "is faith; that is, a sure trust and confidence that God both hath and will forgive our sins, that he hath accepted us again into His favour, for the merits of Christ's death and passion.
 「救いの唯一の手だては」（義認はその一部です）、「信仰です。それは、次のことを確かに信頼し、確信することです。神は、キリストの死と受難の功績のゆえに、私たちの罪を赦してくださったし、これからも赦してくださいます。私たちを再びご自分の恵みのうちに受け入れてくださいました。
 --But here we must take heed that we do not halt with God, through an inconstant, wavering faith:
-けれども、ここで私たちは、移ろいやすい、揺れ動く信仰によって、神の前でためらうことのないよう、気をつけなければなりません。
+けれども、ここで私たちは、移ろいやすい、揺れ動く信仰によって、神の前でどっちつかずに迷うことのないよう、気をつけなければなりません。
 Peter, coming to Christ upon the water, because he fainted in faith, was in danger of drowning; so we, if we begin to waver or doubt, it is to be feared that we shall sink as Peter did, not into the water, but into the bottomless pit of hell fire." ("Second Sermon on the Passion")
 ペテロは、水の上を歩いてキリストのもとへ行こうとしたとき、信仰がくじけたので、おぼれかけました。それと同じように、私たちも、揺れ動いたり疑ったりし始めるなら、ペテロのように沈んでしまうおそれがあります。ただし、水の中にではなく、地獄の火の底知れぬ穴の中にです」（説教集「受難についての第二の説教」）。
 
@@ -337,11 +337,11 @@ For this is to make Christ "thine own," and to apply his merits unto "thyself." 
 "He that believeth not is condemned already;" and so long as he believeth not, that condemnation cannot be removed, but "the wrath of God abideth on him."
 「信じない者は、すでにさばかれています」（ヨハネ三・一八）。そして、信じないでいるかぎり、そのさばきは取り除かれません。むしろ、「神の怒りがその上にとどまる」のです（ヨハネ三・三六）。
 As "there is no other name given under heaven," than that of Jesus of Nazareth, no other merit whereby a condemned sinner can ever be saved from the guilt of sin; so there is no other way of obtaining a share in his merit, than "by faith in his name."
-「天下の」人間に「与えられ」た名は、ナザレのイエスの名の「ほかに」ありません（使徒四・一二）。罪に定められた罪人を罪の罪責から救うことのできる功績も、このイエスの功績のほかにありません。それと同じように、イエスの功績にあずかる道も、「イエスの名」を「信じる信仰」によるほかにありません（使徒三・一六）。
+「救いうる名は」、ナザレのイエスの名を「別にしては、天下のだれにも与えられていない」のです（使徒四・一二）。罪に定められた罪人を罪の罪責から救うことのできる功績も、このイエスの功績のほかにありません。それと同じように、イエスの功績にあずかる道も、「イエスの名」を「信じる信仰」によるほかにありません（使徒三・一六）。
 So that as long as we are without this faith, we are "strangers to the covenant of promise," we are "aliens from the commonwealth of Israel, and without God in the world."
 ですから、この信仰がないかぎり、私たちは「約束されたいろいろの契約に縁が」ありません。「イスラエルの国籍がなく」、「この世の中で」「神もない者」なのです（エペソ二・一二）。
 Whatsoever virtues (so called) a man may have, --I speak of those unto whom the gospel is preached; for "what have I to do to judge them that are without" --whatsoever good works (so accounted) he may do, it profiteth not; he is still a "child of wrath," still under the curse, till he believes in Jesus.
-人が（いわゆる）徳をどれほど持っていても、（そう見なされている）良きわざをどれほど行っても、それは何の益にもなりません。ここで私が言うのは、福音を宣べ伝えられている人々のことです。「外の人たちをさばくのは、私のすることでしょうか」（第一コリント五・一二）。その人は、イエスを信じるまでは、依然として「怒りの子」であり（エペソ二・三）、依然として「のろいの下に」あります（ガラテヤ三・一〇）。
+人が（いわゆる）徳をどれほど持っていても、（そう見なされている）良きわざをどれほど行っても、それは何の益にもなりません。ここで私が言うのは、福音が宣べ伝えられている人々のことです。「外の人たちをさばくのは、私のすることでしょうか」（第一コリント五・一二）。その人は、イエスを信じるまでは、依然として「怒りの子」であり（エペソ二・三）、依然として「のろいの下に」あります（ガラテヤ三・一〇）。
 
 5. Faith, therefore, is the "necessary" condition of justification; yea, and the "only necessary" condition thereof.
 （五）　ですから、信仰は義認の「必要な」条件です。そうです、義認の「唯一必要な」条件です。
@@ -350,7 +350,7 @@ This is the Second point carefully to be observed; that, the very moment God giv
 He hath no righteousness at all, antecedent to this, not so much as negative righteousness, or innocence.
 その人には、それより前には、義がまったくありません。消極的な義、すなわち罪のなさすらありません。
 But "faith is imputed to him for righteousness," the very moment that he believeth.
-けれども、その人が信じる、まさにその瞬間に、「その信仰が義と認められる」のです（ローマ四・九）。
+けれども、その人が信じる、まさにその瞬間に、「その信仰が義と認められる」のです（ローマ四・五）。
 Not that God (as was observed before) thinketh him to be what he is not.
 といっても（前に述べたように）、神が、その人を実際とは違う者だと考えておられるのではありません。
 But as "he made Christ to be sin for us," that is, treated him as a sinner, punishing him for our sins; so he counteth us righteous, from the time we believe in him:
@@ -373,9 +373,9 @@ Now, if there ever was one such instance from the beginning of the world, (and h
 さて、世の初めから、このような例が一つでもあったとしましょう（実際、そういう例は、幾千万とあったのではないでしょうか。いまもあるのではないでしょうか）。そうであれば、信仰が、上に述べた意味で、義認の唯一の条件であることは、明らかです。
 
 7. It does not become poor, guilty, sinful worms, who receive whatsoever blessings they enjoy, (from the least drop of water that cools our tongue, to the immense riches of glory in eternity,) of grace, of mere favour, and not of debt, to ask of God the reasons of his conduct.
-（七）　私たちは、あわれな、罪ある、罪深い虫けらです。私たちが受けている祝福は、どんなものであれ、恵みによって、ただ好意によって受けているのであり、当然の支払いとして受けているのではありません（ローマ四・四）。舌を冷やす一滴の水から、永遠における計り知れない栄光の富に至るまで、そうです。このような者が、神に向かって、神のなさることの理由を問うのは、ふさわしくありません。
+（七）　私たちは、あわれな、罪ある、罪深い虫けらです。私たちが受けている祝福は、どんなものであれ、恵みによって、ただ好意によって受けているのです。当然の支払いとして受けているのではありません（ローマ四・四）。舌を冷やす一滴の水から、永遠における計り知れない栄光の富に至るまで、そうです。このような者が、神に向かって、神のなさることの理由を問うのは、ふさわしくありません。
 It is not meet for us to call Him in question "who giveth account to none of his ways;" to demand, "Why didst thou make faith the condition, the only condition, of justification Wherefore didst thou decree, "He that believeth," and he only, "shall be saved"
-「ご自分のなさることについて、だれにも説明をされない」方を（ヨブ三三・一三）、私たちが問いただすのはふさわしくありません。神にこう詰め寄るのは、ふさわしくありません。「なぜ、あなたは信仰を、義認の条件、唯一の条件とされたのか。なぜ、『信じる者は』、そしてその者だけが、『救われる』と定められたのか」（マルコ一六・一六）。
+「ご自分のなさることについて、だれにも説明をされない」方を（ヨブ三三・一三）問いただし、神にこう詰め寄るのは、ふさわしくありません。「なぜ、あなたは信仰を、義認の条件、唯一の条件とされたのか。なぜ、『信じる者は』、そしてその者だけが、『救われる』と定められたのか（マルコ一六・一六）」。
 // ヨブ三三・一三の口語訳は「彼はわたしの言葉に少しも答えられない」。英文（欽定訳 he giveth not account of any of his matters）に合わせた。
 This is the very point on which St. Paul so strongly insists in the ninth chapter of this Epistle, viz., That the terms of pardon and acceptance must depend, not on us, but "on him that calleth us;"
 これこそ、聖パウロがこの手紙の第九章で強く主張している点です。すなわち、赦しと受け入れの条件は、私たちによるのではなく、「召したかたによって」決まるのでなければならない、ということです（ローマ九・一二）。
@@ -387,9 +387,10 @@ that there is no "unrighteousness with God," in fixing his own terms, not accord
 「だから、神はそのあわれもうと思う者をあわれみ」ます。すなわち、ご自分の愛する御子を信じる者をあわれまれます。そして、「かたくなにしようと思う者を」、すなわち信じない者を、「かたくなになさる」のです（ローマ九・一八）。つまり、ついには、その心のかたくなさのままに放っておかれるのです。
 
 8. One reason, however, we may humbly conceive, of God's fixing this condition of justification, "If thou believest in the Lord Jesus Christ, thou shalt be saved," was to "hide pride from man."
-（八）　神は、義認の条件をこう定められました。「主イエス・キリストを信じるなら、あなたは救われます」（使徒一六・三一）。けれども、そう定められた理由の一つは、「高ぶりを人から除」くためだったと（ヨブ三三・一七）、へりくだって考えてよいでしょう。
+（八）　けれども、神が義認の条件を「主イエス・キリストを信じるなら、あなたは救われます」と定められた理由の一つは（使徒一六・三一）、「高ぶりを人から除」くためだったと（ヨブ三三・一七）、へりくだって考えてよいでしょう。
+// 使徒一六・三一の口語訳は「主イエスを信じなさい。そうしたら、あなたもあなたの家族も救われます」。英文は条件の形に言い換えているので、それに合わせた。
 Pride had already destroyed the very angels of God, had cast down "a third part of the stars of heaven."
-高ぶりは、すでに神の御使たちさえも滅ぼし、「天の星の三分の一」を投げ落していました（黙示録一二・四）。
+高ぶりは、すでに神の御使たちさえも滅ぼし、「天の星の三分の一」を投げ落としていました（黙示録一二・四）。
 It was likewise in great measure owing to this, when the tempter said, "Ye shall be as gods," that Adam fell from his own steadfastness, and brought sin and death into the world.
 また、誘惑する者は、あなたがたは「神のように」なると言いました（創世記三・五）。そのとき、アダムが自分の堅固さを失い、罪と死とを世にもたらしたのも、大部分は高ぶりのためでした。
 It was therefore an instance of wisdom worthy of God, to appoint such a condition of reconciliation for him and all his posterity as might effectually humble, might abase them to the dust.
@@ -401,7 +402,7 @@ For he that cometh unto God by this faith, must fix his eye singly on his own wi
 He must come as a "mere sinner," inwardly and outwardly, self-destroyed and self-condemned, bringing nothing to God but ungodliness only, pleading nothing of his own but sin and misery.
 その人は、内側も外側も「ただの罪人」として来なければなりません。自分で自分を滅ぼし、自分で自分を罪に定めた者として来るのです。神のもとに携えて行くのは、不信心だけです。自分のものとして申し立てるのは、罪と悲惨だけです。
 Thus it is, and thus alone, when his "mouth is stopped," and he stands utterly "guilty before" God, that he can "look unto Jesus," as the whole and sole "Propitiation for his sins."
-このようにして初めて、このようにしてだけ、その人の「口がふさがれ」、その人は神の「前に」まったく「罪ある者」として立ちます（ローマ三・一九）。そのとき、その人は「イエスを仰ぎ見」ることができます（ヘブル一二・二）。自分の「罪のための」、完全で唯一の「あがないの供え物」として仰ぐのです（第一ヨハネ二・二）。
+その人の「口がふさがれ」、神の「前に」まったく「罪ある者」として立つとき（ローマ三・一九）、そのようにして初めて、そのようにしてだけ、その人は「イエスを仰ぎ見」ることができます（ヘブル一二・二）。自分の「罪のための」、完全で唯一の「あがないの供え物」として仰ぐのです（第一ヨハネ二・二）。
 // ローマ三・一九の口語訳は「全世界が神のさばきに服する」。英文（欽定訳 guilty before God）に合わせた。
 Thus only can he be "found in him," and receive the "righteousness which is of God by faith."
 このようにしてだけ、その人は「キリストのうちに自分を見いだす」ようになり、「信仰に基く神からの義を受け」ることができるのです（ピリピ三・九）。
@@ -417,7 +418,7 @@ As such thou shalt be brought unto the "blood of sprinkling," as an undone, help
 Thus "look unto Jesus!" There is "the Lamb of God," who "taketh away thy sins!" Plead thou no works, no righteousness of thine own! no humility, contrition, sincerity! In nowise.
 こうして、「イエスを仰ぎ見」なさい（ヘブル一二・二）。そこに、あなたの「罪を取り除く神の小羊」がおられます（ヨハネ一・二九）。わざを申し立ててはなりません。自分の義を申し立ててはなりません！　謙遜も、悔恨も、誠実も申し立ててはなりません！　決していけません。
 That were, in very deed, to deny the Lord that bought thee.
-それこそ、まさに、「あなたをあがなってくださった主を否定」することです（第二ペテロ二・一）。
+それこそ、まさに、あなたを「あがなってくださった主を否定」することです（第二ペテロ二・一）。
 No: Plead thou, singly, the blood of the covenant, the ransom paid for thy proud, stubborn, sinful soul.
 そうではありません。ただ「契約の血」だけを申し立てなさい（ヘブル一〇・二九）。あなたの高慢な、かたくなな、罪深い魂のために支払われた、あがないの代価だけを申し立てなさい。
 Who art thou, that now seest and feelest both thine inward and outward ungodliness Thou art the man!
