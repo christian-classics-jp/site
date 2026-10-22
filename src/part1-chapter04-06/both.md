@@ -6,14 +6,17 @@ They went then till they came to the Delectable Mountains, which mountains belon
 
 「この喜びの山々は、どなたのものですか。ここで草を食べている羊は、どなたの羊ですか」
 
-// 未訳：Gutenberg 版にある詩
 Mountains delectable they now ascend,
 Where Shepherds be, which to them do commend
 Alluring things, and things that cautious are,
 Pilgrims are steady kept by faith and fear.
+今、二人は喜びの山々に登る<br/>
+そこには羊飼いたちがいて、二人に勧める<br/>
+心ひかれるものと、戒めとなるものとを。<br/>
+巡礼者は、信仰と恐れによって揺るがずに保たれる。
 
 SHEP. These mountains are Immanuel's Land, and they are within sight of his city; and the sheep also are his, and he laid down his life for them. [John 10:11]
-羊飼い「この山々は〈インマヌエルの地〉で、インマヌエルの都が見えるところにあります。羊もこの方のものです。この方は、羊のためにいのちを捨てられました（ヨハネ一〇・一一、一五）」
+羊飼い「この山々は〈インマヌエルの地〉で、インマヌエルの都が見えるところにあります。羊もこの方のものです。この方は、羊のためにいのちを捨てられました（ヨハネ一〇・一一）」
 
 CHR. Is this the way to the Celestial City?
 クリスチャン「これは天の都へ行く道ですか」
@@ -37,7 +40,7 @@ CHR. Is there, in this place, any relief for pilgrims that are weary and faint i
 クリスチャン「この場所には、旅の途中で疲れて弱った巡礼者を助けてくれるものがありますか」
 
 SHEP. The Lord of these mountains hath given us a charge not to be forgetful to entertain strangers, therefore the good of the place is before you. [Heb. 13:1-2]
-羊飼い「この山々の主は、旅人をもてなすことを忘れてはならない、と私たちに命じておられます（ヘブル一三・二）。ですから、この地の良いものは、みなあなたがたの前にあります」
+羊飼い「この山々の主は、旅人をもてなすことを忘れてはならない、と私たちに命じておられます。ですから、この地の良いものは、みなあなたがたの前にあります（ヘブル一三・一〜二）」
 
 I saw also in my dream, that when the Shepherds perceived that they were wayfaring men, they also put questions to them, to which they made answer as in other places; as, Whence came you? and, How got you into the way? and, By what means have you so persevered therein? For but few of them that begin to come hither do show their face on these mountains. But when the Shepherds heard their answers, being pleased therewith, they looked very lovingly upon them, and said, Welcome to the Delectable Mountains.
 また私が夢の中で見ていると、羊飼いたちは、二人が旅人だと知ると、今度は自分たちから、どこから来たのか、どうやってこの道に入ったのか、どうやってここまで道を守り通したのか、と尋ねた。二人はほかの場所でしたのと同じように答えた。ここへ来ようと歩み出す者は多いが、この山々に顔を見せる者はわずかしかいないからである。羊飼いたちは二人の答えを聞いて喜んだ。そして、二人をたいへん愛情深く見つめて言った。
@@ -52,7 +55,7 @@ The Shepherds, I say, whose names were Knowledge, Experience, Watchful, and Sinc
 二人は、喜んで留まると答えた。そして、夜もすっかり更けていたので、その晩は休んだ。
 
 Then I saw in my dream, that in the morning the Shepherds called up to Christian and Hopeful to walk with them upon the mountains; so they went forth with them, and walked a while, having a pleasant prospect on every side. Then said the Shepherds one to another, Shall we show these pilgrims some wonders? So when they had concluded to do it, they had them first to the top of a hill called Error, which was very steep on the furthest side, and bid them look down to the bottom. So Christian and Hopeful looked down, and saw at the bottom several men dashed all to pieces by a fall that they had from the top. Then said Christian, What meaneth this? The Shepherds answered, Have you not heard of them that were made to err by hearkening to Hymeneus and Philetus as concerning the faith of the resurrection of the body? [2 Tim. 2:17,18] They answered, Yes. Then said the Shepherds, Those that you see lie dashed in pieces at the bottom of this mountain are they; and they have continued to this day unburied, as you see, for an example to others to take heed how they clamber too high, or how they come too near the brink of this mountain.
-それから私が夢の中で見ていると、朝になって、羊飼いたちはクリスチャンと〈希望〉を呼び起こし、いっしょに山を歩こうと誘った。そこで二人は羊飼いたちと出かけ、しばらく歩いた。どちらを見ても、心地よい眺めが広がっていた。すると羊飼いたちは互いに言った。
+それから私が夢の中で見ていると、朝になって、羊飼いたちはクリスチャンと〈希望〉に声をかけ、いっしょに山を歩こうと誘った。そこで二人は羊飼いたちと出かけ、しばらく歩いた。どちらを見ても、心地よい眺めが広がっていた。すると羊飼いたちは互いに言った。
 
 「この巡礼者たちに、不思議なものをいくつか見せてはどうでしょう」
 
