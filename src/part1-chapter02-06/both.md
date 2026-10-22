@@ -83,15 +83,19 @@ Then did Christian draw, for he saw it was time to bestir him; and Apollyon as f
 
 Then Apollyon, espying his opportunity, began to gather up close to Christian, and wrestling with him, gave him a dreadful fall; and with that Christian's sword flew out of his hand. Then said Apollyon, I am sure of thee now. And with that he had almost pressed him to death, so that Christian began to despair of life; but as God would have it, while Apollyon was fetching of his last blow, thereby to make a full end of this good man, Christian nimbly stretched out his hand for his sword, and caught it, saying, "Rejoice not against me, O mine enemy; when I fall I shall arise" [Micah 7:8];
 and with that gave him a deadly thrust, which made him give back, as one that had received his mortal wound. Christian perceiving that, made at him again, saying, "Nay, in all these things we are more than conquerors through him that loved us". [Rom. 8:37] And with that Apollyon spread forth his dragon's wings, and sped him away, that Christian for a season saw him no more. [James 4:7]
-そこでアポリュオンは隙を見てクリスチャンに詰め寄り、つかみかかってクリスチャンを投げ倒した。クリスチャンの握っていた剣は手から落ちてしまった。アポリュオンは勝ち誇った。「お前はもう負けだ」。そしてクリスチャンを押しつぶさんばかりにのしかかったので、クリスチャンはいのちをあきらめかけた。しかし、神の助けがあった。アポリュオンがこの善良な男のいのちを終わらせるために最後の一撃を喰らわせようとしたとき、クリスチャンはすばやく剣に手を伸ばし、つかんだ。「わが敵よ、私について喜ぶな。たとい私が倒れるとも起きあがる（ミカ七・八）」。アポリュオンに剣を突き刺した。アポリュオンは致命傷を負った者のようによろけた。クリスチャンはそうと知って再び立ち向かった。「いや、私たちを愛してくださった方によって、私たちは、これらすべての事において勝ち得て余りがある（ローマ八・三七）」。するとアポリュオンは竜の翼を広げて、飛び去った。クリスチャンはもう二度と彼を見なかった（ヤコブ四・七）。
+そこでアポリュオンは隙を見てクリスチャンに詰め寄り、つかみかかってクリスチャンを投げ倒した。クリスチャンの握っていた剣は手から落ちてしまった。アポリュオンは勝ち誇った。「お前はもう負けだ」。そしてクリスチャンを押しつぶさんばかりにのしかかったので、クリスチャンはいのちをあきらめかけた。しかし、神の助けがあった。アポリュオンがこの善良な男のいのちを終わらせるために最後の一撃を喰らわせようとしたとき、クリスチャンはすばやく剣に手を伸ばし、つかんだ。「わが敵よ、私について喜ぶな。たとい私が倒れるとも起きあがる（ミカ七・八）」。アポリュオンに剣を突き刺した。アポリュオンは致命傷を負った者のようによろけた。クリスチャンはそうと知って再び立ち向かった。「いや、私たちを愛してくださった方によって、私たちは、これらすべての事において勝ち得て余りがある（ローマ八・三七）」。するとアポリュオンは竜の翼を広げて、飛び去った。それからしばらく、クリスチャンは彼の姿を見なかった（ヤコブ四・七）。
 
 In this combat no man can imagine, unless he had seen and heard as I did, what yelling and hideous roaring Apollyon made all the time of the fight--he spake like a dragon; and, on the other side, what sighs and groans burst from Christian's heart. I never saw him all the while give so much as one pleasant look, till he perceived he had wounded Apollyon with his two-edged sword; then, indeed, he did smile, and look upward; but it was the dreadfullest sight that ever I saw.
 この戦いで、恐ろしいうなり声と怒号を上げるアポリュオンがどんなふうに戦ったか、私のようにこの目で見た者でなければ誰も想像できまい。アポリュオンは竜のように話した。他方、クリスチャンの心からはどんなため息とうめきが出たことか。クリスチャンは、両刃の剣でアポリュオンに傷を負わせたと気づくまで、その間ずっと、少しも明るい表情を見せなかった。そのとき、彼はようやく笑みを浮かべ、天を仰いだ。だが、その戦いは私が今まで見た最もおぞましい光景だった。
 
-// 未訳：Gutenberg 版にある詩
-A more unequal match can hardly be,--CHRISTIAN must fight an Angel; but you see,
+A more unequal match can hardly be,--
+CHRISTIAN must fight an Angel; but you see,
 The valiant man by handling Sword and Shield,
 Doth make him, tho' a Dragon, quit the field.
+これほど不釣り合いな勝負はあるまい。<br/>
+クリスチャンは天使と戦わねばならないのだ。だが見よ<br/>
+勇敢な男は剣と盾を振るって<br/>
+竜である相手をさえ戦場から退かせた。
 
 So when the battle was over, Christian said, "I will here give thanks to him that delivered me out of the mouth of the lion, to him that did help me against Apollyon." And so he did, saying--
 戦いが終わると、クリスチャンは言った。
