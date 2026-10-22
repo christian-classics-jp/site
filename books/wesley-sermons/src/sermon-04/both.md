@@ -18,7 +18,7 @@ Whosoever heareth the sound of the trumpet, and taketh not warning; if the sword
 And suddenly there came a sound from heaven as of a rushing mighty wind. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost:"
 突然、激しい風が吹いてきたような音が天から起ってきました。また、舌のようなものが、炎のように分れて現れ、ひとりびとりの上にとどまりました。すると、一同は聖霊に満たされ」ました。
 one immediate effect whereof was, they "began to speak with other tongues;" insomuch that both the Parthians, Medes, Elamites, and the other strangers who "came together, when this was noised abroad, heard them speak, in their several tongues, the wonderful works of God" (Acts 2:1-6).
-そのすぐに現れた結果の一つは、彼らが「いろいろの他国の言葉で語り出した」ことでした。そのため、「この物音に」「集まってきた」パルテヤ人、メジヤ人、エラム人、そのほかの他国人は、彼らが「生れ故郷の国語で」、「神の大きな働きを述べるのを聞」いたのです（使徒二・一〜一一）。
+そのすぐに現れた結果の一つは、彼らが「いろいろの他国の言葉で語り出した」ことでした。「この物音に」「集まってきた」のは、パルテヤ人、メジヤ人、エラム人、そのほかの他国人でした。彼らは、使徒たちが「生れ故郷の国語で」、「神の大きな働きを述べるのを聞」いたのです（使徒二・一〜一一）。
 // 英文の出典は Acts 2:1-6。パルテヤ人などが出てくるのは九〜一一節なので、範囲を広げた。
 
 2. In this chapter we read, that when the Apostles and brethren had been praying, and praising God, "the place was shaken where they were assembled together, and they were all filled with the Holy Ghost."
@@ -31,18 +31,19 @@ Not that we find any visible appearance here, such as had been in the former ins
 But it is needful to observe this, that, even in the infancy of the church, God divided them with a sparing hand.
 けれども、次のことには注意しておく必要があります。教会の初めのころでさえ、神はこれらの賜物を、控えめにしか分け与えられなかったのです。
 Were all even then prophets Were all workers of miracles Had all the gifts of healing Did all speak with tongues No, in no wise.
-そのころでさえ、「みんなが預言者」だったでしょうか。「みんなが力あるわざを行う者」だったでしょうか。「みんながいやしの賜物を持って」いたでしょうか。「みんなが異言を語った」でしょうか（第一コリント一二・二九〜三〇）。決してそうではありません。
+そのころでさえ、「みんなが預言者」だったでしょうか。「みんなが力あるわざを行う者」だったでしょうか。「みんながいやしの賜物を持って」いたでしょうか。「みんなが異言を語」ったでしょうか（第一コリント一二・二九〜三〇）。決してそうではありません。
 Perhaps not one in a thousand. Probably none but the teachers in the church, and only some of them (1 Cor. 12:28-30).
 おそらく、千人にひとりもいなかったでしょう。たぶん、教会の教師たちのほかにはいませんでした。それも、その一部だけでした（第一コリント一二・二八）。
 It was therefore, for a more excellent purpose than this, that "they were all filled with the Holy Ghost."
 ですから、「一同は聖霊に満たされ」たのは、これよりもさらにすぐれた目的のためでした。
 
 4. It was, to give them (what none can deny to be essential to all Christians in all ages) the mind which was in Christ, those holy fruits of the Spirit, which whosoever hath not, is none of his;
-（四）　それは、キリストのうちにあった思いを、彼らに与えるためでした（ピリピ二・五）。御霊の聖なる実を与えるためでした。これを持たない者は、だれであってもキリストのものではありません（ローマ八・九）。これがあらゆる時代のすべてのクリスチャンに欠かせないものであることは、だれも否定できません。
+（四）　それは、キリストのうちにあった思いを、彼らに与えるためでした（ピリピ二・五）。御霊の聖なる実を与えるためでした。この思いと実とが、あらゆる時代のすべてのクリスチャンに欠かせないものであることは、だれも否定できません。これを持たない者は、だれであってもキリストのものではないからです（ローマ八・九）。
 to fill them with "love, joy, peace, long-suffering, gentleness, goodness" (Gal. 5:22-24);
 彼らを「愛、喜び、平和、寛容、慈愛、善意」で満たすためでした（ガラテヤ五・二二）。
 to endue them with faith (perhaps it might be rendered, fidelity), with meekness and temperance;
 信仰（おそらく「忠実」と訳すこともできます）と、柔和と、自制とを授けるためでした（ガラテヤ五・二二〜二三）。
+// 口語訳はガラテヤ五・二二のこの語（欽定訳 faith）を、もともと「忠実」と訳している。
 to enable them to crucify the flesh, with its affections and lusts, its passions and desires;
 肉を、その「情と欲と共に」、その激情や欲望と共に、「十字架につけ」ることができるようにするためでした（ガラテヤ五・二四）。
 and in consequence of that inward change, to fulfil all outward righteousness; to "walk as Christ also walked," in "the work of faith, in the patience of hope, the labour of love" (1 Thess. 1:3).
@@ -70,9 +71,10 @@ I design to close these considerations with a plain, practical application.
 I. 1. And, first, let us consider Christianity in its rise, as beginning to exist in individuals.
 （一）　まず、キリスト教の起こりを考えてみましょう。個人のうちに存在し始めるものとしてのキリスト教です。
 Suppose, then, one of those who heard the Apostle Peter preaching repentance and remission of sins, was pricked to the heart, was convinced of sin, repented, and then believed in Jesus.
-では、使徒ペテロが悔い改めと罪のゆるしを宣べ伝えるのを聞いた人々のひとりを、思い浮かべてください。その人は「強く心を刺され」（使徒二・三七）、罪を悟らされ、悔い改め、そしてイエスを信じました。
+では、使徒ペテロが悔い改めと罪の赦しを宣べ伝えるのを聞いた人々のひとりを、思い浮かべてください。その人は「強く心を刺され」（使徒二・三七）、罪を悟らされ、悔い改め、そしてイエスを信じました。
 By this faith of the operation of God, which was the very substance, or subsistence, of things hoped for (Heb. 11:1,) the demonstrative evidence of invisible things, he instantly received the Spirit of adoption, whereby he now cried, "Abba, Father" (Rom. 8:15).
 この信仰は、神の働きによるものです。それは、望んでいる事がらの実体、あるいは実在そのものであり（ヘブル一一・一）、見えない事がらをはっきりと示す証拠です。この信仰によって、その人はただちに「子たる身分を授ける霊を受け」ました。そして、いまや「その霊によって」、「アバ、父よ」と呼ぶようになったのです（ローマ八・一五）。
+// ヘブル一一・一の口語訳は「望んでいる事がらを確信し、まだ見ていない事実を確認すること」。英文（欽定訳 substance, evidence）に合わせた。
 Now first it was that he could call Jesus Lord, by the Holy Ghost (1 Cor. 12:3), the Spirit itself bearing witness with his spirit, that he was a child of God (Rom. 8:16).
 このとき初めて、その人は「聖霊によって」、イエスを主と呼ぶことができました（第一コリント一二・三）。「御霊みずから」、その人の「霊と共に」、その人が「神の子であることをあかしして」くださったのです（ローマ八・一六）。
 Now it was that he could truly say, "I live not, but Christ liveth in me; and the life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself for me" (Gal. 2:20).
@@ -109,7 +111,7 @@ and more abundantly, "in hope of the glory of God;" in hope of the glorious imag
 "Because he was a son God had sent forth the Spirit of his Son into his heart, crying Abba, Father!" (Gal. 4:6).
 「その人は子であるので、神はその人の心の中に、『アバ、父よ』と呼ぶ御子の霊を送ってくださった」のです（ガラテヤ四・六）。
 And that filial love of God was continually increased by the witness he had in himself (1 John 5:10) of God's pardoning love to him; by "beholding what manner of love it was which the Father had bestowed upon him, that he should be called a child of God" (1 John 3:1).
-そして、子として神を愛するその愛は、絶えず増し加わっていきました。神がゆるしの愛で自分を愛してくださっているというあかしを、「自分のうちに」持っていたからです（第一ヨハネ五・一〇）。また、自分が「神の子と呼ばれるためには、どんなに大きな愛を父から賜わったことか、よく考えて」いたからです（第一ヨハネ三・一）。
+そして、子として神を愛するその愛は、絶えず増し加わっていきました。神が赦しの愛で自分を愛してくださっているというあかしを、「自分のうちに」持っていたからです（第一ヨハネ五・一〇）。また、自分が「神の子と呼ばれるためには、どんなに大きな愛を父から賜わったことか、よく考えて」いたからです（第一ヨハネ三・一）。
 So that God was the. desire of his eyes, and the joy of his heart; his portion in time and in eternity.
 こうして、神はその人の目の慕うもの、心の喜びとなりました。この世においても永遠においても、その人の受ける分となったのです。
 
@@ -124,14 +126,14 @@ not excepting those whom he had never seen in the flesh, or those of whom he kne
 not excepting the "evil" and "unthankful," and least of all his enemies, those who hated, or persecuted, or despitefully used him for his Master's sake.
 「悪人」も「恩を知らぬ者」も（ルカ六・三五）、例外ではありませんでした。敵は、なおさら例外ではありませんでした。主のゆえに自分を憎み、迫害し、はずかしめる人々です。
 These had a peculiar place, both in his heart and in his prayers. he loved them "even as Christ loved us."
-こうした人々は、その人の心にも祈りにも、特別な場所を占めていました。その人は、「キリストも」私たちを「愛して下さって」いるように、彼らを愛したのです（エペソ五・二）。
+こうした人々は、その人の心にも祈りにも、特別な場所を占めていました。その人は、「キリストも」私たちを「愛してくださった」ように、彼らを愛したのです（エペソ五・二）。
 
 6. And "love is not puffed up" (1 Cor. 13:4). It abases to the dust every soul wherein it dwells.
 （六）　そして、「愛は高ぶらない」のです（第一コリント一三・四）。愛は、それが宿るすべての魂を、ちりにまで低くします。
 Accordingly, he was lowly of heart, little, mean, and vile in his own eyes.
 ですから、その人は心がへりくだっていました。自分の目には、自分は小さく、卑しく、取るに足りない者でした。
 he neither sought nor received the praise of men, but that which cometh of God only.
-人からの誉を求めも、受けもしませんでした。「ただひとりの神からの誉」だけを求めたのです（ヨハネ五・四四）。
+人からの誉を求めもせず、受けもしませんでした。「ただひとりの神からの誉」だけを求めたのです（ヨハネ五・四四）。
 he was meek and long-suffering, gentle to all, and easy to be entreated.
 柔和で寛容であり、すべての人に優しく、温順でした。
 Faithfulness and truth never forsook him: they were "bound about his neck, and wrote on the table of his heart."
@@ -175,7 +177,7 @@ And thus, he daily grew in grace, increasing in strength, in the knowledge and l
 The language of his heart continually was, "`My Father worketh hitherto, and I work.' My Lord went about doing good; and shall not I tread in his steps"
 その人の心は、いつもこう語っていました。「『わたしの父は今に至るまで働いておられる。わたしも働くのです』（ヨハネ五・一七）。私の主は、よい働きをしながら巡回されました（使徒一〇・三八）。私も、その御足の跡を踏み従わないでいられましょうか」（第一ペテロ二・二一）。
 As he had opportunity therefore, if he could do no good of a higher kind, he fed the hungry, clothed the naked, helped the fatherless or stranger, visited and assisted them that were sick or in prison.
-ですから、その人は「機会のあるごとに」（ガラテヤ六・一〇）、もっと高い種類の善ができないなら、飢えている人に食べさせ、裸の人に着せ、みなしごや旅人を助け、病気の人や獄にいる人を見舞って助けました（マタイ二五・三五〜三六）。
+ですから、その人は「機会のあるごとに」（ガラテヤ六・一〇）、善を行いました。もっと高い種類の善ができないときは、飢えている人に食べさせ、裸の人に着せました。みなしごや旅人を助け、病気の人や獄にいる人を見舞って助けました（マタイ二五・三五〜三六）。
 he gave all his goods to feed the poor.
 全財産を、貧しい人々に施しました（第一コリント一三・三）。
 he rejoiced to labour or to suffer for them; and whereinsoever he might profit another, there especially to "deny himself."
@@ -205,7 +207,7 @@ For such was the will of God concerning it, who did not "light a candle to put i
 And this our Lord had declared to his first disciples, "Ye are the salt of the earth," "the light of the world;"
 このことを、私たちの主は、最初の弟子たちに告げておられました。「あなたがたは、地の塩です」、「世の光です」（マタイ五・一三〜一四）。
 at the same time that he gave that general command, "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven." (Matt. 5:13-16).
-そして同時に、あの全体にわたる命令を与えられたのです。「そのように、あなたがたの光を人々の前に輝かし、そして、人々があなたがたのよいおこないを見て、天にいますあなたがたの父をあがめるようにしなさい」（マタイ五・一六）。
+そして同時に、すべての弟子に向けた、あの命令を与えられたのです。「そのように、あなたがたの光を人々の前に輝かし、そして、人々があなたがたのよいおこないを見て、天にいますあなたがたの父をあがめるようにしなさい」（マタイ五・一六）。
 
 2. And, indeed, supposing a few of these lovers of mankind to see "the whole world lying in wickedness," can we believe they would be unconcerned at the sight, at the misery of those for whom their Lord died
 （二）　実際、人を愛するこうした人々のうちの幾人かが、「全世界は悪しき者の配下にある」のを見たとしましょう（第一ヨハネ五・一九）。彼らが、その光景に、自分たちの主が死なれた人々の悲惨に、無関心でいられると思えるでしょうか。
@@ -216,14 +218,14 @@ Could they then stand idle all the day long, even were there no command from him
 Rather, would they not labour by all possible means, to pluck some of these brands out of the burning
 むしろ、あらゆる手段を尽くして、この燃えさしのいくらかでも、炎の中から取り出そうと努めないでしょうか（アモス四・一一）。
 Undoubtedly they would: they would spare no pains to bring back whomsoever they could of those poor "sheep that had gone astray, to the great Shepherd and Bishop of their souls" (1 Pet. 2:25).
-きっとそうするはずです。「羊のようにさ迷っていた」あわれな人々を、ひとりでも多く、「たましいの」大いなる「牧者であり監督であるかた」のもとへ連れ戻すために、どんな骨折りも惜しまないはずです（第一ペテロ二・二五）。
+きっとそうするはずです。「羊のようにさ迷っていた」あわれな人々を、ひとりでも多く連れ戻そうとするはずです。「たましいの」大いなる「牧者であり監督であるかた」のもとへです。そのためなら、どんな骨折りも惜しまないはずです（第一ペテロ二・二五）。
 
 3. So the Christians of old did. They laboured, having opportunity, "to do good unto all men" (Gal. 6:10), warning them to flee from the wrath to come; now, now to escape the damnation of hell.
 （三）　昔のクリスチャンたちは、そのとおりにしました。「機会のあるごとに、だれに対しても」、「善を行」おうと努めたのです（ガラテヤ六・一〇）。「迫ってきている神の怒りから」のがれるように（マタイ三・七）、いまこそ、いまこそ「地獄の刑罰をのがれる」ように（マタイ二三・三三）、人々に警告しました。
 They declared, "The times of ignorance God winked at; but now he calleth all men everywhere to repent." (Acts 17:30)
-彼らは告げました。「神は、このような無知の時代を、これまでは見過ごしにされていましたが、今はどこにいる人でも、みな悔い改めなければならないことを命じておられます」（使徒一七・三〇）。
+彼らは告げました。「神は、このような無知の時代を、これまでは見過ごしにされていましたが、今はどこにおる人でも、みな悔い改めなければならないことを命じておられます」（使徒一七・三〇）。
 They cried aloud, Turn ye, turn ye, from your evil ways: "so iniquity shall not be your ruin" (Ezek. 18:30).
-彼らは声高く叫びました。「心を翻しなさい、心を翻して、その悪しき道を離れなさい」（エゼキエル三三・一一）。「そうすれば、悪があなたがたを滅ぼすことはありません」（エゼキエル一八・三〇）。
+彼らは声高く叫びました。「心を翻しなさい、心を翻して、その悪しき道を離れなさい」（エゼキエル三三・一一）。「さもないと悪はあなたがたを滅ぼします」（エゼキエル一八・三〇）。
 They "reasoned" with them of "temperance, and righteousness," or justice--of the virtues opposite to their reigning sins; "and of judgement to come,"--of the wrath of God which would surely be executed on evildoers in that day when he should judge the world (Acts 24:25).
 彼らは、「節制」と「正義」について、人々と「論じ」ました。これは、人々を支配している罪とは反対の徳のことです。また、「未来の審判」について論じました。神が世をさばかれるその日に、悪を行う者の上に必ず下される、神の怒りのことです（使徒二四・二五）。
 
@@ -268,10 +270,10 @@ yea, and sincerely believed, that whosoever should kill them would do God servic
 そうです、彼らを殺す者はだれでも、それによって神に仕えることになるのだと、本気で信じたのです（ヨハネ一六・二）。
 
 7. Meanwhile they did not fail to cast out their name as evil; (Luke 6:22;) so that this "sect was everywhere spoken against." (Acts 27:22.)
-（七）　その一方で、人々は彼らに必ず「汚名を着せ」ました（ルカ六・二二）。そのため、「この宗派については、いたるところで反対」がありました（使徒二八・二二）。
+（七）　その一方で、人々は彼らに決まって「汚名を着せ」ました（ルカ六・二二）。そのため、「この宗派については、いたるところで反対」がありました（使徒二八・二二）。
 // 英文の出典は Acts 27:22。この言葉は使徒二八・二二にあるので、底本の誤植と見て直した。
 Men said all manner of evil of them, even as had been done of the prophets that were before them (Matt. 5:12).
-人々は彼らに対して、「様々の悪口を言」いました（マタイ五・一一）。「あなたがたより前の預言者たち」に対してしたのと、同じようにです（マタイ五・一二）。
+人々は彼らに対して、「様々の悪口を言」いました（マタイ五・一一）。彼らより前の「預言者たち」に対してしたのと、同じようにです（マタイ五・一二）。
 And whatsoever any would affirm, others would believe; so that offences grew as the stars of heaven for multitude.
 だれかが何かを言い立てれば、ほかの者たちはそれを信じました。こうして、つまずきは「天の星のように」おびただしく増えていきました（ヘブル一一・一二）。
 And hence arose, at the time fore-ordained of the Father, persecution in all its forms.
@@ -290,7 +292,7 @@ But above all, their sufferings spake to all the world.
 They "approved themselves the servants of God, in afflictions, in necessities, in distresses, in stripes, in imprisonments, in tumults, in labours; in perils in the sea, in perils in the wilderness, in weariness and painfulness, in hunger and thirst, in cold and nakedness" (2 Cor. 6:4ff.).
 彼らは、「神の僕として、自分を人々にあらわし」ました。「患難にも、危機にも、行き詰まりにも、むち打たれることにも、入獄にも、騒乱にも、労苦にも」そうしたのです（第二コリント六・四〜五）。「海上の難」や「荒野の難」に会ったときも、「労し苦しみ」、「飢えかわき」、「寒さに凍え、裸でいた」ときも、そうでした（第二コリント一一・二六〜二七）。
 And when, having fought the good fight, they were led as sheep to the slaughter, and offered up on the sacrifice and service of their faith, then the blood of each found a voice, and the heathen owned, "He being dead, yet speaketh."
-彼らは「戦いをりっぱに戦いぬき」ました（第二テモテ四・七）。そのあと、「ほふられる羊のように」引かれて行き（ローマ八・三六）、人々の「信仰の供え物」の上に、自分をささげられました（ピリピ二・一七）。そのとき、ひとりひとりの血が声をあげました。異教徒たちも、「彼は死んだが、今もなお語っている」と認めたのです（ヘブル一一・四）。
+彼らは「戦いをりっぱに戦いぬき」ました（第二テモテ四・七）。そのあと、「ほふられる羊のように」引かれて行き（ローマ八・三六）、自分たちの「信仰の供え物」の上に、ささげられました（ピリピ二・一七）。そのとき、ひとりひとりの血が声をあげました。異教徒たちも、「彼は死んだが、今もなお語っている」と認めたのです（ヘブル一一・四）。
 
 9. Thus did Christianity spread itself in the earth.
 （九）　こうして、キリスト教は地に広がっていきました。
@@ -379,9 +381,9 @@ Their words are always the just expression of their thoughts, opening a window i
 "Arise, shine;" (saith the Lord;) "for thy light is come, and the glory of the Lord is risen upon thee."
 主は言われます。「起きなさい、光を放ちなさい。あなたの光が臨み、主の栄光があなたの上にのぼったからです」（イザヤ六〇・一）。
 "Thou hast known that I the Lord am thy Saviour and thy Redeemer, the mighty God of Jacob.
-「あなたは、主なるわたしが、あなたの救主、また、あなたのあがない主、ヤコブの全能者であることを知りました。
+「あなたは、主なるわたしが、あなたの救主、また、あなたのあがない主、ヤコブの全能者であることを知るにいたります。
 I have made thy officers peace, and thy exactors righteousness. Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation and thy gates Praise."
-わたしは、あなたのまつりごとを平和にし、あなたのつかさびとを正しくしました。暴虐は、もはやあなたの地に聞かれず、荒廃と滅亡は、もはやあなたの境のうちに聞かれません。あなたはその城壁を『救』ととなえ、その門を『誉』ととなえます」（イザヤ六〇・一六〜一八）。
+わたしは、あなたのまつりごとを平和にし、あなたのつかさびとを正しくします。暴虐は、もはやあなたの地に聞かれず、荒廃と滅亡は、もはやあなたの境のうちに聞かれません。あなたはその城壁を『救』ととなえ、その門を『誉』ととなえます」（イザヤ六〇・一六〜一八）。
 "Thy people are all righteous; they shall inherit the land for ever; the branch of my planting, the work of my hands, that I may be glorified."
 「あなたの民はことごとく正しい者となって、とこしえに地を所有します。彼らはわたしの植えた若枝、わが手のわざ、わが栄光をあらわすものとなります」（イザヤ六〇・二一）。
 "The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the Lord shall be unto thee an everlasting light, and thy God thy glory" (Isa. 60:1, 16-19).
@@ -397,7 +399,7 @@ IV. Having thus briefly considered Christianity, as beginning, as going on, and 
 Which is the country, the inhabitants whereof are all thus filled with the Holy Ghost --are all of one heart and of one soul cannot suffer one among them to lack anything, but continually give to every man as he hath need;
 住民がみな、このように聖霊に満たされている国は、どこにあるのでしょうか。その国では、みなが心を一つにし思いを一つにしています。自分たちのうちのひとりでも乏しくなるのを忍びず、いつも「それぞれの必要に応じて、だれにでも分け与え」ています（使徒四・三五）。
 who, one and all, have the love of God filling their hearts, and constraining them to love their neighbour as themselves;
-ひとり残らず、神の愛が心を満たし、自分を愛するように隣り人を愛するよう、強く迫っています。
+住民はひとり残らず、神の愛に心を満たされ、自分を愛するように隣り人を愛するよう、その愛に強く迫られています。
 who have all "put on bowels of mercy, humbleness of mind, gentleness, long-suffering" who offend not in any kind, either by word or deed, against justice, mercy, or truth; but in every point do unto all men; as they would these should do unto them
 みなが「あわれみの心、謙そん、柔和、寛容を身に着け」ています（コロサイ三・一二）。言葉においても行いにおいても、正義やあわれみや真実に、少しも背くことがありません。あらゆる点で、人々からしてほしいと望むことを、すべての人にしています（マタイ七・一二）。そんな国が、どこにあるのでしょうか。
 With what propriety can we term any a Christian country, which does not answer this description Why then, let us confess we have never yet seen a Christian country upon earth.
@@ -419,7 +421,7 @@ And who will use this plainness, if I do not Therefore I, even I, will speak.
 And I adjure you, by the living God, that ye steel not your breasts against receiving a blessing at my hands.
 生ける神にかけて、あなたがたにお願いします。私の手から祝福を受けることに対して、胸を固く閉ざさないでください。
 Do not say in your hearts, Non persuadebis, etiamsi persuaseris;" [Your persuasions shall not prevail with us, even though they should really convince us.--EDIT.] or, in other words, "Lord, thou shalt not send by whom thou wilt send; let me rather perish in my blood, than be saved by this man!"
-心の中で、こう言わないでください。<br/>
+心の中で、こう言ってはなりません。<br/>
 % Non persuadebis, etiamsi persuaseris. （たとえ本当に納得させられても、あなたの説得には従わない）<br/>
 言いかえれば、「主よ、あなたが選んでつかわす者を、つかわしてはならない。この男に救われるくらいなら、自分の血の中で滅びるほうがましだ！」と言わないでください。
 // 英文の [Your persuasions …] はラテン語の英訳。訳は（）に入れた。
@@ -431,7 +433,7 @@ Let me ask you then, in tender love, and in the spirit of meekness, Is this city
 Are we, considered as a community of men, so "filled with the Holy Ghost," as to enjoy in our hearts, and show forth in our lives, the genuine fruits of that Spirit
 私たちは、一つの共同体として見たとき、「聖霊に満たされ」ているでしょうか。その御霊の本物の実を、心に味わい、生活に現すほどに満たされているでしょうか。
 Are all the Magistrates, all heads and Governors of Colleges and Halls, and their respective Societies (not to speak of the inhabitants of the town), "of one heart "and one soul"
-すべての為政者、学寮と学館のすべての長や監督者、またそれぞれの団体の人々は（町の住民のことは言わないでおきます）、「心を一つにし思いを一つにして」いるでしょうか（使徒四・三二）。
+町の住民のことは言わないでおきます。すべての為政者、学寮と学館のすべての長や監督者、またそれぞれの団体の人々は、「心を一つにし思いを一つにして」いるでしょうか（使徒四・三二）。
 Is "the love of God shed abroad in our hearts" Are our tempers the same that were in him And are our lives agreeable thereto
 「神の愛が私たちの心に注がれて」いるでしょうか（ローマ五・五）。私たちの気質は、キリストのうちにあったものと同じでしょうか（ピリピ二・五）。そして、私たちの生活はそれにかなっているでしょうか。
 Are we "holy as he who hath called us is holy in all manner of conversation"
@@ -447,7 +449,7 @@ he therefore that is not condemned by his own heart, let him go free.
 5. In the fear, then, and in the presence of the great God, before whom both you and I shall shortly appear, I pray you that are in authority over us, whom I reverence for your office sake, to consider (and not after the manner of dissemblers with God),
 （五）　では、大いなる神を恐れつつ、その御前でお願いします。あなたがたも私も、まもなくこの神の前に出るのです。私たちの上に権威を持っておられる方々よ。私はその職のゆえに、あなたがたを敬っています。どうか、よく考えてください。神の前で偽る者のようにではなく、考えてください。
 are you "filled with the Holy Ghost" Are you lively portraitures of him whom ye are appointed to represent among men
-あなたがたは、「聖霊に満たされ」ているでしょうか。あなたがたは、人々の間で代わりを務めるように任じられています。その方の生きた肖像となっているでしょうか。
+あなたがたは、「聖霊に満たされ」ているでしょうか。あなたがたは、人々の間で神を代表するように任じられています。その神の生きた肖像となっているでしょうか。
 "I have said, Ye are gods," ye magistrates and rulers; ye are by office so nearly allied to the God of heaven! In your several stations and degrees, ye are to show forth unto us "the Lord our Governor."
 為政者たち、治める人たちよ、「わたしは言う、『あなたがたは神だ』」（詩篇八二・六）。あなたがたは、その職によって、それほど天の神に近く結ばれているのです！　それぞれの地位と身分において、あなたがたは私たちに、「われらの統治者なる主」を示さなければなりません（詩篇八・一）。
 // 「われらの統治者なる主」は祈祷書の詩篇八・一（O Lord our Governour）による。口語訳は「主、われらの主よ」。
@@ -471,7 +473,7 @@ Has all you teach an actual tendency to the love of God, and of all mankind for 
 Have you an eye to this end in whatever you prescribe, touching the kind, the manner, and the measure of their studies;
 彼らの学問の種類、方法、分量について何を定めるときも、この目的に目を注いでいるでしょうか。
 desiring and labouring that, wherever the lot of these young soldiers of Christ is cast, they may be so many burning and shining lights, adorning the gospel of Christ in all things
-キリストのこの若い兵士たちが、どこに遣わされることになっても、ひとりひとりが「燃えて輝くあかり」となり（ヨハネ五・三五）、「万事につけ」キリストの福音を「飾る」ように（テトス二・一〇）、願い、努めているでしょうか。
+キリストのこの若い兵士たちは、どこにつかわされることになるでしょうか。どこであっても、ひとりひとりが「燃えて輝くあかり」となるように（ヨハネ五・三五）、「万事につけ」キリストの福音を「飾る」ように（テトス二・一〇）、願い、努めているでしょうか。
 And permit me to ask, Do you put forth all your strength in the vast work you have undertaken
 そして、お尋ねすることを許してください。あなたがたは、自分が引き受けたこの大きな仕事に、全力を注いでいるでしょうか。
 Do you labour herein with all your might exerting every faculty of your soul, using every talent which God hath lent you, and that to the uttermost of your power
@@ -543,7 +545,7 @@ Are you diligent in your easy business, pursuing your studies with all your stre
 Do you redeem the time, crowding as much work into every day as it can contain
 「今の時を生かして用い」（エペソ五・一六）、毎日に詰め込めるだけの仕事を詰め込んでいるでしょうか。
 Rather, are ye not conscious to yourselves, that you waste away day after day, either in reading what has no tendency to Christianity, or in gaming, or in--you know not what
-むしろ、あなたがたは、自分でもわかっているのではありませんか。キリスト教に何の役にも立たない書物を読んだり、賭け事をしたり、あるいは、自分でも何をしているのかわからないことをしたりして、来る日も来る日も、むだに過ごしていることを。
+むしろ、あなたがたは自分でもわかっているのではありませんか。来る日も来る日も、むだに過ごしていることを。キリスト教に何の役にも立たない書物を読んだり、賭け事をしたり、あるいは、自分でも何をしているのかわからないことをしたりしているのです。
 Are you better managers of your fortune than of your time Do you, out of principle, take care to owe no man anything
 あなたがたは、時間よりも財産のほうを上手に管理しているでしょうか。主義として、「何人にも借りがあってはならない」と心がけているでしょうか（ローマ一三・八）。
 Do you "remember the Sabbath day, to keep it holy;" to spend it in the more immediate worship of God
@@ -576,7 +578,7 @@ Even the talk of Christianity, ye cannot, will not bear. O my brethren, what a C
 // 祈祷書の詩篇の訳（It is time for thee, Lord, to lay to thine hand）による。口語訳は「今は主のはたらかれる時です」。
 
 11. For, indeed, what probability, what possibility, rather (speaking after the manner of men), is there that Christianity, scriptural Christianity, should be again the religion of this place that all orders of men among us should speak and live as men "filled with the Holy Ghost"
-（一一）　実際、キリスト教が、聖書的キリスト教が、再びこの地の宗教となる見込みが、いや、人間的な言い方をすれば、その可能性が、どれほどあるでしょうか。私たちのうちのあらゆる身分の人々が、「聖霊に満たされ」た者として語り、生きるようになる可能性が、どれほどあるでしょうか。
+（一一）　実際、キリスト教が、聖書的キリスト教が、再びこの地の宗教となる見込みは、どれほどあるでしょうか。いや、人間的な言い方をすれば、その可能性は、どれほどあるでしょうか。私たちのうちのあらゆる身分の人々が、「聖霊に満たされ」た者として語り、生きるようになる可能性が、どれほどあるでしょうか。
 By whom should this Christianity be restored By those of you that are in authority
 このキリスト教は、だれによって回復されるのでしょうか。あなたがたのうちの、権威ある方々によってでしょうか。
 Are you convinced then that this is scriptural Christianity Are you desirous it should be restored
