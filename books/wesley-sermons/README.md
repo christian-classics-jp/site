@@ -34,7 +34,7 @@
 + [x] Sermon 29. Upon Our Lord's Sermon On The Mount: Discourse Nine
 + [x] Sermon 30. Upon Our Lord's Sermon On The Mount: Discourse Ten
 + [x] Sermon 31. Upon Our Lord's Sermon On The Mount: Discourse Eleven
-+ [ ] Sermon 32. Upon Our Lord's Sermon On The Mount: Discourse Twelve
++ [x] Sermon 32. Upon Our Lord's Sermon On The Mount: Discourse Twelve
 + [ ] Sermon 33. Upon Our Lord's Sermon On The Mount: Discourse Thirteen
 + [ ] Sermon 34. The Original, Nature, Property, And Use Of The Law
 + [ ] Sermon 35. The Law Established Through Faith: Discourse One
