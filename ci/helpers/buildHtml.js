@@ -1,5 +1,5 @@
 const marked = require('marked')
-const {INDEX_TEMPLATE_PATH, SINGLEPAGE_TMPLE_PATH, ARTICLE_TEMPLATE_PATH, STYLE_PATH} = require('./consts')
+const {INDEX_TEMPLATE_PATH, SINGLEPAGE_TMPLE_PATH, ARTICLE_TEMPLATE_PATH, STYLE_PATH, SCRIPT_PATH} = require('./consts')
 const fs = require('fs')
 const {join} = require('path')
 const hbs = require('handlebars')
@@ -29,6 +29,8 @@ async function buildHtml (reposName, options = {}) {
 
   mkdirp.sync(join(repos.destDir, 'css'))
   fs.copyFileSync(STYLE_PATH, join(repos.destDir, 'css', 'main.css'))
+  mkdirp.sync(join(repos.destDir, 'js'))
+  fs.copyFileSync(SCRIPT_PATH, join(repos.destDir, 'js', 'theme.js'))
 
   const siteTitle = repos.title
 

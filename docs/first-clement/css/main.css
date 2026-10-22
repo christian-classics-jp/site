@@ -15,7 +15,8 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
     --bg: #1c1b19;
     --text: #e4dfd6;
     --muted: #a59e93;
@@ -23,6 +24,20 @@
     --rule: #3b3833;
     --hover: rgba(147, 189, 219, 0.1);
   }
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #1c1b19;
+  --text: #e4dfd6;
+  --muted: #a59e93;
+  --accent: #93bddb;
+  --rule: #3b3833;
+  --hover: rgba(147, 189, 219, 0.1);
 }
 
 *, *::before, *::after {
@@ -81,6 +96,46 @@ header {
 .header {
   max-width: calc(var(--measure) * 1.1875);
   margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.theme-toggle {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  margin: -0.25rem -0.5rem -0.25rem 0;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.theme-toggle:hover {
+  color: var(--text);
+  background: var(--hover);
+}
+
+.theme-toggle svg {
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.theme-toggle[aria-pressed="true"] .theme-icon-moon,
+.theme-toggle[aria-pressed="false"] .theme-icon-sun {
+  display: none;
 }
 
 .header-title,
@@ -178,7 +233,7 @@ article h3, article h4, article h5, article h6 {
 }
 
 article p {
-  margin: 0;
+  margin: 0 0 1em;
   text-indent: 1em;
 }
 
