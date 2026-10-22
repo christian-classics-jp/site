@@ -21,9 +21,9 @@ The same expression the great Apostle uses in his Epistle to the Romans, where h
 2. "The kingdom of God," or true religion, "is not meat and drink."
 （二）　「神の国」、すなわちまことの宗教は、「飲食では」ありません。
 It is well known that not only the unconverted Jews, but great numbers of those who had received the faith of Christ, were, notwithstanding "zealous of the law," (Acts 21:20,) even the ceremonial law of Moses.
-よく知られているように、回心していないユダヤ人だけでなく、キリストの信仰を受け入れた人々の多くも、それにもかかわらず「律法に熱心な人たち」でした（使徒二一・二〇）。それも、モーセの儀式律法に熱心だったのです。
+回心していないユダヤ人が律法に熱心だったことは、よく知られています。けれども、キリストの信仰を受け入れた人々の多くも、それにもかかわらず「律法に熱心な人たち」でした（使徒二一・二〇）。それも、モーセの儀式律法に熱心だったのです。
 Whatsoever, therefore, they found written therein, either concerning meat and drink offerings, or the distinction between clean and unclean meats, they not only observed themselves, but vehemently pressed the same even on those "among the Gentiles" (or heathens) "who were turned to God;"
-ですから彼らは、素祭や灌祭について、また清い食物と汚れた食物の区別について、律法に書かれていることは何でも、自分で守っただけではありません。「異邦人」（すなわち異教徒）「の中から神に帰依している人たち」にも（使徒一五・一九）、同じことを激しく迫ったのです。
+ですから彼らは、素祭や灌祭について、また清い食物と汚れた食物の区別について、律法に書かれていることは何でも自分で守りました。それだけではありません。「異邦人」（すなわち異教徒）「の中から神に帰依している人たち」にも（使徒一五・一九）、同じことを激しく迫ったのです。
 yea, to such a degree, that some of them taught, wheresoever they came among them, "Except ye be circumcised, and keep the law," (the whole ritual law,) "ye cannot be saved." (Acts 15:1, 24.)
 そうです、ある人たちは、異邦人のところへ行く先々で、こう説くほどでした。「割礼を受け」、律法を守らなければ、「救われない」（使徒一五・一、二四）。ここで律法とは、儀式律法の全体のことです。
 // 英文の Except ye be circumcised, and keep the law は、使徒一五・一と、欽定訳の使徒一五・二四（Ye must be circumcised, and keep the law）を合わせたもの。口語訳の一五・二四にはこの句がないので、一五・一の語句だけを「」に入れた。
@@ -71,7 +71,7 @@ and, in the meantime, one of these may be truly religious, and the other have no
 For the one may act from the love of God, and the other from the love of praise.
 一方は神への愛から行い、もう一方は称賛を愛する心から行うかもしれないからです。
 So manifest it is, that although true religion naturally leads to every good word and work, yet the real nature thereof lies deeper still, even in "the hidden man of the heart."
-このように明らかです。まことの宗教は、おのずからあらゆる良い言葉と良いわざに導きます。けれども、その本当の性質は、さらに深いところに、すなわち「かくれた内なる人」にあるのです（第一ペテロ三・四）。
+ですから、次のことは明らかです。まことの宗教は、おのずからあらゆる良い言葉と良いわざに導きます。けれども、その本当の性質は、さらに深いところに、すなわち「かくれた内なる人」にあるのです（第一ペテロ三・四）。
 
 6. I say of the heart.
 （六）　私が心と言うのは、こういうわけです。
@@ -104,9 +104,9 @@ We cannot be at a loss concerning this, if we remember the words of our Lord, de
 Thou shalt delight thyself in the Lord thy God; thou shalt seek and find all happiness in him.
 あなたは、主なるあなたの神によって喜びをなすのです（詩篇三七・四）。あらゆる幸いを神のうちに求め、神のうちに見いだすのです。
 He shall be "thy shield, and thy exceeding great reward," in time and in eternity.
-神は、時においても永遠においても、あなたの「盾」となられます。あなたの受ける「報いは、はなはだ大きい」のです（創世記一五・一）。
+神は、この世でも永遠にも、あなたの「盾」となられます。あなたの受ける「報いは、はなはだ大きい」のです（創世記一五・一）。
 All thy bones shall say, "Whom have I in heaven but thee And there is none upon earth that I desire beside thee!"
-あなたの骨はことごとく、こう言うでしょう（詩篇三五・一〇）。「私はあなたのほかに、だれを天にもち得よう。地にはあなたのほかに慕うものはありません！」（詩篇七三・二五）
+あなたの骨はことごとく、こう言うでしょう（詩篇三五・一〇）。「私はあなたのほかに、だれを天にもち得ましょう。地にはあなたのほかに慕うものはありません！」（詩篇七三・二五）
 Thou shalt hear and fulfil His word who saith, "My son, give me thy heart."
 「わが子よ、あなたの心をわたしに与え」よ、と言われる方がおられます（箴言二三・二六）。あなたは、その方の言葉を聞き、それを行うのです。
 And, having given him thy heart, thy inmost soul, to reign there without a rival, thou mayest well cry out, in the fullness of thy heart,
@@ -135,7 +135,7 @@ Him thou shalt love as thyself; with the same invariable thirst after his happin
 9. Now is not this love "the fulfilling of the law" the sum of all Christian righteousness --
 （九）　さて、この愛こそ「律法を完成するもの」であり（ローマ一三・一〇）、クリスチャンの義のすべてをまとめたものではないでしょうか。
 of all inward righteousness; for it necessarily implies "bowels of mercies, humbleness of mind," (seeing "love is not puffed up,") "gentleness, meekness, long-suffering:" (for love "is not provoked;" but "believeth, hopeth, endureth all things:")
-愛は、すべての内なる義をまとめたものです。愛には、必ず「あわれみの心、慈愛、謙そん、柔和、寛容」が含まれるからです（コロサイ三・一二）。「愛は高ぶらない」ので、謙遜が含まれます。愛は「いらだたない」で、「すべてを信じ、すべてを望み、すべてを耐える」ので、柔和と寛容が含まれます（第一コリント一三・四〜七）。
+愛は、すべての内なる義をまとめたものです。愛には、必ず「あわれみの心、慈愛、謙そん、柔和、寛容」が含まれるからです（コロサイ三・一二）。「愛は高ぶらない」ので、謙遜が含まれます。愛は「いらだたない」で、「すべてを信じ、すべてを望み、すべてを耐える」ので、慈愛と柔和と寛容が含まれます（第一コリント一三・四〜七）。
 And of all outward righteousness; for "love worketh no evil to his neighbour," either by word or deed.
 また、愛は、すべての外なる義をまとめたものです。言葉によっても行いによっても、「愛は隣り人に害を加えることは」しないからです（ローマ一三・一〇）。
 It cannot willingly hurt or grieve any one. And it is zealous of good works.
@@ -182,7 +182,7 @@ hope both of the glorious image of God, which is in part and shall be fully "rev
 それは、神の栄光あるかたちへの希望です。そのかたちは、今は部分的に、やがては完全に、その人に「現される」のです（ローマ八・一八）。また、その人のために天にたくわえられている、「しぼむことのない栄光の冠」への希望です（第一ペテロ五・四、一・四）。
 
 12. This holiness and happiness, joined in one, are sometimes styled, in the inspired writings, "the kingdom of God," (as by our Lord in the text,) and sometimes, "the kingdom of heaven."
-（一二）　この聖性と幸いは、一つに結び合わされて、聖書の中で、ときには「神の国」と呼ばれ（本文の主の言葉がそうです）、ときには「天国」と呼ばれています。
+（一二）　この聖性と幸いは、一つに結び合わされて、聖書の中で、ときには「神の国」と呼ばれます（本文の主の言葉がそうです）。また、ときには「天国」と呼ばれています。
 It is termed "the kingdom of God," because it is the immediate fruit of God's reigning in the soul.
 それが「神の国」と呼ばれるのは、それが、神が魂のうちに支配されることの、じかの実だからです。
 So soon as ever he takes unto himself his mighty power, and sets up his throne in our hearts, they are instantly filled with this "righteousness, and peace, and joy in the Holy Ghost."
@@ -195,7 +195,7 @@ For whosoever they are that experience this, they can aver before angels and men
 Everlasting life is won,
 永遠のいのちは勝ち取られ、<br/>
 Glory is on earth begun,
-栄光は地上に始まった。
+栄光は地上に始まった。<br/>
 
 according to the constant tenor of Scripture, which everywhere bears record, God "hath given unto us eternal life, and this life is in his Son.
 それは、聖書の一貫した趣旨のとおりです。聖書は、いたるところであかししています。「神が永遠のいのちを私たちに賜わり、かつ、そのいのちが御子のうちにある」のです。
@@ -217,12 +217,13 @@ To thee be ceaseless hallelujahs given,
 Praise, as in heaven thy throne, we offer here;
 天にあるあなたの王座にささげるように、私たちはここで賛美をささげます。<br/>
 For where thy presence is display'd, is heaven.
-あなたの臨在が現されるところ、そこが天なのですから。
+あなたの臨在が現されるところ、そこが天なのですから。<br/>
 
 13. And this "kingdom of God," or of heaven, "is at hand."
 （一三）　そして、この「神の国」、すなわち天国は、「近づいた」のです。
 As these words were originally spoken, they implied that "the time" was then fulfilled, God being "made manifest in the flesh," when he would set up his kingdom among men, and reign in the hearts of his people.
 この言葉が最初に語られたとき、それは、そのとき「時は満ちた」ということを意味していました（マルコ一・一五）。神は「肉において現れ」（第一テモテ三・一六）、人々の間にご自分の国を打ち立て、ご自分の民の心のうちに支配しようとしておられたのです。
+// 欽定訳の第一テモテ三・一六は God was manifest in the flesh。口語訳は「キリストは肉において現れ」（写本の違い）。英文に合わせて主語を「神」とした。
 And is not the time now fulfilled
 では、今も時は満ちているのではないでしょうか。
 For, "Lo! (saith he,) I am with you always," you who preach remission of sins in my name, "even unto the end of the world." (Matt. 28:20.)
@@ -237,7 +238,7 @@ Ye may this hour enter thereinto, if so be ye hearken to his voice, "Repent ye, 
 ## 【二】　神の国に至る道
 
 II. 1. This is the way: walk ye in it.
-（一）　「これは道だ、これに歩め」（イザヤ三〇・二一）。
+（一）　「これは道だ、これに歩みなさい」（イザヤ三〇・二一）。
 And, First, "repent;" that is, know yourselves.
 まず第一に、「悔い改め」なさい。すなわち、自分自身を知りなさい。
 This is the first repentance, previous to faith; even conviction, or self-knowledge.
@@ -249,7 +250,7 @@ Know thyself to be a sinner, and what manner of sinner thou art.
 Know that corruption of thy inmost nature, whereby thou art very far gone from original righteousness,
 あなたの最も奥深い性質の腐敗を知りなさい。その腐敗によって、あなたは原初の義から、はるかに遠く離れています（三十九箇条第九条）。
 whereby "the flesh lusteth" always "contrary to the Spirit," through that "carnal mind" which "is enmity against God," which "is not subject to the law of God, neither indeed can be."
-その腐敗によって、「肉の欲するところ」はいつも「御霊に反」しています（ガラテヤ五・一七）。それは、「肉の思い」のためです。「肉の思いは神に敵する」からです。「それは神の律法に従わず、否、従い得ない」のです（ローマ八・七）。
+その腐敗によって、「肉の欲するところ」はいつも「御霊に反」しています（ガラテヤ五・一七）。それは、「肉の思い」のためです。「肉の思いは神に敵する」ものであり、「神の律法に従わず、否、従い得ない」のです（ローマ八・七）。
 Know that thou art corrupted in every power, in every faculty of thy soul; that thou art totally corrupted in every one of these, all the foundations being out of course.
 あなたは、魂のあらゆる力、あらゆる能力において腐敗していることを知りなさい。その一つ一つにおいて、すっかり腐敗しているのです。「もろもろの基はゆり動」いています（詩篇八二・五）。
 The eyes of thine understanding are darkened, so that they cannot discern God, or the things of God.
@@ -274,12 +275,12 @@ And what manner of branches canst thou expect to grow from such an evil root
 Hence springs unbelief; ever departing from the living God;
 ここから不信仰が生じます。不信仰は、いつも「生ける神から離れ去」ります（ヘブル三・一二）。
 saying, "Who is the Lord, that I should serve him Tush! Thou, God, carest not for it."
-そして、こう言います。「主とはいったい何者か」（出エジプト五・二）、私がこれに「仕えねばならないのか」（ヨブ二一・一五）。「ふん、神よ、あなたは気にもかけない」（詩篇一〇・一三）。
+そして、こう言います。「主とはいったい何者か」（出エジプト五・二）。「これに仕えねばならないのか」（ヨブ二一・一五）。「ふん、神よ、あなたは気にもかけない」（詩篇一〇・一三）。
 // 「ふん、神よ、あなたは気にもかけない」は祈祷書の詩篇（Tush, thou God carest not for it）に合わせた。口語訳の詩篇一〇・一三は「あなたはとがめることをしない」。
 Hence independence; affecting to be like the Most High.
 ここから、神に頼らない自立心が生じます。「いと高き者のようになろう」とするのです（イザヤ一四・一四）。
 Hence pride, in all its forms; teaching thee to say, "I am rich, and increased in goods, and have need of nothing."
-ここから、あらゆる形の高ぶりが生じます。高ぶりは、あなたにこう言わせます。「私は富んでいる、豊かになった、なんの不自由もない」（黙示録三・一七）。
+ここから、あらゆる形の高ぶりが生じます。高ぶりは、あなたにこう言わせます。「自分は富んでいる、豊かになった、なんの不自由もない」（黙示録三・一七）。
 From this evil fountain flow forth the bitter streams of vanity, thirst of praise, ambition, covetousness, the lust of the flesh, the lust of the eye, and the pride of life.
 この悪い泉から、苦い流れが流れ出ます。虚栄、称賛への渇き、野心、貪欲、「肉の欲、目の欲、持ち物の誇」です（第一ヨハネ二・一六）。
 From this arise anger, hatred, malice, revenge, envy, jealousy, evil surmisings:
@@ -294,7 +295,7 @@ Only such as are bitter and evil continually.
 Of pride cometh contention, vain boasting, seeking and receiving praise of men, and so robbing God of that glory which he cannot give unto another.
 高ぶりからは、争いが生じます（箴言一三・一〇）。むなしい自慢が生じ、人からの誉れを求めて受けることが生じます。こうして、神がほかの者に与えることのできない栄光を（イザヤ四二・八）、神から奪うのです。
 Of the lust of the flesh, come gluttony or drunkenness, luxury or sensuality, fornication, uncleanness; variously defiling that body which was designed for a temple of the Holy Ghost:
-肉の欲からは、大食や酒酔い、ぜいたくや好色、不品行、汚れが生じます。こうして、聖霊の宮として造られたからだを（第一コリント六・一九）、さまざまに汚すのです。
+肉の欲からは、大食や酒酔い、享楽や好色、不品行、汚れが生じます。こうして、聖霊の宮として造られたからだを（第一コリント六・一九）、さまざまに汚すのです。
 Of unbelief, every evil word and work.
 不信仰からは、あらゆる悪い言葉と悪いわざが生じます。
 But the time would fail, shouldst thou reckon up all;
@@ -331,7 +332,7 @@ Dost thou see, dost thou feel this
 Art thou thoroughly convinced that thou deservest God's wrath, and everlasting damnation
 自分が神の怒りと永遠の刑罰に値することを、心の底から確信していますか。
 Would God do thee no wrong, if he now commanded the earth to open, and swallow thee up if thou wert now to go down quick into the pit, into the fire that never shall be quenched
-もし今、神が地に命じて口を開かせ、あなたをのみつくさせたとしても、神はあなたに少しも不当なことをなさらないのではありませんか。あなたが今、生きながら穴に下り、消えない火の中に落ちたとしても、そうではありませんか（民数記一六・三〇、マルコ九・四三）。
+もし今、神が地に命じて口を開かせ、あなたをのみつくさせたとしても、神はあなたに少しも不当なことをなさらないのではありませんか。あなたが今、生きながら陰府に下り、消えない火の中に落ちたとしても、そうではありませんか（民数記一六・三〇、マルコ九・四三）。
 If God hath given thee truly to repent, thou hast a deep sense that these things are so; and that it is of his mere mercy thou art not consumed, swept away from the face of the earth.
 もし神があなたに本当に悔い改めさせてくださったなら、あなたは、そのとおりだと深く感じているはずです。そして、あなたが滅ぼし尽くされず、地の面から一掃されずにいるのは、ただ神のあわれみによるのだと感じているはずです。
 
@@ -346,7 +347,7 @@ The not increasing thy debt would not discharge it.
 It would still remain as great as ever.
 負債は、今までと同じだけ大きく残るでしょう。
 Yea, the present and future obedience of all the men upon earth, and all the angels in heaven, would never make satisfaction to the justice of God for one single sin.
-そうです、地上のすべての人と天のすべての御使とが、今もこれからも従順を尽くしても、ただ一つの罪についてさえ、神の正義を満たすことは決してできないでしょう。
+そうです、地上のすべての人と天のすべての御使とが、今もこれからも従順を尽くすとしましょう。それでも、ただ一つの罪についてさえ、神の正義を満たすことは決してできないでしょう。
 How vain, then, was the thought of atoning for thy own sins, by anything thou couldest do!
 それなら、自分にできる何かによって自分の罪をつぐなおうと考えたのは、なんとむなしいことだったでしょう。
 It costeth far more to redeem one soul, than all mankind is able to pay.
@@ -377,13 +378,13 @@ No more than thou art able to quicken a dead body, to raise to life him that lie
 Yea, thou art not able to quicken thy soul in any degree, no more than to give any degree of life to the dead body.
 そうです、あなたは、自分の魂を少しも生かすことができません。死んだからだに少しもいのちを与えられないのと同じです。
 Thou canst do nothing, more or less, in this matter; thou art utterly without strength.
-このことについて、あなたは多かれ少なかれ、何一つできません。あなたはまったく無力なのです。
+このことについて、あなたは大きなことも小さなことも、何一つできません。あなたはまったく無力なのです。
 To be deeply sensible of this, how helpless thou art, as well as how guilty and how sinful, -- this is that "repentance not to be repented of," which is the forerunner of the kingdom of God.
 自分がどれほど罪責を負い、どれほど罪深いかだけでなく、どれほど無力であるかを深く感じること。これこそ、「悔いのない」悔い改めであり（第二コリント七・一〇）、神の国の先触れなのです。
 // 第二コリント七・一〇の口語訳は「悔いのない救を得させる悔改め」で、「悔いのない」は「救」にかかる。英文（欽定訳）は repentance にかけているので、英文に寄せた。
 
 7. If to this lively conviction of thy inward and outward sins, of thy utter guiltiness and helplessness, there be added suitable affections,
-（七）　あなたの内と外との罪について、あなたがまったく罪責を負い、まったく無力であることについて、このいきいきとした自覚があるとしましょう。それに、ふさわしい情愛が加わるとしましょう。
+（七）　あなたは今、自分の内と外との罪を、いきいきと自覚しているとしましょう。自分がまったく罪責を負い、まったく無力であることを自覚しているとしましょう。それに、ふさわしい情愛が加わるとしましょう。
 --sorrow of heart, for having despised thy own mercies, --
 すなわち、自分の受けたあわれみを軽んじてきたことを、心から悲しむこと。
 remorse, and self-condemnation, having thy mouth stopped, --
@@ -391,7 +392,7 @@ remorse, and self-condemnation, having thy mouth stopped, --
 shame to lift up thine eyes to heaven, --
 目を天に向けることさえ恥じること（ルカ一八・一三）。
 fear of the wrath of God abiding on thee, of his curse hanging over thy head, and of the fiery indignation ready to devour those who forget God, and obey not our Lord Jesus Christ, --
-あなたの上にとどまる神の怒りを、あなたの頭上にかかる神ののろいを恐れること。神を忘れ、私たちの主イエス・キリストに聞き従わない者たちを焼きつくそうとしている、激しい火を恐れること（ヘブル一〇・二七、第二テサロニケ一・八）。
+あなたの上にとどまる神の怒りを（ヨハネ三・三六）、あなたの頭上にかかる神ののろいを恐れること。神を忘れ、私たちの主イエス・キリストに聞き従わない者たちを焼きつくそうとしている、激しい火を恐れること（ヘブル一〇・二七、第二テサロニケ一・八）。
 earnest desire to escape from that indignation, to cease from evil, and learn to do well; --
 その激しい火を逃れたいと、悪を行うことをやめ、善を行うことをならいたいと、切に願うこと（イザヤ一・一六〜一七）。
 then I say unto thee, in the name of the Lord, "Thou art not far from the kingdom of God."
@@ -427,7 +428,7 @@ Thou hast "righteousness, and peace, and joy in the Holy Ghost."
 10. Only beware thou do not deceive thy own soul with regard to the nature of this faith.
 （一〇）　ただ、この信仰の性質について、自分の魂を欺かないように気をつけなさい。
 It is not, as some have fondly conceived, a bare assent to the truth of the Bible, of the articles of our creed, or of all that is contained in the Old and New Testament.
-信仰とは、ある人々が愚かにも考えてきたように、聖書の真理に、信条の箇条に、あるいは旧約と新約に含まれるすべてのことに、ただ同意することではありません。
+ある人々は愚かにも、信仰とはただの同意だと考えてきました。聖書の真理や、信条の箇条や、旧約と新約に含まれるすべてのことに、ただ同意することだと言うのです。けれども、信仰はそのようなものではありません。
 The devils believe this, as well as I or thou! And yet they are devils still.
 悪霊どもでさえ、私やあなたと同じように、それを信じています！　それでも、悪霊どもは今なお悪霊なのです（ヤコブ二・一九）。
 But it is, over and above this, a sure trust in the mercy of God, through Christ Jesus.
@@ -450,7 +451,7 @@ Thou art no longer in doubt of the love of God; it is clear as the noon-day sun.
 Thou criest out, "My song shall be always of the loving-kindness of the Lord: With my mouth will I ever be telling of thy truth, from one generation to another."
 あなたは叫びます。「主よ、私はとこしえにあなたのいつくしみを歌い、私の口をもってあなたのまことをよろずよに告げ知らせます」（詩篇八九・一）。
 Thou art no longer afraid of hell, or death, or him that had once the power of death, the devil;
-あなたは、もはや地獄も死も恐れません。かつて「死の力を持つ者、すなわち悪魔」も恐れません（ヘブル二・一四）。
+あなたは、もはや地獄も死も恐れません。かつて「死の力を持つ者」であった「悪魔」も恐れません（ヘブル二・一四）。
 no, nor painfully afraid of God himself; only thou hast a tender, filial fear of offending him.
 そうです、神ご自身をさえ、苦しみをもって恐れることはありません。ただ、神のみこころをそこなうことを恐れる、子としてのやさしい恐れを持つだけです。
 Dost thou believe
@@ -485,7 +486,7 @@ For while thou "beholdest with open," uncovered "face" (the veil now being taken
 あなたは今や覆いを取り除かれ、「顔おおいなしに、主の栄光を」見つめています。主の栄光ある愛を、あなたがそれに似せて造られた栄光あるかたちを見つめています。そのとき、あなたは「栄光から栄光へと、主と同じ姿に変えられていく」のです。「これは霊なる主の働きによる」のです（第二コリント三・一八）。
 
 13. This repentance, this faith, this peace, joy, love, this change from glory to glory, is what the wisdom of the world has voted to be madness, mere enthusiasm, utter distraction.
-（一三）　この悔い改め、この信仰、この平安、喜び、愛、栄光から栄光へのこの変化を、世の知恵は、狂気、ただの熱狂、まったくの乱心だと決めつけてきました。
+（一三）　この悔い改め、この信仰、この平安、喜び、愛、栄光から栄光へのこの変化。世の知恵は、これを狂気、ただの熱狂、まったくの乱心だと決めつけてきました。
 But thou, O man of God, regard them not; be thou moved by none of these things.
 けれども、神の人よ（第一テモテ六・一一）、あなたはそれを気にかけてはなりません。それらのどれにも、心を動かされてはなりません。
 Thou knowest in whom thou hast believed.
@@ -503,7 +504,7 @@ God will soon turn thy heaviness into joy.
 O let not thy hands hang down! Yet a little longer, and he will take away thy fears, and give thee the spirit of a sound mind.
 ああ、あなたの手をなえさせてはなりません！　もうしばらくすれば、神はあなたの恐れを取り去り、慎みの霊を与えてくださいます（第二テモテ一・七）。
 He is nigh "that justifieth: Who is he that condemneth It is Christ that died, yea rather, that rose again, who is even now at the right hand of God, making intercession" for thee.
-あなたを「義とする者が近くおられ」ます（イザヤ五〇・八）。「だれが」「罪に定めるのか。キリスト・イエスは、死んで、否、よみがえって、神の右に座し」、今も、あなたの「ためにとりなして」くださるのです（ローマ八・三四）。
+あなたを「義とする者が近くおられ」ます（イザヤ五〇・八）。「だれが」「罪に定めるのでしょうか。キリスト・イエスは、死んで、否、よみがえって、神の右に座し」、今も、あなたの「ためにとりなして」くださるのです（ローマ八・三四）。
 
 "Now cast thyself on the Lamb of God, with all thy sins, how many soever they be; and "an entrance shall" now "be ministered unto thee, into the kingdom of our Lord and Saviour Jesus Christ!"
 今、あなたのすべての罪を、それがどれほど多くても、携えたまま、神の小羊に身を投げかけなさい。そうすれば今、「私たちの主また救主イエス・キリストの」国に「入る恵みが」、あなたに「豊かに与えられる」のです（第二ペテロ一・一一）。
