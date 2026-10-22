@@ -10,11 +10,11 @@ Upon Our Lord's Sermon On The Mount: Discourse Five
 This might be affirmed with the more colour because many of the expressions He had used were not common among the Jews: either they did not use them at all, or not in the same sense, not in so full and strong a meaning.
 この非難は、いっそうもっともらしく言い立てられたかもしれません。主の用いられた言い回しの多くが、ユダヤ人の間では普通のものではなかったからです。ユダヤ人は、それをまったく用いなかったか、用いても同じ意味ではなく、これほど十分で強い意味ではありませんでした。
 Add to this, that the worshipping God "in spirit and in truth" must always appear a new religion to those who have hitherto known nothing but outside worship, nothing but the "form of godliness."
-これに加えて、「霊とまこととをもって」神を礼拝することは（ヨハネ四・二四）、いつでも新しい宗教に見えたに違いありません。これまで外側の礼拝しか、すなわち「敬虔の形」しか（第二テモテ三・五）、知らなかった人々にとってはそうです。
-// form of godliness は説教三にならい「敬虔の形」とした。口語訳の第二テモテ三・五は「信心深い様子」。
+これに加えて、「霊とまこととをもって」神を礼拝することは（ヨハネ四・二四）、いつでも新しい宗教に見えたに違いありません。これまで外側の礼拝しか、すなわち敬虔の形しか（第二テモテ三・五）、知らなかった人々にとってはそうです。
+// form of godliness は「敬虔の形」とした。口語訳の第二テモテ三・五 は「信心深い様子」なので、「」に入れなかった。
 
 2. And it is not improbable, some might hope it was so, that He was abolishing the old religion, and bringing in another, -- one which, they might flatter themselves, would be an easier way to heaven.
-（二）　また、そうであればよいと望んだ人々も、いたかもしれません。主は古い宗教を廃して、別の宗教を持ち込もうとしておられる、と望んだのです。その宗教なら天国へのもっと楽な道になるだろう、と彼らはうぬぼれたかもしれません。
+（二）　また、そうであればよいと望んだ人々も、いたかもしれません。主は古い宗教を廃して、別の宗教を持ち込もうとしておられる、と望んだのです。その宗教なら天国へのもっと楽な道になるだろう、と彼らは都合よく考えたかもしれません。
 But our Lord refutes, in these words, both the vain hopes of the one, and the groundless calumnies of the other.
 けれども、私たちの主は、この言葉で、そう望んだ人々のむなしい望みも、非難した人々の根拠のない中傷も、退けておられます。
 
@@ -34,11 +34,11 @@ To this bear all the Apostles witness; not only Barnabas and Paul, who vehementl
 not only St. Peter, who termed the insisting on this, on the observance of the ritual law, a "tempting God," and "putting a yoke upon the neck of the disciples, which neither our fathers," saith he, "nor we, were able to bear;"
 ペテロだけでもありません。ペテロは、これを、すなわち祭儀律法を守らせようと言い張ることを、「神を試みる」ことだと呼びました（使徒一五・一〇）。また、「われわれの先祖もわれわれ自身も、負いきれなかったくびきをあの弟子たちの首にかけ」ることだと呼んだのです（使徒一五・一〇）。
 but all the Apostles, elders, and brethren, being assembled with one accord, (Acts 15:22,) declared, that to command them to keep this law, was to "subvert their souls;"
-使徒たちも長老たちも兄弟たちも、みな心を一つにして集まり（使徒一五・二二）、こう宣言したのです。この律法を守るように彼らに命じるのは、彼らの「心を乱」すことである（使徒一五・二四）。
+使徒たちも長老たちも兄弟たちも、みな心を一つにして集まり（使徒一五・二二）、こう宣言しました。この律法を守るように彼らに命じるのは、彼らの「心を乱」すことである（使徒一五・二四）、と。
 and that "it seemed good to the Holy Ghost" and to them, to lay no such burden upon them. (Acts 15:28.)
-そのような負担を彼らに負わせないことに、「聖霊と」自分たちとは「決めた」、と（使徒一五・二八）。
+また、そのような負担を彼らに負わせないことに、「聖霊と」自分たちとは「決めた」、と（使徒一五・二八）。
 This "hand-writing of ordinances" our Lord did blot out, take away, and nail to His cross.
-私たちの主は、この「証書を、その規定もろともぬり消し、これを取り除いて、十字架につけてしまわれた」のです（コロサイ二・一四）。
+私たちの主は、この「証書を、その規定もろとも」ぬり消し、取り除いて、十字架につけてしまわれたのです（コロサイ二・一四）。
 
 2. But the moral law, contained in the Ten Commandments, and enforced by the prophets, He did not take away.
 （二）　けれども、十戒に含まれ、預言者たちが強く説いた道徳律法を、主は取り除かれませんでした。
@@ -82,7 +82,7 @@ a religion the substance of which is, without question, as old as the creation, 
 (the substance, I say; for some circumstances of it now relate to man as a fallen creature;) --
 実質は、と言ったのは、その宗教のいくつかの事情が、今では、堕落した被造物としての人にかかわっているからです。
 a religion witnessed to both by the Law and by the Prophets, in all succeeding generations.
-それは、続くすべての世代において、「律法と預言者とによってあかしされて」きた宗教です（ローマ三・二一）。
+それは、続くすべての世代において、律法と預言者とによってあかしされてきた宗教です（ローマ三・二一）。
 Yet was it never so fully explained, nor so thoroughly understood till the great Author of it Himself condescended to give mankind this authentic comment on all the essential branches of it;
 けれども、その宗教がこれほど十分に説明され、徹底して理解されたことは、かつてありませんでした。その偉大な創始者ご自身がへりくだって、この確かな注解を人々に与えてくださるまでは、そうだったのです。その注解は、この宗教のすべての本質的な部分にわたっています。
 at the same time declaring it should never be changed, but remain in force to the end of the world.
@@ -91,7 +91,7 @@ at the same time declaring it should never be changed, but remain in force to th
 ## 【二】　律法の一点、一画もすたることはない
 
 II. 1. "For verily I say unto you," (a solemn preface, which denotes both the importance and certainty of what is spoken,) "Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law till all be fulfilled."
-（一）　「よく言っておきます」（これは、語られることの重要さと確かさの両方を示す、厳かな前置きです）。「天地が滅び行くまでは、律法の一点、一画もすたることはなく、ことごとく全うされるのです」（マタイ五・一八）。
+（一）　「よく言っておきます」（マタイ五・一八）。これは、語られることの重要さと確かさの両方を示す、厳かな前置きです。「天地が滅び行くまでは、律法の一点、一画もすたることはなく、ことごとく全うされるのです」（マタイ五・一八）。
 
 "One jot:" -- It is literally, not one iota, not the most inconsiderable vowel:
 「一点」（マタイ五・一八）。これは文字どおりには、イオタ一つも、ということです。最も小さな母音字一つも、ということです。
@@ -112,7 +112,7 @@ It is a word of authority, expressing the sovereign will and power of Him that s
 これは権威の言葉です。語られた方の、主権ある意志と力を表しています。その方の言葉は天と地の法であり、世々限りなく堅く立つのです。
 
 "One jot or one tittle shall in no wise pass till heaven and earth pass;"
-「天地が滅び行くまでは、律法の一点、一画もすたることはな」いのです（マタイ五・一八）。
+「天地が滅び行くまでは」、「一点、一画もすたることはな」いのです（マタイ五・一八）。
 or as it is expressed immediately after, evs an panta genhtai, -- till all ( or rather, all things) be fulfilled, till the consummation of all things.
 あるいは、すぐあとで言われているとおり、ヘオース・アン・パンタ・ゲネータイ（ἕως ἂν πάντα γένηται）です。すなわち、すべてが（というより、すべての事物が）全うされるまで、万物が完成するまで、ということです。
 // 英文の転写は evs an panta genhtai。口語訳はこの句を「ことごとく全うされるのである」と訳している。
@@ -130,11 +130,11 @@ Yea, the very same words, considered in different respects, are parts both of th
 If they are considered as commandments, they are parts of the law: if as promises, of the gospel.
 戒めとして見れば、それは律法の一部です。約束として見れば、福音の一部です。
 Thus, "Thou shalt love the Lord thy God with all thy heart," when considered as a commandment, is a branch of the law; when regarded as a promise, is an essential part of the gospel; --
-たとえば、「心をつくし、主なるあなたの神を愛せよ」（マタイ二二・三七）という言葉は、戒めとして見れば、律法の一部です。約束として見れば、福音の本質的な部分です。
+たとえば、「心をつくし」、「主なるあなたの神を愛せよ」（マタイ二二・三七）という言葉は、戒めとして見れば、律法の一部です。約束として見れば、福音の本質的な部分です。
 the gospel being no other than the commands of the law proposed by way of promises.
 福音とは、約束の形で示された律法の命令にほかならないのです。
 Accordingly poverty of spirit, purity of heart, and whatever else is enjoined in the holy law of God, are no other, when viewed in a gospel light, than so many great and precious promises.
-ですから、心の貧しさも、心の清さも、そのほか神の聖なる律法で命じられていることは何であれ、みなそうです。福音の光で見れば、それらは、それだけ多くの尊く、大いなる約束にほかなりません（第二ペテロ一・四）。
+ですから、心の貧しさも、心の清さも、そのほか神の聖なる律法で命じられていることは何であれ、みなそうです。福音の光で見れば、それらはどれも、尊く、大いなる約束にほかなりません（第二ペテロ一・四）。
 
 3. There is, therefore, the closest connexion that can be conceived between the law and the gospel.
 （三）　ですから、律法と福音との間には、考えうるかぎり最も密接なつながりがあります。
@@ -152,10 +152,10 @@ We lay hold of this gospel, of these glad tidings; it is done unto us according 
 We may yet farther observe, that every command in holy writ is only a covered promise.
 さらに、次のことにも目を留めることができます。聖書のあらゆる命令は、おおわれた約束にほかならないのです。
 For by that solemn declaration, "This is the covenant I will make after those days, saith the Lord; I will put my laws in your minds, and write them in your hearts," God hath engaged to give whatsoever he commands.
-神は、あの厳かな宣言によって、ご自分の命じることを何でも与えると約束しておられるからです。その宣言とは、こうです。「わたしが、それらの日の後、立てようとする契約はこれである、と主が言われます。わたしの律法を」あなたがたの「思いの中に入れ」、あなたがたの「心に書きつけ」ます（ヘブル八・一〇）。
+神は、あの厳かな宣言によって、ご自分の命じることを何でも与えると約束しておられるからです。その宣言とは、こうです。「わたしが、それらの日の後」、「立てようとする契約はこれである、と主が言われ」ます。「わたしの律法を」あなたがたの「思いの中に入れ」、あなたがたの「心に書きつけ」ます（ヘブル八・一〇）。
 // 口語訳のヘブル八・一〇は「イスラエルの家と」「彼らの」。英文に合わせ、「イスラエルの家と」を除き、「あなたがたの」を「」の外に出した。
 Does he command us then to "pray without ceasing" To "rejoice evermore" "To be holy as He is holy" It is enough.
-それでは、神は私たちに、「絶えず祈」るように（第一テサロニケ五・一七）命じておられるでしょうか。「いつも喜んで」いるように（第一テサロニケ五・一六）命じておられるでしょうか。神が聖なる方であるように、「聖なる者にな」るように（第一ペテロ一・一六）命じておられるでしょうか。それで十分です。
+それでは、神は私たちに、「絶えず祈」るように（第一テサロニケ五・一七）命じておられるでしょうか。「いつも喜んで」いるように（第一テサロニケ五・一六）命じておられるでしょうか。神が聖なる方であるように、「聖なる者にな」るように（第一ペテロ一・一五〜一六）命じておられるでしょうか。それで十分です。
 He will work in us this very thing. It shall be unto us according to his word.
 神は、まさにこのことを私たちのうちに行ってくださいます。神の言葉どおり、私たちの身になるのです（ルカ一・三八）。
 
@@ -164,7 +164,7 @@ He will work in us this very thing. It shall be unto us according to his word.
 Christ has here given us an infallible rule, whereby to judge of all such pretensions.
 キリストはここで、そのような主張をすべて判断するための、誤ることのない基準を与えておられます。
 Christianity, as it includes the whole moral law of God, both by way of injunction and of promise, if we will hear him is designed of God to be the last of all his dispensations.
-キリスト教は、命令としても約束としても、神の道徳律法全体を含んでいます。ですから、もし私たちがキリストに聞くなら、キリスト教は、神のあらゆる経綸の最後のものです。神がそのように定めておられるのです。
+キリスト教は、命令としても約束としても、神の道徳律法全体を含んでいます。ですから、キリストの言葉に聞くなら分かるとおり、キリスト教は、神のあらゆる経綸の最後のものです。神がそのように定めておられるのです。
 There is no other to come after this. This is to endure till the consummation of all things.
 このあとに来るものは、ほかにありません。これは、万物の完成まで続くのです。
 Of consequence, all such new revelations are of Satan, and not of God; and all pretences to another more perfect dispensation fall to the ground of course.
@@ -182,7 +182,7 @@ Who, what are they that make "the preaching of the law" a character of reproach
 Do they not see on whom their reproach must fall, -- on whose head it must light at last
 彼らは、自分たちの非難がだれの上に降りかかるのか、分からないのでしょうか。最後にはだれの頭に落ちかかるのか、分からないのでしょうか。
 Whosoever on this ground despiseth us, despiseth Him that sent us.
-このことで私たちを拒む者はだれでも、私たちを「おつかわしになったかたを拒む」のです（ルカ一〇・一六）。
+このことで私たちを拒む者はだれでも、私たちをおつかわしになったかたを拒むのです（ルカ一〇・一六）。
 For did ever any man preach the law like Him, even when he came not to condemn but to save the world; when he came purposely to "bring life and immortality to light through the gospel"
 主は、世をさばくためではなく、救うために来られました（ヨハネ三・一七）。「福音によっていのちと不死とを明らかに示」すために、わざわざ来られたのです（第二テモテ一・一〇）。そのときでさえ、主のように律法を説いた人が、かつていたでしょうか。
 Can any preach the law more expressly, more rigorously, than Christ does in these words
@@ -236,9 +236,9 @@ Nor, by consequence can he have any part in the glory which shall be revealed.
 したがって、やがて現されようとする栄光にも（ローマ八・一八）、何の分も持つことができません。
 
 4. But if those who even thus break, and teach others to break "one of the least of these commandments shall be called least in the kingdom of heaven," shall have no part in the kingdom of Christ and of God;
-（四）　ある人々は、このように「これらの最も小さいいましめの一つでも破り」（マタイ五・一九）、ほかの人々にも破るように教えます。そういう人々でさえ、「天国で最も小さい者と呼ばれる」のです（マタイ五・一九）。キリストと神との国に、何の分も持たないのです（エペソ五・五）。
+（四）　ある人々は、このように「これらの最も小さいいましめの一つ」（マタイ五・一九）でも破り、ほかの人々にも破るように教えます。そういう人々でさえ、「天国で最も小さい者と呼ばれる」のです（マタイ五・一九）。キリストと神との国に、何の分も持たないのです（エペソ五・五）。
 if even these shall be cast into "outer darkness, where is wailing and gnashing of teeth,"
-このような人々でさえ、「外のやみに追い出され、そこで泣き叫んだり、歯がみをしたりする」のです（マタイ八・一二）。
+このような人々でさえ、「外のやみに」投げ込まれ、「そこで泣き叫んだり、歯がみをしたりする」のです（マタイ八・一二）。
 then where will they appear whom our Lord chiefly and primarily intends in these words, --
 そうであるなら、私たちの主がこの言葉で、何よりもまず念頭に置いておられる人々は、どこに現れることになるでしょうか。
 they who, bearing the character of Teachers sent from God, do nevertheless themselves break his commandments; yea, and openly teach others so to do; being corrupt both in life and doctrine
@@ -277,6 +277,7 @@ to persuade all who attend upon his ministry to sleep on and take their rest.
 その人の務めに連なるすべての人に、このまま眠り続けて休んでいるように説き勧めるのです。
 No marvel, therefore, if both he and they that follow him wake together in everlasting burnings."
 ですから、その人も、その人に従う人々も、共にとこしえの燃える火の中で（イザヤ三三・一四）目をさますとしても、不思議ではありません。
+// 英文の burnings." の閉じ引用符には開き引用符がない。引用ではないので「」を付けなかった。
 
 7. But above all these, in the highest rank of the enemies of the gospel of Christ, are they who openly and explicitly "judge the law" itself, and "speak evil of the law;"
 （七）　けれども、これらすべての上に、キリストの福音の敵の最上位にいる人々がいます。それは、公然と、はっきりと、律法そのものを「さばき」（ヤコブ四・一一）、「律法をそし」る人々です（ヤコブ四・一一）。
@@ -297,7 +298,7 @@ O Lord, lay not this sin to their charge! Father, forgive them; for they know no
 8. The most surprising of all the circumstances that attend this strong delusion, is, that they who are given up to it, really believe that they honour Christ by overthrowing his law, and that they are magnifying his office, while they are destroying his doctrine!
 （八）　この強い惑わしに伴う事情の中で、何より驚くべきことは、次のことです。その惑わしに身をゆだねた人々は、キリストの律法をくつがえすことによって、キリストをあがめていると本気で信じているのです。キリストの教えを壊しながら、キリストの務めを光栄あるものとしていると（ローマ一一・一三）、本気で信じているのです。
 Yea, they honour him just as Judas did, when he said, "Hail, Master!" and kissed him.
-そうです、彼らがキリストをあがめるのは、ちょうどユダがしたのと同じです。ユダは、「先生、いかがですか」と言って、イエスに「接吻した」のです（マタイ二六・四九）。
+そうです、彼らがキリストをあがめるのは、ちょうどユダがしたのと同じです。ユダは、「先生、いかがですか」と言って、イエスに接吻したのです（マタイ二六・四九）。
 And he may as justly say to every one of them, "Betrayest thou the Son of Man with a kiss"
 ですから、キリストは、彼らの一人一人に向かって、同じように正当にこう言うことができます。「あなたは接吻をもって人の子を裏切るのですか」（ルカ二二・四八）。
 It is no other than betraying him with a kiss, to talk of his blood, and take away his crown; to set light by any part of his law, under pretence of advancing his gospel.
@@ -310,10 +311,10 @@ who preaches Christ so as to disannul, or weaken, in anywise, the least of the c
 9. It is impossible, indeed, to have too high an esteem for "the faith of God's elect."
 （九）　確かに、「神に選ばれた者たちの信仰」を（テトス一・一）、尊びすぎるということはありえません。
 And we must all declare, "By grace ye are saved through faith; not of works, lest any man should boast."
-そして、私たちはみな、こう宣言しなければなりません。「あなたがたの救われたのは、実に、恵みにより、信仰によるのです。決して行いによるのではありません。それは、だれも誇ることがないためなのです」（エペソ二・八〜九）。
+そして、私たちはみな、こう宣言しなければなりません。「あなたがたの救われたのは、実に、恵みにより、信仰によるのです」（エペソ二・八）。「決して行いによるのではありません。それは、だれも誇ることがないためなのです」（エペソ二・九）。
 We must cry aloud to every penitent sinner, "Believe in the Lord Jesus Christ, and thou shalt be saved."
 悔い改めるすべての罪人に向かって、声を上げて叫ばなければなりません。「主イエス」キリスト「を信じなさい。そうしたら、あなたは救われます」（使徒一六・三一）。
-// 口語訳の使徒一六・三一 は「主イエスを信じなさい。そうしたら、あなたもあなたの家族も救われます」。英文に合わせ、キリストを「」の外に出し、「あなたの家族も」を除いた。
+// 口語訳の使徒一六・三一 は「主イエスを信じなさい。そうしたら、あなたもあなたの家族も救われます」。英文に合わせ、キリストを「」の外に出し、「あなたの家族も」を除いて「あなたも」を「あなたは」に改めた。
 But, at the same time, we must take care to let all men know, we esteem no faith but that which worketh by love [Gal. 5:6];
 けれども同時に、私たちは、すべての人に次のことを知らせるように心がけなければなりません。私たちが尊ぶのは、愛によって働く信仰だけです（ガラテヤ五・六）。
 and that we are not saved by faith, unless so far as we are delivered from the power as well as the guilt of sin.
@@ -341,7 +342,7 @@ For thus saith the Lord, "[Verily] I say unto you, That except your righteousnes
 主はこう言われるからです。「わたしは言っておきます。あなたがたの義が律法学者やパリサイ人の義にまさっていなければ、決して天国に、はいることはできません」（マタイ五・二〇）。
 
 The Scribes, mentioned so often in the New Testament, as some of the most constant and vehement opposers of our Lord, were not secretaries, or men employed in writing only, as that term might incline us to believe.
-律法学者は、新約聖書の中で、私たちの主に最も絶えず激しく反対した人々として、たびたび言及されています。英語の呼び名は「書く人」を意味します。けれども、彼らは、その呼び名から思わされるような書記、すなわち書くことだけに携わる人々ではありませんでした。
+律法学者は、私たちの主に最も根強く、最も激しく反対した人々の一部として、新約聖書にたびたび出てきます。英語の呼び名は「書く人」を意味します。けれども、彼らは、その呼び名から思わされるような書記、すなわち書くことだけに携わる人々ではありませんでした。
 Neither were they lawyers, in our common sense of the word; although the word nomikoi is so rendered in our translation.
 また、彼らは、私たちが普通に言う意味での法律家でもありませんでした。もっとも、英語の聖書は、ノミコイ（νομικοί）という語を「法律家」と訳しています。
 // 英文の転写は nomikoi。欽定訳はこの語を lawyers と訳す。口語訳は「律法学者」（ルカ一一・五二 など）。英文の Scribes も口語訳では「律法学者」なので、英語の呼び名の話であることを補った。
@@ -425,7 +426,7 @@ nor even as this publican, not guilty of any open or presumptuous sin; not an ou
 All the stricter Pharisees observed the weekly fasts; namely, every Monday and Thursday.
 厳格なパリサイ人はみな、毎週の断食を守っていました。すなわち、毎週月曜日と木曜日です。
 On the former day they fasted in memory of Moses receiving on that day (as their tradition taught) the two tables of stone written by the finger of God;
-月曜日には、モーセが、神が指をもって書かれた二枚の石の板を（出エジプト三一・一八）、（彼らの言い伝えによれば）その日に受けたことを記念して、断食しました。
+月曜日には、彼らの言い伝えによればこの日にモーセが二枚の石の板を受けたので、それを記念して断食しました。その板は、神が指をもって書かれたものです（出エジプト三一・一八）。
 on the latter, in memory of his casting them out of his hand, when he saw the people dancing round the golden calf.
 木曜日には、モーセが、民が金の子牛の周りで踊るのを見て、その板を手から投げうったことを記念して（出エジプト三二・一九）、断食しました。
 On these days, they took no sustenance at all, till three in the afternoon; the hour at which they began to offer up the evening sacrifice in the temple.
@@ -482,7 +483,7 @@ But the Pharisee of this kind cannot be a hypocrite.
 He must be, in the common sense, sincere; otherwise he could not "trust in himself that he is righteous."
 その人は、普通の意味で誠実であるに違いありません。そうでなければ、「自分を義人だと自任」することはできないでしょう（ルカ一八・九）。
 The man who was here commending himself to God unquestionably thought himself righteous.
-ここで自分を神に推薦していたこの人は、疑いもなく、自分を義人だと思っていました。
+ここで神に向かって自分をほめていたこの人は、疑いもなく、自分を義人だと思っていました。
 Consequently, he was no hypocrite; he was not conscious to himself of any insincerity.
 したがって、その人は偽善者ではありませんでした。自分に何の不誠実も自覚していなかったのです。
 He now spoke to God just what he thought, namely, that he was abundantly better than other men.
@@ -551,13 +552,13 @@ If you do, this also is flat extortion. Indeed you do not come up to the righteo
 8. A Pharisee, Secondly, (to express his sense in our common way,) used all the means of grace.
 （八）　第二に、パリサイ人は（その意味を私たちの普通の言い方で表すなら）、あらゆる恵みの手段を用いました。
 As he fasted often and much, twice in every week, so he attended all the sacrifices.
-彼は、たびたび多く、毎週二度断食しました。同じように、あらゆるいけにえに出席しました。
+彼は、たびたび、しかも長く、毎週二度断食しました。同じように、あらゆるいけにえに出席しました。
 He was constant in public and private prayer, and in reading and hearing the Scriptures.
 公の祈りにも個人の祈りにも、また聖書を読むことにも聞くことにも、たゆみませんでした。
 Do you go as far as this Do you fast much and often -- twice in the week I fear not!
-あなたは、ここまでしているでしょうか。たびたび多く、一週に二度、断食しているでしょうか。していないのではないかと思います。
+あなたは、ここまでしているでしょうか。たびたび、しかも長く、一週に二度、断食しているでしょうか。していないのではないかと思います。
 Once, at least, "on all Fridays in the year"
-少なくとも一度、「一年のすべての金曜日に」断食しているでしょうか（祈祷書「前夜祭・断食・節制の日の表」）。
+少なくとも週に一度、「一年のすべての金曜日に」断食しているでしょうか（祈祷書「前夜祭・断食・節制の日の表」）。
 (So our Church clearly and peremptorily enjoins all her members to do; to observe all these as well as the vigils and the forty days of Lent, as days of fasting or abstinence.)
 （私たちの教会は、すべての会員に、はっきりと断固としてそうするように命じています。これらの日を、前夜祭や四旬節の四十日と同じく、断食または節制の日として守るように命じているのです。）
 Do you fast twice in the year I am afraid some among us cannot plead even this!
@@ -618,7 +619,7 @@ but not at all in keeping the third, -- making little account of light, or even 
 So that their righteousness was partial; whereas the righteousness of a real Christian is universal.
 ですから、彼らの義は部分的でした。それに対して、本当のクリスチャンの義は、すべてにわたっています。
 He does not observe one, or some parts, of the law of God, and neglect the rest; but keeps all his commandments, loves them all, values them above gold or precious stones.
-本当のクリスチャンは、神の律法の一つの部分やいくつかの部分を守って、残りをなおざりにするのではありません。神のすべての戒めを守り、そのすべてを愛し、金よりも宝石よりも尊びます（詩篇一一九・一二七）。
+本当のクリスチャンは、神の律法の一つの部分やいくつかの部分を守って、残りをなおざりにするのではありません。神のすべての戒めを守り、そのすべてを愛し、金よりも宝石よりも尊びます。
 
 11. It may be, indeed, that some of the Scribes and Pharisees endeavoured to keep all the commandments, and consequently were, as touching the righteousness of the law, that is, according to the letter of it, blameless.
 （一一）　確かに、律法学者やパリサイ人の中には、すべての戒めを守ろうと努めた人々もいたかもしれません。そうであれば、彼らは、律法の義については、すなわち律法の文字によれば、落ち度のない者でした（ピリピ三・六）。
@@ -662,7 +663,7 @@ If thou "follow a multitude" at all, it must be "to do evil."
 Let not custom or fashion be thy guide, but reason and religion.
 習慣や流行ではなく、道理と宗教を、あなたの導き手としなさい。
 The practice of others is nothing to thee: "Every man must give an account of himself to God."
-ほかの人々がどうしているかは、あなたには関係ありません。「わたしたちひとりびとりは、神に対して自分の言いひらきをすべき」なのです（ローマ一四・一二）。
+ほかの人々がどうしているかは、あなたには関係ありません。「ひとりびとりは、神に対して自分の言いひらきをすべき」なのです（ローマ一四・一二）。
 Indeed, if thou canst save the soul of another, do; but at least save one, -- thy own.
 確かに、もしほかの人の魂を救うことができるなら、救いなさい。けれども、少なくとも一つの魂を、あなた自身の魂を救いなさい。
 Walk not in the path of death because it is broad, and many walk therein.
@@ -672,7 +673,7 @@ Nay, by this very token thou mayst know it.
 Is the way wherein thou now walkest, a broad, well-frequented, fashionable way Then it infallibly leads to destruction.
 あなたが今歩いている道は、広く、人通りの多い、流行の道でしょうか。それなら、その道は間違いなく滅びに至ります。
 O be not thou "damned for company!"
-ああ、「付き合いで滅び」てはなりません。
+ああ、付き合いで滅びてはなりません。
 // damned for company は、人に付き合って地獄に落ちる、という当時の言い回し。
 Cease from evil; fly from sin as from the face of a serpent!
 悪をやめなさい。蛇の前から逃げるように、罪から逃げなさい。
@@ -684,7 +685,7 @@ At least, do no harm.
 Touching outward sins, surely the grace of God is even now sufficient for thee.
 外の罪については、確かに神の恵みは、今でもあなたに対して十分です（第二コリント一二・九）。
 "Herein," at least, "exercise thyself to have a conscience void of offence toward God, and toward men."
-少なくとも、この点では、「神に対しまた人に対して、良心に責められることのないように、常に努め」なさい（使徒二四・一六）。
+少なくとも、この点では、「神に対しまた人に対して、良心に責められることのないように」努めなさい（使徒二四・一六）。
 
 Secondly. Let not thy righteousness fall short of theirs with regard to the ordinances of God.
 第二に、神の定めについて、あなたの義が彼らの義に劣らないようにしなさい。
@@ -714,7 +715,7 @@ Be merciful to the uttermost of thy power. Why not, even as this Pharisee
 Now "make thyself friends," while the time is, "of the mammon of unrighteousness,"
 今、時のあるうちに、「不正の富を用いてでも、自分のために友だちをつく」りなさい（ルカ一六・九）。
 that when thou failest," when this earthly tabernacle is dissolved, "they may receive thee into everlasting habitations."
-そうすれば、あなたが絶えるとき、彼らはあなたを「永遠のすまいに迎えてくれる」でしょう（ルカ一六・九）。あなたが絶えるときとは、この「地上の幕屋がこわれる」ときのことです（第二コリント五・一）。
+そうすれば、あなたが絶えるとき、彼らはあなたを「永遠のすまいに迎えてくれる」でしょう（ルカ一六・九）。あなたが絶えるときとは、この地上の幕屋がこわれるときのことです（第二コリント五・一）。
 // 口語訳のルカ一六・九 は「富が無くなった場合」。英文の when thou failest（あなたが絶えるとき）は「」に入れずに訳した。
 
 13. But rest not here. Let thy "righteousness exceed the righteousness of the Scribes and Pharisees."
@@ -722,8 +723,8 @@ that when thou failest," when this earthly tabernacle is dissolved, "they may re
 Be not thou content to "keep the whole law, and offend in one point."
 「律法をことごとく守」りながら、「その一つの点にでも落ち度があ」る（ヤコブ二・一〇）、という状態で満足してはなりません。
 Hold thou fast all His commandments, and all "false ways do thou utterly abhor."
-神のすべての戒めを堅く守りなさい。そして、「すべての偽りの道を憎」みなさい（詩篇一一九・一二八）。
-// false ways do thou utterly abhor は祈祷書の詩篇一一九・一二八 の言い回し。口語訳とほぼ同じ意味なので、口語訳で引いた。
+神のすべての戒めを堅く守りなさい。そして、「すべての偽りの道を」心から「憎」みなさい（詩篇一一九・一二八）。
+// false ways do thou utterly abhor は祈祷書の詩篇一一九・一二八 の言い回し。口語訳とほぼ同じ意味なので、口語訳で引き、utterly だけ「」の外で補った。
 Do all the things whatsoever He hath commanded, and that with all thy might.
 神が命じられたことは、何でもすべて行いなさい。しかも、力をつくして行いなさい。
 Thou canst do all things through Christ strengthening thee; though without Him thou canst do nothing.
@@ -745,7 +746,8 @@ Be serious: Let the whole stream of thy thoughts, words, and works, be such as f
 Be meek: Let thy soul be filled with mildness, gentleness, patience, long-suffering toward all men;
 柔和でありなさい。あなたの魂を、すべての人に対する温和と優しさと忍耐と寛容で満たしなさい。
 at the same time that all which is in thee is athirst for God, the living God, longing to awake up after his likeness, and to be satisfied with it.
-それと同時に、あなたのうちにあるすべてのものが、「神を慕い、いける神を慕」ってかわくようにしなさい（詩篇四二・二）。目ざめる時、神の「みかたちを見て、満ち足りる」ことを（詩篇一七・一五）、切に願うようにしなさい。
+それと同時に、あなたのうちにあるすべてのものが、神を、いける神を慕ってかわくようにしなさい（詩篇四二・二）。神のみかたちに似た者として目ざめ、それに満ち足りることを、切に願うようにしなさい。
+// awake up after his likeness, and to be satisfied with it は祈祷書の詩篇一七・一五 の言い回し。口語訳は「目ざめる時、みかたちを見て、満ち足りる」で意味がずれるので、英文から訳し、出典を付けなかった。
 Be thou a lover of God, and of all mankind. In this spirit, do and suffer all things.
 神を愛し、すべての人を愛する者でありなさい。この心で、すべてのことを行い、すべてのことを忍びなさい。
 Thus "exceed the righteousness of the Scribes and Pharisees," and thou shalt be "called great in the kingdom of heaven."
