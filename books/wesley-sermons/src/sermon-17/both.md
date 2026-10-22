@@ -48,7 +48,7 @@ I design First, particularly to inquire, wherein this circumcision of the heart 
 私は、次のことをしようと思います。<br/>
 第一に、この心の割礼が何にあるかを、詳しく調べます。<br/>
 Secondly, to mention some reflections that naturally arise from such an inquiry.
-第二に、この探究から自然に生まれる反省を、いくつか述べます。<br/>
+第二に、この探究から自然に生まれる反省を、いくつか述べます。
 
 ## 【一】　心の割礼とは何か
 
@@ -97,11 +97,11 @@ He who knows himself, neither desires nor values the applause which he knows he 
 It is therefore "a very small thing with him, to be judged by man's judgment."
 ですから、彼は、「人間の裁判にかけられたりしても、なんら意に介し」ません（第一コリント四・三）。
 He has all reason to think, by comparing what it has said, either for or against him, with what he feels in his own breast, that the world, as well as the god of this world, was "a liar form the beginning."
-世が彼について言ってきたことを、彼に賛成することも反対することも、自分の胸のうちに感じていることと比べてみます。すると、彼には、こう考える十分な理由があります。この世の神と同じように（第二コリント四・四）、世もまた「初めから」「偽り者」だったのです（ヨハネ八・四四）。
+彼は、世が自分について言ってきたことを、有利なことも不利なことも、自分の胸のうちに感じていることと比べてみます。すると、彼には、こう考える十分な理由があります。この世の神と同じように（第二コリント四・四）、世もまた「初めから」「偽り者」だったのです（ヨハネ八・四四）。
 And even as to those who are not of the world;
 では、世のものでない人々に対しては、どうでしょうか（ヨハネ一七・一六）。
 thought he would choose, if it were the will of God, that they should account of him as of one desirous to be found a faithful steward of his Lord's goods,
-神のみこころなら、彼は、その人々にこう思ってもらいたいと願うかもしれません。この人は、主人の財産を任された忠実な管理人と認められたいと願っている、と。
+神のみこころなら、彼は、その人々にこう思ってもらいたいと願うでしょう。この人は、主人の財産を任された忠実な管理人と認められたいと願っている、と。
 if haply this might be a means of enabling him to be of more use to his fellow-servants,
 そう思ってもらえれば、仲間の僕たちに、もっと役に立てるようになるかもしれないからです。
 yet as this is the one end of his wishing for their approbation, so he does not at all rest upon it:
@@ -155,7 +155,7 @@ a divine evidence or conviction of his love, his free, unmerited love to me a si
 a sure confidence in his pardoning mercy, wrought in us by the Holy Ghost;
 また、キリストの赦しのあわれみに対する確かな信頼です。この信頼は、聖霊が私たちのうちに造り出してくださるものです。
 a confidence, whereby every true believer is enabled to bear witness, "I know that my Redeemer liveth," that I have an "Advocate with the Father," and that "Jesus Christ the righteous" is my Lord, and "the propitiation for my sins," --
-この信頼によって、まことの信者はみな、こうあかしすることができます。「わたしは知る、わたしをあがなう者は生きておられる」（ヨブ一九・二五）。私には、「父のみもとには」「助け主」がおられます。「義なるイエス・キリスト」が私の主であり、私の罪のための「あがないの供え物」です（第一ヨハネ二・一〜二）。
+この信頼によって、まことの信者はみな、こうあかしすることができます。「わたしは知る、わたしをあがなう者は生きておられます」（ヨブ一九・二五）。私には、「父のみもとには」「助け主」がおられます。「義なるイエス・キリスト」が私の主であり、私の罪のための「あがないの供え物」です（第一ヨハネ二・一〜二）。
 I know he hath "loved me, and given himself for me," -- He hath reconciled me, even me, to God; and I "have redemption through his blood, even the forgiveness of sins."
 私は知っています。キリストは「わたしを愛し、わたしのためにご自身をささげられ」ました（ガラテヤ二・二〇）。キリストは私を、この私をさえ、神と和解させてくださいました（第二コリント五・一八）。私は、「その血によるあがない、すなわち、罪過のゆるしを受け」ているのです（エペソ一・七）。
 
@@ -188,7 +188,7 @@ By this anchor a Christian is kept steady in the midst of the waves of this trou
 He is neither discouraged by the misconceived severity of his Lord, nor does He despise the riches of his goodness."
 彼は、主がきびしい方だと思い違いをして落胆することもなく、主の慈愛の富を軽んじることもありません（ローマ二・四）。
 He neither apprehends the difficulties of the race set before him to be greater than he has strength to conquer, nor expects there to be so little as to yield in the conquest, till he has put forth all strength.
-彼は、自分の前に置かれた競走の困難を、自分の力で打ち勝てないほど大きいとは考えません。また、自分が力を出しきる前に屈してしまうほど、その困難が小さいとも思いません。
+彼は、自分の前に置かれた競走の困難を、自分の力で打ち勝てないほど大きいとは考えません。また、自分が力を出しきらないうちに崩れてしまうほど、その困難が小さいとも思いません。
 The experience he already has in the Christian warfare, as it assures him his "labor is not in vain," if "whatever his findeth to do, he doeth it with his might;"
 彼がクリスチャンの戦いの中ですでに得た経験は、彼に確信させます。自分の「手のなしうる事」を「力をつくして」行うなら（伝道九・一〇）、自分の「労苦がむだになることはない」と（第一コリント一五・五八）。
 so it forbids his entertaining so vain a thought, as that he can otherwise gain any advantage, as that any virtue can be shown, any praise attained, by faint hearts and feeble hands;
@@ -214,9 +214,9 @@ and that holiness becometh that house for ever, where the Spirit of holiness vou
 聖なる霊が宿ってくださる家には、聖なることがとこしえまでもふさわしいのです（詩篇九三・五）。
 
 11. Yet lackest thou one thing, whosoever thou art, that to a deep humility, and a steadfast faith, hast joined a lively hope, and thereby in a good measure cleansed thy heart from its inbred pollution.
-（一一）　あなたがだれであっても、深い謙遜と揺るがない信仰とに、生き生きとした希望を加えたとします。そして、それによって、生れつきの汚れから心をかなり清めたとします。けれども、あなたのする事が、まだ一つ残っています（ルカ一八・二二）。
+（一一）　あなたがだれであっても、深い謙遜と揺るがない信仰とに、生き生きとした希望を加えたとします。そして、それによって、生れつきの汚れから心をかなり清めたとします。けれども、あなたのすることが、まだ一つ残っています（ルカ一八・二二）。
 If thou wilt be perfect, add to all these, charity; add love, and thou hast the circumcision of the heart "Love is the fulfilling of the law, the end of the commandment."
-もしあなたが完全になりたいと思うなら（マタイ一九・二一）、これらすべてに愛を加えなさい。そうです、愛を加えなさい。そうすれば、心の割礼を受けたことになります。「愛は律法を完成するもの」です（ローマ一三・一〇）。愛は、命令が「目標としている」ものです（第一テモテ一・五）。
+もしあなたが完全になりたいと思うなら（マタイ一九・二一）、これらすべてに愛を加えなさい。そうです、愛を加えなさい。そうすれば、心の割礼を受けたことになります。「愛は律法を完成するもの」です（ローマ一三・一〇）。愛は、戒めが「目標としている」ものです（第一テモテ一・五）。
 Very excellent things are spoken of love; it is the essence, the spirit, the life of all virtue.
 愛については、まことにすばらしいことが語られています。愛は、あらゆる徳の本質であり、精神であり、いのちです。
 It is not only the first and great command, but it is all the commandments in one.
@@ -233,7 +233,7 @@ The royal law of heaven and earth is this, "Thou shalt love the Lord thy God wit
 Nor yet does it forbid us (as some have strangely imagined) to take pleasure in any thing but God.
 また、神のほかのものに喜びを見いだすことを禁じているのでもありません（ある人々は、奇妙にもそう考えてきましたが）。
 To suppose this, is to suppose the Fountain of holiness is directly the author of sin;
-そう考えるのは、聖性の泉である方を、まっすぐ罪の作者とすることです。
+そう考えるのは、聖性の泉である方を、直接に罪の張本人とすることです。
 since he has inseparably annexed pleasure to the use of those creatures which are necessary to sustain the life he has given us.
 神は、ご自分が与えてくださったいのちを保つには、被造物を用いる必要があるようにされました。そして、それを用いることに、喜びを切り離せないものとして結びつけておられるからです。
 This, therefore, can never be the meaning of his command.
@@ -241,7 +241,7 @@ This, therefore, can never be the meaning of his command.
 What the real sense of it is, both our blessed Lord and his Apostles tell us too frequently, and too plainly, to be misunderstood.
 その本当の意味は、私たちの祝福された主も、その使徒たちも、たびたび、はっきりと語っておられます。誤解しようがないほどです。
 They all with one mouth bear witness, that the true meaning of those several declarations, "The Lord thy God is one Lord;" "Thou shalt have no other Gods but me;" "Thou shalt love the Lord thy God with all thy strength" "Thou shalt cleave unto him;" "The desire of thy soul shall be to His name;" --
-主も使徒たちもみな、口をそろえてあかししています。次のいくつかの宣言があります。あなたの神、「主は唯一の主です」（申命記六・四）。「あなたはわたしのほかに、なにものをも神としてはなりません」（出エジプト二〇・三）。「力をつくして、主なるあなたの神を愛」しなさい（マルコ一二・三〇）。「主につき従わなければなりません」（申命記三〇・二〇）。あなたの「魂の慕うもの」は、主の「名」です（イザヤ二六・八）。
+主も使徒たちもみな、口をそろえてあかししています。次のいくつかの宣言があります。あなたの神、「主は唯一の主です」（申命記六・四）。「あなたはわたしのほかに、なにものをも神としてはなりません」（出エジプト二〇・三）。「力をつくして、主なるあなたの神を愛」しなさい（マルコ一二・三〇）。「彼につき従わなければなりません」（申命記一三・四）。あなたの「魂の慕うもの」は、主の「名」です（イザヤ二六・八）。
 is no other than this: The one perfect Good shall be your one ultimate end.
 これらの宣言の本当の意味は、ほかでもなく、こうだというのです。ただ一つの完全な善を、あなたがたのただ一つの究極の目的としなさい。
 One thing shall ye desire for its own sake, -- the fruition of Him that is All in All.
@@ -261,7 +261,7 @@ But in every step you take, be this the glorious point that terminates your view
 Let every affection, and thought, and word, and work, be subordinate to this.
 すべての情愛、思い、言葉、行いを、これに従わせなさい。
 Whatever ye desire or fear, whatever ye seek or shun, whatever ye think, speak, or do, be it in order to your happiness in God, the sole End, us well as Source, of your being.
-何を願い、何を恐れ、何を求め、何を避けるにしても、神のうちにある幸いのためにしなさい。何を思い、語り、行うにしても、そうしなさい。神こそ、あなたがたの存在のただ一つの源であり、ただ一つの目的なのです。
+何を願い、何を恐れ、何を求め、何を避けるにしても、神のうちにある幸いのためにしなさい。何を思い、語り、行うにしても、そうしなさい。神こそ、あなたがたの存在の源であり、またただ一つの目的なのです。
 
 13. Have no end, to ultimate end, but God.
 （一三）　神のほかに、どんな目的も、どんな究極の目的も持ってはなりません。
@@ -272,7 +272,7 @@ And if thine eye be singly fixed on this one thing, "thy whole body shall be ful
 Thus St. Paul: "This one thing I do; I press toward the mark, for the prize of the high calling in Christ Jesus."
 パウロも、こう言います。「ただこの一事を努めて」います（ピリピ三・一三）。「目標を目ざして走り、キリスト・イエスにおいて上に召してくださる」、その「賞与を得ようと努めて」いるのです（ピリピ三・一四）。
 Thus St. James: "Cleanse your hands, ye sinners, and purify your hearts, ye double-minded."
-ヤコブも、こう言います。「罪人どもよ、手をきよめよ。二心の者どもよ、心を清くせよ」（ヤコブ四・八）。
+ヤコブも、こう言います。「罪人どもよ、手をきよめよ。二心の者どもよ、心を清く」しなさい（ヤコブ四・八）。
 Thus St. John: "love not the world, neither the things that are in the world.
 ヨハネも、こう言います。「世と世にあるものとを、愛してはいけません」（第一ヨハネ二・一五）。
 For all that is in the world, the lust of the flesh, the lust of the eye, and the pride of life, is not of the Father, but is of the world."
@@ -327,9 +327,9 @@ and governs all his desires, designs, and thoughts, all his actions and conversa
 3. It were to be wished, that they were better acquainted with this faith, who employ much of their time and pains in laying another foundation;
 （三）　別の土台をすえることに、多くの時間と労力を費やしている人々がいます。その人々が、この信仰をもっとよく知ってくれればよいのですが。
 in grounding religion on the eternal fitness of things on the intrinsic excellence of virtue, and the beauty of actions flowing from it;
-彼らは、宗教を、事物の永遠の適合性の上に据えます。徳そのものの優秀さと、徳から流れ出る行いの美しさの上に据えます。
+彼らは、宗教を、事物の永遠の適合性の上にすえます。徳そのものの優秀さと、徳から流れ出る行いの美しさの上にすえます。
 on the reasons as they term them, of good and evil, and the relations of beings to each other.
-彼らの言う善悪の根拠や、存在するものどうしの関係の上に据えるのです。
+彼らの言う善悪の根拠や、存在するものどうしの関係の上にすえるのです。
 Either these accounts of the grounds of Christian duty coincide with the scriptural, or not.
 クリスチャンの義務の根拠についてのこうした説明は、聖書の説明と一致するか、しないか、どちらかです。
 If they do, why are well meaning men perplexed, and drawn from the weightier matters of the law, by a cloud of terms, whereby the easiest truths are explained into obscurity
@@ -348,7 +348,7 @@ though, if he were, God, not we, hath pronounced his sentence: "Let him be accur
 He alone can quicken those Who are dead unto God, can breathe into them the breath of Christian life.
 神に対して死んでいる者を生かすことができるのは、キリストの御霊だけです。彼らに、クリスチャンのいのちの息を吹きいれることができるのも、御霊だけです（創世記二・七）。
 and so prevent, accompany, and follow them with his grace, as to bring their good desires to good effect.
-そして、御霊だけが、恵みによって彼らに先立ち、彼らに伴い、彼らのあとに従うことがおできになります。そうして、彼らの良い願いを良い結果に至らせてくださるのです。
+そして、御霊だけが、恵みによって彼らに先立ち、彼らに伴い、彼らのあとに続くことがおできになります。そうして、彼らの良い願いを良い結果に至らせてくださるのです。
 // prevent … and follow と bring their good desires to good effect は、祈祷書の特祷（三位一体後第十七主日、復活日）の言い回しによる。
 And, as many as are thus led by the Spirit of God, they are the sons of God."
 このように「すべて神の御霊に導かれている者は、すなわち、神の子」なのです（ローマ八・一四）。
@@ -436,7 +436,7 @@ Other sacrifices from us he would not; but the living sacrifice of the heart he 
 Let it be continual offered up to God through Christ, in flames of holy love.
 それを、聖なる愛の炎の中で、キリストを通して、絶えず神にささげなさい。
 And let no creature be suffered to share with him: For he is a jealous God.
-どんな被造物にも、神と分け合うことを許してはなりません。神は、ねたむ神だからです（出エジプト二〇・五）。
+どんな被造物にも、心を神と分け合うことを許してはなりません。神は、ねたむ神だからです（出エジプト二〇・五）。
 His throne will he not divide with another: He will reign without a rival.
 神は、ご自分の王座をほかのものと分け合うことはなさいません。競う者なしに治められるのです。
 Be no design, no desire admitted there, but what has Him for its ultimate object.
@@ -446,7 +446,7 @@ This is the way where in those children of God once walked, who, being dead, sti
 Desire not to live, but to praise his name: Let all your thoughts, words, and works, tend to his glory.
 「神の御名をほめたたえるためでなければ、生きることを願ってはなりません。思いも言葉もわざも、すべて神の栄光に向けなさい。
 Set your heart firm on him, and on other things only as they are in and from him.
-心をしっかりと神に据えなさい。ほかのものには、それが神のうちにあり、神から出ているかぎりで、心を向けなさい。
+心をしっかりと神にすえなさい。ほかのものには、それが神のうちにあり、神から出ているかぎりで、心を向けなさい。
 Let your soul be filled with so entire a love of him, that you may love nothing but for his sake."
 魂を、神へのまったき愛で満たしなさい。神のためでなければ、何ものも愛さないほどにです」。
 "Have a pure intention of heart, a steadfast regard to his glory in all your actions."
