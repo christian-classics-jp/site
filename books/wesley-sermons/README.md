@@ -13,7 +13,7 @@
 + [x] Sermon 3. Awake, Thou That Sleepest
 + [x] Sermon 4. Scriptural Christianity
 + [x] Sermon 5. Justification By Faith
-+ [ ] Sermon 6. The Righteousness Of Faith
++ [x] Sermon 6. The Righteousness Of Faith
 + [ ] Sermon 7. The Way To The Kingdom
 + [ ] Sermon 8. The First Fruits Of The Spirit
 + [ ] Sermon 9. The Spirit Of Bondage And Of Adoption
