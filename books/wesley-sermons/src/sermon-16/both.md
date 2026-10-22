@@ -188,7 +188,7 @@ or that there is a sort of merit in using them, which will surely move God to gi
 6. So little do they understand that great foundation of the whole Christian building, "By grace are ye saved:"
 （六）　彼らは、キリスト教の建物全体のあの大きな土台を、ほとんど理解していないのです。あなたがたは「恵みにより」救われている、という土台です（エペソ二・八）。
 Ye are saved from your sins, from the guilt and power thereof, ye are restored to the favour and image of God, not for any works, merits, or deservings of yours, but by the free grace, the mere mercy of God, through the merits of his well-beloved Son:
-あなたがたは、罪から、すなわち罪の罪責と力とから救われています。神の恵みとかたちとを回復されています。それは、あなたがたのわざや功績や値打ちのためではありません。神の価なしの恵み、ただ神のあわれみにより、神の愛する御子の功績によるのです。
+あなたがたは、罪から、すなわち罪の罪責と力とから救われています。神の恵みのうちに、また神のかたちに、回復されています。それは、あなたがたのわざや功績や値打ちのためではありません。神の価なしの恵み、ただ神のあわれみにより、神の愛する御子の功績によるのです。
 Ye are thus saved, not by any power, wisdom, or strength, which is in you, or in any other creature;
 あなたがたがこのように救われているのは、あなたがたのうちにある力や知恵や強さによるのではありません。ほかの被造物のうちにあるものによるのでもありません。
 but merely through the grace or power of the Holy Ghost, which worketh all in all.
@@ -197,7 +197,7 @@ but merely through the grace or power of the Holy Ghost, which worketh all in al
 7. But the main question remains: "We know this salvation is the gift and the work of God; but how (may one say who is convinced he hath it not) may I attain thereto"
 （七）　けれども、肝心の問いが残っています。自分はまだ救いを持っていないと悟った人は、こう言うかもしれません。「この救いが神の賜物であり、神のわざであることは、わかっている。けれども、どうしたら私はそこに達することができるのか」。
 If you say, "Believe, and thou shalt be saved!" he answers, "True; but how shall I believe"
-あなたが、「信じなさい。そうしたら、あなたも救われます」と言えば（使徒一六・三一）、その人は答えます。「そのとおりだ。けれども、どうしたら信じられるのか」。
+あなたが、「信じなさい。そうしたら」、あなたは「救われます」と言えば（使徒一六・三一）、その人は答えます。「そのとおりだ。けれども、どうしたら信じられるのか」。
 You reply, "Wait upon God."
 あなたは答えます。「神を待ち望みなさい」。
 "Well; but how am I to wait In the means of grace, or out of them Am I to wait for the grace of God which bringeth salvation, by using these means, or by laying them aside"
@@ -250,7 +250,7 @@ that upon asking they should receive the Holy Spirit, from him whose mercy is ov
 "And he said unto them," whom he had just been teaching how to pray, "Which of you shall have a friend, and shall go unto him at midnight, and shall say unto him, Friend, lend me three loaves: And he from within shall answer, Trouble me not; I cannot rise and give thee. I say unto you, though he will not rise and give him, because he is his friend, yet because of his importunity, he will rise, and give him as many as he needeth. And I say unto you, Ask, and it shall be given you." (Luke 11:5, 7-9.)
 主は、祈り方を教えたばかりの「彼らに言われ」ました。「あなたがたのうちのだれかに、友人があるとして、その人のところへ真夜中に行き、『友よ、パンを三つ貸してください』と言った場合、彼は内から、『面倒をかけないでくれ。いま起きて何もあげるわけにはいかない』と言うでしょう。しかし、よく聞きなさい、友人だからというのでは起きて与えないが、しきりに願うので、起き上がって必要なものを出してくれるでしょう。そこでわたしはあなたがたに言います。求めよ、そうすれば、与えられるでしょう」（ルカ一一・五、七〜九）。
 "Though he will not give him, because he is his friend, yet because of his importunity he will rise and give him as many as he needeth."
-「友人だからというのでは起きて与えないが、しきりに願うので、起き上がって必要なものを出してくれるでしょう」（ルカ一一・八）。
+「友人だからというのでは」「与えないが、しきりに願うので、起き上がって必要なものを出してくれるでしょう」（ルカ一一・八）。
 How could our blessed Lord more plainly declare, that we may receive of God, by this means, by importunately asking, what otherwise we should not receive at all
 私たちの祝福された主は、これ以上はっきりと宣言することがおできになったでしょうか。この手段によって、すなわちしきりに願い求めることによって、ほかの方法ではまったく受けられないものを、神から受けることができるのです。
 
@@ -267,7 +267,7 @@ Because she continues to ask, because she will take no denial, therefore I will 
 // 口語訳のルカ一八・七の後半「長い間そのままにしておかれることがあろうか」は、英文が引いていないので除き、文末を整えた。
 
 5. A direction, equally full and express, to wait for the blessings of God in private prayer, together with a positive promise, that, by this means, we shall obtain the request of our lips, he hath given us in those well-known words:
-（五）　ひそかな祈りの中で神の祝福を待つようにという、同じく十分ではっきりとした指示を、主は、あのよく知られた言葉で与えておられます。この手段によって、くちびるの求めがかなえられるという（詩篇二一・二）、確かな約束も一緒に与えておられます。
+（五）　ひそかな祈りの中で神の祝福を待つように、という指示もあります。同じく十分で、はっきりとした指示です。主は、それを、あのよく知られた言葉で与えておられます。この手段によって、くちびるの求めがかなえられるという（詩篇二一・二）、確かな約束も一緒に与えておられます。
 "Enter into thy closet, and, when thou hast shut thy door, pray to thy Father which is in secret; and thy Father, which seeth in secret, shall reward thee openly." (Matt. 6:6.)
 「自分のへやにはいり、戸を閉じて、隠れた所においでになるあなたの父に祈りなさい。すると、隠れた事を見ておられるあなたの父は」、公然と「報いてくださる」でしょう（マタイ六・六）。
 // 欽定訳のマタイ六・六 openly は、口語訳にない（写本の違い）。英文に合わせて訳し、「」の外に置いた。
@@ -275,10 +275,10 @@ Because she continues to ask, because she will take no denial, therefore I will 
 6. If it be possible for any direction to be more clear, it is that which God hath given us by the Apostle, with regard to prayer of every kind, public or private, and the blessing annexed thereto:
 （六）　これ以上はっきりした指示がありうるとすれば、それは、神が使徒を通して与えておられる指示です。公の祈りも、ひそかな祈りも含めて、あらゆる種類の祈りと、それに伴う祝福とについての指示です。
 "If any of you lack wisdom, let him ask of God, that giveth to all men liberally," (if they ask; otherwise "ye have not, because ye ask not," (James 4:2,) "and upbraideth not; and it shall be given him." (James 1:5).
-「あなたがたのうち、知恵に不足している者があれば、その人は、とがめもせずに惜しみなくすべての人に与える神に」（求める人に、です。求めなければ、「求めないから得られない」のです（ヤコブ四・二））、「願い求めるがよい。そうすれば、与えられるでしょう」（ヤコブ一・五）。
+「あなたがたのうち、知恵に不足している者があれば、その人は、とがめもせずに惜しみなくすべての人に与える神に」、「願い求めるがよい。そうすれば、与えられるでしょう」（ヤコブ一・五）。神が与えてくださるのは、求める人にです。求めなければ、「求めないから得られない」のです（ヤコブ四・二）。
 
 If it be objected, "But this is no direction to unbelievers; to them who know not the pardoning grace of God: For the Apostle adds, `But let him ask in faith;' otherwise, `let him not think that he shall receive any thing of the Lord:'"
-もし、こう反論されるとします。「けれども、これは、信じていない人々、神の赦しの恵みを知らない人々への指示ではない。使徒は、『ただ、信仰をもって願い求めなさい』と付け加えているからだ。そうでなければ、『主から何かをいただけるもののように思うべきではない』とも言っている」（ヤコブ一・六〜七）。
+もし、こう反論されるとします。「けれども、これは、信じていない人々、神の赦しの恵みを知らない人々への指示ではない。使徒は、『ただ、信仰をもって願い求めなさい』と付け加えているからだ（ヤコブ一・六）。そうでなければ、『主から何かをいただけるもののように思うべきではない』とも言っている（ヤコブ一・七）」。
 I answer, The meaning of the word faith, in this place, is fixed by the Apostle himself, as if it were on purpose to obviate this objection, in the following: "Let him ask in faith, nothing wavering," nothing doubting, mhden diakrinomenos.
 私は答えます。この箇所の信仰という言葉の意味は、使徒自身が、まるでこの反論を封じるためであるかのように、続く言葉で定めています。「疑わないで、信仰をもって願い求めなさい」（ヤコブ一・六）。少しも疑わないで、ということです。原文ではメーデン・ディアクリノメノス（μηδὲν διακρινόμενος）です。
 // 英文の mhden diakrinomenos は、ギリシャ語 μηδὲν διακρινόμενος の転写。欽定訳 nothing wavering を、ウェスレーは nothing doubting と言い換えている。口語訳は初めから「疑わないで」。
@@ -288,7 +288,7 @@ Not doubting but God heareth his prayer, and will fulfil the desire of his heart
 The gross, blasphemous absurdity of supposing faith, in this place, to be taken in the full Christian meaning, appears hence:
 この箇所の信仰を、クリスチャンの十全な意味でとるなら、それは、ひどく冒涜的な、ばかげた考えになります。そのことは、次のことからわかります。
 It is supposing the Holy Ghost to direct a man who knows he has not faith, (which is here termed wisdom,) to ask it of God, with a positive promise that "it shall be given him;"
-そう考えるなら、聖霊は、自分には信仰（ここでは知恵と呼ばれています）がないと知っている人に、それを神に求めるように指示されたことになります。しかも、「そうすれば、与えられる」と確かに約束されたことになります（ヤコブ一・五）。
+そう考えるなら、聖霊は、ある人に、それを神に求めるように指示されたことになります。その人は、自分には信仰（ここでは知恵と呼ばれています）がないと知っているのです。しかも、「そうすれば、与えられる」と確かに約束されたことになります（ヤコブ一・五）。
 and then immediately to subjoin, that it shall not be given him, unless he have it before he asks for it! But who can bear such a supposition
 そしてすぐに、求める前にそれを持っていなければ与えられない、と付け加えられたことになるのです！　けれども、だれがそんな考えに耐えられるでしょうか。
 From this scripture, therefore, as well as those cited above, we must infer, that all who desire the grace of God are to wait for it in the way of prayer.
@@ -311,15 +311,15 @@ I desire those who urge it, to let us know how a command can be more clearly exp
 そう言い張る人々に、教えてもらいたいものです。エレウナテ・タス・グラファス（Ἐρευνᾶτε τὰς γραφάς）という言葉よりもはっきりと命令を言い表すことが、どうしてできるでしょうか。
 // 英文の Ereunate tas grajas は、ギリシャ語 Ἐρευνᾶτε τὰς γραφάς（聖書を調べなさい）の転写。
 It is as peremptory as so many words can make it.
-これは、これだけの語数でできるかぎり、断固とした命令です。
+これは、これほどの語数で表せるかぎり、最も断固とした命令です。
 
 And what a blessing from God attends the use of this means, appears from what is recorded concerning the Bereans;
 また、この手段を用いることに、神からどれほどの祝福が伴うかは、ベレヤの人々について記されていることからわかります。
 who, after hearing St. Paul, "searched the Scriptures daily, whether those things were so. Therefore many of them believed;" -- found the grace of God, in the way which he had ordained. (Acts 17:11, 12.)
-彼らは、パウロの話を聞いたあと、「果してそのとおりかどうかを知ろうとして、日々聖書を調べて」いました。「そういうわけで、彼らのうちの多くの者が信者になった」のです。神が定められた道で、神の恵みを見いだしたのです（使徒一七・一一〜一二）。
+彼らは、パウロの話を聞いたあと、「果してそのとおりかどうかを知ろうとして、日々聖書を調べて」いました。「そういうわけで、彼らのうちの多くの者が信者になった」のです（使徒一七・一一〜一二）。彼らは、神が定められた道で、神の恵みを見いだしたのです。
 
 It is probable, indeed, that in some of those who had "received the word with all readiness of mind," "faith came," as the same Apostle speaks, "by hearing," and was only confirmed by reading the Scriptures:
-確かに、「心から教を受けいれ」た人々の中には（使徒一七・一一）、聞くことによって信仰が与えられた人もいたでしょう。その人々にとって、聖書を読むことは、信仰を確かにしただけだったのでしょう。同じ使徒が言うように、「信仰は聞くことによる」からです（ローマ一〇・一七）。
+確かに、「心から教を受けいれ」た人々の中には（使徒一七・一一）、聞くことによって信仰が与えられた人もいたでしょう。同じ使徒が「信仰は聞くことによる」と言うとおりです（ローマ一〇・一七）。その人々にとって、聖書を読むことは、信仰を確かにしただけだったのでしょう。
 But it was observed above, that under the general term of searching the Scriptures, both hearing, reading, and meditating are contained.
 けれども、先に述べたように、聖書を調べるという一般的な言葉には、聞くことも、読むことも、思いめぐらすことも含まれているのです。
 
@@ -328,14 +328,14 @@ But it was observed above, that under the general term of searching the Scriptur
 "From a child thou hast known the Holy Scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus." (2 Tim. 3:15.)
 「幼い時から、聖書に親しみ、それが、キリスト・イエスに対する信仰によって救に至る知恵を、あなたに与えうる書物であることを知って」います（第二テモテ三・一五）。
 The same truth (namely, that this is the great means God has ordained for conveying his manifold grace to man) is delivered, in the fullest manner that can be conceived, in the words which immediately follow:
-同じ真理が（すなわち、これが、神の豊かな恵みを人に伝えるために神が定められた大きな手段であるということが）、すぐあとに続く言葉で、考えうるかぎり最も十分に述べられています。
+同じ真理が、すぐあとに続く言葉で、考えうるかぎり最も十分に述べられています。すなわち、これこそ、神が豊かな恵みを人に伝えるために定められた大きな手段だ、という真理です。
 "All Scripture is given by inspiration of God;" consequently, all Scripture is infallibly true;
 「聖書は、すべて神の霊感を受けて書かれたもの」です。したがって、聖書はすべて、誤りなく真実です。
 "and is profitable for doctrine, for reproof, for correction, for instruction in righteousness;" to the end "that the man of God may be perfect, throughly furnished unto all good works." (2 Tim. 3:16, 17.)
 そして、聖書は、「人を教え、戒め、正しくし、義に導くのに有益」です。それは、「神の人が、あらゆる良いわざに対して十分な準備ができて、完全にととのえられた者になる」ためです（第二テモテ三・一六〜一七）。
 
 9. It should be observed, that this is spoken primarily and directly of the Scriptures which Timothy had known from a child;
-（九）　注意すべきことがあります。これは、第一に、また直接には、テモテが幼い時から知っていた聖書について言われているのです。
+（九）　注意すべきことがあります。これは、第一に、また直接には、テモテが幼いときから知っていた聖書について言われているのです。
 which must have been those of the Old Testament, for the New was not then wrote.
 それは旧約聖書だったはずです。新約聖書は、そのころまだ書かれていなかったからです。
 How far then was St. Paul (though he was "not a whit behind the very chief of the Apostles," nor, therefore, I presume, behind any man now upon earth) from making light of the Old Testament! Behold this, lest ye one day "wonder and perish," ye who make so small account of one half of the oracles of God! Yea, and that half of which the Holy Ghost expressly declares, that it is "profitable," as a means ordained of God, for this very thing, "for doctrine, for reproof, for correction, for instruction in righteousness;" to the end, "the man of God may be perfect, throughly furnished unto all good works."
@@ -346,7 +346,7 @@ How far then was St. Paul (though he was "not a whit behind the very chief of th
 but also for those who are yet in darkness, seeking him whom they know not.
 まだやみの中にいて、知らない方を捜し求めている人々にとっても、有益なのです。
 Thus St. Peter, "We have also a more sure word of prophecy:" Literally, "And we have the prophetic word more sure;" kai ecomen bebaioteron ton projhtikon logon, confirmed by our being "eye-witnesses of his Majesty," and "hearing the voice which came from the excellent glory;"
-こうして、ペテロは言います。私たちには、もっと確かな預言の言葉もある、と。文字どおりに訳せば、「こうして、預言の言葉は、私たちにいっそう確実なものになりました」です。原文ではカイ・エコメン・ベバイオテロン・トン・プロフェーティコン・ロゴン（καὶ ἔχομεν βεβαιότερον τὸν προφητικὸν λόγον）です。私たちが「そのご威光の目撃者」となり（第二ペテロ一・一六）、「おごそかな栄光の中から」の「み声」を聞いたことによって（第二ペテロ一・一七〜一八）、確実なものになったのです。
+ペテロも、こう言います。私たちには、もっと確かな預言の言葉もある、と。文字どおりに訳せば、「こうして、預言の言葉は、私たちにいっそう確実なものになりました」です。原文ではカイ・エコメン・ベバイオテロン・トン・プロフェーティコン・ロゴン（καὶ ἔχομεν βεβαιότερον τὸν προφητικὸν λόγον）です。私たちが「そのご威光の目撃者」となり（第二ペテロ一・一六）、「おごそかな栄光の中から」の「み声」を聞いたことによって（第二ペテロ一・一七〜一八）、確実なものになったのです。
 // 英文の kai ecomen bebaioteron ton projhtikon logon は、ギリシャ語 καὶ ἔχομεν βεβαιότερον τὸν προφητικὸν λόγον の転写。最初の We have also a more sure word of prophecy は欽定訳で、口語訳と異なるので「」に入れなかった。ウェスレーの直訳は口語訳とほぼ同じなので、口語訳で引いた。
 unto which -- prophetic word; so he styles the Holy Scriptures -- "ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the Day-star arise in your hearts." (2 Peter 1:19.)
 この預言の言葉に（ペテロは聖書をこう呼んでいます）、「あなたがたも、夜が明け、明星がのぼって、あなたがたの心の中を照すまで」、「暗やみに輝くともしびとして」、「目をとめているがよい」のです（第二ペテロ一・一九）。
@@ -428,9 +428,9 @@ But what do you mean by "trusting in them" -- looking for the blessing of God th
 So I do.
 それなら、私はそうしています。
 And so I will, God being my helper, even to my life's end.
-そして、神に助けられて、生涯の終りまでそうするでしょう。
+そして、神に助けられて、生涯の終りまでそうします。
 By the grace of God I will thus trust in them, till the day of my death;
-神の恵みによって、私は死ぬ日まで、このように手段に頼るでしょう。
+神の恵みによって、私は死ぬ日まで、このように手段に頼り続けます。
 that is, I will believe, that whatever God hath promised, he is faithful also to perform.
 すなわち、神は約束されたことを何でも、真実に成就してくださると信じるのです。
 And seeing he hath promised to bless me in this way, I trust it shall be according to his word.
@@ -441,7 +441,7 @@ And seeing he hath promised to bless me in this way, I trust it shall be accordi
 Do you know the meaning of the expression you use What is seeking salvation by works
 あなたは、自分の使っているその言い方の意味がわかっているのですか。行いによって救いを求めるとは、何のことでしょうか。
 In the writings of St. Paul, it means, either seeking to be saved by observing the ritual works of the Mosaic law; or expecting salvation for the sake of our own works, by the merit of our own righteousness.
-パウロの書いたものでは、それは、次のどちらかを意味しています。モーセの律法の儀式のわざを守ることで救われようとすることか、自分のわざのゆえに、自分の義の功績によって救いを期待することかです。
+パウロの書いたものでは、それは次のどちらかを意味しています。一つは、モーセの律法の儀式のわざを守ることで、救われようとすることです。もう一つは、自分のわざのゆえに、自分の義の功績によって、救いを期待することです。
 But how is either of these implied in my waiting in the way God has ordained, and expecting that he will meet me there, because he has promised so to do
 けれども、私は、神の定められた道で待ち、神がそこで私に会ってくださると期待しているだけです。神がそうすると約束しておられるから、期待するのです。その中に、そのどちらが含まれているでしょうか。
 
@@ -450,7 +450,7 @@ I do expect that he will fulfil his word, that he will meet and bless me in this
 Yet not for the sake of any works which I have done, nor for the merit of my righteousness;
 けれども、それは、私がしたわざのためでも、私の義の功績のためでもありません。
 but merely through the merits, and sufferings, and love of his Son, in whom he is always well pleased.
-ただ、神の御子の功績と苦しみと愛によるのです。神は、この御子をいつも喜んでおられます（マタイ三・一七）。
+ただ、神の御子の功績と苦しみと愛によるのです。この御子は、いつも神の心にかなう方です（マタイ三・一七）。
 
 3. It has been vehemently objected, Thirdly, "that Christ is the only means of grace."
 （三）　第三に、「キリストこそ、ただ一つの恵みの手段だ」と、激しく反論されてきました。
@@ -522,7 +522,7 @@ And he said, Be not dismayed by reason of this great multitude. To-morrow go ye 
 Set yourselves: Stand ye still, and see the salvation of the Lord.
 進み出て、じっと立ち、主の救いを見なさい、とも言いました。
 And they rose early in the morning, and went forth. And when they began to sing and to praise, the Lord set ambushments against the children of Moab, Ammon, and mount Seir: -- and everyone helped to destroy another." (2 Chron. 20:2, &c.)
-「彼らは朝早く起きて出て行きました。そして彼らが歌をうたい、さんびし始めた時、主は伏兵を設け、アンモン、モアブ、セイル山の人々に向かわせられました。彼らもおのおの互に助けて滅ぼしあいました」（第二歴代二〇・二〜二三）。
+「彼らは朝早く起きて出て行きました。そして彼らが歌をうたい、さんびし始めた時、主は伏兵を設け、アンモン、モアブ、セイル山の人々に向かわせられました。おのおの互に助けて滅ぼしあいました」（第二歴代二〇・二〜二三）。
 // 第二歴代二〇・二〜二三の引用は、英文が省いた部分を口語訳からも除いた。
 
 Such was the salvation which the children of Judah saw.
@@ -553,7 +553,7 @@ And, in spite of all, that great truth must stand unshaken; -- that all who desi
 ## 【五】　手段を用いる順序と方法
 
 V. 1. But this being allowed, that all who desire the grace of God are to wait for it in the means he hath ordained; it may still be inquired, how those means should be used, both as to the order and the manner of using them.
-（一）　けれども、神の恵みを願う人はみな、神が定められた手段の中で恵みを待つべきだと認めたとしても、なお、こう問われるかもしれません。それらの手段は、用いる順序についても方法についても、どのように用いるべきなのか、と。
+（一）　けれども、神の恵みを願う人はみな、神が定められた手段の中で恵みを待つべきです。これを認めたとしても、なお、こう問われるかもしれません。それらの手段は、用いる順序についても方法についても、どのように用いるべきなのか、と。
 
 With regard to the former, we may observe, there is a kind of order, wherein God himself is generally pleased to use these means in bringing a sinner to salvation.
 前者について言えば、ある種の順序があることがわかります。神ご自身が、罪人を救いに導くときに、たいていこの順序でこうした手段を用いることをよしとされるのです。
@@ -688,7 +688,7 @@ You see, you know, you feel, God is all in all.
 Be abased. Sink down before him. Give him all the praise.
 へりくだりなさい。神の前にひれ伏しなさい。すべての誉れを神に帰しなさい。
 "Let God in all things be glorified through Christ Jesus". Let all your bones cry out," My song shall be always of the loving-kindness of the Lord: With my mouth will I ever be telling of thy truth, from one generation to another!"
-「すべてのことにおいてイエス・キリストによって、神があがめられる」ようにしなさい（第一ペテロ四・一一）。あなたの骨をことごとく叫ばせなさい（詩篇三五・一〇）。「私はとこしえに」主の「いつくしみを歌い、私の口をもってあなたのまことをよろずよに告げ知らせます」（詩篇八九・一）。
+「すべてのことにおいてイエス・キリストによって、神があがめられる」ようにしなさい（第一ペテロ四・一一）。あなたの骨に、ことごとく言わせなさい（詩篇三五・一〇）。「私はとこしえに」主の「いつくしみを歌い、私の口をもってあなたのまことをよろずよに告げ知らせます」（詩篇八九・一）。
 // 英文の詩篇八九・一は祈祷書の詩篇による。口語訳とほぼ同じ意味なので、口語訳で引いた。
 
 // Edited by Darin Million with corrections by Ryan Danker and George Lyons for the Wesley Center for Applied Theology.
