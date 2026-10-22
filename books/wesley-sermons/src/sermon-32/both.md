@@ -31,7 +31,7 @@ What shall be done if they point out, as the way to eternal life, what is in tru
 The instances of it are almost innumerable. We may find them in every age and nation.
 その例はほとんど数えきれません。どの時代にも、どの国民の中にも、それを見いだすことができます。
 But how terrible is this! -- when the ambassadors of God turn agents for the devil! -- when they who are commissioned to teach men the way to heaven do in fact teach them the way to hell! These are like the locusts of Egypt, "which eat up the residue that had escaped, that had remained after the hail."
-けれども、これは何と恐ろしいことでしょう！　神の使節が悪魔の手先になるのです！　人々に天国への道を教えるよう任じられた者たちが、実際には地獄への道を教えるのです！　この人々は、エジプトのいなごのようです。「雹を免れて、残されているものを食い尽」したいなごです（出エジプト一〇・五）。
+けれども、これは何と恐ろしいことでしょう！　神の使節が悪魔の手先になるのです！　人々に天国への道を教えるよう任じられた者たちが、実際には地獄への道を教えるのです！　この人々は、エジプトのいなごのようです。「雹を免れて、残されているものを食い尽」すいなごです（出エジプト一〇・五）。
 They devour even the residue of men that had escaped, that were not destroyed by ill example.
 彼らは、免れて残された人々、すなわち悪い模範によって滅ぼされなかった人々までも食い尽くすのです。
 It is not, therefore, without cause, that our wise and gracious Master so solemnly cautions us against them: "Beware," saith he, "of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves."
@@ -79,7 +79,7 @@ Now the way to heaven pointed out in the preceding sermon is the way of lowlines
 5. It matters not what they call that other way. They may call it faith; or good works; or faith and works; or repentance; or repentance, faith, and new obedience.
 （五）　彼らがその別の道を何と呼ぶかは問題ではありません。彼らはそれを信仰と呼ぶかもしれません。あるいは良きわざ、信仰とわざ、悔い改め、あるいは悔い改めと信仰と新しい服従と呼ぶかもしれません。
 All these are good words: But if, under these, or any other terms whatever, they teach men any way distinct from this, they are properly false prophets.
-これらはみな良い言葉です。けれども、これらの言葉で、あるいはほかのどんな言葉であれ、この道と異なる道を人々に教えるなら、彼らはまさしくにせ預言者です。
+これらはみな良い言葉です。けれども、これらの言葉であれ、ほかのどんな言葉であれ、この道と異なる道を人々に教えるなら、彼らはまさしくにせ預言者です。
 
 6. How much more do they fall under that condemnation, who speak evil of this good way; --
 （六）　まして、この良い道をそしる者は、どれほど、その罪の宣告を受けることでしょう。
@@ -98,7 +98,7 @@ These are no other than the first-born of Satan; the eldest sons of Apollyon, th
 These are far above the rank of ordinary cut-throats; for they murder the souls of men.
 彼らは、ありふれた人殺しよりもはるかに上の位にいます。人の魂を殺すからです。
 They are continually peopling the realms of night; and whenever they follow the poor souls whom they have destroyed, "hell shall be moved from beneath to meet them at their coming!"
-彼らは絶えず夜の国を人で満たしています。そして、彼らは、自分が滅ぼしたあわれな魂たちのあとを追って行きます。そのときには、「下の陰府は」彼らの「ために動いて」、彼らの「来るのを迎え」るでしょう（イザヤ一四・九）！
+彼らは絶えず夜の国を人で満たしています。そして、彼らが自分の滅ぼしたあわれな魂たちのあとを追って行くときには、いつでも、「下の陰府は」彼らの「ために動いて」、彼らの「来るのを迎え」るでしょう（イザヤ一四・九）！
 
 ## 【二】　にせ預言者が装う外見
 
@@ -145,7 +145,7 @@ They will make large professions of their good-will, of their concern for the da
 They should be very sorry to see one who means so well, hurried into any extreme, perplexed with strange and unintelligible notions, or deluded into enthusiasm.
 これほど善意のある人が何かの極端に走るのを見るのは、とても残念だ、と彼らは言います。奇妙で分かりにくい考えに混乱させられたり、惑わされて熱狂に陥ったりするのを見るのも、残念だと言うのです。
 Therefore it is that they advise you to keep still, in the plain middle way; and to beware of "being righteous overmuch," lest you should "destroy yourself."
-だからこそ、彼らはあなたに、平らな中道にじっととどまるよう勧めます。「義に過ぎ」ることのないように、それで「自分を滅ぼ」すことのないように、気をつけなさいと勧めるのです（伝道七・一六）。
+だからこそ、彼らはあなたに、平凡な中道にじっととどまるよう勧めます。「義に過ぎ」ることのないように、それで「自分を滅ぼ」すことのないように（伝道七・一六）、気をつけなさいと勧めるのです。
 
 ## 【三】　にせ預言者の本当の姿を知る方法
 
@@ -286,13 +286,13 @@ Hear with fear and trembling, lest you should be deceived, and given up, like th
 As they continually mingle truth and lies, how easily may you take in both together! Hear with fervent and continual prayer to Him who alone teacheth man wisdom.
 彼らは絶えず真理と偽りとを混ぜ合わせているのですから、あなたは両方を一緒に何とたやすく取り込んでしまうことでしょう！　人に知恵を教えるただひとりの方に、熱心に絶えず祈りながら聞きなさい。
 And see that you bring whatever you hear "to the law and to the testimony."
-そして、聞くことは何でも、「教とあかしと」に照らすようにしなさい（イザヤ八・二〇）。
+そして、聞くことは何でも、「教とあかしと」（イザヤ八・二〇）に照らすようにしなさい。
 Receive nothing untried, nothing till it is weighed in the balance of the sanctuary: Believe nothing they say, unless it is clearly confirmed by passages of holy writ.
 試していないものは何一つ受け入れてはなりません。聖所のはかりで量ってみるまでは、何も受け入れてはなりません。彼らの言うことは、聖書の言葉によってはっきり確かめられないかぎり、何も信じてはなりません。
 Wholly reject whatsoever differs therefrom, whatever is not confirmed thereby.
 聖書と異なるもの、聖書によって確かめられないものは、何であれすっかり退けなさい。
 And, in particular, reject, with the utmost abhorrence, whatsoever is described as the way of salvation, that is either different from, or short of, the way our Lord has marked out in the foregoing discourse.
-とりわけ、救いの道として説かれるものに注意しなさい。主が先立つ説教で示された道と異なるもの、あるいはそれに及ばないものは、何であれ、この上ない嫌悪をもって退けなさい。
+救いの道として説かれるもののうち、主が先立つ説教で示された道と異なるもの、それに及ばないものがあれば、とりわけそれを、この上ない嫌悪をもって退けなさい。
 
 10. I cannot conclude without addressing a few plain words to those of whom we have now been speaking.
 （一〇）　結ぶにあたって、今まで語ってきた人々に、飾りのない言葉を少し語らないわけにはいきません。
@@ -310,7 +310,7 @@ How long will ye teach the way of death, and call it the way of life How long wi
 Them that would "strive to enter in at the strait gate," ye call back into the broad way.
 「狭い戸口からはいるように努め」（ルカ一三・二四）ようとする人々を、あなたがたは広い道へ呼び戻します。
 Them that have scarce gone one step in the ways of God, you devilishly caution against going too far.
-神の道をまだ一歩も進んでいないような人々に、あなたがたは悪魔のように、行き過ぎないよう注意します。
+神の道をやっと一歩踏み出したばかりの人々に、あなたがたは悪魔のように、行き過ぎないよう注意します。
 Them that just begin to "hunger and thirst after righteousness," you warn not to "be righteous overmuch."
 やっと「義に飢えかわ」き（マタイ五・六）始めた人々に、あなたがたは「義に過ぎ」ないよう（伝道七・一六）警告します。
 Thus you cause them to stumble at the very threshold; yea, to fall and rise no more.
@@ -364,7 +364,7 @@ O take warning of Him in whose name ye speak, before the sentence he hath pronou
 Open them now before it is too late; before you are cast into outer darkness! Let not any temporal consideration weigh with you; for eternity is at stake.
 手遅れにならないうちに、外のやみ（マタイ八・一二）に投げ出されないうちに、今、目を開きなさい！　この世のどんな配慮にも、心を動かされてはなりません。永遠がかかっているのです。
 Ye have run before ye were sent. O go no farther! Do not persist to damn yourselves and them that hear you! You have no fruit of your labours. And why is this Even because the Lord is not with you.
-あなたがたは、つかわされないのに走ったのです（エレミヤ二三・二一）。ああ、もうこれ以上進んではなりません！　自分自身と、自分に聞く人々とを滅びに定めることを、続けてはなりません！　あなたがたの労苦には、何の実もありません。それはなぜでしょうか。ほかでもなく、主があなたがたと共におられないからです。
+あなたがたは、つかわされる前に走ったのです（エレミヤ二三・二一）。ああ、もうこれ以上進んではなりません！　自分自身と、自分に聞く人々とを滅びに定めることを、続けてはなりません！　あなたがたの労苦には、何の実もありません。それはなぜでしょうか。ほかでもなく、主があなたがたと共におられないからです。
 But can you go this warfare at your own cost It cannot be. Then humble yourselves before him.
 けれども、あなたがたは、自分で費用を出して、この戦いを続けることができるでしょうか（第一コリント九・七）。それはできません。それなら、主の前にへりくだりなさい。
 Cry unto him out of the dust, that he may first quicken thy soul; give thee the faith that worketh by love; that is lowly and meek, pure and merciful, zealous of good works, rejoicing in tribulation, in reproach, in distress, in persecution for righteousness' sake! So shall "the Spirit of glory and of Christ rest upon thee," and it shall appear that God hath sent thee.
