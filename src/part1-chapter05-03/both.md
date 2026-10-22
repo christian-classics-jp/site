@@ -23,7 +23,7 @@ HOPE. They also gave us a note of directions about the way, for our more sure fi
 
 すると、むちを持った者は言った。
 
-「それはへつらい者です。にせ使徒で、光の天使に擬装していたのです（ダニエル一一・三二、第二コリント一一・一三〜一四）」
+「それはへつらい者です。にせ使徒で、光の天使に擬装していたのです（箴言二九・五、ダニエル一一・三二、第二コリント一一・一三〜一四）」
 
 そして網を裂き、二人を外に出してやった。それから二人に言った。
 
@@ -39,12 +39,12 @@ HOPE. They also gave us a note of directions about the way, for our more sure fi
 
 二人は、読みませんでした、と答えた。なぜか、と輝く者は尋ねた。二人は、忘れていたのです、と言った。さらに輝く者は、羊飼いたちがへつらい者に気をつけるようにと言わなかったか、と尋ねた。二人は答えた。
 
-「言われました。でも、あの言葉巧みな人がそうだとは、思いもしなかったのです（ローマ一六・一七〜一八）」
+「言われました。でも、あの言葉巧みな人がそうだとは、思いもしなかったのです（ローマ一六・一八）」
 
 Then I saw in my dream that he commanded them to lie down; which, when they did, he chastised them sore, to teach them the good way wherein they should walk [Deut. 25:2]; and as he chastised them he said, "As many as I love, I rebuke and chasten; be zealous, therefore, and repent." [2 Chron. 6:26,27, Rev. 3:19] This done, he bid them go on their way, and take good heed to the other directions of the shepherds. So they thanked him for all his kindness, and went softly along the right way, singing--
-それから私が夢の中で見ていると、輝く者は二人に伏すように命じた。二人がそうすると、輝く者は二人を激しく懲らしめた。二人の歩むべき良い道を教えるためである（申命記二五・二、第二歴代六・二七）。懲らしめながら、輝く者は言った。
+それから私が夢の中で見ていると、輝く者は二人に伏すように命じた。二人がそうすると、輝く者は二人を激しく懲らしめた。二人の歩むべき良い道を教えるためである（申命記二五・二）。懲らしめながら、輝く者は言った。
 
-「すべてわたしの愛している者を、わたしはしかったり、懲らしめたりする。だから、熱心になって悔い改めなさい」（黙示録三・一九）
+「すべてわたしの愛している者を、わたしはしかったり、懲らしめたりする。だから、熱心になって悔い改めなさい」（第二歴代六・二六〜二七、黙示録三・一九）
 
 それが済むと、輝く者は二人に、道を進んで行くように命じた。また、羊飼いたちのほかの指示にもよく気をつけるようにと言った。二人は、輝く者の数々の親切に感謝した。そして、正しい道を静かに歩んで行きながら、こう歌った。
 
