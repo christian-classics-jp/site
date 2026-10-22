@@ -33,7 +33,7 @@ So St. John, "To them gave he power" (exousian, right or privilege, it might rat
 ヨハネも、こう言います。「その名を信じた人々には、彼は神の子となる力を与えた」のです（ヨハネ一・一二）。この「力」はエクスーシアン（ἐξουσίαν）で、むしろ権利、あるいは特権と訳してよいでしょう。
 // 英文の転写は exousian。
 which were born," when they believed, "not of blood, nor of the will of the flesh," not by natural generation, "nor of the will of man," like those children adopted by men, in whom no inward change is thereby wrought, "but of God." (John 1:12,13.)
-「それらの人は」、信じたときに、「血すじによらず、肉の欲によらず」生れました。自然の出生によったのではありません。「また、人の欲にもよらず」生れました。人に養子として迎えられた子供とは違うのです。そういう子供には、養子になっても、内側に何の変化も起りません。彼らは、「ただ神によって生れた」のです（ヨハネ一・一三）。
+「それらの人は」、信じたときに、「血すじによらず、肉の欲によらず」生れました。自然の出生によったのではありません。「また、人の欲にもよらず」生れました。人に養子として迎えられた子供とは違うのです。そういう子供には、養子になっても、内側に何の変化も起りません。信じた人々は、「ただ神によって生れた」のです（ヨハネ一・一三）。
 And again in his General Epistle, "Whosoever believeth that Jesus is the Christ is born of God." (1 John 5:1.)
 また、ヨハネは手紙の中でも、こう言います。「すべてイエスのキリストであることを信じる者は、神から生れた者です」（第一ヨハネ五・一）。
 
@@ -50,7 +50,7 @@ They, trembling, believe, both that Jesus is the Christ, and that all Scripture,
 It is not only an assent to divine truth, upon the testimony of God, or upon the evidence of miracles; for they also heard the words of his mouth, and knew him to be a faithful and true witness.
 また、それは、神のあかしや奇跡の証拠に基づいて、神の真理に同意することだけでもありません。悪霊どもも、キリストの口から出る言葉を聞き、キリストが忠実な、まことの証人であることを知っていたからです（黙示録三・一四）。
 They could not but receive the testimony he gave, both of himself, and of the Father which sent him.
-彼らは、キリストがご自身について、またご自分をつかわされた父についてされたあかしを、受けいれないわけにはいきませんでした。
+キリストは、ご自身について、またご自分をつかわされた父について、あかしをされました。彼らは、そのあかしを受けいれないわけにはいきませんでした。
 They saw likewise the mighty works which he did, and thence believed that he "came forth from God."
 また、キリストが行われた力あるわざを見て、そこから、キリストが「神からこられたかた」であると信じました（ヨハネ一六・三〇）。
 Yet, notwithstanding this faith, they are still "reserved in chains of darkness unto the judgment of the great day."
@@ -61,7 +61,7 @@ Yet, notwithstanding this faith, they are still "reserved in chains of darkness 
 The true, living, Christian faith, which whosoever hath, is born of God, is not only an assent, an act of the understanding; but a disposition, which God hath wrought in his heart;
 まことの、生きた、クリスチャンの信仰は、それを持つ人がだれでも神から生れている信仰です。この信仰は、同意、すなわち理解力の働きであるだけではありません。神がその人の心のうちに造り出された性向です。
 "a sure trust and confidence in God, that, through the merits of Christ, his sins are forgiven, and he reconciled to the favour of God."
-すなわち、「神に対する確かな信頼と確信です。キリストの功績によって自分の罪が赦され、神と和解して、その恵みを受けているという信頼と確信です」（説教集「人の救いについて」）。
+すなわち、「神に対する確かな信頼と確信です。キリストの功績によって自分の罪が赦され、神と和解して恵みを受けている、という確信です」（説教集「人の救いについて」）。
 // この段落の説教集からの三つの引用は、いずれも「人の救いについて」の文言とほぼ同じ。
 This implies, that a man first renounce himself;
 この信仰には、次のことが含まれています。まず、人が自分自身を捨てることです。
@@ -73,7 +73,7 @@ as one whose mouth is utterly stopped, and who is altogether "guilty before God.
 口をすっかりふさがれ、神の前にまったく罪ある者として来るのです（ローマ三・一九）。
 // 口語訳のローマ三・一九は「神のさばきに服する」。英文の guilty before God に合わせて訳し、「」に入れなかった。
 Such a sense of sin, (commonly called despair, by those who speak evil of the things they know not,) together with a full conviction, such as no words can express, that of Christ only cometh our salvation, and an earnest desire of that salvation, must precede a living faith, a trust in Him, who "for us paid our ransom by his death, and fulfilled the law of his life."
-このような罪の自覚は、自分が知りもしないことをそしる人々からは（ユダ一〇）、普通、絶望と呼ばれています。けれども、生きた信仰の前には、この自覚がなければなりません。また、救いはキリストからだけ来るという十分な確信がなければなりません。言葉では言い表せないほどの確信です。そして、その救いを切に願う心がなければなりません。生きた信仰とは、キリストに対する信頼です。キリストは、「私たちのために、ご自分の死によって身代金を払い、ご自分の生涯によって律法を成就された」方です（説教集「人の救いについて」）。
+このような罪の自覚は、自分が知りもしないことをそしる人々からは（ユダ一〇）、普通、絶望と呼ばれています。けれども、生きた信仰の前には、この自覚がなければなりません。また、救いはキリストからだけ来るという十分な確信がなければなりません。言葉では言い表せないほどの確信です。そして、その救いを切に願う心がなければなりません。生きた信仰とは、キリストに対する信頼です。キリストこそ、「私たちのために死によって身代金を払い、生涯によって律法を成就された」方です（説教集「人の救いについて」）。
 This faith then, whereby we are born of God, is "not only a belief of all the articles of our faith, but also a true confidence of the mercy of God, through our Lord Jesus Christ."
 ですから、私たちを神から生れさせるこの信仰は、「私たちの信仰箇条をすべて信じることだけではありません。私たちの主イエス・キリストを通して、神のあわれみに寄せる、まことの確信でもあるのです」（説教集「人の救いについて」）。
 
@@ -121,10 +121,10 @@ Beware, I beseech thee, lest God "add to thee all the plagues that are written t
 especially when the comment thou addest is such as quite swallows up the text:
 とりわけ、あなたが付け加える注釈が、本文をすっかりのみ込んでしまうようなものであるときは、そうです。
 So that by this meqodeia planhs, artful method of deceiving, the precious promise is utterly lost;
-このメトデイア・プラネース（μεθοδεία πλάνης）、すなわち人を欺く巧みなやり方によって（エペソ四・一四）、尊い約束がすっかり失われてしまうのです。
+これは、メトデイア・プラネース（μεθοδεία πλάνης）です（エペソ四・一四）。人を欺く巧みなやり方です。これによって、尊い約束がすっかり失われてしまうのです。
 // 英文の転写は meqodeia planhs と kubeia anqrvpvn。
 by this kubeia anqrvpvn, tricking and shuffling of men, the word of God is made of none effect.
-このキュベイア・アントローポーン（κυβεία ἀνθρώπων）、すなわち人間のごまかしと言い逃れによって（エペソ四・一四）、神の言葉が無にされるのです（マルコ七・一三）。
+また、キュベイア・アントローポーン（κυβεία ἀνθρώπων）です（エペソ四・一四）。人間のごまかしと言い逃れです。これによって、神の言葉が無にされるのです（マルコ七・一三）。
 O beware, thou that thus takest from the words of this book, that, taking away the whole meaning and spirit from them, leavest only what may indeed be termed a dead letter, lest God take away thy part out of the book of life!
 ああ、気をつけなさい。あなたは、このようにこの書の言葉を取り除いています。その言葉から意味と精神をすっかり取り去って、まさに死んだ文字と呼ぶべきものだけを残しています。そんなことをすれば、神があなたの受くべき分を、いのちの書から取り除かれるかもしれません（黙示録二二・一九）！
 // 口語訳の黙示録二二・一九は「いのちの木」（写本の違い）。英文の book of life に合わせた。
@@ -218,7 +218,7 @@ He it is who "beareth witness with our spirit."
 What is it he beareth witness of "That we are the children of God," "and if children, then heirs; heirs of God, and joint-heirs with Christ;" (Rom. 8:16, 17;)
 御霊は、何をあかししてくださるのでしょうか。「わたしたちが神の子であること」です（ローマ八・一六）。また、「もし子であれば、相続人でもあ」ること、「神の相続人であって」、「キリストと共同の相続人」であることです（ローマ八・一七）。
 "if so be that we suffer with him," if we deny ourselves, if we take up our cross daily, if we cheerfully endure persecution or reproach for his sake, "that we may also be glorified together."
-ただし、それは、私たちが「キリストと栄光を共にするために苦難をも共にしている以上」のことです（ローマ八・一七）。すなわち、自分を捨て、日々自分の十字架を負い（ルカ九・二三）、キリストのために迫害やそしりを喜んで耐え忍んでいるならば、です。
+ただし、それは、私たちが「キリストと栄光を共にするために苦難をも共にしている」ならば、のことです（ローマ八・一七）。すなわち、自分を捨て、日々自分の十字架を負い（ルカ九・二三）、キリストのために迫害やそしりを喜んで耐え忍んでいるならば、です。
 And in whom doth the Spirit of God bear this witness In all who are the children of God.
 では、神の御霊は、だれのうちでこのあかしをしてくださるのでしょうか。神の子であるすべての人のうちでです。
 By this very argument does the Apostle prove, in the preceding verses, that they are so:
@@ -244,7 +244,7 @@ The same Spirit bearing witness with your and with our spirit, "that we are the 
 同じ御霊が、あなたがたの霊と共に、また私たちの霊と共に、「わたしたちが神の子であることをあかしして」くださるのです（ローマ八・一六）。
 
 5. And thus is the Scripture fulfilled, "Blessed are they that mourn, for they shall be comforted."
-（五）　こうして、聖書の言葉が成就します。「悲しんでいる人たちは、さいわいです、彼らは慰められるでしょう」（マタイ五・四）。
+（五）　こうして、聖書の言葉が成就します。「悲しんでいる人たちは、さいわいである、彼らは慰められるでしょう」（マタイ五・四）。
 For it is easy to believe, that though sorrow may precede this witness of God's Spirit with our spirit; (indeed must, in some degree, while we groan under fear, and a sense of the wrath of God abiding on us;)
 次のことは、たやすく信じられるからです。神の御霊が私たちの霊と共にするこのあかしに、悲しみが先立つことはありえます。実際、ある程度は先立たなければなりません。私たちが恐れの下で、また神の怒りが自分の上にとどまっているという意識の下でうめいている間は、そうです（ヨハネ三・三六）。
 yet, as soon as any man feeleth it in himself, his "sorrow is turned into joy."
@@ -302,7 +302,7 @@ By this Spirit, continually looking up to God as their reconciled and loving Fat
 They continually pour out their hearts before him, knowing "they have the petitions which they ask of him." (1 John 5:15.)
 彼らは、絶えず、神のみ前に心を注ぎ出します（詩篇六二・八）。「神に願い求めたことはすでにかなえられた」ことを、知っているからです（第一ヨハネ五・一五）。
 Their delight is in him. He is the joy of their heart; their "shield," and their "exceeding great reward."
-彼らの喜びは、神にあります（詩篇三七・四）。神は、彼らの心の喜びであり、彼らの「盾」であり、彼らの受ける「はなはだ大きい」「報い」です（創世記一五・一）。
+彼らの喜びは、神にあります。神は、彼らの心の喜びであり、彼らの「盾」であり、彼らの受ける「はなはだ大きい」「報い」です（創世記一五・一）。
 The desire of their soul is toward him; it is their "meat and drink to do his will;"
 彼らの魂が慕うのは神です（イザヤ二六・八）。神の「みこころを行う」ことが、彼らの「食物」であり、飲み物です（ヨハネ四・三四）。
 and they are "satisfied as with marrow and fatness, while their mouth praiseth him with joyful lips." (Psalm 63:5.)
@@ -360,7 +360,7 @@ that the love of God is not an affection of the soul, but merely an outward serv
 and that the love of our neighbour is not a disposition of heart, but barely a course of outward works
 隣り人への愛は、心の性向ではなく、ただ外面のわざを重ねることにすぎないというのでしょうか。
 To mention so wild an interpretation of the Apostle's words, is sufficiently to confute it.
-使徒の言葉をこれほど途方もなく解釈することは、口にするだけで、十分な反駁になります。
+使徒の言葉についてのこれほど途方もない解釈は、口にするだけで、十分に反駁されます。
 The plain indisputable meaning of that text is, -- this is the sign or proof of the love of God, of our keeping the first and great commandment, to keep the rest of his commandments.
 あの聖句の、明白で疑いようのない意味は、こうです。神のほかの戒めを守ることが、神への愛のしるし、すなわち証拠です。私たちが、いちばん大切な第一の戒めを守っていることの証拠なのです（マタイ二二・三八）。
 For true love, if it be once shed abroad in our heart, will constrain us so to do;
@@ -369,7 +369,7 @@ since, whosoever loves God with all his heart, cannot but serve him with all his
 心をつくして神を愛する人はだれでも、力をつくして神に仕えずにはいられないのです。
 
 5. A Second fruit then of the love of God (so far as it can be distinguished from it) is universal obedience to him we love, and conformity to his will;
-（五）　ですから、神への愛の第二の実は（愛から区別できるかぎりで言えば）、愛する方へのあらゆる点での服従と、そのみこころに従うことです。
+（五）　ですから、神への愛の第二の実は、愛する方へのあらゆる点での服従と、そのみこころに従うことです。もっとも、これは愛から区別できるかぎりで言えることです。
 obedience to all the commands of God, internal and external; obedience of the heart and of the life; in every temper, and in all manner of conversation.
 それは、内面の、また外面の、神のすべての命令への服従です。心の服従であり、生活の服従です。あらゆる気質において、またあらゆるふるまいにおいて服従することです。
 And one of the tempers most obviously implied herein, is, the being "zealous of good works;"
@@ -398,7 +398,7 @@ It is, so to hope in God through the Son of his love, as to have not only the "t
 whence cannot but spring the rejoicing in Him, through whom ye "have received the atonement."
 そこから、必ず喜びがわき出ます。あなたがたに「和解を得させて」くださった方にある喜びです（ローマ五・一一）。
 It is, so to love God, who hath thus loved you, as you never did love any creature:
-それは、このようにあなたがたを愛してくださった神を、どんな被造物も愛したことがないほどに愛することです。
+それは、このようにあなたがたを愛してくださった神を、あなたがたがこれまでどんな被造物をも愛したことのないほどに愛することです。
 So that ye are constrained to love all men as yourselves;
 そのため、あなたがたは、すべての人を自分自身のように愛さずにはいられなくなります。
 with a love not only ever burning in your hearts, but flaming out in all your actions and conversations, and making your whole life one "labour of love," one continued obedience to those commands,
@@ -417,7 +417,7 @@ The question is not, what you was made in baptism; (do not evade;) but, What are
 Is the Spirit of adoption now in your heart To your own heart let the appeal be made.
 子たる身分を授ける霊は（ローマ八・一五）、今、あなたの心のうちにおられるでしょうか。あなた自身の心に問うてみなさい。
 I ask not, whether you was born of water and of the Spirit; but are you now the temple of the Holy Ghost which dwelleth in you
-私は、あなたが水と霊とから生れたかどうかを尋ねているのではありません（ヨハネ三・五）。あなたが今、自分の内に宿っている聖霊の宮であるかを尋ねているのです（第一コリント六・一九）。
+私は、あなたが水と霊とから生れたかどうかを尋ねているのではありません（ヨハネ三・五）。あなたが今、自分の内に宿っている聖霊の宮であるかどうかを尋ねているのです（第一コリント六・一九）。
 I allow you was "circumcised with the circumcision of Christ;" (as St. Paul emphatically terms baptism;)
 あなたが「キリストの割礼」を受けたことは認めましょう（コロサイ二・一一）。パウロは、バプテスマを力強くこう呼んでいます。
 but does the Spirit of Christ and of glory now rest upon you
@@ -426,11 +426,11 @@ Else "your circumcision is become uncircumcision."
 そうでなければ、「あなたの割礼は無割礼となってしま」っているのです（ローマ二・二五）。
 
 3 . Say not then in your heart, "I was once baptized, therefore I am now a child of God."
-（三）　ですから、心の中で、「私はかつてバプテスマを受けた。だから、私は今、神の子だ」と言ってはいけません（マタイ三・九）。
+（三）　ですから、心の中で、「私はかつてバプテスマを受けた。だから、私は今、神の子だ」と言ってはいけません。
 Alas, that consequence will by no means hold.
 ああ、その推論は決して成り立ちません。
 How many are the baptized gluttons and drunkards, the baptized liars and common swearers, the baptized railers and evil-speakers, the baptized whoremongers, thieves, extortioners
-バプテスマを受けた大食家や酒に酔う者が、なんと多いことでしょう。バプテスマを受けたうそつきや、いつも誓いの言葉を口にする者も、なんと多いことでしょう。バプテスマを受けたののしる者や悪口を言う者も、バプテスマを受けた不品行な者、盗む者、略奪する者も、なんと多いことでしょう（第一コリント六・九〜一〇）。
+バプテスマを受けた大食する者や酒に酔う者が、なんと多いことでしょう。バプテスマを受けたうそつきや、いつも誓いの言葉を口にする者も、なんと多いことでしょう。バプテスマを受けたののしる者や悪口を言う者も、バプテスマを受けた不品行な者、盗む者、略奪する者も、なんと多いことでしょう（第一コリント六・九〜一〇）。
 What think you Are these now the children of God
 あなたがたは、どう思いますか。この人たちが、今、神の子なのでしょうか。
 Verily, I say unto you, whosoever you are, unto whom any one of the preceding characters belongs, "Ye are of your father the devil, and the works of your father ye do."
@@ -453,7 +453,7 @@ No; nor I, nor you.
 Mine and your desert, as well as theirs, is hell; and it is mere mercy, free, undeserved mercy, that we are not now in unquenchable fire.
 彼らと同じように、私が受けるべきものも、あなたがたが受けるべきものも、地獄です。私たちが今、消えない火の中にいないのは（マルコ九・四三）、ただあわれみによるのです。価なしの、受けるに値しないあわれみによるのです。
 You will say, "But we are washed;" we were born again "of water and of the Spirit."
-あなたがたは言うでしょう。「けれども、私たちは洗われたのだ」（第一コリント六・一一）。私たちは「水と霊とから」新しく生れたのだ（ヨハネ三・五）、と。
+あなたがたは言うでしょう。「けれども、私たちは洗われたのだ（第一コリント六・一一）。私たちは『水と霊とから』新しく生れたのだ（ヨハネ三・五）」。
 So were they: This, therefore, hinders not at all, but that ye may now be even as they.
 彼らもそうでした。ですから、それは、あなたがたが今、彼らとまったく同じであるかもしれないことを、少しも妨げません。
 Know ye not, that "what is highly esteemed of men is an abomination in the sight of God"
