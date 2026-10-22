@@ -7,15 +7,6 @@ Then he began to go forward; but Discretion, Piety, Charity, and Prudence would 
 Then I saw in my dream that these good companions, when Christian was gone to the bottom of the hill, gave him a loaf of bread, a bottle of wine, and a cluster of raisins; and then he went on his way.
 私が夢の中で見ていると、一行は丘のふもとに着いた。この良き同伴者たちは、パンとワインと干しぶどうをクリスチャンに手渡した。ここでクリスチャンとお別れした。
 
-"Whilst Christian is among his godly friends,
-Their golden mouths make him sufficient mends
-For all his griefs; and when they let him go,
-He’s clad with northern steel from top to toe."
-クリスチャンが敬虔な友らといる間<br/>
-その黄金の口は、あらゆる嘆きを<br/>
-十分に償った。そして送り出すとき<br/>
-頭から足まで北方の鋼で彼を装わせた。
-
 But now, in this Valley of Humiliation, poor Christian was hard put to it; for he had gone but a little way, before he espied a foul fiend coming over the field to meet him; his name is Apollyon. Then did Christian begin to be afraid, and to cast in his mind whether to go back or to stand his ground. But he considered again that he had no armour for his back; and therefore thought that to turn the back to him might give him the greater advantage with ease to pierce him with his darts.
 Therefore he resolved to venture and stand his ground; for, thought he, had I no more in mine eye than the saving of my life, it would be the best way to stand.
 だが、へりくだりの谷を歩いていると、あわれなクリスチャンは困難に出会った。少し進んだところで、道の向こうから汚れた悪鬼が来たのだ。名前はアポリュオン（破壊者）といった。クリスチャンはおびえた。引き返すか、その場で踏みとどまるか、思いめぐらした。だが、思い直した。彼の背面は武具を身につけていない。だから、背中を見せて引き返せば、奴の矢で打たれる隙を与えかねない。勇気をもって踏みとどまることに決め、足に力をこめた。たとえ自分のいのちを救うことしか考えないとしても、踏みとどまるのが最善だと、クリスチャンは考えた。
