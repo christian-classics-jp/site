@@ -9,7 +9,7 @@ Upon Our Lord's Sermon On The Mount: Discourse Six
 1. In the preceding chapter our Lord has described inward religion in its various branches.
 （一）　前の章で、私たちの主は、内なる宗教を、そのさまざまな部分にわたって描かれました。
 He has laid before us those dispositions of soul which constitute real Christianity; the inward tempers contained in that "holiness, without which no man shall see the Lord;"
-主は、本当のキリスト教を形づくる魂の性向を、私たちの前に示されました。それは内なる気質です。「きよくならなければ、だれも主を見ることはできない」と言われる（ヘブル一二・一四）、あの聖性に含まれる気質です。
+主は、本当のキリスト教を形づくる魂の性向を、私たちの前に示されました。それは内なる気質です。「きよくならなければ、だれも主を見ることはできない」（ヘブル一二・一四）と言われる、あの聖性に含まれる気質です。
 the affections which, when flowing from their proper fountain, from a living faith in God through Christ Jesus, are intrinsically and essentially good, and acceptable to God.
 また、それは心の思いです。この思いは、本来の泉から流れ出るときには、それ自体として本質的に善く、神に喜ばれるものです。本来の泉とは、キリスト・イエスによる神への生きた信仰のことです。
 He proceeds to show, in this chapter, how all our actions likewise, even those that are indifferent in their own nature, may be made holy, and good and acceptable to God, by a pure and holy intention.
@@ -61,7 +61,7 @@ If ye seek your own glory, if you have any design to gain the honour that cometh
 It was a common thing among the Jews, who were men of large fortunes, particularly among the Pharisees, to cause a trumpet to be sounded before them in the most public parts of the city, when they were about to give any considerable alms.
 大きな財産を持つユダヤ人の間では、とりわけパリサイ人の間では、よくあることでした。かなりの施しをしようとするとき、町の最も人目につく所で、自分の前でラッパを吹き鳴らさせたのです。
 The pretended reason for this was, to call the poor together to receive it; but the real design, that they might have praise of men.
-その表向きの理由は、施しを受けさせるために、貧しい人々を呼び集めることでした。けれども、本当のねらいは、「人にほめられるため」でした（マタイ六・二）。
+その表向きの理由は、施しを受けさせるために、貧しい人々を呼び集めることでした。けれども、本当のねらいは、人にほめられることでした（マタイ六・二）。
 But be not thou like unto them.
 けれども、あなたは彼らのようになってはなりません。
 Do not thou cause a trumpet to be sounded before thee.
@@ -84,7 +84,7 @@ Then let your light appear, and "shine to all that are in the house."
 But, unless where the glory of God and the good of mankind oblige you to the contrary, act in as private and unobserved a manner as the nature of the thing will admit; --
 けれども、神の栄光と人々の益とのために、そうしないわけにいかない場合もあります。その場合を除いて、事柄の性質が許すかぎり、人に知られず、目に留まらないように行いなさい。
 "that thy alms may be in secret; and thy Father which seeth in secret, he shall reward thee openly;" perhaps in the present world, -- many instances of this stand recorded in all ages; but infallibly in the world to come, before the general assembly of men and angels.
-「あなたのする施しが隠れているため」です。「すると、隠れた事を見ておられるあなたの父は」、公然と「報いてくださるでしょう」（マタイ六・四）。それは、おそらくこの世においてでしょう。そのような例は、どの時代にも数多く記録されています。けれども、来るべき世においては、人と天使の大集会の前で、必ず報いてくださるのです。
+「あなたのする施しが隠れているため」です（マタイ六・四）。「すると、隠れた事を見ておられるあなたの父は」、公然と「報いてくださるでしょう」（マタイ六・四）。それは、おそらくこの世においてでしょう。そのような例は、どの時代にも数多く記録されています。けれども、来るべき世においては、人と天使の大集会の前で、必ず報いてくださるのです。
 
 ## 【二】　祈りについて
 
@@ -153,7 +153,7 @@ These are such instances of superstition and folly as all who are named by the n
 So that the end of your praying is not to inform God, as though he knew not your wants already; but rather to inform yourselves;
 ですから、あなたがたが祈る目的は、神に知らせることではありません。神があなたがたの必要をまだご存じないかのように、知らせるのではないのです。むしろ、あなたがた自身に知らせることです。
 to fix the sense of those wants more deeply in your hearts, and the sense of your continual dependence on Him who only is able to supply all your wants.
-その必要を感じる思いを、もっと深く心に刻むためです。また、自分が絶えずある方に頼っていることを、もっと深く心に感じるためです。その方だけが、あなたがたの必要をすべて満たすことができるのです。
+その必要を感じる思いを、もっと深く心に刻むためです。また、あなたがたの必要をすべて満たすことのできるただひとりの方に、自分が絶えず頼っていることを、もっと深く心に感じるためです。
 It is not so much to move God, who is always more ready to give than you to ask, as to move yourselves, that you may be willing and ready to receive the good things he has prepared for you.
 祈りは、神を動かすためというより、あなたがた自身を動かすためです。神は、あなたがたが求めるよりも、いつももっと与えようとしておられます。あなたがた自身を動かすのは、神が備えてくださった良い物を、喜んで、すぐに受けられるようになるためです。
 
@@ -162,7 +162,7 @@ It is not so much to move God, who is always more ready to give than you to ask,
 III. 1. After having taught the true nature and ends of prayer, our Lord subjoins an example of it;
 （一）　祈りの本当の性質と目的を教えられたあとで、私たちの主は、その例を付け加えられます。
 even that divine form of prayer which seems in this place to be proposed by way of pattern chiefly, as the model and standard of all our prayers: "After this manner therefore pray ye."
-それは、あの神聖な祈りの形です。ここでは、主にひな型として、すなわち私たちのあらゆる祈りの模範と基準として示されているようです。「だから、あなたがたはこう祈りなさい」（マタイ六・九）。
+それは、あの神聖な祈りの形です。ここでは、おもにひな型として、すなわち私たちのあらゆる祈りの模範と基準として示されているようです。「だから、あなたがたはこう祈りなさい」（マタイ六・九）。
 Whereas, elsewhere he enjoins the use of these very words: "He said unto them, When ye pray, say -- ." (Luke 11:2.)
 それに対して、ほかの箇所では、主はまさにこの言葉を用いるように命じておられます。「彼らに言われた、『祈るときには、こう言いなさい』」（ルカ一一・二）。
 
@@ -180,7 +180,7 @@ Thirdly, that it contains all our duty to God and man; whatsoever things are pur
 3. It consists of three parts, -- the preface, the petitions, and the doxology, or conclusion.
 （三）　この祈りは、三つの部分から成っています。序言と、願いと、頌栄、すなわち結びです。
 The preface, "Our Father which art in heaven," lays a general foundation for prayer; comprising what we must first know of God, before we can pray in confidence of being heard.
-序言の「天にいますわれらの父よ」（マタイ六・九）は、祈りの全体の土台を据えています。聞かれるという確信をもって祈ることができる前に、神についてまず知らなければならないことを、含んでいるのです。
+序言の「天にいますわれらの父よ」（マタイ六・九）は、祈りの全体の土台を据えています。聞かれるという確信をもって祈るには、その前に、神についてまず知らなければならないことがあります。序言はそれを含んでいるのです。
 It likewise points out to us all those tempers with which we are to approach to God, which are most essentially requisite, if we desire either our prayers or our lives should find acceptance with him.
 また、序言は、私たちがどのような気質をもって神に近づくべきかを、すべて指し示しています。私たちの祈りであれ生活であれ、神に受け入れられたいと願うなら、その気質こそ、何よりも欠かせないものです。
 
@@ -195,7 +195,7 @@ God is willing to bless; let us ask for a blessing.
 But if he made us, let us ask, and he will not withhold any good thing from the work of his own hands.
 神が私たちを造られたのなら、求めましょう。神は、ご自分の手のわざに、どんな良い物も拒まれることはありません（詩篇八四・一一）。
 "Our Father;" -- our Preserver; who, day by day, sustains the life he has given; of whose continuing love we now and every moment receive life and breath and all things.
-「われらの父よ」（マタイ六・九）。それは、私たちを守る方です。ご自分が与えた命を、日ごとに支えてくださる方です。その変わらない愛によって、私たちは今も、いつの瞬間も、命と息と万物とを受けています（使徒一七・二五）。
+「われらの父よ」（マタイ六・九）。それは、私たちを守る方です。ご自分が与えたいのちを、日ごとに支えてくださる方です。その変わらない愛によって、私たちは今も、いつの瞬間も、命と息と万物とを受けています（使徒一七・二五）。
 So much the more boldly let us come to him, and we shall "obtain mercy, and grace to help in time of need."
 ですから、ますます、はばかることなく神に近づきましょう。そうすれば、私たちは「あわれみを受け、また、恵みにあずかって時機を得た助けを受ける」ことができます（ヘブル四・一六）。
 Above all, the Father of our Lord Jesus Christ, and of all that believe in him;
@@ -203,7 +203,7 @@ Above all, the Father of our Lord Jesus Christ, and of all that believe in him;
 who justifies us "freely by his grace, through the redemption that is in Jesus;"
 神は私たちを、「価なしに、神の恵みにより」、「イエスによるあがないによって」義としてくださいます（ローマ三・二四）。
 who hath "blotted out all our sins, and healed all our infirmities;"
-私たちのすべての罪を「ぬぐい去」り（詩篇五一・九）、私たちの「すべての病をいやし」てくださいました（詩篇一〇三・三）。
+私たちのすべての罪を「ぬぐい去」り（詩篇五一・九）、私たちの「すべての」弱さを「いやし」てくださいました（詩篇一〇三・三）。
 who hath received us for his own children, by adoption and grace;
 子とすることと恵みとによって、私たちをご自分の子として受け入れてくださいました。
 // by adoption and grace は祈祷書の降誕日の特祷の言い回し。
@@ -212,7 +212,7 @@ and, "because" we "are sons, hath sent forth the Spirit of his Son into" our "he
 who "hath begotten us again of incorruptible seed", and "created us anew in Christ Jesus."
 また、私たちを「朽ちない種から」新たに生れさせ（第一ペテロ一・二三）、「キリスト・イエスにあって」新しく「造」ってくださいました（エペソ二・一〇）。
 Therefore we know that he heareth us always; therefore we pray to him without ceasing.
-ですから、私たちは、神がいつでも私たちの願いを聞きいれてくださることを知っています。ですから、私たちは絶えず神に祈ります（第一テサロニケ五・一七）。
+ですから、私たちは、神がいつでも私たちの願いを聞きいれてくださることを知っています（ヨハネ一一・四二）。ですから、私たちは絶えず神に祈ります（第一テサロニケ五・一七）。
 We pray, because we love; and "we love him because he first loved us."
 私たちは、愛しているから祈るのです。そして、私たちが神を愛するのは、「神がまずわたしたちを愛してくださった」からです（第一ヨハネ四・一九）。
 // 口語訳の第一ヨハネ四・一九 は「わたしたちが愛し合うのは」。英文は we love him なので、前半を「」の外に出した。
@@ -220,8 +220,8 @@ We pray, because we love; and "we love him because he first loved us."
 5 . "Our Father:" -- Not mine only who now cry unto him, but ours in the most extensive sense.
 （五）　「われらの父よ」（マタイ六・九）。今この方に呼ばわっている私だけの父ではなく、最も広い意味で、私たちの父です。
 The God and "Father of the spirits of all flesh;" the Father of angels and men:
-神は、すべての肉なる者の霊の神であり、その父です（民数記一六・二二）。天使と人との父です。
-// 英文は Father of the spirits of all flesh。口語訳の民数記一六・二二 は「すべての肉なる者の命の神」で文言が違うので、「」に入れなかった。
+神は、「すべての肉なる者の」霊の「神」であり、その父です（民数記一六・二二）。天使と人との父です。
+// 英文は Father of the spirits of all flesh。口語訳の民数記一六・二二 は「すべての肉なる者の命の神」なので、「命」を「霊」に改めて「」の外に出した。
 So the very Heathens acknowledged him to be, Pathr andpvn te qevn te.
 異教徒でさえ、神をそのような方と認めていました。パテール・アンドローン・テ・テオーン・テ（πατὴρ ἀνδρῶν τε θεῶν τε）、すなわち人と神々との父と呼んだのです。
 // 英文の転写は Pathr andpvn te qevn te（andpvn は andrvn の誤り）。ホメロスがゼウスを呼ぶ言い回し。
@@ -249,7 +249,7 @@ seeing "God so loved the world, that he gave his only-begotten Son", even to die
 Who, sitting on the circle of the heavens, beholdeth all things both in heaven and earth; whose eye pervades the whole sphere of created being; yea, and of uncreated night;
 神は、天の円の上に座して、天と地のすべてのものを見ておられます。その目は、造られたものの全領域を見通しています。そうです、まだ造られていない夜の領域までも見通しているのです。
 unto whom "are known all his works", and all the works of every creature, not only "from the beginning of the world," (a poor, low, weak translation,) but ap aivnos, from all eternity, from everlasting to everlasting;
-神には、「ご自分のわざがすべて知られて」います（使徒一五・一八）。あらゆる被造物のわざも、すべて知られています。それは、英語の聖書の言う「世の初めから」だけではありません（使徒一五・一八）。これは、貧しく、低く、弱い訳です。原語はアプ・アイオーノス（ἀπ᾽ αἰῶνος）で、永遠の昔から、とこしえからとこしえまで（詩篇九〇・二）、ということです。
+神には、ご自分のわざがすべて知られています（使徒一五・一八）。あらゆる被造物のわざも、すべて知られています。それは、英語の聖書の言う「世の初めから」だけではありません（使徒一五・一八）。これは、貧しく、低く、弱い訳です。原語はアプ・アイオーノス（ἀπ᾽ αἰῶνος）で、永遠の昔から、とこしえからとこしえまで（詩篇九〇・二）、ということです。
 // 英文の転写は ap aivnos。口語訳の使徒一五・一八 は「世の初めからこれらの事を知らせておられる主」で、本文が違う。ここは欽定訳の訳文（Known unto God are all his works from the beginning of the world）を英文から訳した。
 who constrains the host of heaven, as well as the children of men, to cry out with wonder and amazement, O the depth! "the depth of the riches, both of the wisdom and of the knowledge of God!"
 神は、人の子らだけでなく、天の万軍にも、驚きと畏れをもってこう叫ばせる方です。「ああ深いかな、神の知恵と知識との富は」（ローマ一一・三三）。
@@ -297,7 +297,7 @@ His wisdom, clearly deduced from the things that are seen, from the goodly order
 His Trinity in Unity, and Unity in Trinity, discovered to us in the very first line of his written word;
 一体における三位、三位における一体があります。それは、書かれたみことばの、まさに最初の一行で、私たちに示されています。
 bara' 'elohim -- literally, the Gods created, a plural noun joined with a verb of the singular number;
-原語はバーラー・エロヒーム（בָּרָא אֱלֹהִים）で、文字どおりには「神々が創造した」です（創世記一・一）。複数の名詞が、単数の動詞と結びついているのです。
+原語はバーラー・エロヒーム（בָּרָא אֱלֹהִים）で（創世記一・一）、文字どおりには「神々が創造した」です。複数の名詞が、単数の動詞と結びついているのです。
 // 英文の転写は bara' 'elohim。口語訳の創世記一・一 は「はじめに神は天と地とを創造された」。
 as well as in every part of his subsequent revelations, given by the mouth of all his holy Prophets and Apostles; --
 また、それは、その後のあらゆる啓示の中でも示されています。その啓示は、すべての聖なる預言者と使徒たちの口を通して与えられたものです。
@@ -338,7 +338,7 @@ then shall it be seen, that "the Lord is King, and hath put on glorious apparel,
 そのとき、「主は王となり、威光の衣をまと」っておられることが（詩篇九三・一）、明らかになります。主は、すべての人の魂に、もろもろの王の王、もろもろの主の主として（黙示録一九・一六）、現れてくださるのです。
 // 詩篇七二・一一 と九三・一 の英文は祈祷書の詩篇。口語訳とほぼ同じ意味なので、口語訳で引いた（七二・一一 の「王」は、英文に合わせて「国」とし、「」の外に出した）。
 And it is meet for all those who love his appearing, to pray that he would hasten the time;
-主の出現を待ち望むすべての人は（第二テモテ四・八）、主がその時を早めてくださるように祈るのがふさわしいのです。
+主の出現を待ち望むすべての人は（第二テモテ四・八）、主がそのときを早めてくださるように祈るのがふさわしいのです。
 that this his kingdom, the kingdom of grace, may come quickly, and swallow up all the kingdoms of the earth;
 主のこの国が、すなわち恵みの国が、すみやかに来て、地のすべての国をのみ尽くすように祈るのです。
 that all mankind, receiving him for their King, truly believing in his name, may be filled with righteousness, and peace, and joy, with holiness and happiness, --
@@ -377,7 +377,7 @@ We pray, not so much for a passive, as for an active, conformity to the will of 
 How is it done by the angels of God in heaven, -- those who now circle his throne rejoicing
 天にいる神の天使たち、すなわち今、喜びつつ神の御座を取り巻いている者たちは、みこころをどのように行っているでしょうか。
 They do it willingly; they love his commandments, and gladly hearken to his words.
-彼らは、それを喜んで行います。神の戒めを愛し、神のみ言葉の声に喜んで聞き従います（詩篇一〇三・二〇）。
+彼らは、それを喜んで行います。神の戒めを愛し、神のみことばに喜んで聞き従います（詩篇一〇三・二〇）。
 It is their meat and drink to do his will; it is their highest glory and joy.
 みこころを行うことが、彼らの食べ物であり、飲み物です。それが、彼らの最高の栄光であり、喜びなのです。
 They do it continually; there is no interruption in their willing service.
@@ -413,7 +413,7 @@ Yea, and they do this, only because it is his will; for this end, and no other r
 that these may do it continually, even as they, without any interruption of their willing service;
 人々が、天使たちと同じように、喜んでする奉仕を少しも途切れさせず、絶えずそれを行うように、ということです。
 yea, and that they may do it perfectly, -- that "the God of peace, through the blood of the everlasting covenant, may make them perfect in every good work to do his will, and work in them all "which is well-pleasing in his sight."
-そうです、人々がそれを完全に行うように、ということです。「平和の神が」（ヘブル一三・二〇）、永遠の契約の血によって、あらゆる良いわざにおいて彼らを全うしてくださるように、ということです。彼らがみこころを行うためです。また、「みこころにかなうことを」すべて彼らのうちに行ってくださるように、ということです（ヘブル一三・二一）。
+そうです、人々がそれを完全に行うように、ということです。「平和の神が」（ヘブル一三・二〇）、永遠の契約の血によって、あらゆる良きわざにおいて彼らを全うしてくださるように、ということです。彼らがみこころを行うためです。また、「みこころにかなうことを」すべて彼らのうちに行ってくださるように、ということです（ヘブル一三・二一）。
 // 口語訳のヘブル一三・二〇〜二一 は構文が違う（「永遠の契約の血による」は「羊の大牧者」にかかり、二一節は「すべての良きものを備えて下さる」）。語句の合う部分だけを「」に入れた。
 
 In other words, we pray that we and all mankind may do the whole will of God in all things; and nothing else, not the least thing but what is the holy and acceptable will of God.
@@ -426,7 +426,7 @@ And, lastly, that we may do it because it is his will; that this may be the sole
 11. "Give us this day our daily bread." -- In the three former petitions we have been praying for all mankind.
 （一一）　「わたしたちの日ごとの食物を、きょうもお与えください」（マタイ六・一一）。前の三つの願いで、私たちはすべての人のために祈ってきました。
 We come now more particularly to desire a supply for our own wants.
-今度は、もっと特に、自分たちの必要が満たされるように願います。
+今度は、とくに自分たちの必要が満たされるように願います。
 Not that we are directed, even here, to confine our prayer altogether to ourselves; but this, and each of the following petitions, may be used for the whole Church of Christ upon earth.
 とはいえ、ここでも、祈りをまったく自分たちだけに限るように指示されているのではありません。この願いも、続く願いのどれも、地上のキリストの教会全体のために用いてよいのです。
 
@@ -543,9 +543,9 @@ That is, in plain terms, "Do not thou forgive us at all; we desire no favour at 
 But can you seriously offer such a prayer to God
 けれども、あなたがたは、そのような祈りを本気で神にささげることができるでしょうか。
 And hath he not yet cast you quick into hell'
-神は、まだあなたがたを生きたまま地獄に投げ込んでおられないではありませんか。
+それでも神は、まだあなたがたを生きたまま地獄に投げ込んではおられないのです。
 O tempt him no longer! Now, even now, by his grace, forgive as you would be forgiven! Now have compassion on thy fellow-servant, as God hath had and will have pity on thee!
-ああ、これ以上、神を試みてはなりません。今、まさに今、神の恵みによって、自分がゆるされたいようにゆるしなさい。神があなたをあわれんでくださったように、また、これからもあわれんでくださるように、今、あなたの仲間をあわれみなさい（マタイ一八・三三）。
+ああ、これ以上、神を試みてはなりません。今、まさに今、神の恵みによって、自分がゆるされたいようにゆるしなさい。神がこれまであなたをあわれみ、これからもあわれんでくださるのと同じように、今、あなたの仲間をあわれみなさい（マタイ一八・三三）。
 
 15. "And lead us not into temptation, but deliver us from evil." --"[And] lead us not into temptation."
 （一五）　「わたしたちを試みに会わせないで、悪しき者からお救いください」（マタイ六・一三）。「わたしたちを試みに会わせないで」（マタイ六・一三）。
@@ -556,7 +556,7 @@ And so the English word temptation was formerly taken in an indifferent sense, a
 St. James uses the word in both these senses; first, in its general, then in its restrained, acceptation.
 ヤコブは、この語を両方の意味で用いています。初めは一般的な意味で、次に限られた意味で用いているのです。
 He takes it in the former sense when he saith, "Blessed is the man that endureth temptation; For when he is tried," or approved of God, "he shall receive the crown of life." (James 1:12, 13.)
-前の意味でとっているのは、次のように言うときです。「試錬を耐え忍ぶ人は、さいわいです」。ためされて、すなわち神に認められて、「いのちの冠を受ける」からです（ヤコブ一・一二）。
+前の意味でとっているのは、次のように言うときです。「試錬を耐え忍ぶ人は、さいわいです」（ヤコブ一・一二）。ためされて、すなわち神に認められて、「いのちの冠を受ける」からです（ヤコブ一・一二）。
 // 口語訳はこの語を、ヤコブ一・一二 では「試錬」、一・一三〜一四 では「誘惑」と訳し分けている。英文の For when he is tried は、口語訳では「それを忍びとおしたなら」なので、「」に入れなかった。
 He immediately adds, taking the word in the latter sense, "Let no man say when he is tempted, I am tempted of God; for God cannot be tempted with evil, neither tempteth he any man.
 すぐにヤコブは、後の意味でこの語をとって、こう付け加えます。「だれでも誘惑に会う場合、『この誘惑は、神からきたものだ』と言ってはなりません。神は悪の誘惑に陥るようなかたではなく、また自ら進んで人を誘惑することもなさいません」（ヤコブ一・一三）。
@@ -570,9 +570,9 @@ Then temptation covers him as a cloud; it overspreads his whole soul.
 Then how hardly shall he escape out of the snare!
 そうなれば、そのわなからのがれるのは、どれほど難しいことでしょう。
 Therefore, we beseech God "not to lead us into temptation," that is, (seeing God tempteth no man,) not to suffer us to be led into it.
-ですから、私たちは神に、「わたしたちを試みに会わせ」ないように願うのです（マタイ六・一三）。すなわち（神はだれも誘惑されないのですから）、私たちが誘惑に導かれるままにしておかれないように、と願うのです。
+ですから、私たちは神に、「わたしたちを試みに会わせ」ないように願うのです（マタイ六・一三）。すなわち（神はだれをも誘惑なさらないのですから）、私たちが誘惑に導かれるままにしておかれないように、と願うのです。
 "But deliver us from evil:" Rather "from the evil one,"; apo tou ponhrou.
-「悪しき者からお救いください」（マタイ六・一三）。英語の聖書は「悪から」と訳していますが、むしろ「悪しき者から」です。原語はアポ・トゥー・ポネールー（ἀπὸ τοῦ πονηροῦ）です。
+「悪しき者からお救いください」（マタイ六・一三）。英語の聖書は「悪から」と訳していますが（マタイ六・一三）、むしろ「悪しき者から」です。原語はアポ・トゥー・ポネールー（ἀπὸ τοῦ πονηροῦ）です。
 O ponhros is unquestionably the wicked one, emphatically so called, the prince and god of this world, who works with mighty power in the children of disobedience.
 ホ・ポネーロス（ὁ πονηρός）とは、疑いもなく、とりわけそう呼ばれる悪しき者のことです。それは、この世の君（ヨハネ一二・三一）、この世の神であり（第二コリント四・四）、不従順の子らの中に力強く働いている者です（エペソ二・二）。
 // 英文の転写は apo tou ponhrou、O ponhros。
@@ -726,7 +726,7 @@ God is in us; for God is love.
 And guardian care for all are free;
 あなたの力と守りの心づかいは、すべてのものに惜しみなく注がれます。<br/>
 To thee, in fierce temptation's hour,
-激しい誘惑の時には、あなたのもとへ、<br/>
+激しい誘惑のときには、あなたのもとへ、<br/>
 From sin and Satan let us flee.
 罪とサタンから、私たちをのがれさせてください。<br/>
 Thine, Lord, we are, and ours thou art;
