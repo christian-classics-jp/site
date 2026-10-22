@@ -602,6 +602,11 @@ isstream@~0.1.2:
   resolved "https://registry.yarnpkg.com/isstream/-/isstream-0.1.2.tgz#47e63f7af55afa6f92e1500e690eb8b8529c099a"
   integrity sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=
 
+jesep@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/jesep/-/jesep-1.0.0.tgz#bb82c15d80c1d4b66da244ffff0b69fdbb4d042a"
+  integrity sha512-iwIQ9FJ8m9q3P8sO1dDVvXye/Wb8gSTSYBqKTvSRAW4/sYJoVTPOfI+6LDxadzd1G19Eu6a8pB7z2aVbriNK7w==
+
 jsbn@~0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/jsbn/-/jsbn-0.1.1.tgz#a5e654c2e5a2deb5f201d96cefbca80c0ef2f513"

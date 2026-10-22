@@ -7,12 +7,13 @@
     "epub-gen": "^0.1.0",
     "handlebars": "^4.0.5",
     "html-pdf": "^2.2.0",
+    "jesep": "^1.0.0",
     "marked": "^0.7.0",
     "mkdirp": "^0.5.1"
   },
   "devDependencies": {},
   "scripts": {
-    "build": "./ci/build-html.js && ./ci/build-css.js"
+    "build": "node ci/build.js"
   },
   "repository": "FujiHaruka/simplest-site-template",
   "keywords": [

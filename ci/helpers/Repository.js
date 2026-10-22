@@ -1,4 +1,4 @@
-const {REPOS_DIR, PUBLIC_DIR} = require('./consts')
+const {BOOKS_DIR, STATIC_DIR, PUBLIC_DIR} = require('./consts')
 const fs = require('fs')
 const {join} = require('path')
 
@@ -14,12 +14,12 @@ class Repository {
 
   get articleNames () {
     const {repos} = this
-    return fs.readdirSync(join(REPOS_DIR, repos, 'src')).filter((name) => fs.existsSync(join(REPOS_DIR, repos, 'src', name, 'jp.md')))
+    return fs.readdirSync(join(BOOKS_DIR, repos, 'src')).filter((name) => fs.existsSync(join(BOOKS_DIR, repos, 'src', name, 'jp.md')))
   }
 
   get title () {
     const {repos} = this
-    const readme = fs.readFileSync(join(REPOS_DIR, repos, 'README.md')).toString()
+    const readme = fs.readFileSync(join(BOOKS_DIR, repos, 'README.md')).toString()
     // '# title' => 'title'
     const siteTitle = readme.split('\n')[0].slice(1).trim()
     return siteTitle
@@ -28,7 +28,7 @@ class Repository {
   get book () {
     const {repos} = this
     try {
-      return require(join(REPOS_DIR, repos, 'book.json'))
+      return require(join(BOOKS_DIR, repos, 'book.json'))
     } catch (e) {
       return null
     }
@@ -40,17 +40,17 @@ class Repository {
 
   get epubPath () {
     const {repos} = this
-    return join(PUBLIC_DIR, 'epub', `${repos}.epub`)
+    return join(STATIC_DIR, 'epub', `${repos}.epub`)
   }
 
   get pdfPath () {
     const {repos} = this
-    return join(PUBLIC_DIR, 'pdf', `${repos}.pdf`)
+    return join(STATIC_DIR, 'pdf', `${repos}.pdf`)
   }
 
   get url () {
     const {repos} = this
-    return `https://github.com/christian-classics-jp/${repos}`
+    return `https://github.com/christian-classics-jp/site/tree/master/books/${repos}`
   }
 
   get epubUrl () {
@@ -70,7 +70,7 @@ class Repository {
 
   readArticleMarkdown (name) {
     const {repos} = this
-    return fs.readFileSync(join(REPOS_DIR, repos, 'src', name, 'jp.md')).toString()
+    return fs.readFileSync(join(BOOKS_DIR, repos, 'src', name, 'jp.md')).toString()
   }
 }
 

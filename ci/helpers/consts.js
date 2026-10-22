@@ -12,6 +12,7 @@ module.exports = {
   EPUB_STYLE_PATH: join(__dirname, '../../assets/epub/style.css'),
   STYLE_PATH: join(__dirname, '../../assets/css/main.css'),
   SCRIPT_PATH: join(__dirname, '../../assets/js/theme.js'),
-  REPOS_DIR: join(__dirname, '../../repos'),
-  PUBLIC_DIR: join(__dirname, '../../docs')
+  BOOKS_DIR: join(__dirname, '../../books'),
+  STATIC_DIR: join(__dirname, '../../static'),
+  PUBLIC_DIR: join(__dirname, '../../dist')
 }
