@@ -9,12 +9,12 @@ Wandering Thoughts
 So some have vehemently maintained; yea, have affirmed that none are perfected in love unless they are so far perfected in understanding, that all wandering thoughts are done away;
 ある人々は、そうだと激しく主張してきました。いや、こう断言してきました。すべてのさまよう思いがなくなるほどに悟りにおいても全うされていなければ、だれも愛において全うされてはいない、と。
 unless not only every affection and temper be holy and just and good, but every individual thought which arises in the mind be wise and regular.
-すべての情愛と気質が聖く、正しく、善いだけでは足りない。心に浮かぶ思いの一つ一つまでが賢く、秩序正しくなければ、愛において全うされてはいない、と言うのです。
+すべての情愛と気質が聖く、正しく、善いだけでは足りない、と言うのです。心に浮かぶ思いの一つ一つまでが賢く、秩序正しくなければ、愛において全うされてはいない、と。
 
 2. This is a question of no small importance.
 （二）　これは、決して小さくない問題です。
 For how many of those who fear God, yea, and love him, perhaps with all their heart, have been greatly distressed on this account!
-というのも、神を恐れ、いや、神を愛している人々がいます。おそらく心をつくして愛している人々です。その中にも、このことでひどく苦しんできた人が、何と多いことでしょう。
+というのも、神を恐れ、いや、おそらく心をつくして神を愛している人々の中にさえ、このことでひどく苦しんできた人が、何と多いことでしょう。
 How many, by not understanding it right, have not only been distressed, but greatly hurt in their souls; -- cast into unprofitable, yea, mischievous reasonings, such as slackened their motion towards God, and weakened them in running the race set before them!
 これを正しく理解しなかったために、苦しんだだけでなく、魂にひどい傷を負った人も、何と多いことでしょう。彼らは、益のない、いや、害のある理屈に投げこまれました。その理屈は、神に向かう彼らの歩みをゆるめ、参加すべき競走（ヘブル一二・一）を走る力を弱めたのです。
 Nay, many, through misapprehensions of this very thing, have cast away the precious gift of God.
@@ -44,7 +44,7 @@ The particular sorts are innumerable; but, in general, they are of two sorts: Th
 細かな種類は数えきれません。けれども、大きく分ければ二種類です。神からさまよう思いと、今取り組んでいる特定の事柄からさまよう思いです。
 
 2. With regard to the former, all our thoughts are naturally of this kind: For they are continually wandering from God: We think nothing about him: God is not in all our thoughts: We are, one and all, as the Apostle observes, "without God in the world."
-（二）　前者について言えば、私たちの思いは、生れながらにすべてこの種類のものです。私たちの思いは、絶えず神からさまよっているからです。私たちは、神のことを何も考えません。私たちの思いのどこにも、神はいません（詩篇一〇・四）。使徒が言うように、私たちは一人残らず、「この世の中で」「神もない者」です（エペソ二・一二）。
+（二）　前者について言えば、私たちの思いは、生れながらにすべてこの種類のものです。私たちの思いは、絶えず神からさまよっているからです。私たちは、神のことを何も考えません。私たちの思いのどこにも、神はいません（詩篇一〇・四）。使徒が言うように、私たちは一人残らず、「この世の中で」「神もない者」（エペソ二・一二）です。
 // 欽定訳の詩篇一〇・四 God is not in all his thoughts は、口語訳では「その思いに、すべて『神はない』という」。説教九にならい、英文から訳して「」に入れなかった。
 We think of what we love; but we do not love God; therefore, we think not of him.
 私たちは、自分の愛するものを思います。けれども、神を愛してはいません。ですから、神のことを思わないのです。
@@ -53,12 +53,12 @@ Or, if we are now and then constrained to think of him for a time, yet as we hav
 So that the world, and the things of the world, -- what we shall eat, what we shall drink, what we shall put on, -- what we shall see, what we shall hear, what we shall gain, -- how we shall please our senses or our imagination, -- takes up all our time, and engrosses all our thought.
 こうして、世と世にあるもの（第一ヨハネ二・一五）が、私たちの時間をすべて奪い、思いをすべて占めてしまいます。何を食べようか、何を飲もうか、何を着ようか（マタイ六・三一）。何を見ようか、何を聞こうか、何を得ようか。どうやって感覚や想像を楽しませようか、ということです。
 So long, therefore, as we love the world; that is, so long as we are in our natural state; all our thoughts, from morning to evening, and from evening to morning, are no other than wandering thoughts.
-ですから、私たちが世を愛している限り、すなわち生れながらの状態にある限り、事情は変わりません。朝から晩まで、晩から朝まで、私たちの思いはすべて、さまよう思いにほかなりません。
+ですから、世を愛している限り、すなわち生れながらの状態にある限り、私たちの思いはすべて、さまよう思いにほかなりません。朝から晩まで、晩から朝まで、そうなのです。
 
 3. But many times we are not only "without God in the world," but also fighting against him; as there is in every man by nature a "carnal mind which is enmity against God:"
 （三）　けれども、多くの場合、私たちは「この世の中で」「神もない者」（エペソ二・一二）であるだけではありません。神に逆らって戦ってもいます。すべての人のうちには、生れつき「肉の思い」があり、それは「神に敵する」からです（ローマ八・七）。
 No wonder, therefore, that men abound with unbelieving thoughts; either saying in their hearts, "There is no God," or questioning, if not denying, his power or wisdom, his mercy, or justice, or holiness.
-ですから、人が不信仰な思いにあふれているのも、不思議ではありません。人は、心のうちに「神はない」と言ったり（詩篇一四・一）、神の力や知恵、あわれみや正義や聖性を、否定しないまでも疑ったりするのです。
+ですから、人が不信仰な思いにあふれているのも、不思議ではありません。人は、心のうちに「神はない」（詩篇一四・一）と言ったり、神の力や知恵、あわれみや正義や聖性を、否定しないまでも疑ったりするのです。
 No wonder that they so often doubt of his providence, at least, of its extending to all events; or that, even though they allow it, they still entertain murmuring or repining thoughts.
 人が神の摂理を、少なくとも摂理がすべての出来事に及ぶことを、たびたび疑うのも、不思議ではありません。また、摂理を認めていても、なお不平や不満の思いをいだくのも、不思議ではありません。
 Nearly related to these, and frequently connected with them, are proud and vain imaginations.
@@ -82,10 +82,11 @@ While men, like fiends, each other tear;
 人々は悪鬼のように互いに引き裂き合う、<br/>
 In all the hellish rage of war
 地獄のような戦いの狂乱のただ中で。<br/>
-// While men, like fiends… の二行は詩の引用。出典は確認できなかった。
+// While men, like fiends… の二行は、チャールズ・ウェスレー『万人のための執り成しの讃美歌』（1758）の「平和のために」（Our earth we now lament to see）から。原詩は Where men。
 
 See how these Christians love one another! Wherein are they preferable to Turks and Pagans What abomination can be found among Mahometans or Heathens which is not found among Christians also"
 「見よ、このクリスチャンたちが、互いに何と愛し合っていることか！　彼らは、トルコ人や異教徒より、どこがまさっているのか。イスラム教徒や異教徒のうちに見られる忌まわしいことで、クリスチャンのうちにも見られないものが、何かあるだろうか」。
+// Turks（トルコ人）は、当時の英語でイスラム教徒を指す。
 // See how these Christians love one another は、テルトゥリアヌス『護教論』三九 にある異教徒の言葉（見よ、彼らが互いにどれほど愛し合っているかを）を、皮肉に用いたもの。
 And thus my mind runs off, before I am aware, from one circumstance to another.
 こうして、私の心は、気づかないうちに、一つの事柄から別の事柄へと走って行きます。
@@ -135,11 +136,11 @@ And is not the same irregularity of thought, in a measure, occasioned by every n
 // 「朽ちる体は…」は外典の知恵の書九・一五。英文から訳し、出典を付けなかった。
 
 4. But does it only cause this in the time of sickness or preternatural disorder Nay, but more or less, at all times, even in a state of perfect health.
-（四）　けれども、体がこうした思考の乱れを生じさせるのは、病気のときや、自然に反する不調のときだけでしょうか。いいえ、程度の差はあっても、いつでも、完全に健康な状態のときでさえ、そうなのです。
+（四）　けれども、体がこうした思考の乱れを生じさせるのは、病気のときや、異常な不調のときだけでしょうか。いいえ、程度の差はあっても、いつでも、完全に健康な状態のときでさえ、そうなのです。
 Let a man be ever so healthy, he will be more or less delirious every four-and-twenty hours.
 どれほど健康な人でも、二十四時間ごとに、多かれ少なかれせん妄状態になります。
 For does he not sleep And while he sleeps, is he not liable to dream
-というのは、人は眠るではありませんか。そして、眠っている間は、夢を見がちではありませんか。
+というのは、人は眠るのではありませんか。そして、眠っている間は、夢を見がちではありませんか。
 And who then is master of his own thoughts, or able to preserve the order and consistency of them Who can then keep them fixed to any one point, or prevent their wandering from pole to pole
 そのとき、だれが自分の思いの主人でいられるでしょうか。だれが思いの秩序とつながりを保てるでしょうか。だれがそのとき、思いを一つの事柄に固定しておけるでしょうか。思いが地の果てから果てまでさまようのを、だれが防げるでしょうか。
 
@@ -155,7 +156,7 @@ The imagination, without leave, starts to and fro, and carries us away hither an
 How these connexions are formed, we cannot tell; but they are formed in a thousand different manners.
 このつながりがどのようにしてできるのかは、分かりません。けれども、それは無数の違ったしかたでできるのです。
 Nor is it in the power of the wisest or holiest of men to break those associations, or prevent what is the necessary consequences of them, and matter of daily observation.
-最も賢い人、最も聖い人でさえ、その連合を断ち切ることはできません。また、その必然の結果を防ぐこともできません。それは、日々見られることです。
+最も賢い人、最も聖い人でさえ、その連合を断ち切ることはできません。また、その必然の結果、日々目にする結果を防ぐこともできません。
 Let the fire but touch one end of the train, and it immediately runs on to the other.
 火が導火線の一端に触れさえすれば、火はたちまち他の端まで走ります。
 
@@ -180,7 +181,7 @@ Every man, therefore, that does anything in our sight, or speaks anything in our
 Sometimes by one, sometimes by another, of these means, they will harass and perplex us, and, so far as God permits, interrupt our thoughts, particularly when they are engaged on the best subjects.
 彼らは、ときにはこの手段で、ときにはあの手段で、私たちを悩ませ、まごつかせます。そして、神の許される限り、私たちの思いを妨げます。特に、思いが最も良い主題に向けられているときに、そうするのです。
 Nor is this at all strange: They will understand the very springs of thought; and know on which of the bodily organs the imagination, the understanding, and every other faculty of the mind more immediately depends.
-これは少しも不思議ではありません。彼らは、思考の源そのものを理解しているに違いありません。また、想像も悟りも、心のほかのあらゆる働きも、体のどの器官に最も直接に依存しているかを知っているに違いありません。
+これは少しも不思議ではありません。彼らは、思考の源そのものを理解しているに違いありません。また、想像も悟りも、心のほかのあらゆる働きも、体のどの器官により直接に依存しているかを知っているに違いありません。
 And hereby they know how, by affecting those organs, to affect the operations dependent on them.
 それによって、彼らは、その器官に働きかけて、それに依存する働きを左右するすべを知っています。
 Add to this, that they can inject a thousand thoughts, without any of the preceding means; it being as natural for spirit to act upon spirit, as for matter to act upon matter.
@@ -202,7 +203,7 @@ Such are all murmuring, discontented thoughts, which say, in effect, "We will no
 不平や不満の思いはみなそうです。それは事実上、あなたが「王になるのをわれわれは望んでいない」（ルカ一九・一四）と言っているのです。不信仰な思いもみなそうです。それが神の存在についてであっても、神の属性や摂理についてであっても、そうです。
 // 英文の We will not have thee to rule over us は、ルカ一九・一四 の「この人が」を「あなたが」に言いかえた句なので、「あなたが」を「」の外に出した。
 I mean, his particular providence over all things, as well as all persons, in the universe; that without which "not a sparrow falls to the ground," by which "the hairs of our head are all numbered;"
-私の言う摂理とは、宇宙のすべての人々だけでなく、すべての物にも及ぶ、神の個別の摂理のことです。それなしには、すずめ「の一羽も地に落ちることはない」（マタイ一〇・二九）摂理です。それによって、私たちの「頭の毛」が「みな数えられている」（マタイ一〇・三〇）摂理です。
+私の言う摂理とは、宇宙のすべての人々だけでなく、すべての物にも及ぶ、神の個別の摂理のことです。それなしには、すずめの「一羽も地に落ちることはない」（マタイ一〇・二九）摂理です。それによって、私たちの「頭の毛」が「みな数えられている」（マタイ一〇・三〇）摂理です。
 for as to a general providence, (vulgarly so called,) contradistinguished from a particular, it is only a decent, well-sounding word, which means just nothing.
 というのは、世間で言う一般的な摂理、つまり個別の摂理と区別されたものは、体裁がよく響きのよい言葉にすぎないからです。それは、まったく何も意味しません。
 
@@ -219,7 +220,7 @@ For not only whatever flows from evil is evil; but also whatever leads to it; wh
 悪から流れ出るものだけでなく、悪へ導くものも、みな悪だからです。魂を神から遠ざけ、魂を地につくもの、肉に属するもの、悪魔的なもの（ヤコブ三・一五）にし、またそうしておこうとするものは、みな悪なのです。
 
 4. Hence, even those thoughts which are occasioned by weakness or disease, by the natural mechanism of the body, or by the laws of vital union, however innocent they may be in themselves, do nevertheless become sinful, when they either produce or cherish and increase in us any sinful temper;
-（四）　ですから、弱さや病気、体の自然のしくみ、あるいは魂と体の生命の結びつきの法則によって生じる思いでさえ、罪となることがあります。その思いは、それ自体はどれほど罪のないものであってもかまいません。私たちのうちに何かの罪深い気質を生み出したり、はぐくんで増したりするときには、それでも罪となるのです。
+（四）　ですから、弱さや病気、体の自然のしくみ、魂と体の生命の結びつきの法則によって生じる思いでさえ、罪となります。それは、その思いが私たちのうちに何かの罪深い気質を生み出したり、はぐくんで増したりするときです。その思いは、それ自体ではどれほど罪のないものであっても、そのときには罪となるのです。
 suppose the desire of the flesh, the desire of the eye, or the pride of life.
 たとえば、肉の欲、目の欲、持ち物の誇（第一ヨハネ二・一六）がそうです。
 In like manner, the wandering thoughts which are occasioned by the words or actions of other men, if they cause or feed any wrong disposition, then commence sinful.
@@ -255,12 +256,12 @@ He had therefore a thought correspondent to those words.
 But was it a sinful thought We know it was not.
 けれども、それは罪深い思いだったでしょうか。そうでなかったことを、私たちは知っています。
 In him was no sin, either in action, or word, or thought.
-主には、行いにも、言葉にも、思いにも、なんらの罪がありませんでした（第一ヨハネ三・五）。
+主には、行いにも、言葉にも、思いにも、なんらの罪もありませんでした（第一ヨハネ三・五）。
 Nor is there any sin in a thousand thoughts of the same kind, which Satan may inject into any of our Lord's followers.
 サタンは、主に従うだれにでも、同じ種類の無数の思いを注ぎこむかもしれません。けれども、その思いにも何の罪もありません。
 
 7. It follows that none of these wandering thoughts (whatever unwary persons have affirmed, thereby grieving whom the Lord had not grieved) are inconsistent with perfect love.
-（七）　ですから、こうしたさまよう思いは、どれも完全な愛と矛盾しません。不注意な人々が何と断言してきたにせよ、そうなのです。彼らはそう断言して、主が悩まされなかった人々を悩ましてきました（エゼキエル一三・二二）。
+（七）　ですから、こうしたさまよう思いは、どれも完全な愛と矛盾しません。不注意な人々が何と断言してきたにせよ、そうなのです。彼らはそう断言して、主が悩ますことをなさらなかった人々を悩ましてきました（エゼキエル一三・二二）。
 Indeed, if they were, then not only sharp pain, but sleep itself, would be inconsistent with it: -- Sharp pain; for whenever this supervenes, whatever we were before thinking of, it will interrupt our thinking, and of course draw our thoughts into another channel: -- Yea, and sleep itself;
 実に、もし矛盾するなら、激しい痛みだけでなく、眠りそのものも、完全な愛と矛盾することになるでしょう。激しい痛みがそうなるのは、次の理由からです。痛みが起こるときにはいつも、それまで何を考えていたにせよ、思考が妨げられ、当然、思いが別の流れへ引きこまれるのです。そうです、眠りそのものも矛盾することになります。
 as it is a state of insensibility and stupidity; and such as is generally mixed with thoughts wandering over the earth, loose, wild, and incoherent.
@@ -268,7 +269,7 @@ as it is a state of insensibility and stupidity; and such as is generally mixed 
 Yet certainly these are consistent with perfect love: So then are all wandering thoughts of this kind.
 けれども、確かに、これらは完全な愛と両立します。それなら、この種のさまよう思いも、みな両立するのです。
 
-## 【四】　どれから解放されると期待し、祈り求めてよいか
+## 【四】　どれから解放されることを期待し、祈り求めてよいか
 
 IV. 1. From what has been observed, it is easy to give a clear answer to the last question, -- What kind of wandering thoughts we may expect and pray to be delivered from.
 （一）　これまで述べたことから、最後の問いにはっきり答えるのはたやすいことです。どんな種類のさまよう思いから解放されることを期待し、祈り求めてよいか、という問いです。
@@ -320,7 +321,7 @@ Nor, therefore, can we expect them to be removed till "this corruptible shall pu
 5. And then only, when we lie down in the dust, shall we be delivered from those wandering thoughts which are occasioned by what we see and hear, among those by whom we are now surrounded.
 （五）　今、私たちは人々に取り囲まれていて、その中で見たり聞いたりするものによって、さまよう思いが生じます。そうした思いから解放されるのは、私たちがちりの中に横たわるときだけです。
 To avoid these, we must go out of the world: For as long as we remain therein, as long as there are men and women round about us, and we have eyes to see and ears to hear, the things which we daily see and hear will certainly affect our mind, and will more or less break in upon and interrupt our preceding thoughts.
-これを避けるには、この世から出て行かねばなりません（第一コリント五・一〇）。私たちが世にとどまる限り、まわりに男や女がいて、私たちに見る目と聞く耳がある限り、そうなのです。日々見聞きするものは必ず心に働きかけます。そして、多かれ少なかれ、それまでの思考に割りこみ、それを妨げるからです。
+これを避けるには、この世から出て行かねばなりません（第一コリント五・一〇）。私たちが世にとどまり、まわりに男や女がいて、私たちに見る目と聞く耳がある限り、日々見聞きするものは必ず心に働きかけるからです。そして、多かれ少なかれ、それまでの思考に割りこみ、それを妨げるのです。
 
 6. And as long as evil spirits roam to and fro in a miserable, disordered world, so long they will assault (whether they can prevail or no) every inhabitant of flesh and blood.
 （六）　また、悪霊どもがこのみじめで乱れた世をあちこち歩きまわっている限り、彼らは、血肉を持つすべての住人を襲うでしょう。打ち勝てても、打ち勝てなくても、襲うのです。
@@ -351,7 +352,7 @@ Let us pray, that we may be delivered from all sin; that both the root and branc
 that we may be "cleansed from all pollution of flesh and spirit," from every evil temper, and word, and work;
 「肉と霊とのいっさいの汚れから」（第二コリント七・一）、すべての悪い気質と言葉と行いから、きよめられるように祈りましょう。
 that we may "love the Lord our God with all our heart, with all our mind, with all our soul, and with all our strength;"
-私たちが「心をつくし、精神をつくし、思いをつくし、力をつくして」、主なる私たちの「神を愛」する（マルコ一二・三〇）ように祈りましょう。
+私たちが「心をつくし、精神をつくし、思いをつくし、力をつくして、主なる」私たちの「神を愛」する（マルコ一二・三〇）ように祈りましょう。
 // 英文は heart, mind, soul, strength の順だが、口語訳マルコ一二・三〇 の順で引いた。
 that all the fruit of the Spirit may be found in us, -- not only love, joy, peace, but also "long-suffering, gentleness, goodness, fidelity, meekness, temperance."
 御霊の実（ガラテヤ五・二二）のすべてが私たちのうちに見いだされるように祈りましょう。愛、喜び、平和だけでなく、「寛容、慈愛、善意、忠実、柔和、自制」（ガラテヤ五・二二〜二三）も見いだされるように祈るのです。
