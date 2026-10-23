@@ -47,14 +47,14 @@ that "in Adam all died," spiritually died, lost the life and the image of God;
 that fallen, sinful Adam then "begat a son in his own likeness;" -- nor was it possible he should beget him in any other;
 また、堕落して罪深くなったアダムが、それから「自分のかたちのような男の子を生」んだ（創世記五・三）と断言しています。アダムがそれ以外のかたちで子を生むことは、ありえませんでした。
 for "who can bring a clean thing out of an unclean" --
-「だれが汚れたもののうちから清いものを出すことができよう」か（ヨブ一四・四）。
+「だれが汚れたもののうちから清いものを出すことができ」ましょうか（ヨブ一四・四）。
 that consequently we, as well as other men, were by nature "dead in trespasses and sins," "without hope, without God in the world," and therefore "children of wrath;"
 また、したがって私たちもほかの人々と同じく、生れながら「罪過と罪とによって死んでいた者」（エペソ二・一）であったと断言しています。「この世の中で希望もなく神もない者」（エペソ二・一二）であり、それゆえ「怒りの子」（エペソ二・三）であった、と断言しているのです。
 that every man may say, "I was shapen in wickedness, and in sin did my mother conceive me;"
 また、だれでも、「わたしは不義のなかに生れました。わたしの母は罪のうちにわたしをみごもりました」（詩篇五一・五）と言うことができる、と断言しています。
 // 英文の shapen in wickedness は祈祷書の詩篇五一・五 の言い回し（欽定訳は iniquity）。口語訳とほぼ同じ意味なので、口語訳で引いた（III.1 も同じ）。
 that "there is no difference," in that "all have sinned and come short of the glory of God," of that glorious image of God wherein man was originally created.
-また、「なんらの差別もない」（ローマ三・二二）と断言しています。「すべての人は罪を犯したため、神の栄光を受けられなくなって」いる（ローマ三・二三）からです。すなわち、人が初めに造られたときの、あの神の栄光あるかたちを、受けられなくなっているのです。
+また、「なんらの差別もない」（ローマ三・二二）と断言しています。「すべての人は罪を犯したため、神の栄光を受けられなくなって」いる（ローマ三・二三）からです。すなわち、人が初めに造られたときの、あの神の栄光あるかたちに、届かなくなっているのです。
 And hence, when "the Lord looked down from heaven upon the children of men, he saw they were all gone out of the way; they were altogether become abominable, there was none righteous, no, not one," none that truly sought after God:
 そこで、「主は天から人の子らを見おろして」（詩篇一四・二）、彼らが「みな迷い、みなひとしく腐れた」（詩篇一四・三）のを見られました。「義人はいない、ひとりもいない」（ローマ三・一〇）のでした。本当に神を求める人は、いなかったのです（ローマ三・一一）。
 // 英文の gone out of the way, altogether become abominable は祈祷書の詩篇一四・三〜四 の言い回し。口語訳の詩篇一四・三 で引き、none righteous はローマ三・一〇 で引いた。
@@ -76,7 +76,7 @@ And, Thirdly, to add some inferences.
 I. 1. I am, First, by opening the words of the text, to show what men were before the flood.
 （一）　第一に、聖句の言葉を解き明かして、洪水の前の人々がどのようであったかを示します。
 And we may fully depend on the account here given: For God saw it, and he cannot be deceived.
-ここに示された説明には、全く信頼することができます。神がそれを見られたのであり、神が欺かれることはありえないからです。
+ここに示された説明には、まったく信頼することができます。神がそれを見られたのであり、神が欺かれることはありえないからです。
 He "saw that the wickedness of man was great:" -- Not of this or that man; not of a few men only; not barely of the greater part, but of man in general; of men universally.
 神は、「人の悪が」「はびこ」るのを見られました（創世記六・五）。それは、あれこれの人の悪ではありません。わずかな人々だけの悪でもありません。大部分の人々の悪というだけでもありません。人間全体の悪、例外なくすべての人の悪です。
 The word includes the whole human race, every partaker of human nature.
@@ -90,7 +90,7 @@ The face of the globe was not rent and torn as it is now; and spring and summer 
 It is therefore probable, it afforded sustenance for far more inhabitants than it is now capable of sustaining;
 ですから、地は、今養うことのできるよりもはるかに多くの住民に、糧を与えていたと考えられます。
 and these must be immensely multiplied, while men begat sons and daughters for seven or eight hundred years together.
-そして、人々が七百年、八百年にもわたって息子や娘を生んでいたのですから（創世記五章）、住民はとてつもなく増えたに違いありません。
+そして、人々が七百年、八百年にもわたって息子や娘を生んでいたのですから、住民はとてつもなく増えたに違いありません。
 Yet, among all this inconceivable number, only "Noah found favour with God."
 それなのに、この想像もできないほどの数の中で、ただノアだけが、神の前に「恵みを得た」のです（創世記六・八）。
 // 口語訳の創世記六・八 は「ノアは主の前に恵みを得た」。英文の with God に合わせ、「神の前に」を「」の外に出した。
@@ -199,7 +199,7 @@ Indeed we could not by any of our natural faculties. By none of these could we a
 We could no more perceive him by our natural understanding, than we could see him with our eyes.
 生れながらの悟りによって神を認めることは、目で神を見ることと同じく、できませんでした。
 For "no one knoweth the Father but the Son, and he to whom the Son willeth to reveal him. And no one knoweth the Son but the Father, and he to whom the Father revealeth him."
-「父を知る者は、子と、父をあらわそうとして子が選んだ者とのほかに、だれもありません」。また、「子を知る者は父のほかにはなく」、父が子をあらわされる者のほかには、だれもいないからです（マタイ一一・二七）。
+「父を知る者は、子と、父をあらわそうとして子が選んだ者とのほかに、だれもありません」。また、「子を知る者は父」と、父が子をあらわされる者とのほかには、だれもいないからです（マタイ一一・二七）。
 // 英文はマタイ一一・二七 の前後を入れ替え、and he to whom the Father revealeth him を加えている（マタイ一六・一七 参照）。加えられた部分は英文から訳し、「」の外に出した。
 
 4. We read of an ancient king, who, being desirous to know what was the natural language of men, in order to bring the matter to a certain issue, made the following experiment:
@@ -259,7 +259,7 @@ We do no, like the idolatrous Heathens, worship molten or graven images.
 We do not bow down to the stock of a tree, to the work of our own hands.
 木のはしくれの前にひれ伏したり（イザヤ四四・一九）、自分の手のわざを拝んだり（イザヤ二・八）はしません。
 We do not pray to the angels or saints in heaven, any more than to the saints that are upon the earth.
-天にいる御使いや聖人に祈ることもしません。地上にいる聖徒に祈らないのと同じです。
+天にいる御使いや聖徒に祈ることもしません。地上にいる聖徒に祈らないのと同じです。
 But what then We have set up our idols in our hearts; and to these we bow down and worship them:
 けれども、それが何でしょう。私たちは、自分の偶像を心の中に持ち（エゼキエル一四・三）、それにひれ伏して拝んでいるのです。
 We worship ourselves, when we pay that honour to ourselves which is due to God only.
@@ -317,7 +317,7 @@ The man, with all his good breeding, and other accomplishments, has no pre-emine
 Nay, it is much to be doubted, whether the beast has not the pre-eminence over him.
 いや、むしろ、獣のほうが人にまさっているのではないかと、大いに疑われます。
 Certainly he has, if we may hearken to one of their modern oracles, who very decently tells us,
-彼らの近代の神託の一人に耳を傾けてよいなら、確かに獣のほうがまさっています。その人は、きわめて上品に、こう語っています。
+彼らの近代の託宣者の一人に耳を傾けてよいなら、確かに獣のほうがまさっています。その人は、きわめて上品に、こう語っています。
 
 Once in a season beasts too taste of love;
 獣も、季節に一度は恋を味わう。<br/>
@@ -370,7 +370,7 @@ This day, like all the former, flies:
 Yet on he goes, to seek delight
 それでも彼は進み続け、喜びを求める、<br/>
 To-morrow, till to-night he dies!
-あすこそは、と。そして今夜、死ぬのだ。<br/>
+あすこそは、と。今夜、死ぬそのときまで。<br/>
 // マシュー・プライアーの詩「チャールズ・モンタギュー閣下へ」の一節（ボドリアン図書館の写本詩データベースによる）。
 
 11. A third symptom of this fatal disease, the love of the world, which is so deeply rooted in our nature, is "the pride of life;" the desire of praise, of the honour that cometh of men.
@@ -387,14 +387,14 @@ Yea, eminent Christians, so called, make no difficulty of adopting the saying of
 % Animi dissoluti est et nequam negligere quid de se homines sentiant. （人が自分のことをどう思うかを気にかけないのは、邪悪で放埓な心のしるしである）
 // キケロ『義務について』一・九九 に「人が自分のことをどう思うかを気にかけないのは、高慢であるだけでなく、まったく放埓なことである」という近い言葉がある。英文のラテン語に続く "Not to regard …" はその英訳。訳は（）に入れた。
 So that to go calm and unmoved through honour and dishonour, through evil report and good report, is with them a sign of one that is, indeed, not fit to live: " Away with such a flow from the earth!"
-ほめられても、そしられても、悪評を受けても、好評を博しても（第二コリント六・八）、落ち着いて動じずに進むとします。それは、彼らにとっては、まさに生かしおくべきではない者のしるしなのです。「こんな男は地上から取り除いてしまえ」（使徒二二・二二）というわけです。
+ですから、ほめられても、そしられても、悪評を受けても、好評を博しても（第二コリント六・八）、落ち着いて動じずに進むとします。それは、彼らにとっては、まさに生かしおくべきではない者のしるしなのです。「こんな男は地上から取り除いてしまえ」（使徒二二・二二）というわけです。
 // 英文の flow は fellow の誤植。
 But would one imagine that these men had ever heard of Jesus Christ or his Apostles; or that they knew who it was that said, "How can ye believe who receive honour one of another, and seek not the honour which cometh of God only"
-けれども、この人々が、イエス・キリストや使徒たちのことを聞いたことがあると、だれが思うでしょうか。「互に誉を受けながら、ただひとりの神からの誉を求めようとしないあなたがたは、どうして信じることができようか」（ヨハネ五・四四）。こう言われたのがだれであるかを、彼らが知っていると、だれが思うでしょうか。
+けれども、この人々が、イエス・キリストや使徒たちのことを聞いたことがあると、だれが思うでしょうか。「互に誉を受けながら、ただひとりの神からの誉を求めようとしないあなたがたは、どうして信じることができ」ましょうか（ヨハネ五・四四）。こう言われたのがだれであるかを、彼らが知っていると、だれが思うでしょうか。
 But if this is really so, if it be impossible to believe, and consequently to please God, so long as we receive or seek honour one of another, and seek not the honour which cometh of God only;
-けれども、もしこれが本当にそのとおりだとします。すなわち、私たちが互に誉を受けたり求めたりして、ただひとりの神からの誉を求めないとします。その限り、信じることはできず、したがって神に喜ばれることもできない（ヘブル一一・六）とします。
+けれども、もしこれが本当にそのとおりだとします。すなわち、私たちが互いに誉を受けたり求めたりして、ただひとりの神からの誉を求めないとします。その限り、信じることはできず、したがって神に喜ばれることもできない（ヘブル一一・六）とします。
 then in what a condition are all mankind! the Christians as well as Heathens! since they all seek honour one of another!
-そうなら、全人類は何という状態にあることでしょう。異教徒だけでなく、クリスチャンも何という状態にあることでしょう。彼らはみな、互に誉を求めているのですから。
+そうなら、全人類は何という状態にあることでしょう。異教徒だけでなく、クリスチャンも何という状態にあることでしょう。彼らはみな、互いに誉を求めているのですから。
 since it is as natural for them so to do, themselves being the judges, as it is to see the light which strikes upon their eye, or to hear the sound which enters their ear;
 彼ら自身の判断でも、そうすることは、彼らにとって自然なことなのですから。目に当たる光を見たり、耳に入る音を聞いたりするのと同じほど、自然なことなのですから。
 yea, since they account it a sign of a virtuous mind, to seek the praise of men, and of a vicious one, to be content with the honour that cometh of God only!
@@ -418,7 +418,7 @@ But still as none of them were apprized of the fall of man, so none of them knew
 They knew not that all men were empty of all good, and filled with all manner of evil.
 すべての人があらゆる善を欠き、あらゆる悪に満ちていることを、知らなかったのです。
 They were wholly ignorant of the entire depravation of the whole human nature, of every man born into the world, in every faculty of his soul, not so much by those particular vices which reign in particular persons, as by the general flood of Atheism and idolatry, of pride, self-will, and love of the world.
-彼らは、人間の本性全体がまったく堕落していることを、まるで知りませんでした。この世に生れるすべての人が、魂のあらゆる能力において堕落しているのです。それは、個々の人を支配する個々の悪徳によるというよりも、全体にあふれる洪水によるのです。すなわち、無神論と偶像礼拝、高ぶりと我意と世への愛の洪水です。
+彼らは、人間の本性全体がまったく腐敗していることを、まるで知りませんでした。この世に生れるすべての人が、魂のあらゆる能力において腐敗しているのです。それは、個々の人を支配する個々の悪徳によるというよりも、全体にあふれる洪水によるのです。すなわち、無神論と偶像礼拝、高ぶりと我意と世への愛の洪水です。
 This, therefore, is the first grand distinguishing point between Heathenism and Christianity.
 ですから、これが、異教とキリスト教とを分ける第一の大きな点です。
 The one acknowledges that many men are infected with many vices, and even born with a proneness to them; but supposes withal, that in some the natural good much over-balances the evil:
@@ -439,7 +439,7 @@ They may, indeed, allow, that men have many vices; that some are born with us; a
 there being few that will roundly affirm, "We are born with as much propensity to good as to evil, and that every man is, by nature, as virtuous and wise as Adam was at his creation."
 「私たちは悪への傾きと同じほど善への傾きを持って生れる。すべての人は生れながら、造られたときのアダムと同じほど徳が高く賢い」と、はっきり断言する人は、ほとんどいないからです。
 But here is the shibboleth: Is man by nature filled with all manner of evil Is he void of all good Is he wholly fallen Is his soul totally corrupted
-けれども、ここに、見分けの合言葉シボレテ（士師記一二・六）があります。人は生れながら、あらゆる悪に満ちているでしょうか。あらゆる善を欠いているでしょうか。まったく堕落しているでしょうか。人の魂はまったく腐敗しているでしょうか。
+けれども、ここに、見分けの合言葉「シボレテ」（士師記一二・六）があります。人は生れながら、あらゆる悪に満ちているでしょうか。あらゆる善を欠いているでしょうか。まったく堕落しているでしょうか。人の魂はまったく腐敗しているでしょうか。
 Or, to come back to the text, is "every imagination of the thoughts of his heart only evil continually"
 あるいは、聖句に戻って言えば、人が「すべてその心に思いはかることが、いつも悪い事ばかりである」のでしょうか（創世記六・五）。
 Allow this, and you are so far a Christian. Deny it, and you are but an Heathen still.
@@ -465,7 +465,7 @@ that of self-will by resignation, a meek and thankful submission to the will of 
 and for the love of the world in all its branches, the love of God is the sovereign remedy.
 そして、あらゆる枝葉に分かれた世への愛には、神への愛こそが特効薬です。
 Now, this is properly religion, "faith" thus "working by love;"
-さて、これこそが本来の宗教です。こうして「愛によって働く信仰」（ガラテヤ五・六）です。
+さて、これこそが本来の宗教、すなわち、こうして「愛によって働く信仰」（ガラテヤ五・六）です。
 working the genuine meek humility, entire deadness to the world, with a loving, thankful acquiescence in, and conformity to, the whole will and word of God.
 その信仰は、本物の柔和なへりくだりを生み出し、世に対して完全に死ぬことを生み出します。また、神の御旨とみことばのすべてに、愛と感謝をもって甘んじて従い、それにかなう者となることを生み出すのです。
 
@@ -474,14 +474,14 @@ working the genuine meek humility, entire deadness to the world, with a loving, 
 There would be no occasion for this work in the heart, this renewal in the spirit of our mind.
 心のうちのこのわざ、すなわち心の深みまで新たにされること（エペソ四・二三）も、必要ないでしょう。
 The superfluity of godliness would then be a more proper expression than the "superfluity of naughtiness."
-英語の聖書は、ヤコブ一・二一 の「はなはだしい悪」を「あり余る悪」と訳しています。人が堕落していないなら、「あり余る悪」よりも、「あり余る敬虔」と言うほうが、ふさわしい言い方になるでしょう。
+英語の聖書は、「はなはだしい悪」（ヤコブ一・二一）を「あり余る悪」と訳しています。人が堕落していないなら、「あり余る悪」よりも、「あり余る敬虔」と言うほうが、ふさわしい言い方になるでしょう。
 // 欽定訳のヤコブ一・二一 superfluity of naughtiness を、ウェスレーが superfluity of godliness ともじっている。口語訳の「はなはだしい悪」ではもじりが伝わらないので、英語の聖書の語であることを補った。
 For an outside religion, without any godliness at all, would suffice to all rational intents and purposes.
-敬虔が少しもない外面だけの宗教で、理にかなった目的には何にでも十分に足りるからです。
+敬虔が少しもない外面だけの宗教で、理性の目から見れば、どの点でも十分に足りるからです。
 It does, accordingly, suffice, in the judgment of those who deny this corruption of our nature.
 実際、私たちの本性のこの腐敗を否定する人々の判断では、それで十分なのです。
 They make very little more of religion than the famous Mr. Hobbes did of reason.
-彼らは宗教を、あの有名なホッブズ氏が理性をとらえたのと、ほとんど変わらないものとしてとらえています。
+彼らは宗教を、あの有名なホッブズ氏が理性を見たのと同じく、ほとんどそれ以上のものとは見ていません。
 According to him, reason is only "a well-ordered train of words:"
 ホッブズによれば、理性とは「よく秩序づけられた言葉の連なり」にすぎません。
 // トマス・ホッブズ（『リヴァイアサン』の著者）。この定義の出典は確認できなかった。
