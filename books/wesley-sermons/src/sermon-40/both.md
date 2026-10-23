@@ -63,7 +63,7 @@ Touching the Almighty himself, they cannot search him out to perfection.
 「見よ、これらはただ彼の道の端にすぎません」。「しかし、その力のとどろきに至っては、だれが悟ることができるでしょうか」（ヨブ二六・一四）。
 They cannot understand, I will not say, how "there are Three that bear record in heaven, the Father, the Son, and the Holy Spirit, and these three are one;" [1 John 5:7] or how the eternal Son of God "took upon himself the form of a servant;" [Phil. 2:7] -- but not any one attribute, not any one circumstance of the divine nature. [2 Pet. 1:4]
 彼らには悟れません。天においてあかしをするものが三つ、すなわち父と子と聖霊とがあり、この三つが一つである（第一ヨハネ五・七）のは、どうしてなのか。永遠の神の御子が、どのようにして「僕のかたちをと」られた（ピリピ二・七）のか。こうしたことが悟れないのは、言うまでもありません。神の性質（第二ペテロ一・四）の属性の一つさえ、事情の一つさえ、悟れないのです。
-// 英文の there are Three that bear record in heaven … these three are one は、欽定訳第一ヨハネ五・七 の句で、、口語訳にない（写本の違い。口語訳は「あかしをするものが、三つある」だけ）。英文から訳し、「」に入れなかった。
+// 英文の there are Three that bear record in heaven … these three are one は、欽定訳第一ヨハネ五・七 の句で、口語訳にない（写本の違い。口語訳は「あかしをするものが、三つある」だけ）。英文から訳し、「」に入れなかった。
 Neither is it for them to know the times and seasons [Acts 1:7] when God will work his great works upon the earth; no, not even those which he hath in part revealed by his servants and Prophets since the world began. [see Amos 3:7]
 また、神が地上でその大いなるわざを行われる時期や場合は、彼らの知る限りではありません（使徒一・七）。神が世の初めから、そのしもべである預言者たちによって部分的に示してこられた（アモス三・七）ことさえ、知りえないのです。
 Much less do they know when God, having "accomplished the number of his elect, will hasten his kingdom;" when "the heavens shall pass away with a great noise, and the elements shall melt with fervent heat." [2 Pet. 3:10]
@@ -82,9 +82,9 @@ So great is the ignorance, so very little the knowledge, of even the best of men
 4 No one, then, is so perfect in this life, as to be free from ignorance.
 （四）　ですから、この世で無知から解放されるほど完全な人は、だれもいません。
 Nor, Secondly, from mistake; which indeed is almost an unavoidable consequence of it; seeing those who "know but in part" [1 Cor. 13:12] are ever liable to err touching the things which they know not.
-第二に、誤りから解放されるほど完全な人もいません。誤りは、実に、無知からほとんど避けられない結果です。「知るところは、今は一部分にすぎない」（第一コリント一三・一二）者は、知らないことについて、いつもまちがいやすいからです。
+第二に、誤りから解放されるほど完全な人もいません。誤りは、実に、無知からほとんど避けがたく生じるものです。「知るところは、今は一部分にすぎない」（第一コリント一三・一二）者は、知らないことについて、いつもまちがいやすいからです。
 It is true, the children of God do not mistake as to the things essential to salvation: They do not "put darkness for light, or light for darkness;" [Isa. 5:20] neither "seek death in the error of their life." [Wisdom 1:12]
-確かに、神の子たちは、救いに欠かせないことについてはまちがいません。「暗きを光とし、光を暗し」とすることはありません（イザヤ五・二〇）。また、「自分の生活の迷いによって死を求める」こともありません。
+確かに、神の子たちは、救いに欠かせないことについてはまちがいません。「暗きを光とし、光を暗し」とする（イザヤ五・二〇）ことはありません。また、「自分の生活の迷いによって死を求める」こともありません。
 // 「自分の生活の迷いによって…」は外典の知恵の書一・一二。英文から訳し、出典を付けなかった。
 For they are "taught of God," and the way which he teaches them, the way of holiness, is so plain, that "the wayfaring man, though a fool, need not err therein." [Isa. 35:8]
 彼らは「神に教えられる」（ヨハネ六・四五）からです。そして、神が彼らに教える道、すなわち聖なる道は、きわめて明らかです。旅人は、たとえ「愚かなる者」でも、「そこに迷い入ることはない」（イザヤ三五・八）ほどなのです。
@@ -92,7 +92,7 @@ For they are "taught of God," and the way which he teaches them, the way of holi
 But in things unessential to salvation they do err, and that frequently.
 けれども、救いに欠かせないものでないことについては、彼らもまちがいます。しかも、たびたびまちがうのです。
 The best and wisest of men are frequently mistaken even with regard to facts; believing those things not to have been which really were, or those to have been done which were not.
-最も善く、最も賢い人々でさえ、事実についてさえ、たびたびまちがいます。本当にあったことをなかったと信じたり、なされなかったことをなされたと信じたりするのです。
+最も善く、最も賢い人々も、事実についてさえ、たびたびまちがいます。本当にあったことをなかったと信じたり、なされなかったことをなされたと信じたりするのです。
 Or, suppose they are not mistaken as to the fact itself, they may be with regard to its circumstances; believing them, or many of them, to have been quite different from what in truth, they were.
 あるいは、事実そのものについてはまちがわないとします。それでも、その事情についてはまちがうことがありえます。その事情の全部か多くが、実際とはまったく違っていたと信じるのです。
 And hence cannot but arise many farther mistakes.
@@ -117,7 +117,7 @@ The answer is plain: "Ye know all things that are needful for your souls' health
 That the Apostle never designed to extend this farther, that he could not speak it in an absolute sense, is clear, First from hence; -- that otherwise he would describe the disciple as "above his Master;" seeing Christ himself, as man, knew not all things:
 使徒がこの言葉をそれ以上に広げるつもりは決してなかったこと、絶対的な意味で言うことはできなかったことは、明らかです。第一に、そうでなければ、使徒は弟子を「その師以上のもの」（マタイ一〇・二四）として描くことになるからです。キリストご自身でさえ、人としては、すべてのことを知っておられたわけではないのです。
 "Of that hour," saith he, "knoweth no man; no, not the Son, but the Father only." [Mark 13:32]
-キリストはこう言われました。「その時は、だれも知らない」。「子も知らない、ただ父だけが知っておられます」（マルコ一三・三二）。
+キリストはこう言われました。「その時は、だれも知りません」。「子も知らない、ただ父だけが知っておられます」（マルコ一三・三二）。
 It is clear, Secondly, from the Apostle's own words that follow: "These things have I written unto you concerning them that deceive you;" [cf. 1 John 3:7]
 第二に、そのあとに続く使徒自身の言葉から明らかです。「わたしは、あなたがたを惑わす者たちについて、これらのことを書きおくりました」（第一ヨハネ二・二六）。
 // 英文の [cf. 1 John 3:7] は、引用の文言から第一ヨハネ二・二六 とした。
@@ -149,7 +149,7 @@ And from these none can hope to be perfectly freed till the spirit returns to Go
 8 Nor can we expect, till then, to be wholly free from temptation. Such perfection belongeth not to this life.
 （八）　また、そのときまでは、誘惑からすっかり解放されることも期待できません。そのような完全は、この世のものではありません。
 It is true, there are those who, being given up to work all uncleanness with greediness, [Eph. 4:19] scarce perceive the temptations which they resist not, and so seem to be without temptation.
-確かに、ほしいままにあらゆる不潔な行いをして、身をゆだねている（エペソ四・一九）人々がいます。彼らは、抵抗しない誘惑にほとんど気づかないので、誘惑がないように見えます。
+確かに、ほしいままにあらゆる不潔な行いをすることに身をゆだねている（エペソ四・一九）人々がいます。彼らは、抵抗しない誘惑にほとんど気づかないので、誘惑がないように見えます。
 There are also many whom the wise enemy of souls, seeing to be fast asleep in the dead form of godliness, will not tempt to gross sin, lest they should awake before they drop into everlasting burnings.
 また、死んだ敬虔の形（第二テモテ三・五）の中でぐっすり眠りこんでいる人々も、多くいます。魂の賢い敵は、彼らがそうなのを見て、ひどい罪へは誘惑しません。彼らがとこしえの燃える火（イザヤ三三・一四）の中に落ちる前に、目を覚ましてしまわないためです。
 I know there are also children of God who, being now justified freely, [Rom. 5:1] having found redemption in the blood of Christ, [Eph. 1:7] for the present feel no temptation.
@@ -161,10 +161,10 @@ God hath said to their enemies, "Touch not mine anointed, and do my children no 
 And for this season, it may be for weeks or months, he causeth them to "ride on high places;" [Deut. 32:13] he beareth them as on eagles' wings, [Exod. 19:4] above all the fiery darts of the wicked one. [Eph. 6:16]
 そしてこの期間、それは何週間か何か月かでしょうが、神は彼らに「高き所を乗り通らせ」ます（申命記三二・一三）。鷲の翼に載せる（出エジプト一九・四）ようにして、悪しき者の放つあらゆる火の矢（エペソ六・一六）の上に、彼らを運ばれるのです。
 But this state will not last always; as we may learn from that single consideration, -- that the Son of God himself, in the days of his flesh, was tempted even to the end of his life. [Heb. 2:18; 4:15; 6:7]
-けれども、この状態がいつまでも続くわけではありません。そのことは、ただ一つのことを考えるだけで分かります。神の御子ご自身が、肉の生活のとき（ヘブル五・七）、生涯の終わりまで試錬に会われた（ヘブル四・一五）ということです。
+けれども、この状態がいつまでも続くわけではありません。そのことは、ただ一つのことを考えるだけで分かります。神の御子ご自身が、肉の生活のとき（ヘブル五・七）、生涯の終わりまで誘惑を受けられた（ヘブル四・一五）ということです。
 // 英文の [Heb. 6:7] は、in the days of his flesh の文言からヘブル五・七 とした。
 Therefore, so let his servant expect to be; for "it is enough that he be as his Master." [Luke 6:40]
-ですから、そのしもべも同じことを覚悟すべきです。「僕がその主人のようであれば、それで十分です」（マタイ一〇・二五）。
+ですから、そのしもべも同じことを覚悟すべきです。「僕がその主人のようであれば、それで十分」だからです（マタイ一〇・二五）。
 // 英文の [Luke 6:40] は、引用の文言からマタイ一〇・二五 とした。
 
 9 Christian perfection, therefore, does not imply (as some men seem to have imagined) an exemption either from ignorance or mistake, or infirmities or temptations.
@@ -185,7 +185,7 @@ So that how much soever any man hath attained, or in how high a degree soever he
 II. 1. In what sense, then, are Christians perfect This is what I shall endeavor, in the Second place, to show.
 （一）　では、クリスチャンはどういう意味で完全なのでしょうか。これを第二に示すように努めます。
 But it should be premised, that there are several stages in Christian life, as in natural; some of the children of God being but new-born babes; others having attained to more maturity.
-けれども、前もって言っておくべきことがあります。生れながらの生活と同じように、クリスチャンの生活にもいくつかの段階がある、ということです。神の子たちのある者は、まだ生れたばかりの乳飲み子（第一ペテロ二・二）にすぎません。ほかの者は、もっと成熟に達しています。
+けれども、前もって言っておくべきことがあります。肉体の一生と同じように、クリスチャンの生活にもいくつかの段階がある、ということです。神の子たちのある者は、まだ生れたばかりの乳飲み子（第一ペテロ二・二）にすぎません。ほかの者は、もっと成熟に達しています。
 And accordingly St. John, in his first Epistle, (1 John 2:12, &c.,) applies himself severally to those he terms little children, those he styles young men, and those whom he entitles fathers.
 それに応じて、ヨハネはその第一の手紙で（第一ヨハネ二・一二〜一四）、子たちと呼ぶ人々、若者たちと呼ぶ人々、父たちと呼ぶ人々に、それぞれ語りかけています。
 "I write unto you, little children," saith the Apostle, "because your sins are forgiven you:" Because thus far you have attained, -- being "justified freely," you "have peace with God, through Jesus Christ." [Rom. 5:1]
@@ -297,7 +297,7 @@ So that whosoever would bring down the Christian dispensation to the Jewish stan
 I answer, No. The Scripture says no such thing. There is no such text in all the Bible.
 私は答えます。いいえ。聖書は、そのようなことを言っていません。聖書全体のどこにも、そのような本文はありません。
 That which seems to be intended is the sixteenth verse of the twenty-fourth chapter of the Proverbs the words of which are these: "A just man falleth seven times, and riseth up again." [Prov. 24:16]
-意図されているのは、箴言二十四章一六節のようです。その言葉はこうです。「正しい者は七たび倒れても、また起きあがります」（箴言二四・一六）。
+意図されているのは、箴言二四章一六節のようです。その言葉はこうです。「正しい者は七たび倒れても、また起きあがります」（箴言二四・一六）。
 But this is quite another thing. For, First, the words "a day" are not in the text.
 けれども、これはまったく別のことです。というのは、第一に、「一日に」という語は本文にないからです。
 So that if a just man falls seven times in his life, it is as much as is affirmed here.
@@ -339,7 +339,7 @@ So that, whatsoever was the case of those under the law, we may safely affirm wi
 After he had there related, those words of our blessed Lord, "He that believeth on me, as the Scripture hath said, out of his belly shall flow rivers of living water,"
 ヨハネはそこで、ほむべき主の言葉を記しています。「わたしを信じる者は、聖書に書いてあるとおり、その腹から生ける水が川となって流れ出るでしょう」（ヨハネ七・三八）。
 he immediately subjoins, "This spake he of the Spirit," ou emellon lambanein oi pisteuontes eis auton, -- which they who should believe on him were afterwards to receive.
-そのすぐ後に、こう付け加えています。「これは、」「御霊をさして言われたの」です。それは、フー・エメッロン・ランバネイン・ホイ・ピステウオンテス・エイス・アウトン（οὗ ἔμελλον λαμβάνειν οἱ πιστεύοντες εἰς αὐτόν）、すなわち、「イエスを信じる人々が受けようとしている」御霊です。
+そのすぐ後に、こう付け加えています。「これは」、「御霊をさして言われたの」です。それは、フー・エメッロン・ランバネイン・ホイ・ピステウオンテス・エイス・アウトン（οὗ ἔμελλον λαμβάνειν οἱ πιστεύοντες εἰς αὐτόν）、すなわち、イエスを信じる人々が後になって受けることになっていた御霊です。
 // 英文の転写は ou emellon lambanein oi pisteuontes eis auton。
 For the Holy Ghost was not yet given, because that Jesus was not yet glorified." [John 7:39]
 「すなわち、イエスはまだ栄光を受けておられなかったので、御霊がまだ下っていなかったのです」（ヨハネ七・三九）。
@@ -353,7 +353,7 @@ He then gave them power over unclean spirits to cast them out; power to heal the
 But the Holy Ghost was not yet given in his sanctifying graces, as he was after Jesus was glorified.
 けれども、聖霊は、人を聖くする恵みとしては、まだ与えられていませんでした。イエスが栄光を受けられた後に与えられたようには、与えられていなかったのです。
 It was then when "he ascended up on high, and led captivity captive," that he "received" those "gifts for men, yea, even for the rebellious, that the Lord God might dwell among them." [Ps. 68:18; cf. Eph. 4:8]
-主が「高いところに上った時、とりこを捕えて引き行」かれた（エペソ四・八）とき、そのときにこそ、主は人々のための贈り物を受けられたのです。いや、そむく者のためにさえ、受けられたのです。それは、主なる神が彼らの間に住まわれるためでした（詩篇六八・一八）。
+主は、「高いところに上った時、とりこを捕えて引き行」かれた（エペソ四・八）、まさにそのときに、人々のための贈り物を受けられたのです。いや、そむく者のためにさえ、受けられたのです。それは、主なる神が彼らの間に住まわれるためでした（詩篇六八・一八）。
 // 欽定訳詩篇六八・一八 の gifts for men … for the rebellious … among them は、口語訳では「人々のうちから、またそむく者のうちから」「そこに」なので、「」に入れずに英文から訳した。
 And when the day of Pentecost was fully come, [Acts 2:1] then first it was, that they who "waited for the promise of the Father" [Acts 1:4] were made more than conquerors [Rom. 8:37] over sin by the Holy Ghost given unto them.
 そして、五旬節の日がきた（使徒二・一）とき、そのとき初めて、それが起こりました。「父の約束を待っ」ていた（使徒一・四）人々が、与えられた聖霊によって、罪に勝ち得て余りある者（ローマ八・三七）とされたのです。
@@ -365,7 +365,7 @@ And when the day of Pentecost was fully come, [Acts 2:1] then first it was, that
 Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ. and the glory," the glorious salvation, "that should follow.
 彼らは、自分たちのうちにいますキリストの霊が、キリストの苦難とそれに続く栄光」、すなわち栄光ある救い、「とを、あらかじめあかしした時、それは、いつの時、どんな場合をさしたのかを、調べたのです。
 Unto whom it was revealed, that not unto themselves, but unto us they did minister the things which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven;" [1 Pet. 1:12] viz., at the day of Pentecost, and so unto all generations, into the hearts of all true believers.
-そして、それらについて調べたのは、自分たちのためではなくて」、私たちのための「奉仕であることを示されました。それらの事は、天からつかわされた聖霊に感じて福音をあなたがたに宣べ伝えた人々によって、今や、あなたがたに告げ知らされたのです」（第一ペテロ一・一〇〜一二）。聖霊は、五旬節の日につかわされ、そうして、あらゆる時代に、すべての真の信者の心につかわされたのです。
+彼らには、「自分たちのためではなくて」、私たちのための「奉仕であることを示されました。それらの事は、天からつかわされた聖霊に感じて福音をあなたがたに宣べ伝えた人々によって、今や、あなたがたに告げ知らされたのです」（第一ペテロ一・一〇〜一二）。聖霊は、五旬節の日につかわされ、そうして、あらゆる時代に、すべての真の信者の心につかわされたのです。
 // 欽定訳第一ペテロ一・一二 の unto us は、口語訳では「あなたがたのための」（写本の違い）なので、「」の外に出した。
 On this ground, even "the grace which was brought unto them by the revelation of Jesus Christ," [1 Pet. 1:13] the Apostle might well build that strong exhortation, "Wherefore girding up the loins of your mind, -- as he which hath called you is holy, so be ye holy in all manner of conversation." [1 Pet. 1:13]
 この根拠、すなわち、イエス・キリストの現れによって彼らにもたらされた恵みの上に、使徒はあの力強い勧めを築くことができました。「それだから、心の腰に帯を締め」なさい（第一ペテロ一・一三）。「あなたがたを召してくださった聖なるかたにならって、あなたがた自身も、あらゆる行いにおいて聖なる者となりなさい」（第一ペテロ一・一五）。
@@ -404,7 +404,7 @@ So that whosoever is tempted to any sin, need not yield; for no man is tempted a
 Let us consider his own words literally translated:
 パウロ自身の言葉を、文字どおりに訳して考えてみましょう。
 "There was given to me a thorn to the flesh, an angel" (or messenger) "of Satan, to buffet me.
-「わたしの肉に対するとげ、サタンの御使」、すなわち使者、「がわたしに与えられ、わたしを打つのです。
+「わたしの肉に対するとげ、サタンの使い」、すなわち使者、「がわたしに与えられました。わたしを打つためです。
 Touching this, I besought the Lord thrice, that it" (or he) "might depart from me.
 このことについて、わたしは、それが」、あるいは彼が、「わたしから離れ去るようにと、三度も主に祈りました。
 And he said unto me, My grace is sufficient for thee: For my strength is made perfect in weakness.
@@ -425,7 +425,7 @@ Secondly, the ancient Fathers inform us, it was bodily pain: "a violent headache
 第二に、古代の教父たちは、それが体の痛みであったと伝えています。テルトゥリアヌスは、「激しい頭痛」だと言います（『貞潔について』）。クリュソストモスもヒエロニムスも、それに同意しています。
 // 英文の開き引用符は閉じていないので、「激しい頭痛」だけを「」にした。
 St. Cyprian [De Mortalitate] expresses it, a little more generally, in those terms: "Many and grievous torments of the flesh and of the body." [Carnis et corporis multa ac gravia tormenta.]
-キュプリアヌスは（『死を免れないことについて』）、もう少し一般的に、こう言い表しています。「肉と体の多くの重い苦しみ」。原文のラテン語はこうです。
+キュプリアヌスは（『死について』）、もう少し一般的に、こう言い表しています。
 % Carnis et corporis multa ac gravia tormenta （肉と体の多くの重い苦しみ）
 Thirdly, to this exactly agree the Apostle's own words, "A thorn to the flesh to smite, beat, or buffet me." "My strength is made perfect in weakness:" -- Which same word occurs no less than four times in these two verses only.
 第三に、使徒自身の言葉が、これにぴったり一致します。「わたしを打ち、たたき、こぶしで打つための、肉に対するとげ」（第二コリント一二・七）。「わたしの力は弱さのうちに完全にされる」（第二コリント一二・九）。この「弱さ」という同じ語が、この二つの節だけで四度も出てきます。
@@ -459,11 +459,11 @@ From all which it appears that this instance of St. Paul is quite foreign to the
 これらすべてから、パウロのこの例はこの問題とはまったく無関係であることが、明らかです。「神から生れた者は罪を犯さない」（第一ヨハネ五・一八）というヨハネの断言とも、決してぶつからないのです。
 
 17 "But does not St. James directly contradict this His words are, 'In many things we offend all,' (Jas. 3:2:) And is not offending the same as committing sin"
-（一七）　「しかし、ヤコブはこれに真っ向から反対しているではないか。その言葉は、『わたしたちは皆、多くのあやまちを犯すものである』（ヤコブ三・二）だ。そして、あやまちを犯すことは、罪を犯すことと同じではないか」。
+（一七）　「しかし、ヤコブはこれに真っ向から反対しているではないか。ヤコブは『わたしたちは皆、多くのあやまちを犯すものである』（ヤコブ三・二）と言っている。そして、あやまちを犯すことは、罪を犯すことと同じではないか」。
 In this place, I allow it is: I allow the persons here spoken of did commit sin; yea, that they all committed many sins.
 この箇所では同じだと、私も認めます。ここで語られている人々が罪を犯したことを、認めます。いや、彼らがみな多くの罪を犯したことを、認めます。
 But who are the persons here spoken of Why, those many masters or teachers whom God had not sent; (probably the same vain men who taught that faith without works, which is so sharply reproved in the preceding chapter;) [Jas. 2]
-けれども、ここで語られている人々とは、だれでしょうか。それは、神がつかわされなかった多くの師、すなわち教師たちです。おそらく、前の章で厳しくとがめられている、行いのない信仰を教えた、あのむなしい人々（ヤコブ二・二〇）と同じ人々でしょう。
+けれども、ここで語られている人々とは、だれでしょうか。それは、神がつかわされなかった多くの師、すなわち教師たちです。おそらく、前の章で厳しくとがめられている、行いのない信仰を教えた、あのむなしい人々と同じ人々でしょう。
 not the Apostle himself, nor any real Christian.
 使徒自身でも、真のクリスチャンのだれかでもありません。
 That in the word we (used by a figure of speech common in all other, as well as the inspired, writings) the Apostle could not possibly include himself or any other true believer, appears evidently, First, from the same word in the ninth verse: -- "Therewith," saith he, "bless we God and therewith curse we men. Out of the same mouth proceedeth blessing and cursing." [Jas. 3:9]
@@ -471,7 +471,7 @@ That in the word we (used by a figure of speech common in all other, as well as 
 True; but not out of the mouth of the Apostle, nor of anyone who is in Christ a new creature. [2 Cor. 5:17]
 そのとおりです。けれども、それは使徒の口からでもなく、キリストにある新しく造られた者（第二コリント五・一七）のだれの口からでもありません。
 Secondly, from the verse immediately preceding the text, and manifestly connected with it: "My brethren, be not many masters," (or teachers,) "knowing that we shall receive the greater condemnation." "For in many things we offend all." [Jas. 3:1]
-第二に、本文のすぐ前にあって、本文と明らかにつながっている節から明らかです。「わたしの兄弟たちよ。あなたがたのうち多くの者は、」師に、すなわち「教師にならないがよい。わたしたち」が、「もっときびしいさばきを受けることが、よくわかっているから」です（ヤコブ三・一）。「わたしたちは皆、多くのあやまちを犯すものです」（ヤコブ三・二）。
+第二に、本文のすぐ前にあって、本文と明らかにつながっている節から明らかです。「わたしの兄弟たちよ。あなたがたのうち多くの者は」、師に、すなわち「教師にならないがよい。わたしたち」が、「もっときびしいさばきを受けることが、よくわかっているから」です（ヤコブ三・一）。「わたしたちは皆、多くのあやまちを犯すものです」（ヤコブ三・二）。
 We! Who Not the Apostles, not true believers; but they who know they should receive the greater condemnation, because of those many offences.
 「わたしたち」とは！　だれのことでしょうか。使徒たちでも、真の信者でもありません。あの多くのあやまちのゆえに、もっときびしいさばきを受けることを知っている人々です。
 But this could not be spoke of the Apostle himself, or of any who trod in his steps, seeing "there is no condemnation to them who walk not after the flesh, but after the Spirit." [Rom. 8:2]
@@ -485,7 +485,7 @@ For in it there immediately follows the mention of a man who offends not, as the
 18 So clearly does St. James explain himself, and fix the meaning of his own words.
 （一八）　このように、ヤコブは自分の言葉をはっきりと説明し、その意味を定めています。
 Yet, lest any one should still remain in doubt, St. John, writing many years after St. James, puts the matter entirely out of dispute, by the express declarations above recited.
-それでも、なお疑いを残す人がいないように、ヨハネが、先に挙げたはっきりした宣言によって、この問題をまったく論争の余地のないものにしています。ヨハネは、ヤコブより何年も後に書いたのです。
+それでも、なお疑う人がいないように、ヨハネは、先に挙げたはっきりした宣言によって、この問題にまったく決着をつけています。ヨハネは、ヤコブより何年も後に書いたのです。
 But here a fresh difficulty may arise: How shall we reconcile St. John with himself
 けれども、ここで新しい難点が生じるかもしれません。ヨハネを、ヨハネ自身とどう調和させればよいのか、という難点です。
 In one place he declares, "Whosoever is born of God doth not commit sin;" [1 John 3:9] and again, -- "We know that he which is born of God sinneth not:" [1 John 5:18]
@@ -522,7 +522,7 @@ Thus far all is clear.
 But lest any doubt should remain in a point of so vast importance, the Apostle resumes this subject in the third chapter, and largely explains his own meaning.
 けれども、これほど重大な点に疑いが残らないように、使徒は三章でこの主題をもう一度取り上げ、自分の意味を詳しく説明しています。
 "Little children," saith he, "let no man deceive you:" (As though I had given any encouragement to those that continue in sin:)
-使徒は言います。「子たちよ。だれにも惑わされてはなりません」（第一ヨハネ三・七）。それは、わたしが罪にとどまる者たちを少しでも励ましたかのように思ってはならない、ということです。
+使徒は言います。「子たちよ。だれにも惑わされてはなりません」（第一ヨハネ三・七）。使徒がこう言うのは、自分が罪にとどまる者たちを少しでも励ましたかのように受け取られないためです。
 "He that doeth righteousness is righteous, even as He is righteous. He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
 「彼が義人であると同様に、義を行う者は義人です。罪を犯す者は、悪魔から出た者です。悪魔は初めから罪を犯しているからです。神の子が現れたのは、悪魔のわざを滅ぼしてしまうためです。
 Whosoever is born of God doth not commit sin: For his seed remaineth in him; and he cannot sin, because he is born of God. In this the children of God are manifest, and the children of the devil." (1 John 3:7-10.)
@@ -535,7 +535,7 @@ In conformity, therefore, both to the doctrine of St. John, and to the whole ten
 21 This is the glorious privilege of every Christian; yea, though he be but a babe in Christ.
 （二一）　これは、すべてのクリスチャンの栄光ある特権です。そうです、キリストにある幼な子にすぎない人でも、そうなのです。
 But it is only of those who are strong in the Lord, "and "have overcome the wicked one," or rather of those who "have known him that is from the beginning," [1 John 2:13, 14] that it can be affirmed they are in such a sense perfect, as, Secondly, to be freed from evil thoughts and evil tempers.
-けれども、第二の意味で完全だと断言できるのは、主にあって強い（エペソ六・一〇）人々、「悪しき者にうち勝った」（第一ヨハネ二・一三）人々、いやむしろ「初めからいますかたを知った」（第一ヨハネ二・一四）人々についてだけです。第二の意味とは、悪い思いと悪い気質から解放されている、という意味です。
+けれども、第二の意味で完全だと断言できるのは、一部の人々についてだけです。主にあって強い（エペソ六・一〇）人々、「悪しき者にうち勝った」（第一ヨハネ二・一三）人々、いやむしろ「初めからいますかたを知った」（第一ヨハネ二・一四）人々です。第二の意味とは、悪い思いと悪い気質から解放されている、という意味です。
 First, from evil or sinful thoughts.
 まず、悪い思い、罪深い思いからの解放です。
 But here let it be observed, that thoughts concerning evil are not always evil thoughts; that a thought concerning sin, and a sinful thought, are widely different.
@@ -589,7 +589,7 @@ As if he had said, "Do not confer with flesh and blood touching these things, --
 これは、主がこう言われたかのようです。「こうしたことについて、血肉に相談してはなりません（ガラテヤ一・一六）。霊的な判断力のない人々、神がその心の目を開いておられない（エペソ一・一八）人々に、相談してはなりません。彼らもあなたがたも、ともに滅びることのないためです」。
 In the next verse he removes the two grand objections with which these wise fools meet us at every turn: "These things are too grievous to be borne," or, "They are too high to be attained," [Matt. 23:4]
 次の節で、主は、こうした賢い愚か者たちがいたるところで私たちに持ち出す、二つの大きな反論を取り除かれます。「これは重すぎて負いきれない」という反論と、「これは高すぎて到達できない」という反論です。
-// 英文の [Matt. 23:4] は反論者の言葉の出典として合わないので、出典を付けなかった。
+// 英文の [Matt. 23:4] は欽定訳の grievous to be borne を指すが、口語訳マタイ二三・四 にこの語句がないので、出典を付けなかった。
 saying, "'The disciple is not above his Master;' therefore, if I have suffered, be content to tread in my steps.
 主はこう言われます。「『弟子はその師以上のものではない』（ルカ六・四〇）。ですから、わたしが苦しんだのなら、わたしの足跡に従うことに甘んじなさい。
 And doubt ye not then, but I will fulfill my word: 'For every one that is perfect shall be as his Master.'" [Luke 6:40]
@@ -653,7 +653,7 @@ First, because this is confounding together what the Apostle clearly distinguish
 第二に、それは、考えうる最も強い意味で、行いによる義認を主張することだからです。外面の聖性だけでなく内面の聖性もすべて、必ず義認に先立つものにすることになるのです。
 // 英文の Secondly の前の開き引用符と段落末の閉じ引用符は、何も引用していないので訳に反映しなかった。
 For if the cleansing here spoken of is no other than the cleansing us from the guilt of sin, then we are not cleansed from guilt; that is, are not justified, unless on condition of "walking in the light, as he is in the light." [1 John 1:7]
-ここで言われているきよめが、罪の罪責から私たちをきよめることにほかならないとします。それなら、「神が光の中にいますように、わたしたちも光の中を歩く」（第一ヨハネ一・七）ことが条件になります。そうしなければ、私たちは罪責からきよめられない、すなわち義とされないことになるからです。
+というのは、ここで言われているきよめが、罪の罪責から私たちをきよめることにほかならないとします。それなら、「神が光の中にいますように、わたしたちも光の中を歩く」（第一ヨハネ一・七）ことが条件になります。そうしなければ、私たちは罪責からきよめられない、すなわち義とされないのです。
 It remains, then, that Christians are saved in this world from all sin, from all unrighteousness; that they are now in such a sense perfect, as not to commit sin, and to be freed from evil thoughts and evil tempers."
 ですから、残る結論はこうです。クリスチャンは、この世において、すべての罪から、すべての不義から救われています。今、罪を犯さず、悪い思いと悪い気質から解放されているという意味で、完全なのです。
 
@@ -661,17 +661,17 @@ It remains, then, that Christians are saved in this world from all sin, from all
 （二九）　このようにして、主は、古くから聖なる預言者たちの口によってお語りになった（ルカ一・七〇）ことを、成就されました。とりわけ、モーセによって、こう言われました。わたしは「あなたの心とあなたの子孫の心に割礼を施し、あなたをして、心をつくし、精神をつくしてあなたの神、主を愛させ」ます（申命記三〇・六）。
 // 口語訳申命記三〇・六 は「あなたの神、主は」と三人称。英文は一人称（I will）なので、「わたしは」を「」の外に出した。
 by David, crying out, "Create in me a clean heart, and renew a right spirit within me;" [Ps. 51:10] -- and most remarkably by Ezekiel, in those words:
-ダビデによって、こう叫ばせられました。「わたしのために清い心をつくり、わたしのうちに新しい、正しい霊を与えてください」（詩篇五一・一〇）。そして、最も著しくは、エゼキエルによって、次の言葉で語られました。
+ダビデによっては、こう叫ぶ言葉で語られました。「わたしのために清い心をつくり、わたしのうちに新しい、正しい霊を与えてください」（詩篇五一・一〇）。そして、最も著しくは、エゼキエルによって、次の言葉で語られました。
 "Then will I sprinkle clean water upon you, and ye shall be clean; From all your filthiness, and from all your idols, will I cleanse you.
 「わたしは清い水をあなたがたに注いで、すべての汚れから清め、またあなたがたを、すべての偶像から清めます。
 A new heart also will I give you, and a new spirit will I put within you; -- and cause you to walk in my statutes, and ye shall keep my judgments, and do them. -- Ye shall be my people, and I will be your God.
 わたしは新しい心をあなたがたに与え、新しい霊をあなたがたの内に授け、わが定めに歩ませ、わがおきてを守ってこれを行わせます。あなたがたは、わが民となり、わたしはあなたがたの神となります。
 I will also save you from all your uncleannesses. -- Thus saith the Lord your God, In the day that I shall have cleansed you from all your iniquities, -- the Heathen shall know that I the Lord build the ruined places; -- I the Lord have spoken it, and I will do it." (Ezek. 36:25, &c.)
-わたしはあなたがたを、そのすべての汚れから救います」（エゼキエル三六・二五〜二九）。あなたがたの神、主はこう言われます。「わたしは、あなたがたのすべての罪を清める日に」、「諸国民は主なるわたしがくずれた所を建て直し」たことを「悟るようになります。主なるわたしがこれを言い、これをなすのです」（エゼキエル三六・三三〜三六）。
+わたしはあなたがたをそのすべての汚れから救います」（エゼキエル三六・二五〜二九）。あなたがたの神、主はこう言われます。わたしが「あなたがたのすべての罪を清める日に」、「諸国民は主なるわたしがくずれた所を建て直し」たことを「悟るようになります。主なるわたしがこれを言い、これをなすのです」（エゼキエル三六・三三〜三六）。
 // 英文の the Lord your God は、口語訳エゼキエル三六・三三 では「主なる神」なので、「」の外で英文から訳した。英文が省いた口語訳の語は、引用の中で詰めて除いた。
 
 30 "Having therefore these promises, dearly beloved," both in the Law and in the Prophets, and having the prophetic word confirmed unto us in the Gospel, by our blessed Lord and his Apostles; "let us cleanse ourselves from all filthiness of flesh and spirit, perfecting holiness in the fear of God." [2 Cor. 7:1]
-（三〇）　「愛する者たちよ。わたしたちは、このような約束を与えられているのだから」（第二コリント七・一）。その約束は、律法にも預言者にも与えられています。また、預言の言葉は、福音において、ほむべき主とその使徒たちによって、私たちに確かにされています。ですから、「肉と霊とのいっさいの汚れから自分をきよめ、神をおそれて全く清くなろうではありませんか」（第二コリント七・一）。
+（三〇）　「愛する者たちよ。わたしたちは、このような約束を与えられている」のです（第二コリント七・一）。その約束は、律法にも預言者にも与えられています。また、預言の言葉は、福音において、ほむべき主とその使徒たちによって、私たちに確かにされています。ですから、「肉と霊とのいっさいの汚れから自分をきよめ、神をおそれて全く清くなろうではありませんか」（第二コリント七・一）。
 "Let us fear, lest" so many "promises being made us of entering into his rest," which he that hath entered into, has ceased from his own works, "any of us should come short of it." [Heb. 4:1]
 これほど多くの「神の安息にはいるべき約束が」、私たちに与えられています。その安息にはいった者は、自分のわざを休んだのです（ヘブル四・一〇）。ですから、「万一にも、はいりそこなう者が」、私たちの「中から出ることがないように、注意しようではありませんか」（ヘブル四・一）。
 "This one thing let us do, forgetting those things which are behind, and reaching forth unto those things which are before, let us press toward the mark, for the prize of the high calling of God in Christ Jesus;" [Phil. 3:13, 14]
