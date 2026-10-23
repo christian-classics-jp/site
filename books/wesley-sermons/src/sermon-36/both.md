@@ -24,7 +24,7 @@ It remains to inquire how we may follow a better pattern, how we may be able to 
 Much less do we establish the whole Mosaic dispensation; this we know our Lord has nailed to his cross.
 モーセの制度全体を確立するのでは、なおさらありません。主がそれを十字架につけてしまわれた（コロサイ二・一四）ことを、私たちは知っています。
 Nor yet do we so establish the moral law, (which, it is to be feared too many do,) as if the fulfilling it, the keeping all the commandments, were the condition of our justification:
-また、私たちは道徳律法を確立しますが、それを果たすことが私たちの義認の条件であるかのように確立するのではありません。それを果たすとは、すべての戒めを守ることです。残念ながら、そのように確立する人があまりにも多いのですが。
+また、私たちは道徳律法を確立します。けれども、それを果たすこと、すなわちすべての戒めを守ることが、義認の条件であるかのようにではありません。残念ながら、そのように確立する人があまりにも多いのですが。
 If it were so, surely "in His sight should no man living be justified."
 もしそうなら、確かに「生ける者はひとりもみ前に義とされない」でしょう（詩篇一四三・二）。
 But all this being allowed, we still, in the Apostle's sense, "establish the law," the moral law.
@@ -36,11 +36,11 @@ But all this being allowed, we still, in the Apostle's sense, "establish the law
 I. 1. We establish the law, First, by our doctrine; by endeavouring to preach it in its whole extent, to explain and enforce every part of it, in the same manner as our great Teacher did while upon earth.
 （一）　私たちは、第一に、教えによって律法を確立します。律法をその全範囲にわたって説教し、そのすべての部分を説き明かし、強く勧めようと努めることによってです。私たちの偉大な教師が地上におられたときになさったのと、同じ仕方でです。
 We establish it by following St. Peter's advice: "If any man speak, let him speak as the oracles of God;" as the holy men of old, moved by the Holy Ghost, spoke and wrote for our instruction; and as the Apostles of our blessed Lord, by the direction of the same Spirit.
-私たちは、聖ペテロの勧めに従うことによって、律法を確立します。「語る者は、神の御言を語る者にふさわしく語り」なさい、という勧めです（第一ペテロ四・一一）。昔の聖なる人々は、聖霊に感じて（第二ペテロ一・二一）、私たちを教えるために語り、また書きました。ほむべき主の使徒たちも、同じ御霊の導きによって、そうしました。私たちも、そのように語るのです。
+私たちは、聖ペテロの勧めに従うことによって、律法を確立します。「語る者は、神の御言を語る者にふさわしく語り」なさい（第一ペテロ四・一一）、という勧めです。昔の聖なる人々は、聖霊に感じて（第二ペテロ一・二一）、私たちを教えるために語り、また書きました。ほむべき主の使徒たちも、同じ御霊の導きによって、そうしました。私たちも、そのように語るのです。
 We establish it whenever we speak in his name, by keeping back nothing from them that hear; by declaring to them, without any limitation or reserve, the whole counsel of God.
 主の名によって語るときはいつでも、私たちは律法を確立します。聞く人々に何一つ隠さず、何の制限も留保もなしに、神の御旨のすべてを告げる（使徒二〇・二七）ことによってです。
 And in order the more effectually to establish it, we use herein great plainness of speech.
-そして、律法をさらに効果的に確立するために、私たちは、この点できわめて率直に語ります（第二コリント三・一二）。
+そして、律法をさらに効果的に確立するために、私たちは、この点できわめて率直に語ります。
 "We are not as many that corrupt the word of God;" -kaphleuontes, (as artful men their bad wines;) we do not cauponize, mix, adulterate, or soften it, to make it suit the taste of the hearers: --
 私たちは、「多くの人のように神の言を売物に」しません（第二コリント二・一七）。この「売物にする」と訳されている語は、原語ではカペーレウオンテス（καπηλεύοντες）です。ずる賢い商人が、悪いぶどう酒をごまかして売るように、ということです。聞く人の好みに合わせるために、みことばをごまかして売ることはしません。混ぜものをしたり、質を落としたり、和らげたりもしません。
 // 英文の転写は kaphleuontes。cauponize は、居酒屋の主人がぶどう酒に混ぜものをして売ることを言う語。
@@ -55,7 +55,7 @@ We then establish the law, when we declare every part of it, every commandment c
 3. And indeed this we do the more diligently, not only because it is of the deepest importance; -- inasmuch as all the fruit, every word and work, must be only evil continually, if the tree be evil, if the dispositions and tempers of the heart be not right before God; --
 （三）　実際、私たちは、このことをなおさら熱心にします。それは、これがきわめて重要だからというだけではありません。すべての実、すべての言葉と行いは、いつも悪い事ばかり（創世記六・五）でしかありえないからです。木が悪ければ（マタイ一二・三三）、すなわち心の性向と気質とが神の前に正しくなければ、そうなるのです。
 but likewise because as important as these things are, they are little considered or understood, -- so little, that we may truly say of the law, too, when taken in its full spiritual meaning, it is "a mystery which was hid from ages and generations since the world began."
-そればかりでなく、これらのことは、これほど重要であるのに、ほとんど考えられも理解されもしていないからです。あまりにも理解されていないので、律法についても、その十分な霊的な意味でとらえるなら、本当にこう言えるほどです。律法もまた、世の初めから「代々にわたってこの世から隠されていた」（コロサイ一・二六）奥義である、と。
+そればかりでなく、これらのことは、これほど重要であるのに、ほとんど考えられも理解されもしていないからです。あまりにも理解されていないので、律法についても、その十分な霊的な意味でとらえるなら、本当にこう言えるほどです。律法は、世の初めから「代々にわたってこの世から隠されていた」（コロサイ一・二六）奥義である、と。
 // since the world began はローマ一六・二五 の欽定訳の言い回し。照合データにローマ一六・二五 がないので、この句は「」の外で訳した。
 It was utterly hid from the heathen world.
 律法は、異教の世界からはまったく隠されていました。
@@ -87,7 +87,7 @@ But this is too sure, that the far greater part, even of those who are called Re
 残念ながら、これは確かなことです。宗教改革を経たクリスチャンと呼ばれる人々でさえ、その大部分は、今日、キリストの律法の清さと霊性とをまったく知らないのです。
 
 5. Hence it is that to this day, "'the Scribes and Pharisees," the men who have the form but not the power of religion, and who are generally wise in their own eyes, and righteous in their own conceits, -- "hearing these things, are offended;"
-（五）　そのため、今日に至るまで、「パリサイ人と律法学者たち」（マタイ一五・一）は、これを「聞いてつまず」きます（マタイ一五・一二）。彼らは、宗教の形はあってもその力のない（第二テモテ三・五）人々です。たいてい、自分を見て賢いと思い（箴言三・七）、自分は正しいとうぬぼれている人々です。
+（五）　そのため、今日に至るまで、「パリサイ人と律法学者たち」（マタイ一五・一）は、これを「聞いてつまず」きます（マタイ一五・一二）。彼らは、宗教の形はあってもその力のない人々です。たいてい、自分を見て賢いと思い（箴言三・七）、自分は正しいとうぬぼれている人々です。
 are deeply offended, when we speak of the religion of the heart; and particularly when we show, that without this, were we to "give all our goods to feed the poor," it would profit us nothing.
 私たちが心の宗教について語るとき、彼らは深くつまずきます。とりわけ、心の宗教がなければ、たとい私たちが「自分の全財産を人に施しても」（第一コリント一三・三）、何の益にもならないと示すときです。
 But offended they must be; for we cannot but speak the truth as it is in Jesus.
@@ -116,7 +116,7 @@ We may expatiate upon the grace of God in Christ, "reconciling the world unto hi
 we may, at proper opportunities, dwell upon his praise, as "bearing the iniquities of us all, as wounded for our transgressions, and bruised for our iniquities, that by his stripes we might be healed:" --
 ふさわしい機会には、キリストをたたえることに心を注いでもよいのです。キリストは「われわれすべての者の不義を」負われました（イザヤ五三・六）。「われわれのとがのために傷つけられ、われわれの不義のために砕かれた」のです（イザヤ五三・五）。それは、「その打たれた傷によって、われわれはいや」されるためでした（イザヤ五三・五）。
 But still we should not preach Christ, according to his word, if we were wholly to confine ourselves to this:
-けれども、もし私たちがまったくこれだけにとどまるとしたら、みことばに従ってキリストを宣べ伝えていることにはならないでしょう。
+けれども、もしまったくこれだけにとどまるなら、みことばに従ってキリストを宣べ伝えていることにはならないでしょう。
 We are not ourselves clear before God, unless we proclaim him in all his offices.
 キリストをそのすべての職務において宣べ伝えるのでなければ、私たち自身、神の前に責任を免れません。
 To preach Christ, as a workman that needeth not to be ashamed, is to preach him, not only as our great High Priest, "taken from among men, and ordained for men, in things pertaining to God;" as such, "reconciling us to God by his blood," and "ever living to make intercession for us;" --
@@ -130,11 +130,11 @@ yea, and as remaining a King for ever; as giving laws to all whom he has bought 
 ## 【二】　聖性を生み出す信仰を説く
 
 II. 1. We establish the law, Secondly, when we so preach faith in Christ as not to supersede, but produce holiness; to produce all manner of holiness, negative and positive, of the heart and of the life.
-（一）　第二に、私たちが律法を確立するのは、キリストを信じる信仰を、聖性を不要にするのではなく生み出すものとして説教するときです。あらゆる種類の聖性を生み出すものとして説くときです。禁じられたことをしない聖性も、命じられたことを行う聖性も、心の聖性も生活の聖性もです。
+（一）　第二に、私たちが律法を確立するのは、キリストを信じる信仰を説教するときです。聖性を不要にするのではなく、生み出すものとして説教するときです。あらゆる種類の聖性を生み出すものとして説くときです。禁じられたことをしない聖性も、命じられたことを行う聖性も、心の聖性も生活の聖性もです。
 // negative and positive holiness は、禁じられた悪をしないことと、命じられた善を行うこと。III.3〜4 の negative/positive law も、この区別に合わせて「禁止の律法」「命令の律法」とした。
 
 In order to this, we continually declare, (what should be frequently and deeply considered by all "who would not make void the law through faith,") that faith itself, even Christian faith, the faith of God's elect, the faith of the operation of God, still is only the handmaid of love.
-そのために、私たちは絶えず告げます。信仰そのもの、すなわちキリスト教の信仰、神に選ばれた者たちの信仰（テトス一・一）、神の働きによる信仰でさえ、やはり愛のはしためにすぎない、と。このことは、「信仰のゆえに」「律法を無効にする」（ローマ三・三一）ことを望まないすべての人が、たびたび深く考えるべきことです。
+そのために、私たちは絶えず告げます。信仰そのものは、やはり愛のはしためにすぎない、と。キリスト教の信仰、神に選ばれた者たちの信仰（テトス一・一）、神の働きによる信仰でさえ、そうなのです。このことは、「信仰のゆえに」「律法を無効にする」（ローマ三・三一）ことを望まないすべての人が、たびたび深く考えるべきことです。
 // the faith of the operation of God はコロサイ二・一二 の欽定訳の言い回し。口語訳「神の力を信じる信仰」とは意味が違うので、英文から訳し、出典を付けなかった。
 As glorious and honourable as it is, it is not the end of the commandment.
 信仰は、どれほど栄光に満ち、尊いものであっても、戒めの目標ではありません。
@@ -264,7 +264,7 @@ So that faith, in general, is the most direct and effectual means of promoting a
 For there is no motive which so powerfully inclines us to love God, as the sense of the love of God in Christ.
 キリストにおける神の愛を感じることほど、神を愛するように私たちを強く傾ける動機はないからです。
 Nothing enables us like a piercing conviction of this to give our hearts to him who was given for us.
-この愛を心を刺し通すほどに確信することほど、私たちのために与えられた方に、自分の心をささげさせるものはありません。
+この愛を、心を刺し通すほど深く確信することほど、私たちのために与えられた方に、自分の心をささげさせるものはありません。
 And from this principle of grateful love to God arises love to our brother also.
 そして、神への感謝の愛というこの原理から、兄弟への愛も生じます。
 Neither can we avoid loving our neighbour, if we truly believe the love wherewith God hath loved us.
@@ -284,9 +284,9 @@ It is therefore, the fulfilling of the positive, likewise, as well as of the neg
 ですから、愛は、神の禁止の律法だけでなく、命令の律法をも完成するものなのです。
 
 4. Nor does faith fulfil either the negative or positive law, as to the external part only; but it works inwardly by love, to the purifying of the heart, the cleansing it from all vile affections.
-（四）　また、信仰は、禁止の律法も命令の律法も、外面の部分についてだけ果たすのではありません。信仰は、愛によって（ガラテヤ五・六）内側で働き、心をきよめ（使徒一五・九）、あらゆる卑しい情欲から心を清めます。
+（四）　また、信仰は、禁止の律法も命令の律法も、外面の部分についてだけ果たすのではありません。信仰は、愛によって（ガラテヤ五・六）内側で働き、心をきよめ（使徒一五・九）、あらゆる卑しい情欲を心から取り除きます。
 Everyone that hath this faith in himself, "purifieth himself, even as he is pure;" -- purifieth himself from every earthly, sensual desire, from all vile and inordinate affections; yea, from the whole of that carnal mind which is enmity against God.
-この信仰を自分のうちに持つ人はみな、「彼がきよくあられるように、自らをきよく」します（第一ヨハネ三・三）。すなわち、地上の肉的な欲望から、あらゆる卑しく度を越した情欲から、そうです、神に敵する肉の思い（ローマ八・七）全体から、自らをきよくするのです。
+この信仰を自分のうちに持つ人はみな、「彼がきよくあられるように、自らをきよく」します（第一ヨハネ三・三）。すなわち、地上のあらゆる肉的な欲望から、あらゆる卑しく度を越した情欲から、自らをきよくするのです。そうです、神に敵する肉の思い（ローマ八・七）全体から、きよくするのです。
 At the same time, if it have its perfect work, it fills him with all goodness, righteousness, and truth.
 同時に、信仰が完全に働くなら、それはその人をあらゆる善意と正義と真実（エペソ五・九）とで満たします。
 It brings all heaven into his soul; and causes him to walk in the light, even as God is in the light.
@@ -297,23 +297,23 @@ It brings all heaven into his soul; and causes him to walk in the light, even as
 Calling to mind what light we received from God while his Spirit was convincing us of sin, let us beware we do not put out that light; what we had then attained let us hold fast.
 神の御霊が私たちに罪を悟らせていた間、神からどんな光を受けたかを思い起こしましょう。そして、その光を消さないよう気をつけましょう。そのとき達し得たところ（ピリピ三・一六）を、しっかり保ちましょう。
 Let nothing induce us to build again what we have destroyed; to resume anything, small or great, which we then clearly saw was not for the glory of God, or the profit of our own soul; or to neglect anything, small or great, which we could not then neglect, without a check from our own conscience.
-何ものにも動かされて、いったん打ちこわしたものを、再び建てる（ガラテヤ二・一八）ことのないようにしましょう。神の栄光のためにも自分の魂の益のためにもならないと、そのときはっきり分かったものは、大小を問わず、また取り上げないようにしましょう。大小を問わず、そのとき良心に責められずには怠ることのできなかったことを、怠ることのないようにしましょう。
+何ものにも動かされて、いったん打ちこわしたものを、再び建てる（ガラテヤ二・一八）ことのないようにしましょう。そのとき、神の栄光のためにも自分の魂の益のためにもならないと、はっきり分かったものがあります。大きなものでも小さなものでも、それを再び取り上げないようにしましょう。大小を問わず、そのとき良心に責められずには怠ることのできなかったことを、怠ることのないようにしましょう。
 To increase and perfect the light which we had before, let us now add the light of faith.
 以前に持っていた光を増し加え、完全にするために、今、信仰の光を加えましょう。
 Confirm we the former gift of God by a deeper sense of whatever he had then shown us, by a greater tenderness of conscience, and a more exquisite sensibility of sin.
 神が以前に与えてくださった賜物を、確かなものにしましょう。神がそのとき示してくださったことを、さらに深く感じることによってです。良心をさらに敏感にし、罪をいっそう鋭く感じ取ることによってです。
 Walking now with joy, and not with fear, in a clear, steady sight of things eternal, we shall look on pleasure, wealth, praise-all the things of earth, as on bubbles upon the water; counting nothing important, nothing desirable, nothing worth a deliberate thought, but only what is "within the veil," where Jesus "sitteth at the right hand of God."
-今、私たちは、恐れではなく喜びをもって、永遠のものをはっきりと揺るがずに見つめて歩むことができます。そうすれば、快楽も富も称賛も、地上のすべてのものを、水の上の泡のように見るでしょう。何も重要だとは思わず、何も望ましいとは思わず、何もよく考えるに値するとは思わないでしょう。ただ「幕の内」（ヘブル六・一九）、すなわちイエスが「神の右に座しておられる」（コロサイ三・一）ところにあるものだけは別です。
+今、恐れではなく喜びをもって、永遠のものをはっきりと揺るがずに見つめて歩むとします。そのとき、私たちは、快楽も富も称賛も、地上のすべてのものを、水の上の泡のように見るでしょう。何も重要だとは思わず、何も望ましいとは思わず、何もよく考えるに値するとは思わないでしょう。ただ「幕の内」（ヘブル六・一九）、すなわちイエスが「神の右に座しておられる」（コロサイ三・一）ところにあるものだけは別です。
 
 6. Can you say, "Thou art merciful to my unrighteousness; my sins thou rememberest no more" Then for the time to come see that you fly from sin, as from the face of a serpent! For how exceeding sinful does it appear to you now! How heinous above all expression!
-（六）　あなたは、「あなたは私の不義をあわれみ、もはや私の罪を思い出されません」（ヘブル八・一二）と言えるでしょうか。それなら、これからは、蛇の前から逃げるように、罪から逃げなさい！　罪は今、あなたにとって、何とはなはだしく悪性なもの（ローマ七・一三）に見えることでしょう。どんな言葉でも言い表せないほど、何と憎むべきものに見えることでしょう。
+（六）　あなたは神に向かって、「あなたは私の不義をあわれみ、もはや私の罪を思い出されません」（ヘブル八・一二）と言えるでしょうか。それなら、これからは、蛇の前から逃げるように、罪から逃げなさい！　今のあなたには、罪が何とはなはだしく悪性なもの（ローマ七・一三）に見えることでしょう。どんな言葉でも言い表せないほど、何と憎むべきものに見えることでしょう。
 // ヘブル八・一二 の神の言葉「わたしは、彼らの不義をあわれみ、もはや、彼らの罪を思い出すことはしない」を、信者が神に向かって言う言葉に言いかえている。「蛇の前から逃げるように、罪から逃げよ」は外典シラ書二一・二 の言い回し。
 On the other hand, in how amiable a light do you now see the holy and perfect will of God! Now, therefore, labour that it may be fulfilled, both in you, by you, and upon you! Now watch and pray that you may sin no more, that you may see and shun the least transgression of his law!
 他方、あなたは今、神の聖く完全な御旨を、何と好ましい光のうちに見ていることでしょう！　ですから今、その御旨が、あなたのうちに、あなたによって、あなたの上に成就するよう励みなさい！　今、目をさまして祈っていなさい（マタイ二六・四一）。もう罪を犯さないように、神の律法へのどんな小さな違反をも見分けて避けるように、祈っていなさい。
 You see the motes which you could not see before, when the sun shines into a dark place. In like manner you see the sins which you could not see before, now the Sun of Righteousness shines in your heart.
 暗い所に日が差し込むと、以前は見えなかったちりが見えます。同じように、義の太陽（マラキ四・二）があなたの心に輝く今、以前は見えなかった罪が見えるのです。
 Now, then, do all diligence to walk, in every respect, according to the light you have received! Now be zealous to receive more light daily, more of the knowledge and love of God, more of the Spirit of Christ, more of his life, and of the power of his resurrection!
-ですから今、受けた光に従って、あらゆる点で歩むよう、力の限りを尽くしなさい！　今、日ごとにさらに多くの光を受けるよう熱心になりなさい。神を知る知識と神の愛とを、キリストの御霊を、キリストのいのちとその復活の力（ピリピ三・一〇）とを、さらに多く受けるよう熱心になりなさい。
+ですから今、受けた光に従って、あらゆる点で歩むよう、力の限りを尽くしなさい！　今、日ごとにさらに多くの光を受けるよう熱心になりなさい。神を知る知識と神への愛とを、キリストの御霊を、キリストのいのちとその復活の力（ピリピ三・一〇）とを、さらに多く受けるよう熱心になりなさい。
 Now use all the knowledge, and love, and life, and power you have already attained: So shall you continually go on from faith to faith; so shall you daily increase in holy love, till faith is swallowed up in sight, and the law of love established to all eternity!
 今、すでに得た知識も愛もいのちも力も、すべて用いなさい。そうすれば、あなたは絶えず信仰から信仰へと進んでいきます。日ごとに聖い愛のうちに成長していきます。そしてついには、信仰は見ることのうちにのみ込まれ、愛の律法がとこしえに確立されるのです！
 
