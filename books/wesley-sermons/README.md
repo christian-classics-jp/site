@@ -44,7 +44,7 @@
 + [x] Sermon 39. Catholic Spirit
 + [x] Sermon 40. Christian Perfection
 + [x] Sermon 41. Wandering Thoughts
-+ [ ] Sermon 42. Satan's Devices
++ [x] Sermon 42. Satan's Devices
 + [ ] Sermon 44. Original Sin
 + [ ] Sermon 45. The New Birth
 + [ ] Sermon 46. The Wilderness State
