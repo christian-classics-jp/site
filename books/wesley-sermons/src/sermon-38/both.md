@@ -8,7 +8,7 @@ A Caution Against Bigotry
 1. In the preceding verses we read, that after the Twelve had been disputing "which of them should be the greatest," Jesus took a little child, and set him in the midst of them, and taking him in his arms, said unto them, "Whosoever shall receive one of these little children in My name, receiveth me; and whosoever receiveth me, receiveth not me" only, "but him that sent me."
 （一）　この前の節に、こう書かれています。十二弟子が「だれが一ばん偉いか」（マルコ九・三四）と論じ合っていたあとのことです。イエスはひとりの幼な子をとりあげて、彼らのまん中に立たせ、それを抱いて言われました（マルコ九・三六）。「だれでも、このような幼な子のひとりを、わたしの名のゆえに受けいれる者は、わたしを受けいれるのです。そして、わたしを受けいれる者は、わたしを」受けいれるだけ「ではなく、わたしをおつかわしになったかたを受けいれるのです」（マルコ九・三七）。
 Then "John answered," that is, said, with reference to what our Lord had spoken just before, "Master, we saw one casting out devils in Thy name, and we forbad him, because he followeth not us."
-そこで「ヨハネが答えて」（ルカ九・四九）、すなわち、主がその直前に語られたことを受けて、こう言いました。「先生、」ある者「が、あなたの名を使って悪霊を追い出しているのを見ましたが、その人はわたしたちについてこなかったので、やめさせました」（マルコ九・三八）。
+そこで「ヨハネが答えて」（ルカ九・四九）、すなわち、主がその直前に語られたことを受けて、こう言いました。「先生、」ある者が「あなたの名を使って悪霊を追い出しているのを見ましたが、その人はわたしたちについてこなかったので、やめさせました」（マルコ九・三八）。
 As if he had said, "Ought we to have received him In receiving him, should we have received thee Ought we not rather to have forbidden him Did not we do well therein"
 まるで、こう言ったかのようです。「私たちは、その人を受けいれるべきだったのでしょうか。その人を受けいれたら、あなたを受けいれたことになったのでしょうか。むしろ、やめさせるべきだったのではありませんか。私たちは、それでよかったのではありませんか」。
 "But Jesus said, Forbid him not."
@@ -44,14 +44,14 @@ Hence it is that the Apostle terms him "the god of this world;" from the uncontr
 Hence our blessed Lord styles him "the prince of this world;" so absolute is his dominion over it.
 そこで、ほむべき主も悪魔を「この世の君」（ヨハネ一二・三一）と呼ばれます。それほど、この世に対する悪魔の支配は絶対的なのです。
 And hence St. John: "We know that we are of God, and" all who are not of God, "the whole world," "en tw ponhrw keitai," --not lieth in wickedness, but "lieth in the wicked one;" lives and moves in him, as they who are not of the world do in God.
-そこで、聖ヨハネもこう言います。「わたしたちは神から出た者であり」、神から出ていないすべての人、すなわち「全世界は」エン・トー・ポネーロー・ケイタイ（ἐν τῷ πονηρῷ κεῖται）であることを、「知っている」（第一ヨハネ五・一九）のです。これは、悪のうちに横たわっている、という意味ではありません。「悪しき者の」うちに横たわっている、という意味です。世から出ていない人々が神のうちに生き、動いているように、彼らは悪しき者のうちに生き、動いているのです。
+そこで、聖ヨハネもこう言います。「わたしたちは神から出た者であり」、神から出ていないすべての人、すなわち「全世界は」エン・トー・ポネーロー・ケイタイ（ἐν τῷ πονηρῷ κεῖται）であることを、「知っている」（第一ヨハネ五・一九）のです。これは、悪のうちに横たわっている、という意味ではありません。「悪しき者の」うちに横たわっている、という意味です。世のものでない人々が神のうちに生き、動いているように、彼らは悪しき者のうちに生き、動いているのです。
 // 英文の転写は en tw ponhrw keitai。欽定訳は lieth in wickedness、口語訳は「悪しき者の配下にある」。
 
 2. For the devil is not to be considered only as "a roaring lion going about seeking whom he may devour;" nor barely as a subtle enemy, who cometh unawares upon poor souls, and "leads them captive at his will;" but as he who dwelleth in them, and walketh in them; who ruleth the darkness or wickedness of this world (of worldly men and all their dark designs and actions), by keeping possession of their hearts, setting up his throne there, and bringing every thought into obedience to himself.
 （二）　というのは、悪魔は、「ほえたけるししのように、食いつくすべきものを求めて歩き回っている」（第一ペテロ五・八）者とだけ考えてはならないからです。あわれな魂に不意に襲いかかり、自分の「欲するままに」（第二テモテ二・二六）とりこにして連れて行く、ずる賢い敵とだけ考えてもなりません。悪魔は、彼らのうちに住み、彼らのうちを歩む者です。この世のやみ、すなわち悪を支配する者です。この世とは、世の人々と、その暗いたくらみと行いのすべてのことです。悪魔は、彼らの心を占め続け、そこに自分の王座をすえ、すべての思いを自分に服従させることによって、支配するのです。
 Thus the "strong one armed keepeth his house;" and if this "unclean spirit" sometimes "go out of a man," yet he often returns with "seven spirits worse than himself, and they enter in and dwell there."
-こうして、「強い人が」武装して自分の家「を守っている」（ルカ一一・二一）のです。この「汚れた霊が人から出る」（ルカ一一・二四）ことが、ときにはあるかもしれません。それでも、悪霊はたびたび「自分以上に悪い」「七つの霊を引き連れてきて中にはいり、そこに住み込む」（ルカ一一・二六）のです。
-// ルカ一一・二一 の口語訳は「強い人が十分に武装して自分の邸宅を守っている限り」。英文の armed と house に合わせ、ずれる語を「」の外に出した。§5 も同じ。ルカ一一・二六 の口語訳は「自分以上に悪い他の七つの霊」で、英文が引かない「他の」を除いた。
+こうして、「強い人が」、「武装して自分の」家「を守っている」（ルカ一一・二一）のです。この「汚れた霊が人から出る」（ルカ一一・二四）ことが、ときにはあるかもしれません。それでも、悪霊はたびたび戻ってきます。「自分以上に悪い」「七つの霊を」連れて戻り、「中にはいり、そこに住み込む」（ルカ一一・二六）のです。
+// ルカ一一・二一 の口語訳は「強い人が十分に武装して自分の邸宅を守っている限り」。英文にない「十分に」「限り」を除き、「邸宅」は英文の house に合わせて「家」とし、「」の外に出した。§5 も同じ。ルカ一一・二六 の口語訳は「自分以上に悪い他の七つの霊を引き連れてきて」で、英文が引かない「他の」を除き、returns with にあたる語を「」の外に出した。
 Nor can he be idle in his dwelling.
 悪魔は、その住まいでなまけていることもできません。
 He is continually "working in" these "children of disobedience." he works in them with power, with mighty energy, transforming them into his own likeness, effacing all the remains of the image of God, and preparing them for every evil word and work.
@@ -73,7 +73,7 @@ But it is his aim to drive us into infidelity; therefore, he works as privately 
 "But why in savage and barbarous countries only Why not in Italy, France, or England"
 「しかし、なぜ未開で野蛮な国々でだけなのか。なぜイタリアやフランスやイギリスではないのか」。
 For a very plain reason: he knows his men, and he knows what he hath to do with each.
-ごく明白な理由からです。悪魔は自分の手下をよく知っていて、それぞれをどう扱えばよいかを知っているのです。
+ごく明白な理由からです。悪魔は相手をよく知っていて、それぞれをどう扱えばよいかを知っているのです。
 To Laplanders he appears barefaced; because he is to fix them in superstition and gross idolatry.
 ラップランド人には、素顔のまま現れます。彼らを迷信とひどい偶像礼拝に縛りつけておくことがねらいだからです。
 But with you he is pursuing a different point.
@@ -103,7 +103,7 @@ The prince of darkness, therefore, does not appear, while he rules over these hi
 The conqueror holds his captives so much the safer, because they imagine themselves at liberty.
 征服者は、捕虜たちを、それだけいっそう確かに捕えています。捕虜たちが、自分は自由だと思い込んでいるからです。
 Thus "the strong one armed keepeth his house, and his goods are in peace;" neither the Deist nor nominal Christian suspects he is there: so he and they are perfectly at peace with each other.
-こうして、「強い人が」武装して自分の家「を守って」いて、「その持ち物は安全」（ルカ一一・二一）なのです。理神論者も名ばかりのクリスチャンも、悪魔がそこにいることを疑いもしません。ですから、悪魔と彼らは、互いにまったく平和に過ごしているのです。
+こうして、「強い人が」、「武装して自分の」家「を守って」いて、「その持ち物は安全」（ルカ一一・二一）なのです。理神論者も名ばかりのクリスチャンも、悪魔がそこにいることを疑いもしません。ですから、悪魔と彼らは、互いにまったく平和に過ごしているのです。
 
 6. All this while he works with energy in them.
 （六）　その間ずっと、悪魔は彼らのうちで力強く働いています。
@@ -127,7 +127,7 @@ Go no farther than the admired, the virtuous Romans; and you will find these, wh
 // 欽定訳ローマ一・二九〜三一 の fornication と implacable は口語訳にない（写本の違い）ので、「淫行」と「和らぎがたい者」は「」の外に出した。英文が省いた haters of God（神を憎む者）、inventors of evil things（悪事をたくらむ者）、without understanding（無知）は除いた。
 
 8. The strongest parts of this description are confirmed by one whom some may think a more unexceptionable witness.
-（八）　この描写の最も強い部分は、ある人々にはもっと文句のつけようのない証人と思われるかもしれない人によって、裏づけられています。
+（八）　この描写の最も強い部分は、ある人によって裏づけられています。ある人々には、もっと文句のつけようのない証人と思われるかもしれない人です。
 I mean their brother heathen, Dion Cassius; who observes, that, before Caesar's return from Gaul, not only gluttony and lewdness of every kind were open and barefaced; not only falsehood, injustice, and unmercifulness abounded, in public courts, as well as private families; but the most outrageous robberies, rapine, and murders were so frequent in all parts of Rome, that few men went out of doors without making their wills, as not knowing if they should return alive!
 それは、彼らと同じ異教徒のディオン・カッシオスのことです。彼はこう述べています。カエサルがガリアから帰る前には、あらゆる種類の暴食と淫らさが、隠されもせず、あからさまに行われていた。偽りと不正と無慈悲が、家庭だけでなく公の法廷にもあふれていた。それだけでなく、このうえなく乱暴な強盗、略奪、殺人がローマの至るところであまりにも頻繁に起こった。そのため、遺言を書かずに外出する人はほとんどいなかった。生きて帰れるかどうか分からなかったからだ、と。
 // ディオン・カッシオス（カッシウス・ディオ）は三世紀の歴史家で、ギリシャ語で『ローマ史』を著した。
@@ -157,7 +157,7 @@ Is it a small proof of his power, that common swearers, drunkards, whoremongers,
 今も私たちの国の至るところに、こういう人々が見られます。いつも神の名をみだりに口にする者、酒に酔う者、不品行な者、姦淫する者、盗む者、強盗、男色をする者、人殺しです。これは、悪魔の力を示す小さな証拠でしょうか。この世の君（ヨハネ一二・三一）は、こうした不従順の子ら（エペソ二・二）のすべてのうちで、何と勝ち誇って支配していることでしょう！
 
 12. He less openly, but no less effectually, works in dissemblers, tale-bearers, liars, slanderers; in oppressors and extortioners, in the perjured, the seller of his friend, his honour, his conscience, his country.
-（一二）　悪魔は、それほどあからさまではなくても、同じように効果的に、偽る者、告げ口する者、うそつき、中傷する者のうちに働いています。しいたげる者や暴利をむさぼる者、偽りの誓いをする者、自分の友や名誉や良心や祖国を売る者のうちにも働いています。
+（一二）　悪魔は、それほどあからさまではなくても、同じように効果的に働いています。偽る者、告げ口する者、うそつき、中傷する者のうちにです。しいたげる者や暴利をむさぼる者、偽りの誓いをする者、自分の友や名誉や良心や祖国を売る者のうちにも働いています。
 And yet these may talk of religion or conscience still; of honour, virtue, and public spirit!
 それなのに、こうした人々が、今も宗教や良心について、名誉や徳や公共心について語ることがあるのです。
 But they can no more deceive Satan than they can God.
@@ -173,7 +173,7 @@ By the power of God attending his word, he brings these sinners to repentance; a
 And this is, in a sound sense, to cast out devils, out of the souls wherein they had hitherto dwelt.
 そして、これこそ、健全な意味で、悪霊を追い出すことです。悪霊がそれまで住んでいた魂から、追い出すのです。
 The strong one can no longer keep his house.
-強い者は、もう自分の家を守ることができません。
+強い人は、もう自分の家を守ることができません。
 A stronger than he is come upon him, and hath cast him out, and taken possession for himself, and made it an habitation of God through his Spirit.
 もっと強い者が襲ってきて（ルカ一一・二二）、彼を追い出し、その家を自分のものとし、御霊による神のすまい（エペソ二・二二）としたのです。
 Here, then, the energy of Satan ends, and the Son of God "destroys the works of the devil."
@@ -181,7 +181,7 @@ Here, then, the energy of Satan ends, and the Son of God "destroys the works of 
 The understanding of the sinner is now enlightened, and his heart sweetly drawn to God.
 今や、罪人の悟りは照され、その心は神へと優しく引き寄せられます。
 His desires are refined, his affections purified; and, being filled with the Holy Ghost, he grows in grace till he is not only holy in heart, but in all manner of conversation.
-その人の願いは清められ、情はきよめられます。そして、聖霊に満たされて、恵みのうちに成長します。ついには、心において聖いだけでなく、あらゆる行いにおいて聖なる者（第一ペテロ一・一五）となるのです。
+その人の願いは高められ、情はきよめられます。そして、聖霊に満たされて、恵みのうちに成長します。ついには、心において聖いだけでなく、あらゆる行いにおいて聖なる者（第一ペテロ一・一五）となるのです。
 
 14. All this is indeed the work of God.
 （一四）　これはみな、まことに神のわざです。
@@ -190,8 +190,8 @@ It is God alone who can cast out Satan.
 But he is generally pleased to do this by man as an instrument in his hand: who is then said to cast out devils in his name, by his power and authority.
 けれども、神はたいてい、人をご自分の手の道具として、これをなさることを喜ばれます。そのとき、その人は、神の名によって、神の力と権威によって、悪霊を追い出すと言われるのです。
 And he sends whom he will send upon this great work; but usually such as man would never have thought of: for "His ways are not as our ways, neither his thoughts as our thoughts."
-神は、この大きなわざに、ご自分がつかわそうと思われる者をつかわされます。けれども、それはたいてい、人が思いもよらなかったような者です。神の「道は」、私たちの「道とは異なり」、神の「思いは」、私たちの「思いとは異なっている」（イザヤ五五・八）からです。
-// イザヤ五五・八 の口語訳は神の一人称で（「わが思いは、あなたがたの思いとは異なり、わが道は、あなたがたの道とは異なっている」）、思いと道の順も逆。英文に合わせ、ずれる語を「」の外に出した。
+神は、この大きなわざに、ご自分がつかわそうと思われる者をつかわされます。けれども、それはたいてい、人が思いもよらなかったような者です。神の「道」は私たちの「道」とは異なり、神の「思い」は私たちの「思い」とは異なっている（イザヤ五五・八）からです。
+// イザヤ五五・八 の口語訳は神の一人称で（「わが思いは、あなたがたの思いとは異なり、わが道は、あなたがたの道とは異なっている」）、思いと道の順も逆。英文に合わせ、「道」「思い」の語だけを「」に入れた。
 Accordingly, he chooses the weak to confound the mighty; the foolish to confound the wise; for this plain reason, that he may secure the glory to himself; that "no flesh may glory in his sight."
 ですから、神は、強い者をはずかしめるために弱い者を選び、知者をはずかしめるために愚かな者を選ばれます（第一コリント一・二七）。その理由は明白です。栄光を確かにご自分のものとし、「どんな人間でも、神のみまえに誇ることがない」（第一コリント一・二九）ようにするためです。
 
@@ -217,7 +217,7 @@ And indeed whensoever our Lord is pleased to send many labourers into his harves
 Nay, they cannot be personal acquaintance with, nor be so much as known to, one another.
 いや、互いに個人的に知り合いになることも、互いに名を知られることさえも、できないのです。
 Many there will necessarily be, in different parts of the harvest, so far from having any mutual intercourse, that they will be as absolute strangers to each other as if they had lived in different ages.
-収穫の畑のあちこちには、どうしても多くの働き人がいることになります。彼らは互いに行き来がないどころか、まるで違う時代に生きていたかのように、互いにまったく見知らぬ者どうしでしょう。
+収穫の畑のあちこちには、どうしても、こういう働き人が大勢いることになります。互いに行き来がないどころか、まるで違う時代に生きていたかのように、まったく見知らぬ者どうしなのです。
 And concerning any of these whom we know not, we may doubtless say, "He followeth not us."
 そして、私たちの知らないこうした人々のだれについても、疑いなく、「わたしたちについてこない」（マルコ九・三八）と言えるのです。
 
@@ -241,7 +241,7 @@ How soon was that unanimity lost! and difference of opinion sprang up again, eve
 Nor does it appear that the difference which then began was ever entirely removed.
 そのとき始まった違いが、完全に取り除かれたことがあったとも思えません。
 We do not find that even those pillars in the temple of God, so long as they remained upon the earth, were ever brought to think alike, to be of one mind, particularly with regard to the ceremonial law.
-神の宮のあの柱たちでさえ、地上にとどまっている間に、同じように考え、思いを一つにするようになったことを、私たちは見いだしません。とりわけ、儀式律法についてはそうです。
+神の宮のあの柱たちでさえ、地上にとどまっている間に、同じように考え、思いを一つにするようになったとは見えません。とりわけ、儀式律法についてはそうです。
 It is therefore no way surprising, that infinite varieties of opinion should now be found in the Christian church.
 ですから、今、キリスト教会の中に限りなく多様な意見が見られるのも、少しも驚くにはあたりません。
 A very probable consequence of this is, that whenever we see any "casting out devils," he will be one that, in this sense, "followeth not us" --that is not of our opinion.
@@ -310,12 +310,12 @@ But I purposely put the case in the strongest light, adding all the circumstance
 ## 【三】　「やめさせないがよい」という主の指図
 
 III. 1. Suppose, then, a man have no intercourse with us, suppose he be not of our party, suppose he separate from our Church, yea, and widely differ from us, both in judgement, practice, and affection; yet if we see even this man "casting out devils," Jesus saith, "Forbid him not."
-（一）　それでは、ある人が私たちと何の行き来もないとします。私たちの党派に属していないとします。私たちの教会から離れているとします。そうです、判断においても実践においても感情においても、私たちと大きく違っているとします。それでも、そういう人が「悪霊を追い出している」（マルコ九・三八）のを見るなら、イエスは「やめさせないがよい」（マルコ九・三九）と言われるのです。
+（一）　それでは、ある人が私たちと何の行き来もないとします。私たちの党派に属していないとします。私たちの教会から離れているとします。そうです、判断においても実践においても感情においても、私たちと大きく違っているとします。それでも、そういう人でさえ「悪霊を追い出している」（マルコ九・三八）のを見るなら、イエスは「やめさせないがよい」（マルコ九・三九）と言われるのです。
 This important direction of our Lord I am, in the Third place, to explain.
 主のこの大切な指図を、第三に説き明かしたいと思います。
 
 2. If we see this man casting out devils: But it is well if, in such a case, we would believe even what we saw with our eyes, if we did not give the lie to our own senses.
-（二）　「そういう人が悪霊を追い出しているのを見るなら」と言いました。けれども、そういう場合には、私たちが自分の目で見たことさえ信じるなら、それでもよいほうなのです。自分の感覚をうそつき呼ばわりしないなら、よいほうなのです。
+（二）　「そういう人が悪霊を追い出しているのを見るなら」と言いました。けれども、そういう場合には、自分の目で見たことさえ信じられれば、自分の感覚をうそつき呼ばわりしなければ、上出来なのです。
 He must be little acquainted with human nature who does not immediately perceive how extremely unready we should be to believe that any man does cast out devils who "followeth not us" in all or most of the senses above recited: I had almost said, in any of them, seeing we may easily learn even from what passes in our own breasts, how unwilling men are to allow anything good in those who do not in all things agree with themselves.
 上に述べたすべての意味で、あるいはそのほとんどの意味で、「わたしたちについてこない」（マルコ九・三八）人がいるとします。その人が本当に悪霊を追い出していると信じることに、私たちがどれほどひどく気が進まないかは、すぐに分かるはずです。それが分からない人は、人間の本性をよく知らないに違いありません。いや、上の意味のどれか一つにおいてでも、と言いそうになりました。人は、すべての点で自分と一致しない人のうちに、何か良いものを認めることを、ひどく嫌がります。そのことは、自分の胸のうちで起こることからさえ、たやすく学べるからです。
 
@@ -365,10 +365,10 @@ But if God hath sent him, will you call him back Will you forbid him to go
 If you doubt the fact, send for the parents of the man: send for his brethren, friends, acquaintance.
 その事実を疑うなら、その人の両親を呼びなさい（ヨハネ九・一八）。兄弟や友人や知人を呼びなさい。
 But if you cannot doubt this, if you must needs acknowledge "that a notable miracle hath been wrought" then with what conscience, with what face, can you charge him whom God hath sent, "not to speak any more in his name"
-けれども、それを疑うことができないとします。「著しいしるしが行われた」（使徒四・一六）ことを、どうしても認めざるをえないとします。それなら、どんな良心で、どんな顔をして、神がつかわされた人に命じることができるでしょうか。「今後はこの名によって」「語ってはいけない」（使徒四・一七）と。
+けれども、それを疑うことができないとします。「著しいしるしが行われた」（使徒四・一六）ことを、どうしても認めざるをえないとします。それなら、どんな良心で、どんな顔をして、神がつかわされた人に命じることができるでしょうか。「今後は」神の名によって「語ってはいけない」（使徒四・一七）と。
 
 7. I allow, that it is highly expedient, whoever preaches in his name should have an outward as well as an inward call, but that it is absolutely necessary, I deny.
-（七）　確かに、神の名によって説教する人はだれでも、外からの召しも受けていることが、きわめて望ましいと私も認めます。内なる召しだけでなく、外からの召しもです。けれども、それが絶対に必要だということは、私は否定します。
+（七）　確かに、神の名によって説教する人はだれでも、内なる召しだけでなく外からの召しも受けているのが、きわめて望ましいことです。私もそれは認めます。けれども、それが絶対に必要だということは、私は否定します。
 
 "Nay, is not the Scripture express `No man taketh this honour unto himself, but he that is called of God, as was Aaron'" (Heb. 5:4).
 「いや、聖書ははっきりこう言っているではないか。『だれもこの栄誉ある務を自分で得るのではなく、アロンの場合のように、神の召しによって受けるのである』（ヘブル五・四）」。
@@ -389,7 +389,7 @@ Therefore it is not possible to find one text in all the Bible which is more wid
 You may easily see in the Acts of the Apostles.
 それは、使徒行伝を見ればすぐに分かります。
 In the eighth chapter we read, "There was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judea and Samaria, except the Apostles" (verse 1).
-第八章に、こう書かれています。エルサレムにある教会に対して大迫害が起こり、使徒たち以外の者はみな、ユダヤとサマリヤの地方に散らされて行った（使徒八・一）。
+第八章によれば、エルサレムにある教会に対して大迫害が起こり、使徒たち以外の者はみな、ユダヤとサマリヤの地方に散らされて行きました（使徒八・一）。
 // 照合データの使徒八・一 は前半（サウロは、ステパノを殺すことに賛成していた）しかないので、後半は英文から訳し、「」に入れなかった。
 "Therefore they that were scattered abroad went everywhere preaching the word" (verse 4).
 そこで、「散らされて行った人たちは、御言を宣べ伝えながら、めぐり歩いた」（使徒八・四）のです。
@@ -398,10 +398,10 @@ Now, were all these outwardly called to preach No man in his senses can think so
 Here, then, is an undeniable proof, what was the practice of the apostolic age.
 ですから、ここに、使徒の時代の慣行がどうであったかの、否定できない証拠があります。
 Here you see not one, but a multitude of lay preachers, men that were only sent of God.
-ここには、一人ではなく、大勢の信徒説教者がいます。ただ神からつかわされただけの人々です。
+ここには、一人ではなく、大勢の信徒説教者がいます。ただ神だけからつかわされた人々です。
 
 9. Indeed, so far is the practice of the apostolic age from inclining us to think it was unlawful for a man to preach before he was ordained, that we have reason to think it was then accounted necessary.
-（九）　実際、使徒の時代の慣行は、按手を受ける前に説教するのは不法だった、と私たちに思わせるどころではありません。むしろ、当時はそれが必要だと見なされていた、と考える理由があるのです。
+（九）　実際、使徒の時代の慣行は、按手を受ける前に説教するのは不法だった、と私たちに思わせるどころではありません。むしろ、当時は按手の前に説教することが必要だと見なされていた、と考える理由があるのです。
 Certainly the practice and the direction of the Apostle Paul was, to prove a man before he was ordained at all.
 確かに、使徒パウロの慣行と指示は、人がそもそも按手を受ける前に、その人を調べる、というものでした。
 "Let these" (the deacons), says he, "first be proved; then let them use the office of a deacon" (1 Tim. 3:10).
@@ -426,7 +426,7 @@ I know not that any have done this yet, or even made an attempt of doing it.
 Only some have spoken of them as very weak and trifling: and this was prudent enough; for it is far easier to despise, at least seem to despise, an argument, than to answer it.
 ただ、ある人々が、それをきわめて弱い、取るに足りない理由だと言っただけです。そして、それはなかなか賢明なことでした。議論に答えるよりも、それを軽んじるほうが、少なくとも軽んじているふりをするほうが、はるかにたやすいからです。
 Yet till this is done I must say, when I have reasonable proof that any man does cast out devils, whatever others do, I dare not forbid him, lest I be found even to fight against God.
-それでも、そういう理由への答えがなされるまでは、私はこう言わなければなりません。だれかが悪霊を追い出していることに、理にかなった証拠があるとします。そのときは、ほかの人々がどうしようと、私には、あえてその人をやめさせることはできません。そうすれば、神を敵にまわすことになる（使徒五・三九）かもしれないからです。
+それでも、そういう理由への答えがなされるまでは、私はこう言わなければなりません。だれかが悪霊を追い出していることに、理にかなった証拠があるとします。そのときは、ほかの人々がどうしようと、私には、あえてその人をやめさせることはできません。そうすれば、神を敵にまわすことにさえなる（使徒五・三九）かもしれないからです。
 
 11. And whosoever thou art that fearest God, "forbid him not, either directly or indirectly.
 （一一）　あなたがだれであれ、神を恐れる人よ、「やめさせないがよい」（マルコ九・三九）。直接にも間接にも、やめさせてはなりません。
@@ -436,7 +436,7 @@ There are many ways of doing this.
 You indirectly forbid him, if you either wholly deny, or despise and make little account of, the work which God has wrought by his hands.
 神がその人の手によってなさったわざを、まったく否定するとします。あるいは、軽んじて重く見ないとします。そのとき、あなたは間接にその人をやめさせているのです。
 You indirectly forbid him, when you discourage him in his work, by drawing him into disputes concerning it, by raising objections against it, or frightening him with consequences which very possibly will never be.
-その人のわざに水をさすとき、あなたは間接にその人をやめさせています。そのわざについての議論に引き込んだり、異議を唱えたり、おそらく決して起こらない結果を持ち出して脅したりして、水をさすときです。
+その人のわざに水をさすとき、あなたは間接にその人をやめさせています。議論に引き込んだり、異議を唱えたり、おそらく起こらない結果で脅したりして、水をさすときです。
 You forbid him when you show any unkindness toward him either in language or behaviour; and much more when you speak of him to others either in an unkind or a contemptuous manner; when you endeavour to represent him to any either in an odious or a despicable light.
 言葉においてであれ、ふるまいにおいてであれ、その人に何か不親切なことをするとき、あなたはその人をやめさせています。ほかの人々に向かって、その人のことを不親切に、あるいは軽蔑して語るときは、なおさらです。だれかに向かって、その人を憎むべき者、あるいは卑しむべき者として描こうと努めるときも、そうです。
 You are forbidding him all the time you are speaking evil of him, or making no account of his labours.
@@ -508,10 +508,10 @@ If you do any of these things, you are a bigot to this day.
 In order to examine ourselves thoroughly, let the case be proposed in the strongest manner.
 自分を徹底的に吟味するために、この事例を最も強い形で持ち出してみましょう。
 What, if I were to see a Papist, an Arian, a Socinian casting out devils If I did, I could not forbid even him, without convicting myself of bigotry.
-もし私が、ローマ・カトリック教徒や、アリウス派の人や、ソッツィーニ派の人が悪霊を追い出しているのを見たとしたら、どうでしょうか。そのときでも、私はその人をやめさせることはできません。やめさせれば、自分が偏狭であることを明らかにしてしまうからです。
+もし私が、ローマ・カトリック教徒やアリウス派やソッツィーニ派の人が、悪霊を追い出しているのを見たとしたら、どうでしょうか。そのときでも、私はその人をやめさせることはできません。やめさせれば、自分が偏狭であることを明らかにしてしまうからです。
 Yea, if it could be supposed that I should see a Jew, a Deist, or a Turk, doing the same, were I to forbid him either directly or indirectly, I should be no better than a bigot still.
 そうです、ユダヤ人や、理神論者や、トルコ人が同じことをしているのを私が見る、ということを仮に想定できるとします。そのときでも、直接にでも間接にでもその人をやめさせるなら、私はやはり偏狭な人にすぎないのです。
-// アリウス派とソッツィーニ派は、キリストの神性を否定した一派。トルコ人はイスラム教徒を指す。
+// アリウス派とソッツィーニ派は、キリストが父と同質の永遠の神であることを否定した諸派。トルコ人はイスラム教徒を指す。
 
 5. O stand clear of this!
 （五）　ああ、このことから身を離していなさい。
@@ -553,7 +553,7 @@ If he forbid you, do not you forbid him.
 Rather labour, and watch, and pray the more, to confirm your love toward him.
 むしろ、その人への愛を固めるために、いっそう努め、目をさまし、祈りなさい。
 If he speak all manner of evil of you, speak all manner of good (that is true) of him.
-その人があなたについて様々の悪口を言う（マタイ五・一一）なら、あなたはその人について、あらゆる良いことを言いなさい。ただし、本当のことをです。
+その人があなたについて様々の悪口を言う（マタイ五・一一）なら、あなたはその人について、様々の良いことを言いなさい。ただし、本当のことをです。
 Imitate herein that glorious saying of a great man (O that he had always breathed the same spirit!), "Let Luther call me a hundred devils; I will still reverence him as a messenger of God."
 この点で、ある偉大な人の、あの輝かしい言葉にならいなさい（ああ、その人がいつも同じ精神を持っていたらよかったのですが）。「ルターが私を百の悪魔と呼んでもかまいません。それでも私は、ルターを神の使者として敬います」。
 // この偉大な人はカルヴァン。ブリンガーにあてた手紙（1544年）に、ルターが自分を悪魔と呼んでも、ルターを神のすぐれたしもべとして敬う、という趣旨の言葉がある。
