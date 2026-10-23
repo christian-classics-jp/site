@@ -49,6 +49,6 @@
 + [x] Sermon 45. The New Birth
 + [x] Sermon 46. The Wilderness State
 + [x] Sermon 47. Heaviness Through Manifold Temptations
-+ [ ] Sermon 48. Self-denial
++ [x] Sermon 48. Self-denial
 + [ ] Sermon 49. The Cure Of Evil-speaking
 + [x] Sermon 50. The Use Of Money
