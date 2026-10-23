@@ -112,14 +112,10 @@ But some men will say, "True: Whosoever is born of God doth not commit sin habit
 けれども、ある人々は言うでしょう。「そのとおりだ。神から生れた者は、習慣的には罪を犯さないのだ」。
 Habitually! Whence is that I read it not. It is not written in the Book.
 習慣的に、とは！　それはどこから出てきたのでしょうか。私はそんな言葉を読んだことがありません。聖書には書かれていません。
-God plainly saith, "He doth not commit sin;" and thou addest, habitually!
-神ははっきりと、「罪を犯さない」と言われます。それなのに、あなたは「習慣的には」と付け加えるのです！
-Who art thou that mendest the oracles of God -- that "addest to the words of this book"
-神の言葉に手を加え、この書の言葉に「書き加える」あなたは、いったい何者なのですか（黙示録二二・一八）。
-Beware, I beseech thee, lest God "add to thee all the plagues that are written therein!"
-お願いですから、気をつけなさい。神が、あなたに「この書に書かれている災害を加えられる」かもしれません（黙示録二二・一八）！
-especially when the comment thou addest is such as quite swallows up the text:
-とりわけ、あなたが付け加える注釈が、本文をすっかりのみ込んでしまうようなものであるときは、そうです。
+God plainly saith, "He doth not commit sin;" and thou addest, habitually! Who art thou that mendest the oracles of God -- that "addest to the words of this book"
+神ははっきりと、「罪を犯さない」と言われます。それなのに、あなたは「習慣的には」と付け加えるのです！　神の言葉に手を加え、この書の言葉に「書き加える」あなたは、いったい何者なのですか（黙示録二二・一八）。
+Beware, I beseech thee, lest God "add to thee all the plagues that are written therein!" especially when the comment thou addest is such as quite swallows up the text:
+お願いですから、気をつけなさい。神が、あなたに「この書に書かれている災害を加えられる」かもしれません（黙示録二二・一八）！　とりわけ、あなたが付け加える注釈が、本文をすっかりのみ込んでしまうようなものであるときは、そうです。
 So that by this meqodeia planhs, artful method of deceiving, the precious promise is utterly lost;
 これは、メトデイア・プラネース（μεθοδεία πλάνης）です（エペソ四・一四）。人を欺く巧みなやり方です。これによって、尊い約束がすっかり失われてしまうのです。
 // 英文の転写は meqodeia planhs と kubeia anqrvpvn。
@@ -137,10 +133,8 @@ What is the inference he draws from this "Whosoever abideth in him sinneth not. 
 使徒は、ここからどんな結論を引き出しているでしょうか。「すべて彼におる者は、罪を犯しません。すべて罪を犯す者は彼を見たこともなく、知ったこともない者です」（第一ヨハネ三・六）。
 To his enforcement of this important doctrine, he premises an highly necessary caution: "Little children, let no man deceive you;" (1 John 3:7;)
 使徒は、この大切な教えを強く説く前に、ぜひとも必要な警告を述べています。「子たちよ。だれにも惑わされてはなりません」（第一ヨハネ三・七）。
-for many will endeavor so to do; to persuade you that you may be unrighteous, that you may commit sin, and yet be children of God!
-多くの人が、あなたがたを惑わそうとするからです。不義であってもよい、罪を犯してもよい、それでも神の子でいられる、と説き伏せようとするのです！
-"He that doeth righteousness is righteous, even as He is righteous. He that committeth sin is of the devil; for the devil sinneth from the beginning."
-「彼が義人であると同様に、義を行う者は義人です。罪を犯す者は、悪魔から出た者です。悪魔は初めから罪を犯しているからです」（第一ヨハネ三・七〜八）。
+for many will endeavor so to do; to persuade you that you may be unrighteous, that you may commit sin, and yet be children of God! "He that doeth righteousness is righteous, even as He is righteous. He that committeth sin is of the devil; for the devil sinneth from the beginning."
+多くの人が、あなたがたを惑わそうとするからです。不義であってもよい、罪を犯してもよい、それでも神の子でいられる、と説き伏せようとするのです！　「彼が義人であると同様に、義を行う者は義人です。罪を犯す者は、悪魔から出た者です。悪魔は初めから罪を犯しているからです」（第一ヨハネ三・七〜八）。
 Then follows, "Whosoever is born of God doth not commit sin; for his seed remaineth in him: And he cannot sin, because he is born of God.
 そして、こう続きます。「すべて神から生れた者は、罪を犯しません。神の種が、その人のうちにとどまっているからです。また、その人は、神から生れた者であるから、罪を犯すことができません」（第一ヨハネ三・九）。
 In this," adds the Apostle, "the children of God are manifest, and the children of the devil."
@@ -410,10 +404,8 @@ with a love not only ever burning in your hearts, but flaming out in all your ac
 （二）　では、このように神から生れているあなたがたとは、どんな人々でしょうか。あなたがたは、「神から賜わった恵みを悟」っています（第一コリント二・一二）。
 Ye well know that ye are the children of God, and "can assure your hearts before him."
 あなたがたは、自分が神の子であることをよく知っており、「神のみまえに心を安んじて」いることができます（第一ヨハネ三・一九）。
-And every one of you who has observed these words cannot but feel, and know of a truth, whether at this hour, (answer to God, and not to man!) you are thus a child of God or no.
-そして、これらの言葉に注意を払ってきたあなたがたはみな、感じずにはいられません。また、確かに知らずにはいられません。今この時、自分がこのような神の子であるか、そうでないかを、です。人にではなく、神に答えなさい！
-The question is not, what you was made in baptism; (do not evade;) but, What are you now
-問題は、あなたがバプテスマでどんな者にされたかではありません（言い逃れをしてはいけません）。今、あなたがどんな者であるかです。
+And every one of you who has observed these words cannot but feel, and know of a truth, whether at this hour, (answer to God, and not to man!) you are thus a child of God or no. The question is not, what you was made in baptism; (do not evade;) but, What are you now
+そして、これらの言葉に注意を払ってきたあなたがたはみな、感じずにはいられません。また、確かに知らずにはいられません。今この時、自分がこのような神の子であるか、そうでないかを、です。人にではなく、神に答えなさい！　問題は、あなたがバプテスマでどんな者にされたかではありません（言い逃れをしてはいけません）。今、あなたがどんな者であるかです。
 Is the Spirit of adoption now in your heart To your own heart let the appeal be made.
 子たる身分を授ける霊は（ローマ八・一五）、今、あなたの心のうちにおられるでしょうか。あなた自身の心に問うてみなさい。
 I ask not, whether you was born of water and of the Spirit; but are you now the temple of the Holy Ghost which dwelleth in you
@@ -438,16 +430,14 @@ Verily, I say unto you, whosoever you are, unto whom any one of the preceding ch
 Unto you I call, in the name of Him whom you crucify afresh, and in his words to your circumcised predecessors, "Ye serpents, ye generation of vipers, how can ye escape the damnation of hell"
 私は、あなたがたが自ら再び十字架につけている方の名によって（ヘブル六・六）、あなたがたに呼びかけます。また、その方が、割礼を受けたあなたがたの先人たちに語られた言葉によって、呼びかけます。「へびよ、まむしの子らよ、どうして地獄の刑罰をのがれることが」できるでしょうか（マタイ二三・三三）。
 
-4. How, indeed, except ye be born again!
-（四）　まことに、新しく生れなければ、どうしてのがれることができるでしょう！
-For ye are now dead in trespasses and sins.
-あなたがたは、今、罪過と罪とによって死んでいるからです（エペソ二・一）。
+4. How, indeed, except ye be born again! For ye are now dead in trespasses and sins.
+（四）　まことに、新しく生れなければ、どうしてのがれることができるでしょう！　あなたがたは、今、罪過と罪とによって死んでいるからです（エペソ二・一）。
 To say, then, that ye cannot be born again, that there is no new birth but in baptism, is to seal you all under damnation, to consign you to hell, without help, without hope.
 ですから、あなたがたは新しく生れることができない、バプテスマのほかに新生はない、と言うとします。それは、あなたがたをみな、滅びの下に封じ込めることです。助けもなく、望みもないまま、地獄に引き渡すことです。
 And perhaps some may think this just and right.
 そして、それが正しく、当然だと思う人もいるかもしれません。
 In their zeal for the Lord of hosts, they may say, "Yea, cut off the sinners, the Amalekites! Let these Gibeonites be utterly destroyed! They deserve no less."
-彼らは、万軍の主への熱心のあまり、こう言うかもしれません。「そうだ、罪びとなるアマレクびとを断ち滅ぼせ（第一サムエル一五・一八）！　このギベオンびとを滅ぼし尽せ！　彼らはそれに値するのだ」。
+彼らは、万軍の主への熱心のあまり、こう言うかもしれません。「そうだ、罪びとなるアマレクびとを断ち滅ぼせ（サムエル記上一五・一八）！　このギベオンびとを滅ぼし尽せ！　彼らはそれに値するのだ」。
 No; nor I, nor you.
 確かに、彼らはそれより軽いものには値しません。けれども、私も、あなたがたも同じです。
 Mine and your desert, as well as theirs, is hell; and it is mere mercy, free, undeserved mercy, that we are not now in unquenchable fire.

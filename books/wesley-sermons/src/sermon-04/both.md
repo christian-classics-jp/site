@@ -597,7 +597,7 @@ But there is no danger of your being put to the proof; so hath iniquity overspre
 Whom then shall God send --the famine, the pestilence (the last messengers of God to a guilty land), or the sword, "the armies of the" Romish "aliens," to reform us into our first love
 それでは、私たちを改めて、「初めの愛」に立ち帰らせるために（黙示録二・四）、神は何をつかわされるのでしょうか。ききんでしょうか。疫病でしょうか（これらは、罪ある国に神がつかわされる最後の使者です）。それとも、つるぎ、すなわちローマ教の「他国の軍」でしょうか（ヘブル一一・三四）。
 Nay, "rather let us fall into thy hand, O Lord, and let us not fall into the hand of man."
-いいえ、「主よ、むしろ、私たちをあなたの手に陥らせてください。私たちを人の手には陥らせないでください」（第二サムエル二四・一四）。
+いいえ、「主よ、むしろ、私たちをあなたの手に陥らせてください。私たちを人の手には陥らせないでください」（サムエル記下二四・一四）。
 Lord, save, or we perish! Take us out of the mire, that we sink not! O help us against these enemies! for vain is the help of man.
 「主よ、お助けください、私たちは死にそうです」（マタイ八・二五）。「私たちを泥の中に沈まぬよう助け出してください」（詩篇六九・一四）。ああ、「私たちに助けを与えて、あだにむかわせてください。人の助けはむなしいのです」（詩篇六〇・一一）。
 Unto thee all things are possible. According to the greatness of thy power, preserve thou those that are appointed to die; and preserve us in the manner that seemeth to thee good; not as we will, but as thou wilt!

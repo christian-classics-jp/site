@@ -637,7 +637,7 @@ Look then every moment for his appearing! Be it at the hour you are employed in 
 He is always ready, always able, always willing to save.
 神は、いつでも救う用意があり、いつでも救うことができ、いつでも救おうと願っておられます。
 "It is the Lord: Let him do what seemeth him good!"
-「それは主です。どうぞ主が、良いと思うことを行われるように」（第一サムエル三・一八）。
+「それは主です。どうぞ主が、良いと思うことを行われるように」（サムエル記上三・一八）。
 
 Secondly. Before you use any means, let it be deeply impressed on your soul; -- there is no power in this.
 第二に、どの手段を用いる前にも、このことを魂に深く刻みつけなさい。これには何の力もありません。

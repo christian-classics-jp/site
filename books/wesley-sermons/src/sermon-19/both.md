@@ -189,7 +189,7 @@ They did transgress the plain, known laws of God, speaking or acting what they k
 彼らは、明白な、よく知っている神の律法を犯しました。神が禁じておられると知っていることを、言い、また行ったのです。
 
 4. Thus David was unquestionably born of God or ever he was anointed king over Israel.
-（四）　たとえば、ダビデは、イスラエルの王として油を注がれる前に（第二サムエル五・三）、疑いもなく神から生れていました。
+（四）　たとえば、ダビデは、イスラエルの王として油を注がれる前に（サムエル記下五・三）、疑いもなく神から生れていました。
 He knew in whom he had believed; "he was strong in faith, giving glory to God."
 ダビデは、自分の信じてきたかたを知っていました（第二テモテ一・一二）。「信仰によって強められ、栄光を神に帰し」ていたのです（ローマ四・二〇）。
 "The Lord," saith he, "is my Shepherd; therefore can I lack nothing. He shall feed me in green pastures, and lead me forth beside the waters of comfort. Yea, though I walk through the valley of the shadow of death, I will fear no evil; for thou art with me." (Psalm 23: 1 &c.)
@@ -273,7 +273,7 @@ But still there remained in his heart that corruption of nature, which is the se
 けれども、ダビデの心には、なおあの性質の腐敗が残っていました。それは、あらゆる悪の種です。
 
 "He was walking upon the roof of his house," (2 Sam. 11:2,) probably praising the God whom his soul loved, when he looked down, and saw Bathsheba.
-ダビデは、「王の家の屋上を歩いていた」とき（第二サムエル一一・二）、おそらく、自分の魂の愛する神をほめたたえていたのでしょう。そのとき、ふと見下ろして、バテシバを見たのです。
+ダビデは、「王の家の屋上を歩いていた」とき（サムエル記下一一・二）、おそらく、自分の魂の愛する神をほめたたえていたのでしょう。そのとき、ふと見下ろして、バテシバを見たのです。
 He felt a temptation; a thought which tended to evil.
 ダビデは誘惑を感じました。悪へと傾く思いです。
 The Spirit of God did not fail to convince him of this.

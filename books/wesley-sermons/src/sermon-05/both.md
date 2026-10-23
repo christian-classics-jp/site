@@ -422,7 +422,7 @@ That were, in very deed, to deny the Lord that bought thee.
 No: Plead thou, singly, the blood of the covenant, the ransom paid for thy proud, stubborn, sinful soul.
 そうではありません。ただ「契約の血」だけを申し立てなさい（ヘブル一〇・二九）。あなたの高慢な、かたくなな、罪深い魂のために支払われた、あがないの代価だけを申し立てなさい。
 Who art thou, that now seest and feelest both thine inward and outward ungodliness Thou art the man!
-いま、自分の内側と外側の不信心を見て、感じているあなたは、だれでしょうか。「あなたがその人です」（第二サムエル一二・七）。
+いま、自分の内側と外側の不信心を見て、感じているあなたは、だれでしょうか。「あなたがその人です」（サムエル記下一二・七）。
 I want thee for my Lord! I challenge "thee" for a child of God by faith! The Lord hath need of thee.
 私は、私の主のために、あなたが欲しいのです！　信仰による神の子として、ほかならぬあなたを、主のものとして求めます！　「主がお入り用なのです」（マタイ二一・三）。
 Thou who feelest thou art just fit for hell, art just fit to advance his glory; the glory of his free grace, justifying the ungodly and him that worketh not.

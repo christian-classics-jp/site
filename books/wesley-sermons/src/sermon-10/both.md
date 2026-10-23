@@ -299,7 +299,7 @@ By this also, if he give himself leave to think, may he know, that he is not bor
 6. But waving the consideration of whatever he has or has not experienced in time past; by the present marks may we easily distinguish a child of God from a presumptuous self-deceiver.
 （六）　けれども、その人が過去に何を経験し、何を経験しなかったかは、考えないでおきましょう。今あるしるしによって、私たちは、神の子と、思い上がった自己欺瞞者とを、たやすく見分けることができます。
 The Scriptures describe that joy in the Lord which accompanies the witness of his Spirit, as a humble joy; a joy that abases to the dust, that makes a pardoned sinner cry out, "I am vile! What am I, or my father's house Now mine eye seeth thee, I abhor myself in dust and ashes!"
-聖書は、主の御霊のあかしに伴う、主にある喜びを、へりくだった喜びとして描いています。それは、人をちりにまで低くする喜びです。赦された罪人に、こう叫ばせる喜びです。「私はまことに卑しい者です（ヨブ四〇・四）。私は何者なのでしょう。私の父の一族は何者なのでしょう（第一サムエル一八・一八）。今は私の目であなたを拝見いたします。それで私はみずから恨み、ちり灰の中で悔います」（ヨブ四二・五〜六）。
+聖書は、主の御霊のあかしに伴う、主にある喜びを、へりくだった喜びとして描いています。それは、人をちりにまで低くする喜びです。赦された罪人に、こう叫ばせる喜びです。「私はまことに卑しい者です（ヨブ四〇・四）。私は何者なのでしょう。私の父の一族は何者なのでしょう（サムエル記上一八・一八）。今は私の目であなたを拝見いたします。それで私はみずから恨み、ちり灰の中で悔います」（ヨブ四二・五〜六）。
 And wherever lowliness is, there is meekness, patience, gentleness, long-suffering.
 そして、へりくだりのあるところには、どこにでも、柔和、忍耐、慈愛、寛容があります。
 There is a soft, yielding spirit; a mildness and sweetness, a tenderness of soul, which words cannot express.

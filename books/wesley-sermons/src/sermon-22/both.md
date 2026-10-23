@@ -466,7 +466,7 @@ He alone weeps over either the sin or folly of his enemy, takes no pleasure in h
 愛の人だけが、敵の罪や愚かさのために泣きます。それを聞くことにも、言いふらすことにも、喜びを感じません。むしろ、それがいつまでも忘れられることを願うのです。
 
 13. But he "rejoiceth in the truth," wheresoever it is found; in "the truth which is after godliness;" bringing forth its proper fruit, holiness of heart, and holiness of conversation.
-（一三）　けれども、その人は「真理を喜」びます（第一コリント一三・六）。それがどこに見いだされても、喜ぶのです。「信心にかなう真理」を喜びます（テトス一・一）。その真理は、ふさわしい実を結びます。心の聖さと、ふるまいの聖さです。
+（一三）　けれども、その人は「真理を喜」びます（第一コリント一三・六）。それがどこに見いだされても、喜ぶのです。「信心にかなう真理」を喜びます（テトス一・一）。その真理は、ふさわしい実を結びます。心の聖性と、ふるまいの聖性です。
 He rejoices to find that even those who oppose him, whether with regard to opinions, or some points of practice, are nevertheless lovers of God, and in other respects unreprovable.
 意見について、あるいは実践のいくつかの点について、自分に反対する人々がいます。その人々も、それでもなお神を愛する人であり、ほかの点では責められるところのない人だと分かると（コロサイ一・二二）、その人は喜びます。
 He is glad to hear good of them, and to speak all he can consistently with truth and justice.

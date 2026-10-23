@@ -306,7 +306,7 @@ I mean here, it is that method of reconciliation with God which hath been chosen
 Now, as it is not meet for man to say unto God, "What doest thou" -- as none who is not utterly void of understanding, will contend with One that is mightier than he, with Him whose kingdom ruleth over all;
 さて、人が神に向かって「あなたは何をするのか」と言うのは、ふさわしくありません（ヨブ九・一二）。まったく分別のない者でなければ、だれも自分よりも力強い者と争うことはしません（伝道の書六・一〇）。そのまつりごとがすべての物を統べ治める方と、争うことはしません（詩篇一〇三・一九）。
 so it is true wisdom, it is a mark of sound understanding, to acquiesce in whatever he hath chosen; to say in this, as in all things, "It is the Lord: Let him do what seemeth him good."
-それと同じように、神の選ばれたことは何であれ、それに従うのが、まことの知恵であり、健全な分別のしるしです。すべてのことと同じく、このことでも、こう言うのです。「それは主です。どうぞ主が、良いと思うことを行われるように」（第一サムエル三・一八）。
+それと同じように、神の選ばれたことは何であれ、それに従うのが、まことの知恵であり、健全な分別のしるしです。すべてのことと同じく、このことでも、こう言うのです。「それは主です。どうぞ主が、良いと思うことを行われるように」（サムエル記上三・一八）。
 
 8. It may be farther considered, that it was of mere grace, of free love, of undeserved mercy, that God hath vouchsafed to sinful man any way of reconciliation with himself, that we were not cut away from his hand, and utterly blotted out of his remembrance.
 （八）　さらに、次のことも考えてみてください。神が罪深い人に、ご自分と和解する道を少しでも与えてくださったのは、ただ恵みにより、価なしの愛により、受けるに値しないあわれみによることでした。私たちが神の御手から断ち切られず、神の記憶からすっかり消し去られなかったのも、そうです。

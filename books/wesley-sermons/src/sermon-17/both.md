@@ -359,10 +359,8 @@ This is God's short and plain account of true religion and virtue; and "other fo
 （五）　第三に、これまで述べたことから、次のことを学ぶことができます。本当に「御霊に導かれている」人には（ローマ八・一四）、「御霊」が、その人の「霊と共に」、その人が「神の子であることをあかしして」くださいます（ローマ八・一六）。
 unless he see the prize and the crown before him, and "rejoice in hope of the glory of God."
 また、その人は、賞与と冠とを前に見て、「神の栄光にあずかる希望をもって喜んで」います（ローマ五・二）。
-So greatly have they erred who have taught that, in serving God, we ought not to have a view to own happiness !
-ですから、神に仕えるときに自分の幸いを目当てにしてはならない、と教えてきた人々は、なんと大きく誤っていたことでしょう！
-Nay, but we are often and expressly taught of God, to have "respect unto the recompense of reward;"
-いや、むしろ私たちは、神から、たびたびはっきりと、「報いを望み見」るように教えられています（ヘブル一一・二六）。
+So greatly have they erred who have taught that, in serving God, we ought not to have a view to own happiness ! Nay, but we are often and expressly taught of God, to have "respect unto the recompense of reward;"
+ですから、神に仕えるときに自分の幸いを目当てにしてはならない、と教えてきた人々は、なんと大きく誤っていたことでしょう！　いや、むしろ私たちは、神から、たびたびはっきりと、「報いを望み見」るように教えられています（ヘブル一一・二六）。
 to balance toil with the "joy set before us," these "light afflictions" with that "exceeding weight of glory."
 労苦を、「前におかれている喜び」と比べてみるように教えられています（ヘブル一二・二）。この「軽い患難」を、あの「重い栄光」と比べてみるように、教えられているのです（第二コリント四・一七）。
 Yea, we are "aliens to the covenant of promise," we are "without God in the world," until God, "of his abundant mercy, hath begotten us again unto a living hope of the inheritance incorruptible, undefiled, and that fadeth not away.

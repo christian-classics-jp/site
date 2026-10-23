@@ -105,10 +105,8 @@ Yea, and I may do all this with a desire to please God, and a real belief that I
 （四）　もし、このことを不思議に思う人がいるなら、その人は、自分がイエス・キリストの宗教の全体を知らない者であることを認めるべきです。
 and, in particular, to that perfect portraiture thereof which he has set before us in this discourse.
 とりわけ、主がこの説教で私たちの前に示された、その宗教の完全な肖像を知らない者であることを、認めるべきです。
-For how far short is all this of that righteousness and true holiness which he has described therein!
-これらすべては、主がそこに描かれた真の義と聖（エペソ四・二四）に、何と遠く及ばないことでしょう！
-How widely distant from that inward kingdom of heaven which is now opened in the believing soul, -- which is first sown in the heart as a grain of mustard-seed, but afterwards putteth forth great branches, on which grow all the fruits of righteousness, every good temper, and word, and work.
-信じる魂のうちに今開かれている内なる天国から、何と遠く隔たっていることでしょう。その天国は、初めは一粒のからし種のように心にまかれますが、やがて大きな枝を張ります（マルコ四・三一〜三二）。その枝には、義のあらゆる実が、すなわちあらゆる良い気質と、良い言葉と、良いわざが実るのです。
+For how far short is all this of that righteousness and true holiness which he has described therein! How widely distant from that inward kingdom of heaven which is now opened in the believing soul, -- which is first sown in the heart as a grain of mustard-seed, but afterwards putteth forth great branches, on which grow all the fruits of righteousness, every good temper, and word, and work.
+これらすべては、主がそこに描かれた真の義と聖（エペソ四・二四）に、何と遠く及ばないことでしょう！　信じる魂のうちに今開かれている内なる天国から、何と遠く隔たっていることでしょう。その天国は、初めは一粒のからし種のように心にまかれますが、やがて大きな枝を張ります（マルコ四・三一〜三二）。その枝には、義のあらゆる実が、すなわちあらゆる良い気質と、良い言葉と、良いわざが実るのです。
 
 5. Yet as clearly as he had declared this, as frequently as he had repeated, that none who have not this kingdom of God within them shall enter into the kingdom of heaven;
 （五）　主はこのことをはっきりと告げ、何度も繰り返してこられました。自分のうちにこの神の国を持たない者は、だれも天国にはいれない、と。
@@ -178,10 +176,8 @@ He alone shall enter into the kingdom of heaven, who, in this spirit, doeth good
 and who, being for this cause despised and rejected of men, being hated, reproached, and persecuted, rejoices and is "exceeding glad," knowing in whom he hath believed, and being assured these light, momentary afflictions will "work out for him an eternal weight of glory."
 そのために人に侮られて捨てられ（イザヤ五三・三）、憎まれ、そしられ、迫害されても、喜び、「よろこ」ぶ（マタイ五・一二）人だけです。この人は、自分の信じてきたかたを知っています（第二テモテ一・一二）。そして、このしばらくの軽い患難が、「永遠の重い栄光を」自分に「得させる」ことを確信しているのです（第二コリント四・一七）。
 
-2. How truly wise is this man!
-（二）　この人は、何と本当に賢いことでしょう！
-He knows himself; -- an everlasting spirit, which came forth from God, and was sent down into an house of clay, not to do his own will, but the will of Him that sent him.
-この人は自分を知っています。自分は、神から出て、泥の家（ヨブ四・一九）の中に送り込まれた、永遠の霊であることを知っているのです。それは、自分のこころのままを行うためではなく、自分をつかわされたかたのみこころを行うため（ヨハネ六・三八）でした。
+2. How truly wise is this man! He knows himself; -- an everlasting spirit, which came forth from God, and was sent down into an house of clay, not to do his own will, but the will of Him that sent him.
+（二）　この人は、何と本当に賢いことでしょう！　この人は自分を知っています。自分は、神から出て、泥の家（ヨブ四・一九）の中に送り込まれた、永遠の霊であることを知っているのです。それは、自分のこころのままを行うためではなく、自分をつかわされたかたのみこころを行うため（ヨハネ六・三八）でした。
 He knows the world; -- the place in which he is to pass a few days or years, not as an inhabitant, but as a stranger and sojourner, in his way to the everlasting habitations;
 この人は世を知っています。世は、永遠のすまい（ルカ一六・九）へ向かう途中で、わずかな日々か年月を過ごす場所です。そこに住む者としてではなく、旅人であり寄留者として（第一ペテロ二・一一）過ごす場所なのです。
 and accordingly he uses the world as not abusing it, and as knowing the fashion of it passes away.
@@ -246,16 +242,12 @@ He "shall not fear though the earth be moved, and though the hills be carried in
 
 ## 【三】　実践への適用
 
-III. 1. How nearly then does it concern every child of man, practically to apply these things to himself! diligently to examine on what foundation he builds, whether on a rock or on the sand!
-（一）　それなら、これらのことを実際に自分に当てはめることは、すべての人の子にとって、何と切実なことでしょう！　自分が何の土台の上に、岩の上にか砂の上にか、建てているかを念入りに調べることは、何と切実なことでしょう！
-How deeply are you concerned to inquire, "What is the foundation of my hope Whereon do I build my expectation of entering into the kingdom of heaven
-あなたにとって、次のように問うことは、何と深くかかわることでしょう。「私の望みの土台は何か。天国にはいるという期待を、私は何の上に建てているのか。
+III. 1. How nearly then does it concern every child of man, practically to apply these things to himself! diligently to examine on what foundation he builds, whether on a rock or on the sand! How deeply are you concerned to inquire, "What is the foundation of my hope Whereon do I build my expectation of entering into the kingdom of heaven
+（一）　それなら、これらのことを実際に自分に当てはめることは、すべての人の子にとって、何と切実なことでしょう！　自分が何の土台の上に、岩の上にか砂の上にか、建てているかを念入りに調べることは、何と切実なことでしょう！　あなたにとって、次のように問うことは、何と深くかかわることでしょう。「私の望みの土台は何か。天国にはいるという期待を、私は何の上に建てているのか。
 Is it not built on the sand upon my orthodoxy, or right opinions, which, by a gross abuse of words, I have called faith upon my having a set of notions, suppose more rational or scriptural than others have"
 それは砂の上に建てられているのではないか。私の正統信仰、すなわち正しい意見の上に建てられているのではないか。私は、言葉をひどく乱用して、それを信仰と呼んできた。ほかの人々の考えよりも合理的で、聖書的だと思われる一組の考えを持っていることの上に、建てられているのではないか」。
-Alas! what madness is this! Surely this is building on the sand, or, rather, on the froth of the sea!
-ああ、これは何という狂気でしょう！　これは確かに砂の上に、いや、むしろ海の泡の上に建てることです！
-Say, "I am convinced of this: Am I not again building my hope on what is equally unable to support it
-こう言いなさい。「私はこのことを確信した。だが、私はまたしても、同じように望みを支えることのできないものの上に、望みを建ててはいないか。
+Alas! what madness is this! Surely this is building on the sand, or, rather, on the froth of the sea! Say, "I am convinced of this: Am I not again building my hope on what is equally unable to support it
+ああ、これは何という狂気でしょう！　これは確かに砂の上に、いや、むしろ海の泡の上に建てることです！　こう言いなさい。「私はこのことを確信した。だが、私はまたしても、同じように望みを支えることのできないものの上に、望みを建ててはいないか。
 Perhaps on my belonging to 'so excellent a church; reformed after the true Scripture model; blessed with the purest doctrine, the most primitive liturgy, the most apostolical form of government!"
 もしかすると、『これほどすぐれた教会、まことの聖書の型に従って改革され、最も純粋な教理と、最も初代教会に近い典礼と、最も使徒的な教会政治とに恵まれた教会！』に属していることの上に、建ててはいないか。
 // 英文の引用符は、'so excellent a church の開き（'）に閉じがなく、government! の後に " がある。続く文も一人称（me, I）の独白なので、Say, " からの「」を sand. まで延ばし常体にした。教会を誇る句は『』にした。
@@ -309,10 +301,8 @@ Do you feed the hungry, and clothe the naked, and visit the fatherless and widow
 飢えた者に食べさせ、裸の者に着せ、困っている孤児や、やもめを見舞っているでしょうか（ヤコブ一・二七）。
 Do you visit those that are sick relieve them that are in prison Is any a stranger, and you take him in
 病気の人を見舞い、獄にいる人を助けているでしょうか。旅人がいれば、宿を貸しているでしょうか（マタイ二五・三五〜三六）。
-Friend, come up higher!
-友よ、もっと上の方へ進みなさい（ルカ一四・一〇）！
-Do you "prophesy" in the "name" of Christ Do you preach the truth as it is in Jesus
-あなたはキリストの「名によって」「預言し」ているでしょうか（マタイ七・二二）。イエスにある真理（エペソ四・二一）を宣べ伝えているでしょうか。
+Friend, come up higher! Do you "prophesy" in the "name" of Christ Do you preach the truth as it is in Jesus
+友よ、もっと上の方へ進みなさい（ルカ一四・一〇）！　あなたはキリストの「名によって」「預言し」ているでしょうか（マタイ七・二二）。イエスにある真理（エペソ四・二一）を宣べ伝えているでしょうか。
 And does the influence of his Spirit attend your word, and make it the power of God unto salvation
 そして、キリストの御霊の働きがあなたの言葉に伴い、それを救を得させる神の力（ローマ一・一六）としているでしょうか。
 Does he enable you to bring sinners from darkness to light, from the power of Satan unto God
@@ -327,18 +317,14 @@ Apply to him just in the spirit of the dying thief, of the harlot with her seven
 死に臨んだ強盗（ルカ二三・四二）の心で、七つの悪霊につかれていた遊女の心で、そのままキリストに頼りなさい！　そうしなければ、あなたはなお砂の上にいます。ほかの人を救ったあとで、自分の魂を失うでしょう。
 // the harlot with her seven devils は、七つの悪霊を追い出してもらったマグダラのマリヤ（ルカ八・二）を、ルカ七・三七 の罪の女と同一視する当時の伝承による。
 
-5. Lord, increase my faith, if I now believe! else, give me faith, though but as a grain of mustard-seed!
-（五）　主よ、もし私が今信じているなら、私の信仰を増してください（ルカ一七・五）！　そうでないなら、からし種一粒ほどの（マタイ一七・二〇）信仰でもかまいません、私に信仰を与えてください！
--- But "what doth it profit, if a man say he hath faith, and have not works Can" that "faith save him"
-けれども、「ある人が自分には信仰があると称していても、もし行いがなかったら、なんの役に立つでしょうか。その信仰は彼を救うことができるでしょうか」（ヤコブ二・一四）。
+5. Lord, increase my faith, if I now believe! else, give me faith, though but as a grain of mustard-seed! -- But "what doth it profit, if a man say he hath faith, and have not works Can" that "faith save him"
+（五）　主よ、もし私が今信じているなら、私の信仰を増してください（ルカ一七・五）！　そうでないなら、からし種一粒ほどの（マタイ一七・二〇）信仰でもかまいません、私に信仰を与えてください！　けれども、「ある人が自分には信仰があると称していても、もし行いがなかったら、なんの役に立つでしょうか。その信仰は彼を救うことができるでしょうか」（ヤコブ二・一四）。
 O no! That faith which hath not works, which doth not produce both inward and outward holiness, which does not stamp the whole image of God on the heart, and purify us as he is pure;
 ああ、できません！　次のような信仰は、福音の信仰ではありません。行いのない信仰、内と外との聖性を生み出さない信仰です。神のかたちの全体を心に刻まず、神がきよくあられるように私たちをきよくしない（第一ヨハネ三・三）信仰です。
 that faith which does not produce the whole of the religion described in the foregoing chapters, is not the faith of the gospel, not the Christian faith, not the faith which leads to glory.
 これまでの章に述べられた宗教の全体を生み出さない信仰は、福音の信仰でも、キリスト教の信仰でも、栄光に導く信仰でもないのです。
-O beware of this, above all other snares of the devil, -- of resting on unholy, unsaving faith!
-ああ、悪魔のほかのどんなわなにもまして、このわなに気をつけなさい。聖くない、救わない信仰に安んじることに、気をつけなさい！
-If thou layest stress on this, thou art lost for ever: Thou still buildest thy house upon the sand.
-もしこれに頼るなら、あなたは永遠に滅びます。あなたはなお、砂の上に自分の家を建てているのです。
+O beware of this, above all other snares of the devil, -- of resting on unholy, unsaving faith! If thou layest stress on this, thou art lost for ever: Thou still buildest thy house upon the sand.
+ああ、悪魔のほかのどんなわなにもまして、このわなに気をつけなさい。聖くない、救わない信仰に安んじることに、気をつけなさい！　もしこれに頼るなら、あなたは永遠に滅びます。あなたはなお、砂の上に自分の家を建てているのです。
 When "the rain descends, and the floods come, it will surely fall, and great will be the fall of it."
 「雨が降り、洪水が押し寄せ」るとき、その家は必ず「倒れてしまいます。そしてその倒れ方はひどい」のです（マタイ七・二七）。
 
@@ -362,10 +348,8 @@ And even then weep with them that weep; and for them that weep not for themselve
 そして、そのときにも、泣く者と共に泣きなさい（ローマ一二・一五）。自分のために泣かない人々のためにも泣きなさい。
 Mourn for the sins and miseries of mankind;
 人々の罪と悲惨のために悲しみなさい。
-and see, but just before your eyes, the immense ocean of eternity, without a bottom or a shore, which has already swallowed up millions of millions of men, and is gaping to devour them that yet remain!
-そして、すぐ目の前に、永遠という果てしない大洋を見なさい。底も岸もない大洋です。それはすでに幾億幾千万の人々を呑み込み、まだ残っている人々を呑み込もうと口を開けているのです！
-See here, the house of God eternal in the heavens! there, hell and destruction without a covering! -- and thence learn the importance of every moment, which just appears, and is gone for ever!
-こちらには、天にある神の永遠の家（第二コリント五・一）を見なさい！　あちらには、おおい隠すもののない陰府と滅びの穴（ヨブ二六・六）を見なさい！　そして、そこから、一瞬一瞬の重さを学びなさい。一瞬は現れたかと思うと、永遠に過ぎ去ってしまうのです！
+and see, but just before your eyes, the immense ocean of eternity, without a bottom or a shore, which has already swallowed up millions of millions of men, and is gaping to devour them that yet remain! See here, the house of God eternal in the heavens! there, hell and destruction without a covering! -- and thence learn the importance of every moment, which just appears, and is gone for ever!
+そして、すぐ目の前に、永遠という果てしない大洋を見なさい。底も岸もない大洋です。それはすでに幾億幾千万の人々を呑み込み、まだ残っている人々を呑み込もうと口を開けているのです！　こちらには、天にある神の永遠の家（第二コリント五・一）を見なさい！　あちらには、おおい隠すもののない陰府と滅びの穴（ヨブ二六・六）を見なさい！　そして、そこから、一瞬一瞬の重さを学びなさい。一瞬は現れたかと思うと、永遠に過ぎ去ってしまうのです！
 
 8. Now add to your seriousness, meekness of wisdom.
 （八）　今、あなたの真剣さに、知恵にかなう柔和（ヤコブ三・一三）を加えなさい。
@@ -405,12 +389,8 @@ the dwelling in God and God in thee; the being an inhabitant of eternity;
 the entering in by the blood of sprinkling "within the veil," and "sitting in heavenly places with Christ Jesus!"
 そそがれた血（ヘブル一二・二四）によって「幕の内」にはいり（ヘブル六・一九）、「キリスト・イエスにあって」「共に天上で座につ」くことです（エペソ二・六）！
 
-10. Now, seeing thou canst do all things through Christ strengthening thee, be merciful as thy Father in heaven is merciful!
-（一〇）　あなたは、自分を強くしてくださるキリストによって、何事でもすることができます（ピリピ四・一三）。ですから、今、天の父が慈悲深いように、あなたも慈悲深い者となりなさい（ルカ六・三六）！
-Love thy neighbour as thyself! Love friends and enemies as thy own soul!
-自分を愛するようにあなたの隣り人を愛しなさい（マタイ二二・三九）！　友も敵も、自分の魂のように愛しなさい！
-And let thy love be longsuffering and patient towards all men.
-そして、あなたの愛を、すべての人に対して寛容で、忍耐強いものとしなさい。
+10. Now, seeing thou canst do all things through Christ strengthening thee, be merciful as thy Father in heaven is merciful! Love thy neighbour as thyself! Love friends and enemies as thy own soul! And let thy love be longsuffering and patient towards all men.
+（一〇）　あなたは、自分を強くしてくださるキリストによって、何事でもすることができます（ピリピ四・一三）。ですから、今、天の父が慈悲深いように、あなたも慈悲深い者となりなさい（ルカ六・三六）！　自分を愛するようにあなたの隣り人を愛しなさい（マタイ二二・三九）！　友も敵も、自分の魂のように愛しなさい！　そして、あなたの愛を、すべての人に対して寛容で、忍耐強いものとしなさい。
 Let it be kind, soft, benign; inspiring thee with the most amiable sweetness, and the most fervent and tender affection.
 その愛を、情深く、穏やかで、優しいものとしなさい。この上なく愛らしいやわらかさと、この上なく熱く細やかな愛情とを、あなたに吹き込むものとしなさい。
 Let it rejoice in the truth, wheresoever it is found; the truth that is after godliness.
@@ -447,17 +427,9 @@ Be thou little, and base, and mean, and vile (beyond what words can express) in 
 自分の目に（言葉で言い表せないほど）小さく、卑しく、取るに足りない、つまらない者となりなさい。キリスト・イエスにおける神の愛（ローマ八・三九）に驚き、ちりにまで低くされなさい。
 Be serious.
 真剣でありなさい。
-Let the whole stream of thy thoughts, words, and actions flow from the deepest conviction that thou standest on the edge of the great gulf, thou and all the children of men, just ready to drop in, either into everlasting glory or everlasting burnings!
-あなたの思いと言葉と行いの流れのすべてを、最も深い確信から流れ出させなさい。あなたも、すべての人の子らも、大きな淵（ルカ一六・二六）のふちに立っていて、今にも落ち込もうとしている、という確信です。落ちる先は、永遠の栄光か、とこしえの燃える火（イザヤ三三・一四）かのどちらかです！
-Let thy soul be filled with mildness, gentleness, patience, long-suffering towards all men; --
-あなたの魂を、すべての人に対する穏やかさと、優しさと、忍耐と、寛容とで満たしなさい。
-at the same time that all which is in thee is athirst for God, the living God; longing to awake up after his likeness, and to be satisfied with it!
-同時に、あなたのうちにあるすべてのものが、神を、いける神を慕う（詩篇四二・二）ようにしなさい。目ざめるとき、神のみかたちを見て、満ち足りる（詩篇一七・一五）ことを切に願うようにしなさい！
-Be thou a lover of God and of all mankind! In this spirit do and suffer all things!
-神とすべての人とを愛する者となりなさい！　この精神をもって、すべてを行い、すべてを忍びなさい！
-Thus show thy faith by thy works; thus "do the will of thy Father which is in heaven!"
-このようにして、行いによって信仰を見せなさい（ヤコブ二・一八）。このようにして、「天にいます」あなたの「父の御旨を行」いなさい（マタイ七・二一）！
-And, as sure as thou now walkest with God on earth, thou shalt also reign with him in glory!
-そして、あなたが今地上で神とともに歩んでいる（創世記五・二四）のが確かであるように、栄光のうちに神とともに支配することも確かなのです！
+Let the whole stream of thy thoughts, words, and actions flow from the deepest conviction that thou standest on the edge of the great gulf, thou and all the children of men, just ready to drop in, either into everlasting glory or everlasting burnings! Let thy soul be filled with mildness, gentleness, patience, long-suffering towards all men; --
+あなたの思いと言葉と行いの流れのすべてを、最も深い確信から流れ出させなさい。あなたも、すべての人の子らも、大きな淵（ルカ一六・二六）のふちに立っていて、今にも落ち込もうとしている、という確信です。落ちる先は、永遠の栄光か、とこしえの燃える火（イザヤ三三・一四）かのどちらかです！　あなたの魂を、すべての人に対する穏やかさと、優しさと、忍耐と、寛容とで満たしなさい。
+at the same time that all which is in thee is athirst for God, the living God; longing to awake up after his likeness, and to be satisfied with it! Be thou a lover of God and of all mankind! In this spirit do and suffer all things! Thus show thy faith by thy works; thus "do the will of thy Father which is in heaven!" And, as sure as thou now walkest with God on earth, thou shalt also reign with him in glory!
+同時に、あなたのうちにあるすべてのものが、神を、いける神を慕う（詩篇四二・二）ようにしなさい。目ざめるとき、神のみかたちを見て、満ち足りる（詩篇一七・一五）ことを切に願うようにしなさい！　神とすべての人とを愛する者となりなさい！　この精神をもって、すべてを行い、すべてを忍びなさい！　このようにして、行いによって信仰を見せなさい（ヤコブ二・一八）。このようにして、「天にいます」あなたの「父の御旨を行」いなさい（マタイ七・二一）！　そして、あなたが今地上で神とともに歩んでいる（創世記五・二四）のが確かであるように、栄光のうちに神とともに支配することも確かなのです！
 
 // Edited by Debi Carter with corrections by Ryan Danker and George Lyons for the Wesley Center for Applied Theology.

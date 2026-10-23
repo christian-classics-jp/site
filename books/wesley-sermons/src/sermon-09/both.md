@@ -101,7 +101,7 @@ If not saying in his heart, "There is no God;" or, that "he sitteth on the circl
 yet satisfying himself as well to all Epicurean intents and purposes, by saying, "God is merciful;"
 それでも、「神はあわれみ深い」と言って、同じように満足しています。実質においては、エピクロス派と何も変わらないのです。
 confounding and swallowing up all at once in that unwieldy idea of mercy, all his holiness and essential hatred of sin; all his justice, wisdom, and truth.
-あわれみという、大ざっぱな考えの中に、すべてを一度にのみ込ませてしまうのです。神の聖さも、罪への本質的な憎しみも、神の正義も、知恵も、真実も、ごちゃまぜにのみ込ませてしまうのです。
+あわれみという、大ざっぱな考えの中に、すべてを一度にのみ込ませてしまうのです。神の聖性も、罪への本質的な憎しみも、神の正義も、知恵も、真実も、ごちゃまぜにのみ込ませてしまうのです。
 He is in no dread of the vengeance denounced against those who obey not the blessed law of God, because he understands it not.
 ほむべき神の律法に従わない者に宣告された報復も、少しも恐れません。律法を理解していないからです。
 He imagines the main point is to do thus, to be outwardly blameless; and sees not that it extends to every temper, desire, thought, motion of the heart.

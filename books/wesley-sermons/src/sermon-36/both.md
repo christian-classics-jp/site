@@ -257,7 +257,7 @@ While we steadily look, not at the things which are seen, but at those which are
 Let but the eye of the soul be constantly fixed, not on the things which are temporal, but on those which are eternal, and our affections are more and more loosened from earth, and fixed on things above.
 魂の目が、一時的なものにではなく、永遠のもの（第二コリント四・一八）に絶えず据えられてさえいるとします。そうすれば、私たちの思いは、ますます地上から解き放たれ、上にあるもの（コロサイ三・二）に据えられます。
 So that faith, in general, is the most direct and effectual means of promoting all righteousness and true holiness; of establishing the holy and spiritual law in the hearts of them that believe.
-ですから、一般的な意味での信仰は、すべての義と真の聖性（エペソ四・二四）とを推し進める、最も直接で効果的な手段です。聖なる霊的な律法を、信じる者の心に確立する手段なのです。
+ですから、一般的な意味での信仰は、すべての真の義と聖（エペソ四・二四）とを推し進める、最も直接で効果的な手段です。聖なる霊的な律法を、信じる者の心に確立する手段なのです。
 
 3. And by faith, taken in its more particular meaning, for a confidence in a pardoning God, we establish his law in our own hearts in a still more effectual manner.
 （三）　また、信仰を、もっと特別な意味で、赦してくださる神への信頼ととるとします。私たちは、その信仰によって、神の律法を自分の心にさらに効果的に確立します。
