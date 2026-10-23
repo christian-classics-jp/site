@@ -696,7 +696,7 @@ Remains, and stands for ever sure:
 Calmly to thee my soul looks up,
 私の魂は、静かにあなたを仰ぎ、<br/>
 And waits thy promises to prove;
-あなたの約束を身をもって知る時を待ちます。<br/>
+あなたの約束を身をもって知るときを待ちます。<br/>
 The object of my steadfast hope,
 その約束こそ、私の揺るがない望みの的、<br/>
 The seal of thine eternal love.
@@ -730,7 +730,7 @@ And sprinkle with thy blood my heart.
 あなたの血を、私の心に注いでください。<br/>
 
 Thy sanctifying Spirit pour,
-聖めてくださるあなたの御霊を注いで、<br/>
+きよめてくださるあなたの御霊を注いで、<br/>
 To quench my thirst, and wash me clean;
 私の渇きをいやし、私を洗い清めてください。<br/>
 Now, Father, let the gracious shower
@@ -741,7 +741,7 @@ Descend, and make me pure from sin.
 Purge me from every sinful blot;
 罪のしみを残らず除いて、私を清めてください。<br/>
 My idols all be cast aside:
-私の偶像を、みな投げ捨てさせてください。<br/>
+私の偶像を、みな捨て去ってください。<br/>
 Cleanse me from every evil thought,
 あらゆる悪い思いから、私を清めてください。<br/>
 From all the filth of self and pride.
@@ -759,7 +759,7 @@ And let my spirit cleave to thee.
 O take this heart of stone away,
 ああ、この石の心を取り去ってください。<br/>
 (Thy rule it doth not, cannot own;)
-（それは、あなたの支配を認めず、認めることもできません。）<br/>
+（それは、あなたの支配に従わず、従うこともできません。）<br/>
 In me no longer let it stay:
 もはや私のうちにとどまらせないでください。<br/>
 O take away this heart of stone.
@@ -784,7 +784,7 @@ And sin shall never enter more.
 そうすれば、罪は二度と入って来ません。<br/>
 
 12 Cause me to walk in Christ my Way,
-私の道であるキリストのうちを、歩ませてください。<br/>
+私の道であるキリストに、歩ませてください。<br/>
 And I thy statutes shall fulfill;
 そうすれば、私はあなたの定めを守り行い、<br/>
 In every point thy law obey.
@@ -851,12 +851,12 @@ And fill me with the life of God.
 Sustain the life thyself hast given;
 あなたご自身が与えられたいのちを、支えてください。<br/>
 Call for the corn, the living bread,
-穀物を、生きたパンを、呼び寄せてください。<br/>
+穀物を、生きたパンを、呼びよせてください。<br/>
 The manna that comes down from heaven.
-天から下って来るマナを。<br/>
+天から下ってくるマナを。<br/>
 
 20 The gracious fruits of righteousness,
-義の恵み深い実を、<br/>
+恵みによる義の実を、<br/>
 Thy blessings' unexhausted store,
 尽きることのない、あなたの祝福の蓄えを、<br/>
 In me abundantly increase;
@@ -869,9 +869,9 @@ Nor let me ever hunger more.
 "My leanness, O my leanness!" cry;
 「わたしはやせ衰える、わたしはやせ衰える」と叫ばせないでください。<br/>
 Alone consumed with pining want,
-やつれる乏しさに、ひとり焼き尽くされるのは、<br/>
+乏しさにやつれ、衰え果てているのは、<br/>
 Of all my Father's children I!
-父のすべての子らのうちで、私だけだ、と。<br/>
+父の子らのうちで、ただ私ひとりだ、と。<br/>
 
 22 The painful thirst, the fond desire,
 苦しい渇きも、切なる願いも、<br/>
@@ -885,7 +885,7 @@ Thy whole eternity of love.
 23 Holy, and true, and righteous Lord,
 聖なる、真実な、正しい主よ、<br/>
 I wait to prove thy perfect will;
-私は、あなたの全きみこころを、わきまえ知る時を待ちます。<br/>
+私は、あなたの全きみこころを、わきまえ知るときを待ちます。<br/>
 Be mindful of thy gracious word,
 あなたの恵みの言葉を心に留め、<br/>
 And stamp me with thy Spirit's seal!
@@ -919,7 +919,7 @@ Lost in astonishment and love.
 驚きと愛とのうちに、我を忘れて。<br/>
 
 27 Confound, o'erpower me with thy grace:
-あなたの恵みで、私をうろたえさせ、圧倒してください。<br/>
+あなたの恵みで、私を恥じ入らせ、圧倒してください。<br/>
 I would be by myself abhorr'd;
 私は、自分で自分を忌みきらう者となりたいのです。<br/>
 (All might, all majesty, all praise,
