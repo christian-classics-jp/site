@@ -26,7 +26,7 @@ If a man is indeed alive to God, and dead to all things here below; if he contin
 3. It is easy to observe, that the determinate thing which the world account madness is, that utter contempt of all temporal things, and steady pursuit of things eternal;
 （三）　世が狂気と見なしているものが、はっきり何であるかは、すぐに分かります。それは、一時的なものをすべてまったく軽んじ、永遠のものをひたすら追い求めることです。
 that divine conviction of things not seen; that rejoicing in the favour of God that happy, holy love of God; and that testimony of His Spirit with our spirit, that we are the children of God, --that is, in truth, the whole spirit, and life, and power of the religion of Jesus Christ.
-まだ見ていない事実（ヘブル一一・一）についての、神から与えられる確信です。神の恵みを喜ぶこと、神への幸いな聖い愛です。そして、御霊が私たちの霊とともに、私たちが神の子であることをあかししてくださること（ローマ八・一六）です。それは、実のところ、イエス・キリストの宗教の霊であり、いのちであり、力のすべてなのです。
+まだ見ていない事実（ヘブル一一・一）についての、神から与えられる確信です。神の恵みを喜ぶこと、神への幸いな聖い愛です。そして、御霊が私たちの霊とともに、私たちが神の子であることをあかししてくださること（ローマ八・一六）です。それは、実のところ、イエス・キリストの宗教の霊と、いのちと、力とのすべてなのです。
 
 4. They will, however, allow, in other respects, the man acts and talks like one in his senses.
 （四）　とはいえ、ほかの点では、その人が正気の人のようにふるまい、話すことを、彼らも認めます。
@@ -38,7 +38,7 @@ It is therefore acknowledged, that the madness under which he labours is of a pa
 5. A term this, which is exceeding frequently used, which is scarce ever out of some men's mouths; and yet it is exceeding rarely understood, even by those who use it most.
 （五）　これは、きわめてひんぱんに使われる言葉です。ある人々の口からは、ほとんど離れることがありません。それなのに、この言葉が理解されていることはきわめてまれです。いちばんよく使う人々でさえ、理解していないのです。
 It may be, therefore, not unacceptable to serious men, to all who desire to understand what they speak or hear, if I endeavour to explain the meaning of this term -- to show what enthusiasm is.
-ですから、私がこの言葉の意味を説き明かし、熱狂とは何かを示そうと努めても、まじめな人々には受けいれてもらえるでしょう。自分が語り、聞くことを理解したいと願うすべての人にも、受けいれてもらえるでしょう。
+ですから、私がこの言葉の意味を説き明かし、熱狂とは何かを示そうと努めるなら、まじめな人々には受けいれてもらえるでしょう。自分が語り、聞くことを理解したいと願うすべての人にも、受けいれてもらえるでしょう。
 It may be an encouragement to those who are unjustly charged therewith; and may possibly be of use to some who are justly charged with it; at least to others who might be so, were they not cautioned against it.
 それは、不当に熱狂だと責められている人々の励ましになるかもしれません。正当に熱狂だと責められている人々にも、もしかすると役に立つかもしれません。少なくとも、警告されなければ、そう責められることになりかねない人々には、役に立つかもしれません。
 
@@ -57,7 +57,7 @@ Perhaps it is a fictitious word, invented from the noise which some of those mad
 // 英文の転写は enqousiasmos、en qev、en qusia。
 
 7. It is not improbable, that one reason why this uncouth word has been retained in so many languages was, because men were not better agreed concerning the meaning than concerning the derivation of it.
-（七）　このなじみにくい語が、これほど多くの言語にそのまま残されてきたのは、なぜでしょうか。その理由の一つは、人々が、その由来についてと同じく、その意味についても一致していなかったからでしょう。それは大いにありうることです。
+（七）　このなじみにくい語が、これほど多くの言語にそのまま残されてきたのは、なぜでしょうか。その理由の一つは、人々が、その由来についてと同じく、その意味についても一致していなかったからでしょう。それは十分ありうることです。
 They therefore adopted the Greek word, because they did not understand it: they did not translate it into their own tongues, because they knew not how to translate it; it having been always a word of a loose, uncertain sense, to which no determinate meaning was affixed.
 ですから、人々はこのギリシャ語をそのまま取り入れました。理解していなかったからです。自分の国の言葉に訳さなかったのは、どう訳せばよいか分からなかったからです。この語は、いつもしまりのない、あいまいな意味の語で、はっきりした意味が定められていなかったのです。
 
@@ -73,7 +73,7 @@ being, at divers times, so filled with the Spirit, and so influenced by Him who 
 9. Others take the word in an indifferent sense, such as is neither morally good nor evil: thus they speak of the enthusiasm of the poets; of Homer and Virgil in particular.
 （九）　ほかの人々は、この語を良くも悪くもない意味、すなわち道徳的に善でも悪でもない意味にとります。そのように、詩人たちの熱狂、とりわけホメロスやウェルギリウスの熱狂ということを言います。
 And this a late eminent writer extends so far as to assert, there is no man excellent in his profession, whatsoever it be, who has not in his temper a strong tincture of enthusiasm.
-ある近ごろの著名な著述家は、この意味をさらに広げ、こう言いきるほどです。どんな職業であれ、その道ですぐれた人で、気質に熱狂の色を濃く帯びていない者はいない、と。
+近年亡くなった、ある著名な著述家は、この意味をさらに広げ、こう言いきるほどです。どんな職業であれ、その道ですぐれた人で、気質に熱狂の色を濃く帯びていない者はいない、と。
 // この著述家がだれかは確認できなかった。
 By enthusiasm these appear to understand, all uncommon vigour of thought, a peculiar fervour of spirit, a vivacity and strength not to be found in common men; elevating the soul to greater and higher things than cool reason could have attained.
 この人々は、熱狂ということで、次のようなものを考えているようです。並はずれた思考の力、独特の霊の熱さ、ふつうの人には見られない活気と力です。それは、冷静な理性では届かなかったような、もっと大きく高いものへと魂を引き上げるのです。
@@ -128,18 +128,18 @@ These are usually such as "have no root in themselves;" no deep repentance, or t
 "Therefore they receive the word with joy."
 ですから、彼らは「御言を」、「喜んで受ける」のです（マルコ四・一六）。
 And "because they have no deepness of earth," no deep work in their heart, therefore the seed "immediately springs up."
-そして、「土が深くないので」（マタイ一三・五）、すなわち心の中に深いわざがないので、種は「すぐ芽を出」すのです（マタイ一三・五）。
+そして、「土が深くないので」（マタイ一三・五）、すなわち心の中に深いわざがないので、種は「すぐ芽を出」すのです（マルコ四・五）。
 There is immediately a superficial change, which, together with that light joy, striking in with the pride of their unbroken heart, and with their inordinate self-love, easily persuades them they have already "tasted the good word of God, and the powers of the world to come."
 すぐに、うわべの変化が起こります。この変化は、あの軽い喜びと一緒になり、砕かれていない心の高ぶりや、度を越した自己愛と結びつきます。そして、自分たちはもう「神の良きみ言葉と、きたるべき世の力とを味わった」（ヘブル六・五）と、たやすく思い込ませるのです。
 
 14. This is properly an instance of the first sort of enthusiasm: it is a kind of madness, arising from the imagination that they have that grace which, in truth, they have not: so that they only deceive their own souls.
 （一四）　これは、まさしく第一の種類の熱狂の例です。本当は持っていない恵みを持っていると思い込むことから生じる、一種の狂気です。ですから、彼らはただ自分の魂を欺いているにすぎません。
 Madness it may be justly termed: for the reasonings of these poor men are right, were their premisses good; but as those are a mere creature of their own imagination, so all that is built on them falls to the ground.
-これを狂気と呼ぶのは正当です。このあわれな人々の推論は、前提が正しければ、正しいからです。けれども、前提はただ自分の想像が生み出したものにすぎません。ですから、その上に築かれたものは、みな崩れ落ちるのです。
+これを狂気と呼ぶのは正当です。このあわれな人々の推論は、前提が確かなら、筋が通っているからです。けれども、前提はただ自分の想像が生み出したものにすぎません。ですから、その上に築かれたものは、みな崩れ落ちるのです。
 The foundation of all their reveries is this: they imagine themselves to have faith in Christ.
 彼らの空想すべての土台は、これです。自分はキリストを信じる信仰を持っている、と思い込んでいることです。
 If they had this, they would be "kings and priests to God;" possessed of a "kingdom which cannot be moved":
-もし本当にこの信仰を持っていたなら、彼らは神のための王、また「祭司」（黙示録一・六）となり、「震われない国」（ヘブル一二・二八）を持つ者となるでしょう。
+もし本当にこの信仰を持っていたなら、彼らは神のための王、また「祭司」（黙示録一・六）となるでしょう。「震われない国」（ヘブル一二・二八）を持つ者となるでしょう。
 // 欽定訳の kings and priests は、口語訳では「御国の民とし、祭司として」（写本の違い）なので、「王」は「」の外に出した。
 but they have it not; consequently, all their following behaviour is as wide of truth and soberness as that of the ordinary madman who, fancying himself an earthly king, speaks and acts in that character.
 けれども、彼らはそれを持っていません。ですから、それに続く彼らのふるまいは、みな真実からも正気からもかけ離れています。自分を地上の王だと思い込み、王になりきって話したりふるまったりする、ふつうの狂人と同じです。
@@ -150,7 +150,7 @@ but they have it not; consequently, all their following behaviour is as wide of 
 Such, for instance, is the fiery zealot for religion; or, more properly, for the opinions and modes of worship which he dignifies with that name.
 たとえば、宗教のために燃え立つ熱心家がそうです。もっと正確に言えば、自分が宗教という名で飾り立てている意見や礼拝の様式のために燃え立つ人です。
 This man, also, strongly imagines himself to be a believer in Jesus; yea, that he is a champion for the faith which was once delivered to the saints.
-この人も、自分はイエスを信じる者だと強く思い込んでいます。そうです、自分こそ、聖徒たちにひとたび伝えられた信仰のために戦う闘士だ、と思い込んでいるのです。
+この人も、自分はイエスを信じる者だと強く思い込んでいます。そうです、自分こそ、聖徒たちに「ひとたび伝えられた信仰」（ユダ三）のために戦う闘士だ、と思い込んでいるのです。
 Accordingly, all his conduct is formed upon that vain imagination.
 ですから、その人のふるまいはみな、そのむなしい思い込みの上に形づくられています。
 And allowing his supposition to be just, he would have some tolerable plea for his behaviour; whereas now it is evidently the effect of a distempered brain, as well as of a distempered heart.
@@ -163,7 +163,7 @@ These abound, not only in all parts of our land, but in most parts of the habita
 That they are not Christians, is clear and undeniable, if we believe the oracles of God.
 神の言（ローマ三・二）を信じるなら、彼らがクリスチャンでないことは、明白で否定のしようがありません。
 For Christians are holy; these are unholy: Christians love God; these love the world: Christians are humble; these are proud: Christians are gentle; these are passionate; Christians have the mind which was in Christ; these are at the utmost distance from it.
-なぜなら、クリスチャンは聖ですが、この人々は聖くありません。クリスチャンは神を愛しますが、この人々は世を愛します。クリスチャンはへりくだっていますが、この人々は高ぶっています。クリスチャンは穏やかですが、この人々は怒りっぽいのです。クリスチャンはキリストのうちにあった思いを持っていますが、この人々はそれから最も遠く離れています。
+なぜなら、クリスチャンは聖いのですが、この人々は聖くありません。クリスチャンは神を愛しますが、この人々は世を愛します。クリスチャンはへりくだっていますが、この人々は高ぶっています。クリスチャンは穏やかですが、この人々は怒りっぽいのです。クリスチャンはキリストのうちにあった思いを持っていますが、この人々はそれから最も遠く離れています。
 Consequently, they are no more Christians, than they are archangels.
 ですから、彼らは、天使のかしらでないのと同じように、クリスチャンでもありません。
 Yet they imagine themselves so to be; and they can give several reasons for it: for they have been called so ever since they can remember; they were christened many years ago; they embrace the Christian opinions, vulgarly termed the Christian or catholic faith; they use the Christian modes of worship, as their fathers did before them; they live what is called a good Christian life, as the rest of their neighbours do.
@@ -205,7 +205,7 @@ Thus some have imagined themselves to be endued with a power of working miracles
 Others have undertaken to prophesy, to foretell things to come, and that with the utmost certainty and exactness.
 また、ある人々は、預言すること、すなわち将来のことを予告することを企てました。しかも、この上なく確実に、正確に予告しようとしたのです。
 But a little time usually convinces these enthusiasts.
-けれども、たいていは、少し時がたてば、この熱狂者たちも思い知ります。
+けれども、たいていは、しばらくたてば、この熱狂者たちも思い知ります。
 When plain facts run counter to their predictions, experience performs what reason could not, and sinks them down into their senses.
 明白な事実が予告と食い違うと、理性にはできなかったことを経験がなしとげ、彼らを正気に引き戻すのです。
 
@@ -260,7 +260,7 @@ But how is a sober Christian to make this inquiry to know what is the will of Go
 Not by waiting for supernatural dreams; not by expecting God to reveal it in visions; not by looking for any particular impressions or sudden impulses on his mind: no; but by consulting the oracles of God.
 超自然的な夢を待つことによってではありません。神が幻のうちに御旨を示してくださるのを期待することによってでもありません。心に何か特別な印象や突然の衝動が来るのを待ち望むことによってでもありません。そうではなく、神の言（ローマ三・二）に尋ねることによってです。
 "To the law and to the testimony!"
-「教とあかしとに求め」なさい（イザヤ八・二〇）。
+「教とあかしと」（イザヤ八・二〇）に求めなさい。
 This is the general method of knowing what is "the holy and acceptable will of God."
 これが、聖であって「神に喜ばれ」る「御旨」（ローマ一二・二）を知る、一般的な方法です。
 // 英文の holy は、欽定訳ローマ一二・二 では good（口語訳「善であって、神に喜ばれ、かつ全きこと」）。
@@ -279,7 +279,7 @@ In order, therefore, to know what is the will of God in a particular case, we ha
 ですから、特定の場合に神の御旨が何であるかを知るには、この一般的な規則をあてはめさえすればよいのです。
 
 24. Suppose, for instance, it were proposed to a reasonable man to marry, or to enter into a new business: in order to know whether this is the will of God, being assured, "It is the will of God concerning me, that I should be as holy and do as much good as I can," he has only to enquire, "In which of these states can I be most holy, and do the most good"
-（二四）　たとえば、道理をわきまえた人に、結婚するか、新しい仕事を始めるか、という話が持ちかけられたとします。その人は、「私についての神の御旨は、私ができるだけ聖くなり、できるだけ多くの善を行うことだ」と確信しています。それなら、これが神の御旨かどうかを知るには、ただ「どちらの身分でいるほうが、私はいちばん聖くなり、いちばん多くの善を行えるか」と問いさえすればよいのです。
+（二四）　たとえば、道理をわきまえた人に、結婚する、あるいは新しい仕事を始める、という話が持ちかけられたとします。その人は、「私についての神の御旨は、私ができるだけ聖くなり、できるだけ多くの善を行うことだ」と確信しています。それなら、これが神の御旨かどうかを知るには、どうすればよいでしょうか。ただ「どちらの身分でいるほうが、私はいちばん聖くなり、いちばん多くの善を行えるか」と問いさえすればよいのです。
 And this is to be determined, partly by reason, and partly by experience.
 そして、これは、一つには理性によって、一つには経験によって決められます。
 Experience tells him what advantages he has in his present state, either for being or doing good; and reason is to show, what he certainly or probably will have in the state proposed.
@@ -307,7 +307,7 @@ It is a gross way of taking the name of God in vain, and betrays great irreveren
 Would it not be far better, then, to use other expressions, which are not liable to such objections
 それなら、そのような非難を受けるおそれのない、ほかの言い方を使うほうが、はるかによいのではないでしょうか。
 For example: instead of saying, on any particular occasion, "I want to know what is the will of God;" would it not be better to say, "I want to know what will be most for my improvement; and what will make me most useful"
-たとえば、何かの場合に、「神の御旨が何かを知りたい」と言うとします。その代わりに、「何が私の成長にいちばん役立つか、何をすれば私がいちばん役に立つ者になれるかを知りたい」と言うほうが、よいのではないでしょうか。
+たとえば、何かの場合に、「神の御旨が何かを知りたい」と言うとします。その代わりに、こう言うほうが、よいのではないでしょうか。「何が私の成長にいちばん役立つか、何をすれば私がいちばん役に立つ者になれるかを知りたい」。
 this way of speaking is clear and unexceptionable: it is putting the matter on a plain, scriptural issue, and that without any danger of enthusiasm.
 この言い方は明快で、非の打ちどころがありません。それは、問題を平明で聖書にかなった論点の上に置くことです。しかも、熱狂に陥る危険がまったくないのです。
 
@@ -339,7 +339,7 @@ I do not say His general providence; for this I take to be a sounding word. whic
 And if there be a particular providence, it must extend to all persons and all things.
 そして、もし個別の摂理があるなら、それはすべての人、すべてのものに及ぶはずです。
 So our Lord understood it, or He could never have said, "Even the hairs of your head are all numbered;" and, "Not a sparrow falleth to the ground without" the will of "your Father" which is in heaven.
-主もそのように理解しておられました。そうでなければ、主は決して、「あなたがたの頭の毛までも、みな数えられている」（マタイ一〇・三〇）とは言われなかったでしょう。また、すずめについて、天にいます「あなたがたの父の」御旨「がなければ、その一羽も地に落ちることはない」（マタイ一〇・二九）とも言われなかったでしょう。
+主もそのように理解しておられました。そうでなければ、主は決して、「あなたがたの頭の毛までも、みな数えられている」（マタイ一〇・三〇）とは言われなかったでしょう。また、すずめについて、こうも言われなかったでしょう。天にいます「あなたがたの父の」御旨「がなければ、その一羽も地に落ちることはない」（マタイ一〇・二九）。
 // 英文の the will of と which is in heaven は「」の外にあるウェスレーの補い。口語訳では「あなたがたの父の許しがなければ」。
 But if it be so, if God preside universis tanquam singulis, et singulis tanquam universis; "over the whole universe as over every single person, and over every single person as over the whole universe;" what is it (except only our own sins) which we are not to ascribe to the providence of God
 けれども、もしそうだとします。すなわち、神は次のように治めておられるとします。
@@ -350,7 +350,7 @@ So that I cannot apprehend there is any room here for the charge of enthusiasm.
 ですから、ここに熱狂という非難の入る余地があるとは、私には思えません。
 
 29. If it be said, the charge lies here: "When you impute this to Providence, you imagine yourself the peculiar favourite of heaven": I answer, you have forgot some of the last words I spoke: Praesidet universis tanquam singulis: "His providence is over all men in the universe, as much as over any single person."
-（二九）　ある人は、非難はこの点にあるのだ、と言うかもしれません。「あなたがこれを摂理に帰するとき、あなたは自分を天の特別なお気に入りだと思い込んでいるのだ」。私は答えます。あなたは、私がつい先ほど語った言葉を忘れています。
+（二九）　ある人は、非難はこの点にあるのだ、と言うかもしれません。「あなたがこれを摂理に帰するとき、あなたは自分を天の特別なお気に入りだと思い込んでいるのだ」。私は答えます。あなたは、私がつい先ほど語った言葉の一部を忘れています。
 % Praesidet universis tanquam singulis. （神の摂理は、どの一人の人の上にも及んでいるのと同じだけ、宇宙のすべての人の上に及んでいる）
 // 英文のラテン語に続く "His providence is …" はその英訳。訳は（）に入れた。
 Do you not see that he who, believing this, imputes anything which befalls him to Providence, does not therein make himself any more the favourite of heaven, than he supposes every man under heaven to be
@@ -363,7 +363,7 @@ Therefore you have no pretence, upon this ground, to charge him with enthusiasm.
 Its immediate offspring is pride; it continually increases this source from whence it flows; and hereby it alienates us more and more from the favour and from the life of God.
 熱狂がじかに生み出すのは高ぶりです。熱狂は、自分が流れ出てくるこの源を、絶えず大きくします。こうして、熱狂は私たちを、神の恵みから、また神のいのちから、ますます遠く離れさせる（エペソ四・一八）のです。
 It dries up the very springs of faith and love, of righteousness and true holiness; seeing all these flow from grace: but "God resisteth the proud, and giveth grace" only "to the humble."
-熱狂は、信仰と愛との、義と真の聖性（エペソ四・二四）との泉そのものを、干上がらせます。これらはみな、恵みから流れ出るものだからです。けれども、「神は高ぶる者をしりぞけ」、ただ「へりくだる者に恵みを賜う」のです（ヤコブ四・六）。
+熱狂は、信仰と愛との、真の義と聖と（エペソ四・二四）の泉そのものを、干上がらせます。これらはみな、恵みから流れ出るものだからです。けれども、「神は高ぶる者をしりぞけ」、ただ「へりくだる者に恵みを賜う」のです（ヤコブ四・六）。
 
 31. Together with pride there will naturally arise an unadvisable and unconvincible spirit.
 （三一）　高ぶりとともに、忠告を受けつけず、説得にも応じない心が、自然に生じます。
@@ -379,9 +379,9 @@ He must be less and less capable of being convinced, less susceptible of persuas
 32. Being thus fortified both against the grace of God, and against all advice and help from man, he is wholly left to the guidance of his own heart, and of the king of the children of pride.
 （三二）　こうして、その人は、神の恵みに対しても、人からのあらゆる忠告や助けに対しても、守りを固めてしまいます。そのため、まったく自分の心の導きにゆだねられ、すべての誇り高ぶる者の王（ヨブ四一・三四）の導きにゆだねられてしまうのです。
 No marvel, then, that he is daily more rooted and grounded in contempt of all mankind, in furious anger, in every unkind disposition, in every earthly and devilish temper.
-ですから、その人が日ごとにますます根を下ろし、そこに立つようになるのも不思議ではありません。すべての人へのさげすみに、激しい怒りに、あらゆる不親切な性向に、あらゆる地につく悪魔的な気質に、です。
+ですから、その人が日ごとにますます根を下ろし、そこに立つようになるのも不思議ではありません。すべての人へのさげすみに、激しい怒りに、あらゆる不親切な性向に、あらゆる地につく、悪魔的な気質に、です。
 Neither can we wonder at the terrible outward effects which have flowed from such dispositions in all ages; even all manner of wickedness, all the works of darkness, committed by those who call themselves Christians, while they wrought with greediness such things as were hardly named even among the Heathens.
-また、そういう性向から、どの時代にも恐ろしい外面の結果が流れ出てきたのも、不思議ではありません。すなわち、自分をクリスチャンと呼ぶ人々が犯してきた、あらゆる種類の悪、あらゆるやみのわざ（エペソ五・一一）です。彼らは、異教徒の間でさえほとんど口にされないようなことを、むさぼるように行ってきたのです。
+また、そういう性向から、どの時代にも恐ろしい外面の結果が流れ出てきたのも、不思議ではありません。すなわち、自分をクリスチャンと呼ぶ人々が犯してきた、あらゆる種類の悪、あらゆるやみのわざ（ローマ一三・一二）です。彼らは、異教徒の間でさえほとんど口にされないようなことを、むさぼるように行ってきたのです。
 
 Such is the nature, such the dreadful effects, of that manyheaded monster, Enthusiasm!
 以上が、熱狂という、多くの頭を持つ怪物の性質であり、その恐ろしい結果です。
@@ -415,7 +415,7 @@ Do not imagine you have attained that grace of God which you have not attained.
 You may have much joy; you may have a measure of love; and yet not have living faith.
 あなたには大きな喜びがあるかもしれません。ある程度の愛があるかもしれません。それでも、生きた信仰を持っていないことがありうるのです。
 Cry unto God, that He would not suffer you, blind as you are, to go out of the way; that you may never fancy yourself a believer in Christ, till Christ is revealed in you, and till His Spirit witnesses with your spirit that you are a child of God.
-神に叫び求めなさい。盲目のあなたが道からそれるのを、神が許されないように、と祈るのです。また、自分をキリストを信じる者だと決して思い込まないように、と祈るのです。キリストがあなたの内に啓示され（ガラテヤ一・一六）、神の御霊があなたの霊とともに、あなたが神の子であることをあかししてくださる（ローマ八・一六）までは、です。
+神に叫び求めなさい。盲目のあなたが道からそれるのを、神が許されないように、と祈るのです。また、自分をキリストを信じる者だと決して思い込まないように、と祈るのです。キリストがあなたの内に啓示される（ガラテヤ一・一六）までは、そう思い込まないように祈るのです。神の御霊があなたの霊とともに、あなたが神の子であることをあかししてくださる（ローマ八・一六）までは、です。
 
 36. Beware you are not a fiery, persecuting enthusiast.
 （三六）　燃え立って人を迫害する熱狂者にならないように気をつけなさい。
@@ -429,7 +429,7 @@ Think yourself, and let think.
 Use no constraint in matters of religion.
 宗教のことでは、強制を用いてはなりません。
 Even those who are farthest out of the way never compel to come in by any other means than reason, truth, and love.
-道から最も遠く離れている人々でさえ、理性と真理と愛による以外の方法で、無理やりに連れて来ようとしてはなりません。
+道から最も遠く離れている人々でさえ、理性と真理と愛による以外の方法で、決して無理やりに連れて来ようとしてはなりません。
 // compel to come in は、ルカ一四・二三 の欽定訳 compel them to come in（口語訳「無理やりにひっぱってきなさい」）の句を踏まえる。文言が違うので出典を付けなかった。
 
 37. Beware you do not run with the common herd of enthusiasts, fancying you are a Christian when you are not.
@@ -453,7 +453,7 @@ God can give the end without any means at all; but you have no reason to think H
 Therefore constantly and carefully use all those means which He has appointed to be the ordinary channels of His grace.
 ですから、神がご自分の恵みのふつうの通り道として定められた手段を、すべて絶えず注意深く用いなさい。
 Use every means which either reason or Scripture recommends, as conducive (through the free love of God in Christ) either to the obtaining or increasing any of the gifts of God.
-理性か聖書が勧める手段は、すべて用いなさい。それは、神の賜物のどれかを得たり増したりするのに役立つものとして、勧められている手段です。もちろん、役立つのは、キリストにある神の価なしの愛によってです。
+理性か聖書が勧める手段は、すべて用いなさい。それは、神の賜物のどれかを得たり増したりするのに役立つものとして、勧められている手段です。ただし、役立つのは、キリストにある神の価なしの愛によってです。
 Thus expect a daily growth in that pure and holy religion which the world always did, and always will, call "enthusiasm;" but which, to all who are saved from real enthusiasm, from merely nominal Christianity, is "the wisdom of God, and the power of God;" the glorious image of the Most High; "righteousness and peace;" a "fountain of living water, springing up into everlasting life!"
 そのようにして、あの清く聖い宗教のうちに、日ごとに成長することを期待しなさい。世は、この宗教をいつも「熱狂」と呼んできましたし、これからもいつもそう呼ぶでしょう。けれども、本当の熱狂から、名ばかりのキリスト教から救われたすべての人にとっては、この宗教は「神の知恵」であり「神の力」です（第一コリント一・二四）。いと高き方の栄光あるかたちであり、「義と、平和」（ローマ一四・一七）です。「永遠のいのちに至る水が、わきあがる」（ヨハネ四・一四）、生ける水の泉なのです！
 
