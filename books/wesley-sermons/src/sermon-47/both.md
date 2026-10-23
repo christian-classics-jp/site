@@ -53,7 +53,7 @@ Their heaviness did not destroy their faith: They still "endured, as seeing him 
 彼らの悩みは、彼らの信仰を滅ぼしませんでした。彼らはなおも、「見えないかたを見ているようにして、忍びとおし」ていたのです（ヘブル一一・二七）。
 
 2. Neither did their heaviness destroy their peace; the "peace that passeth all understanding;" which is inseparable from true, living faith.
-（二）　彼らの悩みは、彼らの平安も滅ぼしませんでした。それは、「人知ではとうてい測り知ることのできない」平安（ピリピ四・七）であり、真実な生きた信仰と切り離すことのできないものです。
+（二）　彼らの悩みは、彼らの平安も滅ぼしませんでした。それは、「人知ではとうてい測り知ることのできない」「平安」（ピリピ四・七）であり、真実な生きた信仰と切り離すことのできないものです。
 This we may easily gather from the second verse, wherein the Apostle prays, not that grace and peace may be given them, but only that it may "be multiplied unto them;"
 このことは、第二節からたやすく推し量ることができます。そこで使徒は、恵みと平安が彼らに与えられるようにと祈っているのではありません。ただ、それが彼らに豊かに加えられるようにと祈っているのです。
 // be multiplied unto them は第一ペテロ一・二 の句。照合データの第一ペテロ一・二 は前半しかないので、「」に入れずに英文から訳した（【五】（一）も同じ）。
@@ -67,7 +67,7 @@ For thus he speaks, (1 Pet. 1:3,) "Blessed be the God and Father of our Lord Jes
 me and you, all of us who are "sanctified by the Spirit," and enjoy the "sprinkling of the blood of Jesus Christ" --
 新しく生れさせてくださったのは、私とあなたがたです。すなわち、「御霊のきよめにあずかって」いて、イエス・キリストの「血のそそぎを受け」ている（第一ペテロ一・二）私たちすべてです。
 "unto a living hope, unto an inheritance," -- that is, unto a living hope of an inheritance, "incorruptible, undefiled, and that fadeth not away."
-そして、「生ける望みをいだかせ」（第一ペテロ一・三）、「資産を受け継ぐ者として下さった」のです（第一ペテロ一・四）。すなわち、「朽ちず汚れず、しぼむことのない資産」（第一ペテロ一・四）を受け継ぐ、生ける望みをいだかせてくださったのです。
+そして、「生ける望みをいだかせ」（第一ペテロ一・三）、「資産を受け継ぐ者としてくださった」のです（第一ペテロ一・四）。すなわち、「朽ちず汚れず、しぼむことのない」資産（第一ペテロ一・四）を受け継ぐ、生ける望みをいだかせてくださったのです。
 So that, notwithstanding their heaviness, they still retained an hope full of immortality.
 ですから、彼らは悩みの中にあっても、なお不死に満ちた希望を持ち続けていました。
 // hope full of immortality は外典の知恵の書三・四 の言葉。説教四十六 と同じく、出典は付けなかった。
@@ -77,7 +77,7 @@ So that, notwithstanding their heaviness, they still retained an hope full of im
 They were filled with joy in the Holy Ghost.
 彼らは、聖霊における喜びに満たされていたのです。
 So, (1 Pet. 1:8), the Apostle, having just mentioned the final "revelation of Jesus Christ" (namely, when he cometh to judge the world,)
-それで、使徒は、終りに「イエス・キリストの現れるとき」（第一ペテロ一・七）、すなわち、主が世をさばくために来られるときのことに触れたばかりです。
+それで、使徒は、終わりの日に「イエス・キリストの現れるとき」（第一ペテロ一・七）のことに触れたばかりです。それは、主が世をさばくために来られるときです。
 immediately adds, "In whom, though now ye see him not," not with your bodily eyes, "yet believing, ye rejoice with joy unspeakable and full of glory."
 そして、すぐにこう付け加えています。「現在、見てはいないけれども」、すなわち肉体の目では見ていないけれども、「信じて、言葉につくせない、輝きにみちた喜びにあふれて」います（第一ペテロ一・八）。
 Their heaviness, therefore, was not only consistent with living hope, but also with joy unspeakable:
@@ -92,7 +92,7 @@ Though ye have not yet seen him face to face; yet, knowing him by faith, ye have
 "He is your God, and your love, the desire of your eyes, and your "exceeding great reward."
 主は、あなたがたの神、あなたがたの愛、あなたがたの目の慕うもの、そして、あなたがたの「はなはだ大きい」報い（創世記一五・一）です。
 Ye have sought and found happiness in Him; ye "delight in the Lord," and he hath given you your "hearts' desire."
-あなたがたは、主のうちに幸いを求め、見いだしました。あなたがたは「主によって喜び」（詩篇三七・四）、主はあなたがたの「心の願いをかなえ」てくださいました（詩篇三七・四）。
+あなたがたは、主のうちに幸いを求め、見いだしました。あなたがたは「主によって喜び」（詩篇三七・四）、主はあなたがたの「心の願い」をかなえてくださいました（詩篇三七・四）。
 
 6. Once more: Though they were heavy, yet were they holy; they retained the same power over sin.
 （六）　もう一つ挙げます。彼らは悩んでいましたが、それでも聖い者でした。罪に打ち勝つ同じ力を保っていたのです。
@@ -101,7 +101,7 @@ They were still "kept" from this, "by the power of God;"
 they were "obedient children, not fashioned according to their former desires;"
 彼らは、「従順な子供として」、以前の「欲情に従わ」ない者でした（第一ペテロ一・一四）。
 but "as He that had called them is holy," so were they "holy in all manner of conversation."
-かえって、彼らを「召して下さった聖なるかたにならって」、彼ら自身も「あらゆる行いにおいて聖なる者」でした（第一ペテロ一・一五）。
+かえって、彼らを「召してくださった聖なるかたにならって」、彼ら自身も「あらゆる行いにおいて聖なる者」でした（第一ペテロ一・一五）。
 Knowing they were "redeemed by the precious blood of Christ, as a Lamb without spot and without blemish,"
 彼らは、自分たちが「きずも、しみもない小羊のようなキリストの尊い血」によって「あがない出された」（第一ペテロ一・一八〜一九）ことを知っていました。
 they had, through the faith and hope which they had in God, "purified their souls by the Spirit."
@@ -158,7 +158,7 @@ In many cases, we find "the corruptible body presses down the soul."
 In this, the soul rather presses down the body, and weakens it more and more.
 けれども、この場合には、むしろ魂がからだを押さえつけ、ますます弱らせるのです。
 Nay, I will not say that deep and lasting sorrow of heart may not sometimes weaken a strong constitution, and lay the foundation of such bodily disorders as are not easily removed:
-いや、深く長く続く心の悲しみが、ときには強い体質をも弱らせ、たやすくは取り除けないからだの病の基を据えることがない、とは言いません。
+いや、深く長く続く心の悲しみが、ときには強い体質をも弱らせることがない、とは言いません。たやすくは取り除けないからだの病の基を据えることがない、とも言いません。
 And yet, all this may consist with a measure of that faith which still worketh by love.
 それでも、これらすべては、なおも愛によって働く信仰（ガラテヤ五・六）を、ある程度持っていることと両立しうるのです。
 
@@ -174,7 +174,7 @@ These do not, cannot rejoice; neither is it true, that "the Spirit of glory and 
 But he frequently doth on those that are in heaviness; so that, though sorrowful, yet are they always rejoicing.
 けれども、悩みの中にいる人々には、しばしばその霊が宿っておられます。ですから、彼らは悲しんでいても、常に喜んでいるのです（第二コリント六・一〇）。
 
-## 【三】　その悩みの原因は何であったか
+## 【三】　その原因は何であったか
 
 III. 1. But to proceed to the Third point: What are the causes of such sorrow or heaviness in a true believer
 （一）　さて、第三の点に進みましょう。真の信者のうちに、このような悲しみ、あるいは悩みを引き起こす原因は何でしょうか。
@@ -205,7 +205,7 @@ Quite overturns all patience
 // ミルトン『失楽園』六・四六二〜四六四（Pain is perfect misery, the worst / Of evils, and excessive, overturns / All patience）の言い換え。
 
 And even where this is prevented by the grace of God, where men do "possess their souls in patience," it may, nevertheless, occasion much inward heaviness; the soul sympathizing with the body.
-そして、神の恵みによってこれが防がれ、人々が「耐え忍ぶことによって、自分の魂をかち取」っている（ルカ二一・一九）ところでさえ、痛みはそれでも、内なる深い悩みを引き起こすことがあります。魂がからだと苦しみを共にするからです。
+そして、神の恵みによってこれが防がれ、人々が「耐え忍ぶことによって、自分の魂をかち取」っている（ルカ二一・一九）とします。そういうところでさえ、痛みはそれでも、内なる深い悩みを引き起こすことがあります。魂がからだと苦しみを共にするからです。
 
 2. All diseases of long continuance, though less painful, are apt to produce the same effect.
 （二）　長く続く病はみな、痛みはそれほどでなくても、同じ結果を生みやすいものです。
@@ -248,21 +248,21 @@ Nil habet, inflex paupertas durius in se, Quam quod ridiculos homines facit!
 Has poverty nothing worse in it than this, that it makes men liable to be laughed at
 貧しさには、人を笑われやすくすること以上に悪いものはないのでしょうか。
 It is a sign this idle poet talked by rote of the things which he knew not.
-これは、この怠惰な詩人が、自分の知らないことについて、受け売りで語っていたしるしです。
+これは、この浅はかな詩人が、自分の知らないことについて、受け売りで語っていたしるしです。
 Is not want of food something worse than this
 食物がないことは、これよりも悪いのではないでしょうか。
 God pronounced it as a curse upon man, that he should earn it "by the sweat of his brow."
 神は、人が「顔に汗して」（創世記三・一九）食物を得なければならないことを、人へののろいとして宣告されました。
 But how many are there in this Christian country, that toil, and labour, and sweat, and have it not at last, but struggle with weariness and hunger together
-けれども、このキリスト教国には、あくせく働き、骨折り、汗を流しても、結局は食物を得られない人が、何と多くいることでしょう。彼らは、疲れと飢えとに同時に苦しんでいるのです。
+けれども、このキリスト教国には、あくせく働き、骨折り、汗を流しても、結局は食物を得られない人が何と多いことでしょう。彼らは、疲れと飢えとに同時に苦しんでいるのです。
 Is it not worse for one, after an hard day's labour, to come back to a poor, cold, dirty, uncomfortable lodging, and to find there not even the food which is needful to repair his wasted strength
 ある人が、つらい一日の労働のあとで、貧しく、寒く、汚い、居心地の悪い住まいに帰って来るとします。そして、使い果たした力を回復するのに必要な食物さえ、そこにないのを見いだすとします。それは、もっと悪いことではないでしょうか。
 You that live at ease in the earth, that want nothing but eyes to see, ears to hear, and hearts to understand how well God has dealt with you, --
-地上で安楽に暮らしているあなたがたに尋ねます。神があなたがたをどれほど良く扱ってくださったかを見る目と、聞く耳と、悟る心のほかには、何一つ欠けていないあなたがたに尋ねます。
+地上で安楽に暮らしているあなたがたに尋ねます。あなたがたには、神があなたがたをどれほど良く扱ってくださったかを見る目と、聞く耳と、悟る心のほかには、何一つ欠けていません。
 is it not worse to seek bread day by day, and find none perhaps to find the comfort also of five or six children, crying for what he has not to give!
-来る日も来る日も食物を求めても、何も見つからないのは、もっと悪いことではないでしょうか。そのうえ、慰めであるはずの五、六人の子供たちまでが、泣いているのです。父親には与えるものがないのに、それを求めて泣いているのです。それを見るのは、もっと悪いことではないでしょうか。
+来る日も来る日も食物を求めても、何も見つからないのは、もっと悪いことではないでしょうか。そのうえ、おそらくは、慰めであるはずの五、六人の子供たちまでが泣いているのを、見なければならないのです。父親には与えるものがないのに、子供たちはそれを求めて泣いているのです。
 Were it not that he is restrained by an unseen hand, would he not soon "curse God and die"
-その人は、見えない手に引き止められていなければ、すぐに「神をのろって死」ぬのではないでしょうか（ヨブ二・九）。
+その人は、見えない手に引き止められていなければ、すぐに「神をのろって死」ぬ（ヨブ二・九）のではないでしょうか。
 O want of bread! want of bread! Who can tell what this means unless he hath felt it himself I am astonished it occasions no more than heaviness even in them that believe!
 ああ、食べるものがない！　食べるものがない！　自分で味わったことのない者に、これがどういうことか分かるでしょうか。これが、信じている人々のうちにさえ、悩みしか引き起こさないことに、私は驚きます！
 
@@ -301,12 +301,12 @@ and, in spite of all arguments and persuasions, hasting to work out his own damn
 And this anguish of spirit may be heightened to an inconceivable degree, by the consideration, that he who is now posting to destruction once ran well in the way of life.
 そして、この霊のもだえは、思いもよらないほどに高められることがあります。今、滅びへと急いでいるその人が、かつては、いのちの道をよく走っていた（ガラテヤ五・七）ことを考えるときです。
 Whatever he was in time past, serves now to no other purpose, than to make our reflections on what he is more piercing and afflictive.
-その人が以前どのような人であったにせよ、それは今では、その人の今の姿を思う私たちの心を、いっそう刺し貫き、苦しめるのに役立つだけです。
+その人が以前どのような人であったにせよ、それは今では、ただ一つのことに役立つだけです。その人の今の姿を思う私たちの心を、いっそう刺し貫き、苦しめることです。
 
 6. In all these circumstances, we may be assured, our great adversary will not be wanting to improve his opportunity.
 （六）　これらのすべての場合に、私たちの大いなる敵が、その機会を生かすことを怠らないのは確かです。
 He, who is always "walking about, seeking whom he may devour," will then, especially, use all his power, all his skill, if haply he may gain any advantage over the soul that is already cast down.
-敵は、いつも「食いつくすべきものを求めて歩き回っている」（第一ペテロ五・八）者です。そのときには特に、すでにうなだれている魂に対して、何とかして少しでも有利な立場を得ようと、あらゆる力とあらゆる技を用いるでしょう。
+敵は、いつも「食いつくすべきものを求めて歩き回っている」（第一ペテロ五・八）者です。そのときには特に、あらゆる力とあらゆる技を用いるでしょう。すでにうなだれている魂に対して、何とかして少しでも有利な立場を得ようとするのです。
 He will not be sparing of his fiery darts, such as are most likely to find an entrance, and to fix most deeply in the heart, by their suitableness to the temptation that assaults it.
 敵は、火の矢（エペソ六・一六）を惜しまないでしょう。それは、心を襲っている試練にぴったり合っているために、最もはいり込みやすく、心に最も深く刺さりやすい矢です。
 He will labour to inject unbelieving, or blasphemous, or repining thoughts.
@@ -358,7 +358,7 @@ I found myself in a forlorn condition, altogether poor, wretched, and miserable.
 The proper source of this grief is, the knowledge of ourselves; by which we find that there is an extreme unlikeness between God and us.
 この悲しみの本来の源は、自分自身を知ることです。それによって、私たちは、神と自分とがまったく似ていないことを見いだすのです。
 We see ourselves most opposite to him; and that our inmost soul is entirely corrupted, depraved, and full of all kind of evil and malignity, of the world and the flesh, and all sorts of abominations." --
-私たちは、自分が神に最も反するものであることを知ります。そして、自分の魂の奥底がまったく腐り、ゆがみ、あらゆる悪と悪意、世と肉、あらゆる忌まわしいものに満ちていることを知るのです」。
+私たちは、自分が神に最も反するものであることを知ります。そして、自分の魂の奥底がまったく腐り、ゆがんでいることを知るのです。それは、あらゆる悪と悪意、世と肉、あらゆる忌まわしいものに満ちているのです」。
 From hence it has been inferred, that the knowledge of ourselves, without which we should perish everlastingly, must, even after we have attained justifying faith, occasion the deepest heaviness.
 ここから、次のように推論されてきました。自分自身を知ることがなければ、私たちは永遠に滅びてしまう。その自分を知ることは、義とする信仰を得たあとでさえ、最も深い悩みを引き起こさずにはいない、と。
 
@@ -369,7 +369,7 @@ From hence it has been inferred, that the knowledge of ourselves, without which 
 It may be so; and yet it does not appear that this was justification.
 そうかもしれません。けれども、それが義認であったようには見えません。
 It is more probable, it was no more than what are usually termed, the "drawings of the Father."
-それは、普通、父が「引きよせて」くださること（ヨハネ六・四四）と呼ばれているものにすぎなかった可能性のほうが高いのです。
+それは、普通、「父が引きよせて」くださること（ヨハネ六・四四）と呼ばれているものにすぎなかった可能性のほうが高いのです。
 And if so, the heaviness and darkness which followed was no other than conviction of sin; which in the nature of things, must precede that faith whereby we are justified.
 そうだとすれば、そのあとに続いた悩みとやみは、罪の自覚にほかなりませんでした。罪の自覚は、ものごとの本性からして、私たちを義とする信仰に先立たなければならないものです。<br/>
 (2.) Suppose she was justified almost the same moment she was convinced of wanting faith, there was then no time for that gradually-increasing self-knowledge which uses to precede justification:
@@ -377,7 +377,7 @@ And if so, the heaviness and darkness which followed was no other than convictio
 In this case, therefore, it came after, and was probably the more severe, the less it was expected.
 ですから、この場合には、自己認識は義認のあとに来ました。そして、予期していなかっただけ、おそらくいっそう厳しいものとなったのです。<br/>
 (3.) It is allowed, there will be a far deeper, a far clearer and fuller knowledge of our inbred sin, of our total corruption by nature, after justification, than ever there was before it.
-三、義認のあとには、私たちの内に宿る罪、生れながらのまったくの腐敗についての知識が、それ以前よりもはるかに深く、はるかに明らかで十分なものになります。このことは認められています。
+三、次のことは認められています。義認のあとには、私たちの内に宿る罪、生れながらのまったくの腐敗を、それ以前よりもはるかに深く知るようになります。はるかに明らかに、十分に知るようになるのです。
 But this need not occasion darkness of soul: I will not say, that it must bring us into heaviness.
 けれども、これが魂のやみを引き起こす必要はありません。それが私たちを必ず悩みに陥らせる、とも私は言いません。
 Were it so, the Apostle would not have used that expression, if need be for there would be an absolute, indispensable need of it, for all that would know themselves;
@@ -391,7 +391,7 @@ On the contrary, God may increase the knowledge of ourselves to any degree, and 
 And in this case there would be no "desert, no misery, no forlorn condition;" but love, and peace, and joy, gradually springing up into everlasting life.
 そして、この場合には、「荒野も、悲惨も、見捨てられたありさまも」ないでしょう。あるのは愛と平安と喜びであり、それが徐々にわき上がって、永遠のいのちに至るのです。
 
-## 【四】　その悩みの目的は何であったか
+## 【四】　その目的は何であったか
 
 IV. 1. For what ends, then, (which was the Fourth thing to be considered,) does God permit heaviness to befall so many of his children
 （一）　それでは、神は何の目的のために、これほど多くの神の子らに悩みが降りかかるのを許されるのでしょうか。これが、考察すべき第四のことでした。
@@ -419,7 +419,7 @@ This, then, -- to increase our faith, -- is one gracious end of God's permitting
 Indeed our hope cannot but increase in the same proportion with our faith.
 実際、私たちの望みは、信仰と同じ割合で増し加わらずにはいません。
 On this foundation it stands: Believing in his name, living by faith in the Son of God, we hope for, we have a confident expectation of, the glory which shall be revealed;
-望みは、信仰という土台の上に立っているからです。私たちは、神の御名を信じ、神の御子を信じる信仰によって生きているので、やがて現れる栄光を望み、それを確信をもって待ち望んでいます。
+望みは、信仰という土台の上に立っているからです。私たちは、その御名を信じ、神の御子を信じる信仰によって生きている（ガラテヤ二・二〇）ので、やがて現れる栄光を望みます。それを確信をもって待ち望んでいるのです。
 And, consequently, whatever strengthens our faith, increases our hope also.
 したがって、私たちの信仰を強めるものは、何であれ、私たちの望みをも増し加えます。
 At the same time it increases our joy in the Lord, which cannot but attend an hope full of immortality.
@@ -436,7 +436,7 @@ And hereby ye are enabled, even in the midst of sufferings, to "rejoice with joy
 both their gratitude to God for all his mercies, and their good-will to all mankind.
 神のすべてのあわれみに対する神への感謝も、すべての人に対する善意も、増し加えるのです。
 Accordingly, the more deeply sensible they are of the loving-kindness of God their Saviour, the more is their heart inflamed with love to him who "first loved us."
-それで、彼らは、自分たちの救主なる神の慈しみを深く感じれば感じるほど、「まずわたしたちを愛して下さった」（第一ヨハネ四・一九）かたへの愛に、ますます心を燃やすのです。
+それで、彼らは、自分たちの救主なる神の慈悲（テトス三・四）を深く感じれば感じるほど、ますます愛に心を燃やします。「まずわたしたちを愛してくださった」（第一ヨハネ四・一九）かたへの愛です。
 The clearer and stronger evidence they have of the glory that shall be revealed, the more do they love Him who hath purchased it for them, and "given them the earnest" thereof "in their hearts."
 また、やがて現れる栄光について、明らかで強い確証を持てば持つほど、彼らはますます主を愛します。彼らのためにその栄光を買い取り、その「保証として」、彼らの「心に」それを「賜わった」（第二コリント一・二二）かたを愛するのです。
 // 口語訳の第二コリント一・二二 は「その保証として、わたしたちの心に御霊を賜わった」。英文は earnest thereof（栄光の保証）と言い換えているので、「御霊を」は除いた。
@@ -448,18 +448,18 @@ And this, the increase of their love, is another end of the temptations permitte
 And all inward holiness is the immediate fruit of the faith that worketh by love.
 そして、内なる聖性はすべて、愛によって働く信仰（ガラテヤ五・六）の直接の実です。
 By this the blessed Spirit purifies the heart from pride, self-will, passion; from love of the world, from foolish and hurtful desires, from vile and vain affections.
-この信仰によって、ほむべき御霊は、心を高ぶりや我意や激情から清め、世への愛や、愚かで有害な欲望や、卑しくむなしい情愛から清めてくださいます。
+この信仰によって、ほむべき御霊は、心を高ぶりや我意や激情から清めてくださいます。世への愛や、愚かで有害な欲望や、卑しくむなしい情愛からも清めてくださるのです。
 Beside that, sanctified afflictions have, through the grace of God, an immediate and direct tendency to holiness.
 そのうえ、聖別された苦難は、神の恵みによって、直接まっすぐに聖性へと向かう傾きを持っています。
 Through the operation of his Spirit, they humble, more and more, and abase the soul before God.
 神の御霊の働きによって、苦難は、神の前で魂をますますへりくだらせ、低くします。
 They calm and meeken our turbulent spirit, tame the fierceness of our nature, soften our obstinacy and self-will, crucify us to the world, and bring us to expect all our strength from, and to seek all our happiness in, God.
-苦難は、私たちの荒れ騒ぐ心を静めて柔和にし、私たちの本性の激しさを飼いならし、私たちの強情と我意を和らげます。また、私たちを世に対して十字架につけ、私たちが、すべての力を神から期待し、すべての幸いを神のうちに求めるようにしてくれるのです。
+苦難は、私たちの荒れ騒ぐ心を静めて柔和にし、私たちの本性の激しさを飼いならし、私たちの強情と我意を和らげます。また、私たちを世に対して十字架につけます。そして、私たちが、すべての力を神から期待し、すべての幸いを神のうちに求めるようにしてくれるのです。
 
 6. And all these terminate in that great end, that our faith, hope, love, and holiness "may be found," if it doth not yet appear,
-（六）　そして、これらはすべて、あの大いなる目的に行き着きます。私たちの信仰と望みと愛と聖性とは、たとい今はまだ現れていなくても、やがて「変る」（第一ペテロ一・七）のです。
+（六）　そして、これらはすべて、あの大いなる目的に行き着きます。それは、私たちの信仰と望みと愛と聖性とが、たとい今はまだ現れていなくても、やがて「変る」（第一ペテロ一・七）ことです。
 "unto praise" from God himself, "and honour" from men and angels, "and glory," assigned by the great Judge to all that have endured unto the end.
-すなわち、神ご自身からの「さんび」、人々と御使たちからの「ほまれ」、そして「栄光」に変るのです。その栄光は、最後まで耐え忍んだすべての人に、偉大な審判者が与えるものです。
+すなわち、神ご自身からの「さんび」、人々と御使たちからの「ほまれ」、そして「栄光」に変わることです。その栄光は、最後まで耐え忍んだすべての人に、偉大な審判者が与えるものです。
 And this will be assigned in that awful day to every man, "according to his works;"
 そして、この栄光は、あの恐るべき日に、すべての人に、「そのわざにしたがって」（ローマ二・六）与えられます。
 according to the work which God had wrought in his heart, and the outward works which he has wrought for God; and likewise according to what he had suffered;
@@ -478,7 +478,7 @@ And what examples have a stronger influence, not only on those who are partakers
 sorrowful, yet always rejoicing; meekly accepting whatever is the will of God, however grievous it may be to nature;
 その魂は、悲しんでいても、常に喜んでいます（第二コリント六・一〇）。神の御旨であることは何でも、生れつきの性質にとってどんなにつらくても、柔和に受けいれます。
 saying, in sickness and pain, "The cup which my Father hath given me, shall I not drink it" -- in loss or want, "The Lord gave; the Lord hath taken away; blessed be the name of the Lord!"
-病気と痛みの中ではこう言います。「父がわたしに下さった杯は、飲むべきではないでしょうか」（ヨハネ一八・一一）。損失や欠乏の中ではこう言います。「主が与え、主が取られたのです。主のみ名はほむべきかな」（ヨブ一・二一）。
+病気と痛みの中ではこう言います。「父がわたしにくださった杯は、飲むべきではないでしょうか」（ヨハネ一八・一一）。損失や欠乏の中ではこう言います。「主が与え、主が取られたのです。主のみ名はほむべきかな」（ヨブ一・二一）。
 
 ## 【五】　いくつかの推論
 
@@ -487,7 +487,7 @@ V. 1. I am to conclude with some inferences.
 And, First, how wide is the difference between darkness of soul, and heaviness; which, nevertheless, are so generally confounded with each other, even by experienced Christians!
 第一に、魂のやみと悩みとの違いは、何と大きいことでしょう！　それなのに、この二つは、経験を積んだクリスチャンによってさえ、ごく一般に混同されているのです。
 Darkness, or the wilderness-state, implies a total loss of joy in the Holy Ghost: Heaviness does not; in the midst of this we may "rejoice with joy unspeakable."
-やみ、すなわち荒野の状態は、聖霊における喜びをまったく失うことを意味します。悩みは、そうではありません。悩みのただ中でも、私たちは「言葉につくせない」「喜びにあふれ」ることができるのです（第一ペテロ一・八）。
+やみ、すなわち荒野の状態は、聖霊における喜びをまったく失うことを意味します。悩みは、そうではありません。悩みのただ中でも、私たちは「言葉につくせない」「喜びにあふれ」る（第一ペテロ一・八）ことができるのです。
 They that are in darkness have lost the peace of God; They that are in heaviness have not;
 やみの中にいる人々は、神の平安を失っています。悩みの中にいる人々は、失っていません。
 So far from it, that at the very time "peace," as well as "grace," may "be multiplied" unto them.
@@ -547,12 +547,12 @@ So that manifold temptations and heaviness, more or less, are usually the portio
 But we need not be solicitous how to avoid so much as how to improve by heaviness.
 けれども、悩みについては、それを避ける方法よりも、それによって益を得る方法に心を配るべきです。
 Our great care should be, so to behave ourselves under it, so to wait upon the Lord therein, that it may fully answer all the design of his love, in permitting it to come upon us;
-私たちが大いに心がけるべきことは、悩みの中で正しくふるまい、その中で主を待ち望むことです。そうして、主が悩みを私たちに降りかからせるのを許された、その愛のねらいを、悩みが十分にかなえるようにするのです。
+私たちが大いに心がけるべきことは、悩みの中で正しくふるまい、その中で主を待ち望むことです。そうして、悩みが私たちに降りかかるのを主が許された、その愛のねらいのすべてを、悩みが十分にかなえるようにするのです。
 that it may be a means of increasing our faith, of confirming our hope, of perfecting us in all holiness.
 悩みが、私たちの信仰を増し加え、望みを確かにし、私たちをあらゆる聖性において全うする手段となるようにするのです。
 Whenever it comes, let us have an eye to these gracious ends for which it is permitted, and use all diligence that we may not make void the counsel of God against ourselves.
 悩みが来るときにはいつでも、悩みが許されている、この恵み深い目的に目を留めましょう。そして、自分たちに対する神のみこころを無にする（ルカ七・三〇）ことのないように、あらゆる努力をしましょう。
 Let us earnestly work together with him, by the grace which he is continually giving us, in "purifying ourselves from all pollution, both of flesh and spirit," and daily growing in the grace of our Lord Jesus Christ, till we are received into his everlasting kingdom!
-神が絶えず与えてくださる恵みによって、熱心に神と共に働き（第二コリント六・一）、「肉と霊とのいっさいの汚れから自分をきよめ」ましょう（第二コリント七・一）。そして、主の永遠の国（第二ペテロ一・一一）に迎え入れられるまで、日ごとに、私たちの主イエス・キリストの恵みにおいて、ますます豊かになっていきましょう（第二ペテロ三・一八）！
+神が絶えず与えてくださる恵みによって、熱心に神と共に働き（第二コリント六・一）、「肉と霊とのいっさいの汚れから自分をきよめ」ましょう（第二コリント七・一）。そして、日ごとに、私たちの主イエス・キリストの恵みにおいて、ますます豊かになっていきましょう（第二ペテロ三・一八）。主の永遠の国（第二ペテロ一・一一）に迎え入れられるまで、そうしましょう！
 
 // Edited by Tim Dawson with corrections by Ryan Danker and George Lyons for the Wesley Center for Applied Theology at Northwest Nazarene University.
