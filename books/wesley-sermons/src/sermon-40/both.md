@@ -679,17 +679,259 @@ I will also save you from all your uncleannesses. -- Thus saith the Lord your Go
 crying unto him day and night, till we also are "delivered from the bondage of corruption, into the glorious liberty of the sons of God!" [Rom. 8:21]
 そして、私たちもまた「滅びのなわめから解放されて、神の子たちの栄光の自由に入る」（ローマ八・二一）ときまで、昼も夜も神に叫び求めましょう！
 
-// 以下は、チャールズ・ウェスレーの讃美歌「聖化の約束」（エゼキエル三六・二五以下）。説教の末尾に付されているが、訳出しない。
+// 以下は、チャールズ・ウェスレーの讃美歌「聖化の約束」（エゼキエル三六・二五以下）。英文は第一〜三節が二行ずつ、第四〜十節と第十一節以降がひと続きに転記されているので、一行ずつに分けた。英文の節番号（11〜28）は第一〜十節にないので、訳に付けなかった。
+// 英文の誤植：Chose は Chosen、By thou は Be thou と読んだ。keep and do の後の疑問符は落ちている。
 THE PROMISE OF SANCTIFICATION (Ezekiel 36:25, &c.) BY THE REV. CHARLES WESLEY.
+「聖化の約束」（エゼキエル三六・二五以下）　チャールズ・ウェスレー作
 
-God of all power, and truth, and grace,     Which shall from age to age endure; Whose word, when heaven and earth shall pass,     Remains, and stands for ever sure:
+God of all power, and truth, and grace,
+すべての力と、真実と、恵みとの神よ、<br/>
+Which shall from age to age endure;
+あなたは代々に変わらずにおられます。<br/>
+Whose word, when heaven and earth shall pass,
+天と地が過ぎ去るときにも、あなたの言葉は<br/>
+Remains, and stands for ever sure:
+残り、とこしえに確かに立ちます。<br/>
 
-Calmly to thee my soul looks up,     And waits thy promises to prove; The object of my steadfast hope,     The seal of thine eternal love.
+Calmly to thee my soul looks up,
+私の魂は、静かにあなたを仰ぎ、<br/>
+And waits thy promises to prove;
+あなたの約束を身をもって知る時を待ちます。<br/>
+The object of my steadfast hope,
+その約束こそ、私の揺るがない望みの的、<br/>
+The seal of thine eternal love.
+あなたの永遠の愛の証印です。<br/>
 
-That I thy mercy may proclaim,     That all mankind thy truth may see, Hallow thy great and glorious name,     And perfect holiness in me.
+That I thy mercy may proclaim,
+私があなたのあわれみを告げ知らせ、<br/>
+That all mankind thy truth may see,
+すべての人があなたの真実を見るように、<br/>
+Hallow thy great and glorious name,
+あなたの大いなる栄光の御名を聖としてください。<br/>
+And perfect holiness in me.
+私のうちに、聖性を全うしてください。<br/>
 
-Chose from the world, if now I stand     Adorn'd in righteousness divine; If, brought unto the promised land,     I justly call the Saviour mine;   Perform the work thou hast begun,     My inmost soul to thee convert: Love me, for ever love thine own,     And sprinkle with thy blood my heart.   Thy sanctifying Spirit pour,     To quench my thirst, and wash me clean; Now, Father, let the gracious shower     Descend, and make me pure from sin.   Purge me from every sinful blot;     My idols all be cast aside: Cleanse me from every evil thought,     From all the filth of self and pride.   Give me a new, a perfect heart,     From doubt, and fear, and sorrow free; The mind which was in Christ impart,     And let my spirit cleave to thee.   O take this heart of stone away,     (Thy rule it doth not, cannot own;) In me no longer let it stay:     O take away this heart of stone.   The hatred of my carnal mind     Out of my flesh at once remove; Give me a tender heart, resign'd,     And pure, and fill'd with faith and love.
+Chose from the world, if now I stand
+もし私が今、世から選び出されて、<br/>
+Adorn'd in righteousness divine;
+神の義をまとって立っているなら、<br/>
+If, brought unto the promised land,
+もし約束の地に連れて来られて、<br/>
+I justly call the Saviour mine;
+救主を正しく私のものと呼べるなら、<br/>
 
-11 Within me thy good Spirit place, Spirit of health, and love and power; Plant in me thy victorious grace, And sin shall never enter more. 12 Cause me to walk in Christ my Way, And I thy statutes shall fulfill; In every point thy law obey. And perfectly perform thy will. 13 Hast thou not said, who canst not lie, That I thy law shall keep and do Lord, I believe, though men deny; They all are false, but thou art true. 14 O that I now, from sin released, Thy word might to the utmost prove! Enter into the promised rest, The Canaan of thy perfect love! 15 There let me ever, ever dwell; By thou my God, and I will be Thy servant: O set to thy seal! Give me eternal life in thee. 16 From all remaining filth within Let me in Thee salvation have: From actual, and from inbred sin My ransom'd soul persist to save. 17 Wash out my old original stain: Tell me no more It cannot be, Demons or men! The Lamb was slain His blood was all poured out for me! 18 Sprinkle it, Jesu, on my heart: One drop of thy all-cleansing blood Shall make my sinfulness depart, And fill me with the life of God. 19 Father, supply my every need: Sustain the life thyself hast given; Call for the corn, the living bread, The manna that comes down from heaven. 20 The gracious fruits of righteousness, Thy blessings' unexhausted store, In me abundantly increase; Nor let me ever hunger more.
+Perform the work thou hast begun,
+あなたが始められたわざを成し遂げ、<br/>
+My inmost soul to thee convert:
+私の魂の奥底までも、あなたに立ち帰らせてください。<br/>
+Love me, for ever love thine own,
+私を愛してください。ご自分のものを、とこしえに愛してください。<br/>
+And sprinkle with thy blood my heart.
+あなたの血を、私の心に注いでください。<br/>
 
-21 Let me no more in deep complaint "My leanness, O my leanness!" cry; Alone consumed with pining want, Of all my Father's children I! 22 The painful thirst, the fond desire, Thy joyous presence shall remove; While my full soul doth still require Thy whole eternity of love. 23 Holy, and true, and righteous Lord, I wait to prove thy perfect will; Be mindful of thy gracious word, And stamp me with thy Spirit's seal! 24 Thy faithful mercies let me find, In which thou causest me to trust; Give me the meek and lowly mind, And lay my spirit in the dust. 25 Show me how foul my heart hath been, When all renew'd by grace I am: When thou hast emptied me of sin, Show me the fulness of my shame. 26 Open my faith's interior eye, Display thy glory from above; And all I am shall sink and die, Lost in astonishment and love. 27 Confound, o'erpower me with thy grace: I would be by myself abhorr'd; (All might, all majesty, all praise, All glory be to Christ my Lord!) 28 Now let me gain perfection's height! Now let me into nothing fall! Be less than nothing in thy sight, And feel that Christ is all in all!
+Thy sanctifying Spirit pour,
+聖めてくださるあなたの御霊を注いで、<br/>
+To quench my thirst, and wash me clean;
+私の渇きをいやし、私を洗い清めてください。<br/>
+Now, Father, let the gracious shower
+父よ、今、恵みの雨を<br/>
+Descend, and make me pure from sin.
+降らせ、私を罪から清くしてください。<br/>
+
+Purge me from every sinful blot;
+罪のしみを残らず除いて、私を清めてください。<br/>
+My idols all be cast aside:
+私の偶像を、みな投げ捨てさせてください。<br/>
+Cleanse me from every evil thought,
+あらゆる悪い思いから、私を清めてください。<br/>
+From all the filth of self and pride.
+自我と高ぶりの、あらゆる汚れから。<br/>
+
+Give me a new, a perfect heart,
+新しい心を、全き心を、私に与えてください。<br/>
+From doubt, and fear, and sorrow free;
+疑いからも、恐れからも、悲しみからも解き放たれた心を。<br/>
+The mind which was in Christ impart,
+キリストのうちにあった思いを分け与え、<br/>
+And let my spirit cleave to thee.
+私の霊を、あなたに堅く結びつけてください。<br/>
+
+O take this heart of stone away,
+ああ、この石の心を取り去ってください。<br/>
+(Thy rule it doth not, cannot own;)
+（それは、あなたの支配を認めず、認めることもできません。）<br/>
+In me no longer let it stay:
+もはや私のうちにとどまらせないでください。<br/>
+O take away this heart of stone.
+ああ、この石の心を取り去ってください。<br/>
+
+The hatred of my carnal mind
+私の肉の思いの敵意を、<br/>
+Out of my flesh at once remove;
+私の肉から、ただちに取り除いてください。<br/>
+Give me a tender heart, resign'd,
+柔らかな心を、ゆだねきった心を与えてください。<br/>
+And pure, and fill'd with faith and love.
+清く、信仰と愛とに満ちた心を。<br/>
+
+11 Within me thy good Spirit place,
+あなたの良い御霊を、私のうちに置いてください。<br/>
+Spirit of health, and love and power;
+健やかさと、愛と、力との御霊を。<br/>
+Plant in me thy victorious grace,
+あなたの勝利の恵みを、私のうちに植えてください。<br/>
+And sin shall never enter more.
+そうすれば、罪は二度と入って来ません。<br/>
+
+12 Cause me to walk in Christ my Way,
+私の道であるキリストのうちを、歩ませてください。<br/>
+And I thy statutes shall fulfill;
+そうすれば、私はあなたの定めを守り行い、<br/>
+In every point thy law obey.
+あらゆる点で、あなたのおきてに従い、<br/>
+And perfectly perform thy will.
+あなたのみこころを全く行います。<br/>
+
+13 Hast thou not said, who canst not lie,
+偽ることのできないあなたは、言われたではありませんか。<br/>
+That I thy law shall keep and do
+私があなたのおきてを守り行うようになる、と。<br/>
+Lord, I believe, though men deny;
+主よ、人が否んでも、私は信じます。<br/>
+They all are false, but thou art true.
+人はみな偽り者でも、あなたは真実です。<br/>
+
+14 O that I now, from sin released,
+ああ、私が今、罪から解き放たれて、<br/>
+Thy word might to the utmost prove!
+あなたの言葉を、極みまで身をもって知ることができますように！<br/>
+Enter into the promised rest,
+約束された安息に、<br/>
+The Canaan of thy perfect love!
+あなたの全き愛のカナンに、はいることができますように！<br/>
+
+15 There let me ever, ever dwell;
+そこに私を、いつまでも、いつまでも住まわせてください。<br/>
+By thou my God, and I will be
+どうか私の神となってください。そうすれば私は<br/>
+Thy servant: O set to thy seal!
+あなたのしもべとなります。ああ、証印を押してください！<br/>
+Give me eternal life in thee.
+あなたにある永遠のいのちを、私に与えてください。<br/>
+
+16 From all remaining filth within
+私のうちに残る、あらゆる汚れから、<br/>
+Let me in Thee salvation have:
+あなたにあって、救を得させてください。<br/>
+From actual, and from inbred sin
+自罪からも、生れながらの罪からも、<br/>
+My ransom'd soul persist to save.
+あがなわれた私の魂を、どこまでも救ってください。<br/>
+
+17 Wash out my old original stain:
+私の古い原罪のしみを、洗い去ってください。<br/>
+Tell me no more It cannot be,
+もう私に「それはありえない」と言うな、<br/>
+Demons or men! The Lamb was slain
+悪霊よ、人よ！　小羊はほふられた。<br/>
+His blood was all poured out for me!
+その血は、すべて私のために注ぎ出されたのだ！<br/>
+
+18 Sprinkle it, Jesu, on my heart:
+イエスよ、その血を私の心に注いでください。<br/>
+One drop of thy all-cleansing blood
+すべてを清めるあなたの血の、ただ一滴が、<br/>
+Shall make my sinfulness depart,
+私の罪深さを去らせ、<br/>
+And fill me with the life of God.
+私を神のいのちで満たします。<br/>
+
+19 Father, supply my every need:
+父よ、私のすべての必要を満たしてください。<br/>
+Sustain the life thyself hast given;
+あなたご自身が与えられたいのちを、支えてください。<br/>
+Call for the corn, the living bread,
+穀物を、生きたパンを、呼び寄せてください。<br/>
+The manna that comes down from heaven.
+天から下って来るマナを。<br/>
+
+20 The gracious fruits of righteousness,
+義の恵み深い実を、<br/>
+Thy blessings' unexhausted store,
+尽きることのない、あなたの祝福の蓄えを、<br/>
+In me abundantly increase;
+私のうちに豊かに増し加えてください。<br/>
+Nor let me ever hunger more.
+もう二度と、飢えることのないようにしてください。<br/>
+
+21 Let me no more in deep complaint
+もう二度と、深い嘆きのうちに、<br/>
+"My leanness, O my leanness!" cry;
+「わたしはやせ衰える、わたしはやせ衰える」と叫ばせないでください。<br/>
+Alone consumed with pining want,
+やつれる乏しさに、ひとり焼き尽くされるのは、<br/>
+Of all my Father's children I!
+父のすべての子らのうちで、私だけだ、と。<br/>
+
+22 The painful thirst, the fond desire,
+苦しい渇きも、切なる願いも、<br/>
+Thy joyous presence shall remove;
+喜びに満ちたあなたの臨在が取り去ります。<br/>
+While my full soul doth still require
+けれども、満たされた私の魂は、なお求め続けます。<br/>
+Thy whole eternity of love.
+あなたの愛の、永遠のすべてを。<br/>
+
+23 Holy, and true, and righteous Lord,
+聖なる、真実な、正しい主よ、<br/>
+I wait to prove thy perfect will;
+私は、あなたの全きみこころを、わきまえ知る時を待ちます。<br/>
+Be mindful of thy gracious word,
+あなたの恵みの言葉を心に留め、<br/>
+And stamp me with thy Spirit's seal!
+あなたの御霊の証印を、私に押してください！<br/>
+
+24 Thy faithful mercies let me find,
+あなたの真実なあわれみを、私に見いださせてください。<br/>
+In which thou causest me to trust;
+あなたが私に頼ませてくださる、そのあわれみを。<br/>
+Give me the meek and lowly mind,
+柔和でへりくだった心を、私に与え、<br/>
+And lay my spirit in the dust.
+私の霊を、ちりの中に伏させてください。<br/>
+
+25 Show me how foul my heart hath been,
+私の心がどれほど汚れていたかを、私に示してください。<br/>
+When all renew'd by grace I am:
+私が恵みによって、すっかり新しくされたときに。<br/>
+When thou hast emptied me of sin,
+あなたが私を罪から空にしてくださったときに、<br/>
+Show me the fulness of my shame.
+私の恥の大きさを、余すところなく示してください。<br/>
+
+26 Open my faith's interior eye,
+私の信仰の内なる目を開き、<br/>
+Display thy glory from above;
+上からあなたの栄光を現してください。<br/>
+And all I am shall sink and die,
+そうすれば、私のすべては沈み、死にます。<br/>
+Lost in astonishment and love.
+驚きと愛とのうちに、我を忘れて。<br/>
+
+27 Confound, o'erpower me with thy grace:
+あなたの恵みで、私をうろたえさせ、圧倒してください。<br/>
+I would be by myself abhorr'd;
+私は、自分で自分を忌みきらう者となりたいのです。<br/>
+(All might, all majesty, all praise,
+（すべての力も、すべての威光も、すべての賛美も、<br/>
+All glory be to Christ my Lord!)
+すべての栄光も、私の主キリストにあるように！）<br/>
+
+28 Now let me gain perfection's height!
+今こそ、完全の高みに至らせてください！<br/>
+Now let me into nothing fall!
+今こそ、無の中に落ちさせてください！<br/>
+Be less than nothing in thy sight,
+あなたの前で、無よりも小さな者となり、<br/>
+And feel that Christ is all in all!
+キリストがすべてであり、すべてのもののうちにいますことを、感じさせてください！<br/>
