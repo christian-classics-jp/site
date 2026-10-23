@@ -45,7 +45,7 @@ I. 1. And, First, what is the nature of this disease, into which so many fall af
 It properly consists in the loss of that faith which God once wrought in their heart.
 それは、本来、かつて神が彼らの心のうちに造り出してくださった信仰を失うことにあります。
 They that are in the wilderness, have not now that divine "evidence," that satisfactory conviction "of things not seen," which they once enjoyed.
-荒野にいる人々は、かつて持っていたあの神からの「確認」を、今は持っていません。「まだ見ていない事実」についてのあの満ち足りた確信を（ヘブル一一・一）、今は持っていないのです。
+荒野にいる人々は、かつて持っていたあの神からの「確認」（ヘブル一一・一）を、今は持っていません。「まだ見ていない事実」（ヘブル一一・一）についてのあの満ち足りた確信を、今は持っていないのです。
 They have not now that inward demonstration of the Spirit which before enabled each of them to say, "The life I live, I live by faith in the Son of God, who loved me, and gave himself for me."
 御霊の内なる証明によって、以前は彼らのひとりひとりが、こう言うことができました。「わたしが生きているのは、わたしを愛し、わたしのためにご自身をささげられた神の御子を信じる信仰によって、生きているのです」（ガラテヤ二・二〇）。けれども、今は、その証明を持っていません。
 // 口語訳のガラテヤ二・二〇 は「わたしがいま肉にあって生きているのは」。英文が引かない「いま肉にあって」を「」の中で除いた。
@@ -54,7 +54,7 @@ The light of heaven does not now "shine in their hearts," neither do they "see h
 but darkness is again on the face of their souls, and blindness on the eyes of their understanding.
 かえって、やみが再び彼らの魂のおもてをおおい、盲目が再び彼らの心の目をおおっています。
 The Spirit no longer "witnesses with their spirits, that they are the children of God;"
-御霊は、もはや彼らの霊と「共に」、彼らが「神の子であることをあかし」してくださいません（ローマ八・一六）。
+御霊は、もはや彼らの「霊と共に」、彼らが「神の子であることをあかし」してくださいません（ローマ八・一六）。
 neither does he continue as the Spirit of adoption, "crying" in their hearts, "Abba, Father."
 御霊は、子たる身分を授ける霊（ローマ八・一五）として、彼らの心の中で「『アバ、父よ』と呼ぶ」こと（ガラテヤ四・六）も、もう続けておられません。
 They have not now a sure trust in his love, and a liberty of approaching him with holy boldness.
@@ -77,7 +77,7 @@ They do not delight in him as in time past, and "smell the odour of his ointment
 彼らは、以前のように神を喜ぶことも、神のにおい油のかおりをかぐこともありません。
 // 雅歌一・三 を踏まえた言い回し。口語訳「あなたのにおい油はかんばしく」とは文言が違うので、「」に入れず、出典も付けなかった。
 Once, all their "desire was unto him, and to the remembrance of his name;"
-かつては、彼らの「魂の慕うもの」はすべて、神と神の「記念の名」でした（イザヤ二六・八）。
+かつては、彼らの「慕うもの」はすべて、神と神の「記念の名」でした（イザヤ二六・八）。
 but now even their desires are cold and dead, if not utterly extinguished.
 けれども今は、その慕う思いさえ、すっかり消えてはいないとしても、冷えて死んでいます。
 And as their love of God is waxed cold, so is also their love of their neighbour.
@@ -102,19 +102,19 @@ and it is well if they are not sometimes driven, even to "render evil for evil a
 For if the loving consciousness of pardon be no more, the joy resulting therefrom cannot remain.
 赦されたという愛に満ちた自覚がもはやないなら、そこから生じる喜びも残ることはできないからです。
 If the Spirit does not witness with our spirit that we are the children of God, the joy that flowed from that inward witness must also be at an end.
-御霊が私たちの霊と共に、私たちが神の子であることをあかししてくださらないなら（ローマ八・一六）、その内なるあかしから流れ出た喜びも、終わらざるをえません。
+御霊が私たちの霊と共に、私たちが神の子であることをあかししてくださらないとします（ローマ八・一六）。そうなら、その内なるあかしから流れ出た喜びも、終わらざるをえません。
 And, in like manner, they who once "rejoiced with joy unspeakable," "in hope of the glory of God," now they are deprived of that "hope full of immortality," are deprived of the joy it occasioned;
-同じように、かつて「言葉につくせない」「喜びにあふれ」（第一ペテロ一・八）、「神の栄光にあずかる希望をもって喜んで」いた（ローマ五・二）人々がいます。その人々は、今やあの「不死に満ちた希望」を奪われているので、その希望が生んだ喜びをも奪われています。
+同じように、かつて「言葉につくせない」「喜びにあふれ」（第一ペテロ一・八）、「神の栄光にあずかる希望をもって」（ローマ五・二）喜んでいた人々がいます。その人々は、今やあの「不死に満ちた希望」を奪われているので、その希望が生んだ喜びをも奪われています。
 // hope full of immortality は外典の知恵の書三・四 の言葉。説教七にならい英文から訳し、ここでは出典を付けなかった。
 as also of that which resulted from a consciousness of "the love of God," then "shed abroad in their hearts."
-また、そのとき「神の愛が」彼らの「心に注がれて」いる（ローマ五・五）という自覚から生じた喜びをも、奪われているのです。
+また、そのとき「神の愛が」彼らの「心に注がれて」いた（ローマ五・五）という自覚から生じた喜びをも、奪われているのです。
 For the cause being removed, so is the effect:
 原因が取り除かれれば、結果も取り除かれるからです。
 The fountain being dammed up, those living waters spring no more to refresh the thirsty soul.
 泉がせき止められれば、あの生ける水（ヨハネ四・一〇）は、もはやわき出て、渇いた魂をうるおすことはありません。
 
 4. With loss of faith, and love, and joy there is also joined, Fourthly, the loss of that peace which once passed all understanding.
-（四）　信仰と愛と喜びを失うことに、第四に、平安を失うことも加わります。それは、かつての、人知ではとうてい測り知ることのできない平安です（ピリピ四・七）。
+（四）　信仰と愛と喜びを失うことに、第四に、平安を失うことも加わります。それは、かつて、人知ではとうてい測り知ることのできなかった平安です（ピリピ四・七）。
 That sweet tranquillity of mind, that composure of spirit, is gone.
 あの心の甘美な静けさ、あの霊の落ち着きは、消えうせています。
 Painful doubt returns; doubt, whether we ever did, and perhaps whether we ever shall, believe.
@@ -132,7 +132,7 @@ We fear the wrath of God, even as before we believed:
 We fear, lest we should be cast out of his presence;
 神の御前から捨てられるのではないかと恐れます。
 and thence sink again into that fear of death, from which we were before wholly delivered.
-そして、そこから再び、死の恐怖（ヘブル二・一五）に沈むのです。以前には、それからまったく解き放たれていたのにです。
+そして、そこから再び、死の恐怖（ヘブル二・一五）に沈むのです。以前には、それからまったく解き放たれていたというのに、です。
 
 5. But even this is not all; for loss of peace is accompanied with loss of power.
 （五）　けれども、これでさえ、すべてではありません。平安を失うことには、力を失うことが伴うからです。
@@ -172,10 +172,10 @@ His invariable will is our sanctification, attended with "peace and joy in the H
 These are his own free gifts; and we are assured "the gifts of God are," on his part, "without repentance."
 これらは、神ご自身の価なしの賜物です。そして、「神の賜物」は、神の側では「変えられることがない」（ローマ一一・二九）と、私たちは保証されています。
 He never repenteth of what he hath given, or desires to withdraw them from us.
-神は、ご自分が与えたものを悔いることは決してなさいません。それを私たちから取り戻そうと望まれることもありません。
+神は、ご自分がお与えになったものを悔いることは決してなさいません。それを私たちから取り戻そうと望まれることもありません。
 // 欽定訳のローマ一一・二九 は without repentance（悔いることがない）。次の文の repenteth はこの語を受けている。
 Therefore he never deserts us, as some speak; it is we only that desert him.
-ですから、ある人々が言うように、神が私たちを見捨てられることは決してありません。神を見捨てるのは、ただ私たちのほうなのです。
+ですから、ある人々は、神が私たちを見捨てられると言いますが、神がそうされることは決してありません。神を見捨てるのは、ただ私たちのほうなのです。
 
 (I.) 2. The most usual cause of inward darkness is sin, of one kind or another.
 〔一〕（二）　内なるやみの最もよくある原因は、何らかの種類の罪です。
@@ -186,11 +186,11 @@ And, First, sin of commission.
 This may frequently be observed to darken the soul in a moment; especially if it be a known, a wilful, or presumptuous sin.
 行いの罪は、しばしば一瞬のうちに魂を暗くすることが見て取れます。それが、知りながらの罪、故意の罪、思い上がった罪であれば、特にそうです。
 If, for instance, a person, who is now walking in the clear light of God's countenance, should be any way prevailed on to commit a single act of drunkenness, or uncleanness, it would be no wonder, if, in that very hour, he fell into utter darkness.
-たとえば、今、神の御顔の澄んだ光の中を歩んでいる人がいるとします。その人が、何かのことで言いくるめられて、ただ一度でも酒に酔ったり、汚れた行いをしたりするとします。そうすれば、その人がまさにその時刻に、まったくのやみに落ちたとしても、少しも不思議ではないでしょう。
+たとえば、今、神の御顔の澄んだ光の中を歩んでいる人がいるとします。その人が、何かのことで説き伏せられて、ただ一度でも酒に酔ったり、汚れた行いをしたりするとします。そうすれば、その人がまさにその時刻に、まったくのやみに落ちたとしても、少しも不思議ではないでしょう。
 It is true, there have been some very rare cases, wherein God has prevented this, by an extraordinary display of his pardoning mercy, almost in the very instant.
 確かに、ごくまれには、神が、ほとんどその瞬間に、赦しのあわれみを並はずれた仕方で示して、これを防がれた場合もありました。
 But in general, such an abuse of the goodness of God, so gross an insult on his love, occasions an immediate estrangement from God, and a "darkness that may be felt."
-けれども、一般には、神の慈愛をこのように濫用し、神の愛をこれほどひどく侮辱することは、すぐに神から遠ざかることを引き起こします。そして、「さわれるほど」の「くらやみ」（出エジプト一〇・二一）を引き起こすのです。
+けれども、一般には、神の慈愛をこのように濫用し、神の愛をこれほどひどく侮辱すれば、すぐに神から遠ざかることになります。そして、「さわれるほど」の「くらやみ」（出エジプト一〇・二一）が生じるのです。
 
 3. But it may be hoped this case is not very frequent;
 （三）　けれども、こういう場合はあまり多くないと望んでよいでしょう。
@@ -203,7 +203,7 @@ This, indeed, does not immediately quench the Spirit, but gradually and slowly.
 The former may be compared to pouring water upon a fire; the latter to withdrawing the fuel from it.
 前者は、火に水を注ぐことにたとえられるでしょう。後者は、火から燃料を取り去ることにたとえられるでしょう。
 And many times will that loving Spirit reprove our neglect, before he departs from us.
-そして、あの愛に満ちた御霊は、私たちから去られる前に、何度も私たちの怠りを忠告してくださいます。
+そして、あの愛に満ちた御霊は、私たちから去られる前に、私たちの怠りについて、何度も私たちに忠告してくださいます。
 Many are the inward checks, the secret notices, he gives, before his influences are withdrawn.
 御霊の感化が取り去られる前に、御霊は、多くの内なる制止と、ひそかな知らせとを与えてくださいます。
 So that only a train of omissions, wilfully persisted in, can bring us into utter darkness.
@@ -223,7 +223,7 @@ And if we long or frequently intermit them, it will gradually die away.
 5. Another sin of omission, which frequently brings the soul of a believer into darkness, is the neglect of what was so strongly enjoined, even under the Jewish dispensation:
 （五）　しばしば信者の魂をやみに陥らせるもう一つの怠りの罪は、ユダヤ教の制度の下でさえ強く命じられていたことを怠ることです。
 "Thou shalt, in anywise, rebuke thy neighbour, and not suffer sin upon him: Thou shalt not hate thy brother in thy heart."
-「あなたの隣人をねんごろにいさめ」なさい。隣人の上に罪をそのままにしておいてはなりません。「あなたは心に兄弟を憎んではなりません」（レビ記一九・一七）。
+「あなたの隣人をねんごろにいさめ」なさい（レビ記一九・一七）。隣人の上に罪をそのままにしておいてはなりません。「あなたは心に兄弟を憎んではなりません」（レビ記一九・一七）。
 // 欽定訳のレビ記一九・一七 not suffer sin upon him は、口語訳では「彼のゆえに罪を身に負ってはならない」で、意味が違う。ウェスレーの論点がこの句にかかるので、英文から訳して「」の外に出した（III.3 も同じ）。口語訳は「憎んではならない」を先に置くが、英文の順に従った。
 Now, if we do hate our brother in our heart, if we do not rebuke him when we see him in a fault, but suffer sin upon him, this will soon bring leanness to our own soul;
 さて、私たちが心に兄弟を憎むとします。兄弟が過ちを犯しているのを見ても、いさめずに、その上に罪をそのままにしておくとします。そうすれば、それはすぐに、私たち自身の魂をやせ衰えさせる（詩篇一〇六・一五）でしょう。
@@ -236,16 +236,16 @@ We become accountable for it to God:
 We saw his danger, and gave him no warning:
 私たちは隣人の危険を見たのに、警告しなかったのです。
 So, "if he perish in his iniquity," God may justly require "his blood at our hands."
-ですから、その人が「自分の悪のために死ぬ」なら、神が「その血を」私たちの「手から求め」られるのは、正しいことです（エゼキエル三・一八）。
+ですから、その人が「自分の悪のために死ぬ」なら、神が「その血を」私たちの「手から求め」られる（エゼキエル三・一八）としても、当然なのです。
 No wonder then, if by thus grieving the Spirit, we lose the light of his countenance.
 それなら、このようにして御霊を悲しませる（エペソ四・三〇）ことによって、私たちが神の御顔の光を失うとしても、不思議はありません。
 
 6. A Third cause of our losing this is, the giving way to some kind of inward sin.
 （六）　私たちがこの光を失う第三の原因は、何らかの種類の内なる罪に身をゆだねることです。
 For example: We know, every one that is "proud in heart is an abomination to the Lord;" and that, although this pride of heart should not appear in the outward conversation.
-たとえば、私たちは知っています。「すべて心に高ぶる者は主に憎まれ」ます（箴言一六・五）。心のこの高ぶりが、外のふるまいに現れていないとしても、そうです。
+たとえば、私たちは知っています。すべて「心に高ぶる者は主に憎まれ」ます（箴言一六・五）。心のこの高ぶりが、外のふるまいに現れていないとしても、そうです。
 Now, how easily may a soul filled with peace and joy fall into this snare of the devil! How natural is it for him to imagine that he has more grace, more wisdom or strength, than he really has to "think more highly of himself than he ought to think!"
-さて、平安と喜びに満たされた魂は、何とたやすく、悪魔のこのわな（第一テモテ三・七）に陥ることでしょう！　その人が、自分には実際より多くの恵みや知恵や力があると思い込み、「思うべき限度を越えて思いあがる」（ローマ一二・三）のは、何と自然なことでしょう。
+さて、平安と喜びに満たされた魂は、何とたやすく、悪魔のこのわな（第一テモテ三・七）に陥ることでしょう！　その人が、自分には実際より多くの恵みや知恵や力があると思い込むのは、何と自然なことでしょう。「思うべき限度を越えて思いあがる」（ローマ一二・三）のは、何と自然なことでしょう。
 How natural to glory in something he has received, as if he had not received it!
 自分がもらったものを、もらっていないもののように誇る（第一コリント四・七）のは、何と自然なことでしょう。
 But seeing God continually "resisteth the proud, and giveth grace" only "to the humble," this must certainly obscure, if not wholly destroy, the light which before shone on his heart.
@@ -293,7 +293,7 @@ and the god of this world will blind and darken our hearts.
 9. But this he frequently does, even when we do not give way to any positive sin.
 （九）　けれども、この世の神は、私たちがはっきりとした罪に身をゆだねていないときにも、しばしばそうします。
 It is enough, it gives him sufficient advantage, if we do not "stir up the gift of God which is in us;"
-私たちが、内にいただいた「神の賜物を、再び燃えたたせ」ない（第二テモテ一・六）だけで十分です。それだけで、この世の神は十分につけ入るすきを得るのです。
+私たちが、「内にいただいた神の賜物を、再び燃えたたせ」ない（第二テモテ一・六）だけで十分です。それだけで、この世の神は十分につけ入るすきを得るのです。
 if we do not agonize continually "to enter in at the strait gate;"
 私たちが、絶えず苦闘して「狭い戸口からはいる」（ルカ一三・二四）ように努めないだけで十分です。
 if we do not earnestly "strive for the mastery," and "take the kingdom of heaven by violence."
@@ -302,7 +302,7 @@ if we do not earnestly "strive for the mastery," and "take the kingdom of heaven
 There needs no more than not to fight, and we are sure to be conquered.
 戦わないでいるだけで足ります。そうすれば、私たちは必ず打ち負かされます。
 Let us only be careless or "faint in our mind," let us be easy and indolent, and our natural darkness will soon return, and overspread our soul.
-私たちがただ不注意になり、あるいは「弱り果てて意気そそう」し（ヘブル一二・三）、気楽に怠けているとします。そうすれば、私たちの生れながらのやみが、すぐに戻ってきて、私たちの魂をおおうでしょう。
+私たちがただ不注意になり、あるいは「意気そそう」し（ヘブル一二・三）、気楽に怠けているとします。そうすれば、私たちの生れながらのやみが、すぐに戻ってきて、私たちの魂をおおうでしょう。
 It is enough, therefore, if we give way to spiritual sloth; this will effectually darken the soul:
 ですから、私たちが霊の怠惰に身をゆだねるだけで十分です。それは、確実に魂を暗くします。
 It will as surely destroy the light of God, if not so swiftly, as murder or adultery.
@@ -319,18 +319,18 @@ And that God now withdraws his light and peace on account of what was done so lo
 He waited all this time if haply we would see, acknowledge, and correct what was amiss.
 神は、私たちが誤っていたことに気づき、それを認め、正すかもしれないと、この間ずっと待っておられました。
 And in default of this he at length shows his displeasure, if thus, at last, he may bring us to repentance.
-そして、私たちがそうしなかったので、神はついに不興を示されるのです。こうして、最後には私たちを悔い改めに導くことができるかもしれない、と。
+そして、私たちがそうしなかったので、神はついに不興を示されるのです。こうして、ついには私たちを悔い改めに導くことができればと、願っておられるのです。
 
 (II). 1. Another general cause of this darkness is ignorance; which is likewise of various kinds.
 〔二〕（一）　このやみのもう一つの一般的な原因は、無知です。無知も同じように、さまざまな種類があります。
 If men know not the Scriptures, if they imagine there are passages either in the Old or New Testament which assert, that all believers without exception, must sometimes be in darkness; this ignorance will naturally bring upon them the darkness which they expect.
-人々が聖書を知らないとします。旧約か新約の中に、すべての信者が例外なく、ときにはやみの中にいなければならないと主張する箇所がある、と思い込んでいるとします。そうすれば、この無知は、当然、彼らが予期しているやみを彼らの上にもたらすでしょう。
+人々が聖書を知らないとします。旧約か新約の中に、ある箇所があると思い込んでいるとします。すべての信者が例外なく、ときにはやみの中にいなければならないと主張する箇所です。そうすれば、この無知は、当然、彼らが予期しているやみを彼らの上にもたらすでしょう。
 And how common a case has this been among us! How few are there that do not expect it!
 そして、このことは、私たちの間で何とありふれたことだったでしょう！　やみを予期していない人は、何と少ないことでしょう。
 And no wonder, seeing they are taught to expect it; seeing their guides lead them into this way.
 それも不思議ではありません。彼らは、やみを予期するように教えられているからです。彼らの導き手たちが、彼らをこの道へ導いているからです。
 Not only the mystic writers of the Romish Church, but many of the most spiritual and experimental in our own, (very few of the last century excepted,) lay it down with all assurance as a plain, unquestionable Scripture doctrine, and cite many texts to prove it.
-ローマ教会の神秘主義の著者たちだけではありません。私たちの教会の、最も霊的で経験に富んだ人々の多くも（前の世紀のごく少数の人々を除いて）、このことを、明白で疑う余地のない聖書の教理として、確信をもって定めています。そして、それを証明するために多くの聖句を引いているのです。
+ローマ教会の神秘主義の著者たちだけではありません。私たちの教会の、最も霊的で経験に富んだ人々の多くも（前の世紀のごく少数の人々を除いて）、このことを説いています。彼らは、これを明白で疑う余地のない聖書の教理として、確信をもって主張しています。そして、それを証明するために多くの聖句を引いているのです。
 
 2. Ignorance also of the work of God in the soul frequent occasions this darkness.
 （二）　魂のうちにおける神のわざについての無知も、しばしばこのやみを引き起こします。
@@ -359,6 +359,7 @@ And there are instances wherein this calm has continued, not only for weeks, but
 そして、この穏やかさが、何週間だけでなく、何か月も、何年も続いた例もあります。
 But commonly it is otherwise: In a short time "the winds blow, the rains descend, and the floods arise" anew.
 けれども、普通はそうではありません。まもなく、再び「雨が降り、洪水が押し寄せ、風が吹いて」きます（マタイ七・二五）。
+// 英文は winds, rains, floods の順で引くが、口語訳の順で引いた。
 They who know not either the Son or the Father, and consequently hate his children, when God slackens the bridle which is in their teeth , will show that hatred in various instances.
 子をも父をも知らず、そのために神の子らを憎む人々がいます。神が、その人々の歯にかませたくつわをゆるめられると、彼らはさまざまな形でその憎しみを表すでしょう。
 As of old, "he that was born after the flesh persecuted him that was born after the Spirit, even so it is now;" the same cause still producing the same effect.
@@ -384,13 +385,13 @@ How ready are we to believe that God has "fulfilled in us the" whole "work of fa
 And well may a sharp attack from an enemy whom we supposed to be not only conquered but slain, throw us into much heaviness of soul; yea, sometimes, into utter darkness:
 そして、私たちが、打ち負かしただけでなく殺してしまったと思っていた敵から、鋭い攻撃を受けるとします。それが私たちを魂の深い悩みに投げ込み、いや、ときにはまったくのやみに投げ込むのも、もっともなことです。
 Particularly when we reason with this enemy, instead of instantly calling upon God, and casting ourselves upon Him, by simple faith, who "alone knoweth how to deliver" his "out of temptation."
-特に、私たちがすぐに神を呼び求め、単純な信仰によって神に身をゆだねるのでなく、この敵と論じ合うときは、そうです。ご自分の民を「試錬の中から救い出」すすべを知っておられるのは、ただ神だけなのです（第二ペテロ二・九）。
+特に、私たちがすぐに神を呼び求め、単純な信仰によって神に身をゆだねるのでなく、この敵と論じ合うときは、そうです。ご自分の民を「試錬の中から救い出」す（第二ペテロ二・九）すべを知っておられるのは、ただ神だけなのです。
 // 口語訳の第二ペテロ二・九 は「主は、信心深い者を試錬の中から救い出し」で、欽定訳の knoweth how にあたる語がない。「試錬の中から救い出」だけを「」に入れた。
 
 ## 【三】　その治療法は何か
 
 III. These are the usual causes of this second darkness. Inquire we, Thirdly, What is the cure of it
-このような、この二度目のやみのよくある原因です。第三に、その治療法は何かを調べましょう。
+以上が、この二度目のやみのよくある原因です。第三に、その治療法は何かを調べましょう。
 
 1. To suppose that this is one and the same in all cases is a and fatal mistake;
 （一）　治療法がどの場合にも一つの同じものだと考えるのは、大きな、致命的な誤りです。
@@ -399,23 +400,23 @@ and yet extremely common, even among many, who pass for experienced Christians, 
 Accordingly, they know and use but one medicine, whatever be the cause of the distemper.
 それで、彼らは、病の原因が何であれ、ただ一つの薬しか知らず、それしか用いません。
 They begin immediately to apply the promises; to preach the gospel, as they call it.
-彼らは、すぐに約束を当てはめ始めます。彼らの言う、福音を説くことを始めるのです。
+彼らは、すぐに約束を当てはめ始めます。彼らの言い方では、福音を説き始めるのです。
 To give comfort is the single point at which they aim;
 慰めを与えることが、彼らのめざすただ一つの点です。
 in order to which they say many soft and tender things, concerning the love of God to poor helpless sinners, and the efficacy of the blood of Christ.
-そのために、彼らは、あわれな無力な罪人への神の愛について、またキリストの血の効力について、多くの柔らかく優しいことを語ります。
+そのために、彼らは、多くの柔らかく優しいことを語ります。あわれな無力な罪人への神の愛について、またキリストの血の効力について語るのです。
 Now this is quackery indeed, and that of the worse sort, as it tends, if not to kill men's bodies, yet without the peculiar mercy of God, "to destroy both their bodies and souls in hell."
 さて、これはまさにやぶ医者のしわざです。しかも、たちの悪いほうのしわざです。人々のからだを殺しはしないとしても、神の特別なあわれみがなければ、人々の「からだも魂も地獄で滅ぼす」（マタイ一〇・二八）ことになりがちだからです。
 It is hard to speak of these "daubers with untempered mortar," these promise-mongers, as they deserve.
 この「水しっくいをもって」「塗る」者たち（エゼキエル一三・一〇）、この約束の安売り人たちについて、ふさわしいだけのことを言うのは難しいことです。
 They well deserve the title, which has been ignorantly given to others:
-ほかの人々が、無知のために付けられてきた呼び名がありますが、彼らこそ、その呼び名にふさわしいのです。
+ほかの人々に対して、無知にも付けられてきた呼び名がありますが、彼らこそ、その呼び名にふさわしいのです。
 They are spiritual mountebanks.
 彼らは、霊のいかさま薬売りです。
 They do, in effect, make "the blood of the covenant an unholy thing."
 彼らは事実上、「契約の血を汚れたものと」しています（ヘブル一〇・二九）。
 They vilely prostitute the promises of God by thus applying them to all without distinction.
-彼らは、神の約束をこのようにだれにでも区別なく当てはめることによって、それを卑しく売り渡しているのです。
+彼らは、神の約束をこのようにだれにでも区別なく当てはめることによって、それを卑しく安売りしているのです。
 Whereas, indeed, the cure of spiritual, as of bodily diseases, must be as various as are the causes of them.
 けれども実は、霊の病の治療も、からだの病の治療と同じく、その原因と同じほどさまざまでなければなりません。
 The first thing, therefore, is to find out the cause; and this will naturally point out the cure.
@@ -428,9 +429,9 @@ Does your conscience accuse you of committing any sin, whereby you grieve the Ho
 Is it on this account that he is departed from you, and that joy and peace are departed with him
 このために、聖霊があなたから去り、喜びと平安も聖霊とともに去ったのでしょうか。
 And how can you expect they should return, till you put away the accursed thing
-それなら、あなたが滅ぼされるべきものを除き去るまで（ヨシュア七・一三）、どうしてそれが戻ってくると期待できるでしょうか。
+それなら、あなたが滅ぼされるべきものを除き去るまで（ヨシュア七・一三）、どうして喜びと平安が戻ってくると期待できるでしょうか。
 "Let the wicked forsake his way;" "cleanse your hands, ye sinners;" "put away the evil of your doings;" so shall your "light break out of obscurity;" the Lord will return and "abundantly pardon."
-「悪しき者はその道を捨て」なさい（イザヤ五五・七）。「罪人どもよ、手をきよめ」なさい（ヤコブ四・八）。「あなたがたの悪い行いを除き」なさい（イザヤ一・一六）。そうすれば、「あなたの光は暗きに輝き」（イザヤ五八・一〇）、主は帰って来て、「豊かにゆるしを与えられ」ます（イザヤ五五・七）。
+「悪しき者はその道を捨て」なさい（イザヤ五五・七）。「罪人どもよ、手をきよめ」なさい（ヤコブ四・八）。「あなたがたの悪い行いを除き」なさい（イザヤ一・一六）。そうすれば、「あなたの光は暗きに輝き」（イザヤ五八・一〇）、主は帰って来られ、「豊かにゆるしを与えられ」ます（イザヤ五五・七）。
 // light break out of obscurity は、イザヤ五八・八 の light break forth と五八・一〇 の light rise in obscurity を合わせた言い回し。五八・一〇 の口語訳で引いた。
 
 3. If, upon the closest search, you can find no sin of commission which causes the cloud upon your soul, inquire next, if there be not some sin of omission which separates between God and you.
@@ -440,7 +441,7 @@ Do you "not suffer sin upon your brother"
 Do you reprove them that sin in your sight
 あなたの目の前で罪を犯す人に、忠告していますか。
 Do you walk in all the ordinances of God in public, family, private prayer
-公の祈りと家庭の祈りとひそかな祈りにおいて、神のすべての定めのうちを歩んでいますか。
+あなたは、神のすべての定めのうちを、すなわち公の祈り、家庭の祈り、ひそかな祈りのうちを歩んでいますか。
 If not, if you habitually neglect any one of these known duties, how can you expect that the light of his countenance should continue to shine upon you
 もしそうでないとします。知っているこれらの務めの一つでも、習慣的に怠っているとします。それなら、どうして神の御顔の光があなたの上に照り続けると期待できるでしょうか。
 Make haste to "strengthen the things that remain;" then your soul shall live.
@@ -475,7 +476,7 @@ Have you not, in any respect, "sacrificed to your own net, and burned incense to
 Have you not ascribed your success in any undertaking to your own courage, or strength, or wisdom
 何かの企てがうまくいったのを、自分の勇気や力や知恵のおかげにしてはいませんか。
 Have you not boasted of something "you have received, as though you had not received it"
-あなたは、「もらっている」ものを、「もらっていないもののように誇」ってはいませんか（第一コリント四・七）。
+あなたは、「もらっている」ものを、「もらっていないもののように」（第一コリント四・七）誇ってはいませんか。
 Have you not gloried in anything, "save the cross of our Lord Jesus Christ"
 「わたしたちの主イエス・キリストの十字架以外に」（ガラテヤ六・一四）、何かを誇ってはいませんか。
 Have you not sought after or desired the praise of men Have you not taken pleasure in it
@@ -494,7 +495,7 @@ Have you not been offended at any of your brethren, looking at their (real or im
 Then look unto the Lord, that you may renew your strength; that all this sharpness and coldness may be done away;
 それなら、主を仰ぎ見なさい。それは、あなたが新たな力を得るためです。この鋭さと冷たさがすべて取り除かれるためです。
 that love and peace and joy may return together, and you may be invariably kind to each other, and "tender-hearted, forgiving one another, even as God for Christ's sake hath forgiven you."
-また、愛と平安と喜びがいっしょに戻ってくるためです。そして、あなたがたが互いに変わらず親切にし、「あわれみ深い者となり」、「神がキリストにあってあなたがたをゆるしてくださったように」、「互にゆるし合」うようになるためです（エペソ四・三二）。
+また、愛と平安と喜びがいっしょに戻ってくるためです。そして、あなたがたが互いに変わらず親切にするためです。「あわれみ深い者となり」、「神がキリストにあってあなたがたをゆるしてくださったように」、「互にゆるし合」うようになるためです（エペソ四・三二）。
 Have not you given way to any foolish desire To any kind or degree of inordinate affection
 あなたは、何かの愚かな欲望に身をゆだねてはいませんか。何かの種類の、あるいはいくらかでも、度を越えた情愛に身をゆだねてはいませんか。
 How then can the love of God have place in your heart, till you put away your idols
@@ -513,7 +514,7 @@ Cast out every idol from his sanctuary, and the glory of the Lord shall soon app
 神の聖所からあらゆる偶像を投げ出しなさい。そうすれば、主の栄光がすぐに現れるでしょう。
 
 5. Perhaps it is this very thing, the want of striving, spiritual sloth, which keeps your soul in darkness.
-（五）　おそらく、あなたの魂をやみの中にとどめているのは、まさにこのこと、すなわち励みのなさ、霊の怠惰かもしれません。
+（五）　おそらく、あなたの魂をやみの中にとどめているのは、まさにこのこと、すなわち励まないこと、霊の怠惰かもしれません。
 You dwell at ease in the land; there is no war in your coasts; and so you are quiet and unconcerned.
 あなたは、その地に安らかに住んでいます。あなたの領地には戦いがありません。それで、あなたは静かで、気にかけることもありません。
 You go on in the same even track of outward duties, and are content there to abide.
@@ -526,7 +527,7 @@ Otherwise there is nothing to be expected, but that you will be alienated more a
 そうでなければ、あなたが神の光と神のいのちから、ますます遠く離れていく（エペソ四・一八）ほかには、何も期待できません。
 
 6. If, upon the fullest and most impartial examination of yourself, you cannot discern that you at present give way either to spiritual sloth, or any other inward or outward sin, then call to mind the time that is past.
-（六）　自分を最も十分に、最も公平に調べても、今、霊の怠惰にも、ほかのどんな内なる罪や外の罪にも身をゆだねていることが見分けられないとします。そうなら、過ぎ去った時を思い起こしなさい。
+（六）　自分を最も十分に、最も公平に調べたとします。それでも、今、霊の怠惰にも、ほかのどんな内なる罪や外の罪にも身をゆだねていることが見分けられないとします。そうなら、過ぎ去った時を思い起こしなさい。
 Consider your former tempers, words, and actions. Have these been right before the Lord
 以前のあなたの気質と言葉と行いを考えてみなさい。それらは、主の前に正しかったでしょうか。
 "Commune with him in your chamber, and be still;"
@@ -544,7 +545,7 @@ It may be, ignorance of the meaning of Scripture; perhaps occasioned by ignorant
 ignorant, at least, in this respect, however knowing and learned they may be in other particulars.
 その注解者たちは、ほかの点ではどれほど物知りで学識があっても、少なくともこの点では無知なのです。
 And, in this case that ignorance must be removed before we can remove the darkness arising from it.
-この場合には、無知から生じるやみを取り除くことができる前に、その無知を取り除かなければなりません。
+この場合には、無知から生じるやみを取り除くには、まずその無知を取り除かなければなりません。
 We must show the true meaning of those texts which have been misunderstood.
 誤解されてきた聖句の本当の意味を示さなければなりません。
 My design does not permit me to consider all the passages of Scripture which have been pressed into this service.
@@ -556,7 +557,7 @@ I shall just mention two or three, which are frequently brought to prove that al
 （八）　その一つは、イザヤ書五〇章一〇節です。「あなたがたのうち主を恐れ、そのしもべの声に聞き従い、暗い中を歩いて光を得なくても、なお主の名を頼み、おのれの神にたよる者はだれですか」。
 // 欽定訳のイザヤ五〇・一〇 は Let him trust 以下を独立した命令にしているが、口語訳は一つの問いにまとめている。口語訳の形で引いた。
 But how does it appear, either from the text or context, that the person here spoken of ever had light
-けれども、ここで語られている人が、かつて光を持っていたことが、この聖句からであれ前後の文脈からであれ、どうして分かるでしょうか。
+けれども、ここで語られている人は、かつて光を持っていたのでしょうか。それが、この聖句からであれ前後の文脈からであれ、どうして分かるでしょうか。
 One who is convinced of sin, "feareth the Lord, and obeyeth voice of his servant."
 罪を自覚した人は、「主を恐れ、そのしもべの声に聞き従い」ます（イザヤ五〇・一〇）。
 And him we should advise, though he was still dark of soul, and had never seen the light of God's countenance, yet to "trust in the name of the Lord, and stay upon his God."
@@ -569,7 +570,7 @@ This text, therefore, proves nothing less than that believer in Christ "must som
 "I will allure her, and bring her into the wilderness, and speak comfortably unto her."
 「わたしは彼女をいざなって、荒野に導いて行き、ねんごろに彼女に語ります」。
 Hence it has been inferred, that God will bring every believer into the wilderness, into a state of deadness and darkness.
-ここから、神はすべての信者を荒野に、すなわち死んだようなやみの状態に導かれるのだ、と推論されてきました。
+ここから、神はすべての信者を荒野に、すなわち死んだような、暗い状態に導かれるのだ、と推論されてきました。
 But it is certain the text speaks no such thing; for it does not appear that it speaks of particular believers at all:
 けれども、この聖句がそのようなことを何も語っていないのは確かです。この聖句は、そもそも個々の信者について語っているようには見えないからです。
 It manifestly refers to the Jewish nation; and, perhaps, to that only.
@@ -593,10 +594,10 @@ and that he is speaking concerning those particular events, his own death and re
 "And again, a little while, and ye shall see me;" when I am risen from the dead.
 「またしばらくすれば、わたしに会えるでしょう」（ヨハネ一六・一六）。わたしが死人の中からよみがえったときです。
 Ye will weep and lament, and the world will rejoice: But your sorrow shall be turned into joy." --
-「あなたがたは泣き悲しむが、この世は喜ぶでしょう」。「その憂いは喜びに変るでしょう」（ヨハネ一六・二〇）。
+「あなたがたは泣き悲しむが、この世は喜ぶでしょう」（ヨハネ一六・二〇）。「その憂いは喜びに変るでしょう」（ヨハネ一六・二〇）。
 // 英文は開き引用符を欠くが、ヨハネ一六・二〇 の引用なので「」に入れた。英文が引かない「あなたがたは憂えているが」を除き、「」を分けた。
 "Ye now have sorrow," because I am about to be taken from your head;
-「あなたがたにも今は不安があります」。わたしが、あなたがたのかしらから取り去られようとしているからです。
+「あなたがたにも今は不安があります」。わたしが、あなたがたの上から取り去られようとしているからです。
 // taken from your head は、列王紀下二・三 の欽定訳（take away thy master from thy head）を踏まえた言い回し。
 "but I will see you again," after my resurrection, "and your heart shall rejoice; and your joy," which I will then give you, "no man taketh from you."
 「しかし、わたしは再びあなたがたと会うでしょう」。わたしの復活のあとにです。「そして、あなたがたの心は喜びに満たされるでしょう。その喜び」、すなわち、そのときわたしがあなたがたに与える喜び「をあなたがたから取り去る者はいません」（ヨハネ一六・二二）。
@@ -608,7 +609,8 @@ But no inference can be drawn from hence with regard to God's dealings with beli
 11. A fourth text (to mention no more) which has been frequently cited in proof of the same doctrine, is 1 Peter 4:12:
 （一一）　同じ教理の証拠としてしばしば引かれてきた第四の聖句は（これ以上は挙げないことにします）、第一ペテロ四章一二節です。
 "Beloved, think it not strange concerning the fiery trial which is to try you."
-「愛する者たちよ。あなたがたを試みるために降りかかって来る火のような試錬を、何か思いがけないことが起ったかのように驚きあやしむ」ことのないようにしなさい（第一ペテロ四・一二）。
+「愛する者たちよ。あなたがたを試みるために降りかかって来る火のような試錬を」、「驚きあやしむ」ことのないようにしなさい（第一ペテロ四・一二）。
+// 口語訳の「何か思いがけないことが起ったかのように」は、英文が引かない欽定訳の as though some strange thing happened unto you にあたるので、「」から除いた。
 But this is full as foreign to the point as the preceding.
 けれども、この聖句は、前の聖句とまったく同じほど、論点からはずれています。
 The text, literally rendered, runs thus: "Beloved, wonder not at the burning which is among you, which is for your trial."
@@ -630,11 +632,11 @@ Is not a believer more swiftly and thoroughly purified by sorrow, than by joy --
 So the Mystics teach; so it is written in their books; but not in the oracles of God.
 神秘主義者たちは、そう教えます。彼らの書物には、そう書かれています。けれども、神の言（ローマ三・二）には、そう書かれていません。
 The Scripture nowhere says, that the absence of God best perfects his work in the heart!
-神がいないことが、心のうちにおける神のわざを最もよく完成させるなどとは、聖書はどこにも言っていません。
+神が離れておられることが、心のうちにおける神のわざを最もよく完成させるなどとは、聖書はどこにも言っていません。
 Rather, his presence, and a clear communion with the Father and the Son:
-むしろ、神がいてくださること、父と御子との澄みきった交わり（第一ヨハネ一・三）こそが、神のわざを完成させるのです。
+むしろ、神がともにいてくださること、父と御子との澄みきった交わり（第一ヨハネ一・三）こそが、神のわざを完成させるのです。
 A strong consciousness of this will do more an hour, than his absence in an age.
-このことを強く自覚するなら、それは一時間のうちに、神がいないことが一生かかってするよりも多くのことをするでしょう。
+このことを強く自覚するなら、それは一時間のうちに、神が長い年月離れておられることよりも多くのことをなしとげるでしょう。
 Joy in the Holy Ghost will far more effectually purify the soul than the want of that joy;
 聖霊における喜びは、その喜びがないことよりも、はるかに効果的に魂を清めます。
 and the peace of God is the best means of refining the soul from the dross of earthly affections.
@@ -653,11 +655,11 @@ But yet we must not imagine it will immediately cease, even when the cause is no
 When either ignorance or sin has caused darkness, one or the other may be removed, and yet the light which was obstructed thereby may not immediately return.
 無知か罪がやみを引き起こしたとします。その一方が取り除かれても、それによってさえぎられていた光は、すぐには戻ってこないかもしれません。
 As it is the free gift of God, he may restore it, sooner or later, as it pleases him.
-光は神の価なしの賜物なので、神はみこころのままに、早くも遅くも、それを戻されるでしょう。
+光は神の価なしの賜物なので、神はみこころのままに、早くにでも遅くにでも、それを戻すことがおできになります。
 In the case of sin, we cannot reasonably expect that it should immediately return.
 罪の場合には、光がすぐに戻ってくると期待するのは、道理にかないません。
 The sin began before the punishment, which may, therefore, justly remain after the sin is at an end.
-罪は罰より先に始まりました。ですから、罰が罪の終わったあとまで残っても、正しいことなのです。
+罪は罰より先に始まりました。ですから、罰が罪の終わったあとまで残ることがあっても、当然なのです。
 And even in the natural course of things, though a wound cannot be healed while the dart is sticking in the flesh;
 そして、自然の成り行きにおいてさえ、矢が肉に刺さっている間は、傷がいえることはありえません。
 yet neither is it healed as soon as that is drawn out, but soreness and pain may remain long after.
