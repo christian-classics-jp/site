@@ -42,7 +42,7 @@
 + [x] Sermon 37. The Nature Of Enthusiasm
 + [x] Sermon 38. A Caution Against Bigotry
 + [x] Sermon 39. Catholic Spirit
-+ [ ] Sermon 40. Christian Perfection
++ [x] Sermon 40. Christian Perfection
 + [ ] Sermon 41. Wandering Thoughts
 + [ ] Sermon 42. Satan's Devices
 + [ ] Sermon 44. Original Sin
