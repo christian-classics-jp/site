@@ -2,7 +2,7 @@
 The New Birth
 
 "Ye must be born again." John 3:7.
-「あなたがたは新しく生れなければならない」（ヨハネ三・七）
+「あなたがたは新しく生れなければなりません」（ヨハネ三・七）
 
 1. If any doctrines within the whole compass of Christianity may be properly termed fundamental, they are doubtless these two, -- the doctrine of justification, and that of the new birth:
 （一）　キリスト教の全体の範囲の中で、根本的と呼ぶのがふさわしい教理があるとすれば、それは疑いなく次の二つです。義認の教理と、新生の教理です。
@@ -46,7 +46,7 @@ I. 1. And, First, Why must we be born again What is the foundation of this doctr
 The foundation of it lies near as deep as the creation of the world; in the scriptural account whereof we read,
 その根拠は、ほとんど世界の創造と同じほど深いところにあります。世界の創造についての聖書の記事に、こうあります。
 "And God," the three-one God, "said, Let us make man in our image, after our likeness. So God created man in his own image, in the image of God created he him:" (Gen. 1:26, 27:) --
-「神は」、すなわち三位一体の神は、「また言われた」。「われわれのかたちに、われわれにかたどって人を造」ろう。「神は自分のかたちに人を創造された。すなわち、神のかたちに創造し」ました（創世記一・二六〜二七）。
+「神は」、すなわち三位一体の神は、「また言われ」ました。「われわれのかたちに、われわれにかたどって人を造」ろう、と。「神は自分のかたちに人を創造された。すなわち、神のかたちに創造し」ました（創世記一・二六〜二七）。
 Not barely in his natural image, a picture of his own immortality; a spiritual being, endued with understanding, freedom of will, and various affections; --
 人は、ただ神の自然のかたちに造られただけではありません。それは、神ご自身の不死を写した姿であり、悟りと意志の自由とさまざまな情愛とを授けられた、霊的な存在であることです。
 nor merely in his political image, the governor of this lower world, having "dominion over the fishes of the sea, and over all the earth;" --
@@ -67,12 +67,12 @@ otherwise God could not have pronounced him, as well as all the other work of hi
 This he could not have been, had he not been pure from sin, and filled with righteousness and true holiness.
 人が罪から清く、真の義と聖と（エペソ四・二四）に満たされていなかったなら、人がはなはだ良い者であることはありえなかったはずです。
 For there is no medium: If we suppose and intelligent creature not to love God, not to be righteous and holy, we necessarily suppose him not to be good at all; much less to be "very good."
-そこに中間はないからです。知性ある被造物が神を愛さず、義でも聖でもないと仮定するとします。それなら、必然的に、その被造物はまったく良くないと仮定することになります。まして、「はなはだ良」いはずがありません（創世記一・三一）。
+そこに中間はないからです。知性ある被造物が神を愛さず、義でも聖でもないとします。それなら、必然的に、その被造物はまったく良くないとせざるをえません。まして、「はなはだ良」いはずがありません（創世記一・三一）。
 
 2. But, although man was made in the image of God, yet he was not made immutable.
 （二）　けれども、人は神のかたちに造られたとはいえ、変わることのない者として造られたのではありません。
 This would have been inconsistent with the state of trial in which God was pleased to place him.
-そうであれば、神が人を置こうとされた試練の状態と、相いれなかったでしょう。
+そうであれば、神が人を置くことをよしとされた試練の状態と、相いれなかったでしょう。
 He was therefore created able to stand, and yet liable to fall.
 ですから、人は、立ち続けることができる者として造られ、しかも倒れうる者として造られたのです。
 And this God himself apprized him of, and gave him a solemn warning against it.
@@ -113,13 +113,13 @@ In the room of this, he had sunk into pride and self-will, the very image of the
 神のかたちの代りに、アダムは高ぶりと我意に沈みました。それは、まさに悪魔のかたちです。また、肉の欲求と欲望に沈みました。それは、滅びうせる獣（詩篇四九・一二）のかたちです。
 
 3. If it be said, "Nay, but that threatening, ' In the day that thou eatest thereof, thou shalt surely die,' refers to temporal death, and that alone, to the death of the body only;" the answer is plain:
-（三）　こう言う人がいるとします。「いや、しかし、それを食べるその日に、きっと死ぬというあの警告（創世記二・一七）は、この世の死を指しているのだ。それだけを、からだの死だけを指しているのだ」。答えは明らかです。
+（三）　こう言う人がいるとします。「いや、しかし、それを食べるその日に、『きっと死ぬであろう』というあの警告（創世記二・一七）は、この世の死を指しているのだ。それだけを、からだの死だけを指しているのだ」。答えは明らかです。
 To affirm this is flatly and palpably to make God a liar; to aver that the God of truth positively affirmed a thing contrary to truth.
 こう断言することは、あからさまに、明白に、神を偽り者とすることです（第一ヨハネ五・一〇）。真実の神が、真実に反することをはっきり断言されたと言い張ることです。
 For it is evident, Adam did not die in this sense, "in the day that he ate thereof."
 アダムが、この意味では、それを食べたその日に死ななかったことは、明らかだからです。
 He lived, in the sense opposite to this death, above nine hundred years after.
-この死と反対の意味では、アダムはその後、九百年以上も生きました（創世記五・五）。
+この死と反対の意味では、アダムはその後、九百年以上も生きました。
 So that this cannot possibly be understood of the death of the body, without impeaching the veracity of God.
 ですから、神の真実を疑うのでなければ、これをからだの死と解することは、とうていできません。
 It must therefore be understood of spiritual death, the loss of the life and image of God.
@@ -177,13 +177,13 @@ The expression, "being born again," was not first used by our Lord in his conver
 It was well known before that time, and was in common use among the Jews when our Saviour appeared among them.
 それ以前からよく知られており、私たちの救い主がユダヤ人の間に現れたころには、彼らの間で普通に用いられていました。
 When an adult Heathen was convinced that the Jewish religion was of God, and desired to join therein, it was the custom to baptize him first, before he was admitted to circumcision.
-大人の異教徒が、ユダヤ教は神から出たものだと確信し、それに加わりたいと願うとします。その場合、割礼を許す前に、まずその人にバプテスマを施すのが習わしでした。
+大人の異教徒が、ユダヤ教は神から出たものだと確信し、それに加わりたいと願うようになると、割礼を許す前に、まずその人にバプテスマを施すのが習わしでした。
 And when he was baptized, he was said to be born again;
 そして、その人はバプテスマを受けると、新しく生れたと言われました。
 by which they meant, that he who was before a child of the devil was now adopted into the family of God, and accounted one of his children.
 それによって彼らが意味したのは、次のことでした。以前は悪魔の子であった者が、今や神の家族の中に養子として迎えられ、神の子の一人に数えられた、ということです。
 This expression, therefore, which Nicodemus, being "a Teacher in Israel," ought to have understood well, our Lord uses in conversing with him; only in a stronger sense than he was accustomed to.
-ですから、この表現は、「イスラエルの教師」（ヨハネ三・一〇）であるニコデモが、よく理解していてしかるべきものでした。私たちの主は、ニコデモと語り合う中で、この表現を用いられます。ただ、ニコデモが慣れていたよりも強い意味で用いられるのです。
+ですから、私たちの主は、ニコデモと語り合う中で、この表現を用いられます。それは、「イスラエルの教師」（ヨハネ三・一〇）であるニコデモが、よく理解していてしかるべき表現でした。ただ、主は、ニコデモが慣れていたよりも強い意味で用いられるのです。
 And this might be the reason of his asking, "How can these things be"
 そして、ニコデモが「どうして、そんなことがあり得ましょうか」（ヨハネ三・九）と尋ねた理由は、これだったのかもしれません。
 They cannot be literally: -- A man cannot "enter a second time into his mother's womb, and be born:" --
@@ -216,7 +216,7 @@ While a man is in a mere natural state, before he is born of God, he has, in a s
 a thick impenetrable veil lies upon them; he has ears, but hears not; he is utterly deaf to what he is most of all concerned to hear.
 その目には、厚くて見通せないおおいがかかっています。耳があっても聞えません。何よりも聞く必要のあることに、まったく耳が聞えないのです。
 His other spiritual senses are all locked up: He is in the same condition as if he had them not.
-ほかの霊的な感覚も、みな閉ざされています。その人は、それらを持っていないのと同じ状態にあります。
+ほかの霊の感覚も、みな閉ざされています。その人は、それらを持っていないのと同じ状態にあります。
 Hence he has no knowledge of God; no intercourse with him; he is not at all acquainted with him.
 ですから、その人は神を知りません。神との交わりもありません。神とまったく面識がないのです。
 He has no true knowledge of the things of God, either of spiritual or eternal things; therefore, though he is a living man, he is a dead Christian.
@@ -250,7 +250,7 @@ He many times feels such a joy in God as is "unspeakable, and full of glory."
 He feels "the love of God shed abroad in his heart by the Holy Ghost which is given unto him;"
 その人は、自分に「賜わっている聖霊によって、神の愛が」自分の「心に注がれて」いるのを感じます（ローマ五・五）。
 and all his spiritual senses are then exercised to discern spiritual good and evil.
-そのとき、その人の霊的な感覚はすべて働かされて、霊的な善悪を見わけるようになります（ヘブル五・一四）。
+そのとき、その人の霊の感覚はすべて働かされて、霊的な善悪を見わけるようになります（ヘブル五・一四）。
 By the use of these, he is daily increasing in the knowledge of God, of Jesus Christ whom he hath sent and to all the things pertaining to his inward kingdom.
 これらの感覚を用いることによって、その人は日々、知識を増し加えていきます。神を知る知識、神がつかわされたイエス・キリスト（ヨハネ一七・三）を知る知識、神の内なる国にかかわるすべての事柄を知る知識です。
 And now he may be properly said to live: God having quickened him by his Spirit, he is alive to God through Jesus Christ.
@@ -274,7 +274,7 @@ It is the change wrought in the whole soul by the almighty Spirit of God when it
 それは、魂が新たに「キリスト・イエスにあって造られ」るとき（エペソ二・一〇）、全能の神の御霊によって魂全体に起こされる変化です。
 // 欽定訳のエペソ二・一〇 は created in Christ Jesus で、anew にあたる語はない。英文の「新たに」を「」の外に出した。
 when it is "renewed after the image of God, in righteousness and true holiness;"
-また、魂が神のかたちに従って「新しくされ」（コロサイ三・一〇）、「真の義と聖と」をそなえる（エペソ四・二四）ときの変化です。
+また、魂が神の「かたちに従って新しくされ」（コロサイ三・一〇）、「真の義と聖と」をそなえる（エペソ四・二四）ときの変化です。
 when the love of the world is changed into the love of God; pride into humility; passion into meekness; hatred, envy, malice, into a sincere, tender, disinterested love for all mankind.
 世への愛が神への愛に変えられ、高ぶりがへりくだりに、激情が柔和に変えられるときの変化です。憎しみ、ねたみ、悪意が、すべての人への、真実で、優しく、私心のない愛に変えられるときの変化です。
 In a word, it is that change whereby the earthly, sensual, devilish mind is turned into the "mind which was in Christ Jesus."
@@ -290,7 +290,7 @@ III. 1. It is not difficult for any who has considered these things, to see the 
 It is very easily discerned, that this is necessary, First, in order to holiness.
 新生が、第一に、聖性のために必要であることは、ごくたやすく見分けられます。
 For what is holiness according to the oracles of God
-神の言（ローマ三・二）によれば、聖性とは何でしょうか。
+というのも、神の言（ローマ三・二）によれば、聖性とは何でしょうか。
 Not a bare external religion, a round of outward duties, how many soever they be, and how exactly soever performed.
 それは、ただの外面的な宗教ではありません。外面的な務めを型どおりにくり返すことでもありません。その務めがどれほど多く、どれほど正確に果たされても、そうです。
 No: Gospel holiness is no less than the image of God stamped upon the heart; it is no other than the whole mind which was in Christ Jesus;
@@ -335,7 +335,7 @@ One of these will ask with all assurance, "What! Shall not I do as well as my ne
 Yes as well as your unholy neighbours; as well as your neighbours that die in their sins!
 そうです、あなたの聖くない隣人たちと同じくらいには、うまくいくでしょう。罪のうちに死ぬ隣人たちと同じくらいには、うまくいくでしょう。
 For you will all drop into the pit together, into the nethermost hell! You will all lie together in the lake of fire; "the lake of fire burning with brimstone."
-あなたがたはみな、いっしょに穴に落ちるのです。いちばん深い地獄に落ちるのです！　あなたがたはみな、いっしょに火の池に横たわるのです。「硫黄の燃えている火の池」にです（黙示録一九・二〇）。
+あなたがたはみな、いっしょに穴に、いちばん深い地獄に落ちるからです！　あなたがたはみな、いっしょに火の池に横たわるのです。「硫黄の燃えている火の池」にです（黙示録一九・二〇）。
 Then, at length, you will see (but God grant you may see it before!) the necessity of holiness in order to glory; and, consequently, of the new birth, since none can be holy, except he be born again.
 そのとき、ついにあなたは、栄光にいたるためには聖性が必要であること、したがって新生が必要であることを悟るでしょう（どうか神が、その前に悟らせてくださいますように）。新しく生れなければ、だれも聖くなることはできないからです。
 
@@ -377,7 +377,7 @@ Many indeed seem to imagine that they are just the same; at least, they speak as
 but I do not know that this opinion is publicly avowed by any denomination of Christians whatever.
 けれども、どんなクリスチャンの教派であれ、この意見を公に表明しているとは、私は聞いていません。
 Certainly it is not by any within these kingdoms, whether of the established Church, or dissenting from it.
-少なくとも、この王国の中のどの教派も表明していないのは確かです。国教会であれ、国教会から分かれた教派であれ、そうです。
+少なくとも、この国々のどの教派も表明していないのは確かです。国教会であれ、国教会から分かれた教派であれ、そうです。
 The judgment of the latter is clearly declared in the large Catechism: [Q. 163, 165. -- Ed.] --
 後者の判断は、大教理問答の中ではっきりと宣言されています。
 Q. "What are the parts of a sacrament A. The parts of a sacrament are two: The one an outward and sensible sign; the other, and inward and spiritual grace, thereby signified. -- Q. What is baptism A. Baptism is a sacrament, wherein Christ hath ordained the washing with water, to be a sign and seal of regeneration by his Spirit."
@@ -396,7 +396,7 @@ Nothing, therefore, is plainer than that, according to the Church of England, ba
 But indeed the reason of the thing is so clear and evident, as not to need any other authority.
 けれども、実のところ、事柄の道理がきわめて明らかなので、ほかのどんな権威も必要ありません。
 For what can be more plain, than the one is a visible, the and invisible thing, and therefore wholly different from each other --
-一方は目に見えるもの、もう一方は目に見えないものであり、したがって互いにまったく違うものです。これほど明らかなことがあるでしょうか。
+というのも、一方は目に見えるもの、もう一方は目に見えないものであり、したがって互いにまったく違うものだからです。これほど明らかなことがあるでしょうか。
 the one being an act of man, purifying the body; the other a change wrought by God in the soul:
 一方は、からだを清める人の行為です。もう一方は、神が魂のうちに起こされる変化です。
 So that the former is just as distinguishable from the latter, as the soul from the body, or water from the Holy Ghost.
@@ -463,7 +463,7 @@ But it is a point of so great importance, as my excuse the considering it the mo
 What must one who loves the souls of men, and is grieved that any of them should perish, say to one whom he sees living in sabbath-breaking, drunkenness, or any other wilful sin
 人々の魂を愛し、そのだれかが滅びることを悲しむ人がいるとします。その人が、安息日を破り、酒に酔い、あるいはほかの故意の罪のうちに生きている人を見たとします。その相手に、何と言うべきでしょうか。
 What can he say, if the foregoing observations are true, but, "You must be born again"
-これまで述べたことが真実なら、あなたは「新しく生れなければならない」（ヨハネ三・七）と言うほかに、何が言えるでしょうか。
+これまで述べたことが真実なら、その人は相手に、あなたは「新しく生れなければならない」（ヨハネ三・七）と言うほかに、何が言えるでしょうか。
 "No," says a zealous man, "that cannot be. How can you talk so uncharitably to the man Has he not been baptized already He cannot be born again now."
 ある熱心な人は言います。「いや、そんなことはありえない。どうしてその人に、そんなに愛のない話し方ができるのか。その人は、もうバプテスマを受けているではないか。今さら新しく生れることはできない」。
 Can he not be born again Do you affirm this Then he cannot be saved.
@@ -488,7 +488,7 @@ But perhaps the sinner himself, to whom in real charity we say, "You must be bor
 I answer, First, There is nothing under heaven which can excuse a lie; otherwise I should say to an open sinner, If you have been baptized, do not own it.
 私は答えます。第一に、天の下には、うそを言い訳できるものは何一つありません。そうでなければ、私は公然と罪を犯している人に、こう言うでしょう。バプテスマを受けたのなら、それを認めてはなりません、と。
 For how highly does this aggravate your guilt! How will it increase your damnation!
-それは、あなたの罪責をどれほど重くすることでしょう。あなたの受ける地獄の刑罰を、どれほど増し加えることでしょう。
+というのも、それは、あなたの罪責をどれほど重くすることでしょう。あなたの受ける地獄の刑罰を、どれほど増し加えることでしょう。
 Was you devoted to God at eight days old, and have you been all these years devoting yourself to the devil
 あなたは、生後八日で神にささげられたのに、この長い年月、自分を悪魔にささげてきたのですか。
 Was you, even before you had the use of reason, consecrated to God the Father, the son, and the Holy Ghost And have you, ever since you had the use of it, been flying in the face of God, and consecrating yourself to Satan
@@ -522,7 +522,7 @@ otherwise it is not possible you should be inwardly holy; and without inward as 
 Do you say, "Nay, but I do no harm to any man; I am honest and just in all my dealings; I do not curse, or take the Lord's name in vain; I do not profane the Lord's day; I am no drunkard; I do not slander my neighbour, nor live in any wilful sin"
 あなたは、こう言うのですか。「いや、しかし、私はだれにも害を加えていない。すべての取引において正直で公正だ。のろいもしないし、主の名をみだりに唱えもしない（出エジプト二〇・七）。主の日を汚しもしない。酒に酔う者でもない。隣人を中傷もしないし、どんな故意の罪のうちにも生きていない」。
 If this be so, it were much to be wished that all men went as far as you do.
-もしそうなら、すべての人があなたと同じところまで進んでいればよいのに、と心から願われます。
+もしそうなら、すべての人があなたと同じところまで進んでいればよいのにと、心から願わずにはいられません。
 But you must go farther yet, or you cannot be saved: Still, "you must be born again."
 けれども、あなたは、さらに先へ進まなければなりません。そうでなければ、救われることはできません。やはり、あなたは「新しく生れなければならない」のです（ヨハネ三・七）。
 Do you add, "I do go farther yet; for I not only do no harm, but do all the good I can"
