@@ -40,7 +40,7 @@
 + [x] Sermon 35. The Law Established Through Faith: Discourse One
 + [x] Sermon 36. The Law Established Through Faith: Discourse Two
 + [x] Sermon 37. The Nature Of Enthusiasm
-+ [ ] Sermon 38. A Caution Against Bigotry
++ [x] Sermon 38. A Caution Against Bigotry
 + [ ] Sermon 39. Catholic Spirit
 + [ ] Sermon 40. Christian Perfection
 + [ ] Sermon 41. Wandering Thoughts
