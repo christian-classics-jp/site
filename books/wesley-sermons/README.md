@@ -38,7 +38,7 @@
 + [x] Sermon 33. Upon Our Lord's Sermon On The Mount: Discourse Thirteen
 + [x] Sermon 34. The Original, Nature, Property, And Use Of The Law
 + [x] Sermon 35. The Law Established Through Faith: Discourse One
-+ [ ] Sermon 36. The Law Established Through Faith: Discourse Two
++ [x] Sermon 36. The Law Established Through Faith: Discourse Two
 + [ ] Sermon 37. The Nature Of Enthusiasm
 + [ ] Sermon 38. A Caution Against Bigotry
 + [ ] Sermon 39. Catholic Spirit
