@@ -8,7 +8,7 @@ Self-Denial
 1. It has been frequently imagined, that the direction here given related chiefly, if not wholly, to the Apostles; at least, to the Christians of the first ages, or those in a state of persecution.
 （一）　ここで与えられている指図は、もっぱらではないとしても主として、使徒たちにかかわるものだと、しばしば考えられてきました。少なくとも、初代のクリスチャンたちか、迫害の中にある人々にかかわるものだ、というのです。
 But this is a grievous mistake; For although our blessed Lord is here directing his discourse more immediately to his Apostles, and those other disciples who attended him in the days of his flesh;
-けれども、これはひどい誤りです。というのも、確かに私たちのほむべき主は、ここでは、ご自分の使徒たちと、ほかの弟子たちとに、より直接に語りかけておられます。その弟子たちは、肉の生活のとき（ヘブル五・七）に主に付き従っていた人々です。
+けれども、これはひどい誤りです。というのも、確かに私たちのほむべき主は、ここでは、ご自分の使徒たちと、ほかの弟子たちとに、より直接に語りかけておられます。その弟子たちとは、肉の生活のとき（ヘブル五・七）に主に付き従っていた人々です。
 yet, in them he speaks to us, and to all mankind, without any exception or limitation.
 しかし、主は彼らのうちにあって、私たちにも、すべての人にも、何の例外も制限もなく語っておられるからです。
 The very reason of the thing puts it beyond dispute, that the duty which is here enjoined is not peculiar to them, or to the Christians of the early ages.
@@ -36,7 +36,7 @@ If we are not walking in the way of the cross, we are not following Him; we are 
 十字架の道を歩んでいないなら、私たちは主に従ってはいません。主の御足の跡を踏み従って（第一ペテロ二・二一）はいません。主から離れて後戻りしているか、少なくとも主からそれているのです。
 
 3. It is for this reason, that so many Ministers of Christ, in almost every age and nation, particularly since the Reformation of the Church from the innovations and corruptions gradually crept into it, have wrote and spoke so largely on this important duty, both in their public discourses and private exhortations.
-（三）　このために、キリストの教役者たちの多くが、この大切な義務について、これほど詳しく書き、語ってきたのです。ほとんどあらゆる時代と国でそうであり、特に、教会に徐々に忍び込んだ新奇なことと腐敗から、教会が改革されて以来、そうです。公の説教でも、個人的な勧めでも、そうしてきました。
+（三）　このために、これほど多くのキリストの教役者たちが、この大切な義務について、これほど詳しく書き、語ってきたのです。ほとんどあらゆる時代と国でそうであり、特に、教会に徐々に忍び込んだ新奇なことと腐敗から、教会が改革されて以来、そうです。公の説教でも、個人的な勧めでも、そうしてきました。
 This induced them to disperse abroad many tracts upon the subject; and some in our own nation.
 このために、彼らは、この主題について多くの小冊子を広く配りもしました。私たちの国でも、いくつか配られました。
 They knew both from the oracles of God, and from the testimony of their own experience, how impossible it was not to deny our Master, unless we will deny ourselves;
@@ -45,7 +45,7 @@ and how vainly we attempt to follow Him that was crucified, unless we take up ou
 また、日々自分の十字架を負わないなら、十字架につけられたかたに従おうとしても、どれほどむなしいかを知っていたのです。
 
 4. But may not this very consideration make it reasonable to inquire, If much has been said and wrote on the subject already, what need is there to say or write any more
-（四）　けれども、まさにこのことを考えると、次のように問うのも、もっともではないでしょうか。この主題については、すでに多くのことが語られ、書かれてきた。それなら、これ以上語ったり書いたりする必要がどこにあるのか、と。
+（四）　けれども、まさにこのことを考えると、次のように問うのも、もっともではないでしょうか。この主題については、すでに多くのことが語られ、書かれてきたのなら、これ以上語ったり書いたりする必要がどこにあるのか、と。
 I answer, There are no inconsiderable numbers, even of people fearing God, who have not had the opportunity either of hearing what has been spoke, or reading what has been wrote, upon it.
 私は答えます。神を恐れる人々の中にさえ、この主題について語られてきたことを聞く機会がなかった人が、少なからずいるのです。書かれてきたことを読む機会もなかったのです。
 And, perhaps, if they had read much of what has been written, they would not have been so much profited.
@@ -69,7 +69,7 @@ the giving up, in a literal sense, their houses or lands, their husbands or wive
 to none of which we are called, nor are likely to be, unless God should permit times of public persecution to return.
 けれども、私たちはそのどれにも召されてはいませんし、召されることもなさそうです。神が、公の迫害の時代が再び来るのを許されるのでない限り、そうです。
 In the meantime, I know of no writer in the English tongue who has described the nature of self-denial in plain and intelligible terms, such as lie level with common understandings, and applied it to those little particulars which daily occur in common life.
-その一方で、私の知る限り、英語で書く著者の中に、自己否定の本質を、平易で分かりやすい言葉で述べた人はいません。普通の理解力にかなう言葉で述べた人はいないのです。また、普通の生活で日々起こる、あの小さな具体的な事柄に、それを当てはめた人もいません。
+その一方で、私の知る限り、英語で書く著者の中に、次のような人はいません。自己否定の本質を、普通の理解力にかなう、平易で分かりやすい言葉で述べた人です。しかも、普通の生活で日々起こる、あの小さな具体的な事柄に、それを当てはめた人です。
 A discourse of this kind is wanted still; and it is wanted the more, because in every stage of the spiritual life, although there is a variety of particular hinderances of our attaining grace or growing therein, yet are all resolvable into these general ones, -- either we do not deny ourselves, or we do not take up our cross.
 このような説教は、今もなお必要とされています。そして、ますます必要とされているのです。というのも、霊の生活のどの段階でも、恵みを得ることや恵みにおいて成長することを妨げるものは、個々にはいろいろあります。けれども、それらはすべて、次の一般的な妨げに帰着するからです。すなわち、私たちが自分を捨てないか、自分の十字架を負わないかです。
 
@@ -92,7 +92,7 @@ All our nature must certainly rise up against this, even in its own defence; the
 And the great enemy of our souls, well knowing its importance, cannot but move every stone against it. But this is not all:
 また、私たちの魂の大いなる敵は、その大切さをよく知っているので、これに逆らって、あらゆる手を尽くさずにはいません。けれども、それだけではありません。
 Even those who have in some measure shaken off the yoke of the devil, who have experienced, especially of late years, a real work of grace in their hearts, yet are no friends to this grand doctrine of Christianity, though it is so peculiarly insisted on by their Master.
-ある程度悪魔のくびきを振り捨てた人々がいます。特に近年、心のうちに本当の恵みのわざを経験した人々です。その人々でさえ、キリスト教のこの大切な教理の味方ではありません。彼らの主人が、とりわけ強く説いている教理なのに、です。
+ある程度悪魔のくびきを振り捨てた人々がいます。特に近年、心のうちに本当の恵みのわざを経験した人々です。その人々でさえ、キリスト教のこの大切な教理の味方ではありません。彼らの主人が、とりわけ強く説いておられる教理なのに、です。
 Some of them are as deeply and totally ignorant concerning it, as if there was not one word about it in the Bible.
 彼らのある者は、聖書にそれについての言葉が一つもないかのように、それについて深く、まったく無知です。
 Others are farther off still, having unawares imbibed strong prejudices against it.
@@ -100,9 +100,9 @@ Others are farther off still, having unawares imbibed strong prejudices against 
 These they have received partly from outside Christians, men of a fair speech and behaviour, who want nothing of godliness but the power, nothing of religion but the spirit; -- and partly from those who did once, if they do not now, "taste of the powers of the world to come."
 彼らは、この偏見を、一部はうわべだけのクリスチャンたちから受けました。言葉もふるまいも美しいけれども、敬虔のうち力だけを欠き、宗教のうち霊だけを欠いている人々です。また一部は、今はそうでないとしても、かつては「きたるべき世の力」を「味わった」（ヘブル六・五）人々から受けたのです。
 But are there any of these who do not both practise self-denial themselves, and recommend it to others You are little acquainted with mankind, if you doubt of this.
-けれども、彼らの中に、自分で自己否定を実行せず、ほかの人々にも勧めない人などいるのでしょうか。これを疑うなら、あなたは人間というものをほとんど知らないのです。
+けれども、彼らの中に、自分で自己否定を実行せず、ほかの人々にも勧めない人などいるのでしょうか。そういう人々がいることを疑うなら、あなたは人間というものをほとんど知らないのです。
 There are whole bodies of men who only do not declare war against it.
-自己否定に向かって宣戦を布告していないというだけの集団が、そっくりあるのです。
+自己否定に向かって宣戦を布告していないというだけの人々の団体が、いくつもあるのです。
 To go no farther than London: Look upon the whole body of Predestinarians, who by the free mercy of God have lately been called out of the darkness of nature into the light of faith.
 ロンドンより遠くへ行くまでもありません。予定論者の団体全体を見てみなさい。彼らは、神の価なしのあわれみによって、近ごろ、生れながらのやみから信仰の光へと召し出された人々です。
 Are they patterns of self-denial How few of them even profess to practise it at all!
@@ -167,7 +167,7 @@ He must choose the one or the other; denying God's will, to follow his own; or d
 どちらか一方を選ばなければなりません。神の御旨を否んで自分の意志に従うか、自分を捨てて神の御旨に従うかです。
 
 5 . Now, it is undoubtedly pleasing, for the time, to follow our own will, by indulging, in any instance that offers, the corruption of our nature:
-（五）　さて、私たちの本性の腐敗を、目の前に来るどんな場合にもほしいままにして、自分の意志に従うことは、確かに、そのときは楽しいものです。
+（五）　さて、自分の意志に従うことは、確かに、そのときは楽しいものです。目の前に来るどんな場合にも、私たちの本性の腐敗をほしいままにして従うのです。
 But by following it in anything, we so far strengthen the perverseness of our will; and by indulging it, we continually increase the corruption of our nature.
 けれども、何かの事柄でそれに従うなら、その分だけ、私たちは自分の意志のゆがみを強めます。それをほしいままにすれば、本性の腐敗を絶えず増し加えることになります。
 So, by the food which is agreeable to the palate, we often increase a bodily disease:
@@ -178,7 +178,7 @@ It gratifies the taste, but it inflames the disorder. it brings pleasure, but it
 6. On the whole, then, to deny ourselves, is, to deny our own will, where it does not fall in with the will of God; and that however pleasing it may be.
 （六）　ですから、全体として言えば、自分を捨てるとは、自分の意志が神の御旨と一致しないとき、それを否むことです。しかも、それがどれほど楽しいものであっても、そうすることです。
 It is, to deny ourselves any pleasure which does not spring from, and lead to, God; that is, in effect, to refuse going out of our way, though into a pleasant, flowery path;
-それは、神から出て神へと導くのでない楽しみは、どんなものでも自分に許さないことです。すなわち、事実上、自分の道からそれるのを拒むことです。たとい、それが快い、花の咲いた小道へそれることであっても、です。
+それは、神から出て神へと導くのでない楽しみは、どんなものでも自分に許さないことです。すなわち、事実上、歩むべき道からそれるのを拒むことです。たとい、それが快い、花の咲いた小道へそれることであっても、です。
 to refuse what we know to be deadly poison, though agreeable to the taste.
 また、たとい舌に快くても、命取りの毒だと分かっているものを拒むことです。
 
@@ -236,7 +236,7 @@ when we willingly embrace the will of God, though contrary to our own; when we c
 12. And thus it behoves every disciple of Christ to take up, as well as to bear, his cross.
 （一二）　ですから、キリストの弟子はだれでも、自分の十字架を担うだけでなく、負うべきなのです。
 Indeed, in one sense, it is not his alone; it is common to him, and many others; seeing there is no temptation befals any man, ei mh anqrvpinos, -- "but such as is common to men;"
-確かに、ある意味では、それはその人だけのものではありません。その人にも、ほかの多くの人々にも共通のものです。だれに臨む試練でも、エイ・メー・アントローピノス（εἰ μὴ ἀνθρώπινος）、すなわち「世の常でないものはない」（第一コリント一〇・一三）からです。
+確かに、ある意味では、それはその人だけのものではありません。その人にも、ほかの多くの人々にも共通のものです。だれに臨む試練で、エイ・メー・アントローピノス（εἰ μὴ ἀνθρώπινος）、すなわち「世の常で」ないものはないからです（第一コリント一〇・一三）。
 // 英文の転写は ei mh anqrvpinos。
 such as is incident and adapted to their common nature and situation in the present world.
 それは、この世にある人々の共通の本性と境遇に、起こりがちで、ふさわしいものなのです。
@@ -253,7 +253,7 @@ it is disposed and ordered by God for his good, both with regard to the quality 
 （一三）　これらすべてにおいて、私たちのほむべき主は、私たちの魂の医者として行動しておられる、とたやすく考えることができます。ただご自分の喜びのためではなく、「わたしたちの益のため、そのきよさにあずからせるために」（ヘブル一二・一〇）そうしておられるのです。
 // 英文の for his own pleasure は、ヘブル一二・一〇 で肉親の父について言われる句（口語訳「自分の考えに従って」）を、主に当てはめて打ち消した言い回し。この部分は「」の外に出した。
 If, in searching our wounds, he puts us to pain, it is only in order to heal them.
-主が私たちの傷を探って私たちに痛みを与えるとしても、それはただ傷をいやすためです。
+主が私たちの傷を探って私たちに痛みをお与えになるとしても、それはただ傷をいやすためです。
 He cuts away what is putrified or unsound, in order to preserve the sound part.
 主は、健全な部分を守るために、腐ったところや不健全なところを切り取られます。
 And if we freely choose the loss of a limb, rather than the whole body should perish; how much more should we choose, figuratively, to cut off a right hand, rather than the whole soul should be cast into hell!
@@ -262,11 +262,11 @@ And if we freely choose the loss of a limb, rather than the whole body should pe
 14. We see plainly then both the nature and ground of taking up our cross.
 （一四）　ですから、私たちは、自分の十字架を負うことの本質と根拠を、はっきりと見ます。
 It does not imply the disciplining ourselves; (as some speak;) the literally tearing our own flesh: the wearing hair-cloth, or iron-girdles, or anything else that would impair our bodily health;
-ある人々はそう言いますが、それは自分を鞭打つことを意味しません。文字どおり自分の肉を引き裂くことでも、毛の粗布や鉄の帯を身に着けることでもありません。そのほか、からだの健康をそこなうようなことでもありません。
+それは、ある人々の言い方を借りれば、自分を鞭打つことを意味するのではありません。文字どおり自分の肉を引き裂くことでも、毛の粗布や鉄の帯を身に着けることでもありません。そのほか、からだの健康をそこなうようなことでもありません。
 (although we know not what allowance God may make for those who act thus through involuntary ignorance;) but the embracing the will of God, though contrary to our own;
-もっとも、心ならずも無知からそうしている人々を、神がどれほど大目に見られるかは、私たちには分かりません。十字架を負うとは、そうではなく、自分の意志に反していても、神の御旨を受けいれることです。
+もっとも、自分ではどうにもならない無知からそうしている人々を、神がどれほど大目に見られるかは、私たちには分かりません。十字架を負うとは、そうではなく、自分の意志に反していても、神の御旨を受けいれることです。
 the choosing wholesome, though bitter medicines; the freely accepting temporary pain, of whatever kind, and in whatever degree, when it is either essentially or accidentally necessary to eternal pleasure.
-苦くてもからだに良い薬を選ぶことです。また、一時的な苦痛を進んで受けいれることです。それがどんな種類、どんな程度のものであれ、永遠の楽しみのために、本質的に、あるいは偶然に必要であるときには、そうするのです。
+苦くてもからだに良い薬を選ぶことです。また、一時的な苦痛を進んで受けいれることです。どんな種類、どんな程度の苦痛でもかまいません。それが永遠の楽しみのために、本質的に、あるいは付随的に必要であるときには、そうするのです。
 
 ## 【二】　人が完全にはキリストの弟子でないのは、いつも、これが欠けているためである
 
@@ -276,7 +276,7 @@ II. 1. I am, Secondly, to show, that it is always owing to the want either of se
 It is true, this may be partly owing, in some cases, to the want of the means of grace; of hearing the true word of God spoken with power; of the sacraments, or of Christian fellowship.
 確かに、ある場合には、これは一部、恵みの手段が欠けているためかもしれません。力をもって語られる真の神の言葉を聞くことや、聖礼典や、クリスチャンの交わりが欠けているためかもしれません。
 But where none of these is wanting, the great hindrance of our receiving or growing in the grace of God is always the want of denying ourselves, or taking up our cross.
-けれども、これらのどれも欠けていないところでは、いつも、自分を捨てないこと、あるいは自分の十字架を負わないことが大きな妨げです。それが、私たちが神の恵みを受けることや、恵みにおいて成長することを妨げるのです。
+けれども、これらのどれも欠けていないところでは、私たちが神の恵みを受け、恵みにおいて成長するのを大きく妨げるものは、いつも決まっています。自分を捨てないこと、あるいは自分の十字架を負わないことです。
 
 2. A few instances will make this plain. A man hears the word which is able to save his soul:
 （二）　いくつかの例を挙げれば、このことははっきりします。ある人が、自分の魂を救うことのできる言葉を聞きます。
@@ -305,12 +305,12 @@ That is, he relapses into his fatal insensibility, because he will not deny hims
 The impressions once received do not wear away: They are not only deep, but lasting.
 いったん受けた印象は、すり減りません。深いだけでなく、長続きするのです。
 And yet, many of these have not found what they seek: They mourn, and yet are not comforted.
-それでも、そうした人々の多くは、求めているものを見いだしていません。彼らは悲しんでいるのに、慰められていません（マタイ五・四）。
+それでも、そうした人々の多くは、求めているものを見いだしていません。彼らは悲しんでいるのに、慰められていません。
 Now, why is this It is because they do not "bring forth fruits meet for repentance;" because they do not, according to the grace they have received, "cease from evil, and do good."
 では、なぜでしょうか。それは、彼らが「悔改めにふさわしい実を結」ばない（マタイ三・八）からです。自分の受けた恵みに応じて、「悪を離れて善をおこな」わない（詩篇三四・一四）からです。
 // 英文の cease from evil, and do good は、詩篇三四・一四（欽定訳 Depart from evil, and do good）に、イザヤ一・一六 の cease to do evil を重ねた言い回し。口語訳の詩篇三四・一四 で引いた。
 They do not cease from the easily besetting sin, the sin of their constitution, of their education, or of their profession;
-彼らは、たやすくまといつく罪（ヘブル一二・一）、すなわち、自分の体質や、受けた教育や、職業から来る罪をやめません。
+彼らは、からみつく罪（ヘブル一二・一）、すなわち、自分の体質や、受けた教育や、職業から来る罪をやめません。
 or they omit doing the good they may, and know they ought to do, because of some disagreeable circumstance attending it:
 あるいは、自分にできる善、また、なすべきだと知っている善（ヤコブ四・一七）を、それに伴う何かの不快な事情のために怠ります。
 That is, they do not attain faith, because they will not "deny themselves," or "take up their cross."
@@ -319,14 +319,14 @@ That is, they do not attain faith, because they will not "deny themselves," or "
 5. But this man did receive "the heavenly gift;" he did "taste of the powers of the world to come;"
 （五）　けれども、この人は、確かに「天よりの賜物」（ヘブル六・四）を受けました。「きたるべき世の力」を確かに「味わった」（ヘブル六・五）のです。
 he saw "the light of the glory of God in the face of Jesus Christ;" the "peace which passeth all understanding" did "rule his heart and mind;
-イエス・キリストの「顔に輝く神の栄光」（第二コリント四・六）を見ました。「人知ではとうてい測り知ることのできない」「平安」（ピリピ四・七）が、その人の「心」と思いとを「支配」していました（コロサイ三・一五）。
-// 欽定訳の第二コリント四・六 は the face of Jesus Christ で、口語訳は「キリストの顔」。英文は knowledge を省いている。「顔に輝く神の栄光」だけを「」に入れた。英文の "rule his heart and mind は閉じ引用符がないので、コロサイ三・一五 の「心」「支配」だけを「」に入れた。
+イエス・キリストの「顔に輝く神の栄光」（第二コリント四・六）を見ました。「人知ではとうてい測り知ることのできない」「平安」（ピリピ四・七）が、その人の「心と思いとを」（ピリピ四・七）「支配」していました（コロサイ三・一五）。
+// 欽定訳の第二コリント四・六 は the face of Jesus Christ で、口語訳は「キリストの顔」。英文は knowledge を省いている。「顔に輝く神の栄光」だけを「」に入れた。英文の "rule his heart and mind は閉じ引用符がない。heart and mind はピリピ四・七、rule はコロサイ三・一五 の語として「」に入れた。
 and "the love of God was shed abroad" therein, "by the Holy Ghost which was given unto him;" -- yet he is now weak as another man;
-そして、その人に「賜わっている聖霊によって、神の愛が」その「心に注がれて」いました（ローマ五・五）。それなのに、その人は今、ほかの人と同じように弱くなっています。
+そして、その人に「賜わっている聖霊によって、神の愛が」その心に「注がれて」いました（ローマ五・五）。それなのに、その人は今、ほかの人と同じように弱くなっています。
 he again relishes the things of earth, and has more taste for the things which are seen than for those which are not seen;
 その人は、再び地上のものを好み、見えないものよりも見えるもの（第二コリント四・一八）に心を引かれています。
 the eye of his understanding is closed again, so that he cannot "see Him that is invisible;"
-その人の心の目（エペソ一・一八）は再び閉ざされ、「見えないかたを見」る（ヘブル一一・二七）ことができません。
+その人の心の目は再び閉ざされ、「見えないかたを見」る（ヘブル一一・二七）ことができません。
 his love is waxed cold, and the peace of God no longer rules in his heart.
 その愛は冷え（マタイ二四・一二）、神の平安は、もはやその心を支配していません。
 And no marvel: for he has again given place to the devil, and grieved the Holy Spirit of God.
@@ -336,14 +336,14 @@ He has turned again unto folly, to some pleasing sin, if not in outward act, yet
 He has given place to pride, or anger, or desire, to self-will, or stubbornness.
 その人は、高ぶりや怒りや欲望に、我意や強情に、機会を与えてしまったのです。
 Or he did not stir up the gift of God which was in him; he gave way to spiritual sloth, and would not be at the pains of "praying always, and watching thereunto with all perseverance:"
-あるいは、内にいただいた神の賜物を、再び燃えたたせ（第二テモテ一・六）ませんでした。霊の怠惰に身をゆだね、「どんな時でも」「祈り、そのために目をさましてうむことがな」いようにする骨折りを、しようとしなかったのです（エペソ六・一八）。
+あるいは、内にいただいた神の賜物を、再び燃えたたせ（第二テモテ一・六）ませんでした。霊の怠惰に身をゆだね、「どんな時でも」「祈り、そのために目をさましてうむことがな」い（エペソ六・一八）ようにする骨折りを、しようとしなかったのです。
 That is, he made shipwreck of the faith, for want of self-denial, and taking up his cross daily.
 すなわち、その人は、自己否定と、日々自分の十字架を負うことを欠いたために、信仰の破船に会った（第一テモテ一・一九）のです。
 
 6. But perhaps he has not made shipwreck of the faith: He has still a measure of the Spirit of adoption, which continues to witness with his spirit that he is a child of God.
-（六）　けれども、もしかすると、その人は信仰の破船には会っていないかもしれません。今もなお、子たる身分を授ける霊（ローマ八・一五）をある程度持っています。その霊は、その人が神の子であることを、その人の霊と共にあかしし続けています（ローマ八・一六）。
+（六）　けれども、もしかすると、その人は信仰の破船には会っていないかもしれません。今もなお、子たる身分を授ける霊（ローマ八・一五）をある程度持っています。その霊は、その人が神の子であることを、その人の霊と共にあかしし続けておられます（ローマ八・一六）。
 However, he is not "going on to perfection;" he is not, as once, hungering and thirsting after righteousness, panting after the whole image and full enjoyment of God, as the hart after the water-brook.
-それでも、その人は完全を目ざして進んではいません（ヘブル六・一）。以前のように、義に飢えかわき（マタイ五・六）、神のかたちのすべてと、神を十分に味わうことを慕いあえいではいません。しかが谷川を慕いあえぐように（詩篇四二・一）慕いあえいではいないのです。
+それでも、その人は完全を目ざして進んではいません（ヘブル六・一）。以前のように、義に飢えかわいて（マタイ五・六）はいません。しかが谷川を慕いあえぐように（詩篇四二・一）、神のかたちのすべてと、神を十分に味わうこととを、慕いあえいではいないのです。
 // ヘブル六・一 の口語訳は「完成を目ざして」。説教四十二 と同じく「完全を目ざして」とし、「」に入れなかった。
 Rather he is weary and faint in his mind, and, as it were, hovering between life and death.
 むしろ、その人は弱り果てて意気そそうし（ヘブル一二・三）、いわば生と死の間をさまよっています。
@@ -354,7 +354,7 @@ He does not "continue instant in prayer," private as well as public; in communic
 If he does not wholly neglect some of these means, at least he does not use them all with his might.
 たといこれらの手段のどれかをまったく怠っているのではないとしても、少なくとも、そのすべてを力を尽くして用いてはいません。
 Or he is not zealous of works of charity, as well as works of piety.
-あるいは、敬虔のわざと同じように、愛のわざに熱心ではありません。
+あるいは、敬虔のわざに熱心であるのと同じようには、愛のわざに熱心ではありません。
 He is not merciful after his power, with the full ability which God giveth.
 神から賜わる力（第一ペテロ四・一一）を十分に用いて、自分の力に応じてあわれみ深くあることをしていません。
 // merciful after his power は、外典のトビト記四・八 の言い回し。
@@ -375,7 +375,7 @@ He would reprove his neighbour; but sometimes shame, sometimes fear, comes betwe
 For he may expose himself, not only to ridicule, but to heavier inconveniences too.
 忠告すれば、あざけりだけでなく、もっと重い不都合にも、身をさらすことになるかもしれないからです。
 Upon these and the like considerations, he omits one or more, if not all, works of mercy and piety.
-こうした考えや、それに似た考えから、その人は、あわれみと敬虔のわざのすべてではないとしても、その一つか、いくつかを怠るのです。
+こうした考えや、それに似た考えから、その人は、あわれみと敬虔のわざを怠ります。すべてではないとしても、その一つか、いくつかを怠るのです。
 Therefore, his faith is not made perfect, neither can he grow in grace; namely, because he will not deny himself, and take up his daily cross.
 ですから、その人の信仰は全うされず、恵みにおいて成長することもできません。すなわち、その人が自分を捨て、日々の十字架を負おうとしないからです。
 
@@ -395,7 +395,7 @@ and that others, if they do not draw back to perdition, yet are weary and faint 
 III. 1. How easily may we learn hence, that they know neither the Scripture nor the power of God, who directly or indirectly, in public or in private, oppose the doctrine of self-denial and the daily cross!
 （一）　ここから、私たちは、何とたやすく次のことを学べることでしょう。直接にせよ間接にせよ、公にせよひそかにせよ、自己否定と日々の十字架の教理に反対する人々は、聖書も神の力も知らない（マタイ二二・二九）のです。
 How totally ignorant are these men of an hundred particular texts, as well as of the general tenor of the whole oracles of God!
-彼らは、神の言の全体の趣旨についても、何百もの個々の聖句についても、何とまったく無知なことでしょう。
+彼らは、神の言の全体の趣旨についても、百もの個々の聖句についても、何とまったく無知なことでしょう。
 And how entirely unacquainted must they be with true, genuine, Christian experience; -- of the manner wherein the Holy Spirit ever did, and does at this day, work in the souls of men!
 また、彼らは、真実で本物のクリスチャンの経験を、まったく知らないに違いありません。聖霊が、昔からいつも、また今日も、人々の魂のうちに働かれる、その働き方を知らないのです。
 They may talk, indeed, very loudly and confidently, (a natural fruit of ignorance,) as though they were the only men who understood either the word of God, or the experience of his children.
@@ -406,7 +406,7 @@ they are weighed in the balance, and found wanting.
 彼らは、はかりで量られて、その量の足りないことがあらわれた（ダニエル五・二七）のです。
 
 2. We may learn from hence, Secondly, the real cause why not only many particular persons, but even bodies of men, who were once burning and shining lights, have now lost both their light and heat.
-（二）　第二に、ここから、次のことの本当の原因を学ぶことができます。多くの個々の人々だけでなく、人々の団体全体までが、かつては燃えて輝くあかり（ヨハネ五・三五）でした。それなのに、今は光も熱も失ってしまったのです。
+（二）　第二に、ここから、次のことの本当の原因を学ぶことができます。多くの個々の人々だけでなく、人々の団体までが、かつては燃えて輝くあかり（ヨハネ五・三五）でした。それなのに、今は光も熱も失ってしまったのです。
 If they did not hate and oppose, they at least lightly esteemed, this precious gospel doctrine.
 彼らは、この尊い福音の教理を憎み、それに反対したわけではないとしても、少なくとも、それを軽んじました。
 If they did not boldly say, Abnegationem omnem proculcamus, internecioni damus-' "We trample all self-denial under foot, we devote it to destruction;"
