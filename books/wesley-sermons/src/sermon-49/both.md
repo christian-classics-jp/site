@@ -27,10 +27,10 @@ If the tale be delivered in a soft and quiet manner (perhaps with expressions of
 But in whatever manner it be done, the thing is the same; -- the same in substance, if not in circumstance.
 けれども、どのような仕方でなされても、事柄は同じです。状況においては違っても、中身においては同じなのです。
 Still it is evil-speaking; still this command, "Speak evil of no man," is trampled under foot; if we relate to another the fault of a third person, when he is not present to answer for himself.
-やはり、それは悪口です。第三者がその場にいなくて自分を弁明できないときに、その人の過ちをほかの人に話すとします。そうすれば、やはり、「だれをもそしらず」（テトス三・二）というこの命令は、足の下に踏みにじられているのです。
+やはり、それは悪口です。第三者がその場にいなくて自分を弁明できないときに、その人の過ちをほかの人に話すとします。そのときも、やはり、「だれをもそしらず」（テトス三・二）というこの命令は、足の下に踏みにじられているのです。
 
 2. And how extremely common is this sin, among all orders and degrees of men! How do high and low, rich and poor, wise and foolish, learned and unlearned, run into it continually!
-（二）　そして、この罪は、あらゆる身分、あらゆる階層の人々の間に、何とありふれていることでしょう！　身分の高い者も低い者も、富む者も貧しい者も、賢い者も愚かな者も、学のある者もない者も、何と絶えずこの罪に陥っていることでしょう。
+（二）　そして、この罪は、あらゆる身分、あらゆる階層の人々の間に、何とありふれていることでしょう！　身分の高い者も低い者も、富む者も貧しい者も、何と絶えずこの罪に陥っていることでしょう。賢い者も愚かな者も、学のある者もない者も、そうなのです。
 Persons who differ from each other in all things else, nevertheless agree in this.
 ほかのあらゆる点で互いに違っている人々も、この点では一致しているのです。
 How few are there that can testify before God, "I am clear in this matter; I have always set a watch before my mouth, and kept the door of my lips!"
@@ -51,7 +51,7 @@ And their example steals upon us, we know not how; so that we insensibly slide i
 Besides, it is recommended from within as well as from without.
 そのうえ、この罪は、外からだけでなく内からも勧められます。
 There is scarce any wrong temper in the mind of man, which may not be occasionally gratified by it, and consequently incline us to it.
-人の心にある誤った気質で、ときに悪口によって満たされないものは、ほとんどありません。ですから、どの気質も、私たちを悪口へと傾かせるのです。
+人の心にある誤った気質で、ときに悪口によって満たされないものは、ほとんどありません。ですから、ほとんどどの気質も、私たちを悪口へと傾かせうるのです。
 It gratifies our pride, to relate those faults of others whereof we think ourselves not to be guilty.
 自分は犯していないと思っている他人の過ちを話すことは、私たちの高ぶりを満足させます。
 Anger, resentment, and all unkind tempers, are indulged by speaking against those with whom we are displeased; and, in many cases, by reciting the sins of their neighbors, men indulge their own foolish and hurtful desires.
@@ -79,7 +79,7 @@ In the preceding verses, our Lord had said, "Woe to the world, because of offenc
 such the wickedness, folly, and weakness of mankind: "But woe to that man," -- miserable is that man, "by whom the offense cometh."
 人類の邪悪と愚かさと弱さとは、そういうものなのです。「しかし、それをきたらせる人は、わざわいです」（マタイ一八・七）。そういう人は、みじめなのです。
 "Wherefore if thy hand, thy foot, thine eye, cause thee to offend," -- if the most dear enjoyment, the most beloved and useful person, turn thee out of or hinder thee in the way, "pluck it out," -- cut them off, and cast them from thee.
-「もしあなたの片手または片足が」（マタイ一八・八）、また「片目が罪を犯させるなら」（マタイ一八・九）、「それを抜き出して」（マタイ一八・九）捨てなさい、と主は言われました。すなわち、最も大切な楽しみや、最も愛する有益な人であっても、あなたを道から外れさせたり、道で妨げたりするとします。そのときは、それを切り取って、あなたから捨てなさい、ということです。
+ですから、「もしあなたの片手または片足が」（マタイ一八・八）、また「片目が罪を犯させるなら」（マタイ一八・九）、「それを抜き出して」（マタイ一八・九）捨てなさい、と主は言われました。すなわち、最も大切な楽しみや、最も愛する人、最も役に立つ人であっても、あなたを道から外れさせたり、道で妨げたりするとします。そのときは、それを切り取って、あなたから捨てなさい、ということです。
 But how can we avoid giving offense to some, and being offended at others Especially, suppose they are quite in the wrong, and we see it with our own eyes Our Lord here teaches us how:
 けれども、どうすれば、ある人々をつまずかせたり、ほかの人々につまずいたりすることを避けられるでしょうか。特に、その人々がまったく間違っていて、私たちがそれを自分の目で見ているとしたら、どうでしょうか。私たちの主は、ここで、その方法を教えておられます。
 He lays down a sure method of avoiding offenses and evil-speaking together.
@@ -108,14 +108,14 @@ Be not, therefore, wanting in earnest prayer to God, that it may be given in a l
 and that if any good be done by what is now spoken, God doeth it himself.
 また、今語られることによって何か良いことがなされるなら、それをなさるのは神ご自身であるという確信をもってです。
 Pray that he would guard thy heart, enlighten thy mind, and direct thy tongue to such words as he may please to bless.
-神があなたの心を守り、あなたの思いを照し、神が祝福しようと思われるような言葉へと、あなたの舌を導いてくださるように祈りなさい。
+神があなたの心を守り、あなたの思いを照してくださるように祈りなさい。また、神が祝福しようと思われるような言葉へと、あなたの舌を導いてくださるように祈るのです。
 See that thou speak in a meek as well as a lowly spirit; for the wrath of man worketh not the righteousness of God."
 へりくだった心だけでなく、柔和な心で語るようにしなさい。「人の怒りは、神の義を全うするものではない」（ヤコブ一・二〇）からです。
 // 英文は閉じ引用符だけで、開き引用符がない。the wrath of man 以下をヤコブ一・二〇 の引用として「」に入れた。
 If he be "overtaken in a fault," he can no otherwise be restored, than "in the spirit of meekness."
 その人が「罪過に陥っている」（ガラテヤ六・一）なら、「柔和な心をもって」（ガラテヤ六・一）しなければ、その人を正すことはできません。
 If he opposes the truth, yet he cannot be brought to the knowledge thereof, but by gentleness.
-その人が真理に反対しているとしても、優しさによらなければ、その人に真理を知らせることはできません。
+その人が真理に反対しているとしても、穏やかさによらなければ、その人に真理を知らせることはできません。
 Still speak in a spirit of tender love, "which many waters cannot quench."
 いつも、優しい愛の心で語りなさい。「大水も消すことができない」（雅歌八・七）愛の心で語るのです。
 If love is not conquered, it conquers all things. Who can tell the force of love
@@ -150,7 +150,7 @@ Above all, let there be no shadow of hate or ill-will, no bitterness or sourness
 And yet this sweetness need not hinder your speaking in the most serious and solemn manner;
 けれども、このやさしさがあるからといって、最も真剣に、おごそかに語ることが妨げられるわけではありません。
 as far as may be, in the very words of the oracles of God (for there are none like them,) and as under the eye of Him who is coming to judge the quick and dead.
-できる限り、神の言（ローマ三・二）そのものの言葉で語りなさい（それに並ぶ言葉はないからです）。そして、生きている者と死んだ者とをさばくために来られるかた（第二テモテ四・一）の目の前にいるように語りなさい。
+できる限り、神の言（ローマ三・二）にある言葉そのままで語りなさい（それに並ぶ言葉はないからです）。そして、生きている者と死んだ者とをさばくために来られるかた（第二テモテ四・一）の目の前にいるように語りなさい。
 
 3. If you have not an opportunity of speaking to him in person, or cannot have access, you may do it by a messenger; by a common friend, in whose prudence, as well as uprightness, you can thoroughly confide.
 （三）　その人に直接会って話す機会がないか、会うことができないなら、使いの者を通してそうしてもかまいません。あなたとその人との共通の友人で、正しさだけでなく思慮深さについても、あなたが十分に信頼できる人を通してです。
@@ -187,7 +187,7 @@ And this should always be done, unless it be rendered improper by some very part
 No alternative is allowed, no choice of anything else: This is the way; walk thou in it.
 ほかのやり方は許されていません。ほかの何かを選ぶこともできません。これが道であり、これに歩みなさい（イザヤ三〇・二一）、というのです。
 It is true, he enjoins us, if need require, to take two other steps; but they are to be taken successively after this step, and neither of them before it: Much less are we to take any other step, either before or beside this.
-確かに、主は、必要があれば、ほかの二つの段階を踏むようにも命じておられます。けれども、それはこの段階のあとに順を追って踏むべきもので、どちらもこの段階より前に踏んではなりません。まして、この段階より前に、あるいはこの段階のほかに、別の段階を踏むことなど、なおさら許されていないのです。
+確かに、主は、必要があれば、ほかの二つの段階を踏むようにも命じておられます。けれども、それはこの段階のあとに順を追って踏むべきもので、どちらもこの段階より前に踏んではなりません。まして、この段階より前に、あるいはこの段階のほかに、別の段階を踏むことなど許されていないのです。
 To do anything else, or not to do this, is, therefore, equally inexcusable.
 ですから、ほかの何かをすることも、これをしないことも、等しく弁解の余地がないのです。
 
@@ -207,7 +207,7 @@ Ease bought by sin is a dear purchase! I trust in God, you will have no ease, bu
 罪によって買った安らぎは、高くつく買い物です！　私は神にあって、こう信じています。あなたは、兄弟のところに「行って」、ほかのだれでもなく、その兄弟に「忠告」する（マタイ一八・一五）までは、安らぎを得ないでしょう。かえって、ますます重荷を感じるでしょう。
 
 7. I know but of one exception to this rule: There may be a peculiar case, wherein it is necessary to accuse the guilty, though absent, in order to preserve the innocent.
-（七）　この規則の例外を、私は一つだけ知っています。罪のない人を守るために、罪を犯した人を、その人がいなくても訴えなければならない、特別な場合があるのです。
+（七）　この規則の例外を、私は一つだけ知っています。罪のない人を守るために、罪を犯した人を、その人がいなくても訴えなければならない、特別な場合がありうるのです。
 For instance: You are acquainted with the design which a man has against the property or life of his neighbor.
 たとえば、ある人が隣人の財産やいのちをねらってたくらんでいることを、あなたが知っているとします。
 Now, the case may be so circumstanced, that there is no other way of hindering that design from taking effect, but the making it known, without delay, to him against whom it is laid.
@@ -228,7 +228,7 @@ At all other times, "go and tell him of his fault between thee and him alone."
 II. 1. But what, "if he will not hear" If he repay evil for good If he be enraged rather than convinced What, if he hear to no purpose, and go on still in the evil of his way
 （一）　けれども、「もし聞いてくれないなら」（マタイ一八・一六）、どうでしょうか。その人が悪をもって善に報いる（詩篇三五・一二）なら、どうでしょうか。罪を認めるよりも、むしろ激しく怒るなら、どうでしょうか。聞いてもむだで、なおもその悪い道を歩み続けるなら、どうでしょうか。
 We must expect this will frequently be the case; the mildest and tenderest reproof will have no effect; but the blessing we wished for another will return into our own bosom.
-しばしばそうなることを、私たちは覚悟しなければなりません。最も穏やかで優しい忠告も、何の効果もないでしょう。けれども、私たちがほかの人のために願った祝福は、私たち自身のふところに返って来るのです。
+しばしばそうなることを、私たちは覚悟しなければなりません。最も穏やかで優しい忠告も、何の効果もないことがあるのです。けれども、私たちがほかの人のために願った祝福は、私たち自身のふところに返って来るのです。
 // return into our own bosom は、詩篇三五・一三 の欽定訳 my prayer returned into mine own bosom を踏まえる。口語訳とは文言が違うので、出典は付けなかった。
 And what are we to do then Our Lord has given us a clear and full direction.
 では、そのとき私たちはどうすべきでしょうか。私たちの主は、明確で十分な指図を与えておられます。
@@ -250,11 +250,11 @@ Care should likewise be taken, that both the persons and their characters be wel
 Nor can any one particular manner be prescribed for all cases.
 すべての場合に当てはまる一つの特定の仕方を、定めることはできません。
 But perhaps, in general, one might advise, before they enter upon the thing itself, let them mildly and affectionately declare that they have no anger or prejudice toward him, and that it is merely from a principle of goodwill that they now come, or at all concern themselves with his affairs.
-けれども、一般には、おそらく次のように勧めることができるでしょう。その人たちは、事柄そのものに取りかかる前に、穏やかに、愛情をこめて、こう言い表すとよいのです。自分たちは相手に対して何の怒りも偏見も持っていない。今やって来たのも、相手の事柄に少しでもかかわるのも、ただ好意という動機からなのだ、と。
+けれども、一般には、おそらく次のように勧めることができるでしょう。その人たちは、事柄そのものに取りかかる前に、穏やかに、愛情をこめて、こう言い表すとよいのです。自分たちは相手に対して何の怒りも偏見も持っていない、と。また、今やって来たのも、相手の事柄に少しでもかかわるのも、ただ好意という動機からなのだ、と。
 To make this the more apparent, they might then calmly attend to your repetition of your former conversation with him, and to what he said in his own defense, before they attempted to determine anything.
 このことをいっそう明らかにするために、その人たちは、何かを判断しようとする前に、落ち着いて耳を傾けるとよいでしょう。あなたが前にその人と交わした話を繰り返すのを聞き、その人が自分を弁護して言ったことを聞くのです。
 After this they would be better able to judge in what manner to proceed, "that by the mouth of two or three witnesses, every word might be established;" that whatever you have said may have its full force by the additional weight of their authority.
-そのあとでなら、その人たちは、どのように事を運ぶべきかを、よりよく判断できるでしょう。それは、「ふたりまたは三人の証人の口によって、すべてのことがらが確かめられるため」（マタイ一八・一六）です。すなわち、あなたの言ったことが何であれ、その人たちの権威の重みが加わって、十分な力を持つようになるためです。
+そのあとでなら、その人たちは、どのように事を運ぶべきかを、よりよく判断できるでしょう。こうするのは、「ふたりまたは三人の証人の口によって、すべてのことがらが確かめられるため」（マタイ一八・一六）です。すなわち、あなたの言ったことが何であれ、その人たちの権威の重みが加わって、十分な力を持つようになるためです。
 
 3. In order to this, may they not,
 （三）　そのために、その人たちは、次のようにしてはどうでしょうか。<br/>
@@ -265,7 +265,7 @@ After this they would be better able to judge in what manner to proceed, "that b
 (3.) Give weight to your reproof, showing how just, how kind, and how seasonable it was
 三、あなたの忠告がどれほど正しく、親切で、時宜にかなっていたかを示して、その忠告に重みを加える。<br/>
 And, lastly, enforce the advices and persuasions which you had annexed to it
-最後に、あなたが忠告に添えた助言と説得を、強く勧める。<br/>
+最後に、あなたが忠告に添えた助言と説得に、さらに力を添える。<br/>
 And these may likewise hereafter, if need should require, bear witness of what was spoken.
 また、この人たちは、必要があれば、のちに、語られたことについてあかしすることもできるでしょう。
 
@@ -291,7 +291,7 @@ This is the third step. All the question is, how this word, "the church," is her
 But the very nature of the thing will determine this beyond all reasonable doubt.
 けれども、事柄の性質そのものが、どんな理にかなった疑いも入れないほどに、これを決めてくれるでしょう。
 You cannot tell it to the national Church, the whole body of men termed "the Church of England."
-あなたは、国の教会に、すなわち「イングランド国教会」と呼ばれる人々の団体全体に、申し出ることはできません。
+あなたは、国の教会に、すなわち「英国国教会」と呼ばれる人々の団体全体に、申し出ることはできません。
 Neither would it answer any Christian end if you could; this, therefore, is not the meaning of the word.
 また、たといできたとしても、それは何のキリスト教的な目的にもかなわないでしょう。ですから、これはこの言葉の意味ではありません。
 Neither can you tell it to that whole body of people in England with whom you have a more immediate connection.
@@ -350,7 +350,7 @@ Alas for the Christian world! Alas for Protestants, for Reformed Christians! O, 
 Art thou the man By the grace of God, wilt thou be one who art not carried away by the torrent
 あなたがその人でしょうか。神の恵みによって、あなたは、奔流に押し流されない者になるでしょうか。
 Art thou fully determined, God being thy helper, from this very hour to set a watch, a continual "watch, before thy mouth, and keep the door of thy lips"
-あなたは、神に助けられて、まさにこのときから見張りを置こうと、固く決心しているでしょうか。絶えず自分の「口に門守を置いて」、自分の「くちびるの戸を守」ろう（詩篇一四一・三）と決心しているでしょうか。
+あなたは、神に助けられて、まさにこのときから見張りを置こうと、固く決心しているでしょうか。絶えず「口に門守を置いて、くちびるの戸を守」ろう（詩篇一四一・三）と決心しているでしょうか。
 From this hour wilt thou walk by this rule, "Speaking evil of no man"
 このときから、あなたは、「だれをもそしらず」（テトス三・二）というこの規則によって歩むでしょうか。
 If thou seest thy brother do evil, wilt thou "tell him of his fault between thee and him alone"
@@ -364,19 +364,19 @@ If there were no hearers, there would be no speakers, of evil.
 And is not (according to the vulgar proverb) the receiver as bad as the thief If, then, any begin to speak evil in thy hearing, check him immediately.
 それに、（俗なことわざにあるように）盗品を受け取る者は、盗人と同じく悪いのではないでしょうか。ですから、だれかがあなたの聞いているところで悪口を言い始めたら、すぐにその人を止めなさい。
 Refuse to hear the voice of the charmer, charm he never so sweetly;
-まじない師の声は、たとい、どれほど甘く呪文を唱えても、聞くのを拒みなさい。
+まじない師が、たとい、どれほど甘く呪文を唱えても、その声を聞くのを拒みなさい。
 // 詩篇五八・五 の欽定訳 the voice of charmers, charming never so wisely を踏まえる。照合データにないので、英文から訳し、出典は付けなかった。
 let him use ever so soft a manner, so mild an accent, ever so many professions of goodwill for him whom he is stabbing in the dark, whom he smiteth under the fifth rib!
 その人が、どれほどやわらかな態度、どれほど穏やかな口調を用いても、かまいません。暗やみで刺している相手、第五のあばら骨の下を打っている相手への好意を、どれほど言い表しても、かまいません。
-// smiteth under the fifth rib は、サムエル記下二・二三、三・二七、二〇・一〇 の欽定訳の言い回し（口語訳は「腹を突いた」「腹を刺して」）。出典は付けなかった。
+// smiteth under the fifth rib は、サムエル記下二・二三、三・二七、四・六、二〇・一〇 の欽定訳の言い回し（口語訳は「腹を突いた」「腹を刺して」）。出典は付けなかった。
 Resolutely refuse to hear, though the whisperer complain of being "burdened till he speak."
 ささやく者が、「話すまでは重荷でたまらない」とこぼしても、断固として聞くのを拒みなさい。
 Burdened! thou fool! dost thou travail with thy cursed secret, as a woman travaileth with child Go, then, and be delivered of thy burden in the way the Lord hath ordained!
-重荷ですって！　愚か者よ！　あなたは、女が子を産むときのように、その呪われた秘密を抱えて産みの苦しみをしているのですか。それなら、行って、主が定められた方法で、その重荷を産み落としなさい。
+重荷だ、というのですか！　愚か者よ！　あなたは、女が子を産むときのように、その呪われた秘密を抱えて産みの苦しみをしているのですか。それなら、行って、主が定められた方法で、その重荷を産み落としなさい。
 First, "go and tell thy brother of his fault between thee and him alone.:" next, "take with thee one or two" common friends, and tell him in their presence: If neither of these steps take effect, then "tell it to the church."
 まず、あなたの兄弟のところに「行って、彼とふたりだけの所で忠告しなさい」（マタイ一八・一五）。次に、共通の友人「ひとりふたりを、一緒に連れて行」き（マタイ一八・一六）、その人たちのいるところで兄弟に話しなさい。この二つの段階のどちらも効果がなければ、そのときに「教会に申し出なさい」（マタイ一八・一七）。
 But, at the peril of thy soul, tell it to no one else, either before or after, unless in that one exempt case, when it is absolutely needful to preserve the innocent!
-けれども、その前にもあとにも、ほかのだれにも話してはなりません。例外は、あの一つの場合、すなわち罪のない人を守るためにどうしても必要な場合だけです。そうすれば、あなたの魂が危うくなるのです。
+けれども、その前にもあとにも、ほかのだれにも話してはなりません。話せば、あなたの魂が危うくなるのです。例外は、あの一つの場合、すなわち罪のない人を守るためにどうしても必要な場合だけです。
 Why shouldst thou burden another as well as thyself, by making him partaker of thy sin
 どうして、ほかの人をあなたの罪に加わる者（第一テモテ五・二二）にして、自分だけでなくその人にまで重荷を負わせるのですか。
 
@@ -387,7 +387,7 @@ Put ye away evil-speaking, talebearing, whispering: Let none of them proceed out
 See that you "speak evil of no man;" of the absent, nothing but good.
 「だれをもそしら」ない（テトス三・二）ようにしなさい。その場にいない人については、良いことのほかは何も言わないようにしなさい。
 If ye must be distinguished, whether ye will or no, let this be the distinguishing mark of a Methodist: "He censures no man behind his back: By this fruit ye may know him."
-望むと望まないとにかかわらず、あなたがたがほかの人々と区別されなければならないのなら、これをメソジストの目じるしにしなさい。「彼は、陰でだれをも非難しない。この実によって、あなたがたは彼を見わけることができる（マタイ七・二〇）」。
+あなたがたが、望むと望まないとにかかわらず、ほかの人々と区別されずにはいられないとします。それなら、これをメソジストの目じるしにしなさい。「彼は、陰でだれをも非難しない。この実によって、あなたがたは彼を見わけることができる（マタイ七・二〇）」。
 What a blessed effect of this self-denial should we quickly feel in our hearts!
 この自己否定の何と祝福された結果を、私たちはすぐに心に感じることでしょう。
 How would our "peace flow as a river," when we thus "followed peace with all men!"
@@ -404,7 +404,7 @@ All the members of Christ's mystical body would then naturally care for each oth
 「もし一つの肢体が悩めば、ほかの肢体もみな共に悩み、一つの肢体が尊ばれると、ほかの肢体もみな共に喜ぶ」（第一コリント一二・二六）ようになるでしょう。そして、だれもが自分の兄弟を、清い「心から熱く」（第一ペテロ一・二二）愛するでしょう。
 // 欽定訳の第一ペテロ一・二二 の pure は口語訳にない（写本の読みが違う）ので、「清い」を「」の外に出した。
 Nor is this all: But what an effect might this have, even on the wild unthinking world!
-それだけではありません。これは、無分別で考えのない世に対してさえ、何という結果をもたらすことでしょう。
+それだけではありません。これは、粗野で無思慮な世に対してさえ、何という結果をもたらすことでしょう。
 How soon would they descry in us, what they could not find among all the thousands of their brethren, and cry (as Julian the Apostate to his heathen courtiers,) "See how these Christians love one another!"
 世の人々は、自分たちの何千という兄弟たちの間に見いだせなかったものを、何とすぐに私たちのうちに見つけることでしょう。そして、（背教者ユリアヌスが異教の廷臣たちに向かってしたように）「見よ、このクリスチャンたちが、どれほど互いに愛し合っているかを」と叫ぶことでしょう。
 // See how these Christians love one another は、テルトゥリアヌス『護教論』三九 にある異教徒の言葉（説教二十二・四十一 を参照）。ウェスレーはこれをユリアヌスの言葉としている。
