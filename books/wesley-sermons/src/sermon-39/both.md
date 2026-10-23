@@ -9,9 +9,9 @@ Catholic Spirit
 1. It is allowed even by those who do not pay this great debt, that love is due to all mankind, the royal law, "Thou shalt love thy neighbour as thyself," carrying its own evidence to all that hear it:
 （一）　愛がすべての人に対して負うべき負債であることは、この大きな負債を払っていない人々でさえ認めています。「自分を愛するように、あなたの隣り人を愛せよ」（ヤコブ二・八）というきわめて尊い律法は、それを聞くすべての人にとって、それ自体で明らかだからです。
 and that, not according to the miserable construction put upon it by the zealots of old times, "Thou shalt love thy neighbour," thy relation, acquaintance, friend, "and hate thine enemy;" not so;
-しかも、人々がそれを認めるのは、昔の熱心家たちがこの律法に加えたみじめな解釈によってではありません。「隣り人を愛し」、すなわち親族や知人や友を愛し、「敵を憎め」（マタイ五・四三）という解釈ではないのです。そうではありません。
+しかもそれは、昔の熱心家たちがこの律法に加えたみじめな解釈に従ってのことではありません。「隣り人を愛し」、すなわち親族や知人や友を愛し、「敵を憎め」（マタイ五・四三）という解釈ではないのです。そうではありません。
 "I say unto you," said our Lord, "Love your enemies, bless them that curse you, do good to them that hate you, and pray for them that despitefully use you, and persecute you;
-「しかし、わたしはあなたがたに言います」と主は言われました（マタイ五・四四）。「敵を愛し」、「のろう者を祝福し」、「憎む者に親切に」し、「はずかしめる」者と「迫害する者のために祈」りなさい（ルカ六・二七〜二八、マタイ五・四四）。
+「わたしはあなたがたに言います」（マタイ五・四四）と主は言われました。「敵を愛し」、「のろう者を祝福し」、「憎む者に親切に」し、「はずかしめる」者と「迫害する者のために祈」りなさい（ルカ六・二七〜二八、マタイ五・四四）。
 // 欽定訳マタイ五・四四 の bless them that curse you, do good to them that hate you, despitefully use you は口語訳にない（写本の違い）ので、ルカ六・二七〜二八 の語で引いた。
 that ye may be the children," may appear so to all mankind, "of your Father which is in heaven; who maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.
 それは、「天にいますあなたがたの父の子と」なり、すべての人にもそう見えるようになる「ためです。天の父は、悪い者の上にも良い者の上にも、太陽をのぼらせ、正しい者にも正しくない者にも、雨を降らしてくださるからです」（マタイ五・四五）。
@@ -30,7 +30,7 @@ This is that love on which the Apostle John so frequently and strongly insists: 
 And again: "Beloved, let us love one another: for love is of God. He that loveth not, knoweth not God; for God is love" (4:7, 8).
 また、こうも言います。「愛する者たちよ。わたしたちは互に愛し合おうではありませんか。愛は、神から出たものなのです」。「愛さない者は、神を知りません。神は愛です」（第一ヨハネ四・七〜八）。
 "Not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins. Beloved, if God so loved us, we ought also to love one another (verses 10, 11).
-「わたしたちが神を愛したのではなく、神がわたしたちを愛してくださって、わたしたちの罪のためにあがないの供え物として、御子をおつかわしになりました。愛する者たちよ。神がこのようにわたしたちを愛してくださったのですから、わたしたちも互に愛し合うべきです」（第一ヨハネ四・一〇〜一一）。
+「わたしたちが神を愛したのではなく、神がわたしたちを愛してくださって、わたしたちの罪のためにあがないの供え物として、御子をおつかわしになりました」。「愛する者たちよ。神がこのようにわたしたちを愛してくださったのですから、わたしたちも互に愛し合うべきです」（第一ヨハネ四・一〇〜一一）。
 
 3. All men approve of this; but do all men practise it Daily experience shows the contrary.
 （三）　だれもがこれをよしとします。けれども、だれもがそれを実行しているでしょうか。日々の経験が、その反対を示しています。
@@ -70,15 +70,15 @@ The very first thing we may observe in these words, is, that here is no inquiry 
 And yet it is certain, he held some which were very uncommon, indeed quite peculiar to himself; and some which had a close influence upon his practice; on which, likewise, he laid so great a stress, as to entail them upon his children's children, to their latest posterity.
 しかし、ヨナダブがきわめて珍しい、実に彼独特の意見をいくつか持っていたことは確かです。また、その実践に深くかかわる意見も持っていました。ヨナダブはそうした意見をきわめて重んじたので、それを子の子に、最後の子孫に至るまで受け継がせたのです。
 This is evident from the account given by Jeremiah many years after his death: "I took Jaazaniah and his brethren and all his sons, and the whole house of the Rechabites, . . . and set before them pots full of wine, and cups, and said unto them, Drink ye wine.
-このことは、ヨナダブの死から何年も後にエレミヤが記した記事から明らかです。「そこでわたしはヤザニヤと、その兄弟と、そのむすこたち、およびレカブびとの全家を連れ、レカブびとの前に酒を満たしたつぼと杯を置き、彼らに、『酒を飲みなさい』と言いました。
+このことは、ヨナダブの死から何年も後にエレミヤが記した記事から明らかです。「わたしはヤザニヤと、その兄弟と、そのむすこたち、およびレカブびとの全家を連れ、レカブびとの前に酒を満たしたつぼと杯を置き、彼らに、『酒を飲みなさい』と言いました。
 But they said, We will drink no wine: for Jonadab," or Jehonadab, "the son of Rechab, our father" (it would be less ambiguous, if the words were placed thus: "Jehonadab our father, the son of Rechab," out of love and reverence to whom, he probably desired his descendants might be called by his name), "commanded us, saying, ye shall drink no wine, neither ye, nor your sons for ever. Neither shall ye build house, nor sow seed; nor plant vineyard, nor have any: but all your days ye shall dwell in tents....
 彼らは答えました、『われわれは酒を飲みません。それは、レカブの子であるわれわれの先祖ヨナダブがわれわれに命じて、「あなたがたとあなたがたの子孫はいつまでも酒を飲んではならない。また家を建てず、種をまかず、またぶどう畑を植えてはならない。またこれを所有してはならない。あなたがたは生きながらえる間は幕屋に住んでいなさい」と言ったからです。
 And we have obeyed, and done according to all that Jonadab our father commanded us" (Jer. 35:3-10).
-こうしてわれわれは、すべてわれわれの先祖ヨナダブがわれわれに命じたところに従い、そのように行いました』」（エレミヤ三五・三〜一〇）。この「レカブの子であるわれわれの先祖ヨナダブ」という言葉は、英語の聖書の語順では、レカブが「われわれの先祖」であるようにも読めます。「われわれの先祖ヨナダブ、レカブの子」と並べたほうが、まぎれがないでしょう。ヨナダブは父レカブを愛し敬っていたので、子孫がレカブの名で呼ばれることを望んだのでしょう。
+こうしてわれわれは、すべてわれわれの先祖ヨナダブがわれわれに命じたところに従い、そのように行いました』」（エレミヤ三五・三〜一〇）。この「レカブの子であるわれわれの先祖ヨナダブ」という言葉は、英語の聖書の語順では、レカブが「われわれの先祖」であるようにも読めます。「われわれの先祖ヨナダブ、レカブの子」と並べたほうが、まぎれが少ないでしょう。ヨナダブは父レカブを愛し敬っていたので、子孫がレカブの名で呼ばれることを望んだのでしょう。
 // 英文の（ ）の注釈は、欽定訳の語順（Jonadab the son of Rechab our father）についてのもの。訳では引用の後に回し、「英語の聖書の語順では」と補った。英文の or Jehonadab は、口語訳が列王紀下でもエレミヤ書でも「ヨナダブ」なので訳さなかった。英文が省いた口語訳の語（三節の系図、四節、七節後半、八〜九節、一〇節の「幕屋に住み」）は、引用の中で詰めて除いた。
 
 2. And yet Jehu (although it seems to have been his manner both in things secular and religious, to drive furiously) does not concern himself at all with any of these things, but lets Jehonadab abound in his own sense.
-（二）　それなのに、エヒウはこうしたことに少しもかかわろうとせず、ヨナダブが自分の考えに満ち足りているのに任せています。エヒウは、世のことでも宗教のことでも、「猛烈な勢いで」（列王紀下九・二〇）事を進めるのが常だったようですが、それでもそうなのです。
+（二）　それなのに、エヒウはこうしたことに少しもかかわろうとせず、ヨナダブを自分の考えのままにさせています。エヒウは、世のことでも宗教のことでも、「猛烈な勢いで」（列王紀下九・二〇）事を進めるのが常だったようですが、それでもそうなのです。
 And neither of them appears to have given the other the least disturbance touching the opinions which he maintained.
 どちらも、自分の持つ意見のことで、相手を少しも煩わせなかったようです。
 
@@ -115,7 +115,7 @@ He bears with those who differ from him, and only asks him with whom he desires 
 7. We may, secondly, observe, that here is no inquiry made concerning Jehonadab's mode of worship; although it is highly probable there was, in this respect also, a very wide difference between them.
 （七）　第二に、ここではヨナダブの礼拝の様式について何も尋ねられていないことに、気づきます。この点でも、二人の間にはきわめて大きな違いがあった可能性が高いのですが、それでも尋ねていないのです。
 For we may well believe Jehonadab, as well as all his posterity, worshipped God at Jerusalem! whereas Jehu did not: he had more regard to state-policy than religion.
-ヨナダブは、その子孫のすべてと同じように、エルサレムで神を礼拝していたと考えてよいでしょう。けれども、エヒウはそうではありませんでした。エヒウは、宗教よりも国の政策を重んじたのです。
+というのは、ヨナダブは、その子孫のすべてと同じように、エルサレムで神を礼拝していたと考えてよいからです。けれども、エヒウはそうではありませんでした。エヒウは、宗教よりも国の政策を重んじたのです。
 And, therefore, although he slew the worshippers of Baal, and "destroyed Baal out of Israel," yet from the convenient sin of Jeroboam, the worship of the "golden calves," he "departed not" (2 Kings 10:29).
 ですから、エヒウはバアルの礼拝者たちを殺し、「イスラエルのうちからバアルを一掃し」ました（列王紀下一〇・二八）。けれども、ヤラベアムの都合のよい罪、すなわち「金の子牛」の礼拝は「やめなかった」のです（列王紀下一〇・二九）。
 
@@ -137,12 +137,12 @@ He must be fully persuaded in his own mind and then act according to the best li
 Nor has any creature power to constrain another to walk by his own rule.
 また、どんな被造物にも、自分の規則に従って歩むように、ほかの者に強いる力はありません。
 God has given no right to any of the children of men thus to lord it over the conscience of his brethren; but every man must judge for himself, as every man must give an account of himself to God.
-神は、人の子らのだれにも、このように兄弟の良心を支配する権利を与えておられません。だれもが、自分で判断しなければなりません。だれもが、神に対して自分の言いひらきをしなければならない（ローマ一四・一二）のと同じです。
+神は、人の子らのだれにも、このように兄弟の良心を支配する権利を与えておられません。だれもが、自分で判断しなければなりません。だれもが、神に対して自分の言いひらきをしなければならない（ローマ一四・一二）からです。
 
 10. Although, therefore, every follower of Christ is obliged, by the very nature of the Christian institution, to be a member of some particular congregation or other, some Church, as it is usually termed (which implies a particular manner of worshipping God; for "two cannot walk together unless they be agreed");
 （一〇）　ですから、キリストに従う者はだれでも、どこかの特定の会衆に属さなければなりません。ふつう言われるように、どこかの教会に属さなければならないのです。それは、キリスト教の制度そのものの性質によることです。そして、それは神を礼拝する特定の仕方を含んでいます。「ふたりの者がもし約束しなかったなら、一緒に歩く」ことはできないからです（アモス三・三）。
 yet none can be obliged by any power on earth but that of his own conscience, to prefer this or that congregation to another, this or that particular manner of worship.
-けれども、ある会衆をほかの会衆より選び、ある礼拝の仕方をほかの仕方より選ぶように、人を強いることのできるものがあります。それは、その人自身の良心の力だけです。地上のほかのどんな力も、それを強いることはできません。
+けれども、ある会衆をほかの会衆より、ある礼拝の仕方をほかの仕方より選ぶように人を強いることができるのは、その人自身の良心だけです。地上のほかのどんな力にも、それはできません。
 I know it is commonly supposed, that the place of our birth fixes the Church to which we ought to belong; that one, for instance, who is born in England, ought to be a member of that which is styled the Church of England, and consequently, to worship God in the particular manner which is prescribed by that Church.
 ふつう、こう考えられていることは、私も知っています。生まれた場所によって、属すべき教会が決まる。たとえば、イギリスに生まれた人は、英国国教会と呼ばれている教会の一員となるべきだ。したがって、その教会が定めている特定の仕方で神を礼拝すべきだ、というのです。
 I was once a zealous maintainer of this; but I find many reasons to abate of this zeal.
@@ -200,8 +200,8 @@ And art thou, through him, "fighting the good fight of faith, and laying hold of
 （一四）　あなたの信仰は、エネルグーメネー・ディ・アガペース（ἐνεργουμένη δι᾽ ἀγάπης）ですか。すなわち、愛の力に満ちていますか（ガラテヤ五・六）。
 // 英文の転写は energoumenh di agaphs。口語訳は「愛によって働く（信仰）」。
 Dost thou love God (I do not say "above all things," for it is both an unscriptural and an ambiguous expression, but) "with all thy heart, and with all thy mind, and with all thy soul, and with all thy strength"
-あなたは神を、「心をつくし、思いをつくし、精神をつくし、力をつくして」愛していますか（マルコ一二・三〇）。私は「何にもまして」とは言いません。それは聖書にない言い方で、あいまいな言い方でもあるからです。
-// 口語訳マルコ一二・三〇 の順は「心、精神、思い、力」。英文の順に並べた。「何にもまして」（above all things）は祈祷書の特祷（三位一体節後第六主日）にある言い回し。
+あなたは神を、「心をつくし、精神をつくし、思いをつくし、力をつくして」愛していますか（マルコ一二・三〇）。私は「何にもまして」とは言いません。それは聖書にない言い方で、あいまいな言い方でもあるからです。
+// 「何にもまして」（above all things）は祈祷書の特祷（三位一体節後第六主日）にある言い回し。
 Dost thou seek all thy happiness in him alone And dost thou find what thou seekest
 あなたは、自分の幸いのすべてを、ただ神のうちにだけ求めていますか。そして、求めているものを見いだしていますか。
 Does thy soul continually "magnify the Lord, and thy spirit rejoice in God thy Saviour"
@@ -234,7 +234,7 @@ Dost thou point at him in whatsoever thou doest in all thy labour, thy business,
 Art thou more afraid of displeasing God, than either of death or hell
 あなたは、死や地獄よりも、神の不興を買うことのほうを恐れていますか。
 Is nothing so terrible to thee as the thought of offending the eyes of his glory
-神の栄光の御目を汚すと考えることほど、あなたにとって恐ろしいことはありませんか。
+神の栄光の御目をおかす（イザヤ三・八）と考えることほど、あなたにとって恐ろしいことはありませんか。
 Upon this ground, dost thou "hate all evil ways," every transgression of his holy and perfect law; and herein "exercise thyself, to have a conscience void of offence toward God, and toward man"
 この理由から、あなたは「すべての悪い道を憎み」、神の聖く完全な律法へのあらゆる違反を憎んでいますか。そして、この点で、「神に対しまた人に対して、良心に責められることのないように」努めていますか（使徒二四・一六）。
 // 「すべての悪い道を憎み」は祈祷書の詩篇一一九・一〇四 の言い回し。口語訳は「偽りのすべての道を憎みます」で文言が違うので、出典を付けなかった。使徒二四・一六 の口語訳の「常に」は英文が引かないので除いた。
@@ -291,7 +291,7 @@ I believe the Episcopal form of church government to be scriptural and apostolic
 If you think the Presbyterian or Independent is better, think so still, and act accordingly.
 あなたが、長老制や独立派の形のほうが良いと考えるなら、そのまま考え続け、それに従って行動しなさい。
 I believe infants ought to be baptized; and that this may be done either by dipping or sprinkling.
-私は、幼児に洗礼を授けるべきだと信じています。また、それは水に浸すことによっても、水を注ぎかけることによっても行ってよいと信じています。
+私は、幼児に洗礼を授けるべきだと信じています。また、それは水に浸すことによっても、水を振りかけることによっても行ってよいと信じています。
 If you are otherwise persuaded, be so still, and follow your own persuasion.
 あなたが違う確信を持っているなら、そのまま持ち続け、自分の確信に従いなさい。
 It appears to me, that forms of prayer are of excellent use, particularly in the great congregation.
@@ -357,7 +357,7 @@ Yea, "smite me friendly, and reprove me," whereinsoever I appear to thee to be d
 そうです、「いつくしみをもってわたしを打」ち、「わたしを責め」てください（詩篇一四一・五）。私をつかわされた方のみこころよりも、むしろ自分の思いを行っているように私が見えるところでは、どこででも、そうしてください。
 // 英文は祈祷書の詩篇の言い回し。口語訳は「正しい者にいつくしみをもってわたしを打たせ、わたしを責めさせてください」で、使役の部分を「」の外に出した。
 O speak and spare not, whatever thou believest may conduce, either to the amending my faults, the strengthening my weakness, the building me up in love, or the making me more fit, in any kind, for the Master's use.
-ああ、ためらわずに語ってください。私の欠点を改め、私の弱さを強め、私を愛において築き上げるのに役立つと信じることは、何でも語ってください。私をあらゆる点で主人に役立つもの（第二テモテ二・二一）にするのに役立つと信じることも、語ってください。
+ああ、ためらわずに語ってください。私の欠点を改め、私の弱さを強め、私を愛において築き上げるのに役立つと信じることは、何でも語ってください。私をあらゆる点で主人に役立つもの（第二テモテ二・二一）にすると信じることも、語ってください。
 
 7. I mean, Lastly, love me not in word only, but in deed and in truth.
 （七）　私が言うのは、最後に、言葉だけでなく、行いと真実とをもって（第一ヨハネ三・一八）私を愛してください、ということです。
@@ -373,7 +373,7 @@ And, if it be in thy power, not only sympathize with them when they are in any d
 8. Two things should be observed with regard to what has been spoken under this last head:
 （八）　この最後の項目で述べたことについて、二つのことに注意すべきです。
 the one, that whatsoever love, whatsoever offices of love, whatsoever spiritual or temporal assistance, I claim from him whose heart is right, as my heart is with his, the same I am ready, by the grace of God, according to my measure, to give him:
-一つは、こうです。心が私に対して真実な人に、私はどんな愛も、どんな愛のつとめも、霊的な助けもこの世の助けも、求めます。それと同じものを、私も、神の恵みによって、自分の分に応じて、その人に与える用意があるのです。
+一つは、こうです。私は、心が私に対して真実な人、私の心がその人に対してそうであるように真実な人に、愛や愛のつとめを、霊的な助けやこの世の助けを求めます。何を求めるにしても、それと同じものを、私も、神の恵みによって、自分の分に応じて、その人に与える用意があるのです。
 the other, that I have not made this claim in behalf of myself only, but of all whose heart is right toward God and man, that we may all love one another as Christ hath loved us.
 もう一つは、私がこう求めるのは、私自身のためだけではない、ということです。神と人とに対して心が真実なすべての人のためでもあるのです。それは、キリストが私たちを愛してくださったように（ヨハネ一三・三四）、私たちがみな互いに愛し合うためです。
 
@@ -383,7 +383,7 @@ III. 1. One inference we may make from what has been said. We may learn from hen
 （一）　これまで述べてきたことから、一つの結論を引き出すことができます。ここから、公同の精神とは何かを学ぶことができるのです。
 
 There is scarce any expression which has been more grossly misunderstood, and more dangerously misapplied, than this: but it will be easy for any who calmly consider the preceding observations, to correct any such misapprehensions of it, and to prevent any such misapplication.
-この言葉ほど、ひどく誤解され、危険なほど誤用されてきた言葉は、ほとんどありません。けれども、これまで述べてきたことを落ち着いて考える人ならだれでも、そうした誤解をたやすく正し、そうした誤用をたやすく防ぐことができるでしょう。
+この言葉ほど、ひどく誤解され、危険なほど誤用されてきた言葉は、ほとんどありません。けれども、これまで述べてきたことを落ち着いて考える人なら、だれでもできることがあります。そうした誤解をたやすく正し、そうした誤用を防ぐことです。
 
 For, from hence we may learn, first, that a catholic spirit is not speculative latitudinarianism.
 というのは、ここから、第一に、公同の精神は理論上の広教主義ではない、ということを学べるからです。
@@ -404,7 +404,7 @@ Observe this, you who know not what spirit ye are of: who call yourselves men of
 自分がどんな霊の者か知らないあなたがたは、このことに注意しなさい。あなたがたは、自分を公同の精神の人と呼んでいます。けれども、それはただ、悟りが濁っているからにすぎません。
 // you know not what spirit ye are of は欽定訳ルカ九・五五 の句。口語訳にはない（写本の違い）ので、出典を付けなかった。
 because your mind is all in a mist; because you have no settled, consistent principles, but are for jumbling all opinions together.
-心がすっかり霧に包まれているから、定まった一貫した原則を持たず、あらゆる意見をごちゃ混ぜにしようとしているからにすぎないのです。
+心がすっかり霧に包まれているからにすぎません。定まった一貫した原則を持たず、あらゆる意見をごちゃ混ぜにしようとしているからにすぎないのです。
 Be convinced, that you have quite missed your way; you know not where you are.
 あなたがたは、すっかり道を踏み外していることを悟りなさい。自分がどこにいるのかさえ分かっていないのです。
 You think you are got into the very spirit of Christ; when, in truth, you are nearer the spirit of Antichrist.
@@ -419,7 +419,7 @@ It is not indifference as to public worship, or as to the outward manner of perf
 This, likewise, would not be a blessing but a curse.
 これもまた、祝福ではなく、のろいでしょう。
 Far from being an help thereto, it would, so long as it remained, be an unspeakable hindrance to the worshipping of God in spirit and in truth.
-そのような無関心は、霊とまこととをもって神を礼拝する（ヨハネ四・二四）ことの助けになるどころか、それが続く限り、言いようのない妨げとなるでしょう。
+そのような無関心は、霊とまこととをもって神を礼拝する（ヨハネ四・二四）ことの助けになるどころではありません。それが続く限り、言いようのない妨げとなるでしょう。
 But the man of a truly catholic spirit, having weighed all things in the balance of the sanctuary, has no doubt, no scruple at all, concerning that particular mode of worship wherein he joins.
 けれども、本当に公同の精神を持つ人は、すべてのものを聖所のはかりで量っています。そのうえで、自分が加わっている特定の礼拝の様式について、何の疑いも、ためらいもまったく持っていません。
 He is clearly convinced, that this manner of worshipping God is both scriptural and rational.
@@ -427,7 +427,7 @@ He is clearly convinced, that this manner of worshipping God is both scriptural 
 He knows none in the world which is more scriptural, none which is more rational.
 これ以上聖書的な仕方も、これ以上理にかなった仕方も、世に一つもないことを知っています。
 Therefore, without rambling hither and thither, he cleaves close thereto, and praises God for the opportunity of so doing.
-ですから、あちこちさまよい歩くことなく、その仕方にしっかりと付き、そうする機会が与えられていることを、神に感謝してほめたたえるのです。
+ですから、あちこちさまよい歩くことなく、その仕方にしっかりと付きます。そして、そうする機会が与えられていることを、神に感謝してほめたたえるのです。
 
 3. Hence we may, thirdly, learn, that a catholic spirit is not indifference to all congregations.
 （三）　ここから、第三に、公同の精神は、あらゆる会衆に無関心であることではない、ということを学べます。
@@ -468,7 +468,7 @@ For love alone gives the title to this character: catholic love is a catholic sp
 one who knows how to value, and praise God for, all the advantages he enjoys, with regard to the knowledge of the things of God, the true scriptural manner of worshipping him, and, above all, his union with a congregation fearing God and working righteousness:
 自分の受けているあらゆる恵まれた点を重んじ、それを神に感謝してほめたたえることを知っている人です。その恵まれた点とは、神のことについての知識と、神を礼拝する真に聖書的な仕方です。そして何よりも、神を敬い義を行う（使徒一〇・三五）会衆と一つに結ばれていることです。
 one who, retaining these blessings with the strictest care, keeping them as the apple of his eye, at the same time loves--as friends, as brethren in the Lord, as members of Christ and children of God, as joint partakers now of the present kingdom of God, and fellow heirs of his eternal kingdom--all, of whatever opinion or worship, or congregation, who believe in the Lord Jesus Christ;
-こうした祝福を最も注意深く保ち、目のひとみのように（申命記三二・一〇）守りながら、同時に、主イエス・キリストを信じるすべての人を愛する人です。どんな意見の人でも、どんな礼拝の人でも、どんな会衆の人でもかまいません。その人々を、友として、主にある兄弟として、キリストの肢体として、神の子として愛するのです。今ある神の国に今ともにあずかる者として、神の永遠の御国をともに受け継ぐ者として愛するのです。
+こうした祝福を最も注意深く保ち、目のひとみのように（申命記三二・一〇）守りながら、同時に、主イエス・キリストを信じるすべての人を愛する人です。どんな意見の人でも、どんな礼拝の人でも、どんな会衆の人でもかまいません。その人々を、友として、主にある兄弟として、キリストの肢体として、神の子として愛するのです。今ある神の国にともにあずかる者として、神の永遠の御国をともに受け継ぐ者として愛するのです。
 who love God and man; who, rejoicing to please, and fearing to offend God, are careful to abstain from evil, and zealous of good works.
 その人々とは、神と人とを愛する人々です。神を喜ばせることを喜び、神の不興を買うことを恐れて、悪から遠ざかることに注意深く、良いわざに熱心な（テトス二・一四）人々です。
 He is the man of a truly catholic spirit, who bears all these continually upon his heart;
@@ -496,7 +496,7 @@ but keep an even pace, rooted in the faith once delivered to the saints, and gro
 むしろ、着実な歩みを保ちなさい。聖徒たちにひとたび伝えられた信仰（ユダ三）に根ざし、愛を、真の公同の愛を基として（エペソ三・一七）歩みなさい。ついには、永遠に愛のうちにのみ込まれるまで、そうしなさい！
 
 [Charles Wesley's hymn, CATHOLIC LOVE, added in some editions:
-〔版によっては、ここにチャールズ・ウェスレーの讃美歌「公同の愛」が加えられている。〕
+〔版によっては、ここにチャールズ・ウェスレーの讃美歌「公同の愛」が加えられています。〕
 // 英文の [ ] は編者の付記で、最後の行の Charles Wesley] で閉じる。付記の行を〔〕で訳し、讃美歌は 1 行ずつ訳した。
 
 Weary of all this wordy strife,
