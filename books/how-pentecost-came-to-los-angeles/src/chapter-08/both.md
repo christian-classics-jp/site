@@ -3,7 +3,7 @@ Brother Durham In Los Angeles
 Chapter 8
 
 Just about one week before I arrived home Brother Durham began meetings at old Azusa Mission. He was sent of the Lord from Chicago with a message for the Pentecostal saints in Los Angeles. He was first refused a hearing at Upper Room Mission, so he went to Azusa street.
-私が家に帰るちょうど一週間ほど前に、ダラム兄弟が、なつかしいアズサ・ミッションで集会を始めていた。彼は、ロサンゼルスのペンテコステの聖徒たちへのメッセージを携えて、主からシカゴより遣わされた人だった。初めはアッパー・ルーム・ミッションで話を聞いてもらえなかったので、彼はアズサ通りへ行ったのである。
+私が家に帰るちょうど一週間ほど前に、ダラム兄弟が、なつかしいアズサ・ミッションで集会を始めていた。彼は、ロサンゼルスのペンテコステの聖徒たちへのメッセージを携えて、主によってシカゴから遣わされた人だった。初めはアッパー・ルーム・ミッションで話を聞いてもらえなかったので、彼はアズサ通りへ行ったのである。
 Brother Seymour was absent in the east. He started meetings and the saints flocked back to the old place and filled it again with the high praises of God. This was what the Lord witnessed to three of us while in prayer, more than a year before.
 シーモア兄弟は東部に出かけていて留守だった。ダラム兄弟が集会を始めると、聖徒たちはなつかしい場所に群れをなして戻ってきた。そして再びそこを、神をあがめる高らかな賛美で満たした。これこそ、一年あまり前に、祈っていた私たち三人に主があかししてくださったことだった。
 I had gotten back just in time to see it. God had gathered many of the old Azusa workers back, from many parts of the world, to Los Angeles again evidently for this. It was called by many the second shower of the Latter Rain.
@@ -12,11 +12,11 @@ On Sunday the place was crowded and five hundred were turned away. The people wo
 日曜日には会場がいっぱいになり、五百人が入れずに帰された。人々は、席を取られるのを恐れて、集会と集会のあいだも席を立とうとしなかった。
 
 With this the bottom dropped out of Upper Room Mission over night. The leader had abused his privilege, and also the saints. He had failed God in other ways also.
-これによって、アッパー・ルーム・ミッションは一夜にして底が抜けた。その指導者は、自分の特権を乱用し、聖徒たちをも虐げていた。ほかの点でも、彼は神を失望させていた。
+これによって、アッパー・ルーム・ミッションは一夜にして崩れ去った。その指導者は、自分の特権を乱用し、聖徒たちをも虐げていた。ほかの点でも、彼は神を失望させていた。
 The Lord can spare any man or mission if He is obliged to. We cannot persistently abuse our privilege, destroy the prophets of God, and hope to finally get away with it.
 主は、やむをえないなら、どんな人もどんなミッションもなしで済ませることがおできになる。私たちは、自分の特権をいつまでも乱用し、神の預言者たちを滅ぼしておきながら、最後には何事もなく済むと望むことはできない。
 Great was the fall of Upper Room Mission. The leader had at one time been much used of God. But God had another place, man, and message ready. He never deserts His true flock. The "cloud" moved on, and the saints, with it.
-アッパー・ルーム・ミッションの倒れ方は大きかった。その指導者も、かつては神に大いに用いられたのである。しかし神は、別の場所と人とメッセージを用意しておられた。神は、ご自分の本当の群れを決して見捨てられない。「雲」は先へ進み、聖徒たちもそれと共に進んだ。
+アッパー・ルーム・ミッションの倒れ方はひどかった。その指導者も、かつては神に大いに用いられたのである。しかし神は、別の場所と人とメッセージを用意しておられた。神は、ご自分の本当の群れを決してお見捨てにならない。「雲」は先へ進み、聖徒たちもそれと共に進んだ。
 
 The fire began to fall at old Azusa as at the beginning. I attended these meetings with great interest and joy. The Lord also blessed me much at Eighth and Maple, which was still running.
 なつかしいアズサに、初めのころのように火が下りはじめた。私は、大きな関心と喜びをもってこれらの集会に出た。まだ続いていた八番街とメイプル通りでも、主は私を大いに祝福してくださった。
@@ -28,12 +28,12 @@ We moved to Long Beach soon after my return, my family needing a change from Gle
 // 英文のこの段落は、beach, とコンマで終わっている。
 
 This was a great treat. We had not even dared ask the Lord for so much. But He was so good to us. May 2, I went to Azusa street, after noon, as usual.
-これは大きな楽しみだった。私たちは、これほどのものを主に求めることさえしていなかった。しかし主は、私たちにとても良くしてくださった。5月2日の午後、私はいつものようにアズサ通りへ行った。
+これは大きな楽しみだった。私たちは、これほどのものを、あえて主に求めることさえしていなかった。しかし主は、私たちにとても良くしてくださった。5月2日の午後、私はいつものようにアズサ通りへ行った。
 // 英文の after noon は afternoon の誤り。
 But to our surprise we found the doors all locked, with chain and padlock. Brother Seymour had hastened back from the east and with his trustees decided to lock Brother Durham out.
 ところが驚いたことに、扉はすべて、鎖と南京錠で閉ざされていた。シーモア兄弟が東部から急いで戻り、理事たちと共に、ダラム兄弟を締め出すことに決めたのだ。
 But they locked God and the saints out also, from the old cradle of power. It was Durham's message they objected to.
-しかし彼らは、力のなつかしい揺りかごから、神と聖徒たちをも締め出してしまった。彼らが反対したのは、ダラムのメッセージだった。
+しかし彼らは、あのなつかしい、力の揺りかごから、神と聖徒たちをも締め出してしまった。彼らが反対したのは、ダラムのメッセージだった。
 
 I secured Kohler Street Mission temporarily, and the "cloud" moved with us. Rather, it led us there. In a few days Brother Durham rented a large building at the corner of Seventh and Los Angeles streets.
 私は一時的にコーラー通りミッションを借り、「雲」も私たちと共に移った。いや、「雲」が私たちをそこへ導いたのである。数日のうちに、ダラム兄弟は、七番街とロサンゼルス通りの角にある大きな建物を借りた。
@@ -47,7 +47,7 @@ And it is certain that such a revelation and reformation is needed in the church
 そして、今日の諸教会にも、ルターの時代とほとんど同じくらい切実に、そのような啓示と改革が必要であることは確かである。私たちの持っているのは、おおむねローマ化したプロテスタントなのだ。
 
 "Learn from me," said Luther, "how difficult a thing it is to throw off errors confirmed by the example of all the world, and which, through long habit, have become a second nature to us."
-「私から学ぶがよい」とルターは言った。「全世界の手本によって固められ、長い習慣によって第二の天性となってしまった誤りを捨てることが、どれほど難しいかを」。
+ルターは言った。「全世界の手本によって固められ、長い習慣によって私たちの第二の天性となってしまった誤りを捨てることが、どれほど難しいか。それを私から学ぶがよい」。
 But a multitude of souls accepted the message Brother Durham brought with joy. "Men were astonished that they had not earlier acknowledged truths that appeared so evident in Luther's mouth," says the historian, D'Aubigne. And so with Durham's message.
 しかし、おびただしい人々が、ダラム兄弟の携えてきたメッセージを喜んで受け入れた。歴史家ドービニェは言う。「人々は、ルターの口から出るとこれほど明らかに見える真理を、どうしてもっと早く認めなかったのかと驚いた」。ダラムのメッセージについても同じだった。
 But it received great opposition also. Some abused the message, as they do every message sent of God, going to the extreme of declaring that because the work of redemption was fully accomplished on the cross it was of necessity finished in us also, the moment we believed.
@@ -59,7 +59,7 @@ Men are creatures of extremes. The message generally suffers more from its frien
 Some even went so far as to fight the principle of holiness itself, pretending to justify themselves by Durham's message.
 ダラムのメッセージで自分を正当化するふりをして、聖潔の原理そのものと戦うところまで行った人々さえいた。
 But they had either misunderstood it, or more likely seized a pretended opportunity to fight the principle that their own hearts refused to yield to, and thus abused the message God had brought them.
-しかし彼らは、そのメッセージを誤解したのだろう。あるいは、おそらくこちらのほうだが、自分の心が従おうとしない原理と戦う口実に飛びついたのである。こうして彼らは、神が自分たちにもたらされたメッセージを乱用したのだ。
+しかし彼らは、そのメッセージを誤解していたか、あるいは、自分の心が従おうとしない原理と戦う口実に飛びついたかである。おそらく後者だろう。こうして彼らは、神が自分たちにもたらされたメッセージを乱用したのだ。
 
 The owner of the Rest Home in Long Beach decided to sell it, so we were obliged to move. We returned July 1 to the Pentecostal Home, at 786 Winona avenue, Pasadena, where we had lived before I went to Hawaii in 1909.
 ロングビーチのレスト・ホームの持ち主が、それを売ることに決めたので、私たちは引っ越さなければならなくなった。7月1日、私たちは、パサデナのウィノナ・アベニュー786番地のペンテコステ・ホームに戻った。1909年に私がハワイへ行く前に住んでいた所である。
@@ -77,7 +77,7 @@ I had a terrible attack of hemorrhoids, and was prostrated for days, suffering a
 My nervous system suffered greatly. It was an awful strain on the nerve centers, and the brain. Little John was taken with a terrible attack of convulsions also. The devil tried to kill him. Through prayer his life was spared.
 私の神経はひどく痛めつけられた。それは、神経の中枢と脳に恐ろしい負担をかけた。幼いジョンも、ひどいひきつけを起こした。悪魔がジョンを殺そうとしたのだ。祈りによって、彼のいのちは救われた。
 Many times the devil has come to me and actually tried to bargain with me. He has promised me if I would not press him quite so had he would let me off easier. But God forbid that I should ever bargain thus with him.
-悪魔は幾度も私のところに来て、実際に私と取り引きしようとした。私がそれほど厳しく悪魔を攻めないなら、私をもっと楽にしてやる、と約束したのである。しかし、私が悪魔とそのような取り引きをすることは決してない。
+悪魔は幾度も私のところに来て、実際に私と取り引きしようとした。私がそれほど厳しく悪魔を攻めないなら、私をもっと楽にしてやる、と約束したのである。しかし、私が悪魔とそのような取り引きをすることなど、断じてあってはならない。
 // 英文の so had は so hard の誤り。
 
 1911 was a wonderful year in Los Angeles. The battle was clearly between works and faith, between law and grace. Much of the old time power and glory of the Azusa Mission days returned to us.
@@ -109,7 +109,7 @@ We go to church on Sundays, etc., etc., "just like the nations (churches) 'round
 Whenever two saints met they invariably went to prayer. Today we can hardly be dragged to prayer.
 二人の聖徒が出会えば、必ず祈りはじめた。今日の私たちは、引きずって行かれても、なかなか祈ろうとしない。
 Some make as much fuss about it as the old camel does in the east in kneeling to receive his load. He fusses, and bites, and groans, before the driver can bring him down.
-東方の年老いたらくだが、荷を受けるためにひざまずくときのように、祈ることに大騒ぎする人々もいる。らくだは、御者がひざまずかせるまでに、騒ぎ立て、かみつき、うめくのである。
+東方のらくだが、荷を受けるためにひざまずくときのように、祈ることに大騒ぎする人々もいる。らくだは、らくだ引きがひざまずかせるまでに、騒ぎ立て、かみつき、うめくのである。
 I am glad I did not destroy my diary, however, nor the articles I wrote all through those early Pentecostal days, with reports of meetings, experiences in different parts of the world, etc.
 とはいえ、私は、日記を処分しなかったことをうれしく思う。ペンテコステの初めのころを通して書いた記事も処分しなかった。そこには、集会の報告や、世界の各地での経験などが書いてある。
 I have preserved between five and six hundred separate, printed articles, besides more than one hundred different tracts written and published in the same connection.
@@ -133,7 +133,7 @@ I had a powerful manifestation of the Spirit about this time at Lake Avenue Miss
 The Lord had given me a tremendous message on the way to the meeting. Brother Ansel Post had the floor and was commenting on the Word. What he was saying was good, but without special anointing.
 主は、集会へ行く途中で、私に非常に大きなメッセージを与えておられた。そのときはアンセル・ポスト兄弟が話していて、みことばを解き明かしていた。彼の話は良いものだったが、特別な油注ぎはなかった。
 Suddenly the Lord anointed me to give my message. I hesitated, as Brother Post had the floor. The Spirit ran through me like a sword thrust and I was lifted from my chair.
-突然、主は、メッセージを語るようにと私に油を注がれた。ポスト兄弟が話していたので、私はためらった。御霊は、剣で突き刺すように私を貫き、私は椅子から持ち上げられた。
+突然、主は、メッセージを語るようにと私に油を注がれた。ポスト兄弟が話していたので、私はためらった。御霊は、剣で突き刺すように私を貫かれた。私は椅子から持ち上げられた。
 I ran across the floor shouting at the top of my voice, but sat down again. I did not want to interfere with the one speaking. The message was almost consuming me. I had already hesitated too long. God wanted it delivered then.
 私は声を限りに叫びながら床を走って横切ったが、また座った。話している人の邪魔をしたくなかったのだ。メッセージは、私を焼き尽くさんばかりだった。私はもう、ためらいすぎていた。神は、そのときにそれが語られることを望んでおられた。
 The Spirit struck me again and nearly threw me off my chair. Then I knew I must obey God. I got up and spoke to Brother Post and he graciously gave way to me. I delivered the message with great anointing.
@@ -148,7 +148,7 @@ I had much ministry and blessing in Brother Durham's mission during this summer.
 Three thousand of them cost me thirty-five dollars. He provided the means. We moved from Winona avenue to Altadena in September. Our home was on Pine street.
 三千部で35ドルかかった。主がその費用を備えてくださった。9月に、私たちはウィノナ・アベニューからアルタディナへ移った。家はパイン通りにあった。
 Here we opened a little day school, with Miss Palmer for teacher. Other children came from the neighborhood. We saw some very hard financial pressure here. One sister gave me twenty-five dollars, in answer to most earnest prayer.
-ここで私たちは、パーマー姉妹を教師にして、小さな昼間の学校を開いた。近所からもほかの子供たちが来た。ここでは、お金の面でたいへん厳しい圧迫を経験した。このうえなく熱心な祈りへの答えとして、ある姉妹が25ドルをくれた。
+ここで私たちは、パーマー姉妹を教師にして、毎日通う小さな学校を開いた。近所からもほかの子供たちが来た。ここでは、お金の面でたいへん厳しい圧迫を経験した。このうえなく熱心な祈りへの答えとして、ある姉妹が25ドルをくれた。
 I began to have a strong desire to get out into the active work of the Lord again.
 私は、再び主の働きの現場に出て行きたいと、強く願うようになった。
 
@@ -160,7 +160,7 @@ From there I went to Stockton, where I preached twice, but found a hard field. T
 The opposition against Brother Durham was tremendous and he was finally tempted to strike back. This I felt was not the Spirit of Christ, though he had tremendous provocation. Possibly few have been able to stand successfully such a test.
 ダラム兄弟への反対は激しく、ついに彼は、やり返したいという誘惑に駆られた。彼がひどく挑発されていたのは確かだが、私には、それはキリストの御霊ではないと感じられた。たぶん、このような試練にうまく耐えられた人はほとんどいないだろう。
 I left the platform finally, not willing to stand for a spirit of retaliation. I felt I must keep clear of carnal strife and controversy.
-私は、仕返しの霊に味方する気になれず、ついに講壇から退いた。肉の争いや論争からは身を離していなければならないと感じたのである。
+私は、仕返しの霊を容認する気になれず、ついに講壇から退いた。肉の争いや論争からは身を離していなければならないと感じたのである。
 But the Lord had wonderfully used dear Brother Durham. He was sent of God to Los Angeles. Possibly his work was done. For him to have remained much longer might have destroyed his victory.
 しかし主は、愛するダラム兄弟をすばらしく用いてこられた。彼は、神からロサンゼルスに遣わされた人だった。たぶん、彼の働きは終わったのだろう。それ以上長くとどまっていたら、彼の勝利はだめになっていたかもしれない。
 His word was coming to be almost law in the Pentecostal missions, even as far as the Atlantic Coast.
@@ -171,7 +171,7 @@ This spirit the Lord showed me He was about to stop. Too much power is unsafe fo
 主は、この霊をまもなく止めようとしておられると、私に示された。また、あまりに大きな力は、だれであれ一人の人にとって危険なものである。
 
 Brother Durham wrote the following observations on the work some time before he died, which are of such vital importance we feel led to reproduce them, as follows:
-ダラム兄弟は、亡くなる少し前に、この働きについて次の所感を書いた。それはきわめて大切なものなので、ここに載せるように導かれた。
+ダラム兄弟は、亡くなるしばらく前に、この働きについて次の所感を書いた。それはきわめて大切なものなので、私たちはここに載せるよう導かれていると感じる。
 "A great crisis is now on. Men do not see the plan of God in the present Pentecostal movement. Such a complete revolution is necessary that it staggers them.
 「今、大きな危機が来ている。人々は、今のペンテコステ運動の中にある神のご計画を見ていない。まったくの大変革が必要であり、それが彼らをたじろがせている。
 They are unwilling to see that which they have labored so hard to build up, thrown down; but before God's plans can be carried out, man's plans must be set aside.
@@ -191,14 +191,14 @@ Not seeing the plan of God, men have not met the conditions, and therefore have 
 人々は神のご計画を見ていないので、条件を満たしていない。そのために、神が彼らのために持っておられるものの多くを、まだ受けていないのである。多くの人が、神より先に走ってしまった。
 
 Shortly after God filled me, His Spirit rested mightily upon me one morning, and He said to me: 'if you were only small enough I could do anything with you."
-神が私を満たしてくださってまもなく、ある朝、神の御霊が力強く私の上にとどまった。そして神は私に言われた。『もしあなたが十分に小さくさえあれば、わたしはあなたを用いて何でもできるのだが』。
+神が私を満たしてくださってまもなく、ある朝、神の御霊が力強く私の上にとどまられた。そして神は私に言われた。『もしあなたが十分に小さくさえあれば、わたしはあなたを用いて何でもできるのだが』。
 // 英文では前の段落の終わりで " が閉じ、この段落の開きの " がないが、ダラムの記事の続きとして訳した。神の言葉の 'if you were … with you." は、開きが ' で閉じが " になっている。
 A great desire to be little, yea, to be nothing, came into my heart. But it has been, oh, so hard to keep low enough for Him to really work through me.
 小さくなりたい、いや、無になりたいという大きな願いが、私の心に起こった。しかし、神が本当に私を通して働かれるほどに低くとどまっているのは、ああ、なんと難しいことだっただろう。
 And He only really uses me when I am little in my own eyes, and really humble at His feet. When I feel that I must do something, He always lets me fail.
-そして神は、私が自分の目に小さく、神の足もとで本当にへりくだっているときにだけ、本当に私を用いてくださる。私が何かをしなければならないと感じると、神はいつも私を失敗させられる。
+そして神は、私が自分の目に小さく、神の足もとで本当にへりくだっているときにだけ、本当に私を用いてくださる。私が何かをしなければならないと感じると、神はいつも、私が失敗するままにされる。
 But when I stay at His feet, and feel that I am nothing, and that He is all, and so just trust Him, He does His work in such a beautiful way that it is wonderful to me.
-しかし私が神の足もとにとどまり、自分は無で、神がすべてであると感じて、ただ神に信頼するとする。そのとき神は実に美しいしかたでご自分のわざをなさる。それは私にとって驚くべきことである。
+しかし私は、神の足もとにとどまり、自分は無で、神がすべてであると感じることがある。そうしてただ神に信頼していると、神は実に美しいしかたでご自分のわざをなさる。それは私にとって驚くべきことである。
 
 "God is not trying to build up something else, or to do something for men that will make them great and mighty, but rather to bring all men to naught, and do the work through the power of the Holy Ghost.
 神は、何かほかのものを築き上げようとしておられるのではない。人のために、彼らを偉く力ある者にするようなことをしようとしておられるのでもない。むしろ、すべての人を無にして、聖霊の力によって働きをなそうとしておられるのである。
@@ -208,7 +208,7 @@ The great question is, will men see the plan of God, and yield to it? Will men g
 大きな問題は、人々が神のご計画を見て、それに明け渡すかどうかである。人々は、へりくだってイエスの足もとにひれ伏し、イエスがペンテコステの満ちあふれる力を回復してくださるまで、祈って待つだろうか。それとも、イエスより先に走り続け、最後には失敗するのだろうか。
 
 "Let God's people everywhere see His plan, and begin to seek in deep, true humility. Then He will reveal Himself, and His plan, to them.
-至る所にいる神の民よ、神のご計画を見て、深く本当のへりくだりのうちに求めはじめよ。そうすれば神は、ご自身とご自分のご計画とを、彼らに示してくださるだろう。
+至る所にいる神の民が、神のご計画を見て、深く本当のへりくだりのうちに求めはじめるように。そうすれば神は、ご自身とご自分のご計画とを、彼らに示してくださるだろう。
 One man with the real power of God upon him can do more than a thousand who go on their own account. Only those who are true and loyal to God, and His present day message, will share in this great victory.
 本当の神の力を受けている一人の人は、自分の考えで出て行く千人よりも多くのことができる。神と、神の今の時のメッセージとに対して、真実で忠実な人々だけが、この大いなる勝利にあずかるだろう。
 The company who really humble themselves, and stand the test, God will use to do His work." - Wm. H. Durham.
@@ -218,6 +218,7 @@ The fact is when a man gets to the place where he really loves obscurity, where 
 
 The old Upper Room, 327 ½ South Spring street, was opened up again about this time, under the leadership of Brother Warren Fisher, Brother Manley and Brother Allen.
 このころ、サウス・スプリング通り327½番地の、あのアッパー・ルームが再び開かれた。ウォレン・フィッシャー兄弟とマンリー兄弟とアレン兄弟が指導した。
+// 英文の Warren Fisher は、第四章のアッパー・ルームの指導者 Elmer Fisher（エルマー・フィッシャー）の誤りかもしれないが、確かめられないので英文どおりにした。
 I delivered a message there one Sunday and two received the "baptism." God wonderfully anointed me. The presence of the Lord was very near. I had asked Him for a witness.
 ある日曜日、私がそこでメッセージを語ると、二人が「バプテスマ」を受けた。神はすばらしく私に油を注いでくださった。主の臨在がとても近くにあった。私は、主にしるしを求めていたのだ。
 So I now shifted my ministry to the Upper Room Mission. Conditions seemed to be changing at Brother Durham's mission. After I left his platform he seemed to mistrust me. Perhaps he thought I would work against him.
