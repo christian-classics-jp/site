@@ -50,7 +50,7 @@
 + [x] Part III. The Baptism of the Holy Spirit / Work of the Holy Spirit
 + [x] Part III. A Plain Talk to Seekers
 + [x] Part III. The Latter Rain / Shepherds, "False and True"
-+ [ ] Part III. Sauls--Past and Present
++ [x] Part III. Sauls--Past and Present
 + [ ] Part III. What About Those Manifestations?
 + [ ] Part III. Receive Ye the Holy Ghost / According to Thy Word
 + [ ] Part III. Twenty-Four Questions a Young Worker Is Apt to Meet
