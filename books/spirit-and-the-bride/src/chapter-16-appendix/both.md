@@ -3,7 +3,7 @@ APPENDIX.
 HOW TO OBTAIN AND RETAIN THE BAPTISM OF THE HOLY GHOST.
 
 AFTER having made a careful study of the operations, manifestation, gifts, and fruit of the Holy Spirit in His relation to the bride, after having presented the Scriptural qualifications essential to designate us as the bride and admit us into the Divine matrimonial relation and make us a joint-heir with Jesus Christ, the author feels that this book will be incomplete without a chapter giving instruction as to how to receive and retain the Baptism of the Spirit.
-筆者は、花嫁との関わりにおける聖霊の働き、現れ、賜物、実を注意深く学んできた。また、聖書の示す資格を挙げてきた。私たちを花嫁と定め、神との婚姻の関係に入れ、イエス・キリストと共同の相続人とするのに欠かせない資格である。そのうえで筆者は、御霊のバプテスマを受け、保つ方法を教える章がなければ、この本は不完全であろうと感じている。
+筆者は、花嫁との関わりにおける聖霊の働き、現れ、賜物、実を注意深く学んできた。また、聖書の示す資格を挙げてきた。私たちを花嫁と定め、神聖な婚姻の関係に入れ、イエス・キリストと共同の相続人とするのに欠かせない資格である。そのうえで筆者は、御霊のバプテスマを受け、保つ方法を教える章がなければ、この本は不完全であろうと感じている。
 While throughout the book, he has endeavored to keep before the mind of the reader the unmistakable fact that heart purity must precede the Baptism, yet no specific instruction as to how to receive has been given.
 この本全体を通して筆者は、まぎれもない一つの事実を、読者の心に留めてもらうよう努めてきた。心の清さがバプテスマに先立たなければならないという事実である。しかし、どのようにして受けるのかについては、まだ具体的な教えを示していない。
 When the author drew the outline for this work he expected this chapter to be written by a dear friend, who is far more capable of instructing souls into the experience than I; therefore this part of the work was omitted; but after the manuscript has been prepared, the present obligation seems to fall upon the author also; therefore he joyfully submits the following appendix, trusting that some hungry soul will read and thereby be helped to enter the blessed experience of which this book has so much to say, and be so established on the Word that all the powers of hell shall not be able to move him.
@@ -20,7 +20,7 @@ The greatest trials the church has had since the early centuries are still in th
 Unless we go the Bible way we shall never obtain the real Baptism of the Holy Ghost.
 聖書の道を行かないかぎり、本当の聖霊のバプテスマを受けることは決してできない。
 In order to go the Bible way we must be straight in the primary doctrines of the Bible.
-聖書の道を行くには、聖書の根本の教理について正しくなければならない。
+聖書の道を行くには、聖書の根本の教理の理解が正しくなければならない。
 There are so many theories contrary to the plan of salvation!
 救いの計画に反する説は、じつに多いのである。
 Before we can obtain the Baptism of the Spirit we must get willing to lay aside any erroneous theory, no matter how long we have believed or preached it.
@@ -40,7 +40,7 @@ I obtained my Pentecost before I had ever noticed that any one taught that speak
 I thought we had to have the Baptism before we were ready for Pentecost.
 私は、ペンテコステへの備えができる前に、バプテスマを受けていなければならないと思っていた。
 God soon turned on the light, and I walked in it; otherwise I should have backslid.
-神はまもなく光を照らしてくださり、私はその中を歩んだ。そうしなかったなら、私は信仰から落ちていたであろう。
+神はまもなく光を照らしてくださり、私はその中を歩んだ。そうしなかったなら、私は信仰から離れていたであろう。
 I am personally acquainted with some who had a manifestation of tongues before they learned of the question now before the people.
 今人々の前に出ているこの問題を知る前に、異言の現れを経験した人々を、私は何人か個人的に知っている。
 When this question arose among us, they took a stand on the negative, and now they are fighting the revival.
@@ -53,13 +53,13 @@ You Must Be Right with God.
 To be straight in the Scriptures is not enough.
 聖書の理解が正しいだけでは十分ではない。
 A person may have no theory and be open to the truth, or he may be entirely straight on the Bible, and yet he may be altogether unprepared for Pentecost.
-人は、何の説にもとらわれず、真理に対して開かれているかもしれない。聖書についてまったく正しいかもしれない。それでも、ペンテコステへの備えがまったくできていないことがある。
+人は、何の説にもとらわれず、真理に対して開かれているかもしれない。あるいは、聖書の理解がまったく正しいかもしれない。それでも、ペンテコステへの備えがまったくできていないことがある。
 You must have a straight life.
 あなたの生活がまっすぐでなければならない。
 You must start at repentance, and after you are clearly converted you must consecrate and be sanctified.
 悔い改めから始めなければならない。そして、はっきりと回心したあとで、献身し、聖化されなければならない。
 You must be wholly sanctified.
-全く聖化されなければならない。
+まったく聖化されなければならない。
 There are a great many people who have been claiming to be sanctified who are not.
 聖化されていると主張していながら、実はそうでない人が、非常に多い。
 Masonic, tobacco-chewing, easy-going preachers and laymen can claim to be sanctified for years, but Pentecost is not so easy claimed.
@@ -70,7 +70,7 @@ Most of such preachers fight this movement.
 You must get everything out of your life that is opposed to God before you are prepared to seek Pentecost.
 ペンテコステを求める備えができる前に、神に逆らうものをすべて生活から取り除かなければならない。
 It is possible for you to work up a manifestation yourself that will very much resemble the manifestation of tongues, or the devil may give you a manifestation while your heart is impure; but you will never receive the real baptism until you are entirely cleansed from all sin.
-異言の現れによく似た現れを、自分で作り出すこともできる。また、心が清くないうちに、悪魔が現れを与えることもある。しかし、すべての罪から完全に清められるまでは、本当のバプテスマを受けることは決してない。
+異言の現れによく似た現れを、自分で作り出すこともできる。また、心が清くないうちに、悪魔が現れを与えることもある。しかし、すべての罪から完全にきよめられるまでは、本当のバプテスマを受けることは決してない。
 
 There Is a Death Subsequent to the Death of the "Old Man."
 「古い人」の死のあとにも、死がある。
@@ -142,7 +142,7 @@ You Must Praise Him.
 After meeting all other requirements, you must offer praises to God.
 ほかのすべての条件を満たしたあとで、神に賛美をささげなければならない。
 If you are actually justified, sanctified, straight on the Scriptures, having passed through a real death to self, having carefully counted the cost, with an eye fixed on Jesus, trusting only in Him, there springs up in your soul wells of joy.
-あなたは本当に義とされ、聖化されているか。聖書の理解が正しく、自我に対する本当の死を通っているか。費用を注意深く計算し、イエスに目を据え、主だけに信頼しているか。そうであれば、あなたの魂に喜びの泉がわき上がる。
+あなたが本当に義とされ、聖化され、聖書の理解が正しいとしよう。また、自我に対する本当の死を通り、費用を注意深く計算しているとしよう。そして、イエスに目を据え、主だけに信頼しているとしよう。そうであれば、あなたの魂に喜びの泉がわき上がる。
 If there is no joy, there is trouble somewhere.
 喜びがないなら、どこかに問題がある。
 A very small item will stop the joy.
@@ -170,7 +170,7 @@ Never draw back, but accept any manifestation He may offer you.
 At this point many miss the Baptism.
 この点で、多くの人がバプテスマを受けそこなう。
 Never choose the language: let the Spirit attend to that part.
-言葉を自分で選んではならない。その部分は御霊にお任せしなさい。
+どの言語で語るかを、自分で選んではならない。その部分は御霊にお任せしなさい。
 The Spirit may offer one word to you; it may not have the sound of Greek or Latin, therefore you draw back; this grieves Him.
 御霊は、一つの語をあなたに差し出されるかもしれない。それがギリシャ語やラテン語のような響きを持っていないので、あなたは尻込みする。これは御霊を悲しませる。
 Accept His manifestation.
@@ -196,7 +196,7 @@ Having glanced at the requisites for obtaining the experience, we come now to co
 "For with stammering lips and another tongue will he speak to this people. To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear" (Isa. 28: 11, 12).
 『否、むしろ主は異国のくちびると、異国の舌とをもってこの民に語られる。主はさきに彼らに言われた、「これが安息だ、疲れた者に安息を与えよ。これが休息だ」と。しかし彼らは聞こうとはしなかった』（イザヤ二八・一一、一二）。
 It is easy to see that this Scripture connects with the words of Jesus in John 7: 37-39: "If any man thirst, let him come unto me, and drink. He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water."
-この聖句が、ヨハネによる福音書七章三七〜三九節のイエスの言葉とつながっていることは、たやすくわかる。『だれでもかわく者は、わたしのところにきて飲むがよい。わたしを信じる者は、聖書に書いてあるとおり、その腹から生ける水が川となって流れ出るであろう』。
+この聖句が、ヨハネ七章三七〜三九節のイエスの言葉とつながっていることは、たやすくわかる。『だれでもかわく者は、わたしのところにきて飲むがよい。わたしを信じる者は、聖書に書いてあるとおり、その腹から生ける水が川となって流れ出るであろう』。
 "This (stammering lips and another tongue) is the rest and the refreshing."
 「これ（異国のくちびると、異国の舌）が安息であり、休息である」。
 ("But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.")
@@ -219,7 +219,7 @@ Not necessarily a flow of shouts and emotions, but a flow of the personal Holy G
 The stream seems to flow into the soul no longer, but the soul seems to contain the fountain head, and the rivers flow out in every direction.
 流れはもはや魂の中へ流れ込むのではないように思われる。むしろ魂そのものが水源を宿していて、そこから川が四方八方へ流れ出るように思われる。
 Glory! He is overflowing my soul now! Praise Him! There may be times of greater emotions than at others, but emotions do not affect the flow. Thank God!
-栄光あれ！　聖霊は今、私の魂にあふれておられる！　主をほめたたえよ！　感情がほかのときよりも高まるときもあるであろう。しかし、感情は流れに影響しない。神に感謝！
+栄光あれ！　聖霊は今、私の魂にあふれておられる！　主をほめたたえよ！　感情がほかのときよりも高まるときもあるであろう。しかし、感情は流れに影響しない。神に感謝しよう！
 
 As the Holy Ghost flows out of our innermost being in rivers, He may flow directly from the spirit, from the mind, or from the body.
 聖霊は、川となって私たちの心の奥底から流れ出られる。そのとき、霊から直接流れ出られることもあれば、知性やからだから流れ出られることもある。
@@ -228,7 +228,7 @@ He sometimes flows through the arm, and manifests Himself by writing in another 
 But this must not be confounded with the manifestation of tongues, which is the evidence of Pentecost.
 しかしこれを、ペンテコステの証拠である異言の現れと混同してはならない。
 Oh, thank God! It is blessed.
-ああ、神に感謝！　なんと幸いなことか。
+ああ、神に感謝しよう！　なんと幸いなことか。
 
 The first time the soul stops to think after the Baptism has been received, it will find itself let down into God to a depth never realized before.
 バプテスマを受けたあと、魂は初めて立ち止まって考えるときに気づくであろう。自分が、これまで知らなかった深みにまで、神のうちへ下ろされているのである。
@@ -247,7 +247,7 @@ If you have, then listen to a few words of advice from your unworthy writer.
 Never listen to the devil.
 決して悪魔に耳を傾けてはならない。
 He will try to make you doubt your Baptism.
-悪魔は、あなたが自分のバプテスマを疑うように仕向けるであろう。
+悪魔は、あなたが自分のバプテスマを疑うように仕向けようとするであろう。
 It may be that some who receive the Baptism will never have the manifestation of tongues any more.
 バプテスマを受けた人の中には、その後二度と異言の現れを経験しない人もいるかもしれない。
 The manifestation of tongues is sure to come with the Baptism, but it may never occur again.
@@ -255,21 +255,21 @@ The manifestation of tongues is sure to come with the Baptism, but it may never 
 Jesus says when the Comforter comes, He shall testify, and then He will abide forever.
 イエスは、助け主が来るとき、それはあかしをし、そしていつまでも共にいる、と言われる。
 He testifies to the fact that He has come in, and then we have the words of Jesus that He will abide forever.
-聖霊は、ご自分がはいって来られたという事実をあかしされる。そして私たちには、聖霊がいつまでも共にいてくださるというイエスの言葉がある。
+聖霊は、ご自分がはいって来られたという事実をあかしされる。そして私たちには、助け主はいつまでも共にいる、というイエスの言葉がある。
 Don't let the devil trouble you here.
-この点で、悪魔に惑わされてはならない。
+この点で、悪魔に心を乱されてはならない。
 He will abide if we always follow Him.
 私たちがいつも聖霊に従うなら、聖霊はとどまっていてくださる。
 
 The Greek expression translated, "to another divers kinds of tongues" (I Cor. 12: 10) is, "hetero gene glosson," which literally means, "to another offsprings or nations of languages."
 『またほかの人には種々の異言』（第一コリント一二・一〇）と訳されたギリシャ語は、ヘテロー・ゲネー・グローッソーン（hetero gene glosson）である。これは文字どおりには「ほかの人には言語の子孫たち、あるいは言語の諸民族」という意味である。
 The word "gene" is the same word that is used in the verb form so many times in the first chapter of Matthew, and there translated "begat."
-「ゲネー」という語は、マタイによる福音書一章で動詞の形で何度も使われている語と同じである。そこでは「生んだ」と訳されている。
+「ゲネー」という語は、マタイ一章で動詞の形で何度も使われている語と同じである。そこでは「生んだ」と訳されている。
 // 欽定訳の begat を指す。口語訳は「…の父であり」と訳している。
 Just as the male and female are brought together to produce offspring, so the "gift" and the Holy Ghost are brought in contact, and offsprings of languages are produced.
 男と女が結び合わされて子孫が生まれるように、「賜物」と聖霊が触れ合わされて、言語の子孫が生み出される。
 The "gift of tongues" is planted in the soul by the Holy Ghost, and then He works upon this "gift," and languages are produced or borne.
-「異言の賜物」は聖霊によって魂に植えられる。それから聖霊がこの「賜物」に働きかけられ、言語が生み出される、すなわち産み出されるのである。
+「異言の賜物」は聖霊によって魂に植えられる。それから聖霊がこの「賜物」に働きかけられ、言語が生み出される、すなわち生まれるのである。
 The Spirit gives this "gift," as He does all others, viz., to whomsoever He will.
 御霊は、ほかのすべての賜物と同じように、この「賜物」も『思いのままに』分け与えられる。
 
@@ -288,7 +288,7 @@ Never speak of yourself as of any importance; nay, let no such thought enter you
 If such thoughts are presented, resist them with all the power of your soul.
 そのような思いが浮かんだら、魂の力を尽くしてそれに逆らいなさい。
 Be willing to go to any place to work for Jesus, and be content in the place where He puts you.
-イエスのために働くためなら、どこへでも喜んで行きなさい。そして、主が置いてくださった所で満足しなさい。
+イエスのために働くためなら、どこへでも喜んで行く気持ちでいなさい。そして、主が置いてくださった所で満足しなさい。
 Never try to get the lead, nor to do greater things than you are able.
 決して先に立とうとしてはならない。自分の力以上の大きなことをしようとしてもならない。
 If you can't prevail with God in prayer, you are no good in this movement.
@@ -308,7 +308,7 @@ Be sure to follow only Him.
 Ask God to teach you how to lead others into the Baptism.
 ほかの人々をバプテスマへと導く方法を教えてくださるよう、神に願いなさい。
 Learn to extend no human sympathy to seekers.
-求めている人々に、人間的な同情を向けないことを学びなさい。
+求道者に、人間的な同情を向けないことを学びなさい。
 It always hinders the Spirit.
 それはいつも御霊の働きを妨げる。
 Learn to keep your hands off and let the Spirit work.
@@ -327,13 +327,13 @@ Let the Spirit attend to His own work.
 Give God all the glory all the time.
 いつも、すべての栄光を神に帰しなさい。
 Never praise man for anything.
-何についても、人をほめたたえてはならない。
+何についても、人をほめてはならない。
 If a sermon helps you, give God the glory.
 説教に助けられたなら、神に栄光を帰しなさい。
 If the reader finds anything in these pages to help him; let him give no praise to the writer.
 読者がこの本の中に何か助けになるものを見つけたとしても、筆者をほめないでほしい。
 It is due to God.
-ほめたたえは神に帰すべきものである。
+賞賛は神に帰すべきものである。
 Do not rob Him.
 神から奪ってはならない。
 Be sure to remember this on all occasions.
@@ -354,7 +354,7 @@ Will you yield and follow where He leads?
 あなたは御霊に身をゆだね、導かれる所へついて行くか。
 
 And now leaving this book with all of its readers in the hands of God, hoping to meet many of you at the Marriage, the writer bids you adieu.
-今、筆者はこの本をすべての読者と共に神の御手にゆだねる。そして、婚姻の場で多くのあなたがたに会えることを望みつつ、別れを告げる。
+今、筆者はこの本をすべての読者と共に神の御手にゆだねる。そして、婚姻の場であなたがたの多くに会えることを望みつつ、別れを告げる。
 
 THE END.
 終わり
