@@ -20,13 +20,13 @@ So firm and indestructible, so infinitely precious, so thoroughly tested by fire
 この大いなる建物に組み込まれる一つ一つの石は、まことに堅く、壊れることがない。限りなく尊く、火と洪水によって、槌とのみによって、徹底的に試されている。だから、その壁の内では、劣化も朽ちることも永遠に知られない。そして、この宮、大いなる神の宮は、とこしえからとこしえまで立ち続ける。
 
 Here it is that they which are arrayed in white robes--they which have come up out of great tribulation, having washed their robes, and made them white in the blood of the Lamb, stand before the throne of God, and "serve Him day and night in His temple: and He that sitteth upon the throne dwelleth among them." Here it is that His people know neither hunger nor thirst, neither does the sun light upon them nor any heat, "for the Lamb, which is in the midst of the throne," doth feed them, and "leadeth them unto living fountains of waters," and here it is that God wipeth away all tears from their eyes. Rev. 7:13-17.
-白い衣を身にまとっている人々、大きな患難をとおってきて、その衣を小羊の血で洗い、それを白くした人々が、神の御座の前に立つのは、ここである。彼らはここで、『昼も夜もその聖所で神に仕えているのである。御座にいますかたは、彼らの上に幕屋を張って共に住まわれる』。主の民が飢えることもかわくこともなく、太陽も炎暑も彼らを侵すことがないのは、ここである。『御座の正面にいます小羊は』彼らを養い、『いのちの水の泉に導いて下さる』からである。そして神が彼らの目から涙をことごとくぬぐいとってくださるのも、ここである（黙示録七・一三〜一七）。
+白い衣を身にまとっている人々が神の御座の前に立つのは、ここである。彼らは大きな患難をとおってきて、その衣を小羊の血で洗い、それを白くした人々である。彼らはここで、『昼も夜もその聖所で神に仕えているのである。御座にいますかたは、彼らの上に幕屋を張って共に住まわれる』。主の民が飢えることもかわくこともなく、太陽も炎暑も彼らを侵すことがないのは、ここである。『御座の正面にいます小羊は』彼らを養い、『いのちの水の泉に導いて下さる』からである。そして神が彼らの目から涙をことごとくぬぐいとってくださるのも、ここである（黙示録七・一三〜一七）。
 
 VISIONS AND REVELATIONS OF THE TEMPLE.
 ## 宮の幻と啓示
 
 We lift our eyes in the Spirit and are transfixed with wonder as we behold the grandeur of the great completed structure rising before us with its belfries and turrets, its gold-crowned towers and domes gleaming through the thick mist of our mortal conception of the great plan of the Eternal God.
-私たちは御霊のうちに目を上げる。そして、完成した大いなる建物が目の前にそびえ立つのを見て、驚きのあまり立ちつくす。鐘楼と小塔、金の冠をいただく塔と丸屋根が、永遠の神の大いなる計画について私たちの死すべき思いが描く、濃い霧を通して輝いている。
+私たちは御霊のうちに目を上げる。そして、完成した大いなる建物が目の前にそびえ立つのを見て、驚きのあまり立ちつくす。鐘楼と小塔、金の冠をいただく塔と丸屋根が、濃い霧を通して輝いている。その霧とは、永遠の神の大いなる計画について、死すべき私たちが抱く思いである。
 
 Our hearts are caught up on the wings of heavenly rapture, as we catch the great, swelling waves of melody bursting forth from a thousand windows as the singers and players become as one, making one sound to be heard, praising and glorifying God, and the glory of God so fills the temple that the priests and the Lord's ministers cannot minister.
 私たちの心は天の歓喜の翼に乗せられて、引き上げられる。千の窓から、うねりあふれる大いなる旋律の波がほとばしり出るのが聞こえるからである。歌う者と奏でる者がひとりのようになり、一つの音を響かせて、神をほめたたえ、あがめている。神の栄光が宮に満ちて、祭司たちも主に仕える者たちも、勤めをすることができない（第二歴代五・一三〜一四）。
@@ -53,13 +53,13 @@ Paul brings us right up to a literal and tangible examination of the structure a
 // 英文の divelleth は OCR の誤り（dwelleth）。
 
 Why, 'tis as though the great temple were comprised of myriads of smaller temples, for "to whatever worlds He carries our souls when they shall pass out of these imprisoning bodies, in these worlds these souls of ours (if we have submitted ourselves to His dealings) shall find themselves part of the same great temple, for it belongeth not to this world alone" but shall stand through the ages of eternity.
-そうだ、それはまるで、大いなる宮が無数の小さな宮から成り立っているかのようである。「私たちの魂は、やがてこの閉じ込める体から出て行く。そのとき主がその魂をどの世界へ運ばれようとも、その世界で私たちの魂は、自分が同じ大いなる宮の一部であることに気づく（もし主の取り扱いに身をゆだねてきたなら）。その宮はこの世だけのものではないからである」。それは永遠の時代を通して立ち続ける。
+そうだ、それはまるで、大いなる宮が無数の小さな宮から成り立っているかのようである。「私たちの魂は、やがて、自分を閉じ込めているこの体から出て行く。そのとき主がその魂をどの世界へ運ばれようとも、その世界で私たちの魂は、自分が同じ大いなる宮の一部であることに気づく（もし主の取り扱いに身をゆだねてきたなら）。その宮はこの世だけのものではないからである」。その宮は永遠の時代を通して立ち続ける。
 
 AS DESCRIBED BY PETER
 ## ペテロが描いた宮
 
 Peter walks round the temple with us and points out to those who "have tasted that the Lord is gracious"--that our Lord is Himself the chief cornerstone, elect, precious, disallowed indeed of men, but chosen of God. Then, suddenly, Peter points his finger at each saint individually, and says: "Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ," and "ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people, that ye should shew forth the praises of Him who hath called you out of darkness into His marvelous light," I. Pet. 2:3, 5, 9.
-ペテロは私たちとともに宮を歩いて巡る。そして、『主が恵み深いかたであることを、すでに味わい知った』人々に指し示す。私たちの主ご自身が『隅のかしら石』であり、選ばれた尊い石であって、人には捨てられたが、神にとっては選ばれた方である、と。それからペテロは突然、聖徒一人ひとりを指さして言う。「あなたがたも、それぞれ生ける石となって、霊の家に築き上げられ、聖なる祭司となって、イエス・キリストにより、神によろこばれる霊のいけにえをささげるのである」。また、「あなたがたは、選ばれた種族、祭司の国、聖なる国民、神につける民である。それによって、暗やみから驚くべきみ光に招き入れて下さったかたのみわざを、あなたがたが語り伝えるためである」（第一ペテロ二・三〜九）。
+ペテロは私たちとともに宮を歩いて巡る。そして、『主が恵み深いかたであることを、すでに味わい知った』人々に指し示す。私たちの主ご自身が『隅のかしら石』であり、『選ばれた尊い石』であって、『人には捨てられたが、神にとっては選ばれた』方である、と。それからペテロは突然、聖徒一人ひとりを指さして言う。「あなたがたも、それぞれ生ける石となって、霊の家に築き上げられ、聖なる祭司となって、イエス・キリストにより、神によろこばれる霊のいけにえをささげるのである」。また、「あなたがたは、選ばれた種族、祭司の国、聖なる国民、神につける民である。それによって、暗やみから驚くべきみ光に招き入れて下さったかたのみわざを、あなたがたが語り伝えるためである」（第一ペテロ二・三〜九）。
 
 THE MARVELOUS MYSTERY OF THE TRANSFORMATION WROUGHT IN THE STONE FROM QUARRY TO TEMPLE.
 ## 石切り場から宮へと石に起こる変化の驚くべき奥義
@@ -94,11 +94,11 @@ His eye runneth to and fro through the whole earth: "He discovereth deep things 
 主の御目はあまねく全地を行きめぐる（第二歴代一六・九）。主はご自分の宮を建てる材料を探しながら、『暗やみの中から隠れた事どもをあらわし、暗黒を光に引き出』される（ヨブ一二・二二）。主の愛の対象が、金であれ銀であれ宝石であれ、主の御手の取り扱いのもとに、進んで従おうとさえするなら、主が下って行かれないほど深い所はない。主が引き受けられないほど込み入った、あるいは大きな苦労や労苦もない。宮の材料を探して地を歩まれる主の御声が、こう言われるのが聞こえる。
 
 "Surely there is a vein for the silver, and a place for gold where they find it. He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death. . . . As for the earth, out of it cometh bread; and under it is turned up as it were fire. . . . The stones of it are the place of sapphires; and it hath dust of gold. . . . He putteth forth His hand upon the rock; He overt-it meth the mountains by the roots. He cutteth out rivers among the rocks; and His eye seeth every precious thing. . . . He bindeth the floods from overflowing; and the thing that is hid bringeth He forth to light. Job 28:1-11.
-「確かに、銀には掘り出す鉱脈があり、金には人がそれを見いだす所がある。神は暗やみに終わりを置き、あらゆる果てまで尋ねきわめられる。暗やみの石と死の陰をも（中略）。地はそこから食物を出し、その下は火のようにくつがえされる（中略）。その石はサファイヤのある所、そこには金の粉がある（中略）。神は岩に手を伸ばし、山を根元からくつがえされる。岩の中に川を掘り、その目はもろもろの尊い物を見る（中略）。水をせき止めて漏れないようにし、隠れた物を光に取り出される」（ヨブ二八・一〜一一）
+「確かに、銀には掘り出す鉱脈があり、金には人がそれを見いだす所がある。神は暗やみに終わりを置かれ、あらゆる果てまで尋ねきわめられる。暗やみの石と死の陰をも（中略）。地はそこから食物を出し、その下は火のようにくつがえされる（中略）。その石はサファイヤのある所、そこには金の粉がある（中略）。神は岩に手を伸ばされ、山を根元からくつがえされる。岩の中に川を掘られ、その御目はもろもろの尊い物をご覧になる（中略）。水をせき止めて漏れないようにされ、隠れた物を光に取り出される」（ヨブ二八・一〜一一）
 // 口語訳ヨブ二八・三、九〜一一 は「人」を主語にしているが、英文は欽定訳に従って He を神とし、主の御声として引いているので、欽定訳に寄せて神を主語に言い換えた。英文の overt-it meth は OCR の崩れ（overturneth）。英文の引用符は閉じていない。
 
 The great, rough, unlovely stones, hard-hearted as granite, lying in the bottom of the quarry, buried deep beneath the earth and mire of sin and self, have but to express the desire and willingness to be digged for and removed and shaped into His likeness, and the Lord is at the place, ready to begin the work of excavation. No stone is too far distant, too unworthy, too insignificant, too unpromising, too great or too small for Him to see the longing to be made worthy for a place in His temple.
-石切り場の底に横たわり、罪と自我の土と泥の下に深く埋もれている、大きな、粗い、醜い石がある。その心は花崗岩のようにかたい。けれども、その石は、ただ願いと心構えを言い表しさえすればよい。掘り出され、取り除かれ、主のかたちに形づくられたいと。そうすれば主はその場に来ておられ、掘り出しの働きを始めようと備えておられる。宮の中の場所にふさわしくされたいという石の切なる願いを、主が見ることのできないほど遠い石はない。ふさわしくない石も、取るに足りない石も、見込みのない石も、大きすぎる石も小さすぎる石もない。
+石切り場の底に横たわり、罪と自我の土と泥の下に深く埋もれている、大きな、粗い、醜い石がある。その心は花崗岩のようにかたい。けれども、その石は、ただ願いと心構えを言い表しさえすればよい。掘り出され、取り除かれ、主のかたちに形づくられたいと。そうすれば主はその場に来ておられ、掘り出しの働きを始めようと備えておられる。宮の中の場所にふさわしくされたいという石の切なる願いを、主がご覧になれないほど遠い石はない。ふさわしくない石も、取るに足りない石も、見込みのない石も、大きすぎる石も小さすぎる石もない。
 
 DIGGING,, SEPARATING, EXCAVATING
 ## 掘り起こし、切り離し、掘り出す
@@ -106,25 +106,25 @@ DIGGING,, SEPARATING, EXCAVATING
 
 From the moment the stone cries to Him, and the Lord thrusts the spade of conviction into the earth of sin which covers the stone, He presses it ever deeper and deeper with the strong foot of His Word. till the stone lies clean and bare before Him.
 石が主に向かって叫ぶと、主はその瞬間から、石をおおう罪の土に、罪の自覚というすきを突き入れられる。そして、みことばという力強い足で、そのすきをいよいよ深く押し込まれる。ついには、石が主の前に、きれいにむき出しになって横たわる。
-// 英文の Word. の . は OCR の崩れ（,）。
+// 英文の Word. の . は原本の誤植（,）。
 
 The stone is entirely too large and too attached to its surroundings and environment, however, and in order to dislodge and detach it, great quantities of explosives oft have to be imbedded in the midst of our heretofore comfortable surroundings. Blast may follow blast. Huge cracks and splits may run out in every direction. The trials may be hard, the separation keen and vitally near our heart. We may not understand, friends may criticise, misjudge, or offer advice, but one thing only is required of us by the Lord:
 けれども、その石はあまりにも大きく、周りのものや環境にあまりにもくっついている。それを動かし、切り離すために、これまで居心地のよかった私たちの環境のただ中に、大量の爆薬を埋め込まなければならないことがよくある。発破に次ぐ発破が続くこともある。大きな割れ目やひびが、四方八方に走ることもある。試練はつらく、別れは鋭く、私たちの心のすぐそばに迫るかもしれない。私たちには理解できないかもしれない。友人たちは批判したり、誤解したり、忠告したりするかもしれない。けれども、主が私たちに求められるのは、ただ一つのことだけである。
 
 "BE STILL AND KNOW THAT I AM GOD."
-「**静まって、わたしこそ神であることを知れ**」（詩篇四六・一〇）
+「静まって、わたしこそ神であることを知れ」（詩篇四六・一〇）
 
 He will do all the blasting, all the separating. Our part is but to be willing and pliable and yielded--submissive to His will.
 主が発破のすべてを、切り離しのすべてを行ってくださる。私たちの分は、ただ進んで柔らかくなり、身をゆだね、主のみこころに従うことだけである。
 
 The stone need not worry itself with planning and foreseeing, but needs only to give itself up to God's Holy Spirit within, and His dealings and providence without. Once thoroughly separated from surroundings, no matter how unshapely and rugged we be, one has but to look upward to see that the great Master-builder has brought the huge derrick of His love and power to the place, has fitted the cords of grace and mercy about the boulder or rock, and is lifting it from the depths of darkness into His own marvelous light.
-石は、計画を立てたり先を見通したりして思い煩う必要はない。ただ、内に住まわれる神の聖霊と、外からの主の取り扱いと摂理に、自分をゆだねさえすればよい。周りのものからすっかり切り離されたなら、私たちがどれほど形が悪く、ごつごつしていても、ただ上を見上げればよい。すると、偉大な建築の名匠が、ご自分の愛と力という巨大な起重機をその場に運んで来ておられるのが見える。主は、恵みとあわれみの綱をその大石に掛け、それを暗やみの深みから、ご自分の驚くべき光の中へと引き上げておられる。
+石は、計画を立てたり先を見通したりして思い煩う必要はない。ただ、内に住まわれる神の聖霊と、外からの主の取り扱いと摂理に、自分をゆだねさえすればよい。周りのものからすっかり切り離されたなら、私たちがどれほど形が悪く、ごつごつしていても、ただ上を見上げればよい。すると、偉大な建築の名匠が、ご自分の愛と力という巨大な起重機をその場に運んで来ておられるのが見える。主は、恵みとあわれみの綱をその大石に掛けられ、それを暗やみの深みから、ご自分の驚くべき光の中へと引き上げておられる。
 
 HEWING AND SHAPING
 ## 切り出し、形づくる
 
 Then the shaping process--Oh, those great, jagged, rough, sharp corners that gash the feet and wound each passer-by--one by one they disappear beneath the daily, hourly, ring, ring of the hammer of love as it falls with steady blows upon the chisel of daily tests and circumstances. That unkind word, the undeserved reproach, that unmerited rebuke, the hasty tear, that hour you fled to your room and fell, face-downward, at His feet in seeming defeat, the opportunity for doing good, the call for sacrifice, unapplauded, unobserved--all these were but hammer and chisel blows that made rough corners disappear.
-それから、形づくる作業が始まる。ああ、通りすがりの人の足を切り、傷つける、あの大きな、ぎざぎざの、粗い、とがった角よ。それらは一つずつ消えていく。毎日、毎時、カーン、カーンと鳴る愛の槌が、日々の試みと境遇というのみの上に、着実な打撃となって振り下ろされるからである。あの不親切な言葉、身に覚えのないそしり、受けるいわれのない叱責、思わずこぼれた涙。見たところ敗北のうちに自分の部屋に逃げ込み、主の足もとにうつぶせに倒れたあの時。善を行う機会。だれにもほめられず、だれにも気づかれない犠牲への召し。これらはみな、粗い角を消し去る、槌とのみの打撃にすぎなかった。
+それから、形づくる作業が始まる。ああ、通りすがりの人の足を切り、傷つける、あの大きな、ぎざぎざの、粗い、とがった角よ。それらは一つずつ消えていく。毎日、毎時、カーン、カーンと鳴る愛の槌が、日々の試みと境遇というのみの上に、着実な打撃となって振り下ろされるからである。あの不親切な言葉、身に覚えのないそしり、受けるいわれのない叱責、思わずこぼれた涙。見たところ敗北のうちに自分の部屋に逃げ込み、主の足もとにうつぶせに倒れたあのとき。善を行う機会。だれにもほめられず、だれにも気づかれない犠牲への召し。これらはみな、粗い角を消し去る、槌とのみの打撃にすぎなかった。
 
 Oh, to see the will of God wrought out in blows and buffetings, in tears and smiles, and in encouragements and discouragements, in wilderness wastes and Eden's bloom, in fire and water, in heat and cold, on mountain top and in valley depths, in lion's den or plains of freedom, in battle front or isolated dungeon! Oh, but to recognize His hand in the dealings of .today, is sweetest balm of Gilead.
 ああ、神のみこころが成し遂げられるのを見ることができたら。打撃と打ちたたきのうちに、涙とほほえみのうちに、励ましと落胆のうちに。荒野の荒れ地とエデンの花盛りのうちに、火と水のうちに、暑さと寒さのうちに。山の頂と谷の深みで、獅子の穴でも自由の平原でも、戦いの最前線でも孤立した地下牢でも！　ああ、今日の取り扱いのうちに主の御手を認めることさえできれば、それこそ最も快いギレアデの乳香である（エレミヤ八・二二）。
@@ -140,30 +140,30 @@ Then comes the polishing, the pressure brought to bear, the continuous rubbing a
 それから磨きが来る。圧力が加えられ、絶え間なくこすられ、摩擦を受ける。同じ試練と境遇、日々の骨折りと決まりきった務めが、果てしなく行き来する。身をゆだねる一日一日が、形づくりと磨きの働きを早める。つぶやき、不平を言う一日一日は、その御手を妨げ、とどめる。そして働きを損ない、時間と労苦によってしか消せない深い傷とかき傷を残す。
 
 In the quarry, in the blasting and in the chiseling process, there is much noise and action, but when at last the stone is carried to the spot and slipped into its appointed place in the great temple, there will not be the sound of a hammer to be heard (that will all have been gone through before)--"Work on in me, Oh, Lord, let not Thy hand be stayed."
-石切り場では、発破の作業でも、のみ入れの作業でも、多くの音と動きがある。けれども、ついに石がその場所に運ばれ、大いなる宮の中の定められた所にすべり込むときには、槌の音一つ聞こえない（第一列王六・七）。（それはみな、前もって済まされているのである。）「主よ、私のうちで働き続けてください。あなたの御手をとどめないでください」
+石切り場では、発破の作業でも、のみ入れの作業でも、多くの音と動きがある。けれども、ついに石がその場所に運ばれ、大いなる宮の中の定められた所にすべり込むときには、槌の音一つ聞こえない（第一列王六・七）。それはみな、前もって済まされているのである。「主よ、私のうちで働き続けてください。あなたの御手をとどめないでください」
 
 From beginning to end it is God. From the quarry of sin to the beauty of the temple it is God, GOD, G-O-D. We can do nothing to help but to yield, submissive and passive to His dealings, as wrought out hourly, daily in the circumstances with which He surrounds our lives.
-初めから終わりまで、それは神である。罪の石切り場から宮の美しさに至るまで、それは神、神、か、み、である。私たちにできる手助けは何もない。ただ、主が私たちの生活を取り囲ませる境遇の中で、毎時、毎日成し遂げられる主の取り扱いに、従順に、されるがままに身をゆだねるほかはない。
+初めから終わりまで、それは神である。罪の石切り場から宮の美しさに至るまで、それは神、**神**、か、み、である。私たちにできる手助けは何もない。主は私たちの生活を境遇で取り囲まれ、その中で毎時、毎日、取り扱いを成し遂げられる。私たちはただ、その取り扱いに、従順に、されるがままに身をゆだねるほかはない。
 
 THE REFINER'S FIRE, AND CRUCIBLE
 ## 精錬する者の火、るつぼ
 
 The gold and the silver which adorn His temple must be refined in the crucible until all dross is melted away. Only that which can stand in the fire and not be burned can abide in His tabernacle, for "Our God is a consuming fire," and no wood, hay nor stubble can dwell in His presence, for when the Lord whom we seek suddenly comes to His temple we find that "He is like a refiner's fire, and like fuller's soap" that He purges us as gold and silver that we "may offer unto the Lord an offering in righteousness." Mai. 3:l-3.
-主の宮を飾る金と銀は、すべてのかすが溶け去るまで、るつぼの中で精錬されなければならない。火の中に立っても焼けないものだけが、主の幕屋にとどまることができる。『わたしたちの神は、焼きつくす火である』からである（ヘブル一二・二九）。木も、草も、わらも（第一コリント三・一二）、主の御前に住むことはできない。私たちが求める主が、たちまちその宮に来られるとき、私たちは知る。「主は精錬する者の火のよう、布をさらす者の灰汁のよう」であり、金銀のように私たちを清めてくださる。それは私たちが『義をもって、ささげ物を主にささげる』ためである（マラキ三・一〜三）。
+主の宮を飾る金と銀は、すべてのかすが溶け去るまで、るつぼの中で精錬されなければならない。火の中に立っても焼けないものだけが、主の幕屋にとどまることができる。『わたしたちの神は、実に、焼きつくす火である』からである（ヘブル一二・二九）。木も、草も、わらも（第一コリント三・一二）、主の御前に住むことはできない。私たちが求める主が、たちまちその宮に来られるとき、私たちは知る。「主は精錬する者の火のよう、布をさらす者の灰汁のよう」であり、金銀のように私たちを清めてくださる。それは私たちが『義をもって、ささげ物を主にささげる』ためである（マラキ三・一〜三）。
 // 英文の Mai. 3:l-3 は OCR の誤り（Mal. 3:1-3）。口語訳データにはマラキ三・二 の後半（精錬する者の火、布さらしの灰汁）の本文がないので、欽定訳から訳した。
 
 Each stone must be set and fitted into place by God--man's efforts on this line have ever been but a failure. Each pillar and support, each decoration, overlaid with gold and silver, each golden tower and dome, encrusted with precious stones--each gold-embroidered hanging--each section of the building from threshold to the throne, must be set into its place by the God who has fitted it for its particular place.
 一つ一つの石は、神によって据えられ、その場所にはめ込まれなければならない。この点で人がしてきた努力は、いつも失敗にすぎなかった。金と銀をかぶせた柱と支え、飾りの一つ一つ、宝石をちりばめた金の塔と丸屋根の一つ一つ、金の刺繍のある掛け幕の一つ一つ。敷居から御座に至る建物のすべての部分は、神によってその場所に据えられなければならない。その特定の場所にそれをふさわしく整えてくださった、その神によってである。
 
 Today the building is well-nigh completion Softly and quickly, yet firmly and with utmost precision and perfection the last finishing touches are being added to the temple, the last sections are being slipped into place. Holy calling--You are called to fill your place in the temple. . Are you letting Him work His will in your life, that great or small, you may perfectly fill and adorn the little space He has selected for you?
-今日、建物は完成に近づいている。静かに、すばやく、しかし堅く、この上ない正確さと完全さをもって、最後の仕上げが宮に加えられつつある。最後の部分がその場所にすべり込みつつある。聖なる召し。あなたは宮の中で自分の場所を満たすように召されている。あなたは、主がみこころをあなたの生涯に成し遂げられるのを、受け入れているか。それは、大きくても小さくても、主があなたのために選ばれた小さな場所を、あなたが完全に満たし、飾るためである。
+今日、建物は完成に近づいている。静かに、すばやく、しかし堅く、この上ない正確さと完全さをもって、最後の仕上げが宮に加えられつつある。最後の部分がその場所にすべり込みつつある。聖なる召し。あなたは宮の中で自分の場所を満たすように召されている。あなたは、主がみこころをあなたの生涯に成し遂げられるのを、受け入れているか。それは、あなたが大きくても小さくても、主があなたのために選ばれた小さな場所を、あなたが完全に満たし、飾るためである。
 // 英文の completion の後には句点がない。temple. . の . . は OCR の崩れ。
 
 MAJESTY AND GRANDEUR OF COMPLETED TEMPLE.
 ## 完成した宮の威厳と壮麗
 
 No matter where He shall place us in the house of the Lord (wherein we are to dwell forevermore), we will be able to inquire in His temple; and behold the Ancient of Days in His beauty, as He shall sit upon His throne, whose garment is white as snow, and whose hair is like the pure wool,, whose throne is like the fiery flame and His wheels as burning fire, to see the fiery stream that issues forth before Him, to see the thousand thousands who minister unto Him and the ten thousand who stand before Him (Dan. 7:9, 10.) to hear the thunders of His praises, see the lightnings of His power, and to hear His voice, sweet as the rushing of many waters--surely one such moment is worth a millionfold more blasting and chiselling and polishing. So deal on, O Lord, deal on.
-主が私たちを主の家の中のどこに置かれようとも（私たちはそこにとこしえに住むのである）、私たちはその宮で尋ねきわめることができる（詩篇二七・四）。そして日の老いたる者が、その麗しさのうちに御座に着かれるのを見る。その衣は雪のように白く、頭の毛は混じりもののない羊の毛のようである。その御座は火の炎、その車輪は燃える火である。御前から出るひと筋の火の流れを見る。主に仕える千々の者と、御前にはべる万々の者を見る（ダニエル七・九〜一〇）。主への賛美のとどろきを聞き、主の御力のいなずまを見て、多くの水のとどろきのように快い主の御声を聞く。確かに、そのような一瞬は、百万倍の発破とのみ入れと磨きにも値する。だから、取り扱い続けてください、主よ、取り扱い続けてください。
+主が私たちを主の家の中のどこに置かれようとも（私たちはそこにとこしえに住むのである）、私たちは『その宮で尋ねきわめる』ことができる（詩篇二七・四）。そして日の老いたる者が、その麗しさのうちに御座に着かれるのを見る。その衣は雪のように白く、頭の毛は混じりもののない羊の毛のようである。その御座は火の炎、その車輪は燃える火である。御前から出るひと筋の火の流れを見る。主に仕える千々の者と、御前にはべる万々の者を見る（ダニエル七・九〜一〇）。主への賛美のとどろきを聞き、主の御力のいなずまを見て、多くの水のとどろきのように快い主の御声を聞く。確かに、そのような一瞬は、百万倍の発破とのみ入れと磨きにも値する。だから、取り扱い続けてください、主よ、取り扱い続けてください。
 // 英文の wool,, の ,, は OCR の崩れ（,）。
 
 GETTING DOWN.
@@ -173,7 +173,7 @@ GETTING DOWN.
 『いと高く、いと上なる者、とこしえに住む者、その名を聖ととなえられる者がこう言われる、「わたしは高く、聖なる所に住み、また心砕けて、へりくだる者と共に住み、へりくだる者の霊をいかし、砕ける者の心をいかす」』（イザヤ五七・一五）
 
 SO much has been said through the Spirit these last days about the necessity of "getting down" before the Lord in humility and adoration, that it is well for us to find out "what saith the Scriptures?" on the subject.
-この終わりの日々に、主の前にへりくだりと礼拝のうちに「低くなる」必要について、御霊を通して多くのことが語られてきた。そこで、この事について『聖書はなんと言っているか』（ローマ四・三）を調べてみるのはよいことである。
+この終わりの日々に、主の前にへりくだりと礼拝のうちに「低くなる」必要について、御霊を通して多くのことが語られてきた。そこで、このことについて『聖書はなんと言っているか』（ローマ四・三）を調べてみるのはよいことである。
 
 ZACCHAEUS CAME DOWN.
 ## ザアカイは下りてきた
@@ -188,7 +188,7 @@ There are many today who, like Zacchaeus of old, just literally have to come dow
 今日も、昔のザアカイのように、文字どおり下りて来なければならない人が多くいる。自分自身についての先入観や思い込みから下り、自分の義についての高ぶった考えから下り、古い形式や儀式から下りなければならない。そして『神の力強い御手の下に、自らを低く』しなければならない（第一ペテロ五・六）。イエスはまことにへりくだって歩まれたので、イエスと共に歩む者は低くならなければならない。ザアカイは自分をイエスご自身よりも高い所に置いていた。イエスはその場所に来られると上を見あげられた、と書いてあるからである。まことに主は今日もなお上を見あげて、こう叫んでおられる。
 
 "Make haste and come down; for today I must abide at thy house." Make haste and come down and receive Him today joyfully; He is waiting to bless thee. Get down! Get down!! Get down!!!
-「急いで下りてきなさい。きょう、あなたの家に泊まることにしているから」。急いで下りて来て、今日、よろこんで主を迎え入れなさい。主はあなたを祝福しようと待っておられる。低くなりなさい！　低くなりなさい！　低くなりなさい！
+「急いで下りてきなさい。きょう、あなたの家に泊まることにしているから」。急いで下りて来て、今日、よろこんで主を迎え入れなさい。主はあなたを祝福しようと待っておられる。低くなりなさい！　低くなりなさい！！　低くなりなさい！！！
 
 THE LEPER KNEELED DOWN.
 ## らい病人はひざまずいた
@@ -211,7 +211,7 @@ Then there was Peter. Have you ever ascended to the top of the mountain of Trans
 // 英文の 7, John は OCR の誤り（I, John）。
 
 "I will resist the proud and the haughty, but be (/radons to the humble." Humble thyself to walk with God. O, never be ashamed to fall at His precious feet, for around the throne myriads of angels fall before Him, and the twenty Elders are crying:
-「わたしは高ぶる者とおごる者をしりぞけ、へりくだる者に恵みを賜う」（ヤコブ四・六、第一ペテロ五・五）。へりくだって神と共に歩みなさい（ミカ六・八）。ああ、主の尊い足もとに倒れ伏すことを、決して恥じてはならない。御座の周りでは、無数の御使が主の前にひれ伏しており、二十四人の長老が叫んでいるからである。
+「わたしは高ぶる者とおごる者をしりぞけ、へりくだる者に恵みを与える」（ヤコブ四・六、第一ペテロ五・五）。へりくだって神と共に歩みなさい（ミカ六・八）。ああ、主の尊い足もとに倒れ伏すことを、決して恥じてはならない。御座の周りでは、無数の御使が主の前にひれ伏しており、二十四人の長老が叫んでいるからである。
 // 英文の (/radons は OCR の崩れ（gracious）。英文の twenty Elders は、黙示録四・一〇 の二十四人の長老の誤りとみた。
 
 "Holy, holy, holy, Lord God Almighty."
@@ -220,13 +220,13 @@ Then there was Peter. Have you ever ascended to the top of the mountain of Trans
 Then we come to Mary, the sister of Martha.
 // 英文は、この行と次の行が前の段落につながっていた。段落を分けた。
 We are told that--
-次に、マルタの姉妹マリヤのところに来る。聖書はこう告げている。
+次に、マルタの妹マリヤのところに来る。聖書はこう告げている。
 
 MARY SAT DOWN.
 ## マリヤはすわった
 
 O! the clear vision of sweet communion that is opened up by these simple words: "Mary sat down."
-ああ、この単純な言葉、「マリヤはすわった」によって開かれる、甘い交わりのなんと澄んだ光景であろう（ルカ一〇・三九）。
+ああ、「マリヤはすわった」というこの単純な言葉によって開かれる、甘い交わりのなんと澄んだ光景であろう（ルカ一〇・三九）。
 
 "Sitting at the feet of Jesus,
 「イエスの足もとにすわって、<br/>
@@ -249,13 +249,13 @@ It has won my heart at last."
 // 英文の 1 は I の OCR の誤り。
 
 It is there, while busy Marthas are hurrying all about us--Marthas who seldom find time to pray or read the Word, Marthas who have floors to sweep and dishes to wash--that we steal away, like Mary of old, and, closeted with Him, take time to "sit down" and learn of Him. How He talks to us and communes with our souls. How He brings forth the treasures of the golden divinity of His nature, fills us with the frankincense of praise, and entrusts us with the fellowship of His sufferings, and reveals the power of His resurrection to us. It is to those who find time to sit at His feet, like Mary of old, that He reveals His perfect will. Beloved, take time to sit at Jesus' feet.
-忙しいマルタたちが私たちの周りを急ぎ回っている。祈ったりみことばを読んだりする時間をめったに見つけないマルタたち、掃く床と洗う皿を抱えたマルタたちである。そのただ中で、私たちは昔のマリヤのように、そっと抜け出す。そして主と二人きりでこもり、時間を取って「すわり」、主に学ぶ（マタイ一一・二九）。主はなんと私たちに語りかけ、私たちの魂と交わってくださることか。主はなんと、ご性質の黄金の神性という宝を取り出し、賛美の乳香で私たちを満たしてくださることか。そして、ご自分の苦難にあずかることを私たちにゆだね、ご自分の復活の力を私たちにあらわしてくださることか（ピリピ三・一〇）。主がご自分の完全なみこころをあらわされるのは、昔のマリヤのように、主の足もとにすわる時間を見つける者たちに対してである。愛するみなさん、時間を取って、イエスの足もとにすわりなさい。
+忙しいマルタたちが私たちの周りを急ぎ回っている。祈ったりみことばを読んだりする時間をめったに見つけないマルタたち、掃く床と洗う皿を抱えたマルタたちである。そのただ中で、私たちは昔のマリヤのように、そっと抜け出して、そこへ行く。そして主と二人きりでこもり、時間を取って「すわり」、主に学ぶ（マタイ一一・二九）。主はなんと私たちに語りかけ、私たちの魂と交わってくださることか。主はなんと、ご性質の黄金の神性という宝を取り出し、賛美の乳香で私たちを満たしてくださることか。そして、ご自分の苦難にあずかることを私たちにゆだね、ご自分の復活の力を私たちにあらわしてくださることか（ピリピ三・一〇）。主がご自分の完全なみこころをあらわされるのは、昔のマリヤのように、主の足もとにすわる時間を見つける者たちに対してである。愛するみなさん、時間を取って、イエスの足もとにすわりなさい。
 
 Then, coming to our precious Lord, we remember that--
 それから、私たちの尊い主のところに来ると、私たちは思い起こす。
 
 JESUS LAID DOWN
-## イエスは捨てられた
+## イエスはお捨てになった
 
 His life for the brethren, and seek to echo His word: "Greater love hath no man than this, that lie lay down his life for his friends."
 兄弟たちのために、ご自分のいのちを（第一ヨハネ三・一六）。そして私たちは、主の言葉にこだまのように応えようとする。「人がその友のために自分の命を捨てること、これよりも大きな愛はない」（ヨハネ一五・一三）
