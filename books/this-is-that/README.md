@@ -32,7 +32,7 @@
 + [x] Chapter XX. The Transcontinental Gospel Tour (1)
 + [x] Chapter XX. The Transcontinental Gospel Tour (2)
 + [x] Chapter XXI. Mighty Downpour at Los Angeles
-+ [ ] Chapter XXII. "The House That God Built"
++ [x] Chapter XXII. "The House That God Built"
 + [ ] Chapter XXIII. Los Angeles to San Francisco
 + [ ] Part II. The Mighty Power of God Manifested at Mount Forest, Ontario / Testimony of Pastor W. K. Bouton
 + [ ] Part II. Memories of the Camp / A Monday Night Meeting / Some Things Which I Saw / Wonderful Downpour at Victoria Hall / San Francisco Revival
