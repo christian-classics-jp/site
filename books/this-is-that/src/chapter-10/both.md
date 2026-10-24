@@ -7,11 +7,12 @@ NINEVEH TO TARSHISH--AND RETURN.
 『ヨナは魚の腹の中からその神、主に祈って、（中略）主は魚にお命じになったので、魚はヨナを陸に吐き出した。時に主の言葉は再びヨナに臨んで言った、「立って、ニネベに行き、あなたに命じる言葉をこれに伝えよ」。そこでヨナは立って、行った』（ヨナ二・一、一〇、三・一〜三）
 
 HAVE you ever had a secret tucked away in the closet of your Christian experience which you shrank from exposing to the sunlight of public gaze and criticism?--a spot where somewhere on your spiritual anatomy, so sore that the very thought of its being touched. by a curious, probing finger made you wince?--a certain period of your life which you would a little rather not have generally known or discussed, all of which has long ago been confessed, forgiven and buried beneath the cleansing blood?
-あなたには、クリスチャンとしての歩みの押し入れの奥に、秘密をしまい込んでいたことがないだろうか。人目と批判の日の光にさらすのを、しりごみするような秘密である。あるいは、霊のからだのどこかに、痛むところがないだろうか。好奇心に満ちた、探るような指で触れられると思っただけで、顔をしかめてしまうほど痛むところである。あるいは、人生のある時期について、あまり人に知られたり、話題にされたりしたくないと思うことはないだろうか。それはみな、とうの昔に告白し、ゆるされ、きよめる血の下に葬られたことなのだが。
+// 英文の touched. by は touched by の OCR の崩れ。
+あなたには、クリスチャンとしての歩みの押し入れの奥に、秘密をしまい込んでいたことがないだろうか。人目と批判の日の光にさらすのを、しりごみするような秘密である。あるいは、あなたの霊のどこかに、痛むところがないだろうか。好奇心に満ちた、探るような指で触れられると思っただけで、顔をしかめてしまうほど痛むところである。あるいは、人生のある時期について、あまり人に知られたり、話題にされたりしたくないと思うことはないだろうか。それはみな、とうの昔に告白し、ゆるされ、きよめる血の下に葬られたことなのだが。
 
 Have you, in telling your experience, been tempted to take a hop, * skip and a jump over your deviations from the straight and narrow path of God's best and perfect will for you? Have you felt like leaping over and omitting, when telling your Christian experience, the things which should have been omitted in real life?--Well, that has just been my case exactly.
 // 英文の hop, * skip の * は OCR の混入。
-自分の歩みを語るとき、神の最善で完全なみこころという、まっすぐで狭い道からそれたところを、ひょいひょいと飛び越えてしまいたくなったことはないだろうか。実生活で省くべきだったことを、クリスチャンとしての歩みを語るときに、飛び越えて省きたいと思ったことはないだろうか。そう、それがまさに私の場合だった。
+神の最善で完全なみこころは、あなたにとって、まっすぐで狭い道である。自分の歩みを語るとき、その道からそれたところを、ひょいひょいと飛び越えてしまいたくなったことはないだろうか。実生活で省くべきだったことを、クリスチャンとしての歩みを語るときに、飛び越えて省きたいと思ったことはないだろうか。そう、それがまさに私の場合だった。
 
 If this were to be a fine-sounding story of a continued forward march, without ever such a thing as a waver, this chapter would never be written. The Lord has made me to long, however, that each step of my experience may be a blessing and an encouragement to someone. It is easy to tell of the times when we have lived in victory, run the heavenly race without a single tumble, and when God has blessed us and made us a blessing: the hours of defeat, when we stumbled in the darkness by the way, however, may be of more blessing to the poor backslider who is groping his way back to light, than any other experience could be.
 もしこれが、一度もためらうことなく前進し続けた、聞こえのよい物語であるなら、この章は決して書かれなかっただろう。けれども主は、私の歩みの一歩一歩がだれかの祝福と励ましになるようにと、願う心を与えてくださった。勝利のうちに生き、天への競走を一度も転ばずに走り、神が私たちを祝福し、祝福としてくださったときのことを語るのはたやすい。けれども、道の途中で暗やみの中につまずいた敗北のときこそ、ほかのどんな経験にもまさる祝福となるかもしれない。手探りで光へ戻る道を探している、信仰から離れた哀れな人にとってである。
@@ -20,45 +21,47 @@ The Lord had been wonderfully with me through the ordeal of my husband's death, 
 夫の死という試練のときも、その後のできごとのときも、故国に帰るときも、主はすばらしく私とともにいてくださった。それでも、私が歩いて渡った孤独の恐ろしい水は、ときに頭の上まで押し寄せるように思えた。けれどもそのたびに、主は私とともにいて、慰め、支えてくださった。
 
 The following year found me battling against the swift, contrariwise tide, struggling to keep my feet, and to take up the broken thread of my life where last left off. My work in the meeting; necessitated taking with me, and .often keeping out till midnight, and as late as two o'clock in the morning, my frail little daughter, who eventually became very ill. I was given expert advice upon her frail condition and was told that I would be responsible for her life if I did not "get her a quiet home and proper food, as the constant moving about and changing food would be the death of the child."
+// 英文の meeting; と .often は OCR の崩れ。
 翌年、私は、逆らって速く流れる潮と戦っていた。足を踏ん張り、途切れた人生の糸を、切れたところからもう一度つなごうともがいていた。集会での働きのために、私は弱い小さな娘を連れて歩かなければならなかった。夜中の十二時まで、ときには朝の二時まで外にいることもしばしばだった。そのうち、娘はひどい病気になった。娘の弱った体について専門家の助言を受けると、こう言われた。「静かな家とふさわしい食べ物を与えないなら、子供のいのちはあなたの責任になる。いつも移動して食べ物が変わっていては、この子は死んでしまう」
 
 I had come home from China like a wounded little bird, and my bleeding heart was constantly pierced with curious questions from well-meaning people who could not see the will of God in our call to China, and who felt that there must be a mistake somewhere, either in Robert's sudden death or my return home. I could not answer them, not being able to see the will of God in all this yet myself. Wherever I went amongst the dear people who had helped to send us to China, I would seem to feel an atmosphere of questioning (whether spoken or unexpressed), which little by little wore upon me until soon I began to feel like some guilty thing who had no business to be there, but far away somewhere--I could not tell just where.
-私は、傷ついた小鳥のように中国から帰ってきた。血を流す私の心は、善意の人々の好奇心からの問いに、絶えず刺し貫かれた。その人たちは、私たちが中国へ召されたことに、神のみこころを見ることができなかった。ロバートの急な死か、私の帰国か、どこかに間違いがあったにちがいないと感じていたのである。私には答えられなかった。私自身、まだそのすべてに神のみこころを見ることができなかったからである。私たちを中国へ送り出す手助けをしてくれた愛する人々のあいだでは、どこへ行っても、問いただすような空気を感じるようだった（口に出されても、出されなくても）。それが少しずつ私をすり減らした。やがて私は、自分が何か罪を犯した者で、ここにいるべきではないように感じ始めた。どこか遠くにいるべきなのだ。それがどこなのかは、わからなかったが。
+私は、傷ついた小鳥のように中国から帰ってきた。血を流す私の心は、善意の人々の好奇心からの問いに、絶えず刺し貫かれた。その人たちは、私たちが中国へ召されたことに、神のみこころを見ることができなかった。ロバートの急な死か、私の帰国か、どこかに間違いがあったにちがいないと感じていたのである。私には答えられなかった。私自身、まだそのすべてに神のみこころを見ることができなかったからである。私たちを中国へ送り出す手助けをしてくれた、愛する人々がいる。その人々のあいだでは、どこへ行っても、問いただすような空気を感じるようだった（口に出されても、出されなくても）。それが少しずつ私をすり減らした。やがて私は、自分が何か罪を犯した者で、ここにいるべきではないように感じ始めた。どこか遠くにいるべきなのだ。それがどこなのかは、わからなかったが。
 
 Oh! how I longed for some one who would understand or put their arms about me and help me at this critical moment of my life, and this was just the time that the Lord permitted those I loved best to seem to draw aside the arms that had been before so strong and dependable, causing a little curtain of reserve to drop between us, leaving me on the outside with my baby.
-ああ、私をわかってくれる人、私を腕に抱いて、人生のこの重大なときに助けてくれる人を、どれほど求めたことか。ところがちょうどそのときに、主は、私が最も愛していた人たちが、それまであれほど力強く頼りになった腕を、引っ込めるかのように見えることを許された。私たちのあいだには遠慮という小さな幕が下り、私は赤ん坊とともに外に取り残された。
+ああ、私をわかってくれる人、私を腕に抱いて、人生のこの重大なときに助けてくれる人を、どれほど求めたことか。ところがちょうどそのときに、主はあることを許された。私が最も愛していた人たちが、それまであれほど力強く頼りになった腕を、引っ込めるかのように見えたのである。私たちのあいだには遠慮という小さな幕が下り、私は赤ん坊とともに外に取り残された。
 
 Looking at it in the natural, it is hardly to be wondered at that, like Hagar, with my child, I departed and wandered in the wilderness, and that I lifted up my voice and wept. Pentecost seemed as the mistress, dealing hardly with me. and God as Abraham who apparently did not intervene in my behalf.
+// 英文の me. and は me, and の OCR の崩れ。
 人間の目で見れば、私がハガルのように子供を連れて出て行き、荒野をさまよい、声をあげて泣いたのも、無理のないことだった。ペンテコステの人々は、私につらく当たる女主人のように思えた。そして神は、私のために間に入ってくれないように見えるアブラハムのように思えた。
 
 The loom of life seemed then to be but a tangled maze whose colorings had suddenly plunged from mountain-tops of sunlit glory to the depths of a seemingly endless valley of bewildering gloom. It is only now, after having watched through the succeeding years the steady flying to and fro of the shuttles of destiny, ever guided by the tender wisdom of the Hand Divine, that I begin to see the head and form of the Master being wrought out and woven upon the loom of my life.
 そのころ、人生の機（はた）は、もつれた迷路にすぎないように思えた。その色合いは、日に照らされた栄光の山の頂から、果てしなく思える谷の、途方に暮れるような暗がりの底へと、急に落ち込んでしまったのである。その後の年月、私は、運命の杼（ひ）が絶えず行き来するのを見守ってきた。杼はいつも、神の御手の優しい知恵に導かれていた。今になってようやく、主の御顔とお姿が、私の人生の機に織り出されているのが見え始めているのである。
 
 It was just at the time of my greatest perplexity, when I had begun to lose out spiritually and wander away from the Lord, and was longing to make a home for the baby, that I married again. Before the marriage took place, however, I made one stipulation wherein I told my husband that all my heart and soul was really in the work of the Lord and that if, at any time in my life, He should call me to go to Africa or India, or to the Islands of the Sea, no matter where or when, I must obey God first of all. To this he agreed and we were married under these conditions, and settled down in a furnished apartment.
-私が再婚したのは、ちょうど最も途方に暮れていたときだった。霊的に後退し始め、主から迷い出て、赤ん坊のために家庭を作りたいと切に願っていたときである。けれども結婚の前に、私は一つの条件を出した。夫にこう言ったのである。私の心と魂のすべては、本当は主の働きにある。だから、もしいつか主が、アフリカやインドへ、あるいは海の島々へ行くようにと私を召されたら、それがどこであっても、いつであっても、私は何よりもまず神に従わなければならない、と。夫はこれに同意し、私たちはこの条件で結婚した。そして家具付きのアパートに落ち着いた。
+私が再婚したのは、ちょうど最も途方に暮れていたときだった。霊的に後退し始め、主から迷い出て、赤ん坊のために家庭を作りたいと切に願っていたときである。けれども結婚の前に、私は一つの条件を出した。夫にこう言ったのである。私の心と魂のすべては、本当は主の働きにある。だから、いつか主が、アフリカやインドへ、あるいは海の島々へ行くようにと、私を召されるかもしれない。そのときは、それがどこであっても、いつであっても、私は何よりもまず神に従わなければならない、と。夫はこれに同意し、私たちはこの条件で結婚した。そして家具付きのアパートに落ち着いた。
 
 Disturbed and troubled in my heart, stepping out of the work of the Lord, I turned again to the world, endeavoring to stifle my longings to be reinstated at the banqueting table of my King.
 心を乱し、悩みながら、私は主の働きから身を引き、再びこの世に向かった。私の王の宴の食卓に、もう一度迎えられたいという切なる思いを、押し殺そうとしたのである。
 
 I wonder if there is anyone on earth who is really as abjectly miserable as the backslider? It was such a relief to be able to stay away from the meetings, and yet such a pain to be away from them (if you can analyze that), that I was torn between the two conflicting forces. Some of the saints saw me backsliding and drifting into the world, and my position became still more intolerable.
-信仰から離れた人ほど、本当にみじめな者が、この地上にいるだろうか。集会に行かなくてもすむのは、とてもほっとすることだった。それなのに、集会から離れているのは、とてもつらいことでもあった（この気持ちを分析できるなら、してみていただきたい）。私は二つの相反する力のあいだで引き裂かれていた。聖徒たちの中には、私が信仰から離れ、この世へ流されていくのを見る人もいた。それで、私の立場はいっそう耐えがたいものになった。
+信仰から離れた人ほど、本当にみじめな者が、この地上にいるだろうか。集会に行かなくてもすむのは、とてもほっとすることだった。それなのに、集会から離れているのは、とてもつらいことでもあった（この気持ちが分析できるものなら）。私は二つの相反する力のあいだで引き裂かれていた。聖徒たちの中には、私が信仰から離れ、この世へ流されていくのを見る人もいた。それで、私の立場はいっそう耐えがたいものになった。
 
 When my husband received an invitation from his mother to come to her home in Rhode Island I was willing to consent to board the boat in my endeavor to "flee unto Tarshish from the presence of the Lord."
 夫が母親から、ロードアイランドの家に来るようにと招かれたとき、私は進んで船に乗ることに同意した。『主の前を離れてタルシシへのがれ』ようとしたのである（ヨナ一・三）。
 
 But Oh? dear reader, what a great wind the Lord sent out into the sea! Such a mighty tempest was there in the deep that our frail domestic craft was rocked to and fro, so that the ship was like to be broken.
 // 英文の Oh? は Oh! の誤りとみる（後の Oh? Lord も同じ）。
-けれども、ああ、読者のみなさん、主はなんという大風を海の上に起こされたことか。深みには激しい暴風があって、私たちの家庭というもろい小舟は揺さぶられ、船が破れるほどになった（ヨナ一・四）。
+けれども、ああ、読者のみなさん、主はなんという大風を海の上に起こされたことか。海には激しい暴風があって、私たちの家庭というもろい小舟は揺さぶられ、船が破れるほどになった（ヨナ一・四）。
 
 Day by day matters grew worse instead of better; I grieved and mourned and wept for my Jesus and the old-time place in Him. I was a mystery and a constant source of discomfort to those round about me.
-日ごとに、事態はよくなるどころか悪くなっていった。私は、私のイエスと、以前の主のうちにあった場所とを求めて、悲しみ、嘆き、泣いた。周りの人々にとって、私はわけのわからない存在であり、絶えず居心地を悪くさせるもとだった。
+日ごとに、事態はよくなるどころか悪くなっていった。私は、私のイエスと、主のうちにあったかつての場所とを求めて、悲しみ、嘆き、泣いた。周りの人々にとって、私はわけのわからない存在であり、絶えず居心地を悪くさせるもとだった。
 
 Earthly things--home--comfort--Oh, what did these matter? I was out of His dear will, and my soul refused to be comforted.
 地上のもの、家庭、安楽。ああ、それが何だというのだろう。私は主の尊いみこころの外にいた。そして私の魂は、慰められるのを拒んだ。
 
 Shutting myself away in my room I would sit on the floor in the corner bee:-nd the bed, and cry over and over the one word that I could say when I tried to pray:
 // 英文の bee:-nd は behind の OCR の崩れ。
-私は部屋に閉じこもり、ベッドの陰の隅の床に座った。祈ろうとしても、たった一つの言葉しか言えなかった。私はそれを何度も何度も叫んだ。
+私は部屋に閉じこもっては、ベッドの陰の隅の床に座った。祈ろうとしても、たった一つの言葉しか言えなかった。私はそれを何度も何度も叫ぶのだった。
 
 "Oh--Oh--Jesus! Jesus! Jesus!! JESUS!"
 「ああ、ああ、イエスさま！　イエスさま！　イエスさま！！　イエスさま！」
@@ -107,10 +110,10 @@ My husband and his mother would often say:
 「ねえ、エイミー。これ以上何がほしいのか、わからない。何があっても、あなたは幸せにならないと思う。きっと性分なのね」（なんと、主をほめたたえよ、主のみこころのうちにいるとき、私はとても幸せで、喜びに満ちている。足も心もとても軽くて、踊らずにはいられないほどである。地上のだれも、私ほど幸せにはなれないように思える）
 
 My nerves became so seriously affected that the singing of the teakettle upon the stove or the sound of voices was unbearable. I implored the little one to speak in whispers. I hated the sunshine and wanted to keep the shutters closed and the window-shades drawn tightly. The doctors said I would lose my reason if something was not done. I became very ill in body and inside of one year two serious operations were performed. Each time, before going under the surgeon's knife, and during many other times of critical illness, when it seemed as though I were going to die, I would call the saints to pray for me that I might be delivered, but each time they prayed I could plainly hear the voice of the Lord saying:
-私の神経はひどく参ってしまい、こんろの上でやかんが鳴る音や、人の話し声にさえ耐えられなくなった。私は小さな娘に、ささやき声で話してほしいと頼んだ。日の光が憎く、よろい戸を閉め、ブラインドをぴったり下ろしておきたかった。医者たちは、何か手を打たなければ正気を失うだろうと言った。体もひどく悪くなり、一年のうちに二度の大手術を受けた。メスの下に入る前に毎回、そのほかにも死ぬかと思うほど危ない病のときに何度も、私は聖徒たちを呼び、救われるように祈ってもらった。けれども、彼らが祈るたびに、主がこう言われる声がはっきりと聞こえた。
+私の神経はひどく参ってしまい、こんろの上でやかんが鳴る音や、人の話し声にさえ耐えられなくなった。私は小さな娘に、ささやき声で話してほしいと頼んだ。日の光が憎く、よろい戸を閉め、ブラインドをぴったり下ろしておきたかった。医者たちは、何か手を打たなければ正気を失うだろうと言った。体もひどく悪くなり、一年のうちに二度の大手術を受けた。メスの下に入る前に毎回、そのほかにも死ぬかと思うほど危ない病のときに何度も、私は聖徒たちを呼び、病から救い出されるように祈ってもらった。けれども、彼らが祈るたびに、主がこう言われる声がはっきりと聞こえた。
 
 "Will you go? Will you preach the Word?" I knew that if I said "Yes," He would heal me. But how could I say "Yes?" Difficulties rose like mountains in my path. Oh, now I have learned, that no matter what the obstacles may be, if Jesus says "Go," and I start, by the time the obstacle is reached I will either be lifted over it or it will be gone. God does not ask us to do the impossible. If He tells you to do a thing, no matter how hard it seems, you just start to do it and you will find, like Christian of old, that the lions are fettered and unable to hinder your progress.
-「行くか。みことばを宣べ伝えるか」もし「はい」と言えば、主がいやしてくださることはわかっていた。けれども、どうして「はい」と言えるだろうか。困難が山のように行く手にそびえていた。ああ、今の私は知っている。どんな障害があろうと、イエスが「行け」と言われ、私が歩き出すなら、障害のところに着くまでに、私はそれを越えて持ち上げられるか、障害のほうがなくなっているのである。神は不可能なことを私たちに求められない。主が何かをするようにと言われたら、それがどんなに難しく見えても、とにかくやり始めればよい。そうすれば、昔の『天路歴程』のクリスチャンのように、獅子が鎖につながれていて、行く手を妨げられないことがわかるだろう。
+「行くか。みことばを宣べ伝えるか」もし「はい」と言えば、主がいやしてくださることはわかっていた。けれども、どうして「はい」と言えるだろうか。困難が山のように行く手にそびえていた。ああ、今の私は知っている。どんな障害があろうと、イエスが「行け」と言われ、私が歩き出すなら、障害のところに着くまでに、私は持ち上げられてそれを越えるか、障害のほうがなくなっているのである。神は不可能なことを私たちに求められない。主が何かをするようにと言われたら、それがどんなに難しく見えても、とにかくやり始めればよい。そうすれば、昔の『天路歴程』のクリスチャンのように、獅子が鎖につながれていて、行く手を妨げられないことがわかるだろう。
 
 After the first operation I was worse instead of better. Complications set in, heart trouble, hemorrhages from my stomach, and intense nervousness among others. The doctors said that another operation would be necessary.
 一度目の手術のあと、私はよくなるどころか悪くなった。合併症が起こった。心臓の病、胃からの出血、激しい神経過敏などである。医者たちは、もう一度手術が必要だと言った。
@@ -126,14 +129,14 @@ Preach the Word!"
 「行くか。行くか。みことばを宣べ伝えよ！　みことばを宣べ伝えよ！」
 
 At last, doubling over with a scream with appendicitis, on top of all else, I was rushed again to the hospital. As I was being prepared for the operating table I prayed earnestly from my valley of despair--
-とうとう、ほかのすべてに加えて虫垂炎になり、私は悲鳴を上げて体を二つに折った。そして再び、急いで病院に運ばれた。手術台の準備をされているあいだ、私は絶望の谷底から熱心に祈った。
+とうとう、ほかのすべてに加えて虫垂炎になり、私は悲鳴を上げて体を二つに折った。そして再び、急いで病院に運ばれた。手術台に上がる準備をされているあいだ、私は絶望の谷底から熱心に祈った。
 
 "Oh, God, please take me home to be with You. It doesn't seem possible for me to go back and I certainly cannot bear it to go on. I am a misery to myself and to everybody round about me. Please, please take me home to be with You." But Oh, I am so glad that He spared me. Praise His precious name.
 「ああ、神よ、どうか私をみもとに召して、あなたとともにいさせてください。戻ることはできそうにありませんし、このまま続けていくことには、とても耐えられません。私は自分にとっても、周りのだれにとっても、みじめなお荷物です。どうか、どうか私をみもとに召して、あなたとともにいさせてください」けれども、ああ、神が私を生かしておいてくださったことを、私はとてもうれしく思う。主の尊い御名をほめたたえよ。
 
 After I had come out from under the ether and the knife, wherein five operations in one had been performed, the poor, unconscious "what-there-was-left-of-me" was put back in the bed and I opened my eyes on the white walls of the hospital-quivering with pain from head to foot, which, instead of growing better grew worse and worse.
 // 英文の hospital-quivering は hospital--quivering の崩れとみる。
-エーテル麻酔とメスから覚めたとき、一度に五つの手術が行われていた。意識のない哀れな「私の残りかす」はベッドに戻された。目を開けると、病院の白い壁が見えた。私は頭から足の先まで痛みに震えていた。その痛みはよくなるどころか、ますますひどくなっていった。
+エーテル麻酔とメスによる手術が終わった。一度に五つの手術が行われたのである。意識のない哀れな「私の残りかす」はベッドに戻された。目を開けると、病院の白い壁が見えた。私は頭から足の先まで痛みに震えていた。その痛みはよくなるどころか、ますますひどくなっていった。
 
 Twice my mother had been called by a telegram to see me die. Her heart was torn as the wheels of the train sped over the track, and she prayed that she might be there in time. From the depot she was rushed to the hospital, and chokes up yet, as she sits here beside me and tries to describe her feelings as she entered the room reeking with ether, and looked upon the little form lying on the pillow that had been the center of so many scenes of hope and life and happiness.
 母は二度も、私の死に目に会うようにと電報で呼ばれた。汽車の車輪が線路の上を走るあいだ、母の心は引き裂かれ、間に合うようにと祈った。駅から病院へと急いで運ばれた。今もこうして私のそばに座り、エーテルのにおいの立ちこめる部屋に入ったときの気持ちを語ろうとすると、母は声を詰まらせる。枕の上に横たわる小さな姿を見たときの気持ちである。その子は、あれほど多くの望みといのちと幸せの場面の中心にいたのだった。
@@ -184,7 +187,7 @@ On several occasions before and after my return from the hospital, little attemp
 退院の前にも後にも、私は何度か、すぐにぶどう園へ出て行くという決心を、それとなく打ち明けようとした。
 
 "Why, what a crazy notion for you to even think of such a thing! Why don't you be like other young women and be contented to stay at home and attend to the housework?" and other outbursts of like nature invariably met my timid, yet firm ventures to gain the consent of the household.
-「まあ、そんなことを考えるだけでも、なんてばかげた思いつきだ。どうしてほかの若い女の人たちのように、満足して家にいて、家事をしないのか」家の人たちの同意を得ようと、おずおずと、けれどもきっぱりと切り出すたびに、決まってこのような言葉が爆発するように返ってきた。
+「まあ、そんなことを考えるだけでも、なんてばかげた思いつきでしょう。どうしてほかの若い女の人たちのように、満足して家にいて、家事をしないのか」家の人たちの同意を得ようと、おずおずと、けれどもきっぱりと切り出すたびに、決まってこのような言葉が爆発するように返ってきた。
 
 Too weak to argue, I was also too weak to dare even think of disobeying God. That great white whale, the operating table, had thrown me up on the shore. The Lord had spared my life under a definite promise that I would serve Him. Foolish and impossible as the idea might seem, I was going to strike out for Nineveh, without a moment's hesitation, live or die, sink or swim, praying for Divine guidance and filled with a determination to say "Yes" to that call--
 言い争う力もなかったが、神に背こうなどと考える力もなかった。あの大きな白い鯨、手術台が、私を岸に吐き出したのである。主は、私が主に仕えるというはっきりした約束のもとで、私のいのちを助けてくださった。その考えがどんなに愚かで不可能に見えようと、私はためらうことなく、ニネベへ向けて出発するつもりだった。生きるにせよ死ぬにせよ、沈むにせよ泳ぐにせよ、神の導きを祈り求め、あの召しに「はい」と言おうと固く決意していた。
@@ -193,10 +196,11 @@ Too weak to argue, I was also too weak to dare even think of disobeying God. Tha
 「行くか。行くか」どのように、どこへ行くのかはわからなかった。それでも、とにかく出発するつもりだった。それも今すぐに。主の足もとに身を投げ出し、ひたすら主に信頼して。紅海を分け、ヨルダンの波を押し返された主が、どうにかして私のために川も山も取り除き、火の中を焼かれずに通らせてくださることを、私は確信していた。
 
 Mother now being in Canada, I telegraphed there for money; and when alone in the house one night, 'phoned for a taxicab, and at eleven o'clock bundled my two babies inside while the chauffeur piled the two suitcases on top, and away we sped to catch the midnight train for home and Mother. To make a new start and begin all over again it seemed the most natural thing in the world to go back to the starting place from which I had set out before.
-母はそのころカナダにいたので、私はそこへ電報を打ってお金を頼んだ。そしてある夜、家にだれもいないときに、電話でタクシーを呼んだ。十一時、二人の子供をくるんで車に乗せ、運転手が二つのスーツケースを屋根に積み上げた。そして、故郷の母のもとへ行く真夜中の汽車に乗るため、私たちは急いで走り去った。新しく出直して、すべてをやり直すには、前に出発したその出発点に戻るのが、世界でいちばん自然なことに思えた。
+母はそのころカナダにいたので、私はそこへ電報を打ってお金を頼んだ。そしてある夜、家にだれもいないときに、電話でタクシーを呼んだ。十一時、二人の子供を急いで車に乗せ、運転手が二つのスーツケースを屋根に積み上げた。そして、故郷の母のもとへ行く真夜中の汽車に乗るため、私たちは急いで走り去った。新しく出直して、すべてをやり直すには、前に出発したその出発点に戻るのが、世界でいちばん自然なことに思えた。
 
 God was with me and I was conscious of His leading and support at every step. With my little baby clasped in one. arm and Roberta sleeping in the other, I held them tightly to me as the immensity of what I was doing swept over me. The streets wene dark and almost deserted as we rolled along toward the depot.
 // 英文の wene は were の OCR の誤り。
+// 英文の one. arm は one arm の OCR の崩れ。
 神は私とともにおられ、一歩ごとに主の導きと支えを感じていた。片方の腕に小さな赤ん坊を抱き、もう片方の腕にロバータを眠らせて、私は二人をしっかりと抱き寄せた。自分のしていることの大きさが、押し寄せてきたのである。駅へ向かう道すがら、通りは暗く、ほとんど人けがなかった。
 
 So here I was setting forth for the second time in my life to obey the great call to preach the Word, but how different it was from the first time--how changed the scene!
@@ -206,16 +210,17 @@ Scene One. The first time it was high noon and the warm, friendly sun smiled and
 第一の場面。一度目は真昼だった。暖かく親しげな太陽が、空からほほえみかけ、照りつけていた。いのちと望みが、ばら色のほおをした小さな花嫁の前に、衣を広げていた。花嫁は、涙ぐみながらも愛と思いやりに満ちた友人や親族に、手を振って見送られた。田舎の芝生には百人以上が集まり、何マイルも離れた所から見送りに来た人もいた。みな花や米を浴びせ、「神の祝福がありますように」と言ってくれた。あのとき私は、力も知恵も導きも、何もかも夫の力強い腕に寄りかかって出て行った。魂は祝福され、勝利に満ちていた。奉仕の開かれた門が、私たちの前にあった。私たちは足もとが確かで、どこへ行くのかもはっきりわかっていた。
 
 Scene Two: Setting forth alone--at midnight--almost running away--with my two babies-weak in body--empty and lean in my soul--no earthly arm to lean upon--no visible open door before me--no loving friends--no flowers or "God bless you's." But Oh, I praise Jesus for the experience! Nothing could tempt me to part with the lessons taught me in those hard places of going through alone with Jesus and thrusting my roots of faith and dependence, confidence and trust down deep into Himself.
+// 英文の babies-weak は babies--weak の崩れとみる。
 第二の場面。一人で出発する。真夜中に。ほとんど逃げ出すようにして。二人の子供を連れて。体は弱り、魂は空っぽでやせ細っている。寄りかかる地上の腕はない。目の前に見える開かれた門もない。愛する友人もいない。花も「神の祝福がありますように」の言葉もない。けれども、ああ、この経験をイエスに感謝する。何を差し出されても、あのつらい所で教えられた教訓を手放す気にはなれない。そこで私は、イエスとただ二人で切り抜け、信仰と依り頼みと確信と信頼の根を、主ご自身のうちに深く下ろしたのである。
 
 My former life in the work had been like that of a vine which twined about the stalwart oak, but when that stronghold to which I clung had been taken away and transplanted into the heavenly gardens, when my clutch had been loosened and let go there was nothing left of the vine, that had reached so high, but a pitifully broken, crumpled little heap which lay in tumbled confusion on the earth. But now I had found One to cling to and fasten my hold upon who was as the cedars of Lebanon, who would endure forever, from whom I could not be removed--One who would never die nor leave me. Oh, it was Jesus! Jesus!!
-以前の働きの生活は、たくましい樫の木に巻きつくつる草のようだった。けれども、私のすがっていたその支えが取り去られ、天の園に移し植えられた。つかんでいた手がゆるみ、離れてしまった。そのとき、あれほど高く伸びていたつる草は、哀れに折れてくしゃくしゃになり、地面にもつれて崩れ落ちた小さな塊にすぎなかった。けれども今、私はすがりつき、しっかりつかまることのできるかたを見いだしていた。そのかたはレバノンの香柏のように、永遠に立ち続け、私はそこから引き離されることがない。決して死なず、私を離れることもないかた。ああ、それはイエスだった。イエスだった！！
+以前の働きの生活は、たくましい樫の木に巻きつくつる草のようだった。けれども、私のすがっていたその支えが取り去られ、天の園に移し植えられた。つかんでいた手がゆるみ、離れてしまった。そのとき、あれほど高く伸びていたつる草は、哀れに折れてくしゃくしゃになり、地面にもつれて崩れ落ちた小さな塊にすぎなかった。けれども今、私はすがりつき、しっかりつかまることのできるかたを見いだしていた。そのかたはレバノンの香柏のように、永遠に立ち続けておられる。私がそのかたから引き離されることはない。決して死ぬことがなく、私を離れることもなさらないかた。ああ、それはイエスだった。イエスだった！！
 
 Yes, thank God for the hard places, for the winds and the icy blasts of winter's storm, for Oh, 'twas there I learned for the first time a little of what it meant to be rooted and grounded and settled--to die out and to go through a valley of crucifixion that led to resurrection power and glory.
 そうだ、つらい所を、風を、冬の嵐の凍りつく突風を、神に感謝する。ああ、そこで私は初めて、根ざし、基を据え、不動のものとされることの意味を、少しばかり学んだのである。自分に死に、十字架の谷を通ることの意味も学んだ。その谷は、復活の力と栄光へと続いていた。
 
 Did you ever ride along through a tunnel or subway that was pitch dark and seemingly endless?--then all at once, away in the distance, you saw a tiny light which you knew must be the opening of the tunnel and sunlight? That's just the way I felt. I was still in the darkness of the tunnel, but I saw the door, the beacon light of God's dear sunlight--His smile of approval, and I was running toward it.
-真っ暗で果てしなく思えるトンネルや地下鉄を、乗り物で通ったことがあるだろうか。すると突然、はるか遠くに小さな光が見える。それはトンネルの出口で、日の光にちがいないとわかる。私はちょうどそんな気持ちだった。まだトンネルの暗やみの中にいたが、扉が見えていた。神の愛する日の光の、道しるべの光、主のよしとされるほほえみである。そして私は、それに向かって走っていた。
+真っ暗で果てしなく思えるトンネルや地下鉄を、乗り物で通ったことがあるだろうか。すると突然、はるか遠くに小さな光が見える。それはトンネルの出口で、日の光にちがいないとわかる。私はちょうどそんな気持ちだった。まだトンネルの暗やみの中にいたが、扉が見えていた。神の尊い日の光の、道しるべの光、主のよしとされるほほえみである。そして私は、それに向かって走っていた。
 
 "Here we are, lady, just in time!" broke in the voice of the driver, as the car pulled up at the curb in front of the depot.
 「さあ着きましたよ、奥さん、ちょうど間に合いました！」車が駅の前の縁石に止まると、運転手の声が割って入った。
