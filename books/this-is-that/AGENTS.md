@@ -42,6 +42,7 @@
 - 語：the Holy Spirit／the Holy Ghost＝聖霊、the Spirit＝御霊、in the Spirit＝御霊のうちに、the baptism with the Holy Spirit＝聖霊のバプテスマ、the Master's vineyard＝主のぶどう園、the coming of the Lord＝主の来臨、the altar＝祭壇、the Gospel car＝福音自動車、message＝メッセージ、perfection＝完全。
 - 聖句をそのまま引いているところは『』で囲む。英文の省略記号（`. . .`）は（中略）にする。
 - 場面の区切り（`// * * *`）は、メモの次の行に `＊　＊　＊` を置く。
+- 第三部の説教も地の文は常体（第一部の説教口調、第十三章の呼びかけに合わせる）。聞き手・読み手は「あなた」、dear sinner＝愛する罪人よ、dear one＝愛する人よ、dear ones＝愛するみなさん。勧めは「〜なさい」、誘いは「〜ないか」。説教者がイエスの言葉を引用符なしで語り継ぐところは、「来なさい」「わたし」で話し手が変わったとわかるようにする。祈りの文句は敬体。Judgment Hall＝さばきの広間（さばく、さばきはひらく）。罪人が主を拒む言葉 Away with Him＝「除き去れ」（口語訳ヨハネ一九・一五 の「殺せ」は使わない）。
 
 ## ほかの人の文章
 
