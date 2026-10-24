@@ -2,7 +2,7 @@
 TWENTY-FOUR QUESTIONS A YOUNG WORKER IS APT TO MEET, AND ANSWERS FROM THE WORD HE SHOULD BE ABLE TO GIVE.
 
 *Note: The Baptism of the Holy Spirit, with the Bible evidence, speaking with other tongues, is absolutely scriptural and founded upon the Word of God. Nothing could be plainer than the Word upon this subject; and as you study the scriptures with your Bible helps and concordance, you will find that all through the Bible the scriptures fit and dovetail together, and none is left wanting for a mate.
-＊注　聖霊のバプテスマが、異言を語るという聖書的なしるしを伴うことは、まったく聖書的であり、神のみことばに基づいている。この主題について、みことばほど明白なものはない。聖書の手引きや用語索引を使って聖書を学んでいくと、聖書全体を通して聖句どうしがぴったりと組み合わさり、対になる聖句を欠いたものは一つもないことがわかる。
+（注）聖霊のバプテスマが、他国の言葉で語るという聖書的なしるしを伴うことは、まったく聖書的であり、神のみことばに基づいている。この主題について、みことばほど明白なものはない。聖書の手引きや用語索引を使って聖書を学んでいくと、聖書全体を通して聖句どうしがぴったりと組み合わさり、対になる聖句を欠いたものは一つもないことがわかる。
 // 英文の *Note の * は原本のとおり。対応する印は本文に見当たらない。
 
 Q. 1. WHO OR WHAT is THE HOLY SPIRIT?
@@ -58,7 +58,7 @@ He suffers Paul not to go to Bithynia, Acts 16: (6-7).
 He instructs Paul what to preach, I Cor. 2:13.
 He comforts, Acts 9:31.
 さらに、私たちは、聖霊が次のことをなさるのを知っている。<br/>
-ご自分のしもべを任じ、遣わされる（使徒一三・二〜四、二〇・二八）。<br/>
+ご自分のしもべを任じられ、遣わされる（使徒一三・二〜四、二〇・二八）。<br/>
 どこで宣べ伝えるべきかを指示される（使徒八・二九）。<br/>
 パウロがビテニヤに行くのを許されない（使徒一六・六〜七）。<br/>
 何を宣べ伝えるべきかをパウロに教えられる（第一コリント二・一三）。<br/>
@@ -82,7 +82,7 @@ A. Yes, His coming was promised in both the Old Testament and the New--promised 
 答　はい。聖霊が来られることは、旧約聖書でも新約聖書でも約束されていた。父によっても、御子によっても約束されていたのである。
 
 Q. 5. WILL You PLEASE SHOW ME WHERE I CAN FIND A FEW OF THESE SCRIPTURES WHICH REFER TO THE DEFINITE AND LITERAL COMING OF THE HOLY SPIRIT IN THE LAST DAYS?
-**問五　終りの時に聖霊がはっきりと、文字どおり来られることについて述べている聖句を、いくつか教えてもらえないか。どこにあるか。**
+**問五　終りの時に聖霊がはっきりと、文字どおり来られることについて述べている聖句のいくつかが、どこにあるかを教えてもらえないか。**
 
 A. There are many portions of scripture referring to the dispensation of the Holy Spirit, but we have space for only a few of them here. In speaking of his age, GOD said, through the prophet Isaiah:
 答　聖霊の時代について述べている聖句はたくさんあるが、ここにはそのうちのいくつかを載せる余地しかない。この時代について、神は預言者イザヤを通して言われた。
@@ -158,7 +158,7 @@ Q. 6. How CAN You POSITIVELY KNOW THAT ISAIAH WAS REFERRING TO THIS BAPTISM OF T
 **問六　イザヤが二十八章十一節で「どもる唇と異国の舌」と言ったとき、この聖霊のバプテスマと異言で語ることを指していたと、どうして確かにわかるのか。**
 
 A. Because Paul plainly tells us so in I Cor. 14: (21-22): "In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear Me, saith the Lord.
-答　パウロが、コリント人への第一の手紙十四章二十一〜二十二節で、はっきりそう言っているからである。『律法にこう書いてある、「わたしは、異国の舌と異国のくちびるとで、この民に語るが、それでも、彼らはわたしに耳を傾けない、と主が仰せになる」。
+答　パウロが、コリント人への第一の手紙十四章二十一節と二十二節で、はっきりそう言っているからである。『律法にこう書いてある、「わたしは、異国の舌と異国のくちびるとで、この民に語るが、それでも、彼らはわたしに耳を傾けない、と主が仰せになる」。
 
 Wherefore tongues are for a sign, not to them that believe, but to them that believe not; but prophesying serveth not for them that believe not, but for them which believe."
 このように、異言は信者のためではなく未信者のためのしるしであるが、預言は未信者のためではなく信者のためのしるしである』
@@ -173,13 +173,13 @@ Q. 8. How DO You KNOW THAT THE DISCIPLES DID NOT RECEIVE THE HOLY SPIRIT WHEN JE
 **問八　イエスが弟子たちに息を吹きかけられたとき（ヨハネ二〇・二二）、弟子たちが聖霊を受けなかったと、どうしてわかるのか。**
 
 A. Because the Holy Spirit was not yet given; Jesus Himself plainly states that before the Holy Spirit could be sent He (Jesus) must ascend on high and pray the Father that He would send the Comforter (John 16:7); also the last words Jesus spoke before the clouds received Him out of their sight prove this statement beyond a doubt, for the Word reads:
-答　聖霊はまだ与えられていなかったからである。イエスご自身がはっきりと述べておられる。聖霊が遣わされる前に、イエスは高く昇り、助け主を遣わしてくださるように父にお願いしなければならなかった（ヨハネ一六・七）。また、雲がイエスを彼らの目から隠す前に、イエスが語られた最後の言葉も、このことを疑いの余地なく証明している。みことばにこうあるからである。
+答　聖霊はまだ与えられていなかったからである。イエスご自身がはっきりと述べておられる。聖霊が遣わされる前に、イエスは高く昇られ、助け主を遣わしてくださるように父にお願いしなければならなかった（ヨハネ一六・七）。また、雲がイエスを彼らの目から隠す前に、イエスが語られた最後の言葉も、このことを疑いの余地なく証明している。みことばにこうあるからである。
 
 "And being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith He, ye have heard of me:"
-『彼らにお命じになった、「エルサレムから離れないで、かねてわたしから聞いていた父の約束を待っているがよい。
+『そして食事を共にしているとき、彼らにお命じになった、「エルサレムから離れないで、かねてわたしから聞いていた父の約束を待っているがよい。
 
 "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me, both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth." Acts
-ただ、聖霊があなたがたにくだる時、あなたがたは力を受けて、エルサレム、ユダヤとサマリヤの全土、さらに地のはてまで、わたしの証人となるであろう」』（使徒一・四〜八）
+ただ、聖霊があなたがたにくだる時、あなたがたは力を受けて、エルサレム、ユダヤとサマリヤの全土、さらに地のはてまで、わたしの証人となるであろう」』（使徒一・四、八）
 // 英文の行末の Acts の後の 1:(4-8). は OCR で落ちている。
 
 Q. 9. WHAT DID JESUS MEAN, THEN,, WHEN HE BREATHED UPON THEM AND SAID: "RECEIVE YE THE HOLY GHOST"?
@@ -214,19 +214,19 @@ a. To bear witness when the work is done.
 イ　働きが成し遂げられたとき、あかしをすること。
 
 (The Spirit itself beareth witness with our spirit, that we are the children of God. Rom. 8:16.)
-（『御霊みずから、わたしたちの霊と共に、わたしたちが神の子であることをあかしして下さる』ローマ八・一六）
+『御霊みずから、わたしたちの霊と共に、わたしたちが神の子であることをあかしして下さる』（ローマ八・一六）
 
 (He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made Him a liar; because he believeth not the record that God gave of His Son." I. John 5:10.)
-（『神の子を信じる者は、自分のうちにこのあかしを持っている。神を信じない者は、神を偽り者とする。神が御子についてあかしせられたそのあかしを、信じていないからである』第一ヨハネ五・一〇）
+『神の子を信じる者は、自分のうちにこのあかしを持っている。神を信じない者は、神を偽り者とする。神が御子についてあかしせられたそのあかしを、信じていないからである』（第一ヨハネ五・一〇）
 
 In other words, He who was with the sinner to convict him of sin, is now still with the young Christian rejoicing with him that the work is done, and endeavoring to lead him on to the place where he may receive the promise of the Lord which said: "He dwelleth WITH you, and shall be IN you." John 14:17.
-言いかえれば、罪人と共にいて罪を示してくださった方が、今もなお若いクリスチャンと共におられ、働きが成し遂げられたことをその人と共に喜んでくださる。そして、主の約束を受けられる所にまで、その人を導こうとしておられる。その約束とは、「御霊はあなたがたと**共に**おり、あなたがたの**うちに**いるようになる」というものである（ヨハネ一四・一七）。
+言いかえれば、罪人と共におられて罪を示してくださった方が、今もなお若いクリスチャンと共におられ、働きが成し遂げられたことをその人と共に喜んでくださる。そして、主の約束を受けることのできる所にまで、その人を導こうとしておられる。その約束とは、「御霊はあなたがたと**共に**おり、あなたがたの**うちに**いるようになる」というものである（ヨハネ一四・一七）。
 
 b. To baptize him with the Holy Spirit according to Acts 2:4.
 ロ　使徒行伝二章四節のとおりに、その人に聖霊のバプテスマを授けること。
 
 (Ill) His office work in the baptized believer--a. He is a teacher. John 14:26.
-（三）バプテスマを受けた信者における聖霊の務めは、次のとおりである。イ　聖霊は教師である（ヨハネ一四・二六）。
+（三）バプテスマを受けた信者における聖霊の務めは、次のとおりである。<br/>イ　聖霊は教師である（ヨハネ一四・二六）。<br/>
 // 英文の (Ill) は OCR の誤り（(III)）。
 
 b. He testifies of Christ. John 15:26.
@@ -247,7 +247,7 @@ Q. 11. Is IT THE PRIVILEGE OF EVERY BELIEVER OF TODAY TO RECEIVE THE HOLY SPIRIT
 **問十一　聖霊を受けることは、今日のすべての信者に与えられた特権か。**
 
 A. Yes, Acts 2: (38-39), "Then Peter said unto them, Repent, and be baptized, every one of you, in the name of Jesus Christ, for the remission of sins, and ye shall receive the gift of the Holy Ghost.
-答　はい。使徒行伝二章三十八〜三十九節にこうある。『すると、ペテロが答えた、「悔い改めなさい。そして、あなたがたひとりびとりが罪のゆるしを得るために、イエス・キリストの名によって、バプテスマを受けなさい。そうすれば、あなたがたは聖霊の賜物を受けるであろう。
+答　はい。使徒行伝二章三十八節と三十九節にこうある。『すると、ペテロが答えた、「悔い改めなさい。そして、あなたがたひとりびとりが罪のゆるしを得るために、イエス・キリストの名によって、バプテスマを受けなさい。そうすれば、あなたがたは聖霊の賜物を受けるであろう。
 
 "For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call."
 この約束は、われらの主なる神の召しにあずかるすべての者、すなわちあなたがたと、あなたがたの子らと、遠くの者一同とに、与えられているものである」』
@@ -256,7 +256,7 @@ The gifts of God are without repentance; Jesus said: "And I will pray the Father
 神の賜物は変えられることがない（ローマ一一・二九）。イエスは言われた。『わたしは父にお願いしよう。そうすれば、父は別に助け主を送って、いつまでもあなたがたと共におらせて下さるであろう』（ヨハネ一四・一六）。
 
 Q. 12. Is IT NECESSARY FOR EVERY CHILD OF GOD TO RECEIVE THE BAPTISM OF THE HOLY SPIRIT, EVEN THOUGH GREATLY USED OF GOD IN THE PAST IN SOUL-WINNING, HEALING,, CASTING OUT OF DEMONS, ETC.?
-**問十二　過去に魂を勝ち取ることや、いやしや、悪霊を追い出すことなどで神に大いに用いられてきた者でも、神の子供はみな、聖霊のバプテスマを受ける必要があるのか。**
+**問十二　神の子供はみな、たとえ過去に魂を勝ち取ることや、いやしや、悪霊を追い出すことなどで神に大いに用いられてきたとしても、聖霊のバプテスマを受ける必要があるのか。**
 
 A. Yes, Peter and other disciples, though greatly used in this way, still needed the Holy Spirit and enduement of power that should not be as an anointing that should lift, but a baptism that should abide.
 答　はい。ペテロやほかの弟子たちは、そのように大いに用いられていたが、それでもなお聖霊と力の授与を必要としていた。それは、引いていく油注ぎのようなものではなく、とどまるバプテスマでなければならなかった。
@@ -271,7 +271,7 @@ Q. 14. Is THERE ANY WAY BY WHICH THE SEEKER MAY KNOW WHEN THE HOLY SPIRIT COMES 
 **問十四　聖霊が住まいを定めるために入って来られたとき、求める人がそれを知る方法はあるか。あるなら、どのようにしてか。**
 
 A. Yes, this ONE BAPTISM, which comes but ONCE to a person, is far too precious and wonderful to be left without a mark or seal by which it may be known without the possibility of a doubt, and sought for until consciously received.
-答　はい。一人の人にただ「一度」だけ来るこの「一つのバプテスマ」は、あまりにも尊く、すばらしいものである。だから、しるしも証印もなしに放っておかれることはない。そのしるしによって、疑いの余地なくそれとわかり、はっきりと自覚して受けるまで求め続けることができるのである。
+答　はい。一人の人にただ「一度」だけ来るこの「一つ」のバプテスマは、あまりにも尊く、すばらしいものである。だから、しるしも証印もなしに放っておかれることはない。そのしるしによって、疑いの余地なくそれとわかり、はっきりと自覚して受けるまで求め続けることができるのである。
 
 It will be made known by the speaking in OTHER TONGUES (languages), as the Spirit gives utterance.
 それは、御霊が語らせるままに「他国の言葉」（いろいろの言語）で語ることによって知らされる。
@@ -303,7 +303,7 @@ Acts 19:6: "And when Paul had laid his hands upon them, the Holy Ghost came on t
 『そして、パウロが彼らの上に手をおくと、聖霊が彼らにくだり、それから彼らは異言を語ったり、預言をしたりし出した』（使徒一九・六）
 
 Q. 17. TAKING THE STAND THAT You DO, How DO You EXPLAIN THAT IN ONE INSTANCE OUT OF THE FOUR, viz. ACTS 8:17, IT DOES NOT STATE IN so MANY WORDS THAT THE PEOPLE OF SAMARIA SPOKE WITH TONGUES WHEN THEY RECEIVED THE HOLY SPIRIT?
-**問十七　あなたの立場からすると、四つの例のうちの一つ、すなわち使徒行伝八章十七節では、サマリヤの人々が聖霊を受けたときに異言を語ったと、はっきりとは書かれていない。これをどう説明するのか。**
+**問十七　四つの例のうちの一つ、すなわち使徒行伝八章十七節では、サマリヤの人々が聖霊を受けたときに異言を語ったと、はっきりとは書かれていない。あなたの立場からは、これをどう説明するのか。**
 
 A. Because if the believers during the eight years between the 2nd and 8th chapters of Acts all spoke in tongues when they received the Holy Spirit, it would be superfluous to mention the speaking in tongues in every case.
 答　使徒行伝の二章から八章までの八年のあいだ、信者たちがみな、聖霊を受けたときに異言を語っていたのなら、どの場合にも異言を語ったと書き添えるのは、余計なことだからである。
@@ -312,13 +312,13 @@ For instance, today we write a report or make a statement that, say, "ten receiv
 たとえば、今日、私たちは報告を書いたり、「先週の日曜日の夜、十人が聖霊のバプテスマを受けた」などと述べたりする。そのとき、「そして、みな異言を語った」と付け加える必要があるとは考えない。それは当然のこととされているからである。
 
 Or, in announcing that Mr. B. and Miss D. were married last week, we do not consider it necessary to add that a minister performed the ceremony and a license was granted. If the fact of the believers having received the Holy Spirit is questioned or doubted, however, as it was in the 10th chapter of Acts, where during the preaching of Peter the Holy Ghost fell upon the Gentiles, it is mentioned as convincing evidence:
-また、B氏とD嬢が先週結婚したと知らせるときも、牧師が式を執り行ったとか、許可証が出されたとかを付け加える必要があるとは考えない。けれども、信者たちが聖霊を受けたという事実が問われたり、疑われたりするときには、確かなしるしとして、それが述べられる。使徒行伝十章で、ペテロが語っているあいだに聖霊が異邦人に下ったときがそうであった。
+また、B氏とD嬢が先週結婚したと知らせるときも、牧師が式を執り行ったとか、許可証が出されたとかを付け加える必要があるとは考えない。けれども、信者たちが聖霊を受けたという事実が問われたり、疑われたりするときには、確かなしるしとして、異言を語ったことが述べられる。使徒行伝十章で、ペテロが語っているあいだに聖霊が異邦人に下られたときがそうであった。
 
 "For they heard them speak with tongues and magnify God," just as if the legality of a wedding ceremony is questioned, the marriage certificate and the name of the minister are brought forth as convincing proof.
 『それは、彼らが異言を語って神をさんびしているのを聞いたからである』（使徒一〇・四六）。ちょうど、結婚式が正式なものかどうかが問われるときに、結婚証明書と牧師の名が確かな証拠として持ち出されるのと同じである。
 
 Besides, we may settle it that the incoming of the Holy Spirit was attended by unmistakable, miraculous, outward evidence, or this old Jew, Simon the Sorcerer, who was "in the gall of bitterness and the bond of iniquity" would not have wondered at it and offered money for the power to bestow this gift.
-そのうえ、聖霊が入って来られたことには、見まちがえようのない、奇跡的な、外に現れるしるしが伴っていたと見てよい。そうでなければ、このたちの悪いユダヤ人、魔術師シモンが、それを見て驚き、この賜物を授ける力を金で買おうとすることはなかったであろう。シモンは『苦い胆汁があり、不義のなわ目がからみついている』と言われた者である（使徒八・二三）。
+そのうえ、聖霊が入って来られたことには、見まちがえようのない、奇跡的な、外に現れるしるしが伴っていたと確信してよい。そうでなければ、このたちの悪いユダヤ人、魔術師シモンが、それを見て驚き、この賜物を授ける力を金で買おうとすることはなかったであろう。シモンは『苦い胆汁があり、不義のなわ目がからみついている』と言われた者である（使徒八・二三）。
 
 Then, too, we know that the Bible does not in so many words state that Paul spoke with tongues when he received the Holy Spirit, yet we have unmistakable evidence that he did, for in I. Cor. 14:18, he said: "I thank my God I speak with tongues more than you all."
 また、パウロが聖霊を受けたときに異言を語ったとは、聖書にはっきりとは書かれていない。それでも、パウロが異言を語ったという見まちがえようのない証拠がある。コリント人への第一の手紙十四章十八節で、こう言っているからである。『わたしは、あなたがたのうちのだれよりも多く異言が語れることを、神に感謝する』。
@@ -345,7 +345,7 @@ I. Cor. 14: (14-15).
 // 大文字の WILL の強調は、口語訳の文言に合わせたため訳に出していない。
 
 This means he will sing and pray in tongues (in the Spirit), which he does not understand, and also in his understanding, (that is with his own language). And when he says:
-これは、パウロが自分にはわからない異言で（御霊によって）歌い、祈り、また知性によっても（すなわち、自分の国の言葉で）歌い、祈る、という意味である。また、パウロが次のように言うとき、
+これは、パウロが自分にはわからない異言で（御霊によって）歌い、祈り、また知性によっても（すなわち、自分の国の言葉で）歌い、祈る、という意味である。また、パウロは次のようにも言っている。
 
 "If any man speak in an unknown tongue, let it be by two, or at the most by three, and that by course; and let one interpret.
 『もし異言を語る者があれば、ふたりか、多くて三人の者が、順々に語り、そして、ひとりがそれを解くべきである。
@@ -354,7 +354,7 @@ This means he will sing and pray in tongues (in the Spirit), which he does not u
 もし解く者がいない時には、教会では黙っていて、自分に対し（小声で）また神に対して語っているべきである』（第一コリント一四・二七〜二八）。パウロがこう語りかけているのは、すでに御霊を受けて異言を語った聖徒たちに対してである。
 
 Q. 20. WAS PAUL DISCREDITING OR BELITTLING THE SPEAKING IN TONGUES IN ANY WAY WHEN, SETTING THE CHURCH IN ORDER (I. COR. 14:19), HE SAYS: "!N THE CHURCH I HAD RATHER SPEAK FIVE WORDS WITH MY UNDERSTANDING THAN TEN THOUSAND WORDS IN AN UNKNOWN TONGUE"?
-**問二十　パウロが教会の秩序を整えるにあたって（第一コリント一四・一九）、『教会では、一万の言葉を異言で語るよりも、（中略）むしろ五つの言葉を知性によって語る方が願わしい』と言っているとき、異言で語ることを何らかの意味でおとしめたり、軽んじたりしていたのか。**
+**問二十　パウロは教会の秩序を整えるにあたって、『教会では、一万の言葉を異言で語るよりも、（中略）むしろ五つの言葉を知性によって語る方が願わしい』と言っている（第一コリント一四・一九）。そのとき、異言で語ることを何らかの意味でおとしめたり、軽んじたりしていたのか。**
 // 英文の !N は OCR の誤り（IN）。
 
 A. Not at all, for he has just stated that he speaks in tongues more than they all, and has said:
@@ -406,14 +406,14 @@ Praiseful expectancy that believes the Lord implicitly and takes Him at His word
 賛美しつつ期待することである。主をそのまま信じ、主の言葉をそのとおりに受け取る期待である。
 
 When the amazed onlookers, on the day of Pentecost, pricked to their hearts as they SAW (in the staggering bodies, Acts 2:13) and HEARD (in the speaking in tongues, Acts 2:4-6) cried out to Peter and the rest of the apostles: "What shall we do?" Peter, in simple words, said unto them:
-ペンテコステの日に、驚いて見ていた人々は、よろめくからだを「見」（使徒二・一三）、異言で語るのを「聞いて」（使徒二・四〜六）、『強く心を刺され』た。そして、ペテロやほかの使徒たちに、『わたしたちは、どうしたらよいのでしょうか』と叫んだ（使徒二・三七）。ペテロは簡単な言葉で、彼らにこう言った。
+ペンテコステの日に、驚いて見ていた人々は、よろめくからだを「見て」（使徒二・一三）、異言で語るのを「聞いて」（使徒二・四〜六）、『強く心を刺され』た。そして、ペテロやほかの使徒たちに、『わたしたちは、どうしたらよいのでしょうか』と叫んだ（使徒二・三七）。ペテロは簡単な言葉で、彼らにこう言った。
 
 "Repent, and be baptized, every one of you in the name of Jesus Christ, for the remission of sins, and ye shall receive the gift of the Holy Ghost." *
 『悔い改めなさい。そして、あなたがたひとりびとりが罪のゆるしを得るために、イエス・キリストの名によって、バプテスマを受けなさい。そうすれば、あなたがたは聖霊の賜物を受けるであろう』（使徒二・三八）
 // 英文の行末の * は原本にない。OCR が汚れを拾ったもの。
 
 First of all make sure you are washed in the precious blood of Jesus; make a whole-hearted, unconditional surrender and consecration to Him who gave Himself for you. Then, as you praise Him with a pure heart, lifting up holy hands, claiming the Promise, He will come into His temple to abide.
-まず何よりも、イエスの尊い血で洗われていることを確かめなさい。あなたのためにご自身をささげられた方に、心を尽くし、何の条件もつけずに自分を明け渡し、献身しなさい。それから、きよい心で主を賛美し、きよい手をあげて、約束を自分のものとして求めなさい。そうすれば、主はとどまるために、ご自分の宮に入って来られる。
+まず何よりも、イエスの尊い血で洗われていることを確かめなさい。あなたのためにご自身をささげられた方に、心を尽くし、何の条件もつけずに自分を明け渡し、献身しなさい。それから、きよい心で主を賛美し、きよい手をあげて、約束を自分のものとして求めるとき、主はとどまるために、ご自分の宮に入って来られる。
 
 "Be ye lifted up, ye everlasting doors, and the King of Glory shall come in."
 『とこしえの戸よ、あがれ。栄光の王がはいられる』（詩篇二四・七）
