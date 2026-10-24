@@ -46,7 +46,7 @@ He is as eternal as the Father and the Son; we read of Him from the beginning.
 As He was one in the councils (Gen. 1: 26) of the Trinity in the eternal past, as He is now and ever will be in the advancement of God's kingdom, so was He one with Christ during His earthly ministry.
 聖霊は、永遠の過去には三位一体の協議に加わり、一つであられた（創世記一・二六）。今も、またこれからも、神の国を進めるわざにおいて一つであられる。それと同じように、キリストの地上での働きのあいだも、キリストと一つであられた。
 The Holy Spirit was personally at one with the Son of Man from the time of His conception throughout His whole earthly life.
-聖霊は、人の子がみごもられたときから、その地上の生涯を通じてずっと、人格において人の子と一つであられた。
+聖霊は、人の子が母の胎に宿られたときから、その地上の生涯を通じてずっと、人格において人の子と一つであられた。
 Listen at the wondrous annunciation made to the Virgin Mary: "The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God" (Luke 1: 35).
 処女マリヤに告げられた、驚くべき知らせを聞くがよい。『聖霊があなたに臨み、いと高き者の力があなたをおおうでしょう。それゆえに、生れ出る子は聖なるものであり、神の子と、となえられるでしょう』（ルカ一・三五）。
 At His baptism, the Holy Spirit in form like a dove came upon Him.
@@ -54,18 +54,18 @@ At His baptism, the Holy Spirit in form like a dove came upon Him.
 Jesus said, "If I cast out devils by the Spirit of God, then the kingdom of God is come unto you" (Matt. 12: 28).
 イエスは、『わたしが神の霊によって悪霊を追い出しているのなら、神の国はすでにあなたがたのところにきたのである』と言われた（マタイ一二・二八）。
 Thus He clearly sets forth their entire co-operation.
-こうしてイエスは、ご自分と御霊とがまったく一つになって働いていることを、はっきりと示しておられる。
+こうしてイエスは、ご自分と御霊とがまったく一つになって働いておられることを、はっきりと示しておられる。
 Jesus said again, "I and my Father are one" (John 10:30).
 イエスはまた、『わたしと父とは一つである』と言われた（ヨハネ一〇・三〇）。
 So these three persons, Father, Son and Holy Ghost, form the Trinity in unity.
-このように、父と子と聖霊という三つの位格が、一体における三位を成している。
+このように、父と子と聖霊という三つの位格が、一体における三位を成しておられる。
 The Father has a body and the Son has a body, but the Holy Spirit dwells in the body of the Father and in the body of the Son, thus uniting the Father and the Son and making One of the three.
 父にはからだがあり、子にもからだがある。しかし聖霊は、父のからだと子のからだのうちに宿っておられる。こうして聖霊は父と子とを結び合わせ、三つを一つにしておられる。
 
 The Spirit is not a vapor or an influence, as many suppose, but a real Person going forth from the Father and Son, and serving in their behalf.
 多くの人が思っているのとは違って、御霊は霧や感化力ではない。父と子から出て、父と子のために仕える、まことの人格である。
 He is God himself imparted to work in His children the good pleasure of His own will, making His grace availing in them and for them, helping their infirmities, witnessing to their salvation, and carrying into effect all the divine administrations of the kingdom of grace.
-御霊は神ご自身であって、神の子供たちのうちに神の御旨のよしとされることを行うために、分け与えられたかたである。御霊は、神の恵みを子供たちのうちに、また子供たちのために力あるものとされる。そして彼らの弱さを助け、彼らの救いをあかしし、恵みの国における神の治めのわざを、すべて実際に行われる。
+御霊は神ご自身であって、神の子供たちのうちに御旨のよしとされるところを行うために、分け与えられたかたである。御霊は、神の恵みを子供たちのうちに、また子供たちのために力あるものとされる。そして彼らの弱さを助け、彼らの救いをあかしし、恵みの国における神の治めのわざを、すべて実際に行われる。
 
 Since the Holy Spirit has no body, God has to reveal Him and His work to us through material emblems, and of these we shall treat in the following chapter.
-聖霊にはからだがないので、神は、聖霊とその働きを、形ある物を象徴として用いて私たちに示さなければならない。その象徴については、次の章で扱う。
+聖霊にはからだがないので、神は、聖霊とその働きを、形ある物を象徴として用いて私たちに示されるほかない。その象徴については、次の章で扱う。
