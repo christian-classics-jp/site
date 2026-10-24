@@ -42,7 +42,7 @@
 + [x] Part III. A Certain Man Went Down
 + [x] Part III. Hast Thou Not Known Me? / Liberty Bonds--"Over There"
 + [x] Part III. Modern Warfare--"Over the Top" / The Red Cross
-+ [ ] Part III. The Two Houses
++ [x] Part III. The Two Houses
 + [ ] Part III. Lost and Restored
 + [ ] Part III. The Three Dispensations (1)
 + [ ] Part III. The Three Dispensations (2)
