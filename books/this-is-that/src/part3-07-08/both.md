@@ -35,7 +35,7 @@ He was born in a manger. He lived in His Father's home for thirty years, but the
 // 英文の An angel spake と it thundered は、イエスのバプテスマの場面ではなく、ヨハネ一二・二八〜二九（受難の前に天から父の声がしたとき）の群衆の言葉。英文のとおりバプテスマの場面に置いて訳し、出典はヨハネ一二・二九を示した。
 
 For the three following years Jesus walked in the midst of His people. He wrought signs and wonders; He healed the sick, cleansed the lepers, raised the dead, yet, through it all the unbelieving world failed to understand, or believe, or recognize the pure, spotless Lamb of God, moving in their midst. He passed through the city's throng; He entered the lonely home; He preached on land and sea to the multitude, and to the lone woman at the well; but few, O so few, recognized Him and believed it was the Lord.
-それから三年のあいだ、イエスはご自分の民のただ中を歩まれた。しるしと奇跡を行い、病人をいやし、らい病人をきよめ、死人をよみがえらせられた。それでも、不信仰な世はそのすべてを見ながら、自分たちのただ中で動いておられる、清くしみのない神の小羊を悟らず、信じず、認めなかった。イエスは町の群衆の中を通り、寂しい家に入って行かれた。陸でも海でも群衆に教えを宣べ、井戸のそばのひとりの女にも語られた。けれども、イエスを認め、それが主であると信じた人はわずかだった。ああ、なんとわずかだったことか。
+それから三年のあいだ、イエスはご自分の民のただ中を歩まれた。しるしと奇跡を行い、病人をいやし、らい病人をきよめ、死人をよみがえらせられた。それでも、不信仰な世はそのすべてを見ながら、自分たちのただ中で動いておられる、清くしみのない神の小羊を悟らず、信じず、認めなかった。イエスは町の群衆の中を通り、寂しい家に入って行かれた。陸でも海でも群衆に宣べ伝え、井戸のそばのひとりの女にも語られた。けれども、イエスを認め、それが主であると信じた人はわずかだった。ああ、なんとわずかだったことか。
 
 He stood in plain sight in the midst of the rabble throng, as a Lily among thorns, a Lamb among wolves, but they did not understand. Pontius Pilate was near the truth when he asked the question: "Art thou the King of the Jews?" The high priest was near the light when he asked: "Art thou the Christ, the Son of the Blessed?" but neither of them really recognized or understood the import of Jesus' reply, or knew He was the Son of God.
 イエスは、いばらの中のゆりのように、おおかみの中の小羊のように（雅歌二・二、ルカ一〇・三）、騒ぐ群衆のただ中で、だれの目にも見える所に立っておられた。けれども、人々は悟らなかった。ポンテオ・ピラトは、『あなたは、ユダヤ人の王であるか』と尋ねたとき（ヨハネ一八・三三）、真理の近くにいた。大祭司は、『あなたは、ほむべき者の子、キリストであるか』と尋ねたとき（マルコ一四・六一）、光の近くにいた。しかし、二人とも、イエスの答えの意味を本当には悟らず、イエスが神の子であることを知らなかった。
@@ -56,7 +56,7 @@ He walked with His disciples by the way, but their eyes were hold en, and they d
 // 英文の hold en は holden の OCR の誤り。
 
 He was seen of above five hundred brethren at once, after His resurrection; He was caught up and a cloud received Him out of the sight of those watching below, and yet after all there were only about one hundred and twenty who really followed to the Upper Room to tarry for the Holy Ghost.
-復活のあと、イエスは五百人以上の兄弟たちに同時に現れられた（第一コリント一五・六）。天に上げられ、下で見つめる人々の目から、雲に迎えられて見えなくなられた（使徒一・九）。それなのに、結局のところ、聖霊を待ち望むために本当に二階の部屋までついて行ったのは、百二十人ほどにすぎなかった（使徒一・一五）。
+復活のあと、イエスは五百人以上の兄弟たちに同時に現れられた（第一コリント一五・六）。天に上げられ、下で見つめる人々の目から、雲に迎えられて見えなくなられた（使徒一・九）。それなのに、結局のところ、聖霊を待ち望むために本当に屋上の間までついて行ったのは、百二十人ほどにすぎなかった（使徒一・一五）。
 
 How patient He has been with our stupidity, and slow, unbelieving hearts! How His heart must ache when even today the world rushes blindly on to destruction over His crucified body, and refuses to understand. Hear Him say:
 主は、私たちの愚かさと、鈍く不信仰な心を、なんと忍耐してこられたことだろう！　今日でさえ、世は十字架につけられた主のからだを踏み越えて、やみくもに滅びへと突き進み、悟ろうとしない。そのとき、主の心はどれほど痛んでおられることだろう。主がこう言われるのを聞きなさい。
@@ -82,10 +82,10 @@ If the world cannot see Him in this present crisis, if it cannot hear His voice 
 世が今のこの危機のうちに主を見ることができず、戦いのとどろきの中に今その御声を聞くことができないのなら、世は決して悟らないだろう。目覚めて、生きている者と死んだ者とをさばく方の前に立つ、そのときまでは（第二テモテ四・一）。そのとき人々は、岩と山とに向かって、自分たちの上に落ちて、御座にいます方の御顔から隠してくれと叫ぶだろう（黙示録六・一六）。
 
 O dear heart, tear off the bandage the devil has put upon your eyes, and see Jesus NOW. Open your ears and hear Him calling YOU, that you be not partaker in the punishment of those who having ears hear not? and having eyes fail to see Jesus their Saviour, the Door of Escape.
-ああ、愛する人よ、悪魔があなたの目にかぶせた目隠しを引きはがし、今こそイエスを見なさい。耳を開いて、主がほかでもないあなたを呼んでおられるのを聞きなさい。耳があっても聞かず、目があっても自分の救い主、のがれの門であるイエスを見ない人々がいる（マルコ八・一八）。その人々の刑罰に、あなたがあずかることのないためである。
+ああ、愛する人よ、悪魔があなたの目にかぶせた目隠しを引きはがし、今こそイエスを見なさい。耳を開いて、主がほかでもないあなたを呼んでおられるのを聞きなさい。耳があっても聞かず、目があっても自分の救い主、のがれの門であるイエスを見ない人々がいる（マルコ八・一八）。あなたは、その人々の刑罰にあずかってはならない。
 // 英文の hear not? の ? は OCR の誤り（hear not,）。
 
-# 自由公債、「かなたへ」
+# 自由公債、「かなた」
 LIBERTY BONDS--"OVER THERE."
 
 (Inspired by Our Country's Call for the Third Liberty Loan, April, 1918.)
@@ -99,7 +99,7 @@ PRACTICALLY everywhere one looks today are grim reminders of the world-wide war,
 // 英文の from "over there" は for "over there"、adds は ads の誤植とみた。
 
 In return for each liberty loan a liberty bond is given to the subscriber. This liberty bond is an interest-bearing security, with the United States of America behind it. It is being realized more and more every day that this war cannot be conducted without sacrifice and money, for back of the great armies of this nation now going to France, standing as the great bulwark upon which the tempest of this war must spend itself, is the financial strength of the IT. S. A., whose true, active, numerical terms are Liberty Bonds. Actual giving is necessary; even the most patriotic talk will not pay the debts incurred by war. Sacrifice and giving are absolutely essential.
-国に金を貸す自由の貸付の一口ごとに、応募者には自由公債が渡される。この自由公債は利付きの証券で、アメリカ合衆国がその後ろ盾になっている。この戦争は犠牲と金なしには遂行できないことが、日ごとにますます知られてきている。今フランスへ渡って行くこの国の大軍は、この戦争の嵐をすべて受け止める大きな防壁として立っている。その大軍の後ろには、合衆国の財力がある。そして、その財力を本当に動かす、具体的な数字が自由公債なのである。実際に与えることが必要である。どれほど愛国的な言葉も、戦争で生じた借りを払いはしない。犠牲と与えることが、どうしても欠かせないのである。
+国に金を貸す自由の貸付の一口ごとに、応募者には自由公債が渡される。この自由公債は利付きの証券で、アメリカ合衆国がその後ろ盾になっている。この戦争は犠牲と金なしには遂行できないことが、日ごとにますます知られてきている。今フランスへ渡って行くこの国の大軍は、この戦争の嵐をすべて受け止める大きな防壁として立っている。その大軍の後ろには、合衆国の財力があるからである。そして、その財力を、実際に生きて働く数字で表したものが自由公債なのである。実際に与えることが必要である。どれほど愛国的な言葉も、戦争で生じた借りを払いはしない。犠牲と与えることが、どうしても欠かせないのである。
 // 英文の IT. S. A. は U. S. A. の OCR の誤り。
 
 The herculean struggle--the battle to the death now going on in the worldly realm--is analogous with that now going on in the spiritual realm. The great, age-old war between righteousness and unrighteousness is being brought to a final climax in these last days. We fight against a mighty, a wily and a deceitful foe--one who would deceive the very elect, if that were possible.
@@ -122,11 +122,11 @@ A crown of righteousness, which the Lord shall give you at that day.
 Stand fast, therefore in the LIBERTY wherewith Christ hath made you free.
 だから、キリストが与えてくださった自由（リバティ）のうちに、堅く立ちなさい（ガラテヤ五・一）。<br/>
 And above all things put on charity, which is the BOND of perfectness.
-これらいっさいのものの上に、愛を着なさい。愛は、すべてを完全に結ぶ帯（ボンド）である（コロサイ三・一四）。<br/>
+これらいっさいのものの上に、愛を加えなさい。愛は、すべてを完全に結ぶ帯（ボンド）である（コロサイ三・一四）。<br/>
 // 四行は、行頭の BUY と A、大文字の LIBERTY と BOND をつないで BUY A LIBERTY BOND（自由公債を買いなさい）と読ませている。訳では大文字の語に英語の読みを添えた。ガラテヤ五・一 の口語訳は「自由を得させるために、キリストはわたしたちを解放して下さったのである。だから、堅く立って」。欽定訳に寄せた。
 
 He who lendeth to the Lord is wise. He is calling upon His people to subscribe liberally of their time, their love, their means, their praise, their loyalty and patriotism to His kingdom, their bodies, souls and spirits. Just as our country is sending out the call for the third liberty loan today, so, through the Holy Spirit the third call for liberty loans and the buying up of liberty bonds is going forth in the spiritual realm.
-主に貸す者は賢い。主はご自分の民に、惜しみなく応じるよう呼びかけておられる。自分の時間、愛、財産、賛美を、主の御国への忠誠と愛国心を、自分のからだと魂と霊をささげるようにと。わが国が今日、第三次の自由の貸付を呼びかけているように、霊の領域でも、聖霊によって、第三次の自由の貸付と、自由公債の買い入れの呼びかけが出されているのである。
+主に貸す者は賢い。主はご自分の民に、惜しみなく応じるよう呼びかけておられる。自分の時間、愛、財産、賛美を、主の御国への忠誠と愛国心を、自分のからだと魂と霊をささげるようにと。わが国は今日、第三次の自由の貸付を呼びかけている。それと同じように、霊の領域でも、聖霊によって、第三次の自由の貸付と、自由公債の買い入れの呼びかけが出されているのである。
 
 THE FIRST CALL FOR LIBERTY LOANS
 ## 第一次の自由の貸付の募集
@@ -168,7 +168,7 @@ JOSEPH. Joseph's sacrifice and liberty loan, whereby he lost his liberty and was
 『あなたはわたしの家を治めてください。わたしの民はみなあなたの言葉に従うでしょう』などと言った。そしてパロは指輪を手からはずして、ヨセフの手にはめた（創世記四一・四〇、四二）。
 
 JOB was true to God? and made his great Liberty Loan, through pain and sorrow, through bereavement and earthly loss, till he, too, received his Liberty Bond with interest, "for the Lord gave Job twice as much as he had before. So the Lord blessed the latter end of Job more than his beginning; for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses. He had also seven sons and three daughters. So Job died, being old and full of days," and went "over there" to reap his reward and dwell in joy forever.
-ヨブは神に忠実だった。痛みと悲しみを通して、死別と地上の財産の喪失を通して、大きな自由の貸付をした。そしてついに、彼もまた利子付きの自由公債を受け取った。『主はヨブのすべての財産を二倍に増された』『主はヨブの終りを初めよりも多く恵まれた。彼は羊一万四千頭、らくだ六千頭、牛一千くびき、雌ろば一千頭をもった。また彼は男の子七人、女の子三人をもった』『ヨブは年老い、日満ちて死んだ』（ヨブ四二・一〇、一二〜一三、一七）。そして「かなた」へ行って報いを刈り取り、永遠に喜びのうちに住むことになった。
+ヨブは神に忠実だった。痛みと悲しみを通して、死別と地上の財産の喪失を通して、大きな自由の貸付をした。そしてついに、彼もまた利子付きの自由公債を受け取った。『主はヨブのすべての財産を二倍に増された』からである（ヨブ四二・一〇）。『主はヨブの終りを初めよりも多く恵まれた。彼は羊一万四千頭、らくだ六千頭、牛一千くびき、雌ろば一千頭をもった。また彼は男の子七人、女の子三人をもった』（ヨブ四二・一二〜一三）。やがて『ヨブは年老い、日満ちて死んだ』（ヨブ四二・一七）。そして「かなた」へ行って報いを刈り取り、永遠に喜びのうちに住むことになった。
 // 英文の God? の ? は OCR の誤り（God,）。
 
 HANNAH. The great Liberty Loan of Hannah, when she lent her son, Samuel, unto the Lord, and many other instances too numerous to mention, flood our minds as we think of that first call for Liberty Loans which went forth during the dispensation of the Father.
@@ -186,7 +186,7 @@ During the dispensation of the Son, the second call for Liberty Loans went forth
 // 英文の 'wives の ' は OCR の誤り。マタイ一九・二九 の口語訳は「妻」を欠き、「百倍」は「その幾倍も」。欽定訳に寄せた。
 
 Many are called but few are chosen, and although this call went out to many, comparatively few responded. The rich young man who was invited to make his Liberty Loan by selling all he had and giving to the poor and following the meek and lowly Jesus henceforth, "went sorrowing away."
-招かれる者は多いが、選ばれる者は少ない（マタイ二二・一四）。この呼びかけは多くの人に出されたが、応えた人は比較的少なかった。富める青年は、持ち物をみな売って貧しい人々に施し、それからは柔和でへりくだったイエスに従うことによって、自由の貸付をするよう招かれた。けれども、「悲しみながら立ち去った」のである（マタイ一九・二一〜二二）。
+招かれる者は多いが、選ばれる者は少ない（マタイ二二・一四）。この呼びかけは多くの人に出されたが、応えた人は比較的少なかった。富める青年は、持ち物をみな売って貧しい人々に施し、それからは柔和でへりくだったイエスに従うことによって、自由の貸付をするよう招かれた。けれども、『悲しみながら立ち去った』のである（マタイ一九・二一〜二二）。
 
 JUDAS, for a petty earthly gain, sold his right to the eternal Liberty Bond, and his right to reign "Over There."
 ユダは、地上のわずかな利益のために、永遠の自由公債を受ける権利と、「かなた」で治める権利を売り渡した。
@@ -198,7 +198,7 @@ STEPHEN made his Liberty Loan unto the Lord, contending even unto death for his 
 ステパノは主に自由の貸付をし、死に至るまで、「かなた」での自由と解放のために戦った。それは、イエスが十字架の上で買い取ってくださった自由と解放である。彼が地にひざまずき、石が宙を飛んで、その雄々しいからだに鈍い音を立てて雨のように降り注ぐ少し前のことである。彼の魂は、幻の窓を通して見つめ、『天が開けて、人の子が神の右に立っておいでになる』のを見た（使徒七・五六）。彼は「かなた」の国の幻を見たのである。
 
 PAUL made a Liberty Loan unto the Lord, and instead of reserving his liberty to live his own life and walk in favor and honor with the people of his land, he gave up this liberty for the Saviour who had called him "as one out of due time." He received in exchange his Liberty Bond as security and declared that "neither death nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature should be able to separate him from the love of God, which is in Christ Jesus our Lord;" and rather than part with his Liberty Bond, his written agreement and promise of an inheritance incorruptible, "Over There," as revealed through the Word of God, he endured the lash, the prison chains, the dungeons, the nakedness and the peril, yea, even death itself, rather than be disloyal to his heavenly country and King. He besought his brethren that they should present their bodies a living sacrifice, assuring them that this was their reasonable service.
-パウロは主に自由の貸付をした。自分の生活を送り、自分の国の人々のあいだで好意と誉れを受けて歩む自由を、取っておくことはしなかった。その自由を、救い主のために手放したのである。「月足らずに生れたような」彼を召してくださった救い主である（第一コリント一五・八）。彼は引き換えに、担保として自由公債を受け取った。そしてこう宣言した。「死も生も、天使も支配者も、現在のものも将来のものも、力あるものも、高いものも深いものも、その他どんな被造物も、わたしたちの主キリスト・イエスにおける神の愛から、わたしを引き離すことはできない」（ローマ八・三八〜三九）。パウロは自分の自由公債を手放そうとはしなかった。それは、神のみことばに示された、「かなた」の朽ちない資産を約束する証書である（第一ペテロ一・四）。それを手放すくらいなら、天の祖国と王に不忠実になるくらいなら、むちも、獄の鎖も、地下牢も、裸も、危難も、そうだ、死そのものさえも耐え忍んだ。彼は兄弟たちに、自分のからだを生きた供え物としてささげるように勧め、それが彼らのなすべき霊的な礼拝であると請け合った（ローマ一二・一）。
+パウロは主に自由の貸付をした。自分の生活を送り、自分の国の人々のあいだで好意と誉れを受けて歩む自由を、取っておくことはしなかった。その自由を、救い主のために手放したのである。『月足らずに生れたような』彼を召してくださった救い主である（第一コリント一五・八）。彼は引き換えに、担保として自由公債を受け取った。そしてこう宣言した。「死も生も、天使も支配者も、現在のものも将来のものも、力あるものも、高いものも深いものも、その他どんな被造物も、わたしたちの主キリスト・イエスにおける神の愛から、わたしを引き離すことはできない」（ローマ八・三八〜三九）。パウロは自分の自由公債を手放そうとはしなかった。それは、神のみことばに示された、「かなた」の朽ちない資産を約束する証書である（第一ペテロ一・四）。それを手放すくらいなら、天の祖国と王に不忠実になるくらいなら、むちも、獄の鎖も、地下牢も、裸も、危難も、そうだ、死そのものさえも耐え忍んだ。彼は兄弟たちに、自分のからだを生きた供え物としてささげるように勧め、それが彼らのなすべき霊的な礼拝であると請け合った（ローマ一二・一）。
 
 On and on we might mention case after case of those who made Liberty Loans unto the Lord, giving freely of their love, their praise, their time and means during the second call for Liberty Loans.
 第二次の自由の貸付の呼びかけのあいだに、愛と賛美と時間と財産を惜しみなくささげて、主に自由の貸付をした人々の例を、このように次々と挙げていくことができる。
@@ -223,18 +223,18 @@ With the closing of this dispensation, the time to purchase Liberty Bonds for et
 // 英文の usury f は usury? の OCR の誤り。
 
 The time for making Liberty Loans unto the Lord, and securing these eternal Liberty Bonds, is almost over, and those intending to surmount every difficulty by His grace and press on to the victor's reward and the marriage of the Lamb, "Over There," should today subscribe to the very utmost of their ability, of possessions, time, love and praise, that they may secure their liberty bonds entitling them to be among the number when the brave soldiers of the cross come marching down the golden streets of the New Jerusalem, for those who are unwilling to leave father and mother, houses and lands for His sake are not worthy to be called His disciples.
-主に自由の貸付をし、この永遠の自由公債を手に入れる時は、もうほとんど終わろうとしている。主の恵みによってあらゆる困難を乗り越え、勝利者の報いと、「かなた」の小羊の婚宴を目指して進もうとする人は、今日、できる限りのものをささげて応じるべきである。持ち物も、時間も、愛も、賛美もである。そうして自由公債を手に入れなければならない。十字架の勇敢な兵士たちが新しいエルサレムの金の通りを行進して来るとき、その数に加わる資格を与える公債である。主のために父と母、家と畑を離れようとしない者は、主の弟子と呼ばれるにふさわしくないからである（ルカ一四・二六）。
+主に自由の貸付をし、この永遠の自由公債を手に入れる時は、もうほとんど終わろうとしている。主の恵みによってあらゆる困難を乗り越え、勝利者の報いと、「かなた」の小羊の婚宴を目指して進もうとする人がいる。その人は今日、できる限りのものをささげて応じるべきである。持ち物も、時間も、愛も、賛美もである。そうして自由公債を手に入れなければならない。十字架の勇敢な兵士たちが新しいエルサレムの金の通りを行進して来るとき、その数に加わる資格を与える公債である。主のために父と母、家と畑を離れようとしない者は、主の弟子と呼ばれるにふさわしくないからである（ルカ一四・二六）。
 
 Since this great third call for Liberty Loans has been sounded forth through the power of the Spirit, thousands have responded and given up all for Jesus. Martyrs have been burned at the stake--fed to the lions--tossed to the bulls in the arenas--torn limb from limb on the rack--guillotined--eyes burned out--tortured in unspeakable ways, yet through all the dangers they have stood firm and fought the good fight of faith, and have marched on as a glorious army "Over There."
-この大いなる第三次の自由の貸付の呼びかけが、御霊の力によって鳴り響いてから、何千もの人々が応え、イエスのためにすべてを捨ててきた。殉教者たちは火あぶりにされ、獅子のえじきにされ、闘技場で雄牛に投げ与えられ、拷問台で手足を引き裂かれ、断頭台にかけられ、目を焼かれ、言いようのない仕方で拷問された。それでも彼らは、あらゆる危険の中で堅く立ち、信仰の戦いをりっぱに戦い、栄光の軍隊として「かなた」へと進んで行った。
+この大いなる第三次の自由の貸付の呼びかけが、御霊の力によって鳴り響いてから、何千もの人々が応え、イエスのためにすべてを捨ててきた。殉教者たちは火あぶりにされ、獅子のえじきにされ、闘技場で雄牛に投げ与えられた。拷問台で手足を引き裂かれ、断頭台にかけられ、目を焼かれ、言いようのない仕方で拷問された。それでも彼らは、あらゆる危険の中で堅く立ち、信仰の戦いをりっぱに戦い、栄光の軍隊として「かなた」へと進んで行った。
 
 THE LAST GREAT FIGHT BETWEEN THE HOSTS OF DARK-
 NESS AND THE HOSTS OF LIGHT IS RAGING TODAY as never before. Victory is coming, through our Lord and Saviour Jesus Christ, for the "kingdoms of this world" shall "become the kingdoms of our Lord and His Christ, and He shall reign forever and ever."--Rev. 11:15.
-闇の軍勢と光の軍勢との最後の大いなる戦いが、今日、かつてないほど激しく荒れ狂っている。私たちの主であり救い主であるイエス・キリストによって、勝利が来ようとしている。「この世の国」は「われらの主とそのキリストとの国」となり、「主は世々限りなく支配なさる」からである（黙示録一一・一五）。
+闇の軍勢と光の軍勢との最後の大いなる戦いが、今日、かつてないほど激しく荒れ狂っている。私たちの主であり救い主であるイエス・キリストによって、勝利が来ようとしている。『この世の国』は『われらの主とそのキリストとの国』となり、「主は世々限りなく支配なさる」からである（黙示録一一・一五）。
 // 英文の DARK- と NESS は、原本で DARKNESS が改ページをまたいで切れたもの。大文字の書き出しなので新しい段落とみて、前の段落から分けた。
 
 If you long to be over there when the soldiers go sweeping through the gates, and up the golden streets in triumph, while the angelic host of Heaven cheer, and the bands of music are bursting forth into the triumphant march--
-兵士たちが門を通って押し寄せ、金の通りを凱旋して上って行く。天の御使の軍勢が歓呼し、楽隊が凱旋の行進曲を高らかに奏で始める。そのとき、「かなた」にいたいと切に願うなら、
+兵士たちが門を通って押し寄せ、金の通りを凱旋して上って行く。天の御使の軍勢が歓呼し、楽隊が凱旋の行進曲を高らかに奏で始める。そのとき、かなたにいたいと切に願うなら、
 
 If you would join the everlasting song of the redeemed--
 あがなわれた者たちの永遠の歌に加わりたいなら、
@@ -243,5 +243,5 @@ If you lay any claim to the right to salute the blood-stained banner of Jesus Ch
 イエス・キリストの血に染まった旗に敬礼する資格が、少しでも自分にあると言うなら、今日、イエス・キリストの御業のためには、どんな代価も大きすぎることはない。どんな犠牲も高すぎることはない。どんな自由の貸付も大きすぎることはない。
 
 You will make your Liberty Loan freely, and with the "love that seeketh not her own." You will give all your body, soul and spirit to His service today, and cling to your liberty bonds, yea, you will "stand fast therefore in the Liberty wherewith Christ hath made you free" and will not be again entangled with the yoke of bondage. (It is either Liberty Bonds or Devil Bondage.) You will secure your Liberty Bonds not because they pay big interest, not because they are the safest investment on earth, but because of love for Him who died for you and gave Himself freely for your redemption, Heaven's greatest. Liberty Loan--Jesus.
-あなたは、「自分の利益を求めない」愛をもって（第一コリント一三・五）、惜しみなく自由の貸付をするだろう。今日、からだも魂も霊もすべて主への奉仕にささげ、自分の自由公債をしっかりと握るだろう。そうだ、「キリストが与えてくださった自由のうちに、堅く立ち」、二度と奴隷のくびきにつながれることはないだろう（ガラテヤ五・一）。（自由公債（リバティ・ボンド）か、悪魔の束縛（ボンデージ）か、そのどちらかである。）あなたが自由公債を手に入れるのは、大きな利子が付くからではない。地上でいちばん安全な投資だからでもない。あなたのために死に、あなたをあがなうためにご自分を惜しみなく与えてくださった方を、愛するからである。その方こそ、天の最大の自由の貸付、イエスである。
+あなたは、『自分の利益を求めない』愛をもって（第一コリント一三・五）、惜しみなく自由の貸付をするだろう。今日、からだも魂も霊もすべて主への奉仕にささげ、自分の自由公債をしっかりと握るだろう。そうだ、「キリストが与えてくださった自由のうちに、堅く立ち」、二度と奴隷のくびきにつながれることはないだろう（ガラテヤ五・一）。（自由公債（リバティ・ボンド）か、悪魔の束縛（ボンデージ）か、そのどちらかである。）あなたが自由公債を手に入れるのは、大きな利子が付くからではない。地上でいちばん安全な投資だからでもない。あなたのために死に、あなたをあがなうためにご自分を惜しみなく与えてくださった方を、愛するからである。その方こそ、天の最大の自由の貸付、イエスである。
 // 英文の greatest. の . は OCR の誤り（greatest Liberty Loan）。
