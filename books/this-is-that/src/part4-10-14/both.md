@@ -10,7 +10,7 @@ The night is dark. The sun hath long since hid his face.
 The Master cometh forth into the garden to pray;
 主は祈るために園に出て来られる。<br/>
 He bringeth forth His chosen ones to pray with Him.
-選ばれた者たちを連れ出し、共に祈らせようとされる。<br/>
+選ばれた者たちを連れ出され、共に祈らせようとされる。<br/>
 
 O! dark is the night, their eyes are heavy with slumber.
 ああ、夜は暗い。彼らの目は眠りで重くなっている。<br/>
@@ -40,14 +40,14 @@ The World has forgotten. See them slumbering, . fast asleep.
 世は忘れてしまった。見よ、人々はまどろみ、ぐっすり眠っている。<br/>
 // 英文 slumbering, . の点は原本の汚れを読み取ったもの。
 And still He prays, and still He prays, and cries to God.
-それでも主は祈られる。なおも祈り、神に叫ばれる。<br/>
+それでも主は祈られる。なおも祈られ、神に叫ばれる。<br/>
 Behold the shadows deepen, and the cup is in His hand.
 見よ、闇は深まり、杯は主の御手にある。<br/>
 O must He drink it all alone? None to share or bear the burden?
-ああ、主はただひとりでそれを飲み干さなければならないのか。重荷を分け合い、担う者はいないのか。<br/>
+ああ、主はただひとりでそれを飲み干されなければならないのか。重荷を分け合い、担う者はいないのか。<br/>
 
 Lo! He is bending over you; He is speaking in your ear.
-見よ、主はあなたの上にかがみ込み、あなたの耳に語りかけておられる。<br/>
+見よ、主はあなたの上にかがみ込まれ、あなたの耳に語りかけておられる。<br/>
 Canst thou not hear? O, watch and pray,
 聞こえないのか。ああ、目をさまして祈れ。<br/>
 O watch and pray, lest thou should enter into temptation.
@@ -61,9 +61,9 @@ Wilt thou not watch and pray, until the breaking of the day?
 夜が明けるまで、目をさまして祈らないのか。<br/>
 
 Jesus approacheth again and saith, " Sleep on now and take your rest,
-イエスはふたたび来て言われる。「今は眠って休むがよい。<br/>
+イエスはふたたび来られて言われる。「今は眠って休むがよい。<br/>
 The blessing you might have is fled away.
-あなたがたが受けられたはずの祝福は、逃げ去った。<br/>
+あなたがたが受けるはずであった祝福は、逃げ去った。<br/>
 Alone I prayed with none to stand with Me.
 わたしは、共に立つ者もなく、ひとりで祈った。<br/>
 Sleep on, sleep on, and take thy rest."
@@ -76,10 +76,10 @@ Or will you watch and pray? 'Twill soon be day, and He is coming soon.
 
 // 次の二段落は、原本では小さい活字で組まれた編者の注。
 Beloved, if ever there was a time for the followers of the Lord to resist the slumber that the enemy would put upon them, and pray, it is now. What a type the sleeping disciples in the garden, and the sleeping virgins with their lamps, are of the church today. The same Jesus who prayed in the garden of old is making constant intercession at His Father's throne today. The same Jesus who besought His disciples to watch with Him and pray that they enter not into temptation, is still calling for intercessors, through whom the Spirit can pray with groanings that cannot be uttered.
-愛する人々よ、主に従う者たちが、敵の着せようとする眠りに逆らって祈るべき時があるとすれば、それは今である。園で眠っていた弟子たちと、ともしびを持ったまま眠っていたおとめたちは、今日の教会のなんという型であろう。昔、園で祈られたその同じイエスが、今日、父の御座で絶えずとりなしをしておられる。弟子たちに、共に目をさまし、誘惑に陥らないように祈るよう願われた同じイエスが、今もとりなし手を呼んでおられる。御霊がその人々を通して、言葉にあらわせないうめきをもって祈ることのできる、とりなし手を。
+愛するみなさん、主に従う者たちが、敵の着せようとする眠りに逆らって祈るべき時があるとすれば、それは今である。園で眠っていた弟子たちと、ともしびを持ったまま眠っていたおとめたちは、今日の教会のなんという型であろう。昔、園で祈られたその同じイエスが、今日、父の御座で絶えずとりなしをしておられる。弟子たちに、共に目をさまし、誘惑に陥らないように祈るよう願われた同じイエスが、今もとりなし手を呼んでおられる。御霊がその人々を通して、『言葉にあらわせない切なるうめき』をもって祈ることのおできになる、とりなし手を（ローマ八・二六）。
 
 It is only a little hour now till He shall appear. Let us be faithful. Awake and pray.
-主が現れるまで、今はほんのひと時しかない。忠実であろう。目をさまして祈ろう。
+主が現れられるまで、今はほんのひと時しかない。忠実でいよう。目をさまして祈ろう。
 
 # これは道だ、これに歩め
 THIS IS THE WAY, WALK YE IN IT.
@@ -238,7 +238,7 @@ He bringeth her to the boundary line between the two countries.
 There she must be searched; there she must be stripped.
 そこで彼女は調べられなければならない。そこで衣をはがれなければならない。<br/>
 She must not bring any message from the country of darkness into the country of light. Even as your countrymen halt, at the boundary line, all that would enter from the enemy's country, and search them, so shall she be searched and stripped.
-闇の国から光の国へ、どんな伝言も持ち込んではならない。あなたがたの国の人々は、敵の国から入ろうとする者をみな国境で止めて調べる。そのように、彼女も調べられ、衣をはがれる。<br/>
+彼女は、闇の国から光の国へ、どんな伝言も持ち込んではならない。あなたがたの国の人々は、敵の国から入ろうとする者をみな国境で止めて調べる。そのように、彼女も調べられ、衣をはがれる。<br/>
 (New garments shall be given her, His righteousness and joy.)
 （彼女には新しい衣が与えられる。主の義と喜びの衣である。）<br/>
 But she will go through, even as He hath said.
@@ -276,7 +276,7 @@ Even as I overcame, so must ye overcome.
 Even as I was faithful unto death, even the death of the cross,
 わたしが死に至るまで、しかも十字架の死に至るまで忠実であったように、<br/>
 So must you be, even to the putting away of the old nature, and I will give you eternal life.
-あなたがたもそうでなければならない。古い性質を捨て去るまでも。そうすれば、あなたがたに永遠のいのちを与えよう。<br/>
+あなたがたも、古い性質を捨て去るに至るまで、そうでなければならない。そうすれば、あなたがたに永遠のいのちを与えよう。<br/>
 Even as I was misunderstood and mocked,
 わたしが誤解され、あざけられたように、<br/>
 Even as I was cast out of the synagogues,
@@ -316,7 +316,7 @@ Behold they will say unto thee, as they said to Me--"Save Thyself,"
 But go through. Go through.
 けれども、通り抜けよ。通り抜けよ。<br/>
 Vengeance is Mine; I will repay.
-復讐はわたしのすることである。わたしが報復する。<br/>
+復讐はわたしのすることである。わたし自身が報復する。<br/>
 Behold I have rolled away the Red Sea. I have opened a way.
 見よ、わたしは紅海を押しのけた。わたしは道を開いた。<br/>
 As I rolled back the Red Sea and drowned Pharaoh's hosts of old,
@@ -342,9 +342,9 @@ So many hard things came because thou didst not follow ME. '
 I have opened a way, follow thou in My footsteps.
 わたしは道を開いた。わたしの足跡に従え。<br/>
 I, who have overthrown the walled cities, even
-城壁の町々を倒したわたしが、まことに<br/>
+城壁の町々を倒したわたし、<br/>
 I, shall overthrow the walls of opposition--
-わたしが、反対の城壁を倒す。<br/>
+そのわたしこそが、反対の城壁を倒す。<br/>
 I, who locked the lions' mouths--
 獅子の口をふさいだわたし、<br/>
 I, who brake the chains of brass--
@@ -410,13 +410,14 @@ He cries unto His vineyard,
 主はそのぶどう園に叫ぶ。
 
 Oh, my vineyard, how long, how long, before I shall receive my perfect fruit? Why tarriest thou so long and withholdest thy perfection from me? Have I withheld my hand from thee? Have I not sent thee the former and latter rain in the first month? Have I not caused the sun to shine on thee by day and the moon to watch thee by night? And, now, behold, the husbandman, waiting for His Fruit.
-ああ、わたしのぶどう園よ、いつまで、いつまで待てば、わたしは完全な実を受けられるのか。なぜあなたはそれほど手間取り、自分の完全をわたしに差し控えるのか。わたしがあなたに手を差し控えたことがあるか。わたしは最初の月に、前の雨と後の雨をあなたに送ったではないか。昼は太陽にあなたを照らさせ、夜は月にあなたを見守らせたではないか。そして今、見よ、農夫が自分の実を待っている。
+ああ、わたしのぶどう園よ、いつまで、いつまで待てば、わたしは完全な実を受けられるのか。なぜあなたはそれほど手間取り、自分の完全をわたしに差し控えるのか。わたしがあなたに手を差し控えたことがあるか。わたしは初めの月に、前の雨と後の雨をあなたに送ったではないか。昼は太陽にあなたを照らさせ、夜は月にあなたを見守らせたではないか。そして今、見よ、農夫が自分の実を待っている。
 
 Woe unto thee thou barren and unfruitful trees! Surely thou shalt be cut off from the garden of living trees, and the place where thou art shall know thee no more. Cursed art thou among trees, for thou hast borne me no fruit.
 わざわいだ、実を結ばない不毛の木々よ！　あなたは必ず、生きた木々の園から断ち切られる。あなたのいた場所も、もはやあなたを知らない。あなたは木々の中でのろわれている。わたしに実を結ばなかったからである。
 
 And thou, trees of the blemished fruit, and the undeveloped fruit, mine eye hath seen thee, mine, eye hath searched thee out.
 また、傷のある実の木々よ、育たない実の木々よ、わたしの目はあなたを見た。わたしの目はあなたを探り出した。
+// 英文 mine, eye の読点は読み誤り（ページ画像では mine eye）。
 
 But Oh! Thou tree of the growing fruit, thou art nearing the days of thy perfection. Surely thou shalt grow up before me as a tender plant, as a tree planted by the living waters. Thy desire is toward me, my desire is toward thee. And I will gather thee unto myself in the day of thy perfection. AMEN.
 けれども、ああ！　育ちつつある実の木よ、あなたは完全に至る日に近づいている。あなたは必ず、若木のように、生ける水のほとりに植えられた木のように、わたしの前に育つ。あなたはわたしを慕い、わたしはあなたを慕う。わたしは、あなたが完全に至る日に、あなたをわたしのもとに集める。アーメン。
@@ -430,16 +431,16 @@ The clouds are dark. The sky is filled with rolling tempest of darkest clouds. G
 雲は暗い。空には、真っ黒な雲の逆巻く嵐が満ちている。天から大きな稲妻がひらめき、落ちる。稲妻は、全能の神の怒りと激しい憤りの目に見えるしるしとしてひらめく。聞け！　雷が丘から丘へととどろき、こだましている。
 
 Below is a green pasture field, and in its enclosure a beautiful flock of white lambs. Surely they shall know no fear nor terror, for there is One in their midst who holds in one hand His crook, and in the other a cruse of oil.
-下には緑の牧場があり、その囲いの中に、白い小羊の美しい群れがいる。小羊たちは、恐れもおびえも知らないであろう。彼らのただ中に、一方の手に杖を、もう一方の手に油のつぼを持つ方がいるからである。
+下には緑の牧場があり、その囲いの中に、白い小羊の美しい群れがいる。小羊たちは、決して恐れもおびえも知らない。彼らのただ中に、一方の手に杖を、もう一方の手に油のつぼを持つ方がいるからである。
 
 Some of the lambs leave the enclosure. The lions, the wolves, the hosts of darkness pounce upon them and the place wherein they dwelt knows them no more. O, stay within the enclosure of His will and protecting grace. 'Twill not be long till the Deliverer will come. He sends not His sheep forth to fight wolves; stay thou within the enclosure.
 小羊のうちのあるものは囲いを出て行く。獅子が、おおかみが、闇の軍勢が、それに襲いかかる。それが住んでいた場所も、もはやそれを知らない。ああ、主のみこころと、守る恵みの囲いの中にとどまれ。救う者が来るまで、もう長くはない。主は自分の羊を、おおかみと戦わせるために送り出しはしない。囲いの中にとどまれ。
 
 The storm increases, the winds howl, the waves roll, the lightning flashes, the enemy draws nearer, emboldened by the darkness. Whither shall they go? There is no escape to the right nor the left. There is a barrier before and behind. Stand still, little flock, the indignation of the Lord is being poured out upon the wicked, but He will pass over thee. The storms are raging, but behold the heavens are rolling apart. There cometh One whose appearance is all glorious, His garments are as robes of light, His face is filled with tenderest compassion. His arms are outstretched--Tis the Shepherd of the sheep.
-嵐はつのり、風はうなり、波は逆巻き、稲妻はひらめく。敵は闇に勢いづいて迫って来る。小羊たちはどこへ行けばよいのか。右にも左にも逃れる道はない。前にも後ろにも障壁がある。小さい群れよ、かたく立っていよ。主の憤りが悪しき者に注がれている。けれども、主はあなたを過ぎ越す。嵐は荒れ狂っている。けれども見よ、天が巻き分かれていく。まったく栄光に満ちた姿の方が来る。その衣は光の衣のよう、その顔はこの上なく優しいあわれみに満ちている。その腕は差し伸べられている。それは羊の大牧者である。
+嵐はつのり、風はうなり、波は逆巻き、稲妻はひらめく。敵は闇に勢いづいて迫って来る。小羊たちはどこへ行けばよいのか。右にも左にも逃れる道はない。前にも後ろにも障壁がある。小さな群れよ、かたく立っていよ。主の憤りが悪しき者に注がれている。けれども、主はあなたを過ぎ越す。嵐は荒れ狂っている。けれども見よ、天が巻き分かれていく。まったく栄光に満ちた姿の方が来る。その衣は光の衣のよう、その顔はこの上なく優しいあわれみに満ちている。その腕は差し伸べられている。それは羊の大牧者である。
 
 They are surrounded before and behind on the right and the left, by the hosts of darkness. The lions roar, the serpents hiss, the wolves bare their fangs, the enemy rages against the righteous, but they shall know no terror, for there is an invisible power betwixt them and their enemies.
-小羊たちは、前も後ろも、右も左も、闇の軍勢に囲まれている。獅子はほえ、へびは息巻き、おおかみは牙をむき、敵は正しい者に向かって荒れ狂う。けれども、彼らはおびえを知らない。彼らと敵との間に、目に見えない力があるからである。
+小羊たちは、前も後ろも、右も左も、闇の軍勢に囲まれている。獅子はほえ、へびはしゅうしゅうと音を立て、おおかみは牙をむき、敵は正しい者に向かって荒れ狂う。けれども、彼らはおびえを知らない。彼らと敵との間に、目に見えない力があるからである。
 
 IT IS THE BLOOD OF JESUS. AND THE POWER OF THE HOLY SPIRIT.
 **それはイエスの血であり、聖霊の力である**。
@@ -448,12 +449,12 @@ Their Leader is with them, even the Spirit, to lead them. A lamb is on his bosom
 彼らの導き手が共にいる。まことに、彼らを導く御霊である。一匹の小羊がそのふところにいる。導き手は群れに、もうしばらく待ち、耐え忍ぶようにと語る。導き手は聖霊である。まもなく牧者が来て、その牧の羊を雲と暗やみの日から集め、日の沈むことのないあの囲いへ連れて行く。彼らはとこしえに牧者と共にいる。牧者は油を注ぎ、傷を包む。まことに、牧者はあなたをいやす。
 
 Ah, little flock, He cometh, He cometh, ABIDE WITHIN THE POWER OF HIS BLOOD AND SPIRIT. Soon thou shalt hear His voice saying, "Come home, my sheep, come home." To the world destruction cometh, but to the flock the Shepherd cometh. Look up.
-ああ、小さい群れよ、主は来る。主は来る。**主の血と御霊の力のうちにとどまれ**。まもなくあなたは、「帰っておいで、わたしの羊よ、帰っておいで」と言う主の声を聞く。世には滅びが来る。けれども群れには、牧者が来る。見上げよ。
+ああ、小さな群れよ、主は来る。主は来る。**主の血と御霊の力のうちにとどまれ**。まもなくあなたは、「帰っておいで、わたしの羊よ、帰っておいで」と言う主の声を聞く。世には滅びが来る。けれども群れには、牧者が来る。見上げよ。
 
 How the hilltops sing together,
 丘の頂は、なんと声を合わせて歌うことか。<br/>
 Angels strike their harps of gold.
-御使いたちは金の竪琴をかき鳴らす。<br/>
+御使たちは金の立琴をかき鳴らす。<br/>
 Let His saints all shout together,
 主の聖徒たちよ、みな共に叫べ。<br/>
 In love and praise and joy untold.
@@ -475,13 +476,13 @@ MESSAGE GIVEN IN THE SPIRIT.
 （一九一八年七月二十七日）
 
 Behold the day of great darkness, the day of gloominess, of mourning and weeping, the day of wailing, the day of the treading of the wine press is upon thee, O earth. Hearken! Hear the sound of the cannon, the voice of thunder echoing and reverberating through the hills and the mountains.
-地よ、見よ、大いなる暗やみの日、陰鬱な日、嘆きと涙の日、泣き叫ぶ日、酒ぶねを踏む日が、あなたに臨んでいる。耳を傾けよ！　大砲の音を聞け。丘と山々にこだまし、鳴り響く雷の声を聞け。
+地よ、見よ、大いなる暗やみの日、薄暗い日、嘆きと涙の日、泣き叫ぶ日、酒ぶねを踏む日が、あなたに臨んでいる。耳を傾けよ！　大砲の音を聞け。丘と山々にこだまし、鳴り響く雷の声を聞け。
 
 Behold! The arm of Almighty God is lain bare. His sword is glittering and glimmering in His hand. O, thou earth, filled with unbelief and scoffing, if thine ears had not been stopped thou wouldst have heard the heavy treading of His feet, the falling of His footsteps.
 見よ！　全能の神の腕があらわにされた。その剣は神の手にきらめき、光っている。不信仰とあざけりに満ちた地よ、もし耳がふさがれていなかったなら、あなたは神の重い足音を、その歩みの響きを聞いたであろう。
 
 Judgment follows swiftly in His wake. He will recompense, He will repay, He will judge. Had thine eyes not been bound, thou wouldst have seen the clouds rolling over thy lands, black and filled with the lightnings of His wrath. -Ears thou hast had but would not hear. Eyes thou hast had but would not see. The time of thy tribulation has come.
-さばきは神のすぐ後に続く。神は報い、報復し、さばく。もし目が覆われていなかったなら、あなたは、神の怒りの稲妻に満ちた黒い雲が、あなたの国々の上を巻き進んで来るのを見たであろう。あなたには耳があったが、聞こうとしなかった。目があったが、見ようとしなかった。あなたの患難の時が来た。
+さばきは神のすぐ後に続く。神は報い、報復し、さばく。もし目が覆われていなかったなら、あなたは見たであろう。神の怒りの稲妻に満ちた黒い雲が、あなたの国々の上を巻き進んで来るのを。あなたには耳があったが、聞こうとしなかった。目があったが、見ようとしなかった。あなたの患難の時が来た。
 // 英文 -Ears の行頭のハイフンは読み誤り。
 
 Weep, O lands, and wring thy hands, saith the Lord. Turn unto Me with repentance, with sackcloth and ashes; but thou hath said, "We will dance and make merry, we will sing and drain the wine-cup to its dregs." Too long, too long hast thou sat in the banqueting house. Thou hast desecrated the holy vessels of the Lord. Thou hast used My house, the house of the Lord for merrymaking. Thou hast used it to consume it upon thine own lusts. Behold, there cometh forth a hand, it is even now writing upon the wall of thy lands. Behold, thou art weighed in the balances and found wanting. My hands have been outstretched to thee, but thou hast spurned them, thou hast pushed them aside, and now My hands are turned against thee. Thy judgment cometh.
@@ -497,7 +498,7 @@ In thy midst behold the great wine press. His feet are treading it. Blood is iss
 あなたのただ中に、大きな酒ぶねを見よ。神の足がそれを踏んでいる。血がほとばしり出ている。まことに、あなたはわたしの子イエス・キリストの血を拒んだ。今、あなたの血が流される。ラケルよ、子らのために泣くラケルよ、子らはもういない。見よ、主の日が来る。それは近い。
 
 Beset on every hand, surrounded on every quarter, threatened from every side, yet His people shall never be ashamed. Protected by His hand they shall abide in the day of His wrath, and He shall take them to Himself purified. Not a hair of their heads shall be destroyed, neither shall the sandals be worn out upon their feet, neither shall spots be found on their garments nor blood upon their hands. Behold, His people stand in the midst of a perverse generation, but they are a sign post, a wonder to all who look upon them. They are a puzzle to the world, but to Me they are all fair.
-四方から取り囲まれ、あらゆる方面から包囲され、あらゆる側から脅かされても、神の民は決して恥をこうむることがない。神の手に守られて、彼らは神の怒りの日にも耐える。神は彼らを清めて、自分のもとに引き取る。彼らの髪の毛一すじも滅びず、足のくつも古びない。その衣にしみは見いだされず、その手に血もない。見よ、神の民は曲がった時代のただ中に立っている。けれども彼らは道しるべであり、彼らを見るすべての者にとって不思議である。彼らは世にとっては謎である。けれども、わたしにとっては、ことごとく美しい。
+四方から取り囲まれ、あらゆる方面から包囲され、あらゆる側から脅かされても、神の民は決して恥をこうむることがない。神の手に守られて、彼らは神の怒りの日にも耐える。神は彼らをきよめて、自分のもとに引き取る。彼らの髪の毛一すじも滅びず、足のくつも古びない。その衣にしみは見いだされず、その手に血もない。見よ、神の民は曲がった時代のただ中に立っている。けれども彼らは道しるべであり、彼らを見るすべての者にとって不思議である。彼らは世にとっては謎である。けれども、わたしにとっては、ことごとく美しい。
 
 Open up thine hearts, for He will cleanse. He will purge, He will purify His temple, He will drive out all that which is unlike Himself, if thou wilt yield to Him. Behold that which has been whispered in the ears, in the closet, shall be made known on the house-tops. Open up thy being to the Lord. Open up the door, my beloved, and He will purge His threshing-floor. He will iron away all thy wrinkles.
-心を開け。神は清めるからである。もしあなたが神に身をゆだねるなら、神はその宮をきよめ、清らかにする。自分に似ないものをすべて追い出す。見よ、密室で耳にささやかれたことは、屋根の上で言いひろめられる。あなたのすべてを主に開け。わが愛する者よ、戸を開け。そうすれば、主はその打ち場をきよめる。あなたのしわをすっかり伸ばす。
+心を開け。神はきよめるからである。もしあなたが神に身をゆだねるなら、神はその宮をきよめ、清らかにする。自分に似ないものをすべて追い出す。見よ、密室で耳にささやかれたことは、屋根の上で言いひろめられる。あなたのすべてを主に開け。わが愛する者よ、戸を開け。そうすれば、主はその打ち場をきよめる。あなたのしわをすっかり伸ばす。
