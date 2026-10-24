@@ -4,7 +4,7 @@ A VISION--MONTWAIT CAMP--RELATED UNDER THE POWER.
 **幻（モントウェイトのキャンプ集会にて、神の力のもとで語る）**
 
 "To whom shall I my Love compare?
-わが愛する方を、だれにたとえよう。<br/>
+わが愛する方を、だれにたとえようか。<br/>
 Fairest of the fair.
 麗しい者の中で、最も麗しい方。<br/>
 Soon I His glory'll share,

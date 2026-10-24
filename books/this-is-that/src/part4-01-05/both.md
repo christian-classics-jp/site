@@ -11,7 +11,7 @@ God, in speaking through the prophet Joel, says:
 神は預言者ヨエルを通して、こう語っておられる。
 
 "And it shall come to pass afterward, that I will pour out my Spirit upon all flesh and your sons and your daughters shall prophesy. And also upon the servants and upon the handmaids will I pour out my Spirit." (Joel 2-28, 29.) The gifts of the Spirit are being restored to the church and amongst their number is the gift of prophecy and also that of tongues and interpretation. (I Cor. 12.)
-『その後わたしはわが霊をすべての肉なる者に注ぐ。あなたがたのむすこ、娘は預言をし、（中略）その日わたしはまたわが霊をしもべ、はしために注ぐ』（ヨエル二・二八〜二九）。霊の賜物が教会に回復されつつある。その中には預言の賜物があり、また異言の賜物と、異言を解く賜物もある（第一コリント一二章）。
+『その後わたしはわが霊をすべての肉なる者に注ぐ。あなたがたのむすこ、娘は預言をし、（中略）わたしはまたわが霊をしもべ、はしために注ぐ』（ヨエル二・二八〜二九）。御霊の賜物が教会に回復されつつある。その中には預言の賜物があり、また異言の賜物と、異言を解く賜物もある（第一コリント一二章）。
 
 It is as a direct result of the restoration of these gifts and operations of the Spirit that the following messages and visions are recorded. Sister McPherson claims no authorship, as when these messages were spoken through her, she was completely under the power of the Holy Spirit, her tongue and voice were controlled by the Spirit as though speaking in tongues, only that they came in English. Those who were present copied down the messages word for word as spoken.
 以下のメッセージと幻が記録されたのは、まさにこれらの御霊の賜物と働きが回復された結果である。マクファーソン姉妹は、これらのメッセージを自分が書いたものだとは主張していない。メッセージが姉妹を通して語られたとき、姉妹はまったく聖霊の力の下にあったからである。舌も声も、異言で語るときと同じように御霊に支配されていた。ただ、言葉が英語で出てきただけである。その場にいた人々が、語られたとおりに一語一語書き取った。
@@ -55,11 +55,11 @@ Jesus is coming soon again.
 イエスはまもなくふたたび来られる。<br/>
 
 It was after Jesus from death's lonely tomb arose,
-イエスが死のさびしい墓からよみがえり、<br/>
+イエスが死のさびしい墓からよみがえられ、<br/>
 Rose triumphant, victor o'er His foes;
 敵に打ち勝って、勝利のうちに立ち上がられたあと、<br/>
 He ascended up unto His Father's throne again,
-父の御座へとふたたび昇り、<br/>
+父の御座へとふたたび昇られ、<br/>
 And poured out this glorious former rain.
 この栄光の前の雨を注がれた。<br/>
 
@@ -82,7 +82,7 @@ Have you felt this glorious latter rain?
 あなたはこの栄光の後の雨を感じたか。<br/>
 
 Still today on hungry, blood washed saints the Spirit falls,
-今日もなお、飢え渇く、血で洗われた聖徒に御霊が下る。<br/>
+今日もなお、飢えた、血で洗われた聖徒に御霊が下られる。<br/>
 And to you the loving Savior calls,
 愛に満ちた救い主が、あなたに呼びかけておられる。<br/>
 Just look up in simple, childlike faith, and in My Name,
@@ -95,7 +95,7 @@ O the joy of those endued with power from on high,
 As we see our Saviour draweth nigh.
 救い主が近づいて来られるのを、私たちは見ている。<br/>
 When the Spirit comes, we speak in other tongues again,
-御霊が来られると、私たちはまた、ほかの国々の言葉で語る。<br/>
+御霊が来られると、私たちはまた、他国の言葉で語る。<br/>
 Have you received this latter rain?
 あなたはこの後の雨を受けたか。<br/>
 
@@ -142,7 +142,7 @@ And, my friend, He calleth you.
 Soon He's coming back again
 その方はまもなくふたたび来られる。<br/>
 To call His own with Him to reign.
-ご自分のものを呼び寄せ、共に治めさせるために。<br/>
+ご自分のものを呼び寄せ、共に治めさせてくださるために。<br/>
 Shout, my soul, hold not thy peace
 わが魂よ、叫べ、黙っていてはならない。<br/>
 Till thy bonds He shall release,
@@ -156,7 +156,7 @@ And there, beside the glassy sea,
 I'll live with Him eternally.
 私はとこしえにその方と共に生きる。<br/>
 
-# 空中で主に会うとき
+# 空中での出会い
 THE MEETING IN THE AIR.
 
 To whom shall I compare my Love
@@ -164,7 +164,7 @@ To whom shall I compare my Love
 Who came from Heaven above?
 天から来られた方を。<br/>
 Who sent the blessed Heavenly Dove,
-祝福された天の鳩をつかわし、<br/>
+祝福された天の鳩をつかわされ、<br/>
 Revealing Jesus' holy love.
 イエスの聖なる愛を表してくださった方を。<br/>
 
@@ -177,14 +177,14 @@ The Fairest of the fair;
 Soon I His Glory'll share,
 まもなく私はその栄光にあずかる。<br/>
 In the meeting in the air.
-空中で主に会うときに。<br/>
+空中での出会いのときに。<br/>
 
 To whom shall I compare God's Son,
 神の御子を、だれにたとえようか。<br/>
 Glorious as the noonday sun,
 真昼の太陽のように輝かしく、<br/>
 Who bowed His head and cried " 'Tis done,"
-頭を垂れて「すべてが終った」と叫び、<br/>
+頭を垂れて「すべてが終わった」と叫ばれ、<br/>
 And final Victory won.
 最後の勝利を得られた方を。<br/>
 
@@ -193,7 +193,7 @@ To what shall I compare His might,
 As clad in Robes of light,
 光の衣をまとい、<br/>
 He rides victorious in the fight,
-戦いに勝利して馬を進め、<br/>
+戦いに勝利して馬を進められ、<br/>
 Dispelling gloom and darkest night.
 暗闇と深い夜を追い払われる、その力を。<br/>
 
@@ -240,7 +240,7 @@ He stands with the world in the palm of His hand.
 AWAKE, O EARTH! JESUS IS COMING SOON.
 
 AWAKE, O earth! Arise thou that slumber-eth! Let the eyes of the blind be opened, let the deaf ears be unstopped. Come forth from the grave, O thou who are dead in trespasses and sins. Weep and howl, O thou reveler at thy banqueting hall, for thy day of destruction is at hand. Lo! the voice of thy laughter shall be turned into wailing. Thy dazzling garments of shame shall be removed.
-地よ、目をさませ！　眠っている者よ、起きよ！　見えない者の目は開かれよ。聞こえない者の耳はあけられよ。罪過と罪とによって死んでいる者よ、墓から出て来い。宴会の広間で浮かれ騒ぐ者よ、泣き叫べ、わめけ。あなたの滅びの日が近づいているからである。見よ！　あなたの笑い声は嘆きに変わる。あなたのまばゆい恥の衣は、はぎ取られる。
+地よ、目をさませ！　眠っている者よ、起きよ！　見えない者の目は開かれよ。聞こえない者の耳はあけられよ。罪過と罪とによって死んでいる者よ、墓から出て来よ。宴会の広間で浮かれ騒ぐ者よ、泣き叫べ、わめけ。あなたの滅びの日が近づいているからである。見よ！　あなたの笑い声は嘆きに変わる。あなたのまばゆい恥の衣は、はぎ取られる。
 // 英文 slumber-eth は行末の分綴が残ったもの（slumbereth）。
 
 Behold destruction cometh upon the earth, and the hand of Jehovah is heavy upon it. Hearken! the sea groaneth, travailing for the pain which shall shortly come upon thee, O thou wicked nation, which hath forgotten thy God. Yea, the mountains from their snow-capped summits, weep tears for the destruction and the curse of an angry God, that shall descend upon thee as the lightning from a darkened sky. The stars in the heavens hide their faces before the vials of wrath that shall be poured upon thee.
@@ -250,7 +250,7 @@ O thou nations, thou art bathed in iniquity. Yea, O earth, thou art drunken with
 国々よ、あなたは不義にまみれている。まことに、地よ、あなたは自分の不義のぶどう酒と、同胞の血に酔っている。目をさませ。泣き叫び、声をあげて嘆け。さばきの日が近づいているからである。エホバの剣があなたの頭の上にかかっている。悲惨と荒廃と死が成就する。怒る神の力強い足音が近づくと、地は恐れて揺れ動き、震える。山々は、神の怒りの声のとどろきの前に、火で溶ける。清算の時が来た。
 
 In love, in mercy unbounded as the infinity of space, did I shed my blood for thee that thou mightest be saved, but thou wouldst not. This day shall thy blood be shed, yea, it shall cover the fields. Thy garments shall be saturated and heaped with the blood of the nations, who have spurned the blood of Jesus. Lo, the sky has darkened. The heavens are overcast with the darkness of the frown of God. O thou wicked nation, thou shalt surely die. The way of escape is cut off. Where is thy hiding place? Or whither shalt thou flee from the wrath of thy Creator? In life thou shalt find no hiding place. Yea, even though thou seekest rest in death, thou shalt not find it.
-宇宙の果てしなさのように限りない愛とあわれみのうちに、わたしはあなたのために血を流した。あなたが救われるためであった。けれども、あなたはそれを望まなかった。この日、あなたの血が流される。まことに、それは野をおおう。あなたの衣は国々の血に浸され、その血が積み重なる。イエスの血を退けた国々の血である。見よ、空は暗くなった。天は、神のしかめた顔の暗さにおおわれている。悪しき国よ、あなたは必ず死ぬ。逃れの道は断たれた。あなたの隠れ場はどこにあるか。あなたの造り主の怒りから、どこへ逃げるのか。生きているうちに、あなたは隠れ場を見いださない。まことに、死の中に休みを求めても、それを見いださない。
+宇宙の果てしなさのように限りない愛とあわれみのうちに、わたしはあなたのために血を流した。あなたが救われるためであった。けれども、あなたはそれを望まなかった。この日、あなたの血が流される。まことに、それは野をおおう。あなたの衣は国々の血に浸され、血にまみれる。イエスの血を退けた国々の血である。見よ、空は暗くなった。天は、神のしかめた顔の暗さにおおわれている。悪しき国よ、あなたは必ず死ぬ。逃れの道は断たれた。あなたの隠れ場はどこにあるか。あなたの造り主の怒りから、どこへ逃げるのか。生きているうちに、あなたは隠れ場を見いださない。まことに、死の中に休みを求めても、それを見いださない。
 
 The hand of Jehovah is upon thee, O land;
 国よ、エホバの手があなたの上にある。
@@ -281,7 +281,7 @@ Thine eyes are blinded that they cannot see. Thine ears are stopped that they ca
 あなたの目は見えなくされ、見ることができない。あなたの耳はふさがれ、聞くことができない。暗闇と悲しみの夜を通して、愛の優しい声が響きわたる。あなたが耳を傾けるかもしれないので、わたしはしばらくのあいだ、その声をあなたのために残しておく。わたしはあなたの前に、開いた**門**を置いた。今、その門は静かに、確かに閉じつつある。けれども、まだあなたの前にある。血を流そうと急ぐ足が、門が永遠に閉ざされる前に、向きを変えて入るかもしれないからである。あなたの生涯のすべての日々、あなたの前に大きく開かれていたあわれみの門は、まもなく閉ざされる。その声はまもなく静まり、もう聞こえなくなる。門はまもなく閉ざされ、それからはだれも開くことができない。開かれた門口は、まもなく永遠に閉ざされ、だれもそこに入ることはできない。
 
 O foolish nation, thou who hast chosen the pleasures of this world, when I have pleaded with thee to flee from destruction, to hasten from the valley of death, to flee to the arms of refuge, to hide in the rock that is higher than thou, to flee as a man pursued by sudden death, thou wouldst not hearken. Thou sat thee down in thy gilded banqueting hall, and became drunken with the wine of the devil's pleasures and inducements, and went into slumber.
-愚かな国よ、あなたはこの世の快楽を選んだ。わたしはあなたに願ってきた。滅びから逃れよ、死の谷から急いで出よ、避け所の腕へ逃げよ、あなたよりも高い岩に隠れよ、突然の死に追われる人のように逃げよ、と。けれども、あなたは聞き入れようとしなかった。あなたは金ぴかの宴会の広間に座り込み、悪魔の快楽と誘惑のぶどう酒に酔って、眠り込んだ。
+愚かな国よ、あなたはこの世の快楽を選んだ。わたしはあなたに願ってきた。滅びから逃れよ、死の谷から急いで出よ、避け所の腕へ逃げよ、あなたの及びがたいほど高い岩に隠れよ、突然の死に追われる人のように逃げよ、と。けれども、あなたは聞き入れようとしなかった。あなたは金で飾った宴会の広間に座り込み、悪魔の快楽と誘惑のぶどう酒に酔って、眠り込んだ。
 
 Lo! the heavens are filled with the displeasure of thy God. Verily the heavens which today are filled with clouds of richest blessing ready to drop milk and honey, wine and manna upon the seeking soul, tomorrow shall rain forth with wrath and displeasure, the fire and brimstone of a just and avenging God.
 見よ！　天はあなたの神の不興に満ちている。まことに、今日の天は豊かな祝福の雲に満ち、求める魂の上に乳と蜜、ぶどう酒とマナを滴らせようとしている。けれども明日、その天は怒りと不興を降らせる。正しく、報復する神の、火と硫黄を降らせるのである。
@@ -293,10 +293,10 @@ Awake! O thou that sleepest. Cast aside thy garments, O thou drunkard! Flee into
 THE NIGHT IS UPON THEE.
 
 Destruction pursueth thee diligently. The lightning of God's wrath shall smite thee. All thy labors and works shall vanish away, and fade as a flower. Thy greatest creation shall I crumble as dust in my hand. Too late shalt thine eyes be opened. Too late shalt thine ears listen for my voice. Too late shalt thy feet search for the narrow path. Too late shalt thou knock at the gate which is barred forever. Too late shalt thou listen for the voice of thy God in heaven. Thou hast not heeded the voice of my servant which called thee, now will I refuse to listen to thy voice that calleth me.
-滅びが執拗にあなたを追う。神の怒りの稲妻があなたを打つ。あなたの労苦とわざはすべて消え去り、花のようにしおれる。あなたの造った最も偉大なものも、わたしは手の中で塵のように砕く。あなたの目が開かれるのは遅すぎる。あなたの耳がわたしの声を聞こうとするのは遅すぎる。あなたの足が狭い道を探すのは遅すぎる。あなたが永遠に閉ざされた門をたたくのは遅すぎる。あなたが天にいるあなたの神の声を聞こうとするのは遅すぎる。あなたは、あなたを呼んだわたしのしもべの声に心を留めなかった。今度はわたしが、わたしを呼ぶあなたの声を聞くことを拒む。
+滅びが執拗にあなたを追う。神の怒りの稲妻があなたを打つ。あなたの労苦とわざはすべて消え去り、花のようにしおれる。あなたの造った最も偉大なものも、わたしは手の中で塵のように砕く。あなたの目が開かれるのは遅すぎる。あなたの耳がわたしの声を聞こうとするのは遅すぎる。あなたの足が細い道を探すのは遅すぎる。あなたが永遠に閉ざされた門をたたくのは遅すぎる。あなたが天にいるあなたの神の声を聞こうとするのは遅すぎる。あなたは、あなたを呼んだわたしのしもべの声に心を留めなかった。今度はわたしが、わたしを呼ぶあなたの声を聞くことを拒む。
 
 Nay, though thou fliest from coast to coast, with the speed of an eagle, in search of the word of mercy, thou shalt not find it there. Yea, though thou search diligently from shore to shore, thou shalt not find the narrow way, which today thou despiseth. One short season more have I spared thee. REPENT! REPENT!! REPENT!!! O, thou who hast shunned and forgotten thy God.
-いや、たとえあなたが鷲の速さで海岸から海岸へと飛び回り、あわれみの言葉を探しても、そこにそれを見いだすことはない。まことに、岸から岸へと熱心に探しても、あなたが今日さげすむ狭い道を見いだすことはない。わたしはもうひとときだけ、あなたを生かしておいた。**悔い改めよ！　悔い改めよ！！　悔い改めよ！！！**　ああ、あなたの神を避け、忘れた者よ。
+いや、たとえあなたが鷲の速さで海岸から海岸へと飛び回り、あわれみの言葉を探しても、そこにそれを見いだすことはない。まことに、岸から岸へと熱心に探しても、あなたが今日さげすむ細い道を見いだすことはない。わたしはもうひとときだけ、あなたに猶予を与えた。**悔い改めよ！　悔い改めよ！！　悔い改めよ！！！**　ああ、あなたの神を避け、忘れた者よ。
 
 ## 夜の見張り人よ、喜べ
 REJOICE, O THOU WATCHER IN THE NIGHT.
@@ -305,7 +305,7 @@ Be glad, O thou of the weeping eye.
 涙にくれる目の者よ、喜べ。<br/>
 // 原本ではこの詩は二連で、I come to take thee… の行までが詩である。ページ画像で確かめ、英文の行を組み直した。
 Sing aloud, O thou who hast travailed in Spirit.
-霊のうちに産みの苦しみをした者よ、声高く歌え。<br/>
+御霊のうちに産みの苦しみをした者よ、声高く歌え。<br/>
 Dance and sing, O thou redeemed of the King.
 王にあがなわれた者よ、踊り、歌え。<br/>
 Thy day of sorrow is ending.
@@ -334,23 +334,23 @@ Be watchful! Be vigilant! Be careful! Slumber not! For lo! I come quickly.
 目をさましていよ！　身を慎め！　気をつけよ！　眠ってはならない！　見よ！　わたしはすぐに来る。
 
 # 諸国民と聖徒たちへの主の声
+## 諸国民への預言
 THE VOICE OF THE LORD TO THE NATIONS AND TO THE SAINTS.
 PROPHECY--TO THE NATIONS.
-## 諸国民への預言
 
 HEARKEN to the voice of the Lord, ye nations! Hearken! Give ear, O ye lands! Lift up your eyes, O ye people, BEHOLD OF THE LORD, for it is seething with the wrath of His indignation. O the seething, boiling cauldron of His wrath! Who hath considered? Who hath understood? He upholds it by His hand, the fires of His fury are kindled underneath it. All the nations that have forgotten God must be thrown into the pot,
 諸国民よ、主の声を聞け！　聞け！　国々よ、耳を傾けよ！　民よ、目を上げて、**主のかまを見よ**。それは主の憤りの怒りで煮え立っている。ああ、主の怒りの、煮え立ち、沸き返る大がまよ！　だれが思いめぐらしたか。だれが悟ったか。主は手でそれをささえ、その下には主の激しい怒りの火が燃えている。神を忘れた国々はみな、かまに投げ込まれなければならない。
 // 英文 BEHOLD OF THE LORD は原本のとおりで、語が抜けている。続く it is seething、cauldron、pot から「主のかま」を補った。
 
 His hands are turned against thee, O wicked nations; HIS HANDS--loving hands, tender hands, pierced hands. His hands are turned against thee at last. O, His hands. They are now stern hands, strong hands, avenging hands, punishing hands. His hands are upon thee, O earth, in judgment. Who can hide from His hands? Who can conceal themselves from His searching gaze? Though thou hidest in the depths of the ocean, His arm shall reach thee and bring thee back to judgment. Though thou sittest upon the throne, and thy seat is among the haughty; though thou buildest thy nest in the mountain's top with the eagles; though thou gayest I am high, and none shall bring me low; though thou sayest I am secure and none shall make me fall; HIS HAND SHALL LAY THE MH1HTY LOW.
-悪しき国々よ、主の手はあなたがたに向けられている。**主の手**、愛に満ちた手、優しい手、刺し貫かれた手。その手がついにあなたがたに向けられた。ああ、主の手。それは今や厳しい手、強い手、報いる手、罰する手である。地よ、主の手はさばきのためにあなたの上にある。だれが主の手から隠れることができようか。だれが主の探る目から身を隠すことができようか。たとえあなたが海の深みに隠れても、主の腕はあなたに届き、さばきへと連れ戻す。たとえあなたが王座に座り、高ぶる者のあいだに席を占めていても、たとえ山の頂に鷲と共に巣を作っても、たとえ「私は高い。だれも私を低くすることはできない」と言い、「私は安全だ。だれも私を倒すことはできない」と言っても、**主の手は力ある者を低くする**。
+悪しき国々よ、主の手はあなたがたに向けられている。**主の手**、愛に満ちた手、優しい手、刺し貫かれた手。その手がついにあなたがたに向けられた。ああ、主の手。それは今や厳しい手、強い手、報いる手、罰する手である。地よ、主の手はさばきのためにあなたの上にある。だれが主の手から隠れることができようか。だれが主の探る目から身を隠すことができようか。たとえあなたが海の深みに隠れても、主の腕はあなたに届き、さばきへと連れ戻す。あなたは王座に座り、高ぶる者のあいだに席を占めているかもしれない。山の頂に鷲と共に巣を作るかもしれない。「私は高い。だれも私を低くすることはできない」と言い、「私は安全だ。だれも私を倒すことはできない」と言うかもしれない。それでも、**主の手は力ある者を低くする**。
 // 英文 gayest は sayest、MH1HTY は MIGHTY の読み誤り（ページ画像で確かめた）。
 
 How are the mighty fallen, and the wicked brought to judgment! All shall taste of the cup of His fury, and enter the cauldron, the seething pot of His wrath. The king on his throne, the peasant in the field, the judge on his seat, the prisoner at the bar, the rulers of the lands, and the poor man in his shop, and all they that have forgotten God, shall enter the cauldron of His fury. The eagle fighting the bull, both shall be cast into the pot together. The eagle with her brood; the lion with her whelps; the unicorn in his power; the beaver in his home; the bear shall be thrown in by His hands; the dragon that seeks to run away shall be gathered into His hands and cast alive into the cauldron. And you, O land of the eagle spread wings, must taste and drink and enter. All these, the lion, the unicorn, the two eagles, fighting in the field, the beaver, the bear, the dragon, the crescent and the star all must drink, all must be broken and cast down and melted and ended.
-ああ、力ある者は倒れ、悪しき者はさばきに引き出された！　すべての者が主の憤りの杯を味わい、大がまに、主の怒りの煮え立つかまに入る。王座にある王も、畑の農夫も、席にある裁判官も、法廷の被告も入る。国々の支配者も、店にいる貧しい者も、神を忘れたすべての者が、主の憤りの大がまに入る。牛と戦う鷲は、どちらもいっしょにかまに投げ込まれる。ひなを連れた鷲も、子を連れた雌獅子も、力ある一角獣も、すみかにいるビーバーも。熊は主の手で投げ込まれる。逃げようとする竜は主の手に集められ、生きたまま大がまに投げ込まれる。そして、翼を広げた鷲の国よ、あなたも味わい、飲み、入らなければならない。獅子、一角獣、野で戦う二羽の鷲、ビーバー、熊、竜、三日月と星。これらすべてが飲まなければならない。すべてが砕かれ、投げ倒され、溶かされ、終わらなければならない。
+ああ、力ある者は倒れ、悪しき者はさばきに引き出された！　すべての者が主の憤りの杯を味わい、大がまに、主の怒りの煮え立つかまに入る。王座にある王も、畑の農夫も、席にある裁判官も、法廷の被告も入る。国々の支配者も、店にいる貧しい者も、神を忘れたすべての者が、主の憤りの大がまに入る。牛と戦う鷲も、その牛も、いっしょにかまに投げ込まれる。ひなを連れた鷲も、子を連れた雌獅子も、力ある一角獣も、すみかにいるビーバーも、熊も、主の手で投げ込まれる。逃げようとする竜は主の手に集められ、生きたまま大がまに投げ込まれる。そして、翼を広げた鷲の国よ、あなたも味わい、飲み、入らなければならない。獅子、一角獣、野で戦う二羽の鷲、ビーバー、熊、竜、三日月と星。これらすべてが飲まなければならない。すべてが砕かれ、投げ倒され、溶かされ、終わらなければならない。
 
 Then shall the kingdom of the Lamb--the white Lamb, the meek Lamb, the slain Lamb--be established. Then shall the lion and the lamb lie .down together. Thou hast refused Him in the form of the Lamb, the slain Lamb, but NOW thou wilt receive Him in the form of a lion. He shall rend thee with His teeth, and devour thee with His fury. He sought to conquer thee when He came as a Lamb, now He will conquer thee as the lion of Judah that knows 110 defeat. All nations shall bow their knee and admit that He is Lord, when He is conqueror. Then shall the lion and the lamb lie down in peace together.
-そのとき、小羊の御国が、白い小羊、柔和な小羊、ほふられた小羊の御国が打ち立てられる。そのとき、獅子と小羊は共に伏す。あなたは小羊の姿で来た主を、ほふられた小羊を拒んだ。けれども**今**、あなたは獅子の姿の主を迎える。主は歯であなたを引き裂き、憤りであなたを食い尽くす。小羊として来たとき、主はあなたを征服しようとした。今は、敗北を知らないユダの獅子として、あなたを征服する。主が征服者となるとき、すべての国はひざをかがめ、主が主であることを認める。そのとき、獅子と小羊は平和のうちに共に伏す。
+そのとき、小羊の御国が、白い小羊、柔和な小羊、ほふられた小羊の御国が打ち立てられる。そのとき、獅子と小羊は共に伏す。あなたは小羊の姿で来た主を、ほふられた小羊を拒んだ。けれども**今**、あなたは獅子の姿の主を迎える。主は歯であなたを引き裂き、憤りであなたを食い尽くす。小羊として来たとき、主はあなたを征服しようとした。今は、敗北を知らないユダの獅子として、あなたを征服する。主が征服者となるとき、すべての国はひざをかがめ、主を主と認める。そのとき、獅子と小羊は平和のうちに共に伏す。
 // 英文 lie .down の点と 110 defeat（no defeat）は読み誤り。
 
 O thoughtless people! O foolish lands, why hast thou not considered? Open thine eyes, behold the wine press of the Lord. He treadeth His wine press in fury. The clusters are gathered from the vine, the clusters from the vine are the nations, they are cast together into the wine press of His wrath. He has risen up to judge the world, the prince of this world is judged.
@@ -360,7 +360,7 @@ Who shall stay His step? Who shall cause Him to withdraw His hand? His love have
 だれが主の歩みを止められようか。だれが主に手を引かせられようか。あなたがたは主の愛を退け、主の優しさをはねつけた。主はあわれみと赦しの愛であなたがたをおおうとしたが、あなたがたは望まなかった。けれども今、主は、水が海をおおうように、さばきであなたがたをおおう。ああ、主が歩みを止めると思ってはならない。主の酒ぶねはまだ満ちていない。
 
 All nations shall enter, and be judged, and tried, and broken. They refused His broken body and shed blood, now their bodies shall be broken and their blood shed. He would have taken your place but ye would not. Hear the sound, the rumbling of the earthquakes and the overflowing of the volcanoes; blood and fire and vapor of smoke. Like thunder of the cannon, His voice shall thunder before His army, and when the hills are laid low and the mountains overturned by the root and the hidden things revealed, the high laid low, and the haughty in the dust and all nations brought low, then shall the King come forth in His beauty, with a conquering tread and a marshal step, clad in glory and power.
-すべての国が入り、さばかれ、試され、砕かれる。彼らは主の裂かれた体と流された血を拒んだ。今度は彼らの体が裂かれ、彼らの血が流される。主はあなたがたの身代わりになろうとしたが、あなたがたは望まなかった。その音を聞け。地震のとどろきと、火山のあふれる響きを。血と火と立ちのぼる煙を。大砲の雷鳴のように、主の声はその軍勢の前にとどろく。丘は低くされ、山々は根こそぎ覆され、隠れたものはあらわにされ、高い者は低くされ、高ぶる者は塵にまみれ、すべての国が低くされる。そのとき王が、その麗しさのうちに、征服者の足取りと軍隊の歩調で、栄光と力をまとって出て来る。
+すべての国が入り、さばかれ、試され、砕かれる。彼らは主の裂かれた体と流された血を拒んだ。今度は彼らの体が裂かれ、彼らの血が流される。主はあなたがたの身代わりになろうとしたが、あなたがたは望まなかった。その音を聞け。地震のとどろきと、火山のあふれる響きを。血と火と立ちこめる煙を。大砲の雷鳴のように、主の声はその軍勢の前にとどろく。丘は低くされ、山々は根こそぎ覆され、隠れたものはあらわにされ、高い者は低くされ、高ぶる者は塵にまみれ、すべての国が低くされる。そのとき王が、その麗しさのうちに、征服者の足取りと軍隊の歩調で、栄光と力をまとって出て来る。
 // 英文 marshal step は martial step（軍隊の歩調）の意と読んだ。
 
 ## 聖徒たちへ
@@ -371,6 +371,7 @@ His kingly garments are upon Him, His scepter is in His hand. His crown is on Hi
 
 I must have sand, I must have water, I must have love. Sand is made out of stone ground to powder and sifted most fine. As I put the stones into the crusher, one must crush the other. There is a creaking, a rumbling, and groaning; but IF YOU WILL HOLD STEADY IN MY HANDS I WILL USE ONE STONE TO CRUSH AND GRIND ANOTHER. You may not love each other at the time, but O be patient with my dealings. After I have ground thee and sifted thee fine, you will all come together as fine sand. I will mix you with the water of salvation. I am the water. O, why can ye not understand my plan? I cannot use big stones or even pebbles in cement; only that which will pass through the sieve. I shall have a people as numberless as the sands of the sea shore. O, I want cement, I will have cement. A PEOPLE CEMENTED TO- GETHER IN LOVE. I will put together my spiritual house quickly, when I can get cement of love to bind my lively stones together, saith the Lord of Hosts. Masons do not use a hammer to lay cement. There shall be no sound of hammer to lay cement when I complete my temple.
 わたしには砂が要る。水が要る。愛が要る。砂は、粉になるまですりつぶされ、ごく細かくふるわれた石でできている。わたしが石を砕石機に入れると、一つの石がもう一つの石を砕かなければならない。きしみ、とどろき、うめきが起こる。けれども、**あなたがたがわたしの手の中でじっとしているなら、わたしは一つの石を用いて別の石を砕き、すりつぶす**。そのときには、互いに愛し合えないかもしれない。けれども、ああ、わたしの取り扱いを忍耐せよ。わたしがあなたがたをすりつぶし、細かくふるい終えたら、あなたがたはみな細かい砂として一つになる。わたしはあなたがたを救いの水と混ぜ合わせる。わたしがその水である。ああ、なぜあなたがたは、わたしの計画を悟ることができないのか。わたしは、大きな石も、小石さえも、セメントに使うことはできない。ふるいを通るものだけを使う。わたしは、海辺の砂のように数えきれない民を持つ。ああ、わたしはセメントがほしい。セメントを得る。**愛によって結び固められた民を**。わたしの生ける石を結び合わせる愛のセメントを得たなら、わたしはすみやかにわたしの霊の家を組み上げる、と万軍の主は言う。石工はセメントを塗るのに槌を使わない。わたしが宮を完成させるとき、セメントを塗るのに槌の音はしない。
+// 英文 TO- GETHER は行末の分綴が残ったもの（TOGETHER）。
 
 Behold I come quickly! O let the murmurers murmur no longer. Let the groaning ones groan no longer, for soon I will come, for my temple is almost complete. O submit to my will. With mine own hands I have digged thee from my quarry. I have shaped thee and chiseled thee; but if thou wilt not submit to my hands I must lay thee aside in spite of my love for thee and take another who will let me have my way; even as I laid the Jews aside, and chose the Gentiles, for the time is short and I come quickly. I will have a perfect house, my love. HOLD FAST THAT WHICH THOU HAST that no man take thy crown. The number is fixed, and if thou layest down thy crown, another shall take it and put it on. If thou layest aside thy mantle of overcoming, it shall fall upon another.
 見よ、わたしはすぐに来る！　ああ、つぶやく者は、もうつぶやいてはならない。うめく者は、もううめいてはならない。わたしはまもなく来るからである。わたしの宮はほとんど完成している。ああ、わたしの意志に従え。わたしは自分の手で、わたしの石切り場からあなたを掘り出した。あなたを形づくり、のみで刻んだ。けれども、もしあなたがわたしの手に従わないなら、わたしはあなたを愛していても、あなたをわきに置かなければならない。そして、わたしの思いどおりにさせてくれる別の者を取らなければならない。ちょうど、わたしがユダヤ人をわきに置いて、異邦人を選んだように。時は縮まっており、わたしはすぐに来るからである。わたしは完全な家を持つ。わが愛する者よ。**自分の持っているものを堅く守り**、あなたの冠がだれにも奪われないようにせよ。数は定まっている。もしあなたが冠を下に置くなら、ほかの者がそれを取ってかぶる。もしあなたが勝利の外套をわきに置くなら、それはほかの者の上に落ちる。
