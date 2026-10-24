@@ -3,7 +3,7 @@ CHAPTER V.
 OBJECTIONS ANSWERED.
 
 July 3, 1902, I received a definite witness that I was wholly sanctified. Being taught in that way, I accepted this as being the Baptism of the Holy Ghost.
-1902年7月3日、私は、自分が全く聖化されたという確かなあかしを受けた。そのように教えられていたので、私はこれを聖霊のバプテスマとして受け入れた。
+1902年7月3日、私は、自分がまったく聖化されたという確かなあかしを受けた。そのように教えられていたので、私はこれを聖霊のバプテスマとして受け入れた。
 Fourteen months later I heard Dr. G. D. Watson preach at Falcon, N. C., through a ten-days' camp-meeting, during which time he made it clear to me that there was a difference between the "emptying" and the "filling."
 その十四か月後、私はノースカロライナ州ファルコンで、十日間の野営集会を通してG・D・ワトソン博士の説教を聞いた。その間に博士は、「空にすること」と「満たすこと」とには違いがあることを、私にはっきり示してくれた。
 Still, I believed that I had the "filling," and while I have spoken often since then of both being included in sanctification, yet in instructing seekers I have been careful to tell them that the blood cleansed and then the Holy Ghost filled.
@@ -98,16 +98,16 @@ Another objection: All who speak with tongues seem to be so fixed in their way t
 Thank you for this point! They have become established (I Cor. 15: 58).
 この指摘には感謝する！　彼らは堅く立つ者となったのである（第一コリント一五・五八）。
 I notice, however, that those who are accusing the Pentecostal people of being unteachable are those who have been leaders or those who are still desirous of leadership, and since this movement has no leader, they are much disturbed, and are lamenting the fact that the people will not follow them as they used to do.
-しかし、私は気づいている。ペンテコステの人々を、教えを受けつけないと責めているのは、これまで指導者だった人々か、今も指導者になりたがっている人々である。この運動には指導者がいないので、彼らはひどく心を乱している。そして、人々が前のように自分についてこないことを嘆いているのである。
+しかし、私は気づいている。ペンテコステの人々を、教えを受けつけないと責める人々がいる。それは、これまで指導者だった人々か、今も指導者になりたがっている人々である。この運動には指導者がいないので、彼らはひどく心を乱している。そして、人々が前のように自分についてこないことを嘆いているのである。
 
 "Well, I think it is time," says another, "for them to become established. Many of them have claimed the Baptism of the Holy Ghost for years, and some of them the baptism of fire, and now here they go after this 'tongue movement.'"
-「いや」と、別の人が言う。「彼らもそろそろ固まっていい頃だと思う。彼らの多くは、何年も前から聖霊のバプテスマを受けたと主張してきた。火のバプテスマを受けたと主張する者もいた。それが今になって、この『異言運動』を追いかけているのだから」。
+「いや」と、別の人が言う。「彼らもそろそろ堅く立っていいころだと思う。彼らの多くは、何年も前から聖霊のバプテスマを受けたと主張してきた。火のバプテスマを受けたと主張する者もいた。それが今になって、この『異言運動』を追いかけているのだから」。
 Yes, thousands have claimed the Baptism of the Holy Ghost for years, and were honest in their profession.
-そのとおり。何千もの人が何年も前から聖霊のバプテスマを受けたと主張してきた。そして、その告白において正直であった。
+そのとおり。何千もの人が何年も前から聖霊のバプテスマを受けたと主張してきた。そして、そう言い表したことにおいて正直であった。
 Honest, because they have been walking in the light which these leaders have been instrumental in giving; but now greater light has come, and it is clearly showing who have been honest and who are willing to sacrifice theory in order to go every step of the way.
 正直だったのは、これらの指導者たちを通して与えられた光の中を歩んでいたからである。しかし今、もっと大きな光が来た。その光ははっきり示している。だれが正直であったか。また、道の一歩一歩を最後まで進むために、自分の理論を犠牲にする気がだれにあるか。
 A person without the light may honestly profess the Baptism of the Spirit without Pentecostal evidence for years, and then find that he is mistaken; but we have met something now which makes its own profession, and which men do not profess under a mistake very long.
-光を持たない人は、ペンテコステの証拠のないまま、何年も正直に御霊のバプテスマを受けたと言い表すことがある。そして、あとで間違っていたと気づくこともある。しかし私たちは今、それ自体が告白をするものに出会った。人が思い違いをしたまま、長く告白していられるものではない。
+光を持たない人は、ペンテコステの証拠のないまま、何年も正直に御霊のバプテスマを受けたと言い表すことがある。そして、あとで間違っていたと気づくこともある。しかし私たちは今、それ自体がみずから言い表すものに出会った。人が思い違いをしたまま、長く言い表していられるものではない。
 But after a person is thoroughly established in Pentecost, the Spirit having manifested Himself with His tongue, you cannot make him doubt it.
 そして、人がペンテコステにしっかりと立ち、御霊がその人の舌を用いてご自分を現されたあとでは、その人に疑わせることはできない。
 // 英文は with His tongue（大文字）。御霊がその人の舌を用いてご自分を現される意味に取った（この節のあとの with their tongue と同じ）。
@@ -121,7 +121,7 @@ So many people were hung up on this same peg a few years ago in regard to sancti
 "What has become of those who never heard of holiness?" has been asked by thousands.
 「ホーリネスについて一度も聞かなかった人々は、どうなったのか」と、何千もの人が問うてきた。
 We would say, however, in regard to the above that they, with many others, were great and good men, and were wonderfully used of God in their day; but unless they had the Bible evidence of Pentecost, we can not Scripturally say that they had the Baptism of the Holy Ghost.
-しかし、上に挙げた人々について、私たちはこう言いたい。彼らは、ほかの多くの人々と同じく、偉大で善い人々であり、その時代に神にすばらしく用いられた。しかし、ペンテコステの聖書の証拠を持っていなかったのなら、彼らが聖霊のバプテスマを受けていたとは、聖書に基づいて言うことはできない。
+しかし、上に挙げた人々について、私たちはこう言いたい。彼らは、ほかの多くの人々と同じく、偉大で善い人々であり、その時代に神にすばらしく用いられた。しかし、彼らがペンテコステの聖書の証拠を持っていなかったのなら、聖霊のバプテスマを受けていたとは聖書に基づいて言えない。
 Besides, I want to say, Fletcher, Bramwell, nor no other man is my standard; I am building on the Word.
 それに、言っておきたい。フレッチャーもブラムウェルも、ほかのだれも、私の基準ではない。私はみことばの上に建てているのである。
 When God gives light, I have no right to ask if others walked in it or are walking in it until I walk in it myself.
@@ -150,10 +150,10 @@ Some say that those who are now obtaining their Petecost and speaking with tongu
 No doubt those who say this are honest, but they are surely mistaken.
 そう言う人々は、きっと正直なのであろう。しかし、確かに間違っている。
 On the other hand, I know it to be a fact that the most pious and deeply spiritual people of the land, who have been true to God for years, have been the first to receive their Pentecost; while all Masonic and tobacco-chewing preachers of whom I have any knowledge have so far fought the present movement.
-一方で、私は事実として知っている。この国で最も敬虔で深く霊的な人々、何年も神に忠実であった人々が、真っ先にペンテコステを受けてきた。そして、私の知っているかぎりのフリーメーソンの説教者や、かみたばこをかむ説教者は、みな今のところ、今の運動と戦ってきたのである。
+一方で、私は事実として知っている。この国で最も敬虔で深く霊的な人々、何年も神に忠実であった人々が、真っ先にペンテコステを受けてきた。そして、フリーメーソンの説教者や、かみたばこをかむ説教者は、私の知っているかぎり、これまでみな今の運動と戦ってきたのである。
 
 We are referred to those who have received their Pentecost, spoke with tongues, and yet say that all who receive the Baptism will not speak with tongues.
-私たちは、こういう人々を引き合いに出される。ペンテコステを受けて異言を語ったのに、バプテスマを受ける人がみな異言を語るわけではない、と言う人々である。
+こういう人々を引き合いに出して、私たちに反論する人もいる。ペンテコステを受けて異言を語ったのに、バプテスマを受ける人がみな異言を語るわけではない、と言う人々である。
 Let me ask a question: How many people have been led into the light of Pentecost, made hungry for the Baptism, sought for and obtained the Holy Ghost with Pentecostal evidence under such teaching? Very few, I trow.
 一つ尋ねたい。そのような教えのもとで、どれだけの人がペンテコステの光に導かれ、バプテスマに飢え渇いたか。そしてそれを求めて、ペンテコステの証拠を伴って聖霊を受けたか。ごくわずかだと思う。
 Those who do, as a rule, are those who have heard of the revival and been made hungry from another source.
@@ -193,7 +193,7 @@ There are but few who preach the negative except those who in their hearts want 
 否定の側を説く人は、心の中でリバイバルが止まることを望んでいる人々のほかには、ほとんどいない。
 
 A preacher tells me that a sister with whom I am acquainted came to his meeting and seemed to be hungry for Pentecost, and so expressed herself to him; but in a few days she heard a sermon on the negative of the question; and when through, the preacher asked all who had the Baptism of the Holy Ghost to stand up, and among others who stood was this same woman.
-ある説教者が話してくれた。私の知っているある姉妹が彼の集会に来て、ペンテコステに飢え渇いている様子で、彼にもそう言っていた。ところが数日のうちに、彼女はこの問いに否定で答える説教を聞いた。説教が終わると、その説教者は、聖霊のバプテスマを受けている人はみな立つようにと言った。すると、立った人々の中に、この同じ婦人がいたのである。
+ある説教者が話してくれた。私の知っているある姉妹が彼の集会に来て、ペンテコステに飢え渇いている様子で、彼にもそう言っていた。ところが数日のうちに、彼女はこの問いに否定で答える説教を聞いた。説教が終わると、その説教をした人は、聖霊のバプテスマを受けている人はみな立つようにと言った。すると、立った人々の中に、この同じ婦人がいたのである。
 
 I am well acquainted with the people in a certain small town in which a Pentecostal meeting was held soon after this revival first came to the Atlantic coast.
 このリバイバルが初めて大西洋岸に来てまもなく、ある小さな町でペンテコステの集会が開かれた。私はその町の人々をよく知っている。
@@ -221,7 +221,7 @@ We are told that we exalt the "gifts" above the "Giver." This is entirely a misr
 We tell people to seek for the Holy Ghost, and that when He comes He will testify; and therefore to tarry until the Spirit manifests Himself with their tongue.
 私たちが人々に言っているのは、こういうことである。聖霊を求めなさい。聖霊が来られれば、あかしをしてくださる。だから、御霊があなたの舌を用いてご自分を現されるまで、待ち望みなさい。
 And then to covet earnestly the best gifts, and God will add them as He sees proper.
-そして、『更に大いなる賜物を得ようと熱心に努めなさい』。神は、よいと見られるとおりに、それを加えてくださる。
+そして、『更に大いなる賜物を得ようと熱心に努めなさい』。神は、ふさわしいとお考えになるとおりに、それを加えてくださる。
 
 Some say that the evidence of Pentecost is the fruit of the Spirit, quoting for proof Matt. 7: 20: "Wherefore by their fruits ye shall know them."
 ある人々は、ペンテコステの証拠は御霊の実だと言い、その裏づけとしてマタイ七章二〇節を引く。『このように、あなたがたはその実によって彼らを見わけるのである』。
@@ -256,7 +256,7 @@ She found out that she never had the Baptism of the Spirit, and so began to seek
 On a certain date, while pouring out her prayers to God, she began to laugh, which, she says, was a new experience to her, and she laughed and laughed till she finished.
 ある日、神に祈りを注ぎ出していると、彼女は笑い出した。それは彼女にとって初めての体験だったという。彼女は笑いに笑って、しまいに笑い終えた。
 She says when she ceased to laugh she realized that her hunger was gone, and thanked God then and there for the abiding Holy Ghost.
-笑いがやんだとき、飢え渇きがなくなっていることに気づき、その場で、内にとどまってくださる聖霊のゆえに神に感謝した、と彼女は言う。
+彼女の話では、笑いがやんだとき、飢え渇きがなくなっていることに気づいた。そしてその場で、内にとどまってくださる聖霊のゆえに神に感謝したという。
 The only manifestation she gives is that of laughing. Is laughing a Bible evidence of Pentecost?
 彼女の挙げる現れは、笑うことだけである。笑うことは、ペンテコステの聖書の証拠なのか。
 Show us that Scripture that says, "They were all filled with the Holy Ghost, and began to laugh, or to cry, or to believe the Word."
@@ -266,7 +266,7 @@ Show us any other Scriptural manifestation, and we will accept it.
 Show us one account of an apostolic service of which the Book says, "They were filled with the Holy Ghost, but did not speak with tongues," and we will show you a dozen such reports which have recently appeared in the holiness papers.
 使徒たちの集会について、聖書が『彼らは聖霊に満たされたが、異言は語らなかった』と書いている記事を、一つでも示してほしい。そうすれば私たちは、ホーリネスの新聞に最近載ったそのような報告を、十いくつも示そう。
 If we claim the Baptism one time without the Bible evidence, and find that we are mistaken, are we not likely to be mistaken if we claim Him the second time without the Bible evidence?
-一度、聖書の証拠なしにバプテスマを受けたと主張して、間違っていたと気づいたとする。それなら、二度目に聖書の証拠なしに御霊を受けたと主張するときも、間違っている見込みが大きいのではないか。
+一度、聖書の証拠なしにバプテスマを受けたと主張して、間違っていたと気づいたとする。それなら、二度目に聖書の証拠なしに御霊を受けたと主張するときも、間違っているおそれが大きいのではないか。
 
 "Suppose a man has the gift of wisdom, or faith, or interpretation, can we say that he has not the Baptism?" Bring up your man, and then we will talk about it.
 「ある人に知恵や信仰や解き明かしの賜物があるとしよう。それでも、その人はバプテスマを受けていないと言えるのか」。その人を連れて来てほしい。話はそれからにしよう。
@@ -276,12 +276,12 @@ However, I suppose if some one should receive one of the best gifts they would b
 もっとも、だれかが最もすぐれた賜物の一つを受けたら、その人はホーリネスの人々の大部分から、ひどく迫害されるであろう。
 
 One says: "Seven years ago I received definitely the Baptism of the Holy Ghost. But I am now eagerly, yea, hourly, expecting another baptism." The Word says there is but one Baptism.
-ある人は言う。「七年前、私は確かに聖霊のバプテスマを受けた。しかし今、私はもう一つのバプテスマを熱心に、いや、一時間ごとに待ち望んでいる」。みことばは、『バプテスマは一つ』だと言っている。
+ある人は言う。「七年前、私は確かに聖霊のバプテスマを受けた。しかし今、私はもう一つのバプテスマを熱心に、いや、今か今かと待ち望んでいる」。みことばは、『バプテスマは一つ』だと言っている。
 
 Some advise: "When you speak with tongues in service, never let more than two or three speak at a time; it causes confusion."
 ある人々は忠告する。「集会で異言を語るときは、一度に二、三人より多くの人に語らせてはならない。混乱を招くからだ」。
 If such people had been present on the day of Pentecost they would have accused the Spirit for talking through too many at one time.
-もしそういう人々がペンテコステの日にその場にいたら、一度にあまりに多くの人を通して語られたといって、御霊を責めたことであろう。
+もしそういう人々がペンテコステの日にその場にいたら、御霊が一度にあまりに多くの人を通して語られたといって、責めたことであろう。
 
 One writes: "In the Epistles, tongues are not once mentioned as a distinctive evidence of the filling of the Spirit.
 ある人はこう書いている。「書簡には、異言が御霊の満たしのきわだった証拠として挙げられていることは、一度もない。
@@ -309,7 +309,7 @@ This book of the law was written in Hebrew, but Jesus' native language was Syria
 There were no books in the houses of the common people, no printing press, no opportunity to learn to read the Hebrew, except among the rich and the priests and the scribes.
 庶民の家には本がなく、印刷機もなく、ヘブル語の読み方を学ぶ機会もなかった。そういう機会があったのは、金持ちや祭司や律法学者たちの間だけであった。
 Jesus talked to the ignorant fallen Samaritan woman at the well, doubtless in her own dialect. So, too, of the Syrophenician woman and the Gadarenes.
-イエスは井戸のそばで、無知で堕落したサマリヤの女と話された。それは疑いもなく、彼女自身の方言でであった。スロ・フェニキヤの女や、ガダラ人の場合も同じである。
+イエスは井戸のそばで、無知で堕落したサマリヤの女と、疑いもなく彼女自身の方言で話された。スロ・フェニキヤの女や、ガダラ人の場合も同じである。
 True, the Scriptures do not have the word 'tongues' in these incidents.
 確かに聖書は、これらの出来事について『異言』という言葉を使ってはいない。
 They were not written to satisfy curiosity, else John supposes the world would not contain books enough to record the things Jesus did.
@@ -318,6 +318,6 @@ Nor are they written to meet the reasoning of the learned, or the cavils of the 
 また、学者の理屈や、信じない者のあら探しに応えるために書かれたのでもない。貧しい者、学問のない者、素朴で幼な子のような信者のために書かれたのである。そのような信者は、知恵のある者や賢い者に隠され、幼な子にあらわされた奥義を知ろうと求めている」
 
 Somebody says that John the Baptist never spake with tongues, though he was filled with the Holy Ghost from birth. Is this true?
-ある人は、バプテスマのヨハネは生れたときから聖霊に満たされていたのに、一度も異言を語らなかった、と言う。これは正しい議論か。
+ある人は、バプテスマのヨハネは生まれたときから聖霊に満たされていたのに、一度も異言を語らなかった、と言う。これは本当か。
 It was said of him, "He shall be filled with the Holy Ghost, even from his mother's womb"; but he did not have the Baptism of Pentecost, "for the Holy Ghost was not yet given."
 確かに彼については、『彼は母の胎内にいる時からすでに聖霊に満たされている』と言われていた。しかし彼は、ペンテコステのバプテスマを受けてはいなかった。『御霊がまだ下っていなかった』からである。
