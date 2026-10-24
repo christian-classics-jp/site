@@ -12,7 +12,7 @@
 + [x] Chapter 1. Trials And Blessings. Revival Begins
 + [x] Chapter 2. Pastor Smale Returns From Wales (1)
 + [x] Chapter 2. Pastor Smale Returns From Wales (2)
-+ [ ] Chapter 2. Pastor Smale Returns From Wales (3)
++ [x] Chapter 2. Pastor Smale Returns From Wales (3)
 + [ ] Chapter 3. The Fire Falls At "Azusa" (1)
 + [ ] Chapter 3. The Fire Falls At "Azusa" (2)
 + [ ] Chapter 4. Eighth And Maple Meetings (1)
