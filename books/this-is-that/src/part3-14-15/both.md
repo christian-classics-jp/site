@@ -21,7 +21,7 @@ Sanctification is not the baptism of the Holy Spirit.
 聖化は、聖霊のバプテスマではない。
 
 Salvation and sanctification (whether you have been taught holiness as one or two definite experiences or not), all must agree, are wrought through Jesus and His precious, atoning blood.
-救いと聖化は（きよさを一度の、あるいは二度のはっきりした体験として教えられてきたかどうかは別として）、イエスと、その尊い、罪をあがなう血とによって成し遂げられる。このことには、だれもが同意するはずである。
+救いと聖化は、イエスと、その尊い、罪をあがなう血とによって成し遂げられる。きよさを一度の、あるいは二度のはっきりした体験として教えられてきたかどうかは別として、このことには、だれもが同意するはずである。
 
 The baptism spoken of by John the Baptist, (Matt. 3:11) and by Peter (Acts 2:38), is the coming of the Comforter into the cleansed, empty vessel which makes the body of the recipient the temple of the Holy Ghost.
 バプテスマのヨハネ（マタイ三・一一）とペテロ（使徒二・三八）が語ったバプテスマとは、きよめられた空の器に助け主が来られることである。それによって、受ける人のからだが聖霊の宮となる（第一コリント六・一九）。
@@ -43,7 +43,7 @@ For you to start out independently to meet the Lord, denying your need of the in
 内に住まわれる御霊が必要であることを認めずに、ひとりで主に会おうと出かけるのは、どういうことか。それは、子供が、自分には知恵も学問も十分にあるから、読み書きを教えてくれる先生はいらないと言い張るようなものである。あるいは、リバプール行きの船に乗り込んで、船長の慣れた手も海図もいらないから自分で舵を取ると言い張るようなものである。
 
 Without a doubt, dear Christian, this literal, tangible, incoming of the Holy Spirit is just what you need and have been longing for for years.
-愛するクリスチャンよ、文字どおりの、手で触れるほど確かな仕方で聖霊が入って来られること、それこそあなたに必要なもの、あなたが何年も待ち焦がれてきたものである。これは疑いのないことである。
+愛するクリスチャンよ、文字どおりの、手で触れるほど確かな仕方で聖霊が入って来られること。それこそ、あなたに必要なもの、あなたが何年も待ち焦がれてきたものである。これは疑いのないことである。
 Thank the Lord for salvation, for Jesus who shed His precious blood, but remember that just as it took three stories to complete the ark which lifted Noah and his family above the waves, just so it has taken the combined efforts of the Triune God, Father, Son and Holy Spirit, to form the ark that shall catch up His people above the waves of tribulation that shall soon sweep o'er this earth.
 救いのゆえに、尊い血を流してくださったイエスのゆえに、主に感謝しなさい。けれども、覚えておきなさい。ノアとその家族を波の上に持ち上げた箱舟は、三つの階がそろって完成した（創世記六・一六）。それと同じように、三位一体の神、父と子と聖霊が力を合わせて、一つの箱舟を造り上げられたのである。まもなくこの地を襲う患難の波の上に、ご自分の民を引き上げる箱舟である。
 
@@ -57,12 +57,12 @@ This age of the Holy Spirit was promised by the Father through the prophets in t
 この聖霊の時代は、旧約聖書の預言者たちを通して、父が約束しておられたものである。
 Isaiah 28 ill declares that with stammering lips and another tongue will He speak to this people.
 // 英文の 28 ill は OCR の崩れ（原本は 28:11）。
-イザヤ書二十八章十一節は、主が『異国のくちびると、異国の舌とをもってこの民に語られる』と告げている。
+イザヤ書二十八章十一節は、主が「どもる唇と異国の舌とをもってこの民に語られる」と告げている。
 Speaking through the prophet Joel, our God promised the baptism of the Holy Spirit, saying:
 また、私たちの神は、預言者ヨエルを通して語り、聖霊のバプテスマを約束して、こう言われた。
 
 "In the last days I will pour out My Spirit upon all flesh. Your sons and your daughters shall prophesy. . . . Upon My servants and My handmaidens I will pour out My Spirit. He will cause to come down for you the rain, both the former and the latter rain in the first month."
-「終りの時には、わたしの霊をすべての人に注ぐ。あなたがたのむすこ、娘は預言をする。（中略）わたしの霊をしもべ、はしために注ぐ。主はあなたがたのために雨を、前の雨と後の雨とを、初めの月に降らせられる」（ヨエル二・二八〜二九、二三）
+「終わりの時には、わたしの霊をすべての人に注ぐ。あなたがたのむすこ、娘は預言をする。（中略）わたしの霊をしもべ、はしために注ぐ。主はあなたがたのために雨を、前の雨と後の雨とを、初めの月に降らせられる」（ヨエル二・二八〜二九、二三）
 
 "Ask ye of the Lord rain in the time of the latter rain," another prophet writes, "and He will send bright clouds and give to every one grass in the field."
 「後の雨の時に、雨を主に請い求めよ」と、別の預言者は書いている。「主は輝く雲を送り、野の青草をおのおのに賜わる」（ゼカリヤ一〇・一）
@@ -78,44 +78,44 @@ How significant that John should select this particular prophecy concerning that
 主がなさることについて、ヨハネがほかでもないこの預言を選んだことは、なんと意味深いことだろう。ヨハネはこう言うこともできたはずである。
 
 "He, when He is come, will heal the sick; He will raise the dead; He will feed the multitude, or He will be smitten and nailed to the tree." But though all these were wonderful and worthy of being declared by such a remarkable preacher, the thing which God spoke of Jesus through his inspired lips, was:
-「この方は来られると、病人をいやし、死人をよみがえらせ、群衆に食べさせ、あるいは打たれて木にくぎづけにされる」これらのことはどれもすばらしく、これほど非凡な説教者が告げるにふさわしいことであった。けれども、神が、霊感を受けたヨハネの口を通してイエスについて語られたのは、次のことであった。
+「この方は来られると、病人をいやし、死人をよみがえらせ、群衆を養われる。あるいは、打たれて木にくぎづけにされる」これらのことはどれもすばらしく、これほど非凡な説教者が告げるにふさわしいことであった。けれども、神が、霊感を受けたヨハネの口を通してイエスについて語られたのは、次のことであった。
 
 "He, when He is come, SHALL BAPTIZE YOU WITH THE HOLY GHOST AND WITH FIRE."
 「この方は来られると、聖霊と火とによってあなたがたにバプテスマをお授けになる」
 
 Then came Jesus, who had been conceived of the Holy Spirit, and whose life was tenderly wrapped up and associated from birth to resurrection with the Spirit, and was baptized of John in the Jordan. Then it was that the Spirit in bodily form as of a dove came down and abode upon Him.
-それから、イエスが来られた。イエスは聖霊によって宿られ、その生涯は、誕生から復活まで、御霊に優しく包まれ、御霊と結ばれていた。そのイエスが、ヨルダンでヨハネからバプテスマを受けられた。そのとき、御霊が『はとのような姿をとって』下り、イエスの上にとどまられたのである（ルカ三・二二、ヨハネ一・三二）。
+それから、イエスが来られた。イエスは聖霊によって宿られ、その生涯は、誕生から復活まで、御霊に優しく包まれ、御霊と結ばれていた。そのイエスが、ヨルダンでヨハネからバプテスマを受けられた。そのとき、御霊が『はとのような姿をとって』下られ、イエスの上にとどまられたのである（ルカ三・二二、ヨハネ一・三二）。
 
 If Jesus needed this enduement of power before He began His ministry, how much more do you and I need the Spirit today. Many have asked the question:
 イエスでさえ、働きを始められる前に、この力を授けられることが必要であった。それなら、今日のあなたや私には、なおさら御霊が必要である。多くの人がこう尋ねてきた。
 
 "Why did Jesus not speak in tongues when He received the Holy Spirit?" We do not know whether He did or not. All power was given unto Him in heaven and in earth, but we do know that we have no record of any person ever having spoken in tongues until the curtain rolled up on the dispensation of the Holy Spirit on the day of Pentecost as recorded in Acts 2. Then the very instant that the Holy Spirit came, those who received Him "began to speak with other tongues as He gave them utterance."
-「イエスは聖霊を受けられたとき、なぜ異言を語られなかったのか」語られたかどうか、私たちは知らない。イエスは、天においても地においても、いっさいの権威を授けられた方であった（マタイ二八・一八）。けれども、確かにわかっていることがある。使徒行伝二章に記されているペンテコステの日に、聖霊の時代の幕が上がるまで、だれかが異言を語ったという記録は一つもないのである。そして、聖霊が来られたまさにその瞬間に、聖霊を受けた人々は『御霊が語らせるままに、いろいろの他国の言葉で語り出した』のである（使徒二・四）。
+「イエスは聖霊を受けられたとき、なぜ異言を語られなかったのか」語られたかどうか、私たちは知らない。イエスは、『天においても地においても、いっさいの権威を授けられた』方であった（マタイ二八・一八）。けれども、確かにわかっていることがある。使徒行伝二章に記されているペンテコステの日に、聖霊の時代の幕が上がるまで、だれかが異言を語ったという記録は一つもないのである。そして、聖霊が来られたまさにその瞬間に、聖霊を受けた人々は『御霊が語らせるままに、いろいろの他国の言葉で語り出した』のである（使徒二・四）。
 
 Have you ever been impressed, in reading the four Gospels, to notice the ever-increasing emphasis that the Lord placed upon the necessity for receiving the Holy Ghost? In fact the last words that He spoke, before His feet lifted from this earth and He was taken up from them into heaven, were of the Holy Spirit, as recorded by Luke:
-四つの福音書を読んでいて、主が聖霊を受ける必要をますます強調しておられることに気づき、心を打たれたことはないか。実際、主がこの地から足を離し、彼らから天に上げられる前に語られた最後の言葉は、聖霊についてであった。ルカはこう記している。
+四つの福音書を読んでいて、主が聖霊を受ける必要をますます強調しておられることに気づき、心を打たれたことはないか。実際、主がこの地から足を離され、彼らから天に上げられる前に語られた最後の言葉は、聖霊についてであった。ルカはこう記している。
 
 "Behold, I send the promise of My Father upon you, but tarry ye in the city of Jerusalem until ye be endued with power from on high" As recorded by Mark:
 『見よ、わたしの父が約束されたものを、あなたがたに贈る。だから、上から力を授けられるまでは、あなたがたは都にとどまっていなさい』（ルカ二四・四九）マルコはこう記している。
 
 "These signs shall follow them that believe. In My name they shall cast out devils; they shall speak with new tongues" etc. As recorded in the first chapter of Acts:
-『信じる者には、このようなしるしが伴う。すなわち、彼らはわたしの名で悪霊を追い出し、新しい言葉を語り』など（マルコ一六・一七）。使徒行伝の第一章には、こう記されている。
+『信じる者には、このようなしるしが伴う。すなわち、彼らはわたしの名で悪霊を追い出し、新しい言葉を語り』など（マルコ一六・一七）。使徒行伝一章には、こう記されている。
 
 "John truly baptised with water, but you shall be baptized with the Holy Ghost not many days hence. .;; .- Ye shall receive power after that the Holy Ghost is come upon you, and ye shall be witnesses of Me both in Jerusalem and in Judea and Samaria and unto the uttermost parts of the earth." The next verse tells us that when He had spoken these things, while they beheld, He was taken up.
 // 英文の .;; .- は OCR の崩れ。省略記号とみて（中略）にした。
-『ヨハネは水でバプテスマを授けたが、あなたがたは間もなく聖霊によって、バプテスマを授けられるであろう。（中略）ただ、聖霊があなたがたにくだる時、あなたがたは力を受けて、エルサレム、ユダヤとサマリヤの全土、さらに地のはてまで、わたしの証人となるであろう』（使徒一・五、八）次の節は、イエスがこれらのことを語り終えると、『彼らの見ている前で天に上げられ』たと告げている（使徒一・九）。
+『ヨハネは水でバプテスマを授けたが、あなたがたは間もなく聖霊によって、バプテスマを授けられるであろう。（中略）ただ、聖霊があなたがたにくだる時、あなたがたは力を受けて、エルサレム、ユダヤとサマリヤの全土、さらに地のはてまで、わたしの証人となるであろう』（使徒一・五、八）次の節は、イエスがこれらのことを語り終えられると、『彼らの見ている前で天に上げられ』たと告げている（使徒一・九）。
 
 'Tis as though the last thing that had been upon the mind of the Lord, and that which He sought to impress upon His disciples, was the necessity of receiving the Holy Spirit. Oh, dear Christian, how can you hesitate any longer? Go quickly unto the Lord today, and under the precious blood, lift up your heart in praise and thanksgiving unto Him; ask, and you shall receive, seek, and you shall find, knock, and it shall be opened unto you, for He is truly more willing to give the Holy Spirit to them that ask Him than are our earthly parents to give good gifts to their children.
-主のお心に最後まであったこと、主が弟子たちの心に刻みつけようとされたことは、聖霊を受ける必要であったかのようである。ああ、愛するクリスチャンよ、どうしてこれ以上ためらっていられようか。今日、急いで主のもとに行きなさい。尊い血のもとで、主に向かって心を上げ、賛美と感謝をささげなさい。求めなさい。そうすれば受ける。捜しなさい。そうすれば見いだす。門をたたきなさい。そうすれば、あけてもらえる（ルカ一一・九）。地上の親が子供に良い贈り物をするよりも、主は本当にもっと喜んで、求める者に聖霊を下さるからである（ルカ一一・一三）。
+主のお心に最後まであったこと、主が弟子たちの心に刻みつけようとされたことは、聖霊を受ける必要であったかのようである。ああ、愛するクリスチャンよ、どうしてこれ以上ためらっていられようか。今日、急いで主のもとに行きなさい。尊い血のもとで、主に向かって心を上げ、賛美と感謝をささげなさい。求めなさい。そうすれば受ける。捜しなさい。そうすれば見いだす。門をたたきなさい。そうすれば、あけてもらえる（ルカ一一・九）。地上の親が子供に良い贈り物をするよりも、主は本当にもっと喜んで、求める者に聖霊をくださるからである（ルカ一一・一三）。
 
 # 受けるまでとどまっていなさい
 TARRY UNTIL.
 
 ALTHOUGH there were but twelve apostles, the Lord whilst here on earth had many disciples and followers. These disciples He commanded to go into all the world and preach the Gospel, but bade them tarry first in Jerusalem until they should be endued with power from on high.
-使徒は十二人しかいなかったが、主がこの地におられたあいだ、多くの弟子や従う者がいた。主はこの弟子たちに、全世界に出て行って福音を宣べ伝えるように命じられた（マルコ一六・一五）。けれども、上から力を授けられるまでは、まずエルサレムにとどまっているようにと言いつけられた（ルカ二四・四九）。
+使徒は十二人しかいなかったが、主には、この地におられたあいだ、多くの弟子や従う者がいた。主はこの弟子たちに、全世界に出て行って福音を宣べ伝えるように命じられた（マルコ一六・一五）。けれども、上から力を授けられるまでは、まずエルサレムにとどまっているようにと言いつけられた（ルカ二四・四九）。
 
 Appearing to many after His resurrection, and He reiterated His command:
-復活ののち、主は多くの人に現れ、その命令を繰り返された。
+復活ののち、主は多くの人に姿を現され、その命令を繰り返された。
 
 "Go, but tarry until you receive the Holy Spirit whom I shall send you from My Father above."
 「行きなさい。けれども、わたしが天の父のもとから遣わす聖霊を受けるまでは、とどまっていなさい」
@@ -160,10 +160,10 @@ Before long other footsteps are heard, and round the corner comes -Thomas.
 「だが、トマス、まさかあなたのような根っからの疑い屋が、そんな体験を受けられると思っているのではあるまいな」
 
 "Yes, Glory to Jesus. The promise is unto me. The past is all under the blood. This is just the power that I need to banish doubts forever from my heart and mind," and on he hurries, down the street until he turns in at the upper room stairway.
-「受けられるとも。イエスに栄光あれ。約束は私にも与えられているのだ（使徒二・三九）。過去はすべて血におおわれている。これこそ、私の心と思いから疑いを永久に追い払うのに必要な力なのだ」そう言って、トマスは通りを急いで行き、屋上の間の階段へと曲がって入って行く。
+「受けられるとも。イエスに栄光あれ。約束は私にも与えられているのだ。過去はすべて血におおわれている。これこそ、私の心と思いから疑いを永久に追い払うのに必要な力なのだ」そう言って、トマスは通りを急いで行き、屋上の間の階段へと曲がって入って行く。
 
 Before he has more than vanished from sight, two soft, earnest voices are heard, and round the corner in their long, flowing robes, come Mary and Martha. By the light in their eyes and the tenderness of their voices it is easy to know they are talking about their beloved Jesus.
-トマスの姿が見えなくなるかならないうちに、柔らかで熱のこもった二つの声が聞こえ、長く流れるような衣をまとったマリヤとマルタが角を曲がって来る。その目の光と声の優しさから、二人が愛するイエスのことを話しているのは、すぐにわかる。
+トマスの姿が見えなくなるかならないうちに、柔らかで熱のこもった二つの声が聞こえる。長く流れるような衣をまとって、マリヤとマルタが角を曲がって来る。その目の光と声の優しさから、二人が愛するイエスのことを話しているのは、すぐにわかる。
 
 "Pardon me a moment, Sisters, Mary and Martha, but where are you going this morning?"
 「マリヤ姉妹、マルタ姉妹、ちょっと失礼します。けさはどちらへ行かれるのですか」
@@ -175,7 +175,7 @@ Before he has more than vanished from sight, two soft, earnest voices are heard,
 「ああ、マリヤ」と、だれかがいさめる。「まさか、認めるつもりではないでしょうね。あなたはイエスのあれほどおそば近くで暮らし、その足もとにすわって教えを受けた人です。そのあなたが、ほかの体験のためにとどまる必要があるなどと。マルタならまだわかります。でも、あなたがですか、マリヤ！」
 
 "Ah, yes, Brother, every fiber of my being cries out the need of this promised gift of the Father. 'Tis more than an experience, it is the incoming of the Holy Spirit who shall lead and guide into all truth, who shall pray through us with groanings that cannot be uttered, who shall take the things of Jesus and reveal them unto us, show us things to come and endue us with power from on high.
-「ああ、そうなのです、兄弟。私のからだのすみずみまでが、父が約束されたこの賜物を必要として叫んでいるのです。これは体験以上のものです。聖霊が入って来られることなのです。聖霊は私たちを導いて、あらゆる真理に入らせ、言葉にあらわせない切なるうめきをもって、私たちを通して祈ってくださいます。イエスのものを受けて私たちに知らせ、きたるべきことを示し、上から力を授けてくださるのです（ヨハネ一六・一三〜一四、ローマ八・二六、ルカ二四・四九）。
+「ああ、そうなのです、兄弟。私のからだのすみずみまでが、父が約束されたこの賜物を必要として叫んでいるのです。これは体験以上のものです。聖霊が入って来られることなのです。聖霊は私たちを導いて、あらゆる真理に入らせ、『言葉にあらわせない切なるうめき』をもって、私たちを通して祈ってくださいます。イエスのものを受けて私たちに知らせ、きたるべきことを示し、上から力を授けてくださるのです（ヨハネ一六・一三〜一四、ローマ八・二六、ルカ二四・四九）。
 
 "Kindly pardon our haste, but we have no time to lose. Come, Martha, we must away."
 急いでいてごめんなさい。むだにする時間はないのです。さあ、マルタ、行かなければ」
@@ -185,10 +185,10 @@ What a procession they must have made, that little hundred and twenty. Yonder go
 
 "Be not downcast, nor discouraged, my sons, for Jesus, your brother and my Son, hath plainly declared that lie would not leave us comfortless but that if He went away He would send another, even the Holy Ghost and that when He was come He would lead us into all truth."
 // 英文の lie は OCR の誤り（He）。
-「わが子たちよ、うなだれてはなりません。気を落としてはなりません。あなたがたの兄であり、私の子であるイエスが、はっきり告げられたのですから。私たちを捨てて孤児とはしない、自分が去って行けば、ほかの方を、すなわち聖霊を送る、その方が来られたら私たちをあらゆる真理に導いてくださる、と（ヨハネ一四・一八、一六・七、一三）」
+「わが子たちよ、うなだれてはなりません。気を落としてはなりません。あなたがたの兄であり、私の子であるイエスが、はっきり告げられたのですから。私たちを捨てて孤児とはしない、と。自分が去って行けば、ほかの方を、すなわち聖霊を送る、と。その方が来られたら、私たちをあらゆる真理に導いてくださる、と（ヨハネ一四・一八、一六・七、一三）」
 
 "Why, Mary, thou pure virgin, surely Y-O-U do not need the Holy Spirit, you who were so consecrated and abandoned to the will of God that you could look up into the face of the angel--in the face of misunderstanding, reproach, persecution, and the likelihood of being taken into the market square and stoned to death, as was the custom, and say:
-「でも、マリヤ、清いおとめよ、まさか、あ、な、た、が聖霊を必要とするはずはないでしょう。あなたは神のみこころにすっかり身をささげ、ゆだねきっていました。だから、誤解も、そしりも、迫害も、当時の習わしどおり市場の広場に引き出されて石で打ち殺されるおそれも、ものともせずに、御使の顔を見上げて、こう言うことができたのです。
+「でも、マリヤ、清いおとめよ、まさか、あ、な、た、が聖霊を必要とするはずはないでしょう。あなたは神のみこころにすっかり身をささげ、ゆだねきっていました。だから、誤解も、そしりも、迫害も、ものともしませんでした。当時の習わしどおり市場の広場に引き出され、石で打ち殺されるおそれさえあったのに、御使の顔を見上げて、こう言うことができたのです。
 
 " 'Behold the handmaiden of the Lord. Be it done unto me even according to thy word.'
 『わたしは主のはしためです。お言葉どおりこの身に成りますように』（ルカ一・三八）
@@ -201,14 +201,14 @@ What a procession they must have made, that little hundred and twenty. Yonder go
 
 Who can describe or picture the heart-searching, the humbling, the crying out to be made conformable to the will of God's dear Son, that took place in the ten days that followed His ascension? We read that they continued with one accord, Peter not pointing to the failures of Thomas, nor do we read that any pointed the finger of accusation at Peter, saying hr.
 // 英文の hr. は OCR の崩れ。原本は saying で切れて、次の段落の台詞に続く。
-イエスが天に上げられてから続いた十日間に、どれほど心が探られ、へりくだらされたことか。神の愛する御子のみこころに沿う者にしていただこうと、どれほど叫び求めたことか。だれがそれを言い表し、思い描くことができようか。聖書には、彼らが『心を合わせて、ひたすら祈をしていた』とある（使徒一・一四）。ペテロはトマスの失敗を指さしはしなかった。また、だれかがペテロに告発の指を突きつけて、こう言ったとも書かれていない。
+イエスが天に上げられてから続いた十日間に、どれほど心が探られ、へりくだらされたことか。神の愛する御子のみこころに沿う者にしていただこうと、どれほど叫び求めたことか。だれがそれを言い表し、思い描くことができようか。聖書には、彼らが『心を合わせて』いたとある（使徒一・一四）。ペテロはトマスの失敗を指さしはしなかった。また、だれかがペテロに告発の指を突きつけて、こう言ったとも書かれていない。
 
 "You have no business up here, you denied the Lord."
 「あなたにここにいる資格はない。主を否んだのだから」
 
 The past is all under the blood; past failures have been acknowledged, confessed and forgiven; earthly cares and the duties and the stress of the busy world outside have been shut out. With open hearts they simply and humbly wait before the Lord with prayers' and supplications, knowing that His Word cannot fail--and that they that ask shall surely receive.
 // 英文の prayers' の ' は原本の汚れを OCR が読んだもの。
-過去はすべて血におおわれている。過去の失敗は認められ、告白され、ゆるされている。地上の思い煩いも、務めも、外の忙しい世の重圧も、締め出されている。彼らは心を開いて、ただ素直に、へりくだって、祈りと願いをもって主の前で待っている。主の言葉は決してむなしくならないこと、求める者は必ず受けることを知っているからである。
+過去はすべて血におおわれている。過去の失敗は認められ、告白され、ゆるされている。地上の気苦労も、務めも、外の忙しい世の重圧も、締め出されている。彼らは心を開いて、ただ素直に、へりくだって、祈りと願いをもって主の前で待っている。主のみことばは決してむなしくならないこと、求める者は必ず受けることを知っているからである。
 
 "And when the day of Pentecost was fully come, they were all with one accord in one place.
 『五旬節の日がきて、みんなの者が一緒に集まっていると、
@@ -221,14 +221,14 @@ The past is all under the blood; past failures have been acknowledged, confessed
 すると、一同は聖霊に満たされ、御霊が語らせるままに、いろいろの他国の言葉で語り出した』（使徒二・一〜四）
 
 They had met the conditions--the Lord had kept His Word--the Comforter had come.
-彼らは条件を満たしていた。主は言葉を守られた。助け主が来られたのである。
+彼らは条件を満たしていた。主はみことばをたがえられなかった。助け主が来られたのである。
 
 Believer, are you tarrying before the Lord for the promise of Father today? Have you come to the end of yourself, empty, cleansed, humble, low under the precious blood of Jesus? Are you waiting with prayer and supplication as did those Bible saints of old? If so, the Lord will meet you quickly. God's time is now. It is not His will that you should wait until some vague tomorrow for His Spirit. In the day you seek Him with your whole heart He will be found of you.
-信じる人よ、あなたは今日、父の約束を求めて主の前にとどまっているか。自分の力の尽きるところまで来ているか。空になり、きよめられ、へりくだって、イエスの尊い血のもとに低く身を伏せているか。昔の聖書の聖徒たちのように、祈りと願いをもって待っているか。そうなら、主はすぐにあなたに会ってくださる。神の時は今である。あなたがいつとも知れない明日まで御霊を待つことは、神のみこころではない。あなたが心を尽くして神を求める日に、神はあなたに見いだされる（エレミヤ二九・一三〜一四）。
+信じる人よ、あなたは今日、父の約束を求めて主の前にとどまっているか。自分の力の尽きるところまで来ているか。空になり、きよめられ、へりくだって、イエスの尊い血のもとに低く身を伏せているか。昔の聖書の聖徒たちのように、祈りと願いをもって待っているか。そうなら、主はすぐにあなたに会ってくださる。神の時は今である。あなたがいつとも知れない明日まで御霊を待つことは、神のみこころではない。あなたが心を尽くして神を求める日に、あなたは神を見いだす（エレミヤ二九・一三〜一四）。
 
 Have you failed in the past? Have you at times denied your Lord just when you should have stood most true? Have you been a doubting- Thomas? And do you feel your need of strength and power? Does your soul cry out for a greater revelation of Jesus and His Word, for a greater vision and a broader horizon? Then TARRY UNTIL you are endued with power from on high.
 // 英文の doubting- Thomas は OCR の崩れ（doubting Thomas）。
-あなたは過去に失敗したことがあるか。いちばん忠実に立つべきときに、主を否んだことがあるか。疑い深いトマスであったか。強さと力が必要だと感じているか。あなたの魂は、イエスとみことばについてのさらに大いなる啓示を、さらに大いなる幻と、さらに広い視野を求めて叫んでいるか。それなら、上から力を授けられるまで、とどまっていなさい。
+あなたは過去に失敗したことがあるか。いちばん忠実に立つべきときに、主を否んだことがあるか。疑い深いトマスであったか。強さと力が必要だと感じているか。あなたの魂は、イエスとみことばについてのさらに大いなる啓示と、さらに大いなる幻と、さらに広い視野とを求めて叫んでいるか。それなら、上から力を授けられるまで、とどまっていなさい。
 
 Believer, have you been used mightily in the past in soul-winning? Have the sick been healed and demons cast out in answer to your prayer? Have you, like Mary of old, sat learning at the feet of Jesus? Has the joy of salvation and the presence of the Spirit abiding with you, and at times anointing with gladness until your soul overflowed with joy, seemed precious?
 信じる人よ、あなたは過去に、魂を勝ち取ることに力強く用いられてきたか。あなたの祈りに答えて、病人がいやされ、悪霊が追い出されたか。昔のマリヤのように、イエスの足もとにすわって学んできたか。救いの喜びが、尊いものに思えてきたか。あなたとともにいて、ときには魂が喜びにあふれるまで喜びの油を注いでくださる御霊の臨在が、尊いものに思えてきたか。
