@@ -58,7 +58,7 @@
 + [x] Part III. The Marriage of the Lamb / That Wonderful Day / Toward Morning
 + [x] Part III. The Plan of Redemption
 + [x] Part III. The Bride in Her Veil of Types and Shadows
-+ [ ] Part III. Isaac and Rebecca
++ [x] Part III. Isaac and Rebecca
 + [ ] Part III. The Life and Growth of Peter
 + [ ] Part III. The Temple / Getting Down
 + [ ] Part III. Covet Earnestly Spiritual Gifts
