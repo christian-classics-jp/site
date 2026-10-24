@@ -38,7 +38,7 @@ The Transfiguration of Christ, which is a type of His second coming, if carefull
 The persons whom Jesus gathered about Him on this occasion were samples of that company of saints who will be gathered to Him at His second coming.
 このときイエスがまわりに集められた人々は、再臨のときに主のもとに集められる聖徒たちの群れの見本であった。
 Out of the twelve apostles and the great number of disciples, Jesus selected only three to witness His majesty.
-イエスは、十二使徒と大ぜいの弟子たちの中から、ただ三人だけを選んで、ご自分の威光を見させられた。
+イエスは、十二使徒と大ぜいの弟子たちの中から、ただ三人だけを選んで、ご自分の威光の目撃者とされた。
 Moses comes to represent that class who will be raised from the dead at the coming of the Lord, and Elijah comes to represent that class who will be translated and glorified without passing through death.
 モーセは、主の来臨のときに死人の中からよみがえらされる人々を代表して来る。エリヤは、死を通らずに携挙され、栄光を受ける人々を代表して来る。
 It is easy to see that Moses and Elijah have a closer relationship to Jesus than the others have.
@@ -62,7 +62,7 @@ We can never be the bride of our Lord, nor designated as His bride until the old
 The death of the old man does not marry us to Jesus, nor mark us as His bride, but simply liberates us from the bondage of the law, and makes us free to be married to another if we choose.
 古い人が死んでも、それで私たちがイエスと結婚するのではなく、主の花嫁としるしづけられるのでもない。ただ律法の束縛から解き放たれ、望むなら他の人と結婚できる自由な身になるだけである。
 The woman whose husband has died may live single if she chooses.
-夫に死なれた女は、望むならひとりで暮らしてもよい。
+夫に死なれた女は、望むならひとり身のままでいてもよい。
 After the death of the old man--after sanctification--the real courtship between Christ and the saint begins.
 古い人が死んだあとで、すなわち聖化のあとで、キリストと聖徒の間の本当の求愛が始まる。
 If that saint yields to all the wooings of the spirit, Christ will place upon that one "the seal"--the engagement ring--which is no other than the Baptism of the Holy Ghost. (Eph. 1: 13, 14).
@@ -94,7 +94,7 @@ Let the world know that you are engaged by the ring you wear.
 "Oh, yes, I have the seal, but I just testify and let the people know I am engaged."
 「ええ、証印なら持っていますよ。ただ、あかしをして、婚約していることを人々に知らせているだけです」。
 Suppose I should bring you a certain document upon the safety of which your life depended.
-たとえば、私があなたに一通の書類を持って来たとしよう。その書類が無事かどうかに、あなたのいのちがかかっている。
+たとえば、私があなたに一通の書類を持って来たとしよう。その書類の確かさに、あなたのいのちがかかっている。
 On looking over the instrument you failed to see the Governor's seal and anxiously inquire why it has been neglected.
 あなたはその証書に目を通すが、知事の印が見当たらない。そこで、なぜ押されていないのかと心配して尋ねる。
 I will tell you that the seal is there, but it is invisible.
@@ -135,7 +135,7 @@ Thus it is said in Isaiah 61: 10: "I will greatly rejoice in the Lord, my soul s
 それで、イザヤ書六一章一〇節にはこう言われている。『わたしは主を大いに喜び、わが魂はわが神を楽しむ。主がわたしに救の衣を着せ、義の上衣をまとわせて、花婿が冠をいただき、花嫁が宝玉をもって飾るようにされたからである』。
 // 英文は `for he has clothed me`（p. 122）。欽定訳は hath。訳には響かない。
 Who knows into what grand activities the saints of God are ushered when their mortality is swallowed up of life? or with what preparations they may then be called to busy themselves for the sublime events and ceremonies that lie before them in their installment into the relations and dignities of their everlasting estate?
-神の聖徒たちの『死ぬべきものがいのちにのまれてしまう』とき、彼らがどんな壮大な働きへと導き入れられるのか、だれが知っていよう。聖徒たちはそのとき、永遠の境遇にふさわしい関係と位とに就けられる。その前に控えている崇高な出来事と儀式のために、どんな備えに追われることになるのか。それも、だれが知っていよう。
+神の聖徒たちの『死ぬべきものがいのちにのまれてしまう』とき、彼らがどんな壮大な働きへと導き入れられるのか、だれが知っていよう。聖徒たちはそのとき、永遠の境遇にふさわしい関係と位とに就けられる。それに伴って彼らの前に控えている崇高な出来事と儀式のために、どんな備えに追われることになるのか。それも、だれが知っていよう。
 After the bride is fully dressed and adorned, she is carried forth to the marriage.
 花嫁はすっかり装いを整え、飾られたあとで、婚姻の場へと連れ出される。
 
@@ -154,7 +154,7 @@ They are called 'the virgins,' the 'companions,' associates, and bosom friends o
 They do not go with her when she is taken, but 'follow her,'--come after her--and are 'brought unto the King' at a subsequent time, and in quite another capacity from that of the Queen and Bride.
 彼らは、王妃が連れて行かれるときには一緒に行かない。『彼女に従って』、すなわち彼女のあとから来て、のちに『王のもとに導かれ』る。それも、王妃であり花嫁である者とはまったく別の立場においてである。
 All of them belong to the general congregation of the saved.
-彼らはみな、救われた者たちの大きな会衆に属している。
+彼らはみな、救われた者たち全体の会衆に属している。
 All of them are made forever happy in their Lord, the King.
 みな、主である王のもとで、とこしえに幸いな者とされる。
 But the Queen is one class, and 'the virgins her companions that follow her,' are another class."--Seiss.
@@ -172,13 +172,13 @@ There are some greatest and some least in the kingdom of Heaven: some who shall 
 Just as the Bridegroom comes not alone, but with attendants, companions, and a long train of rejoicing ones who make up his party, the whole of them together are called the Bridegroom's coming, whilst, strictly speaking, there is a wide difference between him and those with him; so it is on the side of the Bride.
 花婿はひとりで来るのではなく、付き添いや連れ、また喜びにあふれた人々の長い列を伴って来る。彼らが花婿の一行をなしている。そのすべてをひっくるめて、花婿が来ると言われる。しかし厳密に言えば、花婿と、花婿と共にいる者たちとの間には大きな違いがある。花嫁の側も同じである。
 She has her companions and attendants too--'virgins which follow her.'
-花嫁にも、仲間や付き添いがいる。『彼女に従うおとめら』である。
+花嫁にも、連れや付き添いがいる。『彼女に従うおとめら』である。
 They make up her company and train.
 彼らが花嫁の一行と行列をなしている。
 In coming to wed her the Bridegroom comes also into near and close relation to them.
 花婿は花嫁をめとりに来るとき、彼らとも近く親しい関係にはいる。
 To a blessed degree they share the Bride's honors.
-彼らは花嫁の誉れに、祝福されたほどにあずかる。
+彼らは花嫁の誉れに、幸いなほど豊かにあずかる。
 And in general terms we must include them when we speak of the Bride, although, in strict language, they are not all the Bride.
 だから大まかに言えば、花嫁について語るときには彼らも含めなければならない。もっとも厳密に言えば、彼らのすべてが花嫁なのではない。
 The Bride has relations to the Bridegroom which belong to her alone, and it is only because of her and their association and companionship with her, and not because they are the Bride in actual fact, that the whole company of the saved Church of God is contemplated as the Lamb's wife."--Dr. Seiss.
@@ -209,7 +209,7 @@ It is new in its materials, in its size, in its location, in its style, in its p
 この都は、材料も、大きさも、場所も、様式も、永続することも、道徳の清さも、またこの都を特徴づけるすべての点で新しい。
 It is heaven-built; jewelled in its foundations, walls, and streets; perfected in everything that is charming and beautiful, 'as a bride adorned for her husband;' lighting the nations with its brilliancy, its self ever luminous with the glory of God and the Lamb; the true 'Eternal City'--the imperishable palace of the immortal king's of the ages."
 天で建てられ、土台にも城壁にも大通りにも宝石がちりばめられている。魅力あるもの、美しいもののすべてにおいて完全であり、『夫のために着飾った花嫁のように』整えられている。その輝きで諸国民を照らし、都そのものは神と小羊の栄光によって常に輝いている。これこそ真の『永遠の都』、代々の不死の王たちの朽ちることのない宮殿である」。
-// 英文は `the immortal king's of the ages`（p. 124）。kings' の誤植と読み、王となる聖徒たち（黙示録五・一〇）を指すと取った。
+// 英文は `the immortal king's of the ages`（p. 124）。kings' の誤植と読み、王となる聖徒たち（黙示録五・一〇）を指すと取った。King's の誤りで神（第一テモテ一・一七）を指すとも読めるが、この都を花嫁の宮殿と呼ぶ章の結びに合わせた。
 
 Perhaps it is within this clean, and pure, and holy city that the marriage of the Lamb takes place.
 小羊の婚姻が行われるのは、おそらく、この汚れのない、清い、聖なる都の中であろう。
@@ -250,7 +250,7 @@ Contrary to the Scriptures and all congruity many take the marriage and the marr
 Marriage is the establishment of relationship and status; a marriage supper is the refreshment, the eating, and drinking, and general social joy on the part of those attending it.
 婚姻とは、関係と身分を定めることである。婚宴とは、それに列する人々が飲み食いして元気づき、みなで交わりの喜びを味わうことである。
 After the marriage, the bride and groom upon invitations step into the festival hall, the groom takes his place at the head of the table, at his right stands his newly-wedded bride.
-婚姻が済むと、花嫁と花婿は招かれて祝宴の広間へ進む。花婿は食卓の上座に着き、その右には新たにめとった花嫁が立つ。
+婚姻が済むと、花嫁と花婿は招かれて祝宴の広間へ進む。花婿は食卓の上座に着かれ、その右には新たにめとった花嫁が立つ。
 She is dressed in the gold of Ophir, and raiment of needle-work.
 花嫁はオフルの金を飾り、縫い取りした衣を着ている。
 "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste. He brought me to the banqueting house, and his banner over me was love. Stay me with flagons, comfort me with apples: for I am sick of love" (Cant. 2: 3-5).
@@ -267,7 +267,7 @@ Everywhere in the Scriptures do we read of this feast.
 It is the first grand celebration in which every saint will participate together.
 これは、すべての聖徒が共に加わる最初の盛大な祝いである。
 Abraham, Isaac, Jacob, Moses, Elijah, Daniel, and every one who has heard of the promised seed of the woman, and believed in Him, and listened to the calls and promises of God, and directed his soul and pilgrim steps for that blest city, shall also be there, whether as bride or guest.
-アブラハム、イサク、ヤコブ、モーセ、エリヤ、ダニエルもそこにいる。約束された女のすえのことを聞いて、そのかたを信じた人がいる。神の召しと約束に耳を傾け、魂と旅路の歩みをあの祝福された都へ向けた人がいる。そういう人もみな、花嫁としてであれ客としてであれ、そこにいるのである。
+アブラハム、イサク、ヤコブ、モーセ、エリヤ、ダニエルもそこにいる。約束された女のすえのことを聞いて、そのかたを信じた人々もいる。彼らは神の召しと約束に耳を傾け、魂と旅路の歩みをあの祝福された都へ向けてきた。こうした人々がみな、花嫁としてであれ客としてであれ、そこにいるのである。
 It may be that on this occasion "the roll will be called."
 このとき、「点呼がとられる」のかもしれない。
 // 賛美歌 When the Roll Is Called Up Yonder（1893 年）の句を引いている。
@@ -279,7 +279,7 @@ I want to be there, I expect to be there, I mean to be there, and by the grace o
 After supper, Jesus and the bride and the guests ride down from heaven on white horses.
 宴のあとで、イエスは花嫁と客たちと共に、白い馬に乗って天から下って来られる。
 Jesus lays hold on Satan and binds him in the pit.
-イエスはサタンを捕えて、底知れぬ所につながれる。
+イエスはサタンを捕えて、底知れぬ所につないでおかれる。
 He then sets up his throne in Jerusalem and together with the saints He judges the world, rules and reigns a thousand years.
 それから、エルサレムに御座を据え、聖徒たちと共に世界をさばき、千年の間治め、支配される。
 After the millennium all things are made new, the New Jerusalem comes down and hangs over the earth.
