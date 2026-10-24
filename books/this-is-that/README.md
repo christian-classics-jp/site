@@ -28,7 +28,7 @@
 + [x] Chapter XVI. Second Southern Campaign and Gospel Auto Work
 + [x] Chapter XVII. Meetings in Virginia and Gospel Auto News
 + [x] Chapter XVIII. Nation Wide Camp, Philadelphia
-+ [ ] Chapter XIX. Meetings from Mass. to New York
++ [x] Chapter XIX. Meetings from Mass. to New York
 + [ ] Chapter XX. The Transcontinental Gospel Tour (1)
 + [ ] Chapter XX. The Transcontinental Gospel Tour (2)
 + [ ] Chapter XXI. Mighty Downpour at Los Angeles
