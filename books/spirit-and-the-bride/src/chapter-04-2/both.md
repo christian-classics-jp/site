@@ -3,22 +3,22 @@ CHAPTER IV.
 THE MANIFESTATION OF THE SPIRIT.
 
 Let us again note some things Jesus said the Comforter would do when He came: "He shall testify of Me; He shall glorify Me; He will reprove the world; He shall teach you; and He shall shew you things to come."
-助け主が来られたときに何をされるとイエスが言われたか、もう一度いくつか見ておこう。『それはわたしについてあかしをするであろう。御霊はわたしに栄光を得させるであろう。世の人の目を開くであろう。あなたがたにすべてのことを教えるであろう。きたるべき事をあなたがたに知らせるであろう』。
+助け主が来られたときに何をされるとイエスが言われたか、もう一度いくつか見ておこう。『それはわたしについてあかしをするであろう。御霊はわたしに栄光を得させるであろう。世の人の目を開くであろう。あなたがたに教えるであろう。きたるべき事をあなたがたに知らせるであろう』。
 
 Now, to testify and to bear witness is one and the same thing; but to testify and to teach are two different things.
 さて、あかしをすることと証言することとは、同じ一つのことである。しかし、あかしをすることと教えることとは、別々のことである。
 The above quotation says: "So we see that the Comforter's testimony, when he came to the Church, and to any heart, is to testify to that heart of the divine Sonship of Jesus, and every Christian has this testimony in his soul: 'For no man can say that Jesus is the Lord, but by the Holy Ghost' (I Cor. 12: 3).
-上の引用には、こうある。「だから、助け主が教会に、またどの心にでも来られたときのあかしとは、イエスが神の御子であることを、その心にあかしすることである。そしてキリスト者はみな、このあかしを魂のうちに持っている。『聖霊によらなければ、だれもイエスは主であると言うことができない』（第一コリント一二・三）」
+上の引用には、こうある。「だから、助け主が教会に、またどの心にでも来られたときのあかしとは、イエスが神の御子であることを、その心にあかしすることだとわかる。そしてキリスト者はみな、このあかしを魂のうちに持っている。『聖霊によらなければ、だれもイエスは主であると言うことができない』（第一コリント一二・三）」
 // 英文は引用の閉じ引用符が欠けている。前の節（その一）で引いた文と同じなので、ここで引用が終わるものとして閉じた。
 
 Here the writer clearly teaches that the promise of the Comforter to come and testify of Jesus meant no more than to enable the disciples to say by the Holy Ghost that Jesus is the Lord.
-ここでこの書き手は、はっきりこう教えている。助け主が来てイエスについてあかしをするという約束は、弟子たちが聖霊によって、イエスは主であると言えるようにすること以上のものではなかった。
+ここでこの書き手は、はっきりこう教えている。助け主が来られてイエスについてあかしをされるという約束は、弟子たちが聖霊によって、イエスは主であると言えるようにすること以上のものではなかった。
 It shows wisdom on the part of the writer that he adds, "Every Christian has this testimony in his soul."
-書き手が「キリスト者はみな、このあかしを魂のうちに持っている」と付け加えているのは、賢いことである。
+この書き手が「キリスト者はみな、このあかしを魂のうちに持っている」と付け加えているのは、賢いことである。
 It is evident that Peter had this testimony in his soul before this occasion, for when Jesus asked His disciples, "Whom say ye that I am?" "Simon Peter answered and said, Thou art the Christ, the Son of the living God. And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but My Father which is in heaven" (Matt. 16: 15-17).
 ペテロが助け主の来られるより前に、このあかしを魂のうちに持っていたことは明らかである。イエスが弟子たちに、『あなたがたはわたしをだれと言うか』と尋ねられたとき、こうあるからである。『シモン・ペテロが答えて言った、「あなたこそ、生ける神の子キリストです」。すると、イエスは彼にむかって言われた、「バルヨナ・シモン、あなたはさいわいである。あなたにこの事をあらわしたのは、血肉ではなく、天にいますわたしの父である」』（マタイ一六・一五〜一七）。
 Here we see from the words of Christ that it is the testimony of the Father that reveals the divine Sonship of Jesus; and this accords exactly with the Scripture on which the writer was commenting above, viz.: "For this (the witness to the divine Sonship of Jesus) is the witness of God (the Father) which He (the Father) hath testified of His (the Father's) Son" (I John 5: 9).
-ここでキリストの言葉から、イエスが神の御子であることを示すのは父のあかしだとわかる。そしてこれは、この書き手が上で論じていた聖句と、ぴたりと一致している。すなわち、『神（父）のあかしというのは、すなわち、神（父）が御子（父の御子）について立てられたあかし（イエスが神の御子であるというあかし）である』（第一ヨハネ五・九）。
+ここでキリストの言葉から、イエスが神の御子であることを示すのは父のあかしだとわかる。そしてこれは、この書き手が上で論じていた聖句と、ぴたりと一致している。それはこうである。『神（父）のあかしというのは、すなわち、神（父）が御子（父の御子）について立てられたあかし（イエスが神の御子であるというあかし）である』（第一ヨハネ五・九）。
 And all this accords with other Scriptures. (See Matt. 3: 17 and 17: 5.)
 そしてこのすべては、ほかの聖句とも一致している（マタイ三・一七、一七・五を参照）。
 But our brother says that the witness of the divine Sonship of Jesus is the Comforter's testimony.
@@ -27,15 +27,15 @@ And since Peter had this witness already, we may imagine Jesus saying to His apo
 そしてペテロはすでにこのあかしを持っていたのだから、イエスが使徒たちにこう言われるところを想像してもよいであろう。「わたしは父にお願いしよう。そうすれば、父は別に助け主を送ってくださるであろう。そして助け主が下る時、それはわたしについてあかしをするであろう」。それからイエスはペテロのほうを向いて、こう言われる。「シモンよ、この約束にあなたは含まれていない。助け主はもうあなたのところに来て、わたしについてあかしをした。わたしが神の子であるというあかしを、あなたは持っているのだから」。奇妙なことだ！　奇妙なことだ！
 
 We cannot believe that Jesus would so mock His disciples; but that in all His words concerning the coming of the Comforter, He was promising them a blessing which none of them at that time had.
-イエスがそのように弟子たちをからかわれたとは、私たちには信じられない。むしろ、助け主が来ることについて語られたすべての言葉で、イエスは一つの祝福を約束しておられたのだと信じる。それは、その時まだ弟子たちのだれも持っていなかった祝福である。
+イエスがそのように弟子たちをからかわれたとは、私たちには信じられない。むしろ、助け主が来られることについて語られたすべての言葉で、イエスは一つの祝福を約束しておられたのだと信じる。それは、そのときまだ弟子たちのだれも持っていなかった祝福である。
 
 Again we say, to testify and to bear witness is one and the same. Jesus said, "He shall testify of Me: and ye also shall bear witness."
-もう一度言う。あかしをすることと証言することとは、同じ一つのことである。イエスは、『それはわたしについてあかしをするであろう。あなたがたも（中略）あかしをするのである』と言われた。
+もう一度言う。あかしをすることと証言することとは、同じ一つのことである。イエスは、『それはわたしについてあかしをするであろう。あなたがたもあかしをするのである』と言われた。
 Two facts here are clearly seen: First, that the two testimonies should be of the same nature; and second, that the testimony of the Comforter should precede the testimony of the recipient.
-ここには、二つの事実がはっきり見える。第一に、二つのあかしは同じ性質のものである。第二に、助け主のあかしが、それを受けた人のあかしより先にある。
+ここには、二つの事実がはっきり見える。第一に、二つのあかしは同じ性質のものである。第二に、助け主のあかしが、助け主を受けた人のあかしより先にある。
 
 Now, have all these promises of Jesus concerning the coming of the Comforter and what He would do when He came ever been fulfilled, and if so, where, when, and under what circumstances?
-では、助け主が来ること、また来られたときに何をされるかについてのイエスのこれらの約束は、みな成就したことがあるのか。あるとすれば、どこで、いつ、どのような状況でか。
+では、助け主が来られること、また来られたときに何をされるかについてのイエスのこれらの約束は、みな成就したことがあるのか。あるとすれば、どこで、いつ、どのような状況でか。
 
 There can be no reasonable doubt that the beginning of the fulfillment of these promises is recorded in the second chapter of the Acts of the Apostles.
 これらの約束の成就の始まりが使徒行伝二章に記されていることは、疑う余地がない。
@@ -92,7 +92,7 @@ After Pentecost, when they met people of their own tongue they themselves bore w
 ペンテコステのあと、自分と同じ言葉を話す人々に会ったときは、彼ら自身が証言した。ほかの言葉を話す人々に会ったときは、御霊が語らせてくださった。
 
 Some one objects: "The disciples never spake with tongues after the day of Pentecost."
-ある人は反論する。「弟子たちは、ペンテコステの日のあとは、一度も異言を語らなかった」。
+ある人が反論する。「弟子たちは、ペンテコステの日のあとは、一度も異言を語らなかった」。
 How did Peter, a Jew, ignorant and unlearned, preach to Cornelius, a man in Caesarea, a centurion of the band called the Italian band?
 それなら、無学なただの人であるユダヤ人ペテロが、どうやってコルネリオに説教したのか。コルネリオはカイザリヤの人で、イタリヤ隊と呼ばれた部隊の百卒長である。
 What are you going to do with Stephen, the deacon, for talking to the Libertines, and Cyrenians, and Alexandrians, and to them of Cilicia and of Asia after Pentecost? (Acts 6: 9.)
@@ -118,7 +118,7 @@ As a reply, we refer you to the case of Cornelius (Acts 10: 46), and to the case
 その答えとして、コルネリオの場合（使徒一〇・四六）と、エペソの弟子たちの場合（使徒一九・六）とを挙げよう。
 
 So, dismissing all theories and taking the Scriptures just as they are: the promise of Jesus that He would send the Comforter, that the Comforter would testify when He came; and then turning and finding in three different places in the Acts of the Apostles that the Comforter came, and that in each case, immediately after his arrival, those who received Him spoke with tongues; and then searching in vain to find that any other manifestation ever followed the Baptism of the Spirit; and remembering that "the manifestation of the Spirit is given to every man to profit withal;" we are fully persuaded that the Comforter's testimony is the Holy Ghost taking the tongue of that one whose entire being He has filled and speaking with it a language of which the recipient of the Holy Ghost knows nothing.
-だから、すべての理論を退けて、聖書を書かれているとおりに受け取ろう。まずイエスは、助け主をつかわすこと、助け主が来ればあかしをすることを約束された。次に使徒行伝を開くと、三つの別々の箇所で、助け主が来られたことがわかる。そしてどの場合にも、助け主が来られるとすぐに、受けた人々が異言を語った。また、御霊のバプテスマのあとにほかの現れが続いたことがあるかを探しても、見つからない。そして、『各自が御霊の現れを賜わっているのは、全体の益になるためである』ことを思い起こす。これらのことから、私たちは確信している。助け主のあかしとは、こういうことである。聖霊は、ご自分が全存在を満たされた人の舌を取られる。そしてそれを用いて、聖霊を受けたその人がまったく知らない言葉で語られるのである。
+だから、すべての理論を退けて、聖書を書かれているとおりに受け取ろう。まずイエスは、助け主をつかわすこと、助け主が来られるとあかしをされることを約束された。次に使徒行伝を開くと、三つの別々の箇所で、助け主が来られたことがわかる。そしてどの場合にも、助け主が来られるとすぐに、受けた人々が異言を語った。また、御霊のバプテスマのあとにほかの現れが続いたことがあるかを探しても、見つからない。そして、『各自が御霊の現れを賜わっているのは、全体の益になるためである』ことを思い起こす。これらのことから、私たちは確信している。助け主のあかしとは、こういうことである。聖霊は、ご自分が全存在を満たされた人の舌をお取りになる。そしてそれを用いて、聖霊を受けたその人がまったく知らない言葉で語られるのである。
 If the Holy Ghost should use a person's tongue to speak a language with which that person is familiar, it would appear to be the testimony of the recipient; but since the Spirit always does His talking in another language, we must admit that it is the testimony of the Comforter.
 もし聖霊が人の舌を用いて、その人のよく知っている言葉で語られるなら、それは受けた人自身のあかしのように見えるであろう。しかし御霊は、いつもほかの言葉で語られるのだから、それが助け主のあかしであることを認めなければならない。
 And besides, if this is not what Jesus meant when He said, "When the Comforter is come, He shall testify of Me," there is no Scripture to prove that this promise has ever been fulfilled; for there is no case on record in which any other manifestation that can be regarded as the Comforter's testimony ever followed the reception of the Spirit.
@@ -129,20 +129,20 @@ Jesus said, "When He comes, He shall testify." It may be that the testimony of t
 Thus I am persuaded that by the expression, "He shall baptize you with the Holy Ghost and fire," much more is implied than either the witness to our sanctification, or the filling of the Spirit, or even both.
 こうして私は確信している。『このかたは、聖霊と火とによっておまえたちにバプテスマをお授けになるであろう』という表現には、多くのことが含まれている。それは、聖化のあかしよりも、御霊の満たしよりも、その両方を合わせたものよりも、はるかに多い。
 In fact, it becomes apparent from our Lord's own association of thought in the teaching of John, fourteenth, fifteenth, and sixteenth chapters, with the record in the second chapter of Acts, that He included in the promise of the Baptism of the Holy Ghost not only the filling of the Spirit, but the miraculous manifestation and enduement of power which came with the filling.
-実際、ヨハネ一四章、一五章、一六章での主ご自身の教えを、使徒行伝二章の記録と結びつけて見ると、明らかになる。主は聖霊のバプテスマの約束のうちに、御霊の満たしだけでなく、満たしと共に来た奇跡の現れと、力を授けられることとを含めておられたのである。
+実際、ヨハネ一四章、一五章、一六章での主ご自身の教えを、使徒行伝二章の記録と結びつけて見ると、明らかになる。主は聖霊のバプテスマの約束のうちに、御霊の満たしだけを含めておられたのではない。満たしと共に来た奇跡の現れと、力を授けられることとをも含めておられたのである。
 And the Apostle Peter evidently so understood the teaching, when in Acts 2: 39 he affirms that the blessing is continuative, abiding, and permanent.
 使徒ペテロも、明らかにその教えをそのように理解していた。使徒行伝二章三九節で、この祝福は続いていくもの、とどまるもの、永続するものだと断言しているからである。
 The conclusion, then, from the Master's teaching and Peter's statement is that the work of the Holy Spirit that was inaugurated on the day of Pentecost, and to continue unto the end of time, including both the external and internal manifestations, is the real Baptism of the Holy Ghost and fire.
 それでは、主の教えとペテロの言葉から出てくる結論は何か。ペンテコステの日に始まり、時の終りまで続く聖霊の働きこそが、聖霊と火とによる本当のバプテスマだということである。その働きには、外なる現れも内なる現れも含まれる。
 
 When we remember that the Baptism of the Spirit must precede the preaching of the gospel in all nations, and that He was to be the active Agent with the apostles and the subsequent ministry in thus proclaimng the gospel to all nations, we can see a striking significance in these external manifestations as they appeared and formed part of the Baptism of the Holy Ghost.
-御霊のバプテスマは、すべての国民に福音が宣べ伝えられるより先になければならなかった。また御霊は、使徒たちとそのあとに続く働き人たちと共に、力強い働き手となられるはずであった。こうしてすべての国民に福音を宣べ伝えるためである。このことを思い起こすと、これらの外なる現れが聖霊のバプテスマの一部として現れたことに、目を見張るような意味があることがわかる。
+御霊のバプテスマは、すべての国民に福音が宣べ伝えられるより先になければならなかった。また御霊は、使徒たちとそのあとに続く働き人たちと共に、働き手となられるはずであった。こうしてすべての国民に福音を宣べ伝えるためである。このことを思い起こすと、これらの外なる現れが聖霊のバプテスマの一部として現れたことに、目を見張るような意味があることがわかる。
 // 英文の proclaimng は proclaiming の誤植。
 The disciples and the Church should ever realize the importance of the filling of the Spirit, but the world of unsaved would behold the external manifestation as a testimony to the physical senses that spiritual power had been given.
-弟子たちと教会は、御霊の満たしの大切さをいつも悟っていなければならない。一方、救われていない世の人々は、外なる現れを見ることになる。それは、霊の力が与えられたことを、からだの感覚に示すあかしなのである。
+弟子たちと教会は、御霊の満たしの大切さをいつも悟ることになる。一方、救われていない世の人々は、外なる現れを見ることになる。それは、霊の力が与えられたことを、からだの感覚に示すあかしなのである。
 
 Here let me say that there is quite a difference between "the manifestation of the Spirit" and emotions.
-ここで言っておきたい。『御霊の現れ』と感情とは、まったく違うものである。
+ここで言っておきたい。『御霊の現れ』と感情とには、大きな違いがある。
 A person may have emotions without "the manifestation," or he may have "the manifestation" without emotions.
 人は『現れ』なしに感情を持つこともあり、感情なしに『現れ』を持つこともある。
 An emotion is caused by the spiritual overcoming the physical. But such is not the case with regard to speaking with tongues.
