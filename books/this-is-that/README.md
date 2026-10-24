@@ -43,7 +43,7 @@
 + [x] Part III. Hast Thou Not Known Me? / Liberty Bonds--"Over There"
 + [x] Part III. Modern Warfare--"Over the Top" / The Red Cross
 + [x] Part III. The Two Houses
-+ [ ] Part III. Lost and Restored
++ [x] Part III. Lost and Restored
 + [ ] Part III. The Three Dispensations (1)
 + [ ] Part III. The Three Dispensations (2)
 + [ ] Part III. You Need the Holy Spirit / Tarry Until
