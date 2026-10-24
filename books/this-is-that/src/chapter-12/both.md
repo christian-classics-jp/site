@@ -12,7 +12,7 @@ AFTER the meeting at Mount Forest the Lord called us back to the U. S. A. to dis
 THE TENT MEETING IN PROVIDENCE, R. I.
 
 The new tent was to have been ready for our camp meeting, which was to begin June first, but the Lord intervened and did not allow it to be completed on time. Knowing little of the winds and power of the elements which have to be taken into consideration when picking out a location for a tent meeting, we, in our ignorance, selected a fine, high hill, on the bluff of the bay where those who came to meeting could enjoy the breeze and the water. That there was a breeze no one who was there and saw the tents go down could deny. Whatever else the location may have lacked in, the breeze was ever there. If anything could have discouraged us with tent work, surely our experience in Providence would have done so, but praise the Lord, He did not permit our new tent to be completed, and therefore the tent company put up an old tent of their own which had almost seen its day, and cost us nothing for the damage done to it.
-新しい天幕は、六月一日に始まるキャンプ集会に間に合うはずだった。けれども主が介入され、期日までに仕上がるのを許されなかった。天幕集会の場所を選ぶときには、風や自然の力を考えに入れなければならない。私たちはそれをほとんど知らなかった。それで、無知なまま、湾に面した崖の上の、見晴らしのよい高い丘を選んだ。集会に来る人たちが、風と水辺の景色を楽しめるようにと思ったのである。風があったことは、その場にいて天幕が倒れるのを見た人ならだれも否定できないだろう。その場所にほかに何が欠けていたにせよ、風だけはいつもあった。もし天幕での働きに私たちをくじけさせるものがあったとすれば、プロビデンスでの経験こそ、確かにそうなっていただろう。けれども主をほめたたえよ。主は私たちの新しい天幕が仕上がるのを許されなかった。そのため天幕会社は、もう寿命の尽きかけた自分たちの古い天幕を張ってくれた。それが受けた損傷の代金を、私たちは一銭も払わずに済んだのである。
+新しい天幕は、六月一日に始まるキャンプ集会に間に合うはずだった。けれども主が介入され、期日までに仕上がるのを許されなかった。天幕集会の場所を選ぶときには、風や自然の力を考えに入れなければならない。私たちはそれをほとんど知らなかった。それで、無知なまま、湾に面した崖の上の、見晴らしのよい高い丘を選んだ。集会に来る人たちが、風と水辺の景色を楽しめるようにと思ったのである。風があったことは、その場にいて天幕が倒れるのを見た人ならだれも否定できないだろう。その場所にほかに何が欠けていたにせよ、風だけはいつもあった。もし天幕での働きに私たちをくじけさせるものがあったとすれば、それは確かにプロビデンスでの経験だっただろう。けれども主をほめたたえよ。主は私たちの新しい天幕が仕上がるのを許されなかった。そのため天幕会社は、もう寿命の尽きかけた自分たちの古い天幕を張ってくれた。それが受けた損傷の代金を、私たちは一銭も払わずに済んだのである。
 
 But in spite of wind and the hours of struggle to drive the stakes and tie the ropes and keep the tents up, the Lord sent thousands of people to the camp meetings and many precious souls wept their way to Jesus' feet and received the blessed Holy Spirit, the Comforter whom Jesus sent.
 風は吹き、杭を打ち、綱を結び、天幕を立てておこうと何時間も格闘した。それでも主は何千もの人々をキャンプ集会に送ってくださった。尊い魂が数多く、泣きながらイエスの足もとに来て、祝福に満ちた聖霊を受けた。イエスが遣わされた助け主である。
@@ -50,7 +50,7 @@ The weather now being too cold for tent meetings in the East, we asked the Lord 
 東部は、もう天幕集会には寒すぎる季節になっていた。そこで私たちは、冬の伝道ができるほど暖かいフロリダへ天幕を送る費用を備えてくださるよう、主に求めた。そして、そのために祈り続けながら、コロナへ向かった。
 
 Upon first arrival this seemed a most discouraging field. No one but this precious colored sister was known to have received the baptism of the Holy Spirit according to Acts 2:4. Though we walked for blocks, not a hall could we find to rent, but I kept praying, and though everyone else doubted my call, I knew that God had sent me. Finally word came from the Swedish church that we would be welcome to open meetings there during the week.
-着いたばかりのころ、そこはひどく気落ちのする畑に思えた。聖書のとおりに（使徒二・四）聖霊のバプテスマを受けたと知られている人は、この尊い黒人の姉妹のほかに一人もいなかった。何ブロックも歩き回ったが、借りられる会館は一つも見つからなかった。けれども私は祈り続けた。ほかの人はみな私の召しを疑ったが、神が私を遣わされたことを、私は知っていた。ついにスウェーデン人の教会から、週日にそこで集会を開いてもかまわない、という知らせが来た。
+着いたばかりのころ、そこはひどく気落ちのする伝道地に思えた。使徒行伝二章四節のとおりに聖霊のバプテスマを受けたと知られている人は、この尊い黒人の姉妹のほかに一人もいなかった。何ブロックも歩き回ったが、借りられる会館は一つも見つからなかった。けれども私は祈り続けた。ほかの人はみな私の召しを疑ったが、神が私を遣わされたことを、私は知っていた。ついにスウェーデン人の教会から、週日にそこで集会を開いてもかまわない、という知らせが来た。
 
 The second night the church was filled to the door, though church members had been warned by their ministers to keep away from the Pentecostal people and have nothing to do with those folks who talked in tongues. Just one week from the day meetings were opened the break came. A Sunday School teacher from one of the large churches, a man whose sound Christian standing had been known for years, was the first to receive the baptism. The wife of a leading citizen was the second, and when the altar call was given scores from the audience, which was made up entirely of church members, gathered about the altar.
 二日目の夜、教会は戸口までいっぱいになった。教会の信徒たちは、自分の牧師から、ペンテコステの人々には近づくな、異言で話す連中とはかかわるな、と警告されていたのにである。集会を始めた日からちょうど一週間で、突破口が開けた。最初にバプテスマを受けたのは、ある大きな教会の日曜学校の教師だった。確かなキリスト者として、長年知られてきた人である。二人目は町の有力者の妻だった。そして祭壇への招きをすると、会衆の中から何十人もが祭壇の周りに集まった。会衆はみな、教会の信徒だった。
@@ -93,7 +93,7 @@ The Lord had convinced him of the truth that there was something deeper yet for 
 主は牧師に、自分にも自分の教会にも、もっと深いものがまだあるという真理を悟らせておられた。
 
 The night on which we spoke at his church I had to ask the Lord not to let me be afraid or overawed by the visiting ministers who sat behind me on the platform, and to give me liberty and power in preaching His Word and He never fails. He remembers our weakness, praise His name.
-その教会で語る夜、私は主に願わなければならなかった。私の後ろの壇上に座っている、よそから来た牧師たちを恐れたり、その威厳に気おされたりしないようにしてください。みことばを宣べ伝える自由と力をお与えください、と。そして主は決して期待を裏切られない。主は私たちの弱さを覚えていてくださる。御名をほめたたえよ。
+その教会で語る夜、私は主に願わなければならなかった。私の後ろの壇上に座っている、よそから来た牧師たちを恐れたり、その威厳に気おされたりしないようにしてください。みことばを宣べ伝える自由と力をお与えください、と。そして主は、決して期待を裏切ることのないかたである。主は私たちの弱さを覚えていてくださる。御名をほめたたえよ。
 
 As I spoke, hearty "Amens" and "Hallelujahs" came from all over the church. I felt that I must preach the truth without compromise or fear at least once in this church as they might never ask me again. When finished I took my seat, not presuming to give an altar call in someone else's church.
 私が語っていると、教会じゅうから心のこもった「アーメン」や「ハレルヤ」の声が上がった。この教会には二度と呼ばれないかもしれない。だから、せめて一度はここで、妥協も恐れもなく真理を宣べ伝えなければならない、と私は感じた。語り終えると、私は自分の席に着いた。人の教会で、出すぎて祭壇への招きをするつもりはなかった。
@@ -102,13 +102,13 @@ The Minister rose and said:
 牧師が立ち上がって言った。
 
 "How many of you people believe what Sister McPherson has said to be the truth, feel that you have not received the baptism of the Holy Spirit in the Bible way, and would like to receive this experience? Lift your hands."
-「マクファーソン姉妹の話したことが真理だと信じる人はいますか。聖書のとおりの聖霊のバプテスマをまだ受けていないと感じ、この経験を受けたいと願う人は、どれくらいいますか。手を上げてください」
+「マクファーソン姉妹の話は真理だと信じ、聖書のとおりの聖霊のバプテスマをまだ受けていないと感じ、この経験を受けたいと願う人は、どれくらいいますか。手を上げてください」
 
 They tell me that every hand in the church went up. (My eyes were so full of tears of joy I really could not say.)
 人の話では、教会じゅうの手が一つ残らず上がったそうである。（私の目は喜びの涙でいっぱいで、本当のところはわからなかった。）
 
 The people rose from their seats and flocked up the aisles, gathered completely round the chancel rail, inside the chancel, right behind the pulpit, and prayed between the pews and all over the church for the baptism of the Holy Spirit. What a glorious sight it was! This church had been kept clean from concerts and suppers and worldly amusements. Through their consecrated pastor they had been brought up to the place where they were just ready to be swept into the fulness of the Spirit's power.
-人々は席を立ち、通路をどっと進んできた。聖壇の手すりをすっかり取り囲み、聖壇の中にも、説教壇のすぐ後ろにも集まった。そして、座席のあいだでも、教会じゅうどこででも、聖霊のバプテスマを求めて祈った。なんと栄光に満ちた光景だったことか！　この教会は、音楽会や夕食会や世俗の娯楽から清く守られてきた。献身した牧師を通して、人々は、御霊の力の満ちあふれるところへ今にも押し流されようとする所まで、導かれていたのである。
+人々は席を立ち、通路をどっと進んできた。聖壇の手すりをすっかり取り囲み、聖壇の中にも、説教壇のすぐ後ろにも集まった。そして、座席のあいだでも、教会じゅうどこででも、聖霊のバプテスマを求めて祈った。なんと栄光に満ちた光景だったことか！　この教会は、音楽会や夕食会や世俗の娯楽から清く守られてきた。献身した牧師を通して、人々は、御霊の力の満ちあふれる中へ今にも押し流されようとするところまで、導かれていたのである。
 
 Three received the baptism that night. One lady fell by the organ, another at the other side of the church. Then two brothers who had not been on speaking terms with each other for over a year were seen talking to each other in the center of the church. One had asked the other, with tears in his eyes, to forgive him, and immediately fell back in his brother's arms under the power of the Holy Spirit. Alarmed, his brother lowered him to the floor.
 その夜は三人がバプテスマを受けた。一人の婦人はオルガンのそばで倒れ、もう一人は教会の反対側で倒れた。それから、一年以上も口をきかない間柄だった二人の兄弟が、教会の真ん中で話し合っているのが見えた。一人が目に涙を浮かべて、もう一人にゆるしを請うたのである。すると、ゆるしを請うた兄弟はたちまち聖霊の力に打たれて、相手の腕の中にあおむけに倒れた。相手の兄弟は驚いて、彼を床に横たえた。
@@ -117,7 +117,7 @@ I do not believe the scenes in that dear church could be described this side of 
 あの愛する教会の光景は、天国に行くまでは言い表せないと思う。だれかが神の力に打たれて倒れるたびに、人々は教会のそちら側へ走って行った。反対側でだれかが倒れると、向きを変えてそちらへ行った。何もかもが、まったく新しく不思議なことだった。
 
 The Pastor, however, did not run to look as the rest did, but kneeled by his pulpit with his hands over his face, looking through his fingers every once in a while to keep a watch on proceedings. ( Laughing over it together later, when he had received his baptism, I told him it appeared as though he believed in the verse that told us to "watch and pray.") He was yearning for the power of God, and yet naturally fearful lest his people should be led into confusion and error.
-けれども牧師は、ほかの人たちのように走って見に行きはしなかった。説教壇のそばにひざまずき、両手で顔を覆っていた。そしてときどき指のあいだからのぞいて、成り行きを見張っていた。（のちに牧師がバプテスマを受けてから、いっしょにこのことを笑い合った。私は言った。あなたは『目をさまして祈っていなさい』（マタイ二六・四一）という聖句を信じておられるように見えましたよ。「見張りながら祈りなさい」という意味で、と。）牧師は神の力を慕い求めていた。それでいて、自分の教会の人たちが混乱と誤りに導かれはしないかと、無理もないことだが恐れてもいた。
+けれども牧師は、ほかの人たちのように走って見に行きはしなかった。説教壇のそばにひざまずき、両手で顔を覆っていた。そしてときどき指のあいだからのぞいて、成り行きを見張っていた。（のちに牧師がバプテスマを受けてから、いっしょにこのことを笑い合った。私は牧師に言った。あなたは『目をさまして祈っていなさい』（マタイ二六・四一）という聖句を、「見張りながら祈りなさい」という意味で信じておられたようですね、と。）牧師は神の力を慕い求めていた。それでいて、自分の教会の人たちが混乱と誤りに導かれはしないかと、無理もないことだが恐れてもいた。
 
 Seeing the questions and excitement of the people as the power of God prostrated their dear ones, the enemy whispered:
 神の力が人々の愛する者を打ち倒すのを見て、人々は口々に問い、興奮していた。それを見て、敵がささやいた。
@@ -194,7 +194,7 @@ Kneeling beside her I was praying with all my might that the Lord should baptize
 「ああ、でも死にかけているに決まっているわ！　前にも一度幻を見て、そのときも死にかけたのよ。ウィル、ウィル、何か言って」と彼女は懇願した。
 
 I doubt if I could have restrained her much longer, but just at that tense moment, when the congregation were gathered round in breathless circles, leaning over the chancel rail, some even standing on the pews to see over the other's shoulders, Pastor W. K. Bouton was filled with the blessed Holy Spirit and began speaking with other tongues in a clear, plain language of which the Lord gave me the interpretation, message after message.
-これ以上彼女を引き止めておけたかどうか、わからない。会衆は息をのんで幾重にも輪になり、聖壇の手すりから身を乗り出していた。前の人の肩越しに見ようと、座席の上に立つ人までいた。けれども、まさにその張りつめた瞬間に、W・K・ボウトン牧師は祝福に満ちた聖霊に満たされた。そして、澄んだはっきりした言葉で、他国の言葉で語り始めた。主はその解き明かしを、メッセージの一つ一つについて私に与えてくださった。
+これ以上彼女を引き止めておけたかどうか、わからない。会衆は息をのんで幾重にも輪になり、聖壇の手すりから身を乗り出していた。前の人の肩越しに見ようと、座席の上に立つ人までいた。けれども、まさにその張りつめた瞬間に、W・K・ボウトン牧師は祝福に満ちた聖霊に満たされた。そして、澄んだはっきりした他国の言葉で語り始めた。主はその解き明かしを、メッセージの一つ一つについて私に与えてくださった。
 
 People fell to the floor here and there through the audience. Strong men sobbed like babies, and when at last the Pastor rose to his feet he walked up and down the platform, and said:
 会衆のあちこちで、人々が床に倒れた。屈強な男たちが赤ん坊のようにすすり泣いた。ついに牧師は立ち上がると、壇上を行ったり来たりしながら言った。
@@ -206,7 +206,7 @@ In the two weeks that followed practically the entire congregation from pulpit t
 それに続く二週間のうちに、説教壇から戸口まで、会衆のほとんど全員が聖霊のバプテスマを受け、他国の言葉で語った。ほかの教会から来た信徒たちもそうだった。
 
 All the trustees except one were swept through to the baptism. This one held aloof for some time, saying:
-役員たちも、一人を除いて全員がバプテスマを受けた。この一人は、しばらく離れて立ち、こう言っていた。
+役員たちも、一人を除いて全員がバプテスマを受けた。この一人は、しばらく距離を置いて、こう言っていた。
 
 "Oh, I don't believe that all this noise and shouting and falling under the power is necessary. I believe in the Holy Spirit, but not in this shouting and talking in tongues."
 「いや、こんなに騒いだり叫んだり、神の力に打たれて倒れたりするのが必要だとは思えません。聖霊は信じますが、こんなふうに叫んだり異言で話したりするのは信じません」
@@ -218,7 +218,7 @@ All the trustees except one were swept through to the baptism. This one held alo
 「ああ、それはいいですとも。主をもっと求めましょう」と彼は答えた。そして、ほかの人たちといっしょに祭壇に着いた。
 
 It was only a few minutes later while praying--with the seekers, and they were going down one by one under the mighty rushing wind of the heavenly gales that were sweeping from heaven, that we heard a great shout, and something struck the floor with a thump.
-ほんの数分後のことだった。私たちは求める人たちといっしょに祈っていた。天から吹きつける疾風の、激しい風のような力のもとで、人々は一人また一人と倒れていった。そのとき、大きな叫び声が聞こえ、何かがどしんと床を打った。
+ほんの数分後のことだった。私たちは求める人たちといっしょに祈っていた。天から吹きつける疾風の、激しい風のもとで、人々は一人また一人と倒れていった。そのとき、大きな叫び声が聞こえ、何かがどしんと床を打った。
 
 Making my way as quickly as possible to the place where this great roaring was coming from. I found its source of origin was none other than" the trustee who had but shortly before declared that all of this noise and shouting was unnecessary. I doubt if there was anyone in the church who made as much noise as he. He shook from head to foot; his heels beat a tattoo upon the floor; he fairly bellowed and roared forth in other tongues as the Spirit gave him utterance, his face filled with joy and glory.
 // 英文は「coming from. I found」「none other than" the」。from, I found、none other than the と読んだ。
@@ -235,26 +235,26 @@ Many sick bodies were healed. A young woman .( daughter of a Catholic family, wa
 多くの病んだ体がいやされた。カトリックの家の娘である一人の若い婦人が、タクシーで教会に運ばれ、松葉杖をついてよろよろと入って来た。リウマチで体が不自由になり、両手を上げることも、こわばった肩の関節を動かすこともできなかった。
 
 Here is her testimony as it was written for publication in the Bridal Call, our monthly magazine:
-次に載せるのは、私たちの月刊誌『ブライダル・コール』に載せるために彼女が書いた証しである。
+次に掲げるのは、私たちの月刊誌『ブライダル・コール』に載せるために彼女が書いた証しである。
 
 "TESTIMONY OF HEALING
 いやしの証し
 
 "For the past six years I have suffered from one of the worst cases of rheumatism, known as "Arthritis Rheumatism," but praise God! He has healed me. For four years I was compelled to use crutches, and the. stiffness was just taking a grip on each joint gradually. Until last December I could neither wash nor dress myself, and when one would even try to help me I would weep and moan with pain. My jaw became so stiff I could scarcely get a morsel of food into my mouth unless I broke it into very small pieces. But praise God since I have learned to say 'Glory to Jesus' every particle of stiffness has left my jaws. I have never again used the crutches since dear Sister McPherson's visit to the Free Gospel Church in Corona. Her prayers, together with the dear ones at that church, were answered, and Glory to Jesus. I have received my baptism with the Holy Ghost and fire.
 // 英文は「the. stiffness」。the stiffness として訳した。
-この六年間、私は「関節リウマチ」と呼ばれる、ひどいリウマチに苦しんできました。けれども神をほめたたえます。神が私をいやしてくださいました。四年間、私は松葉杖を使わなければなりませんでした。こわばりは、関節の一つ一つを少しずつ締めつけていきました。去年の十二月まで、私は自分で顔を洗うことも着替えることもできませんでした。だれかが手を貸そうとしてくれるだけで、痛みに泣いてうめきました。あごもひどくこわばり、食べ物をとても小さくちぎらなければ、一口も口に入れられないほどでした。けれども神をほめたたえます。「イエスに栄光あれ」と言えるようになってから、あごのこわばりはすっかり消えました。愛するマクファーソン姉妹がコロナのフリー・ゴスペル教会に来られてから、私は一度も松葉杖を使っていません。姉妹の祈りが、その教会の愛する人たちの祈りとともに聞かれたのです。イエスに栄光あれ。私は聖霊と火のバプテスマを受けました。
+この六年間、私は「関節リウマチ」と呼ばれる、最もひどい部類のリウマチに苦しんできました。けれども神をほめたたえます。神が私をいやしてくださいました。四年間、私は松葉杖を使わなければなりませんでした。こわばりは、関節の一つ一つを少しずつ締めつけていきました。去年の十二月まで、私は自分で体を洗うことも着替えることもできませんでした。だれかが手を貸そうとしてくれるだけで、痛みに泣いてうめきました。あごもひどくこわばり、食べ物をとても小さくちぎらなければ、一口も口に入れられないほどでした。けれども神をほめたたえます。「イエスに栄光あれ」と言えるようになってから、あごのこわばりはすっかり消えました。愛するマクファーソン姉妹がコロナのフリー・ゴスペル教会に来られてから、私は一度も松葉杖を使っていません。姉妹の祈りが、その教会の愛する人たちの祈りとともに聞かれたのです。イエスに栄光あれ。私は聖霊と火のバプテスマを受けました。
 
 "I am gaining in strength every day. Today I can wash, iron, sweep, run the sewing machine, and on days when mother is compelled to be away from home, I prepare two meals. I thank God today that we have a Pentecostal church in Corona, and also that God has placed in our midst our dear pastor, Brother Bouton, who is ever willing at all times to serve our Master, and lead his flock in the 'straight and narrow path," " (Signed) Louise Messnick.
-私は日ごとに力を増しています。今では洗濯も、アイロンかけも、掃除も、ミシンかけもできます。母がどうしても家を空けなければならない日には、二度の食事を作ります。今日、コロナにペンテコステの教会があることを、神に感謝します。また、神が私たちのただ中に、愛する牧師ボウトン兄弟を置いてくださったことを感謝します。兄弟は、いつでも喜んで私たちの主に仕え、自分の群れを『狭く細い道』に導いてくださいます。（署名）ルイーズ・メスニック
+私は日ごとに力を増しています。今では洗濯も、アイロンかけも、掃除も、ミシンかけもできます。母がどうしても家を空けなければならない日には、二度の食事を作ります。今日、コロナにペンテコステの教会があることを、神に感謝します。また、神が私たちのただ中に、愛する牧師ボウトン兄弟を置いてくださったことを感謝します。兄弟は、いつでも喜んで私たちの主に仕え、自分の群れを「狭く細い道」に導いてくださいます。（署名）ルイーズ・メスニック
 
 I will not attempt to describe to you the wonderful way in which the work is going on day by day in this church. Brother Bouton has written a little of himself. See Chapter 2, Part II.
 この教会で日々働きが進んでいる、そのすばらしいありさまを描こうとは思わない。ボウトン兄弟が、自分のことを少し書いている。第二部の第二章を見ていただきたい。
 
 Now that the work was going on so beautifully here, the Lord told us the time had come to begin our journey to Florida. We announced our expected departure to the people. We did not tell anyone that we were asking the Lord for the means wherewith to ship our tent and pay our fares, but the last night of the meeting Brother Bouton set a table out and was getting ready to ask for an offering for us, but before the song which they were then singing was finished or he could get an opportunity to ask for an offering, the people started. Up the aisles they came, one after another, laying their offerings upon the open Bible.
-ここでの働きがこうしてみごとに進んでいたので、主は私たちに、フロリダへの旅を始める時が来たと告げられた。私たちは、まもなく出発することを人々に知らせた。天幕を送り、旅費を払う費用を主に求めていることは、だれにも話さなかった。けれども集会の最後の夜、ボウトン兄弟がテーブルを出して、私たちのために献金を募ろうとしていた。ところが、そのとき歌っていた歌が終わらないうちに、また兄弟が献金を呼びかける間もないうちに、人々が動き出した。通路を一人また一人と進んできて、開いた聖書の上に献金を置いていったのである。
+ここでの働きがこうしてみごとに進んでいたので、主は私たちに、フロリダへの旅を始めるときが来たと告げられた。私たちは、まもなく出発することを人々に知らせた。天幕を送り、旅費を払う費用を主に求めていることは、だれにも話さなかった。けれども集会の最後の夜、ボウトン兄弟がテーブルを出して、私たちのために献金を募ろうとしていた。ところが、そのとき歌っていた歌が終わらないうちに、また兄弟が献金を呼びかける間もないうちに、人々が動き出した。通路を一人また一人と進んできて、開いた聖書の上に献金を置いていったのである。
 
 The Lord sent us, through these dear saints, just the amount needed. As we explained to them that we were called to preach among the poor and go to those who had not yet heard the message of Pentecost, they promised to send us a box of clothing to give to the poor, and ship it to us as soon as possible.
-主は、この愛する聖徒たちを通して、ちょうど必要な額を送ってくださった。私たちは、貧しい人々の間で説教し、ペンテコステのメッセージをまだ聞いていない人々のところへ行くように召されている、と説明した。すると人々は、貧しい人たちに配る衣類を一箱、できるだけ早く送ると約束してくれた。
+主は、この愛する聖徒たちを通して、ちょうど必要な額を送ってくださった。私たちは、貧しい人々のあいだで説教し、ペンテコステのメッセージをまだ聞いていない人々のところへ行くように召されている、と説明した。すると人々は、貧しい人たちに配る衣類を一箱、できるだけ早く送ると約束してくれた。
 
 Corona, its dear saints, and our own precious experiences while there will never be forgotten.
 コロナとそこの愛する聖徒たち、そこで私たちが味わった尊い経験は、決して忘れられることはないだろう。
