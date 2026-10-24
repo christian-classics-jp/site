@@ -9,7 +9,7 @@ THEN came the days of study in the little white school-house that stood on the c
 やがて、学校で学ぶ日々が始まった。家から一マイル離れた角に建つ、小さな白い校舎である。救世軍の子供は私一人で、ほかの生徒はみな教会の信徒の子だった。初めのうち、子供たちは救世軍のことで私をからかった。叫び声や行進や太鼓のことである。そのころ救世軍は、まだ人々にさげすまれていたのだ。けれども、私はとうとう子供たちの心をつかんだ。丸いチーズの箱で太鼓をこしらえ、定規をばちにした。赤いテーブル掛けで「血と火」の旗を作った。そして、みんなで校舎のまわりを行進し、「救世軍ごっこ」をしたのである。
 
 Everything went well until it was learned that I had some little talent for elocution. The distance to the barracks being great, and the churches seeming much more popular, I began going to the Methodist church where my father had formerly been a choir leader. Once invited to take part in their entertainments I was soon received in other churches and appearing on the programs the country round. We received great help and teaching along the lines of elocution, dialogues and plays by the church instructors in this art. After competing with others in the W. C. T. U. work, a silver and later a gold medal was awarded me.
-すべてはうまくいっていた。ところが、私に朗読の才能が少しあることが知られた。兵営までは遠かった。それに、教会のほうがずっと人気があるように見えた。それで私は、メソジスト教会に通い始めた。父がかつて聖歌隊の指揮者をしていた教会である。その教会の催し物に一度招かれると、まもなくほかの教会にも迎えられるようになった。そして、近隣一帯の催し物の出し物に、私の名が載るようになった。朗読や掛け合いや劇については、教会でそれを教える先生たちから、多くの助けと指導を受けた。キリスト教婦人矯風会の大会でほかの人たちと競い、私は銀メダルを、のちには金メダルを贈られた。
+すべてはうまくいっていた。ところが、私に朗読の才能が少しあることが知られた。兵営までは遠かった。それに、教会のほうがずっと人気があるように見えた。それで私は、メソジスト教会に通い始めた。父がかつて聖歌隊の指揮者をしていた教会である。その教会の催し物に一度招かれると、まもなくほかの教会にも迎えられるようになった。そして、近隣一帯の催し物のプログラムに、私の名が載るようになった。朗読や掛け合いや劇については、教会でそれを教える先生たちから、多くの助けと指導を受けた。キリスト教婦人矯風会の大会でほかの人たちと競い、私は銀メダルを、のちには金メダルを贈られた。
 
 Except for the temperance work, however, very few of the selections or plays were anything but comic. Upon asking preachers whether they would prefer something sacred they would invariably answer:
 しかし、禁酒運動のためのものを除けば、出し物や劇は、ほとんどが滑稽なものばかりだった。何か聖なるもののほうがよいかと牧師たちに尋ねると、決まってこういう答えが返ってきた。
@@ -43,7 +43,7 @@ It seemed to be a very proper affair, however. My first dancing partner was the 
 けれども、それはとても上品な集まりに見えた。最初に踊った相手は、長老派の牧師だった。ほかにも善良な（はずの）教会の信徒たちが来ていた。きっと母の思い違いか、母の考えが少し古いのだ。何もかもが、なんとすてきに見えたことだろう。楽団、花、私に向けられる注目、美しい衣装、よく整えられた夜食！
 
 Ah, sin, with what dazzling beauty, with what refinement and velvet dost thou cover thy claws! How .alluring are the fair promises with which thou enticest the feet of youth! How cunning are the devices of the enemy! How smoothly and craftily he lays his plans and weaves the net which he draws ever tighter and tighter, illumining the future and its prospects with rose colors and fair painted promises, the fruit of which, once plucked crumbles into gray ashes in the hand of him who runneth after it.
-ああ、罪よ、おまえは、なんとまばゆい美しさと、なんと上品なビロードで、その爪を隠すことか！　若者の足を誘うおまえの美しい約束は、なんと魅力に満ちていることか！　敵のたくらみは、なんと巧みなことか！　敵は、なんとなめらかに、ずる賢く計画を立てることか。敵は網を編み、その網をますますきつく引き絞っていく。そして、将来とその見通しを、ばら色と、美しく塗った約束とで照らし出す。しかしその実は、ひとたびもぎ取ると、それを追い求める者の手の中で、灰色の灰となって崩れ落ちるのである。
+ああ、罪よ、おまえは、なんとまばゆい美しさと、なんと上品なビロードで、その爪を隠すことか！　若者の足を誘うおまえの美しい約束は、なんと魅力に満ちていることか！　敵のたくらみは、なんと巧みなことか！　敵は、なんとなめらかに、ずる賢く計画を立てることか。敵は網を編み、その網をますますきつく引き絞っていく。そして、将来とその見通しを、ばら色と、美しく塗った約束とで照らし出す。しかしその実は、ひとたびもぎ取ると、それを追い求める者の手の中で、灰となって崩れ落ちるのである。
 
 My future and educational prospects looked promising. No effort or labor was counted too great upon the part of my parents to send me to school, and indeed it was no little matter for them--ten miles must be covered each day, five in the morning and five at night, on the train or with horse and carriage, despite country roads, with their mud or rain or snow.
 私の将来と学業の見通しは明るく見えた。両親は、私を学校に通わせるためなら、どんな努力も苦労もいとわなかった。実際、それは両親にとって小さなことではなかった。毎日十マイルを行き来しなければならなかったのである。朝に五マイル、夕方に五マイル、汽車か馬車で通った。田舎道はぬかるみ、雨が降り、雪が積もったが、それでも通った。
@@ -58,13 +58,13 @@ How these theories or teachings impressed other students I can not say, but they
 「人間が、進化の過程でできたというのか。
 
 --Why, then God had not created him at all, as the Bible said He did--preachers were true when they said there were errors and mistakes in the Bible." On and on raced the thoughts in my young mind until I reached the point:
-それなら、聖書が言うように神が人間を造られたのではまったくないのだ。聖書には誤りや間違いがあると言う牧師たちは、正しかったのだ」若い私の頭の中を、考えがどこまでも駆けめぐった。そして、ついにこう考えるに至った。
+それなら、聖書の言うこととは違って、神が人間を造られたのではまったくないのだ。聖書には誤りや間違いがあると言う牧師たちは、正しかったのだ」若い私の頭の中を、考えがどこまでも駆けめぐった。そして、ついにこう考えるに至った。
 
 "Well, then, if the Bible is mistaken in one place it is very apt to be mistaken in others. Its information is not reliable, and I guess there's no God at all, and that's why Christians act so pious in church on Sundays and do as they please through the week."
-「それなら、聖書が一か所で間違っているなら、ほかの所でも間違っているにちがいない。聖書の言うことは当てにならない。きっと神なんかいないのだ。だからクリスチャンたちは、日曜日には教会でいかにも信心深くふるまい、週日には好き勝手にしているのだ」
+「それなら、聖書が一か所で間違っているなら、ほかの所でも間違っているおそれが大きい。聖書の言うことは当てにならない。きっと神なんかいないのだ。だからクリスチャンたちは、日曜日には教会でいかにも信心深くふるまい、週日には好き勝手にしているのだ」
 
 "No, I guess there is no God." Even the existence of the big moon and the twinkling stars had been explained by science. The sun, once a great mass of molten lava, had acquired a whirling motion and thrown off all these other planets, earth, moon and stars.--Nothing about God, just science and a logical outcome of conditions now revealed, by wise astronomers who had studied it all out through great telescopes (which had cost fabulous sums of money and taken many years to invent); and therefore they knew all about it.
-「そうだ、神なんかいないのだ」大きな月やまたたく星があることさえ、科学で説明されていた。太陽は、かつて溶けた溶岩の大きなかたまりだった。それが渦を巻いて回り始め、地球も月も星も、ほかの惑星をみな投げ出したのだという。そこには神のことは何もない。あるのは科学と、今や明らかにされた条件から当然出てくる結果だけである。それを明らかにしたのは賢い天文学者たちで、彼らは大きな望遠鏡ですべてを調べ上げていた（その望遠鏡は、とてつもない金をかけ、何年もかけて発明されたものである）。だから彼らは何もかも知っているのだ。
+「そうだ、神なんかいないのだ」大きな月やまたたく星があることさえ、科学で説明されていた。太陽は、かつて溶けた溶岩の大きなかたまりだった。それが渦を巻いて回り始め、地球も月も星も、ほかの惑星をみな投げ出したのだという。そこには神のことは何もない。あるのは科学と、今や明らかにされた条件から当然出てくる結果だけである。それを明らかにしたのは賢い天文学者たちである。彼らは大きな望遠鏡ですべてを調べ上げていた（その望遠鏡は、とてつもない金をかけ、何年もかけて発明されたものである）。だから彼らは何もかも知っているのだ。
 
 This book raised so many questions in my mind that I delved deeper into other infidelistic theories. So interested did I become that I wrote an article to the "Family Herald and Weekly Star," published at Montreal, then Canada's leading paper. My inquiries were answered by Archbishop Hamilton and many others. Arguments both for and against the book and its teachings were brought out.
 この本のために、私の心には多くの疑問がわき起こった。それで私は、ほかの不信仰な理論をさらに深く調べた。あまりに興味を持ったので、新聞に投書を書いた。モントリオールで出ていた『ファミリー・ヘラルド・アンド・ウィークリー・スター』紙で、当時カナダ一の新聞だった。私の問いには、ハミルトン大主教をはじめ、多くの人が答えてくれた。その本とその教えについて、賛成と反対の両方の論が出された。
@@ -77,10 +77,10 @@ Out of the letters that poured in for months from England, New Zealand, Australi
 
 "Child, the Bible is true. Take the simple Word of God and believe it just as it reads." is-
 // 英文の末尾の `is-` は OCR の崩れとみて訳さない。
-「娘さん、聖書は真実です。神のみことばをそのまま受け取り、書いてあるとおりに信じなさい」
+「お嬢さん、聖書は真実です。神のみことばをそのまま受け取り、書いてあるとおりに信じなさい」
 
 The more I read and observed the lives of Christians, the more skeptical of the reality of God I became. (How I could ever have doubted is today a puzzle and a shame to me.) The devil must have blinded my eyes for a time to the genuine Christians about me. All that I could see was empty profession. I saw men singing in the choir or sitting in the pews on Sunday and attending all sorts of worldly functions during the week. I began reading my Bible, to see whether it contradicted itself and how it compared with the books which I had read. Oh, I must know the truth--was there anything in religion?
-読めば読むほど、またクリスチャンの生活を見れば見るほど、私は神が本当におられるのかを疑うようになった。（どうして疑うことなどできたのか、今では私にとって謎であり、恥でもある。）悪魔はしばらくのあいだ、私の目をくらませて、まわりにいた本物のクリスチャンを見えなくしていたにちがいない。私に見えたのは、口先だけの信仰告白ばかりだった。日曜日には聖歌隊で歌い、会衆席に座っている男の人たちが、週日にはありとあらゆる世俗の集まりに出ていた。私は聖書を読み始めた。聖書が自分と矛盾していないか、読んできた本と比べてどうかを確かめるためである。ああ、私は真理を知らなければならなかった。信仰には、何か確かなものがあるのだろうか。
+読めば読むほど、またクリスチャンの生活を見れば見るほど、私は神が本当におられるのかを疑うようになった。（どうして疑うことなどできたのか、今では私にとって謎であり、恥でもある。）悪魔はしばらくのあいだ、私の目をくらませて、まわりにいた本物のクリスチャンを見えなくしていたにちがいない。私に見えたのは、口先だけの信仰告白ばかりだった。日曜日には聖歌隊で歌ったり会衆席に座ったりしている人たちが、週日にはありとあらゆる世俗の集まりに出ていた。私は聖書を読み始めた。聖書が自分と矛盾していないか、読んできた本と比べてどうかを確かめるためである。ああ、私は真理を知らなければならなかった。信仰には、何か確かなものがあるのだろうか。
 
 Every time I had an opportunity I questioned and cross-questioned each Christian that I could get hold of. But I did not seem to get far. My first attempt was made upon my Mother. I had been thinking earnestly upon the subject, and just as she was coming up the steep cellar steps with a pan of milk in her hands, I met her with the question:
 機会があるたびに、つかまえられるかぎりのクリスチャンに問いかけ、問い詰めた。けれども、あまり先へは進めないようだった。最初に試みた相手は母だった。私はこの問題を真剣に考えていた。母が牛乳の入った平なべを両手に持って、地下室の急な階段を上がってきたちょうどそのとき、私は母を問いで出迎えた。
@@ -101,7 +101,7 @@ My next attempt was made upon the minister when he came . to our house to tea. M
 「主は、今でも奇跡を行ったり、病人をいやしたりなさるのですか」と私は尋ねた。
 
 "Why, no child, the day of miracles is over," was his surprised reply. "People are expected to use the intelligence and wisdom the Lord has given them along medical and surgical lines--these are really miraculous, you know."
-「いやいや、お嬢さん、奇跡の時代は終わったのだよ」というのが、驚いた牧師の答えだった。「主が与えてくださった知性と知恵を、内科や外科の方面で用いるように求められているのだ。そういうものこそ本当に奇跡なのだよ」
+「いやいや、お嬢さん、奇跡の時代は終わったのだよ」というのが、驚いた牧師の答えだった。「人は、主が与えてくださった知性と知恵を、内科や外科の方面で用いるように求められているのだ。そういうものこそ本当に奇跡なのだよ」
 
 "But doesn't it say, over here in James 5:14, if any are sick among you to 'let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord: And the prayer of faith shall save the sick, and they shall recover?
 // 英文の they shall recover はヤコブ五・一五の the Lord shall raise him up ではなく、マルコ一六・一八の言葉が混じったものとみて、そのまま訳した。
@@ -125,12 +125,12 @@ Alarmed over my attitude and questions, my Mother asked me to join some church. 
 「それなら、今夜は救世軍の特別集会に行きましょう。いっしょに行くのは久しぶりね」
 
 Poor Mother! Will I ever forget her face when she found they were having an entertainment there that night, and the first selection rendered after we entered was:
-かわいそうな母！　その夜、そこでは余興の会が開かれていた。私たちが入って最初に演じられた出し物は、これだった。それを知ったときの母の顔を、私はいつか忘れることがあるだろうか。
+かわいそうな母！　あのときの母の顔を、私はいつか忘れることがあるだろうか。その夜、そこでは催し物が開かれていたのだ。しかも、私たちが入って最初に演じられた出し物は、これだった。
 
 "High diddle, diddle,
-「へいこら、ひょっこら、<br/>
+「ちょいな、ちょいな、<br/>
 The cat and the fiddle,
-ねこにバイオリン、<br/>
+ねこがバイオリンをひいて、<br/>
 The cow jumped over the moon!"
 めうしがお月さまを跳びこえた！」<br/>
 
@@ -141,7 +141,7 @@ Later we attended the special services being conducted by the Brigadier, his wif
 その後、私たちは、准将とその妻と娘が導く特別集会に出た。娘は、イエスに心をささげるようにと、とてもやさしく私を招いてくれた。私は彼女に言い返した。神なんかいない、聖書には何もない、と。彼女は手に負えなくなったようで、母親を呼びに行った。母親も、祭壇の前に来るようにと私に頼んだ。それから二人は父親を呼びにやり、まもなく私は人の輪の中心になっていた。母は輪の外で、顔を赤らめて聞いていた。そのあいだ私は、無知のまま、進化について自分の考えを述べ立てたのである。
 
 Oh, dear Jesus, how could I ever have doubted You when You have been so good, so merciful and so true to me all the days of my life!
-ああ、愛するイエスさま、あなたは私の生涯のすべての日々、私にこれほど良く、あわれみ深く、真実であってくださいました。そのあなたを、どうして疑うことなどできたのでしょう！
+ああ、愛するイエスさま、あなたは私の生涯のすべての日々、私にこれほどよくしてくださり、あわれみ深く、真実であってくださいました。そのあなたを、どうして疑うことなどできたのでしょう！
 
 Mother cried bitterly all the long drive home, and all the reproach she Laid upon me was:
 長い道のりを馬車で帰るあいだ、母はずっと激しく泣いていた。母が私をとがめたのは、ただこれだけだった。
@@ -182,4 +182,4 @@ The cry came from my very heart. In reality, a whisper was all that came from my
 その叫びは、私の心の底から出たものだった。実際には、唇からもれたのはささやきにすぎなかった。けれども、正直で、慕い求める心から出たそのささやきだけで、星々を越えて響き、父の御座に届くのに十分だった。天におられ、小さな子らの叫びにいつも耳を傾けておられるかたが、私の声を聞き、答えてくださった。御名がほめたたえられるように。
 
 Oh, if every doubter and professed infidel would just breathe that one sincere prayer to God, He would reveal Himself to them as He did to me, for, He is no respecter of persons. Hallelujah!
-ああ、疑う人や不信者を自認する人がみな、その心からの祈りを一つ、神にささげさえすれば。そうすれば、神は私にしてくださったように、その人たちにもご自身を現してくださるだろう。神は人をかたより見ないかただからである。ハレルヤ！
+ああ、疑う人や不信者を自認する人がみな、その心からの祈りを一つ、神にささげさえすれば。そうすれば、神は私にしてくださったように、その人たちにもご自身を現してくださるだろう。神は人をかたよりみないかただからである。ハレルヤ！
