@@ -23,7 +23,7 @@ At the same time we were having glorious meetings. Many were prostrated under th
 A spiritualist woman put herself at the head, like a drum major, to lead the singing. I prayed her out of the church.
 心霊術者の女が、鼓笛隊長のように先頭に立って、歌を導こうとした。私は祈って、彼女を教会から追い出した。
 The other, a fanatical preacher with a voice that almost rattled the windows, I had to rebuke openly. He took over the whole meeting. Conceit fairly stuck out of him.
-もう一人は、窓をがたがた鳴らすほどの声の、狂信的な説教者だった。私は彼を公然としからなければならなかった。彼は集会全体を乗っ取ってしまったのだ。うぬぼれが、彼の全身からにじみ出ていた。
+もう一人は、窓をがたがた鳴らさんばかりの声の、狂信的な説教者だった。私は彼を公然としからなければならなかった。彼は集会全体を乗っ取ってしまったのだ。うぬぼれが、彼の全身からにじみ出ていた。
 The Spirit was terribly grieved. God could not work. I had suffered too much for the work to turn the whole thing over to the devil so easily.
 御霊はひどく悲しまれた。神は働くことがおできにならなかった。私はこの働きのために、あまりに多く苦しんできた。それをそうやすやすと悪魔に明け渡すわけにはいかなかった。
 Besides I was responsible for souls, and for the rent. So I had to tell him to leave.
@@ -36,13 +36,13 @@ The very first time I opened the church for meetings I found one of the worst fa
 I chased him from the place, like Nehemiah did the son of Joiada, (Neh. 13:28.) I had never dreamed there was so much of the devil, in so many people. The town seemed full of them.
 私は、ネヘミヤがヨイアダの子を追い出したように、彼をそこから追い払った（ネヘミヤ一三・二八）。これほど多くの人の中に、これほど多くの悪魔が入っているとは、夢にも思わなかった。町はそういう人でいっぱいのようだった。
 It tempted the saints to fight and hindered the Spirit. These crooks and cranks were the first at the meeting. We had a great clearing-up time. Especially in the case of old professors.
-それは聖徒たちを争いに誘い、御霊を妨げた。こういうぺてん師や変わり者が、真っ先に集会に来た。私たちは大掃除をしなければならなかった。とくに、古くから信仰を告白している人々の場合がそうだった。
+それは聖徒たちを争いに誘い、御霊を妨げた。こういうぺてん師や変わり者が、真っ先に集会に来た。私たちは、大がかりな一掃の時を迎えた。とくに、古くから信仰を告白している人々の場合がそうだった。
 There was much professional, religious quackery. Judgment had to "begin at the house of God." Luther was greatly troubled with willful, religious fanatics in his day.
 職業的な、宗教上のいかさまが多くあった。さばきは「神の家から始められ」なければならなかった。ルターも、その時代に、わがままな宗教上の狂信者たちにひどく悩まされた。
 He wrote from the Wartburg, where he was then concealed, to Melancthon at Wittenberg, a test-stone for these fanatics, as follows: "Ask these prophets whether they have felt those spiritual torments, those creations of God, that death and hell which accompany a real separation."
 彼はそのころ、ワルトブルクに身を隠していた。そこからウィッテンベルクのメランヒトンに、そういう狂信者を見分ける試金石を書き送った。「この預言者たちに尋ねなさい。あの霊の苦しみ、あの神による創造、そして本当の分離に伴うあの死と地獄を、味わったことがあるかと」。
 When he returned to Wittenberg and they tried their sorcery on him he met them with these crude words: "I slap your spirit on the snout." They acted like devils at that challenge. But it broke their spell.
-ルターがウィッテンベルクに戻り、彼らが彼に魔術を試みたとき、彼は次のような荒っぽい言葉で立ち向かった。「おまえたちの霊の鼻づらをひっぱたいてやる」。その挑戦に、彼らは悪魔のようにふるまった。しかし、それで彼らの魔力は破られた。
+ルターがウィッテンベルクに戻ると、彼らはルターに魔術を試みた。ルターは次のような荒っぽい言葉で立ち向かった。「おまえたちの霊の鼻づらをひっぱたいてやる」。その挑戦に、彼らは悪魔のようにふるまった。しかし、それで彼らの魔力は破られた。
 
 We were obliged to deal firmly with extreme cases, but in the main the Spirit passed over and moved out of the way irregularities, without further advertising them.
 極端な場合には、断固として取り扱わなければならなかった。しかし、たいていは、御霊が乱れを見過ごし、取りのけてくださった。それ以上、人目にさらすことはなかった。
@@ -75,7 +75,7 @@ It was as though a stranger had broken into a private, select company. The prese
 He was in His holy temple, earth (the human.) must keep silence before Him. It only caused grief and pain.
 神はその聖なる宮におられ、地（人間的なもの）はそのみ前に沈黙しなければならなかった。人間の霊は、悲しみと痛みをもたらすだけだった。
 Our so-called tarrying and prayer rooms today are but a shadow of the former ones, too often a place to blow off steam in human enthusiasm, or become mentally intoxicated, supposedly from the Holy Ghost.
-今日のいわゆる、とどまって待つための部屋や祈りの部屋は、かつての部屋の影にすぎない。あまりにしばしば、人間的な熱狂で蒸気を吹き出す所や、聖霊によると称して精神的に酔いしれる所になっている。
+今日のいわゆる、とどまって待つ部屋や祈りの部屋は、かつての部屋の影にすぎない。あまりにしばしば、人間的な熱狂を発散する所や、聖霊によると称して精神的に酔いしれる所になっている。
 Many of them are a kind of lethal chamber, with very little of the pure Spirit of God. This should not be. We had a tremendous lot of fanaticism in the Holiness movement also.
 その多くは一種の死の部屋であって、神の清い御霊はほとんどない。こうであってはならない。ホーリネス運動にも、ものすごく多くの狂信があった。
 In the early days the "tarrying room" was the first thought and provision for a "Pentecostal Mission." It was held sacred, a kind of "holy ground." There was mutual consideration also.
@@ -83,13 +83,13 @@ In the early days the "tarrying room" was the first thought and provision for a 
 There men sought to become quiet from the activities of their own too active mind and spirit, to escape from the world for the time, and get alone with God.
 人々はそこで、自分のあまりに活発な思いと霊の働きから離れて、静まろうとした。しばらく世をのがれ、ただひとり神と向き合おうとしたのだ。
 There was no noisy, wild, exciting spirit there. That at least could be done elsewhere. The claims and confusion of an exacting world were shut out.
-そこには、騒がしく荒々しい、人を興奮させる霊はなかった。少なくともそういうことは、ほかの場所でもできた。容赦のない世の要求と混乱は、締め出されていた。
+そこには、騒がしく荒々しい、人を興奮させる霊はなかった。そういうことは、少なくともほかの場所でならできた。容赦のない世の要求と混乱は、締め出されていた。
 It was a sort of "city of refuge" from this sort of thing, a "haven of rest," where God could be heard, and talk to their souls.
 そこは、こうしたものからの一種の「のがれの町」であり、「憩いの港」だった。そこでは神の声を聞くことができ、神が彼らの魂に語ってくださった。
 Men would spend hours in silence there, searching their own hearts in privacy, and securing the mind of the Lord for future action.
 人々はそこで、何時間も黙って過ごした。人知れず自分の心を探り、これからの行いについて主のみこころを確かめたのである。
 This sort of thing seems well nigh impossible today amid present surroundings. We die out to self by coming into His presence. And this requires great quietness of spirit. We need a "holy of holies."
-今日の環境の中では、こういうことはほとんど不可能に思われる。私たちは、神の御前に出ることによって、自我に死ぬ。そしてそのためには、霊が深く静まっていなければならない。私たちには「至聖所」が必要なのだ。
+今日の環境の中では、こういうことはほとんど不可能に思われる。私たちは、神のみ前に出ることによって、自我に死ぬ。そしてそのためには、霊が深く静まっていなければならない。私たちには「至聖所」が必要なのだ。
 What Jew of old would have dared to act in Gods temple as we do today in the missions? It would have meant death to him.
 昔のユダヤ人のだれが、今日私たちがミッションでしているようなふるまいを、神の宮であえてしただろうか。そうすれば、死を招いたことだろう。
 We are full of foolishness and fanatical self-assertion. Even the formal Romanists have more reverence on the whole than we.
@@ -118,7 +118,7 @@ Multitudes are shut up in ecclesiastical systems, within sectarian boundaries, w
 多くの人が、教会の制度の中に、党派の境界の内側に閉じ込められている。そのあいだにも、神の大きく自由な牧場が、目の前に広がっているのだ。その牧場を限るのは、周りを囲む神のみことばだけである。
 "There shall be one Rock, and one Shepherd." - (See Ps. 23.) Traditional theology, partial truth and revelation, soon becomes law. The conscience is utterly bound, like Chinese foot-binding, shut up against further progress.
 // 英文の one Rock は、ヨハネ一〇・一六の one fold（一つの群れ）と読んだ。出典は英文どおり詩篇二三篇の参照にした。
-『ついに一つの群れ、ひとりの羊飼となるであろう』（詩篇二三篇参照）。伝統的な神学、部分的な真理と啓示は、たちまち律法になる。良心は、中国の纏足のように、すっかり縛られ、それ以上進めないように閉じ込められてしまう。
+『ついに一つの群れ、ひとりの羊飼となるであろう』（詩篇二三篇参照）。伝統的な神学、すなわち部分的な真理と啓示は、たちまち律法になる。良心は、中国の纏足のように、すっかり縛られ、それ以上進めないように閉じ込められてしまう。
 
 I first met Brother Daniel Awrey here at Eighth and Maple. He came to the meetings and we had a laughing blessing together. I was with him later in India and China. He finally died in Africa.
 私がダニエル・オーリー兄弟に初めて会ったのは、ここ八番街とメイプル通りでだった。彼は集会に来て、私たちは共に笑いの祝福にあずかった。のちに私は、インドと中国で彼と一緒になった。彼は最後にアフリカで亡くなった。
@@ -149,7 +149,7 @@ Brother Elmer Fisher then started another mission at 327½ South Spring street, 
 // 英文は Upper Room" と、開きの引用符がない。
 そこでエルマー・フィッシャー兄弟が、サウス・スプリング通り327½番地に、もう一つのミッションを始めた。「アッパー・ルーム」ミッションとして知られた所である。
 Most of the white saints from "Azusa" went with him, with the "baptized" ones from the New Testament Church. This later became for a time the strongest mission in town.
-「アズサ」の白人の聖徒の多くが、新約教会の「バプテスマを受けた」人々と共に、彼について行った。ここはのちに、一時期、町でいちばん力のあるミッションになった。
+「アズサ」の白人の聖徒の大部分が、新約教会の「バプテスマを受けた」人々と共に、彼について行った。ここはのちに、一時期、町でいちばん力のあるミッションになった。
 Both "Azusa" and the New Testament Church had by this time largely failed God.
 このころには、「アズサ」も新約教会も、おおむね神の期待を裏切っていた。
 I soon after turned Eighth and Maple over to Brother Pendleton, as I was too worn to continue longer in constant service in the meetings. I had been for a long time under constant strain in prayer and meetings, and needed a rest and change very badly.
@@ -168,7 +168,7 @@ There is nothing deeper nor higher than to know Christ. Everything is given of G
 キリストを知ることより深いものも、高いものもない。すべては、そのために神から与えられている。「一つの御霊」も、そのために与えられている。キリストは私たちの救いであり、私たちのすべてである。
 That we might know "the lengths and breadths, and heights and depths of the love of Christ, having a "spirit of wisdom and revelation in the knowledge of Him (Christ)." - Eph. 1:17. It was "to know Him (Christ)," for which Paul strove.
 // 英文は "the lengths の引用符が閉じていない。エペソ三・一八〜一九の言い換えとして、「キリストの愛の…深さ」までを囲んだ。
-それは、私たちが「キリストの愛の長さ、広さ、高さ、深さ」を知るためである。また『知恵と啓示との霊』を持って、「彼（キリスト）を知る」ためである（エペソ一・一七）。パウロが追い求めたのも、「彼（キリスト）を知る」ことだった。
+それは、私たちが「キリストの愛の長さ、広さ、高さ、深さ」を知るためである。また『知恵と啓示との霊』を持って、彼（キリスト）を知るためである（エペソ一・一七）。パウロが追い求めたのも、「彼（キリスト）を知る」ことだった。
 I was led to suddenly present Jesus one night to the congregation at Eighth and Maple. They had been forgetting Him in their exaltation of the Holy Ghost and the "gifts." Now I introduced Christ for their consideration.
 ある夜、私は導かれて、八番街とメイプル通りの会衆に、突然イエスを示した。彼らは、聖霊と「賜物」を高めるあまり、イエスを忘れかけていたのだ。そこで私は、キリストを彼らの前に差し出し、思いめぐらすように促した。
 They were taken completely by surprise and convicted in a moment. God made me do it. Then they saw their mistake and danger.
@@ -181,7 +181,7 @@ I fell like John on the Isle of Patmos, at His feet.
 I wrote a tract at this time, of which the following are extracts: "We may not even hold a doctrine, or seek an experience, except in Christ.
 このころ、私はトラクトを書いた。次はその抜粋である。「私たちは、キリストにあってでなければ、教理を持つことも、経験を求めることさえも許されない。
 Many are willing to seek "power" from every battery they can lay their hands on, in order to perform miracles, draw the attention and adoration of the people to themselves, thus robbing Christ of His glory, and making a fair showing in the flesh.
-多くの人が、手の届くかぎりのあらゆる電池から、すすんで『力』を得ようとする。奇跡を行い、人々の注意とあこがれを自分に引きつけるためである。こうして彼らは、キリストから栄光を奪い、肉において見えを飾っている。
+多くの人が、手の届くかぎりのあらゆる電池から、すすんで『力』を得ようとする。奇跡を行い、人々の注意と崇拝を自分に引きつけるためである。こうして彼らは、キリストから栄光を奪い、肉において見えを飾っている。
 The greatest religious need of our day would seem to be that of true followers of the meek and lowly Jesus. Religious enthusiasm easily goes to seed. The human spirit so predominates, the show-off, religious spirit.
 今日、宗教上もっとも必要なのは、柔和で心のへりくだったイエスに、本当に従う者たちであるように思われる。宗教的な熱狂は、すぐに衰えてしまう。人間の霊、見せびらかしたがる宗教的な霊が、あまりに幅をきかせている。
 But we must stick to our text, Christ. He alone can save. The attention of the people must be first of all, and always, held to Him.
@@ -199,6 +199,6 @@ The Holy Ghost is a great light, but focused on Jesus always, for His revealing.
 A. S. Worrell, translator of the New Testament, was an earnest friend of "Pentecost," and a seeker after the "baptism." He wrote the following in the "Way of Faith:"
 新約聖書の翻訳者A・S・ウォレルは、「ペンテコステ」の熱心な友であり、「バプテスマ」を求める人だった。彼は『ウェイ・オブ・フェイス』に次のように書いた。
 "The blood of Jesus is exalted in these meetings as I have rarely known elsewhere. There is a mighty power manifest in witnessing for Jesus, with a wonderful love for souls. There is also a bestowal of 'gifts of the Spirit.'
-「これらの集会では、ほかではめったに知らないほど、イエスの血があがめられている。イエスをあかしすることのうちに、力強い力が現れていて、魂に対するすばらしい愛が伴っている。また、『御霊の賜物』も授けられている。
+「これらの集会では、ほかではめったに見たことがないほど、イエスの血があがめられている。イエスをあかしすることのうちに、大きな力が現れていて、魂に対するすばらしい愛が伴っている。また、『御霊の賜物』も授けられている。
 The places of meeting are at Azusa street, at the New Testament Church, where Joseph Smale is pastor; some of his people were among the first to speak with 'tongues,' but most have withdrawn because they felt restraint in his church; and at Eighth and Maple streets, where Pastors Bartleman and Pendleton are the principal leaders."
-集会の場所は、アズサ通りと、ジョセフ・スメールが牧師をしている新約教会と、八番街とメイプル通りである。スメールの教会の人々の何人かは、最初に『異言』で語った人々の中にいた。しかし多くの人は、彼の教会で束縛を感じて離れていった。八番街とメイプル通りでは、バートルマン牧師とペンドルトン牧師がおもな指導者である」。
+集会の場所は、アズサ通りと、ジョセフ・スメールが牧師をしている新約教会と、八番街とメイプル通りである。スメールの教会の人々の何人かは、最初に『異言』で語った人々の中にいた。しかし、その大部分は、彼の教会で束縛を感じて離れていった。八番街とメイプル通りでは、バートルマン牧師とペンドルトン牧師がおもな指導者である」。
