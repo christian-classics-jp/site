@@ -62,7 +62,7 @@
 + [x] Part III. The Life and Growth of Peter
 + [x] Part III. The Temple / Getting Down
 + [x] Part III. Covet Earnestly Spiritual Gifts
-+ [ ] Part III. The Valley of Dry Bones
++ [x] Part III. The Valley of Dry Bones
 + [ ] Part III. "Death in the Pot" (1)
 + [ ] Part III. "Death in the Pot" (2)
 + [ ] Part III. Rejoice in the Lord / Praising the Lord
