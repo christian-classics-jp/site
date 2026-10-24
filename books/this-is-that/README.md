@@ -31,7 +31,7 @@
 + [x] Chapter XIX. Meetings from Mass. to New York
 + [x] Chapter XX. The Transcontinental Gospel Tour (1)
 + [x] Chapter XX. The Transcontinental Gospel Tour (2)
-+ [ ] Chapter XXI. Mighty Downpour at Los Angeles
++ [x] Chapter XXI. Mighty Downpour at Los Angeles
 + [ ] Chapter XXII. "The House That God Built"
 + [ ] Chapter XXIII. Los Angeles to San Francisco
 + [ ] Part II. The Mighty Power of God Manifested at Mount Forest, Ontario / Testimony of Pastor W. K. Bouton
