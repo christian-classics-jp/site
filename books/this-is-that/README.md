@@ -64,7 +64,7 @@
 + [x] Part III. Covet Earnestly Spiritual Gifts
 + [x] Part III. The Valley of Dry Bones
 + [x] Part III. "Death in the Pot" (1)
-+ [ ] Part III. "Death in the Pot" (2)
++ [x] Part III. "Death in the Pot" (2)
 + [ ] Part III. Rejoice in the Lord / Praising the Lord
 + [ ] Part III. The Four-Fold Message of the Hour
 + [ ] Part IV. Explanatory Note / The Former and Latter Rain / Rhapsody of Praise / The Meeting in the Air / Song of Praise and Worship / Awake, O Earth! Jesus Is Coming Soon / The Voice of the Lord to the Nations and to the Saints
