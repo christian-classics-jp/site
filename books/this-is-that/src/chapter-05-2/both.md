@@ -12,13 +12,13 @@ And to make matters worse, the same day one of the S. A. officers came to call u
 「ねえ、姉妹、ほかの人たちがあのペンテコステ伝道所に行くのは、まだそれほどかまわないのです。でも、あなたが娘さんを行かせているのには、本当に驚いていますし、間違っていると思います。あなたは長年この働きに携わってきたのですから、娘さんがあの人たちと少しでもかかわるのを許していては、ほかの人たちに悪い手本を示すことになります」さらに士官たちは母に、あのいわゆる力というものは、どれも興奮か催眠術で、偽物だとも言った。
 
 When I went home that night Mother was waiting for me. She gave me a very serious talking to, and wound up by issuing the ultimatum:
-その晩、家に帰ると、母が私を待っていた。母はとても厳しく私に言い聞かせ、最後に最後通告を言い渡した。
+その晩、家に帰ると、母が私を待っていた。母はとても厳しく私に言い聞かせ、しまいに最後通告を言い渡した。
 
 "Now, if I ever hear of your leaving school and going down to that Mission again, or to the tarrying meeting's, I will have to keep you home altogether. I will not have you talked about in this way."
 「いいこと、もしまた学校を抜け出して、あの伝道所や待ち望みの集会に行ったと聞いたら、もう学校には行かせずに、ずっと家に置いておくしかないわ。あなたがこんなふうにうわさされるのは許しません」
 
 I went to school on the train the next morning as the roads were banked high with snow, and all the way in I was looking out of the window at the falling flakes of snow and praying for the Lord to fix it all some way so that I should be able to knock until He opened or else to baptize me at once.
-次の朝、道には雪が高く積もっていたので、私は汽車で学校に行った。町に着くまでずっと、窓の外に降りしきる雪を眺めながら祈っていた。主が何とかしてすべてを整え、主が開いてくださるまで私が門をたたき続けられるようにしてください。さもなければ、今すぐ私にバプテスマを授けてください、と。
+次の朝、道には雪が高く積もっていたので、私は汽車で学校に行った。町に着くまでずっと、窓の外に降りしきる雪を眺めながら、主に祈っていた。何とかしてすべてを整え、開いてくださるまで門をたたき続けられるようにしてください。さもなければ、今すぐ私にバプテスマを授けてください、と。
 
 Walking from the train to High School it was necessary to pass both the Mission and the Sister's home where I often went to tarry for the baptism. As I went past the latter I looked longingly at the windows, hoping that she might be there and that I could speak to her from the sidewalk without going in and thus disobeying Mother's command, but not a sign of her did I see.
 駅から中等学校まで歩くには、伝道所の前と、ある姉妹の家の前を通らなければならなかった。その姉妹の家には、バプテスマを待ち望むためによく通っていた。その家の前を通るとき、私はあこがれる思いで窓を見上げた。姉妹がそこにいれば、中に入らずに歩道から話しかけられるのに、と思ったのである。中に入れば母の言いつけにそむくことになる。けれども、姉妹の姿はどこにも見えなかった。
@@ -39,7 +39,7 @@ With this I turned and walked quickly back to the house, rang the door bell and 
 「天のお父さまに、すっかりお話ししましょう」そこで私たちはひざまずいて、祈り始めた。姉妹は祈りの中で主に願った。今この場で私にバプテスマを授けてくださるか、さもなければ、私がバプテスマを受けるまでここにいられるように、何とか取り計らってください、と。
 
 The Lord heard this prayer, and outside the window the snow which had been falling in light flakes, began to come down like a blinding blizzard. My heavenly Father sent out His angels to stir up some of those big, old, fleecy clouds of His, and down came the snow and--causing the window-panes to rattle, and one of our old-fashioned Canadian blizzards was on.
-主はこの祈りを聞いてくださった。窓の外では、それまで軽くちらついていた雪が、前も見えないほどの吹雪になって降り始めた。私の天の父は御使たちを遣わし、ご自分の大きな、羊毛のような古い雲をいくつかかき回させたのである。雪はどっと降り、窓ガラスをがたがたと鳴らした。昔ながらのカナダの大吹雪が始まったのだ。
+主はこの祈りを聞いてくださった。窓の外では、それまで軽くちらついていた雪が、前も見えないほどの吹雪になって降り始めた。私の天の父は御使たちを遣わし、ご自分のあの大きな、羊毛のような雲をいくつかかき回させたのである。雪はどっと降り、窓ガラスをがたがたと鳴らした。昔ながらのカナダの大吹雪が始まったのだ。
 
 The entire day was spent in prayer and at night on going to the depot to see about my train home, the ticket agent said, through the window:
 その日は一日じゅう祈って過ごした。夜、帰りの汽車のことを確かめに駅へ行くと、切符係が窓口から言った。
@@ -71,13 +71,13 @@ My Bible had told me "the kingdom of heaven suffereth violence, and the violent 
 私の聖書には、『天国は激しく襲われている。そして激しく襲う者たちがそれを奪い取っている』と書いてあった（マタイ一一・一二）。私は、パンを求めて戸をたたいた人のたとえを、もう一度読んだ。家の中の主人が起き上がって、必要なだけのパンを与えたのは、友人だからではなく、しきりに願ったからだった。そして今、イエスは私の友だった。イエスは私に門をたたくように命じ、開いてくださると請け合ってくださった。求めるようにと招き、受けると約束してくださった。飢えている者を、むなしく追い返しはしないと約束してくださった。私は必死になって求め始めた。そして、こう言ったのを覚えている。
 
 "Oh, Lord, I am so hungry for your Holy Spirit. You have told me that in the day when I seek with my whole heart you will be found of me. Now, Lord, I am going to stay right here until you pour out upon me the promise of the Holy Spirit for whom you commanded me to tarry, if I die of starvation. I am so hungry for Him I can't wait another day. I will not eat another meal until you baptize me."
-「ああ、主よ、私はあなたの聖霊に、こんなにも飢えています。私が一心に尋ね求めるその日に、あなたは私に会ってくださると言われました。主よ、私はここを動きません。あなたが待つようにと命じられた約束の聖霊を、私の上に注いでくださるまで、ここにいます。たとえ飢え死にしても、そうします。聖霊にこんなにも飢えているので、もう一日も待てません。あなたがバプテスマを授けてくださるまで、もう一度も食事をしません」
+「ああ、主よ、私はあなたの聖霊に、こんなにも飢えています。私が一心に尋ね求めるその日に、あなたは私に会ってくださると言われました。主よ、私はここを動きません。あなたが待つようにと命じられた約束の聖霊を、私の上に注いでくださるまで、ここにいます。たとえ飢え死にしても、そうします。聖霊にこんなにも飢えているので、もう一日も待てません。あなたがバプテスマを授けてくださるまで、もう一食も食べません」
 
 You ask if I was not afraid of getting a wrong spirit or being hypnotized, as my parents feared. There was no such fear in my heart. I trusted my heavenly Father implicity according to Luke 11:11, wherein He (assured me that if I asked for bread He would not give me a stone. I knew that my Lord was not bestowing serpents and scorpions on His blood-washed children when they asked for bread. Had He not said, if your earthly fathers know how to bestow good gifts upon their children, "how much more shall your heavenly Father give the Holy Spirit to them that ask Him?" Lu. 11:13.
-両親が恐れていたように、間違った霊を受けたり、催眠術にかけられたりするのが怖くなかったのか、とあなたは聞くだろう。私の心には、そんな恐れはなかった。私は、ルカによる福音書十一章十一節にあるとおり、天の父を心から信頼していた。そこで主は、私がパンを求めるなら石を与えはしない、と請け合ってくださった。主の血で洗われた子供たちがパンを求めるとき、主が蛇やさそりを与えられるはずはない。私はそれを知っていた。主は言われたではないか。地上の父親でさえ自分の子に良い贈り物をすることを知っているなら、『天の父はなおさら、求めて来る者に聖霊を下さらないことがあろうか』（ルカ一一・一三）。
+両親が恐れていたように、間違った霊を受けたり、催眠術にかけられたりするのが怖くなかったのか、とあなたは聞くだろう。私の心には、そんな恐れはなかった。私は、ルカによる福音書十一章十一節にあるとおり、天の父を心から信頼していた。そこで主は、私がパンを求めるなら石を与えはしない、と請け合ってくださった。主の血で洗われた子供たちがパンを求めるとき、主が蛇やさそりを与えられるはずはない。私はそれを知っていた。主は言われたではないか。地上の父親でさえ、自分の子に良い贈り物をすることを知っている。それなら、『天の父はなおさら、求めて来る者に聖霊を下さらないことがあろうか』（ルカ一一・一三）。
 
 After praying thus earnestly,--storming heaven, as it were, with my pleadings for the Holy Spirit, a quietness seemed to steal over me, the holy presence of the Lord to envelop me. The Voice of the Lord spoke tenderly:
-こうして熱心に祈った。いわば、聖霊を求める願いで天を攻め立てたのである。すると、静けさが私をそっと包むように思えた。主の聖なる臨在が私を包んだ。主の御声が、やさしく語られた。
+こうして熱心に祈った。いわば、聖霊を求める願いで天を攻め立てたのである。すると、静けさがそっと私に忍び寄り、主の聖なる臨在が私を包むように思えた。主の御声が、やさしく語られた。
 
 "Now, child, cease your strivings and your begging; just begin to praise Me, and in simple, childlike faith, receive ye the Holy Ghost."
 「さあ、子よ、あがくのも、せがむのもやめなさい。ただわたしを賛美し始めなさい。そして、素直な、幼子のような信仰で、聖霊を受けなさい」
@@ -92,14 +92,14 @@ All at once my hands and arms began to shake, gently at first, then violently, u
 突然、私の手と腕が震え始めた。初めは静かに、それから激しく震え、ついには全身が聖霊の力に打たれて震えていた。私はそれを少しも奇妙だとは思わなかった。学校の実験室で私たちが実験した電池が、電気の力でうなり、揺れ、震えたのを知っていたからである。そして今、三位一体の第三のかたが、満ちあふれるばかりに私のからだに入って来られ、私をご自分の住まい、『聖霊の宮』としておられたのだ。私のこの貧しい人間のからだが、その力の大いなる働きの下で震えたとしても、何の不思議があるだろうか。
 
 How happy I was, Oh how happy! happy just to feel His wonderful power taking control of my being. Oh Glory! That sacred hour is so sweet to me, the remembrance of its sacredness thrills me as I write.
-私はなんと幸せだったことか。ああ、なんと幸せだったことか！　主の驚くべき力が私のすべてを治めていくのを感じるだけで、幸せだった。ああ、栄光！　あの聖なるひとときは、私にとってこの上なく甘美である。こうして書いていても、その聖さを思い出すと胸が震える。
+私はなんと幸せだったことか。ああ、なんと幸せだったことか！　主の驚くべき力が私のすべてを治めていくのを感じるだけで、幸せだった。ああ、栄光あれ！　あの聖なるひとときは、私にとってこの上なく甘美である。こうして書いていても、その聖さを思い出すと胸が震える。
 
 Almost without my notice my body slipped gently to the floor, and I was lying stretched out under the power of God, but felt as though caught up and floating upon the billowy clouds of glory. Do not understand by this that I was unconscious of my surroundings, for I was not, but Jesus was more real and near than the things of earth round about me. The desire to praise and worship and adore Him flamed up within my soul. He was so wonderful, so glorious, and this poor tongue of mine so utterly incapable of finding words with which to praise Him.
 ほとんど気づかないうちに、私のからだは静かに床へすべり落ちた。私は神の力に打たれて、床に長々と横たわっていた。けれども、まるで引き上げられて、波打つ栄光の雲の上に浮かんでいるように感じた。これを、私がまわりのことに気づいていなかったという意味に取らないでいただきたい。気づいてはいた。けれども、イエスのほうが、まわりの地上のものより確かで、近かったのである。主を賛美し、拝し、あがめたいという願いが、私の魂のうちに燃え上がった。主はあまりにすばらしく、あまりに栄光に満ちておられた。そして私のこの貧しい舌は、主を賛美する言葉を見つけることがまったくできなかった。
 
 My longs began to fill and heave under the power as the Comforter came in. The cords of my throat began to twitch--my chin began to quiver, and then to shake violently, but Oh, so sweetly! My tongue began to move up and down and sideways in my mouth. Unintelligible sounds as of stammering lips and another tongue, spoken of in Isaiah 28:11, began to issue from my lips. This stammering of different syllables, then words, then connected sentences, was continued for some time as the Spirit was teaching me to yield to Him. Then suddenly, out of my innermost being flowed rivers of praise in other tongues as the Spirit gave utterance (Acts 2:4), and Oh I knew that He was praising Jesus with glorious language, clothing Him with honor and glory which I felt but never could have put into words.
 // 英文の `longs` は `lungs` の OCR の崩れ。イザヤ二八・一一は口語訳では「異国のくちびると、異国の舌」だが、英文は KJV の stammering lips によっているので、そのまま訳した。
-助け主が入って来られると、私の肺は、その力に打たれてふくらみ、波打ち始めた。のどの筋がぴくぴくと動き始めた。あごが小刻みに震え始め、それから激しく震えた。けれども、ああ、なんと甘美な震えだったことか！　舌が口の中で、上下に、左右に動き始めた。イザヤ書二十八章十一節に言われている、どもるくちびると異国の舌のような、わけのわからない音が、唇からもれ始めた。まず、いろいろな音節がどもるように出てきた。それから言葉が、それからつながった文が出てきた。これがしばらく続いた。御霊が私に、ご自分に身をゆだねることを教えておられたのである。それから突然、御霊が語らせるままに（使徒二・四）、私の内の奥底から、異言による賛美が川のように流れ出た。ああ、私にはわかった。御霊が栄光に満ちた言葉でイエスを賛美し、イエスに誉れと栄光をまとわせておられたのだ。それは私が感じてはいても、決して言葉にすることのできないものだった。
+助け主が入って来られると、私の肺は、その力に打たれてふくらみ、波打ち始めた。のどの筋がぴくぴくと動き始めた。あごが小刻みに震え始め、それから激しく震えた。けれども、ああ、なんと甘美な震えだったことか！　舌が口の中で、上下に、左右に動き始めた。イザヤ書二十八章十一節に言われている、どもる唇と異国の舌のような、わけのわからない音が、唇からもれ始めた。まず、いろいろな音節がどもるように出てきた。それから言葉が、それからつながった文が出てきた。これがしばらく続いた。御霊が私に、ご自分に身をゆだねることを教えておられたのである。それから突然、御霊が語らせるままに、私の内の奥底から、異言による賛美が川のように流れ出た（使徒二・四）。ああ、私にはわかった。御霊が栄光に満ちた言葉でイエスを賛美し、イエスに誉れと栄光をまとわせておられたのだ。それは私が感じてはいても、決して言葉にすることのできないものだった。
 
 How wonderful that I, even I, away down here in 1908, was speaking in an unknown tongue, just as the believers had in Bible days at Ephesus and at Caesarea, and that now He had come of whom Jesus had said--"He will glorify Me"
 なんとすばらしいことだろう。この私が、はるか後の一九〇八年に、知らない言葉で語っていたのだ。聖書の時代に、エペソやカイザリヤで信者たちが語ったのと同じように。そして今、イエスが『わたしに栄光を得させるであろう』と言われた、そのかたが来てくださったのだ。
@@ -114,7 +114,7 @@ I shouted and sang and laughed and talked in tongues until it seemed that I was 
 「催眠術だ」と、あなたは言うのか。もしそうなら、それは驚くほど長く、この上なく楽しい催眠術である。十一年も続いていて、私に心を尽くしてイエスを愛させ、イエスが現れる日を慕い求めさせているのだから。それに、部屋には私に催眠術をかける者はだれもいなかったことも、考えに入れていただきたい。救われたとき、私はたった一人だった。聖霊のバプテスマを受けたときも、たった一人だった。
 
 "Demon power"--"all of the devil," someone may say. If so the devil must have recently gotten soundly converted, for that which entered into my soul makes me to love and obey my. Lord and Savior Jesus Christ, to exalt the blood and honor the Holy Ghost.
-「悪霊の力だ」「何もかも悪魔から出たものだ」と言う人もいるかもしれない。もしそうなら、悪魔は最近、すっかり回心したにちがいない。私の魂に入って来たものは、私に、主であり救い主であるイエス・キリストを愛させ、主に従わせ、その血をあがめさせ、聖霊を敬わせるのだから。
+「悪霊の力だ」「何もかも悪魔から出たものだ」と言う人もいるかもしれない。もしそうなら、悪魔は最近、すっかり回心したにちがいない。私の魂に入って来たものは、私の主であり救い主であるイエス・キリストを私に愛させ、主に従わせ、その血をあがめさせ、聖霊を敬わせるのだから。
 
 "Excitement," you say? Never! It has stood the test too long, dear unbeliever. In sickness, in sorrow, even in the gates of death He has proved Himself to be the Comforter whom Jesus said He would send.
 「興奮だ」と、あなたは言うのか。とんでもない！　信じない友よ、それはあまりに長く試練に耐えてきた。病のときにも、悲しみのときにも、死の門においてさえ、聖霊は、イエスが遣わすと言われた助け主であることを示してくださった。
@@ -129,7 +129,7 @@ Walking down the street, I kept saying to myself:
 「さあ、王の御前で、くつを脱いだ足で、そっと注意深く歩まなくてはならない。このやさしく柔和な鳩を悲しませないように。この鳩は私の内に来て、私をご自分の宮とし、いつまでも私とともにいてくださるのだから」
 
 The next day was Sunday. The storm had cleared away; the sun was shining down in its melting warmth. Attending the morning services at the Mission, we partook of the Lord's Supper, and as we meditated upon His wonderful love, His blood that was shed for us, His body that was broken on the tree, it was more than I could bear, and I went down to the floor under the power again. Oh who can describe that exceeding weight of glory as He revealed Himself, my crucified Savior, my resurrected Lord, my coming King!
-次の日は日曜日だった。嵐はすっかりやみ、太陽が雪をとかすような暖かさで照っていた。伝道所の朝の礼拝に出て、私たちは主の晩餐にあずかった。主の驚くべき愛を、私たちのために流された主の血を、木の上で裂かれた主のからだを思いめぐらしていると、私はもう耐えられなくなった。そして、また神の力に打たれて床に倒れた。ああ、だれがあの重い栄光を言い表せるだろう。十字架につけられた私の救い主、よみがえられた私の主、やがて来られる私の王が、ご自身を現してくださったのだ！
+次の日は日曜日だった。嵐はすっかりやみ、太陽が雪をとかすような暖かさで照っていた。伝道所の朝の礼拝に出て、私たちは主の晩餐にあずかった。主の驚くべき愛を、私たちのために流された主の血を、木の上で裂かれた主のからだを思いめぐらしていると、私はもう耐えられなくなった。そして、また神の力に打たれて床に倒れた。ああ、だれがあのあふれるばかりの重い栄光を言い表せるだろう。十字架につけられた私の救い主、よみがえられた私の主、やがて来られる私の王が、ご自身を現してくださったのだ！
 
 School-mates and friends were standing up to look over the seats to see what in the world had happened to me, but I was lost again with Jesus whom my soul loved, speaking in tongues and shaking under the power.
 学校の友だちや知り合いが立ち上がり、座席越しにのぞき込んで、いったい私に何が起こったのかと見ていた。けれども私はまた、私の魂の愛するイエスとともに、われを忘れていた。異言で語り、神の力に打たれて震えていたのである。
@@ -190,10 +190,10 @@ Six o'clock arrived--so did Mother! 1 heard the jingle of the sleigh-bells sudde
 「お嬢さん、すぐに出てきて、今すぐこれに乗りなさい」と言い、たちまち私を小さなそりに押し込んだ。姉妹も兄弟も、何とか口をはさんで、母を説得し、説明しようとした。けれども母は耳を貸さず、私たちはあっというまに走り出していた。
 
 All the way home Mother scolded and cried and almost broke her heart over her daughter that had, as she supposed, been cast under some dire spell by those .awful people, who had now been nicknamed by the town, "The Holy Rollers." Oh, praise the Lord! No matter what the devil called them he had to admit that they were holy anyway, and that's more than he could have said of many professing denominations, now, isn't it?
-家に帰るまでずっと、母は私を叱り、泣き、娘のことで胸が張り裂けんばかりだった。母の考えでは、娘はあの恐ろしい人たちに、何か恐ろしい魔法をかけられてしまったのである。その人たちは、もう町の人々から「ホーリー・ローラー（聖なる転げ回り屋）」というあだ名をつけられていた。ああ、主をほめたたえよ！　悪魔が彼らを何と呼ぼうと、少なくとも彼らが「聖なる」者であることは、認めないわけにはいかなかったのだ。信仰を告白している多くの教派については、悪魔もそうは言えなかっただろう。そうではないか。
+家に帰るまでずっと、母は私を叱り、泣き、娘のことで胸が張り裂けんばかりだった。母の考えでは、娘はあのひどい人たちに、何か恐ろしい魔法をかけられてしまったのである。その人たちは、もう町の人々から「ホーリー・ローラー（聖なる転げ回り屋）」というあだ名をつけられていた。ああ、主をほめたたえよ！　悪魔が彼らを何と呼ぼうと、少なくとも彼らが「聖なる」者であることは、認めないわけにはいかなかったのだ。キリスト教を名乗る多くの教派については、悪魔もそうは言えなかっただろう。そうではないか。
 
 Being an only child, loved and petted, it needed only a word of scolding or remonstrance to bring the tears, but now, when she was scolding me more severely and saying more harsh things than she ever had in my life, for some mysterious reason I couldn't shed a tear. I felt duty bound to squeeze out a few tears, out of respect to her feelings, but I could not do it to help myself. All I could do was sing and sing and sing--all the way--
-私は一人っ子で、愛され、かわいがられて育った。だから、ひとこと叱られたり、いさめられたりしただけで、涙が出たものだった。ところが今、母はそれまでの私の生涯になかったほど厳しく叱り、きついことを言っていた。それなのに、なぜか不思議なことに、涙一つこぼれなかった。母の気持ちを思えば、少しは涙をしぼり出すのが務めだと感じた。けれども、どうしてもできなかった。私にできたのは、ただ歌って、歌って、歌うことだけだった。帰り道ずっと、歌っていた。
+私は一人っ子で、愛され、かわいがられて育った。だから、ひとこと叱られたり、いさめられたりしただけで、涙が出たものだった。ところが今、母はそれまでの私の生涯になかったほど厳しく叱り、きついことを言っていた。それなのに、どういうわけか、涙一つこぼれなかった。母の気持ちを思えば、少しは涙をしぼり出すのが務めだと感じた。けれども、どうしてもできなかった。私にできたのは、ただ歌って、歌って、歌うことだけだった。帰り道ずっと、歌っていた。
 
 "Joys are flowing like a river,
 「喜びは川のように流れる、<br/>
@@ -253,10 +253,10 @@ Oh, how can I describe the joy and the glory that had come within my soul? that 
 ああ、私の魂に来た喜びと栄光を、どう言い表せばよいだろう。あの深く落ち着いた平安。主が導き、手引きし、すべてを正しく成し遂げてくださるという確信。
 
 When next my Mother permitted me to go to school she told me of the decision which they had come to, namely, that if I went near those Pentecostal people once more they would take me away from school for good, education or no education. As she told me this the Holy Spirit gave me wisdom to make this reply:
-次に母が学校に行くのを許してくれたとき、母は両親で決めたことを私に告げた。もう一度でもあのペンテコステの人たちに近づいたら、教育があろうとなかろうと、学校を永久にやめさせる、というのである。母がそう告げたとき、聖霊は私に知恵を与えて、こう答えさせてくださった。
+次に母が学校に行くのを許してくれたとき、母は、父と二人で決めたことを私に告げた。もう一度でもあのペンテコステの人たちに近づいたら、教育がどうなろうと、学校を永久にやめさせる、というのである。母がそう告げたとき、聖霊は私に知恵を与えて、こう答えさせてくださった。
 
 "Mother, the Bible says that children are to obey their parents in the Lord, and if you can show me by the Word of God that what I have received is not in accordance with Bible teaching, or show me any place where we are told that the baptism of the Holy Spirit, with the Bible evidence, speaking in tongues, is not for today, I will never go to the Mission again." I staked my all on the Word.
-「お母さん、聖書には、子は主にあって両親に従いなさい、と書いてあるわ。だから、もしお母さんが神のみことばによって示してくれたら、もう二度と伝道所には行かない。私が受けたものが聖書の教えに合わないことを示してくれるか、聖霊のバプテスマとその聖書的なしるしである異言が今の時代のものではない、と書いてある所を一か所でも示してくれたら、そうするわ」私は、自分のすべてをみことばに賭けたのである。
+「お母さん、聖書には、子は主にあって両親に従いなさい、と書いてあるわ。だから、私が受けたものが聖書の教えに合わないことを、神のみことばで示してくれたら、もう二度と伝道所には行かない。聖霊のバプテスマと、その聖書的なしるしである異言が今の時代のものではない、と書いてある所を一か所でも示してくれても、同じよ」私は、自分のすべてをみことばに賭けたのである。
 
 "Why certainly I can prove it to you," she replied. "Those things were only for the Apostolic days. I will look up the scriptures and prove it to you when you get home tonight."
 「ええ、もちろん証明してみせるわ」と母は答えた。「ああいうことは、使徒の時代だけのものだったのよ。聖句を調べて、今夜あなたが帰ってきたら証明してあげる」
@@ -290,7 +290,7 @@ With shining face she replied--
 「ええ、あなた、認めないわけにはいかないわ。本当に、これこそ預言者ヨエルが預言していたこと、終わりの時に起こると言われていたことなのね！」
 
 She had found that, away back in Isaiah 28:11, He had said--"With stammering lips and another tongue will I speak to this people"--that the prophet Joel had clearly prophesied that in these last days there should be a wonderful outpouring of the Holy Spirit, likened unto the latter rain, wherein the sons and daughters, the servants and the maids were alike to rejoice in this glorious downpour.
-母は見つけていたのだ。はるか昔のイザヤ書二十八章十一節で、主は「どもるくちびると異国の舌とをもって、わたしはこの民に語る」と言われていた。また預言者ヨエルは、この終わりの時に、後の雨にたとえられる聖霊の驚くべき注ぎがあると、はっきり預言していた。そのときには、むすこも娘も、しもべもはしためも、ともにこの栄光の大雨を喜ぶのである。
+母は見つけていたのだ。はるか昔のイザヤ書二十八章十一節で、主は「どもる唇と異国の舌とをもって、わたしはこの民に語る」と言われていた。また預言者ヨエルは、この終わりの時に、後の雨にたとえられる聖霊の驚くべき注ぎがあると、はっきり預言していた。そのときには、むすこも娘も、しもべもはしためも、ともにこの栄光の大雨を喜ぶのである。
 
 With one spring across," the room, I threw my arms about my Mother's neck, squeezing her till she declared I had almost, broken her neck. How happy we were as we danced around the table--laughing, crying and singing together--
 私はひと跳びで部屋を横切り、母の首に両腕を投げかけた。あまりきつく抱きしめたので、首の骨が折れるかと思ったと、母が言ったほどだった。私たちは食卓のまわりを踊り回った。いっしょに笑い、泣き、歌った。なんと幸せだったことか。
