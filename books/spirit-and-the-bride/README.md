@@ -12,7 +12,7 @@
 + [x] Chapter I. The Spirit--A Person
 + [x] Chapter II. Symbols of the Spirit
 + [x] Chapter III. The Seven Spirits of God
-+ [ ] Chapter IV. The Manifestation of the Spirit (1)
++ [x] Chapter IV. The Manifestation of the Spirit (1)
 + [ ] Chapter IV. The Manifestation of the Spirit (2)
 + [ ] Chapter V. Objections Answered (1)
 + [ ] Chapter V. Objections Answered (2)
