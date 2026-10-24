@@ -72,7 +72,7 @@ We found a strong company of fine saints at this place. I preached thirty-five t
 The meetings began in a home, but they opened a mission before we left. At times I had much soul travail. Often God broke through until I could not preach. We had powerful altar services.
 集会はある家で始まったが、私たちが去る前に、彼らはミッションを開いた。ときには、ひどい魂の産みの苦しみがあった。しばしば神が突き抜けて来られ、私は説教できなくなった。祭壇の前での祈りは力強かった。
 The saints were hungry for teaching. I suffered much from neuralgia at Spokane. Brother Boehmer left us here, to visit his brother, and unite with us east again.
-聖徒たちは教えに飢え渇いていた。スポーケンで、私は神経痛にひどく苦しんだ。ベーマー兄弟は、自分の兄弟を訪ねるために、ここで私たちと別れた。東部で再び合流するためである。
+聖徒たちは教えに飢え渇いていた。スポーケンで、私は神経痛にひどく苦しんだ。ベーマー兄弟は、自分の兄弟を訪ねるために、ここで私たちと別れた。東部で再び合流するつもりだった。
 Besides our living expenses they gave us one hundred dollars. We needed a lot of money to make our next connection, so we did not have any too much. The love of the saints in Spokane for us was very deep.
 彼らは私たちの生活費のほかに、100ドルをくれた。次の行き先へ乗り継ぐには多くのお金が要ったので、それでも決して多すぎはしなかった。スポーケンの聖徒たちの私たちへの愛は、とても深かった。
 
@@ -96,7 +96,7 @@ Little John was taken with convulsions and the devil tried to kill him. The sain
 // 英文の good Time は、Time の頭が大文字になっている。
 幼いジョンがひきつけを起こし、悪魔が彼を殺そうとした。聖徒たちは、負うべきほどには重荷を負っていなかった。彼らがそこにいたのは、楽しい時を過ごし、祝福を受けるためという面が強すぎた。
 I preached one afternoon under a very heavy anointing. Just as we sat down at the supper table and were about to eat, the Spirit suddenly fell upon us.
-ある午後、私はたいへん重い油注ぎのもとで説教した。私たちが夕食の食卓について、食べようとしたちょうどそのとき、御霊が突然私たちの上に下った。
+ある午後、私はたいへん強い油注ぎのもとで説教した。私たちが夕食の食卓について、食べようとしたちょうどそのとき、御霊が突然私たちの上に下った。
 We had a table with "all things common." The Lord seemed to desire to show His pleasure at this condition. The fire ran through the whole camp in a powerful way.
 私たちの食卓は、「いっさいの物を共有に」する食卓だった。主は、このありさまを喜んでおられることを示そうとされたようだった。火が、力強く野営地全体を走った。
 The supper remained untasted for an hour. Many went down under the power. It was a deluge. I preached again that night.
@@ -109,7 +109,7 @@ Many received the "baptism," numbers were saved, and quite a few healed. The sup
 多くの人が「バプテスマ」を受け、大勢が救われ、かなりの人がいやされた。何よりも人々の思いを占めていたのは、イエスがまもなく来られること、そしてそれに備えて世界に福音を伝えることだった。
 
 I was getting very tired in body and mind. At Grand Rapids the devil had seemed to take possession of the very children where we were staying, for my benefit.
-私は、からだも心も、ひどく疲れてきていた。グランド・ラピッズでは、悪魔が、私たちの泊まっていた家の子供たちにまで取りついたようだった。私に向けてのことである。
+私は、からだも心も、ひどく疲れてきていた。グランド・ラピッズでは、悪魔が、私たちの泊まっていた家の子供たちにまで取りついたようだった。私をねらってのことである。
 They would tear around the house until midnight, without a cause, simply to wear me out. I was so tired I could hardly live.
 子供たちは、わけもなく真夜中まで家じゅうを駆け回った。ただ私を疲れ果てさせるためだった。私は、生きているのもやっとというほど疲れていた。
 At Toledo the enemy would catch the thoughts out of my mind while I was preaching before I could express them. I was under especial illumination of the Spirit at this place, capturing new territory from the devil.
@@ -118,7 +118,7 @@ One can always tell in preaching when they have gotten onto new territory, not b
 説教していて、まだ取り戻されたことのない新しい領土に入ったときは、いつもそれとわかるものである。そこでは必ず敵が見つかり、たいてい激しく襲いかかって来る。
 
 We stopped at Pittsburg next, at the Christian Missionary Alliance, with Brother Whitesides. Here I preached four times, and wrote five articles for the "Way of Faith." I preached three times also at Braddock. The saints gave me forty dollars.
-次に私たちはピッツバーグのキリスト者宣教同盟に、ホワイトサイズ兄弟のもとに立ち寄った。ここでは四回説教し、『ウェイ・オブ・フェイス』に記事を五つ書いた。ブラドックでも三回説教した。聖徒たちは私に40ドルをくれた。
+次に私たちは、ピッツバーグのキリスト者宣教同盟のホワイトサイズ兄弟のもとに立ち寄った。ここでは四回説教し、『ウェイ・オブ・フェイス』に記事を五つ書いた。ブラドックでも三回説教した。聖徒たちは私に40ドルをくれた。
 We went on to Philadelphia and I left my family with my parents at Michener, Penn., not far from there. Brother Boehmer had rejoined us at Alliance, Ohio, and was now with me again.
 私たちはフィラデルフィアへ進み、私は、そこから遠くないペンシルベニア州ミッチェナーの両親のもとに家族を預けた。ベーマー兄弟は、オハイオ州アライアンスで私たちに再び合流し、今また私と一緒にいた。
 We went together to Rochester, N. Y., stopping at Elim Home. Here I preached four times.
@@ -153,7 +153,7 @@ The Lord had given me a premonition of conditions in Toronto before I reached th
 The Lord would give me the message for the place and prepare me to meet the particular conditions and need. He put the quiet spirit on me for Toronto. There was too much "flesh" there.
 主は、その場所のためのメッセージを与え、そこの特別な状況と必要に向き合えるように私を備えてくださった。トロントのために、主は私に静かな霊を置かれた。そこには「肉」が多すぎたのである。
 The first two or three days He would not even allow me to look around town to note the differences between English and American customs, though they were many.
-最初の二、三日は、町を見て回ることさえ許されなかった。イギリスとアメリカの習慣の違いは多かったが、それを見てとることも許されなかったのだ。
+最初の二、三日は、町を見て回って、イギリスとアメリカの習慣の違いを見てとることさえ許されなかった。違いは多かったのだが。
 He did not want my spirit taken up with earthly surroundings. It was a close ministry. Later I was allowed to look around a little.
 主は、私の霊が地上の周りのものに奪われることを望まれなかった。それは張りつめた務めだった。のちに、少し見て回ることを許された。
 The "fleshly" ones largely dropped out at the first message. They could not live in such an atmosphere.
@@ -162,7 +162,7 @@ The "fleshly" ones largely dropped out at the first message. They could not live
 We next stopped at Potter Brook, Penn. I spoke three nights there, but it was haying time and hard to get the farmers out. We went on to Elkland, near by. Here we had a great battle.
 次に私たちは、ペンシルベニア州ポッター・ブルックに立ち寄った。そこで三晩語ったが、干し草の刈り入れの時期で、農夫たちを集会に出て来させるのは難しかった。私たちは、近くのエルクランドへ進んだ。ここでは大きな戦いがあった。
 A child had a whining demon, and a dog seemed possessed with barking. This disturbed the meetings greatly. I spoke four times at the latter place and many received help and blessing.
-ある子供には、めそめそ泣く悪霊がついていた。一匹の犬は、ほえる霊に取りつかれているようだった。これが集会をひどく乱した。私はエルクランドで四回語り、多くの人が助けと祝福を受けた。
+ある子供には、めそめそ泣く悪霊がついていた。一匹の犬は、何かに取りつかれたようにほえ続けた。これが集会をひどく乱した。私はエルクランドで四回語り、多くの人が助けと祝福を受けた。
 We rode twelve miles with a hired livery wagon to catch the early morning train on the main line, and reached Michener, where my family were staying, that evening.
 私たちは、本線の早朝の汽車に乗るために、貸し馬車で十二マイル走った。そして、その夜、家族が滞在していたミッチェナーに着いた。
 
@@ -197,7 +197,7 @@ I record the above with humility and shame, and only pray that I may become at l
 I wrote myself at this time, in brief, concerning the situation at Falcon camp, as follows:
 私自身も、このとき、ファルコンの野営集会の様子について、次のように手短に書いた。
 "The Spirit impressed me while at Toronto that dear Brother Sawders would not be able to get to Falcon, and made known His desire for me to go. So I went without further call, just in obedience to Him.
-「トロントにいたとき、御霊は、愛するソーダーズ兄弟がファルコンに来られないだろうと、私に強く感じさせられた。そして、私が行くことを望んでおられると知らせてくださった。それで私は、ほかに招きを待たず、ただ御霊に従って行ったのである。
+「トロントにいたとき、御霊は、愛するソーダーズ兄弟がファルコンに来られないだろうと、私に強く感じさせてくださった。そして、私が行くことを望んでおられると知らせてくださった。それで私は、ほかに招きを待たず、ただ御霊に従って行ったのである。
 We are getting our calls that way these days, and God is also seeking to release us from the responsibility of choosing the workers ourselves.
 このごろ私たちは、そのようにして召しを受けている。そして神は、働き人を自分たちで選ぶという責任から、私たちを解き放とうとしておられる。
 Dear Brother Culbreth was kind and patient, both toward friend and foe, in a most marked degree. Evidently God knows his man. An able heart of love is a most capable thing.
@@ -206,7 +206,7 @@ Dear Brother Floyd Taylor reminded me of the little brown bird to whom God has g
 愛するフロイド・テーラー兄弟を見ると、私は小さな茶色の鳥を思い出した。神はその鳥に美しい羽は与えられなかったが、そのかわりに、このうえなく美しい歌で報いられたのである。神は確かに、ご自分の栄光のために、苦しみの中にある見本をいくつか残しておかれるのだ。
 Mephibosheth was also 'lame in both his feet,' but he 'ate at the king's table,' and dwelt in Jerusalem.' (Brother Taylor was a cripple.) God bless these humble southern brethren. They have been an inspiration and an example to me," - F. Bartleman, in "Way of Faith."
 // 英文の dwelt in Jerusalem.' の引用符は、対になる開きの引用符がない。
-メピボセテもまた『両足ともに、なえていた』が、『王の食卓で食事をし』、エルサレムに住んだ（テーラー兄弟は足が不自由だった）。神がこれらのへりくだった南部の兄弟たちを祝福してくださるように。彼らは私にとって、励ましであり、模範であった」（F・バートルマン、『ウェイ・オブ・フェイス』）。
+メピボセテもまた『両足ともに、なえていた』。しかし彼は『王の食卓で食事をし』、エルサレムに住んだ（テーラー兄弟は足が不自由だった）。神がこれらのへりくだった南部の兄弟たちを祝福してくださるように。彼らは私にとって、励ましであり、模範であった」（F・バートルマン、『ウェイ・オブ・フェイス』）。
 
 Brother Pike, editor of the "Way of Faith," wrote regarding the Falcon camp meeting:
 『ウェイ・オブ・フェイス』の編集者パイク兄弟は、ファルコンの野営集会について、こう書いた。
@@ -217,12 +217,12 @@ Brother Pike, editor of the "Way of Faith," wrote regarding the Falcon camp meet
 We have rarely heard more unctious preaching than that of Brother King on Sunday night, and Brother Bartleman on Monday morning." - J. M. Pike.
 日曜日の夜のキング兄弟の説教と、月曜日の朝のバートルマン兄弟の説教は、油注ぎに満ちていた。これ以上の説教を、私たちはめったに聞いたことがない」（J・M・パイク）。
 I sincerely appreciated the kind words of Brother Pike on this occasion. We generally get enough of the other kind to keep us humble, but I really feared the brethren had overestimated me.
-このときのパイク兄弟の親切な言葉を、私は心からありがたく思った。私たちは、たいてい、へりくだっていられるのに十分なほど、反対の言葉を受けている。しかし私は、兄弟たちが私を買いかぶっているのではないかと、本当に恐れた。
+このときのパイク兄弟の親切な言葉を、私は心からありがたく思った。私たちは、たいてい、へりくだっていられるのに十分なほど、その逆の言葉を受けている。しかし私は、兄弟たちが私を買いかぶっているのではないかと、本当に恐れた。
 I only prayed I might not prove too great a disappointment to them. They had at least set a goal for me to strive for.
 私はただ、彼らをあまりがっかりさせることにならないようにと祈った。少なくとも彼らは、私が努めて目ざすべき目標を立ててくれたのである。
 
 We came back to Washington, D. C., where I spoke four times with much blessing. We stopped in the home of Mother Perry. A precious sister was restored in these meetings. We stopped at Baltimore, where I also preached four times.
-私たちはワシントンD.C.に戻り、そこで四回語って、大いに祝福された。マザー・ペリーの家に泊まった。これらの集会で、ある尊い姉妹が回復した。ボルティモアにも立ち寄り、そこでも四回説教した。
+私たちはワシントンD.C.に戻り、そこで四回語って、大いに祝福された。マザー・ペリーの家に泊まった。これらの集会で、ある尊い姉妹が信仰に立ち返った。ボルティモアにも立ち寄り、そこでも四回説教した。
 Brother Boehmer seldom spoke in public. He had a wonderful ministry in prayer, and traveled with me for that purpose. His ministry was a hidden one.
 ベーマー兄弟は、人前で語ることはめったになかった。彼にはすばらしい祈りの務めがあり、そのために私と一緒に旅をしていたのだ。彼の務めは隠れたものだった。
 But I am satisfied it had much to do with the victory in our meetings. God may perhaps reward him even more than myself, though I did practically all of the preaching.
@@ -243,7 +243,7 @@ We next stopped at Springfield, Mass. Here I spoke three times, at the Christian
 Brother Cullen was the pastor. He had been a missionary in South America, and spoke Spanish fluently.
 牧師はカレン兄弟だった。彼は南アメリカで宣教師をしていたことがあり、スペイン語を流暢に話した。
 The Alliance later sent him to Portland, Oregon, to fill the place of Brother Sawtelle, whom they had removed to Texas. Brother Cullen was later drowned at Portland. He was a good man and his end seemed very pitiful.
-同盟はのちに、ソーテル兄弟をテキサスへ移し、そのあとを埋めるためにカレン兄弟をオレゴン州ポートランドへ遣わした。カレン兄弟は、のちにポートランドで溺れて死んだ。よい人だったので、その最期はとても痛ましく思えた。
+同盟はのちに、ソーテル兄弟をテキサスへ移し、そのあとを埋めるためにカレン兄弟をオレゴン州ポートランドへ遣わした。カレン兄弟は、のちにポートランドで溺れて死んだ。よい人だった。その最期はとても痛ましく思えた。
 
 Boehmer and I returned to Peekskill for a few days' rest, and then went west to Grand Rapids, Mich., to attend a prayer convention. Riding all night through Canada we reached Grand Rapids safely.
 ベーマーと私は、数日休むためにピークスキルへ戻った。それから祈りの大会に出るために、西のミシガン州グランド・ラピッズへ行った。一晩じゅうカナダを汽車で走り抜け、無事にグランド・ラピッズに着いた。
@@ -256,7 +256,7 @@ I tried to run from it, and called up the railroad station to find out when the 
 While waiting my eyes fell on a Scripture motto just over the phone. It read: "My times are in Thy hand." The Spirit smote me with conviction.
 待っているあいだに、電話のすぐ上に掛けてある聖句の額が目にとまった。そこには、『わたしの時はあなたのみ手にあります』と書かれていた。御霊は、私に罪を示して打たれた。
 I had not felt clear in leaving, but was under strong temptation. We stayed and fought the battle out. God gave us victory. But I received no offering from this meeting.
-私は、去ることについて確信が持てずにいたのに、強い誘惑の下にあったのだ。私たちはとどまって、戦いを最後まで戦った。神は私たちに勝利を与えてくださった。しかし、この集会からは献金を受けなかった。
+去ってよいという確信は、私にはなかった。ただ、強い誘惑の下にあったのだ。私たちはとどまって、戦いを最後まで戦った。神は私たちに勝利を与えてくださった。しかし、この集会からは献金を受けなかった。
 
 We next went to Indianapolis. Here Boehmer bought himself a watch. At the same time he bought one for me, for a present. I was needing one. Thus the Lord rewarded me for my faithful stand at Grand Rapids.
 次に私たちはインディアナポリスへ行った。ここでベーマーは自分の時計を買った。同時に、私への贈り物として、もう一つ買ってくれた。私には時計が必要だったのだ。こうして主は、グランド・ラピッズで私が忠実に立ったことに報いてくださった。
