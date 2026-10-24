@@ -22,7 +22,7 @@
 + [x] Chapter VI. Wood's Chapel, Ind. / Chapter VII. Visions / Chapter VIII. God's Power
 + [x] Chapter IX. "By My Spirit, Saith the Lord"--Zech. IV, 6. / Chapter X. Wonderful Displays of Power
 + [x] Chapter XI. Many Conversions and Trances
-+ [ ] Chapter XII. "I Will Work and Who Shall Hinder?" / Chapter XIII. Camp Meetings and Thousands Attend
++ [x] Chapter XII. "I Will Work and Who Shall Hinder?" / Chapter XIII. Camp Meetings and Thousands Attend
 + [ ] Chapter XIV. The Harvest Is Great / Chapter XV. An Earthquake at Anderson / Chapter XVI. A Hard Place: Muncie, Indiana
 + [ ] Chapter XVII. At Anderson, Ind. and Hannibal, Mo. / Chapter XVIII. At Springfield, Illinois
 + [ ] Chapter XIX. A Great Fight / Chapter XX. "My Counsel Shall Stand"--(Isiah XLVI, 10.)
