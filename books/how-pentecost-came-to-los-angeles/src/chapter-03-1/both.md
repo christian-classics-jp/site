@@ -14,9 +14,9 @@ We had been praying for many months for victory. Jesus was now "showing himself 
 私たちは何か月ものあいだ、勝利を求めて祈ってきた。今やイエスは再び、多くの人に「ご自分の生きていることを示して」おられた。先駆けの人々が突破口を開き、大勢がそれに続けるようになったのだ。
 
 There was a general spirit of humility manifested in the meeting. They were taken up with God. Evidently the Lord had found the little company at last, outside as always, through whom he could have right of way.
-集会には、へりくだりの霊が全体に現れていた。人々は神に心を奪われていた。主はついに、ご自分の思うままに働くことのできる小さな群れを見いだされたのだ。それはいつものように、教会の外にいる群れだった。
+集会には、へりくだりの霊が全体に現れていた。人々は神に心を奪われていた。明らかに、主はついに、ご自分の思うままに働くことのできる小さな群れを見いだされたのだ。それはいつものように、教会の外にいる群れだった。
 There was not a mission in the country where this could be done. All were in the hands of men. The Spirit could not work. Others far more pretentious had failed.
-この国には、それができるミッションは一つもなかった。どこもみな人の手に握られていた。御霊は働くことがおできにならなかった。はるかに見栄えのするほかの所は、失敗していた。
+この国には、それができるミッションは一つもなかった。どこもみな人の手に握られていた。御霊は働くことがおできにならなかった。はるかに大きなことを標榜していたほかの所は、失敗していた。
 That which man esteems had been passed by once more and the Spirit born again in a humble "stable," outside ecclesiastical establishments as usual.
 人が重んじるものは、またしても素通りされた。そして御霊は、いつものように既成の教会の外で、粗末な「馬小屋」の中に再び生まれたのだ。
 
@@ -36,7 +36,7 @@ Among those thousands of cathedrals and parish churches with which the world is 
 世界には何千もの大聖堂や教区教会が満ちている。しかしそのころ、その中で、神が永遠のいのちの栄光ある説教のために選ばれたものは一つもなかった」。
 
 In the revival in Wales the great expounders of England had to come and sit at the feet of crude, hard working miners, and see the wonderful works of God.
-ウェールズのリバイバルでは、イングランドの偉大な聖書講解者たちが、やって来なければならなかった。そして、粗野で働き者の炭坑夫たちの足もとに座り、神の驚くべきみわざを見たのだ。
+ウェールズのリバイバルでは、イングランドの偉大な聖書講解者たちが、やって来て、粗野で働き者の炭坑夫たちの足もとに座らなければならなかった。そして、神の驚くべきみわざを見たのだ。
 I wrote for the "Way of Faith" at this time: "The real thing is appearing among us. The Almighty will again measure swords with Pharaoh's magicians.
 このころ、私は『ウェイ・オブ・フェイス』にこう書いた。「本物が私たちのあいだに現れつつある。全能者は再び、パロの魔術師たちと剣を交えられるだろう。
 But many will reject Him and blaspheme. Many will fail to recognize Him, even among His professed followers. We have been praying and believing for a 'Pentecost,' Will we receive it when it comes?
@@ -48,7 +48,7 @@ The present Pentecostal manifestation did not break out in a moment, like a huge
 There is a necessary time for preparation. The finished article is not realized at the beginning. Men may wonder where it came from, not being conscious of the preparation, but there is always such.
 どうしても備えの時が要る。完成したものが初めから実現するのではない。人々は備えに気づかないので、それがどこから来たのかといぶかるかもしれない。しかし、備えは必ずあるのだ。
 Every movement of the Spirit of God must also run the gauntlet of the devil's forces. The Dragon stands before the bearing mother, ready to swallow up her child. - (Rev. 12:4.)
-また、神の御霊のどの運動も、悪魔の軍勢の攻撃をくぐり抜けなければならない。龍は、子を産もうとしている女の前に立ち、その子を食い尽そうとかまえている（黙示録一二・四）。
+また、神の御霊のどの運動も、悪魔の軍勢の攻撃をくぐり抜けなければならない。龍は、子を産もうとしている女の前に立ち、その子を食い尽くそうとかまえている（黙示録一二・四）。
 And so with the present Pentecostal work in its beginning. The enemy did much counterfeiting. God kept the young child well hid for a season from the Herods, until it could gain strength and discernment to resist them.
 今のペンテコステの働きも、その始まりにおいてはそうだった。敵は多くの偽物を作った。神は幼な子を、しばらくのあいだヘロデたちからよく隠しておかれた。幼な子が、彼らに立ち向かう力と見分ける力とを得るまでである。
 The flame was guarded jealously by the hand of the Lord, from the winds of criticism jealousy, unbelief, etc. It went through about the same experiences that all revivals have, its foes were both inside and out.
@@ -70,7 +70,7 @@ Another writer says: "Remember with what accompaniments of extravagance and fana
 The wonder was, not that Luther had the courage to face pope and cardinals, but that he had courage to endure the contempt which his own doctrines brought upon him, as espoused and paraded by fanatical advocates.
 驚くべきは、ルターが教皇や枢機卿たちに立ち向かう勇気を持っていたことではない。彼の教えは、熱狂的な支持者たちに担ぎ上げられ、見せびらかされた。そのために彼が受けたさげすみに耐える勇気を持っていたことこそ、驚くべきなのだ。
 Recall the scandal and offense which attended the revival of heart piety under Wesley. What we denounce as error may be "the refraction of some great truth below the horizon."
-ウェスレーのもとで心の敬虔がよみがえったとき、それにつきまとった醜聞とつまずきを思い起こしてほしい。私たちが誤りとして非難するものは、『地平線の下にある何か大きな真理の屈折』なのかもしれない」。
+ウェスレーのもとで心の敬虔がよみがえったとき、それにつきまとった醜聞とつまずきを思い起こしてほしい。私たちが誤りとして非難するものは、『地平線の下にある何か大きな真理が、屈折して見えているもの』なのかもしれない」。
 // 英文は内側の引用符も " で、外側の閉じの引用符がない。ここで両方を閉じた。
 
 John Wesley himself once prayed, after the revival had about died out for the time: "Oh, Lord, send us the old revival, without the defects; but if this cannot be, send it - with all its defects. We must have the revival."
@@ -98,7 +98,7 @@ An utter recklessness concerning men's opinions and other consequences is the on
 Sunday, April 15, the Lord called me to ten days of special prayer. I felt greatly burdened but had no idea of what He had particularly in mind. But He had a work for me, and wanted to prepare me for it.
 4月15日の日曜日、主は私を、十日間の特別な祈りに召された。私は大きな重荷を感じたが、主がとくに何を考えておられるのか、まったくわからなかった。しかし主は、私のためにある働きを用意しておられ、私をそれに備えさせようとしておられたのだ。
 Wednesday, April 18, the terrible San Francisco earthquake came, which also devastated the surrounding cities and country. No less than ten thousand lost their lives in San Francisco alone.
-4月18日の水曜日、あの恐ろしいサンフランシスコ地震が起こった。周りの町々や田園も荒れ果てた。サンフランシスコだけでも、一万人を下らない人がいのちを失った。
+4月18日の水曜日、あの恐ろしいサンフランシスコ地震が起こった。周りの町々や田園も壊滅的な被害を受けた。サンフランシスコだけでも、一万人を下らない人がいのちを失った。
 I felt a deep conviction that the Lord was answering our prayers for a revival in His own way. "When Thy judgments are in the earth, the inhabitants of the world learn righteousness." - Isa. 26:9.
 主はご自分のやり方で、リバイバルを求める私たちの祈りに答えておられるのだと、私は深く確信した。『あなたのさばきが地に行われるとき、世に住む者は正義を学ぶ』（イザヤ二六・九）。
 A tremendous burden of prayer came upon me that the people might not be indifferent to His voice.
@@ -135,7 +135,7 @@ The priests were "alive unto God," through much preparation and prayer. Discernm
 The combined forces of hell were set determinedly against us in the beginning. It was not all blessing. In fact the fight was terrific.
 初めのころ、地獄の連合軍が、断固として私たちに立ち向かってきた。祝福ばかりではなかった。実際、戦いはすさまじかった。
 The devil scraped the country for crooked spirits, as always, to destroy the work if possible. But the fire could not be smothered.
-悪魔はいつものように、できればこの働きを滅ぼそうと、国じゅうからねじけた霊をかき集めた。しかし、火は消されなかった。
+悪魔はいつものように、できればこの働きを滅ぼそうと、国じゅうからねじけた霊をかき集めた。しかし、火を消すことはできなかった。
 Strong saints were gathered together to the help of the Lord. Gradually the tide arose in victory. But from a small beginning, a very little flame.
 力のある聖徒たちが、主を助けるために集められた。潮はしだいに満ちて、勝利に至った。しかし、それは小さな始まり、ごく小さな炎からだったのだ。
 
@@ -201,7 +201,7 @@ He showed me all hell was being moved to drown out His voice in the earthquake, 
 Men had been denying His presence in the earthquake. Now He would speak. It was a terrific message He had given me.
 人々は、地震の中に主がおられることを否定していた。今こそ主が語られるのだ。主が私に与えてくださったのは、すさまじいメッセージだった。
 I was to argue the question with no man, but simply give them the message. They would answer to Him. I felt all hell against me in this, and so it proved.
-私はこの問題について、だれとも議論せず、ただメッセージを渡すことになっていた。人々は主に対して答えることになるのだ。このことで地獄全体が私に逆らっているのを感じたが、はたしてそのとおりになった。
+私はこの問題について、だれとも議論せず、ただメッセージを渡すことになっていた。人々は主の前で申し開きをすることになるのだ。このことで地獄全体が私に逆らっているのを感じたが、はたしてそのとおりになった。
 I went to bed at 4 o'clock, arose at 7, and hurried with the message to the printer.
 私は4時に床につき、7時に起きて、メッセージを持って印刷屋へ急いだ。
 
@@ -213,7 +213,7 @@ I was impressed I must hasten and get them to the people as quickly as possible.
 私は、急いでできるだけ早く人々に届けなければならないと示された。そして、主に召された十日間の祈りが、ちょうど最初のトラクトを受け取った日に満ちたことに気づいた。今や、すべてがはっきりとわかった。
 
 The enemy tried to hinder, by smashing a part of the type in the press. I had warned the printer of this. But it was set up again so that I lost no time through it.
-敵は、印刷機の中の活字の一部をつぶして、妨げようとした。私は前もって、このことに気をつけるよう印刷屋に言っておいた。そして組み直されたので、それで時間を失うことはなかった。
+敵は、印刷機の中の活字の一部をつぶして、妨げようとした。私は前もって、このことに気をつけるよう印刷屋に言っておいた。しかし組み直されたので、時間を失うことはなかった。
 I distributed the message speedily in the missions, churches, saloons, business houses, and in fact everywhere, both in Los Angeles and Pasadena. Besides I mailed thousands to workers in nearby towns for distribution.
 私は、ロサンゼルスでもパサデナでも、ミッション、教会、酒場、商店など、じつにあらゆる所で、すばやくメッセージを配った。そのうえ、近くの町々の働き人に配ってもらうため、何千部も郵送した。
 The whole undertaking was a work of faith. I began without a dollar. But He supplied the money, as needed. I worked hard every day.
@@ -223,7 +223,7 @@ Brother and Sister Otterman distributed them in San Diego. It required courage. 
 All hell was stirred. A man followed me on the street raving like a maniac. He followed me into a business house, to do me violence. But the Lord protected.
 地獄全体がかき立てられた。ある男は、狂ったようにわめきながら、通りで私の後をつけて来た。私に乱暴しようと、商店の中までついて来た。しかし主が守ってくださった。
 He then tore my tract up publicly at the curb, to show his hate. Many threw the message down in a rage, only to pick it up again and read it. It seemed God held them to it.
-すると男は、憎しみを見せつけようと、歩道の縁で人前で私のトラクトを引き裂いた。多くの人が怒ってメッセージを投げ捨てたが、結局また拾い上げて読んだ。神が彼らをそれにつなぎとめておられるかのようだった。
+すると男は、憎しみを見せつけようと、人目もはばからず、歩道の縁で私のトラクトを引き裂いた。多くの人が怒ってメッセージを投げ捨てたが、結局また拾い上げて読んだ。神が彼らをそれにつなぎとめておられるかのようだった。
 The saddest part was the fact that nearly all the preachers worked with the enemy in the matter. But I was only giving them the Word of God, on earthquakes.
 いちばん悲しかったのは、この件で、説教者のほとんどみなが敵に手を貸したことである。しかし私は、地震についての神のみことばを、ただ人々に渡していたにすぎなかった。
 
@@ -291,7 +291,7 @@ The San Francisco earthquake was surely the voice of God to the people on the Pa
 In the early "Azusa" days both Heaven and hell seemed to have come to town. Men were at the breaking point. Conviction was mightily on the people.
 「アズサ」の初めのころ、天も地獄もこの町にやって来たかのようだった。人々は限界に達していた。罪の自覚が、人々の上に力強く臨んでいた。
 They would fly to pieces even on the street, almost without provocation. A very "dead line" seemed to be drawn around "Azusa Mission," by the Spirit. When men came within two or three blocks of the place they were seized with conviction.
-人々は、これといったきっかけもないのに、通りでさえ取り乱して崩れ落ちた。御霊によって、「アズサ・ミッション」の周りに、まさに「死線」が引かれているかのようだった。その場所から二、三ブロック以内に近づくと、人々は罪の自覚に捕らえられた。
+人々は、ほとんど何のきっかけもないのに、通りでさえ取り乱して崩れ落ちた。御霊によって、「アズサ・ミッション」の周りに、まさに「死線」が引かれているかのようだった。その場所から二、三ブロック以内に近づくと、人々は罪の自覚に捕らえられた。
 I took a run to San Diego and preached twice a day for Brother and Sister Otterman, The Lord blessed my ministry, and the change was a blessing, after the tremendous strain I had been under.
 私はサンディエゴへひとっ走りして、オッターマン兄弟夫妻のもとで一日に二回説教した。主は私の奉仕を祝福してくださった。それまでのすさまじい緊張のあとで、場所が変わったことも恵みだった。
 I had asked the Lord for my fare if He wanted me to go, and He gave it. It was now June. Returning home I distributed tracts at the Free Methodist camp meeting. I asked the Lord for ten dollars, and he gave me twenty.
@@ -330,10 +330,10 @@ The Spirit was very sensitive, tender as a dove. The Holy Spirit is symbolized a
 We seemed to live in a sea of pure divine love. The Lord fought our battles for us in those days. We committed ourselves to His judgment fully in all matters, never seeking to even defend the work or ourselves.
 私たちは、純粋な神の愛の海の中に生きているかのようだった。そのころは、主が私たちに代わって戦ってくださった。私たちは、あらゆることで主のさばきに自分をすっかりゆだね、働きや自分を弁護しようとさえしなかった。
 We lived in His wonderful, immediate presence. And nothing contrary to His pure Spirit was allowed there.
-私たちは、主のすばらしい臨在のすぐ前に生きていた。そこでは、主の清い御霊に反するものは何一つ許されなかった。
+私たちは、主のすばらしい臨在の中に、じかに生きていた。そこでは、主の清い御霊に反するものは何一つ許されなかった。
 
 The false was sifted out from the real by the Spirit of God. The Word of God itself decided absolutely all issues. The hearts of the people, both in act and motive, were searched to the very bottom.
-偽物は、神の御霊によって本物からふるい分けられた。神のみことばそのものが、あらゆる問題を最終的に決めた。人々の心は、行いも動機も、底の底まで探られた。
+偽物は、神の御霊によって本物からふるい分けられた。神のみことばそのものが、あらゆる問題を、例外なく決めた。人々の心は、行いも動機も、底の底まで探られた。
 It was no joke to become one of that company. No man "durst join himself to them" except he meant business, to go through.
 その群れの一人になるのは、冗談ごとではなかった。最後までやり抜く本気の覚悟がなければ、だれひとり「その交わりに入ろうとは」しなかった。
 It meant a dying out and cleaning up process in those days, to receive the ''baptism." We had a "tarrying" room upstairs, for those especially seeking God for the "baptism," though many got it in the main assembly room also.
@@ -360,6 +360,6 @@ Their master and leader had just passed, so to speak, through the 'hangman's rop
 Their Calvary was complete, and so a complete Pentecost came to match it. The latter will resemble the former in completeness.
 彼らのカルバリは完全だった。それで、それにふさわしい完全なペンテコステが来たのである。後者は、その完全さにおいて前者に似るのだ。
 We may, therefore, each of us say to ourselves: As thy cross, so will thy Pentecost be. God's way to Pentecost was via Calvary. Individually it must be so today also.
-ゆえに私たちはめいめい、自分にこう言ってよい。あなたの十字架がそうであるように、あなたのペンテコステもそうなる、と。ペンテコステへの神の道は、カルバリを経ていた。今日も、一人一人にとってそうでなければならない。
+ゆえに私たちはめいめい、自分にこう言ってよい。あなたのペンテコステは、あなたの十字架のとおりになる、と。ペンテコステへの神の道は、カルバリを経ていた。今日も、一人一人にとってそうでなければならない。
 The purity and fullness of the individual Pentecost must depend upon the completeness of the individual Calvary. This is an unalterable principle."
 一人一人のペンテコステの純粋さと満ちあふれは、一人一人のカルバリの完全さにかかっている。これは変えることのできない原則である」。
