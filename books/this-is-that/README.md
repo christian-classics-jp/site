@@ -21,7 +21,7 @@
 + [x] Chapter IX. The Death of My Husband
 + [x] Chapter X. Nineveh to Tarshish--and Return
 + [x] Chapter XI. Getting Back
-+ [ ] Chapter XII. Revival Fires Fall
++ [x] Chapter XII. Revival Fires Fall
 + [ ] Chapter XIII. Called to Dwell in Tents
 + [ ] Chapter XIV. The Bridal Call
 + [ ] Chapter XV. Eastern Summer Tent Campaign, 1917
