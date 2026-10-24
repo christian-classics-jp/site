@@ -10,12 +10,12 @@ I commenced meeting there about the first of January, 1885, in the Methodist Chu
 The first night it was not known we would be there to commence that evening.
 最初の夜、私たちがその晩に来て集会を始めることは、知らされていなかった。
 They rang the bell and the people came from every direction and filled the church to overflowing.
-人々が鐘を鳴らすと、四方から人が来て、教会はあふれるほどいっぱいになった。
+鐘が鳴らされると、四方から人々が来て、教会はあふれるほどいっぱいになった。
 
 The church was cold and formal, and many of the best citizens had drifted into skepticism.
 教会は冷えきって形式的になり、町の最も良い市民の多くが懐疑に流されていた。
 I knew that it would take a wonderful display of God's power to convince the people, so I prayed for God to display his power, that the sinner might know that God still lives, and that there is a reality in religion, and might convict him of a terrible judgment.
-人々に悟らせるには、神の力が驚くほど現されなければならない、と私にはわかっていた。そこで私は、神が御力を現してくださるように祈った。罪人が、神は今も生きておられること、信仰はまことであることを知るように。そして神が、恐ろしいさばきについて罪人に罪を示してくださるように、と。
+人々に悟らせるには、神の力が驚くほど現されなければならない、と私にはわかっていた。そこで私は、神が御力を現してくださるように祈った。罪人が、神は今も生きておられること、信仰はまことであることを知るように。そして神が、恐ろしいさばきについて罪人の目を開いてくださるように、と。
 Five of the leading members of the church said they would unite with me in prayer for the Lord to pour out the power from on high, till the city would be shaken, and the country, for miles around.
 教会のおもだった会員の五人が、私と心を合わせて祈ると言った。主が上からの力を注いでくださり、町も、周囲何マイルもの地方も揺り動かされるように、と。
 We prayed that Christians and sinners might fall as dead men; that the slain of the Lord might be many.
@@ -59,7 +59,7 @@ They said they made no arrest; and that the power of God seemed to preserve the 
 A spirit of love rested all over the city.
 愛の霊が町じゅうにとどまった。
 There was no fighting, no swearing on the streets; that the people moved softly, and that there seemed to be a spirit of love and kindness among all classes, as if they felt they were in the presence of God.
-通りでは、けんかも、ののしる声もなかった。人々は静かに行き来し、あらゆる階層の人々のあいだに愛といつくしみの霊があるようだった、と警官たちは言った。まるで、だれもが神の御前にいると感じているかのようだった。
+通りでは、けんかも、ののしる声もなかった。人々は静かに行き来し、あらゆる階層の人々のあいだに愛と親切の霊があるようだった。まるで、だれもが神の御前にいると感じているかのようだった、と警官たちは言った。
 
 A merchant fell in a trance in his home and lay several hours.
 ある商人は、自分の家で入神状態に陥り、何時間も横たわっていた。
@@ -82,16 +82,16 @@ He rose to his feet, weeping, to tell the vision.
 God loosed his tongue.
 神は彼の舌を解かれた。
 Those present knew he had been dumb, and when he began to talk and tell his experience it had a wonderful effect on the church and sinners.
-その場にいた人々は、彼が口をきけなかったことを知っていた。だから、彼が話しはじめて自分の経験を語ると、教会にも罪人たちにも驚くほどの感化を与えた。
+その場にいた人々は、彼が口をきけなかったことを知っていた。だから、彼が話しはじめて自分の経験を語ると、そのことは教会にも罪人たちにも驚くほどの感化を与えた。
 
 One night there was a party seventeen miles from the city.
 ある夜、町から十七マイル離れた所でパーティーがあった。
 Some of the young ladies thought they would have some fun; they began to mimic and act out the trance.
-若い女たちの何人かが、おもしろがってやろうと思った。そして入神状態のまねをして、演じてみせはじめた。
+若い婦人たちの何人かが、ひとつ楽しんでやろうと思った。そして入神状態のまねをして、演じてみせはじめた。
 The Lord struck some of them down.
 主は、そのうちの何人かを打ち倒された。
 They lay there as if they had been shot.
-女たちは、撃たれたかのようにその場に横たわった。
+その婦人たちは、撃たれたかのようにその場に横たわった。
 Their fun-making was soon turned to a prayer-meeting, and cries of mercy were heard.
 ふざけ騒ぎはたちまち祈祷会に変わり、あわれみを求める叫びが聞こえた。
 The people came to the meetings in sleigh loads many miles.
@@ -108,7 +108,7 @@ Scoffers and mockers were stricken down in all parts of the house.
 あざける者、ばかにする者が、会堂のいたる所で打ち倒された。
 
 One man was mocking a woman of whose body God had taken control.
-ある男は、神にからだを支配されたひとりの女をまねてばかにしていた。
+ある男は、神がからだを支配しておられるひとりの女をまねてばかにしていた。
 She was preaching with gestures.
 その女は、身ぶりをしながら説教していた。
 When in that mocking attitude God struck him dumb.
@@ -129,7 +129,7 @@ All classes from the roughs and toughs to the tallest cedars and brightest talen
 We took the meeting to the opera house and it would not hold the crowds, so great was the awakening among the people.
 私たちは集会を劇場に移したが、そこにも群衆は入りきらなかった。それほど大きな目覚めが人々のあいだに起こっていたのである。
 Traveling salesmen arranged to return to the city each night.
-行商人たちは、毎晩この町に戻って来られるように予定を組んだ。
+旅回りの商人たちは、毎晩この町に戻って来られるように予定を組んだ。
 The Cincinnati Enquirer sent a reporter to write up the meetings and report daily.
 『シンシナティ・エンクワイアラー』紙は記者を送り、集会のことを書いて毎日報じさせた。
 Every day the newsboys could be heard crying out, "All about the Woodworth revival."
@@ -152,7 +152,7 @@ Sometimes scores would be converted while God would use me in this way.
 Mr. C. was the leading lawyer of the State.
 % C氏は州でも指折りの弁護士だった。
 He was a skeptic; had no use for churches.
-彼は懐疑論者で、教会には用がなかった。
+彼は懐疑論者で、教会など相手にしなかった。
 The ministers had given up all hopes of him ever being saved.
 牧師たちは、彼がいつか救われるという望みを、すっかり捨てていた。
 When he came and invited us to his house to make our home with them while in the city, people were astonished.
@@ -170,7 +170,7 @@ I told him more of my experience than I had ever told any one.
 While talking the power of God fell upon us all.
 話しているうちに、神の力が私たちみなの上に下った。
 I was almost blind with the glory of God.
-神の栄光のために、私はほとんど目が見えなくなった。
+神の栄光のまばゆさに、私はほとんど目が見えなくなった。
 My hands looked transparent.
 私の手は透き通って見えた。
 He broke down and began to weep.
@@ -193,7 +193,7 @@ They sent one dispatch after another, urging me to come.
 But God's ways are not our ways; he does not see as man sees.
 しかし、神の道は私たちの道とは異なり、神は人が見るようにはご覧にならない。
 God looks in the heart; man judges from outward appearances.
-神は心を見、人は外の顔かたちで判断する。
+神は心をご覧になり、人は外の顔かたちで判断する。
 The Lord showed me I must go to a little town fifteen miles away, called New Corner.
 十五マイル離れたニューコーナーという小さな町に行かなければならない、と主は私に示された。
 I rode in a sleigh.
@@ -207,7 +207,7 @@ The house and yard were crowded.
 I could hardly get through to the pulpit.
 説教壇までたどり着くのもやっとだった。
 I commenced singing, trusting God to take away the hoarseness and give me voice.
-私は、神が声のかれを取り去り、声を与えてくださると信じて、歌いはじめた。
+私は、神が声がれを取り去られ、声を与えてくださると信じて、歌いはじめた。
 In five minutes my voice was strong and clear.
 五分のうちに、私の声は力強く澄んだものになった。
 I sang in the strength and power of God.
@@ -273,7 +273,7 @@ These were crowded most all the time, day and night.
 その祭壇は、昼も夜もほとんどいつも人でいっぱいだった。
 
 Sometimes they were four double.
-ときには四重に並ぶほどだった。
+ときには人が四重に並ぶほどだった。
 Scores were saved who did not come to the altar.
 祭壇の前に出なかった人でも、何十人もが救われた。
 One night there were one hundred and fifteen converted.
@@ -311,7 +311,7 @@ He would have been glad if they could proved it was something else.
 これがほかの何かであると証明できたら、彼は喜んだことだろう。
 // 英文の could proved は原本のとおり。could have proved と読んだ。
 He came to investigate the trances but he was called to another part of the house; he went, expecting to find something new.
-彼は入神状態を調べに来たが、会堂の別の所に呼ばれた。何か新しいものが見つかると思って、彼はそこへ行った。
+彼は入神を調べに来たが、会堂の別の所に呼ばれた。何か新しいものが見つかると思って、彼はそこへ行った。
 To his surprise he found his son at the altar, and wanted his father to pray for him.
 驚いたことに、そこでは彼の息子が祭壇の前にいて、父親に祈ってほしいと願っていた。
 He could not pray.
@@ -337,7 +337,7 @@ Men and women were converted miles from the church.
 Many were struck down, and lay like dead men, on their way home, and miles away from the meeting.
 多くの人が、家に帰る途中で、また集会から何マイルも離れた所で打ち倒され、死人のように横たわった。
 Would to God the people could see that it is the mighty moving power of God we need to save the people, as on the day of Pentecost, when three thousand souls were saved.
-ああ、人々が悟ってくれたらよいのに。人々を救うために私たちに必要なのは、神の力強く働く力である。三千人が救われたペンテコステの日のように。
+ああ、人々が悟ってくれたらよいのに。人々を救うために私たちに必要なのは、力強く働く神の力である。三千人が救われたペンテコステの日のように。
 
 The closing scenes of this meeting were very affecting, and the meeting was one of unusual interest, being the last of the series.
 この集会の最後の場面は、たいへん心を打つものだった。一連の集会の最後だったので、この集会はとりわけ人々の関心を集めた。
@@ -347,17 +347,17 @@ Many bright testimonies were given by those who were converted.
 "No pen, save that of the recording angel, could describe the scenes enacted here to-night.
 「今夜ここでくり広げられた光景を描ける筆は、記録の御使の筆のほかにない。
 Almost the whole house was transformed into an altar, and cries of mercy from many scores were mingled with shouts of victory.
-会堂のほとんど全体が祭壇に変わり、何十人もがあわれみを求める叫びと、勝利の叫びとが入り混じった。
+会堂のほとんど全体が祭壇に変わり、あわれみを求める何十人もの叫びと、勝利の叫びとが入り混じった。
 No one can prophecy where this work will end.
 この働きがどこまで広がるかは、だれにも予言できない。
 Many superstitious persons stay away for fear of Mrs. W.'s power to overcome them.
-迷信深い人の多くは、W夫人の力に打ち負かされるのを恐れて、近づかずにいる。
+迷信深い人の多くは、W夫人の力に圧倒されるのを恐れて、近づかずにいる。
 Others refuse to shake her hand.
 夫人と握手するのを拒む人もいる。
 
 "She came to us, as she does to all her appointments, with the earnest and hearty recommendations of her former neighbors and friends.
-夫人は、以前の隣人や友人たちの熱心で心からの推薦を携えて、私たちのところへ来た。どの集会の地に行くときもそうである。
+「夫人は、以前の隣人や友人たちの熱心で心からの推薦を携えて、私たちのところへ来た。どこへ集会に行くときもそうである。
 Letters are now in our midst, and can be seen at any time, from prominent citizens, which sustain her as an energetic, whole-souled Christian lady.
 今ここには、名の知られた市民たちからの手紙があり、いつでも見ることができる。それらの手紙は、夫人が精力的で、心を尽くすクリスチャンの婦人であることを裏づけている。
 Whatever may be said of the trances, there is no denying the fact that her meetings are productive of great good, and that when the sheaves are finally bound for eternity many will bless the name of the evangelist."--Indianapolis Journal.
-入神状態について何と言われようと、夫人の集会が大きな善を生み出していることは否定できない。ついに永遠のために束が束ねられるとき、多くの人がこの伝道者の名をたたえるだろう」（『インディアナポリス・ジャーナル』紙）
+入神について何と言われようと、夫人の集会が大きな善を生み出していることは否定できない。ついに永遠のために束が束ねられるとき、多くの人がこの伝道者の名をたたえるだろう」（『インディアナポリス・ジャーナル』紙）
