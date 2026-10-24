@@ -7,7 +7,7 @@ CIRCLE VII. THE YEARS OF THE CATERPILLAR RESTORED.
 Just before the arrow began to ascend, and the work of Restoration began, we see the scene of ruin depicted by Joel in all its awfulness, in the first chapter of Joel, the meat offering and the drink offering cut off, the field wasted, the corn wasted, the new wine dried up, garner laid desolate, barns broken down, the beasts groan, the herds of cattle are perplexed, the sheep are made desolate, the rivers of water are dried up, and the fire has devoured the pastures of the wilderness.
 矢が上り始め、回復の働きが始まる直前には、ヨエル書の第一章にヨエルが描いた荒廃の光景が、その恐ろしさのままに見える。素祭と灌祭は絶え、畑は荒れ、穀物は荒れはて、新しい酒は尽き、倉は荒れ、穀倉はこわされる。家畜はうめき、牛の群れはさまよい、羊の群れも滅びうせる。水の流れはかれはて、火が荒野の牧草を焼き滅ぼしたのである（ヨエル一・九〜二〇）。
 Then one day amidst all this desolation God began to move, the treading of His footsteps was heard, and in Circle VII we see the roots of the tree again sinking deep into the earth, and Justification by Faith restored.
-そのとき、ある日、この荒廃のただ中で、神が動き始められた。神の足音が聞こえたのである。そして第七の円に、私たちは、木の根が再び地中に深く下ろされ、信仰による義認が回復されるのを見る。
+やがてある日、この荒廃のただ中で、神が動き始められた。神の足音が聞こえたのである。そして第七の円に、私たちは、木の根が再び地中に深く下ろされ、信仰による義認が回復されるのを見る。
 This is the way it all came about:
 それは、次のようにして起こった。
 
@@ -15,12 +15,12 @@ MARTIN LUTHER.
 ## マルティン・ルター
 
 Martin Luther one day was walking up the steps of the cathedral on his hands and knees over broken glass, endeavoring to do penance, thereby seeking to atone for his sins.
-ある日、マルティン・ルターは、割れたガラスの上を、両手とひざで大聖堂の階段を上っていた。苦行をして、それによって自分の罪を償おうとしていたのである。
+ある日、マルティン・ルターは、割れたガラスの散らばる大聖堂の階段を、両手とひざで上っていた。苦行をして、それによって自分の罪を償おうとしていたのである。
 As he was toiling painfully and laboriously up the steps in this manner, blood trickling from his hands and knees, cut by the broken glass, he heard a voice from heaven saying:
 こうして、割れたガラスで切れた手とひざから血をしたたらせ、苦しみながら骨を折って階段を上っていたとき、彼は天からこう告げる声を聞いた。
 
 "Martin Luther, the Just shall live by Faith."
-「マルティン・ルターよ、義人は信仰によって生きる」
+「マルティン・ルターよ、義人は信仰によって生きる（ローマ一・一七）」
 
 At the words, a great light fell from Heaven.
 その言葉とともに、天から大いなる光が下った。
@@ -46,14 +46,14 @@ You have read, perhaps, how Martin Luther and his followers were turned out of t
 As Martin Luther, Calvin, Knox, Fletcher and many other blessed children of the Lord, stood firm for the truths of salvation and a sinless life, they suffered all manner of persecution.
 マルティン・ルター、カルバン、ノックス、フレッチャー、そのほか多くの祝福された主の子供たちは、救いと罪のない生活という真理のために堅く立ったので、ありとあらゆる迫害を受けた。
 God's Word says, "They that will live Godly shall suffer persecution."
-神のみことばは、「信心深く生きようとする者は、みな、迫害を受ける」と言っている（第二テモテ三・一二）。
+神のみことばは、『信心深く生きようとする者は、みな、迫害を受ける』と言っている（第二テモテ三・一二）。
 (If you or your church profess to live Godly and yet never suffer persecution, if you have become popular and the shame and reproach of the cross is gone, there is something radically wrong somewhere, for those who live Godly still suffer persecution.)
 （もし、あなたやあなたの教会が、信心深く生きていると公言しながら、少しも迫害を受けないなら、もし人気者になって、十字架の恥とそしりがなくなっているなら、どこかに根本的な誤りがある。信心深く生きる者は、今も迫害を受けるからである。）
 
 As the noble tree again put down her roots of justification into the fertile soil--faith, as life again began to surge through the trunk and the limbs of the tree, every demon in Hell seemed to be raging and howling against those who saw and accepted the light of salvation.
 気高い木は、義認の根を、信仰という肥えた土に再び下ろした。いのちが再び木の幹と大枝にみなぎり始めた。すると、地獄のあらゆる悪霊が、救いの光を見て受け入れた人々に向かって、荒れ狂い、ほえたけっているかのようであった。
 Martyrs were burned at the stake, stoned to death, swung from public scaffolds, suffered the tortures of the inquisition, their eyes were put out with hot irons, they were beaten till great gashes were cut in their backs, salt was rubbed into the wounds and they were cast into the dark dungeons, still true and unflinching for Jesus.
-殉教者たちは、火あぶりにされ、石で打ち殺され、さらし台の絞首台につるされ、異端審問の拷問を受けた。焼けた鉄で目をつぶされた。背中に大きな裂け目ができるまで打たれ、その傷に塩をすり込まれ、暗い地下牢に投げ込まれた。それでも彼らは、イエスに忠実で、ひるまなかった。
+殉教者たちは、火あぶりにされ、石で打ち殺され、公衆の前で絞首台につるされ、異端審問の拷問を受けた。焼けた鉄で目をつぶされた。背中に大きな裂け目ができるまで打たれ、その傷に塩をすり込まれ、暗い地下牢に投げ込まれた。それでも彼らは、イエスに忠実で、ひるまなかった。
 They were tortured in unspeakable ways, beheaded, sent to the guillotine, the covenanters were driven from hill to hill and often had to hide themselves in caves in order to pray or sing the praises of the Lord, hunted and harassed at every turn.
 言葉にできない仕方で責めさいなまれ、首をはねられ、断頭台に送られた。盟約者たちは丘から丘へと追われ、行く先々で狩り立てられ、悩まされた。祈るにも、主への賛美を歌うにも、しばしば洞穴に身を隠さなければならなかった。
 
@@ -69,7 +69,7 @@ Fire cannot delay His progress.
 So line upon line, precept upon precept, here a little and there a little, the work of restoration has been going on.
 こうして、規則に規則、教訓に教訓、ここにも少し、そこにも少しと（イザヤ二八・一〇）、回復の働きは進んできた。
 Not only did the Lord restore the years the caterpillar had eaten but
-主は、滅ぼすいなごの食った年を回復されただけではなかった。続いて次のことが起こった。
+主は、滅ぼすいなごの食った年を回復されただけではなかった。
 
 CIRCLE VIII. THE YEARS OF THE CANKERWORM ARE RESTORED
 ## 第八の円　とびいなごの食った年が回復される
@@ -82,9 +82,9 @@ Nevertheless as the work of sifting and separation went on, God led His people f
 それでも、ふるい分けと分離の働きが進むにつれ、神はご自分の民を、さらに高いところへと導き出された。
 
 As one church grew cold, lost their first love, or fought higher truths, they lost out spiritually.
-ある教会が冷え、初めの愛から離れ（黙示録二・四）、あるいはさらに高い真理と戦うと、その教会は霊的に失った。
+ある教会が冷え、初めの愛から離れ（黙示録二・四）、あるいはさらに高い真理と戦うと、その教会は霊的に後退した。
 As soon as one creed would refuse to walk in the light, as given by the Lord, or begin to organize and set up man rule, the Lord simply stepped over their walls and left them to their forms and ceremonies, and took with Him the little "called out, out of a called out" flock.
-ある教派が、主から与えられた光のうちを歩むのを拒んだり、組織を作って人による支配を打ち立て始めたりすると、主はすぐに、ただその壁をまたいで出て行かれた。そして、彼らを形式と儀式のうちに置き去りにし、「召し出された者のうちから、さらに召し出された」小さな群れを連れて行かれたのである。
+ある教派が、主から与えられた光のうちを歩むのを拒んだり、組織を作って人による支配を打ち立て始めたりすることがあった。すると主はすぐに、ただその壁をまたいで出て行かれた。そして、彼らを形式と儀式のうちに置き去りにし、「召し出された者のうちから、さらに召し出された」小さな群れを連れて行かれたのである。
 In many instances the recording angel had to write upon the door of the fashionable churches:
 多くの場合、記録する御使は、はやりの教会の戸にこう書かなければならなかった。
 
@@ -147,7 +147,7 @@ All night prayer meetings, dancing before the Lord, and mighty power was manifes
 True to prophecy, while they lived this separated, holy life, they were persecuted and unpopular with the world.
 預言のとおり、彼らが世から分かたれたこの聖なる生活を送っていたあいだは、迫害を受け、世の人気がなかった。
 Then came the Holiness churches, wonderfully blessed of God, and the Lord moved in their midst in a mighty manner.
-次にホーリネス教会が起こった。神に豊かに祝福され、主はそのうちで力強く働かれた。
+次に、神に豊かに祝福されたホーリネス教会が起こった。主はそのうちで力強く働かれた。
 
 These dear people, many of them, thought that the Lord had now restored all He was going to restore to the Church, and believed that they had all the Lord had for them.
 この愛する人々の多くは、主が教会に回復しようとしておられたものを、もうすべて回復されたと思った。そして、主が自分たちのために備えておられるものを、すべて持っていると信じた。
@@ -180,7 +180,7 @@ Peter in quoting from the prophet Joel says:
 ペテロは預言者ヨエルの言葉を引いて、こう言っている。
 
 "In the last days, I will pour out my Spirit upon all flesh." Joel says that He who gave us the "former rain" moderately, will cause to come down for us the rain, both the former and the "Latter Rain" in the first month.
-『終りの時には、わたしの霊をすべての人に注ごう』（使徒二・一七）ヨエルは言う。私たちに「前の雨」をほどよく賜った方が、私たちのために雨を、すなわち前の雨と「後の雨」とを、一月に降らせてくださる、と（ヨエル二・二三）。
+『終りの時には、わたしの霊をすべての人に注ごう』（使徒二・一七）ヨエルは言う。私たちに「前の雨」をほどよく賜った方が、私たちのために雨を、すなわち前の雨と「後の雨」とを、初めの月に降らせてくださる、と（ヨエル二・二三）。
 
 LATTER RAIN.
 ## 後の雨
@@ -198,7 +198,7 @@ Over in Mukti, India, a missionary, Pandita Ramabai, was praying with a band of 
 They had spent days and nights in prayer, when suddenly the Spirit was poured out in their midst, as He had been on the day of Pentecost.
 彼女たちが幾日も幾夜も祈りを続けていたとき、突然、御霊が彼女たちのただ中に注がれた。ペンテコステの日に注がれたのと同じようにである。
 Visible fire is said to have been seen upon one girl's bed, and when the other girls went for water to extinguish the fire it was discovered that this was the fire of the Holy Spirit, such as Moses saw in the burning bush that was not consumed.
-ある少女の寝床の上に、目に見える火が見えたという。ほかの少女たちが火を消そうと水を汲みに行くと、それは聖霊の火であることがわかった。モーセが見た、燃えているのになくならないしばの火のようなものである（出エジプト三・二）。
+ある少女の寝床の上に、目に見える火が現れたという。ほかの少女たちが火を消そうと水を汲みに行くと、それは聖霊の火であることがわかった。モーセが見た、燃えているのになくならないしばの火のようなものである（出エジプト三・二）。
 These dear Hindoo girls who received the Holy Spirit spake with other tongues as the Spirit gave them utterance, when they received the Holy Spirit.
 聖霊を受けたこの愛するインドの少女たちは、聖霊を受けたとき、御霊が語らせるままに、他国の言葉で語った。
 One girl spoke in the English language (which she had never learned )9 and this is the message which was spoken through her:
@@ -206,7 +206,7 @@ One girl spoke in the English language (which she had never learned )9 and this 
 一人の少女は、英語で語った（彼女は一度も英語を学んだことがなかった）。彼女を通して語られたのは、次のメッセージであった。
 
 "Jesus is coming soon, get ready to meet Him." And the great revival spread on and on.
-「イエスはまもなく来られる。主に会う備えをしなさい」そして、この大いなる信仰復興は、どこまでも広がっていった。
+「イエスはまもなく来る。主に会う備えをせよ」そして、この大いなる信仰復興は、どこまでも広がっていった。
 Almost simultaneously the Spirit was poured out in our own United States of America, in England, in Canada, in Africa, upon missionaries in China, and in the islands of the sea.
 ほとんど同時に、御霊は、私たちのアメリカ合衆国に、イングランドに、カナダに、アフリカに、中国の宣教師たちの上に、また海の島々に注がれた。
 Never was such a world-wide revival known to spread so quickly and simultaneously.
@@ -233,7 +233,7 @@ LATTER RAIN TRUTHS FOUGHT.
 ## 攻撃される後の雨の真理
 
 Just as demons and men had fought the restoration of the years eaten by the caterpillar and cankerworm, so now they fought with renewed vigor the restoration of the years that had been eaten by the locust.
-悪霊と人は、滅ぼすいなごととびいなごの食った年が回復されることと戦ったが、今度は新たな勢いで、群がるいなごの食った年が回復されることと戦った。
+悪霊と人は、滅ぼすいなごととびいなごの食った年が回復されることと戦った。同じように今度は、群がるいなごの食った年が回復されることと、新たな勢いで戦った。
 Again history repeated itself, and the saints a step lower, unwilling to humble themselves, fought those who had gone a step higher, and many refused to walk in the light.
 またも歴史は繰り返した。一段低いところにいる聖徒たちは、へりくだろうとせず、一段高く進んだ人々と戦った。そして多くの人が、光のうちを歩むことを拒んだ。
 They failed to realize that God really meant what He said when He promised to restore "ALL" that had been lost.
@@ -250,15 +250,15 @@ All sorts of names were flung at them, and O the blindness of these dear prosecu
 They who themselves had been persecuted for the light of a few years previous, were now themselves persecuting those who were moving on into greater light.
 ほんの数年前に、自分たちが受けた光のために迫害されていた人々が、今度は自分たちが、さらに大いなる光へと進んで行く人々を迫害していたのである。
 Papers were printed to condemn the outpouring of the Spirit, great preachers mounted their platforms and denounced it, but they could no more stop God from restoring the Baptism of the Holy Spirit and pouring out the latter rain than the former persecutors had been able to stop the restoration of Salvation and Holiness unto the Lord.
-御霊の注ぎを非難する刷り物が印刷され、名高い説教者たちが演壇に上ってそれを糾弾した。けれども、神が聖霊のバプテスマを回復し、後の雨を注がれるのを、彼らが止められないことは、以前の迫害者たちが救いと主へのきよさの回復を止められなかったのと同じであった。
+御霊の注ぎを非難する刷り物が印刷され、名高い説教者たちが演壇に上ってそれを糾弾した。けれども、神が聖霊のバプテスマを回復され、後の雨を注がれるのを、彼らは止めることができなかった。以前の迫害者たちが、救いと主へのきよさの回復を止められなかったのと同じである。
 
 THOSE WHO FIGHT THE HOLY SPIRIT LOSE OUT.
-## 聖霊と戦う者は失う
+## 聖霊と戦う者は霊的に後退する
 
 Those who fought the Holy Spirit, barred their doors, or put up umbrellas of unbelief, began to dry up spiritually, immediately.
 聖霊と戦い、戸にかんぬきを掛け、不信仰の傘を広げた人々は、たちまち霊的に干からび始めた。
 Assemblies and churches who once were on fire for God, and preaching Holiness, without which no man shall see the Lord, the moment they rejected the Holy Spirit they began to lose their power.
-かつて神のために燃え、「それがなければ、だれも主を見ることはできない」きよさを宣べ伝えていた集会や教会も（ヘブル一二・一四）、聖霊を拒んだとたんに、力を失い始めた。
+かつて神のために燃え、きよさを宣べ伝えていた集会や教会があった。「それがなければ、だれも主を見ることはできない」きよさである（ヘブル一二・一四）。その集会や教会も、聖霊を拒んだとたんに、力を失い始めた。
 O why could they not see that this latter rain outpouring of the Spirit was just what they needed and had been pining for!
 ああ、後の雨としてのこの御霊の注ぎこそ、自分たちに必要なもの、自分たちが待ち焦がれてきたものだということが、なぜ彼らにはわからなかったのだろう！
 Why could they not just have humbled themselves and let the Spirit, who had been "with them" now come "in" them, making them the Temple of the Holy Ghost?
@@ -282,7 +282,7 @@ Thus, in Circle IX on the chart, I saw in my vision the leaves which had been ea
 Just as many in Circle 7 and 8 had believed that when the Lord had restored full Salvation and Holiness they had all there was for them, so now many who had received the baptism of the Spirit believed that they had all the Lord had for them.
 第七と第八の円で、多くの人が、主が完全な救いときよさを回復されたとき、自分たちのためのものはすべて手にしたと信じた。それと同じように、今、御霊のバプテスマを受けた多くの人が、主が自分たちのために備えておられるものを、すべて持っていると信じた。
 They conscientiously believed that once they had been filled with the Spirit and had spoken with other tongues, they really had all the Lord had for them, and stopped seeking for more.
-彼らは、いったん御霊に満たされて他国の言葉で語ったからには、主が自分たちのために備えておられるものを本当にすべて持っているのだと、まじめに信じた。そして、それ以上を求めるのをやめてしまった。
+彼らはまじめに信じた。いったん御霊に満たされて他国の言葉で語ったからには、主が自分たちのために備えておられるものを本当にすべて持っているのだ、と。そして、それ以上を求めるのをやめてしまった。
 
 This, however, had not been all the church had lost, and was therefore not all that was to be restored.
 けれども、これは教会が失ったもののすべてではなかった。だから、回復されるもののすべてでもなかったのである。
@@ -291,27 +291,27 @@ CIRCLE X. THE YEARS OF THE PALMER WORM RESTORED.
 ## 第十の円　かみ食らういなごの食った年が回復される
 
 Just as the Father bestowed the gift of His only Son Jesus to the world, and just as Jesus bestows the gift of the Holy Spirit, the promise of the Father upon the believer, so now in turn, the Holy Spirit has gifts to bestow upon those who receive Him.
-父がひとり子イエスという賜物を世に授けられたように、またイエスが、父の約束である聖霊という賜物を信じる者に授けてくださるように、今度は聖霊が、ご自分を受ける者に授ける賜物を持っておられる。
+父は、ひとり子イエスという賜物を世に授けられた。イエスは、父の約束である聖霊という賜物を、信じる者に授けてくださる。それと同じように、今度は聖霊が、ご自分を受ける者に授ける賜物を持っておられる。
 The nine gifts and fruits of the Spirit seen in Circle one are again being restored to the tree.
 第一の円に見える御霊の九つの賜物と実が、今、再び木に回復されつつある。
 Many blessed children of the Lord stop short at salvation and consecration and fail to receive the Holy Spirit, also many who have received the Holy Spirit stop short and fail to covet earnestly the best gifts.
-祝福された主の子供たちの多くは、救いと献身のところで止まってしまい、聖霊を受けずにいる。また、聖霊を受けた人の多くも、そこで止まってしまい、更に大いなる賜物を熱心に求めずにいる。
+祝福された主の子供たちの多くは、救いと献身のところで止まってしまい、聖霊を受けずにいる。また、聖霊を受けた人の多くも、そこで止まってしまい、さらに大いなる賜物を熱心に求めずにいる。
 
 In seeking more of God's will to be wrought in our lives, after having received the Holy Spirit, do not ask for more of the Holy Spirit, because if you have received Him you have received all of Him.
-聖霊を受けた後、神のみこころがもっと自分の生活のうちに行われるよう求めるとき、もっと多くの聖霊をくださいと願ってはならない。聖霊を受けたのなら、聖霊のすべてを受けたのだからである。
+聖霊を受けたあと、神のみこころがもっと自分の生活のうちに行われるよう求めるとき、もっと多くの聖霊をくださいと願ってはならない。聖霊を受けたのなら、聖霊のすべてを受けているからである。
 He is not divisible.
 聖霊は分けられる方ではない。
 Either you have, or have not received the Holy Spirit.
 あなたは聖霊を受けたか、受けていないか、どちらかである。
 Therefore if He has come in and taken up His abode and spoken through you with other tongues, as in Acts 2:4, pray that you may be more yielded to the Spirit who dwells within.
-だから、聖霊が入って来て住まいを定め、使徒行伝二章四節のように、あなたを通して他国の言葉で語られたのなら、内に住んでおられる御霊に、もっと身をゆだねることができるように祈りなさい。
+だから、聖霊が入って来られ、住まいを定められて、使徒行伝二章四節のように、あなたを通して他国の言葉で語られたのなら、内に住んでおられる御霊に、もっと身をゆだねることができるように祈りなさい。
 
 Some one says "O do not seek the gifts, seek the giver." But, beloved, if you have received the Spirit you have received the giver, and Paul says:
 ある人は言う。「ああ、賜物を求めてはいけない。与え主を求めなさい」けれども、愛するみなさん、御霊を受けたのなら、あなたは与え主を受けたのである。そして、パウロはこう言っている。
 
 "Covet earnestly the best gifts. Seek that you may excel to the edifying of the church. Let him who speaketh in an unknown tongue pray that he way interpret, that the church may be edified; covet to prophesy " etc.
 // 英文の he way は OCR の誤り（he may）。
-「更に大いなる賜物を得ようと熱心に努めなさい。教会の徳を高めるために、それを豊かにいただくように励みなさい。異言を語る者は、教会の徳が高められるように、自分でそれを解くことができるように祈りなさい。預言することを熱心に求めなさい」など（第一コリント一二・三一、一四・一二〜一三、三九）。
+「更に大いなる賜物を得ようと熱心に努めなさい。教会の徳を高めるために、それを豊かにいただくように励みなさい。異言を語る者は、教会の徳が高められるように、自分でそれを解くことができるように祈りなさい。預言することを熱心に求めなさい」など（第一コリント一二・三一、一四・五、一二〜一三、三九）。
 There is a real genuine gift of prophecy even though the enemy has tried to imitate it.
 敵がそれをまねようとしてきたとしても、本当の、本物の預言の賜物はある。
 Discerning of spirits is needed; gifts of healing, etc., should be in our midst.
@@ -341,13 +341,13 @@ O let us wake up and press on to perfection.
 The winter is over and gone, the spring with its former rain has passed, the summer is passing, and the latter rain has long been falling.
 冬は過ぎ去り（雅歌二・一一）、前の雨の降る春も過ぎた。夏も過ぎようとしており、後の雨はもう長く降り続いている。
 The harvest is at hand and the Master is searching for ripened, developed fruit.
-刈入れは近く、主人は、熟して育ちきった実を探しておられる。
+刈入れは近く、主は、熟して育ちきった実を探しておられる。
 Praise God for the roots and trunk of salvation.
 救いという根と幹のゆえに、神をほめたたえよ。
 Praise God for the firm, strong limbs and branches of holiness and consecration.
 きよさと献身という、堅く強い大枝と枝のゆえに、神をほめたたえよ。
 Praise God for the green leaves, for the Holy Spirit, but the Master demands fruit from His tree these last days before His coming.
-緑の葉のゆえに、聖霊のゆえに、神をほめたたえよ。けれども、来臨の前のこの終わりの日々に、主人はご自分の木に実を求めておられる。
+緑の葉のゆえに、聖霊のゆえに、神をほめたたえよ。けれども、来臨の前のこの終わりの日々に、主はご自分の木に実を求めておられる。
 Not green, immature fruit, but perfect fruit.
 青い、未熟な実ではなく、完全な実である。
 He is whispering just now:
@@ -377,7 +377,7 @@ Let us beware that we quench not the Spirit.
 Watch that we do not fall into the same snare which other people formerly used of God have fallen into; snares of formality, of coldness and organization, building walls about ourselves and failing to recognize the other members of our body (for by one Spirit are we all baptized into ONE BODY).
 かつて神に用いられたほかの人々が陥ったのと同じわなに陥らないように、気をつけよう。それは、形式主義のわな、冷たさと組織のわなである。自分の周りに壁を築き、自分のからだのほかの肢体を認めないことである（私たちは皆、一つの御霊によってバプテスマを受け、一つのからだとなったのだから）。
 If ever we put up walls and fall into these snares of formality God will step over our walls and choose another people as surely as He did in days of yore.
-もし私たちが壁を築き、こうした形式主義のわなに陥るなら、神は、昔そうされたのと同じように確かに、私たちの壁をまたいで出て行き、別の民を選ばれるであろう。
+もし私たちが壁を築き、こうした形式主義のわなに陥るなら、神は、昔そうされたのと同じように確かに、私たちの壁をまたいで出て行かれ、別の民を選ばれるであろう。
 He will not give His glory to another, but will take the foolish to confound the mighty, the weak to confound the strong.
 神はご自分の栄光をほかの者に与えることはされない（イザヤ四二・八）。愚かな者を選んで力ある者をはずかしめ、弱い者を選んで強い者をはずかしめられるのである（第一コリント一・二七）。
 
