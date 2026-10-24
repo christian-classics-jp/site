@@ -27,7 +27,7 @@ When a preacher is out of the Spirit the devil can get him to do the most fool t
 説教者が御霊から外れていると、悪魔は、集会がうまくいかないように、このうえなくばかげたことを彼にさせることができる。神はそこで働きを深め、その説教者を静まらせようとしておられた。しかし、それがおできにならなかった。
 
 Perhaps the most distressing experience I ever had with a preacher in the "flesh" was at a convention just outside of New York City. A representative company of saints were there from many points. It was in the early Pentecostal days.
-「肉」にある説教者とのことで、私が味わったもっともつらい経験がある。たぶん、ニューヨーク市のすぐ外で開かれた大会でのことだろう。そこには、各地を代表する聖徒たちの群れが集まっていた。ペンテコステの初めのころのことである。
+「肉」にある説教者とのことで私が味わった中で、たぶんもっともつらかったのは、ニューヨーク市のすぐ外で開かれた大会での経験である。そこには、各地を代表する聖徒たちの群れが集まっていた。ペンテコステの初めのころのことである。
 This preacher was determined to preach, though I was burning up with the message.
 私の内にはメッセージが燃えていたのに、この説教者は、どうしても自分が説教すると言ってきかなかった。
 He wore the people out with a blackboard demonstration of mere statistics, long drawn out, while the saints groaned and waited for the message from the Lord. It was too late when he quit. Most of the people had to go early.
@@ -49,7 +49,7 @@ It is hard for preachers to get the 'baptism." They must die to so much self-abi
 They may lose their position, support, reputation, etc. But God has always something better for us. We will have nothing left but God when the Spirit is through with us.
 彼らは、地位や生活の支えや評判などを失うかもしれない。しかし神は、いつも私たちのために、もっとよいものを持っておられる。御霊が私たちを取り扱い終えられたとき、私たちには神のほかに何も残らないだろう。
 But most of us cannot trust Him, so we go on our own way, follow our own calling.
-しかし私たちの大部分は、神を信頼することができない。それで、自分の道を行き、自分の仕事に励むのである。
+しかし私たちの大部分は、神を信頼することができない。それで、自分の道を行き、自分で選んだ務めに就くのである。
 To he a real servant of God, obey. His orders implicitly, with no plans of our own, is a path few care to tread. It comes too high.
 // 英文の To he と obey. His は、To be と obey His の誤り。
 本当の神の僕となり、自分の計画を持たずに神の命令にひたすら従うこと。その道を歩もうとする人は少ない。代価が高すぎるのである。
@@ -118,7 +118,7 @@ It was time for the people to have this lesson. In those days I would rather hav
 人々がこの教訓を学ぶべき時だったのだ。そのころ私は、人々の前に出て説教するよりも、森へ行って祈っていたいと思うことが幾度もあった。
 I was tired of the adulations of the people, preferring to get away from them, and alone with the Lord. Some of them were very much tried with me, for they had no message that after noon. But God knew his business.
 // 英文の after noon は afternoon の誤り。
-私は人々のへつらいにうんざりしていて、彼らから離れ、主と二人きりでいるほうを好んだ。その午後にはメッセージがなかったので、人々の中には、私にひどく腹を立てた人もいた。しかし神は、ご自分のなさることをよくご存じだった。
+私は人々にもてはやされることにうんざりしていて、彼らから離れ、主と二人きりでいるほうを好んだ。その午後にはメッセージがなかったので、人々の中には、私にひどく腹を立てた人もいた。しかし神は、ご自分のなさることをよくご存じだった。
 
 I asked the Lord to give me fifteen dollars from this convention, and the leader without knowing a thing about this, handed me just fifteen dollars in a sealed envelope, before I left. It was a small, poor mission.
 私はこの大会から15ドルを与えてくださるようにと主に求めた。すると指導者は、そのことを何一つ知らないのに、私が発つ前に、封をした封筒に入れたちょうど15ドルを手渡してくれた。そこは小さな貧しいミッションだった。
@@ -142,7 +142,7 @@ Brother Pike handed me forty dollars when we left Columbia. That helped to clear
 In fact I have never written for any paper for pay. I could no more do so than preach for salary. We take what God gives us.
 実際、私は報酬のためにどんな新聞にも書いたことがない。給料のために説教することができないのと同じように、そういうことはできなかった。私たちは、神が与えてくださるものを受けるのである。
 I have written as many as 550 articles for the religious press, with not more than a half dozen failing to get in print, but have yet to write a single one for pay. My labor has been one of love. "Freely ye have received, freely give."
-私は宗教関係の新聞や雑誌に、550もの記事を書いてきた。そのうち活字にならなかったのは、せいぜい五つか六つにすぎない。しかし、報酬のために書いたものは一つもない。私の労苦は、愛の労苦だった。『ただで受けたのだから、ただで与えるがよい』。
+私は宗教関係の新聞や雑誌に、五百五十もの記事を書いてきた。そのうち活字にならなかったのは、せいぜい五つか六つにすぎない。しかし、報酬のために書いたものは一つもない。私の労苦は、愛の労苦だった。『ただで受けたのだから、ただで与えるがよい』。
 
 Brother Pike, editor of the "Way of Faith," wrote as follows regarding the meetings we held with him:
 『ウェイ・オブ・フェイス』の編集者パイク兄弟は、私たちが彼のもとで開いた集会について、次のように書いた。
@@ -160,9 +160,9 @@ Brother Pike wrote again, so complimentarily of my visit to Columbia, that I alm
 The prayers that have been bottled up in Heaven, and the seed that has been sown in our midst, are sure to produce marked results in the future.
 天にたくわえられた祈りと、私たちのあいだにまかれた種とは、これから必ず、目に見える実を結ぶだろう。
 Brother Bartleman's quiet ways, and his insistence upon quiet, prayerful waiting upon God, will find ready acceptance only among those who are accustomed to intimate fellowship with the Deity, and who know the blessedness of stillness.
-バートルマン兄弟は振る舞いが静かで、静かに祈りながら神を待ち望むことを強く求める。それは、すぐには受け入れられないだろう。それを受け入れるのは、神との親しい交わりに慣れ、静けさの幸いを知っている人々だけである。
+バートルマン兄弟は振る舞いが静かで、静かに祈りながら神を待ち望むことを強く求める。それをすぐに受け入れるのは、神との親しい交わりに慣れ、静けさの幸いを知っている人々だけだろう。
 We are fully persuaded that God has some remarkable manifestation of His presence and power in store for this institution if He is permitted to have His own way, and much of it will be due to the intercession and influence of this devoted brother, who leaves blessings wherever he goes.
-神は、もしご自分の思うままになさることを許されるなら、この施設のために、ご自分の臨在と力のきわだった現れを用意しておられる。私たちはそう確信している。そして、その多くは、行く先々に祝福を残していくこの献身的な兄弟のとりなしと感化によるだろう。
+神は、この施設のために、ご自分の臨在と力のきわだった現れを用意しておられる。ただしそれは、神がご自分の思うままになさることを許される場合である。私たちはそう確信している。そして、その多くは、行く先々に祝福を残していくこの献身的な兄弟のとりなしと感化によるだろう。
 
 "We do not know the secret history of how this man of God was brought into connection with the "Way of Faith," but that the whole arrangement was of God we have not the shadow of a doubt.
 この神の人が『ウェイ・オブ・フェイス』とかかわりを持つようになった隠れたいきさつを、私たちは知らない。しかし、そのすべてが神から出たことだということを、私たちは少しも疑わない。
@@ -175,7 +175,7 @@ God has committed to him, in large degree, the ministry of intercession; but he 
 They are being delivered in various sections of the United States, and Canada, by the living voice, and through the paper they reach the saints in all nations.
 それらのメッセージは、合衆国とカナダの各地で生の声によって語られ、また新聞を通してあらゆる国の聖徒たちに届いている。
 We commend him to the prayers of God's people everywhere, for, be very well assured, that he has come to the kingdom for such a time as this." - J. M. Pike.
-私たちは、至る所の神の民の祈りに彼をゆだねる。どうかよく知っていてほしい。彼がこの国に来たのは、このような時のためなのである」（J・M・パイク）。
+私たちは、至る所の神の民の祈りに彼をゆだねる。どうかよく知っていてほしい。彼がこの国に迎えられたのは、このような時のためなのである」（J・M・パイク）。
 
 I think perhaps no one knows better than myself how far short I fall at all times of being worthy of such high commendation, but I give it here to show the wonderful spirit that existed between brethren in those days.
 これほど高い推薦に値するには、私がいつもどれほど足りないかを、たぶん私自身ほどよく知っている者はいないと思う。それでもここにそれを載せるのは、そのころ兄弟たちのあいだにあったすばらしい霊を示すためである。
@@ -221,7 +221,7 @@ We passed over the same track at night, this time in a Pullman sleeper (the only
 I had some hours between trains at New Orleans, and visited the French quarters there. We reached Houston Dec. 24, just in time for Christmas.
 ニューオーリンズでは乗り継ぎまで何時間かあったので、そこのフランス人街を訪ねた。私たちは12月24日にヒューストンに着き、クリスマスにちょうど間に合った。
 I began to develop the mumps on the train the night before. Wife was also beginning to have them. We went to Brother M. E. Layne's home. I got our trunks from the depot, and went to bed, just in time. I was to have attended a convention there.
-その前の夜、汽車の中で、私はおたふくかぜを発しはじめた。妻にも、それが出はじめていた。私たちはM・E・レイン兄弟の家へ行った。私は駅からトランクを受け取り、床についた。ちょうど間に合ったのである。私はそこで大会に出ることになっていた。
+その前の夜、汽車の中で、私におたふくかぜの症状が出はじめた。妻にも、それが出はじめていた。私たちはM・E・レイン兄弟の家へ行った。私は駅からトランクを受け取り、床についた。ちょうど間に合ったのである。私はそこで大会に出ることになっていた。
 
 God had opened a beautiful home to us there, with every care. We could not have been treated more kindly. I had one of the worst spells of sickness I had ever had. What I suffered was awful. I felt like dying.
 神はそこで、行き届いた世話をしてくれるすばらしい家を、私たちのために開いてくださった。これ以上ないほど親切にもてなされた。私は、それまでで最悪の病気の一つにかかった。私の苦しみは恐ろしいものだった。死にそうに感じた。
@@ -261,7 +261,7 @@ The remuneration generally is little if any more than expenses paid, and the eva
 His only refuge seems to be Heaven. But Jesus is coming soon. Then we shall need nothing more." - F. Bartleman.
 彼のただ一つの避け所は、天であるように思える。しかし、イエスはまもなく来られる。そのとき、私たちはもう何も必要としなくなるのだ」（F・バートルマン）。
 Old worn out Pentecostal horses are too often turned out by the roadside, to pick what grass they can find, with poor teeth, until they mercifully die.
-年老いてすり切れたペンテコステの馬は、あまりにしばしば、道ばたに放り出される。そして弱った歯で、見つけられるかぎりの草をついばみ、やがて幸いにも死んでいく。
+年老いてすり切れたペンテコステの馬は、あまりにしばしば、道ばたに放り出される。そして弱った歯で、見つけられるかぎりの草をついばみ、やがて死によって、ようやく苦しみから解かれる。
 They are not as a rule turned into a fat pasture, after they are of no more service, to end in comfort and free from care the remainder of their days. Many are under the sod already, from overwork and neglect.
 彼らは、もう役に立たなくなったあと、豊かな牧草地に放されて、残りの日々を楽に、心配なく終えるということは、ふつうはない。働きすぎと放っておかれたことのために、すでに多くの者が土の下に眠っている。
 
@@ -284,7 +284,7 @@ The devil had seemed determined to kill us in Texas. While at San Antonio I visi
 悪魔は、テキサスで私たちを殺そうと決めていたようだった。サンアントニオにいるあいだに、古いアラモの砦と伝道所を訪ねた。デイビー・クロケットが、最後の英雄的な戦いをした所である。
 
 We had a pleasant journey to Phoenix. Running along the Rio Grande we could see old Mexico on the opposite side. We passed through El Paso, and received a warm greeting at Phoenix.
-フェニックスまでは楽しい旅だった。リオ・グランデ川に沿って走ると、向こう岸に古いメキシコが見えた。私たちはエルパソを通り、フェニックスで温かく迎えられた。
+フェニックスまでは楽しい旅だった。リオ・グランデ川に沿って走ると、向こう岸にメキシコが見えた。私たちはエルパソを通り、フェニックスで温かく迎えられた。
 We were very tired, and did not have our fares from there to Los Angeles. They were very kind to us in Phoenix. A sister went to look for rooms for us, while I prayed. I soon had the witness that she had found what we needed.
 私たちはひどく疲れていて、そこからロサンゼルスまでの運賃を持っていなかった。フェニックスの人々は、私たちにとても親切にしてくれた。私が祈っているあいだに、ある姉妹が私たちのために部屋を探しに行ってくれた。まもなく私は、彼女が私たちに必要なものを見つけたというあかしを受けた。
 Sure enough, she returned soon, having secured housekeeping rooms for us. We now began meetings in a little mission conducted by Brother Scull. We were there nearly three weeks.
@@ -328,4 +328,4 @@ His spirit was largely unbroken and he thought me weak. He even implied at one t
 彼の霊は、おおむね砕かれていなかった。そして彼は、私を弱い者だと思っていた。あるときなど、私の頭がおかしいとほのめかしさえした。しかし彼は、神の愛を理解していなかったのだ。
 Charles C. Finney, the great evangelist, once said: "If you have much of the Spirit of God, it is not unlikely you will be thought deranged by many. You must make up your mind to be so judged, and so much the more as you live the more above the world, and walk with God."
 // 英文の Charles C. Finney は、Charles G. Finney（チャールズ・G・フィニー）の誤り。
-偉大な伝道者チャールズ・G・フィニーは、かつてこう言った。「もしあなたに神の御霊が多くあるなら、多くの人から気が狂っていると思われることもありうる。そう判断されることを覚悟しなければならない。あなたがこの世を超えて生き、神と共に歩むほど、ますますそうなるのである」。
+偉大な伝道者チャールズ・G・フィニーは、かつてこう言った。「もしあなたに神の御霊が多くあるなら、多くの人から気が狂っていると思われることになりかねない。そう判断されることを覚悟しなければならない。あなたがこの世を超えて生き、神と共に歩むほど、ますますそうなるのである」。
