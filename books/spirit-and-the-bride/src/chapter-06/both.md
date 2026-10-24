@@ -25,7 +25,7 @@ He will perform the same operation in each heart, if each will prepare for that 
 He will impart to each heart the same administration, when He sees each heart prepared for that administration.
 どの心もその治めのために備えができていると見られるなら、御霊はどの心にも同じ治めを授けてくださる。
 He will bestow upon any of us any gift we desire, when He sees we have reached the degree of grace where we can use that gift for the glory of God.
-私たちが、その賜物を神の栄光のために用いることのできる恵みの段階に達したとしよう。御霊がそれを見られるなら、私たちのだれにでも、望む賜物を授けてくださる。
+私たちが、望む賜物を神の栄光のために用いることのできる恵みの段階に達したとしよう。御霊がそれを見られるなら、私たちのだれにでも、その賜物を授けてくださる。
 
 In a preceding chapter we spoke of seven operations of the Spirit; perhaps there are many more.
 前の章で、私たちは御霊の七つの働きについて語った。働きは、ほかにもっと多くあるのかもしれない。
@@ -98,7 +98,7 @@ He concludes that it refers to spiritual miracles, and not to physical.
 I do not know, however, but that both may be included.
 しかし私には、その両方が含まれているのではないかとも思える。
 If it does refer only to spiritual, or only physical, or to both, it does not affect our position in this book.
-霊的な奇跡だけを指していても、からだの奇跡だけを指していても、その両方を指していても、この本での私たちの立場には影響しない。
+霊的な奇跡だけを指していても、からだの奇跡だけを指していても、その両方を指していてもよい。どれであっても、この本での私たちの立場には影響しない。
 One thing is clear, it is a gift added after the Baptism of the Spirit; for in Acts 1: 8, the literal reading is, "You shall receive dynamite of the Holy Ghost having come on you."
 一つのことは明らかである。それは、御霊のバプテスマのあとに加えられる賜物である。使徒行伝一章八節は、文字どおりには「あなたがたは、あなたがたの上に来た聖霊のダイナマイトを受ける」と読めるからである。
 So you see we receive dynamite when we receive the Holy Ghost, but the gift is manipulations of dynamites. Momentus conception!
@@ -130,7 +130,7 @@ All who have this gift, I doubt not, are able to understand any language which t
 I am sure that people have been claiming these gifts for years, while the manifestations have fallen far short of the Bible standard.
 確かに、人々は何年もこれらの賜物を持っていると主張してきた。しかし、その現れは聖書の基準にはるかに及ばなかった。
 I do not believe that anyone has ever received any of these gifts in their normal state until he received the Baptism of the Holy Spirit; neither do I believe that all or any of them often come with the Baptism, but must be sought for and obtained afterwards.
-私は信じない。聖霊のバプテスマを受ける前に、これらの賜物のどれかを本来のかたちで受けた人は、一人もいない。また、これらの賜物のすべてが、あるいはどれかが、バプテスマと共に来ることがよくあるとも信じない。賜物は、バプテスマのあとで求め、受けなければならないのである。
+聖霊のバプテスマを受ける前に、これらの賜物のどれかを本来のかたちで受けた人がいるとは、私は信じない。また、これらの賜物のすべてが、あるいはどれかが、バプテスマと共に来ることがよくあるとも信じない。賜物は、バプテスマのあとで求め、受けなければならないのである。
 It is one thing to say, I have the gift of wisdom, or of knowledge, or of faith, or of prophecy; but it is another thing to really possess it.
 自分には知恵の、あるいは知識の、信仰の、預言の賜物がある、と言うのは一つのことである。しかし、本当にそれを持っているのは、別のことである。
 I believe when a person receives any of these gifts that he will know it that moment, and that it will so manifest itself that others will soon find it out.
@@ -159,7 +159,7 @@ Brother, nobody is doing this; very few of us have any of these gifts; we are ju
 And I believe that any of these nine gifts in their normal bestowment is an evidence of Pentecost; yet no one of them is to be taken as the testimony of the Comforter, and hence is not the first evidence to be expected.
 そして私は信じている。これら九つの賜物のどれも、本来のかたちで授けられるなら、ペンテコステの証拠である。しかし、そのどれも、助け主のあかしと取ってはならない。だから、それは最初に期待すべき証拠ではないのである。
 "But," says one, "suppose a person has the gift of wisdom or of faith or of healings, but has never spoken with tongues, can we say that he has not Pentecost?"
-「しかし」とある人は言う。「ある人に知恵や信仰やいやしの賜物があって、しかし一度も異言を語ったことがないとしよう。それでも、その人はペンテコステを受けていないと言えるのか」。
+「しかし」とある人は言う。「ある人に知恵や信仰やいやしの賜物があるのに、一度も異言を語ったことがないとしよう。それでも、その人はペンテコステを受けていないと言えるのか」。
 Bring up your man and we will talk about it.
 その人を連れて来てほしい。話はそれからにしよう。
 
@@ -272,7 +272,7 @@ There are many other gifts of the Spirit, but these nine are designated as the "
 御霊の賜物はほかにも多くある。しかし、この九つが「更に大いなる賜物」と呼ばれているのである。
 
 Many to-day are preaching about this way: God is in the present revival, but there is a great deal being taught that is calculated to hurt the cause.
-今日、多くの人がこんなふうに説いている。神は今のリバイバルの中におられる。しかし、働きを損なうような教えも、たくさん説かれている。
+今日、多くの人がこんなふうに説いている。「神は今のリバイバルの中におられる。しかし、働きを損なうような教えも、たくさん説かれている。
 I see no difference between the manifestation and the gift.
 現れと賜物とのあいだには、何の違いも見えない。
 To teach that all who are baptized with the Spirit have the gift of tongues is a great mistake.
@@ -288,7 +288,7 @@ Where it is bestowed it generally does more harm than good.
 Paul did not mean for us to covet this gift, but the greater ones.
 パウロは、私たちがこの賜物を求めることを望んだのではない。もっと大きな賜物を求めることを望んだのである。
 If you get the gift of tongues, you will be likely to backslide and become bitter in your experience and harsh in your words.
-もし異言の賜物を受けたら、あなたは信仰から離れて、体験は苦々しく、言葉はとげとげしくなるおそれがある。
+もし異言の賜物を受けたら、あなたは信仰から離れて、体験は苦々しく、言葉はとげとげしくなるおそれがある」
 
 Now please tell me what there is in the above teaching to cause any one to join the present movement.
 では、教えてほしい。上の教えの中に、人を今の運動に加わらせるものが何かあるだろうか。
@@ -326,7 +326,7 @@ Paul teaches that if one interprets what he says he is up with the one who proph
 パウロの教えによれば、異言を語る人が自分の語ることを解くなら、その人は預言をする人に並ぶのである。
 
 As I have ready said, I do not believe that anyone has any of these gifts normally until they are baptized with the Holy Ghost.
-すでに述べたように、聖霊のバプテスマを受けるまでは、だれもこれらの賜物のどれをも本来のかたちで持ってはいない、と私は信じている。
+すでに述べたように、私はこう信じている。聖霊のバプテスマを受けるまでは、だれもこれらの賜物のどれをも本来のかたちで持ってはいない。
 // 英文の ready said は already said の意。
 
 "But what are you going to do with the prophets and men of old, who were so wonderfully used of God?"
@@ -381,7 +381,7 @@ This gift means insight into God's revealed Word, to enable you to understand th
 This will be done away because we will not take our Bible to heaven.
 これがすたれるのは、私たちが聖書を天国へ持って行かないからである。
 The Bible is the waybill from earth to heaven, and when we get there we will need it no more.
-聖書は、地上から天国への道中の案内状である。天国に着けば、もう要らなくなる。
+聖書は、地上から天国への道中手形である。天国に着けば、もう要らなくなる。
 Doubtless we shall learn more in one hour after we get to heaven than we have learned before in all our lives.
 疑いもなく、天国に着いてからの一時間で、私たちはそれまでの全生涯で学んだよりも多くのことを学ぶであろう。
 
@@ -475,7 +475,7 @@ Paul also had to correct the women for talking to their husbands during service.
 Many anti-pentecostal holiness preachers are having much to say at this time about having everything done in a way to avoid confusion.
 ペンテコステに反対するホーリネスの説教者の多くが、今、混乱を避けるようにすべてを行うことについて、さかんに語っている。
 They will allow as many as wish to do so to testify at one time in their testimony meetings.
-しかし彼らは、自分たちの証し会では、望む人が何人でも一度にあかしをするのを許している。
+しかし彼らは、自分たちのあかし会では、望む人が何人でも一度にあかしをするのを許している。
 They will call on three or four to lead in prayer at one time.
 三、四人に、一度に祈りを導かせる。
 They call on the congregation to crowd about the altar and shake hands.
