@@ -13,7 +13,7 @@ I have eagerly and with an open heart read any and all explanations on the subje
 My heart is still open for information and truth: gladly will I hear you on the subject.
 私の心は、今も知識と真理に対して開かれている。この主題についてのあなたの考えも、喜んで聞こう。
 By all that I have seen and heard, I have been helped more or less; but still, though greatly diversified have been the explanations, none of them has satisfied me, as has the one which has come to me while praying and waiting before God.
-これまで見聞きしたすべてのことに、多かれ少なかれ助けられてきた。しかし説明はじつにさまざまであったが、どれも私を満足させなかった。私を満足させたのは、神の前で祈り、待ち望んでいたときに与えられた説明だけである。
+これまで見聞きしたすべてのことに、多かれ少なかれ助けられてきた。しかし、説明はじつにさまざまであった。それでも、神の前で祈り、待ち望んでいたときに与えられた説明ほど、私を満足させたものはなかった。
 
 Below I give you the thoughts which are most strikingly impressed on my mind after many years of careful study.
 以下に、長年注意深く学んだ末に、私の心に最も強く刻まれた考えを示す。
@@ -30,17 +30,17 @@ The best way to understand the parables spoken by our Lord, is to first note the
 The Jewish custom was for the bridegroom, accompanied by his friends, to go to the house of the bride and carry her with pomp and ceremony to his own home.
 ユダヤ人の風習では、花婿が友人たちを連れて花嫁の家へ行き、華やかな儀式のうちに花嫁を自分の家へ連れて来た。
 She was accompanied from her father's house by her young friends and companions; while others, like the virgins of the parable, at some convenient place met and joined the procession and entered with the rest of the bridal company into the festal hall.
-花嫁には、父の家から若い友人や仲間たちが付き添った。ほかの人々は、たとえのおとめたちのように、どこか都合のよい所で行列を迎えて加わった。そして婚礼の一行のほかの人々と共に、祝宴の広間にはいったのである。
+花嫁には、父の家から若い友人や仲間たちが付き添った。ほかの人々は、たとえのおとめたちのように、どこか都合のよい所で行列を迎えて加わった。そして婚礼の一行のほかの人々と共に、祝宴の広間にはいったのである」。
 
 "Marriages in the East always take place at night, and, according to rabbinical authority, when the bride was conducted to her future home ten lamps were carried on the top of staves before the procession.
-東洋では、婚礼はいつも夜に行われる。ラビたちの伝えによれば、花嫁がこれから住む家へ導かれるとき、行列の前を、棒の先につけた十のあかりが運ばれた。
+「東洋では、婚礼はいつも夜に行われる。ラビたちの伝えによれば、花嫁がこれから住む家へ導かれるとき、行列の前を、棒の先につけた十のあかりが運ばれた。
 Ten is the number always mentioned by the Jews in connection with public solemnities, it being considered a sacred number.
 十は、ユダヤ人が公の儀式に関していつも挙げる数で、聖なる数とされていた。
 Thus it was a rule that wherever there were ten Jews living in one place there was a congregation, and there a synagogue ought to be built.
-そのため、一つの所に十人のユダヤ人が住んでいれば、そこに会衆があり、そこに会堂を建てるべきだという決まりがあった。
+そのため、一つの所に十人のユダヤ人が住んでいれば、そこに会衆があり、そこに会堂を建てるべきだという決まりがあった」。
 
 "The Jewish lamp consisted of a shallow vessel filled with oil, the wick floating on the oil. . . . In the marriage procession these lamps were placed on sticks, and thus converted into torches. In separate vessels oil was carried with which to replenish the lamps."--M. B. Chapman, D. D.
-ユダヤ人のあかりは、油を満たした浅い器で、その油に灯心が浮かんでいた。（中略）婚礼の行列では、このあかりを棒の上に載せて、たいまつにした。そして、あかりに油を補うための油を、別の入れものに入れて運んだ」（M・B・チャップマン博士）。
+「ユダヤ人のあかりは、油を満たした浅い器で、その油に灯心が浮かんでいた。（中略）婚礼の行列では、このあかりを棒の上に載せて、たいまつにした。そして、あかりに油を補うための油を、別の入れものに入れて運んだ」（M・B・チャップマン博士）。
 
 There is no doubt that Jesus drew this parable from the common Jewish custom of weddings, as we have given in the quotation above.
 イエスがこのたとえを、上の引用に示したような、ユダヤ人のふつうの婚礼の風習から引き出されたことは疑いない。
@@ -95,7 +95,7 @@ This evil servant is not "cast," but simply "appointed his portion."
 この悪い僕は「追い出され」るのではなく、ただ「分け前を与えられ」るだけである。
 
 "Then"--after the bride is gone to her chamber--"shall the kingdom of heaven"--not the kingdom of Satan nor of the world nor of darkness--"be likened unto ten virgins."
-『そこで』（花嫁が自分のへやにはいったあとで）『天国は』（サタンの国でも、世の国でも、やみの国でもない）『十人のおとめ（中略）に似ている』。
+『そこで』（花嫁が自分のへやにはいったあとで）『天国は』（サタンの国でも、世の国でも、やみの国でもない）『十人のおとめに似ている』。
 They were all virgins; virginity means purity.
 彼女たちはみなおとめであった。おとめであることは、清さを意味する。
 They were all sanctified.
@@ -144,7 +144,7 @@ Then the difference between the wise and the foolish virgins is, the former have
 The ten virgins are virgins--sanctified--before the bride is called into her chamber; but they fail to obtain the Baptism of the Spirit, hence are among the "left ones."
 十人のおとめは、花嫁が自分のへやに呼び入れられる前から、おとめ、すなわち聖化された者である。しかし、御霊のバプテスマを受けそこなったので、「残された者たち」の中にいる。
 Finding to their surprise they are left out of the bridehood, and being greatly aroused and alarmed by the fact, immediately they take their lamps and go forth to live for Jesus, determined to be true, and with the hopes of going in with Him to the marriage.
-彼女たちは、自分が花嫁の一員から外されたことを知って驚く。そして、その事実に大いに目を覚まされ、恐れて、すぐにあかりを手にして出て行き、イエスのために生きようとする。忠実であろうと決心し、主と一緒に婚姻の場にはいることを望んでいるのである。
+彼女たちは、自分が花嫁の一員から外されたことを知って驚く。そして、その事実に大いに目をさまされ、恐れて、すぐにあかりを手にして出て行き、イエスのために生きようとする。忠実であろうと決心し、主と一緒に婚姻の場にはいることを望んでいるのである。
 Five of them are wise, from the fact that, seeing on account of their negligence to receive the Baptism of the Spirit they have missed the bridehood, they now tarry until their vessels are filled with the Holy Spirit, and then go forth to meet the bridegroom.
 そのうちの五人は思慮深い。御霊のバプテスマを受けることを怠ったために、花嫁の一員になりそこなったと知った。そこで今度は、入れものが聖霊に満たされるまでとどまり、それから花婿を迎えに出て行くからである。
 Five of them are foolish, from the fact that, although they see that it is on account of their negligence to receive the Baptism of the Spirit they have missed the bridehood, yet they believe they can go in with Him to the marriage without the Baptism and so they take their lamps, but take no oil in their vessels with their lamps.
@@ -170,7 +170,7 @@ If the judgments of God will not touch the hearts of men, nothing can.
 If you will study the different companies in the book of Revelation, you will find that our teaching is in exact accord with that book.
 黙示録に出てくるさまざまな群れを学ぶなら、私たちの教えがこの書とぴったり一致していることがわかるであろう。
 In the fourth chapter we see the bride and a company of attendants perhaps taken into her chamber, and the saints taking their places as "beasts"--living ones--and "elders."
-四章では、花嫁と、おそらくは付き添いの一群が、花嫁のへやに迎え入れられるのが見える。また聖徒たちが、「獣」すなわち生き物として、また「長老」として、それぞれの座に着くのが見える。
+四章では、花嫁と、おそらくは付き添いの群れが、花嫁のへやに迎え入れられるのが見える。また聖徒たちが、「獣」すなわち生き物として、また「長老」として、それぞれの座に着くのが見える。
 Both of these companies remain distinct and separate throughout the book.
 この二つの群れは、この書の全体を通して、はっきりと分かれたままである。
 The Great Tribulation sets in, during which several companies go up to join the band around the throne (Rev. 6: 9; 7: 9-17; 14: 1-5, 13-16).
@@ -196,12 +196,12 @@ It is a call to them to awake, watch, and pray.
 Even the lamps used at a festival, which would be larger, needed to be replenished if kept burning long into the night.
 祝いの席で使うあかりは、それよりも大きかったであろう。しかし、それでも夜遅くまで灯し続けるなら、油を補わなければならなかった。
 Hence the 'trimming' implied not only the removal of whatever had gathered around and was clogging the wick, but also the pouring in of fresh oil.
-だから『整える』とは、灯心のまわりにたまって詰まらせているものを取り除くことだけでなく、新しい油を注ぎ入れることも意味していた。
+だから『整える』とは、灯心のまわりにたまって詰まらせているものを取り除くことだけを意味するのではなかった。新しい油を注ぎ入れることも意味していた。
 For the purpose of removing whatever debris had gathered around the wick, a small pointed instrument often hung by a slender chain from the lamp itself."--Chapman.
 灯心のまわりにたまったかすを取り除くための道具もあった。先のとがった小さな道具で、細い鎖であかりそのものから下げてあることが多かった」（チャップマン）。
 
 How perfectly all this custom fits in this explanation of this parable; and how perfectly this explanation fits in the other Scriptures! This small pointed instrument, not a part of the lamp, but chained to the lamp, and with which debris was removed from the wick, corresponds to the Scriptures, which every virgin should have bound to the heart; and this each virgin should use daily, yea hourly, to remove the unscriptural debris that may clog in the mind while in "slumber and sleep," or otherwise engaged.
-この風習のすべてが、このたとえについてのこの説明に、なんとよく合うことか。そしてこの説明が、聖書のほかの箇所に、なんとよく合うことか！　この先のとがった小さな道具は、あかりの一部ではなく、あかりに鎖でつながれていて、灯心からかすを取り除くのに使われた。これは聖書に当たる。おとめはみな、聖書を心に結びつけておくべきである。そして毎日、いや一時間ごとに、それを用いるべきである。「居眠りをして、寝て」いる間や、ほかのことに携わっている間に、聖書にそぐわないかすが知性に詰まるかもしれない。それを、この道具で取り除くのである。
+この風習のすべてが、このたとえについてのこの説明に、なんとよく合うことか。そしてこの説明が、聖書のほかの箇所に、なんとよく合うことか！　この先のとがった小さな道具は、あかりの一部ではなく、あかりに鎖でつながれていて、灯心からかすを取り除くのに使われた。これは聖書に当たる。おとめはみな、聖書を心に結びつけておくべきである。そして毎日、いや一時間ごとに、それを用いるべきである。「居眠りをして、寝て」いる間や、ほかのことに携わっている間に、聖書にそぐわないかすが知性に詰まるかもしれない。それを、聖書で取り除くのである。
 When these ten virgins start out through the tribulations to meet the bridegroom, they each make sure to take with them a copy of the Word.
 この十人のおとめは、患難の中を花婿を迎えに出て行くとき、それぞれ必ず聖書を一冊持って行く。
 No doubt, at intervals they stop and study the Scriptures, and then their lights burn brighter, and they are encouraged to wait on till He comes.
@@ -223,12 +223,12 @@ As they hear the "Hallelujahs" of the coming bridal party, and realize that the 
 "For our lamps are burning low."
 『わたしたちのあかりが消えかかっていますから』。
 The phrase "are gone out" is a mistranslation.
-「消えてしまった」という句は誤訳である。
+「消えてしまった」（欽定訳）という句は誤訳である。
 // 欽定訳の are gone out を指す。口語訳はすでに「消えかかっています」と訳している。
 But the wise answer, "Not so." "We have no power to give you the Holy Ghost." "Lest there be not enough for us and you."
 しかし思慮深いおとめたちは答える。「いいえ」。「私たちには、あなたがたに聖霊を与える力はありません」。『わたしたちとあなたがたとに足りるだけは、多分ないでしょう』。
 "While we are praying with you we may get left ourselves. We must watch and be ready. We cannot afford to be left now. Go tarry for yourselves, until ye be endued with the Holy Ghost from on high."
-「あなたがたと一緒に祈っているうちに、私たち自身が残されてしまうかもしれません。私たちは目をさまして、用意していなければなりません。今、残されるわけにはいかないのです。行って、上から聖霊を授けられるまで、自分でとどまって待ちなさい」。
+「あなたがたと一緒に祈っているうちに、私たち自身が残されてしまうかもしれません。私たちは目をさまして、用意していなければなりません。今、残されるわけにはいかないのです。行って、上から聖霊を授けられるまで、自分たちでとどまっていなさい」。
 And while they are gone to tarry for the oil, the bridegroom comes; and they that are ready go in with him to the marriage: and the door is shut.
 そして彼女たちが油を待ち望みに出ているうちに、花婿が着く。用意のできていた者たちは、花婿と一緒に婚姻の場にはいり、そして戸がしめられる。
 "Let us be glad and rejoice, and give honour to him: for the marriage of the lamb is come, and his wife hath made herself ready." (Rev. 19: 6).
@@ -238,7 +238,7 @@ And while they are gone to tarry for the oil, the bridegroom comes; and they tha
 The foolish virgins having neglected to seek the Baptism of the Spirit before the bride was called into her chamber to make herself ready, and after missing the bridehood, having blindly supposed that they could go into the marriage without the Baptism, now at this extreme moment go off to tarry for their Pentecost.
 思慮の浅いおとめたちは、花嫁が用意をするために自分のへやに呼び入れられる前に、御霊のバプテスマを求めることを怠った。そして花嫁の一員になりそこなったあとも、バプテスマなしで婚姻の場にはいれると、やみくもに思い込んでいた。その彼女たちが、このぎりぎりのときになって、自分のペンテコステを待ち望みに出て行くのである。
 They dare not return until they receive Him.
-彼女たちは、御霊を受けるまでは、戻って来ようとしない。
+彼女たちは、御霊を受けるまでは、あえて戻って来ようとはしない。
 After they are baptized, they come and say, "Lord, Lord, open to us."
 バプテスマを受けたあとで、彼女たちは来て、『ご主人様、ご主人様、どうぞ、あけてください』と言う。
 That is, they will beg God to take them up into the air to the marriage.
