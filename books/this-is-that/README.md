@@ -61,7 +61,7 @@
 + [x] Part III. Isaac and Rebecca
 + [x] Part III. The Life and Growth of Peter
 + [x] Part III. The Temple / Getting Down
-+ [ ] Part III. Covet Earnestly Spiritual Gifts
++ [x] Part III. Covet Earnestly Spiritual Gifts
 + [ ] Part III. The Valley of Dry Bones
 + [ ] Part III. "Death in the Pot" (1)
 + [ ] Part III. "Death in the Pot" (2)
