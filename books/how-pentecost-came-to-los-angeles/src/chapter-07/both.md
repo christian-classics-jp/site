@@ -5,7 +5,7 @@ Chapter 7
 I came home one night and found a letter waiting for me from Honolulu. For some time I had felt drawn to the Islands. Every day I would look at the foothills back of the Home in Pasadena, and something would say to me, "Hawaiian Islands."
 ある夜家に帰ると、ホノルルからの手紙が私を待っていた。しばらく前から、私はハワイの島々に心を引かれていた。毎日、パサデナのホームの裏の山すそを眺めていると、何かが私に「ハワイ諸島」と語りかけるのだった。
 I had seen pictures of Hawaii that resembled these foothills. The letter was a complete surprise to me, coming from a party I had never known. When I saw it I felt at once before opening it that it was a call to come there.
-私は、この山すそに似たハワイの写真を見たことがあった。手紙は、まったく知らない人から来たもので、私にはまったく思いがけないものだった。それを見たとき、開ける前からすぐに、そこへ来るようにという招きだと感じた。
+私は、この山すそに似たハワイの写真を見たことがあった。手紙は、見ず知らずの人から来たもので、私にはまったく思いがけないものだった。それを見たとき、開ける前からすぐに、そこへ来るようにという招きだと感じた。
 It contained a check for $165. I had never received so much money at one time in my life. Sure enough it was an urgent call to Honolulu, from Sister Henrietta Nuzum, and the saints there.
 中には165ドルの小切手が入っていた。生涯で、一度にこれほどのお金を受け取ったことはなかった。はたして、それはヘンリエッタ・ナズム姉妹とそこの聖徒たちからの、ホノルルへ来てほしいという切実な招きだった。
 In the natural I shrank from leaving my little family, to go so far, and across the water. But it was the voice of God. I dared not disobey.
@@ -41,7 +41,7 @@ I stopped at Kailua, Kone. with a missionary who owned a home there. Dr. Yoakum 
 私はコナのカイルアで、そこに家を持っている宣教師のもとに泊まった。ヨーカム博士も、私より前にここを訪れていた。そこは中央アメリカと同じ緯度だった。
 // 英文の Kailua, Kone. は Kailua, Kona（コナのカイルア）の誤り。
 A party of us rode horseback to the top of Mt. Hulalai, 9000 feet high, through very wild vegetation, up the mountain side, guided by a Portuguese cowboy.
-私たち何人かは、ポルトガル人のカウボーイの案内で、馬に乗ってフアラライ山の頂上まで登った。高さ二千七百メートルの山で、ひどく荒々しい草木のあいだを抜けて山腹を登ったのである。
+私たち何人かは、ポルトガル人のカウボーイの案内で、馬に乗ってフアラライ山の頂上まで登った。高さ二千七百メートルの山で、まったく人の手の入らない草木のあいだを抜けて山腹を登ったのである。
 // 英文の Mt. Hulalai は Hualalai（フアラライ山）の誤り。高さは英文の 9000 feet に従った。
 We had a wonderful trip and a magnificent view, visiting a number of extinct volcano craters. I sent another month's board home to the family from Honolulu.
 すばらしい旅で、眺めも壮大だった。いくつもの死火山の火口を訪ねた。私はホノルルから家族に、もう一か月分の食費を送った。
@@ -62,14 +62,14 @@ The lurid light of the crater glared in the distance, like a great chimney, flar
 We crossed fearful chasms, rent by convulsions of internal conflict, from the fires of torment in earth's bosom. Hot blasts fanned us from beneath. Vapors of sulphur greeted us from the fissures.
 私たちは、恐ろしい裂け目をいくつも越えた。地のふところにある苦しみの火が内なる争いを起こし、その激動が地を引き裂いたのである。下から熱風が吹きつけた。割れ目から、硫黄の蒸気が立ちのぼってきた。
 The whole earth seemed 'turned up as it were by fire.' Finally we reached the volcano. It was a terrible sight.
-地全体が、『火でくつがえされるようにくつがえ』っているようだった。ついに私たちは火山に着いた。恐ろしい光景だった。
+地全体が、『火でくつがえされるようにくつがえる』かのようだった。ついに私たちは火山に着いた。恐ろしい光景だった。
 'Outer darkness' encompassed the lurid fires. Hot air greeted us fiercely, as we approached the brink. Sulphur fumes rose almost stifling from its depths. A very 'belly of hell.'
 『外のやみ』が、毒々しい火を取り囲んでいた。縁に近づくと、熱い空気が激しく吹きつけてきた。その深みから、息が詰まりそうな硫黄の煙が立ちのぼった。まさに『陰府の腹』だった。
 Nothing was lacking but the forms of demons, and they seemed hovering near. The natives worship this crater.
 欠けているのは悪霊どもの姿だけだった。そして彼らも、近くをさまよっているようだった。土地の人々は、この火口を拝んでいる。
 
 Where their worm dieth not, and the fire is not quenched.' Truly 'salted with fire,' Here was a fire no one could explain. The splashing of its fusions struck the heart with terror.
-『そこでは、うじがつきず、火も消えることがない』。まさに『火で塩づけられ』ている。ここには、だれにも説明できない火があった。溶けたものがはね散るさまは、心を恐怖で打った。
+『地獄では、うじがつきず、火も消えることがない』。まさに『火で塩づけられ』ている。ここには、だれにも説明できない火があった。溶けたものがはね散るさまは、心を恐怖で打った。
 // 英文のこの段落は、行頭の引用符 "' が落ちている。'salted with fire,' の後ろはコンマで終わり、次の Here が大文字になっている。
 Like the just punishment for sin, They lashed themselves against the sides of that cavernous pit as if conscious of being confined only for a season. They seemed like living, 'eternal fires,' awaiting restlessly their prey.
 それらは、罪に対する正しい刑罰のように、洞穴のようなその穴の壁に激しく身を打ちつけた。しばらくのあいだだけ閉じ込められていると知っているかのようだった。それらは、生きている『永遠の火』のようで、えじきを待って落ち着きなくうごめいていた。
@@ -77,7 +77,7 @@ Like the just punishment for sin, They lashed themselves against the sides of th
 The 'pit' proper is 1000 feet in diameter. In it is situated the lake of fire.
 『穴』そのものは、直径三百メートルある。その中に、火の池がある。
 The dismal shadows, the lurid light cast upward on its deep, cavernous sides, by the continuous unrest of its fierce, fiery commotions, as though demons struggled with one another in fearful conflict, with the fumes of stifling sulphur that arose from its awful, abysmal depths in clouds to the top of the sheer, jagged precipices that mark the naked heights of its lonely confines, made it a picture terrible to behold.
-陰気な影があった。激しく燃え立つ動きがたえず休まず、そのために毒々しい光が、深い洞穴のような壁を照らし上げていた。まるで悪霊どもが、恐ろしい争いの中で互いに組み合っているかのようだった。そして、恐ろしい底知れぬ深みからは、息の詰まる硫黄の煙が雲となって立ちのぼった。煙は、切り立ったぎざぎざの絶壁の頂にまで達した。その絶壁が、さびしい囲いのむき出しの高みをなしている。これらすべてのために、それは見るも恐ろしい光景となっていた。
+陰気な影があった。激しく燃え立つ動きが、片時もやまなかった。そのために毒々しい光が、深い洞穴のような壁を照らし上げていた。まるで悪霊どもが、恐ろしい争いの中で互いに組み合っているかのようだった。そして、恐ろしい底知れぬ深みからは、息の詰まる硫黄の煙が雲となって立ちのぼった。煙は、切り立ったぎざぎざの絶壁の頂にまで達した。その絶壁が、さびしい囲いのむき出しの高みをなしている。これらすべてのために、それは見るも恐ろしい光景となっていた。
 One stood solemn and awe stricken, as in the presence of offended Deity. The dark background of the mountain shadows, the rain and piercing cold of the night, all added terror to the picture.
 人は、怒っておられる神のみ前にいるかのように、厳粛な思いで恐れに打たれて立ち尽くした。背後の暗い山の影も、夜の雨と身を刺す寒さも、すべてがその光景に恐ろしさを加えた。
 It made one, like Moses at Sinai, 'exceedingly fear acid quake.'
@@ -95,11 +95,11 @@ I thought of 'the waves of the sea that cannot rest,' to which the wicked are li
 // 英文の 'They have no rest day or night. は、閉じの引用符がない。
 
 Two great channels or fountain furnaces were pouring from their subterranean depths tons of liquid fire, molten world matter, continuously. Billions of tons were heaving in seeming production.
-二つの大きな流れ口、いわば噴き出す炉が、地下の深みから、何トンもの液体の火、溶けた世界の物質を、たえず注ぎ出していた。何十億トンものものが、生み出されているかのようにうねっていた。
+二つの大きな流れ口、いわば噴き出す炉が、地下の深みから、何トンもの液体の火、溶けた世界の物質を、たえず注ぎ出していた。何十億トンもの物質が、生み出されているかのようにうねっていた。
 World making seemed in process. One seemed to be standing by the Almighty as at creation's dawn, when worlds were flung into far space, spoken into being by His fiat.
 世界を造るわざが進んでいるようだった。創造の夜明けのときのように、全能者のかたわらに立っているように思えた。そのとき、もろもろの世界は神の命令のことばによって生じ、はるかな空間へと投げ出されたのである。
 But what makes these fires? What keeps them going? There is no answer from their abysmal depths. They scorn to answer. It is God.
-しかし、何がこの火を起こしているのか。何がこれを燃やし続けているのか。その底知れぬ深みからは、何の答えもない。火は、答えるのをさげすむ。それは神なのである。
+しかし、何がこの火を起こしているのか。何がこれを燃やし続けているのか。その底知れぬ深みからは、何の答えもない。火は、答えることを潔しとしない。それは神なのである。
 
 "Their noise, between a hiss and a roar, like the cry of a wounded serpent or beast, seems crying for vengeance.
 その音は、しゅうしゅうという音ととどろきとのあいだのようで、傷ついた蛇か獣の叫びのようだった。復讐を求めて叫んでいるように思えた。
@@ -107,7 +107,7 @@ They dashed against the sides of their unwilling confines, by force of continuou
 火は、たえまない内なる争いの力によって、意に反して閉じ込められている囲いの壁にぶつかった。ほとんど人間のような叫びを上げてである。そして、自由になろうとして果たせず、さらに激しく荒れ狂った。この火がひとたび解き放たれたら、人に何ができるだろうか。
 
 "There was no rest for the fiery waves in that volcano. They rose by their mighty fusions, some forty feet high, all over this lake of fire, continuously night and day, only to fall back again baffled, with a sickening, terrifying thud, like the muffled rumbling of distant thunder.
-あの火山の燃える波には、休みがなかった。波は、力強く溶け合いながら、この火の池の至る所で、夜も昼もたえず、十二メートルほどの高さに立ち上がった。そしてそのたびに、くじかれて再び落ちた。そのときには、遠い雷のくぐもったとどろきのような、胸の悪くなる恐ろしい鈍い音がした。
+あの火山の燃える波には、休みがなかった。波は、溶けた物質の力強い勢いで、この火の池の至る所で、夜も昼もたえず、十二メートルほどの高さに立ち上がった。そしてそのたびに、くじかれて再び落ちた。そのときには、遠い雷のくぐもったとどろきのような、胸の悪くなる恐ろしい鈍い音がした。
 Their failure to scale their prison walls seemed but to enrage them more. As they lashed themselves against the sides their matter cooled, clinging to the rocks of their own production, but to encase and entomb them further.
 牢獄の壁をよじ登れないことが、波をなおさら怒らせるようだった。壁に身を打ちつけると、その物質は冷えて、自分が生み出した岩にこびりついた。しかしそれは、波をいっそう閉じ込め、葬るだけだった。
 Others fell back, only to be fused again in that awful furnace of unbearable heat and fury. There is no escape from hell. A million years but makes the doom more sure in those lonely confines of despair.
@@ -116,19 +116,19 @@ Others fell back, only to be fused again in that awful furnace of unbearable hea
 This mighty stream of molten lava was churned continuously into an underground passage at the other side of the lake.
 この溶岩の力強い流れは、池の向こう側にある地下の通路へと、たえず逆巻きながら流れ込んでいた。
 And still those two great feeding furnaces poured their red hot, molten matter from God knows where, to where God only knows, by some subtle, awful power, in a continuous, fiery flow.
-そしてなおも、あの火を養う二つの大きな炉は、真っ赤に焼けた溶けた物質を注ぎ続けていた。それは神のみがご存じの所から来て、神のみがご存じの所へと注いでいた。何か微妙で恐ろしい力によって、たえまない火の流れとなっていたのである。
+そしてなおも、あの火を養う二つの大きな炉は、真っ赤に焼けた溶けた物質を注ぎ続けていた。それは神のみがご存じの所から来て、神のみがご存じの所へと注いでいた。何か不可思議な恐ろしい力によって、たえまない火の流れとなっていたのである。
 There is no Niagara to quench its fires. Its torment is only increased by its continuous, constant action. There is a fire that feeds itself, a worm that 'never dies.' It is a fearful thing to fall into the hands of the living God.'
 その火を消すナイアガラはない。その苦しみは、たえまなく続く働きによって増すばかりである。自分で自分を養う火があり、『つきることのない』うじがある。『生ける神のみ手のうちに落ちるのは、恐ろしいことである』。
 // 英文の living God.' は、聖句の開きの引用符がない。
 
 "There could be no trifling with the fires of that crater. The natives call it Pele. They say Pele was a woman. She was robbed of her husband by another native woman, who enticed him.
-あの火口の火を、軽く扱うことはできなかった。土地の人々は、それをペレと呼ぶ。ペレは女だったという。彼女は、ほかの土地の女に夫を誘惑されて奪われた。
+あの火口の火を、もてあそぶことはできなかった。土地の人々は、それをペレと呼ぶ。ペレは女だったという。彼女は、ほかの土地の女に夫を誘惑されて奪われた。
 Pele wandered from island to island (leaving extinct volcanoes behind her), and finally settled on Hawaii in her wrath. The natives fear her. They throw bottles of gin, their favorite drink, to her, in order to appease her.
 ペレは島から島へとさまよい（あとに死火山を残しながら）、ついに怒りを抱いたままハワイ島に住みついた。土地の人々は、彼女を恐れている。彼らは彼女をなだめるために、自分たちの好きな飲み物であるジンを、瓶ごと投げ込む。
 And should not sinners fear a 'jealous' God? Presumption means swift, certain ruin.
 それなら罪人は、『ねたむ』神を恐れるべきではないか。思い上がりは、速やかで確かな滅びを意味する。
 I turned from these lurid, mysterious fires in earth's bosom, with the weird surroundings of gloom that hung like a pall over the surrounding situation, with a feeling of awe, almost akin to terror. I shall not trifle with God." - F. Bartleman.
-地のふところにある、この毒々しく不思議な火から、私は向きを変えた。あたりには、気味の悪い闇が棺おおいのように垂れこめていた。私は、ほとんど恐怖に近い畏れを感じていた。私は決して神を軽んじない」（F・バートルマン）。
+地のふところにある、この毒々しく不思議な火から、私は向きを変えた。あたりには、気味の悪い闇が棺おおいのように垂れこめていた。私は、ほとんど恐怖に近い畏れを感じていた。私は決して神をもてあそぶまい」（F・バートルマン）。
 
 We had a rough voyage home from Honolulu. I brought a large basket of tropical fruits with me, for the family. The Lord had kept them safely in my absence.
 ホノルルからの帰りの航海は荒れた。私は家族のために、熱帯の果物を大きなかごに入れて持ち帰った。主は、私の留守のあいだ、家族を無事に守ってくださっていた。
@@ -181,7 +181,7 @@ We had some times of real testing, being completely out money at times, but God 
 At one time our gas bill and rent were both due. I went to Pasadena, out of money. A brother was debating in his mind whether to help me or not. But I walked away from him.
 あるとき、ガス代と家賃の支払いが重なった。私は、お金のないままパサデナへ行った。ある兄弟が、私を助けようかどうしようかと、心の中で迷っていた。しかし私は、彼のもとから立ち去った。
 The devil was tempting me and I determined to trust God and not man. I went home without a cent. Before bed-time another brother brought eight dollars to the house. It was the exact rent.
-悪魔が私を誘惑していたので、私は人ではなく神に信頼しようと決めた。私は一文も持たずに家に帰った。寝る前に、別の兄弟が8ドルを家に持って来てくれた。それはちょうど家賃の額だった。
+悪魔が私を誘惑していた。しかし私は、人ではなく神に信頼しようと決めた。私は一文も持たずに家に帰った。寝る前に、別の兄弟が8ドルを家に持って来てくれた。それはちょうど家賃の額だった。
 He said the Lord told him to bring it and he dared not disobey. He was a poor day laborer, too. But he got his reward from God. He was able to give him ten times as much, with ease.
 主が持って行くようにと言われたので、背くことができなかったと彼は言った。しかも彼は、貧しい日雇い労働者だった。しかし彼は、神から報いを受けた。神は彼に、その十倍のものを、たやすく与えることがおできになったのである。
 
@@ -217,7 +217,7 @@ It looked like madness to attempt such a thing in the natural. I was just at tha
 After a very severe financial test, in which it seemed almost impossible to get even as much as a ten-cent piece, the Lord opened the way for me to start.
 お金の面でのたいへん厳しい試練があった。10セント硬貨一枚を手に入れることさえ、ほとんどできないように思えた。そのあとで、主は私が出発できるように道を開いてくださった。
 I believe God allowed me to be thus tested in order to prove me for the journey. It looked almost like actual starvation just before the way finally opened up.
-神は、この旅のために私を練り鍛えようとして、このように試されることをお許しになったのだと思う。ついに道が開ける直前には、本当に飢え死にしそうに見えたほどだった。
+神は、この旅に向けて私を吟味しようとして、このように試されることをお許しになったのだと思う。ついに道が開ける直前には、本当に飢え死にしそうに見えたほどだった。
 
 Dr. Sister Trout gave me fifty dollars to put in the bank for wife to draw on for the rent. Then Brother Pike, editor of the "Way of Faith," sent me twenty-five dollars from Columbia, S. C.
 医師のトラウト姉妹が、50ドルをくれた。妻が家賃のために引き出せるよう、銀行に預けておくためである。それから、『ウェイ・オブ・フェイス』の編集者パイク兄弟が、サウスカロライナ州コロンビアから25ドルを送ってくれた。
@@ -252,7 +252,7 @@ I returned with about one dollar in my pocket. My wife had fifty dollars in bank
 Brother Pike very kindly wrote the following notice of my trip in the "Way of Faith" when I started: "We take pleasure in publishing the personal letter of Brother Bartleman, who is following what he believes to be divine guidance, in his trip around the world.
 私が出発するとき、パイク兄弟はたいへん親切にも、私の旅について次の記事を『ウェイ・オブ・フェイス』に書いてくれた。「私たちは喜んで、バートルマン兄弟の個人的な手紙を掲載する。彼は、神の導きと信じるものに従って、世界一周の旅をしている。
 We do not know of anyone whose ministry is more needed, and will be more helpful in the present stage of the Pentecostal movement, than our dear Brother Bartleman." - J. M. Pike. I appreciated greatly this note of confidence.
-ペンテコステ運動の今の段階において、私たちの愛するバートルマン兄弟ほど、その務めが必要とされ、また助けになる人を、私たちはほかに知らない」（J・M・パイク）。私は、この信頼の言葉をたいへんありがたく思った。
+ペンテコステ運動の今の段階において、私たちの愛するバートルマン兄弟ほど、その務めが必要とされている人を、私たちはほかに知らない。彼の務めほど、これから助けになるものはない」（J・M・パイク）。私は、この信頼の言葉をたいへんありがたく思った。
 Also the following by the editor of the "Latter Rain:" Brother Bartleman spent a few days with us just before he sailed for England.
 また、『後の雨』の編集者も、次のように書いてくれた。「バートルマン兄弟は、イギリスへ船出する直前に、数日を私たちと共に過ごした。
 // 英文の Brother Bartleman spent の前は、開きの引用符が落ちている。
@@ -270,7 +270,7 @@ Our only regret was that they could not stop longer in India." - Albert Norton. 
 ただ一つ残念だったのは、二人がインドにもっと長くとどまれなかったことである」（アルバート・ノートン）。オーリー兄弟と私は別々の船でインドに着いたが、神の摂理によって、着いたのは同じ時だった。
 
 Brother Pike wrote in "Way of Faith," at my homecoming, as follows: "Our readers will join us in humble and hearty thanks to God for keeping our dear brother on land and sea, in storm and calm, amid friends and foes, unwholesome surroundings and uncomfortable lodgings.
-私が帰ってきたとき、パイク兄弟は『ウェイ・オブ・フェイス』に次のように書いた。「神は、私たちの愛する兄弟を守ってくださった。陸でも海でも、嵐の時も凪の時も、味方の中でも敵の中でも、不健康な環境と居心地の悪い宿の中でもである。読者も私たちと共に、へりくだって心から神に感謝してくださるだろう。
+私が帰ってきたとき、パイク兄弟は『ウェイ・オブ・フェイス』に次のように書いた。「神は、私たちの愛する兄弟を守ってくださった。陸でも海でも、嵐の時も凪の時も、味方の中でも敵の中でも、不健康な環境と居心地の悪い宿の中でもである。読者も私たちと共に、へりくだって心から神に感謝するだろう。
 Amid all he has been kept in health, and we believe has fulfilled the mission which was accomplished, under divine direction.
 そのすべての中で、彼は健康を守られた。そして、神の導きのもとで果たされたその使命を、彼は全うしたと私たちは信じている。
 The results of that mission will only be known when the books are opened and the record read.
