@@ -60,7 +60,7 @@
 + [x] Part III. The Bride in Her Veil of Types and Shadows
 + [x] Part III. Isaac and Rebecca
 + [x] Part III. The Life and Growth of Peter
-+ [ ] Part III. The Temple / Getting Down
++ [x] Part III. The Temple / Getting Down
 + [ ] Part III. Covet Earnestly Spiritual Gifts
 + [ ] Part III. The Valley of Dry Bones
 + [ ] Part III. "Death in the Pot" (1)
