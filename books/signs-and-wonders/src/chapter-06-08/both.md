@@ -16,11 +16,11 @@ About nine years previous there had been strife in the church, and the members b
 The class-leader, a man tottering upon the verge of the grave, bless God, was reclaimed.
 組長は墓の縁でよろめいているような人だったが、神はほむべきかな、立ち返った。
 His wife and nearly all his family were also brought into the fold.
-その妻と、家族のほとんどみなも、群れの中に連れ戻された。
+その妻と、家族のほとんどみなも、群れの中に導き入れられた。
 Another brother, who had been a great help to the cause, but had lost his power and experience, said he would never again take an interest in religion.
 もうひとりの兄弟は、かつて主の働きを大いに助けた人だったが、力も救いの経験も失っていた。彼は、二度と信仰に関心を持つことはないと言った。
 The first night the house was crowded, and if ever I needed the prayers of the people, it was then.
-最初の夜、会堂はいっぱいだった。人々の祈りが必要な時があったとすれば、それはまさにその時だった。
+最初の夜、会堂はいっぱいだった。人々の祈りが必要なときがあったとすれば、それはまさにそのときだった。
 I was so weak I could hardly get up in the stand.
 私はひどく弱っていて、説教台に上がるのもやっとだった。
 I called on this man to pray.
@@ -30,7 +30,7 @@ He commenced: "Lord, thou hast sent her here. If she preaches to the day of judg
 I raised my head to see who he was.
 私は顔を上げて、だれなのかを見た。
 I said: "My good man, you will change your mind before many days; if you cannot pray for me, I can pray for myself."
-私は言った。「あなた、幾日もたたないうちに、あなたは考えを変えるでしょう。私のために祈れないのなら、私は自分のために祈れます」
+私は言った。「あなた、幾日もたたないうちに、考えを変えることになるでしょう。私のために祈れないのなら、私は自分のために祈れます」
 And I believe it gave me strength and power.
 そのことが私に力と強さを与えたのだと思う。
 
@@ -48,7 +48,7 @@ Those who are prejudiced or ready to fight me when I go to a new place of battle
 Many whole families were brought into the church.
 多くの家族が、家族ごと教会に迎え入れられた。
 There was hardly a family for three miles around where there was not one or more of its members converted in the meeting.
-三マイル四方で、集会でだれかが回心しなかった家族は、ほとんどなかった。
+周囲三マイルのうちで、集会で家族のだれも回心しなかったという家は、ほとんどなかった。
 The meeting lasted five weeks, day and night, the interest increasing all the time.
 集会は昼も夜も五週間続き、人々の関心はますます高まっていった。
 The house was crowded to overflowing most of the time.
@@ -173,19 +173,19 @@ I went to him and talked and prayed with him.
 He received the blessing like a little child.
 彼は幼な子のように祝福を受けた。
 He gave himself fully to Jesus, and looked up to heaven for the witness; and, bless the Lord, it came.
-彼はすっかりイエスに身をゆだね、天を仰いで救いの証しを求めた。主はほむべきかな、証しは与えられた。
+彼はすっかりイエスに身をゆだね、天を仰いで御霊のあかしを求めた。主はほむべきかな、あかしは与えられた。
 
 God bless and keep the dear old father!
-神がこの愛する老人を祝福し、守ってくださるように！
+神がこの愛する老人を祝福され、守ってくださるように！
 I expect to meet him in heaven and talk of God's wonderful mercy in saving him at the eleventh hour.
-私は天国で彼に会い、十一時に彼を救ってくださった神の驚くべきあわれみについて語り合うのを楽しみにしている。
+私は天国で彼に会い、最後の時刻に彼を救ってくださった神の驚くべきあわれみについて語り合うのを楽しみにしている。
 
 # 第七章　幻
 CHAPTER VII
 VISIONS
 
 On arriving at Monroeville, Allen County, Indiana, we called on Brother M., the pastor in charge, and commenced meeting that evening in the Methodist Episcopal Church, November, 1883.
-インディアナ州アレン郡モンローヴィルに着くと、私たちは主任牧師のM兄弟を訪ね、その晩からメソジスト監督教会で集会を始めた。一八八三年十一月のことである。
+インディアナ州アレン郡モンローヴィルに着くと、私たちは主任牧師のM兄弟を訪ねた。そして、その晩からメソジスト監督教会で集会を始めた。一八八三年十一月のことである。
 The church, with a few exceptions, was dead.
 その教会は、わずかな人を除いて、死んでいた。
 There had not been a revival in the town for years, to amount to anything, and nearly everyone predicted a failure.
@@ -193,11 +193,11 @@ There had not been a revival in the town for years, to amount to anything, and n
 They had not had a mourner's bench for nine or ten years.
 九年か十年のあいだ、悔い改めの席も置いていなかった。
 At the close of the next day's meeting I asked the sexton to set the musical instrument back, and bring up to the front the poor despised mourner's bench.
-次の日の集会の終わりに、私は堂守に、オルガンを後ろに下げ、あわれにも見捨てられていた悔い改めの席を前に出してほしいと頼んだ。
+次の日の集会の終わりに、私は堂守に頼んだ。オルガンを後ろに下げ、あわれにもさげすまれていた悔い改めの席を、前に出してほしい、と。
 He laughed, and said he would.
 堂守は笑って、そうしましょうと言った。
 When the people saw the mourners' bench they said it would be a good joke on me; that we would have no use for it.
-悔い改めの席を見て、人々は言った。これはいいもの笑いの種になる。あの席を使うことなどないだろうから、と。
+悔い改めの席を見て、人々は言った。これであの女はいい笑いものになる。あの席を使うことなどないだろうから、と。
 While preaching that night I shouted victory and told them to clear the altar--for the house was crowded--and called for seekers.
 その夜、私は説教しながら勝利を叫び、祭壇の前をあけるように言った。会堂は人でいっぱいだったからである。そして、求道者を招いた。
 They began crowding to the altar, and continued to do so for three weeks, day and night.
@@ -298,13 +298,13 @@ That day is here.
 It requires a great deal of the grace of God to tell these things, the world is so filled with unbelief.
 世は不信仰に満ちているので、こうしたことを語るには、神の大きな恵みが要る。
 But Jesus said it should be so: "People should wax worse and worse." "There should be a falling away in the churches." "False teachers should arise having the form of godliness, but denying the power; freq such turn away."
-しかしイエスは、そうなると言われた。「人々はますます悪くなる」「教会の中に背教が起る」「信心深い様子をしながらその力を否定する偽教師が起る。こうした人々を避けなさい」
+しかしイエスは、そうなると言われた。「人々はますます悪くなる」「教会の中に背教が起こる」「信心深い様子をしながらその力を否定する偽教師が起こる。こうした人々を避けなさい」
 // 第二テモテ三・一三、第二テサロニケ二・三、第二テモテ三・五 の言い換え。英文はイエスの言葉としている。英文の freq は from の読み誤り。
 
 As I plead with sinners, how my heart goes out to them in love and pity, knowing that the same message will seal the destiny of some for Eternal Life and some for Eternal Damnation.
 罪人たちに嘆願するとき、私の心はどれほど愛とあわれみをもって彼らに向かうことか。同じ言葉が、ある人には永遠のいのちを、ある人には永遠の滅びを定めることを知っているからである。
 It is a terrible thing to procrastinate till the Spirit leaves us to our doom, till we become past feeling, given over to hardness of heart.
-先へ先へと延ばしているうちに、御霊が私たちを滅びのままに捨て置かれ、私たちが無感覚になり、かたくなな心に引き渡されてしまう。それは恐ろしいことである。
+先へ先へと延ばしているうちに、御霊が私たちを滅びのままに捨て置かれる。私たちは無感覚になり、かたくなな心に引き渡されてしまう。それは恐ろしいことである。
 "As I live saith the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live. Turn ye, turn ye from your evil ways; for why will ye die?"
 『主なる神は言われる、わたしは生きている。わたしは悪人の死を喜ばない。むしろ悪人が、その道を離れて生きるのを喜ぶ。あなたがたは心を翻せ、心を翻してその悪しき道を離れよ。あなたがたはどうして死んでよかろうか』（エゼキエル三三・一一）。
 Life is set before you without money and without price, but it will avail you nothing unless you accept him as your personal Savior.
@@ -406,7 +406,7 @@ There were about fifty converted, and many reclaimed.
 The work has been going on gloriously.
 働きは今も栄光のうちに続いている。
 My prayer for the dear people of Hoagland is that they may be kept in peace and love, until God shall say come up higher, where we shall meet again.
-ホーグランドの愛する人々のための私の祈りは、こうである。神が、さらに上に上がって来なさいと言われる時まで、人々が平和と愛のうちに守られるように。そこで私たちは再び会うだろう。
+ホーグランドの愛する人々のための私の祈りは、こうである。神が、もっと上に上って来なさいと言われるときまで、人々が平和と愛のうちに守られるように。そこで私たちは再び会うだろう。
 
 On Friday evening I held meeting in the Lutheran Church.
 金曜日の夜、私はルーテル教会で集会を開いた。
@@ -423,7 +423,7 @@ Fourteen ministers were present during this meeting.
 In the evening the people came by hundreds.
 夜になると、人々が何百人もやって来た。
 It is said that there were about two thousand on the ground; and although the lights were very poor, the best of order prevailed.
-会場には二千人ほどがいたという。明かりはたいへん乏しかったが、たいへんよく秩序が保たれた。
+会場には二千人ほどがいたという。明かりはひどく乏しかったが、たいへんよく秩序が保たれた。
 
 There were two or three hundred persons present who had been converted in my meetings in the past winter.
 この前の冬に私の集会で回心した人が、二、三百人来ていた。
@@ -439,7 +439,7 @@ It was a trying moment for me.
 For all we had such a time of rejoicing, the devil was in the camp.
 あれほど喜びの時を過ごしていたのに、悪魔が陣営の中にいたのである。
 As in ancient times when the sons of men came to worship, Satan came also, as he did in the Garden of Eden, only in a different form, but with the same motive and jealousy.
-昔、人の子らが礼拝に来たとき、サタンもやって来た。サタンはエデンの園でもそうした。形は違っても、同じたくらみとねたみを持って来たのである。
+昔、人の子らが礼拝に来たとき、サタンもその中に来た。このときも同じだった。サタンは、エデンの園に来たときとは形を変えて、しかし同じねらいとねたみを持って来たのである。
 // 英文の sons of men は、ヨブ一・六 では「神の子たち」。
 The devil was always jealous of God and his work.
 悪魔はいつも、神と神のみわざをねたんできた。
@@ -460,7 +460,7 @@ I had not a moment to prepare or collect my thoughts, and I had never stood befo
 準備をする暇も、考えをまとめる暇もまったくなかった。しかも、これほどの群衆の前に立ったことはなかった。
 
 I felt that I must talk on the deepest subject in the Bible, "the Unpardonable Sin and the Office of the Holy Ghost."
-私は、聖書の最も深い主題について語らなければならないと感じた。「赦されない罪と聖霊の務め」である。
+私は、聖書の最も深い主題について語らなければならないと感じた。「ゆるされない罪と聖霊の務め」である。
 I cried: "Lord, help me, and glorify thyself."
 私は叫んだ。「主よ、お助けください。そして、ご自身の栄光を現してください」
 The words came: "And he said unto me, Son of Man, stand upon thy feet, and I will speak unto thee. Be not afraid of their faces, neither their look, lest I confound you. I am with you to deliver you."
@@ -478,7 +478,7 @@ The subject was revealed to me as clear as day.
 The words came faster than I could speak.
 口に出すのが追いつかないほど速く、言葉が与えられた。
 Glory to God for his loving kindness and present help in every time of need!
-神のいつくしみと、どんなに困ったときにも、いつもそこにある助けのゆえに、神に栄光あれ！
+神のいつくしみのゆえに、また、悩みの時にはいつでもいと近き助けとなってくださることのゆえに、神に栄光あれ！
 
 There was an aged minister present who came to me and said, surely God was speaking through the clay; he had never heard the subject made so plain in all the points; that people had received light, and that Eternity alone would tell the result of that meeting.
 そこにいた年老いた牧師が私のところに来て、言った。確かに神がこの土くれを通して語っておられた。この主題が、どの点もこれほどはっきり説き明かされたのを聞いたことがない。人々は光を受けた。この集会の実りは、永遠だけが明らかにするだろう、と。
@@ -563,7 +563,7 @@ When he went forward in the ordinance of feet-washing, a little boy, who had bee
 It was an affecting sight.
 心を打つ光景だった。
 Surely he came in at the eleventh hour.
-彼はまさに十一時に入ってきたのである。
+彼はまさに最後の時刻に入ってきたのである。
 He said he was just waiting for the Master to call him home.
 主が家へ呼んでくださるのを、ただ待っているのだ、と彼は言った。
 In the latter part of June he was taken sick and suffered very much.
