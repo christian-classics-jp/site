@@ -18,7 +18,7 @@
 + [x] Chapter VI. Calling into the Vineyard, and Marriage
 + [x] Chapter VII. Early Ministry--My Broken Ankle Healed
 + [x] Chapter VIII. Call to Foreign Fields
-+ [ ] Chapter IX. The Death of My Husband
++ [x] Chapter IX. The Death of My Husband
 + [ ] Chapter X. Nineveh to Tarshish--and Return
 + [ ] Chapter XI. Getting Back
 + [ ] Chapter XII. Revival Fires Fall
