@@ -13,7 +13,7 @@ Although the water was flowing over the road and had filled the gullies either s
 
 At noon, looking across the great stretches of prairie, the city of Tulsa came into view, and as we saw the skyline, the buildings and payed streets, after wading through the slough of despond, we shouted and praised the Lord, for it seemed that must be the way it will be when a soul is n earing Heaven, coming up the last lap of the journey--the beautiful city, with its walls of jasper looming just before, no more stones, mud, deep ruts or ditches to be avoided, but smooth streets that are paved with gold; no more camping by the way in darkness, for there will be an eternal day.
 // 英文は「payed streets」「n earing」。paved streets、nearing として訳した。
-昼ごろ、大草原のはるか向こうに、タルサの町が見えてきた。失望の沼を渡ってきたあとで、空を背にした町の輪郭や建物、舗装された通りを見ると、私たちは叫んで主をほめたたえた。魂が天に近づき、旅の最後の一区間を上って行くときも、きっとこのようだろうと思えたのである。美しい都が、碧玉の城壁を目の前にそびえさせている。よけなければならない石も泥も、深いわだちも溝も、もうない。あるのは、金で舗装された平らな通りである。暗闇の中を道ばたでキャンプすることも、もうない。永遠の昼があるからである。
+昼ごろ、大草原のはるか向こうに、タルサの町が見えてきた。失望の沼を渡ってきたあとで、空を背にした町の輪郭や建物、舗装された通りを見ると、私たちは叫んで主をほめたたえた。魂が天に近づき、旅の最後の一区間を上って行くときも、きっとこのようだろうと思えたのである。目の前には、碧玉の城壁をめぐらした美しい都がそびえている。よけなければならない石も泥も、深いわだちも溝も、もうない。あるのは、金で舗装された平らな通りである。暗闇の中を道ばたでキャンプすることも、もうない。永遠の昼があるからである。
 
 ## 着いた日に教会が再開される
 ARRIVE DAY CHURCHES RE-OPEN.
@@ -22,13 +22,13 @@ Sabbath morning, as we were driving into the streets of the city, the first serv
 その日曜日の朝、私たちが町の通りに車を乗り入れたとき、アッセンブリーズ・オブ・ゴッドの幕屋では、最初の礼拝が開かれていた。ハレルヤ！　大きな福音自動車を自分で運転し、世話をしてきたので、私たちはおなかがすき、疲れ、ほこりまみれだった。けれども、集会の時刻が来るまでに、食事をとる時間はほとんどなかった。
 
 The large tabernacle was well filled, both with people and the glory of the Lord. We found here a strong Pentecostal Assembly, deeply taught and rooted in the Word, clean and free from error, free in the Spirit, and filled with love.
-大きな幕屋は、人々でも主の栄光でも満ちていた。ここで私たちは、しっかりしたペンテコステの集会に出会った。みことばに深く教えられて根を下ろし、清く、誤りがなく、御霊のうちに自由で、愛に満ちた集会である。
+大きな幕屋は、人々と主の栄光とで満ちていた。ここで私たちは、しっかりしたペンテコステの集会に出会った。みことばに深く教えられて根を下ろし、清く、誤りがなく、御霊のうちに自由で、愛に満ちた集会である。
 
 ## 信仰復興に先立つ祈り
 PRAYER PRECEDES REVIVAL.
 
 For many weeks, the Tulsa saints were praying definitely for the coming revival. Days of fasting and prayer were observed. With such prayers it was no wonder the Lord brought us through in safety, no wonder the ban was lifted according to the promise God gave me, no wonder seventeen men and women who know not God lifted their hands for prayers and that sinners began coming to the altar from the first night, no wonder the Latter Rain came down in such showers, no wonder sick were healed and some were raised up from death's door, no wonder our tired bodies were rested and refreshed so that we could keep going day and night with scarcely a moment to ourselves. Why, it was as though we had come in contact with a live wire, the faith and hunger and prayers of these dear people. The meetings grew in power and we preached to overflow audiences. Sinners and saints flocked to the altar seeking salvation and the baptism of the Spirit.
-何週間ものあいだ、タルサの聖徒たちは、来たるべき信仰復興のためにはっきりと祈っていた。断食と祈りの日も守られた。このような祈りがあったのだから、主が私たちを無事に通してくださったのも不思議ではない。神が私に与えてくださった約束のとおりに、集会の禁止が解かれたのも不思議ではない。神を知らない十七人の男女が祈ってほしいと手を上げ、最初の夜から罪人たちが祭壇に来始めたのも、不思議ではない。後の雨があれほど激しく降り注いだのも、病人がいやされ、死の戸口から起き上がった人がいたのも、不思議ではない。私たちの疲れた体が休まり、元気を取り戻したのも、不思議ではない。おかげで私たちは、自分の時間などほとんどないまま、昼も夜も働き続けることができた。まるで、電流の通じた電線に触れたかのようだった。この愛する人たちの信仰と飢え渇きと祈りのことである。集会は力を増し、私たちはあふれるほどの会衆に説教した。罪人も聖徒も祭壇に押し寄せ、救いと御霊のバプテスマを求めた。
+何週間ものあいだ、タルサの聖徒たちは、来たるべき信仰復興のためにはっきりと祈っていた。断食と祈りの日も守られた。このような祈りがあったのだから、主が私たちを無事に通してくださったのも不思議ではない。神が私に与えてくださった約束のとおりに、集会の禁止が解かれたのも不思議ではない。神を知らない十七人の男女が祈ってほしいと手を上げ、最初の夜から罪人たちが祭壇に来始めたのも、不思議ではない。後の雨があれほど激しく降り注いだのも、病人がいやされ、死の戸口から起き上がった人がいたのも、不思議ではない。私たちの疲れた体が休まり、元気を取り戻したのも、不思議ではない。おかげで私たちは、自分の時間などほとんどないまま、昼も夜も働き続けることができた。まるで、電流の通じた電線に触れたかのようだった。その電線とは、この愛する人たちの信仰と飢え渇きと祈りである。集会は力を増し、私たちはあふれるほどの会衆に説教した。罪人も聖徒も祭壇に押し寄せ、救いと御霊のバプテスマを求めた。
 
 ## 病人がいやされる
 SICK HEALED.
@@ -46,10 +46,10 @@ At times it was impossible to lead the meeting as the place was swept with the p
 主への賛美がその場を吹き渡り、集会を導くことができなくなることもあった。私たちは、このうえなく驚くべき聖餐式の一つを目にした。心が溶かされ、涙とともに打ち砕かれ、血がほめたたえられた。パンとぶどう酒が配られるあいだ、異言のメッセージと解き明かしがあった。それから主の来臨が宣べ伝えられ、父の御国で主とともに新しくぶどう酒を飲むその日のことが語られた（マタイ二六・二九）。すると聖なる笑いと賛美の叫びが起こった。
 
 The heavenly anthem and the playing under the power of the Holy Spirit were like unto II Chron. 5: 13, 14.
-天の賛歌も、聖霊の力のもとでの楽器の演奏も、歴代志下五章一三、一四節に記されているとおりだった。
+天の賛歌も、聖霊の力のもとでの楽器の演奏も、歴代志下五章十三節と十四節に記されているとおりだった。
 
 Ofttimes, just before, during or after the preaching of the Word, the Spirit would break forth with the most stirring, searching and encouraging messages in tongues and interpretation. The people would leap to their feet as one, and throwing up their hands, shout His praises until it seemed that the very heavens rang.
-みことばの説教の直前にも、最中にも、あとにも、御霊はしばしば異言のメッセージと解き明かしをほとばしらせられた。心を揺さぶり、探り、励ますメッセージである。人々は一斉に跳び上がり、手を上げて、主をほめたたえて叫んだ。天そのものが鳴り響くかと思われるほどだった。
+みことばの説教の直前にも、最中にも、あとにも、御霊はしばしば異言のメッセージと解き明かしをほとばしらせられた。心を揺さぶり、探り、励ますメッセージである。人々は一斉にさっと立ち上がり、手を上げて、主をほめたたえて叫んだ。天そのものが鳴り響くかと思われるほどだった。
 
 ## 火が下る
 FIRE FALLS.
@@ -82,7 +82,7 @@ Such respect I never witnessed in a street meeting; men removed their hats and s
 路傍集会で、これほど敬虔な態度を見たことはなかった。男たちは帽子を取り、頭を垂れて立っていた。女たちは目に涙を浮かべていた。それから呼びかけがあった。罪に疲れ、イエスを救い主として求める人は、祈ってほしいと手を上げるように、と。最初の夜は十八人、二晩目は二十九人が手を上げ、イエスを救い主として求めていることを表した。
 
 Then came a call to step out and kneel upon the sidewalk by "our penitent form," the running-board, and publicly, before their fellow citizens, surrender to Jesus. Tears were on the faces of many. Two ladies stepped out of the crowd and knelt, their tears splashed on the running-board, as our tears of joy over repentant sinners mingled with theirs. At the close of the last meeting several hundred saints marched out of the tabernacle to the street and formed in circles about the car. As they sang and prayed the Spirit fell. There were tongues and interpretation as the saints laid their hands upon the car, asking God to protect it and its occupants, and to send a guard of angels with it to keep it from all danger, and prayed that it might ever be a messenger of life and never of death. These dear ones also dropped their offerings toward gas, oil and tracts, inside the car. God bless them!
-続いて、前に出て、歩道の「私たちの悔い改めの座」、つまり車のステップのそばにひざまずくよう呼びかけた。町の人々の前で、公にイエスに身をゆだねるようにである。多くの人の顔に涙が流れていた。二人の婦人が群衆の中から進み出て、ひざまずいた。その涙がステップにしたたり落ち、悔い改めた罪人たちを喜ぶ私たちの涙も、それに混じった。最後の集会が終わると、何百人もの聖徒たちが幕屋から通りへ行進して出て来て、車の周りに幾重にも輪を作った。聖徒たちが歌い、祈ると、御霊が下った。聖徒たちは車に手を置き、車と乗る人たちを守ってくださるよう神に願った。あらゆる危険から車を守る御使の護衛を、車につけてくださるようにとも願った。そのあいだに、異言と解き明かしがあった。また、車がいつもいのちの使者となり、決して死の使者とならないように祈った。この愛する人たちは、ガソリンと油と伝道文書のための献金も、車の中に入れてくれた。神が彼らを祝福してくださるように！
+続いて、前に出て、歩道の「私たちの悔い改めの座」、つまり車のステップのそばにひざまずくよう呼びかけた。町の人々の前で、公にイエスに身をゆだねるようにである。多くの人の顔に涙が流れていた。二人の婦人が群衆の中から進み出て、ひざまずいた。その涙がステップにしたたり落ち、悔い改めた罪人たちを喜ぶ私たちの涙も、それに混じった。最後の集会が終わると、何百人もの聖徒たちが幕屋から通りへ行進して出て来て、車の周りに幾重にも輪を作った。聖徒たちが歌い、祈ると、御霊が下られた。聖徒たちは車に手を置き、車と乗る人たちを守ってくださるよう神に願った。あらゆる危険から車を守る御使の護衛を、車につけてくださるようにとも願った。そのあいだに、異言と解き明かしがあった。また、車がいつもいのちの使者となり、決して死の使者とならないように祈った。この愛する人たちは、ガソリンと油と伝道文書のための献金も、車の中に入れてくれた。神が彼らを祝福してくださるように！
 
 ## 大陸横断の旅の続き
 TRANSCONTINENTAL TOUR CONTINUED.
@@ -94,7 +94,7 @@ Leaving Tulsa the Gospel Car turned south by southwest for Oklahoma City, where 
 HELD UP AND WAYLAID.
 
 Hurrying along, trying to make every minute count, we were obliged to draw up at a filling-station, in the little town of Stroud. As we stopped a man sprang from a doorway and leaped toward the car, shouting: "Praise the Lord." Others came running. In another moment the car was encircled with earnest saints praising the Lord and telling us that they had driven from nine to fifteen miles, having learned that this town being on the highway, we must pass through it today. They had picketed themselves at various corners and doorways, and had waited all day since early morning to ask us to their ten-mile distant mission at Kendrick, for a meeting. We shook our heads and told them that this was impossible, as we had promised to be in Oklahoma City Mission that night, and offering them tracts and literature instead. But they held onto the car and one sister's eyes filled with tears, and she trembled with the intensity of her eagerness and hunger. Kendrick was a little place and off the beaten track, and no evangelist or Pentecostal workers ever came that way, and they were not going to let us go by without coming if they could possibly help it.
-一刻もむだにすまいと急いでいた私たちは、ストラウドという小さな町で、給油所に寄らなければならなかった。車を止めると、一人の男の人が戸口から飛び出して、車のほうへ跳んで来た。「主をほめたたえよ」と叫びながらである。ほかの人たちも駆けて来た。たちまち車は、主をほめたたえる熱心な聖徒たちに取り囲まれた。彼らの話では、九マイルから十五マイルも車を走らせて来たという。この町は幹線道路沿いにあるので、私たちが今日ここを通るに違いないと知ったのである。彼らは、あちこちの角や戸口に見張りに立ち、朝早くから一日じゅう待っていた。十マイル離れたケンドリックの伝道所に来て、集会を開いてほしいと頼むためである。私たちは首を振り、それはできないと言った。その夜はオクラホマ・シティの伝道所に行くと約束していたからである。そして代わりに、伝道文書や文書を差し出した。けれども彼らは、車をつかんで放さなかった。一人の姉妹は目に涙をため、熱い願いと飢え渇きのあまり震えていた。ケンドリックは小さな町で、本道からはずれていた。伝道者もペンテコステの働き手も、そちらへはだれも来たことがなかった。それで彼らは、できることなら、私たちが寄らずに通り過ぎるのを許すまいとしていたのである。
+一刻もむだにすまいと急いでいた私たちは、ストラウドという小さな町で、給油所に寄らなければならなかった。車を止めると、一人の男の人が戸口から飛び出して、車のほうへ跳んで来た。「主をほめたたえよ」と叫びながらである。ほかの人たちも駆けて来た。たちまち車は、主をほめたたえる熱心な聖徒たちに取り囲まれた。彼らの話では、九マイルから十五マイルもの道のりをやって来たという。この町は幹線道路沿いにあるので、私たちが今日ここを通るに違いないと知ったのである。彼らは、あちこちの角や戸口に見張りに立ち、朝早くから一日じゅう待っていた。十マイル離れたケンドリックの伝道所に来て、集会を開いてほしいと頼むためである。私たちは首を振り、それはできないと言った。その夜はオクラホマ・シティの伝道所に行くと約束していたからである。そして代わりに、伝道文書や文書を差し出した。けれども彼らは、車をつかんで放さなかった。一人の姉妹は目に涙をため、熱い願いと飢え渇きのあまり震えていた。ケンドリックは小さな町で、本道からはずれていた。伝道者もペンテコステの働き手も、そちらへはだれも来たことがなかった。それで彼らは、できることなら、私たちが寄らずに通り過ぎるのを許すまいとしていたのである。
 
 Our arguments that we must keep our first promise gradually weakened under the steady fire of their pleadings, until we consented to telephone and call up Oklahoma City as a test, that if the saints there were willing, we should stay.
 最初の約束を守らなければならない、という私たちの言い分は、彼らの絶え間ない懇願の攻撃を受けて、しだいに弱っていった。とうとう私たちは、試しにオクラホマ・シティに電話をかけることに同意した。もし向こうの聖徒たちがよいと言うなら、とどまることにしたのである。
@@ -112,29 +112,29 @@ Next morning we pressed on to Oklahoma City, having left a goodly supply of trac
 OKLAHOMA CITY.
 
 The saints were ready and waiting for us. The Lord gave us a precious meeting, pouring out His spirit upon us without measure, and another dear sister received the baptism of the Holy Spirit that night. There were many calls for us to remain, holding meetings amongst the Indians; roundhouses were offered us free of rent, but the season was late and the weather getting cold, great snow storms had been reported farther ahead in the mountains and we hastened on our way.
-聖徒たちは準備を整えて、私たちを待っていた。主は尊い集会を与えてくださり、私たちの上に限りなく御霊を注いでくださった。その夜、また一人の愛する姉妹が聖霊のバプテスマを受けた。とどまってインディアンのあいだで集会を開いてほしいという招きが、たくさんあった。借り賃なしで機関庫を使わせてくれるという申し出もあった。けれども季節はもう遅く、天気は寒くなっていた。この先の山地では大雪が降っていると伝えられていたので、私たちは道を急いだ。
+聖徒たちは準備を整えて、私たちを待っていた。主は尊い集会を与えてくださり、私たちの上に限りなく御霊を注いでくださった。その夜、また一人の愛する姉妹が聖霊のバプテスマを受けた。とどまってインディアンのあいだで集会を開いてほしいという招きが、たくさんあった。借り賃なしで円形の集会所を使わせてくれるという申し出もあった。けれども季節はもう遅く、天気は寒くなっていた。この先の山地では大雪が降っていると伝えられていたので、私たちは道を急いだ。
 
 Our first point of compass was Amarillo, the last town in Oklahoma. From Amarillo to Tucumcari, New Mexico, and thence on to Santa Rosa. As we journeyed, Sister B and my dear mother gave out tracts through fields of cotton to the gangs of road workers, bridge builders, farmers, tent encampments by the way, and to the white-topped caravans as they lumbered slowly on their way.
 // 英文は「Amarillo, the last town in Oklahoma」。アマリロはテキサス州の町だが、英文のまま訳した。
-私たちが最初に目指したのは、オクラホマで最後の町のアマリロだった。アマリロからニューメキシコ州トゥクムキャリへ、そこからサンタ・ローザへ進んだ。旅をしながら、B姉妹と私の愛する母が伝道文書を配った。綿畑を通りながら、道路工事の人夫たちや、橋を架ける人たち、農夫たち、道ばたの天幕の野営地、また白い幌をかけてのろのろと進む幌馬車の列に配ったのである。
+私たちが最初に目指したのは、オクラホマで最後の町のアマリロだった。アマリロからニューメキシコ州トゥクムキャリへ、そこからサンタ・ローザへ進んだ。旅をしながら、B姉妹と私の愛する母が伝道文書を配った。綿畑を通りながら、道路工事の人夫たちや、橋を架ける人たち、農夫たち、道ばたの天幕の野営地、また、のろのろと進む白い幌馬車の列に配ったのである。
 
 Although there had been a heavy snow storm just a week before, and roads were heavy, we got along without any difficulty until after we had left Tucumcari. Here the roads leading to Santa Rosa became more and more dangerous, mud, snow, deep gulches, and steep mountain passes. Had we stopped to inquire about roads ahead (we afterwards learned), drivers would have told us this road was impassable in wet weather.
-一週間前に大雪が降ったばかりで、道は重かった。それでもトゥクムキャリを出るまでは、何の苦労もなく進んだ。ところがここから、サンタ・ローザへ向かう道は、ますます危険になった。泥、雪、深い峡谷、険しい山道である。あとで知ったのだが、もし止まってこの先の道のことを尋ねていたら、運転する人たちは、雨の日にはこの道は通れないと言っただろう。
+一週間前に大雪が降ったばかりで、道はぬかるんでいた。それでもトゥクムキャリを出るまでは、何の苦労もなく進んだ。ところがここから、サンタ・ローザへ向かう道は、ますます危険になった。泥、雪、深い峡谷、険しい山道である。あとで知ったのだが、もし止まってこの先の道のことを尋ねていたら、運転する人たちは、雨や雪のあとは、この道は通れないと言っただろう。
 
 Miles and miles we traveled, where the only sign of life was an occasional prairie-dog or rolling tumble-weed. Deeper, ever deeper the wheels cut in the soft mud till it was flying clear over the top of the car. I got out and put the skid-chains on, and on we went. Santa Rosa was only nine miles away, and our eyes were constantly on the speedometer, as we sighed with relief each new mile we covered.
-何マイルも何マイルも走った。命あるもののしるしといえば、ときおり見かけるプレーリードッグか、転がっていく回転草だけだった。車輪は柔らかい泥に、深く、さらに深く食い込んでいき、ついには泥が車の上まで飛ぶようになった。私は車を降りて滑り止めの鎖を付け、また進んだ。サンタ・ローザまでは、もうわずか九マイルだった。私たちは速度計から目を離さず、一マイル進むごとにほっと息をついた。
+何マイルも何マイルも走った。いのちあるもののしるしといえば、ときおり見かけるプレーリードッグか、転がっていく回転草だけだった。車輪は柔らかい泥に、深く、さらに深く食い込んでいき、ついには泥が車の上まで飛ぶようになった。私は車を降りて滑り止めの鎖を付け、また進んだ。サンタ・ローザまでは、もうわずか九マイルだった。私たちは距離計から目を離さず、一マイル進むごとにほっと息をついた。
 
 Darkness had now overtaken us, but with the good lights of the car we crept on in low gear, the two sisters walking, Roberta and Rolf, my two children, asking how they could help me drive. The wind was sweeping over the prairie in icy blasts when the car at last settled down to the fenders.
 もう暗くなっていたが、車の明かりがよかったので、低速ギアでそろそろと進んだ。二人の姉妹は歩いていた。私の二人の子供、ロバータとロルフは、どうしたら運転を手伝えるかと尋ねていた。凍るような風が大草原を吹きすさんでいたそのとき、車はとうとう泥よけまで沈み込んでしまった。
 
 Our first thought was to search for lumber to jack the car up on, but not a tree had we passed for a hundred miles. Sister B and myself at last set off over the plains to search for help, and the Lord directed us to the home of a Mexican, who came with team and labored till two a. m. without avail. It dawned upon us at last that the Lord did not want us to go on that night, and though we have always taught and believed that ALL THINGS work together for good to those who loved the Lord and were called according to His purpose, we could hardly see that this was one of the "all things."
-最初に考えたのは、車をジャッキで持ち上げるための材木を探すことだった。けれども、この百マイルのあいだ、木は一本も見かけなかった。とうとうB姉妹と私は、助けを求めて平原を歩き出した。主は私たちを、一人のメキシコ人の家へ導いてくださった。その人は馬を連れて来て、夜中の二時まで働いてくれたが、むだだった。主は私たちがその夜先へ進むのを望んでおられないのだと、ようやく私たちは気づいた。私たちはいつも、主を愛し、ご計画に従って召された者には「すべてのこと」が共に働いて益となる、と教え、信じてきた（ローマ八・二八）。けれども、これがその「すべてのこと」の一つだとは、とても思えなかった。
+最初に考えたのは、車をジャッキで持ち上げるための材木を探すことだった。けれども、この百マイルのあいだ、木は一本も見かけなかった。とうとうB姉妹と私は、助けを求めて平原を歩き出した。主は私たちを、一人のメキシコ人の家へ導いてくださった。その人は馬を連れて来て、夜中の二時まで働いてくれたが、むだだった。主は私たちがその夜先へ進むのを望んでおられないのだと、ようやく私たちは気づいた。私たちはいつも、主を愛し、ご計画に従って召された者には「万事」が共に働いて益となる、と教え、信じてきた（ローマ八・二八）。けれども、これがその「万事」の一つだとは、とても思えなかった。
 
 The two sisters spent the night in the two-miles distant Mexican adobe house, I and the children (now asleep) in the car. I spent the night in prayer, and just at daybreak came the Mexicans in their wagon with more boards, and the first time trying we were out of the mud and on our way.
 二人の姉妹は、二マイル離れたメキシコ人の日干しれんがの家で夜を過ごした。私と子供たち（もう眠っていた）は車の中で過ごした。私は夜通し祈った。ちょうど夜明けに、メキシコ人たちが、もっと板を積んで荷馬車でやって来た。そして最初に試みたとき、車は泥から抜け出し、私たちはまた道を進み始めた。
 
 We had not gone more than a mile when we saw God's reason for holding us back; deep washouts and gulches had to be crossed, where only good light, and careful driving could have saved the car and its passengers. But the Lord was with us and the guard of angels was never more real to us, and though water came over the fenders at times, we never had to stop again.
-一マイルも行かないうちに、神が私たちを引き止められたわけがわかった。水で深くえぐられた所や峡谷を、いくつも渡らなければならなかったのである。よい明かりと注意深い運転がなければ、車も乗っている者も助からなかっただろう。けれども主は私たちとともにおられ、御使の護衛がこれほど身近に感じられたことはなかった。ときには水が泥よけの上まで来たが、もう一度も止まらずにすんだ。
+一マイルも行かないうちに、神が私たちを引き止められたわけがわかった。水で深くえぐられた所や峡谷を、いくつも渡らなければならなかったのである。明るい昼の光と注意深い運転がなければ、車も乗っている者も助からなかっただろう。けれども主は私たちとともにおられ、御使の護衛がこれほど身近に感じられたことはなかった。ときには水が泥よけの上まで来たが、もう一度も止まらずにすんだ。
 
 ## サンタ・ローザ
 SANTA ROSA.
@@ -144,7 +144,7 @@ Beaching the town, cold, hungry, wet and muddy, the Lord had a blessed surprise 
 寒く、おなかをすかせ、ぬれて泥まみれで町に着くと、主はすばらしい驚きを用意していてくださった。広場に着くと、一組の若い夫婦が通りを駆けて渡って来て、叫んだ。
 
 "Praise the Lord! Won't you come right to our house? O, we are so glad to see some Pentecostal saints, haven't met any for over two years! Come and stay a week, can't you?"
-「主をほめたたえよ！　すぐ私たちの家に来てくださいませんか。ああ、ペンテコステの聖徒に会えて、ほんとうにうれしい。もう二年以上、一人にも会っていないんです。一週間泊まっていってくださいますよね」
+「主をほめたたえよ！　すぐ私たちの家に来てくださいませんか。ああ、ペンテコステの聖徒に会えて、ほんとうにうれしい。もう二年以上、一人にも会っていないんです。一週間泊まっていっていただけませんか」
 
 How wonderful, here in a wilderness, where we never would have expected to meet a soul who had received the Holy Spirit, They welcomed, fed and warmed us, washed our muddy car, gave us dry clothes while ours were washed. Even the sister's shoes fitted our feet, and her children's, clothes fitted the little ones. How we sang and prayed and the power fell; their hearts were starved, they needed us and we needed them, and we all needed the Lord, and He satisfied the need. Hallelujah!
 // 英文は「Holy Spirit, They」「her children's, clothes」。, は崩れとみて、前者は文の切れ目として訳した。
@@ -155,7 +155,7 @@ From Santa Rosa we journeyed across the state of New Mexico, via Socorro. We had
 サンタ・ローザから、ソコロを経てニューメキシコ州を横断した。北の道を通ってダティル山地を越えるつもりだったが、峠は雪でいっぱいだった。それで南の道へ下り、ニューメキシコ州デミングへ、そこからツーソンへ、さらにアリゾナ州フェニックスへ進んだ。
 
 Many miles of desert with no signs of life; the giant cactus towered above the car and occasional coyotes skulked in the distance. Houses were sixty and eighty miles apart, and so our kind and thoughtful Father sent us through this long-stretch of road with three other automobiles, making the party of four in all, the other cars being seasoned travelers with kind-hearted men and women who offered assistance and encouragement all the way, one of them even driving the car for two days to rest my arms.
-何マイルも何マイルも、命あるもののしるしのない砂漠が続いた。巨大なサボテンが車の上にそびえ、ときおり遠くをコヨーテがこそこそと歩いていた。家と家とは六十マイルも八十マイルも離れていた。それで、優しく思いやりのある天の父は、この長い道のりを、ほかの三台の自動車といっしょに通らせてくださった。一行は全部で四台になった。ほかの車の人々は旅慣れていて、心の優しい男女だった。道中ずっと手を貸し、励ましてくれた。その一人は、私の腕を休ませるために、二日間車を運転してくれさえした。
+何マイルも何マイルも、いのちあるもののしるしのない砂漠が続いた。巨大なサボテンが車の上にそびえ、ときおり遠くをコヨーテがこそこそと歩いていた。家と家とは六十マイルも八十マイルも離れていた。それで、優しく思いやりのある天の父は、この長い道のりを、ほかの三台の自動車といっしょに通らせてくださった。一行は全部で四台になった。ほかの車の人々は旅慣れていて、心の優しい男女だった。道中ずっと手を貸し、励ましてくれた。その一人は、私の腕を休ませるために、二日間車を運転してくれさえした。
 
 From Phoenix we were advised to go north to Needles, Cal., thus striking the old National trail again and avoiding the deep sand of Yuma and other southern points. This stretch of sand and stone took us over the last of our poor roads, for at Needles we struck a boulevard which ran through the desert to the top of the mountains, through the mountain passes leading on down the long grade, where we were able to coast for many miles through the winding grades and beautiful scenery, until we came to San Bernardino, Cal.
 フェニックスからは、北のカリフォルニア州ニードルズへ行くよう勧められた。そうすれば、またナショナル・トレイルの古い道に出られる。ユマなど南の地方の深い砂も避けられる。この砂と石の道のりが、悪い道の最後だった。ニードルズからは、大通りが砂漠を抜けて山の頂まで通じていたのである。道は山の峠を抜け、長い下り坂へと続いていた。曲がりくねった坂と美しい景色の中を、何マイルも惰性で下って行くことができた。そしてカリフォルニア州サンバーナーディーノに着いた。
