@@ -261,10 +261,10 @@ At Oakland, Brother Manley, of his own volition, had printed and distributed 50,
 "But what has God to do with earthquakes? 'When Thy judgments are in the earth, the inhabitants of the world learn righteousness.' - Isa. 26:9.
 「しかし、神が地震と何のかかわりがあるのか。『あなたのさばきが地に行われるとき、世に住む者は正義を学ぶ』（イザヤ二六・九）。
 Which removeth the mountains, when He overturneth them in His anger, which shaketh the earth out of her place, and the pillars thereof tremble.' - Job 9:5, 6.
-『彼は、怒りをもって山をくつがえし、これを移される。彼が、地を震い動かしてその所を離れさせられると、その柱はゆらぐ』（ヨブ九・五、六）。
+『彼は、怒りをもって山をくつがえし、これを移される。彼が、地を震い動かしてその所を離れさせられると、その柱はゆらぐ』（ヨブ九・五〜六）。
 // 英文はこの引用の初めの引用符がない。
 'The mountains quake at Him, and the hills melt; and the earth is upheaved at His presence, yea, the world, and all that dwell therein. His fury is poured out like fire, and the rocks are broken asunder by Him,' - Nahum 1:5, 6.
-『もろもろの山は彼の前に震い、もろもろの丘は溶け、地も、世界とその中に住む者も皆、彼の前に揺れ上がる。その憤りは火のように注がれ、岩も彼によって裂かれる』（ナホム一・五、六）。
+『もろもろの山は彼の前に震い、もろもろの丘は溶け、地も、世界とその中に住む者も皆、彼の前に揺れ上がる。その憤りは火のように注がれ、岩も彼によって裂かれる』（ナホム一・五〜六）。
 // 口語訳は「地は彼の前にむなしくなり」。英文（upheaved）と地震の文脈に合わせて言い換えた。
 'And I will punish the world for their evil. Therefore I will make the heavens to tremble, and the earth shall be shaken out of her place, in the day of His fierce anger - Isa, 13:11, 13.
 『わたしはその悪のために世を罰する。それゆえ、その激しい怒りの日に、わたしは天を震わせ、地は揺り動いて、その所をはなれる』（イザヤ一三・一一、一三）。
@@ -282,7 +282,7 @@ The foundations of the earth do shake, the earth is utterly broken, the earth is
 'Men shall go into the caves of the rocks, from before the terror of the Lord, when he arises to shake terribly the earth.' - Isa. 2:19.
 『主が立って地を激しく震わせられるとき、人々は主の恐るべきみ前を避けて、岩のほら穴にはいる』（イザヤ二・一九）。
 'And the seventh angel poured out his vial into the air and there was a great earthquake.' - Rev, 16:17, 18.
-『第七の御使が、その鉢を空中に傾けた。すると、激しい地震があった』（黙示録一六・一七、一八）。
+『第七の御使が、その鉢を空中に傾けた。すると、激しい地震があった』（黙示録一六・一七〜一八）。
 And will you claim there is no God in earthquakes? John Wesley has said, 'Of all the judgments which the righteous God inflicts on sinners here, the most dreadful and destructive is an earthquake.' " - From "Earthquake Tract," April, 1906.
 それでもあなたは、地震の中に神はおられないと言い張るのか。ジョン・ウェスレーはこう言っている。『正しい神がこの世で罪人に下されるさばきのうち、もっとも恐ろしく、もっとも破壊的なのは地震である』」（『地震』のトラクト、1906年4月）。
 

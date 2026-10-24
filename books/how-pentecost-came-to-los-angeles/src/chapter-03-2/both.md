@@ -30,6 +30,7 @@ Must we necessarily follow some man's composition, before us, always? We are too
 私たちは、いつも必ず、前の時代のだれかが作ったものに従わなければならないのか。私たちは伝統をあがめすぎている。
 The speaking in ''tongues" is not according to man's wisdom or understanding. Then why not a "gift of song?" It is certainly a rebuke to the "jazzy" religious songs of our day. And possibly it was given for that purpose.
 「異言」で語ることは、人の知恵や理解によるものではない。それなら、「歌の賜物」があっていけないわけがあろうか。それは確かに、今の時代の「ジャズのような」宗教歌への戒めである。もしかすると、そのために与えられたのかもしれない。
+// 英文は ''tongues" と、開きの引用符が単引用符二つになっている。
 Yet some of the old hymns are very good to sing, also. We need not despise or treat lightly of them. Some one has said that every fresh revival brings in its own hymnology. And this one surely did.
 とはいえ、古い賛美歌にも、歌うのにとてもよいものがある。それらをさげすんだり、軽んじたりする必要はない。新しいリバイバルはどれも自分の賛美歌をもたらす、と言った人がいる。このリバイバルも確かにそうだった。
 
@@ -40,11 +41,11 @@ We did not even sing from hymn books. All the old, well known hymns were sung fr
 We sang it from fresh, powerful heart experience. Oh, how the power of God filled and thrilled us. Then the "blood" songs were very popular.
 私たちは、心の中の新しく力強い経験から、それを歌った。ああ、神の力は、なんと私たちを満たし、ふるい立たせたことか。それから、「血潮」の歌がとても好まれた。
 "The life is in the blood," Sinai, Calvary, and Pentecost, all had their rightful place in the "Azusa" work. But the "new song" was altogether different, not of human composition.
-「いのちは血の中にある」こと、シナイ、カルバリ、ペンテコステは、どれも「アズサ」の働きの中に、しかるべき場所を持っていた。しかし「新しい歌」は、それとはまったく違っていた。人が作ったものではなかったのだ。
+「いのちは血の中にある」という教えも、シナイも、カルバリも、ペンテコステも、どれも「アズサ」の働きの中に、しかるべき場所を持っていた。しかし「新しい歌」は、それとはまったく違っていた。人が作ったものではなかったのだ。
 It cannot be successfully counterfeited. The crow cannot imitate the dove. But they finally began to despise this "gift," when the human spirit asserted itself again.
 それは、うまくまねることのできないものである。からすは鳩のまねができない。しかし人の霊が再び頭をもたげると、人々はついにこの「賜物」をさげすむようになった。
 They drove it out by hymn books, and selected songs by leaders. It was like murdering the Spirit and most painful to some of us, but the tide was too strong against us.
-彼らは、賛美歌集と、指導者が選んだ歌とで、それを追い出した。それは御霊を殺すようなことで、私たちの何人かにとっては何よりもつらかった。しかし、逆らう潮はあまりに強かった。
+彼らは、賛美歌集と、指導者が選んだ歌とで、それを追い出した。それは御霊を殺すようなことで、私たちの何人かにとってはとてもつらかった。しかし、逆らう潮はあまりに強かった。
 Hymn books today are largely a commercial proposition, and we would not lose much without most of them. The old tunes, even, are violated by change, and new styles must be gotten out every season, for added profit.
 今日の賛美歌集は、おおかたが商売である。その大部分がなくても、私たちは大して損をしないだろう。古い曲でさえ変えられて損なわれている。そして、さらにもうけるために、季節ごとに新しい型を出さなければならないのだ。
 There is very little real spirit of worship in them. They move the toes, but not the hearts of men.
@@ -52,7 +53,7 @@ There is very little real spirit of worship in them. They move the toes, but not
 The spirit of song given from God in the beginning was like the Aeolian harp, in its spontaniety and sweetness. In fact it was the very breath of God, playing on human heart strings, or human vocal cords.
 初めに神から与えられた歌の霊は、おのずから鳴るところも、その美しさも、風が奏でるエオリアン・ハープのようだった。実際それは、人の心の琴線や声帯を奏でる、神の息そのものだった。
 The notes were wonderful in sweetness, volume and duration. In fact they were oftimes humanly impossible. It was "singing in the Spirit."
-その調べは、美しさも、豊かさも、長さもすばらしかった。実際、人間にはできないものであることも多かった。それは「霊で歌う」ことだったのだ。
+その調べは、美しさも、声量も、長さもすばらしかった。実際、人間にはできないものであることも多かった。それは「霊で歌う」ことだったのだ。
 
 Brother Seymour was recognized as the nominal leader in charge. But we had no pope or hierarchy. We were "brethren." We had no human programme. The Lord Himself was leading.
 シーモア兄弟は、名目上の責任者と認められていた。しかし私たちには、教皇も位階制度もなかった。私たちは「兄弟たち」だった。人の立てた予定はなかった。主ご自身が導いておられたのだ。
@@ -61,7 +62,7 @@ We had no priest class, nor priest craft. These things have come in later, with 
 The ministers were servants, according to the true meaning of the word. We did not honor men for their advantage, in means or education, but rather for their God-given "gifts." He set the members in the "body."
 奉仕者たちは、その言葉の本当の意味で、しもべだった。私たちは、財産や教育に恵まれていることで人を重んじたのではない。むしろ、神から与えられた「賜物」のゆえに重んじた。神が肢体を「からだ」に備えられたのだ。
 Now "A wonderful and horrible thing is come to pass in the land. The prophets prophesy falsely, and the priests bear rule by their means; and My people love to have it so: and what will ye do in the end thereof." - Jer. 5:30, 31.
-今はどうか。『驚くべきこと、恐るべきことがこの地に起っている。預言者は偽って預言し、祭司は自分の手によって治め、わが民はこのようにすることを愛している。しかしあなたがたはその終りにはどうするつもりか』（エレミヤ五・三〇、三一）。
+今はどうか。『驚くべきこと、恐るべきことがこの地に起っている。預言者は偽って預言し、祭司は自分の手によって治め、わが民はこのようにすることを愛している。しかしあなたがたはその終りにはどうするつもりか』（エレミヤ五・三〇〜三一）。
 Also "As for my people, children are their oppressors (sometimes grown up ones), and women rule over them." - Isa. 3:12.
 また、『わが民は幼な子（ときには大人になった者）にしえたげられ、女たちに治められる』（イザヤ三・一二）。
 
@@ -120,7 +121,7 @@ I never saw an altar call given in those early days. God himself would call them
 The whole place was steeped in prayer. God was in His holy temple. It was man to keep silent. The shekinah glory rested there. In fact some claim to have seen the glory by night over the building. I do not doubt it.
 その場所全体が、祈りに浸っていた。神はその聖なる宮におられた。人は沈黙すべきだった。シェキナの栄光がそこにとどまっていた。実際、夜、建物の上にその栄光を見たと言う人々もいる。私はそれを疑わない。
 I have stopped more than once within two blocks of the place and prayed for strength before I dared go on. The presence of the Lord was so real.
-私は一度ならず、その場所の二ブロック手前で立ち止まり、力を求めて祈ってから、ようやく先へ進んだ。それほど、主の臨在は現実のものだった。
+私は一度ならず、その場所から二ブロックもないところで立ち止まり、力を求めて祈ってから、ようやく先へ進んだ。それほど、主の臨在は現実のものだった。
 
 Presumptuous men would sometimes come among us. Especially preachers who would try to spread themselves, in self-opinionation. But their effort was short lived. The breath would be taken from them.
 ときには、思い上がった人が私たちの中に来ることもあった。とくに、自分の意見を押し通して幅をきかせようとする説教者たちである。しかし、その試みは長続きしなかった。彼らは息が詰まってしまうのだ。
@@ -135,21 +136,21 @@ In other words they died out, came to see themselves in all their weakness, then
 The "old man" died with all his pride, arrogancy and good works. In my own case I came to abhor myself.
 「古き人」は、その高ぶりも、傲慢も、善い行いも、すべてもろともに死んだ。私自身の場合は、自分を忌み嫌うようになった。
 I begged the Lord to drop a curtain so close behind me on my past that it would hit my heels.
-私は主に、私の過去の上に、すぐ背後に幕を下ろしてくださいと願った。かかとに当たるほど、ぴったりと。
+私は主に、私の過去に幕を下ろしてくださいと願った。かかとに当たるほど、すぐ背後に。
 He told me to forget every good deed as though it had never occurred, as soon as it was accomplished, and go forward again as though I had never accomplished anything for Him, lest my good works become a snare to me.
-主は私にこう言われた。善い行いをしたら、すぐに、それがまるでなかったかのように忘れよ。そして、主のために何もなしとげたことがないかのように、また前に進め。善い行いが、わなとならないためである、と。
+主は私にこう言われた。善い行いをしたら、すぐに、それがまるでなかったかのように忘れよ。そして、わたしのために何もなしとげたことがないかのように、また前に進め。善い行いが、わなとならないためである、と。
 
 We saw some wonderful things in those days. Even very good men came to abhor themselves in the clearer light of God. The preachers died the hardest. They had so much to die to. So much reputation and good works.
-あのころ、私たちはすばらしいことを見た。とても善い人々でさえ、神のさらに明るい光の中で、自分を忌み嫌うようになった。いちばん死にきれなかったのは説教者たちだった。彼らには、死ぬべきものがあまりに多かったのだ。評判も善い行いも、あまりに多かった。
+あのころ、私たちはすばらしいことを見た。とても善い人々でさえ、神のさらに明るい光の中で、自分を忌み嫌うようになった。いちばん死ぬのに苦しんだのは説教者たちだった。彼らには、死ぬべきものがあまりに多かったのだ。評判も善い行いも、あまりに多かった。
 But when God got through with them they gladly turned a new page and chapter. That was one reason they fought so hard. Death is not at all a pleasant experience. And strong men die hard.
-しかし、神が彼らを取り扱い終えられると、彼らは喜んで新しいページと章をめくった。彼らが激しく抵抗した理由の一つはそれだった。死は、決して快い経験ではない。そして強い者ほど、なかなか死なないのだ。
+しかし、神が彼らを取り扱い終えられると、彼らは喜んで新しいページをめくり、新しい章に入った。彼らが激しく抵抗した理由の一つはそれだった。死は、決して快い経験ではない。そして強い者ほど、なかなか死なないのだ。
 
 Brother Ansel Post, a Baptist preacher, was sitting on a chair in the middle of the floor one evening in the meeting. Suddenly the Spirit fell upon him.
 ある晩の集会で、バプテストの説教者アンセル・ポスト兄弟が、床の真ん中で椅子に座っていた。突然、御霊が彼の上に下った。
 He sprang from his chair, began to praise God in a loud voice in "tongues," and ran all over the place, hugging all the brethren he could get hold of. He was filled with divine love.
 彼は椅子から跳び上がり、大声で「異言」で神を賛美しはじめた。そして会場じゅうを走り回り、つかまえられるかぎりの兄弟たちを抱きしめた。彼は神の愛に満たされていた。
 He later went to Egypt as a missionary. Let us have his own testimony for it:
-彼はのちに、宣教師としてエジプトへ行った。そのときのことについて、彼自身の証しを聞こう。
+彼はのちに、宣教師としてエジプトへ行った。この出来事について、彼自身の証しを聞こう。
 （ここにはポスト兄弟自身の証しが『ウェイ・オブ・フェイス』から引かれているが、書き手の没年が確かめられないため訳していない。）
 // ここからアンセル・ポストの証し。没年が確かめられないので訳さない。
 "As suddenly as on the day of Pentecost, while I was sitting some twelve feet right in front of the speaker, the Holy Spirit fell upon me and filled me literally. I seemed to be lifted up, for I was in the air in an instant, shouting "Praise God," and instantly I began to speak in another language. I could not have been more surprised if at the same moment some one had handed me a million dollars," - Ansel Post, in "Way of Faith."
@@ -167,7 +168,7 @@ In the "Christian Harvester" I wrote, at the same date: "At the New Testament Ch
 It would swell away up to the throne, and then die away in an almost unearthly melody. She sang, 'Praise God! Praise God!' All over the house men and women were weeping.
 その歌は、御座にまで高まっていき、それから、この世のものとは思えない調べのうちに消えていった。彼女は『神をほめたたえよ！　神をほめたたえよ！』と歌った。会堂じゅうで、男も女も泣いていた。
 A preacher was flat on his face on the floor, dying out, 'Pentecost' has fully come."
-一人の説教者は、床にうつぶせになって、自分に死んでいた。『ペンテコステ』が、まったく来たのだ」。
+一人の説教者は、床にうつぶせになって、自分に死んでいた。『ペンテコステ』が、完全に来たのだ」。
 
 We had several all nights of prayer at the New Testament Church. But Pastor Smale never received the "baptism" with the "speaking in tongues." He was in a trying position. It was all new to him.
 新約教会では、何度か徹夜の祈りをした。しかしスメール牧師は、「異言を語る」ことを伴う「バプテスマ」を、とうとう受けなかった。彼は苦しい立場にあった。彼にとって、何もかもが新しいことだったのだ。
@@ -180,11 +181,11 @@ And yet, strange to say, Seymour himself did not speak in "tongues" until some t
 ところが、不思議なことに、シーモア兄弟自身は、「アズサ」が開かれてしばらくたつまで「異言」で語らなかった。彼より先に入った聖徒が多かったのだ。この「バプテスマ」を受けた者はみな、「異言」で語った。
 
 Many were stumbled in the beginning at "Azusa" because of the nature of the instruments first used. I wrote in "Way of Faith" as follows:
-初めのころ、「アズサ」では、最初に用いられた器たちがどういう人々であったかのために、つまずいた人が多かった。私は『ウェイ・オブ・フェイス』に次のように書いた。
+初めのころ、「アズサ」につまずいた人が多かった。最初に用いられた器たちが、どういう人々であったかのためである。私は『ウェイ・オブ・フェイス』に次のように書いた。
 "Some one has said it is not the man who can build the biggest brush heap, but rather the one who can set his heap on fire, that will light up the country.
 「国じゅうを照らすのは、いちばん大きなそだの山を築ける人ではなく、自分の山に火をつけられる人だ、と言った人がいる。
 God can never wait for a perfect instrument to appear. If so He would certainly be waiting yet. Luther himself declared he was but a rough woodsman, to fell the trees.
-神は、完全な器が現れるのを待っておられることは決してできない。もしそうなら、神はきっと今も待っておられるだろう。ルター自身、自分は木を切り倒すための、粗野なきこりにすぎないと言った。
+神は、完全な器が現れるまで待つことなど、決しておできにならない。もしそうなら、神はきっと今も待っておられるだろう。ルター自身、自分は木を切り倒すための、粗野なきこりにすぎないと言った。
 Pioneers are of that nature. God has polished Melancthons, to follow up and trim and shape the timber symmetrically.
 先駆者とはそういうものである。神には、洗練されたメランヒトンたちがいて、あとからついて来て材木を整え、形よく削ってくれるのだ。
 A charge of dynamite does not produce the finished product. But it does set loose the stones that later stand as monuments, under the sculptor's skilled hand.
@@ -194,7 +195,7 @@ Many high dignitaries of the Roman church in Luther's time were convinced of the
 But they declared, in so many words, that they could never consent that this new doctrine should issue from "such a corner."
 しかし彼らは、この新しい教えが『こんな片隅』から出ることには決して同意できない、とはっきり言った。
 That it should be a monk, a poor monk, who presumes to reform us all, said they, is what we cannot tolerate. "Can any good thing come out of Nazareth?"
-彼らは言った。『僧が、貧しい一介の僧が、われわれみなを改革しようなどとおこがましいことをする。それこそ、われわれの我慢できないことだ』。『ナザレから、なんのよいものが出ようか』」。
+彼らは言った。『修道士が、貧しい一介の修道士が、われわれみなを改革しようなどとおこがましいことをする。それこそ、われわれの我慢できないことだ』。『ナザレから、なんのよいものが出ようか』」。
 // 英文には記事の閉じの引用符がない。次の段落は振り返る地の文と読み、ここで閉じた。
 
 Fallen humanity is such a peculiar thing at its best, so shattered that it is very imperfect. "We have this treasure in earthen vessels."
@@ -225,7 +226,7 @@ But, 'the hail shall sweep away the refuge of lies.' Their 'hiding places' are b
 "Persecution is strong. Already the police have been appealed to to break up the meetings. The work has been hindered much also by fanatical spirits, of which the city has far too many.
 迫害は激しい。すでに、集会を解散させるよう警察に訴えが出された。働きはまた、狂信的な霊によっても大いに妨げられてきた。この町には、そういう霊があまりに多いのだ。
 It is God and the devil for it, a battle royal. We can do little but look on and pray. The Holy Spirit Himself is taking the lead, setting aside all human leadership largely.
-これは神と悪魔の、大乱戦である。私たちには、見守り、祈るほかにほとんど何もできない。聖霊ご自身が先頭に立ち、人間の指導をおおかたすべて退けておられる。
+これは神と悪魔の、大乱戦である。私たちには、見守り、祈るほかにほとんど何もできない。聖霊ご自身が先頭に立ち、人間の指導をほとんどすべて退けておられる。
 And woe to the man who gets in His way, selfishly seeking to dictate or control. The Spirit brooks no interference of this kind. The human instruments are largely lost sight of.
 自分勝手に指図したり支配したりしようとして、聖霊の道をふさぐ者はわざわいである。御霊は、このような干渉を少しもお許しにならない。人間の器は、ほとんど目に入らなくなっている。
 Our hearts and minds are directed to the Lord. The meetings are crowded out. There is great excitement among the unspiritual and unsaved.
@@ -305,6 +306,7 @@ Act quickly, lest another take thy crown. Oh, church of Christ, awake! Be baptiz
 
 A. B, Simpson said: "We are to witness before the Lord's return real missionary "tongues" like those of Pentecost, through which the heathen world shall hear in their own language 'the wonderful works of God,'
 % A・B・シンプソンはこう言った。「主が再び来られる前に、私たちは、ペンテコステのときのような、宣教のための本物の『異言』を目にすることになる。異教の世界は、それによって自分たちの国語で『神の大きな働き』を聞くのである。
+// 英文は A. B, Simpson と、B の後ろがコンマになっている。
 and this perhaps on a scale of whose vastness we have scarcely dreamed, thousands of missionaries going forth in one last mighty crusade from a united body of believers at home to bear swift witness of the crucified and coming Lord to all nations."
 それはおそらく、私たちがほとんど夢にも思わなかった規模で起こるだろう。何千もの宣教師が、本国の一つになった信者たちの中から、最後の大いなる聖戦に出て行く。そして、十字架につけられ、また来られる主のことを、すみやかにすべての国民にあかしするのである」。
 
