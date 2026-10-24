@@ -18,13 +18,13 @@ Oh, that we might write it in flaming letters upon the sky! It is to this end, t
 ああ、燃える文字でそれを大空に書きつけることができたら！　だからこそ、この本を送り出すのである。
 
 Part I--Personal Testimony--simply written and solely for the encouragement of others, knowing that what the Lord has so graciously done for one so unworthy, He is abundantly able and willing to do for all.
-第一部「個人の証し」は、飾らずに書いた。ただほかの人々を励ますためである。主は、これほどふさわしくない者に、これほど恵み深くしてくださった。同じことを、すべての人にもあふれるほどにしてくださることができ、また喜んでしてくださる。私はそう知っている。
+第一部「個人の証し」は、飾らずに書いた。ただほかの人々を励ますためである。主は、これほどふさわしくない者に、これほど恵み深いことをしてくださった。同じことをすべての人にもしてくださる力が、主には満ちあふれている。また、喜んでそうしてくださる。私はそう知っている。
 
 Part II--"In the mouth of two or three witnesses shall every word be established."
 第二部。『すべての事がらは、ふたりか三人の証人の証言によって確定する』（第二コリント一三・一）。
 
 Part III--Sermons and Writings--contains a message to the sinner;--to the born-again soul who has not yet received the baptism with the Holy Spirit, and to the baptized believer who is pressing on to perfection.
-第三部「説教と著作」には、罪人へのメッセージがある。また、新しく生まれたが、まだ聖霊のバプテスマを受けていない魂へのメッセージと、バプテスマを受けて完全を目ざして進んでいる信者へのメッセージもある。
+第三部「説教と著作」には、罪人へのメッセージがある。また、新しく生まれたが、まだ聖霊のバプテスマを受けていない魂へのメッセージもある。さらに、すでにそのバプテスマを受け、完全を目ざして進んでいる信者へのメッセージもある。
 
 Part IV--Visions, Prophecies, and interpretations of messages which the Lord has given me in the Spirit and which have been of such value and blessing to ourselves and others; we realize them too precious to be lost.
 第四部には、幻と預言、そしてメッセージの解き明かしを収めた。どれも、主が御霊のうちにあって私に与えてくださったものである。それらは私たちにもほかの人々にも、大きな益となり、祝福となった。失われてしまうには、あまりに尊いと思う。
@@ -36,15 +36,15 @@ We have never known what it was to have any earthly board behind us or any one p
 私たちは、後ろ盾となる地上の伝道団体を持ったことがない。支えを当てにできる人も、一人もいなかった。それでも神は、私たちのすべての必要を驚くほど満たしてくださった。
 
 Will the reader pardon mistakes and look more at the spirit in which the book is written than at errors in composition?
-読者には、誤りを許していただけないだろうか。文章のまずさよりも、この本を書いた心のほうを見ていただきたい。
+読者には、誤りを許し、文章のまずさよりも、この本を書いた心のほうを見ていただきたい。
 It is doubtful whether any other book has been written under similar circumstances.
 同じような事情のもとで書かれた本は、ほかにないだろう。
 I have had no quiet study into which to retire and close the door to the world and countless interruptions.
 私には、引きこもって戸を閉め、世間と数えきれない邪魔を締め出せる静かな書斎がなかった。
 Each page has been written in spare moments, amidst the stress of meetings, playing, singing, preaching, and working at the altar, besides traveling far and wide with the Gospel car.
-どのページも、わずかな空き時間に書いた。集会の慌ただしさの中で、楽器を弾き、歌い、説教し、祭壇で働いた。そのうえ、福音自動車で各地を広く旅していた。
+どのページも、わずかな空き時間に書いた。集会では楽器を弾き、歌い、説教し、祭壇で働く。その慌ただしさのただ中で書いたのである。そのうえ、福音自動車で各地を広く旅していた。
 The opening chapters were written in Florida, and the work has been continued en route from there to New York, the New England states, and thence across the continent to California.
 最初の数章はフロリダで書いた。その後は旅をしながら書き継いだ。フロリダからニューヨーク、ニューイングランドの諸州へ行き、さらに大陸を横断してカリフォルニアへ向かう道中である。
 
 Though the reader and the writer may never meet in this present life," this book goes from my hand and heart with the earnest prayer and hope that we shall rise together to meet the Lord in the clouds of glory, when Jesus shall appear.
-読者と筆者は、この世では会うことがないかもしれない。それでも、この本は私の手と心から送り出される。イエスが現れるとき、私たちが共に引き上げられ、栄光の雲の中で主に会うことができるように。そう切に祈り、願いながら送り出すのである。
+読者と筆者は、この世では会うことがないかもしれない。それでも、この本は私の手と心から送り出される。イエスが姿を現されるとき、私たちが共に引き上げられ、栄光の雲の中で主に会うことができるように。そう切に祈り、願いながら送り出すのである。
