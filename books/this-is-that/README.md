@@ -27,7 +27,7 @@
 + [x] Chapter XV. Eastern Summer Tent Campaign, 1917
 + [x] Chapter XVI. Second Southern Campaign and Gospel Auto Work
 + [x] Chapter XVII. Meetings in Virginia and Gospel Auto News
-+ [ ] Chapter XVIII. Nation Wide Camp, Philadelphia
++ [x] Chapter XVIII. Nation Wide Camp, Philadelphia
 + [ ] Chapter XIX. Meetings from Mass. to New York
 + [ ] Chapter XX. The Transcontinental Gospel Tour (1)
 + [ ] Chapter XX. The Transcontinental Gospel Tour (2)
