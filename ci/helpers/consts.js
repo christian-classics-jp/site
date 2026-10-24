@@ -1,6 +1,7 @@
 const { join } = require('path')
 
 module.exports = {
+  SITE_URL: 'https://christian-classics-jp.github.io/site/',
   INDEX_TEMPLATE_PATH: join(__dirname, '../../assets/templates/index.html.hbs'),
   ARTICLE_TEMPLATE_PATH: join(__dirname, '../../assets/templates/article.html.hbs'),
   SINGLEPAGE_TMPLE_PATH: join(__dirname, '../../assets/templates/single-article.html.hbs'),

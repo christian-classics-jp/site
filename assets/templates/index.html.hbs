@@ -4,15 +4,17 @@
     <meta charset="utf-8">
     <title>{{ siteTitle }}</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="{{ description }}">
+    <link rel="canonical" href="{{ url }}">
     <meta name="theme-color" content="#fbf9f4" media="(prefers-color-scheme: light)">
     <meta name="theme-color" content="#1c1b19" media="(prefers-color-scheme: dark)">
     <link rel="shortcut icon" href="{{ topUrl }}logo/favicon.png">
     <meta property="og:title" content="{{ siteTitle }}" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="{{ topUrl }}{{ repos }}/{{ fileName }}" />
+    <meta property="og:url" content="{{ url }}" />
     <meta property="og:image" content="{{ topUrl }}logo/logo-large.png" />
     <meta property="og:site_name" content="{{ siteTitle }}" />
-    <meta property="og:description" content="{{ siteTitle }}" />
+    <meta property="og:description" content="{{ description }}" />
     <link href="./css/main.css" rel="stylesheet" type="text/css">
     <script src="./js/theme.js"></script>
   </head>
