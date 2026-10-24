@@ -71,7 +71,7 @@ God hath no pleasure in the death of the wicked, but longs that all should turn 
 神は悪人の死を喜ばれない（エゼキエル三三・一一）。むしろ、すべての人が誤った道から立ち返ることを切に願っておられる。「さあ、来なさい」という言葉に言い表された、主の大いなる永遠の招きに耳を傾けてほしい。快く従い、永遠のいのちを受け継いでほしい。そう願っておられるのである。けれども、もしあなたが主の招きを拒み、従うかわりにそむくなら、自分で自分の道を選ぶことになる。そうして自分の滅びを決め、自分の死刑執行令状に署名するのである。そして必ず、神のさばきのつるぎに追いつかれる。そのつるぎは、キリストであるイエスを拒んだすべての者の上に下るのである。
 
 If ye be willing and obedient, and become a child of King Jesus by being born again and accepting His salvation, you will dwell in the courts of His glory forever.
-もしあなたが快く従い、新しく生れて主の救いを受け入れ、王なるイエスの子供となるなら、主の栄光の大庭に永遠に住むことになる。
+もしあなたが快く従い、新しく生まれて主の救いを受け入れ、王なるイエスの子供となるなら、主の栄光の大庭に永遠に住むことになる。
 
 But if ye refuse and rebel, and choose rather to remain in sin, and continue to walk on as the devil's child, you will, of course, share in the devil's home and reward, and be devoured with the sword. The mouth of the Lord hath spoken it, and no matter who has tried to tell you destruction will not come, nor sorrow overtake those who refuse and rebel, they cannot change the true facts of the case, for the mouth of the Lord hath spoken it.
 しかし、もしあなたが拒みそむき、むしろ罪のうちにとどまることを選び、悪魔の子として歩み続けるとする。そのときは当然、悪魔の住まいと報いを分け合い、つるぎで滅ぼされる。主がその口で語られたのである。拒みそむく者に滅びは来ない、悲しみも追いつかない。だれかがあなたにそう言おうとしたかもしれない。けれども、その人たちは、まことの事実を変えることはできない。主がその口で語られたからである。
