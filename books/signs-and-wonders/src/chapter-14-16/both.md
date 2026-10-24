@@ -8,16 +8,16 @@ After being at Troutman, Penn., and Harmony, Penn., we started for Lawrence, Kan
 The Lord wonderfully blessed my labor there.
 そこで主は、私の働きを驚くほど祝福してくださった。
 The fire of the Lord began to break out in all directions, and it was hard to resist the earnest pleadings of brethren and sisters, to remain and reap the harvest ready to be gathered.
-主の火が四方に燃えだした。とどまって、刈り入れるばかりになった実りを刈り取ってほしいと、兄弟姉妹たちが熱心に願った。その願いを退けるのはつらかった。
+主の火が四方に燃えだした。とどまって、刈り入れるばかりになった実りを刈り取ってほしいと、兄弟姉妹たちが熱心に願った。その願いを退けるのは難しかった。
 The calls kept coming from Indiana, "Come back, your work is not done."
 インディアナからは「戻って来てください。あなたの働きはまだ終わっていません」という招きが届き続けた。
 The Lord seemed to be calling me day and night to go back.
-主も昼も夜も、戻りなさいと私を呼んでおられるように思われた。
+主も、昼も夜も、戻りなさいと私を呼んでおられるように思われた。
 
 We went.
 私たちは戻った。
 My first meeting was at Kokomo, Indiana, the seat of war.
-最初の集会は、戦いの本拠地であるインディアナ州ココモで開いた。
+最初の集会は、戦いの舞台であるインディアナ州ココモで開いた。
 We pitched our tents and sounded the battle cry, calling for soldiers.
 私たちは天幕を張り、鬨の声をあげて兵士を募った。
 They began to come in from the East and West, North and South.
@@ -74,18 +74,18 @@ Dr. Daggett was the first we ever laid on hands for healing.
 In our meeting last August, 1915, in Topeka, Kansas, I was led of the Spirit to tell of this first healing.
 去年、一九一五年の八月に、カンザス州トピーカで集会を開いたとき、私は御霊に導かれて、この最初のいやしについて話した。
 After I was through a man came forward, and said he was Dr. Daggett's son, and that thirty years ago he was converted, by reading one of my books, a few months before his father was so wonderfully healed, but had never seen me until-the meeting in which his father was healed, after suffering from lameness, for many years.
-話し終えると、ひとりの男が前に出て来た。自分はダゲット医師の息子です、と彼は言った。三十年前、父がいやされる数か月前に、私の本の一冊を読んで回心した。しかし私に会ったのは、長年足の不自由に苦しんだ父がいやされた、あの集会が初めてだった、という。
+話し終えると、ひとりの男が前に出て来た。自分はダゲット医師の息子です、と彼は言った。三十年前、父があれほど驚くべきしかたでいやされる数か月前に、私の本の一冊を読んで回心した。しかし私に会ったのは、長年足の不自由に苦しんだ父がいやされた、あの集会が初めてだった、という。
 // 英文の until-the は until the と読んだ。
 His father had a new lease of life and lived many years after.
 彼の父はいのちを延ばされ、その後何年も生きた。
 
 Surely "God moves in mysterious ways
-まことに「神は人知を超えた道を通って<br/>
+まことに「神は人知を超えた道によって<br/>
 His wonders to perform."
 その不思議なみわざを行われる」<br/>
 
 And He is always ready to smile on our work in Jesus' Name and to confirm His word.
-そして神はいつでも、イエスの名による私たちの働きにほほえみ、みことばを確かなものとしてくださる。
+そして神はいつでも、イエスの名による私たちの働きにほほえまれ、みことばを確かなものとしてくださる。
 
 On Sabbath morning we commenced praise service at nine o'clock, with a large crowd which continued to increase until the grove was a moving mass of living souls.
 日曜日の朝九時に、私たちは賛美の集会を始めた。大勢の群衆が集まり、なおも増え続けて、林は生きた魂のうごめく群れとなった。
@@ -114,7 +114,7 @@ We pitched our tents, and commenced battle.
 The enemy thought he had this place, and indeed it had that appearance; but the soldiers of the Lord came in companies from all points.
 敵は、この土地は自分のものだと思っていた。実際、そう見えた。しかし主の兵士たちが、四方八方から隊をなしてやって来た。
 Many ministers, and converts by the score, who had been converted at my meetings two years previous, came.
-多くの牧師と、二年前に私の集会で回心した何十人もの回心者が来た。
+多くの牧師と、二年前に私の集会で回心した何十人もの人々が来た。
 
 # 第十五章　アンダーソンの地震
 CHAPTER XV
@@ -164,7 +164,7 @@ She said she had a vision and saw them all i in their coffins, and believed they
 彼女は幻を見て、人々がみな棺に入っているのを見たと言った。あまりに死んでいるので、霊的に起こされることは決してないと信じている、と言った。
 // 英文の all i in の i は、ページ画像にない。
 As soon as I got there one of the other evangelists I had sent there slipped off without telling me she was going.
-私が向こうに着くとすぐ、送ったもうひとりの伝道者が、行き先も告げずにこっそり立ち去った。
+私が向こうに着くとすぐ、送ったもうひとりの伝道者が、私に何も告げずにこっそり立ち去った。
 
 I had no thought of running.
 私には逃げ出す考えはなかった。
@@ -233,7 +233,7 @@ The singing and shouting of these converts were heard throughout the neighborhoo
 この回心者たちの歌声と叫びは、近所じゅうに響いた。
 
 These meetings were participated in by as good men and women as there were in that county, or as can be found in any county.
-これらの集会には、その郡で、いや、どの郡を探しても見つからないほど立派な男女が加わっていた。
+これらの集会には、その郡で、いや、どの郡にもひけを取らないほど立派な男女が加わっていた。
 
 While hundreds were stepping into the lifeboat, and starting for glory, many bright men and women were almost persuaded, yet they would not surrender.
 何百人もが救命ボートに乗り込み、栄光の国へと出発していた。そのあいだにも、ほとんど説き伏せられながら、どうしても降参しようとしない聡明な男女が大勢いた。
@@ -242,7 +242,7 @@ I was very much concerned about them.
 I felt it was now, or never with them.
 その人々にとって、今でなければ二度とないと感じた。
 The Lord impressed me to say it was the last call, and to ask all who believed in prayer to fall on their knees, and raise faces and hands to God, and to ask him to shake the earth; to send an earthquake, if necessary.
-主は私の心に示された。これが最後の招きであると告げなさい。祈りを信じる者はみなひざまずき、顔と手を神に上げなさい。そして、地を揺り動かしてください、必要なら地震を送ってください、と神に願いなさいと言いなさい、と。
+主は私の心に示された。これが最後の招きであると告げなさい。祈りを信じる者にはみな、ひざまずいて顔と手を神に上げるよう求めなさい。そして、地を揺り動かしてください、必要なら地震を送ってください、と神に願わせなさい、と。
 The people, five hundred or more, knelt in prayer with their hands raised to heaven, and what a wonderful sight it was!
 五百人以上の人々が、天に手を上げてひざまずき、祈った。それは何という驚くべき光景だったことか。
 All expecting the Lord to come near in some wonderful way.
@@ -254,7 +254,7 @@ There was an earthquake, and it was felt all over the city.
 It was the time that Charleston, South Carolina, was destroyed, and it reached to Anderson, Indiana.
 それは、サウスカロライナ州チャールストンが破壊された地震だった。その揺れが、インディアナ州アンダーソンにまで及んだのである。
 The prayer of faith will be answered, if the Lord has to bring heaven down.
-信仰による祈りは、たとえ主が天を引き降ろさなければならないとしても、聞かれる。
+信仰による祈りは、たとえ主が天を引き降ろされることになっても、聞かれる。
 
 The earth has been shaken at many places so that the multitude swayed and fell.
 ほかにも多くの土地で大地が揺れ、群衆が揺れ動いて倒れたことがある。
@@ -308,7 +308,7 @@ Hundreds were converted, many aged ones.
 I don't think there were a dozen converted that were not over eighteen years of age.
 回心した人のうち、十八歳を超えていなかった者は、十二人もいなかったと思う。
 I think half of all that were saved were forty years of age.
-救われた人の半数は、四十歳だったと思う。
+救われた人の半数は、四十歳以上だったと思う。
 
 "Signs and wonders" truly followed.
 まことに「しるしと不思議」が伴った。
@@ -332,7 +332,7 @@ It was under very discouraging circumstances that I started the meeting at that 
 The weather was cold and dismal, and the hearts of the people colder still; but I commenced, knowing that God would bring wonderful victory.
 天気は寒く陰気で、人々の心はさらに冷たかった。しかし神が驚くべき勝利をもたらしてくださると知って、私は集会を始めた。
 I was nearly worn out with the hard battle at Farmland, and as I had very little help it looked dreary, but I had faith in God, and he brought me through "more than conqueror."
-私はファームランドでの激しい戦いで、ほとんど疲れきっていた。手伝ってくれる人もほとんどいなかったので、先行きは暗く見えた。しかし私は神を信じていた。そして神は、私を「勝ち得て余りある者」として通らせてくださった。
+私はファームランドでの激しい戦いで、ほとんど疲れきっていた。手伝ってくれる人もほとんどいなかったので、先行きは暗く見えた。しかし私は神を信じていた。そして神は、私を「勝ち得て余りある者」として、戦いを切り抜けさせてくださった。
 // ローマ八・三七 の言い換え。
 The skies brightened, and with the bright skies came the people until the large tent was overflowing.
 空は晴れわたり、晴れた空と共に人々がやって来て、大きな天幕はあふれるほどになった。
@@ -435,7 +435,7 @@ She had fallen and had been badly injured.
 Her sufferings were so great she could be heard screaming day and night.
 その苦しみはあまりに激しく、昼も夜も叫び声が聞こえるほどだった。
 When she heard of the people being healed she told her son if he would bring her to the meeting God would relieve her suffering and heal her.
-人々がいやされていると聞くと、彼女は息子に言った。集会に連れて行ってくれれば、神が苦しみを和らげて、いやしてくださる、と。
+人々がいやされていると聞くと、彼女は息子に言った。集会に連れて行ってくれれば、神が苦しみを和らげてくださり、いやしてくださる、と。
 It was a big undertaking in her condition, but he was-very proud of his aged mother and anxious to do anything to relieve her.
 彼女の容態では、それは大仕事だった。しかし息子は年老いた母をたいへん誇りにしていて、母を楽にするためなら何でもしたいと願っていた。
 // 英文の was-very は was very と読んだ。
@@ -498,7 +498,7 @@ Judge W. came to the meeting from Anderson.
 He told the congregation he felt it a duty he owed to God and the people to come there and tell what the Lord had done for him a hundred miles away in answer to our prayer.
 判事は会衆に語った。百マイル離れた所で、私たちの祈りに答えて、主が自分にしてくださったことがある。ここに来てそれを話すのは、神と人々に対する務めだと感じた、と。
 He said he was very low with consumption; had given up all hope of getting well; expected to die soon; and that I had appointed a time for prayer and told him to go to the Lord at that time and expect God to heal and baptize him with the Holy Ghost, and we would pray for him at the same time and it would be done.
-判事は言った。自分は肺病でひどく弱り、治る望みをすっかり捨てて、まもなく死ぬものと思っていた、と。そのとき私は祈りの時刻を決めて、彼にこう告げていた。その時刻に主のもとに行き、神がいやして聖霊のバプテスマを授けてくださるのを待ち望みなさい。私たちも同じ時刻にあなたのために祈る。そうすれば、そのとおりになる、と。
+判事は言った。自分は肺病でひどく弱り、治る望みをすっかり捨てて、まもなく死ぬものと思っていた、と。そのとき私は祈りの時刻を決めて、彼にこう告げていた。その時刻に主のもとに行き、神がいやしてくださり、聖霊のバプテスマを授けてくださるのを待ち望みなさい。私たちも同じ時刻にあなたのために祈る。そうすれば、そのとおりになる、と。
 He said while all alone with God at the time appointed he was healed.
 決められた時刻に、ただひとり神と共にいたとき、自分はいやされた、と判事は言った。
 The people saw he was well and strong.
@@ -518,7 +518,7 @@ The words rolled out with such power and sweetness that they seemed to come from
 その言葉は、御座の後ろから出てくるかと思われるほどの力と麗しさをもって、あふれ出た。
 
 At the close of the meeting at Decatur we packed our tents for the season and returned to Indiana and held a few days' meeting.
-ディケーターでの集会を閉じると、私たちはその季節の天幕をたたんでインディアナへ戻り、数日の集会を開いた。
+ディケーターでの集会を閉じると、私たちは天幕をたたんでその季節を終え、インディアナへ戻り、数日の集会を開いた。
 While there we met many of those who had been healed of bodily diseases at the meetings a year previous, and in every instance they were strong and well, just as we expected, for God's work is not like man's.
 そこで、一年前の集会でからだの病をいやされた多くの人々に会った。どの人も、私たちが期待していたとおり、丈夫で元気だった。神のみわざは人のわざとは違うからである。
 It is thorough and lasting.
@@ -528,7 +528,7 @@ As we look back over the years of labor for the Master, we remember the many har
 Through it all we have ever kept our eyes on Jesus, and been led by his loving hand.
 そのすべてを通して、私たちはいつもイエスに目を注ぎ、主の愛の御手に導かれてきた。
 No matter how hard the battle, nor how strong the hosts arrayed against us, God has brought us through more than conqueror.
-どれほど戦いが激しくても、私たちに向かって陣を敷く軍勢がどれほど強くても、神は私たちを通らせてくださった。私たちは勝ち得て余りある者となった。
+どれほど戦いが激しくても、私たちに向かって陣を敷く軍勢がどれほど強くても、神は私たちに戦いを切り抜けさせてくださった。私たちは勝ち得て余りある者となった。
 All glory to his name.
 すべての栄光が御名にあるように。
 
@@ -540,7 +540,7 @@ How sweet are the tidings that greet the pilgrim's ear,
 As he wanders in exile from home;
 ふるさとを離れてさすらうその耳に<br/>
 Soon will the Saviour in glory appear,
-まもなく救い主が栄光のうちに現れ<br/>
+まもなく救い主が栄光のうちにお現れになり<br/>
 And soon will the kingdom come.
 まもなく御国が来る<br/>
 
