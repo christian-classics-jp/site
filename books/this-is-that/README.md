@@ -35,7 +35,7 @@
 + [x] Chapter XXII. "The House That God Built"
 + [x] Chapter XXIII. Los Angeles to San Francisco
 + [x] Part II. The Mighty Power of God Manifested at Mount Forest, Ontario / Testimony of Pastor W. K. Bouton
-+ [ ] Part II. Memories of the Camp / A Monday Night Meeting / Some Things Which I Saw / Wonderful Downpour at Victoria Hall / San Francisco Revival
++ [x] Part II. Memories of the Camp / A Monday Night Meeting / Some Things Which I Saw / Wonderful Downpour at Victoria Hall / San Francisco Revival
 + [ ] Part III. Come--If--But / What Shall I Do with Jesus?
 + [ ] Part III. Which Road?
 + [ ] Part III. Behold, the Man! / Barabbas
