@@ -17,7 +17,7 @@
 + [x] Chapter 3. The Fire Falls At "Azusa" (2)
 + [x] Chapter 4. Eighth And Maple Meetings (1)
 + [x] Chapter 4. Eighth And Maple Meetings (2)
-+ [ ] Chapter 4. Eighth And Maple Meetings (3)
++ [x] Chapter 4. Eighth And Maple Meetings (3)
 + [ ] Chapter 5. From California To Maine (1)
 + [ ] Chapter 5. From California To Maine (2)
 + [ ] Chapter 6. A Second Ministry East (1)
