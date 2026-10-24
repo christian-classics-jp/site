@@ -4,7 +4,7 @@ Chapter 2
 
 I received a second letter from Evan Roberts, which read as follows: "Loughor, Wales, 7, 8, 1905. Dear brother: I am very thankful to you for your thoughtful kindness. I was exceedingly pleased to learn the good news of how you are beginning to experience wonderful things. Praying God to continue to bless you and with many thanks repeated for your good wishes. I am yours in the service. Evan Roberts."
 // 英文の 7, 8, 1905 はイギリス式に日・月の順で書いた日付とみて、1905年8月7日とした。
-エバン・ロバーツから二通目の手紙が届いた。こう書いてあった。「ウェールズ、ラファー、1905年8月7日。親愛なる兄弟へ。思いやりのあるご親切に、心から感謝します。あなたがたがすばらしいことを経験しはじめているという、よい知らせを聞いて、たいへんうれしく思いました。神があなたを祝福し続けてくださるよう祈っています。ご厚意に、重ねて深く感謝します。主の奉仕にあって、エバン・ロバーツ」。
+エバン・ロバーツから二通目の手紙が届いた。こう書いてあった。「ウェールズ、ラッハー、1905年8月7日。親愛なる兄弟へ。思いやりのあるご親切に、心から感謝します。あなたがたがすばらしいことを経験しはじめているという、よい知らせを聞いて、たいへんうれしく思いました。神があなたがたを祝福し続けてくださるよう祈っています。ご厚意に、重ねて深く感謝します。主の奉仕にあって、エバン・ロバーツ」。
 
 One evening at the Holiness camp the Lord told me he wanted me to preach. I went out in the woods and tried to pray for the meeting. But He said, I want you to preach. I told Him they would not let me. They had a dozen of their own itching for the opportunity.
 ある晩、ホーリネスの野営地で、主は私に、説教してほしいと言われた。私は森へ出て行って、集会のために祈ろうとした。しかし主は、「あなたに説教してほしいのだ」と言われた。私は主に、彼らが説教させてくれないでしょう、と申し上げた。彼らの中には、その機会を待ちかねている者が十人あまりもいたのだ。
@@ -25,7 +25,7 @@ Financially we were in hard straits also. Not a penny was coming in. But help ca
 One night the devil came very close to me. I awoke suddenly out of my sleep to find his presence almost as real as my own in the room. I cried to God for help and he fled. Wife felt his presence also, just before I awoke.
 ある夜、悪魔がすぐそばまで来た。突然眠りから覚めると、部屋の中に、自分がそこにいるのと同じくらいはっきりと、悪魔の気配を感じた。私が神に助けを叫び求めると、悪魔は逃げて行った。妻も、私が目を覚ます直前に、その気配を感じていた。
 We were going through a furnace of fire. But the "fourth" was with us. Human help seemed to fail us utterly. The enemy seemed determined to drive me from the work.
-私たちは火の炉の中を通っていた。しかし、「第四の者」が私たちとともにいてくださった。人の助けは、まったく当てにならないように思われた。敵は、どうしても私を働きから追い出そうとしているようだった。
+私たちは火の炉の中を通っていた。しかし、「第四の者」が私たちとともにいてくださった。人の助けは、まったく得られないように思われた。敵は、どうしても私を働きから追い出そうとしているようだった。
 I was spending whole nights and days in prayer. Evidently Satan's kingdom was suffering. The neighbors hearing me groan in prayer thought I must be sick and inquired of my condition. But it was only soul burden.
 私は、昼も夜も、まるまる祈りに費やしていた。明らかに、サタンの国は痛手を受けていた。近所の人々は、私が祈りの中でうめいているのを聞いて、病気に違いないと思い、具合を尋ねて来た。しかし、それは魂の重荷にすぎなかった。
 
@@ -48,7 +48,7 @@ The most spiritual of Pastor Smale's members naturally followed him, with a nucl
 I had a feeling perhaps the Lord was cutting Brother Smale loose for the evangelistic field, at least for a time, to spread the fire in other places. But he did not see it so.
 私は、主がスメール兄弟を、少なくともしばらくのあいだ伝道の働きに解き放とうとしておられるのではないか、と感じていた。ほかの所に火を広げるためである。しかし、彼はそうは考えなかった。
 I had a conference with him with this object in view, and was able to arrange for him to speak at the Lake Avenue M. E. Church, for Pastor Brink, in Pasadena. This had been the storm center of the revival there.
-私はこのことを考えて彼と話し合い、パサデナのレイク・アベニュー・メソジスト監督教会で、ブリンク牧師の代わりに彼が語れるように手はずを整えることができた。この教会は、パサデナのリバイバルの中心だった。
+私はこのことを考えて彼と話し合った。パサデナのレイク・アベニュー・メソジスト監督教会で、彼がブリンク牧師に代わって語る手はずを整えることができた。この教会は、パサデナのリバイバルの中心だった。
 
 I walked all day spreading the news of the meeting, not having money for carfare, and was so tired at night I could not sleep. We had not a penny, our rent was due, and yet I was literally pouring out my life in the service of God.
 電車賃がなかったので、一日じゅう歩いて集会の知らせを広め、夜は疲れすぎて眠れなかった。私たちには一文もなく、家賃の期限が来ていた。それでも私は、文字どおり、神への奉仕にいのちを注ぎ出していた。
@@ -79,7 +79,7 @@ So I had three dollars for my rent, and fifty cents to buy food with. We could b
 こうして、家賃の3ドルと、食べ物を買う50セントがそろった。そのころは、今よりも、50セントでずっと多くの物が買えた。
 
 One morning soon after this, while we were on our knees praying at home, and in much need of food, the grocery man drove up and left five dollars worth of groceries. He would not tell us who sent it. Some one had paid for it for us.
-それからまもなく、ある朝、食べ物にひどく困って家でひざまずいて祈っていると、食料品店の主人が車で乗りつけて、5ドル分の食料品を置いて行った。だれが届けさせたのか、主人は教えてくれなかった。だれかが私たちのために代金を払ってくれていたのだ。
+それからまもなく、ある朝、私たちは食べ物にひどく困って、家でひざまずいて祈っていた。すると、食料品店の主人が乗りつけて、5ドル分の食料品を置いて行った。だれが届けさせたのか、主人は教えてくれなかった。だれかが私たちのために代金を払ってくれていたのだ。
 Little Ruth ate a green peach and came near dying again. Prayer saved her. Brother Smale now rented Burbank Hall, and prepared to hold meetings there. I secured the Fourth St. Holiness Hall for him, until Burbank Hall was ready.
 小さなルースが熟していない桃を食べて、また死にかけた。祈りがこの子を救った。スメール兄弟はこのころバーバンク会館を借り、そこで集会を開く準備をした。私は、バーバンク会館の準備が整うまでのあいだ、彼のために四番街ホーリネス会館を確保した。
 The Lord gave me another tract, entitled "Pray! Pray! Pray!" I took it to the printer in faith and He sent me the money on time. It was a strong exhortation to prayer.
@@ -102,7 +102,7 @@ I was strongly impressed one whole night in prayer to go to San Diego, so I wrot
 I preached in Peniel Mission in San Diego, and held street meetings. The police hindered me much, standing in with the saloons, etc. But God gave strength and victory.
 サンディエゴのペニエル・ミッションで説教し、路傍集会も開いた。警察は酒場などとぐるになって、ずいぶん私を妨げた。しかし神は力と勝利を与えてくださった。
 I visited and prayed with a number of sick people there also, and took a little run over to old Tia Juana, Mexico.
-そこでは、病気の人々を何人も訪ねて一緒に祈った。また、メキシコの古いティフアナの町へ、ちょっと足を延ばした。
+そこでは、病気の人々を何人も訪ねて一緒に祈った。また、メキシコのティフアナまで、ちょっと足を延ばした。
 
 The Burning Bush had spoiled the spirit of the saints greatly in San Diego. It had made them harsh and hard. There was little love, but much strife and contention. God made me a messenger of peace, as usual. I have always stood for the "one body" of Christ.
 サンディエゴでは、「燃える柴」の人々が、聖徒たちの霊をひどくそこなっていた。聖徒たちは、とげとげしく、かたくなになっていた。愛はほとんどなく、争いといさかいばかりだった。神は、いつものように、私を平和の使者としてくださった。私はいつも、キリストの「一つのからだ」の側に立ってきた。
@@ -133,9 +133,9 @@ By this time the spirit of intercession had so possessed me that I prayed almost
 The sorrows of my Lord had gripped me. I was in the Garden with Him. The "travail of His soul" had fallen in a measure on me. I was led to fear, like Him, that I might not live to realize the answer to my prayers and tears for the revival.
 わが主の悲しみが、私をとらえていた。私は、主とともにあの園にいた。主の「魂の苦しみ」が、いくらか私の上にも下っていた。私は主のように、リバイバルを求める祈りと涙への答えを見るまで、生きていられないのではないかと恐れるようになった。
 But He assured me, sending more than one angel to strengthen me, I am satisfied. I felt I was realizing a little of what Paul meant about "filling up the cup of His sufferings" for a lost world.
-しかし主は確信を与えてくださった。一人ならぬ御使を送って私を力づけてくださったのだと、私は確信している。滅びゆく世界のために「キリストの苦しみの杯を満たす」とパウロが言ったことを、私はいくらか実感しているように感じた。
+しかし主は私を安心させてくださった。一人ならぬ御使を送って私を力づけてくださったのだと、私は確信している。滅びゆく世界のために「キリストの苦しみの杯を満たす」とパウロが言ったことを、私はいくらか実感しているように感じた。
 Some were even afraid that I was losing my mind. They could not understand my tremendous concern. Nor can very many understand these things today. "The natural man receiveth not the things of the Spirit." They are "foolishness" unto him.
-私が正気を失いかけているのではないかと心配する人さえいた。彼らには、私のすさまじいほどの気づかいが理解できなかったのだ。今日でも、このようなことを理解できる人は多くない。『生れながらの人は、神の御霊の賜物を受けいれない』。それは彼には「愚かなもの」なのだ。
+私が正気を失いかけているのではないかと心配する人さえいた。彼らには、私のすさまじいほどの憂いが理解できなかったのだ。今日でも、このようなことを理解できる人は多くない。『生れながらの人は、神の御霊の賜物を受けいれない』。それは彼には「愚かなもの」なのだ。
 Selfish spirits can never understand such sacrifice. But "he that would save his life shall lose it." "Except a grain of corn fall into the ground and die, etc." Our Lord was a "man of sorrows," as well as of joy.
 自分本位の霊には、このような犠牲は決して理解できない。しかし、『自分の命を救おうと思う者はそれを失う』。『一粒の麦が地に落ちて死ななければ、それはただ一粒のままである』。私たちの主は、喜びの人であるとともに、「悲しみの人」でもあった。
 
@@ -182,12 +182,12 @@ Possibly the saints would do better by the true ones if there were not so many f
 聖徒たちの信頼を揺るがす偽者がこれほど多くなければ、聖徒たちは本当の働き人にもっとよくしてくれるのかもしれない。仲間の中に偽りの羊飼いや人を欺く者が一人いるたびに、本当の働き人はそれだけ苦しくなるのだ。
 
 The New Testament Church seemed to be drifting toward intellectualism. I became much burdened for it. During one meeting I groaned aloud in prayer. It was killing after the meetings we had had. One of the elders rebuked me severely for this. "How are the mighty fallen," kept ringing in my ears. A few of the most spiritual had the same burden with me.
-新約教会は、主知主義のほうへ流されて行くように見えた。私はそのことで大きな重荷を負った。ある集会のとき、私は祈りの中で声を上げてうめいた。それまでのあの集会のあとでは、耐えられないことだった。長老の一人が、このことで私を厳しくとがめた。『ああ、勇士たちは、ついに倒れた』という言葉が、耳の中で鳴り続けた。もっとも霊的な何人かの人々が、私と同じ重荷を負っていた。
+新約教会は、主知主義のほうへ流されて行くように見えた。私はそのことで大きな重荷を負った。ある集会のとき、私は祈りの中で声を上げてうめいた。あれほどの集会を経てきたあとでは、この状態は耐えがたかった。長老の一人が、このことで私を厳しくとがめた。『ああ、勇士たちは、ついに倒れた』という言葉が、耳の中で鳴り続けた。もっとも霊的な何人かの人々が、私と同じ重荷を負っていた。
 
 Prayer again seemed to prevail in a measure. We had a great meeting in the church soon after. One hundred knelt at the altar at a single Sunday night service. I met with the Peniel boys in Pasadena for prayer and we had a breaking through time. We felt the Lord would soon work mightily.
 祈りは、またいくらか勝利を得たようだった。まもなく、教会ですばらしい集会があった。日曜の夜の一回の礼拝で、百人が祭壇の前にひざまずいた。パサデナでペニエルの若者たちと会って祈ると、突き抜けるような時があった。主がまもなく力強く働かれると私たちは感じた。
 At Brother Brownley's tent, at Seventh and Spring streets, Los Angeles, we had a deep spirit of prayer and powerful altar services. There was a feeling that God was about to do something extraordinary.
-ロサンゼルスの七番街とスプリング通りの角にあるブラウンリー兄弟の天幕では、深い祈りの霊があり、祭壇の前での力強い祈りの時があった。神が何か並はずれたことをなさろうとしている、という気配があった。
+ロサンゼルスの七番街とスプリング通りの角に、ブラウンリー兄弟の天幕があった。そこでは、深い祈りの霊があり、祭壇の前での力強い祈りの時があった。神が何か並はずれたことをなさろうとしている、という気配があった。
 The spirit of prayer came more and more heavily upon us. In Pasadena, before moving to Los Angeles, I would lie on my bed in the daytime and roll and groan under the burden. At night I could scarcely sleep for the spirit of prayer.
 祈りの霊は、ますます重く私たちの上にのしかかってきた。ロサンゼルスに移る前、パサデナでは、昼間に寝床に横になって、重荷の下で転げ回り、うめいたものだった。夜は、祈りの霊のために、ほとんど眠れなかった。
 I fasted much, not caring for food while burdened. At one time I was in soul travail for nearly twenty-four hours without intermission. It nearly used me up. Prayer literally consumed me. I would groan all night in my sleep.
