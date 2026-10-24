@@ -19,7 +19,7 @@
 + [x] Chapter VII. Early Ministry--My Broken Ankle Healed
 + [x] Chapter VIII. Call to Foreign Fields
 + [x] Chapter IX. The Death of My Husband
-+ [ ] Chapter X. Nineveh to Tarshish--and Return
++ [x] Chapter X. Nineveh to Tarshish--and Return
 + [ ] Chapter XI. Getting Back
 + [ ] Chapter XII. Revival Fires Fall
 + [ ] Chapter XIII. Called to Dwell in Tents
