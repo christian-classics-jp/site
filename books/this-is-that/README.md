@@ -51,7 +51,7 @@
 + [x] Part III. A Plain Talk to Seekers
 + [x] Part III. The Latter Rain / Shepherds, "False and True"
 + [x] Part III. Sauls--Past and Present
-+ [ ] Part III. What About Those Manifestations?
++ [x] Part III. What About Those Manifestations?
 + [ ] Part III. Receive Ye the Holy Ghost / According to Thy Word
 + [ ] Part III. Twenty-Four Questions a Young Worker Is Apt to Meet
 + [ ] Part III. The Coming of the Christ / The Inquirer and the Word Talk Together of His Coming / Signs of the Times
