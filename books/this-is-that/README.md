@@ -39,7 +39,7 @@
 + [x] Part III. Come--If--But / What Shall I Do with Jesus?
 + [x] Part III. Which Road?
 + [x] Part III. Behold, the Man! / Barabbas
-+ [ ] Part III. A Certain Man Went Down
++ [x] Part III. A Certain Man Went Down
 + [ ] Part III. Hast Thou Not Known Me? / Liberty Bonds--"Over There"
 + [ ] Part III. Modern Warfare--"Over the Top" / The Red Cross
 + [ ] Part III. The Two Houses
