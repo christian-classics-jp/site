@@ -1,9 +1,14 @@
+**第二部　集会で神に触れられた人々の証し**
 Part II
 Testimony of those touched by God in our Meetings
 
+# オンタリオ州マウント・フォレストに現れた神の大いなる力
 THE MIGHTY POWER OF GOD MANIFESTED AT MOUNT FOREST, ONTARIO.
 SISTER E. SHARP.
+% E・シャープ姉妹
 
+（ここにはマウント・フォレストのシャープ姉妹による集会の報告が載っているが、書き手の没年が確かめられないため訳していない。）
+// ここからE・シャープ姉妹の報告。没年が確かめられないので訳さない。
 "Blessed is she that believed, for there shall be a performance of those things which were told her from the Lord."
 
 These words were given to me while we were talking over the work of our mission that the Lord led us to open, four months previously, in the town of Mount Forest, Ont., Canada, in the year 1915. The plougher, the sower and cultivator had done their work, and now we were expecting some fruit from our labors. As believers, we were looking for the signs following.
@@ -107,10 +112,15 @@ The Lord gave us many precious songs through Sister McPherson, in the Spirit, al
 Surely we have seen "the arm of the Lord revealed," and the Holy Fire came from Heaven with slaying power when our floor appeared like a battlefield that even unbelievers looked on in wonder.
 
 "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him."
+// 訳さない範囲ここまで
 
+# 牧師W・K・ボウトンの証し
 TESTIMONY OF PASTOR W. K. BOUTON,
 FREE GOSPEL CHURCH, CORONA, N. Y.
+ニューヨーク州コロナ、自由福音教会
 
+（ここにはコロナの教会の牧師W・K・ボウトンの証しが載っているが、書き手の没年が確かめられないため訳していない。）
+// ここからW・K・ボウトン牧師の証し。没年が確かめられないので訳さない。
 After preaching the Gospel for about twelve years with marked success, I began to realize there was something needful in my life, but did not know just what it was. I would often say to my people: "God is about to do some strange thing in our midst, but what it is I do not know." I felt a need, but thought I was in possession of all that God had for me, except that I must go on and "grow in grace and in the knowledge of the Lord daily, line upon line, precept upon precept, here a little and there a little." I never dreamed of the Baptism of the Holy Spirit. I thought those days were passed; in fact, I was taught by the teachers under whom I studied, that we need never look for supernatural things, those days were over and gone forever. Whenever I heard anything about the Baptism, or people speaking in other tongues, I would say it is an error and would warn my people to have nothing to do with it. We were having very good meetings, and scores of souls were saved. We hardly ever had a service at our church, especially on Sundays, but what God was wonderfully blessing and saving souls.
 
 NEW LIGHT.
@@ -132,3 +142,4 @@ FAITHFULNESS REWARDED.
 Let me say in closing, that wherever there is an honest heart, God will always reveal Himself to such a one. Wherever there is one "hungering and thirsting after righteousness, he shall be filled." Truly, if "we first seek the kingdom of God and its righteousness, all things will be added unto us." God has proved this to me over and over again. I was a poor boy, compelled to work for a living at the age of eleven, and I know what it is to be hungry and to want the necessities of life. I know what it is to be without shoes on a cold winter's day, walking the streets with the snow water oozing out of the tops of little shoes which had no soles on them. I know what it is to go to school with my sister's waist on and the other boys all laughing because I had so many buttons down the back. But I sought Him. and not only that, but He sought me, and praise His Name! He found me. Today I have my own home and most everything heart could wish for, and am the Pastor of a spiritual church, "who love not their lives unto death," but Jesus first and last.
 
 O, how thankful we are that God ever permitted Sister McPherson to come to Corona. God through her has done a work which will redound to the glory of God; and the revival is still on. Sept. 23, 1918.
+// 訳さない範囲ここまで
