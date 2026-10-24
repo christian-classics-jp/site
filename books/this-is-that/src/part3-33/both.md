@@ -26,7 +26,7 @@ On earth the Bride is making the final preparations: the last finishing touch is
 地上では、花嫁が最後の支度をしている。嫁入り道具に、最後の仕上げが施されつつある。没薬の油と香料とによる彼女のきよめの期間は、ほとんど満ちた。彼女が王のもとに連れて行かれる日が来たのである。
 
 Even in the natural, a bride is ever an object of interest and a whispered--
-世の常のことでも、花嫁はいつも人の関心を引くものである。ひそひそとささやく声ひとつで十分である。
+世の常のことでも、花嫁はいつも人の関心を引くものである。ひそひそとささやく声一つで十分である。
 
 "Here comes the bride," is enough to arouse the instant attention and smiling interest of an hundred pair of eyes.
 「花嫁が来た」と、その一言だけで、百組の目がたちまちそちらを向き、ほほえみを浮かべて見つめる。
@@ -35,7 +35,7 @@ In the spiritual the interest in the Bride is intensified a thousand fold, and s
 霊のことにおいては、花嫁への関心は千倍にも強められる。そして、この関心はきっと御霊によって生み出されたものである。パトモス島で、御使は愛された弟子に語って言った。
 
 "Come hither, I will shew thee the Bride, the Lamb's wife," and caught him away in the Spirit to a great and high mountain, there to reveal her glories to him, so the Holy Spirit today speaks to the children of God, saying:
-『さあ、きなさい。小羊の妻なる花嫁を見せよう』。そして彼を御霊によって大きな高い山へと連れて行き、そこで花嫁の栄光を彼に見せた（黙示録二一・九〜一〇）。それと同じように、今日、聖霊は神の子供たちに語っておられる。
+『さあ、きなさい。小羊の妻なる花嫁を見せよう』。そして彼を御霊によって大きな高い山へと連れて行き、そこで花嫁の栄光を彼に見せた（黙示録二一・九〜一〇）。それと同じように、今日、聖霊は神の子供たちに語っておられるからである。
 
 "Come hither (to the Word of God) and I will show thee the Bride, the Lamb's wife."
 「さあ、（神のみことばのもとに）きなさい。小羊の妻なる花嫁を見せよう」
@@ -65,7 +65,7 @@ It was a man and a woman (Adam and Eve) who first brought sin and death into the
 罪と死を初めてこの世にもたらしたのは、一人の男と一人の女（アダムとエバ）であった。そして、罪と死という最後の恐ろしい敵が征服されるとき、手に手を取って共に出て行き、治め支配するのも、一人の男と一人の女（キリストとその教会）である。主をほめたたえよ。
 
 For the FIRST ADAM "there was not found an help meet" (Gen. 2:20), in all the beautiful garden of Eden wherein he dwelt. "And the Lord God caused a deep sleep to fall upon Adam" (Gen. 2:21), and while he slept He took out one of his ribs, and of the "rib which He had taken from man made He a woman and brought her unto the man." ( Gen. 2:22. ) Here immediately we see a beautiful type of The SECOND ADAM--for whom, amongst all the seraphic hosts of heaven there was not found an help meet. Then came the deep sleep of death which the Lord God allowed to come upon Him, and as He slept, there on the cross, His side was opened wide and--
-**最初のアダム**には、彼の住む美しいエデンの園のどこにも、『ふさわしい助け手が見つからなかった』（創世記二・二〇）。『そこで主なる神は人を深く眠らせ』（創世記二・二一）、彼が眠っているあいだに、そのあばら骨の一つを取られた。そして『人から取ったあばら骨でひとりの女を造り、人のところへ連れてこられた』（創世記二・二二）。ここにすぐ、**第二のアダム**の美しい型が見える。天のセラピムの軍勢の中にも、このかたにふさわしい助け手は見つからなかった。それから、死の深い眠りが来た。主なる神は、それがこのかたの上に臨むのを許されたのである。このかたが十字架の上で眠っておられたとき、そのわきは大きく開かれた。
+**最初のアダム**には、彼の住む美しいエデンの園のどこにも、『ふさわしい助け手が見つからなかった』（創世記二・二〇）。『そこで主なる神は人を深く眠らせ』（創世記二・二一）、彼が眠っているあいだに、そのあばら骨の一つを取られた。そして『人から取ったあばら骨でひとりの女を造り、人のところへ連れてこられた』（創世記二・二二）。ここにすぐ、**第二のアダム**の美しい型が見える。天のセラピムの軍勢の中にも、この方にふさわしい助け手は見つからなかった。それから、死の深い眠りが来た。主なる神は、それがこの方の上に臨むのを許されたのである。この方が十字架の上で眠っておられたとき、そのわきは大きく開かれた。
 
 Hallelujah! From the wounded side of Jesus, our Second Adam, a rib company is being formed today and will soon be brought to the man Christ Jesus, to be His wife and His help meet forever.
 ハレルヤ！　私たちの第二のアダムであるイエスの傷ついたわきから、今日、あばら骨の群れが形づくられつつある。それはまもなく人なるキリスト・イエスのもとに連れて行かれ、とこしえにその妻となり、そのふさわしい助け手となるのである。
@@ -74,7 +74,7 @@ THE CLOTHING OF THE BRIDE MUST BE BLOOD-BOUGHT. Gen. 3:21.
 ## 花嫁の衣は血で買われたものでなければならない（創世記三・二一）
 
 Then comes the day when Adam and Eve realized their need of clothing. By their own efforts an apron of fig-leaves was made--but not approved of by God. Man by his own works and by garments of his own self-righteous making, can never please the Father. His covering must needs be bought at the price of blood, therefore was the blood of an innocent creature shed and the Lord God did make coats of skins (skins typifying the covering and righteousness of Jesus), and clothed them.
-それから、アダムとエバが着物の必要に気づく日が来た。彼らは自分たちの力で、いちじくの葉の腰巻を作った。けれども、それは神に認められなかった。人は、自分の行いによっても、自分の義で作った衣によっても、決して父に喜ばれることはない。人のおおいは、血という代価で買われなければならなかった。そのため、罪のない生き物の血が流された。そして主なる神は皮の着物を造って（皮は、イエスのおおいと義を表している）、彼らに着せられた。
+それから、アダムとエバが着物の必要に気づく日が来た。彼らは自分たちの力で、いちじくの葉の腰巻を作った。けれども、それは神に認められなかった。人は、自分の行いによっても、自分の義で作った衣によっても、決して父に喜ばれることはない。人のおおいは、血という代価で買われなければならなかった。そのため、罪のない生き物の血が流された。そして主なる神は皮の着物を造られて（皮は、イエスのおおいと義を表している）、彼らに着せられた。
 
 THE OFFERING OF THE BRIDE MUST BE MADE BY BLOOD.--Gen. 4:4, 5.
 ## 花嫁のささげ物は血によるものでなければならない（創世記四・四〜五）
@@ -100,16 +100,16 @@ The Holy Spirit catches up the searchlight of Mat. 27:37-39, and turns its blazi
 // 英文の Mat. 27:37-39 は原本のとおり。ノアの時を語るのはマタイ二四・三七〜三九 なので、そこを示した。
 
 "As IT WAS, in the days of Noah--
-「ノアの時に**そうであった**ように、」
+「ノアの時に**そうであった**ように」
 
 So SHALL IT BE," reach out and draw aside the outer veil and reveal the inner depths, until the pages seem alive again, peopled with the surging, sinful masses of today. Again the wickedness of man is great--the earth--filled with corruption and violence. Again through raging storm, through war and plague and pestilence, we hear the warning voice of God:
 「**そのようになるであろう**」。この言葉が手を伸ばして外側のベールを引き開け、内なる深みをあらわにする。するとページはふたたび生き返ったように見え、今日の押し寄せる罪深い群衆で満ちる。ふたたび人の悪は地にはびこり、地は腐敗と暴虐に満ちている。ふたたび私たちは、荒れ狂う嵐の中から、戦争と疫病と悪疫の中から、神の警告の声を聞く。
 
 "My Spirit shall not always strive with man . . . I will destroy them with the earth" Again we see God's little remnant, His infinitely precious few--His Noahs, the just and perfect ones, who, with their households, walk with God. Again we see the faithful, whose ears are open to the call of God, whose eyes have discerned the darkening sky, overcast with threatening clouds. Then in their midst there looms the three-storied Ark, with its one door--set within the side, and the one window, in the top. At the words:
-「わたしの霊はながく人の中にとどまらない。（中略）わたしは彼らを地とともに滅ぼそう」（創世記六・三、一三）。ふたたび私たちは、神の小さな残りの者を見る。限りなく尊い少数の者、神のノアたちである。彼らは正しく全き人々で、その家族と共に神と共に歩んでいる。ふたたび私たちは、忠実な人々を見る。彼らの耳は神の呼び声に開かれ、彼らの目は、脅かすような雲におおわれて暗くなっていく空を見分けている。そのとき、彼らのただ中に、三階のある箱舟がぼんやりと姿を現す。その横には一つの戸口があり、上には一つの窓がある。そこへ、次の言葉が響く。
+「わたしの霊はながく人の中にとどまらない。（中略）わたしは彼らを地とともに滅ぼそう」（創世記六・三、一三）。ふたたび私たちは、神の小さな残りの者を見る。限りなく尊い少数の者、神のノアたちである。彼らは正しく全き人々で、その家族を伴って、神と共に歩んでいる。ふたたび私たちは、忠実な人々を見る。彼らの耳は神の呼び声に開かれ、彼らの目は、脅かすような雲におおわれて暗くなっていく空を見分けている。そのとき、彼らのただ中に、三階のある箱舟がぼんやりと姿を現す。その横には一つの戸口があり、上には一つの窓がある。そこへ、次の言葉が響く。
 
 "As IT WAS ... so SHALL IT BE," the three-storied Ark blazes forth throughout obscurity, and we perceive that its three stories are composed of none other material than the combined, united, three-fold efforts of a loving, Triune God. The dispensation of the SON was builded upon the sure foundation of the Father's love (John 3:16); the dispensation of the Holy Spirit was built upon that of the Son (John 16:7).
-「ノアの時に**そうであった**ように、（中略）**そのようになるであろう**」。この言葉と共に、三階のある箱舟は闇を貫いて燃え輝く。そして私たちは悟る。その三つの階は、ほかでもない、愛に満ちた三位一体の神の、力を合わせ一つとなった三重の働きでできているのである。御子の時代は、父の愛という確かな土台の上に建てられた（ヨハネ三・一六）。聖霊の時代は、御子の時代の上に建てられた（ヨハネ一六・七）。
+「ノアの時に**そうであった**ように、（中略）**そのようになるであろう**」。この言葉と共に、三階のある箱舟は闇を貫いて燃え輝く。そして私たちは悟る。その三つの階は、ほかでもない、愛に満ちた三位一体の神の、力を合わせ一つとなった三重の働きでできているのである。**御子**の時代は、父の愛という確かな土台の上に建てられた（ヨハネ三・一六）。聖霊の時代は、御子の時代の上に建てられた（ヨハネ一六・七）。
 
 The OPEN DOOR within the side that seemed but common-place before, now fills our hearts with love--our eyes with tears, for the Spirit whispers:
 横に設けられた**開いた戸口**は、以前はありふれたものに思えた。けれども今は、私たちの心を愛で満たし、目を涙で満たす。御霊がこうささやかれるからである。
@@ -128,7 +128,7 @@ In the CLOSING OF THE DOOR we see the closing of the day of mercy.
 **戸が閉ざされる**ことに、私たちは、あわれみの日が閉ざされることを見る。
 
 In the FALLING OF THE RAIN--the raging of the seas--the rising of the floods that envelop the earth and all that therein is (Rev. 16), we see the coining tribulation and dire sorrow soon to burst upon this world.
-**雨が降る**こと、海が荒れ狂うこと、地とその中にあるすべてのものをおおう大水が高まること（黙示録一六章）に、私たちは、まもなくこの世に襲いかかろうとしている患難と恐ろしい悲しみを見る。
+**雨が降る**こと、海が荒れ狂うこと、地とその中にあるすべてのものをおおう大水が高まること（黙示録一六章）に、私たちは患難と恐ろしい悲しみを見る。それは、まもなくこの世に襲いかかろうとしている。
 // 英文の coining は coming の OCR の読み誤り（ページ画像で確かめた）。
 
 The RISING OF THE ARK, surmounting every wave, shielding the little, chosen, faithful few from wind and rain, is Father, Son and Holy Spirit, enveloping, catching up the Bride, and holding her on high above the turmoil of coming tribulation's waves.
@@ -138,7 +138,7 @@ THE WARNING, HASTY FLIGHT AND ESCAPE OF THE BRIDE--Gen. 19:17-30.
 ## 花嫁への警告と、急ぎの逃避と、その脱出（創世記一九・一七〜三〇）
 
 The Bride--small in number (Math. 7:14)--despised of men--beloved of God--how she rises from each Spirit-filled page, as the Spirit takes the things of Christ and reveals them unto us.
-花嫁は、数が少なく（マタイ七・一四）、人にさげすまれ、神に愛されている。御霊がキリストのものを受けて私たちに示してくださるとき、御霊に満ちたページの一つ一つから、彼女はなんと鮮やかに立ち上がって来ることか。
+花嫁は、数が少なく（マタイ七・一四）、人にさげすまれ、神に愛されている。御霊がキリストのものを受けられて私たちに示してくださるとき、御霊に満ちたページの一つ一つから、彼女はなんと鮮やかに立ち上がって来ることか。
 
 We turn our eyes upon the destruction of Sodom and Gomorrah, and again, as the Spirit's hand sweeps back the curtain, we find ourselves gazing into the living, surging throngs of today--the vain, sin-filled earth--the coming tribulation--the escape of the obedient few and the falling of God's fiery wrath.
 私たちはソドムとゴモラの滅びに目を向ける。すると、御霊の御手が幕を引き開けられるにつれて、私たちはふたたび、今日の生きた、押し寄せる群衆を見つめていることに気づく。むなしく罪に満ちた地があり、来たるべき患難があり、従順な少数の者の脱出があり、そして神の燃える怒りが下る。
@@ -160,16 +160,16 @@ In the mocking and unbelief of the sons-in-law we see mirrored the attitude of t
 むこたちのあざけりと不信仰に、私たちは、神の怒りが迫っていると警告されたときの、今日の世全体の態度が映し出されているのを見る。
 
 As they lingered, the two angels laid hold upon the hands of Lot, his wife and his two daughters, and brought them forth and set them without the city. The Spirit and the Word are today laying hold upon the hands of God's little children and bringing them forth and setting them without the city in a life of real separation unto the Lord.
-彼らがためらっていると、ふたりの御使は、ロトとその妻とふたりの娘の手を取って連れ出し、町の外に置いた。御霊とみことばは今日、神の小さな子供たちの手を取って連れ出し、町の外に置いておられる。主のために真に分離された生活へと導いておられるのである。
+彼らがためらっていると、ふたりの御使は、ロトとその妻とふたりの娘の手を取って連れ出し、町の外に置いた。御霊とみことばは今日、神の小さな子供たちの手を取って連れ出され、町の外に置いておられる。主のために真に分離された生活へと導いておられるのである。
 
 The cry--"Escape for thy life, look not behind thee, neither stay thee in all the plain--escape to the mountain lest thou be consumed," is the cry of the Spirit and the Word to God's little family today. "Escape for thy life, destruction is coming, no time to look back now; neither stay thou in all the plain" for the Lord is calling a called-out, out of a called-out, out of a called-out people who will escape to the mountains (rise up into the heights of God).
 「のがれて、自分の命を救いなさい。うしろをふりかえって見てはならない。低地にはどこにも立ち止まってはならない。山にのがれなさい。そうしなければ、あなたは滅びます」（創世記一九・一七）。この叫びは、今日の神の小さな家族への、御霊とみことばの叫びである。「のがれて、自分の命を救いなさい。滅びが来ようとしている。今はうしろをふりかえる時ではない。低地にはどこにも立ち止まってはならない」。主は、召し出された者の中から召し出され、さらにその中から召し出された民を、呼び出しておられるからである。その民は山へとのがれる（神の高みへとのぼって行く）のである。
 
 At the hesitation of Lot, the cry of "Haste thee, for I cannot do anything until thou be come hither," we find mingled with the cry of the angel ascending from the east in Rev. 7:2-3, "hurt not the earth, neither the sea, nor the trees, until we have sealed the servants of our God in their foreheads."
-ロトがためらうと、「急ぎなさい。あなたがそこに着くまでは、わたしは何事もすることができません」（創世記一九・二二）という叫びがあがる。私たちはその叫びに、黙示録七章二節から三節で、日の出る方から上って来る御使の叫びが混じり合っているのを聞く。「わたしたちの神の僕らの額に、わたしたちが印をおしてしまうまでは、地と海と木とをそこなってはならない」
+ロトがためらうと、「急ぎなさい。あなたがそこに着くまでは、わたしは何事もすることができません」（創世記一九・二二）という叫びがあがる。私たちはその叫びに、黙示録七章二節と三節で、日の出る方から上って来る御使の叫びが混じり合っているのを聞く。「わたしたちの神の僕らの額に、わたしたちが印をおしてしまうまでは、地と海と木とをそこなってはならない」
 
 In the looking back and the turning to a pillar of salt of Lot's wife, we see the condition of backsliding churches and individuals today, standing, stiff and frozen, at the very point where they first looked back. This is no time for looking back, 'tis a time to go forth quickly, Bless the Lord.
-ロトの妻がうしろを顧みて塩の柱になったことに、私たちは、今日の後退した教会や人々の姿を見る。彼らは、最初にうしろを振り返ったまさにその場所に、こわばり、凍りついて立っている。今はうしろを振り返る時ではない。すみやかに出て行く時である。主をほめたたえよ。
+ロトの妻がうしろを顧みて塩の柱になったことに、私たちは、今日の信仰から離れた教会や人々の姿を見る。彼らは、最初にうしろを振り返ったまさにその場所に、こわばり、凍りついて立っている。今はうしろを振り返る時ではない。すみやかに出て行く時である。主をほめたたえよ。
 
 In the raining upon Sodom and Gomorrah of brimstone and fire from the Lord out of heaven--the overthrow of the cities and all the inhabitants of the cities, and that which grew upon the ground" we recognize the fiery wrath and indignation and judgment of God, the great tribulation foretold in Revelation.
 主は硫黄と火とを天からソドムとゴモラの上に降らせ、町々と、その町々のすべての住民と、地にはえている物とを滅ぼされた（創世記一九・二四〜二五）。そこに私たちは、神の燃える怒りと憤りとさばきを認める。黙示録に預言されている大患難である。
@@ -225,10 +225,10 @@ Revealing the beauties and attributes of the Heavenly Bridegroom, and--
 天の花婿の美しさとご性質を明らかにされ、
 
 INVITING all who are willing to bid farewell to earth's dearest relations and ties, to mount the bumpy camel of daily tests and trials (knowing that when we are tried we shall come forth as pure gold)--
-地上の最も親しい身内やきずなに別れを告げようとする者をみな、**招いておられる**。日々の試練と苦難という揺れの激しいらくだに乗り（試みられるとき、私たちは金のように出て来ると知っている）、
+地上の最も親しい身内やきずなに別れを告げようとする者をみな、**招いておられる**。招かれた者は、日々の試練と苦難という揺れの激しいらくだに乗り（試みられるとき、私たちは金のように出て来ると知っている）、
 
 LED BY the Spirit, and go forth to meet the Bridegroom. (Mat. 25:6.)
-御霊に**導かれて**、花婿を迎えに出て行くようにと（マタイ二五・六）。
+御霊に**導かれて**、花婿を迎えに出て行くのである（マタイ二五・六）。
 
 In Isaac's walking forth in the field to meet Rebecca at eventide, we see in type our Bridegroom Jesus coming forth in the clouds to meet His Bride at the end of her pilgrim journey.
 イサクが夕暮に野に出て歩き、リベカを迎えたことに、私たちは型として、私たちの花婿イエスの姿を見る。主は雲のうちに出て来られ、巡礼の旅の終わりに、ご自分の花嫁を迎えてくださるのである。
@@ -243,7 +243,7 @@ The closing words: "And SHE BECAME HIS WIFE," set the chiming wedding bells of R
 結びの言葉、「**リベカは彼の妻となった**」は、黙示録十九章七節の、鳴り渡る婚礼の鐘を、私たちの心に響かせる。
 
 The words: "And HE LOVED HER" flood our souls and overwhelm us with holy joy and rapture. If, when we were yet sinners, He loved us enough to shed His blood for us; if He loved us at the cross enough to wash our sins away; if He loved us enough to fill us with His Spirit and put the finely embroidered wedding gown upon us, what mortal pen can be enough inspired--the boundaries of what human mind can be enough enlarged to depict the LOVE that will be lavished upon the Bride when she becomes--(O, holy, sacred word)--His wife!
-『**彼女を愛した**』（創世記二四・六七）という言葉は、私たちの魂を満たし、聖なる喜びと歓喜で圧倒する。私たちがまだ罪人であったとき、主は私たちのために血を流すほどに私たちを愛してくださった。十字架では、私たちの罪を洗い去るほどに愛してくださった。ご自分の御霊で私たちを満たし、細かい刺繍をほどこした婚礼の衣を着せてくださるほどに愛してくださった。それならば、花嫁が（ああ、聖なる、尊い言葉よ）主の妻となるとき、彼女に惜しみなく注がれる**愛**を描き出せるほど霊感を受けた、死ぬべき人の筆がどこにあろうか。それを描けるほど境を広げられた人の思いが、どこにあろうか。
+『**彼女を愛した**』（創世記二四・六七）という言葉は、私たちの魂を満たし、聖なる喜びと歓喜で圧倒する。私たちがまだ罪人であったとき、主は私たちのために血を流すほどに私たちを愛してくださった。十字架では、私たちの罪を洗い去るほどに愛してくださった。ご自分の御霊で私たちを満たし、細かい刺繍をほどこした婚礼の衣を着せてくださるほどに愛してくださった。それならば、花嫁が（ああ、聖なる、尊い言葉よ）主の妻となるとき、彼女には**愛**が惜しみなく注がれる。その愛を描き出せるほど霊感を受けた、死ぬべき人の筆がどこにあろうか。それを描けるほど境を広げられた人の思いが、どこにあろうか。
 
 CONSECRATION UNTO LIFE OR DEATH--GLEANING-- HUMILITY, AND REWARD OF THE BRIDE.
 ## 生きるにも死ぬにも主にささげる献身、落ち穂拾い、へりくだり、そして花嫁の報い
@@ -264,10 +264,10 @@ In Chapter Three, we behold her LOVE FOR THE BRIDEGROOM,, and her desire to be h
 第三章では、私たちは彼女の**花婿への愛**を見る。彼の花嫁になりたいという願いと、さらに深い献身も見る。その献身によって、彼女は（三節）**身を洗い**（自分のすべての行いと労苦から）、**油をぬり**（とどまる油注ぎ、すなわち御霊の油）、
 
 PUT HER RAIMENT UPON HER (the fine linen, clean and white, which is the righteousness of the saints, Rev. 19:8, embroidered with the fine needlework and wrought gold of Psalms 45:13-14), AND GET HER DOWN TO THE FLOOR (in lowliness and humility to lie at the feet and mercy of the Bridegroom, covered with the skirt of his garment (verse 13) "till the morning" breaks and the shadows flee away.)
-**晴れ着をまとい**（黙示録十九章八節にある、光り輝く、汚れのない麻布の衣、すなわち聖徒たちの正しい行いである。それは詩篇四十五篇十三節から十四節にある、縫い取りとこがねで飾られている）、**打ち場に下って行った**（低く、へりくだって、花婿の足もとに、そのあわれみのもとに伏すためである。彼の着物のすそにおおわれ、十三節にあるように『朝まで』、すなわち夜が明けて影が消え去るまで、そこに伏しているのである）。
+**晴れ着をまとい**（黙示録十九章八節にある『光り輝く、汚れのない麻布の衣』、すなわち『聖徒たちの正しい行い』である。その衣は、詩篇四十五篇十三節と十四節にある縫い取りとこがねで飾られている）、**打ち場に下って行った**（低く、へりくだって、花婿の足もとに、そのあわれみのもとに伏すためである。彼の着物のすそにおおわれ、十三節にあるように『朝まで』、すなわち夜が明けて影が消え去るまで、そこに伏しているのである）。
 
 In Chapter Four we behold RUTH THE BRIDE, who, though shut out by her nearest kin--the Law--who was unable to redeem her ( Deut. 23:3 ), was admitted by Grace when wedded to Boaz, who became at once her Redeemer and her Bridegroom. What a picture! Bless the Lord!
-第四章では、私たちは**花嫁ルツ**を見る。彼女は、最も近い親戚である律法によって締め出されていた。律法は彼女をあがなうことができなかったのである（申命記二三・三）。けれども、ボアズにめとられたとき、彼女は恵みによって迎え入れられた。ボアズは、ただちに彼女のあがない主となり、花婿となった。なんという絵であろう！　主をほめたたえよ！
+第四章では、私たちは**花嫁ルツ**を見る。彼女は、最も近い親戚である律法によって締め出されていた。律法は彼女をあがなうことができなかったのである（申命記二三・三）。けれども、ボアズにめとられたとき、彼女は恵みによって迎え入れられた。ボアズは、彼女のあがない主となり、同時に花婿ともなった。なんという絵であろう！　主をほめたたえよ！
 
 THE BRIDE, TRUE IN THE MIDST OF FIERY TRIAL. PROTECTED FROM ITS BLAST. Dan. 3:21.
 ## 燃える試練のただ中でも忠実で、その炎から守られる花嫁（ダニエル三・二一）
@@ -285,10 +285,10 @@ Breathlessly, we watch them bound in their coats, hosen, hats and other garments
 私たちは息をのんで見つめる。彼らは外套、下着、帽子、その他の衣服のまま縛られ、火の燃える炉の中に投げ込まれる。けれども、守られ、保たれ、炎の熱から救い出される。
 
 Then, all at once, we opened our eyes in amazed recognition and look again to find, as the burning flame penetrates the mists of types and shadows, that these THREE (with the Son of God in their midst) are none other than the BRIDE herself, BODY, SOUL and SPIRIT, protected and preserved amidst the raging flames. (I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord, Jesus Christ--I Thess. 5:23.)
-そのとき、たちまち私たちは、驚いてそれと悟り、目を開く。もう一度よく見ると、燃える炎が型と影の霧を貫くにつれて、この**三人**（神の子が彼らのただ中におられる）が、ほかでもない**花嫁**自身、すなわちその**からだと心と霊**であることがわかる。荒れ狂う炎の中で、守られ、保たれているのである。（『あなたがたの霊と心とからだとを完全に守って、わたしたちの主イエス・キリストの来臨のときに、責められるところのない者にして下さるように』第一テサロニケ五・二三）
+そのとき、たちまち私たちは、驚いてそれと悟り、目を開く。燃える炎が型と影の霧を貫くにつれて、私たちはもう一度よく見る。すると、この**三人**（神の子が彼らのただ中におられる）が、ほかでもない**花嫁**自身、すなわちその**からだと心と霊**であることがわかる。荒れ狂う炎の中で、守られ、保たれているのである。（『あなたがたの霊と心とからだとを完全に守って、わたしたちの主イエス・キリストの来臨のときに、責められるところのない者にして下さるように』第一テサロニケ五・二三）
 
 Walking unharmed in the midst of temptation and fiery trial, without the smell of scorching, we catch a glimpse of the glorious Bride who is being prepared by the Spirit to abide the "day of His coming" (Mai. 3:2), and to dwell with our God, who is a consuming fire.
-誘惑と燃える試練のただ中を、焦げるにおいもなく、害を受けずに歩く。そこに私たちは、栄光の花嫁の姿を垣間見る。彼女は御霊によって整えられつつある。『その来る日』（マラキ三・二）に耐え、焼きつくす火である私たちの神と共に住むためである。
+誘惑と燃える試練のただ中を、焦げるにおいもなく、害を受けずに歩く者がいる。そこに私たちは、栄光の花嫁の姿を垣間見る。彼女は御霊によって整えられつつある。『その来る日』（マラキ三・二）に耐え、焼きつくす火である私たちの神と共に住むためである。
 // 英文の Mai. は Mal. の OCR の読み誤り（ページ画像で確かめた）。
 
 Suddenly the furnace door swings wide, and the voice of the King is heard crying:
@@ -328,7 +328,7 @@ Watchfully, trustfully, she lifts her eyes, clear, undimmed, luminous with the l
 彼女は目を覚まし、信頼して目を上げる。その目は澄み、曇りなく、信仰の光に輝いている。そして、今か今かと待ち望みつつ、その目を戸口に注ぐ。
 
 Well does she know that He who will come, will come and not tarry. Well does she know that the long night will soon be over and that at break of day the King's voice will be heard calling her from above, as He rolls back the clouds and opens a door in Heaven through which He will lift her forever from the lions' den of this world into His own glorious presence, in that land where no ravenous beast can come.
-来るべき方は必ず来られ、遅れることはない。彼女はそれをよく知っている。長い夜はまもなく終わることも、よく知っている。夜明けには、王が上から彼女を呼ばれる声が聞こえるであろう。そのとき王は雲を巻き退け、天に戸口を開かれる。そしてその戸口を通して、彼女をこの世の獅子の穴からとこしえに引き上げ、ご自身の栄光の御前に迎えてくださる。そこは、どんな飢えた獣も来ることのできない地である。
+来るべき方は必ず来られ、遅れることはない。彼女はそれをよく知っている。長い夜はまもなく終わることも、よく知っている。夜明けには、王が上から彼女を呼ばれる声が聞こえるであろう。そのとき王は雲を巻き退けられ、天に戸口を開かれる。そしてその戸口を通して、彼女をこの世の獅子の穴からとこしえに引き上げられ、ご自身の栄光の御前に迎えてくださる。そこは、どんな飢えた獣も来ることのできない地である。
 
 In verse 24 we behold the wicked ones who had cast her into the den of trials and persecutions, themselves cast into the midst of the furious, ravenous beasts. No angel's hand will be there to stay their fury; all their bones shall be broken and they shall be utterly consumed.
 二十四節では、私たちは、彼女を試練と迫害の穴に投げ入れた悪い者たちを見る。彼ら自身が、猛り狂う飢えた獣のただ中に投げ入れられるのである。そこには、獣の猛威を押しとどめる御使の手はない。彼らの骨はことごとく砕かれ、彼らは跡形もなく滅ぼされる。
@@ -337,7 +337,7 @@ Here again is the tribulation which immediately follows the catching up of the B
 ここにもまた、花嫁が王の御前に引き上げられたすぐ後に続く患難がある。
 
 THE SLAIN LAMB MUST HAVE A SLAIN BRIDE THE
-## 殺された小羊には殺された花嫁が、よみがえられた花婿にはよみがえった花嫁がなければならない
+## ほふられた小羊にはほふられた花嫁が、よみがえられた花婿にはよみがえった花嫁がなければならない
 // 原本ではこの小見出しは二行で、二行目の RESURRECTED BRIDEGROOM A RESURRECTED BRIDE. が英文では次の段落の頭に入っている。見出しの訳はここにまとめ、次の段落の訳には本文だけを書いた。
 
 RESURRECTED BRIDEGROOM A RESURRECTED BRIDE. On and on through the long, heaven-canopied corridors of the Word, the Spirit leads, until at last a hush enwraps our souls, as we are brought to a manger, and our reverent eyes, looking down into its depths, behold the Christ-child cradled in its soft embrace.
@@ -347,7 +347,7 @@ The Holy Spirit--Christ-revealing Guide--softly whispers in our ear:
 キリストを示してくださる導き手である聖霊が、私たちの耳にやさしくささやかれる。
 
 "As He was in the world, so shall you be . . . that when He shall appear ye shall be like Him and see Him as He is."
-「主がこの世におられたように、あなたがたもそうなる。（中略）主が現れるとき、あなたがたは主に似る者となり、そのまことの御姿を見る」（第一ヨハネ四・一七、三・二）
+「主がこの世におられたように、あなたがたもそうなる。（中略）主が現れられるとき、あなたがたは主に似る者となり、そのまことの御姿を見る」（第一ヨハネ四・一七、三・二）
 
 Looking still upon the tiny form, the Christ-child fades from our vision; and in its place we see the Christ-life of the Bride, conceived and brought forth from a pure and virgin life, o'er-shadowed by the Holy Spirit's power. (Luke 1:35.)
 その小さな姿をなおも見つめていると、幼子キリストは私たちの視界から消えて行く。そして、その代わりに、花嫁のうちにあるキリストのいのちが見える。それは清い処女の生活から宿され、生み出されたものであり、聖霊の力におおわれている（ルカ一・三五）。
@@ -366,13 +366,13 @@ Thus we behold the Bride--the Lamb's wife, knowing Him not only in the fellowshi
 こうして私たちは、小羊の妻である花嫁を見る。彼女は主の苦難にあずかることによってだけでなく、主の復活の力によっても主を知っている。死人の中から生かされた者として、自分自身をささげている。主と共によみがえり、それゆえにとこしえに主と共に治める者である。私たちの主の昇天の前に、復活の力があった。それと同じように、今よみがえりの栄光のうちに立ち上がり、出て来つつある花嫁は、まもなく引き上げる力を受ける。使徒行伝一章九節と、テサロニケ人への第一の手紙四章十七節にある力である。そして空中へとのぼり、主に会うのである。
 
 These are but a few of the many mist-wrapt types unveiled before our eyes--a few of the erstwhile concealing shadows now dispersed by the illumination of the Spirit as He reveals the Bride before our wondering eyes. ( John 14:26, John 16:13-14.)
-これらは、霧に包まれた多くの型のうち、私たちの目の前でベールを取られたほんのいくつかにすぎない。かつて覆い隠していた影のうち、御霊の照らしによって今散らされたもののほんのいくつかである。御霊は、驚き見張る私たちの目の前に、花嫁を示してくださるのである（ヨハネ一四・二六、一六・一三〜一四）。
+これらは、霧に包まれた多くの型のうち、私たちの目の前でベールを取られたほんのいくつかにすぎない。かつておおい隠していた影のうち、御霊の照らしによって今散らされたもののほんのいくつかである。御霊は、驚き見張る私たちの目の前に、花嫁を示してくださるのである（ヨハネ一四・二六、一六・一三〜一四）。
 
 We might continue our search of the hidden treasures revealed through Esther, the Songs of Solomon, the ten virgins with their lamps, and many others.
 さらに続けて、エステル、雅歌、ともしびを持った十人のおとめ、そのほか多くのものを通して示される、隠された宝を探ることもできよう。
 
 We might press on and gaze through the eyes of "John the Beloved" from Patmos, the blest and sea-bound isle, at the glorious, REIGNING BRIDE, seated with her royal Bridegroom upon His throne.
-さらに進んで、海に囲まれたあの祝された島パトモスから、「愛された弟子ヨハネ」の目を通して、**治める花嫁**を見つめることもできよう。彼女は、王なる花婿と共にその王座に座している。
+さらに進んで、海に囲まれたあの祝された島パトモスから、「愛された弟子ヨハネ」の目を通して、栄光に輝いて**治める花嫁**を見つめることもできよう。彼女は、王なる花婿と共にその王座に座している。
 
 We might gaze upon the regal power and splendor with which the King hath clothed her--upon the Heavenly Jerusalem in which she dwells, with its streets of gold, its jeweled walls, its gates of pearl, its flowers that never fade, and the fruits that ne'er decay, its sea of glass, its ransomed throng with harps of gold, and its light that never shall grow dim.
 王が彼女に着せられた王の力と輝きを見つめることもできよう。また、彼女が住む天のエルサレムを見つめることもできよう。そこには金の通り、宝石で飾られた城壁、真珠の門がある。決してしおれない花、決して朽ちない実、ガラスの海がある。金の立琴を持ったあがなわれた群衆がおり、決して薄れることのない光がある。
@@ -381,4 +381,4 @@ The time for this afternoon talk is gone, however, before our subject is well be
 けれども、私たちの主題がまだ十分に始まりもしないうちに、この午後の話の時間は過ぎてしまった。家に帰ったら、聖書を取り出しなさい。そのページを大きく開き、片手に詩篇百十九篇百五節のともされたともしびを持ち、もう一方の手を聖霊の御手にゆだねなさい。そして、聖霊に導いていただきなさい。神の永遠のみことばの、宝石をちりばめ、天の光に照らされた長い回廊を通って行くのである。その回廊は、創世記の最初の節から黙示録の最後の節まで、途切れることなく続いている。
 
 Then quicken your step, beloved, fasten your girdle tightly about you; bind your sandals securely upon your feet; and with spotless robes and glowing heart, go quickly forth to meet your Lord, for He is coming soon.
-それから、愛するみなさん、足を速めなさい。帯をしっかりと締め、くつを足にしっかりとはきなさい。しみ一つない衣をまとい、燃える心をもって、急いで主を迎えに出て行きなさい。主はまもなく来られるからである。
+それから、愛するみなさん、足を速めなさい。帯をしっかりと締め、サンダルを足にしっかりとはきなさい。しみ一つない衣をまとい、燃える心をもって、急いで主を迎えに出て行きなさい。主はまもなく来られるからである。
