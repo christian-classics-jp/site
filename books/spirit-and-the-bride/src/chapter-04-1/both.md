@@ -192,7 +192,7 @@ But He says to them, "I will pray the Father, and He shall give you another Comf
 I can see no reason for saying that none of these words refer to the Baptism of the Spirit for individuals, except the expression, "Shall be in you."
 これらの言葉のうち、『あなたがたのうちにいるようになる』という表現のほかは、どれも個々の人に与えられる御霊のバプテスマを指していない。そう言う理由は、私には見当たらない。
 According to my understanding, all the above promises concerning the coming of the Comforter refer to the same thing. If we take the words of Jesus just as they stand, they are very simple.
-私の理解では、助け主が来ることについての上の約束は、すべて同じことを指している。イエスの言葉を書かれているとおりに受け取るなら、それはごく単純である。
+私の理解では、助け主が来られることについての上の約束は、すべて同じことを指している。イエスの言葉を書かれているとおりに受け取るなら、それはごく単純である。
 He, in the midst of His disciples, seems to say quietly, but positively, I am going away. Because I said this, you are sad.
 イエスは弟子たちのただ中で、静かに、しかしきっぱりと、こう言っておられるように思われる。わたしは去って行く。わたしがこう言ったので、あなたがたは悲しんでいる。
 But it is best for you that I go away; for I cannot stay with you alway; and after I am gone I will send you a Comforter, with whom you are already acquainted, for He dwelleth with you; but I am going to send Him in a greater measure; and He shall be with you for ever.
