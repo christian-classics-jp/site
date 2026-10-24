@@ -26,7 +26,7 @@ where the beautiful home of dear Sister Armstrong was opened to us. Meetings wer
 その町では、愛するアームストロング姉妹の美しい家が、私たちのために開かれた。集会は姉妹の家の客間で開かれたが、やがて部屋が手狭になり、ウォートマン兄弟の家に移った。
 
 The teaching of Pentecost was practically new in the city at the time when the Lord led my husband thither. Inside of a year, however, over one hundred had received the baptism of the Holy Spirit with the Bible evidence, speaking in tongues, sinners had been saved, and there were several remarkable healings. As a result from the working of the Spirit in these meetings, a large, thriving, centrally located Pentecostal Mission has been built on one of the main streets and the work of God is progressing gloriously to this day.
-主が夫をその町に導かれたころ、ペンテコステの教えはそこではほとんど知られていなかった。けれども、一年もたたないうちに、百人を超える人が聖霊のバプテスマを受け、聖書的なしるしである異言を語った。罪人が救われ、目覚ましいいやしもいくつか起こった。これらの集会での御霊の働きの結果、大通りの一つに、町の中心に近い、大きな、栄えるペンテコステ伝道所が建てられた。神の働きは今日まで栄光のうちに進んでいる。
+主が夫をその町に導かれたころ、ペンテコステの教えはそこではほとんど知られていなかった。けれども、一年もたたないうちに、百人を超える人が聖霊のバプテスマを受け、聖書的なしるしである異言を語った。罪人が救われ、目覚ましいいやしもいくつか起こった。これらの集会での御霊の働きの結果、町の中心に近い大通りの一つに、大きなペンテコステ伝道所が建てられ、栄えている。神の働きは今日まで栄光のうちに進んでいる。
 
 CHICAGO, ILL.
 ## イリノイ州シカゴ
@@ -36,22 +36,22 @@ The Lord began to impress us that we were to go to Chicago, 111., to attend the 
 シカゴへ行って、W・H・ダーラム兄弟の集会に出るように。主はそのことを私たちの心に示し始められた。そこで、必要な費用を求めて祈っていると、主は母の心を動かして、旅費やほかの必要な費用を出させてくださった。
 
 Oh, the teaching and the deepening, and the experiences that were ours in the little North Avenue assembly, where we worshipped for several months, have meant so much in the years which have followed! It was here that the Lord gave me the gift of interpretation.
-私たちは何か月ものあいだ、ノース・アベニューの小さな集会で礼拝した。そこで受けた教え、そこで深められた信仰、そこでの数々の経験は、その後の年月に、ああ、どれほど大きな意味を持ってきたことか！　主が私に解き明かしの賜物を与えてくださったのは、ここである。
+私たちは何か月ものあいだ、ノース・アベニューの小さな集会で礼拝した。ああ、そこで受けた教え、そこで深められた信仰、そこでの数々の経験は、その後の年月にどれほど大きな意味を持ってきたことか！　主が私に解き明かしの賜物を与えてくださったのは、ここである。
 
 While praying upon my knees by the side of my bed one day, I was speaking in tongues (when one has received the Holy Spirit and He has right of way, it is difficult to keep from praying in the Spirit, as when the soul becomes just so full that our human mind cannot give utterance to or express its desires, the Holy Spirit within rises and helping our infirmities, prays through us with groanings that cannot be uttered, or praises and glorifies Jesus as the case may be).
-ある日、私はベッドのそばにひざまずいて祈りながら、異言で語っていた。（聖霊を受け、聖霊が思いのままに働かれるようになると、御霊によって祈らずにいるのは難しい。魂がいっぱいになって、人間の思いではその願いを口にすることも、言い表すこともできなくなるときがある。そのとき、内におられる聖霊がわき上がり、私たちの弱さを助けて、言葉にあらわせないうめきをもって私たちを通して祈ってくださる。あるいは、場合によっては、イエスを賛美し、あがめてくださるのである。）
+ある日、私はベッドのそばにひざまずいて祈りながら、異言で語っていた。（聖霊を受け、聖霊が思いのままに働かれるようになると、御霊によって祈らずにいるのは難しい。魂がいっぱいになって、人間の思いではその願いを口にすることも、言い表すこともできなくなるときがある。そのとき、内におられる聖霊がわき上がり、私たちの弱さを助けてくださる。そして、言葉にあらわせないうめきをもって、私たちを通して祈ってくださる。あるいは、場合によっては、イエスを賛美し、あがめてくださるのである。）
 
 This day, as I was worshipping the Lord in other tongues, as the Spirit gave utterance, I suddenly became conscious of the fact that I could understand the words that the Spirit was speaking through me. He described the glorious morning when the mists should be rolled away, the breaking of eternal dawn over the hills, the nearness of the approach of our Lord, which was reaching out and with flaming colors, illuminating the sky with the promise of His appearing. The glory, the beauty, the majestic tread and kingly garments of the Lord were described in wonderful language that I never could have thought of. When the power lifted from me I was left feeling as though I had had a taste of heaven.
-その日、御霊が語らせるままに、ほかの国の言葉で主を礼拝していると、突然、気づいた。御霊が私を通して語っておられる言葉が、私にわかるのである。御霊は、霧が巻き取られる栄光の朝を描かれた。山々の上に永遠の夜明けが訪れるさまを描かれた。主の来臨が間近に迫り、燃えるような色で手を伸ばし、主が現れるという約束で空を照らしているさまを描かれた。主の栄光と美しさ、威厳に満ちた足取り、王の衣が、私には決して思いつけなかったであろうすばらしい言葉で描かれた。力が私から離れると、天を味わったような思いが残った。
+その日、御霊が語らせるままに、他国の言葉で主を礼拝していると、突然、気づいた。御霊が私を通して語っておられる言葉が、私にわかるのである。御霊は、霧が巻き取られる栄光の朝を描かれた。山々の上に永遠の夜明けが訪れるさまを描かれた。主の来臨が間近に迫り、燃えるような色で手を伸ばし、主が現れるという約束で空を照らしているさまを描かれた。主の栄光と美しさ、威厳に満ちた足取り、王の衣が、私には決して思いつけなかったであろうすばらしい言葉で描かれた。力が私から離れると、天を味わったような思いが残った。
 
 Not understanding this experience, I did not mention it to anyone, but that night, when seated in the North Avenue Mission, Brother Durham, during his preaching, spoke a lengthy message in tongues. No one in this assembly had had the gift of interpretation up to this time, and they had been praying earnestly for its bestowal upon someone.
 この経験の意味がわからなかったので、私はだれにも話さなかった。ところが、その晩、ノース・アベニュー伝道所の席に着いていると、ダーラム兄弟が説教の途中で、長い異言のメッセージを語った。この集会では、それまでだれも解き明かしの賜物を受けていなかった。人々は、だれかにその賜物が与えられるように熱心に祈っていたのである。
 
 As the Pastor spoke, the power was flowing through my being. It just seemed as though the message were rolling in and rolling in and rolling in. The moment the Spirit ceased speaking through him I felt the greatest drawing to spring to my feet and open my mouth, assured that if I did the message would roll and roll forth in English.
-牧師が語っているあいだ、力が私の全身を流れていた。メッセージが次々に、次々に、次々に流れ込んでくるように思えた。御霊が牧師を通して語るのをやめた瞬間、私は、すっくと立ち上がって口を開きたいという強い促しを感じた。そうすれば、メッセージが英語でどんどん流れ出てくることは確かだった。
+牧師が語っているあいだ、力が私の全身を流れていた。メッセージが次々に、次々に、次々に流れ込んでくるように思えた。御霊が牧師を通して語るのをやめられた瞬間、私は、すっくと立ち上がって口を開きたいという強い促しを感じた。そうすれば、メッセージが英語でどんどん流れ出てくることは確かだった。
 
 I could feel my face growing red; it seemed as though everyone must know I had the interpretation, for I shook from head to foot during the silence that ensued, but even though the Brother pointed over the audience in my direction and said--
-顔が赤くなっていくのがわかった。私が解き明かしを持っていることは、みんなに知られているにちがいないと思えた。続く沈黙のあいだ、頭から足まで震えていたからである。ところが、兄弟が会衆の上から私のほうを指さして、
+顔が赤くなっていくのがわかった。私が解き明かしを持っていることは、みんなに知られているにちがいないと思えた。続く沈黙のあいだ、頭から足まで震えていたからである。ところが、兄弟が会衆越しに私のほうを指さして、
 
 "Somebody here has got the interpretation," I still sat on in my chair, fearful of getting to my feet lest I should be mistaken.
 「ここにいるだれかが、解き明かしを受けています」と言っても、私はまだ椅子に座ったままだった。思い違いだったらと恐れて、立ち上がれなかったのである。
@@ -75,7 +75,7 @@ Imagine my joy and relief when a man rose in the back of the hall and stated tha
 そのとき、会場の後ろで一人の男の人が立ち上がった。そして、あの異言のメッセージは自分の国の言葉で語られたもので、解き明かしはそれとぴったり合っていた、と言ったのである。私の喜びと安堵を想像していただきたい。どっと安堵がこみ上げるとともに、私は思い出した。学校のラテン語の授業では、ラテン語の一語が英語の三語、ときには四語にもなった。そして、壁に書かれた文字をダニエルが解き明かしたときも、その長さはまちまちだった。
 
 "Mene; God hath numbered thy kingdom, and finished it.
-『メネは、神があなたの治世を数えて、これをその終りに至らせたことをいうのです。
+『メネは神があなたの治世を数えて、これをその終りに至らせたことをいうのです。
 
 "Tekel; Thou art weighed in the balances, and art found wanting.
 テケルは、あなたがはかりで量られて、その量の足りないことがあらわれたことをいうのです。
@@ -84,7 +84,7 @@ Imagine my joy and relief when a man rose in the back of the hall and stated tha
 ペレスは、あなたの国が分かたれて、メデアとペルシャの人々に与えられることをいうのです』（ダニエル五・二六〜二八）
 
 How could I have been so stupid as to have doubted? Yet to this day perhaps some of my readers, when they have heard a message in tongues whose interpretation apparently did not correspond in length, have doubted and condemned.
-どうして疑ったりするほど愚かだったのだろう。それでも今日まで、読者の中には、こういうかたがおられるかもしれない。異言のメッセージを聞いて、その解き明かしが長さの点で合っていないように思えたので、疑い、非難してきたかたである。
+どうして疑ったりするほど愚かだったのだろうか。それでも、読者の中には、こういうかたもおられるかもしれない。異言のメッセージを聞いて、その解き明かしが長さの点で合っていないように思えたので、今日まで疑い、非難してきたかたである。
 
 Today we are made to realize in a very definite way that the Lord is restoring His church to her full Pentecostal glory and perfection, where every gift and fruit of the Spirit is to be manifested.
 今日、私たちははっきりと悟らされている。主はご自分の教会を、ペンテコステの栄光と完全に、余すところなく回復しておられるのだ。そこでは、御霊のあらゆる賜物と実が現されることになっている。
@@ -95,7 +95,7 @@ FINDLAY, OHIO MIRACULOUS AND INSTANTANEOUS HEALING OF A BROKEN ANKLE.
 
 WHILE at Findlay, Ohio, at Brother Leonard's Mission, attending the two weeks' special meetings conducted by Brother, Durham, we prayed night and day for those seeking the baptism, and the Lord met every one. At times the whole floor in front of the altar was covered by the slain of the Lord. Amongst those seeking the baptism of the Spirit was a minister and a doctor of that city., One evening, being tired in body, from the long-hours at the altar, I went upstairs to lie down, during the tarrying meeting. I had hardly settled down to rest, when, hearing the big bass voice of the minister shouting, "Glory! Glory!! Glory!!!" I bounded off the couch to go and see if he was receiving the Holy Spirit, rejoicing that our prayers were being answered.
 // 英文の Brother, Durham と city., の余分なコンマは OCR の誤り。
-オハイオ州フィンドレーのレナード兄弟の伝道所で、ダーラム兄弟が二週間の特別集会を開いたとき、私たちもそこにいた。私たちはバプテスマを求める人々のために夜も昼も祈った。そして主は、その一人ひとりに会ってくださった。ときには、祭壇の前の床一面が、主の力に打たれて倒れた人々でおおわれた。御霊のバプテスマを求める人々の中に、その町の牧師と医者が一人ずついた。ある晩、私は祭壇での長い時間にからだが疲れたので、待ち望みの集会のあいだ、二階に上がって横になった。休もうと身を落ち着けたとたん、あの牧師の太い低い声が「栄光あれ！　栄光あれ！！　栄光あれ！！！」と叫ぶのが聞こえた。私は寝椅子から跳ね起きた。牧師が聖霊を受けているのか見に行こうとしたのである。私たちの祈りが聞かれたことを喜んでいた。
+オハイオ州フィンドレーのレナード兄弟の伝道所で、ダーラム兄弟が二週間の特別集会を開いたとき、私たちもそこにいた。私たちはバプテスマを求める人々のために夜も昼も祈った。そして主は、その一人ひとりに会ってくださった。ときには、祭壇の前の床一面が、主の力に打たれて倒れた人々でおおわれた。御霊のバプテスマを求める人々の中に、その町の牧師と医者が一人ずついた。ある晩、私は祭壇での長い時間にからだが疲れたので、待ち望みの集会のあいだ、二階に上がって横になった。休もうと身を落ち着けたとたん、あの牧師の太い低い声が「栄光あれ！　栄光あれ！！　栄光あれ！！！」と叫ぶのが聞こえた。私たちの祈りが聞かれつつあるのを喜び、牧師が聖霊を受けているのか見に行こうと、私は寝椅子から跳ね起きた。
 
 In running swiftly down the long flight of stairs I tripped, and, bending my ankle back under me, fell from the middle of the stairs all the rest of the way to the bottom. I could fairly hear the bones crunch under me as I fell. My toes turned towards where the heel ought to be, and my ankle swelled rapidly.
 長い階段を急いで駆け下りる途中、私はつまずいた。足首をからだの下に折り曲げたまま、階段の中ほどから下まで転げ落ちた。落ちるとき、からだの下で骨がぐしゃりと鳴るのが、はっきりと聞こえるほどだった。つま先はかかとがあるはずの方を向き、足首は見る見るはれ上がった。
@@ -107,7 +107,7 @@ The doctor examined my foot and said the bone was not only cracked, but that in 
 医者が私の足を診て言った。骨にひびが入っているだけではない。倒れるときに足を後ろにねじったので、足の指を動かす靭帯のうち四本が、すっかり裂けて切れている。切れていないのは親指に行く一本だけで、そのために指がぐるりと後ろへ引っぱられているのだ、と。
 
 As soon as the swelling had been reduced sufficiently to permit a plaster of paris cast to be put on, Dr. Harrison and his son, also a practising physician of that city, set the bone, drew the bent foot back into place, and put on a heavy cast. He explained to me that the torn cords could not grow together; that my ankle would, therefore, always be stiff, but by keeping the plaster cast on for four weeks, till thoroughly healed, my foot would be straight. They both warned me not to touch it to the floor, or put any weight upon it. A pair of crutches was purchased, and by their aid I went hobbling to the train that was to take us back to Chicago.
-はれが引いて、ギプスをはめられるようになると、すぐにハリソン医師と、同じ町で開業している医者の息子さんが、骨を接いでくれた。曲がった足を元の位置に引き戻し、重いギプスをはめてくれた。医師はこう説明した。切れた筋がつながることはない。だから足首はいつまでもこわばったままだろう。けれども、すっかり治るまで四週間ギプスをはめておけば、足はまっすぐになる。二人とも、足を床につけたり、体重をかけたりしてはいけない、と私に念を押した。松葉杖を一組買い、私はそれに助けられて、シカゴに戻る汽車までよろよろと歩いて行った。
+はれが引いて、ギプスをはめられるようになった。するとすぐに、ハリソン医師と、やはりその町で開業している息子さんとが、骨を接いでくれた。曲がった足を元の位置に引き戻し、重いギプスをはめてくれた。医師はこう説明した。切れた筋がつながることはない。だから足首はいつまでもこわばったままだろう。けれども、すっかり治るまで四週間ギプスをはめておけば、足はまっすぐになる。二人とも、足を床につけたり、体重をかけたりしてはいけない、と私に念を押した。松葉杖を一組買い、私はそれに助けられて、シカゴに戻る汽車までよろよろと歩いて行った。
 
 The afternoon we arrived, I attended the service in the mission, and rested my aching and feverish foot on the platform in front of me. Every jar of the floor sent a stabbing pain through it, and, sick with the pain, I went to my room, a block away from the hall. While sitting there commiserating with myself over the black and swollen toes, which were all I could see of my foot, a voice spoke to me and said:
 着いた日の午後、私は伝道所の礼拝に出た。痛んで熱を持った足を、前の壇の上にのせて休ませていた。床が揺れるたびに、刺すような痛みが走った。痛みで気分が悪くなり、私は会場から一ブロック離れた自分の部屋に帰った。そこに座って、黒くはれた指を見ながら、自分を哀れんでいた。足のうちで見えるのはその指だけだった。すると、一つの声が私に語りかけた。
@@ -137,7 +137,7 @@ Trembling with excitement and joy, it took me fully five minutes, with the help 
 興奮と喜びで震えながら、聖徒たちに手伝ってもらって、ギプスを外すのにたっぷり五分かかった。その場にいた不信者が言った。
 
 "Don't be foolish. Leave it on, you will only have to pay a doctor three dollars to replace the cast."
-「ばかなことはやめなさい。はめたままにしておくんだ。医者に三ドル払って、はめ直してもらうはめになるだけだぞ」
+「ばかなことはやめなさい。はめたままにしておくんだ。医者に三ドル払って、またはめてもらうことになるだけだぞ」
 
 But, glory to Jesus, I was healed. At last the plaster was removed, the absorbent cotton off, my stocking on, also the shoe (which fitted perfectly now), and I leaped to my feet and began to dance and jump on the healed foot.
 けれども、イエスに栄光あれ、私はいやされていた。とうとうギプスが外れ、脱脂綿も取れた。靴下を履き、靴も履いた（今度はぴったり合った）。そして私は跳び上がり、いやされた足で踊ったり跳ねたりし始めた。
@@ -149,4 +149,4 @@ Suddenly remembering my husband would be coming on the next elevated train, I ra
 夫が次の高架鉄道の電車で帰ってくることを、ふと思い出した。私は松葉杖を置いたまま階段を駆け下り、駅までずっと走って行って、夫にこのすばらしい知らせを伝えた。足首は前と同じように丈夫だった。
 
 The mission was full to the doors that night, and when the Pastor asked me to step to the platform and tell of my wonderful healing, and the saints saw that the crutches and plaster cast were gone, and that I could leap and dance upon the foot, they shouted and praised the Lord. Many of the Chicago onlookers who knew not the healing power, doubted that the ankle had ever been broken. When the word went back and the healing was announced publicly in Findlay, Ohio, many of the public there who knew it was broken, would not believe it was healed. How like human nature. "If they hear not Moses and the prophets, neither will they be persuaded though one rose from the dead."
-その晩、伝道所は戸口まで人でいっぱいだった。牧師が私に、壇上に上がって、このすばらしいいやしのことを話すように言った。聖徒たちは、松葉杖もギプスもなくなり、私がその足で跳んだり踊ったりできるのを見て、叫び、主を賛美した。いやしの力を知らないシカゴの見物人の多くは、そもそも足首が折れていたのかと疑った。オハイオ州フィンドレーに知らせが届き、いやしが公に告げられると、今度は、足首が折れていたことを知っているそこの人々の多くが、いやされたとは信じようとしなかった。なんと人間らしいことだろう。『もし彼らがモーセと預言者とに耳を傾けないなら、死人の中からよみがえってくる者があっても、彼らはその勧めを聞き入れはしないであろう』（ルカ一六・三一）。
+その晩、伝道所は戸口まで人でいっぱいだった。牧師が私に、壇上に上がって、このすばらしいいやしのことを話すように言った。聖徒たちは、松葉杖もギプスもなくなり、私がその足で跳んだり踊ったりできるのを見て、叫び、主を賛美した。いやしの力を知らないシカゴの見物人の多くは、そもそも足首が折れていたのかと疑った。知らせがオハイオ州フィンドレーに届き、いやしが公に告げられた。すると今度は、足首が折れていたことを知っているそこの人々の多くが、いやされたとは信じようとしなかった。なんと人間らしいことだろう。『もし彼らがモーセと預言者とに耳を傾けないなら、死人の中からよみがえってくる者があっても、彼らはその勧めを聞き入れはしないであろう』（ルカ一六・三一）。
