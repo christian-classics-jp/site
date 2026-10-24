@@ -21,7 +21,7 @@
 + [x] Chapter VIII. The Baptism of the Holy Ghost Subsequent to Sanctification (1)
 + [x] Chapter VIII. The Baptism of the Holy Ghost Subsequent to Sanctification (2)
 + [x] Chapter IX. The Early and the Latter Rain
-+ [ ] Chapter X. The Fruit of the Spirit
++ [x] Chapter X. The Fruit of the Spirit
 + [ ] Chapter XI. Babylon, or the Confusion of Tongues
 + [ ] Chapter XII. The Judgment
 + [ ] Chapter XIII. The Ten Virgins
