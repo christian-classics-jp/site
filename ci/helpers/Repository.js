@@ -1,4 +1,4 @@
-const {BOOKS_DIR, STATIC_DIR, PUBLIC_DIR} = require('./consts')
+const {BOOKS_DIR, PUBLIC_DIR} = require('./consts')
 const fs = require('fs')
 const {join} = require('path')
 
@@ -46,12 +46,12 @@ class Repository {
 
   get epubPath () {
     const {repos} = this
-    return join(STATIC_DIR, 'epub', `${repos}.epub`)
+    return join(PUBLIC_DIR, 'epub', `${repos}.epub`)
   }
 
   get pdfPath () {
     const {repos} = this
-    return join(STATIC_DIR, 'pdf', `${repos}.pdf`)
+    return join(PUBLIC_DIR, 'pdf', `${repos}.pdf`)
   }
 
   get url () {

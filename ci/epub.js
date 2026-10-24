@@ -3,27 +3,30 @@
 const Epub = require('epub-gen')
 const marked = require('marked')
 const fs = require('fs')
+const {dirname} = require('path')
 const hbs = require('handlebars')
 const Repository = require('./helpers/Repository')
 const convertToHtml = (markdown) => marked(markdown)
-const {EPUB_OPF_PATH, EPUB_BOOK_PATH, EPUB_STYLE_PATH, SURFACE_TEMPLATE_PATH} = require('./helpers/consts')
+const {BOOKS_DIR, EPUB_OPF_PATH, EPUB_BOOK_PATH, EPUB_STYLE_PATH, SURFACE_TEMPLATE_PATH} = require('./helpers/consts')
 const {AUTHOR, PUBLISHER, EPUB_VERSION, LANG, TOC_TITLE} = require(EPUB_BOOK_PATH)
 const markdownTitle = (markdown) => markdown.match(/# (.+)/)[1]
 const readTmpl = (tmplPath) => hbs.compile(fs.readFileSync(tmplPath, {encoding: 'utf-8'}).toString())
 
-const repos = process.argv[2]
-if (!repos) {
-  console.log(`
-Usage:
-  $ ./ci/epub.js <repos>
-`)
-  process.exit()
+const book = process.argv[2]
+const books = book ? [book] : fs.readdirSync(BOOKS_DIR)
+
+main()
+
+async function main () {
+  for (const name of books) {
+    const repos = new Repository(name)
+    if (!repos.completed) continue
+    console.log(`> ${name}`)
+    await epub(repos)
+  }
 }
 
-epub(repos)
-
-async function epub (reposName) {
-  const repos = new Repository(reposName)
+async function epub (repos) {
   const {
     articleNames,
     book
@@ -38,6 +41,7 @@ async function epub (reposName) {
     articleHtmls.map((html, i) => ({title: markdownTitle(markdowns[i]), data: html}))
   )
 
+  fs.mkdirSync(dirname(repos.epubPath), {recursive: true})
   await new Epub({
     title: book.title,
     author: [book.author, AUTHOR],
@@ -50,5 +54,5 @@ async function epub (reposName) {
     content,
     appendChapterTitles: false,
     tocTitle: TOC_TITLE
-  })
+  }).promise
 }

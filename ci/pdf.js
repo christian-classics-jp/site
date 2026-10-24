@@ -1,30 +1,38 @@
 #!/usr/bin/env node
 
-const Pdf = require('html-pdf')
+const {chromium} = require('playwright')
 const marked = require('marked')
 const fs = require('fs')
+const {dirname} = require('path')
 const hbs = require('handlebars')
 const Repository = require('./helpers/Repository')
 const pdfOption = require('../assets/pdf/config')
 const convertToHtml = (markdown) => marked(markdown)
-const {PDF_TEMPLATE_PATH, PDF_CSS_PATH, SURFACE_TEMPLATE_PATH} = require('./helpers/consts')
+const {BOOKS_DIR, PDF_TEMPLATE_PATH, PDF_CSS_PATH, SURFACE_TEMPLATE_PATH} = require('./helpers/consts')
 const readTmpl = (tmplPath) => hbs.compile(fs.readFileSync(tmplPath, {encoding: 'utf-8'}).toString())
 const pageSpliter = '<div class="page-split"></div>\n'
+const marginTemplate = (html) => `<div style="width: 100%; font-family: 'Noto Serif CJK JP', serif; font-size: 9px; color: #444; text-align: center;">${html}</div>`
 
-const repos = process.argv[2]
-if (!repos) {
-  console.log(`
-Usage:
-  $ ./ci/pdf.js <repos>
-`)
-  process.exit()
+const book = process.argv[2]
+const books = book ? [book] : fs.readdirSync(BOOKS_DIR)
+
+main()
+
+async function main () {
+  const browser = await chromium.launch()
+  try {
+    for (const name of books) {
+      const repos = new Repository(name)
+      if (!repos.completed) continue
+      console.log(`> ${name}`)
+      await pdf(browser, repos)
+    }
+  } finally {
+    await browser.close()
+  }
 }
 
-pdf(repos)
-
-async function pdf (reposName) {
-  const repos = new Repository(reposName)
-
+async function pdf (browser, repos) {
   const markdowns = repos.articleNames.map(repos.readArticleMarkdown.bind(repos))
   const surfaceHtml = readTmpl(SURFACE_TEMPLATE_PATH)({
     reposUrl: repos.url
@@ -33,16 +41,19 @@ async function pdf (reposName) {
   const combined = htmls.join(pageSpliter)
 
   const html = readTmpl(PDF_TEMPLATE_PATH)({
-    cssPath: PDF_CSS_PATH,
+    css: fs.readFileSync(PDF_CSS_PATH, {encoding: 'utf-8'}),
     data: combined
   })
-  const header = {
-    height: '20mm',
-    contents: {
-      default: `<div class="page-header">${repos.title}</div>`
-    }
-  }
-  await new Promise((resolve, reject) => {
-    Pdf.create(html, {header, ...pdfOption}).toFile(repos.pdfPath, (err) => err ? reject(err) : resolve())
+  const page = await browser.newPage()
+  await page.setContent(html)
+  await page.evaluate(() => document.fonts.ready)
+  fs.mkdirSync(dirname(repos.pdfPath), {recursive: true})
+  await page.pdf({
+    ...pdfOption,
+    path: repos.pdfPath,
+    displayHeaderFooter: true,
+    headerTemplate: marginTemplate(hbs.escapeExpression(repos.title)),
+    footerTemplate: marginTemplate('- <span class="pageNumber"></span> -')
   })
+  await page.close()
 }

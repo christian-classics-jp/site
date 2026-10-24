@@ -6,14 +6,16 @@
     "co": "^4.6.0",
     "epub-gen": "^0.1.0",
     "handlebars": "^4.0.5",
-    "html-pdf": "^2.2.0",
     "jesep": "^1.0.0",
     "marked": "^0.7.0",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.1",
+    "playwright": "1.64.0"
   },
   "devDependencies": {},
   "scripts": {
-    "build": "node ci/build.js"
+    "build": "node ci/build.js",
+    "epub": "node ci/epub.js",
+    "pdf": "node ci/pdf.js"
   },
   "repository": "FujiHaruka/simplest-site-template",
   "keywords": [
