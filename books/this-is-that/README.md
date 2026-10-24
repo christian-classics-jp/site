@@ -49,7 +49,7 @@
 + [x] Part III. You Need the Holy Spirit / Tarry Until
 + [x] Part III. The Baptism of the Holy Spirit / Work of the Holy Spirit
 + [x] Part III. A Plain Talk to Seekers
-+ [ ] Part III. The Latter Rain / Shepherds, "False and True"
++ [x] Part III. The Latter Rain / Shepherds, "False and True"
 + [ ] Part III. Sauls--Past and Present
 + [ ] Part III. What About Those Manifestations?
 + [ ] Part III. Receive Ye the Holy Ghost / According to Thy Word
