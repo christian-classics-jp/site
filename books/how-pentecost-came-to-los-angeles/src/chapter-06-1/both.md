@@ -77,7 +77,7 @@ Besides our living expenses they gave us one hundred dollars. We needed a lot of
 彼らは私たちの生活費のほかに、100ドルをくれた。次の行き先へ乗り継ぐには多くのお金が要ったので、それでも決して多すぎはしなかった。スポーケンの聖徒たちの私たちへの愛は、とても深かった。
 
 We passed through Deer Lodge, and Butte, Montana, and near the Yellowstone Park, via the Northern Pacific railroad, on the way to Minneapolis.
-私たちは、ノーザン・パシフィック鉄道でミネアポリスへ向かう途中、モンタナ州のディア・ロッジとビュートを通り、イエローストーン公園の近くを過ぎた。
+私たちは、ノーザン・パシフィック鉄道でミネアポリスへ向かった。途中、モンタナ州のディア・ロッジとビュートを通り、イエローストーン公園の近くを過ぎた。
 At Minneapolis I spoke four times in the little mission, to a precious company of saints. I visited Minnehaha Falls while there also.
 ミネアポリスでは、小さなミッションで、尊い聖徒たちの群れに四回語った。そこにいるあいだに、ミネハハの滝も訪ねた。
 
@@ -215,7 +215,7 @@ Brother Pike, editor of the "Way of Faith," wrote regarding the Falcon camp meet
 'From his knees to the pulpit,' may be literally said of this Heaven-anointed messenger, and though his bodily presence is weak, it is soon apparent that he is a man sent of God, and he speaks with authority.
 この天から油注がれた使者については、『ひざから説教壇へ』と文字どおり言うことができる。そして、外見は弱々しいが、彼が神から遣わされた人であることはすぐにわかり、彼は権威をもって語る。
 We have rarely heard more unctious preaching than that of Brother King on Sunday night, and Brother Bartleman on Monday morning." - J. M. Pike.
-日曜日の夜のキング兄弟と、月曜日の朝のバートルマン兄弟の説教ほど、油注がれた説教を、私たちはめったに聞いたことがない」（J・M・パイク）。
+日曜日の夜のキング兄弟の説教と、月曜日の朝のバートルマン兄弟の説教は、油注ぎに満ちていた。これ以上の説教を、私たちはめったに聞いたことがない」（J・M・パイク）。
 I sincerely appreciated the kind words of Brother Pike on this occasion. We generally get enough of the other kind to keep us humble, but I really feared the brethren had overestimated me.
 このときのパイク兄弟の親切な言葉を、私は心からありがたく思った。私たちは、たいてい、へりくだっていられるのに十分なほど、反対の言葉を受けている。しかし私は、兄弟たちが私を買いかぶっているのではないかと、本当に恐れた。
 I only prayed I might not prove too great a disappointment to them. They had at least set a goal for me to strive for.
