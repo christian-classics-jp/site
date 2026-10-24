@@ -24,7 +24,7 @@
 + [x] Chapter XII. Revival Fires Fall
 + [x] Chapter XIII. Called to Dwell in Tents
 + [x] Chapter XIV. The Bridal Call
-+ [ ] Chapter XV. Eastern Summer Tent Campaign, 1917
++ [x] Chapter XV. Eastern Summer Tent Campaign, 1917
 + [ ] Chapter XVI. Second Southern Campaign and Gospel Auto Work
 + [ ] Chapter XVII. Meetings in Virginia and Gospel Auto News
 + [ ] Chapter XVIII. Nation Wide Camp, Philadelphia
