@@ -28,9 +28,9 @@ Other Scriptures: Ps. 1: 3; Isa. 44:3, 4; Ezek. 36: 25-30; 47: 1-5; Eph. 5: 26.
 3. Wine.
 三　ぶどう酒。
 On the day of Pentecost it was said of those who had received the Holy Ghost, "These men are full of new wine" (Acts 2: 13).
-ペンテコステの日に、聖霊を受けた人々について、『あの人たちは新しい酒で酔っているのだ』と言われた（使徒二・一三）。
+ペンテコステの日に、聖霊を受けた人々について、『あの人たちは新しい酒で酔っているのだ』と言う者たちがいた（使徒二・一三）。
 The figure here lies in the effect produced.
-ここでのたとえは、生じた結果にある。
+ここでのたとえの要点は、もたらされた結果にある。
 "And be not drunk with wine, wherein is excess; but be filled with the Spirit" (Eph. 5: 18).
 『酒に酔ってはいけない。それは乱行のもとである。むしろ御霊に満たされなさい』（エペソ五・一八）。
 (See Matt. 9: 17).
@@ -63,11 +63,11 @@ This twofold symbol may be found in the following Scriptures:
 "Who hath also sealed us, and given the earnest of the Spirit in our hearts" (2 Cor. 1: 22).
 『神はまた、わたしたちに証印をおし、その保証として、わたしたちの心に御霊を賜わったのである』（第二コリント一・二二）。
 "A seal is the impress of the government by the placing of the chosen design so as to secure the object sealed from any antagonism."
-「証印とは、定められた図柄を押すことによって、政府がしるす刻印である。それによって、封じた物をあらゆる敵対から守るのである」
+「証印とは、定められた図柄を押すことによって、政府がしるす刻印である。それによって、証印を押した物をあらゆる敵対から守るのである」。
 It means that the object upon which it is placed has the authority and protection of the government.
 つまり、証印の押された物は、政府の権威と保護のもとにあるということである。
 "An earnest is that which makes the promise secure, the forfeiture which stands for the promise until the promise is fulfilled."
-「保証とは、約束を確かにするものである。約束が果たされるまで、約束の身代わりとなる抵当である」
+「保証とは、約束を確かにするものである。約束が果たされるまで、約束の身代わりとなる抵当である」。
 Thus the operation of the Holy Spirit in our hearts is presented to us under the twofold symbol of seal and pledge.
 こうして、私たちの心のうちでの聖霊の働きが、証印と保証という二重の象徴によって私たちに示されている。
 
@@ -84,7 +84,7 @@ The principal means of communicating thought among men is by the human voice, of
 The gospel is God's communication to men, and, as we have seen, is made efficient by the direct power of the Holy Ghost.
 福音は、神から人への伝達である。すでに見たように、福音は聖霊の直接の力によって効力あるものとされる。
 So then, when the disciples were waiting for the enduement of power, it was a most fitting symbolism that the Holy Ghost should take the form of visible tongues like as of fire resting upon them.
-弟子たちは、力を着せられるのを待っていた。そのとき聖霊は、炎のような目に見える舌の形をとって、彼らの上にとどまられた。それは、まことにふさわしい象徴だった。
+弟子たちは、力を授けられるのを待っていた。そのとき聖霊は、炎のような目に見える舌の形をとって、彼らの上にとどまられた。それは、まことにふさわしい象徴だった。
 The Holy Spirit is not the tongue, but His power is to be felt through tongues speaking in every direction.
 聖霊は舌そのものではない。しかし聖霊の力は、四方八方に語る舌を通して感じ取られるのである。
 In other words, He is to make the tongue of the divinely-chosen messenger efficient in preaching the gospel unto the uttermost parts of the earth.
@@ -135,7 +135,7 @@ Since we propose in this book to deal with the offices of the Spirit in His rela
 We have thus mentioned seven symbols which the Holy Ghost has chosen to represent to us His manifold operations in our hearts.
 このように、七つの象徴を挙げた。私たちの心のうちでのご自分のさまざまな働きを示すために、聖霊が選ばれたものである。
 There may be other symbols, but it seems to us that these cover the ground.
-ほかにも象徴はあるかもしれない。しかし私たちには、これらで全体を覆い尽くしているように思われる。
+ほかにも象徴はあるかもしれない。しかし私たちには、これらで全体が尽くされているように思われる。
 No one type of nature is sufficient to embody His whole ministry, therefore it is only natural that there should be just seven types setting forth His manifold operations.
 自然界のどれか一つのひな型だけで、御霊の務めの全体を表すことはできない。だから、そのさまざまな働きを示すひな型がちょうど七つあるのは、当然のことである。
 But let no one think for a moment that all or any of these symbols thus used are the Holy Ghost, or that the Holy Ghost is the symbol.
@@ -148,6 +148,6 @@ Just as soon as we reach the place that we can comprehend the operation without 
 "Living as we do in a material world, and encompassed with material senses, God speaks to us through material emblems.
 「私たちは物質の世界に生き、物質の感覚に取り囲まれている。それで神は、物質の象徴を通して私たちに語られる。
 But the time is coming when He will not speak to us in parables, but will bring our spirits into immediate vision and communion with the Father.
-しかし、その時が来ようとしている。神はもはや私たちにたとえで語らず、私たちの霊を、父をじかに見て父と交わるところへ導いてくださるのである。
+しかし、その時が来ようとしている。神はもはや私たちにたとえで語られず、私たちの霊を、父をじかに見て父と交わるところへ導いてくださるのである。
 Then the soul will be able to dispense with all secondary terms and types, and having lost itself in the ocean of divine nature, and being one with the Father and the Son and the Holy Spirit, it will not need to be taught any more, but will see and know all things in the cloudless comprehension which the Spirit will constantly give to the glorified soul."--Dr. Watson.
-そのとき魂は、二次的な言葉やひな型をすべて要らなくなる。魂は神の本性の大海に我を忘れ、父と子と聖霊と一つになる。もはや教えられる必要はない。御霊は、栄光を受けた魂に、一点の曇りもない理解を絶えず与えてくださる。魂はその理解のうちに、すべてを見、すべてを知るのである」（ワトソン博士）
+そのとき魂は、二次的な言葉やひな型は、すべて要らなくなる。魂は神の本性の大海に溶け込み、父と子と聖霊と一つになる。もはや教えられる必要はない。御霊は、栄光を受けた魂に、一点の曇りもない理解を絶えず与えてくださる。魂はその理解のうちに、すべてを見、すべてを知るのである」（ワトソン博士）。
