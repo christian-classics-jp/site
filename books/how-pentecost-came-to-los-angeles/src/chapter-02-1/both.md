@@ -12,7 +12,7 @@ One afternoon I started the meeting in Los Angeles while they were waiting for S
 Like the children of Israel the people must have "some other god before Him." In State Church circles in Europe the pastor is often known as "the little God."
 イスラエルの子らのように、人々は「神のほかに何かの神」を持たずにはいられないのだ。ヨーロッパの国教会の世界では、牧師はよく「小さな神」と呼ばれている。
 I started the service in the evening on the church steps, outside, while we were waiting for the janitor to arrive with the key. We had a season of prayer for the surrounding community. The evening meeting was a steady sweep of victory.
-夜は、管理人が鍵を持って来るのを待つあいだに、外の教会の石段で礼拝を始めた。しばらく、周りの地域のために祈った。夜の集会では、勝利が絶えず押し寄せた。
+夜は、管理人が鍵を持って来るのを待つあいだに、教会の外の石段で礼拝を始めた。しばらく、周りの地域のために祈った。夜の集会では、勝利が絶えず押し寄せた。
 
 When God's church becomes what it should be, in love and unity, the doors will never be closed or locked. Like the temple of old it will be always open. (We saw this later, at Azusa Mission.) God has not got 666 churches, all of different names.
 神の教会が、愛と一致においてあるべき姿になるとき、その扉は決して閉じられることも、鍵をかけられることもないだろう。昔の神殿のように、いつも開かれているだろう（私たちはのちに、アズサ通りミッションでこれを見た）。神は、みな違う名前を持つ六百六十六の教会など持ってはおられない。
@@ -34,9 +34,9 @@ It was in full blast when Brother Smale arrived. God wanted the people to look t
 スメール兄弟が着いたときには、集会はすっかり燃え上がっていた。神は、人々が人ではなく、ご自分を仰ぐことを望んでおられた。神の栄光を第一に考えていない人々は、当然これを不快に思うだろう。しかし、それが神のご計画なのだ。
 
 We now moved into a little cottage at 175½ N. Vernon Avenue, Pasadena, paying three dollars per month rent, for one room and a small kitchen, unfurnished, without gas or water. I found most Christians did not want to take on a burden of prayer. It was too hard on the flesh.
-このころ、パサデナのノース・バーノン通り175½番地の小さな家に移った。一部屋と小さな台所だけで、家具もガスも水道もなく、家賃は月3ドルだった。たいていのクリスチャンは、祈りの重荷を負おうとしないことがわかった。肉にはつらすぎるのだ。
+このころ、パサデナのノース・バーノン・アベニュー175½番地の小さな家に移った。一部屋と小さな台所だけで、家具もガスも水道もなく、家賃は月3ドルだった。たいていのクリスチャンは、祈りの重荷を負おうとしないことがわかった。肉にはつらすぎるのだ。
 I was carrying this burden now in ever increasing volume, night and day. The ministry was intense. It was "the fellowship of His sufferings," a "travail" of soul, with "groanings that could not be uttered." - Rom. 8:26, 27. Most believers find it easier to criticize than to pray.
-私は今、ますます大きくなるこの重荷を、昼も夜も負っていた。その奉仕は激しかった。それは「キリストの苦難にあずかる」ことであり、魂の「産みの苦しみ」であり、『言葉にあらわせない切なるうめき』を伴うものだった（ローマ八・二六〜二七）。たいていの信者は、祈るより批判するほうがたやすいと思っている。
+私は今、ますます大きくなるこの重荷を、昼も夜も負っていた。その奉仕は激しかった。それは「キリストの苦難にあずかる」ことであり、魂の「産みの苦しみ」であった。そこには『言葉にあらわせない切なるうめき』が伴っていた（ローマ八・二六〜二七）。たいていの信者は、祈るより批判するほうがたやすいと思っている。
 
 One day I was much burdened in prayer. I went to Brother Manley's tent and fell at the altar, there unburdening my soul. A worker ran in from a side tent and begged me to pray for him.
 ある日、私は祈りの重荷にひどく苦しんだ。マンリー兄弟の天幕へ行き、祭壇の前にひれ伏して、魂の重荷を下ろした。働き人の一人が脇の天幕から駆け込んで来て、自分のために祈ってほしいと頼んだ。
@@ -53,7 +53,7 @@ Some resented this, being bound by age old custom, but others responded to it. T
 I had written a letter to Evan Roberts in Wales, asking them to pray for us in California. I now received a reply that they were doing so, which linked us up with the revival there.
 私はウェールズのエバン・ロバーツに手紙を書き、カリフォルニアの私たちのために祈ってほしいと頼んでいた。今、祈っているという返事が届いた。それによって、私たちはウェールズのリバイバルと結ばれた。
 The letter read as Follows: "My dear brother in the faith: Many thanks for your kind letter. I am impressed of your sincerity and honesty of purpose. Congregate the people together who are willing to make a total surrender. Pray and wait. Believe God's promises. Hold daily meetings. May God bless you, is my earnest prayer. Yours in Christ, Evan Roberts."
-手紙にはこうあった。「信仰における愛する兄弟へ。ご親切なお手紙をありがとう。あなたの誠実さと、志のまっすぐなことに心を打たれました。すっかり明け渡す心のある人々を集めなさい。祈って、待ちなさい。神の約束を信じなさい。毎日集会を開きなさい。神があなたを祝福してくださるようにと、心から祈っています。キリストにあって、エバン・ロバーツ」。
+手紙にはこうあった。「信仰における愛する兄弟へ。ご親切なお手紙をありがとうございます。あなたの誠実さと、志のまっすぐなことに心を打たれました。すっかり明け渡す心のある人々を集めなさい。祈って、待ちなさい。神の約束を信じなさい。毎日集会を開きなさい。神があなたを祝福してくださるようにと、心から祈っています。キリストにあって、エバン・ロバーツ」。
 We were much encouraged to know that they were praying for us in Wales.
 ウェールズで私たちのために祈ってくれていると知って、私たちは大いに励まされた。
 
@@ -80,13 +80,13 @@ I have been expecting just such a display of divine power for some time. Have fe
 私はしばらく前から、まさにこのような神の力の現れを期待していた。いつ起こってもおかしくないと感じていた。また、神が栄光を受けられるために、だれも思いもしない所に来るかもしれないとも感じていた。『ペンテコステ』を求めて祈ってほしい」（F・バートルマン、1905年6月）。
 
 One evening, July 3, I felt strongly impressed to go to the little Peniel Hall in Pasadena to pray. There I found Brother Boehmer ahead of me. He had also been led of God to the hall.
-7月3日の夕方、パサデナの小さなペニエルの会堂へ祈りに行くようにと、強く示された。行ってみると、ベーマー兄弟が先に来ていた。彼もまた、神に導かれて会堂に来ていたのだ。
+7月3日の夕方、パサデナのリトル・ペニエルの会堂へ祈りに行くようにと、強く示された。行ってみると、ベーマー兄弟が先に来ていた。彼もまた、神に導かれて会堂に来ていたのだ。
 We prayed for a spirit of revival for Pasadena until the burden became well nigh unbearable. I cried out like a woman in birth-pangs. The Spirit was interceding through us. Finally the burden left us.
 私たちは、パサデナにリバイバルの霊が来るようにと祈った。やがて重荷は、ほとんど耐えられないほどになった。私は、産みの苦しみをする女のように叫んだ。御霊が私たちを通してとりなしておられたのだ。ついに重荷が私たちから離れた。
 After a little time of quiet waiting a great calm settled down upon us. Then suddenly, without premonition, the Lord Jesus himself revealed himself to us. He seemed to stand directly between us, so close we could have reached out our hand and touched him.
-しばらく静かに待っていると、大きな静けさが私たちの上に降りてきた。そのとき突然、何の前触れもなく、主イエスご自身が私たちにご自分を現された。主は私たちのすぐあいだに立っておられるようだった。手を伸ばせば触れられるほど近くだった。
+しばらく静かに待っていると、大きな静けさが私たちの上に降りてきた。そのとき突然、何の前触れもなく、主イエスご自身が私たちにご自分を現された。主は私たちのちょうどあいだに立っておられるようだった。手を伸ばせば触れられるほど近くだった。
 But we did not dare to move. I could not even look. In fact I seemed all spirit. His presence seemed more real, if possible, than if I could have seen and touched Him naturally. I forgot I had eyes or ears. My spirit recognized Him.
-しかし、私たちは恐れ多くて動けなかった。私は見ることさえできなかった。じつに、自分が霊だけになったように思われた。主の臨在は、たとえ生まれつきの目で見、手で触れることができたとしても、それ以上に現実のものと思われた。私は、自分に目や耳があることを忘れていた。私の霊が主を知ったのだ。
+しかし、私たちは恐れ多くて動けなかった。私は見ることさえできなかった。じつに、自分が霊だけになったように思われた。主の臨在は、生まれつきの目で見、手で触れることができた場合よりも、ありうるものならさらに現実のものと思われた。私は、自分に目や耳があることを忘れていた。私の霊が主を知ったのだ。
 A heaven of divine love filled and thrilled my soul. Burning fire went through me. In fact my whole being seemed to flow down before Him, like wax before the fire.
 神の愛の天が私の魂を満たし、ふるわせた。燃える火が私を貫いた。じつに、私の全存在が、火の前のろうのように、主の前に溶けて流れるように思われた。
 I lost all consciousness of time or space, being conscious only of His wonderful presence. I worshipped at His feet. It seemed a veritable "mount of transfiguration." I was lost in the pure Spirit.
@@ -99,12 +99,12 @@ Brother Boehmer experienced largely the same thing. We had lost all consciousnes
 The Lord had said nothing to us, but only ravished our spirits by His presence. He had come to strengthen and assure us for His service. We knew now we were workers with Him, fellowshippers of his sufferings, in the ministry of "soul travail."
 主は私たちに何も語られなかった。ただ、その臨在によって私たちの霊をうっとりさせられただけだった。主は、ご自分の奉仕のために、私たちを強め、確信を与えようとして来られたのだ。私たちは今、自分たちが「魂の産みの苦しみ」の奉仕において、主とともに働く者、主の苦難にあずかる者であることを知った。
 Real soul travail is just as definite in the spirit, as natural human birth-pangs. The simile is almost perfect in its sameness. No soul is ever born without this. All true revivals of salvation come this way.
-本当の魂の産みの苦しみは、人の生まれつきの産みの苦しみと同じように、霊においてはっきりしたものである。このたとえは、ほとんど完全に同じなのだ。これなしに生まれる魂は一つもない。救いの真のリバイバルは、すべてこのようにして来る。
+本当の魂の産みの苦しみは、人の生まれつきの産みの苦しみと同じように、霊においてはっきりしたものである。このたとえは、ほとんど完全に当てはまる。これなしに生まれる魂は一つもない。救いの真のリバイバルは、すべてこのようにして来る。
 
 The sun was up next morning before we left the hall. But the night had seemed but half an hour. The presence of God eliminates all sense of time. With Him all is eternity. It is "eternal life."
 会堂を出たのは翌朝、日が昇ってからだった。しかし、その夜はわずか半時間ほどにしか思われなかった。神の臨在は、時の感覚をすべて消し去る。神にあっては、すべてが永遠である。それが「永遠のいのち」なのだ。
 God knows no time. This element is lost in Heaven. This is the secret of time appearing to pass so swiftly in all nights of real prayer. Time is superseded. The element of eternity is there.
-神には時というものがない。天では、時はなくなる。本当の祈りの夜には、いつも時があっという間に過ぎるように思われるが、そのわけはここにある。時が永遠に取って代わられるのだ。そこには永遠がある。
+神には時というものがない。天では、時はなくなる。本当の祈りの夜には、いつも時があっという間に過ぎるように思われるが、そのわけはここにある。時は退けられるのだ。そこには永遠がある。
 For days that marvelous presence seemed to walk by my side. The Lord Jesus was so real. I could scarcely take up with human conversation again. It seemed so crude and empty. Human spirits seemed so harsh, earthly fellowship a torment. How far we are naturally from the gentle spirit of Christ!
 何日ものあいだ、あのすばらしい臨在が私のかたわらを歩いているように思われた。主イエスは、それほど現実のかただった。私は、人との会話にほとんど戻れなかった。それはあまりに粗く、むなしく思われた。人の霊はあまりにとげとげしく、地上の交わりは苦痛に思われた。生まれつきの私たちは、キリストの優しい霊から、なんと遠いことか。
 
@@ -114,7 +114,7 @@ I spent the following day in prayer, going to Smale's church in the evening, whe
 Some one left a load of wood at our door one day, in our absence. We never knew who brought it. We had been praying for wood.
 ある日、留守のあいだに、だれかが家の戸口に薪をひと山置いて行った。だれが持って来たのか、とうとうわからなかった。私たちは薪を求めて祈っていたのだ。
 I attended Brother Smale's meetings in Los Angeles often and had a blessed ministry in intercession there. God wonderfully poured out his Spirit. Our rent was due again. But a brother wrote out a check for the amount, all unsolicited. We had been praying for it.
-ロサンゼルスのスメール兄弟の集会にたびたび出て、そこで恵まれたとりなしの奉仕をした。神はすばらしく御霊を注いでくださった。また家賃の期限が来た。しかし、ある兄弟が、頼みもしないのに、その額の小切手を書いてくれた。私たちはそれを求めて祈っていたのだ。
+ロサンゼルスのスメール兄弟の集会にたびたび出て、そこで恵まれたとりなしの奉仕をした。神はすばらしく御霊を注いでくださった。また家賃の期限が来た。しかし、ある兄弟が、こちらから頼みもしないのに、その額の小切手を書いてくれた。私たちはそれを求めて祈っていたのだ。
 
 I wrote a number of articles to several Holiness papers, describing Gods operations among us, and exhorting the saints everywhere to faith and prayer for a revival. The Lord used these articles greatly to bring faith and conviction in many places. I was soon receiving quite a large correspondence, from many places.
 いくつかのホーリネスの新聞に、記事をいくつも書いた。私たちのあいだでの神の働きを伝え、各地の聖徒たちに、リバイバルを求める信仰と祈りを勧めるものだった。主はこれらの記事を大いに用いて、多くの所に信仰と罪の自覚をもたらしてくださった。まもなく、多くの所からたくさんの手紙が来るようになった。
@@ -123,7 +123,7 @@ My concern was chiefly for the Holiness people, that they might not be passed by
 "The Holiness people are loaded down to the water's edge with a spirit of prejudice and pharisaism. But dare we cut ourselves off so easily from other members of the 'body?' We may cut ourselves off from God by our spiritual pride, while He may cause the weakest to repent, and go through to victory. (Referring to the work in the First Baptist Church, at Brother Smale's.)
 「ホーリネスの人々は、偏見とパリサイ主義の霊を、船べりが水につくほど積み込んでいる。しかし、私たちは『からだ』のほかの肢体から、そんなにたやすく自分を切り離してよいのだろうか。私たちは霊的な高ぶりによって、自分を神から切り離してしまうかもしれない。そのあいだに神は、いちばん弱い者を悔い改めさせ、勝利まで進ませられるかもしれない。（スメール兄弟のところの、第一バプテスト教会での働きを指している。）
 The work in our own hearts must go deeper than we have ever experienced, deep enough to destroy sectarian prejudice, party spirit, etc., on all sides. The work of revival seems to have started outside of the Holiness churches proper. God can perfect those whom He chooses.
-私たち自身の心の中の働きは、これまで経験したよりも深く進まなければならない。あらゆる方面の教派的な偏見や党派心などを打ち砕くほど、深くなければならない。リバイバルの働きは、本来のホーリネスの教会の外で始まったようだ。神は、ご自分の選ぶ者を全うすることがおできになる。
+私たち自身の心の中の働きは、これまで経験したよりも深く進まなければならない。あらゆる方面の教派的な偏見や党派心などを打ち砕くほど、深くなければならない。リバイバルの働きは、ホーリネスの教会そのものの外で始まったようだ。神は、ご自分の選ぶ者を全うすることがおできになる。
 The Holiness people are too proud of their standing. (Too confident of their position, and condition also.) He may need to pass them by. They must also repent. God may humble them by working in other places."
 ホーリネスの人々は、自分たちの立場を誇りすぎている。（自分たちの地位にも状態にも、自信を持ちすぎている。）神は彼らを素通りしなければならないかもしれない。彼らもまた悔い改めなければならない。神は、ほかの所で働くことによって、彼らを低くされるかもしれない」。
 
@@ -166,7 +166,7 @@ The pastor arose, read a portion of the Scripture, made a few well chosen remark
 The meeting seemed to run itself as far as human guidance was concerned. The pastor was one of them. If one is at all impressionable religiously they must feel in such an atmosphere that something wonderful and imminent is about to take place.
 人の導きについて言えば、集会はひとりでに進んでいるようだった。牧師も人々の一人だった。少しでも信仰に感じやすい人なら、このような雰囲気の中では、何かすばらしいことが今にも起ころうとしていると感じずにはいられないだろう。
 Some mysterious, mighty upheaval in the spiritual world is evidently at our doors. The meeting gives one a feeling of 'heaven on earth,' with an assurance that the supernatural exists, and that in a very real sense." - F. Bartleman, in "Daily News," Pasadena.
-霊の世界の、何か不思議な、力強い大変動が、明らかに戸口まで来ている。この集会は、『地上の天国』にいるような思いを与え、超自然のものが存在すること、それもまったく現実の意味で存在することを確信させる」（F・バートルマン、パサデナの『デイリー・ニューズ』）。
+霊の世界の、何か不思議な、力強い大変動が、明らかに戸口まで来ている。この集会にいると、『地上の天国』にいるような思いがする。そして、超自然のものが存在すること、それもまったく現実の意味で存在することを確信させられる」（F・バートルマン、パサデナの『デイリー・ニューズ』）。
 
 I wrote another article, for the "Wesleyan Methodist," at the same time, of which the following are extracts:
 同じころ、『ウェスレアン・メソジスト』にも別の記事を書いた。次はその抜粋である。
@@ -189,7 +189,7 @@ For 'Gods Revivalist" I wrote: "Unbelief of every form has come in upon us like 
 『ゴッズ・リバイバリスト』にはこう書いた。「あらゆる形の不信仰が、洪水のように私たちに押し寄せている。しかし見よ、私たちの神もまた来られる！　敵に対して旗が掲げられようとしている。主はご自分の働き人を選び出しておられる。今こそ、奉仕の幻を実現する時である。
 'The Lord hath spoken and called the earth from the rising of the sun unto the going down thereof. Our God shall come, and shall not keep silence. Gather my saints together unto me, those who have made a covenant with me by sacrifice.' - Ps. 50."
 // 英文の出典 Ps. 50 は、五〇篇の一節、三節、五節を続けて引いている。
-『主は詔して、日の出るところから日の入るところまで地を召し集められる。われらの神は来て、もだされない。いけにえをもってわたしと契約を結んだわが聖徒をわたしのもとに集めよ』（詩篇五〇・一、三、五）」。
+『主は詔して、日の出るところから日の入るところまであまねく地に住む者を召し集められる。われらの神は来て、もだされない。いけにえをもってわたしと契約を結んだわが聖徒をわたしのもとに集めよ』（詩篇五〇・一、三、五）」。
 I used often to declare, during 1905, that I would rather live six months at that time than fifty years of ordinary time. It was a day of the beginning of great things.
 1905年のあいだ、私はよく、ふつうの時代の五十年を生きるより、この時代の六か月を生きたいと言っていた。それは大いなることの始まりの日だった。
 For the grain of corn that was willing to "fall into the ground and die," there was promise of abundant harvest. But for spiritual "flappers," the whole matter was naturally foolishness.
