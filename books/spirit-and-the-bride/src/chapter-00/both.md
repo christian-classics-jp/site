@@ -6,7 +6,7 @@ THE subject discussed in this book is one of grave importance just at this time.
 The world is stirred from centre to circumference over the great subject of Pentecost.
 ペンテコステという大きな主題をめぐって、世界はその中心から果てまで揺り動かされている。
 There are but few souls in America who have not been affected more or less by the present movement, and the public mind is deeply concerned as to many features thereof.
-アメリカで、今の運動から多少なりとも影響を受けていない人はほとんどいない。世の人々は、この運動の多くの面について深く案じている。
+アメリカで、今の運動から多少なりとも影響を受けていない人はほとんどいない。世の人々は、この運動の多くの面に深い関心を寄せている。
 Some are uniting and identifying themselves with it, some are rejecting, some are mocking, all are agitated more or less.
 ある者はこれに加わって一つになり、ある者は拒み、ある者はあざけっている。だれもが、多かれ少なかれ心を騒がせている。
 Realizing that upon their attitude toward the present movement depends the eternal destiny of thousands, the writer deems this subject one of the greatest importance.
@@ -29,12 +29,12 @@ Lest we should be accused of misrepresenting their position, we quote many of th
 彼らの立場をゆがめて伝えたと責められないように、その多くをそのままの言葉で引用した。
 
 The book has been written in much prayer and after much forethought, and we beg of all who read its pages to do so with mind and heart open to truth and to God.
-本書は、多くの祈りのうちに、よく考え抜いたうえで書かれた。これを読むすべての人に、真理と神とに向かって思いと心を開いて読んでいただきたいと切に願う。
+本書は、多くの祈りのうちに、よく考え抜いたうえで書かれた。これを読むすべての人に、真理と神とに向かって思いと心を開いて読んでほしいと切に願う。
 Accept all that is Scriptural; reject all that is erroneous.
 聖書にかなうものはすべて受け入れ、誤っているものはすべて退けてほしい。
 
 Praying God's blessings upon all who read or circulate this book, I am,
-本書を読み、また広めてくださるすべての方々に神の祝福を祈りつつ<br/>
+本書を読み、また広めるすべての人に神の祝福を祈りつつ<br/>
 Yours in Pentecostal glory,
 ペンテコステの栄光のうちに<br/>
 G. F. TAYLOR.
@@ -51,7 +51,7 @@ BY REV. J. H. KING.
 THE history of Christianity demonstrates that every great spiritual epoch has been productive of a literature peculiar to itself.
 キリスト教の歴史が示すとおり、霊的な大きな時代はどれも、その時代に固有の文献を生み出してきた。
 The Holy Spirit not only moves powerfully upon human hearts, moving to intense activity on soul-saving work, but moves upon their minds simultaneously, inspiring to deeper thinking and investigation, bringing to light new truth, hitherto unknown.
-聖霊は人の心に力強く働きかけて、魂を救うわざへと激しく駆り立てられる。それだけでなく、同時に人の思いにも働きかけて、より深い思索と探究へと促される。そして、それまで知られていなかった新しい真理を明るみに出される。
+聖霊は人の心に力強く働きかけて、魂を救うわざへと人々を激しく駆り立てられる。それだけでなく、同時に人の思いにも働きかけて、より深い思索と探究を促される。そして、それまで知られていなかった新しい真理を明るみに出される。
 Divine revelation was progressive in its unfoldment, and the discovery of the meaning of the truth thus revealed is of necessity progressive in the understanding of enlightened Christendom.
 神の啓示は、段階を追って示されてきた。そのように啓示された真理の意味も、光を受けたキリスト教世界の理解の中で、必然的に段階を追って見いだされていく。
 This progressive discovery of the meaning of truth, as we approach the ultimate completeness, implies limitation individually and dispensationally.
@@ -63,9 +63,9 @@ Revealed truth peculiar to each dispensation may to its adherents embrace all th
 The great Protestant Reformation, and also the world-wide Methodistic movements, were mighty literature-producing epochs, setting forth precious and glorious truth, which deluged the world with blessings inestimable, but there is much that is imperfect in this literature; imperfect in nature and extent.
 プロテスタントの大宗教改革も、世界に広がったメソジストの運動も、多くの文献を生み出した力ある時代だった。それらの文献は尊く栄光ある真理を説き明かし、その真理は計り知れない祝福で世界をあふれさせた。しかし、それらの文献には不完全なところが多い。性質においても、範囲においても不完全なのである。
 The modern holiness movement has produced a vast volume of literature, presenting truth beyond the range of former discoveries, which has blessed the world with its fruit, notwithstanding its imperfection as well as unscripturalness in many of its aspects.
-近代のホーリネス運動は、おびただしい文献を生み出した。それはそれまでの発見の範囲を越える真理を示し、その実によって世界を祝福してきた。多くの面で不完全であり、聖書にかなわないところもあるにもかかわらずである。
+近代のホーリネス運動は、おびただしい文献を生み出した。それはそれまでの発見の範囲を越える真理を示し、その実によって世界を祝福してきた。多くの面で、不完全であるうえに聖書にかなわないにもかかわらずである。
 It bears upon its face the claim of completeness, but further research is bringing to light the fact that it only brings its adherents into the vestibule of Pentecostal power and fulness, and not into its possession.
-その文献は、完全であるという主張を表に掲げている。しかし、探究が進むにつれて、ある事実が明らかになってきた。それが奉じる人々を導き入れるのは、ペンテコステの力と満たしの玄関口までにすぎない。それを自分のものとするところまでは導かないのである。
+その文献は、完全であるという主張を表に掲げている。しかし、探究が進むにつれて、ある事実が明らかになってきた。その文献は、それを奉じる人々を、ペンテコステの力と満たしの玄関口まで導き入れるにすぎない。その力と満たしを自分のものとするところまでは導かないのである。
 The reducing within the range of justification and sanctification all that pertains to the fulness of grace, which is so apparent in all this literature, is positively injurious to honest souls, and serves as a barrier to their entrance into the Pentecostal experience.
 これらの文献のどれにも、はっきりと見られる傾きがある。恵みの満たしにかかわるすべてを、義認と聖化の範囲の中に押し込めることである。これは正直な魂にとって明らかに有害であり、彼らがペンテコステの経験に入る妨げとなっている。
 The second blessing does not and can not include the Baptism of the Holy Ghost, and the light of this truth, which has been gradually unfolding for a number of years, culminating in the present world-wide Pentecostal movement, is meeting with determined and desperate opposition, because it sinks the walls of limitation erected by the above literature, leading the people out into larger fields of truth, which enrich and empower the soul for better service.
@@ -76,7 +76,7 @@ This movement will, like all previous ones, produce a literature peculiarly its 
 This book is the first to appear on this line, and fills a very unique place in Christian literature, being the first to be written by one who has the Baptism of the Holy Ghost according to its bestowment in the Book of Acts, which characterizes the present movement.
 本書はこの方面で最初に世に出るものであり、キリスト教の文献の中でまったく独特の位置を占めている。使徒行伝に記されているとおりの授けられ方で聖霊のバプテスマを受けた人が書いた、最初の本だからである。その授けられ方こそが、今の運動の特色である。
 It labors to place the Baptism of the Holy Spirit in its Scriptural setting, and to show forth its peculiar accompaniment, the speaking in other tongues as evidencing its unmistakable reception.
-本書は、聖霊のバプテスマを聖書の中の正しい位置に置こうと努めている。また、それに特有のしるしとして伴う異言を、バプテスマを確かに受けたことのあかしとして示そうとしている。
+本書は、聖霊のバプテスマを聖書の中の正しい位置に置こうと努めている。また、それに特有のものとして伴う異言を、バプテスマを確かに受けたことのあかしとして示そうとしている。
 It is not an exhaustive treatise on this subject, but rather suggestive in its presentation of truth.
 本書は、この主題を論じ尽くした論文ではない。むしろ、真理を示すにあたって、考える手がかりを与えるものである。
 Indeed, it does not claim to be anything but a primary discussion of the work of the Holy Ghost in His relation to the bridehood of Jesus, presenting the baptism as an initial preparation for membership in the same.
