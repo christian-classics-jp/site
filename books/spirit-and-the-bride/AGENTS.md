@@ -21,7 +21,7 @@
   - 第五章：`Petecost`（p. 43）、`The tongue's movement`（p. 49）、`wth me`、`Then He adds:`（神ではなく筆者、p. 53）、`does not effect our position`（affect、p. 57）。
   - 第六・七章：`them..`（p. 60）、`Momentus`（p. 62）、`As I have ready said`（already、p. 68）、`Love never falleth`（faileth、p. 69）、`then ten thousand words`（than、p. 71）、`Neither one of them refer`（p. 73）。
   - 第八・九章：`he shall baptized you`（p. 83）、`of. Christ`（p. 85）、`Dixion`（p. 92）、`loosing their hold`（losing、p. 95）、`filled with Holy Spirit`（p. 96）、引用符の欠け（pp. 79, 89, 95）。
-  - 第十〜十三章：`dead and no value`、`when the seed having died`（p. 100）、`wore out by study`、`farther sin`（p. 103）、`numerated`、`"How to reach the masses" They`（p. 104）、`the great inanity`（enmity か、p. 105）、`one jot or one title`（tittle、p. 107）、`the judgment ready past`（p. 108）、`temporarily`、`have even drank`（p. 109）、`"outer darkness'`（p. 114）、`(Rev. 19: 6)`（19:7 の意、p. 118）。
+  - 第十〜十三章：`dead and no value`、`when the seed having died`（p. 100）、`wore out by study`、`farther sin`（p. 103）、`numerated`、`"How to reach the masses" They`（p. 104）、`the great inanity`（古い意味の「空所」か enmity か、p. 105）、`one jot or one title`（tittle、p. 107）、`the judgment ready past`（p. 108）、`temporarily`、`have even drank`（p. 109）、`"outer darkness'`（p. 114）、`(Rev. 19: 6)`（19:7 の意、p. 118）。
   - 第十四章・第十五章・付録：`for he has clothed me`（イザヤ 61:10、p. 122）、`will sing out of mind and memory`（sink、p. 124）、`the immortal king's of the ages`、`Revelation 21st. chapter`（p. 124）、`then comes those guests`（p. 126）、`Gormorrah`（p. 129）、`not so easy claimed`（p. 133）、`praises is the very last step`（p. 135）。
 - 最後のページ（p. 138）はスキャンの右端が欠けていて、行末を照合できていない。
 - 聖書の出典は `(John 15: 25-27)`、`(I Cor. 12: 3)`、`(ver. 15)` のように書かれている（書名の数字はローマ数字の `I`、`II`）。訳ではルートの `AGENTS.md` の出典の書き方にそろえる。引用はおもに欽定訳（KJV）により、`(R. V.)` と断って改訂訳を引くところもある。
