@@ -15,8 +15,8 @@
 
 ## 翻訳進捗表
 
-+ [ ] Prefaces / An Appreciation
-+ [ ] Chapter I. Life's Dawn / Chapter II. Preparation for Service
++ [x] Prefaces / An Appreciation
++ [x] Chapter I. Life's Dawn / Chapter II. Preparation for Service
 + [ ] Chapter III. Progress in Preparation
 + [ ] Chapter IV. In the Work / Chapter V. Surprises
 + [ ] Chapter VI. Wood's Chapel, Ind. / Chapter VII. Visions / Chapter VIII. God's Power
