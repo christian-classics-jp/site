@@ -10,7 +10,7 @@
 
 + [x] Preface
 + [x] Chapter I. My Mother
-+ [ ] Chapter II. The Baby
++ [x] Chapter II. The Baby
 + [ ] Chapter III. Childhood Days
 + [ ] Chapter IV. Girlhood
 + [ ] Chapter V. Salvation and the Baptism of the Holy Spirit (1)
