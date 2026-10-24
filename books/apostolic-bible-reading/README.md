@@ -12,5 +12,5 @@
 
 ## 翻訳進捗表
 
-+ [ ] The Birth of the Spirit
++ [x] The Birth of the Spirit
 + [ ] The Mystery of the Godhead
