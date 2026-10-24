@@ -8,7 +8,7 @@
 
 ## 翻訳進捗表
 
-+ [ ] Preface
++ [x] Preface
 + [ ] Chapter I. My Mother
 + [ ] Chapter II. The Baby
 + [ ] Chapter III. Childhood Days
