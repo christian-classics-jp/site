@@ -36,3 +36,7 @@
 - 語：the Holy Ghost／the Holy Spirit＝聖霊、the Spirit＝御霊、the Baptism of the Holy Ghost＝聖霊のバプテスマ（the Baptism of the Spirit＝御霊のバプテスマ）、speak with other tongues＝異言を語る、Pentecost＝ペンテコステ、the present movement＝今の運動、the second blessing＝第二の祝福、justification＝義認、sanctification＝聖化、the bride／the bridehood＝花嫁（membership in the bridehood＝花嫁の一員となること）、"Latter Rain"＝「後の雨」。
 - 日付と年は算用数字（「1907年9月」）。
 - 本文の中で書名と章節を挙げるとき（`We read in Psalms 14: 1:`）は「詩篇一四篇一節には」のように書く。かっこの出典はルートの書き方（`（マルコ一二・三二）`）。
+
+## ほかの人の文章
+
+- 第二章の結びの引用（`--Dr. Watson.`）は、ホーリネスの説教者 G・D・ワトソン（1845-1924）と見て訳した。
