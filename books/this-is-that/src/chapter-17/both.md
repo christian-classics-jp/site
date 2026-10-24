@@ -12,7 +12,7 @@ Waking early and peeping out from under the protecting curtains to get our first
 朝早く目を覚まし、その場所を明るい中で初めて見ようと、守ってくれる幕の下からのぞいた。すると驚いたことに、すぐ近くに家が二軒あった。一軒は通りのすぐ向かいに、もう一軒は少し右手にあった。向かいの家のベランダに男の人とその妻が立ち、こちらを見ながら熱心に話していた。私たちがだれなのかと思っていたに違いない。
 
 Preparing to continue our journey, we had just finished our roadside toilet, when the man came hurrying across with a silver tray, with a large glass bowl brim full of ripe, crimsoned strawberries, a pitcher of thick cream and a bowl of powdered sugar. Then a little girl came running from the other house with a pan of hot steaming biscuits and a quart of fresh milk from the jersey cow in the field, neither knew what the other had done. This was our first experience of the far-famed Virginian hospitality.
-旅を続ける支度をして、道ばたでの身支度をちょうど終えたときだった。男の人が銀の盆を持って、急いで通りを渡って来た。盆には大きなガラスの鉢があり、熟した真っ赤な苺が縁までいっぱいに盛ってあった。濃いクリームの入った水差しと、粉砂糖の鉢もあった。続いて、もう一軒の家から小さな女の子が走って来た。湯気の立つ熱いビスケットの皿と、牧場のジャージー牛からしぼったばかりの牛乳を一リットルほど持っていた。どちらも、相手がしたことを知らなかった。これが、名高いバージニアのもてなしの、私たちの最初の経験だった。
+旅を続ける支度をして、道ばたでの身支度をちょうど終えたときだった。男の人が銀の盆を持って、急いで通りを渡って来た。盆には大きなガラスの鉢があり、熟した真っ赤な苺が縁までいっぱいに盛ってあった。濃いクリームの入った水差しと、粉砂糖の鉢もあった。続いて、もう一軒の家から小さな女の子が走って来た。湯気の立つ熱いビスケットの皿と、牧場のジャージー牛からしぼったばかりの牛乳を一リットルほど持っていた。どちらも、相手がしたことを知らなかった。これが、名高いバージニアのもてなしを私たちが初めて受けた経験だった。
 
 ## バージニア州プラスキ　裁判所の階段での説教
 PULASKI, VA. PREACHING ON THE COURT HOUSE STEPS.
@@ -30,7 +30,7 @@ IN THE PENTECOSTAL HOLINESS CHURCH.
 ## ペンテコステ・ホーリネス教会で
 
 The church was unable to hold the crowds who stood all about the yards and street, trying to hear and see. Several who had been seeking the baptism of the Holy Spirit for years received, new converts just saved also rejoiced in receiving the Comforter.
-教会には群衆が入りきらず、人々は庭や通りのあちこちに立って、聞こうとし、見ようとした。何年も聖霊のバプテスマを求めていた何人かが、受けた。救われたばかりの新しい回心者たちも、助け主を受けて喜んだ。
+教会には群衆が入りきらず、人々は庭や通りのあちこちに立って、聞こうとし、見ようとした。何年も聖霊のバプテスマを求めていた何人かが、それを受けた。救われたばかりの新しい回心者たちも、助け主を受けて喜んだ。
 
 ## 二つの伝道所が聖書的なしるしに納得する
 TWO MISSIONS CONVINCED OF BIBLE EVIDENCE.
@@ -43,7 +43,7 @@ The leader of another mission invited us to come to his place next night, saying
 
 "Sister, through that sermon tonight I am convinced that the speaking in other tongues as the Spirit gives utterance is the Bible sign that invariably accompanies the incoming of the Spirit, and I have accepted the light. Come and preach to my congregation that they, too, may receive." The following night found his assembly packed to th? doors long before starting time, and God worked and honored His Word. Hallelujah!
 // 英文は「th? doors」。the doors として訳した。
-「姉妹、今夜のあの説教で、私は確信しました。御霊が語らせるままに他国の言葉で語ることは、聖霊が入って来られるときに必ず伴う、聖書のしるしです。私はこの光を受け入れました。どうか私の会衆にも説教してください。彼らも受けることができるように」次の晩、彼の集会所は、始まる時刻よりずっと前から戸口まで人でいっぱいだった。神は働き、ご自分のみことばを重んじてくださった。ハレルヤ！
+「姉妹、今夜のあの説教で、私は確信しました。御霊が語らせるままに他国の言葉で語ることは、御霊が入って来られるときに必ず伴う、聖書的なしるしです。私はこの光を受け入れました。どうか私の会衆にも説教してください。彼らも受けることができるように」次の晩、彼の集会所は、始まる時刻よりずっと前から戸口まで人でいっぱいだった。神は働いてくださり、ご自分のみことばを重んじてくださった。ハレルヤ！
 
 The big-hearted people of this town opened their hearts and pocketbooks and our needs and traveling expenses were more than supplied.
 この町の心の広い人々は、心と財布を開いてくれた。私たちの必要と旅費は、十分すぎるほど満たされた。
@@ -52,7 +52,7 @@ The big-hearted people of this town opened their hearts and pocketbooks and our 
 ROANOKE, VIRGINIA.
 
 Before leaving Pulaski, the Pastor from the Pentecostal Holiness Church of Roanoke called upon us asking us to come to his church. The saints desired the meeting should be held in a tent, but the pastor insisted and on our arrival in Roanoke, we drew up finally at the parsonage where our entertainment had been arranged. We saw a gentleman seated upon the piazza and noticed that his face looked dark and forbidding, and that he did not welcome us in any way. Even when seated later with the pastor and his wife upon the piazza, and he had been introduced as "Brother So and So," he did not say a single "Hallelujah" or "God bless you."
-プラスキを発つ前に、ロアノークのペンテコステ・ホーリネス教会の牧師が訪ねて来て、自分の教会に来てほしいと頼んだ。聖徒たちは集会を天幕で開きたがったが、牧師は譲らなかった。ロアノークに着くと、私たちは最後に牧師館の前に車を止めた。そこに泊まる手はずになっていたのである。ベランダに一人の紳士が座っていた。その顔は暗く、近寄りがたく見えた。彼は私たちを少しも歓迎しなかった。のちに牧師夫妻とともにベランダに座り、「何々兄弟」と紹介された。そのあとでも、「ハレルヤ」とも「神の祝福がありますように」とも、ひと言も言わなかった。
+プラスキを発つ前に、ロアノークのペンテコステ・ホーリネス教会の牧師が訪ねて来て、自分の教会に来てほしいと頼んだ。聖徒たちは集会を天幕で開きたがったが、牧師は譲らなかった。ロアノークに着くと、私たちはようやく牧師館の前に車を止めた。そこに泊まる手はずになっていたのである。ベランダに一人の紳士が座っていた。その顔は暗く、近寄りがたく見えた。彼は私たちを少しも歓迎しなかった。のちに私たちが牧師夫妻とともにベランダに座り、彼も「何々兄弟」と紹介された。そのあとでも彼は、「ハレルヤ」とも「神の祝福がありますように」とも、ひと言も言わなかった。
 
 The first meeting was held in the church. The Lord gave me the Wisdom not to go into the pulpit or even on the platform, so I stood quietly in the front and delivered my message upon the coming of the Lord, and the preparation of the Bride to meet Him. Fervent "Amens" came from the audience and tears filled many eyes.
 最初の集会は教会で開かれた。主は私に、講壇にも、壇上にさえも上がらない知恵を与えてくださった。それで私は前のほうに静かに立って、主の来臨と、主に会うための花嫁の備えについてメッセージを語った。会衆からは熱のこもった「アーメン」が上がり、多くの人の目に涙があふれた。
@@ -93,7 +93,7 @@ No tent being available, two great strips of canvass were secured and stretched 
 天幕が手に入らなかったので、大きな帆布を二枚手に入れ、できるだけ広い範囲に張り渡した。三つの会衆が座席を貸してくれた。材木が大急ぎで運び込まれ、壇が組み立てられた。
 
 Each contributed something towards the erection of the hurried meeting place. One brother gave the electric light wires and fixtures; and though 'twas late Saturday noon the electric company sent out a special car and installed a meter.
-みなが、この急ごしらえの集会場を建てるために、何かを差し出した。ある兄弟は、電灯の電線と器具を提供した。土曜日の昼過ぎで遅かったのに、電力会社は特別に車を出して、メーターを取り付けてくれた。
+みなが、この急ごしらえの集会場を建てるために、何かを差し出した。ある兄弟は、電灯の電線と器具を提供した。もう土曜日の昼過ぎだったのに、電力会社は特別に車を出して、メーターを取り付けてくれた。
 
 A Sister loaned her lovely piano for these out-of-door meetings, told us we were "welcome to the whole house" and paid the drayage on the piano for us. O, for more such consecrated people!
 ある姉妹は、この野外集会のために自分の美しいピアノを貸してくれた。そして「家じゅうのものを何でも使ってください」と言い、ピアノの運送料まで払ってくれた。ああ、このように献身した人々がもっといてくれたら！
@@ -102,7 +102,7 @@ Thousands stood for hours packed all about the tent after every available seat w
 使える座席はすべて埋まり、祭壇もいっぱいになった。何千人もが、何時間も天幕の周りにぎっしり立っていた。聖徒たちは壇の床にまで座り、私はだれかを踏まずに動き回ることがほとんどできないほどだった。
 
 Men were saved, Hallelujah! Sick were healed. Two ministers who had been fighting the outpouring of the Spirit, said:
-男の人たちが救われた。ハレルヤ！　病人がいやされた。聖霊の注ぎに反対して戦っていた二人の牧師が言った。
+男の人たちが救われた。ハレルヤ！　病人がいやされた。御霊の注ぎに反対して戦っていた二人の牧師が言った。
 
 "We will fight you no longer," and came to the altar.
 「もうあなたがたとは戦いません」そして祭壇に来た。
@@ -136,14 +136,14 @@ Thousands of persons and vehicles have streamed by the side of the Gospel Car, b
 何千もの人や乗り物が、福音自動車のそばを流れるように通り過ぎた。けれども福音自動車は人を恐れる霊から自由で、批判にも動じない。時が良くても悪くても、あかりを枡の下に隠したことは一度もない。華やかな花嫁の一行が、笑いさざめき、香り高いオレンジの花を飾って駆け抜けて行くときも。黒い羽根飾りの霊柩車と、黒い服の会葬者の葬列が通るときも。子供たちが踊りはしゃいで通り過ぎるときも、老人が弱々しく杖にすがって行くときも。この車は、だれにでもおごそかに問いかけてきた。『あなたはどこで永遠を過ごすのか』と。そして『審判の日が来る』と宣言し、『神に立ち返れ』と勧めてきた。
 
 Often, as we slow up amidst dense city traffic, it would seem to one uninitiated in Gospel Auto life as though many of the usually sedate pedestrians on the sidewalk, heretofore quietly pursuing their daily routine, had suddenly and involuntarily been transformed into fiery street preachers, who, startled out of themselves, demanded from one and all, in tones which electrify their fellow citizens, "Where will you spend eternity?" Those within hearing distance of the voice look up aghast into the speaker's gaze, they themselves see the car and take up the great question, "Where?"
-混み合った町の車の流れの中で速度を落とすと、福音自動車の暮らしを知らない人には、こう見えるかもしれない。歩道の通行人の多くは、いつもはまじめな顔をして、それまで静かに日々の務めに向かっていた。その人たちが突然、思わず知らず、火のような路傍説教者に変えられたように見えるのである。彼らは我を忘れ、町の人々をはっとさせるような声で、だれにでも問いただす。「あなたはどこで永遠を過ごすのか」声の届く所にいる人々は、ぎょっとして話し手の視線を見上げる。そして自分たちも車に目をとめ、あの大きな問いを口にするのである。「どこで」
+混み合った町の車の流れの中で速度を落とすと、福音自動車の暮らしを知らない人には、こう見えるかもしれない。歩道の通行人の多くは、いつもはまじめな顔をして、それまで静かに日々の務めに向かっていた。その人たちが突然、思わず知らず、火のような路傍説教者に変えられたように見えるのである。彼らは我を忘れ、町の人々をはっとさせるような声で、だれにでも問いただす。「あなたはどこで永遠を過ごすのか」声の届く所にいる人々は、ぎょっとして話し手の目を見上げる。そして自分たちも車に目をとめ、あの大きな問いを口にするのである。「どこで」
 
 Sometimes when we leave the car on some errand, we find on returning that a crowd has gathered about the faithful car which is holding its own street meeting and preaching all by itself; and who can say with what results for eternity?
-ときには用事で車を離れ、戻ってみると、忠実な車の周りに人だかりができていることがある。車はひとりで路傍集会を開き、説教しているのである。それが永遠にどんな結果をもたらすか、だれに言えるだろう。
+ときには用事で車を離れ、戻ってみると、忠実な車の周りに人だかりができていることがある。車はひとりで路傍集会を開き、説教しているのである。それが永遠にどんな結果をもたらすか、だれに言えるだろうか。
 
 No member of our party takes a more active part or renders more efficient and obedient service in every branch of the service than does the Gospel Car. Are there a thousand tracts to be distributed through the byways and hedges, or placed in the B. F. D. boxes? The Gospel Car is ready. Is there a street meeting to be held? There is one preacher that can always be depended upon--Gospel Car.
 // 英文は「B. F. D. boxes」。R. F. D.（地方無料郵便配達）の誤りとみて、地方の郵便受けとして訳した。
-私たちの一行のうちで、福音自動車ほど活発に働き、あらゆる務めでこれほど有能に、従順に仕える者はいない。千枚の伝道文書を、道やかきねのあたりで配り、地方の郵便受けに入れなければならないか。福音自動車が用意できている。路傍集会を開くのか。いつでも頼りになる説教者が一人いる。福音自動車である。
+私たちの一行のうちで、福音自動車ほど活発に働き、あらゆる務めでこれほど有能に、従順に仕える者はいない。千枚の伝道文書を、道やかきねのあたりで配ったり、地方の郵便受けに入れたりしなければならないか。福音自動車が用意できている。路傍集会を開くのか。いつでも頼りになる説教者が一人いる。福音自動車である。
 
 Is there a pulpit needed? Down goes the top and here is the car for a pulpit. Is there a stand needed? The windshield opens to hold Bible and song book. An altar needed where the penitent may weep his way to Calvary? The running-board does good service, ever ready to receive the copious tears of seeker and worker as they kneel together.
 講壇が要るか。幌を下ろせば、車が講壇になる。書見台が要るか。風よけのガラスを開けば、聖書と歌集を置ける。悔い改める者が泣きながらカルバリへ向かうための祭壇が要るか。ステップが立派に務めを果たす。求める人と働き手がともにひざまずいて流す、あふれる涙を、いつでも受けとめるのである。
@@ -153,14 +153,14 @@ Is there an aged couple, or a mother who has stood long hours to listen with bab
 年老いた夫婦や、赤子を抱いて何時間も立って話を聞いていた母親を、家まで送らなければならないか。福音自動車が用意できている。重い荷を運ぶのか。使いに走るのか。メガホンで通りにメッセージを響かせるのか。福音自動車が用意できている。道中、たき火でこしらえたささやかな夕食を広げる食卓が要るか。皿や、缶詰が要るか。福音自動車がその必要を満たす。
 
 Is there a need of bed and bedding for the weary traveler? The Gospel Car carries one folding bed upon its running-board, and another is formed by the front seat, which gently lays back upon its hinges, uniting front and back seats into a comparatively comfortable bed. When prayers and (good-nights) have been said by the flickerings of the campfire, the Gospel Car affords protection and rest under the whispering pines. When the editor, hardpressed on every hand, seeks quiet and rest with Bible or typewriter, it is the Gospel Car that bears her away to some quiet spot apart from the throng.
-疲れた旅人に、寝床と寝具が要るか。福音自動車は、ステップに折りたたみのベッドを一つ載せている。もう一つのベッドは前の座席でできる。座席が蝶番でそっと後ろに倒れ、前と後ろの座席がつながって、わりあい快適なベッドになるのである。たき火の揺らめく明かりのもとで祈りと（おやすみの）あいさつがすむと、福音自動車は、ささやく松の木の下で守りと休みを与えてくれる。四方から追い立てられている編集者が、聖書かタイプライターとともに静けさと休みを求めることもある。そのとき編集者を群衆から離れた静かな場所へ運んで行くのも、福音自動車である。
+疲れた旅人に、寝床と寝具が要るか。福音自動車は、ステップに折りたたみのベッドを一つ載せている。もう一つのベッドは前の座席でできる。座席が蝶番でそっと後ろに倒れ、前と後ろの座席がつながって、わりあい快適なベッドになるのである。たき火の揺らめく明かりのもとで祈りと（おやすみの）あいさつがすむ。すると福音自動車は、ささやく松の木の下で守りと休みを与えてくれる。四方から追い立てられている編集者が、聖書かタイプライターとともに静けさと休みを求めることもある。そのとき編集者を群衆から離れた静かな場所へ運んで行くのも、福音自動車である。
 
 ## 死にゆく花嫁
 THE DYING BRIDE.
 
 Meetings over, the last lights extinguished in the camp, are the duties of the Gospel Car ended'? May she rest? No! Quick footsteps and an urgent message implores us to come at once to the dying bed of a young bride, who, but a few hours previous, had listened to our message and had later been suddenly stricken and was passing away. It is miles away, on a dark and perilous country road. How can we get there in time? The Gospel Car is ready, and speeds a swift messenger of mercy, never pausing until she stands by the humble cottage door, where the midnight lights and shadowy forms bespeak the presence of the death angel, whose pinions are even now spread to bear away the slender form of the fair young bride.
 // 英文は「ended'?」。ended? として訳した。
-集会が終わり、キャンプの最後の明かりが消える。これで福音自動車の務めは終わりか。もう休んでよいか。否！　急ぎ足の音がして、切迫した知らせが届く。若い花嫁の死の床に、すぐに来てほしいというのである。彼女はほんの数時間前に私たちのメッセージを聞いていた。そのあと突然倒れ、今まさに息を引き取ろうとしていた。そこは何マイルも先で、暗く危ない田舎道を行かなければならない。どうすれば間に合うだろう。福音自動車が用意できている。車はあわれみの使者となって速く走る。一度も止まらず、ついに粗末な小さな家の戸口に着く。真夜中の明かりと影のような人の姿が、死の御使がそこにいることを告げている。御使はすでに翼を広げ、美しい若い花嫁のほっそりした体を運び去ろうとしていた。
+集会が終わり、キャンプの最後の明かりが消える。これで福音自動車の務めは終わりか。もう休んでよいか。否！　急ぎ足の音がして、切迫した知らせが届く。若い花嫁の死の床に、すぐに来てほしいというのである。彼女はほんの数時間前に私たちのメッセージを聞いていた。そのあと突然倒れ、今まさに息を引き取ろうとしていた。そこは何マイルも先で、暗く危ない田舎道を行かなければならない。どうすれば間に合うだろうか。福音自動車が用意できている。車はあわれみの使者となって速く走る。一度も止まらず、ついに粗末な小さな家の戸口に着く。真夜中の明かりと影のような人の姿が、死の御使がそこにいることを告げている。御使はすでに翼を広げ、美しい若い花嫁のほっそりした体を運び去ろうとしている。
 
 Through the hours of waiting, wherein the dying and living alike clung to our hands and words for strength and consolation, until the last goodbye was spoken and the sweet voice trailed off into silence with the words: "Meet me in heaven!" and the last breath fluttered gently away; and on through the hours of morning, while the sorrowing parents were comforted, and the hovering angels rejoiced as the young husband kneeled by the still form of his loved one and gave his heart to Jesus, the Gospel Car stood silently beneath the dews of the light, gleaming softly in the starlight exhorting each neighbor as they reverently left the house with uncovered heads, to remember that for them, too, the "Judgment day is coming: get right with God."
 // 英文は「the dews of the light」。文脈から the dews of the night として訳した。
@@ -170,7 +170,7 @@ And when again the Gospel Car had brought me back to the home, this time to prea
 福音自動車が、今度は葬儀の説教をするために、私をまたその家へ連れて来た。白い、花輪に飾られた棺に安らぐ、その愛らしい顔をのぞき込んだとき、私には彼女の言葉のこだまが聞こえるようだった。彼女は私の顔を見てほほえみ、こう言ったのである。
 
 "Sister McPherson, I'm glad you are here, and I'll--meet--you--in--Heaven. "
-「マクファーソン姉妹、来てくださってうれしいわ。天国で、また、お会い、しましょう」
+「マクファーソン姉妹、来てくださってうれしいわ。天国で、あなたに、お会い、しましょう」
 
 Then on behind the sure-footed horses that drew the hearse and carriages over stony mountain passes (considered too difficult for the other cars) and hills so steep that the nose of the car pointed heavenward, with a sheer cliff above and a precipice yawning beneath; then down into valleys where we found swollen mountain streams, where the water came over the running-board of the car till someone cried out:
 それから私たちは、霊柩車と馬車を引く足の確かな馬のあとについて行った。石だらけの山道を越えた（ほかの車には難しすぎると思われた道である）。坂はあまりに急で、車の鼻先が天を向いた。上には切り立った崖がそびえ、下には絶壁が口を開けていた。それから谷へ下ると、山の流れが増水していた。水が車のステップの上まで来たので、だれかが叫んだ。
@@ -193,17 +193,17 @@ LIVES SAVED BY THE GOSPEL CAR.
 
 "Praise God for sending you and your Gospel Car to our town; if you had not come here, my brother, his wife and sister-in-law would probably have been blown into hell, as my brother had resolved to shoot both them and himself; but while he was on the piazza he saw God's car go by, and he read: 'Where will y-o-u spend eternity?' It held and gripped him. He went in and told his wife (a very wicked woman--a saloon-keeper's daughter). She Too-poohed!' and hardened her heart, although she knew him to be desperate. Only a very short time before they found him in the cellar basement, gas turned on at two o'clock in the morning, unconscious; in five minutes more would have been past all earthly help, the doctor said.
 // 英文は「She Too-poohed!'」。Pooh-poohed（鼻であしらった）の崩れとみて訳した。
-あなたと福音自動車を私たちの町に遣わしてくださったことを、神に感謝します。あなたが来てくださらなかったら、兄と兄嫁とその姉妹は、たぶん撃たれて地獄に落ちていたでしょう。兄は、二人を撃って自分も死のうと決めていたのです。けれども兄はベランダにいるとき、神の車が通り過ぎるのを見て、『あ、な、た、はどこで永遠を過ごすのか』という文字を読みました。それが兄をつかんで離しませんでした。兄は家に入って妻に話しました（妻はたいへん邪悪な女で、酒場の主人の娘です）。妻は「ふん、ばかばかしい」と鼻であしらい、心をかたくなにしました。兄が追いつめられていることは知っていたのにです。そのほんの少し前にも、兄は午前二時に地下室で、ガスの栓を開けたまま意識を失っているところを見つけられたのでした。医者は、あと五分遅ければ、この世のどんな手当ても間に合わなかっただろうと言いました。
+あなたと福音自動車を私たちの町に遣わしてくださったことを、神に感謝します。あなたが来てくださらなかったら、兄と兄嫁、それに兄嫁の姉妹は、たぶん撃たれて地獄に落ちていたでしょう。兄は、二人を撃って自分も死のうと決めていたのです。けれども兄はベランダにいるとき、神の車が通り過ぎるのを見ました。そして『あ、な、た、はどこで永遠を過ごすのか』という文字を読んだのです。それが兄をつかんで離しませんでした。兄は家に入って妻に話しました（妻はたいへん邪悪な女で、酒場の主人の娘です）。妻は「ふん」と鼻であしらい、心をかたくなにしました。兄が追いつめられていることは知っていたのにです。そのほんの少し前にも、兄は午前二時に地下室で、ガスの栓を開けたまま意識を失っているところを見つけられたのでした。医者は、あと五分遅ければ、この世のどんな手当ても間に合わなかっただろうと言いました。
 
 "My brother was wonderfully convicted and has since been saved, and is now seeking the baptism of the Holy Spirit. It pays to pray. After fifty-five years of prayer by Mother, he has at last yielded to God. Bless His Name!" c. A. s.
 // 英文は「c. A. s.」。署名の頭文字（C. A. S.）とみて訳した。
-兄はすばらしく罪の自覚を与えられ、その後救われました。今は聖霊のバプテスマを求めています。祈りは報われます。母が五十五年祈り続けて、兄はついに神に降伏しました。御名をほめたたえます。（C・A・S）
+兄はすばらしく罪の自覚を与えられ、その後救われました。今は聖霊のバプテスマを求めています。祈りは報われます。母が五十五年祈り続けて、兄はついに神に身をゆだねました。御名をほめたたえます。（C・A・S）
 
 ## デラウェア州バイオラ
 VIOLA, DELAWARE
 
 We were obliged to drive night and day to make our appointment in time. We found the saints full of faith and good works, and the meetings throughout were at a time of spiritual quickening and upbuilding. The building was crowded as never before with an earnest throng, listening eagerly to the unfolding of the divine plan of the ages for the salvation of mankind, and the conviction was great; one Catholic brother ran from the building, declaring he would have to go to the altar if he remained longer.
-約束の日に間に合うよう、私たちは夜も昼も車を走らせなければならなかった。行ってみると、聖徒たちは信仰と良い行いに満ちていた。集会はどれも、霊的に生き返らされ、建て上げられる時となった。会堂はかつてないほど、熱心な群衆で込み合った。人々は、人類の救いのための代々にわたる神のご計画が説き明かされるのに、熱心に耳を傾けた。罪の自覚は大きかった。あるカトリックの兄弟は、これ以上ここにいたら祭壇に行かなければならなくなると言って、会堂から走り出た。
+約束の日に間に合うよう、私たちは夜も昼も車を走らせなければならなかった。行ってみると、聖徒たちは信仰と良い行いに満ちていた。集会はどれも、霊的に生き返らされ、建て上げられるときとなった。会堂はかつてないほど、熱心な群衆で込み合った。人々は、人類の救いのための代々にわたる神のご計画が説き明かされるのに、熱心に耳を傾けた。罪の自覚は大きかった。あるカトリックの兄弟は、これ以上ここにいたら祭壇に行かなければならなくなると言って、会堂から走り出た。
 
 The meeting over, we started for Philadelphia and New York, driving all night, reaching Philadelphia before dawn. We did not pause, but pressed on to Atlantic Beach, where we rested on the sand for an hour, contemplating the greatness of the handiwork of God. Again pressing on to Long Branch to meet some of the dear saints and thence to New York, before we slept.
 集会が終わると、私たちはフィラデルフィアとニューヨークへ向かった。夜通し車を走らせ、夜明け前にフィラデルフィアに着いた。そこで止まらず、アトランティック・ビーチまで進んだ。そこで一時間、砂浜で休み、神の御手の業の偉大さを思いめぐらした。それからまた進んでロングブランチへ行き、愛する聖徒たちの何人かに会った。そしてそこからニューヨークへ行き、ようやく眠ったのである。
