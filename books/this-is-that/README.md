@@ -70,4 +70,4 @@
 + [x] Part IV. Explanatory Note / The Former and Latter Rain / Rhapsody of Praise / The Meeting in the Air / Song of Praise and Worship / Awake, O Earth! Jesus Is Coming Soon / The Voice of the Lord to the Nations and to the Saints
 + [x] Part IV. Press On to Perfection / Perfect Fruit / Jesus Is Coming Soon--Get Ready / The Sieve of the Lord
 + [x] Part IV. Wilt Thou Watch with Me One Little Hour? / This Is the Way, Walk Ye in It / The Vineyard of the Lord / The Storm and the White Lambs / Message Given in the Spirit
-+ [ ] Part IV. Reign, Silence, Reign / Love's Pinions and the Church Triumphant / The Bridegroom and the Bride
++ [x] Part IV. Reign, Silence, Reign / Love's Pinions and the Church Triumphant / The Bridegroom and the Bride
