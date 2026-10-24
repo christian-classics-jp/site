@@ -20,7 +20,7 @@
 + [x] Chapter VIII. Call to Foreign Fields
 + [x] Chapter IX. The Death of My Husband
 + [x] Chapter X. Nineveh to Tarshish--and Return
-+ [ ] Chapter XI. Getting Back
++ [x] Chapter XI. Getting Back
 + [ ] Chapter XII. Revival Fires Fall
 + [ ] Chapter XIII. Called to Dwell in Tents
 + [ ] Chapter XIV. The Bridal Call
