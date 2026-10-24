@@ -5,7 +5,7 @@ JUST as there are three in the Godhead: Father, Son and Holy Ghost, so there hav
 神のうちに父と子と聖霊の三つがおられるように、はっきりと分かれた三つの時代、すなわち時期がある。
 
 First came the dispensation of the Father, as recorded in God's Word throughout the Old Testament, from Genesis to Malachi.
-第一に来たのは、父の時代である。それは神のみことばの旧約聖書の全体に、創世記からマラキ書まで記されている。
+第一に来たのは、父の時代である。それは神のみことばのうち、創世記からマラキ書までの旧約聖書の全体に記されている。
 Throughout the dispensation of the Father, He promised that at the close of this dispensation He would bestow a great gift, even Jesus, His only begotten Son, upon this earth, as our Redeemer and the propitiation for our sins.
 父の時代を通じて、父は、この時代の終わりに大いなる賜物をこの地に授けると約束された。それはひとり子イエスであって、私たちのあがない主、私たちの罪のためのなだめの供え物である。
 At the close of that period of time God the Father kept His word, and true to His promise, gave Jesus, as His great Love Gift to the sinner.
@@ -14,7 +14,7 @@ At the close of that period of time God the Father kept His word, and true to Hi
 Secondly came the dispensation of the Son, as recorded in the four Gospels, Matthew, Mark, Luke and John.
 第二に来たのは、御子の時代である。それはマタイ、マルコ、ルカ、ヨハネの四つの福音書に記されている。
 Now, just as the Father had a gift to bestow upon the world, even as Jesus, who is our salvation, tells us over and over again that He longs to bestow a gift upon all those who believe on Him, even the gift of the Holy Spirit.
-父が世に授ける賜物を持っておられたように、私たちの救いであるイエスも、ご自分を信じるすべての者に賜物を授けたいと切に願っている、と繰り返し語っておられる。それが聖霊の賜物である。
+父が世に授ける賜物を持っておられたように、私たちの救いであるイエスも、ご自分を信じるすべての者に賜物を授けたいと切に願っている、と私たちに繰り返し語っておられる。それが聖霊の賜物である。
 All throughout His ministry upon this earth, with ever increasing emphasis, Jesus depicted to His followers the importance of their receiving this gift which He was to bestow upon them when He went away.
 この地での働きのあいだずっと、イエスは、ますます力を込めて、弟子たちにこう説き明かされた。ご自分が去って行くときに授ける賜物を彼らが受けることが、どれほど大切か、と。
 
@@ -41,7 +41,7 @@ endue them with power from on high
 (Luke 24:49); pray through them with groanings that could not be uttered.
 // 英文の一覧は、原本では字下げして一行ずつ組まれている。英文の行の間の空行を詰めた。
 // 最初の項目の出典 (John 16:13) は、イエスのものを受けて知らせることを言うヨハネ一六・一四 に直した。(-13) (-14) (-8) は原本のとおりで、同じ章の節を指す。
-イエスは最後にもう一度、こう約束された。ご自分の小さな者たちを孤児とはしない。父にお願いして、別の助け主、すなわち聖霊を遣わしていただく、と。聖霊は来られると、その務めとして次のことをしてくださる。イエスのものを受けて、それを彼らに知らせる（ヨハネ一六・一四）。あらゆる真理に彼らを導く（ヨハネ一六・一三）。ご自分のことではなく、イエスについて語る（同一三）。きたるべきことを彼らに知らせる（同一三）。イエスに栄光を得させる（同一四）。罪と義とさばきとについて、世の人の目を開く（同八）。彼らにすべてのことを教える（ヨハネ一四・二六）。イエスについてあかしをする（ヨハネ一五・二六）。上からの力を彼らに着せる（ルカ二四・四九）。言葉にあらわせない切なるうめきをもって、彼らを通して祈る。
+イエスは最後にもう一度、こう約束された。ご自分の小さな者たちを孤児とはしない。父にお願いして、別の助け主、すなわち聖霊を遣わしていただく、と。聖霊は来られると、その務めとして次のことをしてくださる。イエスのものを受けて、それを彼らに知らせる（ヨハネ一六・一四）。あらゆる真理に彼らを導く（ヨハネ一六・一三）。ご自分のことではなく、イエスについて語る（同一三）。きたるべきことを彼らに知らせる（同一三）。イエスに栄光を得させる（同一四）。罪と義とさばきとについて、世の人の目を開く（同八）。彼らにすべてのことを教える（ヨハネ一四・二六）。イエスについてあかしをする（ヨハネ一五・二六）。上からの力を彼らに着せる（ルカ二四・四九）。言葉にあらわせない切なるうめきをもって、彼らを通して祈る（ローマ八・二六）。
 The last words of Jesus before His ascension, before the clouds received Him out of their sight, as recorded in Luke 24:49, and Acts 1:8, were concerning the importance of tarrying for and receiving the Comforter whom He would send.
 イエスが天に上げられる前、雲に迎えられて彼らの目から見えなくなる前に語られた最後の言葉は、ルカ二十四章四十九節と使徒行伝一章八節に記されている。それは、ご自分が遣わす助け主を待ち望み、受けることがどれほど大切か、ということであった。
 
@@ -49,7 +49,7 @@ TARRYING FOR THE COMING OF THE HOLY SPIRIT.
 ## 聖霊の降臨を待ち望む
 
 With glowing hearts, and the Master's command, "Tarry until ye be endued with power from on high" still ringing in their ears, the little flock of about a hundred and twenty wended their way to the "upper room" in Jerusalem, to await there the advent of the Holy Spirit, the opening of this great, new dispensation of the Spirit sent from Heaven.
-燃える心で、「上から力を授けられるまでは、とどまっていなさい」という主の命令をまだ耳に響かせながら、百二十人ほどの小さな群れは、エルサレムの「屋上の間」へ向かった。そこで聖霊の到来を待つためである。それは、天から遣わされた御霊の、この大いなる新しい時代の幕開けであった。
+「上から力を授けられるまでは、とどまっていなさい」という主の命令は、まだ彼らの耳に響いていた。百二十人ほどの小さな群れは、燃える心で、エルサレムの「屋上の間」へ向かった。そこで聖霊の到来を待つためである。それは、天から遣わされた御霊の、この大いなる新しい時代の幕開けであった。
 For ten days they waited.
 十日のあいだ、彼らは待った。
 They "continued with one accord in one place in prayer and supplication."
@@ -76,7 +76,7 @@ THE COMING OF THE HOLY SPIRIT.
 「五旬節の日がきて、みんなの者が心を合わせて一緒に集まっていると、突然、天から音が起ってきた」（神をほめたたえよ。それからこのかた、御霊が下って入って来られるときには、いつも音がしている）。「天から」（そうだ、神に感謝しよう。人が何と言おうと、この音は確かに天からのものである）。「激しい風が吹いてきたような音で、一同がすわっていた家いっぱいに響きわたった。また、舌のようなものが、炎のように分れて現れ、ひとりびとりの上にとどまった。すると、一同は聖霊に満たされ、御霊が語らせるままに、いろいろの他国の言葉で語り出した」
 
 I have often tried to picture the sudden consternation and excitement which surged through the streets of Jerusalem when the hundred and twenty men and women were filled with the Holy Spirit, and burst out shouting and talking in other tongues, so filled that they acted like drunken people (Acts 2:13).
-百二十人の男女が聖霊に満たされ、叫び出し、他国の言葉で語り出したとき、エルサレムの通りには、にわかな驚きと興奮が押し寄せたに違いない。彼らは満たされるあまり、酒に酔った人のようにふるまったのである（使徒二・一三）。私はたびたび、その様子を思い描こうとしてきた。
+百二十人の男女が聖霊に満たされ、叫び出し、他国の言葉で語り出したとき、エルサレムの通りには、にわかな驚きと興奮が押し寄せた。彼らは満たされるあまり、酒に酔った人のようにふるまったのである（使徒二・一三）。私はたびたび、その様子を思い描こうとしてきた。
 I can seem to see the crowds running up this street, and that, windows flying open, heads thrust out, doors opening, everybody running, devout men gathering up their long ministerial robes and forgetting their dignity, running with the rest to swell the one great question:
 目に見えるような気がする。群衆が、この通り、あの通りと駆けて来る。窓がぱっと開き、頭が突き出され、戸が開き、だれもかれもが駆けて来る。信仰深い人々も、長い聖職者の衣をたくし上げ、威厳を忘れて、ほかの人たちといっしょに駆けて来る。そして、一つの大きな問いを、ますます大きくしていくのである。
 
@@ -84,7 +84,7 @@ WHAT MEANETH THIS?
 ## これは、いったい、どういうわけなのだろう
 
 "And when this was noised abroad the multitude came together," (Beloved, if the Holy Spirit is falling in your midst you will not need oyster suppers or box socials or Xmas trees to bring the multitude, your only trouble will be to find seats for the people) "and were confounded," just as you have been, perhaps, "because that every man heard them speak in his own language."
-『この物音に大ぜいの人が集まってきて』（愛するみなさん、聖霊があなたがたのうちに下っておられるなら、群衆を集めるのに、牡蠣の夕食会も、弁当の競り売りの会も、クリスマスツリーもいらない。困るのは、人々の座る席を見つけることだけである）、「あっけに取られた」。たぶん、あなたがたがそうであったのと同じようにである。「だれもかれも、使徒たちが自分の生れ故郷の国語で話しているのを聞いたからである」（使徒二・六）。
+『この物音に大ぜいの人が集まってきて』（愛するみなさん、聖霊があなたがたのうちに下っておられるなら、群衆を集めるのに、牡蠣の夕食会も、弁当の競り売りの会も、クリスマスツリーもいらない。困るのは、人々の座る席を見つけることだけである）、『あっけに取られた』。たぶん、あなたがたがそうであったのと同じようにである。「だれもかれも、使徒たちが自分の生れ故郷の国語で話しているのを聞いたからである」（使徒二・六）。
 They were amazed, they marvelled, they were in doubt.
 彼らは驚き、怪しみ、惑った（使徒二・七、一二）。
 Sober-minded folk asked the question:
@@ -99,10 +99,10 @@ Sober-minded folk asked the question:
 "But Peter" a new Peter, no longer afraid of the opinions of people, "standing up," (the Holy Spirit, when He endues you with power, puts a real stand up for Jesus spirit within you, and takes the cowardice out) "said: these are not drunken, as ye suppose, but this is that which was spoken by the prophet Joel. And it shall come to pass in the last days, saith God, that I will pour out of My Spirit upon all flesh."
 「しかしペテロは」、それはもはや人の思わくを恐れない新しいペテロであったが、「立ちあがり」（聖霊は、あなたに力を着せてくださるとき、イエスのために本当に立ちあがる霊をあなたのうちに入れ、臆病を取り去ってくださる）、こう言った。「この人たちは、あなたがたが思っているように、酒に酔っているのではない。これこそ、預言者ヨエルが預言していたことである。『神がこう仰せになる。終りの時には、わたしの霊をすべての人に注ごう』」（使徒二・一四〜一七）
 Then as Peter preached that mighty sermon under the power of the Holy Spirit, among other things he told his vast audience to
-それからペテロは、聖霊の力のもとで、あの力強い説教をした。そのなかで、とりわけ、大ぜいの聞き手にこう告げた。
+それからペテロは、聖霊の力のもとで、あの力強い説教をした。そのなかで、大ぜいの聞き手にこうも告げた。
 
 "Repent and be baptized, every one--in the Name of Jesus Christ, for the remission of sins" and that they, too, would "receive the gift of the Holy Spirit" Furthermore, just as though he looked away ahead through the coming years, and saw the doubts in some of your minds, Peter declared that "the promise is" not only "unto you" but "unto your children and unto them that are afar off" that means you, brother, sister, for he goes on to say, "even as many as the Lord our God shall call."
-「悔い改めなさい。そして、ひとりびとりが罪のゆるしを得るために、イエス・キリストの名によって、バプテスマを受けなさい」。そうすれば、彼らもまた『聖霊の賜物を受けるであろう』と（使徒二・三八）。さらにペテロは、きたるべき年月のはるか先を見通して、あなたがたのうちのある人の心にある疑いを見たかのように、こう言いきった。「この約束は」、「あなたがた」にだけでなく、「あなたがたの子らと、遠くの者一同とに」与えられている、と。兄弟よ、姉妹よ、それはあなたのことである。ペテロは続けて、「われらの主なる神の召しにあずかるすべての者」に、と言っているからである（使徒二・三九）。
+「悔い改めなさい。そして、ひとりびとりが罪のゆるしを得るために、イエス・キリストの名によって、バプテスマを受けなさい」。そうすれば、彼らもまた『聖霊の賜物を受けるであろう』と（使徒二・三八）。さらにペテロは、きたるべき年月のはるか先を見通して、あなたがたのうちのある人の心にある疑いを見たかのように、こう言いきった。『この約束は』、『あなたがた』にだけでなく、『あなたがたの子らと、遠くの者一同とに』与えられている、と。兄弟よ、姉妹よ、それはあなたのことである。ペテロは続けて、『われらの主なる神の召しにあずかるすべての者』に、と言っているからである（使徒二・三九）。
 Now, if God has called you, the promise is unto you.
 だから、神があなたを召しておられるなら、この約束はあなたに与えられているのである。
 How glad I am that the Spirit, through Peter, drove these nails and clinched them on the other side till there is not the shadow of a loophole for you to thrust the wedge of doubt into.
@@ -118,7 +118,7 @@ Then we see Peter and John, going up to the temple to pray, pass a lame man at t
 
 "Silver and gold have I none" (I do not think the Pentecostal people ever were or ever will be overly blessed with silver or gold) "but such as 1 have I give unto thee; in the Name of Jesus Christ rise up and walk."
 // 英文の such as 1 have は OCR の誤り（such as I have）。
-『金銀はわたしには無い』（ペンテコステの人々が金銀にあり余るほど恵まれたことは、これまでもなかったし、これからもないだろうと思う）。「しかし、わたしにあるものをあげよう。イエス・キリストの名によって、立って歩きなさい」（使徒三・六）。
+『金銀はわたしには無い』（ペンテコステの人々が金銀にあり余るほど恵まれたことは、これまでもなかったし、これからもないだろうと思う）。「しかし、わたしにあるものをあげよう。イエス・キリストの名によって、立って歩きなさい」（使徒三・六）
 The lame man was healed instantaneously, and whether the priests in the Temple believed in manifestations or not I Know not, but at any rate the man went into that Temple walking, leaping and praising God.
 足のきかない人はたちまちいやされた。宮の祭司たちが御霊の現れを信じていたかどうか、私は知らない。けれども、ともかくその人は、歩き回ったり踊ったりして神をさんびしながら、あの宮にはいって行ったのである（使徒三・八）。
 
@@ -135,9 +135,9 @@ Signs and wonders were wrought everywhere by the hands of the Apostles, true to 
 While the tree seen in Circle One stood in its perfection, the Church stood blazing with the full Pentecostal Power and Glory of the Holy Spirit.
 第一の円に見える木が完全な姿で立っていたあいだ、教会は、聖霊のペンテコステの力と栄光に満ちあふれ、燃え輝いて立っていた。
 Jesus' words were fulfilled, and in deed and in truth they were endued with power from on high.
-イエスの言葉は成就し、彼らは行いにおいても真実においても、上からの力を着せられていた。
+イエスの言葉は成就し、彼らはまことに、実際に、上からの力を着せられていた。
 Timid Peter, who had once feared a little girl who asked him if he knew Jesus, was timid no longer.
-かつて、イエスを知っているかと尋ねた一人の女中を恐れた臆病なペテロは、もう臆病ではなかった。
+かつて、イエスを知っているかと尋ねた一人の小娘を恐れた臆病なペテロは、もう臆病ではなかった。
 Illiterate men and women were turned into flaming evangels.
 無学な男女が、燃える福音の使者に変えられた。
 
@@ -153,7 +153,7 @@ Again in these wonderful days of the former rain outpouring of the Holy Spirit, 
 
 "Saul, Saul, why persecutest thou Me?" Later we find Paul not only converted and baptized with the Holy Spirit, with the Bible evidence of speaking with other tongues (I Cor. 4:18), but himself preaching salvation and the Baptism of the Holy Spirit.
 // 英文の出典 (I Cor. 4:18) は原本のとおり。パウロが異言を語ることを言う第一コリント一四・一八 に直した。
-『サウロ、サウロ、なぜわたしを迫害するのか』（使徒九・四）後に私たちは、パウロが回心し、他国の言葉で語るという聖書的なしるしを伴って聖霊のバプテスマを受けただけでなく（第一コリント一四・一八）、自分でも救いと聖霊のバプテスマを宣べ伝えているのを見る。
+『サウロ、サウロ、なぜわたしを迫害するのか』（使徒九・四）後に私たちは、パウロの姿を見る。パウロは回心し、他国の言葉で語るという聖書的なしるしを伴って、聖霊のバプテスマを受けた（第一コリント一四・一八）。それだけでなく、自分でも救いと聖霊のバプテスマを宣べ伝えているのである。
 In Acts 19, Paul, finding certain disciples at Ephesus, asks them whether they have received the Holy Ghost since they believed.
 使徒行伝十九章では、パウロがエペソで幾人かの弟子に出会い、信仰にはいってから聖霊を受けたのかと尋ねる。
 They tell him "No."
@@ -161,7 +161,7 @@ They tell him "No."
 They have not even heard whether there was any Holy Ghost.
 聖霊なるものがあることさえ、聞いたことがないのである。
 "And when Paul had laid his hands upon them the Holy Ghost came on them and they spake in tongues" and magnified God.
-「パウロが彼らの上に手をおくと、聖霊が彼らにくだり、彼らは異言を語」り（使徒一九・六）、神をあがめた。
+「パウロが彼らの上に手をおくと、聖霊が彼らにくだり、彼らは異言を語った」（使徒一九・六）。そして、神をあがめたのである。
 This marvelous manifestation of speaking in other tongues accompanied the infilling of believers with the Holy Spirit everywhere.
 他国の言葉で語るというこの驚くべき現れは、どこでも、信じる者が聖霊に満たされるときに伴った。
 Simon offered money for the power to bestow that which he saw and heard.
@@ -178,7 +178,7 @@ The sick were healed, miracles wrought, and when messages were given in other to
 // 英文の出典 (I Cor., 14:37.) は原本のとおり。異言を解くことを言う第一コリント一四・二七 に直した。
 病人はいやされ、奇跡が行われた。集まりで他国の言葉のメッセージが与えられると、だれかがその解き明かしをした（第一コリント一四・二七）。
 Each of the nine fruits were in the Church--Love, Joy, Peace, Gentleness, Goodness, Faith, Meekness, Temperance, Longsuffering, thus we have the perfect picture visualized in "Circle I" of the Chart.
-九つの実も、一つ残らず教会にあった。愛、喜び、平和、慈愛、善意、忠実、柔和、自制、寛容である。こうして、図の「第一の円」に描かれた完全な姿ができあがる。
+九つの実も、一つ残らず教会にあった。愛、喜び、平和、慈愛、善意、忠実、柔和、自制、寛容である（ガラテヤ五・二二〜二三）。こうして、図の「第一の円」に描かれた完全な姿ができあがる。
 
 Thus ends the first chapter of the early Church History, leaving the tree rooted and grounded in the faith of Jesus, every limb, branch, leaf and fruit in perfect power and strength.
 こうして、初代教会の歴史の第一章が終わる。木はイエスの信仰に根ざし、それに基を置いている。幹から出た大枝も、小枝も、葉も、実も、一つ残らず完全な力と強さのうちにある。
@@ -194,7 +194,7 @@ These puny minds of ours only feebly grasp events of the past, and are utterly u
 Unlike us, however, the great mind and eye of the Almighty God beholds the future as clearly as the past.
 けれども、全能の神の大いなる御心と御目は、私たちとは違い、未来を過去と同じようにはっきりと見ておられる。
 Before His burning eyes of Fire, and the Glory of His presence, darkness turns to day, and the deepest mists are rolled away.
-神の燃える炎の目と、その臨在の栄光の前では、やみは昼に変わり、どんなに深い霧も巻き去られる。
+神の燃える炎の御目と、その臨在の栄光の前では、やみは昼に変わり、どんなに深い霧も巻き去られる。
 Looking thus ahead with clear, unerring eye, God saw, and moreover prophesied through the prophet Joel, that the Church would not always retain this glorious state of Power, saw that the palmerworm, the locust, the cankerworm and the caterpillar were going to rob and strip and mutilate and destroy this perfect tree with its gifts and fruits.
 こうして、澄んだ、誤ることのない目で先を見通して、神は見ておられた。教会が、この力に満ちた栄光の状態をいつまでも保ってはいないことを見ておられた。そればかりか、預言者ヨエルを通して、それを預言された。かみ食らういなご、群がるいなご、とびいなご、滅ぼすいなごが、賜物と実をつけたこの完全な木を荒らし、はぎ取り、傷つけ、滅ぼすことを見ておられたのである。
 He saw that the Church, or tree, was going to lose gradually more and more, till it would be left desolate, barren and despairing.
@@ -211,12 +211,12 @@ Not so many sick were healed as of yore, not so many miracles were performed, fa
 The fruits of unselfish love and joy and peace were also attacked by the palmerworm, who grew bolder and bolder day by day.
 無私の愛と喜びと平和の実も、かみ食らういなごに襲われた。いなごは日ごとにますます大胆になっていった。
 Gradually the eighteen apples began to disappear from the staunch and upright tree which had stood so gloriously heavy laden for many years after the day of Pentecost.
-ペンテコステの日から何年ものあいだ、あれほど栄光に満ちて、実をたわわにつけて立っていた、まっすぐで頑丈な木から、十八のりんごがだんだんに消え始めた。
+まっすぐで頑丈なその木は、ペンテコステの日から何年ものあいだ、あれほど栄光に満ちて、実をたわわにつけて立っていた。その木から、十八のりんごがだんだんに消え始めた。
 
 This state of fruitlessness was indeed a condition worthy of lamentation, but the pity of it all is that the devastation did not stop with the havoc wrought by the palmerworm.
 この実のない状態は、まことに嘆かわしいものであった。けれども、何よりも悲しいことに、荒廃はかみ食らういなごの荒らしたところで止まらなかった。
 Other years, and other worms took up the work of destruction where the palmerworm had left off, and "that which the palmerworm hath left hath the locust eaten."
-別の年月が来て、別の虫が、かみ食らういなごのやめたところから滅ぼす働きを引き継いだ。『かみ食らういなごの残したものは、群がるいなごがこれを食い』とあるとおりである。
+別の年月が来て、別の虫が、かみ食らういなごのやめたところから滅ぼす働きを引き継いだ。『かみ食らういなごの残したものは、群がるいなごがこれを食い』とあるとおりである（ヨエル一・四）。
 
 CIRCLE III. THE LOCUST AT WORK.
 ## 第三の円　群がるいなごの働き
@@ -238,14 +238,14 @@ As meetings of the older order were converted into dignified services of a more 
 Because it meant too great a sacrifice, too much emptying out and humbling in the dust before God, too much seeking and waiting, the Baptism of the Holy Spirit was not received as of old.
 聖霊のバプテスマは、昔のようには受けられなくなった。それには、あまりに大きな犠牲が要ったからである。神の前で自分をすっかり空にし、ちりの中にへりくだることも、求めて待つことも、あまりに多く要ったからである。
 Then came men who professed to have the Holy Spirit in a new way, i. e., without the Bible seal or evidence of speaking with other tongues as the Spirit gives utterance.
-すると、新しい形で聖霊を受けていると公言する人々が現れた。すなわち、御霊が語らせるままに他国の言葉で語るという、聖書の証印、聖書のしるしなしに、である。
+すると、新しい形で聖霊を受けていると公言する人々が現れた。すなわち、御霊が語らせるままに他国の言葉で語るという、聖書的な証印、聖書的なしるしなしに、である。
 This simplified matters greatly, and the professor no longer needed to be a possessor.
 これで事はずっと簡単になった。口で唱える者が、実際にそれを持つ者である必要はもうなくなったのである。
 Thus the Baptism of the Holy Spirit was lost sight of by many, though there always was a remnant of a faithful few Spirit-filled saints through whom God manifested Himself in a real and supernatural way.
 こうして、聖霊のバプテスマは多くの人に見失われた。それでも、御霊に満たされた忠実な聖徒たちは、わずかながらいつも残っていた。神は、その人々を通して、ご自分を本当に、超自然的な形で現してくださったのである。
 
 It was a sad day when the leaves were thus stripped from the tree, and the locust had done its work, but days that were still more sad were to follow, for we read "that which the locust hath left hath the cankerworm eaten."
-こうして木から葉がはぎ取られ、群がるいなごがその働きを終えた日は、悲しい日であった。けれども、さらに悲しい日々が続くことになっていた。『群がるいなごの残したものは、とびいなごがこれを食い』とあるからである。
+こうして木から葉がはぎ取られ、群がるいなごがその働きを終えた日は、悲しい日であった。けれども、さらに悲しい日々が続くことになっていた。『群がるいなごの残したものは、とびいなごがこれを食い』とあるからである（ヨエル一・四）。
 
 CIRCLE IV. THE WORK OF THE CANKERWORM.
 ## 第四の円　とびいなごの働き
@@ -253,12 +253,12 @@ CIRCLE IV. THE WORK OF THE CANKERWORM.
 After the fruit and the leaves had been destroyed, the cankerworm immediately made his appearance and began his work upon the branches and tender shoots of the tree, making cankerous and unsound that God-fearing walk of Holiness above the world and sin, so long enjoyed by the children of the Lord.
 実と葉が滅ぼされると、すぐにとびいなごが現れ、木の枝と柔らかな若枝に働きかけ始めた。主の子供たちが長いあいだ喜んで歩んできた、世と罪を超えた、神を恐れるきよさの歩みを、むしばみ、損なっていったのである。
 As the sap, the life of the tree, was consumed and the branches became more and more cankerous, and unsound things that used to seem sinful appeared sinful no longer, the world that used to be barred outside the doors of the Church now leaned back in contented languor in the cushioned pews, or sang in the choir.
-木のいのちである樹液が食い尽くされ、枝はますますむしばまれていった。かつて罪深く思われた不健全なことが、もう罪深くは見えなくなった。かつて教会の戸の外に締め出されていた世は、今や、ふかふかの座席に満足げにけだるくもたれかかり、あるいは聖歌隊で歌っていた。
+木のいのちである樹液が食い尽くされ、枝はますますむしばまれ、損なわれていった。かつて罪深く思われたことが、もう罪深くは見えなくなった。かつて教会の戸の外に締め出されていた世は、今や、ふかふかの座席に満足げにけだるくもたれかかり、あるいは聖歌隊で歌っていた。
 
 Christians let down more and more the high standard of Holiness unto the Lord, which they had been holding aloft, and now it trailed bedraggled and unnoticed in the dust.
 クリスチャンたちは、高く掲げてきた「主へのきよさ」という高い旗を、ますます下ろしていった。今やその旗は、だれにも気づかれず、泥にまみれて、ちりの中を引きずられていた。
 Quickly upon the trail of the cankerworm followed the caterpillar, and we read that "that which the cankerworm hath left hath the caterpillar eaten."
-とびいなごの跡を追って、すぐに滅ぼすいなごがやって来た。『とびいなごの残したものは、滅ぼすいなごがこれを食った』とあるとおりである。
+とびいなごの跡を追って、すぐに滅ぼすいなごがやって来た。『とびいなごの残したものは、滅ぼすいなごがこれを食った』とあるとおりである（ヨエル一・四）。
 
 CIRCLE V. THE WORK OF THE CATERPILLAR.
 ## 第五の円　滅ぼすいなごの働き
@@ -269,9 +269,9 @@ The perfect tree is perfect no longer, stripped of her fruits, denuded of her le
 完全な木は、もう完全ではない。実をはぎ取られ、葉を奪われ、枝は白くされ、すっかり裸にされた。まもなく幹と根が朽ち始め、滅ぼすいなごは、木の朽ちて腐ったうろに巣を作った。
 
 No tree can eke out its existence long without leaves through which to breathe, and branches and limbs through which the sap of life courses through its veins.
-どんな木も、息をするための葉や、いのちの樹液を管に巡らせるための枝と大枝がなければ、長く命をつなぐことはできない。
+どんな木も、息をするための葉や、いのちの樹液を管に巡らせるための枝と大枝がなければ、長くいのちをつなぐことはできない。
 For a believer to live without the Holy Spirit, the breath of life, or the Holy life of Jesus as revealed by the Spirit, coursing through his veins, is to eke out a meager, barren existence nowhere recorded in the Word of God.
-信じる者も同じである。いのちの息である聖霊なしに、あるいは御霊によって現されるイエスの聖なるいのちを血管に巡らせることなしに生きるのは、乏しい、不毛な生をかろうじてつなぐことである。そんな生き方は、神のみことばのどこにも記されていない。
+信じる者も同じである。いのちの息である聖霊なしに生きるのは、乏しい、不毛な生をかろうじてつなぐことである。御霊によって現されるイエスの聖なるいのちを、血管に巡らせずに生きるのも同じである。そんな生き方は、神のみことばのどこにも記されていない。
 And now, in circle five, we see the tree in the most lamentable condition yet described, fruit gone, leaves gone, branches bare, trunk decayed and rotten, a nest for the caterpillar.
 そして今、第五の円に、私たちはこれまでに描いたうちで最も嘆かわしい状態の木を見る。実はなくなり、葉もなくなり、枝は裸になり、幹は朽ちて腐り、滅ぼすいなごの巣になっている。
 In other words, the gifts and fruits of the Spirit gone, the Baptism of the Holy Spirit gone, separation and Holiness gone, justification by Faith gone.
@@ -318,7 +318,7 @@ Angels might have wept, mortals might have wrung their hands, and their souls ha
 
 Now the Church had not lost this "all" at one time. The restoration came as "meat in due season'3 as line upon line, precept upon precept, here a little and there a little, till today we are nearing the completion of this Restoration, and Jesus is coming soon to take His perfect Church, His Bride, His fruit-laden tree, unto Himself, where, transplanted from earth to Heaven, the tree will bloom and yield her fruit by the great River of Life, forever.
 // 英文の season'3 は OCR の崩れ（season"）。
-さて、教会はこの「すべて」を一度に失ったのではなかった。回復も、「時に応じて」与えられる食物のように（マタイ二四・四五）、規則に規則、教訓に教訓、ここにも少し、そこにも少しと（イザヤ二八・一〇）、少しずつ来た。そして今日、私たちはこの回復の完成に近づいている。イエスはまもなく来られて、ご自分の完全な教会、ご自分の花嫁、実をたわわにつけたご自分の木を、みもとに迎えられる。そこで、地から天に移し植えられた木は、大いなるいのちの川のほとりで、とこしえに花を咲かせ、実を結ぶのである。
+さて、教会はこの「すべて」を一度に失ったのではなかった。回復も、『時に応じて』与えられる食物のように（マタイ二四・四五）、規則に規則、教訓に教訓、ここにも少し、そこにも少しと（イザヤ二八・一〇）、少しずつ来た。そして今日、私たちはこの回復の完成に近づいている。イエスはまもなく来られて、ご自分の完全な教会、ご自分の花嫁、実をたわわにつけたご自分の木を、みもとに迎えられる。そこで、地から天に移し植えられた木は、大いなるいのちの川のほとりで、とこしえに花を咲かせ、実を結ぶのである。
 
 No, God did not restore to the Church all at once what she had lost.
 そうである。神は、教会が失ったものを、一度に回復されたのではなかった。
