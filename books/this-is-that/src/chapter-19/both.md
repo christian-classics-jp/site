@@ -17,7 +17,7 @@ California rang in my ears, and the Lord had been speaking to us for some time a
 カリフォルニアという名が、耳の中で鳴り響いていた。主はしばらく前から私たちに、「伝道文書を配りながら大陸を横断する福音自動車の旅」をするよう語っておられた。主はこれまで、まことにはっきりと私たちを導いてくださったので、それが主の声であることがわかった。夫は全国キャンプ集会の後半に出ていたが、またフロリダへ行ってしまっていた。私たちの車は、ずいぶん使い込んだものだった。その車を自分で運転して、これほど長い旅をすると考えるのは、私にとってたいへんな企てに思えた。
 
 Putting the Lord to the test, I asked Him, if it was His will for me to make this trip to help me to get a new and more powerful car. The committee who had handled all the financial end of the camp meeting said that though the offerings had been good, expenses were so high that there was very little left to divide amongst the numerous workers, so that by the time our own expenses were paid there would be nothing toward the car.
-私は主のお心を確かめようとして、こう願った。もし私がこの旅をするのが御心なら、新しい、もっと力の強い車を手に入れられるよう助けてください、と。キャンプ集会の会計をすべて扱っていた委員会の話では、献金は多かったが、費用もたいへんかさんだという。大勢の働き手で分ける分は、ほとんど残っていなかった。それで、私たち自身の費用を払ってしまえば、車のためには何も残らないことになる。
+私は主にしるしを求めて、こう願った。もし私がこの旅をするのが御心なら、新しい、もっと力の強い車を手に入れられるよう助けてください、と。キャンプ集会の会計をすべて扱っていた委員会の話では、献金は多かったが、費用もたいへんかさんだという。大勢の働き手で分ける分は、ほとんど残っていなかった。それで、私たち自身の費用を払ってしまえば、車のためには何も残らないことになる。
 
 When I mentioned it to Mother she said: "Well, ask the Lord to help you sell the old car at a good figure, and I will pay the balance."
 母にこのことを話すと、母は言った。「それなら、古い車がいい値で売れるよう、主にお願いしなさい。足りない分はお母さんが払うわ」
@@ -83,7 +83,7 @@ Different nights ten and twelve, one night fourteen, came forward for salvation.
 夜によって十人、十二人が、ある夜には十四人が、救いを求めて前に進み出た。
 
 One of the crowning joys of the New York convention came when the wife of Pastor W. K. Bouton (who had been seeking earnestly for two years, ever since the power fell at Corona), fell under the power on the platform and came through to her baptism. It seemed that our hearts would almost break with joy as we knelt beside both Brother and Sister Bouton when they received the blessed Holy Spirit. Brother Bouton just leaped and danced for joy. All glory to Jesus!
-ニューヨークの大会の最高の喜びの一つは、W・K・ボウトン牧師の妻のことだった。夫人は、コロナに神の力が下って以来二年間、熱心に求め続けていた。その夫人が壇上で神の力に打たれて倒れ、バプテスマを受けるまでに至ったのである。ボウトン兄弟夫妻が祝福に満ちた聖霊を受けたとき、私たちは二人のそばにひざまずいていた。喜びのあまり、胸が張り裂けそうだった。ボウトン兄弟は、喜びのあまり跳びはね、踊った。すべての栄光をイエスに！
+ニューヨークの大会の最高の喜びの一つは、W・K・ボウトン牧師の妻のことだった。夫人は、コロナに神の力が下って以来二年間、熱心に求め続けていた。その夫人が壇上で神の力に打たれて倒れ、バプテスマを受けるまでに至ったのである。ボウトン兄弟夫妻が祝福に満ちた聖霊を受けたとき、私たちは二人のそばにひざまずいていた。喜びで胸が張り裂けそうだった。ボウトン兄弟は、喜びのあまり跳びはね、踊った。すべての栄光をイエスに！
 
 One woman who had been suffering from rheumatism 'was healed instantly and danced like a young girl. Two were healed of this awful epidemic which is going round. Many were healed from other troubles and afflictions, for which we give Jesus all the glory and praise. There were no numbers kept of those saved or baptized, but we know that they were many, praise the Lord.
 // 英文は「'was healed」。was healed として訳した。
@@ -93,7 +93,7 @@ Thursday, October 10th, being the last night of the meeting, it had been arrange
 十月十日の木曜日は集会の最後の夜だったので、大きな合同集会が計画されていた。半径三十マイル以内のいろいろなペンテコステの集会から、若い人たちが代表として出る集会である。
 
 Brother Robert Brown, of 42nd St., was chairman for this part of the service. The following assemblies were represented by a song or an "on fire" testimony: Glad Tidings Hall, 42nd St.; Beulah Heights Assembly of New Jersey, Sister Robinson's Mission of Brooklyn, The Lighthouse Pentecostal Assembly of Brooklyn, Bethel Assembly, Tottenville, New Rochelle, West New Brighton, Asbury Park and Philadelphia.
-四十二丁目のロバート・ブラウン兄弟が、この部の司会を務めた。歌か「燃える」証しで代表を務めたのは、次の集会である。四十二丁目のグラッド・タイディングス・ホール、ニュージャージーのビューラ・ハイツ集会、ブルックリンのロビンソン姉妹の伝道所、ブルックリンのライトハウス・ペンテコステ集会、ベテル集会、トッテンビル、ニューロシェル、ウェスト・ニューブライトン、アズベリー・パーク、フィラデルフィア。
+四十二丁目のロバート・ブラウン兄弟が、この部の司会を務めた。歌か「燃える」証しを出したのは、次の集会である。四十二丁目のグラッド・タイディングス・ホール、ニュージャージーのビューラ・ハイツ集会、ブルックリンのロビンソン姉妹の伝道所、ブルックリンのライトハウス・ペンテコステ集会、ベテル集会、トッテンビル、ニューロシェル、ウェスト・ニューブライトン、アズベリー・パーク、フィラデルフィア。
 
 （ここには、マウント・オリベットを代表したボンドラン兄弟と、コロナを代表したW・K・ボウトン牧師のあいさつが載っているが、話し手の没年が確かめられないため訳していない。）
 // ここからボンドラン兄弟とW・K・ボウトン牧師のあいさつ。没年が確かめられないので訳さない。
@@ -113,7 +113,7 @@ Brother Brown, in his closing remarks, said:
 ブラウン兄弟は、締めくくりの言葉で次のように語った。
 
 "I can speak for all the assemblies and say that our hearts are glad when the Evangelist comes along. God has set them in the church, and I am sure that all of the assemblies here are glad that our Sister has come. I pray that God Almighty will help every man, woman, and child that they may get ready to meet Jesus tonight."
-「すべての集会を代表して申し上げます。伝道者が来てくださると、私たちの心は喜びます。神が伝道者を教会に置かれたのです。ここにいるすべての集会が、私たちの姉妹が来てくださったことを喜んでいると確信しています。全能の神が、男も女も子供も一人残らず助けて、今夜イエスに会う備えができるようにしてくださるよう祈ります」
+「すべての集会を代表して申し上げます。伝道者が来てくださると、私たちの心は喜びます。神が伝道者を教会に置かれたのです。ここにいるすべての集会が、私たちの姉妹が来てくださったことを喜んでいると確信しています。全能の神が、男も女も子供も一人残らず助けて、今夜のうちに、イエスに会う備えができるようにしてくださるよう祈ります」
 
 At the close of the sermon many sinners arose to their feet and leaving their seats went to the altar and surrendered to Jesus. A double row of seekers lined the entire front of the hall, several received the baptism and others were healed. "The New York Convention will be a bright spot to be treasured and remembered until Jesus comes, for its many bright conversions, souls baptized, and precious fellowship of the saints."
 説教が終わると、多くの罪人が立ち上がり、席を離れて祭壇へ行き、イエスに身をゆだねた。求める人たちが二列になって、ホールの前の端から端まで並んだ。何人かがバプテスマを受け、ほかの人たちはいやされた。「ニューヨークの大会は、イエスが来られる日まで大切に覚えておかれる、輝かしい一点となるだろう。多くの輝かしい回心と、バプテスマを受けた魂と、聖徒たちの尊い交わりのゆえである」
@@ -123,14 +123,14 @@ NEW ROCHELLE, X. Y.
 // 英文は「X. Y.」。N. Y. として訳した。
 
 During the eight days we were there not one discordant note, or one unkind word or criticism, or tale-bearing did we meet, just Jesus and His praises seemed to occupy everyone. Before the first day was well opened every seat was full and saints were sitting on the floor of the platform and standing in the aisles, but no one minded in the least, and the power came down in streams as they sang the heavenly anthem and played in the Spirit, etc.
-そこにいた八日間、耳ざわりな調子にも、意地の悪い言葉や批判にも、告げ口にも、一つとして出会わなかった。ただイエスとその賛美だけが、皆の心を占めているようだった。初日がまだ十分に始まらないうちに、席はすべて埋まった。聖徒たちは壇上の床に座り、通路に立った。けれども、だれも少しも気にしなかった。聖徒たちが天の賛歌を歌い、御霊のうちに楽器を奏でたりすると、神の力が流れとなって下った。
+そこにいた八日間、不協和音にも、意地の悪い言葉や批判にも、告げ口にも、一つとして出会わなかった。ただイエスとその賛美だけが、皆の心を占めているようだった。初日の集会がまだ本格的に始まらないうちに、席はすべて埋まった。聖徒たちは壇上の床に座り、通路に立った。けれども、だれも少しも気にしなかった。聖徒たちが天の賛歌を歌い、御霊のうちに楽器を奏でたりすると、神の力が流れとなって下った。
 
 As the meetings progressed many were saved and baptized, many bodies were healed and the last day found the church packed to the doors again and eATen the ante-room filled.
 // 英文は「eATen」。even として訳した。
 集会が進むにつれて、多くの人が救われ、バプテスマを受けた。多くの体がいやされた。最後の日も、教会はまた戸口までぎっしり詰まり、控えの間さえいっぱいになった。
 
 The influenza epidemic was raging in this city as elsewhere, but the Lord was marvelously good to us and did not permit us to be hindered for a moment in proclaiming the message. Churches were closed up in cities just after we had left, opened in other towns just before we got there, but not a meeting was closed at a time when it would hinder the carrying out of the program which the Holy Spirit had mapped out for us.
-インフルエンザは、ほかの所と同じく、この町でも猛威をふるっていた。けれども主は驚くほど私たちに良くしてくださった。メッセージを告げ知らせることを、一時も妨げられないようにしてくださったのである。私たちが去った直後に、町々の教会が閉鎖された。ほかの町では、私たちが着く直前に教会が再開された。聖霊が私たちのために描いてくださった予定を妨げるような時に、閉鎖された集会は一つもなかった。
+インフルエンザは、ほかの所と同じく、この町でも猛威をふるっていた。けれども主は驚くほど私たちに良くしてくださった。メッセージを告げ知らせることを、一時も妨げられないようにしてくださったのである。私たちが去った直後に、町々の教会が閉鎖された。ほかの町では、私たちが着く直前に教会が再開された。聖霊が私たちのために描いてくださった予定を妨げるようなときに、閉鎖された集会は一つもなかった。
 
 In New Rochelle I was stricken with this disease Saturday night, but the Lord kept me up for the three services on Sunday. Sunday night I was taken with violent chills followed by high fever, but in answer to the prayers of the saints and a determined rising up in simple faith, the Lord enabled me to complete the week's meetings so that I lost only one whole meeting.
 ニューロシェルで、私は土曜の夜にこの病にかかった。けれども主は、日曜の三度の集会のあいだ、私を支えてくださった。日曜の夜には激しい悪寒に襲われ、高い熱が出た。けれども聖徒たちが祈ってくれ、私も素朴な信仰によって断固として起き上がった。主はそれにこたえて、その週の集会を私にやり遂げさせてくださった。まるまる休んだ集会は、一回だけだった。
@@ -142,11 +142,11 @@ Saints gathered to pray for her, and I was obliged to keep on preaching in spite
 聖徒たちが娘のために祈ろうと集まった。私は、喉にこみ上げるものと胸の重さをこらえて、説教を続けなければならなかった。娘は前に、ハーレム・カジノで私のもとに来て、こうささやいたことがあった。
 
 "Mamma, may I please give my testimony tonight?" I told her, "Yes," and she stood on the platform and testified, saying:
-「ママ、お願い。今夜、私も証しをしていいですか」私が「いいわよ」と言うと、娘は壇上に立ち、こう証しした。
+「ママ、お願い。今夜、証しをしていいですか」私が「いいわよ」と言うと、娘は壇上に立ち、こう証しした。
 
 "I thank the Lord for ever saving me and washing me in the blood, putting upon me the white robes of righteousness. Two years ago He baptized me with the Holy Ghost, spoke through me in-other tongues, and I am going all the way through with Jesus till I meet Him in the clouds."
 // 英文は「in-other」。in other として訳した。
-「主が私を救い、血で洗い、義の白い衣を着せてくださったことを感謝します。二年前、主は私に聖霊のバプテスマを授け、私を通して他国の言葉で語ってくださいました。私は、雲の中で主にお会いするまで、どこまでもイエスについて行きます」
+「主が私を救い、血で洗い、義の白い衣を着せてくださったことを感謝します。二年前、主は私に聖霊のバプテスマを授け、私を通して他国の言葉で語ってくださいました。私は、雲の中で主にお会いするまで、どこまでもイエスとともに貫き通します」
 
 Staying in the furnished rooms without heat or home comforts, I yearned for a little home where I could care for her properly, and I remembered how before becoming unconscious she had said:
 私たちは、暖房も家庭の快適さもない、家具付きの貸間に泊まっていた。私は、娘をちゃんと世話できる小さな家を切に願った。そして、意識をなくす前に娘が言ったことを思い出した。
@@ -167,7 +167,7 @@ One afternoon someone met me at the top of the stairs and whispered that Roberta
 「あなたに小さな家を与えよう。あなたの幼子たちのための巣を、カリフォルニアのロサンゼルスに与えよう。そこで子供たちは遊び、幸せに過ごし、学校に通い、ほかの子供たちと同じように家庭の環境を持つことができる。あなたは前に一度、わたしの意志の外で家を整えた。そして、それは取り去られた。今度は、わたしの意志のうちで家を与えよう」
 
 He showed me Abraham withholding not his only son, Isaac, laying him upon the altar of sacrifice and being spared the agony of seeing him die; then He showed me that I had yielded up not only one but my two children, had traveled these many months with them from city to city, and town to town, having no home or bed to tuck them into, and that, just as He spared Abraham his Isaac, He would spare me my two children and cause me to joy in His tender care.
-主は私に、アブラハムのことを示された。アブラハムはひとり子イサクを惜しまず、いけにえの祭壇の上に横たえた。そして、子が死ぬのを見る苦しみを免れた。それから主は、私のことを示された。私は一人ではなく、二人の子供をささげてきた。この何か月も子供たちを連れて、町から町へ、村から村へと旅してきた。家もなく、子供たちを寝かしつけるベッドもなかった。そして主は、アブラハムにイサクを残されたように、私にも二人の子供を残してくださる。主の優しい守りの中で、私を喜ばせてくださる、と。
+主は私に、アブラハムのことを示された。アブラハムはひとり子イサクを惜しまず、いけにえの祭壇の上に横たえた。そして、子が死ぬのを見る苦しみを免れた。それから主は、私のことを示された。私は一人ではなく、二人の子供をささげてきた。この何か月も子供たちを連れて、町から町へ、村から村へと旅してきた。家もなく、子供たちを寝かしつけるベッドもなかった。そして主は、アブラハムにイサクを残されたように、私にも二人の子供を残してくださる。私が主の優しい守りを喜ぶようにしてくださる、と。
 
 It was all so real to me that I could almost see the little bungalow, floors, garden and all.
 すべてがあまりにも現実のことのように思えたので、小さなバンガローも、その床も庭も、ほとんど目に見えるようだった。
@@ -186,4 +186,4 @@ Through all the weeks that followed and the four thousand mile drive, the little
 それに続く何週間も、四千マイルの車の旅のあいだもずっと、幼い子供たちは話し合い、計画を立てた。神が小さなバンガローをくださったら何をしようか、と。ときどき敵が私を試そうとして、こう言った。
 
 "Now, it is an awful thing for you to build these children's hopes up like this. What if you should be disappointed?" But Father does not disappoint nor break His Word. Praise His name!
-「さあ、おまえがこんなふうに子供たちに望みを持たせるのは、ひどいことだ。もし当てが外れたら、どうするのか」けれども天の父は、失望させることも、みことばを破ることもなさらない。主の御名をほめたたえよ。
+「いいか、おまえがこんなふうに子供たちに望みを持たせるのは、ひどいことだ。もし当てが外れたら、どうするのか」けれども天の父は、失望させることも、みことばをたがえることもなさらない。主の御名をほめたたえよ！
