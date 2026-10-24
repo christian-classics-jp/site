@@ -30,25 +30,25 @@ After they had pitched camp and set up their twelve stones as a monument of Jord
 // 英文の old com は OCR の崩れ（原本は old corn）。
 
 Was it not at Gilgal that, after the Lord had appeared as Captain of the host (Jos. 5:14), and Joshua had fallen on his face to the earth, the Lord said unto him:
-主が主の軍勢の将として現れ（ヨシュア五・一四）、ヨシュアが地にひれ伏したとき、主が彼にこう言われたのは、ギルガルではなかったか。
+主が主の軍勢の将としてお現れになり（ヨシュア五・一四）、ヨシュアが地にひれ伏したとき、主が彼にこう言われたのは、ギルガルではなかったか。
 
 "Loose thy shoe from off thy foot; for the place whereon thou standest is holy?"
 『あなたの足のくつを脱ぎなさい。あなたが立っている所は聖なる所である』（ヨシュア五・一五）
 
 And after Samuel had anointed Saul, did he not send him unto Gilgal to "tarry until" the "Spirit of the Lord" should "come upon" him with "signs" following, that should give him "another heart" and turn him "into a new man?" (Read I Sam. 10:6-9.) What a wonderful type of Pentecost! Later Samuel said to the people:
-また、サムエルはサウルに油を注いだ後、彼をギルガルへ送ったではないか。それは、サウルがそこで「待つ」ためであった。やがて『主の霊』が彼の上に『下り』、『しるし』が伴って、彼に『新しい心』が与えられ、彼は『変って新しい人』となるはずであった（第一サムエル一〇・六〜九を読みなさい）。これはペンテコステのなんとすばらしい型だろう！　後にサムエルは民に言った。
+また、サムエルはサウルに油を注いだ後、彼をギルガルへ送ったではないか。それは、サウルがそこで「待つ」ためであった。やがて『主の霊』が彼の上に「下り」、「しるし」が伴って、彼に『新しい心』が与えられ、彼は『変って新しい人』となるはずであった（第一サムエル一〇・六〜九を読みなさい）。これはペンテコステのなんとすばらしい型だろう！　後にサムエルは民に言った。
 
 "Come, let us go to GILGAL and renew the kingdom there" even as the early apostles had returned to Jerusalem for fresh anointings of the Spirit.
-『さあ、ギルガルへ行って、あそこで王国を一新しよう』（第一サムエル一一・一四）。それは、初代の使徒たちが御霊の新しい油注ぎを受けるためにエルサレムへ戻ったのと同じである。
+『さあ、**ギルガル**へ行って、あそこで王国を一新しよう』（第一サムエル一一・一四）。それは、初代の使徒たちが御霊の新しい油注ぎを受けるためにエルサレムへ戻ったのと同じである。
 
 "A DEARTH IN THE LAND."
 ## その地にききんがあった
 
 But behold, now, something has happened. The children of the Lord have become cold, lukewarm, backslidden. Such a great dearth has come to Gilgal and the surrounding countries that they have "cleanness of teeth and want of bread" (Amos 4:6.) "Transgressions have been multiplied " but in Hosea 4:16, the Lord promises Israel (who, in her iniquity, He has likened to a backsliding heifer and forbidden to enter Gilgal), that if they will follow Him He will feed them as a lamb in a large place.
-けれども、見よ、今、何かが起こった。主の子供たちは冷たくなり、生ぬるくなり、信仰から離れてしまった。ギルガルとその周りの国々には大きなききんが来て、彼らは『歯を清く』され、パンに乏しくなった（アモス四・六）。「とがは増し加えられた」（アモス四・四）。けれども、主はホセア書四章十六節でイスラエルに約束しておられる。もし彼らが主に従うなら、主は彼らを広い所の小羊のように養ってくださる、と。（主はイスラエルを、その不義のゆえに強情な雌牛にたとえ、ギルガルへ行くことを禁じておられた（ホセア四・一五）。）
+けれども、見よ、今、何かが起こった。主の子供たちは冷たくなり、生ぬるくなり、信仰から離れてしまった。ギルガルとその周りの国々には大きなききんが来て、彼らは『歯を清く』され、パンに乏しくなった（アモス四・六）。「とがは増し加えられた」（アモス四・四）。けれども、主はホセア書四章十六節でイスラエルに約束しておられる。もし彼らが主に従うなら、主は彼らを広い所の小羊のように養ってくださる、と。このイスラエルを、主はその不義のゆえに強情な雌牛にたとえ、ギルガルへ行くことを禁じておられたのである（ホセア四・一五）。
 
 During the former rain outpouring of the Holy Spirit, which began on the day of Pentecost (Acts 2:4), the ark containing the glory of the Lord (spiritually speaking), rested in Jerusalem as in Gilgal of old. Even as Saul had been sent to Gilgal to tarry till the Spirit of the Lord was come upon him and till the signs came to pass, so the hundred and twenty had been commanded to tarry in Jerusalem until the Holy Spirit should come upon them with signs following.
-聖霊の前の雨の注ぎは、ペンテコステの日に始まった（使徒二・四）。そのあいだ、主の栄光を納めた契約の箱は（霊的な意味で）、昔のギルガルのようにエルサレムにとどまっていた。サウルは、主の霊が彼の上に臨み、しるしが起こるまで待つように、ギルガルへ送られた。それと同じように、百二十人は、聖霊がしるしを伴って彼らの上に臨まれるまで、エルサレムで待つように命じられていたのである。
+聖霊の前の雨の注ぎは、ペンテコステの日に始まった（使徒二・四）。そのあいだ、主の栄光を納めた契約の箱は（霊的な意味で）、昔のギルガルのようにエルサレムにとどまっていた。サウルは、主の霊が彼の上に臨まれ、しるしが起こるまで待つように、ギルガルへ送られた。それと同じように、百二十人は、聖霊がしるしを伴って彼らの上に臨まれるまで、エルサレムで待つように命じられていたのである。
 
 The long-looked-for, long-prophesied (Isaiah 28: 11, 2:13; Joel 2:23 and 28; Zech. 10:1; Mat. 3:11; Luke 24:49; John 14, 15, 16; Acts 1:5 and 8) promised land had been reached. True, God had kept them whilst in the wilderness, and manna had come upon them, as the inspired words fell from the mouths of the holy prophets of old as they were moved by the Holy Spirit--true, the words of Jesus had been as manna from heaven, whilst He walked this earth in the fleshly body, but now--now--the Holy Spirit had come--N-O-W--they had entered Canaan's land, and instead of the manna which had been taken away, and fell no more upon them (Jesus being returned to the Father and His voice being heard no more), they had corn and oil and wine ( Joel 2:19), as the Spirit spoke through them of Jesus and His coming kingdom. "And they did eat the old CORN of the land' ( Jos. 5 ill, 12 ) "neither had they manna any more, but they did eat the fruit of the land of Canaan." (See fruits of the Spirit, Gal. 5:22.)
 長いあいだ待ち望み、長いあいだ預言されてきた約束の地に、ついに着いたのである（イザヤ二八・一一〜一二、ヨエル二・二三、二八、ゼカリヤ一〇・一、マタイ三・一一、ルカ二四・四九、ヨハネ一四〜一六章、使徒一・五、八）。
@@ -57,13 +57,13 @@ The long-looked-for, long-prophesied (Isaiah 28: 11, 2:13; Joel 2:23 and 28; Zec
 // 英文の Jos. 5 ill, 12 は OCR の崩れ（原本は Jos. 5:11, 12）。
 
 Jerusalem (as Gilgal of old) rang with the praises of the Lord, and with the marching feet of new converts, new men of war, who went forth to follow the Captain of the host. On the day of Pentecost three thousand souls were added to the church; with pure hearts overflowing with joy, and with unshod feet, His people walked softly before Him and fell upon their faces in adoration. Just as the twelve tribes erected their monument of twelve stones, so the twelve disciples stood as a monument of the mighty power of the great and holy One who had parted the waters of the Red Sea--"Salvation"--and parted the waters of Jordan to bring them to Canaan's land--"The Baptism of the Holy Ghost." Each time did the Lord Himself have to part the waters before His children could cross over into the new experience.
-エルサレムは（昔のギルガルのように）主への賛美で鳴り響いた。新しく改心した者たち、新しい戦士たちが、主の軍勢の将に従うために出て行く行進の足音でも鳴り響いた。ペンテコステの日には三千人の魂が教会に加えられた（使徒二・四一）。主の民は、喜びのあふれる清い心で、くつを脱いだ足で、主の御前を静かに歩んだ。そしてひれ伏して礼拝した。十二の部族が十二の石の記念を立てたように、十二弟子は、大いなる聖なる方の偉大な御力の記念として立った。この方は紅海の水を分けて「救い」を与え、ヨルダンの水を分けて民をカナンの地へ連れて行かれた。それが「聖霊のバプテスマ」である。どちらのときも、主の子供たちが新しい経験へと渡って行く前に、主ご自身が水を分けなければならなかったのである。
+エルサレムは（昔のギルガルのように）主への賛美で鳴り響いた。新しく回心した者たち、新しい戦士たちが、主の軍勢の将に従うために出て行く行進の足音でも鳴り響いた。ペンテコステの日には三千人の魂が教会に加えられた（使徒二・四一）。主の民は、喜びのあふれる清い心で、くつを脱いだ足で、主の御前を静かに歩んだ。そしてひれ伏して礼拝した。十二の部族が十二の石の記念を立てたように、十二弟子は、大いなる聖なる方の偉大な御力の記念として立った。この方は紅海の水を分けられた。それが「救い」である。また、ヨルダンの水を分けて民をカナンの地へ連れて行かれた。それが「聖霊のバプテスマ」である。どちらのときも、主の子供たちが新しい経験へと渡って行く前に、主ご自身が水を分けなければならなかったのである。
 
 Humanity could neither swim nor ford the Red Sea--The Lord Himself miraculously opened, through His blood, a path--salvation--which meant at once deliverance and Life to repentant believers--and Death to unrepentant unbelievers.
 人類は紅海を泳いで渡ることも、歩いて渡ることもできなかった。主ご自身が、ご自分の血によって、奇跡のうちに道を開かれた。それが救いである。その道は同時に、悔い改めて信じる者には解放といのちとなり、悔い改めない不信仰な者には死となった。
 
 Mankind could not cross the judgment of old Jordan's waves, nor make themselves worthy to enter Canaan and, again through parted waters (His GRACE and His WORTHINESS, which towered on either side) He led His people forth to the promised land, and filled them with the Spirit. Here are two experiences--Salvation and the Baptism of the Holy Spirit--which we could not have brought ourselves into, therefore did He part the waters each time. Bless His name.
-人類は昔のヨルダンの波のさばきを越えて渡ることができなかった。自分をカナンに入るのにふさわしい者とすることもできなかった。そこで主は、ふたたび水を分けられた（主の**恵み**と主の**ふさわしさ**が両側にそびえ立っていた）。そして、ご自分の民を約束の地へと導き出し、御霊で満たされた。ここに二つの経験がある。救いと聖霊のバプテスマである。私たちは自分の力でそこに入ることはできなかった。だから、主はそのたびごとに水を分けてくださったのである。御名をほめたたえよ。
+人類は昔のヨルダンの波のさばきを越えて渡ることができなかった。自分をカナンに入るのにふさわしい者とすることもできなかった。そこで主は、ふたたび水を分けられた（主の**恵み**と主の**ふさわしさ**が両側にそびえ立っていた）。そして、ご自分の民を約束の地へと導き出され、御霊で満たされた。ここに二つの経験がある。救いと聖霊のバプテスマである。私たちは自分の力でそこに入ることはできなかった。だから、主はそのたびごとに水を分けてくださったのである。御名をほめたたえよ。
 
 "ELISHA CAME AGAIN TO GILGAL."
 ## エリシャはふたたびギルガルに来た
@@ -80,7 +80,7 @@ After the disciples and apostles had fallen asleep in the Lord, and the many yea
 // 英文の Hal lei U-jah は OCR の崩れ（原本は Hallelujah）。
 
 And when he came he found that "THERE WAS A GREAT DEARTH IN THE LAND."
-そして彼は来てみると、「その地に大きなききんがあった」のを見た。
+そして彼が来てみると、「その地に大きなききんがあった」。
 
 Ah, yes! What a dearth there was in the land! What a crying out for food, and pottage, and bread and lentils in and just prior to the years 1905 and 1906.
 ああ、そうだ！　その地には、なんというききんがあったことか！　一九〇五年と一九〇六年、またその少し前には、食物を、煮物を、パンとレンズ豆を求める、なんという叫びがあったことか。
@@ -89,7 +89,7 @@ How many churches and saints cried to Heaven:
 どれほど多くの教会と聖徒たちが、天に向かって叫んだことか。
 
 "Oh, for the old-time power! Oh for another Pentecost!" The Methodist church, the Salvation Army, the Holiness church, and many others sang and prayed these words over and over (but Oh, how few really recognized the answer when it came, "wrapped in swaddling clothes and in a manger" ) . Nevertheless the Word of God said:
-「ああ、昔の力がほしい！　ああ、もう一度ペンテコステがほしい！」。メソジスト教会も、救世軍も、ホーリネス教会も、そのほか多くの教会も、この言葉を何度も何度も歌い、祈った（けれども、ああ、その答えは『布にくるまって飼葉おけの中に』来た（ルカ二・一二）。そのとき、それが答えだと本当にわかった人は、なんと少なかったことか）。それでも、神のみことばはこう言っていた。
+「ああ、昔ながらの力がほしい！　ああ、もう一度ペンテコステがほしい！」メソジスト教会も、救世軍も、ホーリネス教会も、そのほか多くの教会も、この言葉を何度も何度も歌い、祈った。けれども、ああ、その答えは『布にくるまって飼葉おけの中に』来た（ルカ二・一二）。そのとき、それが答えだと本当にわかった人は、なんと少なかったことか）。それでも、神のみことばはこう言っていた。
 
 When you call upon Me I will answer, and in the day that you seek Me with your whole heart I will be found of you; turn unto the Lord with weeping and mourning, and . . . "He will return and repent and leave a blessing behind Him, even a meat offering and a drink offering."
 あなたがたがわたしを呼ぶなら、わたしは答える。あなたがたが心をつくしてわたしを尋ね求める日に、わたしはあなたがたに会う（エレミヤ二九・一二〜一四）。泣き悲しんで主に帰れ（ヨエル二・一二）。（中略）「主は立ち返り、思いかえして、祝福をその後に残される。素祭と灌祭とを残される」（ヨエル二・一四）。
