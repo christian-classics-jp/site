@@ -115,7 +115,7 @@ WELCOMED HOME.
 ## 家に迎えられる
 
 "When are you coming home? Will meet you," was a message recently received over the phone from the Los Angeles assembly. "Home," why, 'tis the first time in years we have had such a message or a place that we could really call home.
-「いつ家に帰って来ますか。お迎えに行きます」　最近、ロサンゼルスの集会から、電話でこう伝えてきた。「家」とは。何年ものあいだ、このような知らせを受けたことも、ほんとうに家と呼べる所を持ったこともなかったのである。
+「いつ家に帰って来ますか。お迎えに行きます」最近、ロサンゼルスの集会から、電話でこう伝えてきた。「家」とは。何年ものあいだ、このような知らせを受けたことも、ほんとうに家と呼べる所を持ったこともなかったのである。
 
 Thus we had our first glimpse this week on a hurried trip to Los Angeles, of the little house which we have beheld by the eye of faith from the day the land was dedicated, and it is going to be just what we need, nothing elaborate in any way, but it will be a home nest and the dear saints who have toiled at it faithfully, have been so Spirit-filled that with the hum of the saw and the tap of the hammer have gone up songs of praise and victory, and prayers that God's blessing would follow and bring us safely home.
 こうして今週、急いでロサンゼルスへ行ったときに、私たちはあの小さな家を初めて目にした。土地が主にささげられたその日から、信仰の目で見てきた家である。その家は、私たちに必要なものそのものになりそうだ。どこにも凝ったところはないが、家庭という巣になるだろう。愛する聖徒たちは、忠実に働いてくれた。彼らはあまりに御霊に満たされていたので、のこぎりの音や金づちの音とともに、賛美と勝利の歌が立ちのぼった。神が祝福をもって私たちに伴い、無事に家へ連れ帰ってくださるようにという祈りも、立ちのぼった。
