@@ -18,7 +18,7 @@ THE MAN ON THE SAND GATHERS HIS MATERIAL.
 ## 砂の上の人が材料を集める
 
 The sinner is building day by day. His mind is not troubled by the lack of foundation. He does not deem it at all necessary to dig deep, but begins erecting the edifice of his life by bringing up the stones of unrepentance, and wilfulness; the stones of sin and unbelief; and piling them, moment by moment, hour by hour, day by day, year by year, one upon another, on the sands of this life.
-罪人は日ごとに建てている。土台がないことに、心を悩ませはしない。深く掘ることなど少しも必要だと思わず、すぐに人生という建物を建て始める。悔い改めないことと、わがままの石を運んで来る。罪と不信仰の石を運んで来る。そして、それを一瞬ごとに、一時間ごとに、一日ごとに、一年ごとに、この人生の砂の上に積み重ねていくのである。
+罪人は日ごとに建てている。土台がないことに、心を悩ませはしない。深く掘ることなど少しも必要だと思わず、人生という建物を建て始める。悔い改めないことと、わがままの石を運んで来る。罪と不信仰の石を運んで来る。そして、それを一瞬ごとに、一時間ごとに、一日ごとに、一年ごとに、この人生の砂の上に積み重ねていくのである。
 
 The stones of evil thoughts and distrustfulness are piled up day by day. The stones of pride, selfishness and hardness of heart toward God take their places in the building, which is growing moment by moment into a life and structure which will surely fall in the great day, when God's judgments are poured out upon the world.
 悪い思いと疑い深さの石が、日ごとに積み上げられていく。高ぶりと利己心と、神に対するかたくなな心の石が、建物の中にそれぞれの場所を占める。こうして建物は一瞬ごとに育っていき、一つの人生、一つの構造物になる。それは、神のさばきが世に注がれるあの大いなる日に、必ず倒れるのである。
@@ -42,7 +42,7 @@ THE FOUNDATION
 ## 土台
 
 First of all he -digs a deep foundation of repentance, and goes down in humility into Jesus, his Lord. He plunges into the fountain filled with the blood. He falls prostrate at the dear, pierced feet of his Master; for indeed the way down is the way up, in our spiritual life. "He that Inunbleth himself shall be exalted."
-まず初めに、彼は悔い改めの深い土台を掘り、へりくだって自分の主イエスのうちへと下って行く。血に満ちた泉に飛び込む。主の尊い、刺し貫かれた足もとにひれ伏す。まことに、霊の生活では、下る道が上る道だからである。『自分を低くする者は高くされるであろう』（ルカ一四・一一）。
+まず初めに、彼は悔い改めの深い土台を掘り、へりくだって自分の主イエスのうちへと下って行く。血に満ちた泉に飛び込む。主の尊い、刺し貫かれた足もとにひれ伏す。まことに、私たちの霊の生活では、下る道が上る道だからである。『自分を低くする者は高くされるであろう』（ルカ一四・一一）。
 // 英文の -digs は digs、Inunbleth は humbleth の OCR の誤り。
 
 His neighbors may laugh at him and tell him this digging deep, this weeping and mourning over his sins is not at all necessary; but the work goes on. The great boulders of hindrance must be blasted by the love and power of God. Every obstacle must be removed, and a solid, settled, foundation made. He must dig deep into the atoning work of Jesus, before the building of his Christian life can be constructed. "But let every man take heed how he buildeth thereon, for other foundation can no man lay than that is laid, which is Jesus Christ."
@@ -52,7 +52,7 @@ The foundation having been laid, the building begins to take shape. Upon the sto
 土台が据えられると、建物は形を成し始める。悔い改めと神を恐れる心の石の上に、あわれみと神聖な優しさの石が載せられる。イエス・キリストの限りない恵みと愛、誠実と真実の石、救いの主への感謝と栄光に満ちた賛美の石が、建物に加えられる。愛、喜び、平和、寛容、慈愛、善意、忠実、柔和、自制が（ガラテヤ五・二二〜二三）、一瞬ごとに、一日ごとに、一年ごとに、積み重ねられていく。
 
 The stones of love and unselfishness, a longing for souls, and a yielding to the will of God, a desire to live like Him and abide in His presence are added again to these; and so the work goes on, by each word, and deed and thought, here a little and there a little, precept upon precept, line upon line, tier upon tier.
-これらの上にさらに、愛と無私の石、魂を慕い求める心、神のみこころに身をゆだねること、主のように生き、主の御前にとどまりたいという願いが加えられる。こうして工事は続いていく。一つ一つの言葉と行いと思いによって、ここにも少し、そこにも少し、教訓に教訓、規則に規則（イザヤ二八・一〇）、一段また一段と積み上げられていくのである。
+これらの上にさらに、愛と無私の石が加えられる。魂を慕い求める心、神のみこころに身をゆだねること、主のように生き、主の御前にとどまりたいという願いも加えられる。こうして工事は続いていく。一つ一つの言葉と行いと思いによって、ここにも少し、そこにも少し、教訓に教訓、規則に規則（イザヤ二八・一〇）、一段また一段と積み上げられていくのである。
 
 "Jesus Christ being the chief corner stone, the building is fitly framed together, and groweth into a holy temple in the Lord, for a habitation of God through the Spirit."
 『キリスト・イエスご自身が隅のかしら石である。建物全体が組み合わされ、主にある聖なる宮に成長し、霊なる神のすまいとなるのである』（エペソ二・二〇〜二二）
@@ -74,7 +74,7 @@ THE WINDOWS
 ## 窓
 
 Next in importance come the windows in the two houses. The windows of the sinner are darkened with the things of this world, and his vision impaired. He can not realize his own danger, and his viewpoint is distorted. He cannot foresee the awful storm of wrath which is soon to break. "When the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened"
-次に大切なのは、二つの家の窓である。罪人の窓は、この世のものでかすみ、彼の視力は損なわれている。自分の危険に気づくことができず、ものの見方もゆがんでいる。まもなく襲いかかる恐ろしい怒りの嵐を、前もって見ることができない。『その日になると、家を守る者は震え、力ある人はかがみ、ひきこなす女は少ないために休み、窓からのぞく者の目はかすむ』（伝道の書一二・三）
+次に大切なのは、二つの家の窓である。罪人の窓は、この世のものでかすみ、彼の視力は損なわれている。自分の危険に気づくことができず、ものの見方もゆがんでいる。まもなく襲いかかる恐ろしい怒りの嵐を、前もって見ることができない。『その日になると、家を守る者は震え、力ある人はかがみ、ひきこなす女は少ないために休み、窓からのぞく者の目はかすむ』（伝道の書一二・三）。
 
 The windows of the saint are illuminated with the glory of God, as revealed by the Spirit. His view is clear as he gazes into the future and beholds that--
 聖徒の窓は、御霊によって現された神の栄光に照らされている。彼が未来を見つめるとき、その眺めは澄みわたっている。そして、見るのである。
@@ -89,7 +89,7 @@ To prepare him a dwelling-place there."
 そこに彼の住まいを備えようとして」<br/>
 
 Those who stand without his walls see the light of the Lord shining through, for--
-彼の壁の外に立つ人々には、主の光が中から輝き出ているのが見える。なぜなら、
+彼の壁の外に立つ人々には、主の光が中から輝き出ているのが見える。こうあるからである。
 
 "Behold, he standeth behind our wall, He look-eth forth at the windows, showing himself through the lattice. Song of Sol. 2:9.
 『見よ、彼はわたしたちの壁のうしろに立ち、窓からのぞき、格子からうかがっている』（雅歌二・九）
@@ -139,7 +139,7 @@ BEDCHAMBERS
 ## 寝室
 
 As for the sinner--his bed is so short that he cannot stretch himself upon it, and the covering so narrow that he cannot wrap himself in it. Isa. 28:20. When he lies down at night there is an unrest in his heart, for he is unprepared to meet his God; his conscience is troubled as the Spirit of God strives with him, assuring him that "Whatsoever a man soweth that shall he also reap" and his covering of self-righteousness and excuses cannot cover or conceal him from the eye of God.
-罪人の場合、その床は短くて身を伸べることができず、かける夜具は狭くて身をおおうことができない（イザヤ二八・二〇）。夜、床に就いても、心は落ち着かない。自分の神に会う備えができていないからである。神の御霊が彼と争い、『人は自分のまいたものを、刈り取ることになる』（ガラテヤ六・七）と言い聞かせられるので、良心は乱れる。自分の義と言い訳の夜具は、神の目から彼をおおい隠すことができない。
+罪人の場合、その床は短くて身を伸べることができず、かける夜具は狭くて身をおおうことができない（イザヤ二八・二〇）。夜、床に就いても、心は落ち着かない。自分の神に会う備えができていないからである。神の御霊が彼と争われ、『人は自分のまいたものを、刈り取ることになる』（ガラテヤ六・七）と言い聞かせられるので、良心は乱れる。自分の義と言い訳の夜具は、神の目から彼をおおい隠すことができない。
 
 As for the child of God, his rest is sweet in the Lord. He hears the voice of the Psalmist ringing down through the ages: "I remember Thee upon my bed, and meditate on Thee in the night watches" Ps. 63:6. Let "the saints be joyful in glory. Let them sing aloud upon their beds." Ps. 149:5.
 神の子供の場合、主のうちにある休みは甘い。彼は、詩篇の作者の声が時代を越えて響いてくるのを聞く。『わたしが床の上であなたを思いだし、夜のふけるままにあなたを深く思う』（詩篇六三・六）。『聖徒を栄光によって喜ばせ、その床の上で喜び歌わせよ』（詩篇一四九・五）。
@@ -151,40 +151,40 @@ TREASURE ROOMS
 ## 宝の部屋
 
 The Word tells us that "Where your treasure is, there will your heart be also." The worldly man is storing up treasures of this world's goods, heaping to himself riches, houses and lands. He tears down his barns and builds greater, and there bestows his fruits and goods. He bids his soul take its ease, because he has much goods laid up for many years. But God is speaking to him through His word, saying: "Thou fool, this night thy soul shall be required of thee: then whose shall these things be, which thou hast provided?" He has laid up treasure for himself, but is not rich toward God. "For what shall it profit a man if he gain the whole world, and lose his own soul?"
-みことばはこう告げている。『あなたの宝のある所には、心もある』（マタイ六・二一）。世の人は、この世の財産という宝をたくわえ、富と家と土地を自分のために積み上げている。倉を取りこわしてもっと大きいのを建て、そこに穀物や財産をしまい込む。長年分の財産がたくさんたくわえてあるので、自分の魂に、安心せよと言う。けれども神は、みことばを通して彼にこう語っておられる。『愚かな者よ、あなたの魂は今夜のうちにも取り去られるであろう。そしたら、あなたが用意した物は、だれのものになるのか』（ルカ一二・一八〜二〇）。彼は自分のために宝を積んだが、神に対して富んではいない（ルカ一二・二一）。『人が全世界をもうけても、自分の命を損したら、なんの得になろうか』（マルコ八・三六）。
+みことばはこう告げている。『あなたの宝のある所には、心もある』（マタイ六・二一）。世の人は、この世の財産という宝をたくわえ、富と家と土地を自分のために積み上げている。倉を取りこわしてもっと大きいのを建て、そこに穀物や財産をしまい込む。長年分の財産がたくさんたくわえてあるので、自分の魂に、安心せよと言う（ルカ一二・一八〜一九）。けれども神は、みことばを通して彼にこう語っておられる。『愚かな者よ、あなたの魂は今夜のうちにも取り去られるであろう。そしたら、あなたが用意した物は、だれのものになるのか』（ルカ一二・二〇）。彼は自分のために宝を積んだが、神に対して富んではいない（ルカ一二・二一）。『人が全世界をもうけても、自分の命を損したら、なんの得になろうか』（マルコ八・三六）。
 
 The worldly man takes no thought of the great tomorrow, and does not seem to realize that he cannot take one penny away with him. Born into this world naked and without a penny, he will have to enter into the next world in the same condition.
 世の人は、大いなる明日のことを少しも考えない。一銭も持って行くことはできないことに、気づいていないようである。裸で一銭も持たずにこの世に生まれた彼は、同じありさまで次の世に入って行かなければならない（ヨブ一・二一、第一テモテ六・七）。
 
 The child of God is laying up treasure above "where moth and rust do not corrupt, and where thieves do not break through nor steal." The poorest child of God, who lives in the humblest cottage in the dell, and has laid up treasure in the world beyond is richer than an ungodly king that sits upon his throne, with all his splendor, for his riches are laid away in Heaven, and will not pass away throughout the endless ages of eternity.
-神の子供は、天に宝をたくわえている。『虫も食わず、さびもつかず、また、盗人らが押し入って盗み出すこともない』所である（マタイ六・二〇）。いちばん貧しい神の子供が、谷間のいちばん粗末な小屋に住んでいても、かなたの世に宝をたくわえているなら、きらびやかな王座に座る不信心な王よりも富んでいる。その富は天にしまってあり、永遠の果てしない世々を通して、過ぎ去ることがないからである。
+神の子供は、天に宝をたくわえている。『虫も食わず、さびもつかず、また、盗人らが押し入って盗み出すこともない』所である（マタイ六・二〇）。いちばん貧しい神の子供が、谷間のいちばん粗末な小屋に住んでいるかもしれない。それでも、かなたの世に宝をたくわえているなら、きらびやかな王座に座る不信心な王よりも富んでいる。その富は天にしまってあり、永遠の果てしない世々を通して、過ぎ去ることがないからである。
 
 LOOKOUT TOWER AND SEARCH-LIGHT
 ## 見張りの塔と探照灯
 
 The Lookout Tower of the sinner, and the Lookout Tower of the saint are totally different. Both look out upon life, but from very different viewpoints. The Search-light of the sinner's vision goes through all the earth, searching for earthly possession, earthly treasure, earthly pleasures and popularity. From his lookout tower, the searchlight of the sinner's eye is ever turning expectantly and inquiringly, from one end of the land to the other--Searching, searching, SEARCH- ING, ever searching for new amusement, new pleasure or gain, ever seeking something to still that gnawing hunger that is eating into his heart; ever endeavoring to satisfy the longing in his soul, which, if he but knew it, nothing but God can satisfy.
-罪人の見張りの塔と、聖徒の見張りの塔とは、まったく違う。どちらも人生を見渡しているが、まったく違う見地から見ている。罪人のまなざしの探照灯は、全地を照らし回って、地上の財産、地上の宝、地上の楽しみと人気を探している。罪人の目の探照灯は、見張りの塔から、期待し、探るように、国の端から端までいつも向きを変えている。探して、探して、探しに探して、いつまでも探している。新しい娯楽を、新しい楽しみやもうけを探している。心を食い荒らしていく、あのうずくような飢えを静めるものを、いつも捜し求めている。魂の渇きを満たそうと、いつも努めている。彼が知りさえすれば、その渇きを満たせるのは神のほかにないのである。
+罪人の見張りの塔と、聖徒の見張りの塔とは、まったく違う。どちらも人生を見渡しているが、まったく違う見地から見ている。罪人のまなざしの探照灯は、全地を照らし回って、地上の財産、地上の宝、地上の楽しみと人気を探している。罪人の目の探照灯は、見張りの塔から、期待し、探るように、国の端から端までいつも向きを変えている。探して、探して、探しに探して、いつまでも探している。新しい娯楽を、新しい楽しみやもうけを探している。心を食い荒らしていく、あのうずくような飢えを静めるものを、いつも探し求めている。魂の渇きを満たそうと、いつも努めている。彼は知らずにいるが、その渇きを満たせるのは神のほかにないのである。
 
 DARK CLOUDS APPROACHING STORM--GOD'S WRATH.
 ## 迫り来る嵐の暗雲、神の怒り
 
 The dark clouds of the approaching storm of God's wrath are filling the sky above the sinner's head. He refuses to see them, for he has eyes only for earthly things. Then, though the thunders crash with deafening roar about him in these last days of war and tribulation--though the lightnings flash and strike round about him--he refuses to believe that this is more than a passing shower, and his search-light still continues to wander restlessly throughout the earth for new achievements and honors.
-迫り来る神の怒りの嵐の暗雲が、罪人の頭上の空を覆いつつある。彼はそれを見ようとしない。地上のものにしか目がないからである。戦争と患難のこの終わりの日々に、雷が耳をつんざくとどろきで彼の周りに鳴り響いても、稲妻がひらめいて周りに落ちても、彼はこれが通り雨以上のものだとは信じようとしない。そして、彼の探照灯は、新しい手柄と誉れを求めて、なおも落ち着きなく全地をさまよい続ける。
+迫り来る神の怒りの嵐の暗雲が、罪人の頭上の空を覆いつつある。彼はそれを見ようとしない。地上のものにしか目がないからである。戦争と患難のこの終わりの日々に、雷が耳をつんざくとどろきで彼の周りに鳴り響き、稲妻がひらめいて周りに落ちる。それでも彼は、これが通り雨以上のものだとは信じようとしない。そして、彼の探照灯は、新しい手柄と誉れを求めて、なおも落ち着きなく全地をさまよい続ける。
 
 The wise man, who has built his house upon the rock has his search-light constantly turned upward toward the Heavens. God is his high tower, in which he is safe from the enemy. He has set the watchmen of Vigilance and Prayer upon his walls, of whom he is ever enquiring: "Watchman, what of the night?" Is. 21:11. The watchman's answering voice can be heard saying: "The dark night of God's wrath is breaking over the whole world. The hour of storm and tribulation is at hand; the great ocean of God's love, which has floated on, calm as a river and deep as the sea, through the many centuries of sin and unbelief, is now being churned into a mighty storm of wrath."
-岩の上に家を建てた賢い人は、探照灯をいつも上に、天に向けている。神は彼の高きやぐらであって（詩篇一八・二）、その中で彼は敵から守られている。彼は城壁の上に、「警戒」と「祈り」という夜回りを置き、いつも尋ねている。『夜回りよ、今は夜のなんどきですか』（イザヤ二一・一一）。夜回りの答える声が聞こえる。「神の怒りの暗い夜が、全世界に襲いかかろうとしている。嵐と患難の時が迫っている。神の愛の大海は、罪と不信仰の幾世紀ものあいだ、川のように穏やかに、海のように深く流れてきた。それが今、かき回されて、怒りの大嵐になろうとしている」
+岩の上に家を建てた賢い人は、探照灯をいつも上に、天に向けている。神は彼の高きやぐらであって（詩篇一八・二）、その中で彼は敵から守られている。彼は城壁の上に、「警戒」と「祈り」という夜回りを置き、いつも尋ねている。「夜回りよ、今は夜のなんどきですか」（イザヤ二一・一一）夜回りの答える声が聞こえる。「神の怒りの暗い夜が、全世界に襲いかかろうとしている。嵐と患難の時が迫っている。神の愛の大海は、罪と不信仰の幾世紀ものあいだ、川のように穏やかに、海のように深く流れてきた。それが今、かき回されて、怒りの大嵐になろうとしている」
 
 The storm signals are all set, the danger signals are up, and woe to that man whose house is built upon the sand. Everything that can be shaken, will be shaken, and only those things that cannot be shaken will remain.
 嵐の信号はすべて掲げられ、危険信号が上がっている。砂の上に家を建てた人はわざわいである。震われるものはすべて震われ、震われないものだけが残る（ヘブル一二・二七）。
 
 "Watchman, what of the night?" and again the answer comes:
-『夜回りよ、今は夜のなんどきですか』。すると、再び答えが返ってくる。
+「夜回りよ、今は夜のなんどきですか」すると、再び答えが返ってくる。
 
 "Wars and rumors of wars, plagues and pestilence, blood and fire and vapor of smoke." The storm is raging, but the children of the Lord are preparing for the coming of their Redeemer.
 「戦争と戦争のうわさ、災いと疫病、血と火と立ちこめる煙」（マタイ二四・六、使徒二・一九）嵐は荒れ狂っている。けれども、主の子供たちは、自分たちのあがない主が来られるのに備えている。
 
 Upward, ever upward, turns the searchlight of the child of God, searching, ever searching. In each new cloud that brings sorrow to the sinner, he sees another sign of the coming of the Lord, for has he not said: "When ye shall see these things come to pass, rejoice, for the coming of the Master draweth nigh"?
-神の子供の探照灯は、上へ、いつも上へと向けられ、探し、いつも探している。罪人に悲しみをもたらす新しい雲の一つ一つに、彼は主の来臨のしるしをまた一つ見る。主はこう言われたではないか。「これらの事が起るのを見たら、喜びなさい。主の来臨が近づいているのだから」（ルカ二一・二八）
+神の子供の探照灯は、上へ、いつも上へと向けられ、探し、いつも探している。罪人に悲しみをもたらす新しい雲の一つ一つに、彼は主の来臨のしるしをまた一つ見る。主はこう言われたではないか。「これらのことが起こるのを見たら、喜びなさい。主の来臨が近づいているのだから」（ルカ二一・二八）
 
 THE RAIN is FALLING
 ## 雨が降っている
@@ -211,15 +211,15 @@ And through all the storm the child of God is in his watch-tower of prayer and v
 That Jesus who died on the tree,
 木の上で死なれたあのイエスを。<br/>
 A cloud of bright angels to carry him home,
-輝く御使の群れが彼をふるさとへ運ぶ、<br/>
+輝く御使の群れが彼をふるさとへ運ぶのを、<br/>
 To that glorious eternity."
 あの栄光の永遠へと」<br/>
 
 He seeks to warn the man who has long been building upon the sand, but the latter refuses to take warning. Ah, if he could but see already the great billows that are sweeping over this earth today, lashing at the stones of his shaky foundation, causing even kingdoms and thrones to totter and fall!
-彼は、長く砂の上に建ててきた人に警告しようとする。けれども、その人は警告を受け入れようとしない。ああ、その人に見えさえしたら！　今日すでに、大波がこの地を押し流している。それは、彼のぐらつく土台の石を打ちたたき、王国や王座さえもよろめかせ、倒しているのである。
+彼は、長く砂の上に建ててきた人に警告しようとする。けれども、その人は警告を受け入れようとしない。ああ、その人に見えさえしたら！　今日すでに、大波がこの地に押し寄せている。それは、彼のぐらつく土台の石を打ちたたき、王国や王座さえもよろめかせ、倒しているのである。
 
 Each sinner, both small and great--each soul who has rejected God, and failed to build upon the solid rock? Christ Jesus--shall surely fall in ignominious shame and death, and the place wherein he stood shall know him no more, but throughout the endless ages of eternity he will mourn his disastrous folly in neglecting to build upon the solid rock: "For what shall it profit a man if he gain the whole world and lose his own soul?"
-小さな者も大きな者も、すべての罪人は、神を拒み、キリスト・イエスという堅い岩の上に建てなかったすべての魂は、必ず不名誉な恥と死のうちに倒れる。彼の立っていた場所も、もはや彼を知らない（詩篇一〇三・一六）。そして彼は、永遠の果てしない世々を通して、堅い岩の上に建てることを怠った、取り返しのつかない愚かさを嘆き続けるだろう。『人が全世界をもうけても、自分の命を損したら、なんの得になろうか』（マルコ八・三六）。
+小さな者も大きな者も、すべての罪人、すなわち、神を拒み、キリスト・イエスという堅い岩の上に建てなかったすべての魂は、必ず不名誉な恥と死のうちに倒れる。彼の立っていた場所も、もはや彼を知らない（ヨブ七・一〇、詩篇一〇三・一六）。そして彼は、永遠の果てしない世々を通して、堅い岩の上に建てることを怠った、取り返しのつかない愚かさを嘆き続けるだろう。『人が全世界をもうけても、自分の命を損したら、なんの得になろうか』（マルコ八・三六）。
 // 英文の rock? の ? は OCR の誤り（rock,）。
 
 HOUSE ON THE ROCK STANDS ETERNALLY SECURE. and though winds may blow and the storm may beat upon that house, it will not fall, for it was founded upon a rock:
