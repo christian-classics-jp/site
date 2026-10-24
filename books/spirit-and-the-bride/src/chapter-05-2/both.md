@@ -58,11 +58,11 @@ This, from a human standpoint, is a great undertaking, even impossible.
 Jesus said again, "But ye shall receive the power of the Holy Ghost coming upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judea, and in Samaria, and unto the uttermost part of the earth" (Acts 1: 8, margin).
 イエスはまた言われた。『ただ、あなたがたは、あなたがたの上にくだる聖霊の力を受けて、エルサレム、ユダヤとサマリヤの全土、さらに地のはてまで、わたしの証人となるであろう』（使徒一・八、欄外の読み）。
 It is clear that the "power" which Jesus said would accompany the Baptism of the Spirit is the power to preach the gospel to every creature; and this power the one hundred and twenty received, not at college, but on the day of Pentecost, symbolized by the tongues of fire sitting upon them.
-明らかに、御霊のバプテスマに伴うとイエスが言われた「力」とは、すべての造られたものに福音を宣べ伝える力である。百二十人はこの力を、学校でではなく、ペンテコステの日に受けた。そのことは、彼らの上にとどまった炎の舌によって象徴されていた。
+明らかに、御霊のバプテスマに伴うとイエスが言われた「力」とは、すべての造られたものに福音を宣べ伝える力である。百二十人はこの力を、学校でではなく、ペンテコステの日に受けた。その力は、彼らの上にとどまった炎の舌によって象徴されていた。
 As we have said before, as soon as we can grasp the reality, God removes the symbol.
 前にも述べたように、私たちが実体をつかめるようになると、神はすぐに象徴を取り去られる。
 The tongues of fire on this occasion, symbolizing power imparted by the Holy Ghost to preach the gospel to every creature, proves to my mind, beyond a doubt, that whosoever afterwards should receive the Baptism of the Spirit would also receive power to witness in any part of the earth to which God should call him.
-このときの炎の舌は、すべての造られたものに福音を宣べ伝えるために聖霊が授けられる力を、象徴していた。それは私には、疑いもなくこう証明している。のちに御霊のバプテスマを受ける人はだれでも、神が召される地のどこででも、あかしをする力を受けるのである。
+このときの炎の舌は、すべての造られたものに福音を宣べ伝えるために聖霊が授けられる力を、象徴していた。それは私には、疑いもなくこう証明している。のちに御霊のバプテスマを受ける人はだれでも、同じように、神が召される地のどこででも、あかしをする力を受けるのである。
 The tongues of fire which sat upon them was the symbol of the power of the Spirit; the speaking with tongues is the abiding reality.
 彼らの上にとどまった炎の舌は、御霊の力の象徴であった。異言を語ることは、いつまでも残る実体なのである。
 
@@ -72,7 +72,7 @@ This needs no reply. With the facts before us, nothing but ignorance will cause 
 これには答えるまでもない。事実を前にして、正直な人がそんなことを言うとすれば、その理由は無知のほかにない。
 
 Now we come to Mark 16: 17, 18. Dean Alford and other noted commentators say, "There is doubt of its genuineness as a work of the evangelist Mark."
-次に、マルコ一六章一七、一八節に来た。アルフォード主任司祭や、ほかの名の知れた注解者たちは、こう言っている。「これが福音書記者マルコの書いたものであるかどうかは、疑わしい」。
+次は、マルコ一六章一七、一八節である。アルフォード主任司祭や、ほかの名の知れた注解者たちは、こう言っている。「これが福音書記者マルコの書いたものであるかどうかは、疑わしい」。
 Very well. If you wish to leave it out, we have an abundance of other Scriptures to prove our position.
 けっこうである。そこを除きたいなら、除けばよい。私たちの立場を証明する聖句は、ほかにいくらでもある。
 If you wish to take it in, it is in perfect accord with our teaching and the other Scriptures.
@@ -105,7 +105,7 @@ Here is a booklet written by a man in Ohio, in which he says: "Evidences of genu
 At this point I shall confine my positive statements to local conditions which have been within observation.
 この点について、確かなこととして述べるのは、私の見てきた地元の状況に限ることにする。
 Reports which come to us concerning tongues in the literature which is being circulated dare not be credited in full, for we have positive knowledge that any strange sounds produced by the vocal organs are without hesitancy pronounced genuine tongues, and frequently such tongues are named."
-出回っている文書の中で、異言について私たちに届く報告は、すべてを信用するわけにはいかない。私たちは確かに知っているが、発声器官から出る奇妙な音は何であれ、ためらいもなく本物の異言だと言われている。しかもたびたび、それが何語であるかまで言われているのである」
+出回っている文書の中で、異言について私たちに届く報告は、すべてを信用するわけにはいかない。そう言えるのは、私たちが確かに知っているからである。発声器官から出る奇妙な音は何であれ、ためらいもなく本物の異言だと言われている。しかもたびたび、それが何語であるかまで言われているのである」
 
 This man says it will not do to trust reports which come to us through literature.
 この人は、文書を通して私たちに届く報告を信用してはならないと言う。
@@ -147,7 +147,7 @@ In the first article he teaches that there is no Scriptural reason for tongues e
 最初の記事で彼は、異言に聖書の理由があるのは二つの場合だけだと教えている。ほかの国の言葉を話す人々がいる場合と、不信者へのしるしとしての場合である。そして彼は、ひとりで森の中にいたときに異言を語った。だから私たちは、彼自身の場合に当てはまる聖書の理由を、忍耐強く待っているのである。
 
 Now we come to the Corinthian Church. Many are saying that here was a church that had tongues in abundance; and yet they all were carnal, even babes in Christ.
-次に、コリントの教会に来た。多くの人が言っている。ここに、異言があふれていた教会がある。それなのに、彼らはみな肉に属する者であり、キリストにある幼な子にすぎなかった、と。
+次は、コリントの教会である。多くの人が言っている。ここに、異言があふれていた教会がある。それなのに、彼らはみな肉に属する者であり、キリストにある幼な子にすぎなかった、と。
 Many a poor, unlearned man will stumble over this argument and decide, Surely, to speak with tongues is no evidence of Pentecost.
 多くの貧しい無学な人は、この議論につまずいて、確かに異言を語ることはペンテコステの証拠ではない、と判断するであろう。
 But those who are acquainted with the Scriptures know that part of the truth concerning the condition of this church is here kept back.
@@ -160,7 +160,7 @@ Five facts, if properly considered, will throw great light on the condition of t
 1. They had been converted from heathenism, and therefore needed teaching.
 一　彼らは異教から回心した人々であった。だから教えを必要としていた。
 Doctor Godbey says: "You must remember that the larger per cent. of the Corinthian membership were Gentiles, having been so recently converted out of heathenism, that the material was somewhat gross and crude.
-ゴドビー博士はこう言っている。「覚えておかなければならない。コリントの教会員の大部分は異邦人で、異教から回心してまだ日が浅かった。だから、その素材はいくらか粗野で、荒削りであった。
+ゴドビー博士はこう言っている。「覚えておかなければならない。コリントの教会員の大部分は異邦人で、異教から回心してまだ日が浅かった。だから、教会を成す人々は、いくらか粗野で荒削りであった。
 There were also many Jews in the Corinthian church.
 コリントの教会には、ユダヤ人も多くいた。
 It was really a mammoth mongrel of all nationalities, who, as well as the Jews, had concentrated at this great Grecian metropolis.
@@ -188,13 +188,13 @@ A statement before us reads thus: "Surely, the gift of tongues could not have be
 Why did he not say that they were not even converted?
 なぜこの書き手は、彼らが回心してさえいなかった、と言わなかったのか。
 He had just as much proof that they were all sinners as he did that those who spoke with tongues were not sanctified and filled with the Holy Ghost.
-異言を語った人々が聖化されておらず、聖霊に満たされていなかったという証拠はある。しかし、彼らがみな罪人であったという証拠も、ちょうど同じだけあったのである。
+彼は、異言を語った人々が聖化されておらず、聖霊に満たされてもいなかったという証拠を持っていた。それとちょうど同じだけの証拠を、彼らがみな罪人であったことについても持っていたのである。
 
 Some think that the thirteenth chapter of I Corinthians denies the above statement. We will study this in our next chapter.
 第一コリント一三章が上の主張を否定している、と考える人々もいる。これは次の章で学ぼう。
 
 Now we come to an account of Pentecost which a great many rest upon as settling the question.
-次に、ペンテコステの記事に来た。非常に多くの人が、問題に決着をつけるものとして、この記事に頼っている。
+次は、ペンテコステの記事である。非常に多くの人が、問題に決着をつけるものとして、この記事に頼っている。
 I speak of the case of the Samaritans (Acts 8:5-25).
 サマリヤ人の場合のことである（使徒八・五〜二五）。
 When we look at this record we find that it is not stated that they spake with tongues; neither can we find any statement that they did not speak with tongues.
@@ -236,7 +236,7 @@ The following is from Dean Alford. I copy it from J. H. King in "The Apostolic E
 次はアルフォード主任司祭の言葉である。私はこれを、『アポストリック・エバンジェル』誌に載ったJ・H・キングの文章から写している。
 
 "The only analogous chapter is 19: 5, 6, in which we must observe that there it is distinctly asserted that the miraculous gifts of the Spirit followed the laying on of Paul's hands, and that by the expression 'idon,' in verse 18, which must be taken literally, the same is implied here.
-「これに類する箇所は、一九章五、六節だけである。そこでは、御霊の奇跡的な賜物がパウロの按手に続いたことが、はっきり言われている。そして、一八節の『イドン』という言葉は文字どおりに取らなければならないから、ここでも同じことが暗に示されている。このことに注意しなければならない。
+「これに類する箇所は、一九章五、六節だけである。そこでは、御霊の奇跡的な賜物がパウロの按手に続いたことが、はっきり言われている。そして、一八節の『イドン』という言葉は文字どおりに取らなければならないから、ここでも同じことが暗に示されている。この二つのことに注意しなければならない。
 Its effects were therefore visible, and consequently the effect of the laying on of the apostles' hands was not the inward but the outward miraculous gifts of the Spirit."
 したがって、その結果は目に見えるものであった。だから、使徒たちの按手の結果は、御霊の内なる賜物ではなく、外に現れる奇跡的な賜物だったのである」
 
@@ -267,7 +267,7 @@ Have you reached the Samaritans' experience?
 あなたは、サマリヤ人の体験にまで達しているか。
 
 Now we come to Paul's case. We are told that nothing is said of "tongues" in connection with his Pentecost.
-次に、パウロの場合に来た。パウロのペンテコステについては、「異言」のことは何も言われていない、と私たちは言われる。
+次は、パウロの場合である。パウロのペンテコステについては、「異言」のことは何も言われていない、と私たちは言われる。
 Neither can we find it anywhere stated that he received the Holy Ghost.
 しかし、彼が聖霊を受けたと書かれているところも、どこにも見つからない。
 He never testified that he received the Holy Ghost in relating the narrative recorded in Acts 9: 1-19.
@@ -331,7 +331,7 @@ Here are the principal things resulting to-day from the presentation of the affi
 六　世の人々は驚き、いぶかって言う。『これは、いったい、どういうわけなのだろう』。ほかの人々はあざ笑って言う。「この人たちは狂信に陥った。気が狂っている。偽教師だ。悪魔に用いられている。当局がやめさせるべきだ」。
 
 Some things resulting from the presentation of the negative, the best we have been able to learn, are:
-否定の側を説いた結果として起こっていることは、私たちの知りえたかぎりでは、次のとおりである。
+否定の側を説いた結果として起こっていることのいくつかは、私たちの知りえたかぎりでは、次のとおりである。
 
 1. Many sanctified Christians are concluding that they have the Baptism of the Spirit, though they have never spoken with other tongues.
 一　聖化された多くのクリスチャンが、一度も異言を語ったことがないのに、自分は御霊のバプテスマを受けていると結論している。
