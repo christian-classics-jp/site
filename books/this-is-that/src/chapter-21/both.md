@@ -24,7 +24,7 @@ Christmas week was a week of preparation. Crowds grew steadily and by the end of
 クリスマスの週は、備えの週だった。集まる人はしだいに増え、週の終わりには、人々が会場に入りきれなくなった。祈りの部屋は満ち、壇も席も階段も埋まり、何十人もの人が帰されていった。なんという涙、なんという歌、なんという踊りだったことだろう！
 
 The windows of Heaven were opened; sinners were saved, believers baptized with the Holy Ghost, ofttimes from twelve to twenty in a single meeting. The shouting and the heavenly singing of the people, with its attendant cloud of glory, so filled the tabernacle that at times the priests and the Lord's ministers could not minister.
-天の窓が開かれた（マラキ三・一〇）。罪人が救われ、信じる者が聖霊のバプテスマを受けた。一度の集会で、十二人から二十人に及ぶことも多かった。人々の叫びと天の歌声が、それに伴う栄光の雲とともに、幕屋に満ちた。ときには、祭司たちも主の働き人たちも、勤めをすることができないほどだった（歴代志下五・一四）。
+天の窓が開かれた（マラキ三・一〇）。罪人が救われ、信じる者が聖霊のバプテスマを受けた。一度の集会で、十二人から二十人に及ぶことも多かった。人々の叫びと天の歌声が、それに伴う栄光の雲とともに、幕屋に満ちた。ときには、祭司たちも主に仕える者たちも、勤めをすることができないほどだった（第二歴代五・一四）。
 
 People complained that they were not able to get into the building, large as it was, so
 建物は大きかったのに、入れないという苦情が人々から出た。そこで借りたのが、次の会場である。
@@ -39,10 +39,10 @@ NEW YEAR'S EVE,
 ## 大みそか
 
 while the world was jubilating outside with their noise-making devices, the Lord had a few noisemaking devices within who were having a R-E-A-L jubilee, and Victoria Hall was packed to its doors.
-外では、世の人々が鳴り物を鳴らして浮かれ騒いでいた。そのころ中では、主の鳴り物とでもいうべき人たちが、ほ、ん、と、う、の祝いをしていた。ビクトリア・ホールは、戸口までぎっしりと人で埋まった。
+外では、世の人々が鳴り物を鳴らして浮かれ騒いでいた。そのころ中では、主の鳴り物とでもいうべき幾人かの人たちが、ほ、ん、と、う、の祝いをしていた。ビクトリア・ホールは、戸口までぎっしりと人で埋まった。
 
 The Lord led me to preach that night on the valley of dry bones, and point the way for each dried-up soul to get back to the place of power and blessing. When the call for the altar service was given the prayer room was filled to overflowing, the rostrum, the entire altar (and even though the seats were moved back to make room) all round the building and in the aisles scores were praying for salvation, believers receiving the Baptism of the Holy Ghost, sick healed and such dancing and rejoicing as the lost came home!
-その夜、主は私を導いて、枯れた骨の谷について説教させてくださった（エゼキエル三七章）。干からびた魂の一人一人に、力と祝福のある所へ戻る道を示すためである。祭壇での祈りへの招きをすると、祈りの部屋はあふれるほどに満ちた。壇も、祭壇の全体も埋まった。場所を作るために席を後ろへ下げたのに、それでも足りなかった。建物の周りじゅうで、また通路で、何十人もの人が救いを求めて祈っていた。信じる者は聖霊のバプテスマを受け、病人はいやされた。失われていた人々が家に帰って来ると、なんという踊りと喜びが起こったことだろう！
+その夜、主は私を導いて、枯れた骨の谷について説教させてくださった（エゼキエル三七章）。干からびた魂の一人一人に、力と祝福のある所へ戻る道を示すためである。祭壇での祈りへの招きをすると、祈りの部屋はあふれるほどに満ちた。壇も、祭壇の全体も埋まった。場所を作るために席を後ろへ下げたのに、それでも足りなかった。建物じゅうで、また通路で、何十人もの人が救いを求めて祈っていた。信じる者は聖霊のバプテスマを受け、病人はいやされた。失われていた人々が神のもとに帰って来ると、なんという踊りと喜びが起こったことだろう！
 
 It was estimated that over one hundred were slain under the power on this one night alone. With much weeping, many confessions were made; differences melted away as the saints threw their arms about each other; tears of love and praise were mingled.
 この一夜だけで、百人を超える人が神の力に打たれて倒れたと見積もられた。多くの人が、激しく泣きながら罪を言い表した。聖徒たちが互いに抱き合うと、わだかまりは溶け去った。愛の涙と賛美の涙が混じり合った。
@@ -63,21 +63,21 @@ In all the month's meetings held under the auspices of Pastor Fisher in Victoria
 フィッシャー牧師の主催で、ビクトリア・ホールとテンプル・オーディトリアムでひと月のあいだ集会が開かれた。そのあいだ、雨季だったのに、外には雨が一滴も降らなかった。きしみを感じることもなく、一致や愛に欠けるところが現れることもなかった。御霊が、集会をすっかり治めておられたのである。
 
 As the Sunday afternoon services in the great Auditorium were dismissed, the audiences flocked to Victoria Hall, many of them not waiting for supper, so that by five o'clock every seat was taken; by six o'clock there was scarcely any standing room left, and by seven o'clock hundreds were being turned away from the door, some weeping with disappointment because they could not get in. There were messages in tongues and interpretation; there was heavenly singing and music in the Spirit, Often before preaching, several have received the baptism in the overflow meeting held in the prayer room, while during the sermon others come through, speaking in tongues and magnifying God.
-大オーディトリアムでの日曜日の午後の礼拝が終わると、会衆はビクトリア・ホールへ押し寄せた。夕食も待たずに来る人が多かった。それで五時には席がすべて埋まった。六時には立つ場所もほとんどなくなり、七時には何百人もの人が戸口から帰されていた。入れなかったのを残念がって泣く人もいた。異言のメッセージと解き明かしがあった。天の歌声と、御霊のうちにある音楽があった。説教の前に、何人もの人が、祈りの部屋で開かれた入りきれない人たちの集会で、バプテスマを受けることも多かった。また説教のあいだにも、異言で語り、神をあがめるまでに至る人たちがいた。
+大オーディトリアムでの日曜日の午後の礼拝が終わると、会衆はビクトリア・ホールへ押し寄せた。夕食も待たずに来る人が多かった。それで五時には席がすべて埋まった。六時には立つ場所もほとんどなくなり、七時には何百人もの人が戸口から帰されていた。入れなかったのを残念がって泣く人もいた。異言のメッセージと解き明かしがあった。天の歌声と、御霊のうちに奏でられる音楽があった。説教の前に、祈りの部屋で入りきれない人たちの集会が開かれ、そこで何人もの人がバプテスマを受けることも多かった。また説教のあいだにも、異言で語り、神をあがめるまでに至る人たちがいた。
 
 This revival is truly not man-made or woman-made, but has come down from the Father of lights, for whether the message comes forth in burning inspiration of the Holy Ghost or is given in just a few simple, plain words explaining salvation, the baptism of the Spirit and the coming of the Lord; or whether there is no preaching at all? results are just the same, scores come to the altar and believers receive the Holy Ghost.
 // 英文の no preaching at all? の「?」は、文の続き方から区切りの記号とみて訳した。
-この信仰復興は、まことに男の造ったものでも、女の造ったものでもない。光の父から下って来たものである（ヤコブ一・一七）。メッセージが聖霊の燃えるような霊感のうちに語られても、結果は同じである。救いと、御霊のバプテスマと、主の来臨とを説き明かす、わずかな素朴でわかりやすい言葉で語られても、同じである。説教がまったくなくても、やはり同じである。何十人もの人が祭壇に来て、信じる者が聖霊を受けるのである。
+この信仰復興は、まことに男の造ったものでも、女の造ったものでもない。光の父から下って来たものである（ヤコブ一・一七）。というのも、メッセージが聖霊の燃えるような霊感のうちに語られても、結果は同じなのである。救いと、御霊のバプテスマと、主の来臨とを説き明かす、わずかな素朴でわかりやすい言葉で語られても、同じである。説教がまったくなくても、やはり同じである。何十人もの人が祭壇に来て、信じる者が聖霊を受けるのである。
 
 It is impossible to describe the many wonderful cases wherein we have seen our God work. A husband and wife who have not lived with each other for seven years, both got saved and ran and threw their arms around each other; she received the baptism. Another couple who hadn't spoken for several years got back to the Lord, and the little girl came with such joy to tell how papa and mamma were going to have a happy home.
 私たちの神が働かれるのを見た、多くのすばらしい出来事を、とても書き尽くすことはできない。七年間別れて暮らしていた夫婦が、二人とも救われ、駆け寄って抱き合った。妻は聖霊のバプテスマを受けた。何年も口をきいていなかった別の夫婦も、主のもとに立ち返った。その小さな娘は、とても喜んでやって来た。パパとママがこれから幸せな家庭を作るのだと、知らせに来たのである。
 
 Another fine-looking man came, crying like a baby, asking us to pray for him, he wanted to be saved. We prayed for him, his face was bathed in tears, and in less than fifteen minutes the man was under the power, speaking in other tongues.
-また、身なりのりっぱな男の人が、赤ん坊のように泣きながら来た。救われたいので祈ってほしい、と言うのである。私たちが祈ると、その人の顔は涙にぬれた。そして十五分もたたないうちに、その人は神の力のもとにあって、他国の言葉で語っていた。
+また、見るからにりっぱな男の人が、赤ん坊のように泣きながら来た。救われたいので祈ってほしい、と言うのである。私たちが祈ると、その人の顔は涙にぬれた。そして十五分もたたないうちに、その人は神の力のもとにあって、他国の言葉で語っていた。
 
 A young lady, a beautiful violin player, came to assist in the music, was gloriously saved, and lay stretched out under the power of the Lord, very near her baptism. Many who were here say they have traveled the world over the last twelve years, since the latter rain began to fall, and that they have seen great revivals, but all declare that they never saw a revival like this, and all agree that it outshines even the wonderful days of old Azuza St., of which they all speak with rapt faces; such a unity and melting together of workers, such a laying aside of quibbles and hairsplitting doctrines, such a going out together for poor, lost sinners, God cannot help but bless.
 // 英文の Azuza St. は Azusa Street の綴りの揺れとみて「アズサ通り」とした。
-バイオリンを美しく弾く若い婦人が、音楽の手伝いに来た。その人はすばらしく救われ、主の力のもとに長々と横たわった。聖霊のバプテスマまで、あと一歩だった。ここに来ていた多くの人たちが言う。後の雨が降り始めたこの十二年のあいだ、世界じゅうを旅し、大きな信仰復興をいくつも見てきた、と。けれども、だれもが口をそろえて、このような信仰復興は見たことがないと言う。昔のアズサ通りのすばらしい日々さえしのぐと、みなが認めている。アズサ通りのことを話すとき、彼らはみな、うっとりとした顔になるのである。働き手たちがこれほど一つになり、溶け合っている。言葉尻をとらえる議論や、細かいことにこだわる教理を、これほど脇に置いている。哀れな失われた罪人たちのために、これほど共に出て行っている。神は祝福せずにはいられないのである。
+バイオリンを美しく弾く若い婦人が、音楽の手伝いに来た。その人はすばらしく救われ、主の力のもとに長々と横たわった。聖霊のバプテスマまで、あと一歩だった。ここに来ていた多くの人たちが言う。後の雨が降り始めてからの十二年のあいだ、世界じゅうを旅し、大きな信仰復興をいくつも見てきた、と。けれども、だれもが口をそろえて、このような信仰復興は見たことがないと言う。昔のアズサ通りのすばらしい日々さえしのぐと、みなが認めている。アズサ通りのことを話すとき、彼らはみな、うっとりとした顔になるのである。働き手たちがこれほど一つになり、溶け合っている。言葉尻をとらえる議論や、細かいことにこだわる教理を、これほど脇に置いている。哀れな失われた罪人たちのために、これほど共に出て行っている。神は祝福せずにはいられないのである。
 
 BETHEL TEMPLE
 G. N. ELDRIDGE, PASTOR.
@@ -96,7 +96,7 @@ The floors of the prayer room were filled; they fell on the platform where the s
 祈りの部屋の床はいっぱいになった。病人のために祈る壇の上でも、人々は倒れた。多くの罪人が救いを求めて通路を進んで来て、前方の祭壇に幾重にも並んだ。そして、ひざまずいたとたんに救われ、神の力に打たれて倒れた。ある夜、救いを求めて祭壇に来た十二人の一団のうち、十一人が救われただけでなく、聖霊のバプテスマも受けた。見ていた働き手たちの多くが、これは驚くべきことだと思った。
 
 The singing of the heavenly choir, the messages in tongues, and interpretation, were indescribable. Such a sweet spirit of unity and love prevailed, such a mantle of worship and adoration fell upon and enveloped the people that many times it was impossible to preach; even testimonies would be drowned out by the bursts of praise and song which would sweep from the pulpit to the door. Again the audience would arise and with uplifted hands praise and worship the glorious One who had caused the desert to blossom as a rose, and pools to spring forth in the wilderness, and give floods in the dry land; Hallelujah!
-天の聖歌隊の歌声も、異言のメッセージと解き明かしも、言葉に言い表せなかった。一致と愛の麗しい霊があふれていた。礼拝と賛美の外套が人々の上に下って、包みこんだ。そのため、説教ができないことが何度もあった。証しさえも、講壇から戸口まで吹き渡る賛美と歌のほとばしりに、かき消されてしまうのだった。また会衆は立ち上がり、手を上げて、栄光のかたをほめたたえ、礼拝した。砂漠をばらのように花咲かせ、荒野に池をわき出させ、かわいた地に流れを注いでくださったかたである。ハレルヤ！
+天の聖歌隊の歌声も、異言のメッセージと解き明かしも、言葉に言い表せなかった。一致と愛の麗しい霊があふれていた。礼拝と賛美の外套が人々の上に下って、包みこんだ。そのため、説教ができないことが何度もあった。証しさえも、講壇から戸口まで吹き渡る賛美と歌のほとばしりに、かき消されてしまうのだった。また会衆は立ち上がり、手を上げて、栄光のかたをほめたたえ、礼拝した。砂漠をばらのように花咲かせ、荒野に池をわき出させ、かわいた地に流れを注いでくださったかたである（イザヤ三五・一、四一・一八、四四・三）。ハレルヤ！
 
 The messages in tongues and interpretation also vividly described the coming of the Lord, the approaching darkness sweeping o'er the land, the rising up of the beast out of the sea, the great red hand over the horizon, ascending in the sky, reaching over the earth, and gripping it so tightly that blood oozed forth between its fingers.
 異言のメッセージと解き明かしは、主の来臨のこともありありと描いた。闇が迫って地を覆っていくこと、獣が海から上って来ること（黙示録一三・一）も語った。また、大きな赤い手が地平線の上に現れることも語った。その手は空に昇り、地の上に伸びて地をつかむ。あまりに強く握りしめるので、指のあいだから血がにじみ出るのである。
@@ -108,4 +108,4 @@ Two women who came in drunk and were saved at one o'clock in the morning, praise
 酒に酔って入って来て、午前一時に救われた二人の女がいた。この二人は集会のたびに、罪と恥の生活から救われ、聖霊に満たされたことを神に感謝し、ほめたたえた。言うまでもなく、聖霊を受けた人はみな、御霊が語らせるままに他国の言葉で語った。生まれつき耳が聞こえず、口のきけなかった男の人さえそうだった。
 
 He came to meeting day after day writing with pencil and pad. He sought the baptism of the Holy Spirit and of course in order to baptize him the Lord must enable him to speak. After seeking five nights, the Holy Spirit suddenly came to His temple. It would be hard to describe the shouting and the joy of those who gathered round him as he received the Holy Spirit and came through speaking with other tongues in an audible voice. When he rose from under the power the voice had not left him. Bless God! We praise God for many cases of healing and deliverance. All through the meetings praise has been given to the Father and to His Son Jesus Christ, and to the Holy Spirit. No man or woman has either taken or been given the glory, for all has been so manifestly done by God through weak vessels of clay.
-この人は来る日も来る日も集会に来て、鉛筆と帳面で筆談した。彼は聖霊のバプテスマを求めた。もちろん、この人にバプテスマを授けるには、主は彼が話せるようにしてくださらなければならない。五晩求めたあと、聖霊がたちまちご自身の宮に来られた。この人は聖霊を受け、耳に聞こえる声で他国の言葉を語るまでに至った。そのとき周りに集まった人たちの叫びと喜びは、言い表しようがない。神の力のもとから起き上がったときにも、声はまだ彼から去っていなかった。神をほめたたえよ！　いやしと解放の多くの出来事のゆえに、私たちは神をほめたたえる。集会のあいだじゅう、賛美は父と、その御子イエス・キリストと、聖霊にささげられてきた。男も女も、だれも栄光を自分のものにせず、人から栄光を受けることもなかった。すべては明らかに、弱い土の器を通して、神がなさったことだからである（第二コリント四・七）。
+この人は来る日も来る日も集会に来て、鉛筆と帳面で筆談した。彼は聖霊のバプテスマを求めた。もちろん、この人にバプテスマを授けるには、主は彼が話せるようにしてくださらなければならない。五晩求めたあと、聖霊がたちまちご自身の宮に来られた（マラキ三・一）。この人は聖霊を受け、耳に聞こえる声で他国の言葉を語るまでに至った。そのとき周りに集まった人たちの叫びと喜びは、言い表しようがない。神の力のもとから起き上がったときにも、声はまだ彼から去っていなかった。神をほめたたえよ！　いやしと解放の多くの出来事のゆえに、私たちは神をほめたたえる。集会のあいだじゅう、賛美は父と、その御子イエス・キリストと、聖霊にささげられてきた。男も女も、だれも栄光を自分のものにせず、人から栄光を受けることもなかった。すべては明らかに、弱い土の器を通して、神がなさったことだからである（第二コリント四・七）。
