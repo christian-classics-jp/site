@@ -26,7 +26,7 @@ There was said to be from one to eight thousand on the ground every night.
 毎晩、会場には千人から八千人がいたという。
 
 On Sabbath it was wonderful how the Lord sustained me and gave me courage and strength to conduct all the meetings.
-日曜日、主は驚くほど私を支え、すべての集会を導く勇気と力を与えてくださった。
+日曜日、主は驚くほど私を支えてくださり、すべての集会を導く勇気と力を与えてくださった。
 I had never addressed such a multitude before.
 それほどの群衆に語ったことは、それまでなかった。
 I had a bad cold all the time, but God gave me a voice so clear and strong that I could be heard distinctly all over the grove.
@@ -43,7 +43,7 @@ There were many converted.
 One was an old lady seventy-seven years old, who belonged to the Dunkard Church.
 そのひとりは、ダンカー派の教会に属する七十七歳の老婦人だった。
 Her son and his wife were converted in the winter, and are great workers in the vineyard of the Lord.
-彼女の息子夫婦はこの冬に回心し、主のぶどう園で大いに働いている。
+彼女の息子夫婦はこの前の冬に回心し、主のぶどう園で大いに働いている。
 One old man, leaning on his staff, whose locks were white with the frosts of many winters, was converted.
 幾冬もの霜に髪の白くなった、杖にすがる老人も回心した。
 I felt he was a brand plucked from the burning.
@@ -111,7 +111,7 @@ A little girl, eight or nine years old, came to the altar.
 I asked her several questions.
 私はいくつか質問をした。
 She said she wanted to be Jesus' little lamb, and very soon her little face was lighted up with the love of God.
-イエスさまの小さな小羊になりたい、とその子は言った。まもなく、その小さな顔は神の愛に照らされて輝いた。
+イエスさまの小羊になりたい、とその子は言った。まもなく、その小さな顔は神の愛に照らされて輝いた。
 I asked her if her parents were Christians.
 お父さんとお母さんはクリスチャンか、と私は尋ねた。
 She said her mamma was in heaven, but her papa was wicked; that he drank.
@@ -134,14 +134,14 @@ God had sent conviction to his heart.
 He saw he was a sinner and on his way to hell.
 彼は、自分が罪人で、地獄への道を歩んでいることを悟った。
 I told her to tell him to come to meeting to-morrow; that he might not get well.
-私はその子に言った。お父さんに、あした集会に来るように言いなさい。そうしないと、よくならないかもしれないから、と。
+私はその子に言った。お父さんに、あした集会に来るように言いなさい。よくならないかもしれないのだから、と。
 
 He came with her, and I took him by the hand and asked him if his little girl had talked and prayed with him about his soul.
 彼は娘と一緒に来た。私は彼の手を取って尋ねた。娘さんは、あなたの魂のことであなたと話し、一緒に祈りましたか、と。
 He said she had, and began to tremble and weep.
 そうです、と彼は言い、震えて泣きだした。
 I told him he was standing in the way of his child; that he did not want his child to say in the Great Judgment Day: "I never heard my father pray."
-私は言った。あなたは子供の行く手をふさいでいる。大いなるさばきの日に、子供に「父が祈るのを一度も聞いたことがない」と言わせたくはないでしょう、と。
+私は言った。あなたは子供の行く手をふさいでいる。大いなるさばきの日に、子供に「父が祈るのを一度も聞いたことがない」と言わせたくはないはずだ、と。
 He went with me to the altar.
 彼は私と一緒に祭壇の前に出た。
 An old man who was converted a few days before prayed with him, and it was not long till he was blessed.
@@ -187,7 +187,7 @@ After at Little River we went to Massillon on Saturday and had three meetings in
 Massillon church has indeed become "A City set on a Hill."
 マシロンの教会は、まことに『山の上にある町』となった（マタイ五・一四）。
 Of the hundred that had been converted in the past winter, they told me they were all standing firm.
-この冬に回心した百人は、みなしっかりと立っている、と人々は私に告げた。
+この前の冬に回心した百人は、みなしっかりと立っている、と人々は私に告げた。
 Bless the Lord! they were nearly all there to speak for themselves.
 主はほむべきかな！　その人々のほとんどがその場にいて、自分の口で語った。
 Six or seven would rise to their feet at once to speak of the love of Christ.
@@ -218,14 +218,14 @@ There were shouts in heaven as the angels took the news back that the prodigal w
 放蕩息子が家に帰って来るという知らせを御使たちが持ち帰ると、天では喜びの叫びがあがった。
 
 One night, at the close of the meeting, a messenger came, saying he was dead, and reqested me to come and preach his funeral.
-ある夜、集会の終わりに使いの者が来た。そして老人が亡くなったと告げ、葬式で説教をしてほしいと頼んだ。
+ある夜、集会の終わりに使いの者が来た。そして老人が亡くなったと告げ、葬儀の説教をしてほしいと頼んだ。
 // 英文の reqested は原本の誤植で、requested と読んだ。
 It rained all night, and when I started it was still raining.
 一晩じゅう雨が降り、出かけるときもまだ降っていた。
 I had to ride eight miles; I was hardly able to sit up.
-八マイルの道のりを乗って行かなければならなかったが、私は座っているのもやっとだった。
+八マイルの道を行かなければならなかった。私は乗り物に座っているのもやっとだった。
 I knew the house would be crowded, and so I found it.
-家が込み合うことはわかっていたが、行ってみるとそのとおりだった。
+家が込み合うことはわかっていた。行ってみると、はたしてそのとおりだった。
 I felt very weak, but I trusted in God, and looked to him to give me strength and voice.
 私はひどく弱っていると感じた。しかし神に信頼し、力と声を与えてくださるよう神を仰いだ。
 The words came to me: "And desire shall fail: because man goeth to his long home, and the mourners go about the streets."--Ecclesiastes xii. 5.
@@ -368,7 +368,7 @@ He would have been forever lost if he had refused.
 Next I went to Buzzard's school-house, near Huntington, Indiana, to hold a revival meeting.
 次に私は、リバイバル集会を開くために、インディアナ州ハンティントンの近くにあるバザードの校舎へ行った。
 I had heard of this place as being very hard, and almost forsaken of God.
-この土地はたいへん頑なで、神にほとんど見捨てられている、と私は聞いていた。
+この土地はたいへんかたくなで、神にほとんど見捨てられている、と私は聞いていた。
 A number of ministers had labored hard in trying to build up a church, but had failed.
 何人もの牧師が教会を建て上げようと骨折ってきたが、うまくいかなかった。
 I felt a desire to go, for I believed many souls would be saved.
@@ -398,7 +398,7 @@ On Sabbath morning at nine o'clock the people were coming from all directions to
 We spent some time in singing, after which we had a glorious praise-meeting.
 私たちはしばらく歌い、それから栄光に満ちた賛美の集会を持った。
 Over one hundred of those who had been converted arose, one after another, telling of Jesus' power on earth to forgive sins, and to give them the witness of the Spirit.
-回心した人のうち百人以上が、ひとり、またひとりと立ち上がった。そして、イエスが地上で罪をゆるし、御霊のあかしを与える力を持っておられることを語った。
+回心した人のうち百人以上が、ひとり、またひとりと立ち上がった。そして、イエスが地上で罪をおゆるしになり、自分たちに御霊のあかしを与えてくださる力を持っておられることを語った。
 
 Many were received into the church, and we raised several hundred dollars toward building a church.
 多くの人が教会に迎え入れられた。私たちは会堂を建てるために数百ドルを集めた。
@@ -420,7 +420,7 @@ Nearly every house became a house of prayer.
 Praise God who gives us the victory in every place, over all opposition and persecutions.
 どこにあっても、あらゆる反対と迫害に打ち勝つ勝利を与えてくださる神をほめたたえよ。
 He convinces the people that he has called and sent me to preach the gospel with power sent down from heaven, and that he is with me to take care of me, and deliver me from the enemies of the Lord and his work.
-神は人々に確信させてくださる。神が私を召し、天から下された力をもって福音を宣べ伝えるために遣わされたことを。また神が私と共にいて私を守り、主と主のみわざの敵から救い出してくださることを。
+神は人々に確信させてくださる。神が私を召され、天から下された力をもって福音を宣べ伝えるために遣わされたことを。また神が私と共におられて私をお守りになり、主と主のみわざの敵から救い出してくださることを。
 
 We next went to Syracuse, Ind., and held services in a large Union Church.
 次に私たちはインディアナ州シラキュースへ行き、大きな合同教会で集会を開いた。
@@ -455,22 +455,22 @@ The lady said there was going to be a dance in a few days, and she would wait ti
 They lost their souls and their right to eternal life, by turning Christ away, and looking forward to a few hours' sinful pleasure.
 ふたりはキリストを退け、数時間の罪の楽しみを待ち望んだ。そのために、自分の魂と、永遠のいのちにあずかる権利を失ったのである。
 But they were not permitted to attend the dance.
-しかし、ふたりがダンスに出ることは許されなかった。
+しかし、ふたりがダンスパーティーに出ることは許されなかった。
 In such an hour, as they thought not, death came.
 思いがけない時に、死が来たのである。
 They fell into the hands of the living God: went into Eternity and the Judgment, to take up the awful wailing: "The harvest is past, the summer is ended, and I am not saved."
-ふたりは生ける神のみ手のうちに落ちた。永遠とさばきの中に入って行き、恐ろしい嘆きの声をあげることになった。「刈入れの時は過ぎ、夏もはや終った、しかしわたしは救われていない」
+ふたりは生ける神のみ手のうちに落ちた。永遠とさばきの中に入って行き、恐ろしい嘆きの声をあげることになった。「刈入れの時は過ぎ、夏もはや終った、しかしわたしはまだ救われない」
 // エレミヤ八・二〇 の言い換え。英文は we を I にしている。
 They were both buried in one grave.
 ふたりは一つの墓に葬られた。
 The fear of God fell upon the whole community, for many said that I prayed to God to kill them, and that the warning I gave them was from God.
-神への恐れが土地じゅうに下った。多くの人が言ったのである。私がふたりを殺してくださいと神に祈ったのだ。私の与えた警告は神から出たものだった、と。
+神への恐れが土地じゅうに下った。多くの人が、私がふたりを殺してくださいと神に祈ったのだと言ったからである。私の与えた警告は神から出たものだった、とも言われた。
 Eternity alone will tell how many were brought to Christ in this meeting.
 この集会でどれほどの人がキリストに導かれたかは、永遠だけが明らかにするだろう。
 
 ## 大いなるさばきの朝
 THE GREAT JUDGMENT MORNING (The following is a dream a Salvation Army Captain had.)
-（次は、救世軍のある大尉が見た夢である。）
+（次は、救世軍のある大尉が見た夢である）
 
 I dreamed that the Great Judgment morning
 私は夢を見た、大いなるさばきの朝が<br/>
@@ -509,7 +509,7 @@ His debts were too heavy to pay.
 The great man was there, but his greatness
 偉い人もそこにいたが、その偉さは<br/>
 When death came was left far behind,
-死が来たとき、はるか後ろに置き去られた<br/>
+死が来たとき、はるか後ろに置き去りにされた<br/>
 The angel that opened the records
 記録の書を開いた御使も<br/>
 Not a trace of his greatness could find.
@@ -518,7 +518,7 @@ Not a trace of his greatness could find.
 The widow was there and the orphans,
 やもめもそこにいた、みなしごたちも<br/>
 God heard and remembered their cries;
-神はその叫びを聞き、覚えておられた<br/>
+神はその叫びを聞かれ、覚えておられた<br/>
 No sorrow in Heaven forever,
 天国には、とこしえに悲しみがない<br/>
 God wiped all the tears from their eyes.
