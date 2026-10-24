@@ -46,7 +46,7 @@
 + [x] Part III. Lost and Restored
 + [x] Part III. The Three Dispensations (1)
 + [x] Part III. The Three Dispensations (2)
-+ [ ] Part III. You Need the Holy Spirit / Tarry Until
++ [x] Part III. You Need the Holy Spirit / Tarry Until
 + [ ] Part III. The Baptism of the Holy Spirit / Work of the Holy Spirit
 + [ ] Part III. A Plain Talk to Seekers
 + [ ] Part III. The Latter Rain / Shepherds, "False and True"
