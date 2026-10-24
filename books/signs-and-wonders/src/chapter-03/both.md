@@ -13,7 +13,7 @@ I felt condemned, and said, "Lord, Iam going to work in thy vineyard."
 私は責められているように感じて、言った。「主よ、あなたのぶどう園で働くつもりでおります」
 // 英文の Iam は I am と読んだ。
 The Lord said, "When?" and I answered, "When I get prepared for the work."
-主は言われた。「いつか」。私は答えた。「働きの準備ができたらです」
+主は言われた。「それはいつか」私は答えた。「働きの準備ができたらです」
 Then the Lord said to me, "Don't you know that while you are getting ready souls are perishing? Go now, and I will be with you."
 すると主は私に言われた。「あなたが準備しているあいだにも、魂が滅びつつあるのを知らないのか。今行きなさい。わたしがあなたと共にいる」
 I told Him that I could not talk to the people; I did not know what to say, and they would not listen to me.
@@ -35,7 +35,7 @@ Then Jesus said again, "Go, and I will be with you."
 I cried, "Lord, I will go. Where shall I go?"
 私は叫んだ。「主よ、行きます。どこへ行けばよいのですか」
 And Jesus said, "Go here, go there, wherever souls are perishing."
-イエスは言われた。「ここへ行き、あそこへ行け。魂が滅びつつあるところなら、どこへでも」
+イエスは言われた。「ここへ行き、あそこへ行きなさい。魂が滅びつつあるところなら、どこへでも」
 Praise the Lord for his wonderful goodness in revealing his word and will in such a wonderful way, to such a poor weak worm of the dust.
 主をほめたたえよ。塵にすぎない哀れで弱い虫けらに、これほど驚くべき方法で、みことばと御心を示してくださった。そのすばらしいいつくしみのゆえに、主をほめたたえよ。
 I saw more in that vision than I could have learned in years of hard study.
@@ -60,14 +60,14 @@ I could not get clear of that reflection by day or by night.
 Walking or dreaming, I seemed to have a large congregation before me, all in tears, as I told them the story of the cross.
 起きていても夢の中でも、目の前に大勢の会衆がいるように思えた。私が十字架の物語を語ると、みな涙を流していた。
 Thus for months and years did I debate; and yet did I falter and hesitate, and, like Jonah, trim my sail for Tarshish.
-こうして何か月も何年も、私は思い悩んだ。それでもなお、ためらい、尻込みした。そして、ヨナのようにタルシシへ向けて帆を張った。
+こうして何か月も何年も、私は思い悩んだ。それでもなお、ためらい、しりごみした。そして、ヨナのようにタルシシへ向けて帆を張った。
 I thought if I were a man it would be a pleasure for me; but for me, a woman, to preach, if I could, would subject me to ridicule and contempt among my friends and kindred, and bring reproach upon His glorious cause.
-もし私が男なら、それは喜びだっただろうと思った。しかし私は女である。たとえ説教できたとしても、女の私が説教すれば、友人や親族のあいだで笑いものになり、さげすまれるだろう。そして、主の栄光ある働きにそしりを招くだろう。
+もし私が男なら、説教は私にとって喜びだろうと思った。しかし私は女である。たとえ説教できたとしても、女の私が説教すれば、友人や親族のあいだで笑いものになり、さげすまれるだろう。そして、主の栄光ある働きにそしりを招くだろう。
 
 Always when I had trouble I would flee to the strong-hold of faith and grace and prayer.
 苦しいときにはいつも、私は信仰と恵みと祈りのとりでに逃げ込んだ。
 But when I went in secret to pray the words seemed to come to me, "You deny me before men, and I will deny you before my Father and the holy angels."
-ところが、ひそかに祈りに行くと、こういう言葉が臨むように思えた。「あなたは人の前でわたしを拒んでいる。わたしも、父と聖なる御使たちの前で、あなたを拒むであろう」
+ところが、ひそかに祈りに行くと、こういう言葉が臨むように思えた。「あなたは人の前でわたしを拒んでいる。わたしもまた、わたしの父と聖なる御使たちの前で、あなたを拒むであろう」
 Then I would go to my Bible and search for teachings and examples.
 そこで私は聖書を開き、教えと手本を探した。
 Who made sport of Miriam when the poet said:
@@ -83,7 +83,7 @@ And after her they shouting danced."
 そのあとに従い、叫びつつ踊った」<br/>
 
 Again, the Lord put his erring people in remembrance of his great blessing to Israel when he said, "Did I not send thee Moses and Aaron and Miriam to be your leaders?"
-また、主は迷い出た民に、イスラエルに与えた大きな祝福を思い起こさせて、こう言われた。「わたしはモーセ、アロンおよびミリアムをつかわして、あなたがたを導かせたではないか」
+また、主は迷い出た民に、イスラエルにお与えになった大きな祝福を思い起こさせるために、こう言われた。「わたしはモーセ、アロンおよびミリアムをつかわして、あなたがたを導かせたではないか」
 And again the prophets were ordained of God.
 また、預言者たちも神に任じられた。
 And when there was trouble on hand Barak dare not meet the enemy unless Deborah led the van.
@@ -92,7 +92,7 @@ And the noble woman, always ready to work for God and his cause, said, "I will s
 すると、いつでも神とその働きのために働こうとしていたこのけだかい女性は、言った。「必ず行きます。神の民を敵のえじきにしてはなりません」「いいえ、決して。イスラエルの男たちを呼び集めなさい。シセラの大軍が集まっています」
 
 As I continued to read my Bible I saw that in all ages of the world the Lord raised up of his own choosing, men, women, and children--Miriam, Deborah, Hannah, Hulda, Anna, Phoebe, Narcissus, Tryphena, Persis, Julia, and the Marys, and the sisters who were co-workers with Paul in the gospel, whose names were in the Book of Life, and many other women whose labors are mentioned with praise.
-聖書を読み続けるうちに、私にはわかった。世のどの時代にも、主はご自分で選んで、男も女も子供も起こしてこられた。ミリアム、デボラ、ハンナ、ホルダ、アンナ、フィベ、ナルキソ、ツルパナ、ペルシス、ユリヤ、マリヤたち。福音のためにパウロと共に働いた姉妹たちは、その名がいのちの書に記されていた。そのほかにも、働きをたたえられた女性は多い。
+聖書を読み続けるうちに、私にはわかった。世のどの時代にも、主はご自分でお選びになって、男も女も子供も起こしてこられた。ミリアム、デボラ、ハンナ、ホルダ、アンナ、フィベ、ナルキソ、ツルパナ、ペルシス、ユリヤ、マリヤたち。福音のためにパウロと共に働き、その名がいのちの書に記された姉妹たち。そして、そのほか、働きをたたえられている多くの女性たちである。
 // ナルキソ（ローマ一六・一一）は男性だが、英文のとおり女性の列に入れた。
 Even the children were made the instruments of his praise and glory.
 子供たちでさえ、主の誉れと栄光を現す器とされた。
@@ -103,12 +103,12 @@ See I. Samuel iii. 4; Jeremiah i. 6; Numbers xxii. 28.
 The more I investigated the more I found to condemn me.
 調べれば調べるほど、私を責めるものが見つかった。
 There was the Master giving one, two, and five talents, and the moral obligation of each person receiving them and their several rewards.
-主人が一タラント、二タラント、五タラントを与えるたとえがあった。それを受けた者には、それぞれ果たすべき務めがあり、それぞれの報いがあった。
+主が一タラント、二タラント、五タラントをお与えになるたとえがあった。それを受けた者には、それぞれ果たすべき務めがあり、それぞれの報いがあった。
 I had one talent, which was hidden away.
 私には一タラントがあったが、それを隠したままにしていた。
 
 By the Prophet Joel we learn that one special feature of the gospel dispensation shall be, "Your sons and daughters shall prophesy, your old men shall dream dreams, your young men shall see visions; and also upon my servants and handmaids in those days will I pour out my Spirit."
-預言者ヨエルによって、福音の時代の特別なしるしの一つがこうであると、私たちは教えられる。『あなたがたのむすこ、娘は預言をし、あなたがたの老人たちは夢を見、あなたがたの若者たちは幻を見る。その日わたしはまたわが霊をしもべ、はしために注ぐ』（ヨエル二・二八〜二九）。
+預言者ヨエルによって、福音の時代ならではの特色の一つがこうであると、私たちは教えられる。『あなたがたのむすこ、娘は預言をし、あなたがたの老人たちは夢を見、あなたがたの若者たちは幻を見る。その日わたしはまたわが霊をしもべ、はしために注ぐ』（ヨエル二・二八〜二九）。
 It seems by the Prophet Joel, that the last days were to be particularly conspicuous for this kind of prophesying.
 預言者ヨエルによれば、終わりの日は、とりわけこのような預言がきわだつ時となるようである。
 We cannot reserve God's decree, for it is said: "Heaven and earth shall pass away, but the Word of God shall endure forever."
@@ -133,13 +133,13 @@ And is it less becoming for women to labor in Christ's kingdom or vineyard now, 
 そして今、女性がキリストの御国、キリストのぶどう園で働くことは、そのころよりもふさわしくないことなのか。
 
 If you determine that there is no acceptable preaching only through a called ministry, who will arrogate to himself the power to determine the calling, seeing that none are invested with miraculous power?
-召された教職によらなければ受け入れられる説教はない、と決めるのなら、だれがその召しを見定める力を自分のものとするのか。奇跡の力を授けられた者は、だれもいないというのに。
+召された伝道者によらなければ神に受け入れられる説教はない、と決めるのなら、だれが、その召しを見定める力を勝手に自分のものとするのか。奇跡の力を授けられた者は、だれもいないというのに。
 
 But should you deny that there is any divine authority by which the word is preached, why not offer the most encouragement to those who may labor the most successfully?
 しかし、みことばを宣べ伝えるのに神の権威などないと言うのなら、最も実を結ぶ働きをする人を最も励ましてよいではないか。
 There will be a time when all good workers will meet a just recompense; for it is said: "Every valley shall be exalted, and every mountain and hill shall be made low; and the crooked shall be made straight, and the rough places plain; and the glory of the Lord shall be revealed, and all flesh shall see it together; for the mouth of the Lord hath spoken it."
 良い働き人がみな、正しい報いを受ける時が来る。こう言われているからである。『もろもろの谷は高くせられ、もろもろの山と丘とは低くせられ、曲った所はまっすぐになり、険しい所は平地となる。こうして主の栄光があらわれ、人は皆ともにこれを見る。これは主の口が語られたのである』（イザヤ四〇・四〜五）。
-// 「曲った所はまっすぐになり」は、口語訳の「高低のある地は平らになり」を欽定訳の the crooked shall be made straight に合わせて言い換えた。
+// 「曲った所はまっすぐになり」は、口語訳のイザヤ四〇・四 の第三句（平らになり）を欽定訳の the crooked shall be made straight に合わせて言い換えた。
 
 The first meeting that I undertook to hold was in a little town where we had lived some years before, right among my husband's people.
 私が初めて開こうとした集会は、数年前に私たちが住んでいた小さな町でのことだった。まさに夫の身内の人々のただ中である。
@@ -149,26 +149,26 @@ As I rose to speak, this text came to my mind: "Set thy house in order, for thou
 語ろうとして立ち上がると、この聖句が心に浮かんだ。『あなたの家を整えておきなさい。あなたは死にます、生きながらえることはできません』（イザヤ三八・一）。
 
 When I began to talk upon the subject the man-fearing spirit left me, and the words came to me faster than I could give them utterance.
-その主題について語りはじめると、人を恐れる心は私を離れた。そして、口に出すのが追いつかないほど早く、言葉が与えられた。
+その主題について語りはじめると、人を恐れる心は私を離れた。そして、口に出すのが追いつかないほど速く、言葉が与えられた。
 My sister-in-law broke down and left the house.
 義理の姉妹は泣き崩れて、会堂から出て行った。
 We continued the meeting a few days, and twenty claimed to be converted.
-集会を数日続けると、二十人が回心したと言った。
+集会を数日続けると、二十人が回心を告白した。
 People were converted all through the neighborhood.
 その一帯のいたるところで、人々が回心した。
 One who came to this meeting afterward became my son-in-law.
 この集会に来ていたひとりは、のちに私の娘婿になった。
 
 I continued to keep house, and spent as much time in holding meetings as I could, to give my husband a chance to attend his work.
-私は家事を続けながら、できるだけ多くの時間を集会に充てた。夫が自分の仕事に専念できるようにするためである。
+夫が自分の仕事に専念できるように、私は家事を続けながら、できるだけ多くの時間を集会に充てた。
 I was anxious to raise money for us to go West.
 私たちが西部へ行くための資金を、何とかして集めたかった。
 I would ride seven miles and hold meeting on Saturday evening, and three meetings on Sabbath--sometimes in different churches--and then ride home over a hilly and rough road.
 七マイルの道を馬で行き、土曜日の夜に集会を開いた。日曜日には三回、ときにはそれぞれ別の教会で集会を開き、それから起伏の多い悪路を馬で帰った。
 By this time I would be nearly exhausted and hardly able to walk around to do my work.
-そのころには、私はほとんど疲れ果て、家の仕事をするのに歩き回ることもままならなかった。
+家に帰り着くころには、私はほとんど疲れ果て、家の仕事をするのに歩き回ることもままならなかった。
 But the last of the week I would go again; and often through the week I held meetings in the towns around where I was born and raised, where we had lived since we were married.
-それでも、週の終わりにはまた出かけた。週日にもよく、私の生まれ育った町々の近くで集会を開いた。結婚してから私たちが住んでいたあたりである。
+それでも、週の終わりにはまた出かけた。週日にもよく、私が生まれ育った土地のまわりの町々で集会を開いた。結婚してから私たちが住んでいたあたりである。
 
 It was a cross for me to speak before my own folks, and the people whom I had always known.
 身内の者や、昔から知っている人々の前で話すのは、私にとって十字架だった。
@@ -199,7 +199,7 @@ I began to plead with Jesus.
 I told him he had called me to preach; that here was this starving multitude and I had no bread to give them.
 私は主に申し上げた。あなたが私を説教に召されたのです。ここに飢えた群衆がいるのに、私には与えるパンがありません、と。
 To verify his promise and to glorify himself in manifesting his power to this people, the words came to me, "What are you going to do with Jesus, that is called the Christ?" and also the place to find the text.
-すると、主は約束をたがえず、この人々に力を現してご自分の栄光を現そうとされた。私に言葉が臨んだのである。「キリストといわれるイエスを、あなたがたはどうするのか」。その聖句のある箇所も示された。
+すると、主は約束をたがえず、この人々に御力を示して、ご自分の栄光を現そうとされた。私に言葉が臨んだのである。「キリストといわれるイエスを、あなたがたはどうするのか」その聖句のある箇所も示された。
 Jesus seemed to whisper in my ear, "I am with you; be not afraid."
 イエスが私の耳にささやかれるようだった。「わたしはあなたと共にいる。恐れるな」
 I opened the meeting and repeated the text.
@@ -239,7 +239,7 @@ I had to do all the talking, all-the praying, and all the singing.
 語るのも、祈るのも、歌うのも、すべて私ひとりでしなければならなかった。
 // 英文の all-the は all the と読んだ。
 But God was there in mighty power.
-しかし、神はそこに大いなる力をもっておられた。
+しかし、神は大いなる力をもってそこにおられた。
 Some of those infidels turned pale and trembled in their seats.
 不信者のなかには、青ざめて、座ったまま震える者もいた。
 For a few days I could hardly find a place to stay.
@@ -277,7 +277,7 @@ Different ministers promised to furnish them with preaching.
 The people said it was a glorious work, but that it could not last; that when I left it would go down.
 人々は言った。すばらしい働きだが、長続きはしないだろう。私が去れば、すたれてしまうだろう、と。
 Bless God, I have heard of only one who went back to the world!
-神はほむべきかな。この世に戻った人は、ひとりしか聞いていない！
+神はほむべきかな。この世に戻った人のことは、ひとりしか聞いていない！
 
 Praise God, the work is going on, and the wilderness of sin has been made to blossom as the rose! where there was cursing and blaspheming, there is singing and praising God.
 神をほめたたえよ。働きは続いており、罪の荒野は、ばらのように花咲いた！　のろいと冒涜の言葉があったところに、歌と神への賛美がある。
@@ -293,7 +293,7 @@ We are nothing but the clay God speaks through.
 It is "Not by might, but by Spirit, saith the Lord of Hosts."
 『これは権勢によらず、わたしの霊によるのである』と万軍の主は仰せられる（ゼカリヤ四・六）。
 If the Holy Spirit is dwelling in our hearts and shining out through our lives and actions; if we, by faith, take God at his word, we will find at all times and places that his grace is sufficient, and he will give us victory every time.
-聖霊が私たちの心に住み、生活と行いを通して輝き出ているとしよう。そして信仰によって、神の言葉をそのまま受け取るとしよう。そうすれば私たちは知るだろう。いつでも、どこでも、神の恵みは十分であり、神はそのたびに勝利を与えてくださることを。
+聖霊が私たちの心に住まわれ、生活と行いを通して輝き出ておられるとしよう。そして信仰によって、神の言葉をそのまま受け取るとしよう。そうすれば私たちは知るだろう。いつでも、どこでも、神の恵みは十分であり、神はそのたびに勝利を与えてくださることを。
 We must claim the victory by faith, before the walls fall. (Joshua, 6.20.)
 城壁が崩れ落ちる前に、信仰によって勝利を自分のものとしなければならない（ヨシュア六・二〇）。
 
