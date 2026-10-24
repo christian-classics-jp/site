@@ -9,7 +9,7 @@
 ## 翻訳進捗表
 
 + [x] Preface / Introduction
-+ [ ] Chapter I. The Spirit--A Person
++ [x] Chapter I. The Spirit--A Person
 + [ ] Chapter II. Symbols of the Spirit
 + [ ] Chapter III. The Seven Spirits of God
 + [ ] Chapter IV. The Manifestation of the Spirit (1)
