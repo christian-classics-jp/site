@@ -38,7 +38,7 @@
 + [x] Part II. Memories of the Camp / A Monday Night Meeting / Some Things Which I Saw / Wonderful Downpour at Victoria Hall / San Francisco Revival
 + [x] Part III. Come--If--But / What Shall I Do with Jesus?
 + [x] Part III. Which Road?
-+ [ ] Part III. Behold, the Man! / Barabbas
++ [x] Part III. Behold, the Man! / Barabbas
 + [ ] Part III. A Certain Man Went Down
 + [ ] Part III. Hast Thou Not Known Me? / Liberty Bonds--"Over There"
 + [ ] Part III. Modern Warfare--"Over the Top" / The Red Cross
