@@ -41,7 +41,7 @@
 + [x] Part III. Behold, the Man! / Barabbas
 + [x] Part III. A Certain Man Went Down
 + [x] Part III. Hast Thou Not Known Me? / Liberty Bonds--"Over There"
-+ [ ] Part III. Modern Warfare--"Over the Top" / The Red Cross
++ [x] Part III. Modern Warfare--"Over the Top" / The Red Cross
 + [ ] Part III. The Two Houses
 + [ ] Part III. Lost and Restored
 + [ ] Part III. The Three Dispensations (1)
