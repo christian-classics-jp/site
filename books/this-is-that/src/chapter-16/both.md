@@ -13,7 +13,7 @@ THE cars were filled with workers as we left Washburn, singing and praising the 
 私たちがウォッシュバーンを発ったとき、車は働き手でいっぱいだった。田舎道を走りながら、私たちは歌い、主を賛美した。兄弟たちはメガホンで、救いのメッセージと、主がまもなく来られることを叫んだ。車には大きな金文字で、イエスがまもなく来られることと、『あなたはどこで永遠を過ごすのか』という問いが書いてあった。それが人々の目を大いに引いた。旅の途中で何百もの町や村を通り抜けるとき、私たちは歌ったり、証ししたり、伝道文書を配ったりする。そして多くの飢えた魂に出会うのである。
 
 We traveled all the day, slept by the wayside at night and the Lord always had a place prepared. We have our Gospel Autos so arranged that we can turn the front seat back and sleep in the car, and the big out doors is our home. With joy we kneeled by the running board at night to pray and thank the Father for this glorious opportunity of preaching the Gospel far and wide in the otherwise unattainable places.
-私たちは一日じゅう旅をし、夜は道ばたで眠った。主はいつも場所を備えてくださった。福音自動車は、前の座席を後ろへ倒して、車の中で眠れるようにしてある。広い野外が私たちの家である。夜には、車のステップのそばに喜んでひざまずいて祈った。ほかの方法では行き着けない所にまで、広く福音を宣べ伝える。そのような栄光ある機会を与えてくださったことを、天の父に感謝したのである。
+私たちは一日じゅう旅をし、夜は道ばたで眠った。主はいつも場所を備えてくださった。福音自動車は、前の座席を後ろへ倒して、車の中で眠れるようにしてある。広い野外が私たちの家である。夜には、車のステップのそばに喜んでひざまずいて祈った。ほかの方法では行き着けない所にまで、広く福音を宣べ伝えることができる。この栄光ある機会を与えてくださったことを、天の父に感謝したのである。
 
 Oh that you could see the hungry faces that gather around and listen to the Word in the South. Frequently men step out from the crowd during street meeting, and kneel weeping, at the running board of the car, then rise to testify of a determination to go through with Jesus.
 ああ、南部で集まって来てみことばに耳を傾ける、あの飢えた顔を見ていただけたら。路傍集会の最中に、男の人が群衆の中から進み出ることがよくある。そして車のステップのところにひざまずいて泣き、それから立ち上がって、イエスとともに貫き通す決意を証しするのである。
@@ -22,7 +22,7 @@ All through Virginia, North and South Carolina, and Georgia, we visited many poo
 バージニア、ノースカロライナ、サウスカロライナ、ジョージアを回った。私たちは多くの貧しい家や、綿畑、たばこ畑などを訪ね、愛のメッセージを伝えた。貧しい黒人の人々は、なんと熱心にみことばを聞き、新聞を受け取ったことか。こうして、貧しい人々は福音を聞かされている。ほかのどんな方法でも聞くことのできない人々が、イエスがまもなく来られることを聞くのである。尊い魂がかかっている。一刻も無駄にはできない。それで私たちは叫ぶ。
 
 "Here am I. Lord, send me." Pray that we may be faithful, unselfish, humble, and quick--that we may never lose an opportunity of preaching, instant in season and out of season, the soon coming of Jesus, and what it means to be ready to meet Him. We want to lay down our lives for the Master as He laid down His life for us.
-『ここにわたしがおります。主よ、わたしをおつかわしください』（イザヤ六・八）。私たちが忠実で、自分を捨て、へりくだり、機敏であるように祈っていただきたい。時が良くても悪くても、説教する機会を決して逃さないように。イエスがまもなく来られること、そして主に会う備えができているとはどういうことかを、宣べ伝えるのである。主が私たちのためにいのちを捨ててくださったように、私たちも主のためにいのちを捨てたい。
+『ここにわたしがおります。主よ、わたしをおつかわしください』（イザヤ六・八）。私たちが忠実で、自分を捨て、へりくだり、機敏であるように祈っていただきたい。時が良くても悪くても、イエスがまもなく来られることと、主に会う備えができているとはどういうことかを説教する。その機会を決して逃さないように。主が私たちのためにいのちを捨ててくださったように、私たちも主のためにいのちを捨てたい。
 
 "He who saveth his life shall lose it, but he that loseth his life for My sake shall find it"
 『自分の命を救おうと思う者はそれを失い、わたしのために自分の命を失う者は、それを見いだすであろう』（マタイ一六・二五）
@@ -55,7 +55,7 @@ PLEASANT GROVE CAMP MEETING.
 ## プレザント・グローブのキャンプ集会
 
 God led us, with marching and singing, to encompass the camp and lay hands upon seats, altar, etc., and claim them for Jesus. The glory of the Lord was in our midst. The tabernacle was filled to overflowing and the groves strewn with autos and teams from forty miles around. A spirit of sweet unity and humility prevailed. There were wonderful messages in prophecy and prophetic song. Dramas were worked out, accompanied by tongues and interpretation. Heavenly music filled the place, and angel choirs were heard.
-神に導かれて、私たちは行進し、歌いながらキャンプ場を巡った。そして座席や祭壇などに手を置き、それらをイエスのものとして求めた。主の栄光が私たちのただ中にあった。幕屋はあふれるほど満ち、林には四十マイル四方から来た自動車や馬車が散らばっていた。やさしい一致とへりくだりの霊が満ちていた。預言や預言の歌による、すばらしいメッセージがあった。異言と解き明かしを伴って、劇が演じられた。天の音楽がその場を満たし、御使の聖歌隊の歌声が聞こえた。
+神に導かれて、私たちは行進し、歌いながらキャンプ場を巡った。そして座席や祭壇などに手を置き、それらをイエスのものとして求めた。主の栄光が私たちのただ中にあった。幕屋はあふれるほど満ち、林には周り四十マイルから来た自動車や馬車が散らばっていた。やさしい一致とへりくだりの霊が満ちていた。預言や預言の歌による、すばらしいメッセージがあった。異言と解き明かしを伴って、劇が演じられた。天の音楽がその場を満たし、御使の聖歌隊の歌声が聞こえた。
 
 Deep conviction rested on many, and the altar filled with sinners seeking salvation. One dear little girl who received the baptism plead with all, in tongues and English, while under the power, to come to that beautiful city of God.
 深い罪の自覚が多くの人の上にとどまり、祭壇は救いを求める罪人で満ちた。バプテスマを受けた一人の愛らしい小さな女の子は、神の力に打たれたまま、異言と英語でみなに訴えた。あの美しい神の都に来てください、と。
@@ -67,7 +67,7 @@ With much faith and eager hands upon arriving we set to work getting up the big 
 着くとすぐ、私たちは大きな信仰をもって、意気込んで仕事に取りかかった。大天幕といくつかの小さな天幕を立て、座席を作り、電気の設備を取り付け、看板を描き、広告を出した。住宅地と商業地区を、ちらしを持って回った。神は私たちの働きを祝福してくださった。天幕は満員になり、大勢の人が外に立った。毎晩、新しい顔が多く見えた。彼らは『これは、いったい、どういうわけなのだろう』と尋ねた（使徒二・一二）。そして前へ前へと近づいて来て、多くの人がまもなく泉に飛び込んだ。
 
 An elderly lady, from a highly respected family of the city, after hearing Pentecost spoken against in persecuting tones, decided to come and judge for herself. Interested from the start, she attended regularly, later accompanied by her son and daughter-in-law. Soon she was gloriously baptized with the Holy Spirit; then the daughter, a dear, sweet Christian, began very earnestly seeking Him, and her husband said he could barely keep in his seat, the power of God for salvation of his soul was so strongly upon him.
-町でたいへん尊敬されている家の、年配の婦人がいた。彼女は、ペンテコステが迫害するような口調でそしられるのを聞き、自分の目で確かめようと来た。初めから関心を持ち、欠かさず集会に通った。のちには息子と息子の妻もいっしょに来た。まもなく彼女は、栄光のうちに聖霊のバプテスマを受けた。続いて、息子の妻もたいへん熱心に主を求め始めた。愛らしく、やさしいキリスト者である。その夫は、席にじっと座っているのがやっとだったと言った。魂の救いを求めさせる神の力が、それほど強く臨んでいたのである。
+町でたいへん尊敬されている家の、年配の婦人がいた。彼女は、ペンテコステが迫害するような口調でそしられるのを聞き、自分の目で確かめようと来た。初めから関心を持ち、欠かさず集会に通った。のちには息子と息子の妻もいっしょに来た。まもなく彼女は、栄光のうちに聖霊のバプテスマを受けた。続いて、息子の妻もたいへん熱心に聖霊を求め始めた。愛らしく、やさしいキリスト者である。その夫は、席にじっと座っているのがやっとだったと言った。彼の魂を救おうとする神の力が、それほど強く臨んでいたのである。
 
 7, Street meetings were held from trucks and Gospel cars in many parts of Tampa and Ybor j City, and from the band stand in front of the City Hall.
 // 英文は「7, Street meetings」「Ybor j City」。行頭の 7, と j は崩れとみて訳さなかった。
@@ -102,13 +102,13 @@ Because of the strong racial feeling, the dear colored people did not feel free 
 人種の隔てが強かったので、愛する黒人の人々は、白人の集会に気軽に来ることができなかった。主は私の心に、黒人の人々へのたいへんな愛を注いでくださった。通りで彼らのだれかとすれ違うと、心に愛があふれてきて、素通りすることはほとんどできなかった。私は近寄って、こう尋ねずにはいられなかった。
 
 "Have you ever heard of the latter rain outpouring of the Holy Spirit, the baptism of the Holy Ghost with the Bible evidence, speaking in tongues, and of the soon coming of Jesus?" I think they must have felt my love for them for they flocked about me whilst visiting and distributing tracts in their neighborhoods. Thus it was that after the white camp meeting we moved our equipment to the other side of town amongst these precious people.
-「後の雨の聖霊の注ぎのことを聞いたことがありますか。異言で語るという聖書的なしるしを伴う聖霊のバプテスマのことや、イエスがまもなく来られることを聞いたことがありますか」彼らは、私の愛を感じ取っていたに違いないと思う。彼らの住む地域を訪ねて伝道文書を配っていると、みな私の周りに群がってきたからである。こうして、白人のキャンプ集会のあと、私たちは道具を町の反対側へ移し、この尊い人々のあいだで集会を開いた。
+「後の雨の聖霊の注ぎのことを聞いたことがありますか。異言で語るという聖書的なしるしを伴う聖霊のバプテスマのことや、イエスがまもなく来られることを聞いたことがありますか」彼らは、私の愛を感じ取っていたに違いないと思う。彼らの住む地域を訪ねて伝道文書を配っていると、みな私の周りに群がってきたからである。こうして、白人のキャンプ集会のあと、私たちは道具を、町の反対側の、この尊い人々のもとへ移した。
 
 ## マイアミの黒人のキャンプ集会
 MIAMI COLORED CAMP MEETING.
 
 The tabernacle was filled, night after night, with precious black pearls to be gathered for Jesus. Picture a great platform thirty-two feet long and twelve feet wide, filled with baptized, colored saints, dancing, singing, clapping their hands, testifying with unction and a clear ring that carried conviction. Picture an audience where the power of God fell till often the evangelist could not minister, but the Spirit took full control; picture the colored saints, old and young, dancing in the aisles, sinners weeping their way to the altar, seekers receiving the Holy Spirit, and talking in tongues, and then you would see only a little corner of this meeting.
-幕屋は毎晩満員だった。イエスのために集められるべき、尊い黒真珠たちである。想像していただきたい。長さ十メートル、幅三メートル半ほどの大きな壇がある。その壇は、バプテスマを受けた黒人の聖徒たちでいっぱいである。彼らは踊り、歌い、手をたたき、油注ぎをもって証しする。その澄んだ響きは、聞く者に罪の自覚をもたらす。また想像していただきたい。神の力が下り、伝道者はしばしば語ることができず、御霊がすっかり導かれる会衆を。黒人の聖徒たちが老いも若きも通路で踊り、罪人たちが泣きながら祭壇へ向かい、求める人たちが聖霊を受けて異言で語っているさまを。それを想像しても、この集会のほんの片隅を見たにすぎないだろう。
+幕屋は毎晩満員だった。イエスのために集められるべき、尊い黒真珠たちである。想像していただきたい。長さ十メートル、幅三メートル半ほどの大きな壇がある。その壇は、バプテスマを受けた黒人の聖徒たちでいっぱいである。彼らは踊り、歌い、手をたたき、油注ぎをもって証しする。その澄んだ響きは、聞く者に罪の自覚をもたらす。また想像していただきたい。神の力が下り、伝道者はしばしば語ることができず、御霊がすっかり導かれる会衆を。黒人の聖徒たちが老いも若きも通路で踊るさまを。罪人たちが泣きながら祭壇へ向かい、求める人たちが聖霊を受けて異言で語るさまを。それを想像しても、この集会のほんの片隅を見たにすぎないだろう。
 
 At times the power fell till every one raised faces shining with heaven's light, just shouted, and praised the Lamb for sinners slain, till the noise could be heard blocks away, and people came running to cry: "What meaneth this?"
 ときには神の力が下って、みなが天の光に輝く顔を上げた。そしてただ叫び、罪人のためにほふられた小羊をほめたたえた。その声は何ブロックも先まで聞こえた。人々が駆けつけて来て、『これは、いったい、どういうわけなのだろう』と叫んだ（使徒二・一二）。
@@ -126,7 +126,7 @@ Some two hundred colored saints have the baptism of the Spirit in Miami, and man
 マイアミでは二百人ほどの黒人の聖徒たちが、御霊のバプテスマを受けている。さらに多くの人が求め、受けている。
 
 The people are very poor, and go to meeting in aprons and overalls. Collections very small, and were it not for the dear friends sending offerings in letters, we would have fallen further behind financially than we did. Several times, when we were wondering how to meet the heavy expenses of freight, gas, oil, lumber, lights, groceries, clothing, the needed amount came on the next mail from some child of God whom Father had been telephoning to. Thank God that even in these days, when prices are soaring, it is possible to live a life of faith. It has meant self sacrifice, and in our reports we endeavor to picture the sunny side, to encourage the many who live far from meetings, but fail, perhaps, to show the other side, where sometimes in driving rains, we find our sleeping tents ankle deep in water, our bedding wet, where we struggle to cook on smoky oil stoves and yet keep singing and smiling, fighting the good fight of faith.
-人々はたいへん貧しく、エプロンや作業着のまま集会に来る。献金はごくわずかだった。愛する友人たちが手紙に献金を入れて送ってくれなかったら、私たちの財政は実際よりもっと赤字になっていただろう。貨物の運賃、ガソリン、オイル、材木、照明、食料品、衣服と、重い出費をどうまかなおうかと思ったことが何度もあった。そのたびに、次の郵便で、必要な額がだれか神の子供から届いた。天の父がその人に電話をかけておられたのである。物価が高騰している今の時代でも、信仰の生活を送ることができる。そのことを神に感謝する。それは自己犠牲を意味した。私たちは報告では、明るい面を描くように努めている。集会から遠く離れて暮らす多くの人を励ますためである。けれども、もう一方の面はたぶん描けていない。たたきつける雨の中で、寝るための天幕がくるぶしまで水に浸かり、寝具がぬれていることもある。煙を出す石油こんろで苦労して料理しながらも、私たちは歌い、ほほえみ、信仰の戦いを戦い続けているのである。
+人々はたいへん貧しく、エプロンや作業着のまま集会に来る。献金はごくわずかだった。愛する友人たちが手紙に献金を入れて送ってくれなかったら、私たちの財政は実際よりもっと赤字になっていただろう。貨物の運賃、ガソリン、オイル、材木、照明、食料品、衣服と、重い出費をどうまかなおうかと思ったことが何度もあった。そのたびに、次の郵便で、必要な額がだれか神の子供から届いた。天の父がその人に電話をかけておられたのである。物価が高騰している今の時代でも、信仰の生活を送ることができる。そのことを神に感謝する。それには自己犠牲が伴った。私たちは報告では、明るい面を描くように努めている。集会から遠く離れて暮らす多くの人を励ますためである。けれども、もう一方の面はたぶん描けていない。たたきつける雨の中で、寝るための天幕がくるぶしまで水に浸かり、寝具がぬれていることもある。煙を出す石油こんろで苦労して料理しながらも、私たちは歌い、ほほえみ、信仰の戦いを戦い続けているのである。
 
 ## キー・ウェストをイエスのために
 KEY WEST FOR JESUS.
@@ -136,7 +136,7 @@ In the Island of Key West doors opened everywhere. Many begged us to ship our te
 キー・ウェストの島では、至る所で戸が開かれた。多くの人が、天幕をここに送って、島の隅々まで届く伝道集会を開いてほしいと頼んだ。彼らは手伝いと祈りを申し出た。こんなに辺鄙な所まで来る伝道者はめったにいない、町じゅうが集会に出てくるだろう、と言うのだった。
 
 The grounds of the Harris High School (beautifully located) was chosen as a site for the tent meetings. Every seat was taken nightly and many were standing. New seats were obtained three times and arranged outside of the tent, but it was impossible to seat the large audiences. Ofttimes the tent was filled two hours before meeting was to begin, so anxious were these hungry souls to obtain seats. Men and women came to the altar for salvation, and for the baptism of the Holy Spirit. Sick were healed and the Lord gave me blessed liberty in proclaiming the message of the hour.
-ハリス中等学校の校庭が、天幕集会の場所に選ばれた（美しい所にある）。毎晩、座席はすべて埋まり、大勢が立っていた。新しい座席を三度手に入れて天幕の外に並べたが、大勢の聴衆を座らせることはできなかった。集会の始まる二時間前に、天幕が満員になることもたびたびあった。この飢えた魂たちは、それほど席を取ろうと必死だったのである。男も女も、救いと聖霊のバプテスマを求めて祭壇に来た。病人はいやされた。主は、今の時のメッセージを宣べ伝える尊い自由を、私に与えてくださった。
+美しい所にあるハリス中等学校の校庭が、天幕集会の場所に選ばれた。毎晩、座席はすべて埋まり、大勢が立っていた。新しい座席を三度手に入れて天幕の外に並べたが、大勢の聴衆を座らせることはできなかった。集会の始まる二時間前に、天幕が満員になることもたびたびあった。この飢えた魂たちは、それほど席を取ろうと必死だったのである。男も女も、救いと聖霊のバプテスマを求めて祭壇に来た。病人はいやされた。主は、今の時のメッセージを宣べ伝える祝福に満ちた自由を、私に与えてくださった。
 
 My soul was so burdened for the dear colored people that I announced from the public platform that I had done my duty in the Lord toward the white population of the Island, and must risk their displeasure and disapproval now by going to the poor colored folk and telling them the same story. Some remonstrated, but as they saw the earnestness and longing in my heart, almost all agreed to help, and gave us no humbler spot for said meeting than the spacious grounds that surrounded the court house.
 私の魂は、愛する黒人の人々のために重荷を負っていた。それで私は公の壇上から告げた。主にあって、島の白人の人々に対する務めは果たした。今は、皆さんの不興や反対を受けることになっても、貧しい黒人の人々のところへ行き、同じ話を伝えなければならない、と。いさめる人もいた。けれども、私の心の熱意と切なる願いを見て、ほとんどの人が助けることに同意してくれた。そして、その集会のために用意してくれたのは、ほかでもない、裁判所を囲む広い敷地だった。
@@ -170,7 +170,7 @@ We are not keeping count of the numbers of all that are being saved and getting 
 救われる人や、神のもとまで祈り抜く人の数を、私たちはいちいち数えてはいない。けれども、その名は小羊のいのちの書にしるされている。
 
 The poor and despised are having the gospel preached unto them, and God is honoring His own Word, preached in simplicity, but in demonstration and power with signs following.
-貧しい人々、さげすまれた人々が福音を聞かされている。神はご自分のみことばを重んじてくださる。みことばは素朴に宣べ伝えられているが、御霊と力の現れとともに、しるしを伴っているのである。
+貧しい人々、さげすまれた人々が福音を聞かされている。神はご自分のみことばを重んじてくださる。みことばは素朴に宣べ伝えられているが、力の現れとともに、しるしを伴っているのである。
 
 Wonderful visions are seen by many receiving the Holy Spirit. A sister saw a vision of the coming of the Lord, just after she had received the baptism. Leaping to her feet she cried aloud:
 聖霊を受ける多くの人が、すばらしい幻を見ている。ある姉妹は、バプテスマを受けた直後に、主の来臨の幻を見た。彼女は跳び上がって、大声で叫んだ。
@@ -199,7 +199,7 @@ We had expected to close here last night (Sunday, March 10th), but all begged fo
 昨夜（三月十日、日曜日）で、ここの集会を終えるつもりだった。けれども、みなが集会を続けてほしいと頼んだ。自分たちのペンテコステの伝道所を開けるだけの人数が、御霊を受けるまで続けてほしいというのである。
 
 My strength has been holding out in a remarkable way, through this strenuous winter, but at present I am very weak in body, and have to hang on to God for strength for each meeting. Please pray for me, saints, that I do not fail God. Souls are coming home to Jesus. All around are thousands of hungry souls. The harvest is great, the laborers few. As Brother McPherson is away again, I am alone, playing, leading, singing, preaching, and praying at the altar, besides having the Bridal Call to prepare, it is the only power of God that can sustain me. It is still a marvel in my eyes, the wonderful way the Lord helped me while left alone at Key West, to drive stakes, tie heavy guy ropes, and battle to keep the tent up, amidst wind and rain, sometimes preaching all day and sitting up the greater portion of the night to watch the tents and keep driving the stakes in with the big sledge-hammer, as fast as the wind pulled them out, through the night watches, while a three day nor'wester was on.
-この厳しい冬のあいだ、私の体力は驚くほど持ちこたえてきた。けれども今は体がたいへん弱っていて、集会のたびに力を求めて神にすがりついている。聖徒の皆さん、私が神の期待を裏切らないよう祈っていただきたい。魂がイエスのもとに帰って来ている。周りには何千もの飢えた魂がいる。『収穫は多いが、働き人が少ない』（マタイ九・三七）。夫のマクファーソン兄弟がまた留守なので、私は一人で奏楽も司会も歌も説教もし、祭壇で祈っている。そのうえ『ブライダル・コール』の準備もある。私を支えることができるのは、神の力だけである。キー・ウェストで一人残されたとき、主が私を助けてくださったありさまは、今も私の目には驚きである。私は杭を打ち込み、重い張り綱を結び、風雨の中で天幕を立てておこうと戦った。一日じゅう説教したうえに、夜の大半を起きていたこともあった。三日続いた北西の強風のあいだ、夜通し天幕を見張った。そして、風が杭を引き抜くそばから、大きな大槌で打ち込み続けたのである。
+この厳しい冬のあいだ、私の体力は驚くほど持ちこたえてきた。けれども今は体がたいへん弱っていて、集会のたびに力を求めて神にすがりついている。聖徒の皆さん、私が神の期待を裏切らないよう祈っていただきたい。魂がイエスのもとに帰って来ている。周りには何千もの飢えた魂がいる。『収穫は多いが、働き人が少ない』（マタイ九・三七）。夫のマクファーソン兄弟がまた留守なので、私は一人で奏楽も司会も歌も説教もし、祭壇で祈っている。そのうえ『ブライダル・コール』の準備もある。私を支えることができるのは、神の力だけである。キー・ウェストで一人残されたとき、主が私を助けてくださったありさまは、今も私の目には驚きである。私は杭を打ち込み、重い張り綱を結び、風雨の中で天幕を立てておこうと戦った。一日じゅう説教したうえに、夜の大半を起きていたこともあった。三日続いた北西の強風のあいだ、夜通し天幕を見張った。そして、風が杭を引き抜くそばから、重い大槌で打ち込み続けたのである。
 
 The wind died down and the meeting closed in triumphant success. The Lord sent a brother to help me take down the big tabernacle, and two colored sisters to assist me in taking apart some two hundred big long benches, pulling the nails and piling the lumber under the blazing sun, rolling the great strips of canvas, getting them into their bags and shipping them to the next place. Truly He gives His people supernatural strength when they are in the center of His will.
 風はやみ、集会は勝利のうちに大成功で終わった。主は、大きな幕屋を取り壊すのを手伝う兄弟を一人送ってくださった。また黒人の姉妹を二人送ってくださり、長い大きなベンチ二百脚ほどの解体を手伝ってもらった。照りつける太陽の下で、釘を抜き、材木を積み、大きな帆布を巻いて袋に詰め、次の場所へ送った。神の民が御心の真ん中にいるとき、神はまことに超自然の力を与えてくださる。
@@ -209,7 +209,7 @@ The farewell scene at the depot is a pleasant memory. The station platform was w
 駅での別れの光景は、楽しい思い出である。駅のホームは、白人と黒人の聖徒たちでいっぱいだった。最後の別れを言うために、朝早く起きて来てくれたのである。運賃の足しにと、ささやかな献金を持って来て、手を振って見送ってくれた。私が列車の昇降段に立っていると、何十人もが上がって来て私の手を握り、集会でどんなに祝福を受けたかを話してくれた。
 
 It was just at the time of my departure from Key West that my dear Mother, with Roberta (whom she had been caring for), joined me. She had told me, when I entered the work, that if ever I needed her help, no matter what it was, she would give it, and now I did need her help as never before. Being left alone so much, with the care of the tents, meetings, and an ever-growing correspondence which really needed the entire time of one person, the Bridal Call subscription lists, shipping of freight, arrangement of new meetings, my strength was giving way.
-私がキー・ウェストを発とうとしていたちょうどそのとき、愛する母が私のもとに来てくれた。世話をしてくれていたロバータもいっしょだった。私がこの働きに入ったとき、母は言ってくれていた。もし私に助けが要るときがあれば、それが何であっても助ける、と。そして今、私はかつてないほど母の助けを必要としていた。私はあまりにもしばしば一人で残され、天幕と集会の世話をしなければならなかった。増える一方の手紙のやりとりもあった。本当なら、一人が全部の時間をかけるべき量である。そのうえ『ブライダル・コール』の購読者名簿、貨物の発送、新しい集会の手配もあった。私の体力は尽きかけていた。
+私がキー・ウェストを発とうとしていたちょうどそのとき、愛する母が私のもとに来てくれた。母が世話をしてくれていたロバータもいっしょだった。私がこの働きに入ったとき、母は言ってくれていた。もし私に助けが要るときがあれば、それが何であっても助ける、と。そして今、私はかつてないほど母の助けを必要としていた。私はあまりにもしばしば一人で残され、天幕と集会の世話をしなければならなかった。増える一方の手紙のやりとりもあった。本当なら、一人が全部の時間をかけるべき量である。そのうえ『ブライダル・コール』の購読者名簿、貨物の発送、新しい集会の手配もあった。私の体力は尽きかけていた。
 
 Sister N (who assisted in duties about the tent) and myself were alone at night in the big: court yard, with drunken men and soldiers, reeling by the tents until all hours of the morning. God marvelously protected and cared for us insomuch that no one came near or molested us in any way. I was strongly impressed, however, to telegraph for my Mother to come to my assistance, not only because I needed the protection of a mother's presence, but to take hold of the business end of the work, and now, in answer to prayer and the appeal of the telegrams, here she was, sitting by my side as the train sped across the long bridges which spanned the ocean from island to island for the hundred miles back to the coast of Florida.
 // 英文は「the big: court yard」。the big court yard として訳した。
@@ -228,7 +228,7 @@ Our freight was delayed by an embargo, and our time limited, having only a littl
 貨物は輸送禁止令のために遅れた。私たちの時間も限られていた。ペンシルベニア州フィラデルフィアの全国キャンプ集会の準備のため、二週間あまりで北へ向かわなければならなかったのである。
 
 Inquiring of the Lord, as we drove along Main Street in our car, I saw a large, brown tent which would seat at least five hundred people more than our own tabernacle would hold. Inside we found a fine floor, formerly used as a skating rink. The Lord touched the owner's heart to rent us the tent at a small cost for our series of meetings. This was the first time the holding up of our freight had delayed a camp meeting, and Father had a better tent all up, empty and waiting for us, floor and all.
-車でメイン・ストリートを走りながら主に尋ねていると、大きな茶色の天幕が目に入った。私たちの幕屋より、少なくとも五百人は多く座れる天幕である。中には立派な床があった。以前はスケート場として使われていたのである。主は持ち主の心を動かして、一連の集会のあいだ、わずかな料金でその天幕を貸してくださった。貨物が止められたせいでキャンプ集会が遅れたのは、これが初めてだった。けれども天の父は、もっと良い天幕を床まで付けてすっかり立て、空のまま私たちを待たせておいてくださったのである。
+車でメイン・ストリートを走りながら主に尋ねていると、大きな茶色の天幕が目に入った。私たちの幕屋より、少なくとも五百人は多く座れる天幕である。中には立派な床があった。以前はスケート場として使われていたのである。主が持ち主の心を動かしてくださり、持ち主は一連の集会のあいだ、わずかな料金でその天幕を貸してくれた。貨物が止められたせいでキャンプ集会が遅れたのは、これが初めてだった。けれども天の父は、もっと良い天幕を床まで付けてすっかり立て、空のまま私たちを待たせておいてくださったのである。
 
 People warned us that Orlando was aristocratic, we need not expect them to come to a tent meeting, but we were sure God had not made a mistake in sending us, so we went to work. Notices were put in the papers, seats engaged, hand bills gotten out and meetings opened. So persistently did we advertise by hand bills, by numerous street meetings, driving up and down the streets, inviting people to come to the tent and hear more about it, that it is to be doubted whether there was anyone within a radius of several miles but what knew that there was a tent meeting in progress in Orlando.
 オーランドは上流の人たちの町だから、天幕集会に人が来るとは思わないほうがいい、と人々は私たちに忠告した。けれども私たちは、神が私たちを遣わされたことに間違いはないと確信していた。それで仕事に取りかかった。新聞に告知を出し、座席を手配し、ちらしを作り、集会を始めた。ちらしで、また何度もの路傍集会で、根気強く宣伝した。車で通りを行き来し、天幕に来てもっと話を聞くよう人々を招いた。周囲数マイル以内に、オーランドで天幕集会が開かれていることを知らない人がいたかどうか、疑わしいほどである。
@@ -237,7 +237,7 @@ At first many merely lined up their cars in the streets around the tent and list
 初めのうち、多くの人は天幕の周りの通りに車を並べ、威厳を保てるだけの距離から耳を傾けるだけだった。けれどもまもなく火が下り始め、氷が溶け始めた。人々は車を降りて天幕に入った。そして、神をほめたたえよ、多くの人が祭壇に来た。
 
 The crowds increased daily in numbers and interest. Six came to the altar for salvation the first meeting, and there was not a meeting but sinners were saved and believers baptized with the Spirit, night after night the long altar bench was filled and so were hungry hearts.
-群衆は、数も関心も日ごとに増した。最初の集会で六人が救いを求めて祭壇に来た。罪人が救われず、信者が御霊のバプテスマを受けない集会は、一つもなかった。毎晩、長い祭壇のベンチは埋まり、飢えた心も満たされた。
+群衆は、数も関心も日ごとに増した。最初の集会で六人が救いを求めて祭壇に来た。どの集会でも、罪人が救われ、信者が御霊のバプテスマを受けた。毎晩、長い祭壇のベンチは埋まり、飢えた心も満たされた。
 
 Never were we treated with more love and respect, each seemed to vie with the other to help and encourage us. First, (our small living tents not having arrived), a cottage by the lake, with a garage, was put at our disposal free of charge during our stay. The best bakery in town sent their delivery wagon, with such great baskets of bread, pies, cake and cookies, that we had enough to share with our people.
 これほどの愛と敬意をもって迎えられたことはなかった。だれもが競うように、私たちを助け、励まそうとしてくれた。まず、私たちの住むための小さな天幕がまだ届いていなかったので、湖のほとりの小さな家が提供された。ガレージ付きで、滞在中はただで使ってよいという。町でいちばんのパン屋は、配達の荷車をよこしてくれた。パン、パイ、ケーキ、クッキーの大きなかごをいくつも積んでいて、私たちの集会の人たちにも分けられるほどだった。
@@ -249,7 +249,7 @@ The tent, with a seating capacity of nearly fifteen hundred, was filled to overf
 千五百人近く座れるその天幕は、あふれるほど満ちた。通りには自動車やそのほかの乗り物が列をなした。さまざまな教会の牧師や働き手も来た。ある人たちは、これこそ自分たちの教会がかつて持っていた、長く失われていた力だと言った。あざけり笑う人たちもいた。
 
 Altogether the devil was afraid he was going to lose some of his people. So he had one lady who lived several blocks from the tent go to the police and protest that she could not sleep at night. The next evening a policeman brought a paper to the tent, stating that we must close our meeting at ten o'clock. Toward the end of my sermon I held a watch in my hand and kept looking at it as I spoke. I talked fast as I could, and at five minutes to ten told the people I knew they were hungry and would like to come to the altar, and that there were souls there that should be saved, but that a lady had complained of the noise, therefore we would all rise and be dismissed, and please not to stand or walk but to go out as quickly and quietly as possible.
-とにかく悪魔は、自分の手下を何人か失うのではないかと恐れたのである。そこで悪魔は、天幕から数ブロック離れた所に住む一人の婦人を警察に行かせ、夜眠れないと訴えさせた。次の晩、一人の警官が天幕に書類を持って来た。集会は十時で終えなければならない、と書いてあった。説教の終わり近く、私は時計を手に持ち、話しながら何度もそれに目をやった。できるだけ早口で話した。そして十時五分前に、人々にこう告げた。皆さんが飢え渇いていて、祭壇に来たいと思っていることはわかっている。ここには救われるべき魂がいる。けれども、ある婦人が騒がしいと苦情を言った。だから全員立ち上がって解散する。どうか立ち止まったり歩き回ったりせず、できるだけ早く静かに出ていただきたい、と。
+とにかく悪魔は、自分の側の人々を何人か失うのではないかと恐れたのである。そこで悪魔は、天幕から数ブロック離れた所に住む一人の婦人を警察に行かせ、夜眠れないと訴えさせた。次の晩、一人の警官が天幕に書類を持って来た。集会は十時で終えなければならない、と書いてあった。説教の終わり近く、私は時計を手に持ち、話しながら何度もそれに目をやった。できるだけ早口で話した。そして十時五分前に、人々にこう告げた。皆さんが飢え渇いていて、祭壇に来たいと思っていることはわかっている。ここには救われるべき魂がいる。けれども、ある婦人が騒がしいと苦情を言った。だから全員立ち上がって解散する。どうか立ち止まったり歩き回ったりせず、できるだけ早く静かに出ていただきたい、と。
 
 Will I ever forget the look on those people's faces! Some of them almost owned the town, and for them to be told they had to close a meeting at ten o'clock--some of the men snorted at the very thought, and on the way out said:
 あの人々の顔つきを、私は忘れることがあるだろうか！　中には、町をほとんど自分のものにしているような人たちもいた。その人たちが、十時に集会を終えなければならないと言われたのである。男の人たちの中には、考えただけで鼻を鳴らす人もいた。そして出て行きながら言った。
@@ -264,7 +264,7 @@ Will I ever forget the look on those people's faces! Some of them almost owned t
 「市長は私の友人だ。私が話をつけよう。心配はいらないよ、奥さん。明日の晩までには、すっかりけりがついているさ」
 
 Neighbors came up; people who had, up to this time, kept at arm's length and not been quite sure whether they approved of us or not, hesitated no longer, but were our warm friends from that time on.
-近所の人たちもやって来た。それまで距離を置き、私たちを認めてよいものかどうか決めかねていた人たちも、もうためらわなかった。その時から、彼らは私たちの温かい友となった。
+近所の人たちもやって来た。それまで距離を置き、私たちを認めてよいものかどうか決めかねていた人たちも、もうためらわなかった。そのときから、彼らは私たちの温かい友となった。
 
 True to their word they got together in groups on the streets talking it over. Next day a lady who was the owner of a large boarding house, went about the neighborhood and had a petition signed that this order should be cancelled, declaring that the noise did not bother them. This clipping appeared on the front page of one of the Orlando papers next day:
 彼らは約束どおり、通りのあちこちで集まって相談した。次の日、大きな下宿屋を営む一人の婦人が近所を回り、この命令の取り消しを求める請願書に署名を集めた。騒ぎなど迷惑ではない、というのである。次の日、オーランドのある新聞の一面に、次の記事が載った。
@@ -276,10 +276,10 @@ MRS. ROONEY AIDS CHURCH.
 ベティー・ルーニー夫人は、信仰の自由を愛するすべての人から感謝されてよい。大天幕で一連の集会を開いているマクファーソン夫人の救援に駆けつけ、助けたのである。
 
 "It seems that some one, whom Mrs. Rooney claimed lived at a distance, had the city officers close the meeting at an early hour on account of the noise of the speaking and singing interfering with their sleep, when Mrs. Rooney, good Christian woman that she is, immediately secured a petition with the names of twenty-five citizens living right near the gospel meetings, who protested to the Mayor against having the meetings broken up at so early an hour, which of course was acted on favorably, and the disgruntled ones will have to find something else to bring against the meeting.
-いきさつはこうらしい。ある人が、話し声や歌声で眠りが妨げられるというので、市の役人に集会を早い時刻に打ち切らせた。ルーニー夫人によれば、その人は遠くに住んでいるという。すると、善良なキリスト者の婦人であるルーニー夫人は、すぐに請願書を作った。福音集会のすぐ近くに住む二十五人の市民の名を集め、集会をそんなに早い時刻に打ち切らせることに、市長へ抗議したのである。もちろん、これは聞き入れられた。不満を抱く人たちは、集会を責めるのに何かほかのことを探さなければならないだろう。
+いきさつはこうらしい。ある人が、話し声や歌声で眠りが妨げられるというので、市の役人に集会を早い時刻に打ち切らせた。ルーニー夫人によれば、その人は遠くに住んでいるという。すると、善良なキリスト者の婦人であるルーニー夫人は、すぐに請願書を作った。福音集会のすぐ近くに住む二十五人の市民が、それに名を連ねた。市民たちは、集会をそんなに早い時刻に打ち切らせることに、市長へ抗議したのである。もちろん、これは聞き入れられた。不満を抱く人たちは、集会を責めるのに何かほかのことを探さなければならないだろう。
 
 "The only real charge against the meeting is that they preach the old fashioned GOSPEL, straight from the shoulder, and it makes some of the hifalutin frock-tails, who orate in the pulpit to swell congregations, who look through one eyeglass and wear silk tomfooleries, envious because of empty benches prevailing.
-この集会に対する本当の言いがかりはただ一つ、昔ながらの福音を、歯に衣着せずに宣べ伝えていることである。それが、一部の気取った燕尾服の連中をねたませているのだ。彼らは講壇から上流の会衆に向かって弁舌をふるい、片眼鏡をかけ、絹のつまらない飾りを身に着けている。そして空いた長椅子ばかりが目立つので、ねたんでいるのである。
+この集会に対する本当の言いがかりはただ一つ、昔ながらの福音を、歯に衣着せずに宣べ伝えていることである。それが、一部の気取ったフロックコートの連中をねたませているのだ。彼らは講壇から上流の会衆に向かって弁舌をふるい、片眼鏡をかけ、絹のつまらない飾りを身に着けている。そして空いた長椅子ばかりが目立つので、ねたんでいるのである。
 
 "It would do some preachers good to get religion and pass it on as these people are doing."
 一部の説教者は、本物の信仰を得て、この人たちがしているようにそれを人に伝えれば、ためになるだろう。
