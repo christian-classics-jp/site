@@ -25,6 +25,6 @@
 + [x] Chapter XI. Babylon, or the Confusion of Tongues
 + [x] Chapter XII. The Judgment
 + [x] Chapter XIII. The Ten Virgins
-+ [ ] Chapter XIV. The Bride
++ [x] Chapter XIV. The Bride
 + [ ] Chapter XV. Their United Cry
 + [ ] Appendix. How to Obtain and Retain the Baptism of the Holy Ghost
