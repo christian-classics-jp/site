@@ -15,7 +15,7 @@ He had gone away to harvest in usual health, and I will never forget the night h
 Some neighbor children and I were out watching a terrible storm raging, when we saw two strangers approaching the house.
 私は近所の子供たちと外に出て、激しい嵐が荒れ狂うのを見ていた。すると、見知らぬ人がふたり、家に近づいてくるのが見えた。
 They came to bring the sad intelligence of what had happened, and as we looked out we saw the conveyance approaching, bringing the remains of our dear father.
-ふたりは、起きたことの悲しい知らせを伝えに来たのだった。外を見ると、愛する父の亡きがらを乗せた車が近づいてくるのが見えた。
+ふたりは、起きたことの悲しい知らせを伝えに来たのだった。外を見ると、愛する父の亡きがらを乗せた馬車が近づいてくるのが見えた。
 It was a terrible blow to our young hearts to see our father carried into the house cold and stiff in death, and my mother fainting as fast as they could bring her to, We children were screaming and the storm was raging in all its fury.
 冷たくこわばった父が家に運び込まれるのを見るのは、幼い私たちの心にとって恐ろしい打撃だった。母は、人々が正気づかせるそばから、また気を失った。私たち子供は泣き叫び、嵐は猛り狂っていた。
 // 英文の bring her to, We children のコンマは、ピリオドと読んだ。
@@ -40,7 +40,7 @@ This is the reason we were left in poverty, with a sickly, broken-hearted mother
 Yes, I am a drunkard's daughter, with all the other dark trials to go through.
 そう、私は酒飲みの娘であり、そのほかにも暗い試練をくぐり抜けなければならなかった。
 I have never given this to the public before, but feel led of God to let the world know how the Lord has called and lifted me out of the depths, that He might be all and in all, to prove that no flesh shall glory in His Presence.
-このことを人前で明かしたことは、これまで一度もなかった。しかし今、神に導かれて、世に知らせたいと思う。主がどのように私を召し、深みから引き上げてくださったかを。それは、主がすべての者にあって、すべてとなられるためである。また、どんな人間も主のみまえに誇ることがないことを、明らかにするためである。
+このことを人前で明かしたことは、これまで一度もなかった。しかし今、神に導かれて、世に知らせたいと思う。主がどのように私を召され、深みから引き上げてくださったかを。それは、主がすべての者にあって、すべてとなられるためである。また、どんな人間も主のみまえに誇ることがないことを、明らかにするためである。
 The Lord must be doing the work, and it is not by human wisdom, but by the Spirit of the Living God.
 この働きをなさっているのは、主にちがいない。それは人の知恵によらず、生ける神の霊によるのである。
 
@@ -100,7 +100,7 @@ I shall forever die."
 The minister took great interest in me, and said many good things to encourage me, and prayed that my life might be a shining light.
 牧師は私に深い関心を寄せ、励ましの言葉をたくさんかけてくれた。そして、私の生涯が輝く光となるように祈ってくれた。
 If-he could have looked forward, and have seen my life's work for the Master, he surely would have rejoiced to know how kindly he had talked to the poor little orphan girl.
-もし牧師が先を見通して、私が生涯をかけて主のためにした働きを見ることができたなら、きっと喜んだにちがいない。父のない哀れな少女に、あれほど優しく語りかけたのだから。
+もし牧師が先を見通して、私が生涯をかけて主のためにした働きを見ることができたなら、きっと喜んだにちがいない。父のない哀れな幼い少女に、あれほど優しく語りかけたのだから。
 // 英文の If-he は If he と読んだ。
 
 But I did not get converted then.
@@ -130,9 +130,9 @@ I did not stay away from meeting once a year unless I was sick.
 I was more anxious now than ever for an education, for I wanted to work for Jesus and be useful in the vineyard of Christ.
 今や私は、前にもまして教育を受けたいと願った。イエスのために働き、キリストのぶどう園で役に立ちたかったからである。
 Soon after I was converted I heard the voice of Jesus calling me to go out in the highways and hedges and gather in the lost sheep.
-回心してまもなく、イエスの声が聞こえた。道やかきねのあたりに出て行って、失われた羊を集めよと、イエスは私を呼んでおられた。
+回心してまもなく、イエスの声が聞こえた。道やかきねのあたりに出て行って、失われた羊を集めなさいと、イエスは私を呼んでおられた。
 Like Mary, I pondered these things in my heart, for I had no one to hold counsel with.
-マリヤのように、私はこれらの事を心に留めて、思いめぐらしていた。相談する相手が、だれもいなかったからである。
+マリヤのように、私はこれらのことを心に留めて、思いめぐらしていた。相談する相手が、だれもいなかったからである。
 The Disciples did not believe that women had any right to work for Jesus.
 ディサイプル派の人々は、女性にはイエスのために働く権利などまったくないと考えていた。
 Had I told them my impression they would have made sport of me.
@@ -158,7 +158,7 @@ As he was passing away he looked up and smiled.
 He looked like an angel, and seemed to say: "Mamma, do not weep for me; I am going to a better world."
 御使のようで、こう言っているように見えた。「お母さん、ぼくのために泣かないで。ぼくはもっといい世界に行くんだよ」
 It almost broke my heart to lay him away in the cold grave; but I could see the loving hand of God and hear Him calling me to build up higher, to set my affections on Heavenly things and not on the things of the earth.
-冷たい墓にその子を葬るのは、胸が張り裂けそうだった。しかし、私には神の愛の御手が見えた。そして、神が私を呼んでおられる声が聞こえた。もっと高く築き上げよ、上にあるものを思い、地上のものに心を引かれるな、と。
+冷たい墓にその子を葬るのは、胸が張り裂けそうだった。しかし、私には神の愛の御手が見えた。そして、神が私を呼んでおられる声が聞こえた。もっと高く築き上げなさい、上にあるものを思い、地上のものに心を引かれるな、と。
 
 One year had hardly passed by when the angel of death came again to our home and took away our baby Freddy, and at the same time I lay for weeks between life and death.
 一年もたたないうちに、死の御使がまた私たちの家に来て、赤ん坊のフレディを連れ去った。同じころ、私も何週間も生死の境をさまよった。
@@ -249,7 +249,7 @@ In this way she talked on till the last, and her face shone with the glory of he
 Looking up she said: "O mamma, I see Jesus and the angels; I see my little brothers; they have come for me."
 上を見上げて、娘は言った。「ああ、お母さん、イエスさまと御使たちが見える。小さな弟たちも見える。迎えに来てくれたの」
 And they bore her away in triumph to the heavenly land.
-こうして御使たちは、勝ち誇って娘を天の国へ連れて行った。
+こうして娘は、勝ち誇る一行に天の国へ連れて行かれた。
 It seemed to me that I could see them as they went sweeping through the gates into the New Jerusalem.
 一行が勢いよく門を通り抜けて、新しいエルサレムへ入っていくのが、私には見えるようだった。
 
@@ -271,7 +271,7 @@ She was the picture of Georgie, and seemed to have her sweet disposition, and I 
 At the age of four months, the angels bore her away where the flowers never fade nor die, there to join her sister and brothers, who were waiting to welcome her at the golden gates.
 生後四か月で、御使たちがガーティを連れ去った。花が決してしおれず、枯れることもないところである。そこでガーティは、金の門で迎えようと待っていた姉と兄たちの仲間に加わった。
 I could say with David, they cannot come back to me, but I will go to them.
-私はダビデと共に言うことができた。私は子供たちの所に行くが、子供たちは私の所に帰ってこない、と。
+私はダビデと共に言うことができた。子供たちは私の所に帰ってこないが、私が子供たちの所に行くのだ、と。
 Praise the Lord for the Christian's hope.
 クリスチャンの望みのゆえに、主をほめたたえよ。
 
@@ -335,10 +335,10 @@ From the time of the sad occurrences which have just been narrated in the previo
 Everyone who saw me thought I would die.
 私を見た人はみな、私は死ぬだろうと思った。
 But the work the Lord was calling me to do came up before me so plainly that I thought he would raise me up, and open the way; and at these times, when I seemed to be hovering between life and death, I would have such glorious visions.
-しかし、主が私を召してさせようとしておられる働きが、はっきりと目の前に浮かんだ。それで私は、主が私を起き上がらせ、道を開いてくださるだろうと思った。生死の境をさまよっているように見えたこのころ、私はすばらしい幻を見たものだった。
+しかし、主が私を召してさせようとしておられる働きが、はっきりと目の前に浮かんだ。それで私は、主が私を起き上がらせてくださり、道を開いてくださるだろうと思った。生死の境をさまよっているように見えたこのころ、私はすばらしい幻を見たものだった。
 
 At one time I was praying for the salvation of sinners, and the Savior appeared on the cross by me, and talked with me; I laid my hand on his mangled body, and looked up in his smiling face.
-あるとき、罪人の救いのために祈っていると、救い主が十字架にかかった姿で私のそばに現れ、私と語られた。私は主の傷ついた体に手を置き、ほほえんでおられる御顔を見上げた。
+あるとき、罪人の救いのために祈っていると、救い主が十字架にかかった姿で私のそばにお現れになり、私と語られた。私は主の傷ついた体に手を置き、ほほえんでおられる御顔を見上げた。
 Another time I was meditating upon the love of God in giving his only Son to die for sinners, and of the beautiful home he was preparing for those who love him, and I seemed to float away, and was set down in the Beautiful City.
 またあるときは、神の愛について思いめぐらしていた。罪人のために死なせようと、ひとり子をお与えになった愛である。神を愛する者のために神が用意しておられる美しい家についても、思いめぐらしていた。すると私は漂うように運ばれ、美しい都に降ろされたようだった。
 Oh, the glorious sight that met my view can never be expressed by mortal tongue!
@@ -350,7 +350,7 @@ It is a real city.
 Its inhabitants are real, and not imaginary.
 そこに住む者たちも、想像上のものではなく、本当にいる。
 If mothers could see their childrer as I saw them, in all their shining glory, they would never weep for them, but would leave all and follow Jesus.
-もし母親たちが、私の見たように、輝く栄光に包まれた自分の子供たちを見ることができたなら、もう子供のために泣くことはないだろう。むしろ、すべてを捨ててイエスに従うだろう。
+私は、子供たちが輝く栄光に包まれているのを見た。もし母親たちが、そのように自分の子供たちを見ることができたなら、もう子供のために泣くことはないだろう。むしろ、すべてを捨ててイエスに従うだろう。
 // 英文の childrer は children の誤植。
 They would let nothing keep them from meeting their children in heaven, where they are shining in dazzling beauty around God's Throne, and are watching to give welcome to the Beautiful City.
 天国で子供たちに会うのを、何ものにも妨げさせないだろう。子供たちはそこで神の御座のまわりに、まばゆいばかりに美しく輝いている。そして、母親たちを美しい都に迎えようと、見守っているのである。
@@ -383,7 +383,7 @@ In all my sickness and trouble the ministers and people came from the different 
 They prayed in the churches for my recovery.
 教会でも、私の回復のために祈ってくれた。
 I was willing to die and leave my little girl and boy, feeling that God would care for them, but the work God was calling me to do, loomed up before me.
-私は、幼い娘と息子を残して死ぬことをいとわなかった。神が子供たちを顧みてくださると思ったからである。しかし、神が私を召してさせようとしておられる働きが、目の前に大きく立ちはだかった。
+私は、幼い娘と息子を残して死ぬことをいとわなかった。神が子供たちを顧みてくださると思ったからである。しかし、神が私を召してさせようとしておられる働きが、目の前に大きく迫ってきた。
 All these years God had been preparing me--for I was not willing.
 この何年ものあいだ、神は私を備えてこられたのだった。私が従おうとしなかったからである。
 I felt like a worm in his sight.
@@ -391,7 +391,7 @@ I felt like a worm in his sight.
 It seemed impossible for me to undertake the work for the salvation of souls; but the time had come to promise or die.
 魂の救いのための働きを引き受けるなど、私には不可能に思えた。しかし、約束するか死ぬかの時が来ていた。
 I promised God that if he would restore my health, and prepare me, and show me the work, I would try to do it; I began to get better immediately.
-私は神に約束した。健康を回復させ、私を備え、働きを示してくださるなら、それをしようと努めます、と。すると、私はたちまち快方に向かった。
+私は神に約束した。健康を回復させてくださり、私を備え、働きを示してくださるなら、それをしようと努めます、と。すると、私はたちまち快方に向かった。
 
 We then moved to a Friend's settlement, and they came and took me to church.
 それから私たちは、フレンド派の人々の住む土地に移った。その人々が私を迎えに来て、教会に連れて行ってくれた。
@@ -406,7 +406,7 @@ I was very timid, and bound as with chains in a man-fearing spirit.
 When I arose to testify I trembled like a leaf, and began to make excuses--"O God, send some one else!"
 証しをしようと立ち上がると、木の葉のように震え、言いわけを始めるのだった。「ああ神よ、だれかほかの人を遣わしてください！」と。
 Then the Lord in a vision caused me to see the bottomless pit open in all its horror and woe.
-すると主は、幻のうちに、底知れぬ所が開いているのを見せられた。恐ろしさと苦しみに満ちた光景だった。
+すると主は、幻のうちに、底知れぬ所が開いているのを私にお見せになった。恐ろしさと苦しみに満ちた光景だった。
 There was weeping and wailing and gnashing of teeth.
 そこでは、人々が泣き叫んだり、歯がみをしたりしていた。
 It was surrounded by a great multitude of people who seemed unconscious of their danger, and without a moment's warning they would tumble into this awful place.
@@ -435,7 +435,7 @@ God seemed to speak through me to the people.
 But I had so much opposition to contend with.
 しかし、私が立ち向かわなければならない反対は、あまりに多かった。
 My people were opposed; my husband and daughter fought against it; and my whole nature shrunk from going to stand as a gazing-stock for the people.
-身内の者は反対した。夫と娘も、それにあらがった。そして私自身、人々の見せ物として立ちに行くことに、全身でしりごみした。
+身内の者は反対した。夫と娘も、それにあらがった。そして私自身、出て行って人々の見せ物として立つことに、全身でしりごみした。
 But the Lord was showing in many ways that I must go and perform the work he had for me to do.
 しかし主は、さまざまな方法で示しておられた。私は行って、主が私に与えておられる働きを果たさなければならない、と。
 
@@ -446,7 +446,7 @@ I said, "If I were a man I would love to work for Jesus."
 They told me I had a work to do which no man could do; the Lord was calling me to the West to labor for lost souls: I said, "O Lord! I cannot take Willie with me, nor can I leave him behind."
 牧師たちは言った。あなたには、男にはできない働きがある。主は、失われた魂のために働くよう、あなたを西部へ召しておられる、と。私は言った。「ああ主よ！　ウィリーを連れて行くことも、置いて行くこともできません」
 Then the Lord saw fit to take him out of the way; so he laid his hand on my darling little boy, and in a few days took him home to heaven.
-すると主は、その子を取り去るのがよいとお考えになった。主はいとしい幼い息子に御手を置き、数日のうちに天の家へ連れて行かれた。
+すると主は、その子を取り去るのがよいとお考えになった。主はいとしい幼い息子に御手を置かれ、数日のうちに天の家へ連れて行かれた。
 He was the joy of my life.
 息子は、私の生きる喜びだった。
 He was nearly seven years old.
@@ -488,13 +488,13 @@ Lizzie, our oldest child, aged sixteen, was all we had left of six sweet childre
 六人のかわいい子供のうち、残ったのは十六歳の長女リジーだけだった。
 
 In all these trials God was preparing me and opening the way for the great battle against the enemy of souls; and now the great desire of my heart was to work for Jesus.
-これらすべての試練の中で、神は私を備え、魂の敵との大いなる戦いへの道を開いておられた。今や私の心の大きな願いは、イエスのために働くことだった。
+これらすべての試練の中で、神は私を備えられ、魂の敵との大いなる戦いへの道を開いておられた。今や私の心の大きな願いは、イエスのために働くことだった。
 I longed to win a star for the Savior's crown.
 救い主の冠に星を一つ加えたいと、私は切に願った。
 But when I thought of my weakness I shrank from the work.
 しかし、自分の弱さを思うと、その働きにしりごみした。
 Sometimes when the Spirit of God was striving and calling so plainly, I would yield and say "Yes, Lord; I will go."
-神の御霊がはっきりと私と争い、呼びかけてくださるとき、私は従って、「はい、主よ。行きます」と言うこともあった。
+神の御霊がはっきりと私と争われ、呼びかけてくださるとき、私は従って、「はい、主よ。行きます」と言うこともあった。
 The glory of God came upon me like a cloud, and I seemed to be carried away hundreds of miles and set down in a field of wheat, where the sheaves were falling all around me.
 すると、神の栄光が雲のように私の上に臨んだ。私は何百マイルも運ばれて、麦畑に降ろされたようだった。そこでは、まわりじゅうで麦の束が倒れていた。
 I was filled with zeal and power, and felt as if I could stand before the whole world and plead with dying sinners.
@@ -511,7 +511,7 @@ I wanted to run away from God, or I wished I could die; but when I began to look
 神から逃げ出したかった。あるいは、死ねたらいいのにと思った。しかし、やがてこう考えるようになった。神は私のことを何もかもご存じで、私をこの働きにふさわしい者にする力があり、喜んでそうしてくださるのだ、と。そこで私は、私をふさわしい者にしてくださいと神に願った。
 
 I want the reader to understand, that at this time I had a good experience, a pure heart, was full of the love of God, but was not qualified for God's work.
-読者にわかっていただきたい。このころ私は、よい経験を持ち、心はきよく、神の愛に満ちていた。しかし、神の働きにふさわしい力は備えていなかった。
+読者にわかっていただきたい。このころ私は、よい経験を持ち、心はきよく、神の愛に満ちていた。しかし、神の働きにふさわしい者ではなかった。
 I knew that I was but a worm.
 私は、自分が虫けらにすぎないことを知っていた。
 God would have to take a worm to thresh a mountain.

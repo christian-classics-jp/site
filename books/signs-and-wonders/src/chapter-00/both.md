@@ -3,7 +3,7 @@
 Preface to First Book
 
 I was out in evangelistic work only a short time, when the Lord showed me plainly that He wanted me to write an account of my birth, childhood, conversion, wonderful call, baptism of the Holy Ghost and my experience up to this time.
-伝道の働きに出てまもなく、主ははっきりと示してくださった。私の誕生、子供時代、回心、驚くべき召し、聖霊のバプテスマ、そしてそれまでの経験を書き記すことを、主は望んでおられたのである。
+伝道の働きに出てまもなく、主ははっきりと示してくださった。私が自分のことを書き記すのを、主は望んでおられたのである。誕生、子供時代、回心、驚くべき召し、聖霊のバプテスマ、そしてそれまでの経験である。
 This led me to write my first book: "Life, Experience and Work."
 こうして私は、最初の本『生涯と経験と働き』を書いた。
 
@@ -11,7 +11,7 @@ This led me to write my first book: "Life, Experience and Work."
 Preface to Second Book
 
 God so manifestly blessed this first book so that in a very short time they were all scattered far and near. Soon urgent calls came for a second edition of this work.
-神はこの最初の本を目に見えて祝福してくださり、ごく短いあいだに、本は遠く近くに散らばっていった。まもなく、第二版を求める声がしきりに寄せられた。
+神はこの最初の本を目に見えて祝福してくださり、ごく短いあいだに、本はすべて遠く近くに散らばっていった。まもなく、第二版を求める声がしきりに寄せられた。
 The Lord showed me by this time that I should teach divine healing; lay hands on and pray for the sick, cast out devils that they would recover, be saved, healed, and filled with the Holy Spirit.
 このころには、主は私に、神癒を教えるべきことを示しておられた。病人に手を置いて祈り、悪霊を追い出す。そうして人々が回復し、救われ、いやされ、聖霊に満たされるようにするのである。
 I obeyed and a harvest of souls have been won for Christ.
@@ -21,7 +21,7 @@ I obeyed and a harvest of souls have been won for Christ.
 Preface to Third Book
 
 The Lord wonderfully blessed these books for spirit, soul and body. The people were very hungry for more of God and for more light.
-主はこれらの本を用いて、人々の霊と魂と体を驚くほど祝福してくださった。人々は、もっと神を、もっと光をと、飢え渇いていた。
+主はこれらの本をお用いになり、人々の霊と魂と体を驚くほど祝福してくださった。人々は、もっと神を、もっと光をと、飢え渇いていた。
 The Lord then led me to publish the third, a large volume called "Trials and Triumphs." It was so called because my life in the ministry was one of trials and triumphs. The people received great inspiration and courage by reading this volume.
 そこで主は、三冊目を出版するよう私を導かれた。『試練と勝利』という大部の本である。この題にしたのは、私の伝道の生涯が試練と勝利の連続だったからである。人々はこの本を読んで、大きな霊感と勇気を受けた。
 
@@ -39,13 +39,13 @@ Preface to Fifth Book
 This book was compiled after I was out in the ministry for about twenty-five years, and contained a summary of God's dealings with His hand-maiden during this period.
 この本は、私が伝道に出て二十五年ほどたったころにまとめた。その間に神がそのはしために対してなさったことを、かいつまんで収めた。
 Besides all these volumes, God led me to get out at various times "Song Books" which He so strikingly used to bring down "Heaven's power" on the people.
-これらの本のほかに、神は折々に「歌集」を出すよう私を導かれた。神はそれを目ざましく用いて、人々の上に「天の力」を下してくださった。
+これらの本のほかに、神は折々に「歌集」を出すよう私を導かれた。神はそれを目ざましくお用いになり、人々の上に「天の力」を下してくださった。
 
 ## 第六の本の序文
 Preface to Sixth Book
 
 While at Dallas, Texas, nearly three years ago (1913), in the midst of a great revival, there was such a demand for some of my past volumes, which were all out among the people, and out of print, that I felt moved by the Holy Spirit to write the sixth volume, "Acts of the Holy Ghost," of which ten thousand were printed.
-三年近く前（一九一三年）、テキサス州ダラスで大きなリバイバルのさなかにいたとき、私の以前の本を求める声がたいへん多かった。どれも人々の手に渡ってなくなり、絶版になっていた。そこで私は聖霊に促されて、六冊目の『聖霊の行伝』を書き、一万部を刷った。
+三年近く前（一九一三年）、私はテキサス州ダラスで大きなリバイバルのさなかにいた。そのとき、私の以前の本を求める声がたいへん多かった。どれも人々の手に渡ってなくなり、絶版になっていた。そこで私は聖霊に促されて、六冊目の『聖霊の行伝』を書き、一万部を刷った。
 The supply of this volume is now nearly exhausted, so I wrote the present volume, "Signs and Wonders."
 この本も、今ではほとんど残っていない。それで、この本『しるしと不思議』を書いたのである。
 
@@ -59,7 +59,7 @@ June, 1916.
 一九一六年六月
 
 Our God "is moving on" and in displays of His power is showing that the end of this age, with its world-form of governments, is drawing nigh.
-私たちの神は「前進しておられる」。そして力をあらわして、この時代の終わりが近づいていることを示しておられる。この世の形をとった政府の数々とともに、この時代は終わろうとしているのである。
+私たちの神は「前進しておられる」。そして力をあらわされ、この時代の終わりが近づいていることを示しておられる。この世の政府のあり方もろとも、この時代は終わろうとしているのである。
 
 The rightful King will come soon, and our Lord Jesus will take His Kingdom. Preparing to meet God is the true "preparedness."
 まことの王がまもなく来られ、私たちの主イエスが御国を受けられる。神に会う備えをすることこそ、まことの「備え」である。
@@ -84,7 +84,7 @@ Rev. Stanley Smith was for many years a worker with "The China Inland Mission." 
 スタンリー・スミス牧師は、長年「中国内地会」の働き人であった。三十年ほど前、七人の若者の一団（「ケンブリッジ・セブン」と呼ばれた）がイングランドを揺り動かした。この世でのすばらしい前途を捨て、伝道のために中国へ船出したのである。
 
 One of these was Stanley Smith (a stroke oar of The Cambridge University Eight) and another C. T. Studd, the great cricketer. Rev. Stanley Smith writes:
-その一人がスタンリー・スミス（ケンブリッジ大学のエイトの整調）であり、もう一人が名クリケット選手のC・T・スタッドであった。スタンリー・スミス牧師は次のように書いている。
+その一人がスタンリー・スミス（ケンブリッジ大学のエイトの整調）であった。もう一人は、名クリケット選手のC・T・スタッドであった。スタンリー・スミス牧師は次のように書いている。
 // 以下のスミスの文は、外側の引用符を外して地の文の形にし、スミスが引くスタッドの手紙を「」で囲んだ。
 
 "I cannot let this opportunity go by without again bringing to the notice of my readers, 'Acts of the Holy Ghost, or 'Life and Experiences of Mrs. M. B. Woodworth-Etter.'
@@ -111,11 +111,11 @@ She is sound in the faith and mightily used of God, and has been so for years.
 I know many other spiritual and reliable saints who have known her and her work for years.
 夫人とその働きを何年も前から知っている、霊的で信頼できる聖徒たちを、私はほかにも大勢知っている。
 Like the "sect" that Paul belonged to (Acts xxviii, 22), the Pentecostal movement is "spoken against"; and so is anyone who is used so mightily as Mrs. Etter is.
-パウロが属していた『宗派』のように（使徒二八・二二）、ペンテコステ運動は至る所で『反対』を受けている。エター夫人のように力強く用いられる人も、みな同じである。
+パウロが属していた『宗派』のように、ペンテコステ運動は『反対』を受けている（使徒二八・二二）。エター夫人のように力強く用いられる人も、みな同じである。
 Yes, she is indeed "a true handmaid of the Lord."
 そうだ、夫人はまことに、真実な『主のはしため』である。
 Fear not, of course there is chaff as well as true wheat in the Pentecostal movement, and doubtless strange things and unwise happen--but God is in it.'
-恐れることはない。もちろん、ペンテコステ運動にも、まことの麦だけでなく、もみがらがある。奇妙なことや賢明でないことも、きっと起こるだろう。しかし、神はその中におられる」
+恐れることはない。もちろん、ペンテコステ運動にも、まことの麦だけでなく、もみがらがある。奇妙なことや賢明でないことが起こるのも、確かである。しかし、神はその中におられる」
 
 "Mrs. Etter's spiritual ministry, under God, leading sinners to Christ, Christ, and believers into the Pentecostal baptism has been also most remarkable."
 エター夫人の霊的な務めは、神のもとで、罪人をキリストに導き、信者をペンテコステのバプテスマに導いてきた。この点でも、まことに目ざましいものがある。
