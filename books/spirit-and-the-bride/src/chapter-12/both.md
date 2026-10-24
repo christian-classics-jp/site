@@ -39,7 +39,7 @@ Christ is ready to judge the "quick" as quick, i.e., men in this life; He is als
 If, as some teach, at the close of this age all the dead are to be resurrected and brought, together with all the quick, upon one common platform to judgment, then Christ is the judge of the quick and not of the dead; and if, as others teach, all the quick are to be "struck dead" and brought, together with all the dead upon one common platform to judgment, then He is the judge of the dead, and not of the quick; and so this Scripture, which we have woven into our creeds for centuries, and upon which we base our hope, falls to pieces.
 ある人々は、この時代の終わりにすべての死人がよみがえらされると教える。そして、すべての生ける者と共に一つの壇の上に集められてさばかれるという。それなら、キリストは生ける者のさばき主であって、死ねる者のさばき主ではないことになる。また、ほかの人々は、すべての生ける者が「打ち殺される」と教える。そして、すべての死人と共に一つの壇の上に集められてさばかれるという。それなら、キリストは死ねる者のさばき主であって、生ける者のさばき主ではないことになる。こうして、私たちが何世紀も信条に織り込み、望みの土台としてきたこの聖句は、ばらばらに崩れてしまう。
 But God's Word must stand; in the face of opposition, contrary to the ideas and theories of men, "One jot or one title shall in no wise pass from the law, till all be fulfilled" (Matt. 5: 18).
-しかし、神のみことばは堅く立たなければならない。反対があっても、人の考えや説に反していても、『律法の一点、一画もすたることはなく、ことごとく全うされる』のである（マタイ五・一八）。
+しかし、神のみことばは必ず堅く立つ。反対があっても、人の考えや説に反していても、『律法の一点、一画もすたることはなく、ことごとく全うされる』のである（マタイ五・一八）。
 // 英文は `one jot or one title`（p. 107）。tittle と読んだ。
 
 So let us lay down all erroneous theories, and with an open heart ask God to help us to harmonize and understand the Scriptures.
@@ -80,7 +80,7 @@ After going out and deceiving many Gentiles who have been saved during the mille
 Then the devil that deceived them is cast into the lake of fire and brimstone, and shall be tormented day and night for ever and ever.
 それから、彼らを惑わした悪魔は火と硫黄との池に投げ込まれ、世々限りなく日夜、苦しめられる。
 From the time of the sounding of the trump of God (I Thes. 4: 16) up till now the saints have been gathering on the right hand of the Judge (Matt. 25:33).
-神のラッパが鳴り響いた時（第一テサロニケ四・一六）から今まで、聖徒たちはさばき主の右に集められてきた（マタイ二五・三三）。
+神のラッパが鳴り響いたとき（第一テサロニケ四・一六）から今まで、聖徒たちはさばき主の右に集められてきた（マタイ二五・三三）。
 Now takes place "the great white throne" judgment, in which John says, "I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their work. And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them; and they were judged every man according to their works. And death and hell were cast into the lake of fire. This is the second death. And whosoever was not found written in the book of life was cast into the lake of fire" (Rev. 20: 12-15).
 そして今、「大きな白い御座」のさばきが行われる。ヨハネはそのさばきについて、こう言っている。『死んでいた者が、大いなる者も小さき者も共に、御座の前に立っているのが見えた。かずかずの書物が開かれたが、もう一つの書物が開かれた。これはいのちの書であった。死人はそのしわざに応じ、この書物に書かれていることにしたがって、さばかれた。海はその中にいる死人を出し、死も黄泉もその中にいる死人を出し、そして、おのおのそのしわざに応じて、さばきを受けた。それから、死も黄泉も火の池に投げ込まれた。この火の池が第二の死である。このいのちの書に名がしるされていない者はみな、火の池に投げ込まれた』（黙示録二〇・一二〜一五）。
 Thus ends the last judgment scene.
@@ -112,7 +112,7 @@ These are perilous times; these are judgment days.
 Where do you stand? Which side of the line are you on?
 あなたはどこに立っているのか。境界線のどちら側にいるのか。
 This line is not a local affair, neither is this division temporarily; but the line is universal, and the result is eternal destiny.
-この境界線は一つの地方だけのことではなく、この分裂も一時的なものではない。境界線は全世界に及び、その結果は永遠の行き先なのである。
+この境界線は一つの地方だけのことではなく、この分裂も一時的なものではない。境界線は全世界に及び、その結果は永遠の運命なのである。
 // 英文は `temporarily`（p. 109）。temporary と読んだ。
 Every creature must meet the issue, and each soul must take his stand.
 すべての造られたものが、この争点に向き合わなければならない。どの魂も、自分の立場を決めなければならない。
@@ -121,11 +121,11 @@ No one can remain neutral long; God, men, and devils demand that we take a stand
 You may run from it awhile, but it will tree you before you go far.
 しばらくは逃げていられるかもしれない。しかし、遠くへ行かないうちに追いつめられるであろう。
 You are not compelled to take one certain side, but you must take the one side or the other.
-どちらか決まった側を取るよう強いられているわけではない。しかし、どちらか一方の側は取らなければならない。
+特定の側を取るよう強いられているわけではない。しかし、どちらか一方の側は取らなければならない。
 If the movement is hell-born, then take issue against it; if it is from God, then fall in line with it.
 もしこの運動が地獄から生まれたのなら、それに反対するがよい。もし神から出たものなら、その列に加わるがよい。
 All may hold themselves aloof from this movement that can afford it; all may dabble around the edge and stir snakes and leaves, trying to convey the impression that they are the great leaders and mighty factors of the revival, without the evidence that they have even drank of the fountain themselves, that wish to do so: but as for me, I do not wish to be the fly that sat on the axle of a chariot wheel, and said, "What a dust I do raise;" neither could I ever afford to hold my own poor soul from beneath the showering blessings of the latter rain, nor refrain from taking my position in full fellowship with the true promoters of the present movement.
-この運動から離れて立っている余裕のある人は、みなそうしていればよい。そうしたい人は、みな縁のあたりに手を出して、蛇や木の葉をかき回していればよい。自分たちこそこのリバイバルの大指導者であり、大きな原動力であるかのような印象を与えようとする。しかし、自分自身がその泉から飲んだという証拠さえないのである。しかし私は、戦車の車軸にとまって「なんとほこりを立てていることか」と言ったはえには、なりたくない。また、後の雨の祝福が降り注ぐ下から、自分の貧しい魂を遠ざけておく余裕など、私にはとてもない。今の運動を本当に推し進めている人々と、すっかり交わりを共にする立場に立たずにいることもできない。
+この運動から離れて立っている余裕のある人は、みなそうしていればよい。そうしたい人は、みな縁のあたりに手を出して、蛇や木の葉をかき回していればよい。自分たちこそこのリバイバルの大指導者であり、大きな原動力であるかのような印象を与えようとしていればよい。自分自身がその泉から飲んだという証拠さえないのに、である。しかし私は、戦車の車軸にとまって「なんとほこりを立てていることか」と言ったはえには、なりたくない。また、後の雨の祝福が降り注ぐ下から、自分の貧しい魂を遠ざけておく余裕など、私にはとてもない。今の運動を本当に推し進めている人々と、すっかり交わりを共にする立場に立たずにいることもできない。
 // 英文は `have even drank`（p. 109）。have even drunk と読んだ。
 
 At least every saint on earth must come face to face with the movement.
@@ -150,7 +150,7 @@ Verse 22 tells us that this Scripture applies to those of us who have our hearts
 Therefore let us hold fast the profession of our faith--hold to the ground we have--and press on, since "ye see the day approaching."
 だから、私たちの告白する信仰をしっかりと持ち続け、すなわち今立っている地を守り、前進しよう。私たちは『かの日が近づいているのを見て』いるのである。
 Let us not minify the blood of Jesus, wherewith we are sanctified, by counting it an unholy thing, and therefore cannot cleanse from sin, nor let us do despite to the Holy Spirit in any way; "for if we sin wilfully after that we have received a knowledge of the truth, there remaineth no more sacrifice for sins, but a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries."
-私たちをきよめたイエスの血を、見くびることのないようにしよう。その血を汚れたもの、だから罪からきよめることのできないものとみなしてはならない。どんなかたちでも、聖霊を侮ることのないようにしよう。『もしわたしたちが、真理の知識を受けたのちにもなお、ことさらに罪を犯しつづけるなら、罪のためのいけにえは、もはやあり得ない。ただ、さばきと、逆らう者たちを焼きつくす激しい火とを、恐れつつ待つことだけがある』からである。
+私たちがきよめられたイエスの血を、小さく見ることのないようにしよう。その血を汚れたもの、だから罪からきよめることのできないものとみなしてはならない。どんなかたちでも、聖霊を侮ることのないようにしよう。『もしわたしたちが、真理の知識を受けたのちにもなお、ことさらに罪を犯しつづけるなら、罪のためのいけにえは、もはやあり得ない。ただ、さばきと、逆らう者たちを焼きつくす激しい火とを、恐れつつ待つことだけがある』からである。
 What is meant by adversaries?
 「逆らう者たち」とは、だれのことか。
 Those just mentioned, who count the blood wherewith they were sanctified, an unholy thing, and do despite unto the Spirit.
