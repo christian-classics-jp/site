@@ -51,7 +51,7 @@ I had never met him before that evening, and have even forgotten his name. The l
 A score of hungry souls repaired to the village church for a whole night of prayer, having secured the key from the local pastor. We were not allowed to tarry on the camp grounds.
 二十人ほどの飢え渇いた人々が、村の牧師から鍵を借りて、夜通しの祈りのために村の教会へ移った。私たちは、野営地にとどまることを許されなかったのだ。
 One member of the Nyack C. M. A. faculty got the "baptism" that night, and a backslider was reclaimed.
-その夜、ナイアックのキリスト者宣教同盟の学校の教師の一人が「バプテスマ」を受け、一人の背教者が立ち返った。
+その夜、ナイアックのキリスト者宣教同盟の学校の教師の一人が「バプテスマ」を受け、信仰から離れていた一人の人が立ち返った。
 I spoke to this little company in the church the next afternoon and evening, as they would allow no meetings of this kind in the camp.
 次の日の午後と夜には、教会でこの小さな群れに語った。野営地では、この種の集会はいっさい許されなかったからである。
 The camp meeting committee then forced the pastor to close the church against us. They did not want their people to get the "baptism." We went to the woods again.
@@ -69,9 +69,9 @@ There was no less than one hundred people at the woods meeting. And all hungry f
 They pressed about thirty dollars in money into my hands. So the devil had lied to me. I came out ahead of all expenses.
 彼らは30ドルほどのお金を、私の手に押しつけるようにしてくれた。こうして、悪魔がうそをついていたことがわかった。私は、すべての費用を払っても余りが出たのである。
 One sister, who had been a physician, ran after me one day and begged me to receive twelve dollars restitution money that was burning a hole in her conscience.
-医者をしていたことのあるある姉妹が、ある日私を追いかけて来て、12ドルを受け取ってほしいと頼んだ。それは償いのお金で、彼女の良心をさいなんでいたのだ。
+以前医者をしていたある姉妹が、ある日私を追いかけて来て、12ドルを受け取ってほしいと頼んだ。それは償いのお金で、彼女の良心をさいなんでいたのだ。
 She could not locate the party she had wronged, so turned it over to the Lord. That was a real work of God.
-彼女は、自分が損をさせた相手を見つけることができなかった。それで、そのお金を主にゆだねたのである。それは本当の神のわざだった。
+彼女は、自分が損をさせた相手を見つけることができなかった。それで、そのお金を主にささげたのである。それは本当の神のわざだった。
 The Lord had blessed so mightily in our little meetings that the camp became stirred.
 主が私たちの小さな集会をあまりに力強く祝福してくださったので、野営地全体がざわめき立った。
 Rather than have further, outbroken trouble, the saints thought it best to discontinue the meetings, and I dropped quietly out of camp before the committee could take any definite further action in the matter. Thus we avoided further unpleasantness and strife.
@@ -125,14 +125,14 @@ I spoke for three hours one night at "Glad Tidings Hall," while here. Then the p
 Workers kept coming in from the Alliance convention, after the meeting closed there.
 同盟の大会の集会が終わると、そこから働き人たちが次々にやって来た。
 But the devil fairly tore up the earth at the beginning of the meeting, through the rabble outside. He evidently sensed something of what was coming.
-しかし、集会の初めに、悪魔は外の群衆を使って、まさに地をひっくり返すほど暴れた。どうやら悪魔は、これから起ころうとしていることを、いくらか感じ取っていたようだ。
+しかし、集会の初めに、悪魔は外のやじ馬たちを使って、まさに地をひっくり返すほど暴れた。どうやら悪魔は、これから起ころうとしていることを、いくらか感じ取っていたようだ。
 The next night I preached again and many were prostrated under the power. Some stayed all night.
 次の夜、私は再び説教し、多くの人が力の下に倒れた。何人かは夜通しそこにいた。
 The evangelist in charge of the night meetings at the convention came in himself, after the services had closed at the Tabernacle.
 大会の夜の集会を受け持っていた伝道者も、タバナクルでの集会が終わったあと、自分でやって来た。
 
 The next night they had an all-night meeting at the convention. A young girl came under the power and her spirit was caught up to the throne.
-その次の夜、大会では夜通しの集会があった。一人の若い娘が力の下に倒れ、その霊が御座にまで引き上げられた。
+その次の夜、大会では夜通しの集会があった。一人の若い娘が力の下に置かれ、その霊が御座にまで引き上げられた。
 She sang a melody, without words, that seemed to come from within the veil, it was so heavenly. It seemed to come from another world. I have never heard its equal before or since.
 彼女は、言葉のない旋律を歌った。それはあまりに天的で、幕の内から聞こえてくるようだった。別の世界から来るように思われた。それに並ぶものを、私は前にも後にも聞いたことがない。
 A. B. Simpson was there himself that night and was tremendously impressed by it. He had been much opposed to the "Pentecostal" work. Doubtless God gave it as a witness for him.
@@ -152,7 +152,7 @@ God met us in a powerful way. Several received the "baptism." The last one came 
 I preached twice at Beaver Falls, Penn., at a C. M. A. convention, stopping off between trains, by special request. God greatly honored the Word. At Alliance, Ohio, I preached three times. The Lord was powerfully with us.
 とくに頼まれて、汽車の乗り継ぎのあいだに、ペンシルベニア州ビーバー・フォールズで途中下車した。そこのキリスト者宣教同盟の大会で、二回説教した。神は、みことばを大いに重んじてくださった。オハイオ州アライアンスでは三回説教した。主は力強く私たちと共にいてくださった。
 We then proceeded to Chicago, where I preached at Beulah Home, and at Brother Durham's mission again.
-それから私たちはシカゴへ進み、そこで再びビューラ・ホームとダラム兄弟のミッションで説教した。
+それから私たちはシカゴへ進み、そこで再びビューラ救護ホームとダラム兄弟のミッションで説教した。
 At St. Louis we stopped with Brother Seeley Kinne for some time. I preached here eighteen times in all, to as hungry, humble, and appreciative a company as I have ever met anywhere. God was wonderfully with us.
 セントルイスでは、しばらくシーリー・キニー兄弟の家に泊まった。私はここで、全部で十八回説教した。どこで出会った群れにも劣らず、飢え渇いて、へりくだり、よく受け入れてくれる人々だった。神はすばらしく私たちと共にいてくださった。
 I spoke twice at Mother Moise's Rescue Home, and four times at the C. M. A. hall, with much blessing, also.
