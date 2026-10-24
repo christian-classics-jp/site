@@ -130,7 +130,7 @@ To walk the narrow way;
 By gathering in the lost ones
 失われた人々を集めることによって<br/>
 For whom our Lord did die,
-主がその人々のために死なれたのだから<br/>
+主はその人々のために死なれた<br/>
 In the crowning day that's coming by and by.
 やがて来る戴冠の日に<br/>
 
@@ -162,7 +162,7 @@ They came from different States and all parts of the country to be healed of all
 They were brought on beds, on the cars, in chairs, on crutches and in cabs, hundreds being healed and converted.
 人々は寝台に乗せられ、列車で、いすに乗せられ、松葉杖をつき、辻馬車に乗って運ばれて来た。そして何百人もがいやされ、回心した。
 There were three that we know of who were brightly converted and died before the meeting closed--a young lady and an old man nearly eighty years of age; another, an old man, saved at his home on his death-bed.
-私たちの知るかぎりでも、輝かしく回心して、集会が終わる前に死んだ人が三人いた。若い婦人と八十歳近い老人、そしてもうひとりの老人である。この人は、死の床で自分の家で救われた。
+私たちの知るかぎりでも、輝かしく回心して、集会が終わる前に死んだ人が三人いた。若い婦人と八十歳近い老人、そしてもうひとりの老人である。この人は自分の家で、死の床にあって救われた。
 Others were converted at their homes, and some in the woods.
 自分の家で回心した人々もいれば、森の中で回心した人々もいた。
 
@@ -200,7 +200,7 @@ The little fellow said in a clear, ringing voice that God had made him well.
 その小さな子は、澄んだ、よく響く声で、神さまが治してくださった、と言った。
 
 I must say here, wherever we go God raises up many men and women who make no profession of religion to stand by us.
-ここで言っておかなければならない。私たちがどこへ行っても、神は、信仰を告白していない多くの男女を起こして、私たちの味方にしてくださる。
+ここで言っておかなければならない。私たちがどこへ行っても、神は、信仰を告白していない多くの男女を起こされ、私たちの味方にしてくださる。
 They say if the Bible is true, we are God's children, and they will stand by us for the good we are doing the people in this life as well as the world to come.
 その人々は言う。聖書がまことなら、あなたがたは神の子供だ。あなたがたは、来たるべき世のためだけでなく、この世でも人々に善をなしている。だから私たちはあなたがたの味方をする、と。
 Praise God; many of these noble men and women are converted in our meetings.
@@ -211,7 +211,7 @@ They yield to him and receive the gift of God--eternal life.
 そして神に従い、神の賜物である永遠のいのちを受ける。
 
 In every meeting God is raising up and sending out many workers with different gifts.
-どの集会でも、神はさまざまな賜物を持つ多くの働き手を起こし、送り出しておられる。
+どの集会でも、神はさまざまな賜物を持つ多くの働き手を起こされ、送り出しておられる。
 
 The last two or three days of the meeting there were twenty or more ministers present from other places.
 集会の最後の二、三日には、ほかの土地から二十人以上の牧師が来ていた。
@@ -228,7 +228,7 @@ He described the wonderful City of Gold, with its glorious inhabitants.
 He saw many that he had known on earth; he described the awful gulf of hell; the condition of those who are there; saw the million going there.
 地上で知っていた多くの人を、彼はそこで見た。彼はまた、地獄の恐ろしい淵と、そこにいる人々の有様を語った。そこへ向かって行くおびただしい群れも見た。
 No one who heard him talk could doubt that he had seen all that he had told them.
-彼の話を聞いた人はだれも、彼が語ったことをすべて本当に見たのだと疑うことはできなかった。
+彼の話を聞いた人はだれも、彼が語ったことをすべて本当に見たことを疑えなかった。
 Many were struck down in different parts of the congregation and at their homes.
 会衆のあちこちで、また自分の家で、多くの人が打ち倒された。
 
@@ -274,7 +274,7 @@ He heard the sweetest music, saw most beautiful flowers, and the city with its b
 He could not describe it all.
 そのすべてを言い表すことはできなかった。
 This time he had his identity.
-このときも、彼は自分であることを失っていなかった。
+このとき、彼は自分が自分であることを保っていた。
 His spirit had perfect freedom and liberty.
 彼の霊は、まったく自由だった。
 Still he drove off conviction and continued to contend with the Almighty.
@@ -282,7 +282,7 @@ Still he drove off conviction and continued to contend with the Almighty.
 God came to him again in a vision, showed him the condition of the saints of God in eternity, after this world and everything in it has passed away.
 神はふたたび幻のうちに彼のもとに来られた。そして、この世とその中のすべてが過ぎ去った後の、永遠における神の聖徒たちの有様を示された。
 He saw the new earth--everything was new and beautiful--adapted to the use and enjoyment of the ransomed army of the Lord.
-彼は新しい地を見た。何もかもが新しく美しかった。それは、あがなわれた主の軍勢が用い、楽しむのにふさわしく整えられていた。
+彼は新しい地を見た。何もかもが新しく美しかった。それは、主のあがなわれた軍勢が用い、楽しむのにふさわしく整えられていた。
 
 The first heaven, the real city of God that he hath prepared for his redeemed children will come down and be set in the new earth--something like Washington City is to the United States.
 最初の天、すなわち神があがなわれた子供たちのために備えられた、まことの神の都が、下って来て新しい地に据えられる。合衆国にとってのワシントン市のようなものである。
@@ -296,7 +296,7 @@ We will be continually exploring new beauties and treasures in the wonderful wor
 私たちは父の驚くべきみわざの中に、新しい美しさと宝を絶えず探り求めていくのである。
 
 And you who call yourselves unbelievers or infidels, trying to make yourselves believe a lie, God have mercy on your souls and help you to see your danger before he permits you to believe a lie, and be forever damned.
-自分を不信者とか無神論者とか呼んで、偽りを信じ込もうとしているあなたがたよ。神があなたがたの魂をあわれんでくださるように。神は、あなたがたが偽りを信じて永遠に滅びるままにされることもある。そうされる前に、自分の危うさに気づけるよう助けてくださるように。
+自分を信じない者とか不信者とか呼んで、偽りを信じ込もうとしているあなたがたよ。神があなたがたの魂をあわれんでくださるように。そして、あなたがたが偽りを信じて永遠に滅びるのを神が許される前に、自分の危うさに気づけるよう助けてくださるように。
 
 At the close of the last meeting, it was requested that we stand on the altar and give the congregation a chance to shake hands and bid us good-bye.
 最後の集会の終わりに、祭壇の上に立って、会衆が私たちと握手して別れを告げられるようにしてほしい、と頼まれた。
