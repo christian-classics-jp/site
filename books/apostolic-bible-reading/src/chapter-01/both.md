@@ -20,16 +20,16 @@ Jesus says, "I am the DOOR: by me if any man ENTER in, he SHALL BE SAVED." And a
 イエスは言われる、「わたしは**門**である。わたしをとおって**はいる**者は**救われる**」。また、「だれでもわたしによらないでは、父のみもとに行くことはできない」（ヨハネ一〇・九、一四・六）。
 
 4. How do we make "water and Spirit" the door when Jesus says he is the door?
-問四　イエスはご自分が門だと言われたのに、どうして「水と霊」を門とするのですか。
+問四　イエスはご自分が門だと言われたのに、どうして『水と霊』を門とするのですか。
 
 Jesus says that he is the good shepherd; and that he ENTERETH by the DOOR.--John 10:2, 11.
 イエスは、ご自分がよい羊飼であると言われる。そして、羊飼は**門からはいる**と言われる（ヨハネ一〇・二、一一）。
 
 5. If baptism of "water and Spirit" is the door when was Jesus baptized in water and spirit?
-問五　「水と霊」のバプテスマが門であるなら、イエスはいつ水と霊のバプテスマを受けられたのですか。
+問五　『水と霊』のバプテスマが門であるなら、イエスはいつ水と霊のバプテスマを受けられたのですか。
 
 Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him. * * * And Jesus, when he was BAPTIZED, went up straightway out of the water: and, lo, the heavens were opened unto him, and he (John) saw the SPIRIT of God descending like a dove, and lighting upon Him.--Matt. 3:13, 16.
-そのときイエスは、ガリラヤを出てヨルダン川に現れ、ヨハネのところにきて、バプテスマを受けようとされた。（中略）イエスは**バプテスマを受ける**とすぐ、水から上がられた。すると、見よ、天が彼に開け、彼（ヨハネ）は、神の**御霊**がはとのように下って、彼の上にとどまるのを見た（マタイ三・一三、一六）。
+そのときイエスは、ガリラヤを出てヨルダン川に現れ、ヨハネのところにきて、バプテスマを受けようとされた。（中略）イエスは**バプテスマを受ける**とすぐ、水から上がられた。すると、見よ、天が開け、彼（ヨハネ）は、神の**御霊**がはとのように下って、彼の上にとどまるのを見た（マタイ三・一三、一六）。
 // 口語訳では御霊をごらんになったのはイエスだが、著者は欽定訳の he に「(John)」と補っているので、それに合わせて言い換えた。
 
 6. Do those that believe on him have to be baptized?
@@ -148,14 +148,14 @@ Can any man forbid WATER, that these should not be BAPTIZED, who have received t
 問二十四　ペテロは彼らに、どの名によってバプテスマを受けるよう命じましたか。
 
 And he commanded them to be BAPTIZED in the name of the Lord.--Acts 10:36, 48.
-こうして、ペテロは彼らに、主の名によって**バプテスマを受ける**ように命じた（使徒一〇・三六、四八）。
+ペテロはその人々に命じて、主の名によって**バプテスマを受けさせた**（使徒一〇・三六、四八）。
 // 欽定訳は in the name of the Lord で、口語訳は「イエス・キリストの名によって」。英文に合わせて「主の名」とした。著者が三六節（イエス・キリストはすべての者の主）を添えているのは、この「主」がイエス・キリストであることを示すため。
 
 25. What effect did Paul's preaching have upon Lydia, of Thyatira?
 問二十五　パウロの宣教は、テアテラのルデヤにどのような働きをしましたか。
 
 And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she ATTENDED UNTO THE THINGS which were spoken by Paul.--Acts 16:14.
-ところが、テアテラ市の紫布の商人で、神を敬うルデヤという婦人が聞いていた。主は彼女の心を開いて、パウロの語ることに**耳を傾けさせた**（使徒一六・一四）。
+ところが、テアテラ市の紫布の商人で、神を敬うルデヤという婦人が聞いていた。主は彼女の心を開いて、パウロの**語ることに耳を傾けさせた**（使徒一六・一四）。
 
 26. How was she judged to be faithful to the Lord?
 問二十六　ルデヤは、どのようにして主に忠実な者と認められましたか。
@@ -209,12 +209,13 @@ For as many of you as have been BAPTIZED into Christ have put on Christ.--Gal. 3
 
 In whom also ye are circumcised with the circumcision made without hands, * * * Buried with him by BAPTISM, wherein ye are risen with him thru the operation of God who has raised him from the dead.--Col. 2:11, 12.
 あなたがたはまた、彼にあって、手によらない割礼を受けた。（中略）あなたがたは**バプテスマ**を受けて彼と共に葬られ、同時に、彼を死人の中からよみがえらせた神の力によって、彼と共によみがえらされたのである（コロサイ二・一一〜一二）。
+// 口語訳は「神の力を信じる信仰によって」。英文（著者の引用）は欽定訳の the faith of を落としているので、それに合わせた。
 
 34. Did the apostles teach that water baptism saved us?
 問三十四　使徒たちは、水のバプテスマがわたしたちを救うと教えましたか。
 
 When once the long suffering of God waited in the days of Noah, while the ark was in preparing, wherein few, that is, eight souls were saved by water. The like figure wherein BAPTISM doth also now SAVE US * * * by the resurrection of Jesus Christ from the dead.--1 Pet. 3:20, 21.
-むかしノアの箱舟が造られていた間、神が寛容をもって待っておられた。その箱舟に乗り込み、水を経て救われたのは、わずかに八名だけであった。この水は**バプテスマ**を象徴するものであって、今やあなたがたをも**救う**のである。（中略）それは、イエス・キリストの復活によるのである（第一ペテロ三・二〇〜二一）。
+むかしノアの箱舟が造られていた間、神が寛容をもって待っておられた。その箱舟に乗り込み、水を経て救われたのは、わずかに八名だけであった。この水は**バプテスマ**を象徴するものであって、今や**あなたがたをも救う**のである。それは、イエス・キリストの復活による（中略）（第一ペテロ三・二〇〜二一）。
 
 35. Can water baptism save us alone?
 問三十五　水のバプテスマだけで、わたしたちは救われるのですか。
@@ -239,7 +240,7 @@ For IN HIM dwelleth all the FULNESS OF THE GODHEAD bodily. For it pleased the Fa
 問三十八　父、子、聖霊の**名**が一つの名になることを示しているのは、どの聖句ですか。
 
 And the LORD shall be king over all the earth: in that day there shall be one LORD, and his NAME ONE.--Zech. 14:9.
-主は全地の王となられる。その日には、**主ひとり**、**その名一つ**のみとなる（ゼカリヤ一四・九）。
+主は全地の王となられる。その日には、主ひとり、**その名一つ**のみとなる（ゼカリヤ一四・九）。
 
 39. Will every body have to acknowledge the name of Jesus as Lord?
 問三十九　だれもが、イエスの名を主と認めなければならないのですか。
@@ -248,14 +249,14 @@ That at the NAME of JESUS every knee shall bow, of things in heaven, and things 
 それは、**イエスの御名**によって、天上のもの、地上のもの、地下のものなど、あらゆるものがひざをかがめ、また、あらゆる舌が、「**イエス・キリストは主である**」と告白して、栄光を父なる神に帰するためである（ピリピ二・一〇〜一一）。
 
 40. How does a man stand before God who did not know about baptism in the name of Jesus for the remission of sins?
-問四十　罪のゆるしを得させるイエスの名によるバプテスマを知らなかった人は、神の前でどのような立場にあるのですか。
+問四十　イエスの名による、罪のゆるしを得させるバプテスマを知らなかった人は、神の前でどのような立場にあるのですか。
 
 If I had not come and spoken unto them, they HAD NOT HAD SIN: But now they have no cloak (excuse) for their sin.--John 15:22.
 もしわたしがきて彼らに語らなかったならば、彼らは**罪を犯さないですんだ**であろう。しかし今となっては、彼らには、その罪について言いのがれる道がない（ヨハネ一五・二二）。
 // 英文の (excuse) は、欽定訳の cloak（口実）を言い換えた著者の補い。口語訳の「言いのがれる道」がその意味を表しているので、別に訳していない。
 
 41. What does Jesus say to those who have light on his word?
-問四十一　イエスは、そのみことばの光を受けている人々に何と言われますか。
+問四十一　イエスは、そのみことばについて光を受けている人々に何と言われますか。
 
 Yet a little while is the light with you. WALK WHILE YOU HAVE THE LIGHT, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth. While ye have light, believe in the light, that ye may be the children of light. These things spake Jesus, and departed, and did hide himself from them.--John 12:35, 36.
-もうしばらくの間、光はあなたがたと一緒にここにある。**光がある間に歩いて**、やみに追いつかれないようにしなさい。やみの中を歩く者は、自分がどこへ行くのかわかっていない。光のある間に、光の子となるために、光を信じなさい。イエスはこれらのことを話してから、そこを立ち去って、彼らから身を隠された（ヨハネ一二・三五〜三六）。
+「もうしばらくの間、光はあなたがたと一緒にここにある。**光がある間に歩いて**、やみに追いつかれないようにしなさい。やみの中を歩く者は、自分がどこへ行くのかわかっていない。光のある間に、光の子となるために、光を信じなさい」。イエスはこれらのことを話してから、そこを立ち去って、彼らから身を隠された（ヨハネ一二・三五〜三六）。
