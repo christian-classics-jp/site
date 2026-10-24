@@ -6,7 +6,7 @@ THE BAPTISM OF THE HOLY GHOST SUBSEQUENT TO SANCTIFICATION.
 『突然、激しい風が吹いてきたような音が天から起ってきて、（その音が）一同がすわっていた家いっぱいに響きわたった』。
 
 Since nothing is said in the whole account about regeneration nor sanctification; since we have seen from Scripture that they had already been established in regeneration, and put under the blood--sanctified; since Jesus never gave them any instructions to go up to Jerusalem to seek regeneration or sanctification, but to wait for the Holy Ghost; and since they seem to have been waiting for the very blessing which had been promised them: I take this sound filling all the house where they were sitting, as a symbol of the Holy Ghost filling them who were sitting in the house.
-この記事全体の中に、新生についても聖化についても何も言われていない。また聖書から見てきたように、彼らはすでに新生に堅く立ち、血の下に置かれて、聖化されていた。イエスは、新生や聖化を求めにエルサレムへ上れとは少しも指示されず、聖霊を待てと言われた。そして彼らは、約束されていたまさにその祝福を待っていたように見える。だから私は、彼らのすわっていた家いっぱいに響きわたったこの音を、象徴と受け取る。その家にすわっていた人々を、聖霊が満たされたことの象徴である。
+この記事全体の中に、新生についても聖化についても何も言われていない。また聖書から見てきたように、彼らはすでに新生に堅く立ち、血の下に置かれて、聖化されていた。イエスは、新生や聖化を求めにエルサレムへ上れとは少しも指示されず、聖霊を待てと言われた。そして彼らは、約束されていたまさにその祝福を待っていたように見える。だから私は、彼らのすわっていた家いっぱいに響きわたったこの音を、象徴と受け取る。その家にすわっていた人々を、聖霊が満たしてくださったことの象徴である。
 
 "And there appeared unto them cloven tongues like as of fire, and it sat upon each of them."
 『また、舌のようなものが、炎のように分れて現れ、ひとりびとりの上にとどまった』。
@@ -39,7 +39,7 @@ A momentous crisis had come to the Jews with the ministry of John.
 Hitherto they could be saved by the excarnate Christ, under the ministry of the law and the prophets.
 それまで彼らは、律法と預言者の務めのもとで、まだ肉体をとっておられないキリストによって救われることができた。
 Now that He has come in human flesh, they must receive Him, or grieve away the Holy Ghost and take the fatal plunge into reprobacy and damnation.
-しかし今、キリストが人の肉体をとって来られたので、彼らはキリストを受け入れなければならない。さもなければ、聖霊を悲しませて去らせ、神に見捨てられた状態と滅びの中へ、取り返しのつかない身投げをすることになる。
+しかし今、キリストが人の肉体をとって来られたので、彼らはキリストを受け入れなければならない。さもなければ、聖霊を悲しませて去らせ、神に見捨てられた状態と滅びの中へ、取り返しのつかない転落をすることになる。
 "And now also the axe is laid unto the root of the trees."
 『斧がすでに木の根もとに置かれている』。
 It was a judgment come to the house of God--the Jewish church.
@@ -79,9 +79,9 @@ John says, I indeed do this, but "He" (Christ) shall not only baptize "you" with
 The "threshing-floor" is the visible church; at the time John spoke, the Jewish church.
 「打ち場」とは、目に見える教会である。ヨハネが語ったときには、それはユダヤ人の教会であった。
 The fan separates the chaff from the wheat while both are on the floor; the wheat is then gathered into the "garner"--the kingdom of God on earth, ready for the Lord's mill, and a grand festival among angels and archangels; the chaff is blown out and burned with unquenchable fire.
-箕は、麦とからが共に打ち場にあるうちに、からを麦から分ける。そのあと麦は「倉」に集められる。倉とは地上の神の国であり、麦はそこで主の臼にかけられる備えができている。そして御使いと御使いのかしらたちの間で、盛大な祝いがある。からは吹き飛ばされ、消えない火で焼かれる。
+箕は、麦とからが共に打ち場にあるうちに、からを麦から分ける。そのあと麦は「倉」に集められる。倉とは地上の神の国であり、麦はそこで、主の臼にかけられることにも、御使いと御使いのかしらたちの間での盛大な祝いにも、備えができている。からは吹き飛ばされ、消えない火で焼かれる。
 The visible Jewish church underwent a thorough purgation in the ministry of Christ, the Omnipotent Fan coming like a tornado from heaven, and blowing out of it the multitudes of weak, easy-going, compromising chaff, the leading clergy and officials, cutting down the membership to the pure wheat, who were gathered into the "garner," and baptized with the Holy Ghost and fire; while the chaff was blown out of the church and cast into the lake of unquenchable fire.
-目に見えるユダヤ人の教会は、キリストの務めの中で、徹底的にきよめられた。全能の箕が天から竜巻のように来て、教会から多くのからを吹き飛ばしたのである。それは、弱く、のんきで、妥協するからであり、指導的な聖職者や役員たちであった。こうして会員は、純粋な麦だけに減らされた。その麦は「倉」に集められ、聖霊と火とによってバプテスマを受けた。一方、からは教会から吹き飛ばされ、消えない火の池に投げ込まれた。
+目に見えるユダヤ人の教会は、キリストの務めの中で、徹底的にきよめられた。全能の箕が天から竜巻のように来て、弱く、のんきで、妥協する多くのからを、教会から吹き飛ばしたのである。それは、指導的な聖職者や役員たちであった。こうして会員は、純粋な麦だけに減らされた。その麦は「倉」に集められ、聖霊と火とによってバプテスマを受けた。一方、からは教会から吹き飛ばされ、消えない火の池に投げ込まれた。
 
 In verse 10, the symbol is an orchard representing the church, in which each tree is a member; in verse 12, the symbol is a threshing-floor representing the church, in which the good and bad, the fruitful and the unfruitful, comprising the entire membership, are represented by the wheat and the chaff.
 一〇節では、象徴は教会を表す果樹園であり、その中の一本一本の木が会員である。一二節では、象徴は教会を表す打ち場である。そこでは、良い者と悪い者、実を結ぶ者と結ばない者、つまり会員全体が、麦とからによって表されている。
@@ -92,12 +92,13 @@ Each is no good, and each is cast into the fire.
 I can't see that either verse 10 or 12 refers to the Baptism of the Holy Ghost for individual believers; but rather to the judgment of the visible church.
 一〇節も一二節も、個々の信者が受ける聖霊のバプテスマを指しているとは、私には思えない。むしろ、目に見える教会のさばきを指しているのである。
 The judgment was brought to the Jewish church--the axe was laid at the root of the trees--by the preaching of John; the floor was purged--the wheat separated from the chaff--through the ministry of. Christ; the wheat was gathered into the "garner," and baptized with the Holy Ghost and fire; the chaff--the bon ton church members--was purged out and burned.
-ヨハネの宣教によって、ユダヤ人の教会にさばきがもたらされた。斧が木の根もとに置かれたのである。キリストの務めを通して、打ち場がきよめられた。麦がからから分けられたのである。麦は「倉」に集められ、聖霊と火とによってバプテスマを受けた。から、すなわち上流気取りの教会員は、きよめ出されて焼かれた。
+ヨハネの宣教によって、ユダヤ人の教会にさばきがもたらされた。斧が木の根もとに置かれたのである。キリストの務めを通して、打ち場がきよめられた。麦とからが分けられたのである。麦は「倉」に集められ、聖霊と火とによってバプテスマを受けた。から、すなわち上流気取りの教会員は、取り除かれて焼かれた。
 // 英文は `through the ministry of. Christ`（p. 85）。ピリオドを取って読んだ。
 The judgment of verse 10 is brought to the visible church to-day through the present movement; the judgment of verse 12, which is only a continuation of the judgment of verse 10, will occur at the second coming of Christ.
 一〇節のさばきは、今日、今の運動を通して目に見える教会にもたらされている。一二節のさばきは、一〇節のさばきの続きにすぎず、キリストの再臨のときに起こる。
 Some say that the phrase, "burn up," proves that the chaff is depravity, and not the ungodly church members; but in Mal. 4: 1 we have the same phrase, and here it is plainly stated that it refers to the wicked; and yet it is clearly brought out in either passage that the wicked are not annihilated.
 「焼き捨てる」という言葉は、からが堕落性であって、不信仰な教会員ではないことを証明している、と言う人々がいる。しかしマラキ四章一節にも同じ言い方があり、そこでは、それが悪人を指していることがはっきり述べられている。それでも、どちらの箇所でも、悪人が消滅させられるのではないことが明らかに示されている。
+// 英文はマタイ三章一二節もマラキ四章一節も burn up。口語訳では「焼き捨てる」「焼き尽して」と語が違う。
 From Mal. 4: 3, we learn that after the wicked are "burned up," they will be ashes under the feet of the righteous.
 マラキ四章三節から、悪人は「焼き尽くされ」たあと、正しい者の足の下で灰になることがわかる。
 Matt. 3: 12, says the chaff will be burned with unquenchable fire--fire that will never go out.
@@ -115,7 +116,7 @@ John is simply contrasting his baptism with water with Christ's Baptism with the
 ヨハネはただ、自分の水によるバプテスマと、キリストの聖霊によるバプテスマとを対比しているだけである。
 
 So having by a careful and prolonged study investigated the Scriptures concerning the Baptism promised by John and corroborated by Jesus, and also the fulfillment of that promise in the case of the apostles and disciples on the day of Pentecost, let us now proceed to make farther investigations.
-こうして私たちは、ヨハネが約束し、イエスが確かめられたバプテスマについて、注意深く長い時間をかけて聖書を調べてきた。また、ペンテコステの日に使徒たちと弟子たちの場合にその約束が成就したことも調べた。では次に、さらに調べを進めよう。
+こうして私たちは、ヨハネが約束し、イエスが裏づけられたバプテスマについて、注意深く長い時間をかけて聖書を調べてきた。また、ペンテコステの日に使徒たちと弟子たちの場合にその約束が成就したことも調べた。では次に、さらに調べを進めよう。
 We will take the case of Cornelius (Acts 10).
 コルネリオの場合を取り上げる（使徒一〇章）。
 
@@ -124,7 +125,7 @@ The Word says that Cornelius was "A devout man, and one that feared God with all
 There are not many sanctified people living above this man.
 この人よりも高い生き方をしている聖化された人々は、多くはない。
 In Peter's vision, he "saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth: wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air. And there came a voice to him, Rise, Peter; kill, and eat. But Peter said, Not so, Lord; for I have never eaten anything that is common or unclean."
-ペテロの見た幻では、彼は『天が開け、大きな布のような入れ物が、四すみをつるされて、地上に降りて来るのを見た。その中には、地上の四つ足や獣や這うもの、また空の鳥など、各種の生きものがはいっていた。そして声が彼に聞えてきた、「ペテロよ。立って、ほふって食べなさい」。ペテロは言った、「主よ、それはできません。わたしは今までに、清くないもの、汚れたものは、何一つ食べたことがありません」』。
+ペテロの見た幻では、彼は『天が開け、大きな布のような入れ物が、四すみをつるされて、地上に降りて来るのを見た。その中には、地上の四つ足や獣や這うもの、また空の鳥など、各種の生きものがはいっていた。そして声が彼に聞えてきた、「ペテロよ。立って、それらをほふって食べなさい」。ペテロは言った、「主よ、それはできません。わたしは今までに、清くないもの、汚れたものは、何一つ食べたことがありません」』。
 What did these "fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air" represent?
 この『地上の四つ足や獣や這うもの、また空の鳥』は、何を表していたのか。
 Surely it was Cornelius and his household.
@@ -191,7 +192,7 @@ Where did Jesus suffer to sanctify the people? Outside the gate--at Calvary.
 In Eph. 2: 16, we learn that enmity--carnality--was slain at the cross, and not at Pentecost.
 エペソ二章一六節から、敵意、すなわち肉の性質は、ペンテコステでではなく、十字架で滅ぼされたことがわかる。
 Jesus that He might sanctify the people suffered without the gate--"He led them out" (Luke 24: 50).
-イエスは民をきよめるために、門の外で苦難を受けられた。そして、『彼らを（中略）連れて行き』とある（ルカ二四・五〇）。
+イエスは民をきよめるために、門の外で苦難を受けられた。そして、『イエスは彼らを連れ出された』（ルカ二四・五〇）。
 He went to His Father that He might send the Comforter.
 イエスは、助け主を送るために、父のもとへ行かれた。
 The disciples received the Holy Spirit within the gate.
@@ -208,7 +209,7 @@ At Calvary the old man dies; at Pentecost you are filled with the Holy Spirit.
 カルバリで古い人は死ぬ。ペンテコステで、あなたは聖霊に満たされる。
 
 Jesus had no sin, and yet He had to receive the Baptism of the Holy Spirit before He entered upon His ministry.
-イエスには罪がなかった。それでも、務めに就かれる前に、聖霊のバプテスマを受けなければならなかった。
+イエスには罪がなかった。それでも、務めに就かれる前に、聖霊のバプテスマをお受けにならなければならなかった。
 This Baptism is for service.
 このバプテスマは、奉仕のためのものである。
 Jesus needed it to heal the sick, to raise the dead; He needed it in Gethsemane, and at Calvary.
