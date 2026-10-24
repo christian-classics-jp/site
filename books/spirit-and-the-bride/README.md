@@ -14,7 +14,7 @@
 + [x] Chapter III. The Seven Spirits of God
 + [x] Chapter IV. The Manifestation of the Spirit (1)
 + [x] Chapter IV. The Manifestation of the Spirit (2)
-+ [ ] Chapter V. Objections Answered (1)
++ [x] Chapter V. Objections Answered (1)
 + [ ] Chapter V. Objections Answered (2)
 + [ ] Chapter VI. The Gifts of the Spirit
 + [ ] Chapter VII. Pounds and Talents
