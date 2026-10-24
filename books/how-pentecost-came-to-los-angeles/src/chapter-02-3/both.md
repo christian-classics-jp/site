@@ -5,7 +5,7 @@ Chapter 2
 For several days I had an impression another letter was coming from Evan Roberts. It soon came, and read as follows:
 数日前から、エバン・ロバーツからまた手紙が来るような気がしていた。まもなく手紙が届いた。こう書いてあった。
 "Loughor, Wales, Nov. 14, '05. My dear comrade: What can I say that will encourage you in this terrible fight. I find it is a most awful one. The kingdom of the evil one is being besieged on every side.
-「ウェールズ、ラファー、1905年11月14日。親愛なる戦友へ。この恐ろしい戦いの中にいるあなたを励ますのに、何を言えばよいでしょうか。これはまことにすさまじい戦いだと思います。悪しき者の国は、四方から攻め囲まれています。
+「ウェールズ、ラッハー、1905年11月14日。親愛なる戦友へ。この恐ろしい戦いの中にいるあなたを励ますのに、何を言えばよいでしょうか。これはまことにすさまじい戦いだと思います。悪しき者の国は、四方から攻め囲まれています。
 Oh, the millions of prayers - not simply the form of prayer - but the soul finding its way right to the White Throne! People in Wales can pray during the last year. May the Lord bless you with a mighty downpouring.
 ああ、何百万もの祈り。それはただの祈りの形ではなく、白い御座へまっすぐ道を見いだしていく魂なのです。ウェールズの人々は、この一年のあいだに祈ることができるようになりました。主があなたがたを祝福し、力強い注ぎを与えてくださいますように。
 In Wales it seems as if the Holy One rests upon the congregation, awaiting the opening of the hearts of the followers of Christ. We had a mighty downpouring of the Holy Spirit last Saturday night. This was preceded by the correcting of the people's views of true worship.
@@ -19,19 +19,19 @@ This was the third letter I had received from Wales, from Evan Roberts, and I fe
 これは、ウェールズのエバン・ロバーツから受け取った三通目の手紙だった。カリフォルニアで最後に勝利を得たことには、彼らの祈りが大いにかかわっていたと私は思う。
 
 Evan Roberts tells us of his own experience with God: "One Friday night last spring, while praying by my bedside before retiring, I was taken up to a great expanse, without time or space. It was communion with God. Before this I had had a far off God.
-エバン・ロバーツは、自分と神とのあいだにあった経験をこう語っている。「去年の春のある金曜日の夜、寝る前に寝床のそばで祈っていると、私は、時も所もない大きな広がりへと引き上げられた。それは神との交わりだった。それまでの私にとって、神は遠いかただった。
+エバン・ロバーツは、自分と神とのあいだにあった経験をこう語っている。「この前の春のある金曜日の夜、寝る前に寝床のそばで祈っていると、私は、時も所もない大きな広がりへと引き上げられた。それは神との交わりだった。それまでの私にとって、神は遠いかただった。
 I was frightened that night, but never since. So great was my shivering that I rocked the bed, and my brother, being awakened, took hold of me, thinking I was ill."
-その夜は恐ろしかったが、それからは一度も恐ろしいと思ったことはない。あまりに激しく震えたので寝床が揺れ、目を覚ました兄弟は、私が病気になったと思って、私を抱きかかえた」。
+その夜は恐ろしかったが、それからは一度も恐ろしいと思ったことはない。あまりに激しく震えたので寝床が揺れ、目を覚ました私の兄弟は、私が病気になったと思って、私を抱きかかえた」。
 This experience took place every night after this with Evan Roberts, for three months, from 1 o'clock until 5. He wrote a message to the world about this time, as follows:
 このあと三か月のあいだ、毎晩、午前1時から5時まで、エバン・ロバーツにこの経験が起こった。そのころ、彼は世界に向けて次のようなメッセージを書いた。
 "The revival in South Wales is not of men, but of God. He has come very close to us. There is no question of creed or of dogma in this movement. We are teaching no sectarian doctrine, only the wonder and beauty of Christ's love.
 「南ウェールズのリバイバルは、人から出たものではなく、神から出たものである。神は私たちのすぐ近くに来られた。この運動には、信条や教義の問題はない。私たちは教派の教えを説いているのではない。ただキリストの愛のすばらしさと美しさを教えているだけである。
 I have been asked concerning my methods. I have none. I never prepare what I shall speak, but leave that to Him. I am not the source of this revival, but only one agent among what is growing to be a multitude. I wish no personal following, but only the world for Christ.
-私のやり方について尋ねられたことがある。私にはやり方などない。何を語るかを前もって準備することは決してなく、それは神にお任せしている。私はこのリバイバルの源ではない。大勢になりつつある器の中の、ただ一人にすぎない。私は自分に従う人々を望まない。ただ、世界がキリストのものとなることだけを望んでいる。
+私のやり方について尋ねられたことがある。私にはやり方などない。何を語るかを前もって準備することは決してなく、それは神にお任せしている。私はこのリバイバルの源ではない。大勢になりつつある働き手の中の、ただ一人にすぎない。私は自分に従う人々を望まない。ただ、世界がキリストのものとなることだけを望んでいる。
 I believe that the world is upon the threshold of a great religious revival, and pray daily that I may be allowed to help bring this about. Wonderful things have happened in Wales in a few weeks, but these are only a beginning.
 世界は大いなる信仰のリバイバルの入口に立っていると私は信じている。そして、それをもたらす助けをさせていただけるよう、毎日祈っている。ウェールズでは、数週間のうちにすばらしいことが起こった。しかし、それは始まりにすぎない。
 The world will be swept by His Spirit as by a rushing, mighty wind. Many who are now silent Christians will lead the movement. They will see a great light, and will reflect this light to thousands now in darkness. Thousands will do more than we have accomplished, as God gives them power." - Evan Roberts.
-世界は、激しい風が吹きすぎるように、神の御霊に吹き払われるだろう。今は黙っている多くのクリスチャンが、この運動を導くようになるだろう。彼らは大いなる光を見て、今やみの中にいる何千もの人々にその光を照り返すだろう。神が力を与えてくださるので、何千もの人々が、私たちのなしとげたこと以上のことをするだろう」（エバン・ロバーツ）。
+神の御霊が、激しい風のように世界を吹きわたるだろう。今は黙っている多くのクリスチャンが、この運動を導くようになるだろう。彼らは大いなる光を見て、今やみの中にいる何千もの人々にその光を照り返すだろう。神が力を与えてくださるので、何千もの人々が、私たちのなしとげたこと以上のことをするだろう」（エバン・ロバーツ）。
 What beautiful humility! This is the secret of all power.
 なんと美しいへりくだりだろう。これが、あらゆる力の秘訣なのだ。
 
@@ -39,15 +39,15 @@ An English eye-witness writes of the revival in Wales: "Such real travail of sou
 あるイギリス人は、ウェールズのリバイバルを目撃して、こう書いている。「救われていない人々のための、これほど本当の魂の産みの苦しみを、私はこれまで見たことがない。若いエバン・ロバーツが、悲しみに身をよじりながら、聴衆に祈るよう呼びかけるのを見た。『歌うな』と彼は叫んだものだ。『歌うには恐ろしすぎる』」（歌いすぎたために、人々から罪の自覚が取り去られてしまったことは、これまでにもよくあった）。
 
 Another writer declares it was not the eloquence of Evan Roberts that broke men down, but his tears. "He would break down, crying bitterly for God to bend them, in an agony of prayer, the tears coursing down his cheeks, with his whole frame writhing.
-別の書き手は、人々を打ち砕いたのはエバン・ロバーツの雄弁ではなく、その涙だったと言っている。「彼は泣き崩れ、人々をかがませてくださるようにと、激しく泣いて神に求めたものだ。苦しみもだえて祈り、涙はほおを流れ、全身はよじれていた。
+別の書き手は、人々を打ち砕いたのはエバン・ロバーツの雄弁ではなく、その涙だったと言っている。「彼は泣き崩れ、人々を屈服させてくださるようにと、激しく泣いて神に求めたものだ。苦しみもだえて祈り、涙はほおを流れ、全身はよじれていた。
 Strong men would break down and cry like children. Women would shriek. A sound of weeping and wailing would fill the air. Evan Roberts in the intensity of his agony would fall in the pulpit, while many in the crowd often fainted."
 屈強な男たちが泣き崩れ、子供のように泣いた。女たちは悲鳴を上げた。泣き声と嘆きの声があたりに満ちた。エバン・ロバーツはあまりの苦しみに説教壇で倒れ、群衆の中にも気を失う者が多かった」。
 
 Of the later work in India we read: "The girls in India so wonderfully wrought upon and baptized with he Spirit (in Ramabai's mission), began by terrifically beating themselves, under pungent conviction of their need. Great light was given them.
 // 英文の with he Spirit は with the Spirit の誤り。
-そのあとのインドでの働きについては、こう書かれている。「インドの少女たちは（ラマバイのミッションで）、すばらしく取り扱われ、御霊のバプテスマを受けた。初めは、自分の必要を鋭く示されて、すさまじく自分の体を打った。少女たちには大いなる光が与えられた。
+そのあとのインドでの働きについては、こう書かれている。「インドの少女たちは（ラマバイのミッションで）、すばらしく取り扱われ、御霊のバプテスマを受けた。そうなる前に、少女たちはまず、自分の必要を鋭く示されて、すさまじく自分の体を打った。少女たちには大いなる光が与えられた。
 When delivered they jumped up and down for joy, for hours without fatigue, in fact were stronger for it. They cried out with the burning that came into and upon them.
-救い出されると、少女たちは喜んで跳びはねた。何時間も疲れることなく跳び、じつにそれによってかえって強くなった。自分の内に、また上に臨んだ燃えるものに、少女たちは叫び声を上げた。
+救い出されると、少女たちは喜んで跳びはねた。何時間も疲れることなく跳び、じつにそれによってかえって強くなった。自分の内に、また上に臨んだ燃えるような熱さに、少女たちは叫び声を上げた。
 Some fell as they saw a great light pass before them, while the fire of God burned the members of the body of sin, pride, anger, love of the world, selfishness, uncleanness, etc. They neither ate nor slept until the victory was won.
 大いなる光が目の前を通り過ぎるのを見て、倒れる者もいた。そのあいだに神の火が、罪のからだの肢体、すなわち高ぶり、怒り、世を愛する心、自分本位、汚れなどを焼き尽くした。少女たちは、勝利を得るまで、食べも眠りもしなかった。
 Then the joy was so great that for two or three days after receiving the baptism of the Holy Spirit they did not care for food.
@@ -57,14 +57,14 @@ About twenty girls went into a trance at one time and became unconscious of this
 When they became conscious they told of seeing a throne in Heaven, a white robed throng, and a glory so bright they could not bear it. Soon the whole place was aflame.
 我に返ると、少女たちは、天の御座と、白い衣を着た群衆と、耐えられないほどまばゆい栄光を見たと語った。まもなく、その場所全体が燃え立った。
 School had to be suspended, they forgot to eat or sleep, and whole nights and days were absorbed in prayer. The Spirit was poured out upon one of the seeking girls in the night.
-授業はやめなければならなかった。少女たちは食べることも眠ることも忘れ、昼も夜も、まるまる祈りに費やした。ある夜、求めていた少女の一人の上に御霊が注がれた。
+授業は休みにしなければならなかった。少女たちは食べることも眠ることも忘れ、昼も夜も、まるまる祈りに費やした。ある夜、求めていた少女の一人の上に御霊が注がれた。
 Her companion sleeping next to her awoke, and seeing fire envelop her, ran across the dormitory and brought a pail of water to dash upon her.
 隣で寝ていた友だちが目を覚まし、その子が火に包まれているのを見た。友だちは寄宿舎を走って横切り、その子に浴びせようと、桶に水をくんで来た。
 In less than an hour nearly all the girls in the compound were weeping, praying, and confessing their sins. Many of these girls were invested with a strange, beautiful and supernatural fire."
 一時間もたたないうちに、敷地の中のほとんどすべての少女が、泣き、祈り、罪を告白していた。少女たちの多くは、不思議な、美しい、超自然の火をまとっていた」。
 
 The spontaneous composition of hymns was a curious feature of some of the meetings in other parts of India. At Kara Camp pictures appeared on the walls to a company of small girls in prayer, supernaturally depicting the life of Christ.
-インドのほかの地方では、讃美歌がおのずから作られたことが、いくつかの集会の珍しい特色だった。カラ・キャンプでは、祈っていた小さな少女たちの一団の前で、壁に絵が現れた。それは、キリストのご生涯を超自然的に描き出していた。
+インドのほかの地方では、賛美歌がおのずから作られたことが、いくつかの集会の珍しい特色だった。カラ・キャンプでは、祈っていた小さな少女たちの一団の前で、壁に絵が現れた。それは、キリストのご生涯を超自然的に描き出していた。
 The figures moved in the pictures and were in colors. Each view would last from two to ten minutes and then the light would gradually fade away, to reappear in a few moments with a new scene.
 絵の中の人物は動き、色がついていた。一つ一つの場面は二分から十分ほど続いた。それから光はだんだん薄れて消え、しばらくすると新しい場面になってまた現れた。
 These appeared for twelve hours, and were not only seen by the native children of the orphanage and eight missionaries, but by native Christians living near, and even heathen coming to see the wonderful sight.
@@ -104,10 +104,10 @@ Again I wrote: "The current of revival is sweeping by our door. Will we cast our
 'Pentecost' is knocking at our doors. The revival for our country is no longer a question. Slowly but surely the tide has been rising until in the very near future we believe for a deluge of salvation that will sweep all before it.
 『ペンテコステ』が私たちの戸をたたいている。この国のリバイバルは、もはや疑いのないことである。ゆっくりと、しかし確かに潮は満ちてきた。ごく近いうちに、すべてを押し流す救いの大洪水が来ると私たちは信じている。
 Wales will not long stand alone in this glorious triumph for our Christ. The spirit of reviving is coming upon us, driven by the breath of God, the Holy Ghost. The clouds are gathering rapidly, big with a mighty rain, whose precipitation lingers but a little.
-私たちのキリストのためのこの栄光の勝利に、ウェールズがいつまでもひとりで立っていることはないだろう。神の息である聖霊に吹かれて、生き返らせる霊が私たちに臨みつつある。雲は大雨をはらんで急速に集まっている。その雨が降るのも、もう少しのことだ。
+私たちのキリストのためのこの栄光の勝利に、ウェールズがいつまでもひとりで立っていることはないだろう。神の息である聖霊に吹かれて、リバイバルの霊が私たちに臨みつつある。雲は大雨をはらんで急速に集まっている。その雨が降るのも、もう少しのことだ。
 
 "Heroes will arise from the dust of obscure and despised circumstances, whose names will be emblazoned on Heaven's eternal page of fame. The Spirit is brooding over our land again as at creation's dawn, and the fiat of God goes forth. 'Let there be light.'
-「名もなく、さげすまれた境遇のちりの中から、英雄たちが起こるだろう。その名は、天の永遠の栄誉の書に輝かしく記されるだろう。天地創造の夜明けのときのように、御霊は今また私たちの国をおおっておられる。そして神の命令が出される。『光あれ』。
+名もなく、さげすまれた境遇のちりの中から、英雄たちが起こるだろう。その名は、天の永遠の栄誉の書に輝かしく記されるだろう。天地創造の夜明けのときのように、御霊は今また私たちの国をおおっておられる。そして神の命令が出される。『光あれ』。
 Brother, sister, if we all believed God can you realize what would happen? Many of us here are living for nothing else. A volume of believing prayer is ascending to the throne night and day.
 兄弟姉妹よ、私たちがみな神を信じたら、何が起こるか想像できるだろうか。ここにいる私たちの多くは、ただそのためだけに生きている。信じる祈りが、昼も夜も、おびただしく御座へと上っている。
 Los Angeles, Southern California, and the whole continent shall surely find itself ere long in the throes of a mighty revival, by the Spirit and power of God." - F. Bartleman, in "Way of Faith," Nov. 16, 1905.
@@ -123,7 +123,7 @@ Of course we did not realize what a real "Pentecost" was. But the Spirit did, an
 もちろん私たちは、本当の「ペンテコステ」がどういうものかを知らなかった。しかし御霊はご存じで、私たちが正しく求めるように導いてくださった。
 
 I had been praying for a fountain pen. A brother found one and gave it to me. He already had one.
-私は万年筆を求めて祈っていた。ある兄弟が一本見つけて、私にくれた。彼はもう一本持っていたのだ。
+私は万年筆を求めて祈っていた。ある兄弟が一本見つけて、私にくれた。彼は自分の万年筆をもう持っていたのだ。
 I wrote thirty letters of exhortation to prayer and faith for a revival, to as many missions, on the coast and in foreign fields. But I had no postage. While I was writing a sister came in and handed me four dollars. I had asked for a witness if the letters were from Him.
 私は、太平洋岸と外国の伝道地の三十のミッションに、一通ずつ、リバイバルのための祈りと信仰を勧める手紙を書いた。しかし、郵便代がなかった。書いているうちに、ある姉妹が入って来て、4ドルを手渡してくれた。私は、これらの手紙が主から出たものであるなら、そのしるしを与えてくださいと願っていたのだ。
 I was given several more articles for the religious press. After spending another whole night in prayer with Brother Boehmer, I was given a message of exhortation which I delivered in a number of churches and missions.
@@ -146,9 +146,9 @@ Many were trying to draw me away from the prayer ministry God had given me. But,
 多くの人が、神が私に与えてくださった祈りの奉仕から、私を引き離そうとしていた。しかし、『ひと時もわたしと一緒に目をさましていることが、できなかったのか』という言葉が、耳の中で鳴り続けていた。祈りによって「キリストの苦難にあずかる」ことは、何よりも甘美な奉仕である。
 
 The Lord had shown me some days before Mother Wheaton arrived that he was sending her. I was not in touch with her. She told me later she was about to start for Florida for the winter when the Lord told her to go to Los Angeles.
-マザー・ウィートンが着く何日か前に、主は、彼女を送ろうとしておられることを私に示してくださっていた。私は彼女と連絡を取っていなかった。あとで彼女が話してくれたところでは、冬を過ごすためにフロリダへ発とうとしていたとき、主がロサンゼルスへ行くようにと言われたのだという。
+マザー・ウィートンが着く何日か前に、主は、彼女を送ろうとしておられることを私に示してくださっていた。私は彼女と連絡を取っていなかった。あとで彼女が話してくれた。冬を過ごすためにフロリダへ発とうとしていたとき、主がロサンゼルスへ行くようにと言われたのだという。
 She did not understand what for until she found me so burdened in prayer. I lived in the spirit of prayer for many months, momentarily, without a break. It became my native element.
-私がひどく祈りの重荷を負っているのを見て、彼女は初めて、何のためだったのかがわかった。私は何か月ものあいだ、一瞬一瞬、途切れることなく祈りの霊の中に生きた。それは、私の生まれ育った場所のようになった。
+私がひどく祈りの重荷を負っているのを見て、彼女は初めて、何のためだったのかがわかった。私は何か月ものあいだ、一瞬一瞬、途切れることなく祈りの霊の中に生きた。それは、私にとって本来の住みかのようになった。
 
 The Lord told Brother Boehmer to stand for the whole of our house rent, so that my mind could be completely free for intercession. This was wonderful. And he was earning only two dollars per day. But he obeyed God.
 主はベーマー兄弟に、私たちの家賃を全部引き受けるようにと言われた。私の心が、すっかりとりなしに向けられるようにするためである。これはすばらしいことだった。しかも彼の稼ぎは、一日わずか2ドルだった。しかし彼は神に従った。
@@ -160,7 +160,7 @@ I went often at this time to pray for a sick woman In Pasadena, at her urgent re
 I used to ask Him to impress her to give me a certain amount, whatever I needed, and on several occasions I received exactly the amount I prayed for. Sometimes it was a battle. She had a powerful will, and loved her money.
 私はよく、必要なだけの額を私に渡すよう彼女に示してくださいと主に願った。何度か、祈ったとおりの額をちょうど受け取った。ときには、それは戦いだった。彼女はとても意志が強く、自分のお金を愛していた。
 Besides, she was very deaf . I could not talk with her. I never asked her for a cent, however. She had been a powerful Holiness evangelist, but had gotten out of the order of the Lord.
-そのうえ、彼女はひどく耳が遠かった。私は彼女と話ができなかった。それでも、私は彼女に一セントも求めたことはなかった。彼女は力あるホーリネスの伝道者だったが、主の定めた道からはずれてしまっていた。
+そのうえ、彼女はひどく耳が遠かった。私は彼女と話ができなかった。それでも、私は彼女に一文も求めたことはなかった。彼女は力あるホーリネスの伝道者だったが、主の定められた道からはずれてしまっていた。
 When she died all her money went to ungodly relatives, and the Lord got no more of it. I used to write when I wanted to communicate with her, because of her deafness. Her spirit nearly wore me out. It was so heavy.
 彼女が死ぬと、お金はすべて不信仰な親類の手に渡り、主はもうそれを少しも得られなかった。彼女は耳が遠かったので、何かを伝えたいときは、私はいつも紙に書いた。彼女の霊に、私はほとんど疲れ果てた。それほど重苦しかったのだ。
 
@@ -183,7 +183,7 @@ She was delivered of our first baby boy at 1:45 P. M., Sunday, March 4. We named
 I mailed fifty packages of my revival tracts to as many Holiness evangelists, in different states, to stir them up to faith and prayer for a revival. Soon after this I mailed eighty more packages, to as many more pastors and evangelists. Some wrote thanking me for the inspiration they had been to them.
 私は、いろいろな州の五十人のホーリネスの伝道者に、私のリバイバルのトラクトを一包みずつ郵便で送った。リバイバルのための信仰と祈りをかき立てるためである。それからまもなく、さらに八十人の牧師と伝道者に、一包みずつ送った。トラクトに励まされたと、礼状をくれた人もいた。
 I spent another all night in prayer, and then went to the Seventh Street tent meeting again. A man jumped up, just as I was about to speak, declaring he had a message he must deliver. He rattled like an empty wagon for a half hour, saying nothing.
-また夜通し祈ってから、七番街の天幕集会にまた出かけた。私が語ろうとしたちょうどそのとき、一人の男が跳び上がり、伝えなければならないメッセージがあると言い出した。彼は、空の荷車のように半時間がらがらと音を立てたが、何も語らなかった。
+また夜通し祈ってから、七番街の天幕集会に再び出かけた。私が語ろうとしたちょうどそのとき、一人の男が跳び上がり、伝えなければならないメッセージがあると言い出した。彼は、空の荷車のように半時間がらがらと音を立てたが、何も語らなかった。
 Then I got up. But up he jumped again, and went at it. Evidently the devil had him there to hinder my message. Finally he got wild, serving his master too well. The Lord enabled me to bring order again, and I delivered my message. The meeting ended in victory.
 それから私が立ち上がった。ところが、彼はまた跳び上がって、しゃべりはじめた。明らかに、悪魔が私のメッセージを妨げるために彼をそこに置いていたのだ。とうとう彼は、自分の主人にあまりに忠実に仕えて、手がつけられなくなった。主が私に秩序を取り戻させてくださり、私はメッセージを語った。集会は勝利のうちに終わった。
 The devil has no conscience, and the flesh has no sense. Many have never learned submission, courtesy, nor anything else, even in the way of common manners. A spirit of self-importance is one of the most disgusting things in the world.
@@ -196,7 +196,7 @@ I had a tremendous burden one night and could not rest at home. I went out, not 
 ある夜、すさまじい重荷があって、家で休んでいられなかった。どこへ行くあてもなく、外へ出た。御霊は私を七番街の天幕へ導かれた。そこで私は、半ばひざまずいたままメッセージを語った。聖徒たちは、祈るために祭壇の前へ群がった。
 
 We remained there for two hours, while the Spirit wrought mightily. It was a wonderful visitation. I was given more tracts to write, ordering 34,000, of different kinds, at one time. I had a real tract ministry, with faith for the means to pay for them.
-私たちは二時間そこにとどまり、そのあいだ御霊が力強く働かれた。すばらしい訪れだった。私には書くべきトラクトがさらに与えられ、一度に、いろいろな種類のものを三万四千部注文した。私には、代金が与えられることを信じる信仰を伴った、本当のトラクトの奉仕があったのだ。
+私たちは二時間そこにとどまり、そのあいだ御霊が力強く働かれた。すばらしい訪れだった。私には書くべきトラクトがさらに与えられ、一度に、いろいろな種類のものを三万四千部注文した。私には本当のトラクトの奉仕があった。その代金も与えられると信じる信仰があったのだ。
 
 The battle was getting more and more earnest. March 26, I went to a cottage meeting on Bonnie Brae street. Both white and colored saints were meeting there for prayer.
 戦いはますます激しくなっていった。3月26日、ボニー・ブレー通りの家庭集会に行った。そこでは、白人の聖徒も黒人の聖徒も、一緒に集まって祈っていた。
