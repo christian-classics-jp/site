@@ -16,7 +16,7 @@
 + [x] Chapter IV. The Manifestation of the Spirit (2)
 + [x] Chapter V. Objections Answered (1)
 + [x] Chapter V. Objections Answered (2)
-+ [ ] Chapter VI. The Gifts of the Spirit
++ [x] Chapter VI. The Gifts of the Spirit
 + [ ] Chapter VII. Pounds and Talents
 + [ ] Chapter VIII. The Baptism of the Holy Ghost Subsequent to Sanctification (1)
 + [ ] Chapter VIII. The Baptism of the Holy Ghost Subsequent to Sanctification (2)
