@@ -26,7 +26,7 @@ I never had stood before such a congregation, or so much style.
 I trembled in my seat; but oh, how I clung to God.
 私は席で震えた。しかし、ああ、どれほど神にすがりついたことか。
 In silent prayer I asked him to take away the cold and hoarseness, and man-fearing spirit, and everything, and give me a message for that dying people.
-私は黙って祈り、風邪も声のかれも、人を恐れる心も、何もかも取り去ってくださるように願った。そして、滅びゆくあの人々に語る言葉を与えてくださるように願った。
+私は黙って祈り、風邪も声のかれも、人を恐れる心も、何もかも取り去ってくださるように願った。そして、死にゆくあの人々に語る言葉を与えてくださるように願った。
 
 I thought if I could get up into the pulpit I would tell the people it was a mistake; that I had not promised to speak.
 説教壇に上がれたら、人々に言おうと私は思った。これは手違いで、話すと約束したわけではないのです、と。
@@ -64,7 +64,7 @@ But I felt that my mission was that of an evangelist.
 I felt that my work was not confined to one charge or place, but wherever the Lord was leading me.
 私の働きは一つの任地や場所に限られず、主が導かれるところならどこにでもある、と感じていた。
 I joined with the United Brethren Church and got permission to preach and organize churches.
-私は合同兄弟教会に加わり、説教をし、教会を組織する許しを得た。
+私は合同兄弟教会に加わり、説教をすることと、教会を組織することの許しを得た。
 I felt that the time had come when I must break up house-keeping and leave home and friends and our only child, to travel through the West.
 私は感じた。所帯をたたみ、家も友も、ひとりだけの子供も後に残して、西部を巡り歩かなければならない時が来たのだ。
 It was a sore trial.
@@ -89,7 +89,7 @@ It required strong faith, for we had to start without purse or scrip, like the d
 I find the promise of Jesus verified.
 イエスの約束はまことであると、私は知っている。
 If we leave all for his sake, we shall have houses and lands, sisters and brothers, and a home in heaven.
-主のためにすべてを捨てるなら、家も畑も、姉妹も兄弟も与えられ、天にも家が与えられるのである。
+主のためにすべてを捨てるなら、家も畑も、姉妹も兄弟も与えられ、天国にも家が与えられるのである。
 I find dear mothers and fathers, sisters and brothers, and dear children born into the kingdom, wherever I go, who are as dear to me as my own.
 どこへ行っても、御国に生まれた愛する母や父、姉妹や兄弟、愛する子供たちに出会う。その人々は、私にとって自分の身内と同じように愛しい。
 
@@ -111,11 +111,11 @@ Here Bros. S. and T. were just closing a series of meetings.
 The class requested me to continue the meetings, which I did for sixteen days.
 組会の人々が集会を続けてほしいと頼んだので、私は十六日間続けた。
 I never saw the power of God so wonderfully manifested as at these meetings.
-これらの集会ほど神の力が驚くほど現れたのを、私は見たことがなかった。
+これらの集会のときほど、神の力が驚くべき仕方で現れたのを、私は見たことがなかった。
 There had been trouble in the church for a number of years.
 その教会では、何年も前からもめごとがあった。
 Some of the best members had left, and the church had lost its power.
-最も良い会員たちのなかにも去った人々がいて、教会は力を失っていた。
+最も良い会員の何人かが去り、教会は力を失っていた。
 I felt impressed that God was going to restore love and harmony in the church.
 神がこの教会に愛と和合を取り戻そうとしておられる、と私は感じた。
 I visited those families, and the third day of the meeting the trouble was all settled.
@@ -134,7 +134,7 @@ I felt it was the work of God, but did not know how to explain it, or what to sa
 I was a little frightened, as I did not know what the people would think or what they might do to me, as I was the leader of the meeting.
 私は少しこわくなった。私は集会の指導者だったので、人々がどう思うか、私に何をするか、わからなかったからである。
 While the fear of God was on the people, and I was looking on, not knowing what to do, the Spirit of God brought before me the vision I had before I started out in the work of the Lord, and said:
-神への恐れが人々を覆うなか、私はどうしてよいかわからずに見守っていた。すると神の御霊が、私が主の働きに出る前に見た幻を思い起こさせて、言われた。
+神への恐れが人々を覆うなか、私はどうしてよいかわからずに見守っていた。すると神の御霊が、私が主の働きに出る前に見た幻を思い起こさせてくださり、言われた。
 "Don't you remember when you were carried away, and saw the field of wheat and the sheaves falling?
 「あなたが運ばれて、麦畑と、倒れる麦の束を見たときのことを、覚えていないか。
 The large field of wheat was the multitudes of people you are to preach the gospel to; the falling sheaves is what you see here tonight, the slaying power of God.
@@ -144,7 +144,7 @@ This is my power; I told you I would be with you and fight your battles; it is n
 The Lord revealed wonderful things to me in a few moments; my fears were all gone.
 主はわずかのあいだに、驚くべきことを私に示してくださった。私の恐れはすっかり消えた。
 Those who were lying over the house as dead, after lying about two hours, all, one after another, sprang to their feet as quick as a flesh, with shining faces, and shouted all over the house.
-会堂のあちこちに死んだように倒れていた人々は、二時間ほど横たわったあと、ひとり、またひとりと、みな稲妻のようにすばやく跳ね起きた。その顔は輝き、人々は会堂じゅうで叫んだ。
+会堂のあちこちに、人々が死んだように倒れていた。二時間ほど横たわったあと、みな、ひとり、またひとりと、稲妻のようにすばやく跳ね起きた。その顔は輝き、人々は会堂じゅうで叫んだ。
 // 英文の flesh は flash の誤植（ページ画像でも flesh）。
 I never had seen such bright conversions, nor such shouting.
 あれほど輝かしい回心も、あれほどの叫びも、見たことがなかった。
@@ -158,7 +158,7 @@ They said it was the Pentecost power; that the Lord was visiting them in great m
 It is now twelve years since that meeting; the Lord has poured out the Holy Ghost as he promised he would in the last days, with "signs and wonders" following.
 あの集会から、今で十二年になる。主は終わりの日にそうすると約束されたとおり、聖霊を注いでくださった。そして「しるしと不思議」が伴った。
 He said he would give the latter rains of the Spirit before the notable day of the Lord came.
-主は、主の大いなる輝かしい日が来る前に、御霊の後の雨を降らせると言われた。
+主は、ご自分の大いなる輝かしい日が来る前に、御霊の後の雨を降らせると言われた。
 This was to be given to gather in the last harvest of souls before Jesus comes in the clouds.
 それは、イエスが雲に乗って来られる前に、魂の最後の刈入れを集めるために与えられるのだった。
 Many times I have stood before congregations of thousands, preaching or singing, when the Holy Ghost fell upon them, and swept over, wave after wave, till the multitudes would sway back and forth like the trees in a forest, or grain ina storm.
@@ -199,17 +199,17 @@ Oh, how precious these words of our loving Father: "Open thy mouth wide and I wi
 "Go, and I shall be with you." "Be strong and courageous," etc.
 「行きなさい。わたしがあなたと共にいる」『強く、また雄々しくあれ』（ヨシュア一・九）。ほかにもある。
 When I would feel my responsible position, and look over the crowded house, I, like Peter, would begin to sink, and cry: "Lord, help; Lord, use the clay to thy glory, and give me a message for this dying people."
-自分の責任の重さを感じ、満員の会堂を見渡すと、私はペテロのように沈みかけて、叫んだものだった。「主よ、お助けください。主よ、この土くれを御栄えのためにお用いください。この滅びゆく人々に語る言葉をお与えください」
+自分の責任の重さを感じ、満員の会堂を見渡すと、私はペテロのように沈みかけて、叫んだものだった。「主よ、お助けください。主よ、この土くれを御栄えのためにお用いください。この死にゆく人々に語る言葉をお与えください」
 
 Some of those promises would come rolling in, accompanied with the Holy Ghost, until I would feel lost in Christ and see nothing but the multitude of dying people rushing on to judgment.
-すると、それらの約束のいくつかが、聖霊と共に次々に押し寄せてきた。ついに私はキリストのうちに我を忘れ、さばきへと突き進む滅びゆく群衆のほかは、何も見えなくなるのだった。
+すると、それらの約束のいくつかが、聖霊と共に次々に押し寄せてきた。ついに私はキリストのうちに我を忘れ、さばきへと突き進む死にゆく群衆のほかは、何も見えなくなるのだった。
 
 Oh, praise the Lord for his tender care over us, and for his wonderful salvation, that fills our souls with glory; that takes away the fear of persecution, the fear of man and the fear of devils, and makes us rejoice in the midst of trials, remembering that "all things work together for good to those that love the Lord," etc.; that takes away the fear of death, and as we look at the grave we hear a shout from Calvary, saying, "I am the resurrection and the life." Death is the Gate to Glory,
 ああ、主をほめたたえよ。主は私たちを優しく顧みてくださる。主の驚くべき救いは、私たちの魂を栄光で満たす。その救いは、迫害への恐れ、人への恐れ、悪霊への恐れを取り去る。そして「主を愛する者には、万事が共に働いて益となる」ことなどを思い起こさせて、試練のただ中でも私たちを喜ばせる。また、死への恐れも取り去る。墓を見つめると、カルバリから叫ぶ声が聞こえる。『わたしはよみがえりであり、命である』（ヨハネ一一・二五）。死は栄光への門である。
 // 英文の末尾のコンマは、ページ画像ではピリオドである。
 
 My next work was at Bethel Chapel, St. Mary's Circuit, where I held a revival-meeting, which lasted eleven days.
-次の働きは、セントメアリーズ巡回区のベテル会堂でだった。そこで私はリバイバル集会を開き、それは十一日間続いた。
+次に働いたのは、セントメアリーズ巡回区のベテル会堂だった。そこで私はリバイバル集会を開き、それは十一日間続いた。
 The class was in bad condition.
 組会はひどい状態だった。
 There had been trouble in the church for nine years.
@@ -289,7 +289,7 @@ Brother B., the Baptist minister, came out and offered to do all he could.
 Many of them came out in a good experience.
 その多くが、確かな救いの経験に入った。
 Two came to the altar and were converted, and we were all bound together in bonds of love, which I hope will last through Eternity No one seemed to think the church could be built up.
-ふたりが祭壇の前に出て回心した。私たちはみな愛のきずなで結ばれた。そのきずなが永遠に続くことを願う。初めは、組会が建て上げられると思う人はだれもいないようだった。
+ふたりが祭壇の前に出て回心した。私たちはみな愛のきずなで結ばれた。そのきずなが永遠に続くことを願う。初めは、教会が建て上げられると思う人はだれもいないようだった。
 // 英文の Eternity No は Eternity. No と読んだ。
 They would say, "If any good is done here it is more than I expect."
 人々は言うのだった。「ここで何か良いことが起こったら、それこそ思いもよらないことです」
@@ -339,7 +339,7 @@ As I stood up and read the text, its meaning unfolded, and the Spirit of God cam
 The people were weeping all over the house.
 会堂じゅうで人々が泣いていた。
 Oh, praise the Lord for his ever-present help when we trust him.
-ああ、主をほめたたえよ。私たちが主に信頼するとき、主はいつもそこにいて助けてくださる。
+ああ、主をほめたたえよ。私たちが主に信頼するとき、主はいつもそこにおられ、助けてくださる。
 
 While holding the meeting I visited a man who was sick and unsaved.
 集会を開いているあいだに、私は、病気で救われていないある男を訪ねた。
@@ -364,7 +364,7 @@ He shouted and praised God until the last breath was gone.
 His triumphant death convinced some of the hardest sinners of the reality of religion.
 勝利に満ちたその死を見て、最もかたくなな罪人のなかにも、信仰がまことであると悟った者がいた。
 "Oh, let me die the death of the righteous, that my last end be like his."
-『わたしは義人のように死に、わたしの終りは彼らの終りのようでありたい』（民数記二三・一〇）。
+ああ、『わたしは義人のように死に、わたしの終りは彼らの終りのようでありたい』（民数記二三・一〇）。
 Our loving Father is calling his children home one by one.
 愛する父なる神は、ご自分の子供たちを、ひとりまたひとりと家へ呼び寄せておられる。
 Some of us have more loved ones over on the golden shore, than we have here.
@@ -409,7 +409,7 @@ They, with their pastor, were discouraged.
 They had so much opposition to contend with, that they thought Zion would never rise and shine.
 戦わなければならない反対があまりに多く、シオンが起きて光を放つことは決してないと思っていた。
 But I held on by faith, and the walls began to go up.
-しかし私は信仰によって持ちこたえ、城壁は立ち上がりはじめた。
+しかし私は信仰によって持ちこたえ、城壁は築かれはじめた。
 Although it was in corn planting time, I had meeting day and night.
 とうもろこしの種まきの時期だったが、私は昼も夜も集会を開いた。
 The meetings were well attended.
@@ -424,14 +424,14 @@ A few days after the meeting closed, a man was thrown from his horse near the ch
 I believe it was a warning from God to those who were fighting conviction.
 それは、罪の自覚にあらがっている人々への神の警告だったと思う。
 He was out of Christ, and no doubt took a leap in the dark.
-彼はキリストの外にいた。きっと暗やみの中へ跳び込んだに違いない。
+彼はキリストの外にいた。暗やみの中へ跳び込んだに違いない。
 Dear reader, how is it with you?
 愛する読者よ、あなたはどうだろうか。
 If the Pale Messenger of Death should come for you to-day, would you take a leap into Eternity, and hear the Judge say: "Depart from me, ye cursed, into everlasting punishment, where there will be weeping and gnashing of teeth," or would you go shouting home to glory?
 もし今日、死の青ざめた使いがあなたを迎えに来たら、あなたは永遠の中へ跳び込み、審判者がこう言われるのを聞くのだろうか。「のろわれた者どもよ、わたしを離れて、永遠の刑罰に入れ。そこで泣き叫んだり、歯がみをしたりするであろう」それとも、叫びながら栄光の家に帰るだろうか。
 // マタイ二五・四一、四六、二五・三〇 を合わせた言い換え。
 God help you to make Heaven your home.
-神があなたを助けて、天国をあなたの家としてくださるように。
+あなたが天国を自分の家とすることができるよう、神が助けてくださるように。
 
 After our visit to those places I held meeting a few days ina school-house, and fifteen arose for prayers.
 それらの土地を訪ねたあと、私はある校舎で数日間集会を開いた。十五人が、祈ってもらうために立ち上がった。
@@ -458,7 +458,7 @@ We had services once a week for a month.
 The mother came out in a very bright experience, and the father and five of the children were happily converted, except one son.
 母親はたいへん輝かしい経験に入り、父親と五人の子供も喜びのうちに回心した。ただ、息子のひとりは別だった。
 He said he was not satisfied yet.
-その息子は、まだ納得できないと言った。
+その息子は、まだ心が満ち足りないと言った。
 They all united with the class at Fairview and are very earnest workers.
 家族はみなフェアビューの組会に加わり、たいへん熱心な働き人になっている。
 I think they will be a great help to the church.
@@ -474,7 +474,7 @@ I never saw a more beautiful sight.
 The Holy Spirit came down in great power, and nearly every one came out of the water shouting and praising the Lord.
 聖霊が大いなる力をもって下られ、ほとんどみなが、叫び、主をほめたたえながら水から上がった。
 A very large crowd witnessed the scene, and all seemed to feel the power of God.
-たいへん大勢の群衆がその光景を見ていたが、だれもが神の力を感じているようだった。
+たいへん大勢の群衆がその光景を見守った。だれもが神の力を感じているようだった。
 We then went to the school-house and had preaching in the evening.
 それから私たちは校舎へ行き、夜には説教があった。
 
