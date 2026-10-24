@@ -28,6 +28,11 @@
     <main class="main">
       <div class="toc">
         <h1>{{ siteTitle }}</h1>
+        {{#if intro}}
+        <div class="book-intro">
+          {{{ intro }}}
+        </div>
+        {{/if}}
         <h2>{{ loc.TOC }}</h2>
         <ul>
           {{#each nav}}

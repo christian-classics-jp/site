@@ -385,6 +385,15 @@ article em {
   text-wrap: balance;
 }
 
+.book-intro {
+  margin: -1rem 0 0;
+  line-height: 1.9;
+}
+
+.book-intro p {
+  margin: 0 0 1em;
+}
+
 .toc h2,
 .article-list h2,
 .article-list h5,

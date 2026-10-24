@@ -82,6 +82,7 @@ function buildHtml (reposName, options = {}) {
     })
 
     const indexTmpl = readTmpl(INDEX_TEMPLATE_PATH)
+    const intro = repos.intro && marked(repos.intro)
     const {
       completed,
       epubUrl,
@@ -90,7 +91,8 @@ function buildHtml (reposName, options = {}) {
     const indexPage = indexTmpl({
       topUrl: SITE_URL,
       url: bookUrl,
-      description: `${siteTitle}。日本語訳を章ごとに無料で公開しています。`,
+      description: intro ? describe(intro) : `${siteTitle}。日本語訳を章ごとに無料で公開しています。`,
+      intro,
       siteTitle,
       repos: repos.repos,
       loc,

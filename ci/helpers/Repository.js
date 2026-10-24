@@ -25,6 +25,12 @@ class Repository {
     return siteTitle
   }
 
+  get intro () {
+    const {repos} = this
+    const introPath = join(BOOKS_DIR, repos, 'intro.md')
+    return fs.existsSync(introPath) ? fs.readFileSync(introPath).toString() : null
+  }
+
   get book () {
     const {repos} = this
     try {
