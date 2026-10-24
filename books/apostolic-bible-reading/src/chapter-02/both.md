@@ -12,7 +12,7 @@ and Godhead; so that they are without excuse.-- For the invisible things of him 
 問二　神は、父と子の奥義をだれに隠されたのですか。
 
 In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast HIDDEN these things from the WISE and PRUDENT, and hast revealed them unto babes: * * * And no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and he to whom the Son will reveal him.--Lu. 10:21, 22.
-そのとき、イエスは聖霊によって喜びあふれて言われた、「天地の主なる父よ。あなたをほめたたえます。これらの事を**知恵のある者や賢い者**に**隠して**、幼な子にあらわしてくださいました。（中略）子がだれであるかは、父のほか知っている者はありません。また父がだれであるかは、子と、父をあらわそうとして子が選んだ者とのほか、だれも知っている者はいません」（ルカ一〇・二一〜二二）。
+そのとき、イエスは聖霊によって喜びあふれて言われた、「天地の主なる父よ。あなたをほめたたえます。これらの事を**知恵のある者や賢い者**に**隠して**、幼な子にあらわしてくださいました。（中略）そして、子がだれであるかは、父のほか知っている者はありません。また父がだれであるかは、子と、父をあらわそうとして子が選んだ者とのほか、だれも知っている者はいません」（ルカ一〇・二一〜二二）。
 
 3. Did any of the prophets say anything about the name of the Godhead being a mystery?
 問三　神性の名が奥義であることについて、預言者のだれかが何か言っていますか。
@@ -29,11 +29,11 @@ And no man has ascended up to heaven, but he that came down from heaven, even th
 // 口語訳には「天にいる」（which is in heaven）がない。欽定訳にあり、著者の論旨（地上にいながら天にもいる）にかかわるので補った。
 
 5. Is he that ascended, the same that descended?
-問五　上ったかたは、下ったかたと同じかたですか。
+問五　上られたかたは、下られたかたと同じかたですか。
 
 How that he ascended, what is it but that he also dscended first into the lower parts of the earth? He that descended is the SAME also that ascended up far above all heavens that he might fill all things.--Eph. 4:9, 10.
 さて「上った」と言う以上、また地下の低い底にも降りてこられたわけではないか。降りてこられた者**自身**は、同時に、あらゆるものに満ちるために、もろもろの天の上にまで上られたかたなのである（エペソ四・九〜一〇）。
-// 英文の dscended は原本の誤植。
+// 英文の dscended は原本の誤植。冒頭の How that は、欽定訳では Now that。
 
 6. Did Jesus reveal himself to the disciples to be the Father?
 問六　イエスは、ご自分が父であることを、弟子たちに現されましたか。
@@ -49,16 +49,16 @@ I and my FATHER are ONE. Then the Jews took up stones to stone him.--John 10:30,
 わたしと**父**とは**一つ**である。そこでユダヤ人たちは、イエスを打ち殺そうとして、また石を取りあげた（ヨハネ一〇・三〇〜三一）。
 
 8. By this statement did the Jews understand him to say that he was God the Father?
-問八　この言葉を聞いて、ユダヤ人たちは、イエスがご自分を父なる神だと言っているのだと受け取ったのですか。
+問八　この言葉を聞いて、ユダヤ人たちは、イエスがご自分を父なる神だと言っておられるのだと受け取ったのですか。
 
 The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou being a man, makest thyself GOD.--John 10:33.
 ユダヤ人たちは答えた、「あなたを石で殺そうとするのは、よいわざをしたからではなく、神を汚したからである。また、あなたは人間であるのに、自分を**神**としているからである」（ヨハネ一〇・三三）。
 
 9. Is there any scripture in prophecy that states that the Son and the Father was to be the same person?
-問九　子と父とが同じかたになると述べている預言の聖句はありますか。
+問九　子と父とが同じかたであると述べている預言の聖句はありますか。
 
 Unto us a child is born, unto us a SON is given, * * * and his name shall be called * * * the mighty GOD, the everlasting FATHER, the prince of peace.--Isa. 9:6.
-ひとりのみどりごがわれわれのために生れた、ひとりの**男の子**がわれわれに与えられた。（中略）その名は、（中略）「大能の**神**、とこしえの**父**、平和の君」ととなえられる（イザヤ九・六）。
+ひとりのみどりごがわれわれのために生れた、ひとりの**男の子**がわれわれに与えられた。（中略）その名は、「（中略）大能の**神**、とこしえの**父**、平和の君」ととなえられる（イザヤ九・六）。
 
 10. Is God another person like Jesus?
 問十　神は、イエスと同じような、もうひとりのかたなのですか。
@@ -114,7 +114,7 @@ So God created man in His own image, in the image of God created He him: male an
 // 英文の出典は Gen. 1:26。引用は一・二七。
 
 18. Were there more than one God that created man?
-問十八　人を創造した神は、ひとりより多くおられたのですか。
+問十八　人を創造された神は、ふたり以上おられたのですか。
 
 Have we not all one father? and hath not ONE GOD CREATED us?--Mat. 2:10.
 われわれの父は皆一つではないか。われわれを**造った神は一つ**ではないか（マラキ二・一〇）。
@@ -152,7 +152,7 @@ Nathaniel answered and said unto him (Jesus) Rabbi, thou are the Son of God; tho
 // 英文の Nathaniel と thou are は原本のとおり（欽定訳は Nathanael、thou art）。
 
 24. Is there to be more than one King of Israel?
-問二十四　イスラエルの王は、ひとりより多くおられるのですか。
+問二十四　イスラエルの王は、ふたり以上おられることになるのですか。
 
 And the Lord shall be king over all the earth; in that day there shall be ONE LORD and His name ONE.--Zech. 14:9.
 主は全地の王となられる。その日には、**主ひとり**、**その名一つ**のみとなる（ゼカリヤ一四・九）。
@@ -161,17 +161,17 @@ And the Lord shall be king over all the earth; in that day there shall be ONE LO
 問二十五　イエスが十字架につけられたとき、ピラトは十字架の上に何をかかげましたか。
 
 And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, THIS IS JESUS OF NAZARETH, the KING OF THE JEWS.--Lu. 23:38; John 19:19.
-イエスの上には、ギリシヤ、ラテン、ヘブルの文字で、『これは**ナザレのイエス**、**ユダヤ人の王**』と書いた札がかけてあった（ルカ二三・三八、ヨハネ一九・一九）。
+イエスの上には、ギリシヤ、ラテン、ヘブルの文字で、『**これはナザレのイエス**、**ユダヤ人の王**』と書いた札がかけてあった（ルカ二三・三八、ヨハネ一九・一九）。
 // 著者はルカ二三・三八とヨハネ一九・一九の罪状書きを合わせて引いている。三つの国語はルカの欽定訳にあり、口語訳にはない（ヨハネ一九・二〇にある）。
 
 26. Was God ever formed so that he could be seen in person?
-問二十六　神が形づくられて、その姿が見られるようになったことがありますか。
+問二十六　神が形あるものとして造られ、その姿が人に見えるようになったことがありますか。
 
 Before me there was NO GOD FORMED, neither shall there be any after me.--Isa. 43:10. No man has SEEN God at any time.--John 1:18. Ye have neither heard his voice at any time, nor SEEN his shape.--John 5:37.
 わたしより前に**造られた神はなく**、わたしより後にもない（イザヤ四三・一〇）。神を**見た**者はまだひとりもいない（ヨハネ一・一八）。あなたがたは、まだそのみ声を聞いたこともなく、そのみ姿を**見た**こともない（ヨハネ五・三七）。
 
 27. Who was it that sent Jesus into the world?
-問二十七　イエスを世につかわしたのは、だれですか。
+問二十七　イエスを世につかわされたのは、だれですか。
 
 Come ye near unto me, hear ye this: * * * and now the LORD GOD, and his Spirit has SENT me.--Isa. 48:16.
 あなたがたはわたしに近寄って、これを聞け。（中略）いま**主なる神**とその霊とが、わたしを**つかわされた**（イザヤ四八・一六）。
@@ -188,7 +188,7 @@ Jesus cried and said, "He that believeth on me, believeth not on me but on him t
 問二十九　神の満ちみちたものは、すべてキリストのうちにあるのですか。
 
 For in him (Jesus) dwelleth all the FULNESS of the Godhead bodily.--Col. 2:9.
-彼（イエス）のうちにこそ、**満ちみちている**神性のすべてが、かたちをとって宿っている（コロサイ二・九）。
+彼（イエス）にこそ、**満ちみちている**神性のすべてが、かたちをとって宿っている（コロサイ二・九）。
 // 第一部の問三十七と同じく、口語訳の「神の徳」を「神性」に言い換えた。
 
 30. By what name did Abraham know the God of Israel?
@@ -201,11 +201,11 @@ I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of GOD ALMIGHTY
 問三十一　イエスは、ご自分が全能者であると言われましたか。
 
 I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the ALMIGHTY.--Rev. 1-8.
-「わたしはアルパであり、オメガである。初めであり、終りである」。今いまし、昔いまし、やがてきたるべき者、**全能者**である主が、こう仰せになる（黙示録一・八）。
-// 英文の出典は Rev. 1-8。口語訳には「初めであり、終りである」（the beginning and the ending）がない。欽定訳に合わせて補い、語順も英文に寄せた。
+「わたしはアルパであり、オメガである。初めであり、終りである」。今いまし、昔いまし、やがてきたるべき者、**全能者**にして主なる神が、こう仰せになる（黙示録一・八）。
+// 英文の出典は Rev. 1-8。引用は一・八。口語訳には「初めであり、終りである」（the beginning and the ending）がない。欽定訳に合わせて補い、語順も英文に寄せた。
 
 32. If Jesus is the Almighty God did he see Abraham?
-問三十二　イエスが全能の神であるなら、イエスはアブラハムを見たのですか。
+問三十二　イエスが全能の神であるなら、イエスはアブラハムを見られたのですか。
 
 Your father Abraham rejoiced to see my day: and he saw it and was glad. * * * Verily, verily, I say unto you, Before Abraham was, I am.--John 8:56, 58.
 あなたがたの父アブラハムは、わたしのこの日を見ようとして楽しんでいた。そしてそれを見て喜んだ。（中略）よくよくあなたがたに言っておく。アブラハムの生れる前からわたしは、いるのである（ヨハネ八・五六、五八）。
