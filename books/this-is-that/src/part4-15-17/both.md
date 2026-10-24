@@ -24,7 +24,7 @@ Enter thy sheath, O sword!
 Be silent, thou thundering cannon!
 とどろく大砲よ、黙れ！<br/>
 For the Lord would speak once more to the earth;
-主はもう一度、地に語ろうとしている。<br/>
+主がもう一度、地に語ろうとしているからである。<br/>
 Once more would He send forth the cry:
 もう一度、主はあの叫びを送り出そうとしている。<br/>
 
@@ -38,7 +38,7 @@ O, ye torn and devastated forests, be healed of thy wounds for a short space; fo
 引き裂かれ、荒らされた森よ、しばしのあいだ傷をいやされよ。主の大いなる輝かしい日が来る前に、主は地に最後の警告の言葉を語ろうとしているからである。その日は近い。**まことに近い**。
 
 Hold back the winds, O Angels, for a little moment, ere they shall burst in redoubled fury upon the world that has forgotten Christ, our Redeemer, that my children may cry aloud--that they may lift up their voices and spare not, that they may proclaim, for a little moment, "the coming of the Lord."
-御使いたちよ、しばしのあいだ風を引き止めよ。風はやがて、私たちのあがない主キリストを忘れた世に、倍の激しさで吹きつける。その前に引き止めよ。わたしの子らが大いに呼ばわるためである。声をあげて惜しまず、しばしのあいだ「主の来臨」を告げ知らせるためである。
+御使たちよ、しばしのあいだ風を引き止めよ。風はやがて、私たちのあがない主キリストを忘れた世に、倍の激しさで吹きつける。その前に引き止めよ。わたしの子らが大いに呼ばわるためである。声をあげて惜しまず、しばしのあいだ「主の来臨」を告げ知らせるためである。
 
 ## 目をさませ
 // 原本ではこの段落の左に欄外の見出し AWAKE があるが、英文には取っていない。訳では見出しを置いた。
@@ -168,6 +168,7 @@ But now, brought low, O Dove,
 けれども今、低く落とされた、はとよ。<br/>
 Thy pinions clipped; thy wing-feathers plucked;;
 翼は切られ、風切り羽は抜かれ、<br/>
+// 英文 ;; の二つ目は原本の汚れを読み取ったもの。
 Thy love destroyed and lost; how canst thou fly aloft, as in the days of yore?
 愛は損なわれ、失われた。どうしてあなたは、昔の日のように高く飛べようか。<br/>
 I saw the dove brought low--buffeted--thrust at,
@@ -200,7 +201,7 @@ If thy pinions are destroyed, O Love most fair?
 
 // 次の段落は、原本では小さい活字で組まれている。
 The Lord, in the midst of His people, seeks to do a new work, to reveal Himself in might and in power. Let, therefore, thy love abound. Love thy God with all thy heart, and thy neighbor as thyself. Little children, love one another--then shall thy wings be spread wide, and thou shalt be lifted up above the petty things of earth, and thou shalt see the glory of the Lord, and soar through the vast expanse of Heaven into His very Presence. Selah!
-主はご自分の民のただ中で、新しいわざをしようとしておられる。力と勢いのうちに、ご自身を現そうとしておられる。だから、あなたの愛を満ちあふれさせなさい。心をつくしてあなたの神を愛し、自分を愛するようにあなたの隣り人を愛しなさい。子たちよ、互いに愛し合いなさい。そうすれば、あなたの翼は広く広げられる。あなたは地上のささいなことの上に引き上げられ、主の栄光を見る。そして広大な天を通って、主の御前そのものへと舞い上がる。セラ！
+主はご自分の民のただ中で、新しいわざをしようとしておられる。力と勢いのうちに、ご自身を現そうとしておられる。だから、あなたの愛を満ちあふれさせなさい。心をつくしてあなたの神を愛し、自分を愛するようにあなたの隣り人を愛しなさい。子たちよ、互いに愛し合いなさい。そうすれば、あなたの翼は大きく広げられる。あなたは地上のささいなことの上に引き上げられ、主の栄光を見る。そして広大な天を通って、主の御前そのものへと舞い上がる。セラ！
 
 # 花婿と花嫁
 THE BRIDEGROOM AND THE BRIDE.
@@ -236,7 +237,7 @@ Then down and on, far into the silent wastes of the desert we tread, and our hea
 「大いなる神の愛よ、まさかこの不毛の地にまでは届いていないだろう」けれども、砂は大声で叫ぶ。「しかり、しかり。主はここにおられ、その愛を注ぎ出しておられる。主の愛は砂漠をばらのように花咲かせる。荒野には池ができ、かわいた地には川が流れる」
 
 O boundless Love of Thine, Eternal God e'en though the story be told through fathomless, eternal years, 'twill yet be all untold. Thy pinions, and outspread wings reach to the ends of the earth. Thou dost brood over it as a hen upon her nest. Thy golden streams of love flow down upon us from every feather. Thy people are protected from the heat of the sun, and from the ragings of storm 'neath the shadow of Thy wings, forever and forever.
-永遠の神よ、あなたの限りない愛は、底知れない永遠の年月を通して語り続けても、なお語り尽くせません。あなたの翼、広げられたつばさは、地の果てにまで届いています。あなたは、めんどりが巣の上にうずくまるように、地を覆っておられます。あなたの愛の金色の流れが、その羽の一枚一枚から私たちの上に流れ下ります。あなたの民は、あなたの翼の陰で、日の暑さからも、荒れ狂う嵐からも守られます。とこしえに、とこしえに。
+永遠の神よ、あなたの限りない愛は、底知れない永遠の年月を通して語り続けても、なお語り尽くせません。あなたの翼、その広げられた翼は、地の果てにまで届いています。あなたは、めんどりが巣の上にうずくまるように、地を覆っておられます。あなたの愛の金色の流れが、その羽の一枚一枚から私たちの上に流れ下ります。あなたの民は、あなたの翼の陰で、日の暑さからも、荒れ狂う嵐からも守られます。とこしえに、とこしえに。
 
 With outstretched hand hath He led His people forth,
 主は伸ばした御手で、ご自分の民を導き出された。<br/>
@@ -305,7 +306,7 @@ Hark! Hark! He is speaking unto His people, saying, "Dost thou behold this narro
 THE SAPLING AND THE OAK.
 
 "Dost thou behold yonder sapling of the oak? and have you considered the mighty parent oak, rising in lofty maturity far above it? My children are at present but as the sapling nourished by the former and the early latter rain; but O! if they would lift up their heads and open wide their mouths, to receive the latter rain in its abundance, they should be made to grow up and up until their branches should rise above every hindrance, and tower in regal authority over every obstacle. The fowls of the air should nestle amongst its branches, and the herds should lie down in great delight beneath the shadow thereof."
-「あそこの樫の若木を見るか。そして、そのはるか上に高く成熟してそびえる、力強い親の樫に心を留めたか。わたしの子らは今、前の雨と、降り始めた後の雨とに養われた若木のようなものにすぎない。けれども、ああ！　もし彼らが頭を上げ、口を大きく開けて、豊かな後の雨を受けるなら、彼らはどこまでも育つ。その枝はあらゆる妨げの上に伸び、あらゆる障害の上に王の権威をもってそびえる。空の鳥はその枝の間に巣を作り、家畜の群れはその陰で大いに喜んで伏す」
+「あそこの樫の若木を見るか。そして、そのはるか上に高く成熟してそびえる、力強い親の樫に心を留めたか。わたしの子らは今、前の雨と、降り始めた後の雨とに養われた若木のようなものにすぎない。けれども、ああ！　もし彼らが頭を上げ、口を広くあけて、豊かな後の雨を受けるなら、彼らはどこまでも育つ。その枝はあらゆる妨げの上に伸び、あらゆる障害の上に王の権威をもってそびえる。空の鳥はその枝の間に巣を作り、家畜の群れはその陰で大いに喜んで伏す」
 
 ## 幼子と巨人
 THE BABE AND THE GIANT,
@@ -315,7 +316,7 @@ THE BABE AND THE GIANT,
 // 英文はこの段落の初めで引用符を開いているが、閉じていない。訳では「」を付けずに訳した。
 
 The Body is today as that of a little child beginning to take its first steps forward into the strength and life of the Spirit-controlled realm. But if my people will but look unto Me, and lean no more on the maternal arm of human flesh, I will cause them to tower as a giant; they shall move forward in conquering strides; their reproach shall be taken away from before the heathen, they shall no more ask, "Where is thy God?" but shall say, "We have seen His light from afar off." Then shall the Lord take His Church unto Himself, mighty, strong, conquering, and all-glorious.
-からだは今日、御霊に治められる領域の力といのちの中へ、初めの一歩を踏み出そうとしている小さな子供のようである。けれども、わたしの民がただわたしを仰ぎ見て、もはや人間の肉という母の腕に寄りかからないとしよう。そのとき、わたしは彼らを巨人のようにそびえ立たせる。彼らは勝利の大またで前進する。異邦人の前から彼らのそしりは取り除かれる。彼らはもはや「あなたの神はどこにいるのか」と問うことはなく、「私たちは遠くから主の光を見た」と言う。そのとき主は、力強く、強く、勝利を得て、栄光に満ちた教会を、自分のもとに迎える。
+からだは今日、御霊に治められる領域の力といのちの中へ、初めの一歩を踏み出そうとしている小さな子供のようである。けれども、わたしの民がただわたしを仰ぎ見て、もはや人間の肉という母の腕に寄りかからないとしよう。そのとき、わたしは彼らを巨人のようにそびえ立たせる。彼らは勝利の大またで前進する。異邦人の前から彼らのそしりは取り除かれる。異邦人はもはや「おまえの神はどこにいるのか」と問うことはなく、「私たちは遠くから主の光を見た」と言う。そのとき主は、その教会を自分のもとに迎える。力強く、強い、勝利を得た、栄光に満ちた教会である。
 
 The night with its shadows is fleeing away; the sun is rising in splendor o'er the eternal hills, tho day is breaking; the tidal waves of blessing are rolling in; the showers of blessing shall come down in torrents, for behold, midst sunshine and rain the glory of God is rising and bursting upon His people. They shall show forth mighty signs and wonders through His Spirit's power.
 夜はその影と共に逃げ去ろうとしている。太陽は永遠の丘々の上に輝かしく昇り、夜が明けようとしている。祝福の大波が打ち寄せている。祝福の雨が激流となって降り注ぐ。見よ、日の光と雨の中で、神の栄光が昇り、その民の上に輝き出ているからである。彼らは神の御霊の力によって、力あるしるしと不思議を現す。
@@ -347,7 +348,7 @@ The bugle! canst thou not hear its clear, swift voice coming o'er the billows?
 それは、涙の流れることのない国からこだまして来る。<br/>
 
 Stand, therefore, clad in the robes of love, truth, and praise, thy sandals upon thy feet.
-だから、愛と真理と賛美の衣をまとい、足にくつをはいて立て。<br/>
+だから、愛と真理と賛美の衣をまとい、足にサンダルをはいて立て。<br/>
 Let thy veil of separation be upon thy face.
 分離のベールを顔にかけよ。<br/>
 The Lord cometh quickly for His beloved. .
@@ -390,7 +391,7 @@ Thou art the Prince of a mighty host that leadeth His people and healeth them fr
 あなたは大軍の君です。ご自分の民を導き、あらゆる悲しみから彼らをいやされる方です。<br/>
 
 O thou mighty Victor, who cometh with conquering tread, and laden with the trophies of war, Who art Thou?
-勝利の足取りで来られ、戦いの戦利品を携えておられる力強い勝利者よ、あなたはどなたですか。<br/>
+勝利の足取りで来られ、戦利品を携えておられる力強い勝利者よ、あなたはどなたですか。<br/>
 Thou art our Bridegroom, the King of Righteousness.
 あなたは私たちの花婿、義の王です。<br/>
 
@@ -415,7 +416,7 @@ O thou Lily of the Valley, thou Rose of Sharon. thou Bright and Morning Star, th
 And thou, who comest up out of the wilderness, leaning upon the arm of thy Beloved, thou. upon whom the first rays of the rising sun are falling in transforming glory, Who art Thou?
 あなたの愛する方の腕に寄りかかって、荒野から上って来る者よ。昇る太陽の最初の光が、姿を変える栄光となって降り注いでいる者よ。あなたはだれですか。<br/>
 Thou art the Church, the chosen bride of the Lamb, the Body of overcomers, the tested, tried people who have passed through the waters and walked through the fire. Thou art the espoused wife of thy Beloved, the Son of the Living God.
-あなたは教会です。小羊の選ばれた花嫁、勝利を得る者たちのからだ、水の中を通り、火の中を歩んだ、試され、ためされた民です。あなたは、あなたの愛する方、生ける神の子と婚約した妻です。<br/>
+あなたは教会です。小羊の選ばれた花嫁、勝利を得る者たちのからだ、水の中を通り、火の中を歩んだ、試され、確かめられた民です。あなたは、あなたの愛する方、生ける神の子と婚約した妻です。<br/>
 
 What are these white robes that clothe thee, and that shine with righteousness?
 あなたを包み、義に輝いているこの白い衣は何ですか。<br/>
