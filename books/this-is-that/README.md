@@ -29,7 +29,7 @@
 + [x] Chapter XVII. Meetings in Virginia and Gospel Auto News
 + [x] Chapter XVIII. Nation Wide Camp, Philadelphia
 + [x] Chapter XIX. Meetings from Mass. to New York
-+ [ ] Chapter XX. The Transcontinental Gospel Tour (1)
++ [x] Chapter XX. The Transcontinental Gospel Tour (1)
 + [ ] Chapter XX. The Transcontinental Gospel Tour (2)
 + [ ] Chapter XXI. Mighty Downpour at Los Angeles
 + [ ] Chapter XXII. "The House That God Built"
