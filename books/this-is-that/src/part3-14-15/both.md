@@ -26,7 +26,7 @@ Salvation and sanctification (whether you have been taught holiness as one or tw
 The baptism spoken of by John the Baptist, (Matt. 3:11) and by Peter (Acts 2:38), is the coming of the Comforter into the cleansed, empty vessel which makes the body of the recipient the temple of the Holy Ghost.
 バプテスマのヨハネ（マタイ三・一一）とペテロ（使徒二・三八）が語ったバプテスマとは、きよめられた空の器に助け主が来られることである。それによって、受ける人のからだが聖霊の宮となる（第一コリント六・一九）。
 He comes to exalt and glorify Jesus, to equip the soul for service, to endue with power from on high, power to testify, power to pray, power to overcome as never before, and to prepare that soul for the coming of the Lord.
-聖霊が来られるのは、イエスをあがめ、イエスに栄光を帰すためである。また、魂を奉仕のために整え、上からの力を授けるためである。その力とは、あかしをする力、祈る力、これまでになく打ち勝つ力である。さらに、その魂を主の来臨に備えさせるためである。
+聖霊が来られるのは、イエスをあがめ、イエスに栄光を帰すためである。また、魂を奉仕のために整え、上からの力を授けてくださるためである。その力とは、あかしをする力、祈る力、これまでになく打ち勝つ力である。さらに、その魂を主の来臨に備えさせてくださるためである。
 It is the blood of Jesus that cleanseth from all sin; the Holy Spirit longs to enter the cleansed and waiting heart.
 すべての罪からきよめるのは、イエスの血である（第一ヨハネ一・七）。聖霊は、きよめられて待っている心に入りたいと切に願っておられる。
 
