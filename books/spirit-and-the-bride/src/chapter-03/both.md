@@ -27,10 +27,10 @@ It also signifies dispensational fulness.
 It is complete in that which is temporal.
 七は、時のうちにあるものにおいて完全な数である。
 Thus we are not surprised to find that the Holy Spirit, in His offices, administrations, operations, and in whatever way He may deal with man, is presented to our minds in the number seven.
-聖霊は、その務め、治め、働きにおいて、また人を扱われるどんな仕方においても、七という数で私たちに示されている。だから、それを見ても驚くには当たらない。
+だから、聖霊が七という数で私たちに示されていても、驚くには当たらない。その務め、治め、働きにおいても、また人を扱われるどんな仕方においても、そうなのである。
 
 We have already seen that there are seven symbols which the Spirit uses to present to our finite minds the different ways He operates in our hearts, and now we are to see that there are seven operations of the Spirit.
-すでに見たように、御霊は、私たちの心のうちでのさまざまな働き方を有限な私たちの心に示すために、七つの象徴を用いられる。今度は、御霊の働きが七つあることを見ていこう。
+すでに見たように、御霊は七つの象徴を用いられる。私たちの心のうちでのご自分のさまざまな働き方を、有限な私たちの理解に示すためである。今度は、御霊の働きが七つあることを見ていこう。
 May the Holy Spirit help us to a proper understanding of these mighty things.
 聖霊が私たちを助けて、これらの大いなることを正しく理解させてくださるように。
 
@@ -39,7 +39,7 @@ May the Holy Spirit help us to a proper understanding of these mighty things.
 It is the office of the Spirit to convict of sin, both actual and inbred.
 罪を示すことは、御霊の務めである。実際に犯した罪も、生まれつきの罪もである。
 The Holy Ghost often strives with careless Christians to move them out into active service for God.
-聖霊は、信仰に無頓着なキリスト者と争って、神のための活発な奉仕へと押し出されることがよくある。
+聖霊は、信仰に無頓着なキリスト者と争って、彼らを神のための活発な奉仕へと押し出そうとされることがよくある。
 
 2. The Spirit Regenerates (John 3: 5-8).
 二　御霊は人を新しく生まれさせられる（ヨハネ三・五〜八）。
@@ -53,7 +53,7 @@ This change in the heart and life is wrought by and through the power of the Hol
 Sanctification is the destruction of the old man--the taking away of the old heart--the eradication of the carnal mind.
 聖化とは、古い人を滅ぼすことであり、古い心を取り去ることであり、肉の思いを根こそぎにすることである。
 "Jesus, that He might sanctify the people with His own blood, suffered without the gate."
-『イエスもまた、ご自分の血で民をきよめるために、門の外で苦難を受けられた』。
+『イエスは、ご自分の血で民をきよめるために、門の外で苦難を受けられた』。
 The Holy Ghost applies the blood of Jesus to the heart, and the heart is sanctified.
 聖霊がイエスの血を心に注がれると、心は聖化される。
 The blood is the means by which we are sanctified, while the Holy Ghost is the Agent.
@@ -65,9 +65,9 @@ He witnesses to our justification (Rom. 8: 16), to our sanctification (Heb. 10:1
 御霊は、私たちが義とされたことをあかしし（ローマ八・一六）、聖化されたことをあかしされる（ヘブル一〇・一五）。神癒や祈りの答えなども、あかしされる。
 
 5. The Spirit Teaches (John 14:26).
-五　御霊は教えられる（ヨハネ一四・二六）。
+五　御霊は人を教えられる（ヨハネ一四・二六）。
 The Spirit must teach the sinner how to be saved.
-罪人がどうすれば救われるかは、御霊が教えなければならない。
+罪人がどうすれば救われるかは、御霊に教えていただかなければならない。
 Every saved soul realizes his need of divine guidance, of divine illumination, of that wisdom which is from above, and to every such soul there comes the blessed assurance that he will be so guided and lead.
 救われた魂はみな、神の導きと、神の照らしと、上からの知恵とが自分に必要なことを悟る。そのような魂にはみな、自分がそのように導かれるという幸いな確信が与えられる。
 // 英文は so guided and lead（p. 20）。led の意に取った。
@@ -112,13 +112,14 @@ So any arrangement you may wish to make of the operations or offices of the Spir
 だから、人の救いにかかわる御霊の働きや務めを、どのように整理してもよい。どんな理論を組み立ててもよい。それでも、本書がその上に立っている中心の真理は、少しも揺るがないのである。
 
 "For He whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto Him" (John 3:34).
-『神がおつかわしになったかたは、神の言葉を語る。神は聖霊を限りなく賜うからである』（ヨハネ三・三四）。
+『神がおつかわしになったかたは、神の言葉を語る。神は聖霊を限りなくそのかたに賜うからである』（ヨハネ三・三四）。
+// 口語訳（ヨハネ三・三四）は「神は聖霊を限りなく賜うからである」。英文（欽定訳）の unto Him が続く段落の論旨にかかわるので、「そのかたに」を補った。
 I draw from this that the Spirit is given to no man in His full embodiment, but always by measure.
 私はここから、次のように考える。御霊がそのすべてを具えたまま与えられる人はいない。御霊はいつも、限られた分量で与えられる。
 I mean to say that Jesus had the Holy Ghost in all of His operations, in all of His administrations, in all of His gifts, and in all of His power as far as the relation between them existed; and therefore the symbol chosen in the case of Jesus was that of a dove: but that our capacities are too small to receive Him rather than by measure, though we may be filled with Him; hence He never comes upon us as a dove.
 つまり、こういうことである。イエスは聖霊を、そのすべての働き、すべての治め、すべての賜物、すべての力において持っておられた。イエスと聖霊とのかかわりが及ぶかぎりにおいてである。だから、イエスの場合に選ばれた象徴は、はとだったのである。しかし私たちの器は小さすぎて、限られた分量でしか聖霊を受けることができない。聖霊に満たされることはあってもである。だから聖霊が、はととして私たちの上に下られることは決してない。
 Just as one drop of water contains all the fulness of water, and as much so as a barrel, and yet the barrel cannot contain all water; even so we may have all the fulness of God, or we may be filled with all the fulness of God; and yet we can receive Him only by measure.
-一滴の水にも、水としての満ちた性質がすべて具わっている。それは、樽一杯の水と少しも変わらない。それでも樽は、すべての水を入れることはできない。それと同じように、私たちは神の満ちあふれるもののすべてを持つことができる。神の満ちあふれるもののすべてをもって満たされることもできる。それでも私たちは、限られた分量でしか神を受けることができないのである。
+一滴の水にも、水としての満ちた性質がすべて具わっている。それは、樽一杯の水と少しも変わらない。それでも樽は、すべての水を入れることはできない。それと同じように、私たちは神に満ちているもののすべてを持つことができる。神に満ちているもののすべてをもって満たされることもできる。それでも私たちは、限られた分量でしか神を受けることができないのである。
 
 Realizing then that we receive the Spirit by measure, it is easy to see that not every one who knows the Holy Ghost has received the Baptism; and that not every one who has the Holy Ghost in him is filled with the Spirit.
 こうして、私たちが限られた分量で御霊を受けることがわかれば、たやすく理解できる。聖霊を知っている人がみな、バプテスマを受けているわけではない。また、聖霊を内に持っている人がみな、御霊に満たされているわけでもない。
@@ -132,7 +133,7 @@ Both the knowledge of this need and the power to seek for salvation are wrought 
 Our Lord set before His disciples the truth that the power to receive Him as Saviour, and the efficiency of the Word itself, were dependent upon the direct influences of the Holy Spirit (John 6: 32-64).
 主は弟子たちに、一つの真理を示された。主を救い主として受け入れる力も、みことばそのものの効力も、聖霊の直接の働きかけにかかっている（ヨハネ六・三二〜六四）。
 Salvation, however, is something more than being a member of God's kingdom; it is the pledge, through the indwelling Spirit, of joint-heirship with Christ to all the glorious inheritance of God.
-しかし救いとは、神の国の一員であること以上のものである。それは、内に宿る御霊を通して与えられる保証である。神の栄光ある資産のすべてを、キリストと共に受け継ぐ者となることの保証なのである。
+しかし救いとは、神の国の一員であること以上のものである。それは、内に宿る御霊を通して与えられる保証である。神の栄光ある相続財産のすべてを、キリストと共に受け継ぐ者となることの保証なのである。
 We read in the Word, "Now if any man have not the Spirit of Christ, he is none of his" (Rom. 8: 9).
 みことばには、『もし、キリストの霊を持たない人がいるなら、その人はキリストのものではない』とある（ローマ八・九）。
 But this does not argue in the least degree that all who have the Spirit have the Baptism of the Spirit; in fact, it proves the opposite.
