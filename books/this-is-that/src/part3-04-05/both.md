@@ -11,13 +11,13 @@ BEHOLD the man! Behold THE man! Behold the MAN! I would like to repeat it over a
 この人を見なさい！　この人を見なさい！　この人を見なさい！　私はこの言葉を、何度も何度も繰り返したい。さまよう心をみなとらえ、迷い出た思いを一つ残らずとりこにするまで（第二コリント一〇・五）。この人を見なさい。ほんのしばらく、ほかのすべてのものに目を閉じなさい。
 
 STOP beholding your business--your pleasure--your home--your earthly cares and duties--your neighbor--whatever it may be that has been absorbing your attention, and Behold the Man, Christ Jesus.
-自分の仕事を見るのをやめなさい。自分の楽しみ、家庭、地上の務めや義務、隣人を見るのをやめなさい。何であれ、これまであなたの心を奪ってきたものから目を離しなさい。そして、この方、キリスト・イエスを見なさい。
+自分の仕事を見るのをやめなさい。自分の楽しみ、家庭、地上の気苦労や務め、隣人を見るのをやめなさい。何であれ、これまであなたの心を奪ってきたものから目を離しなさい。そして、この方、キリスト・イエスを見なさい。
 
 If you have never stopped long enough before in your busy life to behold the man, the Lamb of God, the one who loves you more than any earthly friend loves you, I want you to behold Him NOW.
 あなたは忙しい生活の中で、これまで一度も立ち止まって、この方を見たことがないかもしれない。神の小羊であり、地上のどんな友よりもあなたを愛してくださる方である。それなら、今こそこの方を見てほしい。
 
 I am sure that if you could only get one glimpse of that face which is the fairest among ten thousand, if you could only catch one cadence of His voice, sweet as the rushing of many waters, if you could only gaze for one moment into the depths of those tender eyes filled with understanding and sympathy and love, the tears of love and gratitude would spring to your eyes, your heart would fill with praise till you would never wish to cease from beholding and adoring and worshiping this Man, Christ Jesus. As the shades of darkness and unbelief are driven back by the light of the sun of righteousness, and as you behold the man, you will find new beauties, new attributes and graces unfolding themselves before your astonished and adoring eyes each moment you behold, till your heart bursts forth into singing,
-私は確信している。万人にぬきんでて麗しいあの御顔を、一目でも見ることができたなら。大水の音のように慕わしいその御声の響きを、一度でも聞くことができたなら（黙示録一・一五）。理解と思いやりと愛に満ちた、あの優しい目の奥を、ほんのしばらくでものぞき込むことができたなら。あなたの目には愛と感謝の涙があふれ、心は賛美で満たされるだろう。そして、この方、キリスト・イエスを見つめ、あがめ、礼拝することを、決してやめたくなくなるだろう。義の太陽の光によって、暗闇と不信仰の影は追い払われる（マラキ四・二）。そうしてこの方を見つめていると、見るたびに新しい美しさが現れてくるのに気づくだろう。新しいご性質と恵みが、驚きあがめるあなたの目の前に開かれていくのである。ついには、あなたの心はほとばしるように歌い出す。
+私は確信している。万人にぬきんでて麗しいあの御顔を、一目でも見ることができたなら（雅歌五・一〇）。大水の音のように慕わしいその御声の響きを、一度でも聞くことができたなら（黙示録一・一五）。理解と思いやりと愛に満ちた、あの優しい目の奥を、ほんのしばらくでものぞき込むことができたなら。あなたの目には愛と感謝の涙があふれ、心は賛美で満たされるだろう。そして、この方、キリスト・イエスを見つめ、あがめ、礼拝することを、決してやめたくなくなるだろう。義の太陽の光によって、暗闇と不信仰の影は追い払われる（マラキ四・二）。そうしてこの方を見つめていると、見るたびに新しい美しさが現れてくるのに気づくだろう。新しいご性質と恵みが、驚きあがめるあなたの目の前に開かれていくのである。ついには、あなたの心はほとばしるように歌い出す。
 
 " Since mine eyes were fixed on Jesus,
 「イエスに目を据えてから、<br/>
@@ -44,7 +44,7 @@ Behold the Man, standing up to take leave of the Father, leaving the songs and t
 見なさい、父に別れを告げようと立ち上がられるこの方を。御使の軍勢の歌と礼拝をあとにし、王の衣と笏と冠を脱ぎ、王座から降りて、天から地まではるばる来てくださった。あなたと私のためである。私たちが滅びないで、永遠のいのちを得るためである。
 
 Behold the Man, conceived of the Holy Ghost, born of the virgin Mary, coming to a world that found no room for Him in the inn. Behold Him born in a manger amidst the most deplorable and humble surroundings, coming to reach the lowest and the poorest of sinners.
-見なさい、聖霊によってみごもり、おとめマリヤから生れたこの方を。この方が来られた世界では、宿屋にこの方のための余地がなかった（ルカ二・七）。見なさい、最もみじめで卑しい環境の中、飼葉おけに生れた方を。最も低く、最も貧しい罪人にまで手を届かせるために、来られたのである。
+見なさい、聖霊によってみごもり、おとめマリヤから生まれたこの方を。この方が来られた世界では、宿屋にこの方のための余地がなかった（ルカ二・七）。見なさい、最もみじめで卑しい環境の中、飼葉おけに生まれた方を。最も低く、最も貧しい罪人にまで手を届かせるために、来られたのである。
 
 Behold the Man living and growing up with Mary, His mother, and. Joseph, in the carpenter shop. Behold Him at the age of thirty, baptized of John in the river Jordan, ready to begin His ministry. Behold the Man rising from a watery grave as the heavens opened and the Holy Spirit descended upon Him and the voice of God spoke aloud saying, "This is my beloved Son in whom I am well pleased." Thus He entered upon His ministry with divine authority and the power of the God-head resting upon Him and abiding with Him.
 見なさい、母マリヤとヨセフとともに大工の仕事場で暮らし、成長していかれるこの方を。三十歳になり、ヨルダン川でヨハネからバプテスマを受け、務めを始めようとしておられる方を見なさい。水の墓から上がって来られるこの方を見なさい。そのとき天が開け、聖霊がこの方の上に下られた。そして神の御声が、はっきりとこう告げた。『これはわたしの愛する子、わたしの心にかなう者である』（マタイ三・一七）。こうしてこの方は、神の権威をもって務めに入られた。神性の力がこの方の上にとどまり、ともにあったのである。
@@ -61,7 +61,7 @@ Behold the Man, at the last supper when even though His heart was aching, even t
 見なさい、最後の晩餐の席にいるこの方を。この方の心は痛んでおられた。ご自分を裏切る手も、ご自分を知らないと言う弟子も知っておられた。弟子たちがみなご自分を見捨てて逃げ去ることも知っておられた。それでも、この方の思いは、あなたと私に向けられていた。この方は、父の国で私たちとともに新しく飲むその日までは、もうぶどうの実から造ったものを飲まないと誓われた（マタイ二六・二九）。そして、こう言われたのである。
 
 "As oft as ye do this ye do show forth my death 'til I corned Oh, glorious bridge that spans the long, silent years from the day of His death till the day He shall come.
-「これを行うたびに、あなたがたは、わたしが来る時まで、わたしの死を告げ知らせるのである」（第一コリント一一・二六）ああ、主が死なれた日から主が来られる日まで、長く静かな年月に架け渡された、栄光の橋である。
+「これを行うたびに、あなたがたは、わたしが来るときまで、わたしの死を告げ知らせるのである」（第一コリント一一・二六）ああ、主が死なれた日から主が来られる日まで、長く静かな年月に架け渡された、栄光の橋である。
 // 英文の 'til I corned は till I come. の崩れとみた。閉じの引用符もない。
 
 Behold the Man, praying in the garden alone while His disciples slumbered and slept. Behold His agony and the travail of His soul as He cried: "Nevertheless, not my will, but thine, he done. And being in an agony He prayed more earnestly: and His sweat was as it were great drops of blood falling down to the ground."
@@ -132,7 +132,7 @@ Stern Law conquered and its grip loosened by. Jesus, the Substitute and Redeemer
 // 英文の by. の点は OCR の誤りとみた。
 
 Such a striking type is Barabbas of the whole human race, and of ourselves individually, that, as we stand looking down upon the incomplete story of his life, it seems like some wondrous, fascinating, unfinished texture stretched upon the loom of life, its riotous colors bespeaking sunshine and shadow, joy and sorrow, tragedy and triumph, threads frayed and hanging from the ending, threads loose and dangling at 'the beginning, as though inviting the onlooker to pick them up and weave again the history of the whole human race, as embodied in the study of Barabbas.
-バラバは、人類全体の、また私たち一人一人の、まことにきわだった型である。彼の生涯の未完の物語を見下ろしていると、それは人生の機に張られた、不思議な、心を引きつける、織りかけの織物のように思われる。その奔放な色は、日なたと日陰、喜びと悲しみ、悲劇と勝利を物語っている。終わりからは糸がほつれて垂れ下がり、初めからも糸がゆるんでぶら下がっている。まるで見る者を誘っているかのようである。その糸を拾い上げ、バラバを学ぶうちに見えてくる人類全体の歴史を、もう一度織り上げなさいと。
+バラバは、人類全体の、また私たち一人一人の、まことにきわだった型である。彼の生涯の未完の物語を見下ろしていると、それは人生の機（はた）に張られた、不思議な、心を引きつける、織りかけの織物のように思われる。その奔放な色は、日なたと日陰、喜びと悲しみ、悲劇と勝利を物語っている。終わりからは糸がほつれて垂れ下がり、初めからも糸がゆるんでぶら下がっている。まるで見る者を誘っているかのようである。その糸を拾い上げ、バラバを学ぶうちに見えてくる人類全体の歴史を、もう一度織り上げなさいと。
 // 英文の 'the の引用符は OCR の誤りとみた。
 
 ## 幼い日々
@@ -142,7 +142,7 @@ About the spring time of every child we love to weave the white threads of innoc
 どの子供の春の季節にも、私たちは無垢の白い糸を織り込みたいと思う。神を敬い、祈る母と、母のひざもとで祈ることを覚える、白い衣を着た小さな姿の絵である。祈る母を子供たちから奪った家庭は、与えることのできる最も豊かな宝の一つを、子供たちから取り上げたのである。それは、金では決して買えず、時も決して壊すことのできない思い出である。
 
 Whether Barabbas had a praying mother or not we do not know, but we long to think of her as instructing him in the old laws and the prophets, weeping and praying for him as he wandered into bad company and the paths of temptation. As he grew older we do not know whether or not he was married, but there may have been woven into the loom of his life with golden threads of love, a wife and a beautiful baby boy, but one thing we are certain of, and that is that he was led into sin, ever deeper and deeper, while God was speaking to him and the angels were warning him, saying, "BARABBAS, BE SURE YOUR SIN WILL FIND YOU OUT."
-バラバに祈る母がいたかどうかは、私たちにはわからない。けれども、こう思いたい。母は彼に昔の律法と預言者を教えた。彼が悪い仲間と誘惑の道にさまよい込んだときには、彼のために泣き、祈った。成長してから彼が結婚していたかどうかも、わからない。けれども、愛の金の糸で、妻と美しい男の赤ん坊が、彼の人生の機に織り込まれていたかもしれない。しかし、一つだけ確かなことがある。彼は罪へと導かれ、ますます深く落ちていった。そのあいだも、神は彼に語りかけ、御使たちは彼に警告して、こう言っていた。「バラバよ、あなたの罪は必ずあなたの身に及ぶことを知れ」（民数記三二・二三）
+バラバに祈る母がいたかどうかは、私たちにはわからない。けれども、こう思いたい。母は彼に昔の律法と預言者を教えた。彼が悪い仲間と誘惑の道にさまよい込んだときには、彼のために泣き、祈った。成長してから彼が結婚していたかどうかも、わからない。けれども、愛の金の糸で、妻と美しい男の赤ん坊が、彼の人生の機に織り込まれていたかもしれない。しかし、一つだけ確かなことがある。彼は罪へと導かれ、ますます深く落ちていった。そのあいだも、神は彼に語りかけておられ、御使たちは彼に警告して、こう言っていた。「バラバよ、あなたの罪は必ずあなたの身に及ぶことを知れ」（民数記三二・二三）
 
 Doubtless, Barabbas meant to call a halt some time in the near future. He never meant to go so far into sin as to be caught, cast into prison and condemned to die. Every dark cloud of warning that the Lord put into his way was doubtless tinted rosy with promising colors of golden wealth and remuneration by the devil, as he was led on and on from one sin to another, until at last we read that
 きっとバラバは、近いうちにどこかで立ち止まるつもりでいたのだろう。捕えられ、獄に投げ込まれ、死に定められるほど、深く罪に入り込むつもりはなかった。主は警告の黒い雲を、いくつも彼の行く手に置かれた。けれども悪魔は、その一つ一つを、金の富と報酬を約束するばら色に染めたにちがいない。こうして彼は、一つの罪から次の罪へと、どこまでも導かれていった。ついに、こう書かれるに至ったのである。
@@ -154,7 +154,7 @@ In all probability his robbing started in some seemingly simple and trivial way,
 おそらく彼の盗みは、一見なんでもない、ささいなことから始まったのだろう。子供のころの小さな盗みで、良心が彼を悩ませ、責めた。二度目の盗みは前より少し大きかったが、良心はそれほど彼を悩ませなかったようである。そして信じられないほどすぐに、彼の魂はかたくなになった。ついには盗賊の一団の頭となり、都で暴動を起こすまでになった。彼はひとりほくそ笑み、仲間たちに言ったかもしれない。おれたちは律法の目をくぐり抜けるほど賢い。決して捕まりはしない、と。ほかの多くの罪人も、そう自分に言い聞かせるのである。けれども、もう一度、最後の、これきりの警告が来た。
 
 "Repent; be sure your sin will find you out.
-「悔い改めよ。あなたの罪は必ず身に及ぶ。<br/>
+「悔い改めよ。あなたの罪は必ず身に及ぶことを知れ。<br/>
 Whatsoever a man soweth, that shall he also reap.
 人は自分のまいたものを、刈り取ることになる。<br/>
 The soul that sinneth, it shall surely die."
@@ -180,7 +180,7 @@ BARABBAS WAS A MURDERER.
 バラバは人殺しとなった。
 
 Swiftly the heavy, relentless hand of the law fell upon the shoulder of the guilty wretch, star,- ing with horror upon the work of his hands. Escape was impossible. Mercy was out of the question. The Law must take its course. Doubtless the trial that followed was fair and square in every respect. Barabbas was G-U-I-L-T-Y. And there were many witnesses to prove his guilt, both as a robber and as a murderer. No power could avert the penalty of the law, nor hinder it from descending upon him.
-すばやく、律法の重く容赦のない手が、罪深いみじめな男の肩をつかんだ。彼は自分の手のしわざを、恐れおののいて見つめていた。逃げることはできなかった。あわれみなど問題にもならなかった。律法はその道をたどらなければならない。そのあとの裁判は、きっとあらゆる点で公正で正当だったにちがいない。バラバは、ゆ、う、ざ、い、だった。強盗としても人殺しとしても、彼の罪を証明する証人が大ぜいいた。律法の刑罰を避けることも、それが彼の上に下るのを妨げることも、どんな力にもできなかった。
+すばやく、律法の重く容赦のない手が、罪深いみじめな男の肩をつかんだ。彼は自分の手のしわざを、恐れおののいて見つめていた。逃げることはできなかった。あわれみなど問題にもならなかった。律法は定めのとおりに執行されなければならなかった。そのあとの裁判は、きっとあらゆる点で公正で正当だったにちがいない。バラバは、ゆ、う、ざ、い、だった。強盗としても人殺しとしても、彼の罪を証明する証人が大ぜいいた。律法の刑罰を避けることも、それが彼の上に下るのを妨げることも、どんな力にもできなかった。
 // 英文の star,- ing は staring の崩れ。
 
 To and fro, back and forth flew the shuttle of time across the loom of life, now weaving threads that were dark--sombre--mournful. Was it with bated breath and blanching cheeks, or was it with a thin veneer of bravado that he heard the awful sentence pronounced upon him:
@@ -194,23 +194,23 @@ And when, plunged into the blackness of the dark dungeons beneath Pilot's judgme
 // 英文の Pilot's は Pilate's の誤植とみた。
 
 "Oh, bitter thongs of the law! Oh, bands and chains of justice! Is there no escape from thee, e'en though I see my awful error and now repent?" And did the voice of firm, relentless law, with face like flint, echo from the haunting memory of mother's teaching, "An eye for an eye, a tooth for a tooth; the Murderer shall surely be put to death." Sitting there in the darkness of sin, unable to help himself, beyond the help of mortal man, the chains of approaching retribution already biting into the flesh of his body, condemned to die without hope, nothing to look forward to but death, what a picture is Barabbas of the whole human race.
-「ああ、律法の苦い縄目よ！　ああ、正義のなわめと鎖よ！　自分の恐ろしい過ちに気づき、今こうして悔い改めても、おまえから逃れるすべはないのか」そして、火打ち石のような顔をした、確かで容赦のない律法の声が、母の教えのつきまとう記憶の中から響いたのだろうか。「目には目、歯には歯。人を殺した者は必ず殺されなければならない」（出エジプト二一・二四、一二）罪の暗闇の中に座り、自分ではどうすることもできず、死すべき人間の助けも届かない。迫りくる報いの鎖は、すでに彼の体の肉に食い込んでいる。望みもなく死に定められ、行く手には死のほか何もない。バラバはなんと、人類全体の姿を表していることだろう。
+「ああ、律法の苦い革ひもよ！　ああ、正義のなわめと鎖よ！　自分の恐ろしい過ちに気づき、今こうして悔い改めても、おまえから逃れるすべはないのか」そして、火打ち石のような顔をした、確かで容赦のない律法の声が、母の教えのつきまとう記憶の中から響いたのだろうか。「目には目、歯には歯。人を殺した者は必ず殺されなければならない」（出エジプト二一・二四、民数記三五・一六）罪の暗闇の中に座り、自分ではどうすることもできず、死すべき人間の助けも届かない。迫りくる報いの鎖は、すでに彼の体の肉に食い込んでいる。望みもなく死に定められ、行く手には死のほか何もない。バラバはなんと、人類全体の姿を表していることだろう。
 
 ## 人類の姿としてのバラバ
 BARABBAS A PICTURE OF THE HUMAN RACE.
 
 By Adam sin entered. The first sin recorded was that of theft; Gen. 3:6. The second sin to be recorded was murder. Gen. 4:8. God, in His infinite holiness, could not look upon sin with the least degree of allowance; the soul that sin-neth, it must die. Death and eternal despair followed in the wake of sin. A great gulf had been fixed between man and God, the strong arm of the law fell heavily upon the human race, and after a fair trial the verdict, G-U-I-L-T-Y, was brought in. The sentence of "death" was passed, and man was plunged into the dark prison of captivity beneath the judgment hall waiting the hour when judgment should be executed upon him.
-アダムによって罪が入った。記録された最初の罪は盗みだった（創世記三・六）。記録された二番目の罪は人殺しだった（創世記四・八）。限りなく聖なる神は、罪を少しも大目に見ることがおできにならなかった。罪を犯した魂は必ず死ぬ（エゼキエル一八・四）。罪の跡には、死と永遠の絶望が続いた。人と神とのあいだには大きな淵が置かれ、律法の強い腕が人類の上に重く下った。公正な裁判の後、ゆ、う、ざ、い、の評決が下された。「死」の判決が言い渡された。人は、さばきの広間の下にある捕らわれの暗い牢獄に投げ込まれ、自分にさばきが執行される時を待っていた。
+アダムによって罪が入った。記録された最初の罪は盗みだった（創世記三・六）。記録された二番目の罪は人殺しだった（創世記四・八）。限りなく聖なる神は、罪を少しも大目に見ることがおできにならなかった。罪を犯した魂は必ず死ぬ（エゼキエル一八・四）。罪の跡には、死と永遠の絶望が続いた。人と神とのあいだには大きな淵が置かれ、律法の強い腕が人類の上に重く下った。公正な裁判のあと、ゆ、う、ざ、い、の評決が下された。「死」の判決が言い渡された。人は、さばきの広間の下にある捕らわれの暗い牢獄に投げ込まれ、自分にさばきが執行されるときを待っていた。
 // 英文の sin-neth は sinneth の崩れ。
 
 Oh! that someone would come to open the prison doors of those who were bound. Oh! for an arm to save, one who would bear the griefs and carry the sorrows of a sin-stricken race, one who would be wounded for the sinner's transgression and pay the sinner's debt!
-ああ！　縛られている者のために、牢獄の戸を開きに来る人があればよいのに（イザヤ六一・一）。ああ、救う腕があればよいのに。罪に打たれた人類の病を負い、悲しみをになう方がいればよいのに。罪人のとがのために傷つけられ、罪人の負債を払う方がいればよいのに！
+ああ！　縛られている者のために、牢獄の戸を開きに来る人があればよいのに（イザヤ六一・一）。ああ！　救う腕があればよいのに。罪に打たれた人類の病を負い、悲しみをになう方がいればよいのに。罪人のとがのために傷つけられ、罪人の負債を払う方がいればよいのに！
 
 Who knows the thoughts that throbbed through the aching brain of Barabbas during the days that followed, the stabbings of remorse, memories of other days, and thoughts of what might have been, the sleepless nights, the hopeless days, not one ray of light to pierce the gloom! Did that awful voice that had pronounced the sentence in the judgment hall keep ringing in his ears:
 その後の日々、バラバのうずく頭の中を、どんな思いが脈打っていたかを、だれが知ろう。悔恨の突き刺すような痛み、昔の日々の思い出、こうであったかもしれないという思い、眠れない夜、望みのない昼。闇を貫く光は一筋もなかった！　さばきの広間で判決を言い渡したあの恐ろしい声は、彼の耳に鳴り響き続けていたのだろうか。
 
 "Thou shalt be hanged upon a cross of wood on Calvary's hill, thou and thy two thieves, till thou art dead"? Did he lose all track of time, till his ears were ever straining to hear his name called and the great door to be swung wide, the hour when the dark silence would be broken, and midst the roaring of the voices of the rabble, and the piercing light of day, he would be led forth to die that shameful and ignominious death? In the silent darkness of his cell, with no other sound than the drip, drip of the sweat drops which came from the ceiling and fell like tears upon the flagstones at his feet, did the vision of the cross, his cross, rise before him, ever drawing nearer and nearer as the hour of his crucifixion approached?
-「おまえは、二人の盗賊とともに、カルバリの丘で木の十字架にかけられ、死ぬまでつるされる」彼は時の感覚をすっかり失い、いつも耳をそばだてていたのだろうか。自分の名が呼ばれ、大きな戸が大きく開かれるのを聞こうとして。暗い静けさが破られ、群衆のわめき声と突き刺すような昼の光の中で、あの恥ずべき不名誉な死へと引き出されて行く、その時を待って。独房の静かな暗闇の中で、聞こえる音といえば、ぽたり、ぽたりという汗のしずくの音だけだった。天井からしたたり、足もとの敷石に涙のように落ちるしずくである。そこで、十字架の幻が、自分の十字架が、彼の前に現れたのだろうか。十字架につけられる時が近づくにつれ、それはますます近づいて来たのだろうか。
+「おまえは、二人の盗賊とともに、カルバリの丘で木の十字架にかけられ、死ぬまでつるされる」彼は時の感覚をすっかり失い、いつも耳をそばだてていたのだろうか。自分の名が呼ばれ、大きな戸が開け放たれるのを聞こうとして。暗い静けさが破られ、群衆のわめき声と突き刺すような昼の光の中で、あの恥ずべき不名誉な死へと引き出されて行く、そのときを待って。独房の静かな暗闇の中で、聞こえる音といえば、ぽたり、ぽたりという汗のしずくの音だけだった。天井からしたたり、足もとの敷石に涙のように落ちるしずくである。そこで、十字架の幻が、自分の十字架が、彼の前に現れたのだろうか。十字架につけられるときが近づくにつれ、それはますます近づいて来たのだろうか。
 
 Steadily on and on the shuttle flies across the loom in sombre and desolate colorings.
 杼は、陰鬱でわびしい色合いで、機の上を絶え間なく飛び続ける。
@@ -222,7 +222,7 @@ Oh! what is this! The threads of wild terror and panic are being shot across the
 「バラバ！　バラバ！　バラバをゆるしてくれ。バラバを出せ！　バラバ！　バ、ラ、バ！」
 
 'Tis the voice of a multitudinous rabble, ever growing and swelling in volume. But how could he hear it away in this dungeon? The doors must be open. Yes, footsteps are echoing along the stone corridors that lead to his cell, nearer and nearer they sound, swords singing, keys jangling on their rings, and ever as a background, comes the imperative roar of the mob in the judgment hall above, a roar that is now settling into a steady chant brooking no denial.
-それは大ぜいの群衆の声で、ますます大きくふくれ上がっていく。けれども、この地下牢の奥で、どうしてそれが聞こえるのだろうか。戸が開いているにちがいない。そうだ、彼の独房に通じる石の廊下に、足音が響いている。足音はますます近くなる。剣が鳴り、輪につけた鍵がじゃらじゃら鳴る。その背後には、いつも上のさばきの広間から、群衆の有無を言わせぬどよめきが聞こえてくる。そのどよめきは今、否応のない、一定の繰り返しの叫びに変わりつつある。
+それは大ぜいの群衆の声で、ますます大きくふくれ上がっていく。けれども、この地下牢の奥で、どうしてそれが聞こえるのだろうか。戸が開いているにちがいない。そうだ、彼の独房に通じる石の廊下に、足音が響いている。足音はますます近くなる。剣が鳴り、輪につけた鍵がじゃらじゃら鳴る。その背後には、いつも上のさばきの広間から、群衆の有無を言わせぬどよめきが聞こえてくる。そのどよめきは今、否応のない、一定の調子で繰り返す叫びに変わりつつある。
 
 "Barabbas! Barabbas! Release unto us BARABBAS!!!!
 「バラバ！　バラバ！　バラバをゆるしてくれ！！！！」
@@ -259,19 +259,19 @@ Ah! the chains were loose at his feet. His hands were free. The biting iron that
 「ああ、バラバ、出て来て代価を払え。おまえの罪がおまえの身に及んだのだ」四歩、五歩、六歩。彼は戸口にたどり着き、そこを通り抜けた。七歩、八歩、九歩。彼は廊下を手探りで進み、はるか向こうの一筋の光のほうへ、やみくもによろめきながら歩いて行った。確かに兵士たちが後ろから進んで来ていた。けれども、彼を捕えようとはしなかった。これはいったいどういうことなのか。最後の瞬間に、きっと捕えられるにちがいない。しかし、そうではない。兵士たちは別の方向へ曲がって行き、彼はひとり残される。そして、慣れない目を刺す、ますます強くなる光の中へと歩いて行く。
 
 When at last, reaching the yawning doorway, clinging to its portals with one trembling hand, and shading his eyes with the other, what were his thoughts as he gazed once more upon the sunlight, and once more heard the singing of the birds, and the voices of children round about him? Were the golden threads of hope and new resolution already being woven into the texture, even amidst his bewilderment?
-ついに彼は、口を大きく開けた戸口にたどり着いた。震える片手で門柱にしがみつき、もう一方の手で目をかざした。再び日の光を見つめ、再び鳥の歌と、周りの子供たちの声を聞いたとき、彼はどんなことを思ったのだろうか。とまどいのただ中にあっても、望みと新しい決意の金の糸が、すでに織物に織り込まれ始めていたのだろうか。
+ついに彼は、口を大きく開けた戸口にたどり着いた。震える片手で門柱にしがみつき、もう一方の手を目の上にかざした。再び日の光を見つめ、再び鳥の歌と、周りの子供たちの声を聞いたとき、彼はどんなことを思ったのだろうか。とまどいのただ中にあっても、望みと新しい決意の金の糸が、すでに織物に織り込まれ始めていたのだろうか。
 
 Oh these dangling threads that hang loose from the end of the texture, tell me, just how was the story finished? Did Barabbas catch sight of the throng wending their way to Calvary's hill? Did he hear the hissings and the jeerings of the multitude, and see yon lovely Man, in robes of white, fall beneath the burden of the cross? Did he run, perhaps, to the old cottage home, and clasping his amazed wife and little boy by the hand, cry:
 ああ、織物の端からゆるんで垂れ下がっているこの糸よ、教えてほしい。物語はいったいどう終わったのか。バラバは、カルバリの丘へ向かって進む群衆を目にしたのだろうか。群衆のやじとあざけりを聞き、白い衣をまとったあの麗しい方が、十字架の重みの下に倒れられるのを見たのだろうか。もしかすると、彼は古い田舎家に走って帰り、驚く妻と幼い息子の手を握って、こう叫んだのだろうか。
 
 "Oh, come with me, and let us go and see the man that is dying in my place. Today was the day set for my execution. Today I was to be hanged upon the cross and die a felon's death, but another man, an innocent man, is dying, dying for me. Oh, come and let us go and look upon His face that we may fathom the mystery of such love."
-「ああ、一緒に来てくれ。私の代わりに死のうとしている人を見に行こう。今日は私の死刑の日だった。今日、私は十字架にかけられて、重罪人として死ぬはずだった。それなのに、ほかの人が、罪のない人が死のうとしている。私のために死のうとしているのだ。ああ、一緒に行って、その方の顔を見よう。そのような愛の神秘を、知ることができるように」
+「ああ、いっしょに来てくれ。私の代わりに死のうとしている人を見に行こう。今日は私の死刑の日だった。今日、私は十字架にかけられて、重罪人として死ぬはずだった。それなのに、ほかの人が、罪のない人が死のうとしている。私のために死のうとしているのだ。ああ、いっしょに行って、その方の顔を見よう。そのような愛の神秘を、知ることができるように」
 
 ## さあ、その人を見に行こう
 LET US GO AND SEE THE MAN.
 
 And did they push their way together through the throng and up the hill, ne'er stopping till they reached the foot of the cross, where sobbing women mourned the grief of Him who bore our sorrows? And as Barabbas gazed into that face most fair, and saw the nails, and the blood drops streaming down from brow and hands and feet, as he looked into those eyes of deep, unutterable love, and heard the words:
-そして二人は、群衆をかき分けて一緒に丘を登り、十字架のもとに着くまで一度も立ち止まらなかったのだろうか。そこでは、私たちの悲しみを負われた方の苦しみを、すすり泣く女たちが嘆いていた。そしてバラバは、あの最も麗しい御顔を見つめたのだろうか。釘を見、額と手と足から流れ落ちる血のしずくを見たのだろうか。深い、言葉に尽くせない愛をたたえたあの目をのぞき込んだのだろうか。そのとき、彼は聞いたのだろうか。
+そして二人は、群衆をかき分けていっしょに丘を登り、十字架のもとに着くまで一度も立ち止まらなかったのだろうか。そこでは、私たちの悲しみを負われた方の苦しみを、すすり泣く女たちが嘆いていた。そしてバラバは、あの最も麗しい御顔を見つめたのだろうか。釘を見、額と手と足から流れ落ちる血のしずくを見たのだろうか。深い、言葉に尽くせない愛をたたえたあの目をのぞき込んだのだろうか。そのとき、彼は聞いたのだろうか。
 
 "Father, forgive," falling from those anguished lips, did he cry:
 苦しみにゆがむあの唇から、「父よ、おゆるしください」という言葉がこぼれるのを。そして、こう叫んだのだろうか。
@@ -299,7 +299,7 @@ Was he there when the mangled body of Jesus was lowered from the cross and laid 
 イエスの傷ついたお体が十字架から降ろされ、墓に納められたとき、彼はそこにいたのだろうか。イエスがご自分の民に現れ、雲に乗って父の王座へと上って行かれた朝、彼はそこにいたのだろうか。ペンテコステの日に聖霊の賜物を受け、イエスのメッセージとイエスの救う力を宣べ伝えに出て行った百二十人の中に、彼はいたのだろうか（使徒一・一五、二・四）。
 
 We know not of a certainty, but one thing we do know, and that is, that when this whole world of ours was wrapped in darkness and imprisoned by sin and death, the Spirit of the Lord was upon Jesus, anointing Him to preach the gospel to the poor, to heal the broken-hearted, to preach deliverance to the captives, recovering of sight to the blind, to set at liberty them that are bruised, and to preach the acceptable year of the Lord. We do know that Barabbas was no greater sinner, nor more devoid of hope than this whole world of lost sinners, and that Jesus came and was wounded for our transgressions, bruised for our iniquities, the chastisement of our peace was upon Him, and by His stripes we were healed; that when we like sheep had gone astray, and had turned every one to our own ways, the Lord laid upon Him the iniquity of us all. He was oppressed and He wm afflicted, yet He opened not His mouth. He was taken from prison and from judgment. He was cut off from the land of the living. For the transgression of the people was He stricken. He made His grave with the wicked and with the rich in His death, yet He had done no violence, neither was there any deceit in His mouth. He was numbered with the transgressors, and He bare the sin of many and made intercession for the transgressors.
-確かなことはわからない。けれども、一つだけ確かに知っていることがある。この世界全体が闇に包まれ、罪と死に閉じ込められていたとき、主の御霊がイエスの上にあった。主はイエスに油を注ぎ、貧しい人々に福音を宣べ伝え、心の砕けた者をいやすようにされた。捕われ人に解放を、目の見えない人に見えるようになることを告げるようにされた。打ちひしがれている者に自由を得させ、主のめぐみの年を告げ知らせるようにされたのである（ルカ四・一八〜一九）。また、確かに知っている。バラバは、この失われた罪人の世界全体より大きな罪人でも、より望みのない者でもなかった。そしてイエスは来て、私たちのとがのために傷つけられ、私たちの不義のために砕かれた。みずから懲らしめを受けて私たちに平安を与え、その打たれた傷によって、私たちはいやされた。私たちがみな羊のように迷って、おのおの自分の道に向かって行ったとき、主は私たちすべての者の不義を、この方の上に置かれた（イザヤ五三・五〜六）。この方はしいたげられ、苦しめられたけれども、口を開かれなかった。捕らわれ、さばかれて、取り去られた。生けるものの地から断たれた。民のとがのために打たれた。悪しき者とともに、また死においては富める者とともに、墓を設けられた。暴虐を行わず、その口には偽りがなかったのにである（イザヤ五三・七〜九）。この方はとがある者とともに数えられ、多くの人の罪を負い、とがある者のためにとりなしをされたのである（イザヤ五三・一二）。
+確かなことはわからない。けれども、一つだけ確かに知っていることがある。この世界全体が闇に包まれ、罪と死に閉じ込められていたとき、主の御霊がイエスの上に臨んでおられた。主はイエスに油を注ぎ、貧しい人々に福音を宣べ伝え、心の砕けた者をいやすようにされた。捕らわれ人に解放を、目の見えない人に見えるようになることを告げるようにされた。打ちひしがれている者に自由を得させ、主のめぐみの年を告げ知らせるようにされたのである（ルカ四・一八〜一九）。また、確かに知っている。バラバは、この失われた罪人の世界全体より大きな罪人でも、より望みのない者でもなかった。そしてイエスは来られて、私たちのとがのために傷つけられ、私たちの不義のために砕かれた。みずから懲らしめを受けて私たちに平安を与えてくださり、その打たれた傷によって、私たちはいやされた。私たちがみな羊のように迷って、おのおの自分の道に向かって行ったとき、主は私たちすべての者の不義を、この方の上に置かれた（イザヤ五三・五〜六）。この方はしいたげられ、苦しめられたけれども、口を開かれなかった。捕らわれ、さばかれて、取り去られた。生けるものの地から断たれた。民のとがのために打たれた。悪しき者とともに、また死においては富める者とともに、墓を設けられた。暴虐を行わず、その口には偽りがなかったのにである（イザヤ五三・七〜九）。この方はとがある者とともに数えられ、多くの人の罪を負い、とがある者のためにとりなしをされたのである（イザヤ五三・一二）。
 // 英文の He wm afflicted は He was afflicted の誤り。
 
 ## 絶望の地下牢で死を待つ人類
@@ -307,7 +307,7 @@ MANKIND,, IN THE DUNGEON OF DESPAIR. AWAITS DEATH.
 // 英文の MANKIND,, と DESPAIR. の点は原本か OCR の誤りとみた。
 
 By one man sin entered into the world, and death by sin; and so death passed upon all men, for all have sinned. Rom. 5:12.
-『ひとりの人によって、罪がこの世にはいり、また罪によって死がはいってきたように、こうして、すべての人が罪を犯したので、死が全人類にはいり込んだのである』（ローマ五・一二）。
+『ひとりの人によって、罪がこの世にはいり、また罪によって死がはいってきたように、こうして、すべての人が罪を犯したので、死が全人類にはいり込んだのである』（ローマ五・一二）
 
 What a hopeless, miserable dungeon, man had placed himself in by his sin, and disobedience to God. No matter how he might search, there was no way out. The great, massive DOOR OF MERCY was the only hope. The Law, stern jailer that he was, refused to open that. Because of one man's sin Death reigned supreme upon his throne from Adam to Moses. ( Rom. 5:14. )
 人は罪と神への不従順によって、なんと望みのない、みじめな地下牢に自分を閉じ込めてしまったことだろう。どれほど探しても、出口はなかった。ただ一つの望みは、大きく重いあわれみの戸だった。けれども、厳しい獄吏である律法は、その戸を開くことを拒んだ。ひとりの人の罪のために、アダムからモーセまで、死が王座に着いて思うままに支配したのである（ローマ五・一四）。
@@ -325,7 +325,7 @@ Mercy and Love (inseparable pair) stepped within the prison cell, and, loosening
 「出て来なさい」
 
 "You are free men; another has died in your place, one named Jesus has borne your cross and paid the price of your redemption. Come forth, come forth. Oh! trembling souls, why sit longer in the valley and in the shadow of death? Can you not understand? The door is open, the chains are broken. Barabbas, BARABBAS, COME forth!" What would you have thought of Barabbas, had he refused to leave the dungeon, choosing chains and darkness rather than liberty and light? What opinion would you have had of Barabbas had he been such an ingrate, so void of appreciation and gratitude that he did not even take the trouble to climb blest Calvary's hill to see and thank this Jesus who died for him?
-「あなたがたは自由の身です。ほかの方が、あなたがたの代わりに死なれたのです。イエスという名の方が、あなたがたの十字架を負い、あなたがたのあがないの代価を払われたのです。出て来なさい、出て来なさい。ああ、おののく魂よ、なぜいつまでも死の陰の谷に座っているのですか（詩篇二三・四）。わからないのですか。戸は開いています。鎖は砕かれています。バラバよ、バラバよ、出て来なさい！」もしバラバが地下牢から出ることを拒み、自由と光よりも鎖と闇を選んだとしたら、あなたはバラバをどう思うだろうか。もしバラバがそれほどの恩知らずで、感謝の心がまるでなかったとしたらどうだろう。自分のために死なれたこのイエスに会って感謝しようと、祝福されたカルバリの丘を登る手間さえかけなかったとしたら。あなたはそのバラバをどう思うだろうか。
+「あなたがたは自由の身です。ほかの方が、あなたがたの代わりに死なれたのです。イエスという名の方が、あなたがたの十字架を負い、あなたがたのあがないの代価を払われたのです。出て来なさい、出て来なさい。ああ、おののく魂よ、なぜいつまでも死の陰の谷に座っているのですか（詩篇二三・四）。わからないのですか。戸は開いています。鎖は砕かれています。バラバよ、バラバよ、出て来なさい！」もしバラバが地下牢から出ることを拒み、自由と光よりも鎖と闇を選んだとしたら、あなたはバラバをどう思うだろうか。もしバラバがそれほどの恩知らずで、感謝の心がまるでなかったとする。自分のために死なれたこのイエスに会って感謝しようと、祝福されたカルバリの丘を登る手間さえかけなかったとする。あなたはそのバラバをどう思うだろうか。
 
 Jesus died for you; your prison door stands WIDE, the Spirit calls: "Come forth, the sunlight of God's love and mercy awaits you, pardon and peace are yours for the taking. Will you turn just now to Calvary, wend your way to the cross and gaze into the face of your Saviour, that face which was more marred than the face of any other man?"
 イエスはあなたのために死なれた。あなたの獄屋の戸は大きく開いている。御霊が呼んでおられる。「出て来なさい。神の愛とあわれみの日の光が、あなたを待っている。ゆるしと平安は、受け取りさえすればあなたのものだ。今すぐカルバリへ向き直り、十字架へと歩んで行かないか。あなたの救い主の御顔を見つめないか。どの人の顔よりもそこなわれた、あの御顔を（イザヤ五二・一四）」
