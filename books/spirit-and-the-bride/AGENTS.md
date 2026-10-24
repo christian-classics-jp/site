@@ -29,8 +29,9 @@
 
 ## 文体
 
-- 著者が読者に語りかける教理書で、反対者の文章の引用が多い。地の文の体、一人称、引用される人々の口調は最初に訳す節で決め、ここに書き足す。
-
-## トップページ
-
-- 訳了した節がないあいだは、`static/index.html` にこの本を載せていない（本のページが空になるため）。最初の節を訳し終えたら、この本を「更新中」に載せ、一覧を「更新中」「完成」の二つに分け直す。
+- 著者が読者に語りかける教理書で、反対者の文章の引用が多い。地の文は常体（「〜である」「〜だ」）。序文と J・H・キングの序論も常体。
+- 一人称：`I` は「私」。著者が自分を指す `we` は「私たち」、`the writer` は「筆者」。
+- 引用される人々の文章（反対者の記事や手紙）も常体。名のある書き手の呼び名は英文に合わせる（`Brother X`＝X兄弟）。
+- 神、キリスト、聖霊には敬語を使う（「〜される」「〜してくださる」）。人や悪魔には使わない。
+- 語：the Holy Ghost／the Holy Spirit＝聖霊、the Spirit＝御霊、the Baptism of the Holy Ghost＝聖霊のバプテスマ（the Baptism of the Spirit＝御霊のバプテスマ）、speak with other tongues＝異言を語る、Pentecost＝ペンテコステ、the present movement＝今の運動、the second blessing＝第二の祝福、justification＝義認、sanctification＝聖化、the bride／the bridehood＝花嫁（membership in the bridehood＝花嫁の一員となること）、"Latter Rain"＝「後の雨」。
+- 日付と年は算用数字（「1907年9月」）。
