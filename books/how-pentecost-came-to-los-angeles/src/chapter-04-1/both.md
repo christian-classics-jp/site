@@ -11,7 +11,7 @@ But I had not known even of the existence of this building until the Lord brough
 I noticed it was out of regular use. It had been a German church. Through curiosity I opened the door, which was unlocked, and entered. I found the "Pillar of Fire" had it.
 ふだんは使われていないようだった。もとはドイツ人の教会だった。好奇心から、鍵のかかっていない戸を開けて中に入った。「火の柱」が使っていることがわかった。
 Kneeling at the altar for a season of prayer, the Lord spoke to me, I received a wonderful witness of the Spirit. In a moment I was walking the aisles, claiming it for "Pentecost."
-祭壇の前にひざまずいてしばらく祈っていると、主が私に語られた。私は御霊のすばらしいあかしを受けた。私はたちまち、通路を歩きながら、この建物を「ペンテコステ」のために要求していた。
+祭壇の前にひざまずいてしばらく祈っていると、主が私に語られた。私は御霊のすばらしいあかしを受けた。私はたちまち、通路を歩きながら、この建物は「ペンテコステ」のものだと宣言していた。
 Over the door was a large motto painted, "Gott ist die Liebe" (God is Love). This was two months before the "Azusa" work began.
 戸の上には、大きな標語が描かれていた。『Gott ist die Liebe』（神は愛である）。これは、「アズサ」の働きが始まる二か月前のことだった。
 
@@ -41,7 +41,7 @@ The "baptized" saints were to remain "one body," even as they had been called, a
 The New Testament Church saints had already arrested their further progress in this way.
 新約教会の聖徒たちは、すでにこのようにして、自分たちのそれ以上の前進を止めてしまっていた。
 God wanted a revival company, a channel through whom He could evangelize the world, blessing all people and believers. He could naturally not accomplish this with sectarian party.
-神は、リバイバルの群れを望んでおられた。すべての人々と信者を祝福しながら、世界に福音を伝えることのできる水路である。それは、当然、教派の党派ではなしとげることがおできにならなかった。
+神は、リバイバルの群れを望んでおられた。すべての人々と信者を祝福しながら、世界に福音を伝えることのできる水路である。当然、神は、教派的な党派によっては、それをなしとげることがおできにならなかった。
 That spirit has been the curse and death of every revival body sooner or later. History repeats itself in this matter.
 その霊は、遅かれ早かれ、どのリバイバルの群れにとっても、のろいとなり死となってきた。このことでは、歴史は繰り返すのだ。
 
@@ -56,7 +56,7 @@ And from that time the trouble and division began. It was no longer a free Spiri
 The work had become one more rival party and body, along with the other churches and sects of the city. No wonder the opposition steadily increased from the churches.
 働きは、町のほかの教会や教派と並ぶ、競い合う党派や団体の一つになってしまった。諸教会からの反対がしだいに強まったのも、無理はない。
 We had been called to bless and serve the whole "body of Christ," everywhere. Christ is one, and His "body" can be but "one." To divide it is but to destroy it, as with the natural body.
-私たちは、いたる所にある「キリストのからだ」全体を祝福し、それに仕えるために召されていた。キリストは一人であり、そのからだは「一つ」でしかありえない。それを分けることは、生まれつきのからだと同じように、それを滅ぼすことにほかならない。
+私たちは、いたる所にある「キリストのからだ」全体を祝福し、それに仕えるために召されていた。キリストは一人であり、その「からだ」は「一つ」でしかありえない。それを分けることは、肉体の場合と同じように、それを滅ぼすことにほかならない。
 "In one Spirit were we all baptized into one body," - I Cor. 12:13. The church is an organism not a human organization.
 『わたしたちは皆、一つの御霊によって、一つのからだとなるようにバプテスマを受けた』（第一コリント一二・一三）。教会は生き物であって、人間の組織ではない。
 
@@ -69,7 +69,7 @@ An earlier work in Texas, later tried to gather in the Pentecostal missions on t
 We had prayed down our own revival. The revival in California was unique and separate as to origin.
 私たちは、祈りによって自分たちのリバイバルを天から呼び下ろしたのだ。カリフォルニアのリバイバルは、その起こりにおいて、ほかとは別の、独自のものだった。
 It came from Heaven, even Brother Seymour not receiving the "baptism" until many others had entered in here. He did not arrive in Los Angeles until the "eleventh hour."
-それは天から来た。シーモア兄弟でさえ、ここで多くの人が入ったあとまで、「バプテスマ」を受けなかった。彼がロサンゼルスに着いたのは、ようやく「最後の時刻」になってからだった。
+それは天から来た。シーモア兄弟でさえ、ここで多くの人が入ったあとになるまで、「バプテスマ」を受けなかった。彼がロサンゼルスに着いたのは、ようやく「最後の時刻」になってからだった。
 The great battle from the beginning, both in Los Angeles and elsewhere, has been the conflict between the "flesh" and the Spirit, between Ishmael and Isaac.
 ロサンゼルスでもほかの所でも、初めからの大きな戦いは、「肉」と御霊との、イシマエルとイサクとの争いだった。
 
@@ -81,13 +81,13 @@ For some days we could do little but lay before the Lord in prayer. Sister Hopki
 何日ものあいだ、私たちは、祈りのうちに主の前に伏していることぐらいしかできなかった。初めのころ、ホプキンソン姉妹が大いに私を助けてくれた。
 
 The atmosphere was almost too sacred and holy to attempt to minister in. Like the priests in the Tabernacle of old we could not minister for the glory.
-その雰囲気は、あまりに神聖で聖なるものだったので、そこで奉仕しようとすることさえためらわれた。昔の幕屋の祭司たちのように、私たちは栄光のために仕えることができなかった。
+その雰囲気は、あまりに神聖で聖なるものだったので、そこで奉仕しようとすることさえためらわれた。昔の幕屋の祭司たちのように、私たちは栄光のゆえに仕えることができなかった。
 We had terrible battles with fleshly professors and deceivers also. But God gave victory. The Spirit was much grieved by contentious spirits.
 信仰を口にするだけの肉的な者や、人を欺く者とも、すさまじい戦いがあった。しかし神が勝利を与えてくださった。争いを好む霊によって、御霊はたいそう悲しまれた。
 The atmosphere at Eighth and Maple was for a time even deeper than at "Azusa." God came so wonderfully near us the very atmosphere of Heaven seemed to surround us.
 八番街とメイプル通りの雰囲気は、ひところは「アズサ」よりもさらに深かった。神があまりにすばらしく近くに来てくださったので、天の雰囲気そのものが私たちを包んでいるようだった。
 Such a divine "weight of glory" was upon us we could only lie on our faces. For a long time we could hardly remain seated even.
-神の「重い栄光」が私たちの上にあまりに重くのしかかったので、私たちはただうつぶせに伏していることしかできなかった。長いあいだ、座っていることさえほとんどできなかった。
+神の「重い栄光」が、それほどまでに私たちの上にのしかかっていたので、私たちはただうつぶせに伏していることしかできなかった。長いあいだ、座っていることさえほとんどできなかった。
 All would be on their faces on the floor, sometimes during the whole service, I was seldom able to keep from lying full length on the floor on my face.
 ときには集会のあいだじゅう、みなが床にうつぶせになっていた。私も、床に長々とうつぶせにならずにいられることは、めったになかった。
 There was a little raise of about a foot, for a platform, when we moved into the church, On this I generally lay, while God ran the meetings.
@@ -109,7 +109,7 @@ All day long the power of God swept the place. The church was crowded. Terrible 
 There was no programme, and hardly a chance for even necessary announcements. No attempt was made to preach. A few messages were given by the Spirit. Everybody was free to obey God.
 予定は何もなく、必要な知らせをする機会さえほとんどなかった。説教しようとする者もいなかった。御霊によって、いくつかのメッセージが与えられた。だれもが自由に神に従った。
 The altar was full of seeking souls all day. There was hardly a cessation of the altar service. Souls were coming out and getting through, while the meeting swept on.
-一日じゅう、祭壇の前は求める魂でいっぱいだった。祭壇の前での祈りは、ほとんど途切れなかった。集会が進んでいくあいだに、魂が次々に前に出て来て、突き抜けていった。
+一日じゅう、祭壇の前は求める魂でいっぱいだった。祭壇の前での祈りは、ほとんど途切れなかった。集会が進んでいくあいだに、魂が次々に前に出て来て、祈り抜いていった。
 Men and women lay around the altar, stretched out under the power all day.
 男も女も、一日じゅう力の下に倒れて、祭壇の周りに横たわっていた。
 A Free Methodist preacher's wife came through to a mighty "baptism," speaking something like Chinese. All who received the "baptism" spoke in "tongues."
@@ -132,7 +132,7 @@ There are even greater issues at stake at present. We try to keep from magnifyin
 The enemy is moving hell to break up our fellowship through doctrinal differences. But we must preserve the unity of the Spirit by all means.
 敵は、教理の違いによって私たちの交わりを壊そうと、地獄を動かしている。しかし私たちは、なんとしても御霊による一致を守らなければならない。
 Some things can be adjusted later. They are much less important. God will never give this work into the hands of men. If it ever gets under man's control it is done.
-あとで整えればよいこともある。そういうことは、ずっと重要でない。神は、この働きを決して人の手にお渡しにならないだろう。もし人の支配の下に入ったら、それで終わりである。
+あとで整えればよいこともある。そういうことは、はるかに小さな問題である。神は、この働きを決して人の手にお渡しにならないだろう。もし人の支配の下に入ったら、それで終わりである。
 Many would join themselves to us if they did not need to 'lose their heads,' get small."
 もし『頭を失って』小さくならなくてもよいのなら、私たちに加わる人は多いだろう」。
 
@@ -155,7 +155,7 @@ A Heaven of conscious bliss accompanied it. It is impossible to describe the exp
 There was no effort made to speak on my part, and not the least possible struggle. The experience was most sacred, the Holy Spirit playing on my vocal cords, as on an Aeolian harp.
 私の側には、語ろうとする努力は何もなく、もがくことも少しもなかった。その経験は、このうえなく神聖だった。聖霊が、風が奏でるエオリアン・ハープのように、私の声帯を奏でておられたのだ。
 The whole utterance was a complete surprise to me. I had never really been solicitous to speak in "tongues." Because I could not understand it with my natural mind I had rather feared it.
-その語り出しは、私にとってまったくの驚きだった。私は、「異言」で語りたいと本気で願ったことは一度もなかった。生まれつきの思いで理解できなかったので、むしろそれを恐れていたのだ。
+語ったことのすべてが、私にとってまったくの驚きだった。私は、「異言」で語りたいと本気で願ったことは一度もなかった。生まれつきの思いで理解できなかったので、むしろそれを恐れていたのだ。
 
 I had no desire at the time to even know what I was saying. It seemed a soul expression purely, outside the realm of the natural mind or understanding.
 そのとき私は、自分が何を言っているのかを知りたいとさえ思わなかった。それは、生まれつきの思いや理解の領域の外にある、純粋な魂の表現のようだった。
@@ -173,15 +173,15 @@ The presence of the Spirit within had been as sensitive to me as the water in th
 My mind, the last fortress of man to yield, was taken possession of by the Spirit. The waters, that had been gradually accumulating, went over my head. I was possessed of Him fully.
 人間が明け渡す最後のとりでである私の思いが、御霊に占領された。少しずつたまってきていた水が、私の頭の上を越えた。私はすっかり御霊のものとなった。
 The utterance in "tongues" was without human mixture, "as the Spirit gave utterance." - (Act 2:4). Oh, the thrill of being fully yielded to Him!
-「異言」での語りには、人間のものが混じっていなかった。「御霊が語らせるままに」語ったのだ（使徒二・四）。ああ、すっかり御霊に明け渡すことの、なんという喜びか。
+「異言」での語りには、人間のものが混じっていなかった。『御霊が語らせるままに』語ったのだ（使徒二・四）。ああ、すっかり御霊に明け渡すことの、なんという喜びか。
 My mind had always been very active. Its natural workings had caused me most of my trouble in my Christian experience. "Casting down reasonings" (marginal reading, 2 Cor. 10:5).
 私の思いは、いつもひどく活発だった。クリスチャンとしての経験の中で、私の悩みのほとんどは、その生まれつきの働きから来ていた。『理屈を打ちこわし』（第二コリント一〇・五、欄外の読み）。
 Nothing hinders faith and the operation of the Spirit so much as the self-assertiveness of the human spirit, the wisdom, strength and self-sufficiency of the human mind.
-人間の霊の自己主張ほど、すなわち人間の思いの知恵と力と自己満足ほど、信仰と御霊の働きを妨げるものはない。
+人間の霊の自己主張ほど、すなわち人間の思いの知恵と力と、自分で事足りるとする心ほど、信仰と御霊の働きを妨げるものはない。
 This must all be crucified, and here is where the fight comes in.
 これはすべて十字架につけられなければならない。そして、ここに戦いがあるのだ。
 We must become utterly undone, insufficient and helpless in our own consciousness, thoroughly humbled, before we can receive this possession of the Holy Spirit.
-聖霊に占領されることを受けるには、その前に、私たちはまったく打ちのめされなければならない。自分は不十分で無力だと自覚し、すっかり低くされなければならない。
+聖霊に占領していただくには、その前に、私たちはまったく打ちのめされなければならない。自分は不十分で無力だと自覚し、すっかり低くされなければならない。
 We want the Holy Ghost, but the fact is He is wanting possession of us,
 私たちは聖霊を求める。しかし実際には、聖霊のほうが、私たちを自分のものにすることを求めておられるのだ。
 
@@ -190,7 +190,7 @@ In the experience of "speaking in tongues" I had reached the climax in abandonme
 From that time the Spirit began to flow through me in a new way.
 そのときから、御霊は新しいしかたで、私を通して流れはじめた。
 Messages would come, with anointings, in a way I had never known before, with a spontaneous inspiration and illumination that was truly wonderful. This was attended with convincing power.
-メッセージが、油注ぎとともに、それまで知らなかったしかたで来るようになった。それには、おのずから湧き上がる、まことにすばらしい霊感と照らしがあった。そして、人を承服させる力が伴っていた。
+メッセージが、油注ぎとともに、それまで知らなかったしかたで来るようになった。それには、おのずから湧き上がる、まことにすばらしい霊感と照らしがあった。そして、罪を認めさせる力が伴っていた。
 The Pentecostal baptism spells complete abandonment, possession by the Holy Ghost, of the whole man, with a spirit of instant obedience.
 ペンテコステのバプテスマとは、まったくの明け渡しであり、人全体が聖霊に占領されることであり、ただちに従う霊を伴うものである。
 I had known much of the power of God for service for many years before this, but I now realized a sensitiveness to the Spirit, a yieldedness,
@@ -210,7 +210,7 @@ I saw that the little bit of desire I possessed for His service was only the lit
 His word declares it. All there was of good in me, in thought or action, had come from Him.
 神のみことばも、それをはっきり述べている。思いにも行いにも、私のうちにあった善いものはすべて、神から来ていたのだ。
 Like Hudson Taylor I now felt that He was asking me simply to go with Him to help in that which He alone had purposed and desired. I felt very small at this revelation, and my past misunderstanding.
-ハドソン・テーラーのように、私は今、神がただご自分と一緒に行くようにと私に求めておられると感じた。神おひとりが定め、願われたことを手伝うためである。この啓示と、それまでの自分の思い違いを前にして、私はとても小さく感じた。
+ハドソン・テーラーのように、私は今、神がただご自分と一緒に行くようにと私に求めておられると感じた。神おひとりが定め、願われたことを手伝うためである。この啓示と、それまでの自分の思い違いを前にして、自分がとても小さく思えた。
 He had existed, and been working out His eternal purpose, long before I had ever been thought of, and would be long after I would be gone.
 私のことなどだれも思いもしなかったはるか昔から、神はおられ、永遠のご目的をなしとげてこられた。そして私がいなくなったはるか後も、そうであり続けられるのだ。
 
@@ -218,6 +218,7 @@ There was no strain or contortions. No struggle in an effort to get the "baptism
 力んだり、身をよじったりすることはなかった。「バプテスマ」を得ようとしてもがくこともなかった。私の場合、それはただ明け渡すことだった。実際、それはもがくことの正反対だった。
 There was no swelling of the throat, no "operation" to be performed on my vocal organs. I had not the slightest difficulty in speaking in 'tongues." And yet I can understand how some may have such difficulties. They are not fully yielded to God.
 のどがはれることも、発声器官に「手術」を施すようなこともなかった。「異言」で語るのに、私は少しも苦労しなかった。それでも、そういう苦労をする人がいるわけは理解できる。その人たちは、すっかり神に明け渡していないのだ。
+// 英文の 'tongues." は、開く引用符が ' で閉じる引用符と揃っていない。
 With me the battle had been long drawn out. I had already worn myself out, fully yielded. God deals with no two individuals alike.
 私の場合、戦いは長く続いていた。私はすでに力尽き、すっかり明け渡していた。神は、二人の人を同じように取り扱われることはない。
 I was not really seeking the "baptism" when I got it. And in fact I never sought it as a definite experience. I wanted to be yielded fully to God.
@@ -249,7 +250,7 @@ The Spirit began to operate within me in a new and mightier way. It was a distin
 The preparation was world-wide, among the saints of God.
 その備えは、神の聖徒たちのあいだで、世界じゅうに及んでいた。
 The results have already made history, in fact this has proven an epoch in the history of the church just as distinct and definite as the Spirit's action in the time of Luther and Wesley, and with far greater portend.
-その結果は、すでに歴史となっている。実際これは、ルターやウェスレーの時代の御霊の働きと同じくらい、はっきりした教会史の一時代となった。しかも、はるかに大きな意味を予告するものだった。
+その結果は、すでに歴史となっている。実際これは、ルターやウェスレーの時代の御霊の働きと同じくらい、はっきりした教会史の一時代となった。しかも、はるかに大きなことを予示している。
 And it is not yet all history. We are too close to it yet to understand or appreciate it fully.
 そして、それはまだすべてが歴史になったわけではない。私たちはまだそれに近すぎて、十分に理解することも、評価することもできない。
 But we have made another step back on the way to the restoration of the church as in the beginning. We are completing the circle.
@@ -259,9 +260,9 @@ Jesus will return for a perfect church, "without spot or wrinkle." He is coming 
 "That they all may be one, that the world may believe." This after all is the greatest "sign" to the world.
 『みんなの者が一つとなるためであります。それによって、世が信じるようになるためであります』。結局、これこそが、世に対するもっとも大きな「しるし」なのだ。
 "Though we speak with the tongues of men and of angels, and have not love, etc." - I Cor. 13.
-『たといわたしが、人々の言葉や御使たちの言葉を語っても、もし愛がなければ』（以下略、第一コリント一三章）。
+『たといわたしが、人々の言葉や御使たちの言葉を語っても、もし愛がなければ（以下略）』（第一コリント一三章）。
 I felt after the experience of speaking in "tongues" that languages would come easy to me. And so it has proven. And also I have learned to sing, in the Spirit. I never was a singer, and do not know music.
-「異言」で語る経験のあと、私は、外国語がたやすく身につくだろうと感じた。はたしてそのとおりになった。また私は、御霊によって歌うことも覚えた。私は歌い手であったことはなく、音楽も知らないのだが。
+「異言」で語る経験のあと、私は、外国語がたやすく身につくだろうと感じた。はたしてそのとおりになった。また私は、御霊によって歌うことも覚えた。私は歌い手であったことはなく、音楽の心得もないのだが。
 
 I never sought "tongues." My natural mind resisted the idea. This phenomena necessarily violates human reason. It means abandonment of this faculty for the time. And this is generally the last point to yield.
 私は「異言」を求めたことは一度もなかった。私の生まれつきの思いは、その考えに逆らった。この現象は、どうしても人間の理性に反する。それは、そのあいだ、理性の働きを手放すことを意味する。そして、たいていこれが、最後に明け渡す点なのだ。
@@ -272,7 +273,7 @@ We need not expect anyone who has not reached this depth of abandonment in their
 The natural reason must be yielded in the matter. There is a gulf to cross, between reason and revelation.
 このことでは、生まれつきの理性を明け渡さなければならない。理性と啓示とのあいだには、渡らなければならない深い淵がある。
 But this principle in experience is just that which leads to the "Pentecostal" baptism, as in Acts 2:4. It is the underlying principle of the "baptism."
-しかし経験において、この原理こそが、使徒行伝二章四節にあるような「ペンテコステの」バプテスマに導くのである。それは「バプテスマ」の根底にある原理なのだ。
+しかし経験において、この原理こそが、使徒行伝にあるような「ペンテコステの」バプテスマに導くのである（使徒二・四）。それは「バプテスマ」の根底にある原理なのだ。
 And this is why the simple people get in first, though perhaps not always so well balanced or capable otherwise.
 そしてこれが、素朴な人々が真っ先に入るわけである。もっとも彼らは、ほかの点では、必ずしも釣り合いがとれていたり、有能であったりするわけではないかもしれないが。
 They are like the little boys going swimming, to use a homely illustration. They get in first because they have the least clothes to divest themselves of.
@@ -297,7 +298,7 @@ There is nothing left but God, the pure Spirit. Every hope or sense of capabilit
 The "wind" on the day of "Pentecost" was the breath of God. - Acts 2:2. But what more can we say? It must be experienced to be understood. It cannot be explained.
 「ペンテコステ」の日の「風」は、神の息だった（使徒二・二）。しかし、これ以上何が言えようか。それは経験してみなければわからない。説明できるものではないのだ。
 We have certainly had a measure of the Spirit before without this. To this fact all history testifies. The church has been abnormal since its fall.
-確かに私たちは、これがなくても、これまでいくらかの御霊を受けてきた。このことは、すべての歴史があかししている。教会は、堕落して以来、正常でなくなっていたのだ。
+確かに私たちは、これがなくても、これまでいくらかの御霊を受けてきた。このことは、すべての歴史があかししている。教会は、堕落して以来ずっと、正常でない状態にあるのだ。
 But we cannot have the "Pentecostal" baptism without it, as the early church had it. The Apostles received it suddenly, and in full.
 しかし、これがなければ、初代教会が受けたような「ペンテコステの」バプテスマを受けることはできない。使徒たちは、それを突然、そして完全に受けた。
 Only simple faith and abandonment can receive it. Human reason can find all kinds of flaws and apparent foolishness in it.
@@ -327,7 +328,7 @@ We will quote from well known authors some interesting extracts on the subject o
 Dr. Philip Schaff, in his "History of the Christian Church," Vol. I, page 116, says:
 フィリップ・シャフ博士は、『キリスト教会史』第一巻116ページで、こう言っている。
 "The speaking with tongues is an involuntary psalm - like prayer or song, uttered from a spiritual trance, and in a peculiar language inspired by the Holy Ghost. The soul is almost entirely passive, an instrument on which the Holy Ghost plays His heavenly melodies."
-「異言で語ることとは、霊的な忘我の中から、聖霊の霊感による特別な言葉で発せられる、意志によらない詩篇のような祈りや歌である。魂は、ほとんどまったく受け身であって、聖霊がその天の調べを奏でる楽器なのである」。
+「異言で語ることとは、意志によらない、詩篇のような祈りや歌である。それは霊的な忘我の中から、聖霊の霊感による特別な言葉で発せられる。魂は、ほとんどまったく受け身であって、聖霊がその天の調べを奏でられる楽器なのである」。
 
 Conybeare and Howson, commentators, write: "This gift (speaking in tongues) was the result of a sudden influx of the supernatural to the believer.
 注解者のコニベアとハウソンは、こう書いている。「この賜物（異言を語ること）は、超自然のものが突然、信者に流れ込んだ結果であった。
@@ -336,12 +337,12 @@ Under its influence the exercise of the understanding was suspended, while the s
 In this ecstatic trance the believer was constrained by irresistible power to pour forth his feelings of thanksgiving and rapture in words not his own. He was usually even ignorant of their meaning."
 この恍惚とした忘我の中で、信者は、あらがえない力に迫られて、感謝と喜びの思いを、自分のものではない言葉で注ぎ出した。たいていは、その意味さえ知らなかった」。
 Space forbids our quoting from other standard commentators on this subject. Many have written very illuminatingly on the same subject, and to the same general end as those we have quoted. We will quote from just one more writer.
-紙面の都合で、この問題についてのほかの定評ある注解者から引くことはできない。多くの人が同じ問題について、ここに引いた人々とおおむね同じ趣旨で、たいへん啓発的なことを書いている。もう一人だけ、書き手から引こう。
+紙面の都合で、この問題についてのほかの定評ある注解者から引くことはできない。多くの人が同じ問題について、ここに引いた人々とおおむね同じ趣旨で、たいへん啓発的なことを書いている。書き手をもう一人だけ引こう。
 
 Stalker, in his "Life of Paul," page 102, has the following to say:
 ストーカーは、『パウロの生涯』102ページで、次のように言っている。
 "It (the speaking in tongues) seems to have been a kind of tranced utterance, in which the speaker poured out an impassioned rhapsody, by which his religious faith received both expression and exaltation.
-「それ（異言を語ること）は、一種の忘我の中での発語であったようだ。語る者は、熱情のこもった狂詩を注ぎ出し、それによって、その人の信仰は言い表されるとともに、高められた。
+「それ（異言を語ること）は、一種の忘我の中での発語であったようだ。語る者は、熱情のこもった言葉をほとばしらせ、それによって、その人の信仰は言い表されるとともに、高められた。
 Some were not able to tell others the meaning of what they were saying, while others had this additional power; and there were those who, though not speaking in tongues themselves, were able to interpret what the inspired speakers were saying.
 自分が語っていることの意味をほかの人に伝えられない者もいれば、その力もあわせ持つ者もいた。また、自分では異言で語らないが、霊感を受けて語る者の言うことを解き明かすことのできる者もいた。
 In all cases there seems to have been a kind of immediate inspiration, so that what they did was not the effect of calculation or preparation, but of a strong present impulse.
