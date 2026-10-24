@@ -44,7 +44,7 @@
 + [x] Part III. Modern Warfare--"Over the Top" / The Red Cross
 + [x] Part III. The Two Houses
 + [x] Part III. Lost and Restored
-+ [ ] Part III. The Three Dispensations (1)
++ [x] Part III. The Three Dispensations (1)
 + [ ] Part III. The Three Dispensations (2)
 + [ ] Part III. You Need the Holy Spirit / Tarry Until
 + [ ] Part III. The Baptism of the Holy Spirit / Work of the Holy Spirit
