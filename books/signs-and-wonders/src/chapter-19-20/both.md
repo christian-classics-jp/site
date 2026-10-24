@@ -7,7 +7,7 @@ The next battle fought for King Jesus was in Louisville, Ky., August, 1888.
 Among the many from other States and cities who attended our meeting at Springfield, Illinois, were a number of prominent citizens from St. Louis, Missouri.
 イリノイ州スプリングフィールドでの私たちの集会には、ほかの州や町から多くの人が来ていた。その中に、ミズーリ州セントルイスの名士が何人かいた。
 Among these were Mr. R., a merchant of the Famous boot and shoe store, and his mother.
-% その中に、「フェイマス」という靴店の商人R氏とその母親がいた。
+その中に、「フェイマス」という靴店の商人R氏とその母親がいた。
 They insisted on us visiting St. Louis and stopping with them.
 ふたりは、ぜひセントルイスに来て自分たちの家に泊まってほしいと言い張った。
 We did so and remained there several days.
@@ -34,13 +34,13 @@ While there we realized that we were soldiers indeed, and, as Paul said to Timot
 そこにいるあいだに、私たちは自分たちがまことに兵士であることを知った。パウロがテモテに言ったように、「キリストのために苦しみを忍んで」いたのである。
 // 第二テモテ二・三 の言い換え。
 We did all our cooking on a stove with one small hole.
-料理はみな、小さな口が一つしかないこんろでした。
+料理はみな、小さな口が一つしかないこんろで作った。
 It stood outside the tent.
 こんろは天幕の外に置いてあった。
 We used a box for a table, benches for chairs, grass for a carpet, and made our beds on the soft side of the floor.
-箱を食卓に、長いすをいすに、草をじゅうたんにし、床の柔らかいほうの側に寝床を作った。
+箱を食卓に、長いすをいすに、草をじゅうたんにし、床の上にじかに寝床を作った。
 We were far from the city and no way to go back and forth, as the cars did not run that way, so that we were deprived of many comforts.
-町から遠く、電車もそちらへは通っていなかったので、行き来する手だてがなかった。それで、多くの便利なものなしに過ごした。
+町から遠く、路面電車もそちらへは通っていなかったので、行き来する手だてがなかった。それで、多くの便利なものなしに過ごした。
 We had money, and we could have put up at a good hotel; but we saved it to start the meeting, and spent several hundreds of dollars before we received any money.
 金はあったので、良いホテルに泊まることもできた。しかし集会を始めるためにその金を取っておき、少しでも金を受け取る前に、何百ドルも使った。
 We did this in many places.
@@ -51,7 +51,7 @@ I find that the earnest followers of Christ have very little rest here.
 Like our Master, we must be about our Father's business.
 私たちの主のように、私たちも父の仕事に励まなければならない。
 We could not get a grove in the city in which to hold religious meetings, though we could have gotten one for most any other purpose.
-町では、宗教の集会を開くための林を借りられなかった。ほかの目的なら、たいてい借りられたのにである。
+町では、宗教の集会を開くための林を借りられなかった。ほかの目的なら、たいてい借りられただろう。
 We succeeded in getting the Commons.
 私たちは、町の共有地を借りることができた。
 We pitched our tent in the hot sun.
@@ -73,7 +73,7 @@ It came up even with the floor.
 We were a sight for curiosity seekers, some saying we were Gypsies, but there were no children or horses around.
 私たちは物見高い人々の見せ物になった。ジプシーだと言う者もいたが、まわりには子供も馬もいなかった。
 Some said we were fortune-tellers, and others that we were artists.
-占い師だと言う者もいれば、芸人だと言う者もいた。
+占い師だと言う者もいれば、画家だと言う者もいた。
 But we were none of these, but a band of Pilgrims living in tents like our fathers, and seeking a city out of sight.
 しかし私たちはそのどれでもなかった。私たちは、先祖たちのように天幕に住み、目に見えない都を求める旅人の一団だったのである。
 
@@ -127,7 +127,7 @@ Oh I praised God for victory!
 Amidst all the noise of the different kinds of fire-works I was not bothered in the least.
 さまざまな花火の音の中でも、私は少しも妨げられなかった。
 God gave me voice and power to hold the people as still as if death was in our midst.
-神は私に声と力を与えて、死がそこにあるかのように人々を静まり返らせてくださった。
+神は私に声と力をお与えになり、死がそこにあるかのように人々を静まり返らせてくださった。
 Glory to God!
 神に栄光あれ。
 The devil is mighty, but God is Almighty.
@@ -166,17 +166,17 @@ I told them God made the whole human family of one blood.
 Christ had died for all.
 キリストはすべての人のために死なれた。
 Christ said, "Go preach my gospel to all nations, to every creature."
-キリストは「すべての国民に、すべての造られたものに、わたしの福音を宣べ伝えよ」と言われた。
+キリストは「行って、すべての国民に、すべての造られたものに、わたしの福音を宣べ伝えよ」と言われた。
 // マルコ一六・一五、マタイ二八・一九 の言い換え。
 Can we obey God and drive the hungry souls away?
 神に従いながら、飢え渇く魂を追い払うことができるだろうか、と。
 
 When Jesus sent me out to stand between the living and the dead, he said, "Go where God sends you, without respect to persons or places."
-イエスは、死んだ者と生きている者との間に立たせるために私を遣わされたとき、こう言われた。「神があなたを遣わす所へ行きなさい。人によっても所によっても、分け隔てをしてはならない」
+イエスは、生きている者と死んだ者との間に立たせるために私を遣わされたとき、こう言われた。「神があなたを遣わされる所へ行きなさい。人によっても所によっても、分け隔てをするな」
 I told those people who came to persuade me to not let the colored people attend, that I knew if we let them come with the feeling which existed, we would have a terrible battle, but we did not dare drive them away, for if we did the Holy Ghost would leave and God would hide his face from the work and it would be a failure.
-黒人を集会に来させないよう説き伏せに来た人々に、私は告げた。今のような感情がある中で黒人を来させれば、恐ろしい戦いになることはわかっている。しかし私たちには、黒人を追い払うことはとてもできない。そうすれば聖霊は去り、神はこの働きから御顔を隠され、働きはしくじるだろう、と。
+黒人を集会に来させないよう説き伏せに来た人々に、私は告げた。今のような感情がある中で黒人を来させれば、恐ろしい戦いになることはわかっている。しかし私たちには、黒人を追い払うことはとてもできない。そうすれば聖霊は去られ、神はこの働きから御顔を隠され、働きはしくじるだろう、と。
 Thank God, amidst all this trouble we shouted victory, knowing that God would overrule all for his glory and do the greatest work ever done in the State of Kentucky.
-神に感謝する。こうしたもめごとのただ中で、私たちは勝利を叫んだ。神がすべてを御栄えのために治め、ケンタッキー州でかつてなかった大いなるみわざをなしてくださると知っていたからである。
+神に感謝する。こうしたもめごとのただ中で、私たちは勝利を叫んだ。神がすべてを御栄えのために治められ、ケンタッキー州でかつてなかった大いなるみわざをなしてくださると知っていたからである。
 I thank God we had no desire to drive them away, but felt glad to have the privilege of leading them to Christ.
 私たちには黒人を追い払いたい気持ちはなかった。むしろ、その人々をキリストに導く特権を与えられたことを喜んだ。そのことを神に感謝する。
 
@@ -271,7 +271,7 @@ He was perfectly satisfied with his experience.
 Jesus was all in all to him.
 イエスが彼のすべてだった。
 He knew that his building of clay was crumbling, but that to be absent from the body was to be present with the Lord.
-彼は、自分の土の家がくずれかけていることを知っていた。しかし、肉体を離れることは主と共に住むことだということも知っていた。
+彼は、自分の土の家がくずれかけていることを知っていた。しかし、肉体から離れることは主と共に住むことだということも知っていた。
 He had a mansion in heaven.
 彼には天国にすまいがあった。
 "A house not made with hands, eternal in the heavens."
@@ -298,7 +298,7 @@ I thank God that the light of heaven ever shone in my soul."
 The remains were taken to the hall where we were holding the meetings.
 亡きがらは、私たちが集会を開いていた会館に運ばれた。
 I preached the funeral sermon from Eccl. xii. 3:
-私は、伝道の書一二章三節から葬儀の説教をした。
+私は、伝道の書の次の聖句から葬儀の説教をした。
 
 "In the day when the keeper of the house shall tremble and the strong men shall bow themselves."
 『その日になると、家を守る者は震え、力ある人はかがみ』（伝道の書一二・三）。
@@ -355,7 +355,7 @@ I gave a sketch of my experience from my birth to that time.
 People were weeping in all parts of the house.
 会館のいたる所で人々が泣いていた。
 I do not think there was one there who did not believe God had called me to the work, and that he was with me in mighty power working wonderfully in the midst of the people.
-神が私をこの働きに召され、大いなる力をもって私と共にいて、人々のただ中で驚くべきみわざをしておられる。そこにいた人で、そう信じなかった人はひとりもいなかったと思う。
+神が私をこの働きに召され、大いなる力をもって私と共におられ、人々のただ中で驚くべきみわざをなしておられる。そこにいた人で、そう信じなかった人はひとりもいなかったと思う。
 I did not intend to reply to Doctor B.'s arguments.
 私はB博士の議論に答えるつもりはなかった。
 I had said that I would meet anyone on the Bible.
@@ -401,7 +401,7 @@ I proved him to be wrong on every point.
 Glory to God for victory!
 勝利のゆえに神に栄光あれ。
 With all his boasted wisdom God chose a weak woman to confound and condemn, and show to the world that it was useless to fight against Him or the Holy Ghost power.
-彼がどれほど知恵を誇っても、神は弱い女を選んで、彼を説き破り、罪に定められた。そして、神にも聖霊の力にも逆らって戦うのは無駄だと、世に示された。
+彼がどれほど知恵を誇っても、神は弱い女をお選びになり、その女を用いて彼を説き破られ、罪に定められた。そして、神にも聖霊の力にも逆らって戦うのは無駄だと、世に示された。
 Not one minister stood by me, but all united in opposing and trying to crush me.
 私の味方をした牧師はひとりもいなかった。みなが一つになって私に反対し、私をつぶそうとした。
 Notwithstanding all this power of darkness that was arrayed against me, the interest increased daily.
@@ -428,7 +428,7 @@ CHAPTER XX
 
 We arrived at Louisville, Kentucky, January, 1899, after an absence of about two months.
 私たちは二か月ほど離れていた後、一八八九年一月にケンタッキー州ルイヴィルに着いた。
-// 英文の 1899 は原本の誤植。前後の年から一八八九年と読んだ。
+// 英文の 1899 は原本の誤植。前後の年から一八八九年と読んだ。それでも、第十九章でスプリングフィールドの集会を閉じた一八八九年二月とは合わない。
 We commenced meeting in Bolle's Hall, where the converts of the previous year were holding meetings, and had been ever since we left the city.
 私たちはボール会館で集会を始めた。前の年の回心者たちが、私たちが町を去ってからずっと、そこで集会を開いていたのである。
 We found them at their post.
@@ -437,7 +437,7 @@ I never saw a braver or more powerful band of workers for Christ, or more succes
 悪の町ルイヴィルにいるこの聖霊の兵士たちほど、勇敢で力あるキリストの働き手の一団を、私は見たことがない。魂を勝ち取り、キリストの御国を建て上げることにおいて、これほど成果をあげている一団も見たことがない。
 
 I did not leave a pastor or minister who had had years of practice to take charge of these young lambs and carry the work on, but put in charge of one that had been converted in the meetings.
-私は、この若い小羊たちを世話して働きを続けるために、何年も経験を積んだ牧師や伝道者を残したのではなかった。集会で回心したひとりに任せたのである。
+私は、この若い小羊たちを世話して働きを続けるために、何年も経験を積んだ牧師を残したのではなかった。集会で回心したひとりに任せたのである。
 
 We stayed two weeks and I organized a church.
 私たちは二週間とどまり、私は教会を組織した。
@@ -484,15 +484,15 @@ He had a great influence over the people there, and did all he could to lead the
 彼はその町の人々に大きな影響力を持っていて、その人々をキリストに導くためにできるかぎりのことをした。
 
 The P. M. minister and his members stood nobly by us all through the battle.
-% P・M教会の牧師とその会員たちは、戦いのあいだずっと、立派に私たちの味方をしてくれた。
-// P. M. が何の略かは確かめていない。
+プリミティブ・メソジスト教会の牧師とその会員たちは、戦いのあいだずっと、立派に私たちの味方をしてくれた。
+// P. M. は Primitive Methodist の略と読んだ。
 In doing so, his church was wonderfully built up and he won the respect and love of the sinners.
 そうすることで、その教会は驚くほど建て上げられ、牧師は罪人たちの尊敬と愛を得た。
 God poured out his richest blessing upon him; he won stars that will shine in his crown, while those who mocked and criticized will, unless they give their hearts to God, be lifting up their eyes in hell.
 神はこの牧師の上に、最も豊かな祝福を注がれた。彼は、自分の冠に輝く星を勝ち取った。一方、あざけり批判した人々は、心を神にささげないかぎり、地獄で目をあげることになるだろう。
 
 People wonder at me travelling from one place to another, suffering all kinds of hardships, deprived of many comforts of life, exposed to wet and cold, heat and storms.
-私は土地から土地へと旅をし、あらゆる苦難を忍んでいる。暮らしの多くの楽しみもなく、雨と寒さ、暑さと嵐にさらされている。人々はそれを見て不思議がる。
+私は土地から土地へと旅をし、あらゆる苦難を忍んでいる。暮らしの多くの便利なものもなく、雨と寒さ、暑さと嵐にさらされている。人々はそれを見て不思議がる。
 I make this sacrifice for the Lord.
 私は主のために、この犠牲を払っているのである。
 Christ is all in all to me.
@@ -522,7 +522,7 @@ To-day he stands as one of the highest in the church.
 今では、教会で最も高い地位にある者のひとりである。
 
 While holding our meetings in Louisville, Kentucky, my sister, Mrs. S., of Columbus, Ohio, visited us.
-ケンタッキー州ルイヴィルで集会を開いていたとき、オハイオ州コロンバスに住む私の姉妹のS夫人が訪ねて来た。
+ケンタッキー州ルイヴィルで集会を開いていたとき、オハイオ州コロンバスに住む私の実の姉妹のS夫人が訪ねて来た。
 This was the first time she had ever attended one of my meetings.
 彼女が私の集会に出たのは、これが初めてだった。
 She had been a church member for years, a teacher in the Sabbath-school, was trying to do all she could, but was not saved herself.
@@ -543,7 +543,7 @@ She erected a family altar and could pray with her unconverted husband.
 After resting we continued by holding a camp-meeting at Shawnee, Ohio.
 休んだ後、私たちはオハイオ州ショーニーで野営集会を開いて働きを続けた。
 The Lord was present in power to save souls and heal bodies.
-主は力をもってそこにおられ、魂を救い、からだをいやされた。
+主は力をもってそこにおられ、魂を救われ、からだをいやされた。
 I organized a Church of God with a large membership.
 私は多くの会員を擁する神の教会を組織した。
 
@@ -593,7 +593,7 @@ The fear of God came on the company, and for miles around they said, "We have ne
 They saw strange things, for God visited his people there.
 人々は驚くべきことを見た。神がそこでご自分の民を顧みてくださったからである。
 It is not by might, nor power, but by my Spirit, saith the Lord.
-これは権勢によらず、能力によらず、わたしの霊によるのである、と主は言われる。
+これは権勢によらず、能力によらず、わたしの霊によるのである、と主は仰せられる。
 
 It was three months previous to this time that we held the first meeting at Shawnee.
 私たちがショーニーで最初の集会を開いたのは、この三か月前のことだった。
