@@ -12,7 +12,7 @@ It was just a few days after my prayer at the open window of my bedroom that (my
 寝室の開いた窓辺で祈ってから、ほんの数日後のことである。父が学校まで迎えに来てくれ、私たちは家に帰る途中、大通りを馬車で走っていた。あちこちの教会や会館で、盛大なクリスマスの催しや音楽会が目前に迫っていた。私たちは、そこでの私の出番について、夢中で話し合い、計画を立てていた。店のショーウィンドーは、緑と赤と金銀のモールのクリスマスの装いで、なんときれいだったことか！
 
 But look! Over there on the left hand side of the street, there was a new sign on a window which I had not seen before, and it read:
-ところが、見ると！　通りの左側の向こうの窓に、それまで見たことのない新しい看板が出ていた。こう書いてあった。
+ところが、ほら！　通りの左側の向こうの窓に、それまで見たことのない新しい看板が出ていた。こう書いてあった。
 
 PENTECOSTAL MISSION MEETINGS EVERY NIGHT ALL DAY SUNDAY
 『ペンテコステ伝道所　集会　毎晩　日曜は終日』
@@ -45,10 +45,10 @@ The evangelist--Robert Semple, by name--be: gan his discourse with the first wor
 「悔い改めなさい」ああ、彼はその言葉をなんと繰り返したことか。悔い改めなさい！　悔い改めなさい！！　く、い、あ、ら、た、め、な、さ、い！！！　何度も何度も繰り返した。その恐ろしい言葉を言うのをやめてくれたらと、私はどんなに願ったことか。その言葉は、矢のように私の心を刺し通すように思えた。彼は神の霊感を受け、聖霊の力と証明とによって語っていたからである。彼は本当に、イエスと聖霊がおられると信じているように語った。それは、ぼんやりした、神話のような、つかみどころのない影ではなかった。はるか向こうの雲の中にある何かでもなかった。本物の、生きた、力ある、手でふれられる、動いている現実だった。私たちの心と生活のうちに住み、私たちを主の宮とし、主の御前で信心と聖さと礼拝のうちに歩ませてくださるかたであった。
 
 There were no announcements of oyster suppers or Christmas entertainments or sewing circles made--no appeal for money. Not even a collection was taken. It was just God, God, God from one, end to the other, and his words seemed to rain down upon me, and every one of them hurt some particular part of my spirit and life until I could not tell where I was hurt the worst.
-かきの夕食会やクリスマスの催しや裁縫の会の告知は、一つもなかった。献金の呼びかけもなかった。献金を集めることさえしなかった。初めから終わりまで、ただ神、神、神だった。彼の言葉は私の上に雨のように降り注ぐように思えた。その一つ一つが、私の心と生活のどこかを傷つけた。しまいには、どこがいちばん痛むのかわからなくなった。
+かきの夕食会やクリスマスの催しや裁縫の会の告知は、一つもなかった。献金の呼びかけもなかった。献金を集めることさえしなかった。初めから終わりまで、ただ神、神、神だった。彼の言葉は、雨のように私の上に降り注いでくるようだった。その一つ一つが、私の心と生活のどこかを傷つけた。しまいには、どこがいちばん痛むのかわからなくなった。
 
 "Repent!" The evangelist went on to say that if the love of the world was in us the love of the Father was not there: theatres, moving pictures, dancing, novels, fancy-dress skating rinks (why, it just looked as if somebody had told him I was there, so vividly did he picture my own life and walk), worldly and rag-time music, etc., he condemned wholesale, and declared that all the people who were wrapped up in this sort of thing were of the devil, and were on their way to hell, and that unless they repented and that right speedily, renouncing the world, the flesh and the devil, they would be lost--eternally damned forever.
-「悔い改めなさい！」伝道者は続けて言った。もし私たちのうちに世を愛する愛があるなら、そこに父の愛はない。そして、劇場、活動写真、ダンス、小説、仮装のスケート場（まったく、私がそこにいるとだれかが彼に告げたかのようだった。それほどありありと、彼は私自身の生活と歩みを描き出したのである）、世俗の音楽、ラグタイムの音楽などを、ひとまとめに断罪した。こういうものに夢中になっている人はみな悪魔に属しており、地獄への道を歩んでいる、と彼は言い切った。そして、今すぐに悔い改め、世と肉と悪魔を捨てないなら、その人たちは滅びる。永遠に、とこしえに罰を受ける、と言った。
+「悔い改めなさい！」伝道者は続けて言った。もし私たちが世を愛しているなら、私たちのうちに父の愛はない。そして、劇場、活動写真、ダンス、小説、仮装のスケート場、世俗の音楽、ラグタイムの音楽などを、ひとまとめに断罪した（まったく、私がそこにいるとだれかが彼に告げたかのようだった。それほどありありと、彼は私自身の生活と歩みを描き出したのである）。こういうものに夢中になっている人はみな悪魔に属しており、地獄への道を歩んでいる、と彼は言い切った。そして、今すぐに悔い改め、世と肉と悪魔を捨てないなら、その人たちは滅びる。永遠に、とこしえに罰を受ける、と言った。
 
 I did not do .any more laughing, I assure you. I sat up straight in my seat. With eyes and ears wide open I drank in every word he said. After he had finished with the word "Repent," and explained what true salvation meant--the death, burial and resurrection that we would know as we were identified with our Lord, he began to preach on the next verse--
 私がもう笑わなかったことは、請け合ってもいい。私は席で背筋を伸ばした。目と耳を大きく開いて、彼の言うことを一言残らず飲み込んだ。彼は「悔い改めなさい」という言葉を語り終えた。そして、本当の救いとは何かを説明した。それは、私たちが主と一つにされるときに知る、死と葬りと復活である。それから彼は、次の言葉について語り始めた。
@@ -57,10 +57,10 @@ I did not do .any more laughing, I assure you. I sat up straight in my seat. Wit
 『そうすれば、あなたがたは聖霊の賜物を受けるであろう。この約束は、われらの主なる神の召しにあずかるすべての者、すなわちあなたがたと、あなたがたの子らと、遠くの者一同とに、与えられているものである』
 
 Here he began to preach the baptism of the Holy Spirit, declaring that the message of salvation and the incoming of the Spirit should be preached side by side and hand in hand, and that for a Christian to live without the baptism of the Holy Spirit was to live in an abnormal condition not in accordance with God's wishes. He told how the Holy Spirit was received in Bible days and how the recipients of the Spirit had spoken in other tongues--languages they had never learned--as the Spirit gave them utterance.
-ここで彼は、聖霊のバプテスマについて語り始めた。救いのメッセージと御霊が内に来られることとは、並べて、手を携えて語られるべきだ、と彼は言い切った。また、クリスチャンが聖霊のバプテスマなしに生きるのは、神のみこころにかなわない、普通でない状態で生きることだ、と言った。彼は、聖書の時代に聖霊がどのように受けられたかを語った。御霊を受けた人々は、御霊が語らせるままに、ほかの国の言葉、つまり一度も習ったことのない言葉で語ったのである。
+ここで彼は、聖霊のバプテスマについて語り始めた。救いのメッセージと御霊が内に来られることとは、並べて、手を携えて語られるべきだ、と彼は言い切った。また、クリスチャンが聖霊のバプテスマなしに生きるのは、神のみこころにかなわない、普通でない状態で生きることだ、と言った。彼は、聖書の時代に聖霊がどのように受けられたかを語った。また、御霊を受けた人々が、御霊が語らせるままに、他国の言葉、つまり一度も習ったことのない言葉で語ったことも話した。
 
 He put particular emphasis on the "other tongues" spoken of in Acts 2:4, and boldly affirmed that this was the Bible evidence of the baptism of the Holy Spirit.
-彼は、使徒行伝二章四節の「他国の言葉」をとくに強調した。そして、これこそ聖霊のバプテスマの聖書的なしるしであると、大胆に言い切った。
+彼は、使徒行伝二章四節の『他国の言葉』、つまり異言をとくに強調した。そして、これこそ聖霊のバプテスマの聖書的なしるしであると、大胆に言い切った。
 
 "Tongues?" said I to myself--"Tongues?--why, I wonder what that is? I never remember having heard of anything like that in the Bible before."
 「異言ですって」と私は心の中で言った。「異言って、いったい何だろう。聖書でそんなことを聞いた覚えは一度もないけれど」
@@ -72,10 +72,10 @@ To me it was the voice of God thundering into my soul awful words of conviction 
 私にとって、それは神の声だった。罪を示し、罪に定める恐ろしい言葉が、雷のように私の魂にとどろいた。メッセージは異言で語られたのに、神が私にこう言われたように思えた。
 
 "YOU are a poor, lost, miserable, hell-deserving sinner!" I want to say right here that I knew this was God speaking by His Spirit through the lips of clay. There is a verse in the 14th chapter of I Corinthians which says the speaking in tongues is a sign to the unbeliever. This was certainly true in my case. From the moment I heard that young man speak with tongues to this day I have never doubted for the shadow of a second that there was a God, and that He had shown me my true condition as a poor, lost, miserable, hell-deserving sinner.
-「おまえこそ、哀れな、滅びた、みじめな、地獄にふさわしい罪人だ！」ここではっきり言っておきたい。私にはわかっていた。これは、神が御霊によって、土でできた人の唇を通して語っておられるのだ。コリント人への第一の手紙の十四章に、異言を語ることは信じない者へのしるしだ、という節がある。私の場合は、確かにそのとおりだった。あの若い人が異言で語るのを聞いた瞬間から今日まで、私は一瞬たりとも疑ったことがない。神はおられる。そして、哀れな、滅びた、みじめな、地獄にふさわしい罪人という私の本当の姿を、神は示してくださったのだ。
+「おまえこそ、哀れな、失われた、みじめな、地獄にふさわしい罪人だ！」ここではっきり言っておきたい。私にはわかっていた。これは、神が御霊によって、土でできた人の唇を通して語っておられるのだ。コリント人への第一の手紙の十四章に、異言を語ることは信じない者へのしるしだ、という節がある。私の場合は、確かにそのとおりだった。あの若い人が異言で語るのを聞いた瞬間から今日まで、私は一瞬たりとも疑ったことがない。神はおられる。そして、哀れな、失われた、みじめな、地獄にふさわしい罪人という私の本当の姿を、神は示してくださったのだ。
 
 No one had ever spoken to me like this before. I had been petted, loved and perhaps a little spoiled: told how smart and good I was. But thank God that He tells the truth. He does not varnish us nor pat us on the back or give us any little sugar-coated pills, but shows us just where we stand, vile and sinful and undone, outside of Jesus and His precious blood.
-それまで、こんなふうに私に言った人はだれもいなかった。私はかわいがられ、愛され、たぶん少し甘やかされていた。なんて賢くて良い子だろうと言われてきた。しかし、神が真実を語ってくださることを感謝する。神は私たちにうわべの塗りをほどこさず、背中をたたいて褒めることもなく、砂糖でくるんだ丸薬を与えることもない。そうではなく、私たちがどこに立っているかをそのまま示される。イエスとその尊い血の外にいる私たちは、汚れ、罪深く、滅びるほかない者なのである。
+それまで、こんなふうに私に言った人はだれもいなかった。私はかわいがられ、愛され、たぶん少し甘やかされていた。なんて賢くて良い子だろうと言われてきた。しかし、神が真実を語ってくださることを感謝する。神は、私たちのうわべを塗ってつくろうことも、背中をたたいて褒めることも、砂糖でくるんだ丸薬を与えることもなさらない。そうではなく、私たちがどこに立っているかをそのまま示される。イエスとその尊い血の外にいる私たちは、汚れ、罪深く、滅びるほかない者なのである。
 
 All my amusement and haughty pride had gone. My very soul had been stripped before God--there was a God, and I was not ready to meet Him. Oh, how could I have looked down upon these dear people and felt that I was better than they? Why, I was not even worthy to black their shoes. They were saints and I was a sinner.
 おもしろがる気持ちも、高慢なプライドも、すっかり消えていた。私の魂そのものが、神の前で裸にされていた。神はおられた。そして私は、神に会う備えができていなかった。ああ、どうして私は、この愛すべき人たちを見下し、自分のほうが上だなどと思えたのだろう。とんでもない、私はこの人たちの靴を磨く値打ちさえなかった。この人たちは聖徒で、私は罪人だった。
@@ -84,16 +84,16 @@ We had to slip out early, before the service was over, and how I got through the
 私たちは、集会が終わる前に、そっと早めに抜け出さなければならなかった。下稽古をどうやって終えたのかは、覚えていない。けれども、一つだけはっきりしている。それからの七十二時間、私はそれまでで最もみじめな三日間を過ごしたのである。
 
 Conviction! Oh! I could scarcely eat or rest or sleep. Study was out of the question. "Poor, lost, miserable, hell-deserving sinner" rang in my ears over and over .again. I could see those closed eyes and that outstretched hand that pointed to my shrinking, sinful soul that was bared before the eyes of my Maker.
-罪の自覚！　ああ！　私はほとんど食べることも、休むことも、眠ることもできなかった。勉強どころではなかった。「哀れな、滅びた、みじめな、地獄にふさわしい罪人」という言葉が、何度も何度も耳に鳴り響いた。あの閉じた目と、差し伸べられた手が見えた。その手は、すくみ上がった私の罪深い魂を指していた。その魂は、私の造り主の目の前で裸にされていた。
+罪の自覚！　ああ！　私はほとんど食べることも、休むことも、眠ることもできなかった。勉強どころではなかった。「哀れな、失われた、みじめな、地獄にふさわしい罪人」という言葉が、何度も何度も耳に鳴り響いた。あの閉じた目と、差し伸べられた手が見えた。その手は、すくみ上がった私の罪深い魂を指していた。その魂は、私の造り主の目の前で裸にされていた。
 
 I began enumerating the many things which I would have to give up in order to become a Christian--there was the dancing. I was willing to part with that,--the novels, the theatre, my worldly instrumental music. I asked myself about each of them and found that I did not count them dear as compared with the joy of salvation and knowing my sins forgiven.
 私は、クリスチャンになるために捨てなければならない多くのものを数え上げ始めた。まず、ダンスがあった。それは喜んで手放そう。それから、小説、劇場、世俗の器楽。一つ一つについて自分に問うてみた。すると、救いの喜びや、罪がゆるされたと知ることに比べれば、どれも惜しくないとわかった。
 
 There was just one thing, however, that I found myself unwilling and seemingly unable to do. I knew that I could not be a Christian and recite those foolish Irish recitations and go through those plays and dialogues. A child of God must be holy and consecrated, with a conversation covered with the blood of Jesus. My Bible said that even for one idle word (let alone foolish words), we should have to give an account before the judgment throne of God. Yet it was too late now to cancel my promises for Christmas, too late to get others to fill my place. Evidently there was nothing to do but wait until after Christmas in order to become a Christian.
-けれども、一つだけ、どうしてもしたくない、またできそうにないことがあった。クリスチャンになりながら、あのばかげたアイルランドなまりの朗読をし、あの劇や掛け合いを演じることはできない。それはわかっていた。神の子は聖く、ささげられた者でなければならない。その言葉は、イエスの血におおわれていなければならない。私の聖書には、無益な言葉一つについてさえ（ばかげた言葉はなおさらである）、神のさばきの座の前で言い開きをしなければならない、と書いてあった。けれども、クリスマスの約束を取り消すには、もう遅すぎた。代わりの人を見つけるにも、遅すぎた。どう見ても、クリスチャンになるのはクリスマスが過ぎるまで待つほかなかった。
+けれども、一つだけ、どうしてもしたくない、またできそうにないことがあった。クリスチャンになりながら、あのばかげたアイルランドなまりの朗読をし、あの劇や掛け合いを演じることはできない。それはわかっていた。神の子は聖く、ささげられた者でなければならない。その言葉は、イエスの血におおわれていなければならない。私の聖書には、こう書いてあった。無益な言葉一つについてさえ（ばかげた言葉はなおさらである）、神のさばきの座の前で言い開きをしなければならない。けれども、クリスマスの約束を取り消すには、もう遅すぎた。代わりの人を見つけるにも、遅すぎた。どう見ても、クリスチャンになるのはクリスマスが過ぎるまで待つほかなかった。
 
 But how could I wait? I was desperately afraid. I trembled with conviction. It seemed as though every moment which I lived outside of God and without repentance toward Him was lived in the most awful peril and gravest danger of being cast into hell without mercy. Oh, that every sinner who reads these words might feel the same awful conviction upon his soul!
-しかし、どうして待つことなどできただろう。私は必死なほどおびえていた。罪の自覚に震えていた。神の外で、神に向かって悔い改めないまま生きる一瞬一瞬が、最も恐ろしい危険の中にあるように思えた。あわれみもなく地獄に投げ込まれる、この上なく重大な危険である。ああ、この言葉を読むすべての罪人が、その魂に同じ恐ろしい罪の自覚を感じてくれたら！
+しかし、どうして待つことなどできただろう。私は恐ろしくてたまらなかった。罪の自覚に震えていた。神の外で、神に向かって悔い改めないまま生きる一瞬一瞬が、最も恐ろしい危険の中にあるように思えた。あわれみもなく地獄に投げ込まれる、この上なく重大な危険である。ああ、この言葉を読むすべての罪人が、その魂に同じ恐ろしい罪の自覚を感じてくれたら！
 
 The second and third day I fell to praying something like this:
 二日目と三日目、私はこんなふうに祈り始めた。
@@ -108,7 +108,7 @@ At the end of the third day, while driving home from school, I could stand it no
 三日目の終わり、学校から馬車で帰る途中、私はもう耐えられなくなった。頭上に垂れこめた空も、木々も、野も、足もとの道さえも、不機嫌に私を見下ろしているように思えた。そして、至る所にこう書いてあるのが見えた。
 
 "Poor, lost, miserable, hell-deserving sinner!"
-『哀れな、滅びた、みじめな、地獄にふさわしい罪人！』
+『哀れな、失われた、みじめな、地獄にふさわしい罪人！』
 
 Utterly at the end of myself--not stopping to think what preachers or entertainment committees or anyone else would think--I threw up my hands, and all alone in that country road, I screamed aloud toward the heavens:
 私はすっかり行き詰まっていた。牧師たちや催し物の委員会やほかのだれがどう思うかなど、考えもしなかった。私は両手を上げた。そして、その田舎道でただ一人、天に向かって大声で叫んだ。
@@ -143,10 +143,10 @@ My whole soul was flowing out toward God, my Father.
 「わ、た、し、の、お、と、う、さ、ま！」ああ、イエスに栄光あれ！　私には天の父がおられるのだ！　もう恐れる必要はない。父の愛といつくしみと守りが、今や私のためにあるのだ。
 
 When I came to the part in the song that said "Take my hands and let them move
-歌が次のところに来た。「私の手を受け取り、<br/>
+歌が次のところに来た。
 
 At the impulse of Thy love"
-あなたの愛に促されて動かしてください」<br/>
+「私の手を受け取り、<br/>あなたの愛に促されて動かしてください」<br/>
 
 I knew there would be no more worldly music for me, and it has been hymns from that time forth. And when I sang--
 そのとき私は、もう世俗の音楽とは縁がないとわかった。そのときから、私が歌うのは賛美歌だけになった。そして、こう歌ったとき、
@@ -189,13 +189,13 @@ Of all the promises in which I found comfort there was none, I believe, that com
 『求めよ、そうすれば、与えられるであろう。捜せ、そうすれば、見いだすであろう。門をたたけ、そうすれば、あけてもらえるであろう』
 
 "For everyone that asketh receiveth and he that seeketh findeth; and to him that knocketh it shall be opened." Here He assured me that if I asked bread He would not give me a stone, also that He was more willing to give me the Holy Spirit than earthly parents were to give good gifts to their children.
-『すべて求める者は得、捜す者は見いだし、門をたたく者はあけてもらえるからである』ここで主は、私に請け合ってくださった。私がパンを求めるなら、主は石を与えはしない。また、地上の親が子に良い贈り物をするよりも、主はもっと喜んで聖霊を与えてくださる、と。
+『すべて求める者は得、捜す者は見いだし、門をたたく者はあけてもらえるからである』ここで主は、私に請け合ってくださった。私がパンを求めるなら、主は石をお与えにならない。また、地上の親が子に良い贈り物をするよりも、主はもっと喜んで聖霊を与えてくださる、と。
 
 I would get about so far with my reading, and Oh, the Bible seemed to me all so new, so living and speaking, (and it was God speaking to me), that unable to wait another moment, I would excuse myself from the room, go down to the basement, fall upon my knees and begin to pray:
-いつも、それくらいまで読み進むと、ああ、聖書がまったく新しく、生きて語りかけてくるように思えた（実際、それは神が私に語っておられたのだ）。私はもう一刻も待てなくなった。教室を抜け出して地下へ下り、ひざまずいて祈り始めるのだった。
+いつも、それくらいまで読み進むと、ああ、聖書がまったく新しく、生きて語りかけてくるように思えた（実際、それは神が私に語っておられたのだ）。私はもう一刻も待てなくなった。断って教室を出ると、地下へ下り、ひざまずいて祈り始めるのだった。
 
 "Oh Lord, baptize me with the Holy Spirit. Lord, you said the promise was unto even as many as were afar off, even as many as the Lord our God should call. Now Lord, you've called me, the promise is unto me; fill me just now."
-「ああ、主よ、私に聖霊のバプテスマを授けてください。主よ、あなたは、約束は遠くの者一同に、主なる神の召しにあずかるすべての者に与えられている、とおっしゃいました。主よ、今あなたは私を召してくださいました。約束は私のためのものです。今すぐ私を満たしてください」
+「ああ、主よ、私に聖霊のバプテスマを授けてください。主よ、あなたは、約束は遠くの者一同に、われらの主なる神の召しにあずかるすべての者に与えられている、とおっしゃいました。主よ、今あなたは私を召してくださいました。約束は私のためのものです。今すぐ私を満たしてください」
 
 The girls found me thus praying and did not know what to make of me, so utterly was I changed. No more putting glue in teacher's chair or helping to lock him in the gymnasium, or practising dance steps in the corridors at noon hour. A wonderful change had taken place--all old things had passed away and all things had become new. I had been born again and was a new creature in Christ Jesus.
 女の子たちは、私がこうして祈っているのを見つけ、どう考えたらよいかわからなかった。それほど私はすっかり変わっていたのである。もう先生の椅子に糊を塗ることも、先生を体育館に閉じ込める手伝いをすることもない。昼休みに廊下でダンスのステップを練習することもない。驚くべき変化が起こっていた。古いものはみな過ぎ去り、すべてが新しくなったのである。私は新しく生まれ、キリスト・イエスにある新しく造られた者になっていた。
