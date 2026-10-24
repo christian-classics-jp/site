@@ -19,7 +19,7 @@
 + [x] Chapter I. Life's Dawn / Chapter II. Preparation for Service
 + [x] Chapter III. Progress in Preparation
 + [x] Chapter IV. In the Work / Chapter V. Surprises
-+ [ ] Chapter VI. Wood's Chapel, Ind. / Chapter VII. Visions / Chapter VIII. God's Power
++ [x] Chapter VI. Wood's Chapel, Ind. / Chapter VII. Visions / Chapter VIII. God's Power
 + [ ] Chapter IX. "By My Spirit, Saith the Lord"--Zech. IV, 6. / Chapter X. Wonderful Displays of Power
 + [ ] Chapter XI. Many Conversions and Trances
 + [ ] Chapter XII. "I Will Work and Who Shall Hinder?" / Chapter XIII. Camp Meetings and Thousands Attend
