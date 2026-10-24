@@ -3,7 +3,7 @@ CHAPTER III.
 CHILDHOOD DAYS.
 
 (A chapter written for the children--big folks and wise folks should not read, but pass on to Chapter IV.)
-（子供たちのために書いた章である。大人や賢い人たちは読まずに、第四章へ進んでほしい。）
+（子供たちのために書いた章である。大人や賢い人たちは読まずに、第四章へ進んでいただきたい。）
 
 // * * *
 ＊　＊　＊
@@ -23,7 +23,7 @@ Pity my simplicity,
 Suffer me to come to Thee.
 みもとに行かせてください。<br/>
 Fain I would to Thee be brought,
-あなたのもとに連れて行かれたいのです。<br/>
+あなたのもとへ連れて行ってほしいのです。<br/>
 Gracious Lord, forbid it not.
 恵み深い主よ、止めないでください。<br/>
 Find a little child a place."
@@ -119,7 +119,7 @@ Fortunately my Father had sawed his horns off sometime previous, but it was only
 I seemed perfectly numb; my mouth was filled with dirt and blood but tightly in my hands I clasped that bucket of chips.
 私はすっかりしびれたようになっていた。口の中は泥と血でいっぱいだった。それでも、木っ端の入ったバケツを両手でしっかり握っていた。
 Mamma had sent me after chips, and chips I was going to take to Mamma.
-ママは木っ端を取りに私をよこした。だから、木っ端をママのところへ持って帰るのだ。
+ママは私に、木っ端を取ってくるように言った。だから、木っ端をママのところへ持って帰るのだ。
 
 Mother heard the sound of my crying but thought I was singing. (This did not speak very well for my singing.)
 母は私の泣き声を聞いたが、歌っているのだと思った。（私の歌がたいしたものではなかったということである。）
@@ -142,7 +142,7 @@ One time when I was riding a high-mettled horse whom even the men-folks hardly r
 He was running toward a barbed-wire fence.
 馬は有刺鉄線の柵に向かって走っていた。
 I knew that if he reached this fence it would min the horse, one which my Father valued highly, and decided to cling to his long, flowing mane and spring as he sprang, alighting on my feet, believing that he would slow down immediately.
-この柵まで行けば、馬はだめになってしまう。父がとても大切にしている馬だった。そこで私は、長くなびくたてがみにしがみつき、馬が跳ぶのに合わせて跳んで、両足で降り立とうと決めた。そうすれば、馬はすぐに速度を落とすだろうと思ったのである。
+この柵まで行けば馬はだめになってしまうと、私にはわかっていた。父がとても大切にしている馬だった。そこで私は、長くなびくたてがみにしがみつき、馬が跳ぶのに合わせて跳んで、両足で降り立とうと決めた。そうすれば、馬はすぐに速度を落とすだろうと思ったのである。
 // 英文は `min the horse`。ruin the horse と読んだ。
 This I had done at other times, but now, unfortunately, I landed on an anthill, which turned my ankle and sprained it badly, severing some of the cords.
 前にも、そうしたことがあった。ところが今度は、運悪く蟻塚の上に降りてしまった。足首をひねってひどくくじき、筋を何本か切ってしまった。
@@ -150,9 +150,9 @@ But my life was spared, praise God, and in spite of crutches and pain I passed t
 しかし、神をほめたたえよ、いのちは助かった。そして、松葉杖をつき、痛みをこらえながらも、私はクラスで一番の成績で試験に合格した。中等学校の入学試験で最高の成績を取った者に贈られる奨学金でも、二番になった。
 
 During the early years of my life my Mother was Junior Sergeant-Major in the Salvation Army (in other words Superintendent of the Sunday School), and had a great flock of young people under her care.
-私の幼いころ、母は救世軍の少年部の曹長（つまり日曜学校の校長）で、大勢の若い人たちを受け持っていた。
+私の幼いころ、母は救世軍の少年部の曹長（つまり日曜学校の校長）で、大勢の少年少女を受け持っていた。
 It was often a great effort for her to go to the five-mile distant corps where her work lay.
-母の働き場所である小隊は五マイル離れていて、そこへ通うのはたいへんな苦労だった。
+母の働き場所である小隊は五マイル離れていて、そこへ通うのは、しばしばたいへんな苦労だった。
 When roads were poor or horse and carriage was not to be had, she would walk; and when roads were good, many's the time (when I was the age of five and six and seven), she carried me on the handle-bars of her bicycle, over hills and dust to the meeting, and kept up her Christian work.
 道が悪いときや、馬と馬車が使えないときは歩いた。道がよいときは、私を自転車のハンドルに乗せ、丘を越え、ほこりの中を集会へ向かった。そういうことが何度もあった（私が五歳、六歳、七歳のころである）。こうして母は、キリストのための働きを続けた。
 
@@ -174,16 +174,16 @@ Carrying chairs from other parts of the house thither and lining them up in rows
 「では、曹長が独唱をします」それから、母のやさしい歌の一つを、できるかぎり上手にまねて歌った。
 
 "Now, the Sergeant-Major will lead the testimony meeting"--"Read the Word," and finally all the chairs were solemnly requested to bow their heads while the Sergeant-Major closed in prayer.
-「では、曹長があかし会を導きます」「みことばを読みます」そして最後に、椅子たちはみな、おごそかに頭を垂れるように求められた。そのあいだに、曹長が祈って集会を閉じたのである。
+「では、曹長が証し会を導きます」「みことばを読みます」そして最後に、椅子たちはみな、おごそかに頭を垂れるように求められた。そのあいだに、曹長が祈って集会を閉じたのである。
 
 And so you see God had His hand upon me, and the desires of my heart, .and the aspirations of my mind in these early days.
-このように、そのころから神は、私の上に、私の心の願いと思いのあこがれの上に、御手を置いておられたのである。
+このように、そのころから神は、私の上に、私の心の願いと志の上に、御手を置いておられたのである。
 // 英文は `heart, .and`。heart, and と読んだ。
 It seemed indeed true that as a child of prayer He had in loving compassion known me, and in tender mercy called me for a purpose. Oh, Hallelujah!
-私は祈りによって生まれた子だった。その私を、神は愛とあわれみのうちに知り、優しいいつくしみによって、ある目的のために召してくださった。それは、まことに本当のことだと思えた。ああ、ハレルヤ！
+私は祈りによって生まれた子だった。その私を、神は愛といつくしみのうちに知り、優しいあわれみによって、ある目的のために召してくださった。それは、本当にそのとおりだと思えた。ああ、ハレルヤ！
 
 At the Young People's rallies it was customary for the children to wear white sashes with colored mottoes embroidered upon them, and whilst upon the other children's sashes would be such words as " Jesus Saves" or "God Is Love," etc., the one my Mother had worked for me read--"God's Little Child."
-少年少女の大会では、子供たちは、色の糸で標語を刺繍した白いたすきを掛けるのが習わしだった。ほかの子供たちのたすきには、『イエスは救う』『神は愛なり』などの言葉があった。けれども、母が私のために縫ってくれたたすきには、『神の小さな子』とあった。
+少年少女の大会では、子供たちは、色の糸で標語を刺繍した白いたすきを掛けるのが習わしだった。ほかの子供たちのたすきには、『イエスは救う』『神は愛である』などの言葉があった。けれども、母が私のために縫ってくれたたすきには、『神の小さな子』とあった。
 And so did she hold me, for the fulfillment of her prayer,--through tempest and trial, sorrow and discouragement, that she might claim the promise and bring up the child in the way it should go, that when it was old it should not depart from it.
 母は、自分の祈りがかなうことを求めて、そのように私を守り続けた。嵐と試練、悲しみと落胆を通り抜けて、そうしたのである。約束を自分のものとして受け取り、子をその行くべき道に従って育て、年老いてもそれを離れることがないようにするためだった。
 
