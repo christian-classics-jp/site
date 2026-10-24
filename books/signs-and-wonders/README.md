@@ -17,7 +17,7 @@
 
 + [x] Prefaces / An Appreciation
 + [x] Chapter I. Life's Dawn / Chapter II. Preparation for Service
-+ [ ] Chapter III. Progress in Preparation
++ [x] Chapter III. Progress in Preparation
 + [ ] Chapter IV. In the Work / Chapter V. Surprises
 + [ ] Chapter VI. Wood's Chapel, Ind. / Chapter VII. Visions / Chapter VIII. God's Power
 + [ ] Chapter IX. "By My Spirit, Saith the Lord"--Zech. IV, 6. / Chapter X. Wonderful Displays of Power
