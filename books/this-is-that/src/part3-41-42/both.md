@@ -25,17 +25,18 @@ ABOVE CIRCUMSTANCES.
 ## 境遇を超えて
 
 Rejoice IN THE LORD. You will no longer deal out your joy or praise in the stinted little measuring-cup of your own feelings or circumstances. The words, "I do not feel like it," will be eliminated from your vocabulary. You will no longer say: "I could rejoice if such and such a thing had not happened," or "I could have rejoiced had not 'so and so' said such and such a thing." "So and So," and "Such and Such" will have nothing more to do with your rejoicing, for your eyes have been lifted above circumstances and surroundings and been riveted upon the Lord. He will hold your eyes with adoration when He stands revealed in His power and beauty before you. When there is nothing else to rejoice in--you cannot rejoice in circumstances, nor in earthly gain, and there seems to be nothing in yourself or life to cause rejoicing, and when you see your efforts, strivings and plans crumbling about you, when you have seen the King and caught a vision of your own nothingness and insufficiency, and have abhorred yourself--if your eyes are fixed unwaveringly upon the Lord and His righteousness, holiness and mercy, you will still be able to lift your head and rejoice IN THE LORD.
-**主にあって**喜びなさい。あなたはもう、自分の気持ちや境遇という、けちな小さい計量カップで、喜びや賛美を量り分けることはしなくなる。「そんな気になれない」という言葉は、あなたの語彙から消えてしまう。「これこれのことさえ起こらなければ、喜べたのに」とか、「『だれそれ』がこれこれのことを言わなければ、喜べたのに」とは、もう言わなくなる。『だれそれ』も『これこれ』も、もうあなたの喜びとは何のかかわりもなくなる。あなたの目は、境遇や周りのものより上に上げられ、主にくぎづけになったからである。主が力と麗しさのうちに、あなたの前に現れて立たれる。そのとき主は、あがめる思いで、あなたの目をとらえて放されない。ほかに喜ぶものが何もないときがある。境遇も、地上の利得も喜べない。自分にも人生にも、喜ぶ理由が何もないように思える。自分の努力も、奮闘も、計画も、周りで崩れていく。王を見て、自分のむなしさと不十分さを悟り、自分を忌みきらった（イザヤ六・五、ヨブ四二・六）。そのようなときでも、目を揺るがずに主に注いでいるなら、主の義、きよさ、あわれみに注いでいるなら、あなたはなお頭を上げて、**主にあって**喜ぶことができるのである。
+**主にあって**喜びなさい。あなたはもう、自分の気持ちや境遇という、けちな小さい計量カップで、喜びや賛美を量り分けることはしなくなる。「そう感じない」という言葉は、あなたの語彙から消えてしまう。「これこれのことさえ起こらなければ、喜べたのに」とか、「『だれそれ』がこれこれのことを言わなければ、喜べたのに」とは、もう言わなくなる。「だれそれ」も「これこれ」も、もうあなたの喜びとは何のかかわりもなくなる。あなたの目は、境遇や周りのものより上に上げられ、主にくぎづけになったからである。主が力と麗しさのうちに、あなたの前に現れて立たれる。そのときあなたの目は主にとらえられ、あがめる思いで主から離れなくなる。ほかに喜ぶものが何もないときがある。境遇も、地上の利得も喜べない。自分にも人生にも、喜ぶ理由が何もないように思える。自分の努力も、奮闘も、計画も、周りで崩れていく。王を見て、自分のむなしさと不十分さを悟り、自分を忌みきらう（イザヤ六・五、ヨブ四二・六）。そのようなときでも、揺るがずに目を主に注いでいるなら、あなたはなお頭を上げて、**主にあって**喜ぶことができる。主の義、きよさ、あわれみに目を注いでいるなら、そうできるのである。
 
 Joy in the night, joy in the hard places, joy in misunderstandings, when you did your best and seemed to fail, such joy gives "beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness." Well did David know the security of this hiding place when he said: "In the shadow of Thy icings will 1 rejoice" From such a retreat one can look out through His feathers and laugh at the futile attempts . of the. enemy, and rejoice that his life is "hid with Christ in God."
-夜の中の喜び、困難な場所での喜び、誤解の中での喜び。最善を尽くしたのに失敗したように見えるときの喜び。そのような喜びは、『灰にかえて冠を与え、悲しみにかえて喜びの油を与え、憂いの心にかえて、さんびの衣を与え』るのである（イザヤ六一・三）。ダビデは、この隠れ場の安らかさをよく知っていた。だからこう言ったのである。『わたしはあなたの翼の陰で喜び歌う』（詩篇六三・七）。このような隠れ場からは、主の羽の間から外を眺めて、敵のむだな企てを笑うことができる。そして、自分のいのちが『キリストと共に神のうちに隠されている』ことを喜ぶことができる（コロサイ三・三）。
+夜の中の喜び、困難な場所での喜び、誤解の中での喜び。最善を尽くしたのに失敗したように見えるときの喜び。そのような喜びは、『灰にかえて冠を与え、悲しみにかえて喜びの油を与え、憂いの心にかえて、さんびの衣を与え』るのである（イザヤ六一・三）。ダビデは、この隠れ場の安らかさをよく知っていた。だからこう言ったのである。『わたしはあなたの翼の陰で喜び歌う』（詩篇六三・七）。このような隠れ場からは、主の羽のあいだから外を眺めて、敵のむだな企てを笑うことができる。そして、自分のいのちが『キリストと共に神のうちに隠されている』ことを喜ぶことができる（コロサイ三・三）。
 // 英文の icings、1 rejoice は OCR の崩れ（wings、I rejoice）。
 
 CHASTENING, HARD PLACES, AND OVERCOMERS.
 ## 懲らしめ、困難な場所、勝利を得る者
 
 Has the chastening rod fallen upon you? Then rejoice IN THE LORD, for he whom He loveth He doth rebuke and chasten. Have you been going through testings and hard places in your home life, and does it seem that no shoulders but they of the Master Himself e'er bore a cross so heavy as that which has been given you? Then rejoice in the Lord, for He has put you in a place wherein you may be more than conqueror, and win an overcomer's crown. If you had nothing to overcome, then how could you ever be an overcomer? Never hath He allowed a temptation but what He hath provided a way of escape. And have you failed in that home, in that appointed place, again and again until the tears of discouragement have filled your eyes and you have felt that it was of no avail? Have sharp words been spoken, of which you have instantly repented with bitter tears? Then arise, Oh captive daughter of Jerusalem, shake thy garments from the dust, lift up your head and your hands, and rejoice IN THE LORD who hath hidden you, "forgetting those things which are behind" to press on "toward the mark for the prize of the high calling of God in Christ Jesus."
-懲らしめのむちが、あなたの上に下ったか。それなら、**主にあって**喜びなさい。主は愛する者をしかり、懲らしめられるからである（ヘブル一二・六、黙示録三・一九）。家庭の生活の中で、試練と困難な場所を通って来たか。あなたに与えられたほど重い十字架を負った肩は、主ご自身の肩のほかにはないように思えるか。それなら、主にあって喜びなさい。主はあなたを、勝ち得て余りある者となれる場所に置いてくださったのである（ローマ八・三七）。勝利を得る者の冠を得られる場所である。打ち勝つものが何もなければ、どうして勝利を得る者になれるだろうか。主が試みをお許しになって、のがれる道を備えてくださらなかったことは、一度もない（第一コリント一〇・一三）。その家庭で、その定められた場所で、何度も何度も失敗したか。ついには落胆の涙が目にあふれ、何をしてもむだだと感じたか。鋭い言葉を口にして、すぐに苦い涙を流して悔いたことがあったか。それなら、起きなさい。捕われたエルサレムの娘よ、衣のちりを振り落としなさい（イザヤ五二・二）。頭と手を上げなさい。そして、あなたをかくまってくださった**主にあって**喜びなさい。『後のものを忘れ』て、『キリスト・イエスにおいて上に召して下さる神の賞与を得ようと』、『目標を目ざして』進みなさい（ピリピ三・一三〜一四）。
+懲らしめのむちが、あなたの上に下ったか。それなら、**主にあって**喜びなさい。主は愛する者をしかり、懲らしめられるからである（ヘブル一二・六、黙示録三・一九）。家庭の生活の中で、試練と困難な場所を通って来たか。あなたに与えられたほど重い十字架を負った肩は、主ご自身の肩のほかにはないように思えるか。それなら、主にあって喜びなさい。主はあなたを、勝ち得て余りある者となれる場所に置いてくださったのである（ローマ八・三七）。勝利を得る者の冠を得られる場所である。打ち勝つものが何もなければ、どうして勝利を得る者になれるだろうか。主が試みをお許しになって、のがれる道を備えてくださらなかったことは、一度もない（第一コリント一〇・一三）。その家庭で、その定められた場所で、何度も何度も失敗したか。ついには落胆の涙が目にあふれ、何をしてもむだだと感じたか。鋭い言葉を口にして、すぐに苦い涙を流して悔いたことがあったか。それなら、起きなさい。捕われたエルサレムの娘よ、衣のちりを振り落としなさい（イザヤ五二・二）。頭と手を上げなさい。そして、**主にあって**喜びなさい。主はあなたに、『後のものを忘れ』て進むように命じておられる。『キリスト・イエスにおいて上に召して下さる神の賞与を得ようと』、『目標を目ざして』進むように命じておられるのである（ピリピ三・一三〜一四）。
+// 英文の hidden は OCR の崩れ。原本は bidden。
 
 Put your hand in His, plead the blood, and He will undoubtedly bring you up again and again to that same testing place, that same peculiar set of circumstances, until you shall emerge a triumphant victor and just such a conqueror as He seeks to reign with Him on His throne.
 あなたの手を主の御手にゆだね、主の血によって祈りなさい。そうすれば、主はきっと、あなたを何度も何度も、同じ試練の場所、同じ特別な境遇へと連れ戻される。あなたが勝ち誇る勝利者となって、そこから出て来るまでである。主がご自分と共に御座で治めさせようと求めておられる、まさにそのような征服者となるまでである（黙示録三・二一）。
@@ -68,7 +69,7 @@ BOAST NOT OF THYSELF.
 ## 自分を誇ってはならない
 
 Has God been blessing your labors and the fruit of your vine? Has He permitted you to be a soul-winner for Him, and given great results and numbers from the sowing of the seed with which He has entrusted you? Then rejoice I-N T-H-E L-O-R-D, not in your own works (for man's works shall be burned up as by fire), not in your own strength (for without Him we can do nothing), not in your own power (for the Lord will not give His glory to another, and all flesh, even good flesh, is but as the grass of the field that withereth away), not in your own righteousness (for all our righteousnesses are as filthy rags), but rejoice in the Lord. He is the Alpha and Omega, the beginning and the end; in Him is all righteousness and power, honor and glory.
-神は、あなたの労苦と、あなたのぶどうの木の実を祝福してくださっているか。主はあなたを、ご自分のために魂を獲得する者としてくださったか。主から託された種をまいて、大きな成果と多くの人数とを与えてくださったか。それなら、主、に、あ、っ、て、喜びなさい。自分の働きを喜ぶのではない（人の働きは、火で焼かれるように焼け落ちるからである）。自分の強さを喜ぶのではない（主がおられなければ、私たちは何一つできないからである）。自分の力を喜ぶのでもない（主はご自分の栄光をほかの者にお与えにならないからである。また、人はみな、良い人でさえ、枯れていく野の草のようなものにすぎないからである）。自分の義を喜ぶのでもない（私たちの義は、ことごとく汚れた衣のようであるからである）。主にあって喜びなさい。主はアルパであり、オメガである。初めであり、終りである（黙示録二二・一三）。すべての義と力、ほまれと栄光は、主のうちにある。
+神は、あなたの労苦と、あなたのぶどうの木の実を祝福してくださっているか。主はあなたを、ご自分のために魂を勝ち取る者としてくださったか。主から託された種をまいて、大きな成果と多くの人数とを与えてくださったか。それなら、主、に、あ、っ、て、喜びなさい。自分の働きを喜ぶのではない（人の働きは、火で焼かれるように焼け落ちるからである）。自分の強さを喜ぶのではない（主がおられなければ、私たちは何一つできないからである）。自分の力を喜ぶのでもない（主はご自分の栄光をほかの者にお与えにならないからである。また、人はみな、良い人でさえ、枯れていく野の草のようなものにすぎないからである）。自分の義を喜ぶのでもない（私たちの義は、ことごとく汚れた衣のようだからである）。主にあって喜びなさい。主はアルパであり、オメガである。初めであり、終わりである（黙示録二二・一三）。すべての義と力、ほまれと栄光は、主のうちにある。
 
 Have you been used in your assembly in teaching, in admonition, in leading souls to Christ, in praying for the sick, in casting out of demons, in interpretation or prophecy, or discerning of spirits? Do men and women look up to you and speak well of you? Rejoice IN THE LORD. Take heed--rejoice in the Lord alone, be careful to give Him all the glory, as did Peter when he cried: "Why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk? Acts 3:12.
 あなたは、自分の集会で用いられてきたか。教えること、戒めること、魂をキリストに導くこと、病人のために祈ることに用いられてきたか。悪霊を追い出すこと、異言を解くことや預言、霊を見わけることに用いられてきたか。人々があなたを仰ぎ見て、あなたのことをよく言うか。**主にあって**喜びなさい。気をつけなさい。ただ主にあってだけ喜びなさい。すべての栄光を主に帰するように心がけなさい。ペテロがこう叫んだときのように、である。『わたしたちが自分の力や信心で、あの人を歩かせたかのように、なぜわたしたちを見つめているのか』（使徒三・一二）。
@@ -88,11 +89,11 @@ Are you seeking The Baptism of the Holy Spirit? Then rejoice in the Lord who hat
 聖霊のバプテスマを求めているか。それなら、主にあって喜びなさい。主はこう言われた。『すべて求める者は得、捜す者は見いだし、門をたたく者はあけてもらえる』（マタイ七・八）。また主は、地上の親が子供に良い贈り物をするよりも、もっと喜んで、求めて来る者に聖霊をくださるのである（ルカ一一・一三）。
 
 Yes, dear seeker, enter in through the gates of praise, rejoice in the Lord. Let your praise fill every corner of the room and echo out into the surrounding atmosphere until it rings in the high- "est heavens. Open your mouth wide and He will fill it. And when the Comforter has come, if you will let Him, He will teach you to rejoice in the Lord in a way of which you have never, dreamed.
-そうだ、求めている愛する人よ、賛美の門を通って入りなさい（詩篇一〇〇・四）。主にあって喜びなさい。あなたの賛美を部屋の隅々にまで満たし、周りの空気の中に響かせなさい。いと高き天に鳴り渡るまで響かせなさい。口を広くあけなさい。そうすれば、主が満たしてくださる（詩篇八一・一〇）。そして助け主が来られたなら、あなたがお任せしさえすればよい。助け主はあなたに、夢にも思わなかったような、主にある喜び方を教えてくださる。
+そうだ、求めている愛する人よ、賛美の門を通って入りなさい（詩篇一〇〇・四）。主にあって喜びなさい。あなたの賛美を部屋の隅々にまで満たし、周りの空気の中に響かせなさい。いと高き天に鳴り渡るまで響かせなさい。口を広くあけなさい。そうすれば、主が満たしてくださる（詩篇八一・一〇）。そして助け主が来られたなら、あなたが助け主にお任せしさえすれば、助け主は教えてくださる。夢にも思わなかったような、主にある喜び方を教えてくださるのである。
 // 英文の high- "est は OCR の崩れ（highest）。
 
 And this joy is the privilege of every child of God, the joy of the Lord. Enter into your joy, and into this kingdom which the Lord wants you to possess, where shadows and obscuring clouds are unknown, and the sun is never dimmed. Fix your eyes upon Jesus, dig deep in humility till you reach the fountain-head, the inexhaustible source of supply, then through the golden pipe of your life, every day, every hour, shall leap up a deep, ne'er-changing stream of joy, a joy that neither adversities nor trying circumstances can suppress or keep down, because it is a JOY IN THE LORD.
-そして、この喜び、主にある喜びは、神の子供だれにでも与えられている特権である。あなたの喜びに入りなさい。主があなたに所有させたいと願っておられる、この御国に入りなさい。そこでは、影もおおい隠す雲も知られていない。太陽は決してかげらない。目をイエスに注ぎなさい。へりくだりのうちに深く掘りなさい。泉に、尽きることのない供給の源に達するまで掘りなさい。そうすれば、あなたのいのちの金の管を通って、毎日、毎時間、深く、決して変わらない喜びの流れがわき上がる。それは、逆境も試練の多い境遇も抑えつけることのできない喜びである。それは**主にある喜び**だからである。
+そして、この喜び、主にある喜びは、神の子供だれにでも与えられている特権である。あなたの喜びに入りなさい。主があなたに所有させたいと願っておられる、この御国に入りなさい。そこでは、影も、おおい隠す雲もない。太陽は決してかげらない。目をイエスに注ぎなさい。へりくだりのうちに深く掘りなさい。泉に、尽きることのない供給の源に達するまで掘りなさい。そうすれば、あなたのいのちの金の管を通って、毎日、毎時間、深く、決して変わらない喜びの流れがわき上がる。それは、逆境も試練の多い境遇も抑えつけることのできない喜びである。それは**主にある喜び**だからである。
 
 # 主を賛美すること
 PRAISING THE LORD.
@@ -102,13 +103,13 @@ the Lord has ever been to me one the most inspiring and exalting of themes.
 // 英文のこの行は、飾り文字の頭文字で始まる語 PRAISING と、of が OCR で落ちている。原本は PRAISING the Lord has ever been to me one of the most inspiring and exalting of themes.
 
 Oh! how I love to praise Him and hear Him praised.
-ああ！　私は主を賛美するのが、また主が賛美されるのを聞くのが、なんと好きなことか。
+ああ！　私は主を賛美するのが、また主への賛美を聞くのが、なんと好きなことか。
 
 It has been my privilege, on several occasions, to witness, the never-to-be-forgotten scene of one thousand saints standing on their feet with uplifted hands, and tears streaming down their radiant faces, praising the Lord with all their might and soul and voice, with one accord, till the great volume of thunderous praises blended into a sound as of rushing mighty waters as it rolled majestically heavenward. It went up as one voice, of one people who were one in heart and adoration of the Most High God and His Glorious Son, Jesus Christ.
 私は何度か、忘れることのできない光景を目にする特権にあずかった。千人の聖徒たちが立ち上がり、手を上げ、輝く顔に涙を流しながら、力と魂と声のかぎりに、心を一つにして主を賛美していたのである。やがて、とどろく賛美の大きな響きは一つに溶け合って、大水の激しく流れるような音となり、おごそかに天へと上っていった。それは一つの声として立ちのぼった。心において一つであり、いと高き神とその栄光の御子イエス・キリストをあがめることにおいて一つである、一つの民の声である。
 
 It is when praising the Lord thus, as at no other time, my spirit catches the greatest revelation--- the greatest vision of the mighty, omnipotent King of the Ages, high and lifted up. 'Tis. then that the very atmosphere seems electric, charged with the mighty power of the great God, and I catch the sound of His chariot wheels leaping o'er the mountains, ever coming nearer as His 'saints continue to adore Him, till I hear the stately steppings of the King in the midst of His holy tabernacle--then, as the cloud of glorious adoration still rises from the hearts of the people, I see Him robed with Honor, crowned with Glory, seated upon a jewelled throne of adoration which His people have builded for Him by their praises.
-このように主を賛美しているときにこそ、ほかのどんなときにもまさって、私の霊は最も大いなる啓示をとらえる。全能の、代々の王が高く上げられておられる、その最も大いなる幻を見るのである（イザヤ六・一）。そのときには、空気そのものが電気を帯び、大いなる神の力に満ちているように思える。私は、主の戦車の車輪が山々を越えて跳んで来る音を聞く。聖徒たちが主をあがめ続けるにつれて、その音はますます近づいて来る。そしてついに、聖なる幕屋のただ中を歩まれる王の、おごそかな足音が聞こえる。それから、栄光に満ちた礼拝の雲が、なおも人々の心から立ちのぼるにつれて、私は主を見る。主はほまれを衣としてまとい、栄光の冠をかぶり、宝石をちりばめた礼拝の御座に着いておられる。それは、主の民が賛美によって主のために築いた御座である。
+このように主を賛美しているときにこそ、ほかのどんなときにもまさって、私の霊は最も大いなる啓示をとらえる。力ある全能の、代々の王が高く上げられておられる、その最も大いなる幻を見るのである（イザヤ六・一）。そのときには、空気そのものが電気を帯び、大いなる神の力に満ちているように思える。私は、主の戦車の車輪が山々を越えて跳んで来る音を聞く。聖徒たちが主をあがめ続けるにつれて、その音はますます近づいて来る。そしてついに、聖なる幕屋のただ中を歩まれる王の、おごそかな足音が聞こえる。それから、栄光に満ちた礼拝の雲が、なおも人々の心から立ちのぼるにつれて、私は主を見る。主はほまれを衣としてまとい、栄光の冠をかぶり、宝石をちりばめた礼拝の御座に着いておられる。それは、主の民が賛美によって主のために築いた御座である。
 
 The Lord inhabiteth the praises of His people.
 Where real praise is, there God is.
@@ -121,10 +122,10 @@ PRAISE THE LORD AT ALL TIMES.
 ## いつでも主を賛美しなさい
 
 "Oh! but you know that I could never put anything on, I never could praise the Lord unless I f-e-e-l like it," someone exclaims.
-「ああ、でも、私はうわべを取り繕うことなんて、どうしてもできません。そ、う、感、じ、な、け、れ、ば、主を賛美することなんて、とてもできないんです」と、だれかが叫ぶ。
+「ああ！　でも、私は見せかけを着込むことなんて、どうしてもできません。そう、か、ん、じ、な、け、れ、ば、主を賛美することなんて、とてもできないんです」と、だれかが叫ぶ。
 
 Unless you feel like it!! Oh! Is that the gauge by which you measure your offerings of praise? Is that the foundation upon which your Christian experience is based? My dear Brother, Sister, feelings are a poor and a very uncertain guide upon which to rely when it comes to praising the Lord, or any other Christian experience. Only one man in the Bible that I know of went by feeling; that was dear old Isaac, and you remember how he f-e-l-t the hands and arms of Jacob, his son, and how deceived he was. Oh, dear hearts, praise Him, NOT BECAUSE YOU HAPPEN TO FEEL LIKE IT, but praise Him at "all times," and let His praise "be continually in your mouth," BECAUSE HE IS WORTHY.
-そう感じなければ、ですって！！　ああ！　それが、あなたの賛美のささげ物を量る物差しなのか。それが、あなたのクリスチャンとしての経験の土台なのか。愛する兄弟、姉妹よ、感情は頼りにするには貧しく、とても不確かな案内役である。主を賛美することにおいても、ほかのどんなクリスチャンの経験においても、そうである。聖書の中で、私の知るかぎり、感情に頼って行動した人はただ一人しかいない。あの愛すべき老イサクである。覚えているだろう。イサクは息子ヤコブの手と腕にさわって、か、ん、じ、た。そして、どれほどだまされたことか（創世記二七・二一〜二三）。ああ、愛するみなさん、主を賛美しなさい。**たまたまそう感じるからではなく**、『常に』主を賛美しなさい。主への賛美が「絶えずあなたの口にある」ようにしなさい（詩篇三四・一）。**主はそれにふさわしい方だからである**。
+そう感じなければ、ですって！！　ああ！　それが、あなたの賛美のささげ物を量る物差しなのか。それが、あなたのクリスチャンとしての経験の土台なのか。愛する兄弟、姉妹よ、感情は頼りにするには貧しく、とても不確かな案内役である。主を賛美することにおいても、ほかのどんなクリスチャンの経験においても、そうである。聖書の中で、私の知るかぎり、感情に頼って行動した人はただ一人しかいない。あの愛すべき老イサクである。覚えているだろう。イサクは息子ヤコブの手と腕にさわって、か、ん、じ、た。そして、どれほどだまされたことか（創世記二七・二一〜二三）。ああ、愛するみなさん、主を賛美しなさい。**たまたまそう感じるからではなく**、「常に」主を賛美しなさい。主への賛美が「絶えずあなたの口にある」ようにしなさい（詩篇三四・一）。**主はそれにふさわしい方だからである**。
 
 Begin to praise Him whether you feel like it or not, and you soon will feel like it. Why, it is impossible for me to lift up my hands and begin to praise and adore my Master without a downpour of His blessing that is as rain to the thirsty fields and flowers, or as the anointing-oil upon my head, running down to the borders of my garments.
 そう感じても感じなくても、主を賛美し始めなさい。そうすれば、まもなくそう感じるようになる。実際、私が手を上げて、私の主を賛美し、あがめ始めると、必ず主の祝福が降り注ぐ。それは、渇いた畑や花に降る雨のようであり、また、私の頭に注がれて衣のすそまで流れくだる注ぎの油のようである（詩篇一三三・二）。
@@ -136,10 +137,10 @@ Begin to praise Him whether you feel like it or not, and you soon will feel like
 「でも、姉妹、私は心の中で主を賛美しています。大声で叫んだり、感情を表に出したりは、とてもできません。私の性分でも気質でもないのです」
 
 Beloved, when you have put on your beautiful garments of praise (for no matter how homely you may be to the natural eye, you are beautiful to the Lord when you have put on praise as a garment), you are lifted above your own "make-up" and "disposition" and swing far out into the realm of the Spirit. As for praising the Lord in your heart, why, your heart is no different from anyone else's. When it gets just so full of glorious praises and adoration and He becomes so real, so fair as to be altogether lovely, the chiefest of ten thousand to your soul, your heart will run over and you will shout His praises, and your voice will be blended with the voices of all the other redeemed ones and soar upward to the Lamb that sitteth upon the throne.
-愛する人よ、美しい賛美の衣を着たとき、あなたは自分の「性分」や「気質」より上に引き上げられる（生まれつきの目にはどんなに器量が悪くても、賛美を衣として着たとき、あなたは主の目に美しいのである）。そして、御霊の領域へ遠くまで飛び出していく。心の中で主を賛美することについて言えば、あなたの心はほかのだれの心とも違わない。心が栄光に満ちた賛美と礼拝でいっぱいになり、主があまりにも現実の方となるときが来る。主が『ことごとく麗しい』方（雅歌五・一六）、魂にとって『万人にぬきんでた』方（雅歌五・一〇）となるのである。そのとき、あなたの心はあふれ出す。そしてあなたは、主への賛美を叫ぶ。あなたの声は、あがなわれたほかのすべての人々の声と溶け合い、御座に座しておられる小羊のもとへ舞い上がっていく（黙示録五・一三）。
+愛するみなさん、美しい賛美の衣を着たとき、あなたは自分の「性分」や「気質」より上に引き上げられる（生まれつきの目にはどんなに器量が悪くても、賛美を衣として着たとき、あなたは主の目に美しいのである）。そして、御霊の領域へ遠くまで飛び出していく。心の中で主を賛美することについて言えば、あなたの心はほかのだれの心とも違わない。心が栄光に満ちた賛美と礼拝でいっぱいになり、主がありありと身近な方となるときが来る。主が『ことごとく麗しい』方（雅歌五・一六）、魂にとって『万人にぬきんで』た方（雅歌五・一〇）となるのである。そのとき、あなたの心はあふれ出す。そしてあなたは、主への賛美を叫ぶ。あなたの声は、あがなわれたほかのすべての人々の声と溶け合い、御座に座しておられる小羊のもとへ舞い上がっていく（黙示録五・一三）。
 
 I was much impressed recently, while in New York, by the notices posted on the subway and places, warning the people of the severe penalty elevated trains and in other prominent public awaiting anyone who should try in any way to break the morale of the soldiers by talking of possible defeat, or failure, or by lauding the strength of the enemy. This should be a warning to Christians also.
-最近ニューヨークにいたとき、私は、地下鉄や高架鉄道や、そのほかの人目につく公共の場所に貼られた掲示に、深い感銘を受けた。それは人々に警告していた。負けるかもしれない、失敗するかもしれないと話したり、敵の強さをほめそやしたりする者がいる。そうして何らかのかたちで兵士たちの士気をくじこうとする者には、重い罰が待っている、というのである。これはクリスチャンへの警告でもあるはずだ。
+最近ニューヨークにいたとき、私は、地下鉄や高架鉄道の電車や、そのほかの人目につく公共の場所に貼られた掲示に、深い感銘を受けた。それは人々に警告していた。負けるかもしれない、失敗するかもしれないと話したり、敵の強さをほめそやしたりする者がいる。そうして何らかのかたちで兵士たちの士気をくじこうとする者には、重い罰が待っている、というのである。これはクリスチャンへの警告でもあるはずだ。
 // 英文の語の並びの乱れ（subway and places ... penalty elevated trains ... public awaiting）は、原本の組版で行が入れ替わったもの。on the subway and elevated trains and in other prominent public places, warning the people of the severe penalty awaiting anyone と読んで訳した。
 
 DO NOT BREAK THE MORALE OF THE CHRISTIAN ARMY.
@@ -174,10 +175,10 @@ What was the difference in the two saints? The one recognized and saw only the p
 二人の聖徒の違いは何だったのか。一人は悪魔の力だけを認め、それだけを見た。そしてすぐに、ありさまの悲しさを嘆き始め、聞く人をみな落ち込ませた。もう一人は、イエスだけを見た。すべてを征服する、打ち負かされることのない力と輝きのうちに、確かな勝利へと進んで行かれるイエスを見たのである。
 
 MY VISION OF THE DEMONS AND THE ANGELS.
-## 悪霊と御使の幻
+## 私が見た悪霊と御使の幻
 
 The Lord taught me a wonderful lesson sometime ago, demonstrating the majesty and power of praise. I was seated on the rostrum in my tent during the evening meeting. Not only was every seat in the big tabernacle tilled and crowds standing in the aisles, but all about the outside of the tent hundreds and hundreds stood closely packed together. It was the early days of the meeting and conviction had not yet taken the place of curiosity. Therefore, as a great many of the onlookers were Roman Catholics, and the balance unused to any demonstration of the power of God, the very air was filled with unbelief, skepticism, scoffing and ridicule. The people would listen as long as we sang (or was it because that drowned their murmurings?) But as soon as anyone endeavored to speak, the whisperings and the murmurings would begin until another song was started.
-少し前、主は私にすばらしい教訓を教えてくださった。賛美の威光と力を、目の前で示してくださったのである。私は夜の集会のあいだ、天幕の演壇に座っていた。大きな幕屋の席はすべて埋まり、通路にも群衆が立っていた。それだけではない。天幕の外の周り一面に、何百何百という人々が、ぎっしりと詰めかけて立っていた。集会の初めのころで、まだ好奇心が罪の自覚に取って代わってはいなかった。見物人の非常に多くがローマ・カトリックの人々で、残りの人々も、神の力の現れにまったく慣れていなかった。そのため、空気そのものが、不信仰と懐疑とあざけりと嘲笑に満ちていた。人々は、私たちが歌っているあいだは聞いていた（それとも、歌が自分たちのつぶやきをかき消してくれたからだろうか）。けれども、だれかが話そうとするとたちまち、ささやきとつぶやきが始まり、次の歌が始まるまで続くのだった。
+少し前、主は私にすばらしい教訓を教えてくださった。賛美の威光と力を、目の前で示してくださったのである。私は夜の集会のあいだ、天幕の演壇に座っていた。大きな幕屋の席はすべて埋まり、通路にも群衆が立っていた。それだけではない。天幕の外の周り一面に、何百何百という人々が、ぎっしりと詰めかけて立っていた。集会の初めのころで、まだ罪の自覚が好奇心に取って代わってはいなかった。見物人の非常に多くがローマ・カトリックの人々で、残りの人々も、神の力の現れにまったく慣れていなかった。そのため、空気そのものが、不信仰と懐疑とあざけりと嘲笑に満ちていた。人々は、私たちが歌っているあいだは聞いていた（それとも、歌が自分たちのつぶやきをかき消してくれたからだろうか）。けれども、だれかが話そうとするとたちまち、ささやきとつぶやきが始まり、次の歌が始まるまで続くのだった。
 // 英文の tilled は OCR の崩れ（filled）。
 
 As I stood there on the platform, with my eyes closed, I saw the entire tent surrounded with great black demons, with huge, bat-like wings. Each demon seemed to stand about ten feel tall, and as they stood in a circle, completely surrounding the tent, they were so close together that their wings touched, tip to tip. They stood close to the border of the tent, and with my eyes still closed, my heart began to cry out:
@@ -185,12 +186,12 @@ As I stood there on the platform, with my eyes closed, I saw the entire tent sur
 // 英文の feel は OCR の崩れ（feet）。
 
 "Oh, Lord, what shall I do?" And He spoke to me in such a real way, ill that calm, undisturbed voice which those who love the Prince of Peace know so well:
-「ああ、主よ、私はどうしたらよいのでしょう」。すると主は、とても現実の仕方で私に語られた。平和の君を愛する人々がよく知っている、あの穏やかで、乱されることのない御声である。
+「ああ、主よ、私はどうしたらよいのでしょう」。すると主は、まことにありありと私に語られた。平和の君を愛する人々がよく知っている、あの穏やかで、乱されることのない御声である。
 // 英文の ill は OCR の崩れ（in）。
 
 "Just begin to praise Me. I will do the fighting.
 You do the praising." So I began to praise Him.
-「ただわたしを賛美し始めなさい。戦うのはわたしがする。あなたは賛美しなさい」。そこで私は主を賛美し始めた。
+「ただわたしを賛美し始めなさい。戦いはわたしがする。あなたは賛美しなさい」。そこで私は主を賛美し始めた。
 
 "Praise the Lord! The first time I said it I noticed the demons seemed to tremble.
 「主をほめたたえよ！」。一度目にそう言ったとき、悪霊たちが震えたように見えた。
@@ -207,6 +208,7 @@ You do the praising." So I began to praise Him.
 
 "Praise the Lord! P-R-A-I-S-E T-H-E L-O-R-D!" Each time I praised Him they took one step nearer, another step nearer, still another step nearer, till at last they stood at the very border of the tent, such tall, wonderful-looking angels, with their beautiful white wings spread so wide that the wings of each touched, tip to tip, the ones of th? next angel on the right and on the left. Father had sent one of His legions of angels to guard the tent.
 「主をほめたたえよ！　主、を、ほ、め、た、た、え、よ！」。賛美するたびに、御使たちは一歩近づき、また一歩近づき、さらにもう一歩近づいた。そしてついに、天幕のすぐ際に立った。なんと背が高く、すばらしい姿の御使たちだったことか。美しい白い翼を大きく広げていたので、どの御使の翼も、右と左の隣の御使の翼と、先と先が触れ合っていた。天の父が、ご自分の御使の一軍団を遣わして、天幕を守らせてくださったのである。
+// 英文の th? は OCR の崩れ（the）。
 
 Perhaps not another person in the tent saw the vision of this great shining band of angels, yet everyone inside and out must have sensed the presence of the divine, for not only did a great peace steal over my soul, but the whole audience was hushed. When I opened my eyes I could see only the people looking with rapt attention, but closing my eyes again I could see the angels just as plainly as I could see the people.
 天幕の中で、この大きな輝く御使の一団の幻を見たのは、ほかにだれもいなかったかもしれない。けれども、中にいた人も外にいた人も、みな神聖な臨在を感じ取ったに違いない。大きな平安が私の魂に忍び込んで来ただけでなく、会衆全体が静まり返ったからである。目を開けると、心を奪われて見つめている人々しか見えなかった。けれども、もう一度目を閉じると、人々を見るのと同じようにはっきりと、御使たちが見えた。
@@ -218,16 +220,16 @@ THE POWER OF PRAISE DRIVES BACK THE ENEMY AND BRINGS DOWN THE BLESSING.
 ## 賛美の力は敵を追い返し、祝福を引き降ろす
 
 Jesus says: "What things soever you desire when ye pray, believe that ye receive them, and ye shall have them." Now, if we ask God to give us a certain answer to prayer, and we then proceed to believe we have it, it is only polite to begin to thank Him for it, in other words, shoot upward through the prayer zone into the praise zone, and thank God beforehand that, according to His word, it is done.
-イエスはこう言われる。『なんでも祈り求めることは、すでにかなえられたと信じなさい。そうすれば、そのとおりになるであろう』（マルコ一一・二四）。そこで、もし私たちが神に、祈りへのある答えを与えてくださるよう願ったとしよう。それから、それを受けたと信じるとしよう。それなら、その答えについて主に感謝し始めるのは、ただの礼儀である。言いかえれば、祈りの領域を突き抜けて、賛美の領域へと舞い上がるのである。そして、神のみことばのとおりに、それはもう成ったと、前もって神に感謝するのである。
+イエスはこう言われる。『なんでも祈り求めることは、すでにかなえられたと信じなさい。そうすれば、そのとおりになるであろう』（マルコ一一・二四）。そこで、もし私たちが神に、祈りへのある答えを与えてくださるよう願ったとしよう。それから、それを受けたと信じるとしよう。それなら、その答えについて主に感謝し始めるのは、当然の礼儀である。言いかえれば、祈りの領域を突き抜けて、賛美の領域へと舞い上がるのである。そして、神のみことばのとおりに、それはもう成ったと、前もって神に感謝するのである。
 
 When contending with sickness, trouble, misunderstanding, discouragement or depression, begin to see Jesus. Praise Him with all your heart, and the upward flight of His praises will lift you as with the wings of a great eagle, above the woes of this earth till sorrow and sighing are lost sight of and consolation and joy unspeakable fill their place as you exalt and magnify the Lamb for sinners slain.
-病気、悩み、誤解、落胆、憂うつと戦うときは、イエスを見始めなさい。心を尽くして主を賛美しなさい。そうすれば、主への賛美は上へと飛びかけていく。それにつれて、大きなわしの翼に乗るように、あなたはこの地上の悲しみより上に引き上げられる（イザヤ四〇・三一）。罪人のためにほふられた小羊を、あなたがあがめ、ほめたたえるにつれて、悲しみと嘆きは見えなくなる（イザヤ三五・一〇）。そして、慰めと『言葉につくせない』喜びが、その場所を満たすのである（第一ペテロ一・八）。
+病気、悩み、誤解、落胆、憂うつと戦うときは、イエスを見始めなさい。心を尽くして主を賛美しなさい。そうすれば、主への賛美は上へと舞い上がっていく。それにつれて、大きなわしの翼に乗るように、あなたはこの地上の悲しみより上に引き上げられる（イザヤ四〇・三一）。罪人のためにほふられた小羊を、あなたがあがめ、ほめたたえるにつれて、悲しみと嘆きは見えなくなる（イザヤ三五・一〇）。そして、慰めと『言葉につくせない』喜びが、その場所を満たすのである（第一ペテロ一・八）。
 
 PRAISING HIM IN THE FLESH.
 ## 肉において主を賛美する
 
 "But I do not want to praise Him in the flesh," says someone. Ah, but we walk no more "after the flesh, 'but after the Spirit," and all this poor flesh of mine is fit for anyway is to praise Jesus, and if you never do anything worse in the flesh than to praise the Lord you will never be displeasing in His sight.
-「でも、私は肉において主を賛美したくはありません」と、だれかが言う。ああ、けれども、私たちはもう『肉によらず霊によって歩く』のである（ローマ八・四）。それに、私のこのあわれな肉が、ともかく何かの役に立つとすれば、それはイエスを賛美することだけである。肉において、主を賛美することより悪いことを何一つしないなら、あなたは決して、主の目に不快な者とはならない。
+「でも、私は肉において主を賛美したくはありません」と、だれかが言う。ああ、けれども、私たちはもう『肉によらず霊によって歩く』のである（ローマ八・四）。それに、私のこの哀れな肉が、ともかく何かの役に立つとすれば、それはイエスを賛美することだけである。肉において、主を賛美することより悪いことを何一つしないなら、あなたは決して、主の目に不快な者とはならない。
 // 英文の 'but の ' は OCR の崩れ。
 
 When the Comforter abides and has His way, it is so easy to praise Jesus, for "He, when He has come, will glorify Me" and "out of your innermost being shall flow rivers of living water"
