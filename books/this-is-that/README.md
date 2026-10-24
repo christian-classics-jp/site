@@ -63,7 +63,7 @@
 + [x] Part III. The Temple / Getting Down
 + [x] Part III. Covet Earnestly Spiritual Gifts
 + [x] Part III. The Valley of Dry Bones
-+ [ ] Part III. "Death in the Pot" (1)
++ [x] Part III. "Death in the Pot" (1)
 + [ ] Part III. "Death in the Pot" (2)
 + [ ] Part III. Rejoice in the Lord / Praising the Lord
 + [ ] Part III. The Four-Fold Message of the Hour
