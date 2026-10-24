@@ -117,9 +117,9 @@ Surely we have seen "the arm of the Lord revealed," and the Holy Fire came from 
 # 牧師W・K・ボウトンの証し
 TESTIMONY OF PASTOR W. K. BOUTON,
 FREE GOSPEL CHURCH, CORONA, N. Y.
-ニューヨーク州コロナ、自由福音教会
+ニューヨーク州コロナ、フリー・ゴスペル教会
 
-（ここにはコロナの教会の牧師W・K・ボウトンの証しが載っているが、書き手の没年が確かめられないため訳していない。）
+（ここにはコロナの教会のW・K・ボウトン牧師の証しが載っているが、書き手の没年が確かめられないため訳していない。）
 // ここからW・K・ボウトン牧師の証し。没年が確かめられないので訳さない。
 After preaching the Gospel for about twelve years with marked success, I began to realize there was something needful in my life, but did not know just what it was. I would often say to my people: "God is about to do some strange thing in our midst, but what it is I do not know." I felt a need, but thought I was in possession of all that God had for me, except that I must go on and "grow in grace and in the knowledge of the Lord daily, line upon line, precept upon precept, here a little and there a little." I never dreamed of the Baptism of the Holy Spirit. I thought those days were passed; in fact, I was taught by the teachers under whom I studied, that we need never look for supernatural things, those days were over and gone forever. Whenever I heard anything about the Baptism, or people speaking in other tongues, I would say it is an error and would warn my people to have nothing to do with it. We were having very good meetings, and scores of souls were saved. We hardly ever had a service at our church, especially on Sundays, but what God was wonderfully blessing and saving souls.
 

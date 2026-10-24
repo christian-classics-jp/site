@@ -1,10 +1,10 @@
 # キャンプ集会の思い出
 MEMORIES OF THE CAMP,
 BY ELDER GEORGE LLOYD.
-長老ジョージ・ロイド
+ジョージ・ロイド長老
 
-（ここにはフィラデルフィアのキャンプ集会についての長老ジョージ・ロイドの回想が載っているが、書き手の没年が確かめられないため訳していない。）
-// ここから長老ジョージ・ロイドの回想。没年が確かめられないので訳さない。
+（ここにはフィラデルフィアのキャンプ集会についてのジョージ・ロイド長老の回想が載っているが、書き手の没年が確かめられないため訳していない。）
+// ここからジョージ・ロイド長老の回想。没年が確かめられないので訳さない。
 Ever since the blessed Camp at Philadelphia the Spirit has prompted me to write and try and tell of some of the wonderful things witnessed there. And that is the most difficult part, to tell of the most wonderful things, for it was all wonderful, and our God was there in mighty power. It was not the great number of definite and glorious healings that we witnessed that appealed to the Spirit most urgently, for we know that our God is a mighty God, and we know that Jesus Christ is the same, yesterday, today and forever. Praise His glorious name! And we know that Jesus can and does heal, and that He loves to heal all that come to Him in true penitence and faith.
 
 And then there were the many soul-searching messages in tongues, with prompt and beautifully true interpretations, many, many of them. And then came the heavenly drama, with various and beautiful acts of the Holy Ghost, shown forth by the precious saints, for they were in the Spirit. Glory to Jesus.
@@ -25,7 +25,7 @@ As for myself, I just praised God for the anointing that remains with me, for I 
 # 月曜の夜の集会
 A MONDAY NIGHT MEETING.
 BY PHOEBE C. BENT.
-% フィービー・C・ベント
+フィービー・C・ベント
 
 （ここにはフィラデルフィアの全国キャンプ集会の一夜についてのフィービー・C・ベントの報告が載っているが、書き手の没年が確かめられないため訳していない。）
 // ここからフィービー・C・ベントの報告。没年が確かめられないので訳さない。
@@ -67,28 +67,28 @@ Yes, things which I saw in Sister McPherson's tent:
 そう、マクファーソン姉妹の天幕で私が見たことである。
 
 A brother injured in an auto accident, for months unable to use one leg, instantly healed, leaping and dancing on the platform, after hands had been laid upon him with the prayer of faith.
-自動車の事故でけがをし、何か月も片方の脚が使えなかった兄弟がいた。信仰の祈りとともに手が置かれると、彼は即座にいやされ、壇上で跳びはね、踊った。
+自動車の事故でけがをし、何か月も片方の脚が使えなかった兄弟がいた。信仰の祈りとともに手が置かれると、彼はたちまちいやされ、壇上で跳びはね、踊った。
 
 A blind brother was so far recovered that he could walk about the tent and grounds, could see the buttons and trimmings on a lady's dress, and said he kept seeing more all the time.
 目の見えない兄弟は、天幕や敷地を歩き回れるほどに回復した。婦人の服のボタンや飾りが見えるようになった。見えるものがどんどん増えていく、と彼は言った。
 
 A sister who came into the camp on canes, had also a cancer, has been walking for days without sticks, and told me she felt the healing thrills go through and through the cancer. A sister very ill with serious heart trouble was instantly healed as she went forward to be prayed for; the healing came before the hands were laid on. Another left off her glasses, got her sight so she could thread a needle; also all her teeth were loose, and they have come in tight and sound.
-つえをついてキャンプに来た姉妹がいた。彼女はがんも患っていた。その姉妹は、もう何日もつえなしで歩いている。いやしの震えが、がんを何度も貫いて走るのを感じた、と私に話してくれた。重い心臓病でひどく弱っていた姉妹は、祈ってもらうために前へ進み出たとき、即座にいやされた。手が置かれる前に、いやしが来たのである。もう一人の姉妹は眼鏡を外した。針に糸を通せるほど、目が見えるようになったのである。また、歯がみなぐらぐらしていたが、しっかりと丈夫になった。
+つえをついてキャンプに来た姉妹がいた。彼女はがんも患っていた。その姉妹は、もう何日もつえなしで歩いている。いやしの震えが、がんの隅々まで貫いて走るのを感じた、と私に話してくれた。重い心臓病でひどく弱っていた姉妹は、祈ってもらうために前へ進み出たとき、たちまちいやされた。手が置かれる前に、いやしが来たのである。もう一人の姉妹は眼鏡を外した。針に糸を通せるほど、目が見えるようになったのである。また、歯がみなぐらぐらしていたが、しっかりと丈夫になった。
 
 A Roman Catholic lady came in to be prayed for, gave her heart to Jesus and was healed. But it is impossible to keep track of the cases, they so multiply on our hands.
 ローマ・カトリックの婦人が、祈ってもらいに来た。彼女は心をイエスにささげ、いやされた。けれども、いやされた人を一人一人書き留めておくことはできない。私たちの手の中で、あまりにも増えていくからである。
 
 We had two thousand chairs in the tent. These were all filled an hour or so before preaching service began. Then all around the tent they stood, ten, fifteen deep, in profound attention for an hour and a half or two hours. Crowds composed of every nationality; all the Protestant denominations, and the Roman Catholics, with a good sprinkling of clergy, and a large crowd of nonchurch-attendants. God certainly advertised the goods. The power and demonstration of the Spirit was wonderful. That "joy of the Lord" which is "our strength" filled the place, beamed on every face, and danced in the eye of every saint. The "slain of the Lord were many." The whole altar was filled with them from end to end, daily the most wonderful baptisms in the Spirit. Altars at night were full of unsaved, seeking and FINDING salvation.
-天幕には二千の椅子があった。説教の礼拝が始まる一時間ほど前には、それがみな埋まった。それから天幕の周りじゅうに、人々が十重、十五重に立った。そして一時間半から二時間も、じっと聞き入っていた。群衆は、あらゆる国の人々から成っていた。プロテスタントのすべての教派の人、ローマ・カトリックの人、かなりの数の聖職者、教会に通っていない大勢の人がいた。神は確かに、品物を宣伝してくださったのである。御霊の力と現れは、すばらしかった。「私たちの力」である「主を喜ぶこと」が会場を満たし、すべての顔に輝き、すべての聖徒の目に躍っていた（ネヘミヤ八・一〇）。「主に打たれて倒れた者は多かった」。祭壇は、端から端まで彼らで埋まった。毎日、実にすばらしい聖霊のバプテスマがあった。夜の祭壇は、救われていない人たちでいっぱいだった。彼らは救いを求め、そして見いだしたのである。
+天幕には二千の椅子があった。説教の礼拝が始まる一時間ほど前には、それがみな埋まった。それから天幕の周りじゅうに、人々が十重、十五重に立った。そして一時間半から二時間も、じっと聞き入っていた。群衆は、あらゆる国の人々から成っていた。プロテスタントのすべての教派の人、ローマ・カトリックの人、かなりの数の聖職者、教会に通っていない大勢の人がいた。確かに、神ご自身がこの品の宣伝をしてくださったのである。御霊の力と現れは、すばらしかった。「私たちの力」である「主を喜ぶこと」が会場を満たし、すべての顔に輝き、すべての聖徒の目に躍っていた（ネヘミヤ八・一〇）。「主の力に打たれて倒れた者は多かった」。祭壇は、端から端まで彼らで埋まった。毎日、実にすばらしい御霊のバプテスマがあった。夜の祭壇は、救われていない人たちでいっぱいだった。彼らは救いを求め、そして見いだしたのである。
 // 「The slain of the Lord were many」はイザヤ六六・一六（口語訳『主に殺される者は多い』）の言い回しを借りて、神の力に打たれて倒れることを言っている。さばきの意味ではないので、出典は付けずに言い換えた。
 
 # ビクトリア・ホールに降り注いだすばらしい大雨
 WONDERFUL DOWNPOUR AT VICTORIA HALL.
 BY PASTOR W. W. FISHER.
-牧師W・W・フィッシャー
+% W・W・フィッシャー牧師
 
-（ここにはロサンゼルスのビクトリア・ホールの集会についての牧師W・W・フィッシャーの報告が載っているが、書き手の没年が確かめられないため訳していない。）
-// ここから牧師W・W・フィッシャーの報告。没年が確かめられないので訳さない。
+（ここにはロサンゼルスのビクトリア・ホールの集会についてのW・W・フィッシャー牧師の報告が載っているが、書き手の没年が確かめられないため訳していない。）
+// ここからW・W・フィッシャー牧師の報告。没年が確かめられないので訳さない。
 The Latter Rain in great abundance has been coming on the saints since the sister opened her campaign. Old, dried-up cases, where the individual has been seeking the baptism for years, have been falling under the power of God and coming through speaking in tongues. Backsliders who failed God have been swept back into life and are now singing His praises. I never, in all my extended ministry, saw so many slain under the mighty power of God as have been observed in the prayer room after the call was given for seekers. It has seemed so easy for the people to yield themselves to the Spirit. In some instances the Evangelist had only to lift her hands and the power would tumble them over.
 
 In the large Auditorium Sister McPherson held the vast throng of nearly three thousand for over an hour with the Gospel message, and many followed her to get under the showers. In all a great revival has started in our midst. The people are letting go of issues and doctrines and are joining in with smiling faces, so that old grudges are being settled and the saints are getting the love of God restored in their souls.
@@ -101,7 +101,7 @@ The Latter Bain is falling, some say even more copiously than the former rain, a
 # サンフランシスコの信仰復興
 SAN FRANCISCO REVIVAL.
 BY ROBERT CRAIG, PASTOR.
-牧師ロバート・クレイグ
+ロバート・クレイグ牧師
 
 It was a glad day for the Kingdom of Christ in this place when the Lord directed our Sister Aimee Semple McPherson to hold a series of meetings in San Francisco.
 主が、私たちのエイミー・センプル・マクファーソン姉妹を導いて、サンフランシスコで一続きの集会を開かせてくださった。その日は、この地のキリストの御国にとって喜ばしい日だった。
@@ -116,10 +116,10 @@ Scores who had grown faint of heart over the coldness and indifference of the de
 教派の教会の冷たさと無関心に、心が弱りかけていた人が大勢いた。その人たちが、このペンテコステの火で心を喜ばされ、霊を元気づけられ、温められた。
 
 Oh! how many church members, and among them many dear Scandinavians, have been swept thru into their baptism.
-ああ、どれほど多くの教会員が、押し流されるようにしてバプテスマを受けるまでに至ったことか。その中には、愛するスカンジナビアの人たちも大勢いた。
+ああ、どれほど多くの教会の信徒が、押し流されるようにしてバプテスマを受けるまでに至ったことか。その中には、愛するスカンジナビアの人たちも大勢いた。
 
 Many Salvation Army people, touched by the power of the Spirit, have come and received the Baptism of the Holy Spirit, Acts 2-4. Among them several officers and ex-officers. Though it may mean expulsion for them, yet, praise God, they bear the reproach joyfully, counting it a privilege to thus fill up a measure of His suffering which remains.
-救世軍の多くの人々も御霊の力に触れられ、来て、聖霊のバプテスマを受けた（使徒二・四）。その中には、何人かの士官と元士官もいた。そのために除名されるかもしれない。それでも、神をほめたたえよ、彼らは喜んでそのそしりを負っている。主の苦しみのなお足りないところをこうして補うことを、特権と考えているのである（コロサイ一・二四）。
+救世軍の多くの人々も御霊の力に触れられ、来て、聖霊のバプテスマを受けた（使徒二・四）。その中には、何人かの士官と元士官もいた。そのために除名されるかもしれない。それでも、神をほめたたえよ。彼らは喜んでそのそしりを負っている。主の苦しみのなお足りないところをこうして補うことを、特権と考えているのである（コロサイ一・二四）。
 
 From every possible angle the work of the Lord at Glad Tidings Mission Auditorium has been greatly strengthened, deepened and settled, for which we praise our Heavenly Father.
 あらゆる面で、グラッド・タイディングス伝道所の講堂での主の働きは、大いに強められ、深められ、確かなものとされた。そのことで、私たちは天の父をほめたたえている。
@@ -131,11 +131,11 @@ Just how many have been gloriously converted in these thirty-three days eternity
 この三十三日のあいだに、どれほど多くの人がすばらしく回心したかは、永遠だけが明らかにするだろう。深い働きだった。その実はいつまでも残ると、私たちは信じている。
 
 The Healing power provided in the Atonement has also been graciously manifested.
-贖いの中に備えられたいやしの力も、恵み深く現された。
+あがないの中に備えられたいやしの力も、恵み深く現された。
 
 Quite a number of city ministers came to listen, wonder and view the marvelous work of God in the large prayer room strewn night after night) with the slain of the Lord, and hear them burst into new tongues. Pity the man who goes back to his church to fight against this gracious Heaven-sent Revival. He will be writing his own epitaph.
 // 英文は「night after night)」。閉じかっこは余分とみて訳した。
-町の牧師たちも、かなりの数が聞きに来た。大きな祈りの部屋には、夜ごとに、主に打たれて倒れた人たちが横たわっていた。牧師たちは驚きながら神の驚くべき働きを見つめ、その人たちが新しい異言で語り出すのを聞いた。自分の教会に帰って、天から送られたこの恵み深い信仰復興に逆らって戦う人は哀れである。その人は、自分の墓碑銘を書いているのである。
+町の牧師たちも、かなりの数が聞きに来た。大きな祈りの部屋には、夜ごとに、主の力に打たれて倒れた人たちが横たわっていた。牧師たちは目をみはって神の驚くべき働きを見つめ、その人たちが新しい異言で語り出すのを聞いた。自分の教会に帰って、天から送られたこの恵み深い信仰復興に逆らって戦う人は哀れである。その人は、自分の墓碑銘を書いているのである。
 
 Toward the close of the campaign the prayer room was much too small and little prayer-groups could be seen in various parts of the building pointing sinners to Christ. This beside the ofttimes crowded altar.
 集会の終わりが近づくと、祈りの部屋はまったく狭すぎるようになった。建物のあちこちで、小さな祈りの群れが罪人たちをキリストに導いているのが見られた。そのうえ、祭壇もたびたび人でいっぱいになっていた。
