@@ -105,7 +105,7 @@ Many people smile now as I testify of that awful terror that seized upon my soul
 私の魂をとらえたあの恐ろしいおびえのことを証しすると、今では多くの人がほほえむ。しかし、私の魂の永遠の幸いがかかっていたのだ。私にとってそれは、いのちか死か、永遠に天国か地獄かの分かれ目だった。
 
 At the end of the third day, while driving home from school, I could stand it no longer. The lowering skies above, the trees, the fields, the very road beneath me seemed to look down upon me with displeasure, and I could see written everywhere--
-三日目の終わり、学校から馬車で帰る途中、私はもう耐えられなくなった。頭上に垂れこめた空も、木々も、野も、足もとの道さえも、不機嫌に私を見下ろしているように思えた。そして、至る所にこう書いてあるのが見えた。
+三日目の終わり、学校からそりで帰る途中、私はもう耐えられなくなった。頭上に垂れこめた空も、木々も、野も、足もとの道さえも、不機嫌に私を見下ろしているように思えた。そして、至る所にこう書いてあるのが見えた。
 
 "Poor, lost, miserable, hell-deserving sinner!"
 『哀れな、失われた、みじめな、地獄にふさわしい罪人！』
