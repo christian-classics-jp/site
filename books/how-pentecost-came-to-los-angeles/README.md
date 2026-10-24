@@ -22,5 +22,5 @@
 + [x] Chapter 5. From California To Maine (2)
 + [x] Chapter 6. A Second Ministry East (1)
 + [x] Chapter 6. A Second Ministry East (2)
-+ [ ] Chapter 7. Visit To Hawaii. Volcano Kilauea
++ [x] Chapter 7. Visit To Hawaii. Volcano Kilauea
 + [ ] Chapter 8. Brother Durham In Los Angeles
