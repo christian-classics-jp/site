@@ -28,11 +28,11 @@ At nine o'clock this morning the last snap was closed, the last strap fastened, 
 今朝九時、最後の留め金がかけられ、最後のベルトが締められた。荷物も、福音書も、証しの文書も、伝道文書も、所定の場所に収まった。最後の「さようなら」と「神の祝福がありますように」が交わされた。エンジンが静かにうなった（グリースカップはすべて満たし、タイヤも点検し、ガソリンタンクもいっぱいにしてあった）。そして車は、静かに手際よく走り出した。私たちが何日もこの旅の支度をしてきたことを、車も知っているかのようだった。多くの聖徒たちがおごそかに祈って車をささげ、その上に手を置いてくれたことも、知っているようだった。車は、前途の長い旅で自分に何が期待されているかを、わきまえているようだった。自分の使命の大切さも、わきまえているようだった。愛の大いなるメッセージにふさわしい先触れとなる、という使命である。車のいのちにも私のいのちにも、大きな機会が訪れた。その思いに、車の心臓と私の心臓が一つになって脈打っているかのようだった。
 
 From our starting point at 115th Street, we went along 7th Avenue to 10th Street, and from thence turned into Riverside Drive. A big policeman, who was leisurely directing the traffic, caught sight of the Gospel Car, and said in a loud voice:
-// 英文は「10th Street」。百十五丁目から七番街を下ってリバーサイド・ドライブに入る道筋なら 110th Street（百十丁目）とみられるが、英文のまま訳した。
-出発点の百十五丁目から七番街を十丁目まで進み、そこからリバーサイド・ドライブに入った。のんびりと交通整理をしていた大柄な警官が、福音自動車に目を留め、大声で言った。
+// 英文は「10th Street」（二つのスキャンとも同じ）。七番街は百十丁目でセントラル・パークに突き当たり、リバーサイド・ドライブは七十二丁目より北にしかないので、110th Street の誤植とみて百十丁目と訳した。
+出発点の百十五丁目から七番街を百十丁目まで進み、そこからリバーサイド・ドライブに入った。のんびりと交通整理をしていた大柄な警官が、福音自動車に目を留め、大声で言った。
 
 "'Where will you spend Eternity?' Well!! what do you know about that?" And as we smiled to ourselves we could not help thinking that if he were going to preach to fashionable Riverside Drive, he could not have selected a better text.
-「『あなたは永遠をどこで過ごすのか』だって！　いやはや、こいつは驚いた」私たちは心の中でほほえんだ。そして思わずにはいられなかった。もしこの警官が、上流の人々の住むリバーサイド・ドライブで説教をするとしたら、これ以上よい説教の題は選べなかっただろう、と。
+「『あなたはどこで永遠を過ごすのか』だって！　いやはや、こいつは驚いた」私たちは心の中でほほえんだ。そして思わずにはいられなかった。もしこの警官が、上流の人々の住むリバーサイド・ドライブで説教をするとしたら、これ以上よい説教の題は選べなかっただろう、と。
 
 Crossing to Staten Island, thence to New Jersey, we gave out our tracts on the boats, at the ticket offices and to the passers-by.
 スタテン島へ渡り、そこからニュージャージーへ渡った。船の上で、切符売り場で、また道行く人々に、伝道文書を配った。
@@ -41,7 +41,7 @@ Five hours' run brought us to Philadelphia, where we rejoiced at meeting the dea
 五時間走って、フィラデルフィアに着いた。ここで愛する聖徒たちにまた会えて、喜んだ。カリフォルニアへ送る貨物の手配を済ませてから、ニュージャージー州カムデンへ渡った。そこでは医師のシャープ姉妹が、美しいバンガローを開けて暖め、私たちを迎えてくれた。
 
 After the illness of my little daughter, Roberta, and myself, and the hundred-mile drive of the day, the warmth and the light and love and hospitality extended to us in this home made it a veritable haven of rest.
-幼い娘ロバータも私も病気をしたあとで、その日は百マイルも運転してきた。それで、この家で受けた暖かさと明るさ、愛ともてなしのおかげで、この家はまさに憩いの港となった。
+幼い娘ロバータも私も病気をしたあとで、その日は百マイルも運転してきた。それで、ここで受けた暖かさと明るさ、愛ともてなしのおかげで、この家はまさに憩いの港となった。
 
 ## ペンシルベニア州ゲティスバーグ（十月二十六日）
 GETTYSBURG, PA., OCT. 26.
@@ -70,13 +70,13 @@ In Pittsburgh we have been busy for the Master. Have had bad road, mud and detou
 ピッツバーグでも、主のために忙しく働いた。今日は悪い道、ぬかるみ、回り道に悩まされた。明日もそれが待っている。けれども主はすばらしく守ってくださり、事故は一つも起こらなかった。
 
 Passing through Cecil and Claysville, through the great coal-mining section, just as the men were coming up out of the dark underground, their faces besmeared with coal and grime, the electric lights which they had used in their toil below still burning in their caps, we were privileged to speak and witness for Jesus, leaving them the tracts and literature.
-セシルとクレイズビルを通って、大きな炭鉱地帯を抜けた。ちょうど男たちが、暗い地の底から上がって来るところだった。顔は石炭とすすにまみれ、地下の仕事で使っていた電灯が、まだ帽子の上で灯っていた。私たちは男たちにイエスのことを語り、証しをする恵みにあずかった。そして伝道文書や文書を手渡した。
+セシルとクレイズビルを通って、大きな炭鉱地帯を抜けた。ちょうど男たちが、暗い地の底から上がって来るところだった。顔は石炭とすすにまみれ、地下の仕事で使っていた電灯が、まだ帽子の上で灯っていた。私たちは男たちにイエスのことを語り、証しをする恵みにあずかった。そして伝道文書やほかの文書を手渡した。
 
 ## オハイオ州コロンバス（十月二十九日）
 COLUMBUS, OHIO, OCT. 29.
 
 This morning we started out over the very bad roads which the residents of neighboring towns had warned us of, lost our way, and came on to a very dangerous mountain pass. One place there was just room for the wheels of the car to pass. A sheer cliff, hundreds of feet deep, yawned below us and rocks hung out above us, but angels seemed to hold the car to the road even though it was wet and slippery. We stopped to inquire of a man the way. He set us right. The Lord gave us the witness that He had sent us this road to reach this man, for when we gave him our message and literature, he brightened and told us of their church on the hill and that the parson would be powerful glad "to know of the Latter Rain." The Lord took us through all the mire and the mud without trouble or skidding where dozens of cars had been stuck in the mud and had been hauled out with horses at great expense and labor. We feel perfectly conscious all the time of a guard of angels that are traveling beside the car, protecting it.
-今朝は、近くの町の人たちが警告してくれていた、ひどく悪い道に乗り出した。そして道に迷い、たいへん危険な山道に入り込んだ。ある所では、車輪がやっと通れるだけの幅しかなかった。下には数十メートルもの切り立った崖が口を開け、上には岩が突き出ていた。道はぬれて滑りやすかったが、御使たちが車を道にしっかりとどめているようだった。一人の男の人がいたので、車を止めて道を尋ねた。その人は正しい道を教えてくれた。主は私たちに、この人に会わせるためにこの道を通らせたのだ、というしるしを与えてくださった。私たちがメッセージを伝えて文書を渡すと、その人は顔を輝かせたのである。そして、丘の上の自分たちの教会のことを話してくれた。牧師さんは「後の雨のことを知ったら」えらく喜ぶだろう、というのである。何十台もの車がぬかるみにはまり、たいへんな費用と手間をかけて馬に引き出してもらった所があった。けれども主は、そういうぬかるみと泥の中を、何の故障も横滑りもなく通してくださった。私たちはいつも、御使の護衛が車のそばを進み、車を守ってくれているのを、はっきりと感じている。
+今朝は、近くの町の人たちが警告してくれていた、ひどく悪い道に乗り出した。そして道に迷い、たいへん危険な山道に入り込んだ。ある所では、車輪がやっと通れるだけの幅しかなかった。下には数十メートルもの切り立った崖が口を開け、上には岩が突き出ていた。道はぬれて滑りやすかったが、御使たちが車を道にしっかりとどめているようだった。一人の男の人がいたので、車を止めて道を尋ねた。その人は正しい道を教えてくれた。主は私たちに、この人に会わせるためにこの道を通らせてくださったのだ、というしるしを与えてくださった。私たちがメッセージを伝えて文書を渡すと、その人は顔を輝かせたのである。そして、丘の上の自分たちの教会のことを話してくれた。牧師さんは「後の雨のことを知ったら」えらく喜ぶだろう、というのである。何十台もの車がぬかるみにはまり、たいへんな費用と手間をかけて馬に引き出してもらった所があった。けれども主は、そういうぬかるみと泥の中を、何の故障も横滑りもなく通してくださった。私たちはいつも、御使の護衛が車のそばを進み、車を守ってくれているのを、はっきりと感じている。
 
 On to Wheeling, W. Va., and then to Zanesville, Ohio, and tonight we are camping by the roadside in a beautiful sheltered spot outside of Columbus, O. Usually the little brooks and streams serve as our wash-basins, but here we have two barrels of rain water, which stand beside a closed summer cottage. We are trusting to be refreshed and rested.
 さらにウェストバージニア州ホイーリングへ、それからオハイオ州ゼーンズビルへ進んだ。今夜は、オハイオ州コロンバスの郊外の、風をよけられる美しい場所で、道ばたにキャンプしている。ふだんは小川や流れが洗面器の代わりになる。けれどもここには、雨水をためた樽が二つ、閉めてある夏の別荘のわきに置いてある。元気を取り戻し、休むことができると信じている。
@@ -94,7 +94,7 @@ Through Springfield, O., thence to Richmond, Ind., and we are now in a comfortab
 オハイオ州スプリングフィールドを通り、そこからインディアナ州リッチモンドへ進んだ。今はインディアナポリスの快適な部屋にいる。ハレルヤ！　なんとぜいたくに思えることだろう！　神はなんと恵み深いことだろう！　神がしてくださった驚くべきことを、お話ししよう。実は昨日、インディアナポリスの役人たちの特別会議があって、今夜の真夜中に禁止を解くことに決めたのである。それは、私たちが着いてちょうど一時間半後だった。明日はエター夫人の幕屋が開かれ、私は心の願いをかなえていただける。栄光あれ！
 
 A day of rest and praise. Called upon Mrs. Etter, and attended the meeting in her tabernacle tonight. We rejoiced and praised the Lord together. The power of God fell; even though there were only a very few at the meeting, the Lord was there showering His blessings upon us. Tomorrow, we proceed on our journey. The command of the Master to go into the highways and hedges is being literally fulfilled. From New York to Philadelphia we followed the "Lincoln Highway," from Philadelphia to Indianapolis the "National Highway"; tomorrow we turn into "Pike's Peak Ocean to Ocean Highway," thence into the "Big Four Highway" for Kansas City.
-休息と賛美の一日。エター夫人を訪ね、今夜はその幕屋の集会に出た。私たちはともに喜び、主をほめたたえた。神の力が下った。集会に来ていたのはごくわずかだったが、主はそこにおられ、私たちの上に祝福を注いでくださった。明日は旅を続ける。道やかきねのあたりに出て行けという主の命令が、文字どおりに果たされている。ニューヨークからフィラデルフィアまでは「リンカーン・ハイウェイ」を、フィラデルフィアからインディアナポリスまでは「ナショナル・ハイウェイ」を通った。明日は「パイクスピーク・オーシャン・トゥ・オーシャン・ハイウェイ」に入り、そこから「ビッグ・フォー・ハイウェイ」でカンザス・シティに向かう。
+休息と賛美の一日。エター夫人を訪ね、今夜はその幕屋の集会に出た。私たちはともに喜び、主をほめたたえた。神の力が下った。集会に来ていたのはごくわずかだったが、主はそこにおられ、私たちの上に祝福を注いでくださった。明日は旅を続ける。道やかきねのあたりに出て行けという主の命令が、文字どおりに果たされている。ニューヨークからフィラデルフィアまでは「リンカーン・ハイウェイ」を通った。フィラデルフィアからインディアナポリスまでは「ナショナル・ハイウェイ」である。明日は「パイクスピーク・オーシャン・トゥ・オーシャン・ハイウェイ」に入り、そこから「ビッグ・フォー・ハイウェイ」でカンザス・シティに向かう。
 
 ## タスコーラ（十一月一日）
 TUSCOLA, NOV. 1.
@@ -130,7 +130,7 @@ The Gospel Car has witnessed and given out literature today for one hundred mile
 福音自動車は今日、百マイルにわたって証しをし、文書を配った。ああ、人々の顔に浮かぶ表情を見ていただけたら！　ぞっとした顔、ぎょっとしておびえた顔で見る人がいる。疑いの顔で歩道につばを吐き、「そんなことは信じない」と言う人もいる。ほかの人々の顔には、信じる思いと、もっと聞きたいという熱い願いが書かれている。こう言う人もいる。「いや、これこそ私が考えていたことだ。この戦争も、こういう疫病も、みな主の来臨のしるしに違いない。奥さん、文書をください」
 
 Crossing the Mississippi River into Hannibal, people from almost every walk of life gathered about the car, insomuch that as we stopped for dinner, one of the party stayed in the car to dispense literature and witness and answer questions. A saloon-keeper, a policeman, a traveling salesman, storekeepers, church members, a holiness lady, and many others, gathered about to ask questions and receive literature. The saloon-keeper was much in earnest and we are praying for his salvation. Eternity alone will reveal the fruitbearing of the seed sown on this trip. Hallelujah!
-ミシシッピ川を渡ってハンニバルに入ると、ほとんどあらゆる職業の人々が車の周りに集まった。それで食事に止まったときも、一行の一人が車に残って、文書を配り、証しをし、質問に答えた。酒場の主人、警官、旅回りのセールスマン、店の主人たち、教会の信徒たち、ホーリネスの婦人、そのほか大勢が集まって来て、質問をし、文書を受け取った。酒場の主人はたいへん真剣だった。私たちはその人の救いのために祈っている。この旅でまかれた種がどれほど実を結ぶかは、永遠だけが明らかにするだろう。ハレルヤ！
+ミシシッピ川を渡ってハンニバルに入ると、ほとんどあらゆる職業の人々が車の周りに集まった。それで食事に止まったときも、一行の一人が車に残って、文書を配り、証しをし、質問に答えた。酒場の主人、警官、旅回りのセールスマン、店の主人たち、教会の信徒たち、ホーリネスの婦人、そのほか大勢が集まって来た。そして質問をし、文書を受け取った。酒場の主人はたいへん真剣だった。私たちはその人の救いのために祈っている。この旅でまかれた種がどれほど実を結ぶかは、永遠だけが明らかにするだろう。ハレルヤ！
 
 Traveled until late--and the night being raw and cold--we paused on a lonely square, wondering where to sleep. A gentleman seeing the car volunteered information, and we learned this was the Mayor of the town. So sorry we forgot to give him the literature.
 遅くまで走り続けた。夜は冷え冷えとして寒かった。寂しい広場で車を止め、どこで寝ようかと思案していた。一人の紳士が車を見て、自分から教えてくれた。あとでわかったのだが、その人は町長だった。文書を渡すのを忘れて、たいへん残念だった。
@@ -143,7 +143,7 @@ At the restaurant this morning, watching at the window the people who walked aro
 
 "Ah's often he'ad of.dese heah Pentecos' people, but Ah's nevah saw any befo'. Ah sho? am glad to get dez heah papahs.",
 // 英文は黒人のなまりで書かれている（dese heah＝these here、sho＝sure など）。訳ではなまりを写さず、くだけた話し言葉にした。「of.dese」「sho?」と末尾の「,」は崩れとみた。
-「ペンテコステの人たちのことはよく聞いとったが、会うのは初めてだ。この刷り物がもらえて、ほんとにうれしいよ」
+「ペンテコステの人たちのことはよく聞いていたが、会うのは初めてだ。この刷り物がもらえて、ほんとにうれしいよ」
 
 As we were about to leave the mayor came up again. Surely the Lord sent him to get his papers. He helped to tie a rope and spoke encouragingly of our work, and received the literature we gave him, gladly. Oh! Lord, work wonders in these dear hearts, we pray Thee.
 出発しようとしていると、町長がまたやって来た。きっと主が、刷り物を受け取らせるためにこの人を遣わされたのだ。町長はロープを結ぶのを手伝い、私たちの働きを励ましてくれた。そして渡した文書を、喜んで受け取った。ああ、主よ、どうかこの愛する人たちの心に、驚くべき御業をなしてください。
@@ -155,13 +155,13 @@ Hoped to have made more mileage today, but are detained here in Braymer for some
 OLATHE, KAN., NOV. 6.
 
 We realized this morning that "all things work together for good to them that love the Lord and are the called according to His purpose." Our delay of yesterday caused us to pass through the little town of Polo, Mo., by daylight, whereas we would otherwise have passed through unobserved in the darkness. As we passed through this town, we turned and drew up at the filling station. The people trooped after us down the streets, came out of the stores and houses, and crowding around the car, almost made us gasp. They kept us busy giving out literature and answering their many questions about Jesus and our teaching.
-今朝、私たちは悟った。まことに『神は、神を愛する者たち、すなわち、ご計画に従って召された者たちと共に働いて、万事を益となるようにして下さる』のである（ローマ八・二八）。昨日足止めされたおかげで、私たちはミズーリ州ポロという小さな町を、明るいうちに通ることになった。そうでなければ、暗闇の中をだれにも気づかれずに通り過ぎていただろう。この町を通るとき、私たちは向きを変えて給油所に車を寄せた。人々は通りを私たちの後からぞろぞろついて来た。店や家からも出て来て、車の周りに詰めかけたので、私たちは息をのむほどだった。私たちは、文書を配ったり、イエスと私たちの教えについての数々の質問に答えたりして、休む間もなかった。
+今朝、私たちは悟った。『神は、神を愛する者たち、すなわち、ご計画に従って召された者たちと共に働いて、万事を益となるようにして下さる』のである（ローマ八・二八）。昨日足止めされたおかげで、私たちはミズーリ州ポロという小さな町を、明るいうちに通ることになった。そうでなければ、暗闇の中をだれにも気づかれずに通り過ぎていただろう。この町を通るとき、私たちは向きを変えて給油所に車を寄せた。人々は通りを私たちの後からぞろぞろついて来た。店や家からも出て来て、車の周りに詰めかけたので、私たちは息をのむほどだった。私たちは、文書を配ったり、イエスと私たちの教えについての数々の質問に答えたりして、休む間もなかった。
 
 One young man said that his mother saw the signs on the car out of the window and told him to run until he caught that car, and bring her some of those tracts that we were dropping by the wayside, and asked us to give him one of every kind we had.
 ある若者の話では、母親が窓から車の看板の文字を見て、こう言いつけたという。あの車に追いつくまで走って行って、道ばたに落としている伝道文書を持って来ておくれ、と。若者は、私たちの持っている文書を全種類一つずつくださいと頼んだ。
 
 Nowhere on our trip have we met with a more enthusiastic welcome. So eager were the people here that they seemed ready to search the whole car, and dissect all the pockets in the doors, and the boxes before they would be denied. Cries of "These are the Pentecostal people that speak in tongues. I have heard about them and I want to read about them," came from every side of the car.
-この旅のどこでも、これほど熱心に迎えられたことはなかった。ここの人々はあまりにも熱心で、断られるくらいなら、車じゅうを探し回り、ドアのポケットも箱も残らず引っかき回しかねない様子だった。「異言で語るペンテコステの人たちだ。うわさは聞いている。読んでみたい」という叫びが、車の四方から上がった。
+この旅のどこでも、これほど熱心に迎えられたことはなかった。ここの人々はあまりにも熱心だった。断られるくらいなら、車じゅうを探し回り、ドアのポケットも箱も残らず引っかき回しかねない様子だった。「異言で語るペンテコステの人たちだ。うわさは聞いている。読んでみたい」という叫びが、車の四方から上がった。
 
 One dear lady with quivering face, listened as we were praising the Lord, and then, catching hold of my hand, said:
 一人の愛する婦人が、顔を震わせながら、私たちが主をほめたたえるのを聞いていた。それから私の手をつかんで言った。
@@ -195,4 +195,4 @@ Have made one hundred seven miles today through muddy roads. Great interest is m
 OOLOGAH, OKLA., NOV. 9.
 
 One hundred and nineteen miles' traveling lands in Oologah, Okla. We are passing through great stretches of prairie country filled with oil wells, and nearing our destination, we are tarrying for the night instead of pressing on to Tulsa, because of the swollen condition of the river, which is flowing over the road we must take. The Lord has promised, however, that when we pass through the waters He will be with us, and through the rivers they shall not overflow us.
-百十九マイル走って、オクラホマ州ウーロガーに着いた。油井の立ち並ぶ大草原を、延々と通って来た。目的地は近い。けれども今夜はタルサへ急がず、ここに泊まる。川が増水して、通らなければならない道の上を流れているからである。けれども主は約束してくださっている。私たちが水の中を過ぎるとき、主は共にいてくださる。川の中を過ぎるとき、水が私たちの上にあふれることはない、と（イザヤ四三・二）。
+百十九マイル走って、オクラホマ州ウーロガーに着いた。油井の立ち並ぶ大草原を、延々と通って来た。目的地は近いが、今夜はタルサへ急がず、ここに泊まる。川が増水して、通らなければならない道の上を流れているからである。けれども主は約束してくださっている。私たちが水の中を過ぎるとき、主は共にいてくださる。川の中を過ぎるとき、水が私たちの上にあふれることはない、と（イザヤ四三・二）。

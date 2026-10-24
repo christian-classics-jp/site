@@ -23,7 +23,7 @@ When I mentioned it to Mother she said: "Well, ask the Lord to help you sell the
 母にこのことを話すと、母は言った。「それなら、古い車がいい値で売れるよう、主にお願いしなさい。足りない分はお母さんが払うわ」
 
 Needless to say, I lost no time in going down the street to see about it. Inside of half an hour I had sold the old car for almost as much as I had paid for it in the beginning, and in a few hours there was a new Gospel Car being lettered with six inch golden letters saying: " Jesus is coming soon, get ready," and "Where will you spend eternity?"
-言うまでもなく、私はすぐさま通りへ出て、その手はずをつけに行った。三十分もたたないうちに、古い車は、初めに買ったときの値段とほとんど変わらない額で売れた。そして数時間のうちに、新しい福音自動車に、十五センチの金文字が描き入れられていた。『イエスはまもなく来られる。備えをせよ』『あなたは永遠をどこで過ごすのか』という文字である。
+言うまでもなく、私はすぐさま通りへ出て、その手はずをつけに行った。三十分もたたないうちに、古い車は、初めに買ったときの値段とほとんど変わらない額で売れた。そして数時間のうちに、新しい福音自動車に、十五センチの金文字が描き入れられていた。『イエスはまもなく来られる。備えをせよ』『あなたはどこで永遠を過ごすのか』という文字である。
 
 Before setting out for California a chain of meetings was held from Massachusetts and Connecticut to New York.
 カリフォルニアへ出発する前に、マサチューセッツとコネティカットからニューヨークまで、一続きの集会を開いた。最初は次の町である。
