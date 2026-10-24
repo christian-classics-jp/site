@@ -26,5 +26,5 @@
 + [x] Chapter XII. The Judgment
 + [x] Chapter XIII. The Ten Virgins
 + [x] Chapter XIV. The Bride
-+ [ ] Chapter XV. Their United Cry
++ [x] Chapter XV. Their United Cry
 + [ ] Appendix. How to Obtain and Retain the Baptism of the Holy Ghost
