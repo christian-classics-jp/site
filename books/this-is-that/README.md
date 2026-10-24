@@ -59,7 +59,7 @@
 + [x] Part III. The Plan of Redemption
 + [x] Part III. The Bride in Her Veil of Types and Shadows
 + [x] Part III. Isaac and Rebecca
-+ [ ] Part III. The Life and Growth of Peter
++ [x] Part III. The Life and Growth of Peter
 + [ ] Part III. The Temple / Getting Down
 + [ ] Part III. Covet Earnestly Spiritual Gifts
 + [ ] Part III. The Valley of Dry Bones
