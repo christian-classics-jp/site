@@ -20,7 +20,7 @@
 + [x] Chapter VII. Pounds and Talents
 + [x] Chapter VIII. The Baptism of the Holy Ghost Subsequent to Sanctification (1)
 + [x] Chapter VIII. The Baptism of the Holy Ghost Subsequent to Sanctification (2)
-+ [ ] Chapter IX. The Early and the Latter Rain
++ [x] Chapter IX. The Early and the Latter Rain
 + [ ] Chapter X. The Fruit of the Spirit
 + [ ] Chapter XI. Babylon, or the Confusion of Tongues
 + [ ] Chapter XII. The Judgment
