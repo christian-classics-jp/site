@@ -66,7 +66,7 @@ Something must have taken place.
 What could have brought them in one accord?
 何が、彼らに心を合わせさせたのであろうか。
 Jesus, after seeing such discord among them at supper, went out and prayed, Sanctify them that they all may be one.
-イエスは、食事の席で彼らの間にそのような不和があるのを見られた。そして出て行って、彼らを聖別してみなを一つにしてくださるようにと祈られたのである。
+イエスは、食事の席で彼らの間にそのような不和があるのを見られた。そして出て行って、彼らを聖化してみなを一つにしてくださるようにと祈られたのである。
 Therefore, they must have been sanctified before Pentecost. Praise the Lord!
 だから彼らは、ペンテコステの前に聖化されていたにちがいない。主をほめたたえよ！
 
@@ -94,14 +94,14 @@ If we say that it takes the Baptism of the Holy Ghost to purify the heart and br
 There is no Scripture to teach that the disciples were sanctified on the day of Pentecost.
 弟子たちがペンテコステの日に聖化されたと教える聖句は、一つもない。
 There is not a word said about cleansing, purifying, nor sanctifying in the whole account.
-その記事全体の中に、きよめることも、清めることも、聖化することも、一言も言われていない。
+その記事全体の中に、きよめること、清めること、聖化することについては、一言も言われていない。
 We know that it takes consecration to put us in order for sanctification.
 私たちが聖化を受ける備えをするには献身が要ることを、私たちは知っている。
 Not a word here that would seem to even intimate consecration.
 ここには、献身をほのめかすような言葉さえ一言もない。
 
 To consecrate means to set apart for a sacred use.
-献身するとは、聖なる用のために取り分けることである。
+献身するとは、自分を聖なる用のために取り分けることである。
 When we instruct people to consecrate to be sanctified, we mean for them to lay themselves, together with all that they possess, with all that they are or expect ever to possess or be, unreservedly on God's altar, to be used of Him for His glory at His own discretion.
 聖化されるために献身するよう人々を導くとき、私たちが求めているのはこういうことである。自分自身を、自分の持つすべてのものと共に、残らず神の祭壇にささげる。今の自分のすべても、これから持とう、なろうと思うすべても、共にささげる。そして神が、ご自分の栄光のために、思いのままに用いてくださるようにするのである。
 Did the disciples ever consecrate? and if so, when?
@@ -123,7 +123,7 @@ After this Jesus appeared: "Then opened he their understanding, that they might 
 Our going forth unto Him without the camp, bearing His reproach, is our consecration.
 イエスのはずかしめを身に負い、営所の外に出て、みもとに行くこと。これが私たちの献身である。
 There never has been a time when there was more reproach to following Jesus without the camp than at the time Jerusalem was in such a stir over His resurrection.
-エルサレムがイエスの復活のことでこれほど騒いでいた時があった。イエスに従って営所の外に出ることに、そのときほど大きなはずかしめが伴った時は、ほかに一度もない。
+エルサレムは、イエスの復活のことであれほど騒いでいた。イエスに従って営所の外に出ることに、そのときほど大きなはずかしめが伴った時は、ほかに一度もない。
 
 Remembering this, let us return to the twenty-fourth chapter of Luke, and continue our study.
 このことを覚えて、ルカ二四章に戻り、学びを続けよう。
@@ -150,9 +150,9 @@ In this connection Jesus said, "And, behold, I send the promise of my Father upo
 このことに関連して、イエスは言われた。『見よ、わたしの父が約束されたものを、あなたがたに贈る。だから、上から力を授けられるまでは、あなたがたは都にとどまっていなさい』。『ただ、聖霊があなたがたにくだる時、あなたがたは力を受けて、エルサレム、サマリヤ、さらに地のはてまで、わたしの証人となるであろう』（ルカ二四・四九、使徒一・八）。
 // 英文は `unto the uttermost part of the earth (Luke 24:49 and Acts 1:8).` で、閉じ引用符が欠けている（p. 79）。引用は earth で終わると読んだ。
 So the disciples were not to stay in one place long at a time (for here we have no continuing city), but were to scatter and witness in all Judea, and Samaria, and unto the uttermost part of the earth.
-だから弟子たちは、一つ所に長くとどまるのではなかった（この地上には永遠の都はないからである）。散って行って、ユダヤの全土、サマリヤ、さらに地のはてまで、あかしをすることになっていたのである。
+だから弟子たちは、一つ所に長くとどまるのではなかった（『この地上には、永遠の都はない』からである）。散って行って、ユダヤの全土、サマリヤ、さらに地のはてまで、あかしをすることになっていたのである。
 However, "He commanded them that they should not depart from Jerusalem, but wait for the promise of the Father." "But tarry ye in the city of Jerusalem, until ye be endued with power from on high."
-しかしイエスは、『エルサレムから離れないで、（中略）父の約束を待っているがよい』と、彼らにお命じになった。『上から力を授けられるまでは、あなたがたは都にとどまっていなさい』。
+しかしイエスは、『エルサレムから離れないで、父の約束を待っているがよい』と、彼らにお命じになった。『上から力を授けられるまでは、あなたがたは都にとどまっていなさい』。
 "By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name. And they worshipped him, and returned to Jerusalem (not to their fishing nets, as they did before,) with great joy: and were continually in the temple, praising and blessing God."
 『だから、わたしたちはイエスによって、さんびのいけにえ、すなわち、彼の御名をたたえるくちびるの実を、たえず神にささげようではないか。彼らはイエスを拝し、非常な喜びをもってエルサレムに帰り（前のように漁の網のところにではない）、絶えず宮にいて、神をほめたたえていた』。
 How wonderfully the Scriptures do harmonize! Do you see?
@@ -200,7 +200,7 @@ He is called "The Messenger of the Covenant."
 Neither does it refer to Christ's first advent into the world.
 また、これはキリストが初めてこの世に来られたことを指しているのでもない。
 It says, He shall SUDDENLY come to His TEMPLE.
-主は「たちまち」来る、それも「その宮に」来る、と言われているのである。
+主は「たちまち」来る、それも「その宮に」来る、と書いてあるのである。
 Was this fulfilled when Jesus came the first time? Nay.
 イエスが初めて来られたとき、これが成就したか。いや、そうではない。
 He was incarnated, then born in a manger, and never began any work in the temple till He was twelve years old.
@@ -208,7 +208,7 @@ He was incarnated, then born in a manger, and never began any work in the temple
 Let us continue: "But who may abide the day of his coming? and who shall stand when he appeareth?"
 続けよう。『その来る日には、だれが耐え得よう。そのあらわれる時には、だれが立ち得よう』。
 Do you think this refers either to the Baptism of the Holy Ghost or to the first coming of Christ?
-これが聖霊のバプテスマか、キリストの最初の来臨を指していると思うか。
+これが聖霊のバプテスマか、キリストの最初の来臨かを指していると思うか。
 Then read on: "For he (Christ) is like a refiner's fire, and like fullers' soap: and he (Christ) shall sit as a refiner and purifier of silver: and he (Christ) shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness. Then (immediately afterwards) shall the offering of Judah and Jerusalem be pleasant unto the Lord, as in the days of old, and as in former years. And I will come near to you to judgment, etc."
 それなら、先を読もう。『彼（キリスト）は精錬する者の火のようであり、布さらしの灰汁のようである。彼（キリスト）は銀をふきわけて清める者のように座して、彼（キリスト）はレビの子孫を清め、金銀のように彼らを清める。そして彼らは義をもって、ささげ物を主にささげる。その時（すぐそのあとで）ユダとエルサレムとのささげ物は、昔の日のように、また先の年のように主に喜ばれる。そしてわたしはあなたがたに近づいて、さばきをなし（後略）』。
 // マラキ三章二節の後半は、照合に使う口語訳の本文に入っていないので、英文から訳した。
@@ -227,13 +227,13 @@ Some teach that the baptism of fire is separate from the Baptism of the Holy Gho
 This is an error.
 これは誤りである。
 I notice that Matthew and Luke use the word "fire," while Mark omits it, clearly involving the conclusion that the fire normally inheres in the Holy Ghost, i.e., is inseparable from Him.
-私の気づくところ、マタイとルカは「火」という言葉を使っているが、マルコはそれを省いている。ここから明らかに、次の結論が導かれる。火は本来、聖霊の内にあるもの、すなわち聖霊から切り離せないものなのである。
+私は気づいている。マタイとルカは「火」という言葉を使っているが、マルコはそれを省いている。ここから明らかに、次の結論が導かれる。火は本来、聖霊の内にあるもの、すなわち聖霊から切り離せないものなのである。
 Therefore, when you receive the Baptism of the Holy Ghost, you receive the baptism of fire.
 だから、聖霊のバプテスマを受けるとき、あなたは火のバプテスマを受けるのである。
 To teach two baptisms is to antagonize Eph. 4: 5, where Paul certifies that there is but one Baptism in the gracious economy.
 二つのバプテスマを教えることは、エペソ四章五節に逆らうことである。パウロはそこで、恵みの経綸にはただ一つのバプテスマしかないと、はっきり述べている。
 The ordinance with water is not intrinsically a baptism, but symbolically typifies the real Baptism of the Holy Ghost.
-水による礼典は、それ自体がバプテスマなのではない。聖霊による実際のバプテスマを、象徴として表しているのである。
+水による礼典は、それ自体がバプテスマなのではない。実際の聖霊のバプテスマを、象徴として表しているのである。
 
 Now, does this fire purify?
 では、この火は清めるのか。
