@@ -8,8 +8,8 @@
 
 ## 翻訳進捗表
 
-+ [ ] Preface
-+ [ ] Chapter 1. Trials And Blessings. Revival Begins
++ [x] Preface
++ [x] Chapter 1. Trials And Blessings. Revival Begins
 + [ ] Chapter 2. Pastor Smale Returns From Wales (1)
 + [ ] Chapter 2. Pastor Smale Returns From Wales (2)
 + [ ] Chapter 2. Pastor Smale Returns From Wales (3)
