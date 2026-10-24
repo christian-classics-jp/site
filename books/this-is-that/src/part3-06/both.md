@@ -117,7 +117,7 @@ E stands for ENJOYMENT: His presence is fullness of joy. (ps. 16:11.) He has pou
 「E」は「喜び」（ENJOYMENT）を表す。主の御前には満ちあふれる喜びがある（詩篇一六・一一）。主はご自分の民の頭に、とこしえの喜びの油を注がれた（イザヤ三五・一〇）。
 
 R stands for REST: In the presence of Him who said: "Come unto Me and I will give you rest." (Matt. ii:28.) "The weary find rest for their souls." (Jer. 6:16)
-「R」は「休み」（REST）を表す。こう言われた方の御前には休みがある。「わたしのもとにきなさい。あなたがたを休ませてあげよう」（マタイ一一・二八）。「疲れた者は、その魂のために安息を得る」（エレミヤ六・一六）。
+「R」は「休み」（REST）を表す。こう言われた方の御前には休みがある。『わたしのもとにきなさい。あなたがたを休ませてあげよう』（マタイ一一・二八）。「疲れた者は、その魂のために安息を得る」（エレミヤ六・一六）。
 // 英文の Matt. ii:28 は 11:28 の OCR の誤り。
 
 U stands for USEFULNESS: Those who walk with the Saviour, who said: "Work while yet 'tis day, for the night cometh when no man can work," will long to be soul-winners and wear the cloak of service.
@@ -136,14 +136,14 @@ E stands for ENRICHMENT: No mortal tongue can tell the great, inexhaustible stor
 「E」は「富むこと」（ENRICHMENT）を表す。キリストは、ご自分の貧しさによって私たちが富む者になるために、貧しくなられた（第二コリント八・九）。このキリストのうちに見いだされる、大きく尽きることのない富の蓄えは、死すべき者の舌では語り尽くせない。
 
 M stands for MERCY: The child of God who abides beneath the blood is covered with the MERCY (as a garment) that is "great above the heavens" (PS. 108:4), and TRUTH (the girdle which fastens the garment about him) of PS. 85:io, these meeting together to form His raiment.
-「M」は「あわれみ」（MERCY）を表す。血の下にとどまる神の子供は、「天にまでおよぶ」大きなあわれみに、衣のように覆われている（詩篇一〇八・四）。また、詩篇八五篇十節のまこと（衣を身に締める帯）にも覆われている。この二つがともに会って、主の衣を形づくるのである。
+「M」は「あわれみ」（MERCY）を表す。血の下にとどまる神の子供は、「天にまでおよぶ」大きなあわれみに、衣のように覆われている（詩篇一〇八・四）。また、詩篇八十五篇十節のまこと（衣を身に締める帯）にも覆われている。この二つがともに会って、主の衣を形づくるのである。
 // 英文の PS. 85:io は 85:10 の OCR の誤り。
 
 What a dreadful loss it was when the thieves stripped YOU of YOUR raiment. It was impossible to go without the secure walls of the city of His love and to begin your downward journey toward Jericho without losing those beautiful garments. It was indeed a sad day when you were stripped of your robes of Christlikeness. Gone was your Jesus; gone your Enjoyment, your Rest. Taken away was your Usefulness, your robes of Salvation, your Adoration, Love, Enrichment, and Mercy.
 強盗どもがほかでもないあなたから着物をはぎ取ったのは、なんと恐ろしい喪失だったことか。主の愛の都の、安全な城壁の外へ出て、エリコへ向かう下り坂の旅を始めたなら、あの美しい衣を失わずにすむはずはなかった。キリストに似た衣をはぎ取られたあの日は、まことに悲しい日だった。あなたのイエスは去った。あなたの喜びも、休みも去った。役に立つことも、救いの衣も、礼拝も、愛も、富むことも、あわれみも、取り去られた。
 
 The first stroke of the enemy which left you denuded of such garments was bad enough, but, Oh, the second thing that happened to the "certain man" was far, far more sad, if that were possible, for--
-このような衣をはぎ取られ、裸にされた敵の最初の一撃も、十分にひどかった。けれども、ああ、「ある人」に起こった二つ目のことは、もしそんなことがありうるなら、それよりはるかに、はるかに悲しいことだった。というのは、
+このような衣をはぎ取ってあなたを裸にした、敵の最初の一撃も、十分にひどかった。けれども、ああ、「ある人」に起こった二つ目のことは、もしそんなことがありうるなら、それよりはるかに、はるかに悲しいことだった。というのは、
 
 T-H-E-Y W-O-U-N-D-E-D H-I-M, and departed, leaving him half dead.
 強盗どもは彼に、き、ず、を、お、わ、せ、半殺しにしたまま逃げ去ったのである。
@@ -177,19 +177,19 @@ C stands for CALLOUSNESS. The indifferent heart soon becomes calloused and hard.
 「C」は「無感覚」（CALLOUSNESS）を表す。無関心な心は、やがて無感覚になり、かたくなになる。かつては主の前で悔い砕けて溶けるほど、優しい心だった。けれども今は、十字架の優しい物語も、来たるべき怒りを警告する雷鳴も、心を動かされずに聞いている。
 
 H stands for HATRED. When the devil has gotten his victim into the place where he hates the Spirit, who endeavors to rouse him into sense of his peril, hates good and loves evil (Mic. 3:2), he rubs his evil hands and a smile of demonic joy twists his countenance as the poor, duped soul draws near the city of eternal Woe.
-「H」は「憎しみ」（HATRED）を表す。悪魔は、犠牲者を次の所まで引き込む。危険に目覚めさせようとしてくださる御霊を憎み、善を憎み、悪を愛する所である（ミカ三・二）。そこまで来ると、悪魔は邪悪な手をこすり合わせ、悪魔の喜びの笑みに顔をゆがめる。だまされた哀れな魂が、永遠の嘆きの都に近づいて行くからである。
+「H」は「憎しみ」（HATRED）を表す。悪魔は、犠牲者をこんな所まで引き込む。危険に目覚めさせようとしてくださる御霊を憎み、善を憎み、悪を愛する所である（ミカ三・二）。そこまで来ると、悪魔は邪悪な手をこすり合わせ、悪魔の喜びの笑みに顔をゆがめる。だまされた哀れな魂が、永遠の嘆きの都に近づいて行くからである。
 
 O stands for OBSTINACY. When one receives this wound he obstinately refuses to be warned of his danger or flee from the wrath to come. He walks out of the meeting, goes home and to bed, hard, unyielding, obstinate.
 「O」は「強情」（OBSTINACY）を表す。この傷を受けた者は、自分の危険を警告されることも、来たるべき怒りから逃れることも、強情に拒む（マタイ三・七）。彼は集会から出て行き、家に帰って床に就く。かたくなで、譲らず、強情なままである。
 
 What a deceitful old traitor the devil is! He smiles and tricks and fools the soul along while it has life and strength and means, but when it is down and out, helpless, dying and alone, the devil does not even take the trouble to pretend that he is his friend.
-悪魔はなんと人を欺く、老いた裏切り者だろう！　魂にいのちと力と財産があるうちは、ほほえみ、だまし、たぶらかしながら連れ回す。けれども、魂が落ちぶれ果て、助けもなく、死にかけて、ひとりになると、悪魔は友であるふりをする手間さえかけない。
+悪魔はなんと人を欺く、たちの悪い裏切り者だろう！　魂にいのちと力と財産があるうちは、ほほえみ、だまし、たぶらかしながら連れ回す。けれども、魂が落ちぶれ果て、助けもなく、死にかけて、ひとりになると、悪魔は友であるふりをする手間さえかけない。
 
 Half dead--thank God he is not altogether dead, for whilst there is life there is hope! Helpless, unable to drag himself one painful step toward the city of salvation, the sin-sick soul is left lying in the road. "The whole head is sick and the whole heart faint; from the sole of the foot even unto the head there is no soundness in it, but wounds and bruises and putrifying sores; they have not been closed, neither bound up, neither mollified with ointment." Isa. 1:5, 6.
 半殺し。神に感謝しよう、彼はまだすっかり死んではいない。いのちのあるうちは、望みがあるからである！　助けもなく、救いの都へ向かって痛む一歩を引きずることもできず、罪に病む魂は道に倒れたまま置き去りにされる。『その頭はことごとく病み、その心は全く弱りはてている。足のうらから頭まで、完全なところがなく、傷と打ち傷と生傷ばかりだ。これを絞り出すものなく、包むものなく、油をもってやわらげるものもない』（イザヤ一・五〜六）。
 
 What a picture, not only of the individual, but of the whole human race, that wandered from God.--"THERE CAME DOWN A CERTAIN PRIEST THAT WAY."
-一人の人だけでなく、神から離れてさまよった人類全体の、なんという姿だろう。『するとたまたま、ひとりの祭司がその道を下ってきた』
+一人の人だけでなく、神から離れてさまよった人類全体の、なんという姿だろう。『するとたまたま、ひとりの祭司がその道を下ってきた』（ルカ一〇・三一）
 
 Surely this priest, who typifies the L-A-W, will be able to lift, heal and restore the sin-sick soul. But no, there is nothing to hope for from him, for,
 り、っ、ぽ、う、を表すこの祭司なら、罪に病む魂を起こし、いやし、元どおりにすることができるにちがいない。けれども、そうではない。彼には何も望めない。なぜなら、
@@ -208,23 +208,23 @@ In what a deplorable, perilous condition humanity found itself. Is it any wonder
 人類は、なんと嘆かわしい、危うい状態に置かれていたことだろう。助けのない魂が、こう叫ぶのも無理はない。
 
 "Oh, wretched man that I am, who shall deliver me from the body of this death?" Bom. 7:24. Is there no arm to save? Is there no eye to pity? Ah, yes?, glory to Jesus, there is one who sees and approaches from the distance.
-「わたしは、なんというみじめな人間なのだろう。だれが、この死のからだから、わたしを救ってくれるだろうか」（ローマ七・二四）救う腕はないのか。あわれむ目はないのか。ああ、ある。イエスに栄光あれ。見ている方が、遠くから近づいて来られる。
+「わたしは、なんというみじめな人間なのだろう。だれが、この死のからだから、わたしを救ってくれるだろうか」（ローマ七・二四）救う腕はないのか。あわれむ目はないのか。ああ、ある。イエスに栄光あれ。見ておられる方が、遠くから近づいて来られる。
 // 英文の Bom. は Rom. の、yes? の ? は OCR の誤り。
 
 Who could it be but Jesus--this good Samaritan--filled with compassion and tender love for lost, wretched humanity, groveling in the dust of humiliation and despair?
-このよきサマリヤ人は、イエスのほかにだれがありえようか。イエスは、卑しめと絶望のちりの中に這いつくばる、失われたみじめな人類を、あわれみと優しい愛に満ちて見ておられる。
+このよきサマリヤ人は、イエスのほかにだれがありえようか。イエスは、屈辱と絶望のちりの中に這いつくばる、失われたみじめな人類を思い、あわれみと優しい愛に満ちておられる。
 
 Oh, what a journey Jesus took in order to reach poor, fallen souls who lie bruised and bleeding on the road to destruction. What a journey! All the way from heaven to earth He came; all the way from the manger to the cross He went, and from the tomb to His Father's throne.
 ああ、滅びの道で傷つき血を流して倒れている、哀れな、落ちた魂に届くために、イエスはなんという旅をされたことだろう。なんという旅だろう！　天から地まで、はるばる来られた。飼葉おけから十字架まで、はるばる歩まれた。そして墓から父の王座まで行かれた。
 
 "As He journeyed"--no distance was too great to go, no soul too far out of the way for Jesus to reach him with His love and proffered help--
-「旅をして」。どれほど遠い所でも、遠すぎることはなかった。どれほど道からそれた魂でも、イエスが愛と差し伸べる助けをもって届かないほど、遠くそれた魂はなかった。
+「旅をして」。どれほど遠い所でも、遠すぎることはなかった。どれほど道からそれた魂でも、イエスが愛と助けを差し伸べられても届かないほど、遠くそれた魂はなかった。
 
 ## この人のところに来て
 "CAME WHERE HE WAS"-
 
 Yes, this good Samaritan who was none other than the King of Glory, never rested, once He had seen the fallen condition of the world, until He had laid aside His crown, divested Himself of His kingly raiment, taken upon Him the form of man--was not contented even with standing by the sinner's side, but must come where he was, taking his place, and hanging upon his cross, paying his penalty, and dying his death.
-そうだ。このよきサマリヤ人は、栄光の王にほかならなかった。この方は、世の堕落した有様を一度ご覧になると、休むことをなさらなかった。冠を脱ぎ、王の衣を脱ぎ捨て、人の姿をとられるまでは（ピリピ二・七）。それどころか、罪人のかたわらに立つだけでは満足されなかった。罪人のいる所まで来なければならなかった。罪人の身代わりとなり、罪人の十字架にかかり、罪人の刑罰を払い、罪人の死を死なれたのである。
+そうだ。このよきサマリヤ人は、栄光の王にほかならなかった。この方は、世の堕落した有様を一度ご覧になると、休むことをなさらなかった。冠を脱ぎ、王の衣を脱ぎ捨て、人の姿をとられるまでは（ピリピ二・七）。それどころか、罪人のかたわらに立つだけでは満足されなかった。罪人のいる所まで来ずにはおられなかった。罪人の身代わりとなり、罪人の十字架にかかり、罪人の刑罰を払い、罪人の死を死なれたのである。
 
 "For what the law could not do, in that it was weak through the flesh, God, sending His own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:
 『律法が肉により無力になっているためになし得なかった事を、神はなし遂げて下さった。すなわち、御子を、罪の肉の様で罪のためにつかわし、肉において罪を罰せられたのである。
@@ -255,7 +255,7 @@ Oh, how I love those words, love to repeat them over and over:
 // 英文の He journeyed. の点は OCR の誤りとみた。
 
 Just the faintest little cry for help, uttered or unexpressed, and He will reach down His great arms and place them about you. Praise His name!
-声に出しても出さなくても、助けを求めるほんのかすかな叫び一つで、この方は大きな腕を伸ばして、あなたを抱いてくださる。御名をほめたたえよ！
+声に出しても出さなくても、助けを求めるほんのかすかな叫び一つで、この方は大きな御腕を伸ばして、あなたを抱いてくださる。御名をほめたたえよ！
 
 "And it shall come to pass, that whosoever shall call on the name of the Lord shall be delivered: for in Mount Zion and in Jerusalem shall be deliverance, as the Lord hath said, and in the remnant u-hom the Lord shall call." Joel 2:32.
 『すべて主の名を呼ぶ者は救われる。それは主が言われたように、シオンの山とエルサレムとに、のがれる者があるからである。その残った者のうちに、主のお召しになる者がある』（ヨエル二・三二）
@@ -318,7 +318,7 @@ What would you have thought of this good Samaritan had He turned to the wounded 
 もしこのよきサマリヤ人が、傷ついた人のほうを向いて、こう言われたとしたら、あなたはどう思うだろうか。
 
 "Now come, my man; I have bound up your wounds. I have poured in oil and wine. Here beside you stands the little beast (salvation), the sure-footed little animal that can climb the most rugged mountain without slipping or making a misstep. I want you to pick up this beast, put it on your poor, bruised back, walk back all the many weary miles to Jerusalem with this burden upon your shoulder, and mind you do not let it fall."
-「さあ、きみ、傷にはほうたいをしてやった。オリブ油とぶどう酒も注いでやった。ここ、きみのそばに、小さな家畜（救い）がいる。いちばん険しい山でも、滑ったり足を踏みはずしたりせずに登れる、足の確かな小さな動物だ。この家畜を持ち上げて、傷ついたきみの背中に載せなさい。この荷を肩に負って、エルサレムまでの長い疲れる道のりを歩いて帰りなさい。落とさないように気をつけるのだよ」
+「さあ、きみ、傷にはほうたいをしてやった。オリブ油とぶどう酒も注いでやった。ここ、きみのそばに、小さな家畜（救い）がいる。いちばん険しい山でも、滑ったり足を踏みはずしたりせずに登れる、足の確かな小さな動物だ。この家畜を持ち上げて、傷ついたきみの哀れな背中に載せなさい。この荷を肩に負って、エルサレムまでの長い疲れる道のりを歩いて帰りなさい。落とさないように気をつけるのだよ」
 
 Was this what he said? NO, Never! He did not ask the man to carry the beast, but He brought the beast to carry the man. Therefore He set him on His own beast--
 この方はそう言われただろうか。とんでもない、決してそうではない！　この方は、その人に家畜を運べとは言われなかった。家畜を連れて来て、その人を運ばせられたのである。だから、ご自分の家畜に乗せられたのである。
@@ -426,7 +426,7 @@ Did not the apostle Paul declare that
 『主ご自身が天使のかしらの声と神のラッパの鳴り響くうちに、合図の声で、天から下ってこられる。その時、キリストにあって死んだ人々が、まず最初によみがえり、
 
 Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord." I Thess. 4:16, 17. Did He not tell us to comfort one another with these words? Did not the Lord, speaking through John on the Isle of Patmos, say:
-それから生き残っているわたしたちが、彼らと共に雲に包まれて引き上げられ、空中で主に会い、こうして、いつも主と共にいるであろう』（第一テサロニケ四・一六〜一七）。これらの言葉をもって互に慰め合いなさいと、私たちは言われているではないか（第一テサロニケ四・一八）。パトモス島でヨハネを通して語られた主は、こう言われたではないか。
+それから生き残っているわたしたちが、彼らと共に雲に包まれて引き上げられ、空中で主に会い、こうして、いつも主と共にいるであろう』（第一テサロニケ四・一六〜一七）。これらの言葉をもって互いに慰め合いなさいと、私たちは言われているではないか（第一テサロニケ四・一八）。パトモス島でヨハネを通して語られた主は、こう言われたではないか。
 
 "Surely, I come quickly." And is not the Spirit speaking today throughout the whole world, through yielded vessels:
 『しかり、わたしはすぐに来る』（黙示録二二・二〇）。また今日、御霊は、身をゆだねた器を通して、全世界にこう語っておられるではないか。
