@@ -5,7 +5,7 @@ THE EARLY AND THE LATTER RAIN.
 GOD fashioned the land of Palestine to be the model land of all lands, to contain the products of all zones and climes, to be a miniature world in itself, and so He arranged the coming and going of its rain clouds on a spiritual pattern, to beautifully adumbrate the movements of the Holy Spirit.
 神はパレスチナの地を、すべての地の模範となる地として造られた。あらゆる地帯と気候の産物を備え、それ自体が小さな世界となるようにされたのである。そこで神は、その地の雨雲の来ては去るさまを、霊的なひな型に従って定められた。聖霊の動きを、美しくほのかに描き出すためである。
 So just what rain is to the earth, the Holy Spirit is to the soul.
-だから、雨が地にとってそうであるように、聖霊は魂にとってそうなのである。
+だから、地にとっての雨は、そのまま魂にとっての聖霊に当たる。
 God arranged the showers of rain in the land of Canaan, as a type of the operations of grace.
 神はカナンの地の雨を、恵みの働きのひな型として定められた。
 Many Scriptures allude to the early and the latter rain, and these rains are used as types of the Holy Spirit (Deut. 11: 14; Jer. 5: 24; Hos. 6: 3; Joel 2: 23, and Jas. 5: 7).
@@ -20,7 +20,7 @@ The soil of that land is very fine and heavy, and so a rain will last three time
 After the early rain, there came a dry spell of several weeks, allowing ample time of bright clear weather for the cultivation of the crops.
 前の雨のあと、数週間の乾いた時期が来た。明るく晴れた日が続き、作物を育てる時間が十分にあった。
 Then there came another copious rain, the latter rain, just in time to re-enforce the exhausted forces of the grains and fruits with abundance of sap.
-それから、もう一度たっぷりと雨が降った。これが後の雨である。ちょうどよい時に降って、弱った穀物と果実に樹液を満たし、力を取り戻させた。
+それから、もう一度たっぷりと雨が降った。これが後の雨である。ちょうどよいときに降って、弱った穀物と果実に樹液を満たし、力を取り戻させた。
 The latter rain then passed away, leaving the bright warm sunshine to mature and mellow all the grain, and giving beautiful cloudless days for the reapers to work in.
 それから後の雨はやんだ。あとには明るく暖かな日の光が残って、すべての穀物を実らせ、熟させた。そして刈り入れる人々が働けるよう、雲一つない美しい日々が続いた。
 
@@ -41,7 +41,7 @@ They have been glorious and wonderful: so much so that many have taken them for 
 But we know that these revivals, though gracious, have fallen far short of the apostolic revivals--the early rain.
 しかし私たちは知っている。これらのリバイバルは恵みに満ちてはいたが、使徒たちの時代のリバイバル、すなわち前の雨には遠く及ばなかった。
 The Scriptures seem to teach that the latter rain is to be far greater than the former.
-聖書は、後の雨が前の雨よりもはるかに大きいことを教えているようである。
+聖書は、後の雨が前の雨よりもはるかに大きなものになることを教えているようである。
 The most of Old Testament prophecy is two-fold, i.e., it has two fulfillments, the first being the shadow of the second.
 旧約の預言の大部分は二重である。すなわち、二度の成就があり、一度目は二度目の影なのである。
 Joel's prophecy quoted by Peter (Joel 2: 28-32 and Acts 2: 17-20) was partially fulfilled on the day of Pentecost, but that its greater fulfillment is still future appears from Joel 2: 30-32.
@@ -57,7 +57,7 @@ So it would only be natural to expect that in the latter rain Pentecost should b
 Let us not forget that the Spirit has always been in the world.
 御霊がいつもこの世におられたことを、忘れないようにしよう。
 It requires only a careful study of the world's moral and spiritual development to see that it was the Holy Spirit that led the world by successive stages, through patriarch, law-giver, priest, judge, and prophet up to Christ, who prepared His people for the Baptism of the Spirit--the early rain.
-世の道徳と霊の発展を注意して調べさえすれば、わかることがある。聖霊こそが、世を一段一段と導かれたのである。族長、律法を与えた人、祭司、さばき人、預言者を通して、キリストにまで導かれた。そしてキリストが、ご自分の民に御霊のバプテスマ、すなわち前の雨を受ける備えをさせられたのである。
+世の道徳と霊の発展を注意して調べさえすれば、わかることがある。聖霊こそが、世を一段一段と導かれたのである。族長、律法を与えた人、祭司、さばきづかさ、預言者を通して、キリストにまで導かれた。そしてキリストが、ご自分の民に御霊のバプテスマ、すなわち前の雨を受ける備えをさせられたのである。
 It required four thousand years to do this work, but under the Spirit's direction the soil was finally prepared, the seed sown, and then the early rain came.
 この働きには四千年がかかった。しかし御霊の導きのもとで、ついに土が整えられ、種がまかれ、そして前の雨が降ったのである。
 
@@ -85,7 +85,7 @@ During the long drought of the middle ages a few saints received the Baptism of 
 Over two hundred years ago, the Huguenots, in France, who were so persecuted by the Roman church, had quite a number among them that received the Holy Spirit, and spake with other tongues.
 二百年以上前、フランスのユグノーはローマ教会からひどい迫害を受けた。その中にも、聖霊を受けて異言を語った人がかなりいた。
 About one hundred years ago, when Irving, of London, was preaching on the pre-millennial coming of the Lord, a number of persons spake with other tongues.
-百年ほど前、ロンドンのアービングが千年期前の主の再臨を説いていたとき、何人もの人が異言を語った。
+百年ほど前、ロンドンのアービングが千年期前の主の来臨を説いていたとき、何人もの人が異言を語った。
 We read of a number of people in Topeka, Kansas, who spake with tongues about the beginning of the year 1900.
 1900年の初めごろ、カンザス州トピカで何人もの人が異言を語ったと読んだことがある。
 There were a number of people at West Union, S. C., who were baptized with the Holy Spirit, and spake with tongues a few years ago.
@@ -132,18 +132,18 @@ There are smaller rooms where hands are laid on the sick and 'they recover' as o
 Below is a room 40 x 60 feet, filled with odds and ends of chairs, benches, and backless seats, where the curious and the eager sit for hours listening to strange sounds and songs and exhortations from the skies.
 一階には十二メートルに十八メートルほどの部屋があり、ありあわせのいすや長いすや背のない腰掛けでいっぱいである。物見高い人も熱心な人も、ここに何時間もすわって、不思議な音や歌や、天からの勧めに耳を傾けている。
 In the center of the big room is a box on end, covered with cotton, which a junk man would value at about 15 cents.
-その大きな部屋の真ん中に、木綿の布をかぶせた箱が縦に置いてある。くず屋なら15セントほどの値をつけるであろう。
+その大きな部屋の真ん中に、木綿の布をかぶせた箱が縦に置いてある。くず屋なら十五セントほどの値をつけるであろう。
 This is the pulpit from which is sounded forth what the leader, Brother Seymour, calls old-time repentance, old-time pardon, old-time sanctification, old-time power over devils and diseases, and the old-time 'Baptism with the Holy Ghost and fire.'
-これが説教壇である。ここから、指導者のシーモア兄弟が昔ながらの悔改め、昔ながらの赦し、昔ながらの聖化と呼ぶものが告げ知らされる。悪霊と病気に打ち勝つ昔ながらの力、そして昔ながらの『聖霊と火とのバプテスマ』も告げ知らされるのである」。
+これが説教壇である。ここから告げ知らされるのは、指導者のシーモア兄弟の言う昔ながらの悔改め、昔ながらのゆるし、昔ながらの聖化である。また、悪霊と病気に打ち勝つ昔ながらの力、そして昔ながらの『聖霊と火とのバプテスマ』である」。
 
 "Meetings begin at 10 o'clock every morning and are continued until near midnight.
-「集会は毎朝10時に始まり、真夜中近くまで続く。
+「集会は毎朝十時に始まり、真夜中近くまで続く。
 There are three altar services daily.
 祭壇の集いは毎日三回ある。
 The altar is a plank on two chairs in the center of the room, and here the Holy Ghost falls on men and women and children in old Pentecostal fashion as soon as they have a clear experience of heart purity.
 祭壇は、部屋の真ん中で二つのいすの上に渡した一枚の板である。ここで、男にも女にも子供にも、心のきよさをはっきり経験するとすぐに、昔のペンテコステのように聖霊が下る。
 Proud preachers and laymen with great heads, filled and inflated with all kinds of theories and beliefs, have come here from all parts, have humbled themselves and got down, not 'in the straw, but 'on' the straw matting, and have thrown away their notions, and have wept in conscious emptiness before God and begged to be 'endued with power from on high,' and every honest believer has received the wonderful incoming of the Holy Spirit to fill and thrill and melt and energise his physical frame and faculties, and the Spirit has witnessed to His presence by using the vocal organs in the speaking forth of a 'new tongue.'"--Article in "Way of Faith, October 11, 1906.
-高慢な説教者たちや、頭の大きな信徒たちがいる。あらゆる説や信念を詰め込んで、ふくれ上がった人々である。その人々が各地からここに来て、へりくだってひざまずいた。『わらの中に』ではなく、わらの敷物の『上に』である。そして自分の考えを投げ捨て、自分が空っぽであることを知って神の前に泣き、『上から力を授けられる』ことを願い求めた。正直な信者はみな、聖霊がすばらしく入って来てくださるのを経験した。聖霊はその人のからだと諸機能を満たし、震わせ、溶かし、力づけてくださった。そして御霊は、その人の発声器官を用いて『新しい言葉』を語らせてくださった。こうして、ご自分がそこにおられることをあかしされたのである」（『ウェイ・オブ・フェイス』1906年10月11日号の記事）。
+高慢な説教者たちや、頭でっかちの信徒たちがいる。あらゆる説や信念を詰め込んで、ふくれ上がった人々である。その人々が各地からここに来て、へりくだってひざまずいた。『わらの中に』ではなく、わらの敷物の『上に』である。そして自分の考えを投げ捨て、自分が空っぽであることを知って神の前に泣き、『上から力を授けられる』ことを願い求めた。正直な信者はみな、聖霊がすばらしく入って来てくださるのを経験した。聖霊はその人のからだと諸機能を満たし、震わせ、溶かし、力づけてくださった。そして御霊は、その人の発声器官を用いて『新しい言葉』を語らせてくださった。こうして、ご自分がそこにおられることをあかしされたのである」（『ウェイ・オブ・フェイス』1906年10月11日の記事）。
 // 英文は `not 'in the straw, but 'on' the straw matting` と `"Way of Faith, October 11, 1906.` で、どちらも閉じ引用符が欠けている。
 
 In this way, and in this humble place this movement had its beginning.
@@ -168,7 +168,7 @@ It started with a few saints in Los Angeles, but they are not recognized as the 
 Some have tried to make themselves leaders, but the movement will not be led by them.
 自分が指導者になろうとした人々もいた。しかし運動は、彼らに導かれようとはしない。
 Every one whom I have known to try to take the lead of the movement in a prayer meeting, church, community, or country has been defeated.
-祈祷会で、教会で、町で、あるいは国で、この運動の先頭に立とうとした人を、私は何人も知っている。その人々はみな失敗した。
+祈祷会で、教会で、町で、あるいは国で、この運動の先頭に立とうとした人々がいた。私の知るかぎり、その人々はみな失敗した。
 It will not be led by man.
 この運動は、人には導かれない。
 Thank God! The Spirit attends to His work.
@@ -222,7 +222,7 @@ During the early rain the Holy Spirit, when giving utterance through a person, s
 前の雨の間、聖霊は人を通して語らせるとき、主の苦難と死と復活について語られた。後の雨の今の時代には、語られることの中心は、主の再臨、小羊の婚姻、そして小羊の婚宴である。
 
 The holiness people have been for years praying for a general revival.
-ホーリネスの人々は、何年も前から、全国的なリバイバルを求めて祈ってきた。
+ホーリネスの人々は、何年も前から、各地に広がるリバイバルを求めて祈ってきた。
 God has sent it.
 神はそれを送ってくださった。
 But because it has brought greater light on the Word, and different from the old theory, and not exactly through the same old channels and leaders, and not in exact accord with the numerous holiness books scattered over our land, one-half the holiness people have turned their backs upon it.
@@ -249,11 +249,11 @@ The lines have never been drawn at any time that those who were loyal to God did
 境界線が引かれたとき、神に忠実な人々が真理と正義の側に立たなかったことは、一度もない。そして神は彼らと共に戦われ、彼らは神によって勇ましく戦った。神ご自身が、『ひとりで千人を追い、ふたりで万人を敗る』と言われたからである。
 
 The greatest triumphs of the cross ever witnessed by man have been when the roar of cannon and the rattle of musketry and smoke of guns almost drowned the voice of God and hid His face; and yet when the din and smoke of battle blew away, we saw that God was with us and the angels had pitched their tents about us.
-人がこれまで見た十字架の最大の勝利は、戦いのさなかに起こった。大砲のとどろきと小銃の音と硝煙が、神の御声をかき消し、御顔を隠しそうになったときである。それでも、戦いの騒音と煙が吹き払われたとき、私たちは見たのである。神が私たちと共におられ、御使いたちが私たちのまわりに陣を敷いていた。
+人がこれまで見た十字架の最大の勝利は、戦いのさなかに起こった。大砲のとどろきと小銃の音と硝煙が、神の御声をかき消し、御顔を隠しそうになったときである。それでも、戦いの騒音と煙が吹き払われたとき、私たちは見た。神は私たちと共におられ、御使いたちが私たちのまわりに陣を敷いていたのである。
 The Scriptures have much to say of warfare, and we sing of "soldiers of the cross."
 聖書は戦いについて多くを語っている。そして私たちは「十字架の兵士」を歌う。
 We are truly in a warfare now, and while victory means crowns and palms and harps, it also means scars and hardships, but the command is: "Earnestly contend for the faith which was once delivered unto the saints," "Fight the good fight of faith," and "Lay hold on eternal life."
-私たちは今、まさに戦いの中にいる。勝利は冠としゅろの枝と立琴を意味するが、傷と苦しみをも意味する。しかし命令はこうである。『聖徒たちにひとたび伝えられた信仰のために戦え』、『信仰の戦いをりっぱに戦いぬけ』、『永遠のいのちを獲得しなさい』。
+私たちは今、まさに戦いの中にいる。勝利は冠としゅろの枝と立琴を意味するが、傷と苦しみをも意味する。しかし命令はこうである。『聖徒たちにひとたび伝えられた信仰のために戦いなさい』、『信仰の戦いをりっぱに戦いぬきなさい』、『永遠のいのちを獲得しなさい』。
 
 The apostles had a great fight in preaching Jesus and putting forth the plan of salvation.
 使徒たちは、イエスを宣べ伝え、救いの計画を説き示すのに、大きな戦いをした。
@@ -270,18 +270,18 @@ He, like Luther, was opposed, but the world received another great shaking, the 
 ウェスレーもルターと同じように反対された。しかし世界は、もう一度大きく揺り動かされた。聖霊が、宣べ伝えられた真理を、しるしと不思議によって確かなものとしてくださったのである。
 
 Then came the truths of Divine healing and the pre-millennial coming of the Lord.
-それから、神癒と、千年期前の主の再臨の真理が来た。
+それから、神癒と、千年期前の主の来臨の真理が来た。
 Each of these were fought by the powers of darkness.
 そのどれもが、暗やみの力に攻撃された。
 Now since the truths of justification, sanctification, Divine healing, and the pre-millennial coming of the Lord have been accepted by many, God is turning on more light, and the fight is now on the Baptism of the Holy Spirit and the evidence of Pentecost.
-今では、義認、聖化、神癒、千年期前の主の再臨の真理が、多くの人に受け入れられている。そこで神はさらに光を照らしておられる。そして今、戦いは聖霊のバプテスマとペンテコステの証拠をめぐって起こっているのである。
+今では、義認、聖化、神癒、千年期前の主の来臨の真理が、多くの人に受け入れられている。そこで神はさらに光を照らしておられる。そして今、戦いは聖霊のバプテスマとペンテコステの証拠をめぐって起こっているのである。
 
 All things are culminating--coming to a head.
 すべてのことが頂点に達しつつある。いよいよ極まりつつあるのである。
 Shall not the children of God be as wise?
 神の子らも、同じように賢くあるべきではないか。
 Has not God the right to impart new light to His children from time to time as He may choose?
-神には、ご自分の子らに、ときに応じて思いのままに新しい光を与える権利があるのではないか。
+神には、ご自分の子らに、ときに応じて思いのままに新しい光をお与えになる権利があるのではないか。
 General principles remain the same, but there are sovereign principles at work, not so clearly defined even in the Scriptures, though always in harmony with them.
 大もとの原則は変わらない。しかし、神の主権による原則も働いている。それは聖書の中でさえそれほどはっきりとは示されていないが、いつも聖書と調和している。
 We have in mind the fact that since the days of the apostasy of the early church we have been groping our way slowly back to God as faith could grasp the thought, as we could receive the light.
