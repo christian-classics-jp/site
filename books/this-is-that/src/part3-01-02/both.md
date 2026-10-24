@@ -26,7 +26,7 @@ C-O-M-E; I-F; B-U-T; How much is expressed in the three opening words of the thr
 C-O-M-E.
 
 Dear sinner, Jesus loves you. His arms are outstretched toward you, His voice is calling you, He has prepared a glorious Salvation for your body, soul and spirit, and His great heart and love and life are composed of one great, loving c-o-m-e! c-o-m-e! c-o-m-e!
-愛する罪人よ、イエスはあなたを愛しておられる。御腕はあなたに向かって差し伸べられ、御声はあなたを呼んでいる。主はあなたの体と魂と霊のために、栄光に満ちた救いを備えてくださった。主の大きな心と愛といのちは、愛に満ちた一つの大きな言葉でできている。さあ、来なさい！　さあ、来なさい！　さあ、来なさい！
+愛する罪人よ、イエスはあなたを愛しておられる。御腕はあなたに向かって差し伸べられ、御声はあなたを呼んでおられる。主はあなたの体と魂と霊のために、栄光に満ちた救いを備えてくださった。主の大きな心と愛といのちは、愛に満ちた一つの大きな言葉でできている。さあ、来なさい！　さあ、来なさい！　さあ、来なさい！
 
 No matter how deep you may have fallen into sin, Jesus says, "Come, I will forgive you and wash you whiter than the driven snow."
 あなたがどれほど深く罪に落ちていても、イエスは言われる。「来なさい。わたしはあなたをゆるし、降り積もった雪よりも白く洗おう」
@@ -35,7 +35,7 @@ No matter how black and vile your heart may be, no matter how evil your mind and
 あなたの心がどれほど黒く汚れていても、思いがどれほど悪く、欲がどれほど汚れていても、罪の習慣がどれほど強くても、来なさい。わたしは、罪に満ちたあなたの心を取り去り、新しい心を与えよう。清く聖なる思いに満ちた、清い心である。わたしはあなたの思いを天上の思いで満たし、あなたの口を賛美で満たそう。悪い習慣の鎖をすべて断ち切り、キリスト・イエスにある自由な者として歩み出させよう。
 
 "No matter if you have been a moral professor, striving to live well in your own way you must come to Me just as you are," says Jesus. "You must be born again; nothing but the blood can save. All your righteousness is as filthy rags."
-「たとえあなたが品行の正しい信仰告白者で、自分なりに正しく生きようと努めてきたとしても、ありのままでわたしのもとに来なければならない」とイエスは言われる。「あなたは新しく生れなければならない（ヨハネ三・七）。血のほかに救うものはない。あなたの正しい行いは、ことごとく汚れた衣のようである（イザヤ六四・六）」
+「あなたは品行の正しい信仰告白者で、自分なりに正しく生きようと努めてきたかもしれない。それでも、ありのままでわたしのもとに来なければならない」とイエスは言われる。「あなたは新しく生れなければならない（ヨハネ三・七）。血のほかに救うものはない。あなたの正しい行いは、ことごとく汚れた衣のようである（イザヤ六四・六）」
 
 Let the little children come, the aged with their white heads and mis-spent years, the colored and the white, the yellow and the brown--come unto Me, all ye ends of the earth, and be ye saved. COME! COME!! COME!!! The call goes forth to the Queen upon her throne and to the poorest wretch in the convict's cell alike; all have sinned and come short of the glory of God; all have need of His great salvation.
 小さな子供たちも来なさい。白髪になり、年をむだに過ごしてきた老人も来なさい。黒人も白人も、黄色い人も褐色の人も来なさい。地の果なるもろもろの人よ、わたしのもとに来て救われよ（イザヤ四五・二二）。来なさい！　来なさい！！　来なさい！！！　この招きは、王座にある女王にも、囚人の独房にいる最も哀れな者にも、等しく向けられている。『すべての人は罪を犯したため、神の栄光を受けられなくなって』いる（ローマ三・二三）。すべての人に、主の大いなる救いが必要なのである。
@@ -52,7 +52,7 @@ I-F.
 
 "// ye be willing and obedient, ye shall eat the good of the land." I-F--dear sinner, Jesus has done His part, He has sent forth the great call, "Come," throughout the world; He has laid down His life and shed His blood to redeem you; He has prepared a great and glorious feast and builded a glorious, heavenly city for you to live in. But now we come to the great, middle word of our test, "I-F." It does not look like a very big word to read it, yet it is of such gigantic proportions and looms up such a mountain that your whole soul's eternal salvation or damnation depends upon that one .little word--"IF."
 // 英文の「"// ye be willing」は「"IF ye be willing」、「our test」は「our text」、「.little」は「little」と読んだ。
-『もし、あなたがたが快く従うなら、地の良き物を食べることができる』（イザヤ一・一九）。もし。愛する罪人よ、イエスはご自分の分を果たされた。「来なさい」という大いなる招きを、全世界に送り出された。あなたをあがなうために、いのちを捨て、血を流された。大いなる栄光の宴を備え、あなたが住むための、栄光に満ちた天の都を建ててくださった。けれども今、私たちはこの聖句の真ん中の大事な言葉、「もし」に来た。読んでみると、たいして大きな言葉には見えない。けれども、これはとてつもなく大きく、山のようにそびえ立つ言葉である。あなたの魂が永遠に救われるか滅びるかは、すべてこの小さな一語、「もし」にかかっているのである。
+『もし、あなたがたが快く従うなら、地の良き物を食べることができる』（イザヤ一・一九）。「もし」。愛する罪人よ、イエスはご自分の分を果たされた。「来なさい」という大いなる招きを、全世界に送り出された。あなたをあがなうために、いのちを捨て、血を流された。大いなる栄光の宴を備え、あなたが住むための、栄光に満ちた天の都を建ててくださった。けれども今、私たちはこの聖句の真ん中の大事な言葉、「もし」に来た。読んでみると、たいして大きな言葉には見えない。けれども、これはとてつもなく大きく、山のようにそびえ立つ言葉である。あなたの魂が永遠に救われるか滅びるかは、すべてこの小さな一語、「もし」にかかっているのである。
 
 God has left you a free-will, moral agent; He will plead with you to come; He will endeavor to win you to His salvation and love, but He will never force you to accept it. There must be a willingness upon your part to accept this Saviour as your Lord and King, a willingness to let Him give you a new heart, and shape your life and pattern it after our great example, Jesus. Here, then, is the whole key to the situation:
 神はあなたを、自由な意志を持ち、自分で善悪を選ぶ者としておかれた。神はあなたに来るよう嘆願し、あなたを救いと愛へ導こうと努められる。けれども、それを受け入れるよう強いることは決してなさらない。あなたの側に、進んで受け入れる心がなければならない。この救い主を自分の主、自分の王として受け入れようとする心である。主に新しい心をいただき、私たちの偉大な模範であるイエスにならって、生活を形づくっていただこうとする心である。それでは、ここにこの問題を解く鍵のすべてがある。
@@ -74,10 +74,10 @@ If ye be willing and obedient, and become a child of King Jesus by being born ag
 もしあなたが快く従い、新しく生れて主の救いを受け入れ、王なるイエスの子供となるなら、主の栄光の大庭に永遠に住むことになる。
 
 But if ye refuse and rebel, and choose rather to remain in sin, and continue to walk on as the devil's child, you will, of course, share in the devil's home and reward, and be devoured with the sword. The mouth of the Lord hath spoken it, and no matter who has tried to tell you destruction will not come, nor sorrow overtake those who refuse and rebel, they cannot change the true facts of the case, for the mouth of the Lord hath spoken it.
-しかし、もしあなたが拒みそむき、むしろ罪のうちにとどまることを選び、悪魔の子として歩み続けるとする。そのときは当然、悪魔の住まいと報いを分け合い、つるぎで滅ぼされる。主がその口で語られたのである。拒みそむく者に滅びは来ない、悲しみは追いつかない。だれがそうあなたに言おうとしても、まことの事実を変えることはできない。主がその口で語られたからである。
+しかし、もしあなたが拒みそむき、むしろ罪のうちにとどまることを選び、悪魔の子として歩み続けるとする。そのときは当然、悪魔の住まいと報いを分け合い、つるぎで滅ぼされる。主がその口で語られたのである。拒みそむく者に滅びは来ない、悲しみも追いつかない。だれかがあなたにそう言おうとしたかもしれない。けれども、その人たちは、まことの事実を変えることはできない。主がその口で語られたからである。
 
 O, dear sinner, heed this simple message today. Come to Jesus as you are. Will you not kneel down just where you are this moment, and cry out--"O, Jesus, you have invited us to come, poor, wretched, sinful, vile. O Lamb of God, I come. Forgive my sins, create in me a new heart, make me obedient and true to You forever. Take all desire for the world, the flesh and the devil from my life, and create a right Spirit within me, and I will follow You wherever You may lead me, dear Saviour." You will feel His cleansing blood applied and His Spirit will bear witness with your spirit that you are a child of God, and with His great, eternal arms about you, a new life will open out before you, and you will find your feet in the path that leads on through the gates of pearl and the streets that are paved with gold.
-ああ、愛する罪人よ、今日、この単純なメッセージに耳を傾けなさい。ありのままでイエスのもとに来なさい。今この瞬間、いるその場にひざまずいて、叫ばないか。「ああイエスさま、あなたは私たちを招いてくださいました。貧しく、みじめで、罪深く、汚れたままで来るようにと。ああ神の小羊よ、私は参ります。私の罪をゆるし、私のうちに新しい心を造ってください。私をいつまでもあなたに従順で、忠実な者にしてください。世と肉と悪魔を求める思いを、私の生活から取り去ってください。私のうちに正しい霊を造ってください。愛する救い主よ、そうすれば、あなたが導かれる所へどこへでも、私はついて行きます」と叫ぶなら、あなたは主の清める血が注がれるのを感じるだろう。御霊が、あなたの霊とともに、あなたが神の子であることをあかししてくださる（ローマ八・一六）。主の大いなる永遠の御腕に抱かれて、新しいいのちがあなたの前に開ける。そして、あなたの足が、真珠の門を通って金を敷きつめた通りへと続く道に、置かれているのに気づくだろう。
+ああ、愛する罪人よ、今日、この単純なメッセージに耳を傾けなさい。ありのままでイエスのもとに来なさい。今この瞬間、いるその場にひざまずいて、こう叫ばないか。「ああイエスさま、あなたは私たちを招いてくださいました。貧しく、みじめで、罪深く、汚れたままで来るようにと。ああ神の小羊よ、私は参ります。私の罪をゆるし、私のうちに新しい心を造ってください。私をいつまでもあなたに従順で、忠実な者にしてください。世と肉と悪魔を求める思いを、私の生活から取り去ってください。私のうちに正しい霊を造ってください。愛する救い主よ、そうすれば、あなたが導かれる所へどこへでも、私はついて行きます」そう叫ぶなら、あなたは主の清める血が注がれるのを感じるだろう。御霊が、あなたの霊とともに、あなたが神の子であることをあかししてくださる（ローマ八・一六）。主の大いなる永遠の御腕に抱かれて、新しいいのちがあなたの前に開ける。そして、あなたの足が、真珠の門を通って金を敷きつめた通りへと続く道に、置かれているのに気づくだろう。
 
 May God bless you, and help you to accept this great invitation at once? for today is the day of salvation. O, harden not your heart.
 // 英文の「at once?」は「at once,」の崩れと読んだ。
@@ -87,17 +87,17 @@ May God bless you, and help you to accept this great invitation at once? for tod
 WHAT SHALL I DO WITH JESUS?
 
 "WHAT shall I do with Jesus?" Clear and imperative rang out the voice of Pilate above the clamor of the throng assembled in the Judgment Hall.
-「イエスをどうしたらよいか」（マタイ二七・二二）。さばきの広間に集まった群衆の騒ぎを越えて、ピラトの声がはっきりと、有無を言わせず響いた。
+「イエスをどうしたらよいか」（マタイ二七・二二）さばきの広間に集まった群衆の騒ぎを越えて、ピラトの声がはっきりと、有無を言わせず響いた。
 
 "What shall I do with Jesus?" The question was flung forth over the mob of frenzied, upturned faces.
 「イエスをどうしたらよいか」。この問いが、狂ったように顔を上げる暴徒の上に投げかけられた。
 
 Fair and square, demanding an immediate, decisive answer, this question of momentous importance resounded through the court room, and hung suspended in the tense, tragedy-laden air. From the murmuring sea of anger-tossed accusers was born a mighty, unquenchable tempest of bowlings and ragings, while dark faces grew darker still with blood-thirsty fury against the still, calm figure standing so meek and sweet in his robes of flowing white.
 // 英文の「bowlings」は「howlings」と読んだ。
-正面から、ただちにはっきりした答えを迫りながら、この重大な問いは法廷に響きわたった。そして、張りつめ、悲劇をはらんだ空気の中に、宙づりになって漂った。怒りに揺れる告発者たちのざわめく海から、抑えようのない、わめきと怒号の大嵐が生まれた。険しい顔は、血に飢えた怒りでいっそう険しくなった。その怒りは、流れるような白い衣をまとい、柔和に、いとしく、静かに落ち着いて立っている方に向けられていた。
+正面から、ただちにはっきりした答えを迫りながら、この重大な問いは法廷に響きわたった。そして、張りつめ、悲劇をはらんだ空気の中に、宙づりになって漂った。怒りに揺れる告発者たちのざわめく海から、抑えようのない、わめきと怒号の大嵐が生まれた。険しい顔は、血に飢えた怒りでいっそう険しくなった。その怒りは、流れるような白い衣をまとい、柔和に、優しく、静かに落ち着いて立っておられる方に向けられていた。
 
 It was Jesus--this pure, mild man, standing there friendless and alone in the midst of this howling rabble. How out of place He looked--like a tall, sweet, fragrant lily in the midst of thorns and briers; like a pure little lamb in the midst of a pack of hungry wolves, with bared fangs. Dear Lamb of God, innocent, and unresisting, before the great judgment seat of Pontius Pilate he stood, awaiting the verdict of those arrayed against Him.
-それはイエスだった。この清く穏やかな方が、わめき立てる群衆のただ中に、友もなくひとりで立っておられた。なんと場違いに見えたことだろう。いばらとおどろの中に咲く、背の高い、かぐわしい百合のようだった。牙をむいた飢えた狼の群れの中にいる、清い小さな小羊のようだった。愛する神の小羊は、罪なく、逆らうこともなく、ポンテオ・ピラトの大いなるさばきの座の前に立っておられた。そして、ご自分に敵対する者たちの評決を待っておられた。
+それはイエスだった。この清く穏やかな方が、わめき立てる群衆のただ中に、友もなくひとりで立っておられた。なんと場違いに見えたことだろう。いばらとおどろの中に咲く、背の高い、かぐわしい百合のようだった。牙をむいた飢えた狼の群れの中にいる、清い小さな小羊のようだった。尊い神の小羊は、罪なく、逆らうこともなく、ポンテオ・ピラトの大いなるさばきの座の前に立っておられた。そして、ご自分に敵対する者たちの評決を待っておられた。
 
 "What shall I do with Jesus?" What decision would they render upon this question--this momentous question--this greatest and most important question that has ever been decided since the world began? There were only two possible ways of answering--only two courses of action open: there was no neutral ground, for had He not declared that
 「イエスをどうしたらよいか」。彼らはこの問いに、どんな決定を下すのだろうか。この重大な問い、世の始まりから決められてきたどの問いよりも大きく、大切な問いである。答え方は二つしかなかった。取りうる道は二つしかなかった。中立の場所はなかった。主は、こう宣言しておられたではないか。
@@ -110,10 +110,10 @@ Louder, and with ever increasing determination, rose and fell the cry of the peo
 
 "Away with Him! Crucify Him! Crucify Him! We have no King but Caesar." They had rendered their decision, their choice had been made; they had given their irrevocable answer, and had de-determined to crucify and put their Lord to an open shame.
 // Away with Him は口語訳では「殺せ」（ヨハネ一九・一五）。この説教では、罪人がイエスを拒む言葉として繰り返し使われるので、「除き去れ」と訳した。英文の「de-determined」は「determined」と読んだ。
-「除き去れ！　十字架につけよ！　十字架につけよ！　わたしたちには、カイザル以外に王はありません（ヨハネ一九・一五）」彼らは決定を下し、選びをすませた。取り消すことのできない答えを出し、自分たちの主を十字架につけ、さらしものにすることに決めたのである。
+「除き去れ！　十字架につけよ！　十字架につけよ！　わたしたちには、カイザル以外に王はありません」（ヨハネ一九・一五）彼らは決定を下し、選びをすませた。取り消すことのできない答えを出し、自分たちの主を十字架につけ、さらしものにすることに決めたのである。
 
 Harsh hands fell upon the gentle Nazarene, and rushed Him from the court. Mercilessly did they tear His garments from Him, and bared His precious back to the smiters. He meekly bore the cruel lash--to the last, stinging blow--that by His stripes we might be healed. A crown of thorns was thrust down upon His brow; a purple robe put upon Him in mocking derision. He was led to Calvary's Hill, bearing His cross, and crucified by cruel men.
-荒々しい手が、柔和なナザレ人をつかみ、法廷から引き立てた。彼らは容赦なく主の衣をはぎ取り、尊い背中を打つ者たちの前にさらした。主は、むごいむちを柔和に耐えられた。最後の刺すような一打ちまで耐えられた。その打たれた傷によって、私たちがいやされるためである（イザヤ五三・五）。いばらの冠が額に押しつけられ、あざけりのために紫の衣が着せられた。主は十字架を負ってカルバリの丘へ引かれて行き、残酷な人々によって十字架につけられた。
+荒々しい手が、柔和なナザレ人をつかみ、法廷から引き立てた。彼らは容赦なく主の衣をはぎ取り、尊い背中を、打つ者たちの前にさらした。主は、むごいむちを柔和に耐えられた。最後の刺すような一打ちまで耐えられた。その打たれた傷によって、私たちがいやされるためである（イザヤ五三・五）。いばらの冠が額に押しつけられ、あざけりのために紫の衣が着せられた。主は十字架を負ってカルバリの丘へ引かれて行き、残酷な人々によって十字架につけられた。
 
 They crucified their Lord; they gave Him vinegar and hyssop to drink; they spurned and rejected Him to the last. And He bowed His head and died--He who would have gathered them to His bosom--He who would have been their King, and have taken them up to reign with Him on His throne.
 彼らは自分たちの主を十字架につけた。主に酢いぶどう酒とヒソプを飲ませた。最後まで主をはねつけ、拒んだ。そして主は頭を垂れて息を引き取られた。主は、彼らをふところに集めようとされた方だった。彼らの王となり、彼らを引き上げてご自分の王座でともに治めさせようとされた方だった。
@@ -140,7 +140,7 @@ Perhaps some reader cries out in horror:
 ある読者は、ぞっとして叫ぶかもしれない。
 
 "Oh! We would never crucify Jesus--we would never think of driving the nails in His hands!" But consider a moment, dear one. If you have not accepted Him as your Saviour from all sin and unrighteousness, if you have not come to Him in repentance and had the blood applied to your heart, you have done just that--crucified your Lord afresh and put Him to an open shame. Remember he who is not for Him is against Him--neutral you cannot be;
-「まあ！　私たちは決してイエスを十字架につけたりしません。主の手に釘を打ち込むなど、考えもしません」けれども、愛する人よ、少し考えてみなさい。もしあなたが、すべての罪と不義から救ってくださる救い主として、主を受け入れていないとする。悔い改めて主のもとに来て、心に血を注いでいただいていないとする。それなら、あなたはまさにそれをしたのである。自分の主を新たに十字架につけ、さらしものにしたのである（ヘブル六・六）。主の味方でない者は、主に反対する者であることを覚えなさい。中立ではいられないのである。
+「ああ！　私たちは決してイエスを十字架につけたりしません。主の手に釘を打ち込むなど、考えもしません」けれども、愛する人よ、少し考えてみなさい。もしあなたが、すべての罪と不義から救ってくださる救い主として、主を受け入れていないとする。悔い改めて主のもとに来て、心に血を注いでいただいていないとする。それなら、あなたはまさにそれをしたのである。自分の主を新たに十字架につけ、さらしものにしたのである（ヘブル六・六）。主の味方でない者は、主に反対する者であることを覚えなさい。中立ではいられないのである。
 
 Each time you go out of a meeting unsaved; each time you go to bed unrepentant; each new day the sun rises and finds you unprayerful, unthoughtful of your soul's salvation, you are crying out:
 救われないまま集会から出て行くたび。悔い改めないまま床に就くたび。朝日が昇って、祈りもせず、自分の魂の救いを考えもしないあなたを見いだす日ごと。そのたびに、あなたはこう叫んでいる。
@@ -158,13 +158,14 @@ Each time you go out of a meeting unsaved; each time you go to bed unrepentant; 
 「どんなふうに、私が『除き去れ』と言っているというのですか」とあなたは尋ねる。
 
 Why, can you not realize, dear unsaved soul, that every step you take--every foot-fall that resounds along the corridors of time, apart from Jesus--every step towards worldiness in sin--is crying out, louder than you could ever speak;
+// 英文の「worldiness」は原本の綴りの誤り。worldliness として訳した。
 愛する救われていない魂よ、わからないのか。イエスを離れて踏み出す一歩一歩、時の回廊に響く足音の一つ一つ、罪の中で世俗へ向かう一歩一歩。それが、あなたが口で語るよりも大きな声で、こう叫んでいるのである。
 
 "Away with Him; I choose the world; I have no king but self." Each time you put off Salvation and say:
 「除き去れ。私は世を選ぶ。私には自分のほかに王はない」あなたは救いを先に延ばすたびに、こう言う。
 
 "Not tonight," you are adding another thorn to the crown which you are making of your life and placing it on His dear brow.
-「今夜はやめておこう」そのたびに、あなたは自分の生活で編んでいる冠に、とげをもう一本加えている。そしてその冠を、主の愛する額にかぶせているのである。
+「今夜はやめておこう」そのたびに、あなたは自分の生活で編んでいる冠に、とげをもう一本加えている。そしてその冠を、主の尊い額にかぶせているのである。
 
 We are all making a crown for Jesus out of these daily lives of ours, either a crown of golden, divine love, studded with gems of sacrifice and adoration, or a thorny crown, filled with the cruel briers of unbelief, or selfishness and sin, and placing it upon His brow.
 私たちはみな、日々の生活で、イエスのために冠を作っている。そしてそれを主の額にかぶせている。それは二つのうちのどちらかである。犠牲と礼拝の宝石をちりばめた、金の、神聖な愛の冠か。それとも、不信仰や自己中心や罪のむごいおどろでいっぱいの、いばらの冠か。
@@ -179,13 +180,13 @@ Then they put upon Him a purple robe, crying, "Hail, Jesus, King of the Jews," a
 それから彼らは主に紫の衣を着せ、「ユダヤ人の王イエス、ばんざい」と叫んで、平手で打った（ヨハネ一九・二〜三）。今日も多くの人が、偽善とあざけりと見せかけの生活を続けている。多くの人が、外側だけの形式という紫の衣をイエスに着せている。彼らは教会へ行って、『イエスの御名の力をたたえよ』と歌う。けれども生活によって、手で主を打っているのである。
 
 And He, bearing His cross, went forth unto Golgotha, and there they nailed Him to the cross. The great, rugged cross was stretched upon the ground, and Jesus' dear body stretched upon that cross. O, sinner, behold that man--the Son of God--with the kind, resigned, tender eyes, waiting to be nailed there for your sins: See those rough, heavy hands seize the nails and place them to the palms of Jesus' hands. Hear the great, ringing blows of the hammer, as the nails are driven deep--crunching through flesh and sinew and bones--deep into the wood of the cross for your transgressions. Dear hands--hands that had fed the multitude--hands that had blessed the children, healed the sick, raised the dead--faithful hands that are knocking at your heart's door just now as you are reading these very words--they nailed them to the cross. It was your sins, and my sins that nailed Him there. Are you still pushing His hands away from your life, and piercing them with nails of scorn, and unbelief, and pride?
-それから主は十字架を負って、ゴルゴダへ出て行かれた。そこで彼らは主を十字架に釘づけにした（ヨハネ一九・一七〜一八）。大きなごつごつした十字架が地面に横たえられ、イエスの愛する体がその上に伸ばされた。ああ、罪人よ、その人を見なさい。神の御子が、優しく、すべてを受け入れた、いつくしみ深い目をして、あなたの罪のために釘づけにされるのを待っておられる。見なさい。荒々しい重い手が釘をつかみ、イエスの手のひらに当てるのを。聞きなさい。鎚の大きな音が響き、釘が深く打ち込まれていくのを。肉と筋と骨を砕き、あなたのとがのために、十字架の木の奥深くまで打ち込まれていくのを。愛する御手。群衆に食べさせた手、子供たちを祝福し、病人をいやし、死人をよみがえらせた手。あなたが今まさにこの言葉を読んでいるあいだも、あなたの心の戸をたたいている忠実な手。彼らはその手を十字架に釘づけにしたのである。主をそこに釘づけにしたのは、あなたの罪と私の罪だった。あなたは今もなお、自分の生活から主の御手を押しのけ、あざけりと不信仰と高ぶりの釘で、その手を刺し通しているのか。
+それから主は十字架を負って、ゴルゴダへ出て行かれた。そこで彼らは主を十字架に釘づけにした（ヨハネ一九・一七〜一八）。大きなごつごつした十字架が地面に横たえられ、イエスの尊い体がその上に伸ばされた。ああ、罪人よ、その人を見なさい。神の御子が、優しく、すべてを受け入れた、いつくしみ深い目をして、あなたの罪のために釘づけにされるのを待っておられる。見なさい。荒々しい重い手が釘をつかみ、イエスの手のひらに当てるのを。聞きなさい。鎚の大きな音が響き、釘が深く打ち込まれていくのを。肉と筋と骨を砕き、あなたのとがのために、十字架の木の奥深くまで打ち込まれていくのを。尊い御手。群衆に食べさせた手、子供たちを祝福し、病人をいやし、死人をよみがえらせた手。あなたが今まさにこの言葉を読んでいるあいだも、あなたの心の戸をたたいている忠実な手。彼らはその手を十字架に釘づけにしたのである。主をそこに釘づけにしたのは、あなたの罪と私の罪だった。あなたは今もなお、自分の生活から主の御手を押しのけ、あざけりと不信仰と高ぶりの釘で、その手を刺し通しているのか。
 
 Then they drove the nails through His feet--the feet that had traveled so many weary miles to bring hope and cheer and light--and He was lifted up high on the cross, up and up, suspended upon those cruel nails till at last the cross sank with a thud into the hole that had been digged for it. And there He hung, the King of glory, between earth and heaven, in shame, alone, for us.
 それから彼らは、主の足に釘を打ち通した。望みと励ましと光を運ぶために、何マイルもの疲れる道を歩いてこられた足である。そして主は、十字架の上に高く上げられた。上へ上へと、あのむごい釘にぶら下がって上げられ、ついに十字架は、そのために掘られた穴に、どすんと落ち込んだ。こうして栄光の王は、地と天のあいだに、恥を受け、ひとりで、私たちのためにかかっておられたのである。
 
 Sinner, dear, how high you have lifted Him in open shame--others have seen you reject Jesus! O, won't you receive Him just now as your Saviour? Will you not love Him who first loved you?
-愛する罪人よ、あなたはどれほど高く主を上げ、さらしものにしてきたことか。ほかの人たちは、あなたがイエスを拒むのを見てきたのである。ああ、今すぐ主を救い主として受け入れないか。まずあなたを愛してくださった方を、愛さないのか（第一ヨハネ四・一九）。
+愛する罪人よ、あなたはどれほど高く主を上げ、さらしものにしてきたことか。ほかの人たちは、あなたがイエスを拒むのを見てきたのである。ああ、今すぐ主を救い主として受け入れないか。まずあなたを愛してくださった方を、愛さないか（第一ヨハネ四・一九）。
 
 See that beautiful face, more marred than the face of any other man. Hear His cry:
 その美しい顔を見なさい。だれよりもそこなわれた顔を（イザヤ五二・一四）。主の叫びを聞きなさい。
@@ -203,7 +204,7 @@ Jesus cried: "Father, forgive them; they know not what they do." Oh, sinner, it 
 イエスは叫ばれた。『父よ、彼らをおゆるしください。彼らは何をしているのか、わからずにいるのです』（ルカ二三・三四）。ああ、罪人よ、イエスを受け入れることを拒み、こう叫び続けていたとき、あなたが自分のしていることをわかっていたとは思えない。
 
 "Away with Him! Crucify Him!" Perhaps you never quite realized that you were crowning Him with thorns, and crucifying Him afresh, and that he who is not building up for Him is tearing down.
-「除き去れ！　十字架につけよ！」たぶんあなたは、まったく気づいていなかったのだろう。自分がいばらの冠を主にかぶせ、主を新たに十字架につけていたことに。主のために築き上げない者は、壊しているのだということに。
+「除き去れ！　十字架につけよ！」たぶんあなたは、はっきりとは気づいていなかったのだろう。自分がいばらの冠を主にかぶせ、主を新たに十字架につけていたことに。主のために築き上げない者は、壊しているのだということに。
 
 What will you do with Jesus today? How will you answer this eternal question? Jesus is standing before you awaiting the verdict. You must judge; you must render your decision, for or against--Jesus or the World, Life or Death. Judge, and choose ye this day, for soon this whole scene will be changed forever. The sinner will be removed in a hurry from his judgment seat, and Jesus will mount the judgment seat to judge the nations. The graves shall be opened, the sea shall give up its dead, and all the dead, both small and great, will stand before Him whom they have judged.
 今日、あなたはイエスをどうするのか。この永遠の問いに、どう答えるのか。イエスはあなたの前に立って、評決を待っておられる。あなたがさばかなければならない。賛成か反対か、イエスか世か、いのちか死か、あなたが決定を下さなければならない。さばきなさい。そして、きょう選びなさい（ヨシュア二四・一五）。まもなく、この場面はすっかり、永遠に変わってしまうからである。罪人はあわただしくさばきの座から降ろされ、イエスがさばきの座に着いて、国々をさばかれる。墓は開かれ、海はその中の死人を出す。そして、死んだ者はみな、大いなる者も小さき者も、自分たちがさばいた方の前に立つのである（黙示録二〇・一二〜一三）。
