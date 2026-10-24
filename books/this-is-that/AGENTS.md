@@ -41,6 +41,7 @@
 - 神、キリスト、聖霊には敬語を使う（「〜される」「〜してくださる」）。人や悪魔には使わない。
 - 語：the Holy Spirit／the Holy Ghost＝聖霊、the Spirit＝御霊、in the Spirit＝御霊のうちに、the baptism with the Holy Spirit＝聖霊のバプテスマ、the Master's vineyard＝主のぶどう園、the coming of the Lord＝主の来臨、the altar＝祭壇、the Gospel car＝福音自動車、message＝メッセージ、perfection＝完全。
 - 聖句をそのまま引いているところは『』で囲む。英文の省略記号（`. . .`）は（中略）にする。
+- 場面の区切り（`// * * *`）は、メモの次の行に `＊　＊　＊` を置く。
 
 ## トップページ
 
