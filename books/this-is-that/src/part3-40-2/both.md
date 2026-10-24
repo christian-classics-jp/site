@@ -8,7 +8,7 @@ Q. "Halt! Who goes there? From whence do you come?"
 問「止まれ！　だれか。どこから来たのか」
 
 A. "I am a METHODIST. I come from a church founded upon the sound doctrines of Justification and Faith in the present Power of God, as revealed to John Wesley--a church where the power of the Holy Spirit used to fall in bygone years, until saints shouted, and sinners wept, and the joyful danced before the Lord."
-答「私は**メソジスト**です。義認の健全な教理と、今も働く神の力への信仰の上に建てられた教会から来ました。それはジョン・ウェスレーに示されたものです。過ぎ去った年月には、その教会に聖霊の力が下ったものでした。聖徒たちは叫び、罪人たちは泣き、喜びに満ちた者たちは主の前で踊りました。
+答「私は**メソジスト**です。義認の健全な教理と、今も働く神の力への信仰の上に建てられた教会から来ました。それはジョン・ウェスレーに示されたものです。過ぎ去った年月には、その教会に聖霊の力が下ったものでした。聖徒たちは叫び、罪人たちは泣き、喜びに満ちた者たちは主の前で踊りました」
 
 Q. "O? And what bring you in your hand?"
 問「ほう。それで、手に何を持って来たのか」
@@ -25,7 +25,7 @@ A. "I bring with me carefully tilled vegetables and bread of the first fruits, f
 もとの畑から出て来て、私は飢えを抱えています。昔のメソジスト教会で神がかつてどのように働かれたかを、大切に覚えているので、その思い出に飢えがかき立てられているのです。ああ、私たちの畑には欠乏と形式主義が入り込み、そこにいる多くの者が飢えていたのです。
 
 "Kindly excuse me, and allow me to pass, for in these last days (Acts 2:17) the great pot of blessing has been set upon the fire of the Spirit, and thither do I hasten that I may find this old-time power increased an hundred fold."
-どうか失礼して、通していただきたいのです。この終わりの日に（使徒二・一七）、祝福の大きなかまが御霊の火の上にすえられました。私はそこへ急いでいるのです。昔のあの力が百倍にもなっているのを見いだしたいのです」
+どうか失礼して、通していただきたいのです。この終わりの日に（使徒二・一七）、祝福の大きなかまが御霊の火の上にすえられました。私はそこへ急いでいるのです。昔ながらの力が百倍にもなっているのを見いだしたいのです」
 
 (There! He is gone! I would that I could have detained and conversed with him a little longer. Let not our hearts be troubled, however, for lo, one goeth, and behold, another cometh.)
 （ほら、行ってしまった！　もう少し引き止めて話ができたらよかったのに。けれども、心を騒がせることはない。見よ、ひとりが去れば、見よ、また別の人が来るのである。）
@@ -37,7 +37,7 @@ Q. "Halt! Who goes there? And whence come you?"
 問「止まれ！　だれか。どこから来たのか」
 
 A. "I am a BAPTIST. I come from a garden whose original plan of gardening (as recorded in our book of instructions) was patterned by the Word of God, the planting and springing up of the seeds required Justification and a Change of Heart. The young plants were well watered, too--in fact 'completely immersed' in the beginning of their growth, but as the plants grew and developed, and had need of the wind of the Spirit and the falling .of the latter rain for developing the harvest. Alas! between the high, well-guarded fence of 'close communion and the heavy overhead trellis of theology and forms and ceremonies, neither wind nor rain could reach the garden."
-答「私は**バプテスト**です。ある園から来ました。その園の初めの栽培の計画は（私たちの手引き書に記されているとおり）、神のみことばにならって立てられたものでした。種をまいて芽を出させるには、義認と心の変化が必要でした。若い苗には、たっぷりと水も注がれました。実のところ、育ち始めのころに『すっかり浸され』たのです。ところが、苗が育って大きくなると、収穫を実らせるために、御霊の風と後の雨の降ることが必要になりました。ああ、それなのに、『閉ざされた聖餐』の高い厳重な垣根と、神学と形式と儀式でできた頭上の重い棚とのあいだで、風も雨も園に届かなかったのです。
+答「私は**バプテスト**です。ある園から来ました。その園の初めの栽培の計画は（私たちの手引き書に記されているとおり）、神のみことばにならって立てられたものでした。種をまいて芽を出させるには、義認と心の変化が必要でした。若い苗には、たっぷりと水も注がれました。実のところ、育ち始めのころに『すっかり浸され』たのです。ところが、苗が育って大きくなると、収穫を実らせるために、御霊の風と後の雨の降ることが必要になりました。ああ、それなのに、『閉ざされた聖餐』の高い厳重な垣根があり、神学と形式と儀式でできた重い棚が頭上をおおっていました。そのあいだにはさまれて、風も雨も園に届かなかったのです。
 // completely immersed は浸礼、close communion は自分の教会の信徒だけに聖餐を許す慣習。英文の .of は OCR の崩れ。
 
 "Consequently, many of our gardeners, realizing that the fruit of their labors was exceedingly 'hard shelled," and that some life and breaking of the dry stiffness was needed, tried an artificial irrigation process of worldiness and structural magnificence. Lectures, concerts and amusements were recommended" and tried as fertilizers. The spiritual life of the plants, however, did not thrive well under this method, and many withered and pined away, and there was a dearth in the land."
@@ -79,10 +79,10 @@ A. I come from the SALVATION ARMY, that, m obedience to the call of God, marched
 私は、かつて御霊の現れを支持していた人々のところから来ました。その中には、叫び、踊り、神の力に打たれて倒れ、神の栄光の幻を見た者が大勢いたのです。
 
 "Why do I leave? Why, because there is a dearth in our land--the old-time power is sadly lacking today, times and business are so pressing, pressing, popularity--our war work in the great world contest--never-ending financial needs--new barns for the extended harvest fields--have been as quick-growing weeds that have sadly choked and crowded out the old spirituality and whole-hearted abandonment and humble dependence upon God."
-なぜ出て来たのか、ですか。それは、私たちの地にききんがあるからです。昔のあの力は、今日、悲しいことにひどく欠けています。時勢と仕事にひどく追い立てられ、追い立てられているのです。人気、世界の大きな戦いの中での私たちの戦時奉仕、終わることのない資金の必要、広がった収穫の畑のための新しい倉。それらが、たちまち生い茂る雑草のようになりました。そして、かつての霊性と、心からすべてをささげる献身と、神へのへりくだった信頼を、悲しいことに、ふさぎ、締め出してしまったのです。
+なぜ出て来たのか、ですか。それは、私たちの地にききんがあるからです。昔ながらの力は、今日、悲しいことにひどく欠けています。時勢と仕事にひどく追い立てられ、追い立てられているのです。人気、世界の大きな戦いの中での私たちの戦時奉仕、終わることのない資金の必要、広がった収穫の畑のための新しい倉。それらが、たちまち生い茂る雑草のようになりました。そして、かつての霊性と、心からすべてをささげる献身と、神へのへりくだった信頼を、悲しいことに、ふさぎ、締め出してしまったのです。
 
 "Seeking and hungry for the old-time power, I come for food to the great pot which has been set over the fire of this Holy Ghost movement."
-私は昔のあの力を求め、飢えて、食物を得ようと来ました。この聖霊の運動の火の上にすえられた、あの大きなかまのところへ来たのです」
+私は昔ながらの力を求め、飢えて、食物を得ようと来ました。この聖霊の運動の火の上にすえられた、あの大きなかまのところへ来たのです」
 
 Q. "And what bring you in your hand?"
 問「それで、手に何を持って来たのか」
@@ -94,14 +94,14 @@ A. "I bring with me the first fruits of our labors. Our field of vegetables had 
 私たちの野菜には、水がまかれることさえありませんでした。それでも、魂への本当の熱心と、魂を追い求めていく勇気があります。私は、昔の『アーメン席』と、響きわたるハレルヤ、歌と音楽を手に携えて来ました。また、『すべての水のほとりに種をまく』信仰と忍耐を携えて来ました（イザヤ三二・二〇）」
 
 On and on they come! They are flocking in from every direction, each bringing some contribution to the Pentecostal Pot. Here comes the staunch PRESBYTERIAN--the old Scotch COVENANTER--the HUGENOT, and the staid EPISCOPALIAN follows after--pride and formality forgotten.
-次々と、次々と、彼らはやって来る！　四方八方から群れをなして集まり、それぞれ何かをペンテコステのかまにささげようとしている。ほら、忠実な**長老派**の人がやって来る。昔のスコットランドの**盟約派**の人も、**ユグノー**の人も来る。その後ろには、謹厳な**監督教会**の人が、誇りも形式も忘れて付いて来る。
+次々と、次々と、彼らはやって来る！　四方八方から群れをなして集まり、それぞれ何かをペンテコステのかまにささげようとしている。ほら、筋金入りの**長老派**の人がやって来る。昔のスコットランドの**盟約派**の人も、**ユグノー**の人も来る。その後ろには、謹厳な**監督教会**の人が、誇りも形式も忘れて付いて来る。
 // 英文の HUGENOT は原本のとおり（Huguenot）。
 
 One breath from the fragrant, boiling Revival on the fire brings back a rush of memories that recall the Faith and Power which rested in their midst in days of yore, when steadfast, persecuted forefathers fell upon their knees in caves and dens and dungeons, where plush and padded prayer-cushions were unknown--memories of old-time power and glorious blessing that followed in the days when "they who lived godly suffered persecution"--memories of long nights spent in prayer--the sincere unaffected heart's devotion of the Saviour and His love.
-火の上で煮え立つ、かぐわしい信仰復興の湯気をひと息吸うと、思い出がどっと押し寄せる。昔、彼らのただ中にとどまっていた信仰と力の思い出である。堅く立った、迫害された先祖たちが、ほら穴や岩穴や地下牢でひざまずいた日々のことである（ヘブル一一・三八）。そこには、ふかふかした詰め物入りの祈りのひざ布団など、知られていなかった。「信心深く生きる者たちが迫害を受けた」時代に伴った、昔の力と栄光に満ちた祝福の思い出である（第二テモテ三・一二）。祈りのうちに過ごした長い夜の思い出である。救い主とその愛に対する、飾り気のない真実な心からの献身の思い出である。
+火の上で煮え立つ、かぐわしい信仰復興の湯気をひと息吸うと、思い出がどっと押し寄せる。昔、彼らのただ中にとどまっていた信仰と力の思い出である。堅く立った、迫害された先祖たちが、ほら穴や岩穴や地下牢でひざまずいた日々のことである（ヘブル一一・三八）。そこには、ふかふかした詰め物入りの祈りのひざ布団など、知られていなかった。「信心深く生きる者たちが迫害を受けた」時代に伴った、昔ながらの力と栄光に満ちた祝福の思い出である（第二テモテ三・一二）。祈りのうちに過ごした長い夜の思い出である。救い主とその愛に対する、飾り気のない真実な心からの献身の思い出である。
 
 Ah, no! Neither gilded dome, nor frescoed arch, nor rolling tones that throb and thunder in the organ loft, nor surpliced choir, nor e'en the college-moulded, eloquent 'divine' (?) who speaks in modulated tones from flower-embowered canopy, can still the longing for the old-time power that glorified the sacrifice, surrender, prayer and faith of the Pilgrim Fathers' day.
-ああ、そうではない！　金めっきの丸屋根も、フレスコ画の描かれたアーチも、昔の力を慕う思いを静めることはできない。オルガン席で脈打ち、とどろく響きも、白い衣の聖歌隊も、それを静めることはできない。花に囲まれた天蓋の下から抑揚のある声で語る、大学仕込みの雄弁な「聖職者」（のはずの人）でさえも、できないのである。その力は、ピルグリム・ファーザーズの時代の犠牲と明け渡しと祈りと信仰に、栄光を与えたものである。
+ああ、そうではない！　金めっきの丸屋根も、フレスコ画の描かれたアーチも、昔ながらの力を慕う思いを静めることはできない。オルガン席で脈打ち、とどろく響きも、白い衣の聖歌隊も、それを静めることはできない。花に囲まれた天蓋の下から抑揚のある声で語る、大学仕込みの雄弁な「聖職者」（のはずの人）でさえも、できないのである。その力は、ピルグリム・ファーザーズの時代の犠牲と明け渡しと祈りと信仰に、栄光を与えたものである。
 
 Devoted saints come from the HOLINESS church, bringing the message of Heart-Purity and the Coming of the Lord, and wonderfully blessed of God, as fruitage needing but one thing--the latter rain.
 **ホーリネス**教会からは、献身した聖徒たちがやって来る。彼らは心のきよさと主の来臨のメッセージを携えている。神からすばらしい祝福を受けていて、その実りに足りないものは、ただ一つ、後の雨だけである。
@@ -134,11 +134,11 @@ What wonderful pottage!
 ああ、なんとすばらしいごちそうを、私たちはいただくことになるのだろう！　なんとすばらしい煮物だろう！
 
 Lift up the cover and peep in at the dancing, joyous mixture. See how, when boiled over the great FIRE OR THE SPIRIT and with the WATER OF LIFE, with the MEAT OF THE WORD and the SALT which has never lost its savor, a great, change comes to all the viands within the pot; the fruits of the fields, the vegetables and the barley, lose their "hard shells,', slip out of their walls of differences,, creeds and forms--forget they came from widely separated gardens and were tilled by gardeners who never could agree as to methods, and soon they burst with praise as their innermost hearts flow forth in love.
-ふたを持ち上げて、躍り、喜んでいる混ぜ合わせをのぞいてみなさい。**御霊の大いなる火**で、**いのちの水**、**みことばの肉**、決してききめを失わない**塩**と共に煮られる（マタイ五・一三）。すると、かまの中のすべての食材に、なんと大きな変化が起こることか。畑の実りも、野菜も、大麦も、その「硬い殻」を失う。違いや信条や形式の壁から、するりと抜け出す。自分たちが遠く隔たった園から来たことも、やり方について決して意見の合わなかった園丁たちに耕されたことも忘れてしまう。そしてまもなく、心の奥底が愛となって流れ出し、賛美があふれ出すのである。
+ふたを持ち上げて、躍り、喜んでいる混ぜ合わせをのぞいてみなさい。**御霊の大いなる火**で、**いのちの水**、**みことばの食物**、決してききめを失わない**塩**と共に煮られる（マタイ五・一三）。すると、かまの中のすべての食材に、なんと大きな変化が起こることか。畑の実りも、野菜も、大麦も、その「硬い殻」を失う。違いや信条や形式の壁から、するりと抜け出す。自分たちが遠く隔たった園から来たことも、やり方について決して意見の合わなかった園丁たちに耕されたことも忘れてしまう。そしてまもなく、心の奥底が愛となって流れ出し、賛美があふれ出すのである。
 // 英文の FIRE OR THE SPIRIT は OCR の崩れ（FIRE OF THE SPIRIT）。
 
 Then, as the fire burns on, they melt--and melt--and M-E-L-T until the pottage is but one united, savory mixture. Outside walls crumble and fall away, for vegetables must be peeled before entering the pot (that is barriers of organizations and differences must be left outside; peelings do not make good pottage). Then, as the fire still continues to burn and the pot to boil, each vegetable and fruit, in melting, has lost its own identity and has so united and merged itself into the other broken, melting hearts round about it, that 'tis hard to realize they ever were divided.
-それから、火が燃え続けるにつれて、それらは溶け、また溶け、と、け、て、ついに煮物は、一つに結び合わされた、味わい深い混ぜ合わせとなる。外側の壁は崩れ落ちる。野菜は、かまに入る前に皮をむかなければならないからである（すなわち、組織の障壁や違いは、外に置いて来なければならない。むいた皮では良い煮物はできない）。それから、火がなおも燃え続け、かまが煮え立ち続けるにつれて、野菜も実りも、溶けていくうちに、それぞれが自分というものを失う。そして、周りの砕かれて溶けていく心とすっかり一つになり、溶け合ってしまうので、それらがかつて分かれていたとは、とても思えないほどになるのである。
+それから、火が燃え続けるにつれて、それらは溶け、また溶け、と、け、て、ついに煮物は、一つに結び合わされた、味わい深い混ぜ合わせとなる。外側の壁は崩れ落ちる。野菜は、かまに入る前に皮をむかなければならないからである（すなわち、組織の障壁や違いは、外に置いて来なければならない。むいた皮では良い煮物はできない）。それから、火がなおも燃え続け、かまが煮え立ち続けるにつれて、野菜も実りも、溶けていくうちに、それぞれが自分というものを失う。そして、周りの砕かれて溶けていく心とすっかり一つになり、溶け合ってしまう。それらがかつて分かれていたとは、とても思えないほどである。
 
 THE MAN WITH THE LAPFUL OF GOURDS.
 ## 野うりを一包抱えた男
@@ -159,7 +159,7 @@ Q. Halt! Who goes there? From whence do Y-O-U come?
 問「止まれ！　だれか。あ、な、た、はどこから来たのか」
 
 A. "Me? Oh I come from no particular garden. I am the 'ONE WHO WENT OUT IN THE FIELD TO GATHER HERBS.' "
-答「私ですか。いや、どこの園から来たわけでもありません。私は、『畑に出ていって青物をつんだ』あのひとりですよ」
+答「私ですか。いや、どこの園から来たわけでもありません。私は、『**畑に出ていって青物をつんだ**』**あのひとり**ですよ」
 
 Q. "And what sort of vegetables do you bring-in your lap?"
 問「それで、その衣の包みには、どんな野菜を持って来たのか」
@@ -178,7 +178,7 @@ Q. "Well, what are the names of these different gourds?"
 問「では、このいろいろな野うりは、何という名なのか」
 
 A. "Why--a--This one is called 'Falun Tcach-itif," this one is called 'Error': whilst this prickly one is known as 'Doctrinal Issues.' This puffy fat one is 'Lover of Power and Recognition.' Then there is ( Self -Righteousness," 'Formality" "Preconceived Ideas and Teaching,- 'Fear of Manifestations," 'Flesh' and 'Fanaticism.' There are many other gourds, and amongst their number are 'Lack of Brotherly Love,- 'False Reports," 'Harsh Criticism' and 'Tale Bearing.'
-答「ええと、その、これは『偽りの教え』という名です。これは『誤り』です。一方、このとげだらけのものは『教理上の争点』として知られています。このふくれた太ったのは『力と人に認められることを好む心』です。それから、『独善』『形式主義』『先入観と先入観による教え』『御霊の現れへの恐れ』『肉』『狂信』があります。ほかにもたくさん野うりがあって、その中には『兄弟愛の欠如』『偽りのうわさ』『辛辣な批判』『告げ口』があります」
+答「ええと、その、これは『偽りの教え』という名です。これは『誤り』です。一方、このとげだらけのものは『教理上の争点』として知られています。このふくれた太ったのは『力と人に認められることを好む心』です。それから、『独善』『形式主義』『先入観にとらわれた考えと教え』『御霊の現れへの恐れ』『肉』『狂信』があります。ほかにもたくさん野うりがあって、その中には『兄弟愛の欠如』『偽りのうわさ』『辛辣な批判』『告げ口』があります」
 // 英文の Falun Tcach-itif は OCR の崩れ（False Teaching）。
 
 Q. "Why, Man! You would never think of bringing such things into the midst of a Pentecostal gathering!
@@ -200,13 +200,13 @@ Shred them into the pot of pottage, "for they knew them not." So they poured out
 『煮物のかまの中に切り込んだ。彼らはそれが何であるかを知らなかったからである。やがてこれを盛って人々に食べさせようとしたが、彼らがその煮物を食べようとした時、叫んで、
 
 OH, THOU MAN OF GOD, THERE IS DEATH IN THE POT, and they could not eat thereof."
-「ああ神の人よ、**かまの中に、たべると死ぬものがはいっています**」と言って、食べることができなかった』（第二列王四・三九〜四〇）
+「**ああ神の人よ、かまの中に、たべると死ぬものがはいっています**」と言って、食べることができなかった』（第二列王四・三九〜四〇）
 
 Amidst the many who come with good contributions to the pot, here and there steals up a man or woman with a lapful of gourds, which they have plucked from some wild vine as they journeyed, and they are thrown, sometimes ignorantly, sometimes knowingly, into the great pot upon the fire.
 良いささげ物を携えてかまに来る多くの人々のあいだに、あちこちで男や女がこっそり近寄って来る。旅の途中で、どこかのつる草からもいだ野うりを、一包抱えている。そして、その野うりが、あるときは知らずに、あるときは知っていて、火の上の大きなかまに投げ込まれるのである。
 
 "Oh, what a distressingly large lapful of poisonous gourds!" exclaims the on-looker who had been approaching with his empty dish and spoon, ready to dine, and who now draws back in fear.
-「ああ、毒のある野うりが、なんとひどくたくさん入ったことか！」。見物人が叫ぶ。空の皿とさじを持って、食事をしようと近づいて来ていたのに、今は恐れて身を引くのである。
+「ああ、なんとひどく大きな、毒のある野うりの一包だろう！」。見物人が叫ぶ。空の皿とさじを持って、食事をしようと近づいて来ていたのに、今は恐れて身を引くのである。
 
 "Horrors--the whole thing is spoiled!"
 「ひどい。すっかり台なしだ！
@@ -224,7 +224,7 @@ No, Sir! The whole pot is contaminated and poisoned. I tell you there's DEATH in
 いやだね！　かま全体が汚され、毒が入っている。本当に、かまの中には**死**があるのだ」。そして彼らは、二つのあいだで板ばさみになる（ピリピ一・二三）。かまを丸ごとひっくり返そうとするか、それとも、ほかの人々に警告しながら、かまを置いて立ち去るか、である。
 
 Some say, "Come on, let's fight this movement. Let's write some tracts against it and do what we can to overturn the whole thing." Others who walk away, warn everyone they meet by saying:
-ある人々は言う。「さあ、この運動と戦おう。反対の伝道文書を書いて、全部ひっくり返すためにできることをしよう」。立ち去るほかの人々は、会う人ごとにこう言って警告する。
+ある人々は言う。「さあ、この運動と戦おう。反対するトラクトを書いて、全部ひっくり返すためにできることをしよう」。立ち去るほかの人々は、会う人ごとにこう言って警告する。
 
 "Did you hear the news about that Pentecostal movement down there? Why, 'So and So' has just brought the most distressing lapful of gourds and dropped them into Pentecost; unity is disrupted; love is curdled, the people are made sick at their very hearts. Don't you go near that place."
 「あそこのペンテコステ運動の話を聞いたか。いやはや、『だれそれ』が、とんでもない量の野うりを一包持って来て、ペンテコステに放り込んだそうだ。一致は乱され、愛はすえてしまい、人々は心の底から気分が悪くなっている。あそこには近づくなよ」
@@ -248,7 +248,7 @@ Q. "Who goes there, and what do you bring in your hands?"
 問「だれか。手に何を持って来たのか」
 
 A. "I am the man with the sack of meal. The meal is the Word of God. I go to cast it into the pot. This meal will simmer down to the bottom of the whole affair and settle all disturbances. It shall cry aloud:
-答「私は粉の袋を持った者です。この粉は神のみことばです。私は、これをかまに投げ入れに行くのです。この粉は、事の底まで煮詰まって、あらゆる騒ぎを鎮めます。そして、声高く叫ぶでしょう。
+答「私は粉の袋を持った者です。この粉は神のみことばです。私は、これをかまに投げ入れに行くのです。この粉は、静かに煮えながら事の底まで沈んで、あらゆる騒ぎを鎮めます。そして、声高く叫ぶでしょう。
 
 " 'What saith the scriptures? Bring forth the plumb line. Let God be true and every man a liar. Prove all things. Abhor that which is evil; cleave to that which is good. Be not overcome of evil, but overcome evil with good.' '
 『聖書はなんと言っているか』（ガラテヤ四・三〇）。『測りなわ』を持ち出せ（アモス七・八）。『あらゆる人を偽り者としても、神を真実なものとすべきである』（ローマ三・四）。すべてのものを識別しなさい（第一テサロニケ五・二一）。『悪は憎み退け、善には親しみ結び』なさい（ローマ一二・九）。『悪に負けてはいけない。かえって、善をもって悪に勝ちなさい』（ローマ一二・二一）」
@@ -257,7 +257,7 @@ This word is quick and powerful and shall not fail, if cast into the pot, to pur
 このみことばは『生きていて、力があり』（ヘブル四・一二）、かまに投げ入れられるなら、必ずきよめ、混乱の中から秩序をもたらす。
 
 BRING THE MEAL--THE WORD OF GOD.
-## 粉を持って来なさい。それは神のみことばである
+## 粉を、すなわち神のみことばを持って来なさい
 
 "And Elisha said, bring meal, and he cast it into the pot; and he said, pour out for the people that they may eat, and there was no harm in the pot."
 『エリシャは「それでは粉を持って来なさい」と言って、それをかまに投げ入れ、「盛って人々に食べさせなさい」と言った。かまの中には、なんの毒物もなくなった』（第二列王四・四一）
@@ -278,14 +278,14 @@ If you have discovered something somewhere in your vicinity or in the movement a
 もしあなたが、身の回りのどこかで、あるいは運動全体の中で、野うりのように見えるものを見つけたなら、背を向けてはならない。全体をさばいて、ひとまとめに罪に定めてはならない。かえって、行って粉を持って来なさい（第二列王四・四一）。神のみことばを手に取り、聖書がなんと言っているかを調べなさい。『その企てや、しわざが、人間から出たものなら、自滅するだろう。しかし、もし神から出たものなら、あの人たちを滅ぼすことはできまい。まかり違えば、諸君は神を敵にまわすことになるかも知れない』（使徒五・三八〜三九）。
 
 Get out the meal--if you see this Baptism of the Holy Spirit with the Bible evidence, speaking in tongues, in the WORD, with the accompanying gifts and fruits of the Spirit, believe God and come boldly to receive this Bible experience even though every one round about you seems to be in error or falls below the standard.
-粉を出しなさい。もしあなたが、聖書的なしるしである異言を伴うこの聖霊のバプテスマを、御霊の賜物と実が伴うものとして、**みことば**の中に見いだすなら、神を信じなさい。そして、大胆に来て、この聖書の経験を受けなさい。たとえ周りのすべての人が誤っているように見えても、基準に及ばないように見えても、そうしなさい。
+粉を出しなさい。もしあなたが、この聖霊のバプテスマを**みことば**の中に見いだすなら、神を信じなさい。聖書的なしるしである異言を伴い、御霊の賜物と実も伴うバプテスマである。そして、大胆に来て、この聖書の経験を受けなさい。たとえ周りのすべての人が誤っているように見えても、基準に及ばないように見えても、そうしなさい。
 
 INSTEAD OF BEING THE ONE WHO CRIES -THERE 18 DEATH IN THE POT." BE AN ELISHA WITH A SACK OF ME A L; receive YE the Holy Ghost; let God make YOU to measure up to the Word. All your criticising or scolding or telling where the trouble is or even trying to fix it, can never help. The Meal of the Word will alone avail.
-「**かまの中に死がある**」と叫ぶ者になるのではなく、**粉の袋を持ったエリシャになりなさい**。**あなたがた**は『聖霊を受けよ』（ヨハネ二〇・二二）。神に、**あなた**をみことばの基準に達する者としていただきなさい。どんなに批判しても、しかっても、どこに問題があるかを言い立てても、それを直そうとしてさえも、決して助けにはならない。役に立つのは、みことばの粉だけである。
+「**かまの中に死がある**」**と叫ぶ者になるのではなく、粉の袋を持ったエリシャになりなさい**。**あなたがた**は『聖霊を受けよ』（ヨハネ二〇・二二）。神に、**あなた**をみことばの基準に達する者としていただきなさい。どんなに批判しても、しかっても、どこに問題があるかを言い立てても、それを直そうとしてさえも、決して助けにはならない。役に立つのは、みことばの粉だけである。
 // 英文の -THERE 18、ME A L は OCR の崩れ（"THERE IS、MEAL）。
 
 Pour out for the people that they may eat. Dear worker, what are you feeding your hungry people on? Are you telling them and repeating over, meeting after meeting, every story and incident that has come to your knowledge where gourds have been put into the pot? If so you are guilty and putting gourds of doubts and discouragement in the pot yourself.
-盛って人々に食べさせなさい。愛する働き人よ、あなたは飢えた人々に何を食べさせているのか。野うりがかまに入れられた話や出来事を、知っている限り一つ残らず、集会のたびに語り、繰り返していないか。もしそうなら、あなたには罪がある。あなた自身が、疑いと落胆の野うりをかまに入れているのである。
+盛って人々に食べさせなさい。愛する働き手よ、あなたは飢えた人々に何を食べさせているのか。野うりがかまに入れられた話や出来事を、知っている限り一つ残らず、集会のたびに語り、繰り返していないか。もしそうなら、あなたには罪がある。あなた自身が、疑いと落胆の野うりをかまに入れているのである。
 
 When you set the table for your guests that hunger all about you, do not frighten people away by bringing up from your cellar the poorest potatoes or the mouldy preserves, or the mildewed bread from your larder--THEY DO NOT WANT TO HEAR ABOUT MAN'S WORST; THEY WANT TO HEAR ABOUT GOD'S BEST. What are you feeding your people on? Relating the worst things you ever heard of man doing or the best things you ever heard of God doing? The former makes poor fighting food--the latter makes firm spiritual muscles and makes strong, developed, matured men and women who grow quickly under such teaching "unto a perfect man, unto the measure of the stature of the fulness of Christ." (Eph. 4:13.)
 あなたの周りで飢えている客のために食卓を整えるとき、地下室から一番質の悪いじゃがいもや、かびの生えた保存食を持ち出してはならない。食料置き場から、かびの生えたパンを持ち出して、人々をおびえさせ、追い払ってはならない。**人々が聞きたいのは、人の最悪のことではない。神の最善のことを聞きたいのである。**あなたは人々に何を食べさせているのか。人がしたと聞いたことのある最悪のことを語っているのか。それとも、神がなさったと聞いたことのある最善のことを語っているのか。前者は、戦う者の食物としては貧しい。後者は、霊の筋肉を堅くする。そして、強く、成長し、成熟した男や女を造る。彼らはそのような教えのもとで速やかに成長し、『全き人となり、ついに、キリストの満ちみちた徳の高さにまで至る』のである（エペソ四・一三）。
@@ -307,4 +307,4 @@ If you have been standing afar off in doubt and are an hungered, hesitate no lon
 もしあなたが疑って遠くに立ち、飢えているのなら、もうためらってはならない。あなたの粉を携えて、来て食事をしなさい。かまの中には、なんの毒物もないからである。
 
 With all the gourds (and indeed they are comparatively few in number, considering that this movement has enveloped the entire globe, and into it have come streams of people from every creed and clime and color), this great pot set upon the fire, this Holy Spirit movement is the best thing in the world and contains the best food on earth.
-この運動は全世界を包み込み、そこにはあらゆる信条、あらゆる風土、あらゆる肌の色の人々が流れ込んで来た。それを考えれば、野うりは実際わりあいに少ない。そして、たとえ野うりがあっても、火の上にすえられたこの大きなかま、この聖霊の運動は、世界で最も良いものであり、地上で最も良い食物を納めているのである。
+この運動は全世界を包み込み、そこにはあらゆる信条、あらゆる風土、あらゆる肌の色の人々が流れ込んで来た。それを考えれば、野うりは実際わりあいに少ない。そして、たとえ野うりがあっても、火の上にすえられたこの大きなかま、この聖霊の運動は、世界で最も良いものである。地上で最も良い食物を納めているのである。
