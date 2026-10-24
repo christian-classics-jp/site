@@ -39,10 +39,10 @@ Springing from the wagon, he came in with a cheery smile, carrying a box in his 
 
 Running for the hammer, we pried the top off the box. Sure enough, here was a coat and here were some dresses. The coat felt very heavy, and an experimental shake brought rolling out of its sleeves and pockets cans of corn, peas, salmon and a box of crackers.' Still further search through the box revealed rolled oats, sugar, condensed milk and practically everything that was needed for supper. Oh Glory to Jesus!
 // 英文は「a box of crackers.'」。末尾の ' は崩れとみて訳さなかった。
-金づちを取りに走り、箱のふたをこじ開けた。思ったとおり、コートがあり、服も何着かあった。コートがとても重かったので、試しに振ってみた。すると、袖とポケットから、とうもろこしやえんどう豆や鮭の缶詰と、クラッカーが一箱転がり出てきた。さらに箱の中を探すと、押し麦や砂糖や練乳など、夕食に必要なものがほとんど何もかも出てきた。ああ、イエスに栄光あれ！
+金づちを取りに走り、箱のふたをこじ開けた。思ったとおり、コートがあり、服も何着かあった。コートがとても重かったので、試しに振ってみた。すると、袖とポケットから、とうもろこしやえんどう豆や鮭の缶詰と、クラッカーが一箱転がり出てきた。さらに箱の中を探すと、オートミールや砂糖や練乳など、夕食に必要なものがほとんど何もかも出てきた。ああ、イエスに栄光あれ！
 
 This is just one sample of the wonderful way in which the Lord provides for His children when they go forth without purse or scrip taking no thought of what they shall eat or what they shall drink or what they shall put on. He had sent us our supper all the way from Corona, L. I., to Jacksonville, Fla., and had it there right on the tick of the clock, for the bells were ringing six. The Lord is never late. Oh, aren't you glad He's on time? He's coming on time, too, dear ones. Very soon the floors of heaven will roll back and He will appear.
-主の子供たちが、財布も袋も持たずに出かけ、何を食べようか、何を飲もうか、何を着ようかと思いわずらわないとする（ルカ一〇・四、マタイ六・三一）。そのとき主がどんなにすばらしく備えてくださるかを、これはほんの一例として示している。主は私たちの夕食を、ロングアイランドのコロナからフロリダのジャクソンビルまで、はるばる送ってくださった。しかも、時刻もぴったりに届けてくださった。ちょうど六時の鐘が鳴っていたのである。主は決して遅れられない。ああ、主が時間どおりに来られるのが、うれしくはないだろうか。愛するみなさん、主は再び来られるときも、時間どおりに来られる。まもなく天の床が巻き上げられ、主が現れてくださる。
+主の子供たちが、財布も袋も持たずに出かけ、何を食べようか、何を飲もうか、何を着ようかと思いわずらわないとする（ルカ一〇・四、マタイ六・三一）。そのとき主がどんなにすばらしく備えてくださるか、これはそのほんの一例である。主は私たちの夕食を、ロングアイランドのコロナからフロリダのジャクソンビルまで、はるばる送ってくださった。しかも、時刻もぴったりに届けてくださった。ちょうど六時の鐘が鳴っていたのである。主は決して遅れられない。ああ、主が時間どおりに来られるのが、うれしくはないだろうか。愛するみなさん、主は再び来られるときも、時間どおりに来られる。まもなく天の床が巻き上げられ、主が現れてくださる。
 
 The two Pentecostal Missions came in with us. The tent meetings opened with a good attendance, and the crowds increased day after day. The altar was, time after time, filled with seekers for salvation, the baptism, and healing, and the Lord did not turn the hungry empty away.
 町にある二つのペンテコステ伝道所が、私たちと手を組んでくれた。天幕集会は大勢の人を迎えて始まり、人の数は日に日に増えていった。祭壇は何度も、救いとバプテスマといやしを求める人たちでいっぱいになった。そして主は、飢えている者を空腹のまま帰らせはされなかった。
@@ -72,16 +72,16 @@ This has been a gathering under unique circumstances with this country standing 
 この集まりは、またとない状況のもとで開かれた。この国は苦難の暗雲の下にあり、戦争の瀬戸際に立っている。旅行者たちは、イエスがまもなく来られることと、後の雨として御霊が注がれることを、初めて聞いた。多くの人が喜んでメッセージを受け入れ、バプテスマを受けた。そして、自分の町や都市に帰って真理を告げ知らせる、と言った。ミネアポリスから来た一家族が全員、同じ夜にバプテスマを受けた。
 
 Great amazement fills the audience as the power of God falls. Many have been slain under the power and began to speak in tongues, prophecy and interpretation.
-神の力が下ると、会衆は大きな驚きに満たされる。多くの人が神の力に打たれて倒れ、異言を語り、預言し、解き明かしをし始めた。
+神の力が下ると、会衆は大きな驚きに満たされる。多くの人が神の力に打たれて倒れ、異言で語り、預言し、解き明かしをし始めた。
 
 One lady did not have time to get to the altar. The power fell on her as she stood to her feet, and before she could get to the aisles the Lord had baptized her, as she went. The first sentence was interpreted--"Jesus is coming soon, coming soon. Get ready."
 ある婦人は、祭壇まで行く時間がなかった。立ち上がったとたんに神の力が下り、通路にたどり着く前に、歩いているうちに主が彼女にバプテスマを授けられた。最初の一文は、こう解き明かされた。「イエスはまもなく来る、まもなく来る。備えよ」
 
 Sinners cried out for mercy, and came to the altar without urging. Young men and old have taken out pipes, cigarettes, tobacco and playing cards, left them behind and gone away with shining faces.
-罪人たちはあわれみを求めて叫び、促されなくても祭壇に来た。若い人も年寄りも、パイプや紙巻きたばこやたばこやトランプを取り出して置いて行き、顔を輝かせて帰って行った。
+罪人たちはあわれみを求めて叫び、促されなくても祭壇に来た。若い人も年寄りも、パイプや紙巻きたばこや刻みたばこやトランプを取り出して置いて行き、顔を輝かせて帰って行った。
 
 A brother--a professing Christian and church member for years--(without salvation) confessed his sins publicly as the power fell, and running to the altar gave up his beer, tobacco, and many things. He was so filled with joy, which, though he was an old man, he had never before experienced, that he danced and shouted and cried, much to the amazement of his neighbors, for he lives in a beautiful home right across from the tent. This is a wonderful opportunity to work. Just on the eve of Jesus' return to earth, this whole country is waiting with bated breath for--they know not what, and we hear His voice beseeching us--"Hasten! Preach the Word, for Jesus is coming soon."
-一人の兄弟は、何年もキリスト者だと言い、教会の信徒でもあったが、救いを受けていなかった。神の力が下ると、彼は人々の前で罪を告白した。そして祭壇に駆け寄り、ビールもたばこも、ほかの多くのものも捨てた。年老いていたが、それまで味わったことのない喜びに満たされて、踊り、叫び、泣いた。近所の人たちはたいへん驚いた。彼は天幕の真向かいの美しい家に住んでいるのである。これは働きのためのすばらしい機会である。イエスが地上に戻って来られる直前の今、この国全体が、何かはわからないものを、息をひそめて待っている。そして私たちには、主が切に願われる声が聞こえる。「急げ。みことばを宣べ伝えよ。イエスはまもなく来るのだから」
+一人の兄弟は、何年もキリスト者だと言い、教会の信徒でもあったが、救いを受けていなかった。神の力が下ると、彼は人々の前で罪を告白した。そして祭壇に駆け寄り、ビールもたばこも、ほかの多くのものも捨てた。年老いていたが、それまで味わったことのない喜びに満たされて、踊り、叫び、泣いた。近所の人たちはたいへん驚いた。彼は天幕の真向かいの美しい家に住んでいるのである。これは働きのためのすばらしい機会である。イエスが地上に戻って来られる直前の今、この国全体が、何かはわからないものを、息をひそめて待っている。そして私たちには、主が切に願われる声が聞こえる。「急げ！　みことばを宣べ伝えよ。イエスはまもなく来るのだから」
 
 The Lord has given us a Gospel automobile, with which we are able to hold eight or ten meetings a day, distributing thousands of tracts and hand bills, and carrying big display signs of the tent meetings.
 主は私たちに福音自動車を与えてくださった。これを使って、一日に八回から十回の集会を開くことができる。何千枚もの伝道文書とちらしを配り、天幕集会を知らせる大きな看板を載せて回っている。
@@ -91,7 +91,7 @@ PLEASANT GROVE CAMP DURANT
 
 Durant is twenty miles from Tampa, and many of the people here are very poor. Some can not even read or write, but how hungry they are for God! Yesterday the ground was thick with teams, wagons and automobiles of those who had driven here from a radius of thirty miles around. The Lord is saving and baptizing souls and healing the sick. There are messages in tongues and interpretation. It is a wonderful sight to see. people crowd to the front during altar service, standing on tiptoe on the benches to see the strange sight, men and women, slain under the mighty power of God, speaking in tongues as they are filled with the Spirit.
 // 英文は「It is a wonderful sight to see. people crowd」。people が小文字なので see: と読み、続く描写をその光景の中身として訳した。
-デュラントはタンパから二十マイル離れていて、ここの人々の多くはとても貧しい。読み書きのできない人もいる。けれども、なんと神に飢えていることか。昨日は、周り三十マイルから馬車や荷馬車や自動車で来た人たちの馬と車で、会場が埋め尽くされた。主は魂を救い、バプテスマを授け、病人をいやしておられる。異言のメッセージがあり、解き明かしがある。祭壇での祈りのあいだ、人々が前へ押し寄せて来て、ベンチの上につま先立ちで立ち、不思議な光景を見ようとする。男も女も神の大いなる力に打たれて倒れ、御霊に満たされて異言で語っている。それは見るもすばらしい光景である。
+デュラントはタンパから二十マイル離れていて、ここの人々の多くはとても貧しい。読み書きのできない人もいる。けれども、なんと神に飢えていることか。昨日は、周り三十マイルから乗って来た人たちの馬や荷馬車や自動車で、会場が埋め尽くされた。主は魂を救い、バプテスマを授け、病人をいやしておられる。異言のメッセージがあり、解き明かしがある。祭壇での祈りのあいだ、人々が前へ押し寄せて来て、ベンチの上につま先立ちで立ち、不思議な光景を見ようとする。男も女も神の大いなる力に打たれて倒れ、御霊に満たされて異言で語っている。それは見るもすばらしい光景である。
 
 ## セント・ピーターズバーグ
 ST. PETERSBURG
@@ -123,36 +123,37 @@ Concealing a baby organ under the tent, I sat beneath it out of sight of the cro
 私は小さなオルガンを天幕の中に隠し、その下に座って、群衆から見えないようにした。主は警官の目を閉ざしてくださった。それで、私たちは車の大パレードにそっと入り込み、宣伝を載せたまま大通りを端から端まで通ることができた。天幕集会に会衆を集めなければならなかった。たとえ旗をなびかせて敵の領地へ乗り出してでも、魂を救う私たちの商売を宣伝しなければならなかったのである。
 
 Early next morning we got in line with the other cars. The brass bands were going by; the liquor man advertised his business, the telephone, the wheat man and the florist; the butcher, the baker, the tourists representing their different states--all were there, having entered and listed their cars. When it came our turn to slip in, the policeman's back was turned, and he was motioning behind his back for us to come on, and holding back traffic from the other direction with his hand, so in we went. We were far enough behind the bands so that our little baby organ and chimes could be heard distinctly, playing--
-次の朝早く、私たちはほかの車といっしょに列に並んだ。吹奏楽団が通って行った。酒屋も、電話会社も、小麦商も、花屋も、自分の商売を宣伝していた。肉屋もパン屋も、それぞれの州を代表する旅行者たちも、みな車を登録して参加していた。私たちがそっと入り込む番が来ると、警官は背を向けていた。そして、後ろ手に私たちに来いと合図をしながら、反対側から来る車を手で止めていた。それで私たちは入って行った。楽団からは十分に離れていたので、私たちの小さなオルガンとチャイムの音がはっきりと聞こえた。奏でていたのは、
+次の朝早く、私たちはほかの車といっしょに列に並んだ。吹奏楽団が通って行った。酒屋も、電話会社も、小麦商も、花屋も、自分の商売を宣伝していた。肉屋もパン屋も、それぞれの州を代表する旅行者たちも、みな車を登録して参加していた。私たちがそっと入り込む番が来ると、警官は背を向けていた。そして、後ろ手に私たちに来いと合図をしながら、反対側から来る車を手で止めていた。それで私たちは入って行った。楽団からは十分に離れていたので、私たちの小さなオルガンとチャイムの音がはっきりと聞こえた。奏でていたのは、次の賛美歌である。
 
 "Just as I am, without one plea,
 「ありのままで、何の申し開きもなく、<br/>
 But that Thy blood, was shed for me."
 ただ、あなたの血が私のために流されたことを頼みとして」<br/>
 and other familiar hymns such as--
-それに、次のようなよく知られた賛美歌である。
+ほかにも、次のようなよく知られた賛美歌を奏でた。
 
 "Oh get ready, Oh get ready, for the judgment day."
-「ああ、備えよ、ああ、備えよ、さばきの日のために」
+「ああ、備えよ、ああ、備えよ、さばきの日のために」<br/>
 
 "For you I am praying,
+「あなたのために祈っている、<br/>
 I'm praying for you."
-「あなたのために祈っている、<br/>あなたのために私は祈っている」<br/>
+あなたのために私は祈っている」<br/>
 
 Thousands of people lined either side of the long street, leaning out of their windows, standing on the roofs--and after the first astonished stare the people began to laugh and clap their hands and cheer, and that night the tent was packed, and we had no more trouble getting crowds. Sinners were saved, believers baptized. The Salvation Army closed their doors and came in to work with us, bringing their drum and musical instruments.
-何千もの人々が長い通りの両側に並び、窓から身を乗り出し、屋根の上に立っていた。人々は初め、驚いて目を見張った。けれどもそれから笑い出し、手をたたいて歓声を上げた。その夜、天幕はぎっしり埋まった。それからは、人を集めるのに苦労することはもうなかった。罪人は救われ、信者はバプテスマを受けた。救世軍は自分たちの会館を閉め、太鼓や楽器を持って、私たちといっしょに働きに来てくれた。
+何千もの人々が長い通りの両側に並び、窓から身を乗り出し、屋根の上に立っていた。人々は初め、驚いて目を見張った。けれどもそれから笑い出し、手をたたいて歓声を上げた。その夜、天幕はぎっしり埋まった。それからは、人を集めるのに苦労することはもうなかった。罪人は救われ、信者はバプテスマを受けた。救世軍は自分たちの兵営を閉め、太鼓や楽器を持って、私たちといっしょに働きに来てくれた。
 
 *Note: DOES THE WORK STAND?--Though two years have passed since this meeting, letters are still coming from Jacksonville, Tampa and St. Petersburg, from those who were saved and baptized during these meetings, stating that they are standing true to this day and going deeper with the Lord.
-（注）働きは続いているか。この集会から二年たった今も、ジャクソンビルやタンパやセント・ピーターズバーグから手紙が届いている。これらの集会のあいだに救われ、バプテスマを受けた人たちからで、今日まで堅く立ち、主とともにますます深く進んでいる、と書いてある。
+（注）働きは続いているか。この集会から二年たった今も、ジャクソンビルやタンパやセント・ピーターズバーグから手紙が届いている。これらの集会のあいだに救われ、バプテスマを受けた人たちからである。今日まで堅く立ち、主とともにますます深く進んでいる、と書いてある。
 
 ## ジョージア州サバンナ
 SAVANNAH, GA.
 
 This great city, with its hundreds and thousands of living souls, that has never had a Pentecostal mission within its borders, nor heard the message of the latter rain, has been laid heavily upon our hearts.
-この大きな都市には、何十万もの生きた魂がいるのに、ペンテコステの伝道所が一つもなく、後の雨のメッセージを聞いたこともない。この都市のことが、私たちの心に重くのしかかってきた。
+この大きな都市には、何千、何万もの生きた魂がいるのに、ペンテコステの伝道所が一つもなく、後の雨のメッセージを聞いたこともない。この都市のことが、私たちの心に重くのしかかってきた。
 
 After shipping our tabernacle, tents, and camping outfit on the railroad, laying hands upon it and asking the Lord to send it right straight through (though freight had been paralyzed by war shipments) we ourselves traveled in the Gospel auto, carrying workers and Gospel literature. The tent arrived almost as soon as ourselves. The Lord led us right to a spot of land which was loaned to us free of charge, and the first night several came forward for salvation. The second night one of those who had been saved the first night received the baptism. Never have we seen a more hungry, intensely earnest people than these, and although we are unable to stay, we are opening a mission, leaving our benches and fixtures here with Sister Swift of Durant, Fla., whom we brought with us in the car as a worker, and who, with her husband, will care for the work.
-幕屋と天幕と野営の道具は鉄道で送った。戦争のための輸送で、貨物は麻痺していた。それで私たちは荷に手を置いて、まっすぐ届けてくださるよう主に願った。私たち自身は、働き手と伝道文書を載せて福音自動車で旅をした。天幕は、私たちとほとんど同時に着いた。主は、無償で貸してもらえる一区画の土地へ、まっすぐ導いてくださった。最初の夜、何人かが救いを求めて前に出た。二日目の夜、最初の夜に救われた人の一人がバプテスマを受けた。これほど飢え渇き、ひたむきに真剣な人々を、私たちは見たことがない。私たちはとどまることはできないが、伝道所を開くことにした。ベンチと備品はここに残し、フロリダ州デュラントのスウィフト姉妹に託す。働き手として車に乗せて連れてきた人で、夫といっしょに働きを世話してくれる。
+幕屋と天幕と野営の道具は鉄道で送った。軍需品の輸送のために、貨物便は麻痺していた。それで私たちは荷に手を置いて、まっすぐ届けてくださるよう主に願った。私たち自身は、働き手と伝道文書を載せて福音自動車で旅をした。天幕は、私たちとほとんど同時に着いた。主は、無償で貸してもらえる一区画の土地へ、まっすぐ導いてくださった。最初の夜、何人かが救いを求めて前に出た。二日目の夜、最初の夜に救われた人の一人がバプテスマを受けた。これほど飢え渇き、ひたむきに真剣な人々を、私たちは見たことがない。私たちはとどまることはできないが、伝道所を開くことにした。ベンチと備品はここに残し、フロリダ州デュラントのスウィフト姉妹に託す。働き手として車に乗せて連れてきた人で、夫といっしょに働きを世話してくれる。
 
 ## 綿畑で説教する
 PREACHING IN THE COTTON FIELDS.
@@ -168,4 +169,4 @@ At night we run our car into some quiet field or forest, beside a stream of wate
 
 We had but eighteen dollars on which to make the trip from Savannah to Long Branch, N. J., the scene of the next camp meeting, but the Lord made either the eighteen dollars or the gasoline to -stretch, for we still had money when we arrived at our destination.
 // 英文は「to -stretch」。to stretch として訳した。
-サバンナから、次のキャンプ集会の地であるニュージャージー州ロングブランチまでの旅に、私たちの手もとには十八ドルしかなかった。けれども主は、その十八ドルか、ガソリンか、どちらかを伸ばしてくださった。目的地に着いたとき、まだお金が残っていたのである。
+次のキャンプ集会の地は、ニュージャージー州ロングブランチである。サバンナからそこまでの旅に、私たちの手もとには十八ドルしかなかった。けれども主は、その十八ドルか、ガソリンか、どちらかを伸ばしてくださった。目的地に着いたとき、まだお金が残っていたのである。
