@@ -25,10 +25,10 @@ First, there are the invisible and internal influences or manifestation; and sec
 四　御霊のあかしは、内なる現れとして、神に対する確信をもたらす（第一ヨハネ三・二〇〜二二）。また外なる現れとして、世に対するあかしをもたらす（ローマ一〇・一〇）。
 
 5. A person who is taught by the Spirit has an internal manifestation of an insight into the words of Jesus (John 14: 26), and an external manifestation of wisdom, especially in regard to the Christ-life, and the hidden things of God (Gen. 41: 37-40; Dan. 1:19, 20; Acts 4: 13; 18: 24-26).
-五　御霊に教えられる人には、内なる現れとして、イエスの言葉を見抜く力が与えられる（ヨハネ一四・二六）。また外なる現れとして、知恵が与えられる。とくに、キリストのいのちと神の隠された事柄とについての知恵である（創世記四一・三七〜四〇、ダニエル一・一九〜二〇、使徒四・一三、一八・二四〜二六）。
+五　御霊に教えられる人には、内なる現れとして、イエスの言葉を深く悟る力が与えられる（ヨハネ一四・二六）。また外なる現れとして、知恵が与えられる。とくに、キリストのいのちと神の隠された事柄とについての知恵である（創世記四一・三七〜四〇、ダニエル一・一九〜二〇、使徒四・一三、一八・二四〜二六）。
 
 6. A person who receives an anointing of the Spirit has an internal manifestation of an insight into God's dealings with His children (Ps. 23: 5,6), and an external manifestation of boldness and liberty (Acts 4: 29-31).
-六　御霊の油注ぎを受ける人には、内なる現れとして、神がご自分の子供たちをどのように扱われるかを見抜く力が与えられる（詩篇二三・五〜六）。また外なる現れとして、大胆さと自由とが与えられる（使徒四・二九〜三一）。
+六　御霊の油注ぎを受ける人には、内なる現れとして、神がご自分の子供たちをどのように扱われるかを深く悟る力が与えられる（詩篇二三・五〜六）。また外なる現れとして、大胆さと自由とが与えられる（使徒四・二九〜三一）。
 
 7. The Baptism of the Spirit brings an invisible manifestation of living water (John 7: 37-39), and a visible or external manifestation of tongues (Acts 2: 3, 4).
 七　御霊のバプテスマは、目に見えない現れとして生ける水をもたらす（ヨハネ七・三七〜三九）。また目に見える、外なる現れとして、異言をもたらす（使徒二・三〜四）。
@@ -38,7 +38,7 @@ There are other manifestations of the Spirit which I have not mentioned, but as 
 It is possible that I have made some error in giving the manifestation following each of the first six operations; for in regard to these the Word is not so clear.
 初めの六つの働きのそれぞれに続く現れを挙げるところで、私は何かの誤りを犯したかもしれない。これらについては、みことばはそれほど明らかではないからである。
 I will therefore give my readers the liberty to rearrange these manifestations if they choose; but you must remember, "the manifestation of the Spirit is given to every man" in whom He operates, and also your manifestation must be Scriptural.
-だから読者は、そうしたければ、これらの現れを並べ替えてもかまわない。しかし、覚えておいてほしい。御霊が働かれる人は、『各自が御霊の現れを賜わっている』のである。また、あなたの現れは聖書にかなったものでなければならない。
+だから読者は、そうしたければ、これらの現れを並べ替えてもかまわない。しかし、覚えておいてほしい。『各自が御霊の現れを賜わっている』。御霊が働かれる人は、だれでもそうなのである。また、あなたの現れは聖書にかなったものでなければならない。
 But when we come to the manifestation following the Baptism of the Spirit, we have a "thus saith the Lord."
 しかし、御霊のバプテスマに続く現れのことになると、私たちには『主はこう言われる』という確かな言葉がある。
 We may think for many years that we have the manifestation of the Spirit following any or all of the first six operations, and then find out that we have been mistaken; but not so in regard to the visible manifestation of the seventh.
@@ -50,19 +50,19 @@ How people do twist this Scripture to keep from admitting that the manifestation
 人々は、バプテスマに続く現れが異言を語ることだと認めまいとして、この聖句をなんとねじ曲げることか！　たとえばある人は、この聖句を引いたあとで、こう書いている。「さて、イエスはここで、個々の信者のための聖霊のバプテスマについて語っておられたのではない」
 
 "The apostles collectively, represented the Church as a body: and the promise was that He would send the Comforter, not into them, but unto them; and that He should abide, not in them, but with them forever.
-「使徒たちはひとまとまりとして、一つのからだである教会を代表していた。そして約束は、主が助け主を、彼らのうちにではなく、彼らに送られるということであった。また助け主が、彼らのうちにではなく、彼らと共に、いつまでもとどまられるということであった」
+「使徒たちはひとまとまりとして、教会全体を代表していた。そして約束は、主が助け主を、彼らのうちにではなく、彼らに送られるということであった。また助け主が、彼らのうちにではなく、彼らと共に、いつまでもとどまられるということであった」
 
 "The baptism of the Holy Ghost, and the reception of the Spirit by individual Christians, is not in question here at all. If it were, the language would be, I will send Him upon you; and He shall dwell in you forever. But instead it reads, 'unto you,' and 'shall dwell with you.'
 「聖霊のバプテスマも、個々のキリスト者が御霊を受けることも、ここではまったく問題になっていない。もしそうなら、言葉は『わたしは助け主をあなたがたの上につかわす。助け主はいつまでもあなたがたのうちに住むであろう』となっているはずである。ところが実際には、『あなたがたに』とあり、『あなたがたと共に住むであろう』とあるのである」
 
 "So this evidently refers to the Holy Spirit coming to the church to take up His office work; and to convict, save, sanctify and fill each individual soul that will let Him."
-「だからこれは明らかに、聖霊が教会に来て、その務めに着かれることを指している。すなわち、聖霊を受け入れる一人一人の魂に罪を示し、その魂を救い、聖化し、満たされることである」
+「だからこれは明らかに、聖霊が教会に来て、その務めに着かれることを指している。すなわち、罪を示し、救い、聖化し、聖霊を受け入れる一人一人の魂を満たされることである」
 
 The writer then makes a few comments and quotes: "He shall testify of me." Then he interrogates: "What will He say of me?" As an answer to his own question he quotes I John 5: 6-10, and continues:
 この書き手は、それから少し論評を加えて、『それはわたしについてあかしをするであろう』を引く。そして、「御霊はわたしについて何と言われるのか」と問う。この自分の問いへの答えとして、第一ヨハネ五章六節から一〇節までを引き、こう続ける。
 
 "So we see that the Comforter's testimony, when He came to the Church, and to any heart, is to testify to that heart of the divine Sonship of Jesus, and every Christian has this testimony in his soul: 'For no man can say that Jesus is the Lord, but by the Holy Ghost' (I Cor. 12: 3).
-「だから、助け主が教会に、またどの心にでも来られたときのあかしとは、イエスが神の御子であることを、その心にあかしすることである。そしてキリスト者はみな、このあかしを魂のうちに持っている。『聖霊によらなければ、だれもイエスは主であると言うことができない』（第一コリント一二・三）」
+「だから、助け主が教会に、またどの心にでも来られたときのあかしとは、イエスが神の御子であることを、その心にあかしすることだとわかる。そしてキリスト者はみな、このあかしを魂のうちに持っている。『聖霊によらなければ、だれもイエスは主であると言うことができない』（第一コリント一二・三）」
 
 "So much for the beautiful promise that when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me. Amen!"
 「『わたしが父のみもとからあなたがたにつかわそうとしている助け主、すなわち、父のみもとから来る真理の御霊が下る時、それはわたしについてあかしをするであろう』という美しい約束については、以上のとおりである。アーメン！」
@@ -77,13 +77,13 @@ On the same page of the same paper the writer, after quoting John 14: 15-17, say
 「聖霊は、新生したすべての人と共におられ、またそのうちにおられる。祝福された聖霊は、恵みの段階がどうであれ、神の民のすべてと共に、またその間に住まわれる。だから、聖霊は新生した人と共にはおられるが、そのうちにはおられないと言うのは誤りである」
 
 Again, he writes: "So the words of Jesus to the apostles: 'For He dwelleth with you and shall be in you,' does not deny that the Spirit is in a truly regenerated heart; but they can only mean that the apostles had not received the blessed Comforter in His glorious fulness."
-また、こうも書いている。「だから、イエスが使徒たちに言われた『なぜなら、それはあなたがたと共におり、またあなたがたのうちにいるようになるからである』という言葉は、本当に新生した心のうちに御霊がおられることを否定するものではない。その言葉の意味は一つしかありえない。使徒たちは、祝福された助け主を、その栄光ある満ちあふれる姿のままでは、まだ受けていなかったということである」
+また、こうも書いている。「だから、イエスは使徒たちに『なぜなら、それはあなたがたと共におり、またあなたがたのうちにいるようになるからである』と言われた。この言葉は、本当に新生した心のうちに御霊がおられることを否定するものではない。その言葉の意味は一つしかありえない。使徒たちは、祝福された助け主を、その栄光ある満ちあふれる姿のままでは、まだ受けていなかったということである」
 
 And again: "So when Jesus said to his apostles, 'and he shall be in you,' he no doubt referred to the baptism of the Holy Ghost in Matt. 3: 11, 12; which baptism was to thoroughly 'purge his floor' and 'burn up the chaff,' so they could be filled with the Holy Ghost. And all this was accomplished in the disciples on the day of Pentecost."
 さらに、こうも書いている。「だから、イエスが使徒たちに『またあなたがたのうちにいるようになる』と言われたとき、それは疑いもなく、マタイ三章一一、一二節の聖霊のバプテスマを指していたのである。そのバプテスマは、徹底して『打ち場の麦をふるい分け』、『からを焼き捨て』、彼らが聖霊に満たされるようにするためのものであった。そしてこのすべては、ペンテコステの日に弟子たちのうちで成し遂げられたのである」
 
 The best I can understand the above quotation the writer is teaching that of all that is said in the fourteenth, fifteenth, and sixteenth chapters of John concerning the Holy Ghost, nothing refers to the Baptism of the Spirit except the expression, "And shall be in you."
-私の理解できるかぎりでは、この書き手は上の引用で、次のように教えている。ヨハネ一四章、一五章、一六章で聖霊について言われていることのうち、御霊のバプテスマを指しているのは、『またあなたがたのうちにいるようになる』という表現だけである。
+私の理解できるかぎりでは、この書き手は上の引用で、次のように教えている。ヨハネ一四章、一五章、一六章では、聖霊についてさまざまなことが言われている。そのうち、御霊のバプテスマを指しているのは、『またあなたがたのうちにいるようになる』という表現だけである。
 That in all other cases Jesus was speaking, not of the "Baptism of the Holy Ghost for individual believers"; but He "evidently refers to the Holy Spirit coming to the Church to take up His office work; and to convict, save, sanctify"--and then he adds, "Fill each individual soul that will let Him."
 ほかのどの箇所でも、イエスが語っておられたのは「個々の信者のための聖霊のバプテスマ」のことではない。イエスは「明らかに、聖霊が教会に来て、その務めに着かれることを指している。すなわち、罪を示し、救い、聖化し」というのである。そのうえで彼は、「聖霊を受け入れる一人一人の魂を満たされる」と付け加えている。
 
@@ -92,7 +92,7 @@ Listen with care: "The Holy Spirit is both with and in all regenerated people. .
 Thus he teaches that all regenerated people have the Baptism of the Holy Ghost referred to in Matt. 3: 11, 12.
 こうして彼は、新生した人はみな、マタイ三章一一、一二節に言われている聖霊のバプテスマを受けている、と教えていることになる。
 From the words of Jesus, "Shall be in you," we must infer that the in-coming and in-dwelling of the Holy Ghost in His relation to the disciples was still an act of the future, and since "The Holy Spirit is . . . in all regenerated people," according to the above writer, the only logical conclusion is that the disciples at this time were not regenerated.
-イエスの『あなたがたのうちにいるようになる』という言葉からは、こう推論しなければならない。聖霊が弟子たちのうちに入り、内に住まわれることは、まだ先のことであった。そして上の書き手によれば、「聖霊は（中略）新生したすべての人の（中略）うちにおられる」。そうであれば、論理の上で出てくる結論はただ一つである。この時の弟子たちは、まだ新生していなかったということになる。
+イエスの『あなたがたのうちにいるようになる』という言葉からは、こう推論しなければならない。聖霊が弟子たちのうちに入り、内に住まわれることは、まだ先のことであった。そして上の書き手によれば、「聖霊は、新生したすべての人（中略）のうちにおられる」。そうであれば、論理の上で出てくる結論はただ一つである。この時の弟子たちは、まだ新生していなかったということになる。
 Still, they had the Holy Ghost with them (John 15: 17), and their names were written in heaven (Luke 10: 20).
 それでも、聖霊は彼らと共におられたし（ヨハネ一四・一七）、彼らの名は天にしるされていた（ルカ一〇・二〇）。
 // 英文は (John 15: 17)。一五章一七節は互いに愛し合えという戒めで、聖霊が弟子たちと共におられることを言うのは一四章一七節なので、そちらを示した。
@@ -115,7 +115,7 @@ But he had just said that they had no connection.
 ところが彼は、そのすぐ前に、両者にはかかわりがないと言っていたのである。
 
 The same writer, in another article, commenting on John 15: 26, says: "I want to warn my reader against twisting the blessed Scriptures to support certain theories and then adding what he thinks they lack." I would advise him to take warning from his own signal!
-同じ書き手は、別の記事でヨハネ一五章二六節について論じて、こう言っている。「私は読者に警告したい。祝福された聖書をねじ曲げて何かの説を支え、そのうえで、聖書に欠けていると思うものを付け足すことのないように」。私は彼に、自分の掲げた警告の旗をまず自分で心に留めるよう勧めたい！
+同じ書き手は、別の記事でヨハネ一五章二六節について論じて、こう言っている。「私は読者に警告したい。祝福された聖書をねじ曲げて何かの説を支え、そのうえで、聖書に欠けていると思うものを付け足すことのないように」。私は彼に、自分の出した警告を自分で心に留めるよう勧めたい！
 
 If it is true that the Holy Spirit never had any office work in the world until Pentecost, please explain the following Scriptures:
 ペンテコステまで聖霊がこの世で何の務めも持っておられなかったというのが本当なら、次の聖句を説明してほしい。
@@ -150,9 +150,9 @@ This verse certainly refers to the Baptism, and not to the Spirit's work in conv
 There can be no reasonable doubt that the disciples, prior to Pentecost, received a measure of the Spirit, as had been true of others in previous periods.
 弟子たちがペンテコステの前に、ある分量の御霊を受けていたことは、疑う余地がない。それ以前の時代のほかの人々も、そうであった。
 Some measure of spiritual light and some measure of spiritual power was theirs, as had been of holy men who lived before them; but Jesus taught them to pray for the Holy Ghost, and to seek the Baptism which had been promised by John.
-彼らは、ある程度の霊の光と、ある程度の霊の力とを持っていた。彼らより前に生きた聖なる人々と同じである。しかしイエスは彼らに、聖霊を求めて祈ること、またヨハネが約束していたバプテスマを求めることを教えられた。
+彼らは、ある程度の霊の光と、ある程度の霊の力とを持っていた。彼らより前に生きた聖なる人々と同じである。しかしイエスは彼らに、聖霊を求めて祈ること、またヨハネが約束していたバプテスマを求めることをお教えになった。
 So we read when they came, saying. "Teach us to pray," He, after giving to them the ideal form of prayer, taught them that the Holy Spirit Himself would come in answer to prayer.
-聖書にはこうある。彼らが来て、『わたしたちにも祈ることを教えてください』と言ったとき、イエスは祈りの理想の形を彼らにお与えになった。そしてそのあとで、聖霊ご自身が祈りに答えて来てくださることを教えられた。
+聖書にはこうある。彼らが来て、『わたしたちにも祈ることを教えてください』と言ったとき、イエスは祈りの理想の形を彼らにお与えになった。そしてそのあとで、聖霊ご自身が祈りに答えて来てくださることをお教えになった。
 // 英文は saying. "Teach us to pray," と、コンマのところがピリオドになっている。誤植として読んだ。
 From the analogy of the earthly parent He draws the lesson: "If ye, then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask Him" (Luke 11: 13).
 イエスは地上の親にたとえて、こう教えられる。『このように、あなたがたは悪い者であっても、自分の子供には、良い贈り物をすることを知っているとすれば、天の父はなおさら、求めて来る者に聖霊をくださらないことがあろうか』（ルカ一一・一三）。
@@ -160,7 +160,7 @@ From the analogy of the earthly parent He draws the lesson: "If ye, then, being 
 I believe that the expression, "He dwelleth with you," means that the disciples had the Holy Ghost in the same manner in which holy men had had Him in the ages past; and yet Jesus said, "I will pray the Father, and he shall give you another Comforter." "For if I go not away, the Comforter will not come unto you; but if I depart, I will send Him unto you."
 私は、『あなたがたと共におり』という表現をこう理解している。弟子たちは、過ぎた時代の聖なる人々と同じ仕方で、聖霊を持っていたのである。それなのにイエスは、『わたしは父にお願いしよう。そうすれば、父は別に助け主を送ってくださるであろう』と言われた。また、『わたしが去って行かなければ、あなたがたのところに助け主はこないであろう。もし行けば、それをあなたがたにつかわそう』とも言われた。
 Here Jesus clearly teaches that the coming of the Comforter unto the disciples was yet a future event; and since the Spirit had all through the ages been with them, "His coming" must refer to the Baptism.
-ここでイエスは、助け主が弟子たちのところに来ることはまだ先のことだと、はっきり教えておられる。そして、御霊はいつの時代にも彼らと共におられたのだから、「助け主が来る」とはバプテスマを指しているはずである。
+ここでイエスは、助け主が弟子たちのところに来られることはまだ先のことだと、はっきり教えておられる。そして、御霊はいつの時代にも彼らと共におられたのだから、「助け主が来る」とはバプテスマを指しているはずである。
 Indeed, it would be strange that Jesus should say, "The Comforter dwelleth with you"--now, at the present time--and mean exactly the same blessing as He does in the preceding verse, when He says, "I will pray the Father, and he shall give you another Comforter, that he may abide with you forever."
 実際、こう考えるのは奇妙であろう。イエスは、『助け主はあなたがたと共におり』と、今、現にそうだと言われた。その言葉が、直前の節で『わたしは父にお願いしよう。そうすれば、父は別に助け主を送って、いつまでもあなたがたと共におらせてくださるであろう』と言われたのと、まったく同じ祝福を意味しているというのである。
 I mean, it would be strange that Jesus should promise them a blessing in one verse and then tell them in the next verse that they already had that blessing.
@@ -169,11 +169,11 @@ But this is exactly what the above quotation teaches. The same writer, commentin
 しかし、上の引用が教えているのは、まさにそのことなのである。同じ書き手は、ヨハネ一五章二六、二七節について論じて、こう言っている。
 
 "The Baptism of the Holy Ghost, and the reception of the Spirit by individual Christians is not in question here at all. If it were, the language would be, I will send Him upon you; and He shall dwell in you forever. But instead it reads, 'unto you,' and 'shall dwell with you.'"
-「聖霊のバプテスマも、個々のキリスト者が御霊を受けることも、ここではまったく問題になっていない。もしそうなら、言葉は『わたしは助け主をあなたがたの上につかわす。助け主はいつまでもあなたがたのうちに住むであろう』となっているはずである。ところが実際には、『あなたがたに』とあり、『あなたがたと共に住むであろう』とあるのである」
+「聖霊のバプテスマも、個々のキリスト者が御霊を受けることも、ここではまったく問題になっていない。もしそうなら、言葉は『わたしは助け主をあなたがたの上につかわす。助け主はいつまでもあなたがたのうちに住むであろう』となっているはずである。ところが実際には、『あなたがたに』とあり、『あなたがたと共に住むであろう』とあるのである」。
 Now, the phrase, "Shall dwell with you," I have been unable to find in this connection. I think he must refer to John 14: 16, where it is said, "Abide with you forever."
-ところで、『あなたがたと共に住むであろう』という言葉は、この前後には見当たらなかった。彼が指しているのは、ヨハネ一四章一六節の『いつまでもあなたがたと共におらせて』という言葉にちがいないと思う。
+ところで、『あなたがたと共に住むであろう』という言葉は、この前後には見当たらなかった。彼が指しているのは、ヨハネ一四章一六節の『いつまでもあなたがたと共におらせてくださる』という言葉にちがいないと思う。
 He clearly states that the promise of the Comforter to abide with them forever does not refer to the Baptism of the Spirit, but refers to the Holy Spirit coming to the Church to take up His office work; and that the phrase, "He dwelleth with you," had no reference to their personal salvation, but to their work.
-彼ははっきり述べている。助け主がいつまでも彼らと共にいるという約束は、御霊のバプテスマを指しているのではない。聖霊が教会に来て、その務めに着かれることを指しているのだ、と。また、『あなたがたと共におり』という言葉は、彼らの個人としての救いとはかかわりがなく、彼らの働きにかかわるものだ、とも述べている。
+彼ははっきり述べている。助け主がいつまでも彼らと共におられるという約束は、御霊のバプテスマを指しているのではない。聖霊が教会に来て、その務めに着かれることを指しているのだ、と。また、『あなたがたと共におり』という言葉は、彼らの個人としての救いとはかかわりがなく、彼らの働きにかかわるものだ、とも述べている。
 Since they already had the Comforter dwelling with them, the promise in John 14: 16 was the promise of nothing more than they already had, and nothing more than the people of God had always possessed. This is certainly the teaching of the above quotation.
 助け主は、すでに彼らと共に住んでおられた。そうであれば、ヨハネ一四章一六節の約束は、彼らがすでに持っていたもの以上のものを約束していないことになる。神の民がいつも持っていたもの以上のものも、約束していないことになる。上の引用が教えているのは、確かにそういうことである。
 
@@ -200,8 +200,8 @@ But it is best for you that I go away; for I cannot stay with you alway; and aft
 There are many things I have to tell you, but you cannot understand them now.
 あなたがたに話さなければならないことは多くあるが、今のあなたがたには理解できない。
 But remember, when the Comforter comes, He shall testify of Me and reprove the world of sin, and of righteousness, and of judgment.
-しかし覚えておきなさい。助け主が来る時、それはわたしについてあかしをし、罪と義とさばきとについて、世の人の目を開くであろう。
+しかし覚えておきなさい。助け主が来るとき、それはわたしについてあかしをし、罪と義とさばきとについて、世の人の目を開くであろう。
 Then He will begin to teach you about Me, and to bring to your remembrance the things I have said to you, and enable you to understand them.
 そのとき助け主は、わたしについてあなたがたに教え始めるであろう。わたしが話したことを思い起させ、それを理解できるようにしてくれるであろう。
 The above quotation teaches that these words referred, not to the Baptism, but simply to the coming of the Comforter to dwell with the Church; but Jesus said that the Comforter already "dwelleth with you," but I am going to send Him unto you in a fuller measure, and when He comes He will testify, teach, etc.
-上の引用は、こう教えている。これらの言葉はバプテスマを指しているのではない。ただ、助け主が教会と共に住むために来られることを指しているのだ、と。しかしイエスは、助け主がすでに『あなたがたと共におり』と言われたうえで、こう言っておられるのである。わたしは、もっと満ちた分量で助け主をあなたがたに送ろう。助け主が来る時には、あかしをし、教え、ほかにもさまざまなことをするであろう。
+上の引用は、こう教えている。これらの言葉はバプテスマを指しているのではない。ただ、助け主が教会と共に住むために来られることを指しているのだ、と。しかしイエスは、助け主がすでに『あなたがたと共におり』と言われたうえで、こう言っておられるのである。わたしは、もっと満ちた分量で助け主をあなたがたに送ろう。助け主が来るときには、あかしをし、教え、ほかにもさまざまなことをするであろう。
