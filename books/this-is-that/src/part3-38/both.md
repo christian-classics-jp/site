@@ -2,13 +2,13 @@
 COVET EARNESTLY SPIRITUAL GIFTS-
 
 JUST as God the Father gave Jesus, His only begotten Son, as His love gift to the sinner, and as Jesus gave the Holy Ghost as a gift to the believer, so in turn, the Holy Ghost has gifts to bestow upon those who receive Him and yield themselves to His control.
-父なる神は、ひとり子イエスを、罪人への愛の贈り物として与えられた。イエスは、信じる者への贈り物として聖霊を与えられた。それと同じように、今度は聖霊が賜物を持っておられ、ご自分を受け入れ、ご自分の支配に身をゆだねる人々にそれを授けてくださる。
+父なる神は、ひとり子イエスを、罪人への愛の賜物として与えられた。イエスは、信じる者への賜物として聖霊を与えられた。それと同じように、今度は聖霊が賜物を持っておられ、ご自分を受け入れ、ご自分の支配に身をゆだねる人々にそれを授けてくださる。
 
 Many baptized believers have made the grave mistake of believing that when they had received God's gift, Jesus as their Saviour and had received the Holy Ghost, His gift to the believer, that they had received all there was for them. They lost sight of the fact entirely that the Spirit had gifts and fruits to bestow upon all those who covet earnestly the best gifts.
 バプテスマを受けた多くの信者が、重大な誤りを犯してきた。彼らは、神の賜物であるイエスを救い主として受け、イエスが信じる者に与えられる賜物である聖霊を受けた。そのとき、自分に備えられたものはそれで全部受けたと思い込んだのである。彼らは、ある事実をまったく見失ってしまった。さらに大いなる賜物を熱心に求めるすべての人に、御霊が授けてくださる賜物と実があるということである。
 
 After being made recipients of full salvation, and the baptism of the Holy Ghost they settled down in contentment, with folded hands, forgetting that the incoming of the Spirit to lead us into all truth is just the beginning, just the entrance to the land of Canaan. The Red Sea has been left far behind, the desert has been safely crossed, the gates of Canaan's land have been entered, but now if having gone thus far we sit down just inside the gates, will we not miss the grapes and pomegranates? Will we not miss the land that flows with milk and honey?
-彼らは、完全な救いと聖霊のバプテスマを受けた後、手をこまねいて満足し、落ち着いてしまった。私たちをあらゆる真理に導くために御霊が入って来られることは、ほんの始まりにすぎない。カナンの地への入口にすぎない。彼らはそのことを忘れたのである。紅海ははるか後ろに残り、荒野は無事に渡り終え、カナンの地の門をくぐった。けれども、ここまで来ておきながら門を入ってすぐの所に座り込むなら、ぶどうとざくろを取り逃がしてしまうのではないか。乳と蜜の流れる地を取り逃がしてしまうのではないか。
+彼らは、完全な救いと聖霊のバプテスマを受けた後、手をこまねいて満足し、落ち着いてしまった。私たちをあらゆる真理に導くために御霊が入って来られることは、ほんの始まりにすぎない。カナンの地への入口にすぎない。彼らはそのことを忘れたのである。紅海ははるか後ろに残り、荒野は無事に渡り終え、カナンの地の門をくぐった。けれども、ここまで来ておきながら、私たちが門を入ってすぐの所に座り込むなら、ぶどうとざくろを取り逃がしてしまうのではないか。乳と蜜の流れる地を取り逃がしてしまうのではないか。
 
 When He the Spirit of truth is come, He will lead you into all truth. Now the incoming of the Holy Ghost is just the coming of the leader, who can only lead us on, and bestow His gifts upon us as we submit ourselves to His leading and press forward. Just as the Father longed to give us Jesus, and Jesus longed to bestow upon us the gift of the Holy Ghost, so now the Holy Spirit longs to bestow His gifts upon the baptized believer.
 真理の御霊が来られると、あなたがたをあらゆる真理に導いてくださる（ヨハネ一六・一三）。さて、聖霊が入って来られることは、導き手が来られることにすぎない。この導き手は、私たちを先へ先へと導いてくださるだけである。そして、私たちがその導きに従い、前へ進むにつれて、ご自分の賜物を私たちに授けてくださる。父は私たちにイエスを与えたいと切に願われた。イエスは私たちに聖霊の賜物を授けたいと切に願われた。それと同じように、今、聖霊は、バプテスマを受けた信者にご自分の賜物を授けたいと切に願っておられる。
@@ -21,13 +21,13 @@ There are nine gifts of the Spirit spoken of in the 12th chapter of I. Cor. whic
 // 英文の yon は you の読み誤りとみて訳した。
 
 Surely it is God's plan that each of these gifts should be manifested in each assembly, and we are told to covet earnestly the best gifts, and to seek that we may excel to the edifying of the church. To one is given
-たしかに、これらの賜物の一つ一つがどの集会にも現れることが、神のご計画である。私たちは、『更に大いなる賜物を得ようと熱心に努めなさい』と命じられている（第一コリント一二・三一）。また、『教会の徳を高めるために、それを豊かにいただくように励む』ようにとも言われている（第一コリント一四・一二）。ある人には、次のものが与えられる。
+確かに、これらの賜物の一つ一つがどの集会にも現れることが、神のご計画である。私たちは、『更に大いなる賜物を得ようと熱心に努めなさい』と命じられている（第一コリント一二・三一）。また、『教会の徳を高めるために、それを豊かにいただくように励む』ようにとも言われている（第一コリント一四・一二）。ある人には、次のものが与えられる。
 
 THE WORD OF WISDOM.
 ## 知恵の言葉
 
 If ever there was a time that the church needed wisdom, it is now. It is not our own wisdom or understanding that we need but the wisdom that cometh down from above. "Wisdom is the principal thing," says Solomon, "therefore get wisdom." He also tells us to cease from our own wisdom. The wisdom of man is foolishness to God, therefore if any man lack wisdom let him ask of God who giveth to all men liberally and upbraid eth not and it shall be given him.
-教会が知恵を必要とした時があるとすれば、それは今である。私たちに必要なのは、自分の知恵や悟りではなく、上から下ってくる知恵である。ソロモンは、「知恵は第一のものである。それゆえ、知恵を得よ」と言っている（箴言四・七）。また、自分の知恵に頼るのをやめよとも教えている（箴言二三・四）。人の知恵は、神の前では愚かである（第一コリント三・一九）。だから、『あなたがたのうち、知恵に不足している者があれば、その人は、とがめもせずに惜しみなくすべての人に与える神に、願い求めるがよい。そうすれば、与えられるであろう』（ヤコブ一・五）。
+教会が知恵を必要としたときがあるとすれば、それは今である。私たちに必要なのは、自分の知恵や悟りではなく、上から下ってくる知恵である。ソロモンは、「知恵は第一のものである。それゆえ、知恵を得よ」と言っている（箴言四・七）。また、自分の知恵に頼るのをやめよとも教えている（箴言二三・四）。人の知恵は、神の前では愚かである（第一コリント三・一九）。だから、『あなたがたのうち、知恵に不足している者があれば、その人は、とがめもせずに惜しみなくすべての人に与える神に、願い求めるがよい。そうすれば、与えられるであろう』（ヤコブ一・五）。
 // 英文の upbraid eth は upbraideth の崩れとみて訳した。
 
 The Holy Spirit has a real literal gift of wisdom, for those who seek. Wisdom to speak or not to speak, wisdom to give or to withhold, wisdom to understand God's word, and to understand His leadings, wisdom to discern between the flesh and the Spirit, wisdom to look above earthly things and circumstances and see no man save Jesus only, and wisdom to use the gifts the Spirit has given us. To another is given
@@ -37,15 +37,15 @@ THE WORD OF KNOWLEDGE.
 ## 知識の言葉
 
 Just as the reins of a spirited horse are held in the hands of a competent driver, so is wisdom to knowledge, for many have knowledge without wisdom. Hosea 4:6 says, "My people are destroyed for lack of knowledge." Zeal without knowledge is a hindrance instead of a help. Each child of God should cry to the Lord for the work of knowledge to be buried deep in his or her heart. Knowledge to know God, whom to know is life eternal, knowledge to understand and rightly divide the Word of truth, is needed today as never before. Paul cried aloud from the depths of his being for knowledge, saying: "O that I may know Him and the power of His resurrection, and the fellowship of His sufferings, being made conformable unto His death."
-元気な馬の手綱は、腕のある御者の手に握られている。それと同じように、知恵は知識を御する。多くの人が、知恵のない知識を持っているからである。ホセア書四章六節は、『わたしの民は知識がないために滅ぼされる』と言っている。知識のない熱心は、助けではなく妨げになる。神の子供はみな、知識の言葉が自分の心の奥深くに埋め込まれるよう、主に叫び求めるべきである。
+気性の激しい馬の手綱は、腕のある御者の手に握られている。それと同じように、知恵は知識を御する。多くの人が、知恵のない知識を持っているからである。ホセア書四章六節は、『わたしの民は知識がないために滅ぼされる』と言っている。知識のない熱心は、助けではなく妨げになる。神の子供はみな、知識の言葉が自分の心の奥深くに埋め込まれるよう、主に叫び求めるべきである。
 // 英文は the work of knowledge（原本のとおり）。見出しと前後の文脈から word の誤植とみて「知識の言葉」と訳した。
 神を知る知識が必要である。神を知ることこそ永遠のいのちである（ヨハネ一七・三）。真理の言葉を悟り、正しく教える知識も必要である（第二テモテ二・一五）。それらは、かつてないほど今日必要とされている。パウロは、心の底から知識を求めて叫んだ。『キリストとその復活の力とを知り、その苦難にあずかって、その死のさまとひとしくなり』たい、と（ピリピ三・一〇）。
 
 There is a real gift of knowledge, which is not gained from earthly sources but which is taught us from God, for all who covet earnestly to know Him, and His word. There is a God-taught knowledge that will cause us to study to show ourselves approved unto God, a workman that need not be ashamed, rightly dividing the word of truth.
-本物の知識の賜物がある。それは地上の源から得るものではない。神とそのみことばを熱心に知りたいと願うすべての人に、神から教えられるものである。神に教えられた知識があり、それによって私たちは、恥じるところのない働き人として神に認められるよう努めるようになる。真理の言葉を正しく教える働き人である（第二テモテ二・一五）。
+本物の知識の賜物がある。それは地上の源から得るものではない。神とそのみことばを熱心に知りたいと願うすべての人に、神から教えられるものである。神に教えられた知識がある。それによって私たちは、『真理の言葉を正しく教え、恥じるところのない』働き人として神に認められるよう、努めるようになる（第二テモテ二・一五）。
 
 In the garden of Eden in the midst of life God gave a commandment, forbidding man to eat of the tree of knowledge of good and evil, but now we are in the midst of death and God commands us to eat of the tree of knowledge, which is Christ, in whom are hid all the treasures of wisdom and knowledge. To another is given
-エデンの園で、いのちのただ中にあったとき、神は戒めを与え、善悪を知る木から取って食べることを人に禁じられた（創世記二・一七）。けれども今、私たちは死のただ中にあり、神は私たちに、知識の木から食べるよう命じておられる。その木とはキリストであり、『キリストのうちには、知恵と知識との宝が、いっさい隠されている』（コロサイ二・三）。ほかの人には、次のものが与えられる。
+エデンの園で、いのちのただ中にあったとき、神は戒めを与えられ、善悪を知る木から取って食べることを人に禁じられた（創世記二・一七）。けれども今、私たちは死のただ中にあり、神は私たちに、知識の木から食べるよう命じておられる。その木とはキリストであり、『キリストのうちには、知恵と知識との宝が、いっさい隠されている』（コロサイ二・三）。ほかの人には、次のものが与えられる。
 
 FAITH.
 ## 信仰
@@ -57,16 +57,16 @@ Faith prays the prayer of faith, and sick are healed, miracles wrought, and inde
 信仰は信仰の祈りをささげる。すると病人はいやされ、奇跡が行われる。実に、信仰がなければ、御霊の賜物のどれ一つとして受けることはできない。「信仰は聞くことによるのであり、聞くことは神の言葉から来る」（ローマ一〇・一七）。「信じる者は救われる。しかし、不信仰の者は罪に定められる」（マルコ一六・一六）。イエスはこう言われる。『信じる者には、このようなしるしが伴う。すなわち、彼らはわたしの名で悪霊を追い出し、新しい言葉を語り、（中略）病人に手をおけば、いやされる』など（マルコ一六・一七〜一八）。
 
 O beloved, if the children of the Lord would ask for Faith as earnestly as they sought salvation, and the baptism of the Holy Ghost, sought by hearing and believing the Word of God, signs and wonders would be worked in our midst, and the arm of Jehovah laid bare, and His glory break forth in a way that would be exceeding and abundant, above all we could ask or think. To another is given the
-ああ、愛するみなさん、もし主の子供たちが、救いや聖霊のバプテスマを求めたときと同じくらい熱心に、信仰を求めるならどうだろう。神のみことばを聞いて信じることによって求めるなら、私たちのただ中でしるしと奇跡が行われるだろう。エホバのかいながあらわにされるだろう（イザヤ五二・一〇）。そして主の栄光が、私たちが求めまた思うところのいっさいをはるかに越えて、あふれるばかりに輝き出るだろう（エペソ三・二〇）。ほかの人には、次のものが与えられる。
+ああ、愛するみなさん、もし主の子供たちが、救いや聖霊のバプテスマを求めたときと同じくらい熱心に、信仰を求めるならどうだろう。神のみことばを聞いて信じることによって求めるなら、私たちのただ中でしるしと奇跡が行われるだろう。エホバのかいながあらわにされるだろう（イザヤ五二・一〇）。そして主の栄光が、『わたしたちが求めまた思うところのいっさいを、はるかに越えて』あふれるばかりに輝き出るだろう（エペソ三・二〇）。ほかの人には、次のものが与えられる。
 
 GIFTS OF HEALING.
 ## いやしの賜物
 
 Still today as in the days of old the gift of healing is bestowed and operated through yielded vessels by the Holy Spirit. Jas. 5 says, the prayer of faith shall save the sick, but there is also the gift of healing that says: "In the name of Jesus, rise up and walk." This gift of healing was manifested through Peter when in the 5th chapter of Acts a multitude of sick folks were brought from the towns and villages round about, and laid in the streets on beds and couches, that even the shadow of Peter overshadowing them they should be healed, and they were healed every one.
-昔の日々と同じように、今日もなお、いやしの賜物が授けられている。そして聖霊によって、ゆだねきった器を通して働いている。ヤコブの手紙五章は、『信仰による祈は、病んでいる人を救い』と言っている（ヤコブ五・一五）。けれども、「イエスの名によって、立ちあがって歩きなさい」と言う、いやしの賜物もある（使徒三・六）。このいやしの賜物は、ペテロを通して現れた。使徒行伝五章で、周りの町々から大ぜいの病人が運び出され、寝台や寝床の上に乗せられて大通りに置かれた。ペテロの影なりと彼らにかかって、いやされるためであった。そして、『その全部の者が、ひとり残らずいやされた』（使徒五・一五〜一六）。
+昔の日々と同じように、今日もなお、いやしの賜物が授けられている。そして聖霊によって、ゆだねきった器を通して働いている。ヤコブの手紙五章は、『信仰による祈は、病んでいる人を救い』と言っている（ヤコブ五・一五）。けれども、「イエスの名によって、立ちあがって歩きなさい」と言う、いやしの賜物もある（使徒三・六）。このいやしの賜物は、ペテロを通して現れた。使徒行伝五章で、周りの町々や村々から大ぜいの病人が運び出され、寝台や寝床の上に乗せられて大通りに置かれた。ペテロの影なりと彼らにかかって、いやされるためであった。そして、『その全部の者が、ひとり残らずいやされた』（使徒五・一五〜一六）。
 
 This same gift of healing is manifested today, cancers, tumors, tuberculosis, all manner of sickness has been healed instantaneously in answer to prayer right in our meetings, and we give Him all the glory. For it is Jesus who heals. This gift of healing should be in every assembly, that the name of the Lord should be glorified. To another is given the
-これと同じいやしの賜物が、今日も現れている。癌、腫瘍、結核、あらゆる病が、私たちの集会のその場で、祈りに答えて一瞬のうちにいやされてきた。私たちはすべての栄光を主に帰する。いやされるのはイエスだからである。主の御名があがめられるために、このいやしの賜物は、どの集会にもあるべきである。ほかの人には、次のものが与えられる。
+これと同じいやしの賜物が、今日も現れている。癌、腫瘍、結核、あらゆる病が、私たちの集会のその場で、祈りに答えて一瞬のうちにいやされてきた。私たちはすべての栄光を主に帰する。いやしてくださるのはイエスだからである。主の御名があがめられるために、このいやしの賜物は、どの集会にもあるべきである。ほかの人には、次のものが与えられる。
 
 WORKING OF MIRACLES.
 ## 力あるわざ
@@ -82,7 +82,7 @@ In Joel 2:28 God says: "It shall come to pass in the last days, that I will pour
 // 英文の lie that prophesieth は he の読み誤りとみて訳した。英文のヨエル二・二八 の引用は、使徒二・一七 の欽定訳の言い回し（in the last days）に寄せてあるので、それに合わせて「」で言い換えた。
 
 In speaking to the Corinthian church, which had received the baptism of the Holy Ghost accompanied with the Bible evidence of speaking in other tongues, he urges them not to stop there but to go on and covet to prophesy, saying: "Greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying." Therefore the prophet and the interpreter are placed on the same level.
-パウロは、コリントの教会に語りかけている。この教会は聖霊のバプテスマを受け、他国の言葉で語るという聖書的なしるしを伴っていた。パウロは彼らに、そこでとどまらず、さらに進んで預言することを熱心に求めるよう強く勧めて、こう言う。『教会の徳を高めるように異言を解かない限り、異言を語る者よりも、預言をする者の方がまさっている』（第一コリント一四・五）。したがって、預言する者と解き明かす者は、同じ高さに置かれている。
+パウロは、コリントの教会に語りかけている。この教会は、他国の言葉で語るという聖書的なしるしを伴って、聖霊のバプテスマを受けていた。パウロは彼らに、そこでとどまらず、さらに進んで預言することを熱心に求めるよう強く勧めて、こう言う。『教会の徳を高めるように異言を解かない限り、異言を語る者よりも、預言をする者の方がまさっている』（第一コリント一四・五）。したがって、預言する者と解き明かす者は、同じ高さに置かれている。
 
 In prophecy the Spirit takes control of the vocal organs, just the same as when speaking in tongues, except that in prophecy the words come out in English. Out of your innermost being shall flow rivers of living water, not out of your head, but out of your innermost being. This gift is being restored to the church, and in these days the sons and daughters prophesy under the power and inspiration of the Spirit as in the days of old. To another is given
 預言においても、異言を語るときとまったく同じように、御霊が発声器官を支配される。ただ、預言では言葉が英語で出てくる。「あなたの心の奥底から、生ける水が川となって流れ出る」（ヨハネ七・三八）。頭からではなく、心の奥底からである。この賜物は今、教会に回復されつつある。この時代、むすこも娘も、昔の日々と同じように、御霊の力と霊感のもとで預言している。ほかの人には、次のものが与えられる。
@@ -91,13 +91,13 @@ DISCERNING OF SPIRITS.
 ## 霊を見わける力
 
 There was never a time in the history of the church that the gift of discernment was needed as it is today. And bless the Lord, the Spirit still bestows this gift upon yielded, seeking hearts, and gives power to discern between the flesh and the Spirit, power to discern the difference between the spirits, and to see hidden things as did Peter in the case of Ananias and Sapphira. Power to discern between the voice of the Lord and the voice of the enemy, power to discern between the genuine and the counterfeit is surely needed in these last days when the devil would deceive the very elect if that were possible. But praise God it is not possible, for His sheep know His voice and a stranger will they not follow. With the gift of discernment, surely the Spirit of wisdom is needed, to speak and reveal when the Lord leads, or to keep silent, when the Lord so wills. To another is given
-教会の歴史の中で、今日ほど見わける賜物が必要とされた時はなかった。主はほむべきかな。御霊は今もなお、ゆだねきって求める心にこの賜物を授け、力を与えてくださる。肉と御霊を見わける力、霊と霊の違いを見わける力、そして、アナニヤとサッピラのときのペテロのように、隠れたことを見抜く力である（使徒五・一〜一一）。主の声と敵の声を見わける力、本物と偽物を見わける力は、この終わりの日々にたしかに必要である。悪魔が、『できれば、選民をも惑わそう』とする時だからである（マタイ二四・二四）。けれども、神をほめたたえよ。それはできない。主の羊はその声を知っていて、『ほかの人には、ついて行かない』からである（ヨハネ一〇・四〜五）。見わける賜物とともに、知恵の御霊もたしかに必要である。主が導かれるときには語ってあらわし、主がそう望まれるときには黙っているためである。ほかの人には、次のものが与えられる。
+教会の歴史の中で、今日ほど見わける賜物が必要とされたときはなかった。主はほむべきかな。御霊は今もなお、ゆだねきって求める心にこの賜物を授けられ、力を与えてくださる。肉と御霊を見わける力、霊と霊の違いを見わける力、そして、アナニヤとサッピラのときのペテロのように、隠れたことを見抜く力である（使徒五・一〜一一）。主の声と敵の声を見わける力、本物と偽物を見わける力は、この終わりの日々に確かに必要である。悪魔が、『できれば、選民をも惑わそう』とするときだからである（マタイ二四・二四）。けれども、神をほめたたえよ。それはできない。主の羊はその声を知っていて、『ほかの人には、ついて行かない』からである（ヨハネ一〇・四〜五）。見わける賜物とともに、知恵の御霊も確かに必要である。主が導かれるときには語ってあらわし、主がそう望まれるときには黙っているためである。ほかの人には、次のものが与えられる。
 
 DIVERS KINDS OF TONGUES.
 ## 種々の異言
 
 Although every one who received the baptism of the Holy Ghost speaks in other tongues as the Spirit gives utterance, yet not every one, in fact comparatively few, receive the Gift of Tongues, i. e. power to speak at will in foreign languages. This gift, however, is still given today, and many whom we know personally have spoken in tongues to foreigners in their own language, and have told them of Jesus the might to save.
-聖霊のバプテスマを受けた人はみな、御霊が語らせるままに他国の言葉で語る（使徒二・四）。けれども、だれもが異言の賜物、すなわち外国語を思いのままに語る力を受けるわけではない。実際、受ける人は比較的少ない。とはいえ、この賜物は今日もなお与えられている。私たちが個人的に知っている多くの人が、外国人にその人自身の言葉で異言を語り、救を施す力あるイエスのことを伝えてきた（イザヤ六三・一）。
+聖霊のバプテスマを受けた人はみな、御霊が語らせるままに他国の言葉で語る（使徒二・四）。けれども、だれもが異言の賜物、すなわち外国語を思いのままに語る力を受けるわけではない。実際、受ける人は比較的少ない。とはいえ、この賜物は今日もなお与えられている。私たちが個人的に知っている多くの人が、外国人にその人自身の言葉で異言を語り、『救を施す力ある』イエスのことを伝えてきた（イザヤ六三・一）。
 // 英文は the might to save（原本のとおり）。mighty の誤植とみて訳した。
 
 One dear washerwoman that has never learned a word of another language in her life speaks to the Greek fruit store man, to the Chinese laundry man, etc., in their own tongues, of Jesus, and God sends His truth home. Another young lady we know preached to the Chinese in Chinatown in the Chinese language, which she never studied, and many were saved. To another is given the
