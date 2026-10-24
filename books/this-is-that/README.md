@@ -16,7 +16,7 @@
 + [x] Chapter V. Salvation and the Baptism of the Holy Spirit (1)
 + [x] Chapter V. Salvation and the Baptism of the Holy Spirit (2)
 + [x] Chapter VI. Calling into the Vineyard, and Marriage
-+ [ ] Chapter VII. Early Ministry--My Broken Ankle Healed
++ [x] Chapter VII. Early Ministry--My Broken Ankle Healed
 + [ ] Chapter VIII. Call to Foreign Fields
 + [ ] Chapter IX. The Death of My Husband
 + [ ] Chapter X. Nineveh to Tarshish--and Return
