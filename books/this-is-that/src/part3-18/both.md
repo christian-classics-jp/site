@@ -143,7 +143,7 @@ WITH YOUR WHOLE HEART
 
 Do you feel ashamed before God this afternoon for the feeble pretense of your asking and seeking and knocking? Rise, beloved, and seek Him with all your heart, for here is a promise that you can stand on flat-footed, without wavering or doubting. "In the day that ye seek Me with your whole heart, I will be found of you" If you seek Him, then with your W-H-O-L-E H-E-A-R-T, your whole mind and strength and voice, He shall be found of you, for "Every one that asketh re-ceiveth."
 // 英文の re-ceiveth は行末のハイフンが残ったもの（receiveth）。
-あなたは今日の午後、自分の求め、捜し、たたくことが弱々しい見せかけにすぎなかったことを、神の前に恥ずかしく思っているか。愛するみなさん、立ちあがって、心を尽くして神を求めなさい。ここに、揺るがず疑わずに、両足でしっかり立つことのできる約束があるからである。「あなたがたが心を尽くしてわたしを求める日に、わたしはあなたがたに見いだされる」（エレミヤ二九・一三〜一四）だから、こ、こ、ろ、を、つ、く、し、て、思いと力と声を尽くして神を求めるなら、神はあなたに見いだされる。『すべて求める者は得』るからである（ルカ一一・一〇）。
+あなたは今日の午後、自分の求め、捜し、たたくことが弱々しい見せかけにすぎなかったことを、神の前に恥ずかしく思っているか。愛するみなさん、立ちあがって、心を尽くして神を求めなさい。ここに、揺るがず疑わずに、両足でしっかり立つことのできる約束があるからである。「あなたがたが心を尽くしてわたしを求める日に、わたしはあなたがたに見いだされる」（エレミヤ二九・一三〜一四）だから、こ、こ、ろ、を、つ、く、し、て、思いと力と声を尽くして神を求めるなら、あなたは神を見いだす。『すべて求める者は得』るからである（ルカ一一・一〇）。
 
 THE HOLY SPIRIT NOT FOR ME
 ## 聖霊は自分のためのものではない
