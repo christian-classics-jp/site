@@ -17,7 +17,7 @@
 + [x] Chapter V. Objections Answered (1)
 + [x] Chapter V. Objections Answered (2)
 + [x] Chapter VI. The Gifts of the Spirit
-+ [ ] Chapter VII. Pounds and Talents
++ [x] Chapter VII. Pounds and Talents
 + [ ] Chapter VIII. The Baptism of the Holy Ghost Subsequent to Sanctification (1)
 + [ ] Chapter VIII. The Baptism of the Holy Ghost Subsequent to Sanctification (2)
 + [ ] Chapter IX. The Early and the Latter Rain
