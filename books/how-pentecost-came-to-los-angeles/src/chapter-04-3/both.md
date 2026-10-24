@@ -9,7 +9,7 @@ In September, 1906, the following letters appeared in the "Way of Faith," from t
 He wrote: "For some months we have been receiving letters from our dear Brother Bartleman concerning the great work of the Holy Spirit in Los Angeles.
 彼はこう書いた。「この数か月、私たちは親愛なるバートルマン兄弟から、ロサンゼルスでの聖霊の大いなる働きについての手紙を受け取ってきた。
 There has been some criticism of the reports we have published, and we were just on the point of writing to others on the ground, when our dear brother, Dr. W. C. Dumble, favored us with the following most interesting description of what he has seen and felt there."
-私たちが載せた報告には、いくらかの批判があった。そこで、現地のほかの人々に手紙を書こうとしていた。ちょうどそのとき、親愛なる兄弟W・C・ダンブル博士が、次のたいへん興味深い記事を寄せてくださった。博士がそこで見て感じたことを伝えるものである」。
+私たちが載せた報告には、いくらかの批判があった。そこで、現地のほかの人々に手紙を書こうとしていた。ちょうどそのとき、親愛なる兄弟W・C・ダンブル博士が、次のたいへん興味深い記事を寄せてくれた。博士がそこで見て感じたことを伝えるものである」。
 The following from Dr. Dumble: "Possibly some of your readers may be interested in the impressions of a stranger in Los Angeles. A similar gracious work of the Spirit to that in Wales is in progress here.
 次はダンブル博士の記事である。「読者の中には、ロサンゼルスを訪れたよそ者の印象に、興味を持つ人がいるかもしれない。ここでは、ウェールズと同じような御霊の恵みの働きが進んでいる。
 But while that is mostly in the churches, this is outside. The churches will not have it, or up to the present have stood aloof in a critical and condemnatory spirit.
@@ -26,13 +26,13 @@ Jesus is proclaimed the Head, and the Holy Ghost His executive. Hence there is n
 And God was mightily present last night. Some one begins to sing: three or four hymns may be sung, interspersed with hallelujahs and amens.
 そして、ゆうべは神が力強く臨在しておられた。だれかが歌いはじめる。ハレルヤやアーメンをはさみながら、賛美歌が三つ四つ歌われる。
 Then some overburdened soul rises, and shouts, 'Glory to Jesus!' and amid sobs and tears tells of a great struggle, and a great deliverance. Then three or four are on the floor with shining faces.
-すると、重荷に耐えかねた魂が立ち上がって叫ぶ。『イエスに栄光あれ！』　そして、すすり泣き、涙を流しながら、大きな戦いと大きな救いについて語る。それから、三、四人が、顔を輝かせて床に倒れている。
+すると、重荷に耐えかねた魂が立ち上がって叫ぶ。『イエスに栄光あれ！』そして、すすり泣き、涙を流しながら、大きな戦いと大きな救いについて語る。それから、三、四人が、顔を輝かせて床に倒れている。
 One begins to praise God, and then breaks out with uplifted hands into a 'tongue.'
 一人が神を賛美しはじめ、やがて手を挙げて、『異言』を語り出す。
 Pastor Pendleton now tells how he felt the need, and sought the 'baptism,' and God baptized him with such an experience of the divine presence and love and boldness as he had never had before.
 今度はペンドルトン牧師が語る。彼は必要を感じて、『バプテスマ』を求めた。すると神は、それまで味わったことのない神の臨在と愛と大胆さの経験をもって、彼にバプテスマを授けてくださった。
 The officials of his church therefore desired him to withdraw, and a number of his people went with him and joined forces with Pastor Bartleman.
-そのために、彼の教会の役員たちは、彼に身を引くように求めた。彼の教会の人々の多くが彼と共に出て、バートルマン牧師と力を合わせることになった。
+そのために、彼の教会の役員たちは、彼に身を引くように求めた。彼の教会の人々の何人もが彼と共に出て、バートルマン牧師と力を合わせることになった。
 Then a sweet faced old German Lutheran lady told how she wondered when she heard the people praising God in 'tongues,' and began to pray to be baptized with the Spirit.
 次に、やさしい顔をしたドイツ人のルーテル派の老婦人が語った。人々が『異言』で神を賛美するのを聞いて、彼女は不思議に思った。そして、御霊のバプテスマを受けられるようにと祈りはじめた。
 After she had gone to bed her mouth went off in a 'tongue,' and she praised the Lord through the night to the amazement of her children.
@@ -65,11 +65,11 @@ It is a fact that in the beginning platforms and pulpits were as far as possible
 We were all "brethren." All were free to obey God. He might speak through whom He would.
 私たちはみな「兄弟」だった。だれもが自由に神に従った。神は、だれを通してでも、お望みのままに語ることがおできになった。
 He had poured out His Spirit "on all flesh," even on His servants and hand maidens. - Act. 2. We honored men for their God-given 'gifts' and offices only.
-神はその霊を「すべての人に」注ぎ、男女の僕たちにさえ注いでくださったのだ（使徒二章）。私たちが人を重んじたのは、神から与えられた「賜物」と務めのためだけだった。
+神はその霊を『すべての人に』注ぎ、男女の僕たちにさえ注いでくださったのだ（使徒二章）。私たちが人を重んじたのは、神から与えられた「賜物」と務めのためだけだった。
 As the movement began to apostatize platforms were built higher, coat tails were worn longer, choirs were organized, and string bands came into existence to "jazz" the people.
 運動が背教に向かいはじめると、壇はより高く造られ、上着のすそはより長くなった。聖歌隊が組織され、人々を「ジャズ」で浮かれさせるための弦楽隊が現れた。
 The kings came back once more, to their thrones, restored to sovereignty. We were no longer "brethren." Then the divisions multiplied, etc.
-王たちが再び王座に戻り、主権を取り戻した。私たちは、もはや「兄弟」ではなかった。そして分裂が増えていった（以下略）。
+王たちが再び王座に戻り、主権を取り戻した。私たちは、もはや「兄弟」ではなかった。そして分裂が増えていき、ほかにも同じようなことが続いた。
 While Brother Seymour kept his head inside the old empty box in "Azusa" all was well. They later built for him a throne also. Now we have, not one hierarchy, but many.
 シーモア兄弟が「アズサ」で古い空き箱の中に頭を入れていたあいだは、すべてがうまくいっていた。のちに、人々は彼のためにも王座を造った。今では、位階制度は一つではなく、たくさんある。
 ("Azusa Mission" is deserted, and Brother Seymour is in Heaven at this writing.) Kipling's immortal poem might well be recollected here:
@@ -111,9 +111,9 @@ Wales was but intended as the cradle for this world-wide restoration of the powe
 Again I wrote in the same paper: "If ever men shall seek to control, corner or own this work of God, either for their own glory or for that of an organization, we shall find the Spirit refusing to work. The glory will depart.
 私はまた、同じ新聞に書いた。「もし人々がこの神の働きを支配し、独占し、所有しようとするなら、御霊は働くことを拒まれるだろう。自分の栄光のためであれ、組織の栄光のためであれ、同じである。栄光は去ってしまう。
 Let this be one work where God shall be given His proper place, and we shall see such a work as men have never yet dreamed of.
-これを、神がふさわしい位置に置かれる働きとしよう。そうすれば私たちは、人がまだ夢見たこともないような働きを見るだろう。
+これを、神をふさわしい位置にお迎えする働きとしよう。そうすれば私たちは、人がまだ夢見たこともないような働きを見るだろう。
 It would be a fearful thing if God were obliged to withdraw His blessed Spirit from us, or withhold it at such a time as this, because we tried to corner it.
-私たちが御霊を独り占めしようとしたとしよう。そのために、このような時に、神がその尊い御霊を取り去るか、与えるのを控えなければならなくなる。それは恐ろしいことだろう。
+もし私たちが御霊を独り占めしようとしたら、神はその尊い御霊を私たちから取り去るか、与えるのを控えなければならなくなる。このような時にそうなったら、恐ろしいことだろう。
 All our business is to get God to the people. Let us yield ourselves for this, and this alone.
 私たちの務めは、ただ神を人々に届けることである。このために、ただこのためだけに、自分を明け渡そう。
 Some of the 'canker worms' of past experience have been party spirit, sectional difference, prejudices, etc., which are all carnal contrary and destructive to the law of love, to the 'one body' of Christ.
@@ -126,12 +126,12 @@ Oh, brother! cease traveling 'round and 'round your old habit-beaten path, on wh
 In the "Way of Faith" I wrote the following: "We are coming back from the 'dark ages' of the church's backsliding and downfall. We are living in the most momentous moments of the history of time.
 私は『ウェイ・オブ・フェイス』に、次のように書いた。「私たちは、教会の堕落と没落の『暗黒時代』から戻りつつある。私たちは、時の歴史の中で、もっとも重大な時に生きている。
 The Spirit is brushing aside all our plans, our schemes, our strivings, and our theories, and is Himself acting again. Many who have feathered well their nests are fighting hard.
-御霊は、私たちの計画も、たくらみも、骨折りも、理論も、すべて払いのけて、ご自身が再び働いておられる。自分の巣を羽毛でよく整えてきた多くの人々が、激しく抵抗している。
+御霊は、私たちの計画も、たくらみも、骨折りも、理論も、すべて払いのけて、ご自身が再び働いておられる。私腹を肥やしてきた多くの人々が、激しく抵抗している。
 They cannot sacrifice to rise to these conditions.
 彼らは、この状況にふさわしく立ち上がるための犠牲を払うことができないのだ。
 
 "The precious ore of truth, the church's emancipation from the thralldom of man's rule, has been brought about in a necessarily crude form at first, as rough ore.
-真理の尊い鉱石、すなわち人の支配の束縛からの教会の解放は、初めはどうしても粗い形で、あら鉱としてもたらされた。
+真理の尊い鉱石、すなわち人の支配の束縛からの教会の解放は、初めはどうしても粗い形で、掘り出したままの鉱石としてもたらされた。
 It has been surrounded, as in nature, by all kinds of worthless, hurtful elements. Extravagant, violent characters have sought to identify themselves with the work.
 自然界と同じように、それはあらゆる種類の、値打ちのない有害な成分に囲まれてきた。度を越した、乱暴な人々が、この働きの仲間になろうとしてきた。
 A monster truth is struggling in the bowels of the earth, entombed by the landslide of retrograding evil in the church's history.
@@ -161,16 +161,17 @@ But we shall conquer. The precious ore must be refined after it has been mined. 
 // 英文は 'be taken from the vile の閉じの引用符がない。
 しかし、私たちは勝利する。尊い鉱石は、掘り出したあとで精錬されなければならない。『尊いもの』は『卑しいものから取り分け』られなければならない。
 Rough pioneers have cleared the way for our advance, through the thick underbrush. Heroic, positive spirits are necessary for this work. But purer forms will follow.
-荒削りの開拓者たちが、深いやぶを切り開いて、私たちが進む道を切り開いてくれた。この働きには、英雄的で積極的な精神が必要である。しかし、もっと純粋な形があとに続くだろう。
+荒削りの開拓者たちが、深いやぶを切り払って、私たちが進む道を開いてくれた。この働きには、英雄的で積極的な精神が必要である。しかし、もっと純粋な形があとに続くだろう。
 
 "Men have been speaking adown the ages, but the voice of God the Spirit is calling us today. Since the early church lost her power and place with God we have been struggling back.
 時代を通して、人々が語ってきた。しかし今日、私たちを呼んでいるのは、御霊なる神の声である。初代教会が神の前での力と地位を失って以来、私たちはもがきながら戻ろうとしてきた。
 Up through 'its' and 'isms,' theories, creeds and doctrines (and schisms), issues and movements, blessings and experiences and professions, we have come. The stream could rise no higher than its source.
-私たちは、『それ』と『主義』、理論、信条、教理（そして分派）、争点と運動、祝福と経験と信仰告白を通って、はい上がってきた。流れは、その源より高くは上れなかった。
+// 英文の 'its' は、'isms' と並ぶので -ites か -ists（〜派、〜主義者）の意と読んだ。
+私たちは、『〜派』と『〜主義』、理論、信条、教理（そして分派）、争点と運動、祝福と経験と信仰告白を通って、はい上がってきた。流れは、その源より高くは上れなかった。
 We need no more theology or theory. Let the devil have them. Let us get to God.
 私たちには、もう神学も理論もいらない。そんなものは悪魔にくれてやれ。神のもとへ行こう。
 Many are cramped up in present experiences. They are actually afraid to seek more of God for fear the devil will get them. Away with such foolish bondage! Follow your heart!
-多くの人が、今の経験の中に縮こまっている。悪魔に捕まるのを恐れて、もっと神を求めることを本当に恐れているのだ。そんな愚かな束縛は捨ててしまえ！　自分の心に従いなさい！
+多くの人が、今の経験の中に縮こまっている。悪魔に捕まるのではないかと、もっと神を求めることを本当にこわがっているのだ。そんな愚かな束縛は捨ててしまえ！　自分の心に従いなさい！
 Believe in your own heart's hunger, and go ahead for God. We are sticking to the bottom. We need the fire of God.
 自分の心の飢え渇きを信じて、神のために進みなさい。私たちは底にこびりついている。私たちには神の火が必要なのだ。
 Straight-jacket methods and religious rules have well nigh crushed out our spiritual life altogether. We had better grieve all men rather than God." - F. Bartleman, Jan., 1907.
@@ -209,7 +210,7 @@ I can sympathize with Evan Roberts' nervous breakdown, after the revival in Wale
 God marvelously used it. Dr. Yoakum held meetings there for a long time, in connection with Pastor Pendleton. Hundreds of souls were saved and blessed there.
 神は、それを驚くほど用いてくださった。ヨーカム博士が、ペンドルトン牧師と共に、長いあいだそこで集会を開いた。何百もの魂が、そこで救われ、祝福された。
 Brother Pendleton finally died, the lot was sold, and the building torn down. Only Heaven will reveal the good done and the souls and bodies blessed at Eighth and Maple.
-ペンドルトン兄弟もついに亡くなり、土地は売られ、建物は取り壊された。八番街とメイプル通りでなされた善いこと、祝福を受けた魂と体は、天だけが明らかにするだろう。
+ペンドルトン兄弟はついに亡くなり、土地は売られ、建物は取り壊された。八番街とメイプル通りでなされた善いこと、祝福を受けた魂と体は、天だけが明らかにするだろう。
 I want to repeat again there was never any jealousy or rivalry between Eighth and Maple Mission and "Azusa." God saved us from that spirit. It would have robbed us of His blessing.
 もう一度繰り返しておきたい。八番街とメイプル通りのミッションと「アズサ」とのあいだに、ねたみや張り合いがあったことは一度もない。神が、私たちをその霊から守ってくださった。そういう霊があったら、私たちは神の祝福を奪われていただろう。
 Brother Seymour always declared I had a company of angels traveling with me.
@@ -253,14 +254,14 @@ God had given me a wonderful tract ministry. In two years' time I had published,
 I circulated two hundred and fifty thousand, at a cost of at least five hundred dollars. No money was solicited, and thousands were mailed free to all parts of the world also.
 私は二十五万部を配った。費用は少なくとも500ドルかかった。お金を求めたことはなく、何千部も、世界の各地へ無料で郵送した。
 I ended the ministry without a dollar. No money had been made out of it.
-私は、1ドルも持たずにその働きを終えた。それで、お金をもうけたことはなかった。
+私は、1ドルも持たずにその働きを終えた。その働きで、お金をもうけたことは一度もなかった。
 
 One evening at this time I went to the little Alley Mission in Pasadena. I had a heavy burden of prayer during the meeting.
 このころのある晩、私はパサデナの小さなアリー・ミッションに行った。集会のあいだ、私は祈りの重荷を重く負っていた。
 There was a young wife, an ex-Volunteer officer, there, who had been backslidden for several years. God laid her heavily upon my heart and I felt she must be saved that night.
 そこに、ボランティアーズ・オブ・アメリカの元士官だった、若い妻がいた。彼女は数年のあいだ、信仰から離れていた。神は彼女のことを、重く私の心に置かれた。私は、彼女はその夜救われなければならないと感じた。
 The meeting was about to close, but she still sat unmoved. It was after eleven o'clock. I spoke to her and warned her it might be her last chance. Still she sat indifferent.
-集会は終わろうとしていたが、彼女はまだ心を動かされずに座っていた。十一時を過ぎていた。私は彼女に話しかけ、これが最後の機会かもしれないと警告した。それでも彼女は、無関心なまま座っていた。
+集会は終わろうとしていたが、彼女はまだ心を動かされずに座っていた。11時を過ぎていた。私は彼女に話しかけ、これが最後の機会かもしれないと警告した。それでも彼女は、無関心なまま座っていた。
 Then I began to plead with her. The people resented this as I pressed her for a decision. They thought I was going too far. But an agony of prayer was upon me for her soul.
 そこで私は、彼女に懇願しはじめた。私が決心を迫ると、人々はそれに腹を立てた。私が行き過ぎていると思ったのだ。しかし、彼女の魂のための苦しい祈りが、私の上にあった。
 I had to resist the opposition of the most of the other workers, as well as the enemy. For a full hour I battled thus, almost alone.
@@ -328,7 +329,7 @@ Seriousness seized the rest of the mob for a moment. But they soon recovered.
 Two of them seized one of the sisters. She threw up her arms and shouted victory. The power of God fell upon her. Fear fell upon the gang again and they left her.
 彼らのうち二人が、姉妹の一人をつかまえた。彼女は両腕を挙げて、勝利を叫んだ。神の力が彼女の上に下った。恐れが再び一団の上に下り、彼らは彼女を放した。
 The other sister by this time was on her feet praising God. They stood the test like soldiers. I believe they would have died willingly for the Lord that night.
-もう一人の姉妹は、このときには立ち上がって神を賛美していた。二人は兵士のように試みに耐えた。その夜、二人は喜んで主のために死んだことだろうと、私は信じている。
+もう一人の姉妹は、このときには立ち上がって神を賛美していた。二人は兵士のように試みに耐えた。その夜、二人は主のために死ぬことさえ喜んで受け入れただろうと、私は信じている。
 It was midnight and we could do no more good there. We were in a nest of demons. I turned the lights out and had the sisters pass out ahead that I might know they were safe.
 真夜中になり、私たちがそこでできる善いことは、もうなかった。私たちは悪霊の巣の中にいた。私は明かりを消し、姉妹たちが無事であることを確かめるために、二人を先に外に出した。
 They passed the mob safely. But the gang was outside waiting for me. The German atheist stood with a short club in his hand, ready for me.
