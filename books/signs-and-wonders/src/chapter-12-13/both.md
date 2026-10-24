@@ -44,7 +44,7 @@ It was soon crowded.
 Those who had opposed me most were the first to come.
 私に最も反対していた人々が、真っ先に出てきた。
 Some who would not yield were stricken down as dead in different parts of the house.
-従おうとしない者たちは、会堂のあちこちで、死んだように打ち倒された。
+従おうとしない者の中には、会堂のあちこちで、死んだように打ち倒される者もいた。
 There were many bright conversions the first night.
 最初の夜、多くの輝かしい回心があった。
 The work went on increasing in interest for one week.
@@ -74,7 +74,7 @@ Some men arranged to come and break up the meeting.
 I did not know them, nor what they were doing.
 私は、その男たちのことも、何をしようとしているのかも知らなかった。
 They came and crowded in at the door.
-男たちはやって来て、戸口から押し入った。
+男たちはやって来て、戸口に詰めかけた。
 God pointed the leader out to me.
 神は、そのかしらがだれであるかを私に示された。
 With a loud voice I called to him to come to Christ.
@@ -88,14 +88,14 @@ When he got half way he fell under the power of God.
 He lay about sixteen hours.
 彼は十六時間ほど横たわっていた。
 The way he talked, and his gestures while lying there, brought the fear of God on all who saw him.
-横たわったまま彼が語る様子と、その身ぶりを見て、見た人はみな神への恐れに打たれた。
+横たわったまま語る彼の様子とその身ぶりに、見た人はみな神への恐れに打たれた。
 
 Those who came in with him saw it was a fearful thing to fight against God.
 一緒に入って来た男たちは、神に逆らって戦うのは恐ろしいことだと悟った。
 They were soon on their knees crying for mercy.
 男たちはまもなくひざまずき、あわれみを求めて叫んだ。
 When he came out he had a wonderful experience to tell, which God used to bring many to Christ.
-彼が起き上がると、語るべき驚くべき経験があった。神はその経験を用いて、多くの人をキリストに導かれた。
+彼が起き上がると、語るべき驚くべき経験があった。神はその経験をお用いになって、多くの人をキリストに導かれた。
 He went to work to bring souls to Christ, and soon began to preach.
 彼は魂をキリストに導く働きに取りかかり、まもなく説教を始めた。
 Many ministers came and received the anointing power from on high.
@@ -127,7 +127,7 @@ The interest was so great we engaged the large skating-rink, which was crowded.
 The interest continued till the last.
 関心は最後まで続いた。
 Many who had been saved in my meetings a year previous, and some of the ministers and Christians who assisted me in those different places, came up to the help of the Lord against the mighty.
-一年前に私の集会で救われた多くの人々がやって来た。あちこちの土地で私を手伝ってくれた牧師やクリスチャンも何人か来た。そして、勇士に立ち向かう主を助けた。
+一年前に私の集会で救われた多くの人々がやって来た。あちこちの土地で私を手伝ってくれた牧師やクリスチャンも何人か来た。そして、主を助けて勇士を攻めた。
 
 ## 神のいやしを説くよう召される
 CALLED TO PREACH DIVINE HEALING
@@ -145,7 +145,7 @@ For three nights when I was almost dead for rest I lay awake.
 God was teaching me a lesson I could not, or would not learn.
 神は、私が学べない、あるいは学ぼうとしない教訓を教えておられたのである。
 I said: Lord, you know I started out to win souls for heaven, and I have been busy all the time.
-私は言った。主よ、ご存じのとおり、私は天国のために魂を勝ち取ろうとして出て来ました。そしていつも忙しく働いてきました。
+私は言った。主よ、ご存じのとおり、私は天国のために魂を勝ち取ろうとして歩みだしました。そしていつも忙しく働いてきました。
 I have tried to be faithful in everything you have given me to do.
 あなたが私にお与えになった務めのすべてに、忠実であろうとしてきました。
 I am so exhausted with constant labor that I have to be helped many times to rise from my bed.
@@ -154,7 +154,7 @@ I am so exhausted with constant labor that I have to be helped many times to ris
 I thought if I would preach divine healing they would bring all the cripples in the country, and I would neglect the salvation of souls.
 神のいやしを説けば、人々は近隣じゅうの足の不自由な人たちを連れて来るだろう。そうなれば、魂の救いがおろそかになる、と私は思った。
 The Lord showed me He would take care of the work.
-主は、働きのことは主ご自身が引き受けると示された。
+主は、働きのことは主ご自身が引き受けてくださると示された。
 I told the Lord if He wanted me to pray for the sick to send them to the meetings, and show me He wanted me to pray for them, and I would.
 私は主に申し上げた。私が病人のために祈ることをお望みなら、病人を集会に送ってください。そして、その人々のために祈るよう望んでおられることを示してください。そうすれば祈ります、と。
 When I made this promise I had perfect rest of mind and soul.
@@ -181,7 +181,7 @@ At five o'clock Saturday evening they began to fill the house, and by the time t
 On Sunday the house was full all day.
 日曜日は、一日じゅう劇場がいっぱいだった。
 But Sabbath evening was the grandest and most glorious sight I ever witnessed; fully two thousand people were crowded into the hall, and fifteen or more were entranced during the evening, and God was present in mighty power.
-しかし日曜日の夜は、私がそれまで見た中で最も壮大で、最も栄光に満ちた光景だった。たっぷり二千人が会場に詰めかけ、その晩のうちに十五人以上が入神状態になった。神は力強い力をもってそこにおられた。
+しかし日曜日の夜は、私がそれまで見た中で最も壮大で、最も栄光に満ちた光景だった。優に二千人が会場に詰めかけ、その晩のうちに十五人以上が入神状態になった。神は大いなる力をもってそこにおられた。
 On Monday we went to New Corner, and in the evening met the Daniel's Band of that place.
 月曜日、私たちはニューコーナーへ行き、夕方にその町のダニエル団と会った。
 The house was literally packed, and there were not enough sinners in the house to fill the altar, almost everyone being.on the Lord's side.
@@ -191,7 +191,7 @@ The house was literally packed, and there were not enough sinners in the house t
 By very urgent request I next went to Tipton, Indiana.
 たいへん切実な願いを受けて、私は次にインディアナ州ティプトンへ行った。
 I commenced meeting on Sunday morning, April 26, 1885, at the Methodist Church, and for two weeks we held up the cross of Christ to a dying world, amidst all opposition from professing Christians and the outside world.
-一八八五年四月二十六日、日曜日の朝、私はメソジスト教会で集会を始めた。そして二週間、私たちは死にゆく世にキリストの十字架を掲げた。信仰を告白するクリスチャンたちからも、外の世からも、あらゆる反対を受けながらであった。
+一八八五年四月二十六日、日曜日の朝、私はメソジスト教会で集会を始めた。そして二週間、私たちは死にゆく世にキリストの十字架を掲げた。クリスチャンと称する人々からも、外の世からも、あらゆる反対を受けながらであった。
 All hell seemed arrayed against us, but I trusted in the Lord Jehovah to give us the victory.
 地獄のすべてが私たちに向かって陣を敷いているかのようだった。しかし私は、主エホバが勝利を与えてくださると信頼した。
 And many hundreds praise God for the meeting at Tipton.
@@ -206,7 +206,7 @@ He fell as one dead.
 He yielded to the Lord; as he afterwards said, he believed it was then or never.
 彼は主に従った。あとで彼が語ったところでは、今でなければ二度とないと思ったのである。
 God blessed and saved him.
-神は彼を祝福し、救われた。
+神は彼を祝福され、救われた。
 
 I never saw such demonstrations of the Spirit and power as at this meeting.
 この集会ほど、御霊と力の現れを見たことはない。
@@ -221,7 +221,7 @@ May they ever be kept faithful to the end of life.
 その人々が、いのちの終わりまでいつも忠実に守られるように。
 
 News of the wonderful work of God was spreading all over the country.
-神の驚くべきみわざの知らせは、国じゅうに広まっていった。
+神の驚くべきみわざの知らせは、その地方一帯に広まっていった。
 The interest was so great I could not get any time to rest, day or night.
 人々の関心があまりに大きかったので、私は昼も夜も休む暇がなかった。
 Committees were sent from all parts for me to go and hold meetings in different churches.
@@ -236,7 +236,7 @@ They then urged me to preach on Sabbath, but I had to refuse.
 すると牧師たちは、せめて日曜日に説教をと迫ったが、私は断らなければならなかった。
 
 Some came from Pendleton, Indiana, who traced us to our boarding-house, and begged very hard for me to come there, if only for a week.
-インディアナ州ペンドルトンから来た人々は、下宿先まで私たちを探し当てて、たとえ一週間でもよいから来てほしいと、しきりに頼んだ。
+インディアナ州ペンドルトンから来た人々は、下宿先まで私たちを探し当てた。そして、たとえ一週間でもよいから来てほしいと、しきりに頼んだ。
 I had only one week before my next appointment.
 次の約束まで、一週間しかなかった。
 I saw I could not rest there, so I told them I would go.
@@ -262,7 +262,7 @@ The oldest sinners and the hardest were saved.
 最も年老いた罪人も、最も頑なな罪人も救われた。
 
 We prayed for the Lord to convict them on the trains, and make them get off, and come and be saved.
-私たちは祈った。主が列車の中にいる人々に罪を示し、列車を降りさせて、ここに来て救われるようにしてくださいと。
+私たちは祈った。列車に乗っている人々に主が罪を示してくださり、その人々が列車を降りてここに来て、救われるようにしてください、と。
 One afternoon I fell under the power of God and had a vision, and lay till the house was crowded.
 ある日の午後、私は神の力に打たれて倒れ、幻を見た。そして会堂が人でいっぱいになるまで横たわっていた。
 At night five doctors examined me, and they said I was in a normal condition, and that my pulse and heart beat were natural, but that it was keeping time with the music.
@@ -318,7 +318,7 @@ After long solicitation, which had been kept up constantly for over four months,
 My first meeting was held in the Friends' Church, which was very large.
 最初の集会は、たいへん大きなフレンド派の教会で開いた。
 It would not hold the people.
-そこにも人々は入りきらなかった。
+それでも人々は入りきらなかった。
 The next day we went to the court house.
 次の日、私たちは郡庁舎へ移った。
 While there Barnum's show came to the city.
@@ -328,7 +328,7 @@ The papers said there would be a race between the Woodworth meeting and the show
 Hundreds came to the city to go to the show, but when they heard of the wonderful meeting in the court house they came there.
 何百人もがサーカスを見に町へ来た。しかし郡庁舎での驚くべき集会のことを聞くと、そちらに来た。
 Once, while the great show was passing, I was preaching and held the crowd.
-大サーカスの行列が通り過ぎていたとき、私は説教していたが、群衆は私の話から離れなかった。
+一度、大サーカスの行列が通り過ぎていたとき、私は説教していたが、群衆は私の話から離れなかった。
 The next time they passed there were several hundred on their knees in prayer.
 次に行列が通ったときには、何百人もがひざまずいて祈っていた。
 Not one went to the window.
@@ -363,7 +363,7 @@ The Holy Ghost fell on the multitude that had crowded in the rink and around the
 The power of God had been poured out in all the meetings, and "signs and wonders" followed and rested upon the people.
 すべての集会で神の力が注がれ、「しるしと不思議」が伴い、人々の上にとどまった。
 The Holy Ghost sat upon the blood-washed sons and daughters of the Lord Almighty.
-聖霊は、血で洗われた全能の主の息子たち、娘たちの上にとどまられた。
+聖霊は、全能の主の、血で洗われた息子たち娘たちの上にとどまられた。
 
 In two hours five hundred converts had testified that they knew they were saved by the power of God, and happy on their way to heaven.
 二時間のうちに、五百人の回心者が証しをした。自分は神の力によって救われたと知っている、そして喜んで天国への道を歩んでいる、と。
@@ -392,7 +392,7 @@ One left his plow and went in.
 He had been fighting off conviction.
 彼は罪の自覚を振り払おうとしていた。
 As he looked at his minister lying like one dead, the Spirit of God showed him if he was not converted before he come out of the trance he would be lost forever.
-自分の牧師が死んだように横たわっているのを見ると、神の御霊が彼に示された。牧師が入神状態からさめる前に回心しなければ、おまえは永遠に失われる、と。
+自分の牧師が死んだように横たわっているのを見ると、神の御霊が彼に示された。牧師が入神状態からさめる前に回心しなければ、自分は永遠に失われる、と。
 He fell on his knees and called upon God to save him.
 彼はひざまずき、救ってくださいと神に呼ばわった。
 Others followed.
@@ -404,9 +404,9 @@ Soon their mourning was turned to shouts of praise.
 Before the minister came back from his visit to heaven, the news had been shouted around the throne: "Sinners are coming home to God."
 牧師が天国の訪問から戻る前に、御座のまわりでは知らせが叫ばれていた。「罪人たちが神のもとに帰って来る」
 This is only one instance out of hundreds where God has started a revival far away from the meetings, by striking some one down in a trance.
-神がだれかを入神状態に打ち倒して、集会から遠く離れた所でリバイバルを始められた例は何百もある。これはその一つにすぎない。
+神がだれかを入神状態に打ち倒され、それによって集会から遠く離れた所でリバイバルを始められた例は何百もある。これはその一つにすぎない。
 The great revival at Cornelius' house was all brought about by two trances, one a sinner, the other a saint, though they were many miles apart at the time.
-コルネリオの家での大きなリバイバルは、すべて二つの入神によって起こった。ひとりは罪人で、ひとりは聖徒であり、そのときふたりは何マイルも離れていた。
+コルネリオの家での大きなリバイバルは、すべて二つの入神によって起こった。一つは罪人の、一つは聖徒の入神であり、そのときふたりは何マイルも離れていた。
 God used three visions to bring about the conversion of Saul.
 サウロの回心をもたらすために、神は三つの幻を用いられた。
 If I would write all the mighty works of God, I would have to write a book for each meeting.
@@ -417,7 +417,7 @@ CHAPTER XIII
 CAMP MEETINGS AND THOUSANDS ATTEND
 
 After closing the meeting at Kokomo, I went to Elwood, to visit the dear young converts there, and encourage them on their Christian journey.
-ココモの集会を閉じた後、私はエルウッドへ行った。そこの愛する若い回心者たちを訪ね、クリスチャンの旅路を歩む彼らを励ますためである。
+ココモの集会を閉じた後、私はエルウッドへ行った。そこの、回心して間もない愛する人々を訪ね、クリスチャンの旅路を歩む彼らを励ますためである。
 I had a blessed time indeed, and found them all standing faithful and working earnestly for the salvation of those around them.
 まことに祝福された時だった。みな忠実に立ち、まわりの人々の救いのために熱心に働いていた。
 
@@ -430,7 +430,7 @@ A number of church houses were built by different denominations, and a number of
 これらの集会の結果、さまざまな教派がいくつもの会堂を建て、いくつもの教会が組織された。
 
 After closing the meeting in the school-house, near Millenor's Corner, we held a camp-meeting five miles from Alexandria, Ind.
-ミレナーズ・コーナーの近くの校舎での集会を閉じた後、私たちはインディアナ州アレクサンドリアから五マイルの所で野営集会を開いた。
+ミレナーズ・コーナーの近くの校舎での集会を閉じた。その後、私たちはインディアナ州アレクサンドリアから五マイルの所で野営集会を開いた。
 We were there over two Sabbaths.
 私たちは、日曜日を二度そこで過ごした。
 This was the most wonderful meeting I had ever held.
@@ -475,7 +475,7 @@ Dr. T. was afflicted with a disease, called diabetes.
 He felt there was no hope for him.
 彼は、自分にはもう望みがないと感じていた。
 The best physicians had given him up, and he was liable to drop any time.
-最も優れた医者たちも彼を見放し、いつ倒れてもおかしくなかった。
+最も優れた医者たちも彼を見放し、いつ死んでもおかしくなかった。
 He had lost twenty-four pounds in two weeks, before his conversion.
 回心する前の二週間で、体重が十一キロほど減っていた。
 He came twice to the meeting at Pendleton.
@@ -497,7 +497,7 @@ Glory to God for his wonderful works.
 その驚くべきみわざのゆえに、神に栄光あれ。
 
 Just a word or two from the lips of the father of Sister D., of the vicinity of Alexandria, who, by faith, had been raised almost from the dead:
-アレクサンドリアの近くに住むD姉妹は、信仰によって、ほとんど死の床から起こされた。その父親の口から聞いた言葉を、少し記しておく。
+アレクサンドリアの近くに住むD姉妹は、信仰によって、死んだも同然のところから起こされた。その父親の口から聞いた言葉を、少し記しておく。
 
 "For years, with a combination of diseases, my daughter was suffering.
 「娘は何年も、いくつもの病が重なって苦しんでいました。
@@ -509,7 +509,7 @@ It was decided by her physicians that there was no use in giving her any more me
 医者たちは、これ以上薬を与えても無駄だと判断しました。
 
 "When seemingly the last moments had come, when she could not raise her head, and had to be helped like a child, and was so light her husband could take her on his hands as he would a child, when fully given up to die, and when perfectly submissive to God's will, she raised herself up in bed, and was standing on the floor before she knew what she was doing, and then began to walk around the room, a living skeleton.
-「いよいよ最期の時が来たように見えました。娘は頭も上げられず、子供のように人の手を借りなければなりませんでした。体はひどく軽くなり、夫が子供を抱くように両手に乗せられるほどでした。もう死ぬものとすっかりあきらめ、神のみこころに完全に従っていました。そのとき、娘は床の上で身を起こし、自分でも何をしているのかわからないうちに、床に立っていたのです。それから部屋の中を歩きまわりはじめました。生きた骸骨のようでした。
+「いよいよ最期の時が来たように見えました。娘は頭も上げられず、子供のように人の手を借りなければなりませんでした。体はひどく軽くなり、夫が子供を抱くように両手に乗せられるほどでした。もう死ぬものとすっかりあきらめ、神のみこころに完全に従っていました。そのとき、娘は寝床で身を起こしました。そして、自分でも何をしているのかわからないうちに、もう床に立っていたのです。それから部屋の中を歩きまわりはじめました。生きた骸骨のようでした。
 Her husband was very much alarmed, thinking death had struck her, and was looking for her to fall.
 夫はひどく驚きました。死が娘を襲ったのだと思い、今にも倒れるかと見守っていました。
 
@@ -549,13 +549,13 @@ We visited Central Park and many other beautiful places of interest during our s
 滞在中、私たちはセントラル・パークや、ほかの多くの美しい名所を訪ねた。また、ムーディーの集会にも出て、その働きを手伝った。
 
 As I stood on a street of the busy city and looked at the wonderful works of men, I saw the last prophecies fulfilled before my eyes.
-にぎやかな町の通りに立って、人の造った驚くべきものを見ていると、終わりの時についての預言が目の前で成就しているのが見えた。
+にぎやかな町の通りに立って、人の造った驚くべきものを見ていた。すると、終わりの時についての預言が目の前で成就しているのが見えた。
 Chariots rushing over the tops of the high buildings, the cars flying through the air, and stations all around the city built in the air.
 高い建物の屋根の上を戦車が走り、車両が空を飛ぶように走り、町じゅうに空中の駅が建てられていた。
 Looking down from these stations you see the street cars jostling one against the other.
 その駅から見下ろすと、路面電車が押し合いへし合いしているのが見える。
 Every place you look you can hear the voice of God speaking in tones of thunder: "Prepare for judgment; the angel will soon stand with one foot on the land, the other on the sea, and swear that delay shall be no longer."
-どこを見ても、神の声が雷のような響きで語られるのが聞こえる。「さばきに備えよ。まもなく御使が、片足を地に、片足を海に置いて立ち、もはや時がないと誓う」
+どこを見ても、神の声が雷のような響きで語られるのが聞こえる。「さばきに備えよ。まもなく御使が、片足を地に、片足を海に置いて立ち、もう時がないと誓う」
 // 黙示録一〇・二〜六 の言い換え。
 
 Leaving New York we returned by way of Philadelphia and Harrisburg, Pennsylvania.
@@ -631,7 +631,7 @@ Nine years have passed since and the fire is still burning that spread in all di
 それから九年がたった。何百人もがキリストに導かれたそのとき、四方に燃え広がった火は、今も燃え続けている。
 
 At the close of this meeting we started to visit my old home in Ohio, after an absence of three years.
-この集会を閉じると、私たちはオハイオの私の古い家を訪ねに出かけた。三年ぶりのことだった。
+この集会を閉じると、私たちはオハイオの私の郷里の家を訪ねに出かけた。三年ぶりのことだった。
 It was a great pleasure to meet all the loved ones again, especially my aged mother, and hear her say, as I kissed her at parting: "I will meet you in heaven."
 愛する家族みなに、とりわけ年老いた母にまた会えたのは、大きな喜びだった。別れぎわに私が口づけすると、母は「天国で会いましょうね」と言ってくれた。
 My prayers have been answered; my mother was converted.
@@ -662,7 +662,7 @@ He sent to our meeting for some of the workers to come and pray for him.
 He seemed like a dying man, but he soon came out shouting and went to his place of business.
 彼は死にかけている人のように見えたが、まもなく叫びながら起き上がり、仕事場へ出かけて行った。
 At our next meeting he said he had gone away from our meeting, calling me everything but a lady, and told how God had stricken him down and showed him the pit of hell, and what an awful thing it was to fight against the power and work of God.
-次の集会で、彼は語った。自分は、私のことを婦人とは呼べないようなあらゆる悪口で呼びながら、集会から帰って行った。すると神が自分を打ち倒し、地獄の穴を見せてくださった。神の力とみわざに逆らって戦うのがどれほど恐ろしいことかも示された、と。
+次の集会で、彼は語った。自分は、私のことを婦人とは呼べないようなあらゆる悪口で呼びながら、集会から帰って行った。すると神が自分を打ち倒され、地獄の穴を見せてくださった。神の力とみわざに逆らって戦うのがどれほど恐ろしいことかも示された、と。
 
 A student from one of the Cleveland colleges spoke lightly of the power of God at one of our meetings, and as he was going out of the door he was stricken down and had to be carried to his home.
 クリーヴランドのある大学の学生が、私たちの集会で神の力を軽んじる言葉を口にした。すると戸口から出て行くときに打ち倒され、家まで運ばれなければならなかった。
@@ -693,4 +693,4 @@ He said God had brought him down through a wonderful experience, and he wanted t
 He said he believed God would smite them down, and spoke of the time when Saul's daughter made sport of David for shouting and dancing before the Ark of God.
 逆らえば神はその人々を打ち倒されるだろう、と彼は言った。そして、サウルの娘が、神の箱の前で叫び踊ったダビデをあざけったときのことを話した。
 God smote her with barrenness.
-神は彼女を打って、子を産めない身にされたのである。
+神は彼女を打たれ、子を産めない身にされたのである。
