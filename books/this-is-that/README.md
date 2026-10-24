@@ -48,7 +48,7 @@
 + [x] Part III. The Three Dispensations (2)
 + [x] Part III. You Need the Holy Spirit / Tarry Until
 + [x] Part III. The Baptism of the Holy Spirit / Work of the Holy Spirit
-+ [ ] Part III. A Plain Talk to Seekers
++ [x] Part III. A Plain Talk to Seekers
 + [ ] Part III. The Latter Rain / Shepherds, "False and True"
 + [ ] Part III. Sauls--Past and Present
 + [ ] Part III. What About Those Manifestations?
