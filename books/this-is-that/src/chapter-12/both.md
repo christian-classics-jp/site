@@ -200,7 +200,7 @@ People fell to the floor here and there through the audience. Strong men sobbed 
 会衆のあちこちで、人々が床に倒れた。屈強な男たちが赤ん坊のようにすすり泣いた。ついに牧師は立ち上がると、壇上を行ったり来たりしながら言った。
 
 "Oh, friends, I have to preach!" And preach he did, under the inspiration of the Holy Spirit, telling the people that "This is That," commanding them to be filled with the Spirit, to get oil in their lamps and prepare for the coming of the Lord.
-「ああ、みなさん、私は説教しないではいられない！」そして、聖霊の霊感を受けて本当に説教した。「これこそ預言されていたこと」だと人々に語り、御霊に満たされよ、ともしびに油を用意して主の来臨に備えよ、と命じたのである。
+「ああ、みなさん、私は説教しないではいられない！」そして、聖霊の霊感を受けて本当に説教した。「これこそ預言されていたこと」だと人々に語り、御霊に満たされよ、あかりに油を用意して主の来臨に備えよ、と命じたのである。
 
 In the two weeks that followed practically the entire congregation from pulpit to the door, besides members who came in from other churches, were baptized with the Holy Spirit and spoke in other tongues.
 それに続く二週間のうちに、説教壇から戸口まで、会衆のほとんど全員が聖霊のバプテスマを受け、他国の言葉で語った。ほかの教会から来た信徒たちもそうだった。

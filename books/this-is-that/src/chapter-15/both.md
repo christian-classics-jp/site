@@ -11,10 +11,10 @@ THE Lord witnessed to me concerning our going to Long Branch while in Savannah, 
 私たちがロングブランチへ行くことについて主がしるしを与えてくださったのは、ジョージア州サバンナにいたときだった。私は、主がじかに導いてくださるのを待ち望んでいた。祈る私の前には、何通もの手紙が広げてあった。どれも、どこかの町へ来てほしいという招きだった。
 
 "Oh, Lord, lead me just as You would have me. Do not let us get one step out of Your will in any way, or the place that You would have us to be. This call to Long Branch, N. J., seems to witness in my soul, speak to me, Lord, in some way, if this is of You. If not, take it away from me. How I wish that I could find out more about the place, its population, etc."
-「ああ、主よ、あなたの望まれるとおりに私を導いてください。どんなことでも、私たちが御心から、またあなたが私たちを置こうとされる場所から、一歩もそれないようにしてください。ニュージャージー州ロングブランチからのこの招きは、私の魂にあかしをしているように思えます。主よ、もしこれがあなたから出たものなら、何かの方法で私に語ってください。そうでないなら、私から取り去ってください。その町のことや人口のことなどを、もっと知ることができたらいいのですが」
+「ああ、主よ、あなたの望まれるとおりに私を導いてください。どんなことでも、私たちが御心から、またあなたが私たちを置こうとされる場所から、一歩もそれないようにしてください。ニュージャージー州ロングブランチからのこの招きについては、私の魂のうちにしるしがあるように思えます。主よ、もしこれがあなたから出たものなら、何かの方法で私に語ってください。そうでないなら、私から取り去ってください。その町のことや人口のことなどを、もっと知ることができたらいいのですが」
 
 As I spoke, a New York paper was picked up by a little gust of wind and blown across the tent. Stooping over, still praying for the Lord to direct me and speak regarding Long Branch, N. J., I absent-mindedly picked up the paper and smoothed it out upon my lap, with amazement when, in large letters, printed half way across the paper, this sign met my gaze--"DON'T FAIL TO GO TO LONG BRANCH, N. J."
-そう言っていると、ニューヨークの新聞が小さな風に巻き上げられて、天幕を横切って飛んで来た。私はなおも、ロングブランチについて導き、語ってくださるよう主に祈っていた。そうしながら、かがんで、何気なくその新聞を拾い、ひざの上で広げて伸ばした。すると、驚いたことに、紙面の半分ほどにわたる大きな文字の広告が目に飛び込んできた。『ニュージャージー州ロングブランチへぜひお出かけを』
+そう言っていると、ニューヨークの新聞がひと吹きの風に巻き上げられて、天幕を横切って飛んで来た。私はなおも、ロングブランチについて導き、語ってくださるよう主に祈っていた。そうしながら、かがんで、何気なくその新聞を拾い、ひざの上で広げて伸ばした。すると、驚いたことに、紙面の半分ほどにわたる大きな文字の広告が目に飛び込んできた。『ニュージャージー州ロングブランチへぜひお出かけを』
 
 Beneath this sign was given a detailed description of the place, its accommodation, population, etc., and it wound up, with glaring letters--"WRITE AT ONCE TO LONG BRANCH, N. J., THAT YOU WILL BE THERE."
 その広告の下には、その町のこと、宿のこと、人口のことなどが詳しく書いてあった。そして最後は、目立つ文字でこう結んであった。『今すぐニュージャージー州ロングブランチに、行くと手紙を書こう』
@@ -26,7 +26,7 @@ How wonderful that this New York paper should be away down here in Savannah, Ga.
 （報告の切り抜きとメモを縮めたもの）
 
 Showers of blessing are falling in Long Branch, where a tiny band, seven in number, have been praying for revival and an outpouring of the Spirit for years. Brother and Sister W. Martin had grounds ready, soon we had the tent erected and filled with the glory of the Lord.
-ロングブランチに祝福の雨が降り注いでいる。ここでは七人の小さな群れが、何年ものあいだ、信仰復興と御霊の注ぎを求めて祈ってきた。W・マーティン兄弟と姉妹が会場を用意してくれていたので、まもなく天幕が立ち、主の栄光で満たされた。
+ロングブランチに祝福の雨が降り注いでいる。ここでは七人の小さな群れが、何年ものあいだ、信仰復興と御霊の注ぎを求めて祈ってきた。W・マーティン兄弟夫妻が会場を用意してくれていたので、まもなく天幕が立ち、主の栄光で満たされた。
 
 Workers and seekers have gathered from other towns and cities, crowds increasing daily--Sundays people are turned away, unable to gain admission. Many have received the baptism of the Holy Spirit, and scores have come to the altar for salvation, and God is meeting one and all. A number have come out of the churches and received the baptism, and are going on in a precious way with the Lord. We go out daily with the Gospel car, upon which is painted in large letters on one side--"Jesus is coming soon;" on the other "Where will you spend eternity?" Twenty and thirty miles of territory is covered daily with literature, street meetings and announcements.
 ほかの町や都市から働き手や求める人たちが集まり、人の数は日ごとに増えている。日曜日には、入りきれずに帰る人もいる。多くの人が聖霊のバプテスマを受け、何十人もが救いを求めて祭壇に来た。神は一人残らず、どの人にも出会ってくださっている。教会から出てきてバプテスマを受け、主とともに尊い歩みを続けている人も何人かいる。私たちは毎日、福音自動車で出かける。車の一方の側には大きな字で『イエスはまもなく来られる』、もう一方には『あなたはどこで永遠を過ごすのか』と書いてある。毎日二十マイルから三十マイルの地域を回って、伝道文書を配り、路傍集会を開き、集会を知らせている。
@@ -50,16 +50,16 @@ It seemed impossible to ship our tents from New Jersey to Boston, Mass., as the 
 輸送禁止令が出ていたので、ニュージャージーからマサチューセッツ州ボストンへ天幕を送るのは無理だと思えた。けれども主が道を開き、トラックを手に入れさせてくださった。道具は大急ぎで運ばれ、期日までに天幕が立った。神をほめたたえよ！
 
 It was impossible to seat the throngs of people, The Pentecostal saints came filled with the glory and fire of God. Their testimonies and ringing songs of praises brought the entire neighborhood on the run to ask: "What meaneth this?" It was a hopeless task to seat the people, though seats were loaned us by the church and every available inch of space packed. Thousands nightly fringed the edge of the tent, standing clear out into the road as far and farther than it was possible for them to catch a word of the discourse.
-押し寄せる群衆を座らせることはとてもできなかった。ペンテコステの聖徒たちは、神の栄光と火に満たされてやって来た。その証しと、高らかに響く賛美の歌を聞いて、近所じゅうの人が駆けつけた。そして、『これは、いったい、どういうわけなのだろう』と尋ねた（使徒二・一二）。教会から座席を借り、使える場所は隅々まで人で埋まったが、人々を座らせるのはとうてい無理だった。毎晩、何千人もが天幕の周りを取り巻いた。道路のずっと先まで、説教が一言も聞き取れないほど遠くにまで立っていた。
+押し寄せる群衆を座らせることはとてもできなかった。ペンテコステの聖徒たちは、神の栄光と火に満たされてやって来た。その証しと、高らかに響く賛美の歌を聞いて、近所じゅうの人が駆けつけた。そして、『これは、いったい、どういうわけなのだろう』と尋ねた（使徒二・一二）。教会から座席を借り、使える場所は隅々まで人で埋まったが、人々を座らせるのはとうてい無理だった。毎晩、何千人もが天幕の周りを取り巻いた。道路のずっと先、説教がやっと聞き取れるところまで、いや、それより遠くにまで人が立っていた。
 
 At first the Catholic element did their best to disturb and break up the meeting, but praise the Lord, He gave us victory.
 初めのうち、カトリックの一部の人たちが、集会をかき乱し、つぶそうと手を尽くした。けれども主をほめたたえよ、主が私たちに勝利を与えてくださった。
 
 A policeman who roomed near the tent complained to his chief that he could not sleep for the noise of the people praying and shouting at all hours of the night, and the brethren were asked to appear at the station. They went in the Gospel car, leaving it in front of the door as they entered. The policeman who had made the complaint was not in, and the chief told them to sit down and wait for his return. Pacing up and down the floor, he at last went to the window, and looking out upon the car, with its lettered signs, drew back with a start, and said:
-天幕の近くに部屋を借りていた一人の警官が、署長に苦情を言った。人々が夜中じゅう祈ったり叫んだりする騒ぎで眠れない、というのである。兄弟たちは警察署に呼び出された。彼らは福音自動車で行き、車を入り口の前に止めて中に入った。苦情を言った警官はいなかったので、署長は、戻るまで座って待つように言った。署長は床を行ったり来たりしていたが、ついに窓のところへ行って、文字の書かれた車を見下ろした。そして、ぎくりとして身を引き、言った。
+天幕の近くに部屋を借りていた一人の警官が、署長に苦情を言った。人々が夜中じゅう祈ったり叫んだりする騒ぎで眠れない、というのである。兄弟たちは警察署に呼び出された。彼らは福音自動車で行き、車を入り口の前に止めて中に入った。苦情を言った警官はいなかったので、署長は、戻るまで座って待つように言った。署長は床を行ったり来たりしていたが、ついに窓のところへ行って、文字の書かれた車に目をやった。そして、ぎくりとして身を引き、言った。
 
 "Jesus is coming soon! Coming soon? Well, maybe so. I don't know."
-「イエスはまもなく来る、か。まもなく来るだって。まあ、そうかもしれん。わからんな」
+「『イエスはまもなく来られる』か。まもなく来るだって。まあ、そうかもしれん。わからんな」
 
 "Are you prepared to meet Him if He should come?" they inquired.
 「もしイエスが来られたら、お会いする備えはできていますか」と兄弟たちは尋ねた。
@@ -71,7 +71,7 @@ A policeman who roomed near the tent complained to his chief that he could not s
 「いや、いや、そうだとは言えないね」兄弟たちはさらに、イエスに心をささげるよう勧めた。けれども署長は、今はそうできないわけをいくつも挙げて、断った。（私たちの天幕集会に、警察の当然の保護を与えようとしなかったのは、この署長だった。）
 
 Going over to the window several times, he read aloud, in a thoughtful voice: " ' Jesus is coming soon." Well, well, maybe He is." And indeed He came very soon for this man. That night, the disturbing element, seeing no restraining hand laid upon them, were more disorderly than ever about the tent.
-署長は何度も窓のところへ行き、考え込むような声で読み上げた。「『イエスはまもなく来る』か。やれやれ、そうなのかもしれんな」そして実際、イエスはこの人のもとに、ほどなく来られたのである。その夜、騒ぎを起こす連中は、だれにも取り締まられないのを見て、天幕の周りでこれまでになく乱暴にふるまった。
+署長は何度も窓のところへ行き、考え込むような声で読み上げた。「『イエスはまもなく来られる』か。ふうむ、そうなのかもしれんな」そして実際、イエスはこの人のもとに、ほどなく来られたのである。その夜、騒ぎを起こす連中は、だれにも取り締まられないのを見て、天幕の周りでこれまでになく乱暴にふるまった。
 
 The next day the chief was stricken with heart failure at his desk and died in a few hours.
 次の日、署長は机に向かっているときに心臓発作に襲われ、数時間のうちに死んだ。
@@ -87,7 +87,7 @@ One young lady, a school teacher, came to mock, said she would never be one of t
 
 Young men who ridiculed, were suddenly stricken with awful conviction while a message was being given in tongues and interpretation. The face of the young man who led the way to the, altar turned white, his knees and hands trembled as he cried: "Lord, be merciful to me, a sinner." His friends followed him. They were all wonderfully saved and are now seeking the baptism.
 // 英文は「the, altar」。the altar として訳した。
-あざ笑っていた若者たちが、異言のメッセージとその解き明かしが語られているあいだに、突然、恐ろしいほどの罪の自覚に打たれた。先頭に立って祭壇へ進んだ若者は、顔が真っ青になり、ひざも手も震えていた。彼は叫んだ。「主よ、罪人の私をあわれんでください」友人たちも後に続いた。みなすばらしく救われ、今はバプテスマを求めている。
+異言のメッセージとその解き明かしが語られていたときのことである。あざ笑っていた若者たちが突然、恐ろしいほどの罪の自覚に打たれた。先頭に立って祭壇へ進んだ若者は、顔が真っ青になり、ひざも手も震えていた。彼は叫んだ。「主よ、罪人の私をあわれんでください」（ルカ一八・一三）友人たちも後に続いた。みなすばらしく救われ、今はバプテスマを求めている。
 
 A little girl with a paralyzed leg and a stiff knee was brought by her parents, for healing. One leg was two inches shorter than the other. The Lord instantly healed her and she was able to bend her knee and the limb was 'lengthened and became as the other one.
 // 英文は「the limb was 'lengthened」。' は崩れとみて訳さなかった。
@@ -146,7 +146,7 @@ Since writing the heading of this report, I have been sitting here before my typ
 この報告の見出しを書いてから、私はタイプライターの前に座ったまま、どこから、どう書き始めようかと考えている。何もかもがあまりにすばらしくて、とても書き表せない。けれども、集会から遠く離れている、貧しく飢えた多くの聖徒たちを励ましたいと切に願うので、精いっぱい書いてみよう。
 
 The Lord was with us from the beginning. The first few days some fifty-four received the baptism, and the number increased daily until within two weeks and a half it was safe to say over a hundred received. Hardened sinners wept their way to the altar; many sat and trembled from head to foot under conviction, and sinners on their way to the altar, fell in the aisles, often it was impossible to preach, the Holy Spirit conducted the meeting; messages in tongues and interpretation came forth from many empty vessels, waves of glory and marvelous singing swept over the audience.
-主は初めから私たちとともにおられた。最初の数日で五十四人ほどがバプテスマを受けた。その数は日ごとに増え、二週間半のうちに、百人を超える人が受けたと言って差し支えない。かたくなな罪人たちが、泣きながら祭壇に来た。多くの人が座ったまま、罪の自覚に頭から足まで震えていた。祭壇へ向かう途中で、通路に倒れる罪人もいた。説教ができないこともしばしばで、聖霊が集会を導かれた。多くの空の器から、異言のメッセージと解き明かしが出てきた。栄光の波と、すばらしい歌声が、会衆の上を押し寄せた。
+主は初めから私たちとともにおられた。最初の数日で五十四人ほどがバプテスマを受けた。その数は日ごとに増え、二週間半のうちに、百人を超える人が受けたと言って差し支えない。かたくなな罪人たちが、泣きながら祭壇に来た。多くの人が座ったまま、罪の自覚に頭から足まで震えていた。祭壇へ向かう途中で、通路に倒れる罪人もいた。説教ができないこともしばしばで、聖霊が集会を導かれた。多くの空の器から、異言のメッセージと解き明かしが出てきた。栄光の波と、すばらしい歌声が、会衆の上に押し寄せた。
 
 ## 聖霊の力のもとで演じられた劇
 A DRAMA ENACTED UNDER POWER OF HOLY SPIRIT.
@@ -155,7 +155,7 @@ One night a drama was all worked out in the Spirit, showing forth the ten Virgin
 ある夜、御霊のうちに一つの劇が演じられた。十人のおとめの劇である。おとめたちは初め、白い衣をまとって花婿を迎えに出て行った。彼女たちは言った。
 
 "He delayeth His coming; let us rest."
-「花婿は来るのがおくれている。休みましょう」
+「花婿は来られるのがおくれている。休みましょう」
 
 At first some argued that all should keep awake, for He that would come, would come quickly; but finally all were asleep.
 初めは、来るべきかたはすぐに来られるのだから、みな目を覚ましていなければならない、と言い張る者もいた。けれども、ついにはみな眠ってしまった。
@@ -164,10 +164,10 @@ Suddenly a loud cry--
 突然、大きな叫び声がした。
 
 "Behold! The Bridegroom cometh! Go ye out to meet Him!" Then all the virgins opened their eyes, and examined their lamps in alarm. The five sisters enacting the part of the wise virgins, danced for joy because of the oil, but the foolish begged the wise to share their oil with them. The wise said it was impossible, and sent the foolish to buy oil of Him who had to sell.
-「さあ、花婿だ、迎えに出なさい！」（マタイ二五・六）すると、おとめたちはみな目を開けて、あわてて自分のともしびを調べた。賢いおとめの役を演じていた五人の姉妹は、油があるので喜んで踊った。けれども愚かなおとめたちは、油を分けてくれるよう賢いおとめたちに頼んだ。賢いおとめたちは、それはできないと言い、油を売るかたのところへ買いに行かせた。
+「さあ、花婿だ、迎えに出なさい！」（マタイ二五・六）すると、おとめたちはみな目を開けて、あわてて自分のあかりを調べた。思慮深いおとめの役を演じていた五人の姉妹は、油があるので喜んで踊った。けれども思慮の浅いおとめたちは、油を分けてくれるよう思慮深いおとめたちに頼んだ。思慮深いおとめたちは、それはできないと言い、油を売るかたのところへ買いに行かせた。
 
 Then followed a scene where the foolish knocked at an imaginary door and haggled long over the price they would have to pay for the oil; they wanted to pay only a price which would not inconvenience them or cost a sacrifice, but the man who sold asked for all to give one hundred per cent sacrifice before they could obtain oil. At last the foolish went away, only to find that the wise had been taken up to meet the Lord; then they fell down and tore their hair and wept aloud.
-それから、次のような場面が続いた。愚かなおとめたちは、そこにあるつもりの戸をたたき、油の代価をめぐって長いあいだ値切った。彼女たちは、不便を感じたり犠牲を払ったりしなくて済むだけの代価しか払いたくなかった。けれども油を売る人は、油を手に入れる前に、だれもが百パーセントの犠牲を払うよう求めた。ついに愚かなおとめたちは立ち去った。ところが戻ってみると、賢いおとめたちは主に会うために引き上げられたあとだった。愚かなおとめたちは地に倒れ、髪をかきむしって声をあげて泣いた。
+それから、次のような場面が続いた。思慮の浅いおとめたちは、そこにあるつもりの戸をたたき、油の代価をめぐって長いあいだ値切った。彼女たちは、不便を感じたり犠牲を払ったりしなくて済むだけの代価しか払いたくなかった。けれども油を売る人は、油を手に入れる前に、だれもが百パーセントの犠牲を払うよう求めた。ついに思慮の浅いおとめたちは立ち去った。ところが戻ってみると、思慮深いおとめたちは主に会うために引き上げられたあとだった。思慮の浅いおとめたちは地に倒れ、髪をかきむしって声をあげて泣いた。
 
 This was followed by a ringing, warning appeal to all to make full surrender, pay the price, buy oil now, for the Bridegroom is at the door.
 これに続いて、すべての人に向けて、高らかに警告する訴えがあった。すべてを明け渡し、代価を払い、今、油を買え。花婿は戸口まで来ているのだから、と。
