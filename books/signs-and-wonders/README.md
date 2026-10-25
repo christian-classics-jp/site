@@ -62,7 +62,7 @@
 + [x] Chapter LI. Work at Tampa, Florida
 + [x] Chapter LII. Atlanta Meeting, 1915
 + [x] Chapter LIII. Convention in Chicago at the Red Stone Church, June, 1915 / Chapter LIV. Meetings at St. Louis, Mo.
-+ [ ] Chapter LV. The Fire Falls at Topeka, Kansas / Chapter LVI. Colorado Springs, Colo.
++ [x] Chapter LV. The Fire Falls at Topeka, Kansas / Chapter LVI. Colorado Springs, Colo.
 + [ ] Chapter LVII. Convention at Los Angeles, Cal. (1)
 + [ ] Chapter LVII. Convention at Los Angeles, Cal. (2)
 + [ ] Chapter LVIII. Trying but Blessed Times at San Diego, Calif.
