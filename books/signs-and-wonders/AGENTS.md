@@ -47,6 +47,7 @@
 - 第三十八章の Fred Lohman（サンアントニオの牧師、『ワード・アンド・ウィットネス』誌の寄稿編集者）の二つの報告（「GOD VISITING SAN ANTONIO WITH MIGHTY POWER」「GOD WORKING IN SAN ANTONIO」）は訳していない。WebSearch（standard 2 回、extended 1 回）で没年が見つからなかった。同じ章のキャリー・ジャッド・モンゴメリーの記事（1946 年没）は訳した。
 - 第三十九章の「ヘイウッド兄弟の新聞」の記事は G. T. Haywood（1880-1931）の新聞からの転載なので訳した。同じ章のエリザベス・D・ヴァン・ホーン夫人の証し（日付、二つの小見出し、署名、住所の行を含む）と、ヴィクトリア・フライマーク夫人の証し（署名と住所の行を含む）は、WebSearch（standard 2 回、extended 1 回）で没年が見つからなかったので訳していない。ガートルード・ベリー嬢の証しは著者が三人称で書いているので訳した。
 - 第四十章の A. W. Otto（オタワの『ヘラルド・オブ・トゥルース』誌の編集者・発行者）の報告（その一の「(Taken from "The Herald of Truth.'')」から、その二の署名「A. W. OTTO, Editor and Publisher,」「Ottawa, Canada.」まで）は訳していない。WebSearch（standard 2 回、extended 1 回）で没年が見つからなかった。報告の前の二つの見出しは訳した。同じ章（その二）のエリザベス・シッソンの公開書簡（1934 年没）と、その後の歌（William T. Pettengill の「He Cometh」、1956 年没）は訳した。
+- 第四十一章の Anna C. Reiff（『ラター・レイン・エバンジェル』誌の編集者）の報告（その一の「(Copied from "The Latter Rain Evangel.")」から、その二の署名「ANNA C. REIFF.」まで。報告に含まれる多くの人の証しも含む）は訳していない。WebSearch（standard 4 回、extended 1 回）と IFPHC の目録で没年を探したが、一八六九〜一九四五年とするのは復刻本の出版社の紹介文一件だけで、ほかの資料で確かめられなかった。ほかの資料で一九五七年以前の没と確かめられれば、訳してよい。報告の前の二つの見出しと、その前の著者の段落は訳した。
 - ほかの書き手（編者 A. E. Sidford、Earl W. Clark、Cyrus B. Fockler、Robert J. Craig、August Feick、W. J. Mortlock、Anna C. Reiff など）と、証しを寄せた多くの人の没年は確かめていない。これらの文の扱いは決めていない。訳す前に確かめる。
 - のちの版（1922 年の『 Marvels and Miracles 』、現代の復刻版や編集版）で加わった序文、注、本文の書き換えは著作権が残りうる。訳にはそれらを使わず、参照もしない。
 
