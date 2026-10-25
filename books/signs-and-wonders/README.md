@@ -31,7 +31,7 @@
 + [x] Chapter XXIV. The Gospel the Power of God / Chapter XXV. At Carroll, Iowa / Chapter XXVI. At Muscatine, Iowa
 + [x] Chapter XXVII. Meetings at Moline, Illinois / Chapter XXVIII. World's Fair Time
 + [x] Chapter XXIX. Manifestations of the Spirit
-+ [ ] Chapter XXX. Signs and Wonders at Dallas, Texas (1)
++ [x] Chapter XXX. Signs and Wonders at Dallas, Texas (1)
 + [ ] Chapter XXX. Signs and Wonders at Dallas, Texas (2)
 + [ ] Chapter XXX. Signs and Wonders at Dallas, Texas (3)
 + [ ] Chapter XXXI. A Vision of the Coming of the Lord
