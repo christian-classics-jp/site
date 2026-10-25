@@ -39,7 +39,7 @@
 + [x] Chapter XXXIII. Sermon--Gifts for Men
 + [x] Chapter XXXIV. Sermon--Womens' Rights in the Gospel
 + [x] Chapter XXXV. Sermon on Visions and Trances
-+ [ ] Chapter XXXVI. Sermon--The Second Coming of Christ
++ [x] Chapter XXXVI. Sermon--The Second Coming of Christ
 + [ ] Chapter XXXVII. Sermon--Prepare for War--Marshalling of the Nations
 + [ ] Chapter XXXVIII. San Antonio, Texas, and Oakland, Cal.
 + [ ] Chapter XXXIX. World-wide Camp Meeting at Los Angeles
