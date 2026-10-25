@@ -76,6 +76,7 @@
 - 第六十八章：著者の説教と、歌「THE COMMUNINGS OF JESUS」を訳した。歌は本に作者の名がない。hymnary.org では、一八九九年の歌集に作者の名なしで、一九一一年の歌集に「Whisperings of Jesus」の題で頭文字だけの「D. K. W.」の作として載っている。名がわからないので、名のない作品として訳した。
 - 第六十九章：『ラター・レイン・エバンジェル』誌から転載された著者の説教なので、すべて訳した。
 - 第七十章（その一・その二）：著者の地の文（「PETOSKEY MEETING IS IN SESSION…」とフェイスの話、「A FEW CLOSING REMARKS」）、『ワード・アンド・ワーク』誌の「EDITOR.」の署名だけの短信、署名のない「A FEW VISIONS SEEN AT PETOSKEY MEETING」と「MISCELLANEOUS」、異言による言葉の解き明かし（回心した世界産業労働者組合の指導者を通して与えられた言葉を含む）、歌「THE COMING KING」（詞・曲とも R. E. Winsett、一九五二年没。hymnary.org による）は訳した。訳していないのは、ペトスキーの牧師 F. W. Jewell の二つの報告、宣教師 N. Diamond Gill の幻、August Feick の報告（再検索していない）、デトロイトの牧師 J. R. Kline の手紙（一九二〇年にアッセンブリーズ・オブ・ゴッドの中部地区会の臨時議長を務めた人と見られる）、Mrs. J. P. Howard の報告（第四十八章（その二）の Mrs. P. J. Howard と同じ人と見られる）、Benjamin Wittich の証し、Mrs. Abbie Thomas、Grace Boggs、Mrs. M. Banfill、Mrs. Geo. Simmins、Minnie Kapp、Mrs. Minnie Bowman、Joseph Walker の証し、Harry W. Tyler の手紙（見出しはいずれも訳した）。ジュエル、ギル、クライン、ハワード、ウィティック、タイラーは WebSearch（standard 2 回、extended 1 回）、ほかは standard 2 回で没年が見つからなかった。
+- 第七十一章（その一・その二）：著者の説教だけなので、すべて訳した。
 - ほかの書き手（編者 A. E. Sidford、August Feick、W. J. Mortlock など）と、証しを寄せた多くの人の没年は確かめていない。これらの文の扱いは決めていない。訳す前に確かめる。
 - のちの版（1922 年の『 Marvels and Miracles 』、現代の復刻版や編集版）で加わった序文、注、本文の書き換えは著作権が残りうる。訳にはそれらを使わず、参照もしない。
 
@@ -90,7 +91,3 @@
 - 語：the Holy Ghost／the Holy Spirit＝聖霊、the Spirit of God＝神の御霊、baptism of the Holy Ghost＝聖霊のバプテスマ、angel＝御使、Savior＝救い主、Redeemer＝あがない主、Heaven＝天国、the Beautiful City＝美しい都、the Golden City＝金の都、mansions＝すまい、the vineyard of Christ＝キリストのぶどう園、harvest field＝刈入れの畑、revival＝リバイバル、meeting＝集会、camp meeting＝野営集会、prayer-meeting＝祈祷会、converted／conversion＝回心する／回心、testify＝証しをする、the Master＝主、Praise the Lord＝主をほめたたえよ、Sabbath＝日曜日（Sabbath School＝日曜学校）、Disciple(s) Church＝ディサイプル派の教会、Friends＝フレンド派、Methodist＝メソジスト、strive（御霊が）＝争う、gazing-stock＝見せ物、worm＝虫けら。
 - 聖句をそのまま引いているところは『』で囲み、出典を付ける。英文に引用符のない聖句の借用は、かっこを付けず口語訳の言い方に寄せる。
 - 歌と詩は 1 行ずつ訳して `<br/>` を付ける。人が歌う声なので、イエス、神には敬語を使う。CHORUS＝`（おりかえし）<br/>`、歌の題は `##`。台詞として引く歌は、最初の行を「で開き、最後の行を」で閉じる。
-
-## トップページ
-
-- 訳しているあいだは、`static/index.html` の「更新中」に載せる。
