@@ -50,7 +50,7 @@
 + [x] Chapter XLI. At the Stone Church, Chicago, 1913 (3)
 + [x] Chapter XLII. Woodworth-Etter Meeting at Montwait, Mass., August, 1913 (1)
 + [x] Chapter XLII. Woodworth-Etter Meeting at Montwait, Mass., August, 1913 (2)
-+ [ ] Chapter XLIII. At Hot Springs, Ark. / Chapter XLIV. Woodworth-Etter Meetings at Memphis, Tenn. / Chapter XLV. Missions at Meridian, Miss., and Warrior, Ala.
++ [x] Chapter XLIII. At Hot Springs, Ark. / Chapter XLIV. Woodworth-Etter Meetings at Memphis, Tenn. / Chapter XLV. Missions at Meridian, Miss., and Warrior, Ala.
 + [ ] Chapter XLVI. Great Revival at Atlanta, Ga. (1)
 + [ ] Chapter XLVI. Great Revival at Atlanta, Ga. (2)
 + [ ] Chapter XLVII. A Few Days at London, Ky.
