@@ -9,13 +9,13 @@ Just an added page as the new book goes to press. In the midst of many calls fro
 新しい本が印刷に回るにあたって、一ページだけ書き加える。北から南から、東から西から、多くの招きがあるなかで、御霊は二度目に私をミシガン州北部のペトスキーへ引き寄せられた。神は私たちのただ中で力強く働いておられる。しかも、まだこれから続くものがある。
 
 Remarkable visions are given with testimonies. Lights are seen in different parts of the tabernacle; also angels hovering over the mercy-seat. Wonderful healings are taking place daily. Crooked limbs are straightened; eyesight restored; the lame made to leap for joy; demons cast out; and God places His seal on the work.
-証しと共に、驚くべき幻が与えられている。幕屋のあちこちに光が見え、また、御使たちが贖罪所の上を舞っているのが見える。毎日、すばらしいいやしが起こっている。曲がった手足がまっすぐにされ、視力が戻り、足のなえた者が喜び躍り上がり、悪霊が追い出される。そして神は、このわざに印を押される。
+証しと共に、驚くべき幻が与えられている。幕屋のあちこちに光が見え、また、御使たちが祭壇の上を舞っているのが見える。毎日、すばらしいいやしが起こっている。曲がった手足がまっすぐにされ、視力が戻り、足のなえた者が喜び躍り上がり、悪霊が追い出される。そして神は、このわざに印を押される。
 
 Who shall say aught against God's elect? It is the Spirit that beareth witness. Mockers are silenced. Unbelievers are confounded; the proud are humbled, and "blessed are the meek."
 だれが、神の選ばれた者たちに逆らって何かを言えようか。あかしをするのは御霊である。あざける者は黙らされる。信じない者はあっけに取られ、高ぶる者は低くされる。そして、『柔和な人たちは、さいわいである』（マタイ五・五）。
 
 Yes, and glory be to God, that I, under this widespread canvas and waving forest, am permitted on this 22nd day of July, to count another milestone to my three score and eleven years--with vigorous pulse beatings and feet swift to respond to the Spirit's call. Sometimes it seems this prison-house of clay must break and my ransomed spirit soar to everlasting bliss. But no, what greater bliss than to lead souls into the kingdom, and hear the chants of new-born souls. What greater honor than to be a messenger to tell the "Glad Tidings" and blow the Gospel Trumpet.
-そうだ、神に栄光あれ。私は、大きく広げられたこの天幕の下、風にそよぐ森の中で、この七月二十二日に、七十一年の生涯にもう一つの道しるべを数えることを許されている。脈は力強く打ち、足は御霊の呼びかけにすばやく応じる。ときには、この土の牢獄が砕けて、あがなわれた私の霊が永遠の至福へと舞い上がらなければならないように思われる。しかし、いや、魂を御国に導き、新しく生まれた魂の歌声を聞くことにまさる至福があろうか。「よきおとずれ」を告げ、福音のラッパを吹き鳴らす使者となることにまさる栄誉があろうか。
+そうだ、神に栄光あれ。私は今、大きく広げられたこの天幕の下、風にそよぐ森の中にいる。そしてこの七月二十二日に、七十一年の生涯にもう一つの道しるべを数えることを許されている。脈は力強く打ち、足は御霊の呼びかけにすばやく応じる。ときには、この土の牢獄が砕けて、あがなわれた私の霊が永遠の至福へと舞い上がるに違いないと思われる。しかし、そうではない。魂を御国に導き、新しく生まれた魂の歌声を聞くことにまさる至福があろうか。「よきおとずれ」を告げ、福音のラッパを吹き鳴らす使者となることにまさる栄誉があろうか。
 
 To Mary He said, "Go and tell," and He still honors His handmaidens. Glory to His Holy Name!
 主はマリヤに、「行って告げなさい」と言われた（ヨハネ二〇・一七）。そして主は今も、ご自分の女の僕たちを重んじてくださる。聖なる御名に栄光あれ。
@@ -174,33 +174,33 @@ A REMARKABLE THING ABOUT THIS MEETING HAS BEEN THE
 MANY WONDERFUL VISIONS SEEN BY THE SAINTS
 
 I beheld Jesus nailed to the cross and saw the nails in His hands and in His feet, and the Crown of Thorns on His head. I began to weep and fell down at His feet and began to cry. He said He had died for this sinful world. I saw Him taken down from the cross and laid in a large tomb, rough on the inside, and then I saw some men with ugly countenances roll a big stone up by it. It took about twenty of them to roll the stone up. I saw Him suddenly get up from the tomb and saw Him walk out. The stone was rolled away. He went out by the riverside and met some men and talked to them. He said, "T am going up to my Father. I am coming back again. Tarry until I endue you with power from on High." Many people were gathered around, then He was lifted up and went into the Clouds in Glory.
-私は、十字架に釘づけにされたイエスを見ました。御手と御足の釘も、頭のいばらの冠も見ました。私は泣きだし、御足もとにひれ伏して叫びはじめました。主は、この罪深い世のために死なれたのだと言われました。私は、主が十字架から降ろされ、大きな墓に納められるのを見ました。墓の内側はごつごつしていました。それから、醜い顔をした男たちが大きな石を転がして、墓の入口に寄せるのを見ました。その石を転がすのに、二十人ほどがかかりました。私は、主が突然墓から起き上がり、歩いて出て来られるのを見ました。石は転がしてありました。主は川べりに出て行かれ、何人かの男たちに会って話されました。主は言われました。「わたしは父のもとに上って行く。わたしはまた帰って来る。わたしが上からの力をあなたがたに授けるまで、とどまっていなさい」大ぜいの人が周りに集まっていました。それから主は上げられ、栄光のうちに雲の中へ入って行かれました。
+私は、十字架に釘づけにされたイエスを見ました。御手と御足の釘も、頭のいばらの冠も見ました。私は泣きだし、御足もとにひれ伏して叫びはじめました。主は、この罪深い世のために死なれたのだと言われました。私は、主が十字架から降ろされ、大きな墓に納められるのを見ました。墓の内側はごつごつしていました。それから、醜い顔をした男たちが大きな石を転がして、墓の入口に寄せるのを見ました。その石を転がすのに、二十人ほどがかかりました。私は、主が突然墓から起き上がられ、歩いて出て来られるのを見ました。石は転がしてありました。主は川べりに出て行かれ、何人かの男たちにお会いになって話されました。主は言われました。「わたしは父のもとに上って行く。わたしはまた帰って来る。わたしが上からの力をあなたがたに授けるまで、とどまっていなさい」大ぜいの人が周りに集まっていました。それから主は上げられ、栄光のうちに雲の中へ入って行かれました。
 // 英文の「"T am」は「"I am」の読み誤り。主の言葉は、ヨハネ二〇・一七、一四・三、ルカ二四・四九 を合わせた言い換えなので、出典を付けなかった。
 
 One sister was caught away in the Spirit and found herself before the throne pleading for greater power. She then saw the power falling like glittering jewels, all over the people in the tent, and a mighty angel descending and hovering over it with outstretched wings.
-ひとりの姉妹が御霊によって連れ去られ、気がつくと御座の前で、もっと大きな力を求めて嘆願していた。それから彼女は、力がきらめく宝石のように、天幕の中の人々の上一面に降り注ぐのを見た。また、力ある御使が降りて来て、翼を広げて天幕の上を舞っているのを見た。
+ひとりの姉妹が御霊によって連れて行かれ、気がつくと御座の前で、もっと大きな力を求めて嘆願していた。それから彼女は、力がきらめく宝石のように、天幕の中の人々の上一面に降り注ぐのを見た。また、力ある御使が降りて来て、翼を広げて天幕の上を舞っているのを見た。
 
 In another vision many angels were seen; their brightness was as the sun. They were hovering around the tent. In the center of them Jesus was standing. His glory shone brighter than the sun. His hands were outstretched over the people. As we sang He smiled. A look of tenderness and pleading came over his face, then a voice spoke and said, "As your voice goes out in thanksgiving and praises in the Spirit, the angels carry your songs before the throne as sweet incense to the Father." No words or pen can describe the beauty of this vision.
 別の幻では、多くの御使が見えた。その輝きは太陽のようであった。御使たちは天幕の周りを舞っていた。その中央にイエスが立っておられた。その栄光は太陽よりも明るく輝いていた。御手は人々の上に差し伸べられていた。私たちが歌うと、主はほほえまれた。優しさと嘆願の表情が主の御顔に浮かんだ。それから声が語って言った。「あなたがたの声が、御霊による感謝と賛美となって出て行くとき、御使たちはあなたがたの歌を、かぐわしい香として、御座の前の父のもとへ運ぶ」この幻の美しさは、言葉でも筆でも言い表すことができない。
 
 At another time a light or glory was seen rising a little above the horizon. It appeared like as if it was the sun; the glory and splendor of it was so great that the natural eye could not gaze steadily upon it. Just above the light was a brilliant cross and over the cross, in rainbow shape, were these words, written in letters of gold, "Behold I come quickly, unto you that love His appearing shall the--Sun of Righteousness--arise with healing in His wings." (Mal. 4:2.) .
-また別のときには、光、すなわち栄光が、地平線の少し上に昇るのが見えた。それは太陽のように見えた。その栄光と輝きはあまりに大きく、肉の目ではじっと見つめていることができなかった。光のすぐ上には輝く十字架があり、十字架の上には、虹の形に、金の文字でこう書かれていた。『見よ、わたしはすぐに来る。主の現れを愛するあなたがたには、義の太陽がのぼり、その翼には、いやす力を備えている』（マラキ四・二）。
+また別のときには、光、すなわち栄光が、地平線の少し上に昇るのが見えた。それは太陽のように見えた。その栄光と輝きはあまりに大きく、肉の目ではじっと見つめていることができなかった。光のすぐ上には輝く十字架があり、十字架の上には、虹の形に、金の文字でこう書かれていた。『見よ、わたしはすぐに来る。主の出現を待ち望むあなたがたには、義の太陽がのぼり、その翼には、いやす力を備えている』（マラキ四・二）。
 // 書かれた文字は、黙示録二二・一二、第二テモテ四・八、マラキ四・二 を合わせたもの。英文の出典の後の「 .」は余分な記号。
 
 A ring of light, having rainbow colors, was seen all around the tent, emanating from a pillar of fire. Jesus was also seen with outstretched hands in the tent.
-虹の色をした光の輪が、火の柱から発して、天幕の周り一面に見えた。また、イエスが天幕の中で手を差し伸べておられるのも見えた。
+虹の色をした光の輪が、火の柱から発して、天幕の周り一面に見えた。また、イエスが天幕の中で御手を差し伸べておられるのも見えた。
 
 While a sister was resting in her tent she saw a ball of fire, about ten inches in diameter, fall through the tent and explode with a loud report; then the tent seemed to be filled with glittering diamonds. This same sister woke up one morning about 2 a. m. and heard the loveliest music which resembled a band of alto cornets. Music like this is often heard by spirit-filled saints. Many times they hear the angels sing. God has wonderful things prepared for those who pay the price and go all the way with Him. Balls of fire coming down from heaven and falling around the tent were seen so much in our big revival at Dallas, Texas, a few years ago.
-ある姉妹が自分の天幕で休んでいると、直径二十五センチほどの火の玉が天幕を突き抜けて落ちて来て、大きな音を立てて破裂するのが見えた。すると天幕は、きらめくダイヤモンドで満たされたように見えた。この同じ姉妹は、ある朝二時ごろに目を覚まし、アルト・コルネットの楽隊のような、このうえなく美しい音楽を聞いた。このような音楽は、御霊に満たされた聖徒たちにしばしば聞こえる。彼らは何度も御使の歌声を聞く。代価を払って主と共にどこまでも行く人々のために、神はすばらしいものを備えておられる。数年前のテキサス州ダラスでの大リバイバルでは、天から下って天幕の周りに落ちる火の玉が、何度も見られた。
+ある姉妹が自分の天幕で休んでいると、直径二十五センチほどの火の玉が見えた。火の玉は天幕を突き抜けて落ちて来て、大きな音を立てて破裂した。すると天幕は、きらめくダイヤモンドで満たされたように見えた。この同じ姉妹は、ある日の午前二時ごろに目を覚まし、アルト・コルネットの楽隊のような、このうえなく美しい音楽を聞いた。このような音楽は、御霊に満たされた聖徒たちにしばしば聞こえる。彼らは何度も御使の歌声を聞く。代価を払って主と共にどこまでも行く人々のために、神はすばらしいものを備えておられる。数年前のテキサス州ダラスでの私たちの大リバイバルでは、天から下って天幕の周りに落ちる火の玉が、何度も見られた。
 
 Jesus was seen marshalling His hosts together. He is on the white horse of His power and He is soon to burst through the clouds of heaven. It is so real. I could see Him just as plain as I see you. Jesus is coming soon. The trials and tribulations of this world will soon be so great that God's children cannot stay here.
 イエスがご自分の軍勢を集結させておられるのが見えました。主は御力の白い馬に乗っておられ、まもなく天の雲を突き破って来られます。それはまさに現実です。私はあなたがたを見ているのと同じように、はっきりと主を見ることができました。イエスはすぐに来られます。この世の試練と患難は、まもなくあまりに大きくなり、神の子供たちはここにとどまっていられなくなります。
 
 I saw a bright light and in this light there was a throne and on the throne sat God. I could not see Him face to face because there was so much Glory. Jesus said, "I am coming soon. Go out and preach the gospel. I am with you. I will be with you always." I told Him that He would have to provide everything because I did not know anything and did not have a Bible and did not know very much scripture. He said he would fill me and open up the way. He asked me again if I would preach the gospel and I answered "Yes."
-私は明るい光を見ました。その光の中に御座があり、御座には神が座しておられました。あまりに栄光が満ちていたので、神を顔と顔を合わせて見ることはできませんでした。イエスは言われました。「わたしはすぐに来る。出て行って福音を宣べ伝えなさい。わたしはあなたと共にいる。わたしはいつもあなたと共にいる」私は主に申し上げました。私は何も知らず、聖書も持っておらず、聖句もあまり知らないので、何もかも主が備えてくださらなければなりません、と。主は、わたしがあなたを満たし、道を開く、と言われました。主はもう一度、福音を宣べ伝えるかと私にお尋ねになりました。私は「はい」と答えました。
+私は明るい光を見ました。その光の中に御座があり、御座には神が座しておられました。あまりに栄光が満ちていたので、神を顔と顔を合わせて見ることはできませんでした。イエスは言われました。「わたしはすぐに来る。出て行って福音を宣べ伝えなさい。わたしはあなたと共にいる。わたしはいつもあなたと共にいる」私は主に申し上げました。私は何も知らず、聖書も持っておらず、聖句もあまり知らないので、何もかも主が備えてくださらなければなりません、と。主は、私を満たし、道を開いてくださると言われました。主はもう一度、福音を宣べ伝えるかと私にお尋ねになりました。私は「はい」と答えました。
 
 I saw a great many golden instruments and Jesus said, "I am letting people play these nowadays. I am pouring out my spirit. I am coming soon to catch my bride away. I will soon let loose the four winds." Jesus left me for a few minutes and an angel stood before me. Jesus broke forth in a cloud over me. He was in all his glory. A lot of angels followed. I saw the saints rise up to meet Him.
-私はたくさんの金の楽器を見ました。イエスは言われました。「わたしは近ごろ、人々にこれを奏でさせている。わたしは霊を注いでいる。わたしはまもなく来て、わたしの花嫁を引き上げる。わたしはまもなく四方の風を解き放つ」イエスは少しのあいだ私から離れられ、ひとりの御使が私の前に立ちました。イエスは私の上の雲の中に、突然お現れになりました。主はその栄光のすべてをまとっておられました。大ぜいの御使が後に続きました。私は、聖徒たちが主を迎えに上って行くのを見ました。
+私はたくさんの金の楽器を見ました。イエスは言われました。「わたしは近ごろ、人々にこれを奏でさせている。わたしの霊を注いでいる。わたしはまもなく来て、わたしの花嫁を引き上げる。わたしはまもなく四方の風を解き放つ」イエスは少しのあいだ私から離れられ、ひとりの御使が私の前に立ちました。イエスは私の上の雲の中に、突然お現れになりました。主はその栄光のすべてをまとっておられました。大ぜいの御使が後に続きました。私は、聖徒たちが主を迎えに上って行くのを見ました。
 
 ## いくつかのいやしの例
 A FEW CASES OF HEALINGS
@@ -208,7 +208,7 @@ A FEW CASES OF HEALINGS
 ## さまざまな病のいやし
 HEALED OF VARIOUS DISEASES
 
-（ここには、アビー・トマス夫人の証しが載っているが、書き手の没年が確かめられないため訳していない）
+（ここには、アビー・トーマス夫人の証しが載っているが、書き手の没年が確かめられないため訳していない）
 // ここから住所の行までは、Mrs. Abbie Thomas の証し。WebSearch（standard 2 回）で没年が見つからなかったので訳さない。
 I want to praise God for the meetings at Petoskey, because they have meant so much for my husband and me. He healed me of adenoids, goitre, catarrh and bronchial trouble. He also baptized me with the Holy Spirit and fire. Glory be to His name.
 
