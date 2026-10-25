@@ -38,15 +38,15 @@ Sinners were struck down like dead men and women.
 The Lord wonderfully used little children to bring sinners to Christ.
 主は、罪人をキリストに導くために、小さな子供たちを驚くべきしかたでお用いになった。
 While the Holy Ghost had full control, He, the Holy Ghost, would lead them out through the congregation and reach for this man, or that woman;
-聖霊が子供たちをすっかり支配しておられるとき、聖霊ご自身が子供たちを導いて会衆の中を通らせられた。そして、この男、あの女へと手を伸ばさせられた。
+聖霊が子供たちをすっかり支配しておられるとき、聖霊ご自身が子供たちをお導きになり、会衆の中を通らせられた。そして、この男、あの女へと手を伸ばさせられた。
 they would give them their hand and go straight to the altar with them, with their eyes closed all the time.
-その人々は子供たちに手を預け、子供たちと一緒にまっすぐ祭壇の前へ行った。子供たちはそのあいだずっと目を閉じていた。
+子供たちはその人々に手を差し出し、一緒にまっすぐ祭壇の前へ行った。そのあいだ、子供たちはずっと目を閉じていた。
 All knew that.they were lead by the Lord; some were converted before thy got to the altar--some prophesied things that have since taken place.
 子供たちが主に導かれていることを、だれもが知っていた。祭壇に着く前に回心した人々もいた。その後に実際に起こったことを預言した者もいた。
 // 英文の that.they は that they と読んだ。英文の lead（led）と thy（they）は原本の誤植（ページ画像で確かめた）。
 
 The weather began to get quite cool, so we went down into the city to Peniel Hall, on 11th and Senate, and all followed.
-ひどく涼しくなってきたので、私たちは町の中心へ移り、十一番通りとセネト街の角にあるペニエル・ホールへ行った。みなもついて来た。
+かなり肌寒くなってきたので、私たちは町の中心へ移り、十一番通りとセネト街の角にあるペニエル・ホールへ行った。みなもついて来た。
 The Holy Ghost was present in great power, with gifts, signs, and visions, following the laying-on of hands.
 聖霊が大いなる力をもってそこにおられた。手を置くことに伴って、賜物と、しるしと、幻とが現れた。
 There were visible signs of light and glory on the pulpit, and through the congregation, seen by the natural eye by some.
@@ -78,7 +78,7 @@ One woman was brought one hundred miles in a rolling chair.
 She had been confined to her bed for over seventeen years, and had had twenty-five doctors.
 彼女は十七年以上も寝たきりで、二十五人の医者にかかっていた。
 They did not know her case, nor could they do anything for her from the first, but could only quiet her a little.
-医者たちには彼女の病がわからず、初めから何もしてやれなかった。ただ少し静めてやることしかできなかった。
+医者たちには彼女の病がわからず、初めから何もしてやれなかった。ただ少し落ち着かせてやることしかできなかった。
 Sometimes she could not stand on her feet, or turn over in bed.
 ときには、立つことも、寝床で寝返りを打つこともできなかった。
 A man from her town had been in our meeting in St. Louis, and was healed there.
@@ -120,10 +120,10 @@ The people at her home thought they would bring her back in a box, dead; but whe
 She went to the church for the first time there in that town for over seventeen years, and she stood up and preached and told what great things the Lord had done.
 彼女は十七年以上ぶりに、その町の教会へ行った。そして立ち上がって説教し、主がどんなに大きなことをしてくださったかを語った。
 Her husband's brother had been preaching for many years, and this brother joined him in the ministry, and since then he and his wife went out together to hold meetings.
-夫の兄弟は長年説教をしていたが、この兄弟と夫は伝道の働きを共にするようになった。それ以来、夫と妻は一緒に出かけて集会を開いている。
+夫の兄弟は長年説教をしていたが、この兄弟と夫は伝道の務めを共にするようになった。それ以来、夫婦は一緒に出かけて集会を開いている。
 
 A man had a vision of this tent, and the work, twenty years ago; and of riding in electric cars to and from the tent.
-ある男は二十年前に、この天幕とこの働きの幻を見ていた。電車に乗って天幕へ行き来する幻も見ていた。
+ある男は二十年前に、この天幕とこの働きの幻を見ていた。路面電車に乗って天幕へ行き来する幻も見ていた。
 He described the meeting, and he had seen me.
 彼はこの集会の様子を語った。幻の中で私を見てもいた。
 The Lord used him in many ways to bring sinners to Christ.
@@ -133,7 +133,7 @@ He promised the Lord he would do anything he asked.
 One night he was going home and it was very dark.
 ある夜、彼は家に帰る途中だった。たいへん暗い夜だった。
 He went into an alley to pray, as the Lord led him to do so, and as he knelt down and prayed for lost men, there were two men secreted in a shed close by.
-主に導かれるままに、彼は路地に入って祈った。彼がひざまずいて、失われた人々のために祈っていると、すぐそばの小屋にふたりの男が隠れていた。
+主に導かれるままに、彼は路地に入って祈った。彼がひざまずいて、失われた人々のために祈っていたとき、すぐそばの小屋には、ふたりの男が隠れていた。
 The Lord led him to pray for wicked men and women, while doing so he heard a noise inside the shed, and the men came out behind him from where they were.
 主は、悪い男や女のために祈るよう彼を導かれた。そう祈っていると、小屋の中で物音がして、ふたりの男が隠れていた所から彼の背後に出て来た。
 They threw their arms around him and confessed they were waiting to rob, and if they were caught, murder.
@@ -148,7 +148,7 @@ This meeting was a greater success than the one a year before.
 Many ministers that we knew, and who had started out as ministers, and evangelists from my meetings ten and fifteen years before, came from all parts to see me, and be in the meetings.
 私たちの知っている多くの牧師が、私に会い、集会に加わるために、各地からやって来た。十年前、十五年前の私の集会から、牧師や伝道者として出て行った人々である。
 Amongst them many converts and workers, in all ways, in the Master's Vineyard.
-その中には多くの回心者もいて、主のぶどう園であらゆる働きをしていた。
+その中には多くの回心者や働き人もいて、主のぶどう園であらゆる働きをしていた。
 Oh! We had such love and fellowship!
 ああ！　私たちのあいだには、なんという愛と交わりがあったことだろう！
 The power and presence of the Lord was manifested in gifts, demonstrations, and operations and callings; with mighty works of the Holy Ghost.
@@ -203,7 +203,7 @@ They came from Chicago, and other cities, and from all around for several hundre
 Many as remarkable miracles of healing as have been wrought since the days of the early church.
 初代教会の時代以来なされてきたどれにも劣らない、目ざましいいやしの奇跡が数多くあった。
 We will give one testimony, that of the brother himself.
-その証しを一つ紹介しよう。その兄弟自身の証しである。
+ここに証しを一つ紹介しよう。その兄弟自身の証しである。
 It is now about four months since he was healed, and he*has not had a pain since, nor sickness; no inconvenience whatever.
 彼がいやされてから、今で四か月ほどになる。それ以来、痛みも病もなく、何の不自由もない。
 // 英文の he*has の * は OCR の誤り（ページ画像で確かめた）。
@@ -212,13 +212,13 @@ He is a well man, was made so at once by the power of God.
 He had piles for thirty years, had them cut and burnt off four times, then cancer commenced;
 彼は三十年のあいだ痔を患い、四度も切除したり焼き切ったりしたが、やがて癌になった。
 he got so bad that he had to sit on an inflated ring, and had to have his wife to flush his bowels twice a day, to use a long syringe and tube, and two quarts of water at each time;
-病はひどくなり、空気を入れた輪の上に座らなければならなくなった。また一日に二度、妻に腸を洗ってもらわなければならなかった。長い注射器と管を使い、一度に二リットル近い水を使った。
+病はひどくなり、空気を入れた輪の上に座らなければならなくなった。また一日に二度、妻に腸を洗ってもらわなければならなかった。長い浣腸器と管を使い、一度に二リットル近い水を使った。
 then he would bleed, and it was so offensive she could hardly do it.
 そのあと彼は出血し、ひどい悪臭のため、妻はほとんどそれができないほどだった。
 The bowel was all gone on the left side for ten inches up; the backbone was bare, having no flesh on it on the inside; had rheumatism also, and was a sinner.
 腸は、左側が二十五センチほど上まですっかりなくなっていた。背骨は内側の肉がなく、むき出しになっていた。リウマチも患っており、罪人でもあった。
 God converted and healed him all at once, in less than fifteen minutes.
-神は、十五分もたたないうちに、一度に彼を回心させ、いやしてくださった。
+神は、十五分もたたないうちに、一度に彼を回心させてくださり、いやしてくださった。
 He was sixty-four years old.
 彼は六十四歳だった。
 He was baptized with the Holy Ghost, and is now one of God's little ones.
@@ -226,7 +226,7 @@ He was baptized with the Holy Ghost, and is now one of God's little ones.
 There is nothing too hard for our God.
 私たちの神にできないことは何もない。
 
-（ここには、ダラスの F・F・ボズワース長老がこの集会を訪れたときの記事が転載されているが、著作権が残っているため訳していない）
+（ここには、ダラスのF・F・ボズワース長老がこの集会を訪れたときの記事が転載されているが、著作権が残っているため訳していない）
 // ここから署名のない記事の終わり（「RAISED FROM THE DEAD」の前）までは F. F. Bosworth（1958 年没）の記事。日本では著作権が残っている（2039 年ごろまで）ので、扱いが決まるまで訳さない。
 
 Reprinted from The Latter Rain Evangel of Chicago, U.S. A. from an article by Elder F. F. Bosworth, of Dallas, Texas.
@@ -308,7 +308,7 @@ Didn't know what a night's sleep was; no appetite; my whole nervous system was c
 On the ninth day of January, 1912, I went to where Sister Etter was holding meetings, at 17th street and Martindale avenue, this city.
 一九一二年一月九日、私は、エター姉妹が集会を開いている所へ行きました。この町の十七番通りとマーティンデール街の角です。
 I was a total stranger--did not know a person in the house, except my good wife who had gone with me--as I was unable to go out alone.
-私はまったくの見知らぬ者でした。ひとりでは出かけられなかったので、よき妻が一緒に来てくれましたが、妻のほかには会堂の中にひとりの知り合いもいませんでした。
+私はまったくの見知らぬ者でした。ひとりでは出かけられなかったので、よき妻が一緒に来てくれました。妻のほかには会堂の中にひとりの知り合いもいませんでした。
 
 When Sister Etter gave the altar call, I went to the altar, knelt down and the brethren and sisters laid on hands and prayed for me, and rebuked the diseases in Jesus' name.
 エター姉妹が祭壇への招きをしたとき、私は祭壇の前に出てひざまずきました。兄弟姉妹たちが私に手を置いて祈り、イエスの名によって病をしかりつけてくれました。
@@ -347,7 +347,7 @@ I had an inflated rubber ring I had to take with me, for I could not sit down on
 私は、空気を入れたゴムの輪を持ち歩かなければなりませんでした。直腸がひどく痛んで敏感になっていたので、いちばん柔らかい羽毛の枕の上にも座れなかったからです。
 
 I let the air out of the ring; boxed it up; hung up the syringe.
-私はその輪の空気を抜いて箱にしまい、注射器も片づけました。
+私はその輪の空気を抜いて箱にしまい、浣腸器も片づけました。
 I was using three quarts of warm water night and morning in the bowels; three pills each evening and other medicine every two hours.
 それまでは、朝晩、三リットル近いぬるま湯で腸を洗い、毎晩丸薬を三つ飲み、二時間ごとにほかの薬を飲んでいました。
 I had nearly two weeks treatment in the house--I threw it all out--haven't taken a dose of any kind of medicine since the day I was healed nor I would not take a dose for the whole world.
