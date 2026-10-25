@@ -15,7 +15,7 @@ As one after another came up from the watery grave, and the power of the Lord wa
 Several came from Muscatine and Andalusia, and were baptized, and they felt that they were well paid for the sacrifice they had made in coming so far.
 マスカティンやアンダルシアから来てバプテスマを受けた人々も幾人かいた。その人々は、遠い道のりを来るために払った犠牲が十分に報われたと感じた。
 We went from there back to Andalusia, where we held the last meeting in the large tent.
-私たちはそこからアンダルシアに戻り、大天幕で最後の集会を開いた。
+私たちはそこからアンダルシアに戻った。前に大天幕で集会を開いた所である。
 The Lord had been there in great power; the surrounding country was stirred; many were saved and God backed His word with signs and wonders; many were healed and many fell prostrated under the power of God and received wonderful blessings.
 主は大いなる力をもってそこにおられた。周辺の地方一帯が揺り動かされた。多くの人が救われ、神はしるしと不思議をもってみことばを裏づけてくださった。多くの人がいやされ、また多くの人が神の力に打たれてひれ伏し、すばらしい祝福を受けた。
 
@@ -136,7 +136,7 @@ All the pain and misery, the cancer, and the tumor, all passed away.
 She arose before all who had been watching, from the gallery down, praising the Lord, and saying she was perfectly healed.
 彼女は、二階席から下まで、見ていたすべての人の前で立ち上がった。そして主をほめたたえ、すっかりいやされた、と言った。
 She came back and testified to being made whole and well.
-彼女はまたやって来て、全く丈夫になり元気になったと証しした。
+彼女はまたやって来て、まったく丈夫になり元気になったと証しした。
 
 Shouts arose from the gallery and all over the hall.
 二階席からも会場じゅうからも、叫び声が上がった。
@@ -150,7 +150,7 @@ The pain was so great she could not be still one minute.
 When she came to the meeting and to the altar, we laid on hands and in the name of Jesus of Nazareth, commanded the tumorous spirit with all its works and pain, to come out of her.
 彼女が集会に来て祭壇の前に出ると、私たちは手を置いた。そしてナザレ人イエスの名によって、腫瘍の霊に、そのすべてのしわざと痛みと共に彼女から出て行けと命じた。
 She was made whole and arose shouting and praising God, who had so wonderfully healed her.
-彼女は全く丈夫にされ、叫びながら立ち上がった。そして、これほど驚くべきしかたでいやしてくださった神をほめたたえた。
+彼女はまったく丈夫にされ、叫びながら立ち上がった。そして、これほど驚くべきしかたでいやしてくださった神をほめたたえた。
 She stayed several days without a sign of the tumor, gave many ringing testimonies, and started home to tell what great things the Lord had done for her.
 彼女は腫瘍のあとかたもないまま幾日かとどまり、高らかに響く証しを何度もした。そして、主がどんなに大きなことをしてくださったかを告げるために、家路についた。
 // マルコ五・一九 の言い回し。
@@ -205,8 +205,7 @@ There was a boy seven years old, had never walked; he was born insane, blind, de
 They tried everything, including the best medical help, but the doctors could not locate his sufferings, and they said he would never have any sense;
 人々は、最も優れた医療をはじめ、あらゆる手を尽くした。しかし医者たちは苦しみのもとを突き止めることができず、この子はいつまでも分別を持てないだろう、と言った。
 but praise the Lord, he says, "I am the God of all flesh, is there anything too hard for me?"
-しかし主をほめたたえよ。主は「わたしはすべて命ある者の神である。わたしにできない事があろうか」と言われる。
-// エレミヤ三二・二七 の言葉。英文は Behold と the LORD を省いている。
+しかし主をほめたたえよ。主は『わたしはすべて命ある者の神である。わたしにできない事があろうか』と言われる（エレミヤ三二・二七）。
 
 Praise his holy name, "All things are possible to him that believeth."
 聖なる御名をほめたたえよ。『信ずる者には、どんな事でもできる』（マルコ九・二三）。
@@ -255,12 +254,12 @@ Many hundreds were brought out in a higher experience, were made to rejoice in t
 何百人もの人が、より高い経験に導き入れられ、神の救う力といやす力を喜んだ。
 
 All kinds of diseases were driven out of the bodies of men, women and children, proving that Jesus is just "The same to-day;" the Great Physician to heal both soul and body; to give the double cure, saving power for soul, and health for the body; and that these signs do follow them that believe in his name.
-あらゆる病が、男や女や子供のからだから追い出された。それは、イエスがまさに「きょうも変ることがない」お方であることを証明した。イエスは、魂もからだもいやす偉大な医者である。二重のいやし、すなわち魂には救う力を、からだには健康を与えてくださるお方である。そして、御名を信じる者にはこれらのしるしが確かに伴うことも証明した。
+あらゆる病が、男や女や子供のからだから追い出された。それは、イエスがまさに「きょうも変ることがない」お方であることを証明した。イエスは偉大な医者であるお方として、魂もからだもいやしてくださる。二重のいやし、すなわち魂には救う力を、からだには健康を与えてくださるお方である。そして、御名を信じる者にはこれらのしるしが確かに伴うことも証明した。
 // ヘブル一三・八 の言葉。
 "They shall cast out devils." "They shall lay hands on the sick and they shall recover."
-『悪霊を追い出し』、『病人に手をおけば、いやされる』のである（マルコ一六・一七〜一八）。
+信じる者は『悪霊を追い出し』、『病人に手をおけば、いやされる』のである（マルコ一六・一七〜一八）。
 The Lord Jesus purchased these blessings on the Cross, and left them in His Will for all who will meet his conditions.
-主イエスは、これらの祝福を十字架の上で買い取ってくださり、ご自分の条件を満たすすべての人のために、遺言の中に残してくださった。
+主イエスは、これらの祝福を十字架の上で買い取ってくださった。そして、ご自分の条件を満たすすべての人のために、遺言の中に残してくださった。
 "Saying himself took our infirmities and bore our sicknesses," Matt. viii 17 and "By his stripes ye were healed." I Peter 2. 24.
 『彼は、わたしたちのわずらいを身に受け、わたしたちの病を負うた』と言われているとおりである（マタイ八・一七）。また、『その傷によって、あなたがたは、いやされたのである』とあるとおりである（第一ペテロ二・二四）。
 // 英文の Saying は、マタイ八・一七 の欽定訳の saying を引用に含めたもの。
@@ -300,7 +299,7 @@ WONDERS WORKED
 （オレゴン州セイラムの『アポストリック・ライト』誌から転載）
 
 St. Louis, Mo.--Rejoice with us in the goodness of our God and Saviour, for he has been very gracious to us.
-ミズーリ州セントルイス発。私たちの神であり救い主であるお方のいつくしみを、共に喜んでいただきたい。神は私たちに、たいへん恵み深くしてくださった。
+ミズーリ州セントルイス発。私たちの神であり救い主であるお方のいつくしみを、共に喜んでいただきたい。神が私たちに、たいへん恵み深くあられたからである。
 During the last two months, at Sister Woodworth-Etter's meetings alone, hundreds have been saved, and a greater number healed.
 この二か月のあいだに、ウッドワース・エター姉妹の集会だけでも何百人もが救われ、それより多くの人がいやされた。
 Most of the latter were chronic cases; many only came after the doctors had pronounced them incurable.
@@ -385,7 +384,7 @@ She had a vision, and the Lord showed her many things, and especially with regar
 All those who have had visions and revelations bring back the message to warn the people that Jesus is coming soon;
 幻と啓示を受けた人々はみな、人々に警告する伝言を持ち帰って来る。イエスがまもなく来られる、という伝言である。
 that sinners make their peace with him, and that those who are saved get established and anointed with power and sealed with the knowledge that he is coming soon, that they may be found faithful and true at his appearing.
-罪人は主と和解しなければならない。救われた人々は、堅く立てられ、力を注がれ、主がまもなく来られるという知識によって証印を押されなければならない。主が現れるとき、忠実でまことの者と認められるためである、と。
+罪人は主と和解しなければならない。救われた人々は、堅く立てられ、力を注がれ、主がまもなく来られるという知識によって証印を押されなければならない。主がお現れになるとき、忠実でまことの者と認められるためである、と。
 
 All that have had revelations while under the power bring back the message that our Lord comes very soon.
 力に打たれているあいだに啓示を受けた人々はみな、私たちの主がまもなく来られるという伝言を持ち帰って来る。
@@ -436,7 +435,7 @@ Another young lady received her baptism and spoke in eight different languages, 
 SPEAK IN TONGUES
 
 While preaching and explaining Pentecost, how they too spoke in other tongues, the power of God took possession of me and I began to speak as the Spirit gave utterance in other tongues.
-ペンテコステについて、その人々もまた異言を語ったことを説教し、説き明かしていると、神の力が私をとらえた。そして私は、御霊が語らせるままに異言を語りはじめた。
+ペンテコステについて説教し、そのときの人々もまた異言を語ったことを説き明かしていると、神の力が私をとらえた。そして私は、御霊が語らせるままに異言を語りはじめた。
 // 使徒二・四 の言い回し。
 I spoke in three different languages, preaching the wonderful works of Pentecost in other languages.
 私は三つの違った国の言葉で語り、ペンテコステの驚くべきみわざを他国の言葉で説いた。
@@ -459,16 +458,17 @@ She obeyed and went the next day and called on one of her old friends.
 
 They expressed surprise at seeing her look so happy, as before her conversion, she hardly ever smiled,, and was dissatisfied and unhappy, and used such rough language.
 その家の人々は、彼女がたいへん幸せそうなのを見て驚いた。回心する前の彼女は、ほとんど笑うこともなく、不満を抱いて不幸せで、ひどく乱暴な言葉づかいをしていたからである。
+// 英文の smiled,, は原本のとおり（ページ画像で確かめた）。
 They said, "What has happened to you? You look so happy. We want that kind of religion too."
 人々は言った。「いったい何があったのか。ずいぶん幸せそうだね。私たちもそんな信仰がほしい」
 She told them how to get it, and they went to praying.
-彼女がその得方を教えると、人々は祈りはじめた。
+彼女がそれを得る道を教えると、人々は祈りはじめた。
 God sent His power, and pretty soon they all fell over, and lay for fifteen or twenty minutes.
 神が力を送られると、まもなく全員が倒れ、十五分か二十分のあいだ横たわっていた。
 A little girl, about nine years old, ran about the house shouting and saying, "Mama, I see Jesus, I see Jesus."
 九歳ほどの小さな女の子が、「お母さん、イエスさまが見える、イエスさまが見える」と叫びながら、家じゅうを走り回った。
 They all came out brightly converted, and shouting.
-みな輝かしい回心の経験に入り、叫んでいた。
+みな輝かしい救いの経験に入り、叫んでいた。
 Ten in all, including the hired girl.
 雇われていた娘も含めて、全部で十人だった。
 
@@ -489,7 +489,7 @@ When she got there, she found it was one of the places she had seen in her visio
 When she began to speak, the power of the Holy Ghost came on her, and she preached to them, and when she had finished they were all twenty of them lying round on the floor, like a battlefield.
 彼女が話しはじめると、聖霊の力が彼女に臨み、彼女は人々に説教した。説教を終えると、二十人全員が、戦場のように床のあちこちに倒れていた。
 She prayed for them, and they all came out brightly converted.
-彼女がその人々のために祈ると、みな輝かしい回心の経験に入った。
+彼女がその人々のために祈ると、みな輝かしい救いの経験に入った。
 
 Forty-nine were saved that day, of whom forty-eight were Roman Catholics, and one a backslidden Methodist.
 その日、四十九人が救われた。そのうち四十八人がローマ・カトリック教徒で、ひとりは信仰から離れていたメソジストだった。
@@ -507,12 +507,12 @@ She took the tips of his fingers, and rose right up out of bed, the cast breakin
 娘がその指先をつかむと、ギプスが割れて、娘はすぐに寝床から起き上がった。そして部屋を横切って父親のところまで歩いて行き、手を伸ばして父親の額に触れた。すると父親もまた神の力に打たれて倒れ、救われた。ほかに七人も救われた。
 
 The next day she went home and spoke over the telephone to a friend, who had been a cripple, using crutches for sixteen years, but she would not believe that a girl born deaf and dumb could hear and talk, but said, "It is Agnes," the name of a girl friend of hers.
-次の日、娘は家に帰り、友だちと電話で話した。その友だちは足が不自由で、十六年のあいだ松葉杖をついていた。しかし友だちは、生まれつき耳が聞こえず口のきけない娘が聞いたり話したりできるとは信じようとせず、「アグネスでしょう」と言った。アグネスは、その友だちの女友だちの名である。
+次の日、娘は家に帰り、友だちと電話で話した。その友だちは足が不自由で、十六年のあいだ松葉杖をついていた。しかし友だちは、生まれつき耳が聞こえず口のきけない娘が聞いたり話したりできるとは信じようとしなかった。そして「アグネスでしょう」と言った。アグネスは、その友だちの女友だちの名である。
 
 She replied, "Come over and see."
 娘は「こっちへ来て、見てごらんなさい」と答えた。
 When the cripple entered on her crutches, and saw Verne healed, she cried, "If you can walk, I can too," and threw away her crutches and walked.
-足の不自由な友だちは、松葉杖をついて入って来て、ヴァーンがいやされているのを見ると、「あなたが歩けるなら、わたしも歩ける」と叫んだ。そして松葉杖を投げ捨てて歩いた。
+足の不自由な友だちは、松葉杖をついて入って来た。そして、ヴァーンがいやされているのを見ると、「あなたが歩けるなら、わたしも歩ける」と叫んだ。そして松葉杖を投げ捨てて歩いた。
 
 A Sister was suffering from appendicitis, gallstone and another disease.
 ある姉妹が、盲腸炎と胆石と、もう一つの病に苦しんでいた。
@@ -521,7 +521,7 @@ One day she became unconscious, and remained so until nine p.m.
 The people she lived with had her removed to the City Hospital.
 一緒に住んでいた人々が、彼女を市立病院に運ばせた。
 When she came to, she found herself in bed there, and they told her she would have to be operated on.
-意識が戻ると、彼女はその病院のベッドに寝ていた。そして、手術を受けなければならないと告げられた。
+正気に返ると、彼女はその病院のベッドに寝ていた。そして、手術を受けなければならないと告げられた。
 
 An operation was performed, and twenty-five stitches were taken.
 手術が行われ、二十五針縫われた。
