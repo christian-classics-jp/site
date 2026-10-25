@@ -26,8 +26,8 @@
         <% var date = new Date(); var year = date.getFullYear(); var month = date.getMonth() + 1; var day = date.getDate(); var stringDate = "" + year + "-" + month + "-" + day; %>
         <meta property="dcterms:date"><%= stringDate %></meta>
         <dc:date><%= stringDate %></dc:date>
-        <meta property="dcterms:rights">All rights reserved</meta>
-        <dc:rights>Copyright &#x00A9; <%= (new Date()).getFullYear() %> by <%= publisher || "anonymous" %></dc:rights>
+        <meta property="dcterms:rights">CC BY-SA 4.0</meta>
+        <dc:rights>Copyright &#x00A9; <%= (new Date()).getFullYear() %> by <%= publisher || "anonymous" %>. Licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).</dc:rights>
         <meta name="cover" content="image_cover"/>
         <meta name="generator" content="epub-gen" />
         <meta property="ibooks:specified-fonts">true</meta>

@@ -8,5 +8,7 @@
   "SITE_NAV_LABEL": "サイト内のリンク",
   "SITE_NAME": "christian-classics-jp",
   "URL": "https://christian-classics-jp.github.io/site/",
-  "COPY_RIGHT": "© 2016 christian-classics-jp."
+  "COPY_RIGHT": "© 2016 christian-classics-jp.",
+  "LICENSE": "訳文は CC BY-SA 4.0 で公開しています。",
+  "LICENSE_URL": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja"
 }
