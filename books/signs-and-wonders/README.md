@@ -47,7 +47,7 @@
 + [x] Chapter XL. Camp-Meeting at Long Hill, Conn., 1913 (2)
 + [x] Chapter XLI. At the Stone Church, Chicago, 1913 (1)
 + [x] Chapter XLI. At the Stone Church, Chicago, 1913 (2)
-+ [ ] Chapter XLI. At the Stone Church, Chicago, 1913 (3)
++ [x] Chapter XLI. At the Stone Church, Chicago, 1913 (3)
 + [ ] Chapter XLII. Woodworth-Etter Meeting at Montwait, Mass., August, 1913 (1)
 + [ ] Chapter XLII. Woodworth-Etter Meeting at Montwait, Mass., August, 1913 (2)
 + [ ] Chapter XLIII. At Hot Springs, Ark. / Chapter XLIV. Woodworth-Etter Meetings at Memphis, Tenn. / Chapter XLV. Missions at Meridian, Miss., and Warrior, Ala.
