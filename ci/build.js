@@ -2,11 +2,12 @@
 const fs = require('fs')
 const { join } = require('path')
 const buildHtml = require('./helpers/buildHtml')
+const Repository = require('./helpers/Repository')
 const { SITE_URL, BOOKS_DIR, STATIC_DIR, PUBLIC_DIR, STYLE_PATH, SCRIPT_PATH } = require('./helpers/consts')
 
 const book = process.argv[2]
 const singlePage = process.argv[3] === 'single'
-const books = book ? [book] : fs.readdirSync(BOOKS_DIR)
+const books = book ? [book] : fs.readdirSync(BOOKS_DIR).filter((name) => new Repository(name).completed)
 
 fs.rmSync(PUBLIC_DIR, { recursive: true, force: true })
 fs.cpSync(STATIC_DIR, PUBLIC_DIR, { recursive: true })
