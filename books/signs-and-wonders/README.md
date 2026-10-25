@@ -36,7 +36,7 @@
 + [x] Chapter XXX. Signs and Wonders at Dallas, Texas (3)
 + [x] Chapter XXXI. A Vision of the Coming of the Lord
 + [x] Chapter XXXII. Questions and Answers on Divine Healing
-+ [ ] Chapter XXXIII. Sermon--Gifts for Men
++ [x] Chapter XXXIII. Sermon--Gifts for Men
 + [ ] Chapter XXXIV. Sermon--Womens' Rights in the Gospel
 + [ ] Chapter XXXV. Sermon on Visions and Trances
 + [ ] Chapter XXXVI. Sermon--The Second Coming of Christ
