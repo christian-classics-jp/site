@@ -70,7 +70,7 @@
 + [x] Chapter LX. The Signs and Wonders at Houston, Texas, March, 1916.
 + [x] Chapter LXI. "Try the Spirits"
 + [x] Chapter LXII. Work of the Holy Ghost / Chapter LXIII. James' Commission to the Church to Prav for the Sick
-+ [ ] Chapter LXIV. "Eye Hath Not Seen nor Ear Heard."
++ [x] Chapter LXIV. "Eye Hath Not Seen nor Ear Heard."
 + [ ] Chapter LXV. The Fire and Glory of God Filling the Temple / Chapter LXVI. Sermon on Dancing
 + [ ] Chapter LXVII. The Outpouring of the Holy Spirit in the Last Days--According to Joel's Prophecy
 + [ ] Chapter LXVIII. The Great Revival in Jerusalem
