@@ -21,7 +21,7 @@ In a little while we found ourselves passing along over the tops of these mounta
 Again we found ourselves sweeping over the plains and deserts.
 かと思うと、また平原と砂漠を駆け抜けていた。
 Sometimes for hundreds of miles there was not a shrub or tree to be seen; nothing but yellow sand at times was visible; then again nothing but black sand for miles and miles.
-ときには何百マイルも、低い木一本、高い木一本見えなかった。黄色い砂しか見えないときもあり、また何マイルも何マイルも黒い砂ばかりのときもあった。
+ときには何百マイルも、低木も木も一本も見えなかった。黄色い砂しか見えないときもあり、また何マイルも何マイルも黒い砂ばかりのときもあった。
 As far as the eye could see, the ground was as level as a floor--no vegetation on it.
 見渡すかぎり、地面は床のように平らで、草木は一本もなかった。
 As we came on further into California we saw a great change.
@@ -57,7 +57,7 @@ Here we were in a strange land and our money about gone.
 No means to go back east.
 東部に帰る手だてもなかった。
 We confessed we were pilgrims in a strange country, but knew we were seeking a city out of sight.
-私たちは、自分たちが見知らぬ国の旅人であることを認めていた。しかし、目に見えない都を求めていることも知っていた。
+私たちは、自分たちが見知らぬ国の旅人であることを言いあらわしていた。しかし、目に見えない都を求めていることも知っていた。
 We had no thought of going back till a great work had been done for the Master.
 主のために大いなる働きがなされるまで、帰ろうとは思わなかった。
 We had no fear of suffering for want of means; we knew our God would supply all our needs.
@@ -100,7 +100,7 @@ It was very cold in our dwelling tents; we had not yet got a stove.
 At the close of the meeting one night, as we started from the large tent to our dwelling tents, I said I wish we had a warm stove in our tent.
 ある夜、集会が終わって大天幕から寝泊まりする天幕へ向かうとき、私は、天幕に暖かいストーブがあればいいのに、と言った。
 As we opened the tent door, to our surprise we found some kind hands had been there and set up a stove and had it red-hot.
-天幕の入口を開けると、驚いたことに、親切なだれかの手がそこに来て、ストーブを据え、真っ赤に燃やしてあった。
+天幕の入口を開けると、驚いたことに、だれかが親切にもそこに来て、ストーブを据え、真っ赤に燃やしておいてくれた。
 We were made to give glory to God and say the Lord will provide.
 私たちは神に栄光を帰し、主が備えてくださる、と言わずにはいられなかった。
 We never knew who put it there.
@@ -133,9 +133,9 @@ The Christians said we must have a larger tent to hold the multitudes.
 They ordered one at once, costing $1,325, with a capacity of holding eight thousand.
 そしてすぐに、八千人を収める天幕を千三百二十五ドルで注文した。
 In a short time it was made and on the ground ready for the dedicatory service.
-まもなく天幕ができあがり、献堂式の用意を整えて地に張られた。
+まもなく天幕ができあがり、奉献式の用意を整えて地に張られた。
 The dedicatory sermon was preached by the pastor of the M. E. Church of San Francisco.
-献堂の説教は、サンフランシスコのメソジスト監督教会の牧師がした。
+奉献の説教は、サンフランシスコのメソジスト監督教会の牧師がした。
 Prayer was offered by the pastor of the M. E. Church of Oakland.
 祈りは、オークランドのメソジスト監督教会の牧師がささげた。
 A number of other ministers were present.
@@ -261,7 +261,7 @@ They all stood, and sang praises to God for the great work the Lord had done.
 Some of the worst men and boys, those that had given us the most trouble, would not leave until the police had brought them up to say good-bye.
 最もたちの悪い男や少年たち、私たちをいちばん困らせた者たちもいた。その何人かは、警官に連れられて別れのあいさつに来るまで帰ろうとしなかった。
 With tears running from their eyes, they begged us to forgive them for what they had done, and asked us to pray that they might be saved.
-その者たちは目から涙を流しながら、自分たちのしたことを許してほしいと願い、救われるように祈ってほしいと頼んだ。
+その者たちは目から涙を流しながら、自分たちのしたことをゆるしてほしいと願い、救われるように祈ってほしいと頼んだ。
 
 # 第二十二章　ミズーリ州セントルイスでの力あるみわざ
 CHAPTER XXII
@@ -356,7 +356,7 @@ They said if they would cut the ropes of a show tent, surely a gospel tent would
 We said God has placed us here and by his grace we will stay.
 私たちは答えた。神が私たちをここに置かれたのだから、神の恵みによって、ここにとどまる、と。
 Many of our best friends were afraid to let their wives and daughters come, and felt they were running a great risk in coming themselves, as the congregation was stoned coming and going.
-私たちの最も良い友人の多くも、妻や娘を来させるのを恐れ、自分で来るのさえ大きな危険を冒すことだと感じていた。会衆は、行き帰りに石を投げつけられたからである。
+私たちの親しい友人の多くも、妻や娘を来させるのを恐れ、自分で来るのさえ大きな危険を冒すことだと感じていた。会衆は、行き帰りに石を投げつけられたからである。
 Sometimes the stones went flying through the tent.
 ときには石が天幕を突き抜けて飛んで来た。
 They did not know what a camp-meeting was, but thought it was some kind of a show.
@@ -368,7 +368,7 @@ The first night the tent was crowded.
 Men stood on the seats with hats on, cigars and pipes in their mouths, coats off and sleeves rolled up.
 男たちは帽子をかぶったまま座席の上に立ち、葉巻やパイプをくわえ、上着を脱いで袖をまくり上げていた。
 Women with old dirty aprons-and dresses on, bare-headed and bare-armed.
-女たちは古い汚れた前掛けと服を身に着け、頭にも腕にも何もまとっていなかった。
+女たちは古い汚れた前掛けと服を身に着け、頭に何もかぶらず、腕をむき出しにしていた。
 // 英文の aprons-and は aprons and と読んだ。
 They would shoot off fire-crackers, and when we sang they sang the louder; when we prayed, they clapped their hands and cheered us.
 その連中は爆竹を鳴らし、私たちが歌うといっそう大声で歌い、私たちが祈ると手をたたいて、はやしたてた。
@@ -382,7 +382,7 @@ It looked like surrender or death.
 降伏か死か、というありさまだった。
 
 It was an awful sight to see a little band of Christians, sitting nearly frozen to their seats with fear, surrounded by a mob of wild fierce men and women, many of them half drunk, their eyes and faces red and inflamed.
-小さなクリスチャンの一団が、恐ろしさのあまり座席に凍りついたように座っていた。それを、荒々しく猛々しい男女の群れが取り囲んでいた。その多くは半ば酔っていて、目も顔も赤く血走っていた。恐ろしい光景だった。
+小さなクリスチャンの一団が、恐ろしさのあまり座席に凍りついたように座っていた。それを、荒々しく猛々しい男女の群れが取り囲んでいた。その多くは半ば酔っていて、目は血走り、顔は赤くほてっていた。恐ろしい光景だった。
 Every effort failed and we could do nothing with them.
 何をしてもうまくいかず、その連中をどうすることもできなかった。
 I said to my co-workers: "We will never give up, and if they take us out of the tent before we are ready to go, they will take us out dead."
@@ -393,13 +393,13 @@ I told them to lead in prayer one after the other, and the God of Elijah would a
 A sister knelt on the pulpit pale as death, her hands and face raised to heaven, and in a clear ringing voice asked God to save and bless the judgment-bound multitude.
 ひとりの姉妹が、死人のように青ざめて説教壇にひざまずき、手と顔を天に上げた。そして、よく響く澄んだ声で、さばきに向かっているこの群衆を救い、祝福してくださいと神に願った。
 A feeling of the awful presence of God began to fall on the people.
-神の恐るべき臨在が、人々の上に下りはじめた。
+神の恐るべき臨在の気配が、人々の上に下りはじめた。
 Another sister followed in prayer, then I arose, and stood before them.
 もうひとりの姉妹が続いて祈った。それから私は立ち上がって、人々の前に立った。
 I raised my hand in the name of the Lord, and commanded them to listen.
 私は主の名によって手を上げ、聞きなさい、と命じた。
 I said the Lord had sent me there to do them good, and that I would not leave until the Lord told me to, when our work was done.
-私は言った。主があなたがたに良いことをするために私をここに遣わされたのです。私たちの働きが終わって、主が去れと言われるまで、私は去りません。
+私は言った。主は、あなたがたに良いことをするようにと、私をここに遣わされたのです。私たちの働きが終わって、主が去れと言われるまで、私は去りません。
 I told them the Lord would strike dead the first one that tried to harm us, or to strike us with a dagger.
 私たちに危害を加えたり、短刀で私たちを突いたりしようとする者がいれば、主はその最初のひとりを打ち殺されるでしょう。
 If any tried to kill us the Lord would strike them dead.
@@ -426,7 +426,7 @@ They stood like they were afraid to move, and they all passed out quietly.
 After that the hoodlum element always respected me.
 それからは、ならず者たちはいつも私に敬意を払った。
 Many would take off their hats when they passed me; but.they stoned the people coming and going to the meetings, and threw stones through and over the tent for some time, till we got them conquered in the name of the Lord, and the help of the police.
-多くの者が、私とすれ違うときに帽子を取った。しかし集会の行き帰りの人々には石を投げつけ、天幕を突き抜けたり越えたりするように石を投げることも、しばらく続いた。主の名と警察の助けによって、その者たちを抑えるまでのことである。
+多くの者が、私とすれ違うときに帽子を取った。しかし、集会の行き帰りの人々に石を投げつけることも、天幕に石を投げ込んだり天幕越しに投げたりすることも、しばらく続いた。主の名と警察の助けによって、その者たちを抑えるまでのことである。
 // 英文の but.they は but they と読んだ。
 
 The citizens took it in hand, and went after the police for not doing their duty, for they were afraid of the mob element.
@@ -472,7 +472,7 @@ Some of the worst characters on earth came to the meeting.
 If God had not protected us we would not have left that camp-ground alive.
 神が守ってくださらなかったら、私たちは生きてあの野営地を出ることはできなかっただろう。
 Glory to God, he never leaves his children.
-神に栄光あれ。神は決してご自分の子供たちを離れられない。
+神に栄光あれ。神は決してご自分の子供たちをお離れにならない。
 
 The women and children began to wear cleaner clothes, and came with their bonnets on, and left their dirty aprons at home.
 女や子供たちは、前よりきれいな服を着るようになった。ボンネットをかぶって来て、汚れた前掛けは家に置いてくるようになった。
@@ -515,7 +515,7 @@ GIFTS OF THE HOLY SPIRIT
 Many were baptized with the Holy Ghost, and received many gifts; all the gifts were manifested by the Holy Ghost.
 多くの人が聖霊のバプテスマを受け、多くの賜物を受けた。聖霊によって、あらゆる賜物が現された。
 Many received the gifts of healing; the casting out of devils; some of miracles; of visions; of the gift of the Holy-Ghost by the laying on of hands; some received the gift of new tongues, and spake very intelligently in other languages, as the Spirit gave them utterance.
-多くの人がいやしの賜物を受け、悪霊を追い出す賜物を受けた。奇跡の賜物、幻の賜物、手を置いて聖霊の賜物を受けさせる賜物を受けた人々もいた。新しい異言の賜物を受けた人々もいて、御霊が語らせるままに、ほかの国々の言葉で、たいへんはっきりと語った。
+多くの人がいやしの賜物を受け、悪霊を追い出す賜物を受けた。奇跡の賜物、幻の賜物、手を置いて聖霊の賜物を受けさせる賜物を受けた人々もいた。新しい言葉を語る賜物を受けた人々もいて、御霊が語らせるままに、ほかの国々の言葉で、たいへんはっきりと語った。
 // 英文の Holy-Ghost の連結は原本のとおりか OCR の誤りかを確かめていない。Holy Ghost と読んだ。
 He gave them to know what they were speaking.
 御霊は、その人々に、自分が何を語っているのかをわからせてくださった。
@@ -550,7 +550,7 @@ She was filled with the Spirit, and as bold as a lion in the power of the Holy G
 I stood her on the platform, and she began to walk about, and preach.
 私がその子を壇の上に立たせると、その子は歩き回って説教しはじめた。
 With hands uplifted, pointing to heaven, and stamping her foot, she preached to the astonished multitude, showing what great things the Lord had done for her, for she spake some words in English.
-両手を上げて天を指し、足を踏み鳴らして、驚く群衆に説教した。そして、主がどんなに大きなことをしてくださったかを示した。英語でもいくらか語ったからである。
+両手を上げて天を指し、足を踏み鳴らして、驚く群衆に説教した。そして、主が自分にどんなに大きなことをしてくださったかを示した。英語でもいくらか語ったからである。
 
 They said it was the greatest battle ever fought in the Mississippi Valley of religion against science, and the works of man, and the powers of darkness.
 これは、信仰が科学と人のわざとやみの力とを相手にした戦いだった。ミシシッピ川流域でかつてない最大の戦いだった、と人々は言った。
@@ -619,7 +619,7 @@ I was so scared, but saw how much faith she had in me, and the boy looked so pit
 Nearly the whole city knew about the condition of the boy, and when they heard that he was healed, and his mind perfectly restored, they all wanted to see him.
 町のほとんどの人が少年の容体を知っていた。そして、少年がいやされ、正気をすっかり取り戻したと聞くと、だれもが少年に会いたがった。
 I would ask him to come up on the big platform, and he would step out so manly, and tell that the Lord had saved, and healed him, and had filled him with his Spirit.
-私が大きな壇に上がるように言うと、少年はいかにも男らしく進み出た。そして、主が自分を救い、いやし、御霊で満たしてくださったと語るのだった。
+私が大きな壇に上がるように言うと、少年はいかにも男らしく進み出た。そして、主が自分を救ってくださり、いやしてくださり、御霊で満たしてくださったと語るのだった。
 
 For years after, when I went to the city over Sabbath, he would come walking down the aisle to the pulpit, with a lovely bouquet of flowers.
 その後何年も、私が日曜日をはさんでその町に行くと、少年は美しい花束を持って、通路を説教壇まで歩いて来た。
