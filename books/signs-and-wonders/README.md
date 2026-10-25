@@ -65,7 +65,7 @@
 + [x] Chapter LV. The Fire Falls at Topeka, Kansas / Chapter LVI. Colorado Springs, Colo.
 + [x] Chapter LVII. Convention at Los Angeles, Cal. (1)
 + [x] Chapter LVII. Convention at Los Angeles, Cal. (2)
-+ [ ] Chapter LVIII. Trying but Blessed Times at San Diego, Calif.
++ [x] Chapter LVIII. Trying but Blessed Times at San Diego, Calif.
 + [ ] Chapter LIX. The Battle at San Francisco, 1916
 + [ ] Chapter LX. The Signs and Wonders at Houston, Texas, March, 1916.
 + [ ] Chapter LXI. "Try the Spirits"
