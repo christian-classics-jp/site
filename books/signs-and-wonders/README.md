@@ -72,7 +72,7 @@
 + [x] Chapter LXII. Work of the Holy Ghost / Chapter LXIII. James' Commission to the Church to Prav for the Sick
 + [x] Chapter LXIV. "Eye Hath Not Seen nor Ear Heard."
 + [x] Chapter LXV. The Fire and Glory of God Filling the Temple / Chapter LXVI. Sermon on Dancing
-+ [ ] Chapter LXVII. The Outpouring of the Holy Spirit in the Last Days--According to Joel's Prophecy
++ [x] Chapter LXVII. The Outpouring of the Holy Spirit in the Last Days--According to Joel's Prophecy
 + [ ] Chapter LXVIII. The Great Revival in Jerusalem
 + [ ] Chapter LXIX. Blasphemy Against the Holy Ghost
 + [ ] Chapter LXX. Summary--Second Camp-Meeting, Petoskey, Mich. (1)
