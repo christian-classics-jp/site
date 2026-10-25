@@ -55,14 +55,14 @@ Q. But they did not seem to have faith, did they?
 問　しかし、その人々には信仰がなかったようではないか。
 
 A. Yes. If you read the references just mentioned, you will notice the people "came to him" for healing, and "followed him." At Nazareth, his own town, where he had been brought up, he could do no great work among them, because of their unbelief. At Capernaum, where some of the most remarkable healings were wrought, the people were a believing people. Out of nineteen of the most prominent individual cases of healing in the ministry of Christ and the apostles, there are twelve.of these where their faith is spoken of. The rest are mentioned sufficiently plain to show that faith brought the healing in every case.
-答　いや、あった。今挙げた箇所を読めば、人々がいやしを求めて『みもとに来た』こと、『ついてきた』ことに気づくだろう。イエスが育った故郷の町ナザレでは、人々の不信仰のゆえに、イエスはそこで大きなわざをすることがおできにならなかった。最も驚くべきいやしのいくつかがなされたカペナウムでは、人々は信じる民だった。キリストと使徒たちの伝道の中で最も目立つ、個々の人のいやしの例が十九ある。そのうち十二の例で、その人々の信仰について語られている。残りの例も、どの場合にも信仰がいやしをもたらしたことがわかるほど、十分はっきりと述べられている。
+答　いや、あった。今挙げた箇所を読めば、人々がいやしを求めて「みもとに来た」こと、「ついてきた」ことに気づくだろう。イエスがお育ちになった故郷の町ナザレでは、人々の不信仰のゆえに、大きなわざをすることがおできにならなかった。最も驚くべきいやしのいくつかがなされたカペナウムでは、人々は信じる民だった。キリストと使徒たちの伝道の中で最も目立つ、個々の人のいやしの例が十九ある。そのうち十二の例で、その人々の信仰について語られている。残りの例も、どの場合にも信仰がいやしをもたらしたことがわかるほど、十分はっきりと述べられている。
 // 英文の twelve.of は twelve of の OCR の誤り。
 
 Q. Did not Jesus heal arbitrarily, for the sole purpose of establishing his divinity?
 問　イエスは、ご自分の神性を立証するためだけに、思いのままにいやされたのではないか。
 
 A. No. He healed according to the law of redemption, and because of his great compassion to suffering humanity. Matt. 14.14.
-答　そうではない。イエスは、あがないの律法に従って、また苦しむ人類への大きなあわれみのゆえに、いやされた（マタイ一四・一四）。
+答　そうではない。イエスは、あがないの法則に従って、また苦しむ人類への大きなあわれみのゆえに、いやされた（マタイ一四・一四）。
 
 Q. Did not healing cease when Jesus finished his earthly ministry?
 問　イエスが地上での伝道を終えられたとき、いやしはやんだのではないか。
@@ -81,7 +81,7 @@ Q. But it does teach that "when that which is perfect is come, then that which i
 問　しかし聖書は、『全きものが来る時には、部分的なものはすたれる』と教えている（第一コリント一三・一〇）。これはどうなのか。
 
 A. This scripture has no reference to divine healing or any of the redemption blessings, that they shall be done away in this dispensation. If there ever has been a time in this dispensation when it could have been said with reference to the full possession and manifestation of the gospel blessings, that "that which is perfect is come," it was when the Holy Spirit came at Pentecost; but we see after this mighty works of salvation and healing, and they were in no sense "done away" with, but were greatly increased. So you see the "done away" argument has no scriptural basis whatever. As long as the dispensation of grace shall last, so long shall the benefits of grace be extended to "whomsoever will."
-答　この聖句は、神のいやしや、あがないのどの祝福についても、それがこの時代にすたれる、と言っているのではない。この時代に、福音の祝福を十分に所有し、現すことについて、『全きものが来る』と言えたときがあったとすれば、それは聖霊がペンテコステに来られたときだった。しかしその後にも、救いといやしの力あるわざが見られた。そうしたわざは少しも『すたれ』ず、大いに増し加わった。だから、『すたれる』という議論には、聖書の根拠がまったくないことがわかる。恵みの時代が続くかぎり、恵みの益は、望む者にはだれにでも及ぶ。
+答　この聖句は、神のいやしや、あがないのどの祝福についても、それがこの時代にすたれる、と言っているのではない。この時代に、福音の祝福を十分に所有し、現すことについて、『全きものが来た』と言えたときがあったとしよう。それは、聖霊がペンテコステに来られたときだった。しかしその後にも、救いといやしの力あるわざが見られた。そうしたわざは少しも『すたれ』ず、大いに増し加わった。だから、『すたれる』という議論には、聖書の根拠がまったくないことがわかる。恵みの時代が続くかぎり、恵みの益は、望む者にはだれにでも及ぶ。
 
 Q. Well, then, when was divine healing done away?
 問　では、神のいやしはいつすたれたのか。
@@ -99,7 +99,7 @@ Q. But what after that?
 問　しかし、その後はどうなのか。
 
 A. Just what crowded out all other gospel truths--the superstitions and unbelief of the apostasy. But, thank God, the darkness is past and the Sun of righteousness with healing in his wings is shining salvation and health to all who will forsake all their old doctrines, creeds and superstitions, and get back upon the old apostolic foundation, the Word of God.
-答　ほかのすべての福音の真理を押しのけたのと同じもの、つまり背教の迷信と不信仰が、いやしを押しのけた。しかし神に感謝する。闇は過ぎ去り、翼にいやす力を備えた義の太陽が輝いている。古い教理や信条や迷信をすべて捨て、古い使徒の土台、すなわちみことばに立ち返る者すべてに、救いと健康を照らしているのである。
+答　ほかのすべての福音の真理を押しのけたのと同じもの、つまり背教の迷信と不信仰が、いやしを押しのけた。しかし神に感謝する。闇は過ぎ去り、翼にいやす力を備えた義の太陽が輝いている。古い教理や信条や迷信をすべて捨て、古い使徒の土台、すなわちみことばに立ち返る者すべてに、救いと健康の光を注いでいるのである。
 
 Q. But how may I know that it is still God's will to heal?
 問　しかし、神が今もいやすことを望んでおられると、どうしてわかるのか。
@@ -111,7 +111,7 @@ Q. But it may be his will not to heal me.
 問　しかし、私をいやさないことが神の御心かもしれない。
 
 A. You must go outside of God's Word to find standing ground for such a conclusion; for there is nothing inside of the Bible about healing but what corresponds with our blessed text: "Himself took our infirmities and bare our sicknesses.'' Most people who argue that it might not be God's will to heal them, are at the same time taking medicine and employing every possible human agency to get well. Why be so inconsistent? Why fight against God's will? If it is his will for you not to get well, then die. Stop fighting against God.
-答　そのような結論の足場を見つけるには、みことばの外へ出なければならない。聖書の中には、いやしについて、私たちのほむべき聖句と一致しないことは何もないからである。『彼は、わたしたちのわずらいを身に受け、わたしたちの病を負うた』（マタイ八・一七）。神が自分をいやすことを望んでおられないかもしれない、と論じる人のほとんどは、同時に薬を飲み、よくなるためにあらゆる人間の手段を使っている。なぜそんなに矛盾したことをするのか。なぜ神の御心に逆らって戦うのか。よくならないことがあなたへの神の御心なら、死になさい。神に逆らって戦うのをやめなさい。
+答　そのような結論の足場を見つけるには、みことばの外へ出なければならない。聖書の中には、いやしについて、私たちの尊い聖句と一致しないことは何もないからである。『彼は、わたしたちのわずらいを身に受け、わたしたちの病を負うた』（マタイ八・一七）。神が自分をいやすことを望んでおられないかもしれない、と論じる人がいる。そういう人のほとんどは、同時に薬を飲み、よくなるためにあらゆる人間の手段を使っている。なぜそんなに矛盾したことをするのか。なぜ神の御心に逆らって戦うのか。よくならないことがあなたへの神の御心なら、死になさい。神に逆らって戦うのをやめなさい。
 
 Q. But does not sickness core from God as a blessing?
 問　しかし、病気は祝福として神から来るのではないか。
@@ -125,7 +125,7 @@ Q. If it does not come from God, then where does it come from?
 
 A. It comes from the devil and was always dealt with by Jesus in his earthly ministry as a work of the devil. The Word of God plainly teaches us that the devil is the author of disease. Read Jon. 2.7; Luke 3.16; Acts 1.38.
 答　悪魔から来る。イエスは地上での伝道の中で、病気をいつも悪魔のわざとして扱われた。みことばは、悪魔が病気の張本人であることをはっきり教えている。ヨブ二・七、ルカ一三・一六、使徒一〇・三八を読みなさい。
-// 英文の Jon. 2.7; Luke 3.16; Acts 1.38 は文脈に合わない（ヨナ書は二章十節まで、使徒一章は二十六節まで）。サタン・悪魔が病を起こしたと述べる Job 2.7、Luke 13.16、Acts 10.38 の誤植と読んだ。
+// 英文の Jon. 2.7; Luke 3.16; Acts 1.38 は文脈に合わない（ヨナ二・七とルカ三・一六は病の話ではなく、使徒一章は二十六節まで）。サタン・悪魔が病を起こしたと述べる Job 2.7、Luke 13.16、Acts 10.38 の誤植と読んだ。
 
 Q. But are there not some other scriptures that teach us that sickness comes from God?
 問　しかし、病気が神から来ると教えている聖句も、ほかにあるのではないか。
@@ -149,8 +149,8 @@ Q. Are not medicines recognized in the word of God?
 問　薬は、みことばの中で認められているのではないか。
 
 A. Yes. Let us read how it recognizes them. "Thou hast no healing medicines." Jer. 30.13. "In vain shalt thou use many medicines." Jer. 46.11. "A merry heart doeth good like medicine" (margin, to a medicine, showing that the merry heart is better than the medicine). Prov. 17.22. "And the fruit thereof shall be for meat, and the leaf thereof for medicine." Ezek. 46.12. This latter references does not mean any material remedy but is prophetical of the tree of life and divine healing. See Rev. 22.2. Thus we.see the word of God places no intrinsic value upon medicine.
-答　認められている。どのように認めているか、読んでみよう。『あなたの傷をつつむ薬はなく、あなたをいやすものもない』（エレミヤ三〇・一三）。『あなたは多くの薬を用いても、むだだ』（エレミヤ四六・一一）。『心の楽しみは良い薬である』（箴言一七・二二）。欄外の別訳では「薬に益を与える」となっていて、楽しい心が薬にまさることを示している。『その実は食用に供せられ、その葉は薬となる』（エゼキエル四七・一二）。この最後の箇所は、物質的な治療を意味しているのではなく、いのちの木と神のいやしの預言である（黙示録二二・二）。このように、みことばは薬そのものに何の価値も置いていないことがわかる。
-// 英文の Ezek. 46.12 は 47.12 の誤り（四六・一二 は君の供え物の節）。references、we.see は原本のまま。
+答　認められている。どのように認めているか、読んでみよう。『あなたの傷をつつむ薬はなく、あなたをいやすものもない』（エレミヤ三〇・一三）。『あなたは多くの薬を用いても、むだだ』（エレミヤ四六・一一）。『心の楽しみは良い薬である』（箴言一七・二二）。欄外の別訳では『薬に益を与える』となっていて、心の楽しみが薬にまさることを示している。『その実は食用に供せられ、その葉は薬となる』（エゼキエル四七・一二）。この最後の箇所は、物質的な治療を意味しているのではなく、いのちの木と神のいやしの預言である（黙示録二二・二）。このように、みことばは薬そのものに何の価値も置いていないことがわかる。
+// 英文の Ezek. 46.12 は 47.12 の誤り（四六・一二 は君の供え物の節）。references は原本のまま、we.see は we see の OCR の誤り。
 
 Q. Is not the ministry of physicians for the body designed of God, the same as the ministry of the gospel for the soul?
 問　からだのための医者の務めは、魂のための福音の務めと同じように、神が定められたものではないか。
