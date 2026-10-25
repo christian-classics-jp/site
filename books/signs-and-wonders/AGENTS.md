@@ -37,6 +37,7 @@
   - F. F. Bosworth（1877-1958）：第二十九章の「Latter Rain Evangel」からの転載記事、第三十章の冒頭の報告（「THE ACTS OF THE HOLY GHOST IN DALLAS」の前まで）と「REPORT BY THE PASTOR, ELDER F. F. BOSWORTH」。
   - Stanley H. Frodsham（1882-1969）：第三十章の「LETTER FROM AN ENGLISH EDITOR」。
   - Howard A. Goss（1883-1964）：第四十三章の「JEHOVAH STILL WORKING AT HOT SPRINGS, ARK.」。
+  - A. H. Argue（1868-1959）：第四十一章（その三）の「(A. H. Argue, in the Stone Church, July 24, 1913.)」の話。後の章でも、アーギューが書いた文や語った話は訳さない。
 - 次の書き手は 1957 年以前に没している（没年は一般の伝記資料による）：Carrie Judd Montgomery（1946 年没）、Elizabeth Sisson（1934 年没）、A. A. Boddy（1930 年没）、Stanley P. Smith（1931 年没）、George B. Studd（1945 年没）、A. G. Garr（1944 年没）、D. C. O. Opperman（1926 年没）。
 - 書き手の名のない新聞記事や記録は、公表から 50 年と戦時加算で保護期間が切れている。
 - 第二十九章のサラ・ネルソン夫人の証し（「RAISED FROM THE DEAD」）と、アームストロング夫人が夫の証しを裏づけた一文は、没年が確かめられないので訳していない。同じ章のジョン・N・アームストロングの証しは、本人が 1912 年に 65 歳だったと書いており（1846 年ごろの生まれ）、1958 年以後の没なら 111 歳を超えるので、1957 年以前の没と判断して訳した。
@@ -49,7 +50,7 @@
 - 第四十章の A. W. Otto（オタワの『ヘラルド・オブ・トゥルース』誌の編集者・発行者）の報告（その一の「(Taken from "The Herald of Truth.'')」から、その二の署名「A. W. OTTO, Editor and Publisher,」「Ottawa, Canada.」まで）は訳していない。WebSearch（standard 2 回、extended 1 回）で没年が見つからなかった。報告の前の二つの見出しは訳した。同じ章（その二）のエリザベス・シッソンの公開書簡（1934 年没）と、その後の歌（William T. Pettengill の「He Cometh」、1956 年没）は訳した。
 - 第四十一章の Anna C. Reiff（『ラター・レイン・エバンジェル』誌の編集者）の報告（その一の「(Copied from "The Latter Rain Evangel.")」から、その二の署名「ANNA C. REIFF.」まで。報告に含まれる多くの人の証しも含む）は訳していない。WebSearch（standard 4 回、extended 1 回）と IFPHC の目録で没年を探したが、一八六九〜一九四五年とするのは復刻本の出版社の紹介文一件だけで、ほかの資料で確かめられなかった。ほかの資料で一九五七年以前の没と確かめられれば、訳してよい。報告の前の二つの見出しと、その前の著者の段落は訳した。その二の署名の後の編者 A. E. Sidford の一文の注（「Reports of this work were published in England.」）も訳していない。その後の「NEGLECT NOT THE GIFT THAT IS IN THEE」（同誌からの転載）は、署名のない編集部の前置きと著者の話なので訳した。
 - 第四十一章（その三）の A. H. Argue（1868-1959）の話（「(A. H. Argue, in the Stone Church, July 24, 1913.)」から「S. D. KINNE WRITES:」の前まで）は、一九五八年以後の没なので訳していない。前の見出し「BE PATIENT: HIS COMING DRAWETH NIGH…」は訳した。同じ節の Seeley D. Kinne の報告（「S. D. KINNE WRITES:」から署名まで、「THE BLESSED CLOSE」を含む）は、Kinne が一九五〇年に没している（hymntime.com、Find a Grave）ので訳した。Lydia Piper の社説（「We are sending this August Evangel…」と署名）は、WebSearch（standard 3 回、extended 1 回）で没年が見つからなかったので訳していない。詩「BEAUTIFUL THREADS OF GOLD」は、本に作者の名がなく、WebSearch（standard 2 回、extended 1 回）でも作者が見つからなかったので、既定どおり訳した。著者の話の中の編者 A. E. Sidford の注（「*Note: This was shown before the great war broke out.」）は訳していない。
-- ほかの書き手（編者 A. E. Sidford、Earl W. Clark、Cyrus B. Fockler、Robert J. Craig、August Feick、W. J. Mortlock、Anna C. Reiff など）と、証しを寄せた多くの人の没年は確かめていない。これらの文の扱いは決めていない。訳す前に確かめる。
+- ほかの書き手（編者 A. E. Sidford、Earl W. Clark、Cyrus B. Fockler、Robert J. Craig、August Feick、W. J. Mortlock など）と、証しを寄せた多くの人の没年は確かめていない。これらの文の扱いは決めていない。訳す前に確かめる。
 - のちの版（1922 年の『 Marvels and Miracles 』、現代の復刻版や編集版）で加わった序文、注、本文の書き換えは著作権が残りうる。訳にはそれらを使わず、参照もしない。
 
 ## 文体
