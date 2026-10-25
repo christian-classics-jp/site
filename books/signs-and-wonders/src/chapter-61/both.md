@@ -36,14 +36,14 @@ These things hurt the Pentecostal movement; God is in it, but the devil is in it
 こうしたことが、ペンテコステ運動を傷つけている。神はこの運動の中におられる。しかし、悪魔もその中にいる。多くの人は正直だが、理解していない。神はこれから起こる大きなことを示される。すると悪魔が入って来て、人々に日付を定めさせるのである。
 
 Daniel did not understand the vision he had, for some time; an angel appeared to him to make him understand the vision. Be careful the devil does not come in, and give you another meaning all together different from what God wants you to have.
-ダニエルは、自分の見た幻をしばらく理解できなかった。御使が彼に現れて、その幻を悟らせた。悪魔が入って来て、神があなたに与えようとしておられる意味とはまったく違う意味をあなたに与えることのないよう、気をつけなさい。
+ダニエルは、自分の見た幻をしばらく理解できなかった。御使が彼に現れて、その幻を悟らせた。悪魔が入って来ないよう、気をつけなさい。悪魔は、神があなたに与えようとしておられる意味とはまったく違う意味を、あなたに与えようとする。
 // ダニエル八・一五〜一六を指すと見た。
 
 So many prophesy this or that, and it never comes true; the prophecy was not according to the word of God. Some one gives a person a message and he believes God sent it, when it is not according to the Word.
 あれこれと預言しても、まったく実現しないことがあまりにも多い。その預言は、神のみことばにかなっていなかったのである。ある人がだれかにメッセージを与える。それがみことばにかなっていないのに、その人は神が遣わされたものだと信じてしまう。
 
 When God calls you out for His work, He will take care of you, give you something to eat and clothe you; there are so many who run before they are sent; better not go at all. Sometimes the devil uses tongues to upset things generally; the devil can speak in tongues, and your flesh can.
-神があなたを召してご自分の働きに出してくださるなら、神はあなたを顧みてくださり、食べ物を与え、着る物を与えてくださる。遣わされる前に走って行く人があまりにも多い。それなら、いっそ行かないほうがよい。ときには悪魔が、異言を使って物事を全体にかき乱すこともある。悪魔も異言を語ることができるし、あなたの肉もできる。
+神があなたをお召しになり、ご自分の働きに出してくださるなら、神はあなたを顧みてくださり、食べ物と着る物を与えてくださる。遣わされる前に走って行く人があまりにも多い。それなら、いっそ行かないほうがよい。ときには悪魔が、異言を使って物事を全体にかき乱すこともある。悪魔も異言を語ることができるし、あなたの肉もできる。
 // 「run before they are sent」はエレミヤ二三・二一の借用。
 
 When God speaks in tongues, it means something, and you want to look for interpretation. God says ask for interpretation. Sometimes God gives it through someone else, but give the person who speaks in tongues a chance to interpret. Be careful you do not give an interpretation in your own spirit; this hurts the work everywhere. Let us try the spirits and not get in the flesh.
@@ -51,7 +51,7 @@ When God speaks in tongues, it means something, and you want to look for interpr
 // 「God says ask for interpretation」は第一コリント一四・一三を指すと見た。
 
 Some people, if they do not like anyone, will give a message in tongues, or a rebuke and nearly knock the person's head off. This is the work of the devil. Then someone will get up--some people are so silly--and say, "Don't lay hands on that; it is the Holy Ghost"; and no one dares to touch it, and the devil has the whole thing.
-だれかを好かないと、異言による言葉や叱責を与えて、その人の頭をたたき落とさんばかりにする人々がいる。これは悪魔のしわざである。すると、だれかが立ち上がって（実に愚かな人々がいるものである）、「それに手を出してはいけない。それは聖霊なのだから」と言う。だれもそれにあえて触れようとせず、悪魔がすべてを手に入れてしまう。
+だれかを好かないと、異言による言葉や叱責を与えて、その人の頭をたたき落とさんばかりにする人々がいる。これは悪魔のしわざである。すると、だれかが立ち上がって（実に愚かな人々がいるものである）、「それに手を出してはいけない。それは聖霊なのだから」と言う。だれもそれにあえて触れようとせず、すべてが悪魔の思うままになってしまう。
 
 It goes out that the leader sanctions all that, and people do not want to have anything to do with it. The leader may have discernment but some one will pull his coat-tail and say, "Don't lay hands on that." Instead of being so afraid, let us search the scriptures. God never told anyone to rebuke in an ugly tone.
 そして、指導者がそれをすべて認めているといううわさが広まり、人々はかかわりを持ちたがらなくなる。指導者に見分ける力があっても、だれかが上着のすそを引っぱって、「それに手を出してはいけない」と言う。そんなに恐れるかわりに、聖書を調べようではないか。神はだれにも、とげとげしい口調でしかれとは言われなかった。
@@ -60,7 +60,7 @@ There was a great work being done in the West. One woman, especially, said the U
 西部で大きな働きが行われていた。とくにひとりの女性が、合衆国は滅ぼされるから日本へ行くべきだと言った。彼らは行った。そのお金を出す余裕のない人々までが、彼らを助けた。彼らは破滅を逃れるために行ったのである。
 
 The whole thing was of the devil. The United States were not destroyed; they could not speak the Japanese language; they were stranded and a number backslid; they tried to raise money for a great building, but never accomplished it. They had been doing a good work here, but other spirits got in.
-すべては悪魔から出たことだった。合衆国は滅ぼされなかった。彼らは日本語を話せなかった。彼らは行き詰まり、何人もが後戻りした。大きな建物のためにお金を集めようとしたが、決して実現しなかった。彼らはここでよい働きをしていたのに、ほかの霊が入り込んだのである。
+すべては悪魔から出たことだった。合衆国は滅ぼされなかった。彼らは日本語を話せなかった。彼らは行き詰まり、何人もが後戻りした。大きな建物のためにお金を集めようとしたが、ついに実現しなかった。彼らはここでよい働きをしていたのに、ほかの霊が入り込んだのである。
 
 God gave me a special commission to take the precious from the vile; and I do not want you to get into the snare of the devil. So many young people, after their baptism, give up work and go to preaching. Ina few days they tell all they know, then tell something they don't know; bread and butter does not come in, and many of them backslide.
 神は私に、卑しいものから尊いものを取り分けるという特別な使命をお与えになった。私は、あなたがたが悪魔のわなに陥ってほしくない。多くの若い人々が、バプテスマを受けた後、仕事をやめて説教を始める。数日もすると、知っていることを全部話してしまい、それから知らないことを話す。暮らしの糧は入って来ず、多くの者が後戻りする。
@@ -81,7 +81,7 @@ If you keep the pipes in order, the Gospel will be given out, and you need to he
 // 「hold up the hands」は出エジプト一七・一二の借用。
 
 Don't take up with every vision that comes along. In the Pentecostal movement, in some places, they have discarded the Word of God. They don't want a leader, and God always had a leader; when there is none, the devil takes the chair. God hath set some pastors and teachers. (Eph. iv.)
-やって来る幻を何でも受け入れてはならない。ペンテコステ運動のある所では、神のみことばを捨ててしまった。彼らは指導者を望まない。しかし、神はいつも指導者を立ててこられた。指導者がいないと、悪魔が議長の席に着く。神は、ある人を牧師、教師としてお立てになった（エペソ四・一一）。
+やって来る幻を何でも受け入れてはならない。ペンテコステ運動のある所では、人々が神のみことばを捨ててしまった。彼らは指導者を望まない。しかし、神はいつも指導者を立ててこられた。指導者がいないと、悪魔が議長の席に着く。神は、ある人を牧師、教師としてお立てになった（エペソ四・一一）。
 // 英文の出典「Eph. iv.」には節の番号がない。引かれている句はエペソ四・一一。
 
 How does any one know when God calls them to the ministry? Some one has said that when God calls anyone to do His work, you can hardly get him into the pulpit; but when the devil calls him, you can't keep him out of it.
@@ -92,7 +92,7 @@ Some people want to talk so much, bringing in a bone of contention; and it is hu
 // ローマ一四章の言い換え。
 
 When we open our mouths, let us say something. If you have the baptism, you need not tell it; people will know it. Let God speak to you; do not wait for someone to speak in tongues and tell you God wants you to go to India; let God speak to you.
-口を開くなら、意味のあることを言おうではないか。バプテスマを受けているなら、それを言いふらす必要はない。人々にはわかる。神にあなたに語っていただきなさい。だれかが異言を語って、神はあなたがインドへ行くことを望んでおられると告げてくれるのを待ってはならない。神にあなたに語っていただきなさい。
+口を開くなら、意味のあることを言おうではないか。バプテスマを受けているなら、それを言いふらす必要はない。人々にはわかる。神から語っていただきなさい。だれかが異言を語って、神はあなたがインドへ行くことを望んでおられると告げてくれるのを待ってはならない。神から語っていただきなさい。
 
 People who go because someone else says so get homesick and discouraged and try to get back again. Let the Lord be our guide; if we do His will, we shall know His will.
 ほかの人がそう言うから行く人々は、ホームシックになり、落胆して、また戻って来ようとする。主を私たちの導き手としようではないか。主の御心を行うなら、私たちは主の御心を知るのである。
@@ -107,10 +107,10 @@ Hold up Jesus and the Resurrection. Let us walk in the light, as He is in the li
 // 「Let us walk in the light…」は第一ヨハネ一・七の借用。「the lower lights」は歌「Let the Lower Lights Be Burning」を踏まえた言い方。
 
 He will say to you, now you can do this; you may say, I did not know before that you would trust me; and again His answer, you can do it now.
-主はあなたに、さあ、今ならこれができる、と言われる。あなたは、あなたが私を信頼してくださるとは以前は知りませんでした、と言うかもしれない。すると主はまた、今ならあなたにできる、と答えられる。
+主はあなたに、さあ、今ならこれができる、と言われる。あなたは、私を信頼してくださるとは以前は知りませんでした、と言うかもしれない。すると主はまた、今ならあなたにできる、と答えられる。
 
 Until God shows you a thing, it is not a sin, but after He shows it to you, if you do it, it is a sin. Consecrate everything to God, day by day. He will not call you to do a thing unless He is going to give you strength and grace.
-神があることを示されるまでは、それは罪ではない。しかし、神が示された後でそれをするなら、それは罪である。日ごとに、すべてを神にささげなさい。神は、力と恵みを与えるおつもりがなければ、あなたを何かをするように召されることはない。
+神があることを示されるまでは、それは罪ではない。しかし、神が示された後でそれをするなら、それは罪である。日ごとに、すべてを神にささげなさい。神は、力と恵みをお与えになるおつもりがなければ、あなたに何かをするようお召しになることはない。
 
 When you go into a meeting, listen to the teaching; if it does not suit you and you want something else, the best thing you can do is to go out quietly and drum up a crowd yourself. Some say, you have no need that any man should teach you; the natural man cannot teach you, but the spiritual man can teach you.
 集会に行ったら、その教えに耳を傾けなさい。それが気に入らず、ほかのものが欲しいなら、いちばんよいのは、静かに出て行って、自分で人を集めることである。ある人々は、だれにも教えてもらう必要はない、と言う。生まれながらの人はあなたを教えることができない。しかし、霊の人はあなたを教えることができる。
@@ -121,17 +121,17 @@ We know what we are talking about; the spiritual man can teach you. We know noth
 // 「We know nothing as we should」は第一コリント八・二の借用。
 
 Be careful not to lay hands suddenly on anyone. Regarding the recent disturbance here, we profess to be saints and we want to show forth the Spirit of Christ. We must be firm, but kind. Do not speak roughly. The crowd want to see. I would have nearly broken my neck when I was young to see what you are seeing.
-だれにも軽々しく手を置かないよう、気をつけなさい。ここで先ごろ起きた騒ぎについて言えば、私たちは聖徒であると公言しており、キリストの御霊を表したいと思っている。私たちは毅然としていなければならないが、親切でなければならない。乱暴な口をきいてはならない。群衆は見たいのである。私も若いころなら、あなたがたが見ているものを見るために、首の骨を折りかねないほどのことをしただろう。
+だれにも軽々しく手を置かないよう、気をつけなさい。ここで先ごろ起きた騒ぎについて言えば、私たちは聖徒であると公言しており、キリストの御霊を表したいと思っている。私たちは毅然としながらも、親切でなければならない。乱暴な口をきいてはならない。群衆は見たいのである。私も若いころなら、あなたがたが見ているものを見るために、首の骨を折りかねないほどのことをしただろう。
 
 When they became noisy, it would have been useless to attempt to use force; it would only have ended in a fight, and the plan of the enemy would have been accomplished. God led me in the only way by which the disturbance could be quelled, and order restored; God fought for us. Do not speak roughly to the boys; each one is some mother's boy. God can smite with conviction; the battle is His, not ours.
 彼らが騒がしくなったとき、力ずくでやめさせようとしてもむだだったろう。けんかで終わるだけで、敵の計画がかなってしまったことだろう。神は、騒ぎを静めて秩序を取り戻すことのできるただ一つの方法へと、私を導いてくださった。神が私たちのために戦ってくださったのである。若者たちに乱暴な口をきいてはならない。ひとりひとりが、どこかの母親の息子なのである。神は罪の自覚をもって打つことがおできになる。戦いは神のものであって、私たちのものではない。
 // 「the battle is His, not ours」は歴代下二〇・一五の借用。
 
 "Try the spirits." In one of our meetings there was a colored woman who had wonderful experience spiritually; that is the kind the devil gets after. One day she commenced to go about on her knees, twisting about like a serpent. God does not tell anyone to do that. She spoke in tongues; then she said, "I don't want to do it; I don't want to do it."
-「霊をためしなさい」私たちのある集会に、霊的にすばらしい経験をしたひとりの黒人の婦人がいた。悪魔がねらうのは、そういう人である。ある日、彼女はひざをついて歩き回り、蛇のように身をくねらせはじめた。神はだれにも、そんなことをせよとは言われない。彼女は異言を語った。それから、「こんなことはしたくない。こんなことはしたくない」と言った。
+「霊をためしなさい」（第一ヨハネ四・一）。私たちのある集会に、霊的にすばらしい経験をしたひとりの黒人の婦人がいた。悪魔がねらうのは、そういう人である。ある日、彼女はひざをついて歩き回り、蛇のように身をくねらせはじめた。神はだれにも、そんなことをせよとは言われない。彼女は異言を語った。それから、「こんなことはしたくない。こんなことはしたくない」と言った。
 
 Every one knew it was not of God; and I said to her, "that is not God; the enemy has got hold of you." At first, she didn't want to give up, but the next day God showed her and she asked to be delivered. The devil had got in and made her do things that were not right, to kill her influence.
-それが神から出たものでないことは、だれもが知っていた。私は彼女に言った。「それは神ではありません。敵があなたをとらえているのです」初め、彼女はあきらめようとしなかった。しかし次の日、神が彼女にお示しになり、彼女は解放されることを願った。悪魔が入り込んで、正しくないことを彼女にさせ、その影響力を損なおうとしていたのである。
+それが神から出たものでないことは、だれもが知っていた。私は彼女に言った。「それは神ではありません。敵があなたをとらえているのです」初め、彼女はそれを手放そうとしなかった。しかし次の日、神が彼女にお示しになり、彼女は解放されることを願った。悪魔が入り込んで、正しくないことを彼女にさせ、彼女の影響力をつぶそうとしていたのである。
 
 A woman came to me and said, "I am afraid this spirit on me is not of God; I was baptized in the Holy Ghost; I went into a mission where they did everything by tongues and they got me so mixed up, I did not know where I was; then, this spirit got hold of me; it shakes my head and makes my head ache."
 ひとりの婦人が私の所に来て言った。「私に臨んでいるこの霊は、神から出たものではないのではないかと心配です。私は聖霊のバプテスマを受けました。それから、何でも異言によって決める伝道所に行きました。そこで私はすっかり混乱させられて、自分がどこにいるのかもわからなくなりました。そのとき、この霊が私をとらえたのです。この霊は私の頭を揺さぶり、頭痛を起こさせます」
@@ -175,7 +175,7 @@ You must come where the blood can heal!
 Vain are all your hopes of another cure,
 ほかの治療に望みをかけてもむなしい<br/>
 Be persuaded, you now, to feel,
-今こそ心を決めて、感じ取りなさい<br/>
+今こそ納得して、感じ取りなさい<br/>
 Help alone, thro' Christ, that you can secure,
 キリストによってのみ助けを得られることを<br/>
 You must come where the blood can heal!
@@ -184,14 +184,14 @@ You must come where the blood can heal!
 Other proffered aids can but you deceive,
 差し出されるほかの助けは、あなたを欺くだけ<br/>
 At your will, unto life, they steal!
-思うままに、いのちまで盗み取る<br/>
+あなたの許すままに、いのちまで盗み取る<br/>
 You must look to Christ if you'd hope receive,
 望みを受けたいなら、キリストを仰がなければならない<br/>
 You must come where the blood can heal!
 血がいやす所へ来なければならない<br/>
 
 Hear you not? 'tis there a decoying voice,
-聞こえないか、あそこに誘い込む声がする<br/>
+聞こえないか、誘い込む声がする<br/>
 Striving ever to quench thy zeal;
 あなたの熱心を消そうと、絶えずつとめている<br/>
 Would you from Him turn, refuge safe to find,
