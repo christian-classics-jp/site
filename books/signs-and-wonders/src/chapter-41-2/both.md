@@ -108,14 +108,14 @@ Mrs. M. B. Woodworth-Etter in the Stone Church, July 17, 1913.
 // 英文の閉じの引用符が ' になっている。
 
 Nore.--One of the most deeply solemn meetings, was that in which seventy elders, evangelists and helpers had hands laid on them that they might receive a fresh anointing of the Spirit and have more power in their ministry. A holy hush fell on all and the slaying power of the Lord was strongly manifested. One after another they were prostrated under the power until the large platform looked like a battlefield.
-注　最も厳粛だった集会の一つは、七十人の長老、伝道者、助け手が手を置いてもらった集会である。御霊の新しい油注ぎを受け、伝道の務めにさらに力を得るためだった。聖なる静けさがすべての人の上に臨み、人を打ち倒す主の力が強く現れた。人々は次々に力の下に倒れ伏し、ついには広い壇が戦場のように見えた。
+注　最も厳粛だった集会の一つは、七十人の長老、伝道者、助け手が手を置いてもらった集会である。御霊の新しい油注ぎを受け、伝道の務めにさらに力を得るためだった。聖なる静けさがすべての人の上に臨み、人を打ち倒す主の力が強く現れた。人々は次々に力に打たれて倒れ伏し、ついには広い壇が戦場のように見えた。
 // 英文の Nore は Note の読み誤り。
 
 Then came a cry from those who worked in hospitals and visited the sick, that they might have more power to bring blessings to the suffering, and Sister Etter and several of the brethren prayed for nearly fifty. Again, as other ministers and workers came in at the close of the month's meetings, there was another service of this nature on Sunday, July 27th, in which fifty more were prayed for. All present were deeply affected by seeing the mighty power of God resting upon His workers. The faces of many were wet with tears as they looked upon the scene.
 次に、病院で働く人々や病人を見舞う人々から、苦しむ人々に祝福をもたらす力をもっと与えられたいという叫びが上がった。エター姉妹と幾人かの兄弟が、五十人近くのために祈った。一か月の集会の終わりには、ほかの牧師や働き人も来た。そこで七月二十七日の日曜日にも同じような集いを開き、さらに五十人のために祈った。神の大いなる力がその働き人たちの上にとどまっているのを見て、居合わせたすべての人が深く心を動かされた。その光景を見つめる多くの人の顔は、涙にぬれていた。
 
 On July 17th, before giving a talk to the ministers and Christian workers, Sister Etter made a few introductory remarks, in which she said she was not sending them out with license to preach, but that she did believe in many there were gifts lying dormant and that she thought part of her mission was to stir up the gifts in her brethren. She said: "I have no authority to send you out. My prayer is that God will give you authority." We can be of the same mind and same Spirit though separate a thousand miles. God has wonderfully blessed me by imparting gifts, and many have received the baptism when I laid hands on them. You are going out with a courage you never had before. We don't want to be a hissing and a byword. We don't want to run ahead of the Lord or lag behind. Let us get deep in the Spirit, so the power will come on us this morning."
-七月十七日、エター姉妹は牧師とクリスチャンの働き人に話をする前に、短い前置きを述べた。姉妹は、説教の資格を与えて彼らを送り出すのではないと言った。しかし、そこにいる多くの人のうちに眠っている賜物があると、確かに信じていた。そして、兄弟たちの賜物を呼び覚ますことが、自分の使命の一部だと考えていた。姉妹はこう言った。「私には、あなたがたを送り出す権威はありません。私の祈りは、神があなたがたに権威を与えてくださることです。千マイル離れていても、私たちは同じ思い、同じ御霊でいることができます。神は私を用いて賜物を分け与えてくださり、私をすばらしく祝福してくださいました。私が手を置くと、多くの人がバプテスマを受けました。あなたがたは、これまでになかった勇気をもって出て行きます。私たちは物笑いの種になりたくはありません。主より先に走ったり、遅れたりしたくはありません。御霊の深みに入りましょう。そうすれば、今朝、力が私たちに臨みます」
+七月十七日、エター姉妹は牧師とクリスチャンの働き人に話をする前に、短い前置きを述べた。姉妹は、説教の資格を与えて彼らを送り出すのではないと言った。しかし、そこにいる多くの人のうちに眠っている賜物があると、確かに信じていた。そして、兄弟たちの賜物を燃えたたせることが、自分の使命の一部だと考えていた。姉妹はこう言った。「私には、あなたがたを送り出す権威はありません。私の祈りは、神があなたがたに権威を与えてくださることです。千マイル離れていても、私たちは同じ思いを抱き、同じ御霊のうちにいることができます。神は賜物を分け与えることによって、私をすばらしく祝福してくださいました。私が手を置くと、多くの人がバプテスマを受けました。あなたがたは、これまでになかった勇気をもって出て行きます。私たちは物笑いの種になりたくはありません。主より先に走ったり、遅れたりしたくはありません。御霊の深みに入りましょう。そうすれば、今朝、力が私たちに臨みます」
 // 英文では authority." で引用符が閉じているが、最後の this morning." まで姉妹の言葉とみなした。
 
 Brother Argue spoke of the fresh anointing that had come to many at the Los Angeles Camp-meeting through a similar service, and also emphasized the fact that these ministers who were about to be prayed for by the laying on of hands were not being sent out by Sister Etter or to claim any authority from her or the Stone Church, but that they might go away from this service with more power, a new courage and a stronger faith. He spoke of the great need of wisdom; that some had not exercised wisdom, and had gone out claiming authority from certain missions, because hands had been laid on them at that place.
@@ -128,16 +128,16 @@ Every one was committed to God and made to feel his responsibility to God. Many 
 『そしてこの御国の福音は、すべての民に対してあかしをするために、全世界に宣べ伝えられるであろう。そしてそれから最後が来るのである』（マタイ二四・一四）。
 
 "The Holy Ghost said, separate me, Barnabas and Saul, for the work where unto I have called them." They had been called and were working, but now they were to be set apart in a special way. The Holy Ghost has to call you, and qualify you.
-『聖霊が「さあ、バルナバとサウロとを、わたしのために聖別して、彼らに授けておいた仕事に当らせなさい」と告げた』（使徒一三・二）。彼らはすでに召されて働いていたが、今や特別なしかたで聖別されることになった。聖霊があなたがたを召し、資格を与えてくださらなければならない。
+『聖霊が「さあ、バルナバとサウロとを、わたしのために聖別して、彼らに授けておいた仕事に当らせなさい」と告げた』（使徒一三・二）。彼らはすでに召されて働いていたが、今や特別なしかたで聖別されることになった。聖霊があなたがたを召され、資格を与えてくださらなければならない。
 
 Jesus Christ has to send you forth.
 イエス・キリストが、あなたがたを送り出してくださらなければならない。
 
 "And when they had fasted and prayed, and laid their hands on them, they sent them away. So they being sent forth by the Holy Ghost, departed." Has God sent you? The Holy Ghost has to qualify you. Our laying on of hands would do no good unless the Holy Ghost comes in to work mightily. The Holy Ghost said, "Separate." These men had been called and chosen; chosen for the special work to which they had already been called.
-『そこで一同は、断食と祈とをして、手をふたりの上においた後、出発させた。ふたりは聖霊に送り出されて』出て行った（使徒一三・三〜四）。神はあなたがたを送り出されたか。聖霊が資格を与えてくださらなければならない。聖霊が入って来て力強く働いてくださらなければ、私たちが手を置いても何の益もない。聖霊は『聖別して』（使徒一三・二）と言われた。この人々は召され、選ばれていた。すでに召されていた特別な働きのために、選ばれていたのである。
+『そこで一同は、断食と祈とをして、手をふたりの上においた後、出発させた。ふたりは聖霊に送り出されて』出て行った（使徒一三・三〜四）。神はあなたがたを送り出されたか。聖霊が資格を与えてくださらなければならない。聖霊が来られて力強く働いてくださらなければ、私たちが手を置いても何の益もない。聖霊は『聖別して』と言われた（使徒一三・二）。この人々は召され、選ばれていた。すでに召されていた特別な働きのために、選ばれていたのである。
 
 Now in the tenth chapter of Luke we read that the Lord appointed the seventy and sent them forth two and two before His face. He said, "Behold, I send you forth as lambs"--let us remain lambs, and not become wolves to bite and snatch and tear and antagonize everybody. "Behold, I send you forth as lambs among wolves'--but remember the wolves won't devour you. "Carry neither purse nor scrip." Don't be overanxious about anything.
-さて、ルカによる福音書の第十章には、主が七十人を選び、ふたりずつ先におつかわしになったことが書かれている。主は言われた。「見よ、わたしはあなたがたを小羊としてつかわす」（ルカ一〇・三）。小羊のままでいようではないか。おおかみになって、だれにでもかみつき、ひったくり、引き裂き、敵対してはならない。『わたしがあなたがたをつかわすのは、小羊をおおかみの中に送るようなものである』（ルカ一〇・三）。しかし、おおかみはあなたがたを食い尽くさないことを覚えておきなさい。「財布も袋も持って行くな」（ルカ一〇・四）。何事にも、思い煩いすぎてはならない。
+さて、ルカによる福音書の第十章には、主が七十人を選ばれ、ふたりずつ先におつかわしになったことが書かれている。主は言われた。「見よ、わたしはあなたがたを小羊としてつかわす」（ルカ一〇・三）。小羊のままでいようではないか。おおかみになって、だれにでもかみつき、ひったくり、引き裂き、敵対してはならない。『わたしがあなたがたをつかわすのは、小羊をおおかみの中に送るようなものである』（ルカ一〇・三）。しかし、おおかみはあなたがたを食い尽くさないことを覚えておきなさい。『財布も袋も持って行くな』（ルカ一〇・四）。何事にも、思い煩いすぎてはならない。
 // 英文の seventy に合わせて「七十人」とした（口語訳は「七十二人」）。英文の wolves' は、閉じの引用符が ' になっている。
 
 Verse 19: "Behold, I give you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you."
@@ -148,4 +148,4 @@ Then He tell them not to rejoice because they had power over the spirits but rat
 // 英文の tell は tells の誤り。
 
 If a hundred thousand were healed through my prayers a day I could not pin my salvation to that. We are not saved by works, but through faith in Jesus, through living, constant faith and prayer. We are kept by the power of God. The works are thrown in and there will be a great reward for them; our crown will be the brighter.
-私の祈りによって一日に十万人がいやされたとしても、私は自分の救いをそれにかけることはできない。私たちは行いによって救われるのではない。イエスを信じる信仰によって、生きた絶えざる信仰と祈りによって救われるのである。私たちは神の力によって守られている。行いはそれに添えて与えられるもので、それには大きな報いがある。私たちの冠は、いっそう輝くのである。
+私の祈りによって一日に十万人がいやされたとしても、私は自分の救いをそれにかけることはできない。私たちは行いによって救われるのではない。イエスを信じる信仰によって、生きた絶えざる信仰と祈りによって救われるのである。私たちは神の力によって守られている。行いは救いに添えて加えられるもので、それには大きな報いがある。私たちの冠は、いっそう輝くのである。
