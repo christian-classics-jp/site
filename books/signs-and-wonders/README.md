@@ -29,7 +29,7 @@
 + [x] Chapter XXI. "Multitudes, Multitudes in the Valley of Decision" (Joel) / Chapter XXII. A Mighty Work at St. Louis, Mo.
 + [x] Chapter XXIII. Permanent Results
 + [x] Chapter XXIV. The Gospel the Power of God / Chapter XXV. At Carroll, Iowa / Chapter XXVI. At Muscatine, Iowa
-+ [ ] Chapter XXVII. Meetings at Moline, Illinois / Chapter XXVIII. World's Fair Time
++ [x] Chapter XXVII. Meetings at Moline, Illinois / Chapter XXVIII. World's Fair Time
 + [ ] Chapter XXIX. Manifestations of the Spirit
 + [ ] Chapter XXX. Signs and Wonders at Dallas, Texas (1)
 + [ ] Chapter XXX. Signs and Wonders at Dallas, Texas (2)
