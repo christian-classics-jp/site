@@ -52,7 +52,7 @@
 + [x] Chapter XLII. Woodworth-Etter Meeting at Montwait, Mass., August, 1913 (2)
 + [x] Chapter XLIII. At Hot Springs, Ark. / Chapter XLIV. Woodworth-Etter Meetings at Memphis, Tenn. / Chapter XLV. Missions at Meridian, Miss., and Warrior, Ala.
 + [x] Chapter XLVI. Great Revival at Atlanta, Ga. (1)
-+ [ ] Chapter XLVI. Great Revival at Atlanta, Ga. (2)
++ [x] Chapter XLVI. Great Revival at Atlanta, Ga. (2)
 + [ ] Chapter XLVII. A Few Days at London, Ky.
 + [ ] Chapter XLVIII. Camp Meeting at Petoskey, Mich. (1)
 + [ ] Chapter XLVIII. Camp Meeting at Petoskey, Mich. (2)
