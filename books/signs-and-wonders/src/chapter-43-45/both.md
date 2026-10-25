@@ -3,7 +3,7 @@ CHAPTER XLIII
 AT HOT SPRINGS, ARK.
 
 God was with us in power to save and heal. Many ministers and workers were present from many States. The word was spoken with power and great was the multitude that gathered up and carried the baskets full to give out to hungry souls. Many miracles of healings were performed.
-神は力をもって私たちと共にいて、救い、いやしてくださった。多くの州から、多くの牧師と働き人が来ていた。みことばは力をもって語られた。大勢の群衆がそれを拾い集め、満ちたかごを運んで、飢えたたましいに配った。多くのいやしの奇跡が行われた。
+神は力をもって私たちと共におられ、救い、いやしてくださった。多くの州から、多くの牧師と働き人が来ていた。みことばは力をもって語られた。大勢の群衆がそれを拾い集め、満ちたかごを運んで、飢えた魂に配った。多くのいやしの奇跡が行われた。
 
 One, a girl that was hopelessly blind was saved and got instantly healed. When we laid hands on her and prayed for her sight, it was perfectly restored. Her mother was taken there, a hopeless cripple with many diseases, nearly insane. She thought that she had committed the unpardonable sin. She was saved, healed, made perfectly whole, and received the baptism of the Holy Ghost. She then went from Arkansas to California, telling all along the way what God had done for her. After two years, I met them again in San Francisco, Cal., both full of the Spirit, and always ready to tell the large audiences how wonderfully God had healed them. The young sister that received her sight had the loveliest pair of blue eyes you ever saw; large, long lashes, very high. It surely was a great miracle.
 // very high は意味がはっきりしない。目が大きく見開かれていると読んだ。
@@ -22,12 +22,12 @@ MRS. WOODWORTH-ETTER.
 HOT SPRINGS, ARK.
 
 (From "Word and Work.")
-（『ワード・アンド・ワーク』誌から）
+（『ワード・アンド・ワーク』誌から転載）
 
 The good work goes on, praise God! One night a man, blind for 25 years, was healed. He had been pronounced incurable by specialists. God sent him here from Des Moines, Iowa, which was 1,200 miles, to receive his sight. Others are being healed.
 よい働きは続いている。神をほめたたえよ！　ある夜、二十五年間目の見えなかった男がいやされた。彼は専門医たちに、治らないと宣告されていた。神は彼を、千二百マイル離れたアイオワ州デモインから、視力を受けさせるためにここへお遣わしになった。ほかにもいやされている人々がいる。
 
-## 神は御手を伸ばしていやされる
+## 神はいやすために御手を伸ばされる
 GOD STRETCHING HIS HAND TO HEAL
 
 ## オッパーマン兄弟の報告
@@ -37,10 +37,10 @@ Hot Springs, Ark.
 アーカンソー州ホットスプリングス
 
 In the providence of God, our beloved sister, Mrs. M. B. Woodworth-Etter, and Bros. Earl W. Clark and C. B. Fockler have come to Hot Springs, Ark. The meeting is being conducted in the Auditorium in Whittington Park, a very beautiful place, and a blessed revival is spreading throughout the city. More than one hundred campers came from the Malvern Camp to attend this meeting. Visitors have come from almost every State in the South and some from the Northern States. Most of them have come to be healed. In the first night of the meeting, the first two that were prayed for fell under the power immediately after prayer, and the next day testified that God had healed them. Many have since been greatly blessed of the Lord and testify to healing.
-神の摂理によって、私たちの愛する姉妹がアーカンソー州ホットスプリングスに来た。M・B・ウッドワース・エター夫人と、アール・W・クラーク兄弟、C・B・フォックラー兄弟である。集会は、たいへん美しい場所であるホイッティントン公園の公会堂で開かれている。祝福されたリバイバルが町じゅうに広がっている。この集会に出るために、百人を超える人々がマルヴァーンの野営地から来た。南部のほとんどすべての州から、また北部のいくつかの州からも訪れる人がいる。その大部分は、いやされるために来た。集会の最初の夜、最初に祈ってもらったふたりが、祈りの直後に力に打たれて倒れた。そして翌日、神にいやしていただいたと証しをした。それ以来、多くの人が主に大いに祝福され、いやしを証ししている。
+神の摂理によって、三人がアーカンソー州ホットスプリングスに来た。私たちの愛する姉妹M・B・ウッドワース・エター夫人と、アール・W・クラーク兄弟、C・B・フォックラー兄弟である。集会は、たいへん美しい場所であるホイッティントン公園の公会堂で開かれている。祝福されたリバイバルが町じゅうに広がっている。この集会に出るために、マルヴァーンの野営集会から百人を超える人々が来た。南部のほとんどすべての州から、また北部のいくつかの州からも訪れる人がいる。その大部分は、いやされるために来た。集会の最初の夜、最初に祈ってもらったふたりが、祈りの直後に力に打たれて倒れた。そして翌日、神にいやしていただいたと証しをした。それ以来、多くの人が主に大いに祝福され、いやされたと証しをしている。
 
 One woman, 67 years old, was instantly healed of deafness of 35 years standing. She could hear even a low toned conversation. (The writer was standing by her side when prayed for and witnessed the deliverance with his own eyes.)
-六十七歳のある婦人は、三十五年来の耳の聞こえないのを、たちまちいやされた。彼女は低い声の会話さえ聞き取ることができた。（筆者は、彼女が祈ってもらったときそのそばに立っていて、解き放たれるのを自分の目で見た）
+六十七歳のある婦人は、三十五年来、耳が聞こえなかったが、たちまちいやされた。彼女は低い声の会話さえ聞き取ることができた。（筆者は、彼女が祈ってもらったときそのそばに立っていて、解き放たれるのを自分の目で見た）
 
 （ここには、ルース・ウェブスター夫人とミニー・マクハーグ夫人の証しが載っているが、書き手の没年が確かめられないため訳していない）
 // ここから「He also gave me my voice."」までは、オッパーマンの報告に引かれた Ruth Webster と Minnie McHargue の証し。WebSearch（standard 2 回、extended 1 回）で没年が見つからなかったので訳さない。
@@ -82,12 +82,12 @@ Hot Springs, Ark.
 ## 『わたしは主であって、あなたをいやすものである』（出エジプト一五・二六）
 "I AM THE LORD THAT HEALETH THEE"
 
-## アーカンソー州ホットスプリングスでの最近のリバイバルで、主に奇跡的にいやされたふたりの女性の証し
+## アーカンソー州ホットスプリングスでの最近のリバイバルで、主に奇跡的にいやされたふたりの婦人の証し
 THE TESTIMONIES OF TWO WOMEN WHO WERE MIRACULOUSLY
 
 HEALED OF THE LORD IN THE RECENT REVIVAL AT HOT SPRINGS, ARK.
 
-（ここには、アール・W・クラークが同誌に寄せた、ふたりの婦人の証しが載っているが、書き手の没年が確かめられないため訳していない）
+（ここには、アール・W・クラークが『クリスチャン・エバンジェル』誌に寄せた、ふたりの婦人の証しが載っているが、書き手の没年が確かめられないため訳していない）
 // ここから「These testimonies especially reported for "The Christian Evangel" by Earl W. Clark.」までは、Earl W. Clark の報告と、Mrs. Preston Roberts、Mrs. Barnett の証し。Earl W. Clark は没年が確かめられない（第四十二章（その一）を参照）ので訳さない。二人の証人も没年が確かめられない。
 (Copied from "The Christian Evangel.")
 
@@ -150,7 +150,7 @@ Come down from your self-pleasing life,
 Its ambitions, follies and its cares,
 その野心と愚かさと煩いから<br/>
 For what price would you barter your soul
-どんな値で、たましいを売り渡し<br/>
+どんな値で、魂を売り渡し<br/>
 And be outside the City up there!
 天の都の外に締め出されようというのか！<br/>
 
@@ -207,7 +207,7 @@ God has been mightily in our midst during the past week, showing Himself mighty 
 この一週間、神は力強く私たちのただ中におられ、罪と病から救い出す力ある方であることを示してくださった。また、聖霊のバプテスマを授けてくださった。群衆が押し寄せている。病人や足の不自由な人々が連れて来られ、イエスの名によっていやされている。日曜日の朝、ひとりの婦人がほかの州から、ふたりの人に運ばれて連れて来られた。壇にたどり着く前に力が彼女の上に下り、彼女は跳びはねて神をほめたたえはじめた。いやされ、喜びに満ちていた。
 
 Many handkerchiefs* have been prayed over and sent out, and reports are coming in that the ones they were sent to were healed. Many are here from a distance, and others write they are coming.
-多くのハンカチ＊のために祈り、それを送り出した。送った先の人々がいやされたという知らせが届いている。遠くから多くの人がここに来ており、来るつもりだと書いてくる人々もいる。
+多くのハンカチ＊の上で祈り、それを送り出した。送った先の人々がいやされたという知らせが届いている。遠くから多くの人がここに来ており、来るつもりだと書いてくる人々もいる。
 
 ## エター夫人と働き人たちは今テネシー州メンフィスに
 MRS. ETTER AND WORKERS NOW AT MEMPHIS, TENN.
@@ -216,10 +216,11 @@ MRS. ETTER AND WORKERS NOW AT MEMPHIS, TENN.
 （『クリスチャン・エバンジェル』誌から転載）
 
 "Praise God, from whom all blessings flow." Surely the Lord is good. We trust the readers of The Christian Evangel will pray much for us and that the Lord will guide us. We started on our Southern tour, expecting to spend from fifteen to thirty days in a place. We came here last Friday and opened our meeting Sunday, November 29. The attendance was good, and such a lovely spirit in the meetings. The meeting opened with such gracious healings. Sister Etter has great liberty in preaching, and as she laid hands on them, nearly every one jumped and leaped and praised the Lord for their healing. All the saints were helping with uplifted hands, praying and believing for victory, which was very marked. Some were saved, and others baptized.
-「すべての祝福の源なる神をほめたたえよ」。確かに主はいつくしみ深い。『クリスチャン・エバンジェル』誌の読者のみなさんが、私たちのために大いに祈ってくださるものと信じている。主が私たちを導いてくださるよう祈っていただきたい。私たちは南部への伝道旅行に出かけた。一つの所に十五日から三十日とどまるつもりである。先週の金曜日にここに着き、十一月二十九日の日曜日に集会を始めた。出席者は多く、集会にはとても麗しい霊があった。集会は、恵み深いいやしをもって始まった。エター姉妹は、大いに自由に説教している。姉妹が手を置くと、ほとんどだれもが跳び上がって躍り上がり、いやされたことを主に感謝してほめたたえた。聖徒たちはみな、手を上げて助けていた。勝利を祈り、信じていたのである。勝利ははっきりと現れた。救われた人もいれば、バプテスマを受けた人もいた。
+// 英文の Sunday, November 29 の日付は、一九一三年では土曜日にあたる。前後の記事から日曜日は十一月三十日と見られるが、英文どおりにした。
+「すべての祝福の源なる神をほめたたえよ」。確かに主は恵み深い。『クリスチャン・エバンジェル』誌の読者のみなさんが、私たちのために大いに祈ってくださるものと信じている。また、主が私たちを導いてくださると信じている。私たちは南部への伝道旅行に出かけた。一つの所に十五日から三十日とどまるつもりである。先週の金曜日にここに着き、十一月二十九日の日曜日に集会を始めた。出席者は多く、集会にはとても麗しい霊があった。集会は、恵み深いいやしをもって始まった。エター姉妹は、大いに自由に説教している。姉妹が手を置くと、ほとんどだれもが跳び上がって躍り上がり、いやされたことのゆえに主をほめたたえた。聖徒たちはみな、手を上げて助けていた。勝利を祈り、信じていたのである。勝利ははっきりと現れた。救われた人もいれば、バプテスマを受けた人もいた。
 
 The saints of the community, who were much divided, came together. Every difference was laid at Jesus' feet. All made a new start, determined to see and know nothing but Christ and the resurrection. They were all built up in the Holy Faith. The result was a wonderful outpouring of the Spirit.
-その地域の聖徒たちは、ひどく分かれていたが、一つに集まった。あらゆる違いが、イエスの足もとに置かれた。みなが新しく出発し、キリストと復活のほかは何も見ず、何も知るまいと心に決めた。彼らはみな、聖なる信仰の上に築き上げられた。その結果、御霊のすばらしい注ぎがあった。
+その地域の聖徒たちは、ひどく分かれていたが、一つに集まった。あらゆる違いが、イエスの足もとに置かれた。みなが新しく出発し、キリストと復活のほかは何も見ず、何も知るまいと心に決めた。彼らはみな、最も神聖な信仰の上に築き上げられた。その結果、御霊のすばらしい注ぎがあった。
 
 （ここには、＊の箇所に付けた編者A・E・シドフォードの注が載っているが、書き手の没年が確かめられないため訳していない）
 // ここから注の終わりの「(A. E. S.)」までは編者 A. E. Sidford の注。没年が確かめられないので訳さない。
@@ -240,7 +241,7 @@ Beginning New Year's night, at the gospel tent on Sixth avenue, East End car lin
 集会は元日の夜に、六番街の伝道用の天幕で始まった。路面電車のイーストエンド線の沿線である。毎日、午後二時と午後七時半に集いが開かれている。最初の集いから、集会は大成功を収めている。集会の中心人物は、インディアナ州インディアナポリスのM・B・ウッドワース・エター夫人である。夫人には三十五年の伝道の経験がある。何千人もの人が、夫人の働きを通して主からいやしを受けたと伝えられている。この集会でも、すでに十五人か二十人ほどが、いやされたと証しをした。病は、神経痛からブライト病や癌にまで及ぶ。天幕は毎晩、礼儀正しく熱心な聴衆でいっぱいになる。町の人々のほか、三百マイル以内の遠くからも来ている。
 
 Among the number of persons prayed for, with the laying on of hands, was a daughter of a prominent physician and surgeon from northwest Alabama. She was unable to walk on account of a stiffened knee, from rheumatism, after medical skill had been exhausted, her father testifying to her condition. Mrs. Etter is one of the most level headed, matter of fact, discreet and courageous women. Nothing is said or done by her which reflects unfavorably on other denominations or upon the physicians.
-手を置かれて祈ってもらった人々の中に、アラバマ州北西部の著名な内科・外科医の娘がいた。彼女はリウマチのためにひざがこわばって、歩くことができなかった。医術はすでに尽くされていた。父親が娘の状態について証言した。エター夫人は、最も分別があり、実際的で、慎重で、勇気のある女性の一人である。ほかの教派や医者について悪く思わせるようなことを、夫人は何一つ言いもせず、しもしない。
+手を置かれて祈ってもらった人々の中に、アラバマ州北西部の著名な内科・外科医の娘がいた。彼女はリウマチのためにひざがこわばって、歩くことができなかった。医術はすでに尽くされていた。父親が娘の状態について証言した。エター夫人は、最も分別があり、実際的で、慎重で、勇気のある女性の一人である。夫人は、ほかの教派や医者を悪く思わせるようなことは、何一つ言わず、何一つしない。
 
 ## 席に座ったまま多くの人がいやされる
 NUMBERS HEALED WHILE SITTING IN THEIR SEATS
@@ -252,10 +253,10 @@ MRS. M. B. WOODWORTH-ETTER AND WORKERS
 % M・B・ウッドワース・エター夫人と働き人たち
 
 (From "Christian Evangel," Jan. 17, 1914.)
-（『クリスチャン・エバンジェル』誌、一九一四年一月十七日号から）
+（『クリスチャン・エバンジェル』誌、一九一四年一月十七日号から転載）
 
 Truly the Lord is good and his mercy endureth forever. He is blessing us here in a marvelous way. While we are just beginning the meeting, yet the power of God is so manifest that numbers have been healed while sitting in their seats. The power of God is also falling on the people, and sinners are being saved in their homes.
-まことに主はいつくしみ深く、そのいつくしみはとこしえに絶えることがない。主はここで、驚くべきしかたで私たちを祝福しておられる。集会は始まったばかりだが、神の力があまりにはっきりと現れているので、席に座ったままいやされた人が大勢いる。神の力は人々の上にも下っており、罪人たちが自分の家で救われている。
+まことに主は恵み深く、そのいつくしみはとこしえに絶えることがない。主はここで、驚くべきしかたで私たちを祝福しておられる。集会は始まったばかりだが、神の力があまりにはっきりと現れているので、席に座ったままいやされた人が大勢いる。神の力は人々の上にも下っており、罪人たちが自分の家で救われている。
 
 Last Tuesday, a prominent physician from Alabama brought his daughter for healing. He is a doctor and surgeon and has taken his daughter to the best physicians in the country. She has been operated upon eight times. She has taken fifteen different anesthetics, and has suffered the loss of one limb. Her remaining limb was all crooked with rheumatism. When prayed for, almost immediately the crooked limb straightened out, she raised her eyes to heaven, and with tears in her eyes, began shouting, "I am healed! It is straight! It is straight!' Nearly every one in the tent was in tears, and there was a good crowd for an-afternoon meeting. The doctor was so pleased and testified; he wanted all the Lord had for him. At the night service he was down at the altar, seeking his baptism.
 // 英文の It is straight!' は、閉じの引用符が ' になっている。an-afternoon のハイフンは余分な記号。
@@ -266,9 +267,9 @@ I want to thank those who are making it possible for us to send Sister Etter's B
 
 I am certain it will be a wonderful way to reach the heathen, through Divine Healing; so continue to pray that the Lord will send us money to send the book out till every foreign missionary shall have received a copy. I remain in Him, your brother,
 // 署名の名前がない。Earl W. Clark の手紙かもしれないが、本では署名がないので既定どおり訳した。
-神のいやしを通して異教の人々に届くのは、すばらしい方法になると私は確信している。だから、引き続き祈っていただきたい。外国にいるすべての宣教師が一冊ずつ受け取るまで、本を送り出すためのお金を主が送ってくださるように。主にあって、あなたがたの兄弟より
+これは、神のいやしを通して異教の人々に届く、すばらしい方法になると私は確信している。だから、引き続き祈っていただきたい。外国にいるすべての宣教師が一冊ずつ受け取るまで、本を送り出すためのお金を主が送ってくださるように。主にあって、あなたがたの兄弟より
 
-## メリディアンでかつて開かれた最高の集会
+## ミシシッピ州メリディアンでかつて開かれた最高の集会
 THE BEST MEETING EVER HELD IN MERIDIAN, MISS.
 
 (Copied from "The Christian Evangel," Jan. 31, 1914)
@@ -355,7 +356,7 @@ Miss Olga Carlson, 509 Twenty-third Ave., Meridian, Miss.; in writing to us abou
 THE MEETING AT WARRIOR, ALABAMA
 
 We closed the meeting at Meridian, Miss., with victory in our souls. The family where we stayed were a beautiful Christian family, and did all they could to entertain us, and carry their share of the burden. When the hour arrived for us to leave, a number of saints gathered at the station to bid us farewell; tears of joy and sorrow were mingled together, sorrow because of our departure and joy because the time was fast approaching when we should part no more, but could be with Jesus forever. As the train pulled out of the station to go to Alabama, to the right stood a freight train in which was an engineer who had been saved with nearly all of his household, and many of the family wonderfully healed.
-私たちは、たましいに勝利を抱いて、ミシシッピ州メリディアンの集会を閉じた。私たちが泊まった家の人々は、美しいクリスチャンの家族だった。できるかぎり私たちをもてなし、自分たちの分の重荷を負ってくれた。出発の時刻が来ると、何人もの聖徒たちが駅に集まって別れを告げてくれた。喜びの涙と悲しみの涙が入りまじった。悲しみは私たちが去るからだった。喜びは、もう別れることなく、とこしえにイエスと共にいられる時が急速に近づいているからだった。列車がアラバマへ向かって駅を出ると、右手に貨物列車が止まっていた。そこには、家族のほとんどと共に救われた機関士が乗っていた。家族の多くは、すばらしくいやされていた。
+私たちは、魂に勝利を抱いて、ミシシッピ州メリディアンの集会を閉じた。私たちが泊まった家の人々は、美しいクリスチャンの家族だった。できるかぎり私たちをもてなし、自分たちの分の重荷を負ってくれた。出発の時刻が来ると、何人もの聖徒たちが駅に集まって別れを告げてくれた。喜びの涙と悲しみの涙が入りまじった。悲しみは私たちが去るからだった。喜びは、もう別れることなく、とこしえにイエスと共にいられるときが急速に近づいているからだった。列車がアラバマへ向かって駅を出ると、右手に貨物列車が止まっていた。そこには、家族のほとんどと共に救われた機関士が乗っていた。家族の多くは、すばらしくいやされていた。
 
 At Birmingham, we enjoyed a much-needed rest with our relatives. When the saints of the city learned we were in their midst, they longed for us to come out to their various assemblies, to hold meetings for them. One young man followed us all the way from Florida, to see and to speak to us and be in our meetings. Among the outside calls we received while in Birmingham to hold meetings in various communities, was one from Warrior, Alabama, a little place about fifteen or twenty miles out of the city. The saints there sent a delegation, begging us to come out to their place, and to hold at least a few meetings. They were a good, eager-looking band of saints, and we felt that the Lord's hand was in it, and therefore it was our duty to go and hold a few meetings.
 バーミンガムでは、親類のもとで、必要だった休みを楽しんだ。町の聖徒たちは、私たちが来ていると知ると、自分たちのさまざまな集まりに来て集会を開いてほしいと切に願った。ひとりの若い男は、フロリダからずっと私たちを追って来た。私たちに会って話し、集会に出るためである。バーミンガムにいるあいだに、各地で集会を開いてほしいという招きがほかからもあった。その一つが、町から十五マイルか二十マイルほど離れた小さな町、アラバマ州ウォリアーからの招きだった。そこの聖徒たちは代表をよこし、自分たちの所に来て、せめて何回かは集会を開いてほしいと懇願した。彼らは熱心そうな、よい聖徒の一団だった。私たちは、そこに主の御手があると感じた。だから、行って何回か集会を開くのが私たちの務めだと思った。
