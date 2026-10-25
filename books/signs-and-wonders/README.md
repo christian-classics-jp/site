@@ -66,7 +66,7 @@
 + [x] Chapter LVII. Convention at Los Angeles, Cal. (1)
 + [x] Chapter LVII. Convention at Los Angeles, Cal. (2)
 + [x] Chapter LVIII. Trying but Blessed Times at San Diego, Calif.
-+ [ ] Chapter LIX. The Battle at San Francisco, 1916
++ [x] Chapter LIX. The Battle at San Francisco, 1916
 + [ ] Chapter LX. The Signs and Wonders at Houston, Texas, March, 1916.
 + [ ] Chapter LXI. "Try the Spirits"
 + [ ] Chapter LXII. Work of the Holy Ghost / Chapter LXIII. James' Commission to the Church to Prav for the Sick
