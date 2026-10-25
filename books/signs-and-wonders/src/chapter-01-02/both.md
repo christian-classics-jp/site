@@ -341,10 +341,8 @@ At one time I was praying for the salvation of sinners, and the Savior appeared 
 あるとき、罪人の救いのために祈っていると、救い主が十字架にかかった姿で私のそばにお現れになり、私と語られた。私は主の傷ついた体に手を置き、ほほえんでおられる御顔を見上げた。
 Another time I was meditating upon the love of God in giving his only Son to die for sinners, and of the beautiful home he was preparing for those who love him, and I seemed to float away, and was set down in the Beautiful City.
 またあるときは、神の愛について思いめぐらしていた。罪人のために死なせようと、ひとり子をお与えになった愛である。神を愛する者のために神が用意しておられる美しい家についても、思いめぐらしていた。すると私は漂うように運ばれ、美しい都に降ろされたようだった。
-Oh, the glorious sight that met my view can never be expressed by mortal tongue!
-ああ、そこで目にした栄光の光景は、死ぬべき人間の舌では決して言い表せない！
-Heaven is located.
-天国は、実在する場所である。
+Oh, the glorious sight that met my view can never be expressed by mortal tongue! Heaven is located.
+ああ、そこで目にした栄光の光景は、死ぬべき人間の舌では決して言い表せない！　天国は、実在する場所である。
 It is a real city.
 本物の都である。
 Its inhabitants are real, and not imaginary.
@@ -365,10 +363,8 @@ Often now when I am pleading with sinners to come to Jesus, and telling them of 
 今も、罪人にイエスのもとに来るよう嘆願しているとき、よくこういうことがある。神の愛、天国の美しい家、輝くすまい、衣と冠、小羊の血で洗われた大群衆のことを語っていると、おおいが取り除かれたようになる。そして私は、キリストの愛と栄光の中に我を忘れてしまう。
 I feel as though the congregation was left behind, and I was floating upward in a cloud of glory.
 会衆をあとに残して、栄光の雲の中を、上へ上へと漂っていくように感じるのである。
-Oh, the wonderful love of God!
-ああ、神のすばらしい愛よ！
-The half has never been told.
-その半分も知らされていない。
+Oh, the wonderful love of God! The half has never been told.
+ああ、神のすばらしい愛よ！　その半分も知らされていない。
 It never can be told.
 決して語り尽くすことはできない。
 It will take all eternity to tell of the redeeming love, in the wonderful plan of redemption to a dying world.
@@ -537,10 +533,8 @@ It seemed that heaven came down.
 天が下ってきたようだった。
 I was baptized with the Holy Ghost, and fire, and power which has never left me.
 私は聖霊と火と力によって、バプテスマを受けた。その力は、それ以来一度も私を離れたことがない。
-Oh, Praise the Lord!
-ああ、主をほめたたえよ！
-There was liquid fire, and the angels were all around in the fire and glory.
-液体のような火があり、御使たちが火と栄光の中で、あたりを取り巻いていた。
+Oh, Praise the Lord! There was liquid fire, and the angels were all around in the fire and glory.
+ああ、主をほめたたえよ！　液体のような火があり、御使たちが火と栄光の中で、あたりを取り巻いていた。
 It is through the Lord Jesus Christ, and by this power that I have stood before hundreds of thousands of men and women, proclaiming the unsearchable riches of Christ.
 私が何十万もの男女の前に立ち、キリストの無尽蔵の富を宣べ伝えてきたのは、主イエス・キリストを通して、この力によってである。
 

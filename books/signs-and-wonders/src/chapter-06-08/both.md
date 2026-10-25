@@ -40,10 +40,8 @@ I received twelve into the church.
 私は十二人を教会に迎え入れた。
 He was among the first to give me his hand, and he was one of my best friends.
 彼は真っ先に私に手を差し出したひとりで、私の最もよい友のひとりになった。
-Praise God!
-神をほめたたえよ！
-Those who are prejudiced or ready to fight me when I go to a new place of battle are always the first taken into the gospel net, and to invite me home with them.
-私が新しい戦いの場に行くと、偏見を持っている人や、私と戦おうと構えている人が、いつも真っ先に福音の網にかかる。そして真っ先に、私を自分の家に招いてくれるのである。
+Praise God! Those who are prejudiced or ready to fight me when I go to a new place of battle are always the first taken into the gospel net, and to invite me home with them.
+神をほめたたえよ！　私が新しい戦いの場に行くと、偏見を持っている人や、私と戦おうと構えている人が、いつも真っ先に福音の網にかかる。そして真っ先に、私を自分の家に招いてくれるのである。
 
 Many whole families were brought into the church.
 多くの家族が、家族ごと教会に迎え入れられた。
@@ -175,10 +173,8 @@ He received the blessing like a little child.
 He gave himself fully to Jesus, and looked up to heaven for the witness; and, bless the Lord, it came.
 彼はすっかりイエスに身をゆだね、天を仰いで御霊のあかしを求めた。主はほむべきかな、あかしは与えられた。
 
-God bless and keep the dear old father!
-神がこの愛する老人を祝福され、守ってくださるように！
-I expect to meet him in heaven and talk of God's wonderful mercy in saving him at the eleventh hour.
-私は天国で彼に会い、最後の時刻に彼を救ってくださった神の驚くべきあわれみについて語り合うのを楽しみにしている。
+God bless and keep the dear old father! I expect to meet him in heaven and talk of God's wonderful mercy in saving him at the eleventh hour.
+神がこの愛する老人を祝福され、守ってくださるように！　私は天国で彼に会い、最後の時刻に彼を救ってくださった神の驚くべきあわれみについて語り合うのを楽しみにしている。
 
 # 第七章　幻
 CHAPTER VII
@@ -243,10 +239,8 @@ As they carried them out, one after the other, without any signs of life, the pe
 生きているしるしもない人々が、ひとり、またひとりと運び出されていくのを見て、人々はおびえた。教会から逃げ出す者もいた。
 I had never seen the like.
 私もそのようなことは見たことがなかった。
-Oh, how my faith was strengthened!
-ああ、私の信仰はどれほど強められたことか！
-I felt God had sent this in answer to my prayer.
-神が私の祈りにお答えになって、これを送ってくださったのだと感じた。
+Oh, how my faith was strengthened! I felt God had sent this in answer to my prayer.
+ああ、私の信仰はどれほど強められたことか！　神が私の祈りにお答えになって、これを送ってくださったのだと感じた。
 
 One night I was pleading with sinners to accept the invitation to be present at the Marriage Supper of God's Only Begotten Son.
 ある夜、私は罪人たちに、神のひとり子の婚宴への招きを受け入れるよう嘆願していた。
@@ -278,10 +272,8 @@ Others said I mesmerized the people, and many were afraid to come to the church.
 私が人々に催眠術をかけたのだと言う人々もいて、多くの人が教会に来るのをこわがった。
 I told the congregation they need not stay away; we could pray for them at their homes, and God would answer our prayers and make them so sin-sick that they would be glad to come to church and beg for mercy.
 私は会衆に言った。来ないでいても同じことです。私たちはその人々のために、家にいるままでも祈ることができます。神は私たちの祈りにお答えになって、その人々を罪に病ませてくださいます。その人々は喜んで教会に来て、あわれみを請うようになるでしょう、と。
-Praise God!
-神をほめたたえよ！
-He was working in his own way.
-神はご自分の方法で働いておられた。
+Praise God! He was working in his own way.
+神をほめたたえよ！　神はご自分の方法で働いておられた。
 Conviction took hold of the people.
 罪の自覚が人々をとらえた。
 

@@ -149,10 +149,8 @@ Many ministers that we knew, and who had started out as ministers, and evangelis
 私たちの知っている多くの牧師が、私に会い、集会に加わるために、各地からやって来た。十年前、十五年前の私の集会から、牧師や伝道者として出て行った人々である。
 Amongst them many converts and workers, in all ways, in the Master's Vineyard.
 その中には多くの回心者や働き人もいて、主のぶどう園であらゆる働きをしていた。
-Oh! We had such love and fellowship!
-ああ！　私たちのあいだには、なんという愛と交わりがあったことだろう！
-The power and presence of the Lord was manifested in gifts, demonstrations, and operations and callings; with mighty works of the Holy Ghost.
-主の力と臨在が、賜物と、力の現れと、働きと、召しとに現れた。聖霊の力あるわざも伴っていた。
+Oh! We had such love and fellowship! The power and presence of the Lord was manifested in gifts, demonstrations, and operations and callings; with mighty works of the Holy Ghost.
+ああ！　私たちのあいだには、なんという愛と交わりがあったことだろう！　主の力と臨在が、賜物と、力の現れと、働きと、召しとに現れた。聖霊の力あるわざも伴っていた。
 
 One sister spoke in unknown tongues all night.
 ある姉妹は一晩じゅう異言を語った。
