@@ -72,6 +72,8 @@
 - 第六十章：著者の地の文、見出し、転載の一行、署名のない一文（ウィリアムソン夫人の家族）、署名のない「A LITTLE GIRL'S DREAM」の手紙は訳した。L. Lestarjette の証し（本人が七十六歳と書いている）と J. H. Cravey の証し（本人が七十七歳と書いている）は、一八四〇年以前の生まれと見て一九五七年以前の没と判断して訳した。訳していないのは、F. A. Hale 牧師の二つの報告（「(Abbreviated Report)」と集会の場所の行、署名「F. A. Hate.」を含む）、Wm. Morwood 牧師の報告（一九二六年にもヒューストンで牧師をしていた記録がある）、A. P. Dennis の手紙（前置きの一行を含む。見出しは訳した）、次の人々の証しと手紙：C. T. Wallis、Mrs. Martha Johnson、E. Bohannon、Mrs. Wm. Schafer、John Ward、Mrs. L. C. Nelson、Mrs. A. J. Fauss（ヒューストンのペンテコステ派の Fauss 家の人かもしれない）、Ole S. B. Olson、Mrs. Enoch Gordon、R. B. Frisbey。ヘイル、モーウッド、デニスは WebSearch（standard 2 回、extended 1 回）、ほかは standard 1 回で没年が見つからなかった。
 - 第六十一章：著者の説教と、歌「WHERE THE BLOOD CAN HEAL」（本に作者名はない。hymnary.org の作詞者「F. L. E.」は F. L. Eiland、一九〇九年没と見られる）を訳した。
 - 第六十二〜六十四章：著者の説教だけなので、すべて訳した。
+- 第六十五〜六十七章：著者の説教と、歌「OPEN THE PEARLY GATES」を訳した。歌は本に作者の名がなく、hymnary.org も作者を姓だけの「Miller」としている（一九一二年の歌集に載る）。WebSearch（standard 2 回、extended 1 回）でも名と没年がわからなかったので、名のない作品として訳した。第六十六章の最後の段落は全体が引用符に入っているが、会衆に手を挙げさせたと語る集会の指導者の言葉なので、著者自身の言葉と見て訳した。
+- 第六十八章：著者の説教と、歌「THE COMMUNINGS OF JESUS」を訳した。歌は本に作者の名がない。hymnary.org では、一八九九年の歌集に作者の名なしで、一九一一年の歌集に「Whisperings of Jesus」の題で頭文字だけの「D. K. W.」の作として載っている。名がわからないので、名のない作品として訳した。
 - ほかの書き手（編者 A. E. Sidford、August Feick、W. J. Mortlock など）と、証しを寄せた多くの人の没年は確かめていない。これらの文の扱いは決めていない。訳す前に確かめる。
 - のちの版（1922 年の『 Marvels and Miracles 』、現代の復刻版や編集版）で加わった序文、注、本文の書き換えは著作権が残りうる。訳にはそれらを使わず、参照もしない。
 
