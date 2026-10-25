@@ -35,14 +35,14 @@ The first, "Beat your plowshares into swords and your pruning hooks into spears"
 第一の『あなたがたのすきを、つるぎに、あなたがたのかまを、やりに打ちかえよ』（ヨエル三・一〇）は、「戦いの用意をせよ」という意味である。それは今のこの時、戦争の時のことを言っている。
 
 The second, "Beat your swords into plowshares and your spears into pruning hooks," "Get ready for a time of great farming."
-第二の「つるぎを打ちかえてすきとし、やりを打ちかえてかまとせよ」は、「大いに耕す時のために用意をせよ」という意味である。
+第二の「つるぎを打ちかえてすきとし、やりを打ちかえてかまとせよ」（ミカ四・三）は、「大いに耕す時のために用意をせよ」という意味である。
 // ミカ四・三 は命令の形ではないので、英文に合わせて言い換え「」にした。
 
 The one to prepare for the greatest battle the world has ever heard of; the other refers to the time when war shall be no more.
 一方は、世がかつて聞いたこともない最大の戦いに備えよということである。もう一方は、戦争がもはやなくなる時のことを言っている。
 
 The first text in this sermon, Prepare for War; Wake up the mighty men of war. Let the nations gather together for battle, refers to this time of the end that we are now living in, when the gentile time is full or closing.
-この説教の最初の聖句は、戦いの備えをなせ、勇士をふるい立たせよ、諸国民を戦いのために集めよと言う。それは、私たちが今生きているこの終わりの時のことを言っている。異邦人の時が満ちる、あるいは閉じようとしている時である。
+この説教の最初の聖句は、戦いの備えをなせ、勇士をふるい立たせよ、諸国民を戦いのために集めよと言う。それは、私たちが今生きているこの終わりの時のことを言っている。異邦人の時代が満ちる、あるいは閉じようとしている時である。
 
 You see the awful slaughter, massacre, deadly hatred, causing them to kill and destroy each other. God has risen up like a mighty man of war. He shall roar and shout out from Jerusalem till all nations are gathered in deadly combat, till the blood flows like a river.
 あなたがたは、恐ろしい殺戮と虐殺を見ている。死に至る憎しみが、人々に互いを殺させ、滅ぼさせているのを見ている。神は、力あるいくさ人のように立ち上がられた。神はエルサレムから大声で叫ばれ、呼ばわられる。それは、すべての国民が死闘のうちに集められ、血が川のように流れるまで続く。
@@ -51,11 +51,11 @@ In the text in Joel the call is primarily to the Holy Land, where the great batt
 ヨエル書の聖句では、その呼びかけはまず聖地に向けられている。そこで全能の神の大いなる戦いが戦われるのである。それは神の大いなる日の戦いである。そのとき御使は太陽の中に立って、空のすべての鳥に呼びかける。神の大宴会に来て、すべての勇者、世の大いなる者、富める者の肉を食べよ、と。鳥たちは招かれて、血を飲み、肉を食べ、世の王や君たちのしかばねで肥え太る。その王や君たちは、主の大いなる輝かしい日に、間もなく倒れるのである。
 
 The Lord shall awake and shout out as a man of war. He shall roar out of Zion, and shall utter His voice from Jerusalem. The heavens shall shake and the earth, when the nations are gathering for this great battle with the Lamb and His army from heaven.
-主は目をさまされ、いくさ人のように叫ばれる。主はシオンから大声で叫ばれ、エルサレムから声を出される。諸国民が、小羊と天からの小羊の軍勢とに対するこの大いなる戦いのために集まって来るとき、天も地もふるい動く。
+主は目をさまされ、いくさ人のように叫ばれる。主はシオンから大声で叫ばれ、エルサレムから声を出される。諸国民が、小羊と、天から来るその軍勢とに対するこの大いなる戦いのために集まって来るとき、天も地もふるい動く。
 
 John says, "I saw heaven opened, and beheld a white horse, and Him that sat upon him. His eyes were as a flame of fire. On His head were many crowns, and He was clothed in a vesture dipped in blood. And the armies which were in heaven followed Him on white horses, clothed in white linen, white and clean.
 ヨハネは言う。『わたしが見ていると、天が開かれ、見よ、そこに白い馬がいた。それに乗っているかたがおられた。その目は燃える炎であり、その頭には多くの冠があった。彼は血染めの衣をまとっていた。そして、天の軍勢が、純白で、汚れのない麻布の衣を着て、白い馬に乗り、彼に従った』（黙示録一九・一一〜一四）。
-// 英文には閉じの引用符がない。英文は一一節から一三節の一部だけを引くので、口語訳の文言をつなぎ合わせた。
+// 英文には閉じの引用符がない。英文は一一節から一四節のうち一部を抜き出して引くので、口語訳の文言をつなぎ合わせた。
 
 Oh, praise the Lord! the saints have been translated to heaven. The marriage of the Lamb and His Bride has taken place, with shouting and hallelujahs that have shaken all heaven and earth. The great Marriage Supper, with all its grandeur, and glory, and greatness is over. And they have been with the Lord executing judgments on the earth during the awful tribulation.
 ああ、主をほめたたえよ！　聖徒たちはすでに天に移されている。小羊とその花嫁との婚姻は、天と地をことごとく揺り動かした叫びとハレルヤのうちに行われた。壮麗と栄光と偉大さに満ちた大いなる婚宴は終わった。そして聖徒たちは、恐ろしい患難のあいだ、主と共に地上でさばきを行ってきたのである。
@@ -74,16 +74,16 @@ Did you ever hear of a great war breaking out so quickly. For years past the mos
 これほど急に大戦争が起こったのを、あなたがたは聞いたことがあるだろうか。この何年も、最も才能ある人々が、だれが最も恐ろしい武器を手に入れられるかを競って、発明を重ねてきた。
 
 God has been holding back the tidal waves and the other destructive forces. His angel has shouted back, "Wait till the servants of God are sealed with the seal of God."
-神は、津波やほかの破壊の力を押しとどめてこられた。神の御使は、それらに向かって叫び返した。「神の僕たちが神の印を押されるまで待て」（黙示録七・三）
+神は、津波やほかの破壊の力を押しとどめてこられた。神の御使は、それらを押しとどめて叫んだ。「神の僕たちが神の印を押されるまで待て」（黙示録七・三）。
 
 The division of the book of Joel into chapters is bad. The first verses of the third chapter are a continuation of the last verses of the second chapter and should not be divided from them.
 ヨエル書の章の分け方はよくない。第三章の初めの節は、第二章の終わりの節の続きであって、そこから切り離すべきではない。
 
 "In the last days I will pour out My Spirit." Baptize with the Holy Ghost, and scatter the power of the Holy People.
-『終りの時には、わたしの霊をすべての人に注ごう』（使徒二・一七）。それは、聖霊によってバプテスマを授け、聖なる民の力を散らすことである。
+『終りの時には、わたしの霊を注ごう』（使徒二・一七）。それは、神が聖霊によってバプテスマを授けられ、聖なる民の力を散らされることである。
 
 God says, I will rise up in My wrath in that day. When the judgments of God are in the earth some will repent. In the last days I will pour out My Spirit. God says, wake up the heathen.
-神は、その日わたしは怒りのうちに立ち上がる、と言われる。神のさばきが地に臨むとき、悔い改める者もいる。終わりの時には、わたしはわたしの霊を注ぐ。神は、異邦の民をふるい立たせよ、と言われる。
+神は、その日わたしは怒りのうちに立ち上がる、と言われる。神のさばきが地に臨むとき、悔い改める者もいる。終わりの時には、わたしの霊を注ごう。神は、異邦の民をふるい立たせよ、と言われる。
 
 God is sealing His saints, but that sealing time is pretty nearly over.
 神はご自分の聖徒たちに印を押しておられる。しかし、その印を押す時は、もうほとんど終わりかけている。
@@ -133,10 +133,10 @@ So that if you run away from the sword and pestilence, and try to hide in the ho
 だから、あなたがつるぎと疫病から逃げて家の中に隠れようとしても、壁に手をつけると、毒へびにかまれる。出る者にも入る者にも、安全はない。
 
 There will be awful, deadly hatred among the people, and they will be banded together hand in hand, and they will make weapons of steel with which to kill and destroy one another.
-人々のあいだには、恐ろしい、死に至る憎しみが生まれる。人々は手を組んで徒党を組み、互いに殺し滅ぼし合うための鋼鉄の武器を作る。
+人々のあいだには、恐ろしい、死に至る憎しみが生まれる。人々は手に手を取って徒党を組み、互いに殺し滅ぼし合うための鋼鉄の武器を作る。
 
 I read not long ago that the powers were crying out because of the scarcity of steel. Your neighbor will be hunting round for a piece of old steel to kill his neighbor with.
-つい先ごろ、列強が鋼鉄の不足に悲鳴を上げているという記事を読んだ。隣人が隣人を殺すために、古い鋼鉄のかけらを探し回るようになる。
+つい先ごろ、列強が鋼鉄の不足に悲鳴を上げているという記事を読んだ。あなたの隣人が、自分の隣人を殺すために、古い鋼鉄のかけらを探し回るようになる。
 
 In Europe now they are calling out young men and boys to fight and to be destroyed.
 ヨーロッパでは今、若者や少年を召集して戦わせ、滅ぼしている。
@@ -148,7 +148,7 @@ According to the Word of God, and the signs of the times, we are now living in t
 神のみことばと時のしるしによれば、私たちは今、この恐ろしい時代の初めに生きている。この文を読む人の多くは、私が書いたよりもはるかに多くのことを見るだろう。あなたとあなたの子供たちは、死に倒れるか、さもなければ、この恐ろしい患難の時を通ることになる。それは、かつてなかったし、これからも二度とないほどの患難である。
 
 Many of the best Bible students say that the eleventh chapter of Daniel refers to the Sultan, or ruling powers of Turkey.
-最もすぐれた聖書研究者の多くは、ダニエル書十一章はスルタン、すなわちトルコの支配者たちのことを言っていると言う。
+最もすぐれた聖書研究者の多くは、ダニエル書十一章はスルタン、すなわちトルコの支配者たちを指していると言う。
 
 "He shall plant the tabernacles of his palace between the seas in the glorious holy mountain: yet he shall come to his end, and none shall help him." (Daniel 11.45.)
 『彼は海と麗しい聖山との間に、天幕の宮殿を設けるでしょう。しかし、彼はついにその終りにいたり、彼を助ける者はないでしょう』（ダニエル一一・四五）。
@@ -157,7 +157,7 @@ And they think that the book of Obadiah also refers to him.
 そして、オバデヤ書もまた彼のことを言っていると考えている。
 
 The passage in Daniel does not refer to the anti-Christ, for he will not be revealed, or take his power till after the hinderer is taken away, till Christ takes out a people for His name from among the Gentiles, till He comes and takes His Bride.
-ダニエル書のこの箇所は、反キリストのことを言っているのではない。反キリストは、阻止している者が取り除かれるまでは現れず、権力を握ることもないからである。それは、キリストが異邦人の中から御名のための民を取り出されるまで、キリストが来られてご自分の花嫁を連れて行かれるまでのことである。
+ダニエル書のこの箇所は、反キリストのことを言っているのではない。反キリストは、阻止している者が取り除かれるまでは現れず、権力を握ることもないからである。それは、キリストが異邦人の中から御名を負う民を選び出されるまでである。キリストが来られて、ご自分の花嫁を連れて行かれるまでである。
 
 He shall come to his end in the time of the end, and at that time Michael, the great prince, shall stand up for his people, and all will be delivered whose names are written in the Book of Life, and the Wise, who know these things shall shine as the brightness of the firmament.
 彼は終わりの時に、その終わりに至る。そのとき大いなる君ミカエルが、自分の民のために立ち上がる。いのちの書に名をしるされた者はみな救われる。これらのことを知る賢い者は、大空の輝きのように輝く。
@@ -182,10 +182,10 @@ Most of those that have gone through the tribulation will have had enough and th
 患難を通った者の大部分は、もう十分に苦しみ、その預言者の声に耳を傾ける用意ができているだろう。
 
 If the angels are loosed it will not be long before we take our flight. When these things begin to come fast, we shall soon be taken out of the world. The worst trouble will come after the saints are taken out. The anti-Christ will deny the blessed Christ, and cause people to take his mark or to be put to death. Those who do not go with Christ will have to go through this or go down in it.
-御使たちが解き放たれるなら、私たちが飛び立つのも間もなくである。これらのことが次々と起こりはじめるとき、私たちは間もなくこの世から取り去られる。最悪の苦難は、聖徒たちが取り去られた後に来る。反キリストはほむべきキリストを否定し、人々に自分の刻印を受けさせるか、さもなければ殺させる。キリストと共に行かない者は、これを通るか、その中で倒れるかしなければならない。
+御使たちが解き放たれるなら、私たちが飛び立つのも間もなくである。これらのことが次々と起こりはじめるとき、私たちは間もなくこの世から取り去られる。最悪の苦難は、聖徒たちが取り去られた後に来る。反キリストはほむべきキリストを否定し、人々に自分の刻印を受けさせるか、さもなければ殺す。キリストと共に行かない者は、これを通るか、その中で倒れるかしなければならない。
 
 Jesus comes to take a people out for His name, for His Bride. He comes and takes her away to the heavens. The Great Marriage Supper takes place, after which they will be sitting with Christ on His Throne and helping to execute judgment during this awful tribulation.
-イエスは、御名のための民、ご自分の花嫁となる民を取り出すために来られる。主は来られて、花嫁を天へ連れて行かれる。大いなる婚宴が行われ、その後、花嫁となった人々はキリストと共にその御座に着き、この恐ろしい患難のあいだ、さばきを行うのを助ける。
+イエスは、御名を負う民、ご自分の花嫁となる民を選び出すために来られる。主は来られて、花嫁を天へ連れて行かれる。大いなる婚宴が行われる。その後、花嫁となった人々はキリストと共にその御座に着き、この恐ろしい患難のあいだ、さばきを行うのを助ける。
 
 Look at the awful death and carnage, and destruction if you do not go up with the bridal company.
 花嫁の一団と共に上って行かなければ、どんなに恐ろしい死と殺戮と破壊が待っているかを見よ。
@@ -213,7 +213,7 @@ The first time the Bride will be caught away, the second time she will come ridi
 一度目には花嫁は引き上げられ、二度目には白い馬に乗って来る。イエスはオリブ山の上に立たれ、主を刺しとおした者たちは主を見る。あなたは今、心の奥底で、イエスがキリストであることを知っている。私たちがひとり残らず真剣であることを知っている。私たちが、生まれながらの人が聞く以上のことを聞いていることを知っている。私たちが得る知恵は、惜しみなく与えてくださる神からのものである。何にもまして私が祈ってきたのは、「知恵を与えてください」ということだった。時のしるしに目を向けさえすれば、盲人同然の人にでも見える。
 
 Daniel says the wise shall know when the Lord comes.
-ダニエルは、主が来られるとき、賢い者は悟ると言っている。
+ダニエルは、賢い者は主が来られる時を悟ると言っている。
 
 You may say I don't believe. You don't want to believe and that day will overtake you as a thief in the night. None of the wicked shall understand the signs of Jesus' coming. Ye who are children of the light shall know and that day will not overtake you unexpectedly. God gave Daniel a picture of the lost world, none of whom should know when He comes.
 あなたは、自分は信じないと言うかもしれない。あなたは信じたくないのだ。そしてその日は、夜の盗人のようにあなたを襲う。悪い者はだれも、イエスの来臨のしるしを悟らない。光の子であるあなたがたは知っているので、その日が不意にあなたがたを襲うことはない。神はダニエルに、失われた世の姿を示された。その中のだれも、主が来られる時を知らないのである。
@@ -223,7 +223,7 @@ Who are the wise? Those who know the time of the Lord's coming. "They that turn 
 // 口語訳のダニエル一二・三 は語順も文言も違うので、英文に合わせて言い換え「」にした。
 
 Don't be looking to the grave. Look, for behold He cometh. Oh, Glory to God in the Highest. Come, Oh Redeemer, come quickly.
-墓に目を向けるな。見よ、主は来られる。ああ、いと高きところでは、神に栄光があるように。ああ、あがない主よ、来てください。早く来てください。
+墓に目を向けるな。目を上げよ。見よ、主は来られる。ああ、いと高きところでは、神に栄光があるように。ああ、あがない主よ、来てください。早く来てください。
 
 ## 付記
 ADDENDA
@@ -244,7 +244,7 @@ Scores have gone insane from the lust of the horrible butchery.
 「恐ろしい殺し合いへの欲に駆られて、何十人もが正気を失った。
 
 Surgeons, amputating arms and legs without anaesthetics, report wounded French and Germans continuing the struggle with knives though unable to stand.
-「麻酔なしで腕や脚を切断している外科医たちの報告によれば、傷ついたフランス兵とドイツ兵が、立つこともできないのに、ナイフで戦い続けている。
+「麻酔なしで腕や脚を切断している外科医たちが報告している。傷ついたフランス兵とドイツ兵が、立つこともできないのに、ナイフで戦い続けているという。
 
 A French captain reported 7,000 dead heaped along a 700-yard front."--E-tract from Daily Paper, U. S. A., 1916.
 「あるフランス軍の大尉の報告では、六百四十メートルほどの戦線に沿って、七千の死体が積み重なっていた」（一九一六年、合衆国の日刊紙からの抜粋）
@@ -257,19 +257,19 @@ MAY, 1916
 "PREPAREDNESS" THE CRY OF THE HOUR IN NEW YORK
 
 The civilians in the mammoth preparedness demonstration in New York last Saturday are shown passing the New York Public Library. An idea of its magnitude may be gained when it is remembered that the marching columns composed of twenty men abreast extended for twenty miles.
-写真は、先週の土曜日にニューヨークで行われた、備えを訴える大がかりな示威行進で、ニューヨーク公共図書館の前を通る市民たちである。二十人ずつ横に並んだ行進の列が二十マイルにわたって続いたことを思えば、その規模の見当がつくだろう。
+写真は、先週の土曜日にニューヨークで行われた、「備え」を訴える大がかりな示威行進である。ニューヨーク公共図書館の前を通る市民たちが写っている。二十人ずつ横に並んだ行進の列が二十マイルにわたって続いたことを思えば、その規模の見当がつくだろう。
 
-MARSHALLING OF THE NATIONS
 ## 諸国民の結集
+MARSHALLING OF THE NATIONS
 
 By common consent, the European war was written down from its very beginning as the greatest titanic struggle ever waged by man; such a marshalling of the nations was never before seen on earth.
-衆目の一致するところ、ヨーロッパの戦争は、その始まりから、人類がかつて戦った最大の巨大な争いとして記録されてきた。このような諸国民の結集は、かつて地上で見られたことがなかった。
+衆目の一致するところ、ヨーロッパの戦争は、その始まりから、人類がかつて戦った最も巨大な争いとして記録されてきた。このような諸国民の結集は、かつて地上で見られたことがなかった。
 
 After eighteen months' conflict, President Wilson said in an address at Cleveland, Ohio, January 29th, 1916: "While a year ago it seemed impossible that a struggle upon such a large scale should last a whole year, it has now lasted a year and a half, and the end is not yet in sight."--Washington Post, Jan. 30, 1916.
 十八か月の戦いの後、ウィルソン大統領は一九一六年一月二十九日、オハイオ州クリーブランドでの演説で言った。「一年前には、これほど大規模な戦いが丸一年も続くことはありえないと思われたが、今や一年半も続いており、終わりはまだ見えない」（『ワシントン・ポスト』紙、一九一六年一月三十日）
 
-THE TOLL OF WAR
 ## 戦争の犠牲
+THE TOLL OF WAR
 
 "The blackest eighteen months known to the modern world! The net result has been 2,990,000 men in the very prime of life killed, more than 2,200,000 made prisoners, and more than 9,830,000 wounded."--International News Service.
 「近代の世界が知る最も暗黒の十八か月！　その結果は、人生の盛りにある二百九十九万人が死に、二百二十万人以上が捕虜となり、九百八十三万人以上が負傷したということである」（インターナショナル・ニューズ・サービス）
@@ -288,4 +288,4 @@ Time foretold in prophecy. Joel 3.9, 14; Rev. 11.18; Jeremiah 25th, 31.33. Two t
 ARMAGEDDON
 
 The last conflict of the nations or the European conflict, terrible and far reaching as it is, is not the Armageddon of the nations of which the Scriptures tell us, but it surely is a forerunner of the last great clash of the world empires.
-諸国民のこの前の争い、すなわちヨーロッパの戦争は、恐ろしく広範囲に及ぶものではあるが、聖書が告げる諸国民のハルマゲドンではない。しかしそれは確かに、世界の諸帝国の最後の大衝突の先触れである。
+諸国民の今度の争い、すなわちヨーロッパの戦争は、恐ろしく、広範囲に及ぶものである。それでも、聖書が告げる諸国民のハルマゲドンではない。しかしそれは確かに、世界の諸帝国の最後の大衝突の先触れである。
