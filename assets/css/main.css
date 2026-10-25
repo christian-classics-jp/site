@@ -301,6 +301,67 @@ article em {
   font-weight: 700;
 }
 
+.verse-number {
+  margin-right: 0.15em;
+  font-family: var(--font-sans);
+  font-size: 0.7em;
+  letter-spacing: 0;
+  color: var(--muted);
+  opacity: 0.8;
+}
+
+.note-ref {
+  font-family: var(--font-sans);
+  font-size: 0.65em;
+  line-height: 0;
+  vertical-align: super;
+}
+
+.note-ref a {
+  padding: 0 0.15em;
+  text-decoration: none;
+}
+
+.notes {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--rule);
+  font-size: 0.875em;
+  line-height: 1.8;
+  color: var(--muted);
+}
+
+article .notes h2 {
+  margin: 0 0 0.75em;
+  font-size: 1em;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+}
+
+.notes ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.notes li {
+  margin: 0 0 0.5em;
+  padding-left: 2em;
+  text-indent: -2em;
+}
+
+.note-back {
+  display: inline-block;
+  min-width: 2em;
+  text-indent: 0;
+  font-family: var(--font-sans);
+  text-decoration: none;
+}
+
+.notes li:target {
+  color: var(--text);
+}
+
 /* chapter navigation */
 
 .pager,

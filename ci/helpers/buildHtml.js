@@ -1,4 +1,5 @@
 const marked = require('marked')
+const compileMarkdown = require('./compileMarkdown')
 const {SITE_URL, INDEX_TEMPLATE_PATH, SINGLEPAGE_TMPLE_PATH, ARTICLE_TEMPLATE_PATH, STYLE_PATH, SCRIPT_PATH} = require('./consts')
 const fs = require('fs')
 const {join} = require('path')
@@ -20,6 +21,9 @@ const ENTITIES = {'&amp;': '&', '&lt;': '<', '&gt;': '>', '&quot;': '"', '&#39;'
 const DESCRIPTION_LENGTH = 120
 const describe = (html) => {
   const text = html
+    .replace(/<section class="notes">[\s\S]*?<\/section>/g, '')
+    .replace(/<sup[^>]*>[\s\S]*?<\/sup>/g, '')
+    .replace(/<span class="verse-number">[^<]*<\/span> /g, '')
     .replace(/<h\d[^>]*>[\s\S]*?<\/h\d>/g, '')
     .replace(/<[^>]+>/g, '')
     .replace(/&(?:amp|lt|gt|quot|#39);/g, (entity) => ENTITIES[entity])
@@ -49,7 +53,7 @@ function buildHtml (reposName, options = {}) {
 
   const markdowns = articleNames.map(repos.readArticleMarkdown.bind(repos))
   const titles = markdowns.map(markdownTitle)
-  const htmls = markdowns.map((m) => markChapterNumber(markVerse(marked(m))))
+  const htmls = markdowns.map((m, i) => markChapterNumber(markVerse(compileMarkdown(m, {idPrefix: `${articleNames[i]}-`}))))
   const fileNames = articleNames.map((name) => `${name}.html`)
 
   const articleTmpl = readTmpl(ARTICLE_TEMPLATE_PATH)

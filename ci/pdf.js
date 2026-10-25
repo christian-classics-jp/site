@@ -1,13 +1,12 @@
 #!/usr/bin/env node
 
 const {chromium} = require('playwright')
-const marked = require('marked')
 const fs = require('fs')
 const {dirname} = require('path')
 const hbs = require('handlebars')
 const Repository = require('./helpers/Repository')
 const pdfOption = require('../assets/pdf/config')
-const convertToHtml = (markdown) => marked(markdown)
+const compileMarkdown = require('./helpers/compileMarkdown')
 const {BOOKS_DIR, PDF_TEMPLATE_PATH, PDF_CSS_PATH, SURFACE_TEMPLATE_PATH} = require('./helpers/consts')
 const readTmpl = (tmplPath) => hbs.compile(fs.readFileSync(tmplPath, {encoding: 'utf-8'}).toString())
 const pageSpliter = '<div class="page-split"></div>\n'
@@ -37,7 +36,7 @@ async function pdf (browser, repos) {
   const surfaceHtml = readTmpl(SURFACE_TEMPLATE_PATH)({
     reposUrl: repos.url
   })
-  const htmls = [surfaceHtml].concat(markdowns.map(convertToHtml))
+  const htmls = [surfaceHtml].concat(markdowns.map((markdown, i) => compileMarkdown(markdown, {idPrefix: `${repos.articleNames[i]}-`})))
   const combined = htmls.join(pageSpliter)
 
   const html = readTmpl(PDF_TEMPLATE_PATH)({

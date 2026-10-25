@@ -192,3 +192,25 @@ blockquote {
     page-break-before: avoid;
   }
 }
+
+.verse-number {
+  color: #888;
+  font-size: 0.7em;
+}
+
+.note-ref {
+  font-size: 0.7em;
+}
+
+.notes {
+  margin-top: 2em;
+  font-size: 0.875em;
+}
+
+.notes ol {
+  list-style: none;
+}
+
+.note-back {
+  margin-right: 0.5em;
+}
