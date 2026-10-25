@@ -35,6 +35,6 @@ function withoutGreekLines (text) {
 }
 
 function isGreekLine (line) {
-  const firstLetter = line.trim().match(/[^\u0020-\u0040\u005b-\u0060\u007b-\u007e]/)
+  const firstLetter = line.trim().match(/[^\u0020-\u0040\u005b-\u0060\u007b-\u007e\u2000-\u206f]/)
   return Boolean(firstLetter) && /[\u0370-\u03ff\u1f00-\u1fff]/.test(firstLetter[0])
 }
