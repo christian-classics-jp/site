@@ -6,7 +6,7 @@ GREAT REVIVAL AT ATLANTA, GA.
 FURTHER NEWS OF THE REVIVAL
 
 One strong factor in drawing these people to the meetings is that they see the gospel demonstrated, as of old, with "the signs following." The Lord Himself is stretching forth His hand to heal, and the "signs and wonders" are being done in the name of Jesus.
-これらの人々を集会に引き寄せている大きな理由の一つは、昔のように『御言に伴うしるし』をもって、福音が目に見える形で示されるのを見ることである（マルコ一六・二〇）。主ご自身が、いやすために御手を伸ばしておられる。そしてイエスの名によって「しるしと不思議」が行われている。
+これらの人々を集会に引き寄せている大きな理由の一つは、福音が目に見える形で示されるのを見ることである。昔のように『御言に伴うしるし』をもって示されるのである（マルコ一六・二〇）。主ご自身が、いやすために御手を伸ばしておられる。そしてイエスの名によって「しるしと不思議」が行われている。
 Some of the first signs that followed the word here in Atlanta were a number of consumptives who were far beyond medical reach.
 ここアトランタで、みことばに伴った最初のしるしの中には、医学の手のとうてい届かない肺病の人々が何人かいた。
 
@@ -23,19 +23,19 @@ One remarkable case is that of a little school boy, ten years old, who was blind
 The same evening a woman came in from an outside place with a little child a year old in her arms. The child's spine was useless, it could not sit up. Its mind also was affected; no one could draw its attention. It also was blind in one eye.
 同じ晩、ひとりの婦人が、一歳の小さな子供を抱いてよその土地から来た。その子は背骨が役に立たず、座ることができなかった。知能も冒されていて、だれもその子の注意を引くことができなかった。また片方の目が見えなかった。
 After prayer it received strength in its spine, sat up straight, grasped hold of everything that it could get hold of, showed intelligence with a smile on its face, and also showed by every test that its sight was restored. The mother during this time was shedding tears and flowing over with praise to God.
-祈りの後、その子の背骨に力が入り、まっすぐに座った。手の届くものは何でもつかみ、顔に笑みを浮かべて、知恵のあるしるしを見せた。どのように試しても、視力が戻ったことがわかった。そのあいだ母親は涙を流し、神への賛美にあふれていた。
+祈りの後、その子の背骨に力が入り、まっすぐに座った。手の届くものは何でもつかみ、顔に笑みを浮かべて、物がわかる様子を見せた。どのように試しても、視力が戻ったことがわかった。そのあいだ母親は涙を流し、神への賛美にあふれていた。
 
 A Rev. D. T. Cain, of Westminster, S. C., wrote for information about his case. He stated that he had been totally blind for nearly a year, and spent his means on the physicians; he heard of the wonderful works that God was doing in Atlanta.
-サウスカロライナ州ウェストミンスターのD・T・ケイン牧師は、自分の場合について問い合わせる手紙をよこした。彼は、一年近くまったく目が見えず、医者たちに財産を使い果たしたと述べていた。そして、神がアトランタでなさっている驚くべきみわざを聞いたのである。
+サウスカロライナ州ウェストミンスターのD・T・ケイン牧師は、自分の病について問い合わせる手紙をよこした。彼は、一年近くまったく目が見えず、医者たちに財産を使い果たしたと述べていた。そして、神がアトランタでなさっている驚くべきみわざを聞いたのである。
 He came as a last resort to receive back his sight. After prayer his eyes were opened, so that he could see to read signs on the street. On the way home he testified to many on the train, and after reaching home began to preach again.
 彼は、視力を取り戻す最後の手段としてやって来た。祈りの後、彼の目は開かれ、通りの看板が読めるほどになった。帰り道、彼は列車の中で多くの人に証しをした。そして家に着くと、再び説教しはじめた。
 About a dozen or more people gave testimonies to the fact that they personally knew Mr. Cain, and that his testimony was correct.
-十二人かそれ以上の人々が、ケイン氏を個人的に知っており、彼の証しは正しいと証言した。
+十二人ほどか、それ以上の人々が、ケイン氏を個人的に知っており、彼の証しは正しいと証言した。
 
 Under date of July 9, 1914, we received the following letter:
 一九一四年七月九日付で、次の手紙を受け取った。
 
-（ここには、サウスカロライナ州ランドーの家庭伝道者E・J・ハリソン夫人の手紙が載っているが、書き手の没年が確かめられないため訳していない）
+（ここには、サウスカロライナ州ランドーの国内伝道者E・J・ハリソン夫人の手紙が載っているが、書き手の没年が確かめられないため訳していない）
 // ここから署名と住所の「Lando, S. C.」までは、Mrs. E. J. Harrison の手紙。WebSearch（standard 2 回、extended 1 回）で没年が見つからなかったので訳さない。
 Brother D. T. Cain, a minister of Westminster, S. C., came to your meetings in Atlanta, Ga., a few months ago, and was most marvelously healed of blindness and other disease. Praise the Lord. He left Westminster blind and suffering, came back seeing everybody. As soon as he came back home he was met by a crowd at the depot. Oh, how he did praise the Lord! I heard all about this wonderful, wonderful healing.
 
@@ -47,7 +47,7 @@ Lando, S. C.
 // 訳さない範囲ここまで
 
 A telegram was received from a man in Colorado who wished to know how long the meetings would continue. He wanted to be healed and also to receive his baptism of the Holy Ghost. He came, got his baptism, and came out speaking in the German language.
-コロラドのある男から電報が届いた。集会がいつまで続くのかを知りたいというのである。彼はいやされたいと願い、また聖霊のバプテスマを受けたいと願っていた。彼はやって来てバプテスマを受け、ドイツ語を語りながら力の下からさめた。
+コロラドのある男から電報が届いた。集会がいつまで続くのかを知りたいというのである。彼はいやされたいと願い、また聖霊のバプテスマを受けたいと願っていた。彼はやって来てバプテスマを受け、ドイツ語を語りながらさめた。
 Some of these messages in tongues, spoken when under the influence of the spirit, have been in Hebrew, and understood by some in the audience. As the result many Hebrews have been converted already, and also many healed.
 御霊に動かされて語られたこうした異言による言葉の中には、ヘブル語のものもあり、聴衆の中のある人々に理解された。その結果、すでに多くのユダヤ人が回心し、また多くの人がいやされた。
 These are only a few of the scores of the miracles that are being performed by the power of God. Time and space forbid to mention any more.
@@ -145,8 +145,8 @@ Mrs. H. P. SWILLING.
 ## アトランタのリバイバルのあいだに、個人の部屋でバプテスマを受ける
 RECEIVED BAPTISM IN PRIVATE ROOM DURING ATLANTA'S REVIVAL
 
-（ここには、パート・ホプキンズ夫人の証しが載っているが、書き手の没年が確かめられないため訳していない）
-// ここから住所「412 Williams St., Jacksonville, Ill.」までは、Mrs. Peart Hopkins の証しと、その途中の＊に付けた注。WebSearch（standard 2 回、extended 1 回）で没年が見つからなかったので訳さない。
+（ここには、ホプキンズ夫人の証しが載っているが、書き手の没年が確かめられないため訳していない）
+// ここから住所「412 Williams St., Jacksonville, Ill.」までは、Mrs. Peart Hopkins（Peart は Pearl の読み誤りかもしれない）の証しと、その途中の＊に付けた注。WebSearch（standard 2 回、extended 1 回）で没年が見つからなかったので訳さない。
 I had been saved only a week, when on a Sunday afternoon, I was tarrying at one of the sister's homes, for a certain one of them to receive the baptism. I had never heard it preached but once, and knew very little about it. I wanted all the Lord had for me, and I hadn't been praying three minutes, until I began swaying under the power of God. I had just told Him everything I had was on the altar, even husband and baby; and I wanted all He had for,me. I knew it was the power of God, and did not resist but gave up completely.
 
 They laid me on the floor. My body began to rock and my hands were waving in the air. I was all the time praising Jesus and felt myself going up. They told me afterwards that my body raised until they could see the light under it.* I was between the window and the rest of them, about ten in number. The Holy Spirit came in singing in two or three unknown tongues. The people said one was Chinese, but did not know the others. I knew in my mind that I was singing, but could not sing it in English, later on I interpreted it in our language. Oh such glory was around me until I thought I was almost in heaven, everything so bright. I was singing the praises of God for two hours and a half, and never had my arms down during the time. They felt as light as the air. Afterwards I felt I could move a house, I was so strong, and my arms never had a particle of soreness in them after being held up that length of time. It was the power of God that kept them, and that keeps me daily. Oh praise Him for ever.
@@ -203,13 +203,13 @@ Mrs. Hart Baldwin, R. F. D. No. 2, Sandusky, Mich., writes: "Last February I wro
 // 訳さない範囲ここまで
 
 Nigie L. Lofron, of 20 Mason Avenue, a little girl who was born deaf and dumb, was instantly healed March 11, at the evening service when Mrs. Etter commanded the deaf and dumb spirit to depart in the name of Jesus.
-メイソン街二〇番地のニギー・L・ロフロンは、生まれつき耳が聞こえず口のきけない小さな女の子だった。三月十一日の夜の集いで、エター夫人がイエスの名によって、耳が聞こえず口のきけない霊に出て行くよう命じると、その子はたちまちいやされた。
+メイソン街二〇番地のニギー・L・ロフロンは、生まれつき耳が聞こえず口のきけない小さな女の子だった。三月十一日の夜の集いで、エター夫人がイエスの名によって、耳が聞こえず口のきけない霊に出て行くよう命じた。すると、その子はたちまちいやされた。
 
 Before Mrs. Etter began to lay hands on the child, she was frightened and began to cry. When she was healed she put her arms around her neck and kissed her. The child's father said he had tried specialists for years but they could do nothing for her.
 エター夫人がその子に手を置こうとする前、その子はおびえて泣きだした。いやされると、その子は夫人の首に腕を回して口づけした。子供の父親は、何年も専門医たちにかかってきたが、何もしてもらえなかったと言った。
 
 One day an elderly man said he had driven four hundred miles to get to the meetings. The lower part of his body was paralyzed so that his limbs were lifeless, and his arm also was withered. It took three men to carry him onto the platform.
-ある日、ひとりの年配の男が、集会に来るために四百マイルを車で来たと言った。下半身がまひして、脚には生気がなく、腕もなえていた。彼を壇の上に運ぶのに、三人の男が必要だった。
+ある日、ひとりの年配の男が、集会に来るために四百マイルの道のりをやって来たと言った。下半身がまひして、脚には生気がなく、腕もなえていた。彼を壇の上に運ぶのに、三人の男が必要だった。
 When he was told to raise his foot he made an effort but could not. He was then told to do so in the name of Jesus, and he tried again and the foot moved a little, when he tried again the limb moved more, he struggled and soon got the victory and in a short time he walked the platform shouting and praising God.
 足を上げるように言われると、彼は上げようとしたが、できなかった。次に、イエスの名によってそうするように言われた。彼がもう一度やってみると、足が少し動いた。さらにやってみると、脚はもっと動いた。彼は奮闘し、間もなく勝利を得た。そしてすぐに、叫んで神をほめたたえながら、壇の上を歩いた。
 About a month later testimony was sent in that his arm had filled in nicely, and that he was well.
@@ -225,7 +225,7 @@ This was permitted for a time because it seemed impossible to turn them away. Th
 As a result of this the colored folks came and occupied so many seats as to crowd out the white people. They now begged Sister Etter to come to some of their large churches and hold a few meetings for them.
 その結果、黒人の人々がやって来て、白人を押し出すほど多くの席を占めるようになった。そこで彼らはエター姉妹に、自分たちの大きな教会のいくつかに来て、自分たちのために何回か集会を開いてほしいと懇願した。
 She felt constrained to go to them as they were prohibited from attending the regular services in large numbers. They stood around the outside and on many occasions (with the sick) and waited until the service was dismissed, just to have Sister Etter say a word or lay her hand on them and pray, while she was passing by.
-姉妹は、彼らのもとに行かずにはいられないと感じた。彼らは、大勢で通常の集いに出ることを禁じられていたからである。彼らはたびたび（病人を連れて）外の周りに立ち、集いが終わるまで待っていた。エター姉妹が通りがかりに一言かけてくれるか、手を置いて祈ってくれることだけを願っていたのである。
+姉妹は、彼らのもとに行かずにはいられないと感じた。彼らは、大勢で通常の集いに出ることを禁じられていたからである。彼らはたびたび（病人を連れて）外に立ち、集いが終わるまで待っていた。エター姉妹が通りがかりに一言かけてくれるか、手を置いて祈ってくれることだけを願っていたのである。
 In nearly every case of this kind they received instant healing, jumping to their feet, praising God, and leaping and shouting for joy.
 このような場合、ほとんどどの人もたちまちいやしを受けた。彼らはぱっと立ち上がって神をほめたたえ、喜びのあまり跳びはねて叫んだ。
 
@@ -239,7 +239,7 @@ In these meetings when it came time for praying for the sick, it seemed almost i
 LIMBS AND SPINE STRAIGHTENED
 
 A middle-aged man was carried in on crutches, having all his limbs drawn out of place. He had been in this condition for years, being a hopeless case from a medical standpoint. When he was prayed for, his limbs could be seen straightening out, and he walked out of the meeting carrying his crutches.
-ひとりの中年の男が、松葉杖をついて運び込まれた。手足がみな、本来の位置から引きつっていた。彼は何年もこの状態で、医学の面からは見込みのない人だった。祈ってもらうと、彼の手足がまっすぐになっていくのが見えた。そして彼は、松葉杖を手に持って、歩いて集会から出て行った。
+ひとりの中年の男が、松葉杖にすがったまま運び込まれた。手足がみな、本来の位置から引きつっていた。彼は何年もこの状態で、医学の面からは見込みのない人だった。祈ってもらうと、彼の手足がまっすぐになっていくのが見えた。そして彼は、松葉杖を手に持って、歩いて集会から出て行った。
 
 A young girl was prayed for; the power struck her and prostrated her on the floor. She had curvature of the spine and other diseases. The power came on her so strong that it straightened her spine immediately while lying on the floor.
 ひとりの若い娘が祈ってもらった。力が彼女を打ち、床に倒れ伏させた。彼女は背骨が曲がっていて、ほかの病気も抱えていた。力があまりに強く彼女に臨んだので、床に横たわっているあいだに、たちまち背骨がまっすぐになった。
@@ -252,18 +252,18 @@ Many calls from various parts of the city could not be met; nevertheless the peo
 A FEW CLOSING REMARKS
 
 One feature of the meeting which held both saint and sinner awe-stricken, was the way the Spirit manifested Himself through the Heavenly Choir. The Spirit operated much in this way from the beginning of the meeting until the end.
-聖徒も罪人も畏れに打たれた集会の特色の一つは、御霊が天の合唱を通してご自身を現されたことだった。御霊は、集会の初めから終わりまで、このしかたで大いに働かれた。
+集会の特色の一つで、聖徒も罪人も畏れに打たれたのは、御霊が天の合唱を通してご自身を現されたことだった。御霊は、集会の初めから終わりまで、このしかたで大いに働かれた。
 Some of those whom the Spirit would use in this way were also prostrated and saw visions from God. When the Spirit operates in this way it puts deep conviction on the people.
 御霊にこのように用いられた人々の中には、倒れ伏して神からの幻を見る人もいた。御霊がこのように働かれると、人々は深く罪を示される。
 As the prophet said, "let the maiden and virgin, the young men and the old men join in the dance together."
 預言者が言ったとおりである。「おとめも処女も、若い者も老いた者も、共に踊りに加われ」（エレミヤ三一・一三）。
 There was often seen dancing on the platform around the pulpit, and near the front, from fifteen to twenty people or more at one time, with eyes closed, and never jostling against each other, or falling off the edge of the platform. Many times some would stop and give a wonderful message in tongues loud and fluently.
-壇の上の説教壇の周りや前の方では、十五人から二十人かそれ以上の人々が一度に踊るのが、しばしば見られた。彼らは目を閉じていたが、互いにぶつかることも、壇の端から落ちることもなかった。何度も、ある人々が踊りをやめて、大きな声で流れるように、異言で驚くべき言葉を語った。
+壇の上の説教壇の周りや前の方では、十五人から二十人かそれ以上の人々が一度に踊るのが、しばしば見られた。彼らは目を閉じていたが、互いにぶつかることも、壇の端から落ちることもなかった。何度も、ある人々が踊りをやめて、大きな声で流れるように、異言による驚くべき言葉を語った。
 
 The Spirit of fear fell on the large audience. They knew there was a God in Israel who was putting a seal on His mighty "signs and wonders."
 大勢の聴衆の上に、畏れの霊が下った。人々は、イスラエルに神がおられ、その力ある「しるしと不思議」に印を押しておられることを知った。
 They were convinced that the same power that laid them down as dead, raised them up and made them dance so gracefully and took hold of their vocal organs and made their tongues like the pen of a ready writer, speaking the wonderful works and wisdom of God.
-彼らは確信した。人々を死んだように倒した同じ力が、彼らを起き上がらせ、優雅に踊らせたのだと。またその力は彼らの発声の器官をとらえ、その舌をすみやかに物書く人の筆のようにして、神のくすしきみわざと知恵を語らせたのだと。
+彼らは確信した。人々を死んだように倒した同じ力が、彼らを起き上がらせ、優雅に踊らせたのだと。またその力は彼らの発声の器官をとらえ、その舌をすみやかに物書く人の筆のようにして、神の大きな働きと知恵を述べさせたのだと。
 Many languages were spoken and interpreted. They were given to know what language was spoken, sometimes by a minister or a stranger in the congregation.
 多くの言葉が語られ、解き明かされた。人々は、どの言葉が語られたのかを知らされた。それを知らせたのは、ときには会衆の中の牧師やよその人だった。
 Sometimes little boys or girls, five years or more, would hold the people still as death, while they preached in tongues and interpreted, or in English, or while they danced, convincing the people that it was the Holy Ghost working through them.
@@ -272,7 +272,7 @@ Many times unseen instruments were heard in the audience, mingled with the heave
 何度も、目に見えない楽器の音が、天の合唱にまじって聴衆の中で聞こえた。聖なる畏れが人々をとらえた。多くの人が泣いた。どの集会でも、あらゆる階層の人々が祭壇に殺到した。あらゆる病人、罪人、また力のない男女が子供を連れて、池に入れてもらうのを待っていた。
 
 On the last Sunday that Sister Etter and her workers were in Atlanta, the Lord's Supper was administered. This certainly was the great day of the feast. Nearly two hundred and fifty of the saints, new-born babes and older ones, came forward and partook of the bread and wine. Many came for the first time, and strong men wept like little children.
-エター姉妹と働き人たちがアトランタにいた最後の日曜日に、主の晩餐が執り行われた。これはまさに、祭の大事な日だった。二百五十人近くの聖徒たちが、新しく生まれた幼子も年を重ねた者も前に進み出て、パンとぶどう酒にあずかった。初めて来た人も多く、たくましい男たちが小さな子供のように泣いた。
+エター姉妹と働き人たちがアトランタにいた最後の日曜日に、主の晩餐が執り行われた。これはまさに、祭の大事な日だった。二百五十人近くの聖徒たちが、新しく生まれた幼子も年を重ねた者も前に進み出て、パンとぶどう酒にあずかった。初めてあずかる人も多く、たくましい男たちが小さな子供のように泣いた。
 
 ## 刑事が回心する
 DETECTIVE CONVERTED
@@ -281,4 +281,4 @@ A detective of the city, whose duty it was to spy out lawbreakers, found himself
 町のある刑事は、法を犯す者を探り出すのが務めだった。その彼が、自分こそ法を犯す者であり、天にある権威に逆らう者であることに気づいた。彼は小さな子供のように泣きながら、神のもとへと進んで行った。
 
 At a late hour of the night, hundreds filed up in line to bid Sister Etter and her workers good-bye, giving them a hearty invitation to come back in the fall.
-夜遅くまで、何百人もの人が列を作って、エター姉妹と働き人たちに別れを告げた。そして、秋にまた来てほしいと心から招いた。
+夜遅く、何百人もの人が列を作って、エター姉妹と働き人たちに別れを告げた。そして、秋にまた来てほしいと心から招いた。
