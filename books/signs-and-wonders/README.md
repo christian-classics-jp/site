@@ -63,7 +63,7 @@
 + [x] Chapter LII. Atlanta Meeting, 1915
 + [x] Chapter LIII. Convention in Chicago at the Red Stone Church, June, 1915 / Chapter LIV. Meetings at St. Louis, Mo.
 + [x] Chapter LV. The Fire Falls at Topeka, Kansas / Chapter LVI. Colorado Springs, Colo.
-+ [ ] Chapter LVII. Convention at Los Angeles, Cal. (1)
++ [x] Chapter LVII. Convention at Los Angeles, Cal. (1)
 + [ ] Chapter LVII. Convention at Los Angeles, Cal. (2)
 + [ ] Chapter LVIII. Trying but Blessed Times at San Diego, Calif.
 + [ ] Chapter LIX. The Battle at San Francisco, 1916
