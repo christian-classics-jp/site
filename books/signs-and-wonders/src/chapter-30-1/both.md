@@ -50,7 +50,7 @@ Everybody is coming, everybody praising God.
 Methodist, Baptist, Presbyterian, Campbellites and Catholics.
 メソジストも、バプテストも、長老派も、キャンベル派も、カトリックもである。
 If you stand off one hundred yards in the edge of the crowd you might suppose that John the Baptist had been resurrected, or John Bunyan, or John Knox, or John Calvin, or John Wesley, and the crowd had old time religion.
-群衆の端の、九十メートルほど離れた所に立っていても、バプテスマのヨハネがよみがえったのかと思うかもしれない。あるいはジョン・バニヤンか、ジョン・ノックスか、ジャン・カルヴァンか、ジョン・ウェスレーがよみがえって、群衆が昔ながらの信仰を取り戻したのかと思うかもしれない。
+群衆の端の、九十メートルほど離れた所に立っていても、バプテスマのヨハネがよみがえったのかと思うかもしれない。あるいはジョン・バニヤンか、ジョン・ノックスか、ジャン・カルヴァンか、ジョン・ウェスレーがよみがえったのかと思うかもしれない。そして、群衆が昔ながらの信仰を取り戻したのかと思うだろう。
 
 ## テキサス州ダラスのリバイバルの続報
 MORE ABOUT THE REVIVAL IN DALLAS, TEXAS
@@ -60,6 +60,7 @@ MORE ABOUT THE REVIVAL IN DALLAS, TEXAS
 
 God is still wonderfully displaying his power in Dallas, Texas, bearing witness to the preaching of the gospel "both with signs and wonders, and divers miracles and gifts in the Holy Ghost."
 神は今もテキサス州ダラスで、驚くべきしかたで力を現しておられる。そして福音の宣教に、『しるしと不思議とさまざまな力あるわざとにより、また聖霊の賜物によって』あかしをしておられる（ヘブル二・四）。
+// 後半は口語訳では「御旨に従い聖霊を各自に賜うことによって」。英文の gifts in the Holy Ghost に合わせて言い換えた。
 Throngs pack the large tent at every service, many of them coming from other states.
 集会のたびに、大天幕は群衆でぎっしりになる。その多くはほかの州から来ている。
 Already great numbers of people have come from 100 to 2,000 miles, bringing their sick and afflicted.
@@ -78,7 +79,7 @@ A full-blooded Choctow Indian woman came from Oklahoma, a great sufferer for thi
 純血のチョクトー族のインディアンの女が、オクラホマからやって来た。十六歳のときに牛に足を踏まれ、それから三十八年のあいだ、その足の膿の出る傷にひどく苦しんでいた。
 // 英文の Choctow は原本のまま（ページ画像で確かめた）。Choctaw（チョクトー族）と読んだ。
 It was a mass of proud flesh, and the odor was almost unbearable.
-傷はただれた肉の塊で、においはほとんど耐えられないほどだった。
+傷は盛り上がった肉の塊で、においはほとんど耐えられないほどだった。
 Was kept awake at nights and could not bear the weight of the covers on this foot.
 夜も眠れず、その足に掛かる布団の重みにも耐えられなかった。
 By the laying on of hands, God instantly took away all pain, and the foot in now healing up.
@@ -180,7 +181,7 @@ When Sister Etter prayed for him the power came and he was healed.
 The pain and all the burning and stiffness left instantly, and he could turn his head in any direction without pain.
 痛みも、焼けるような感じやこわばりもすべて、たちまち去った。頭をどの方向に向けても痛まなくなった。
 He got up on the altar and preached to the people.
-彼は祭壇の上に上がって、人々に説教した。
+彼は祭壇の所に立って、人々に説教した。
 His friends told me yesterday that the cancer was healing up and he is getting well.
 きのう彼の友人たちが、癌は治りつつあり、彼は元気になってきている、と私に話してくれた。
 
@@ -206,7 +207,7 @@ Last night was still more wonderful.
 No tongue or pen could describe that meeting.
 あの集会は、口でも筆でも言い表せない。
 Three deaf and dumb mutes, fifty-four, thirty-four, and seventeen years old, all strangers to each other, hugged, kissed, wept and shouted for about a half hour, because God had opened all their ears, gave them their voices, and saved them all.
-耳が聞こえず口のきけない三人がいた。五十四歳と三十四歳と十七歳で、互いにまったく見知らぬ者どうしだった。神が三人の耳をみな開き、声を与え、三人とも救ってくださったので、三人は三十分ほど抱き合い、口づけし、泣き、叫んだ。
+耳が聞こえず口のきけない三人がいた。五十四歳と三十四歳と十七歳で、互いにまったく見知らぬ者どうしだった。神が三人の耳をみなお開きになり、声をお与えになり、三人とも救ってくださった。それで三人は三十分ほど抱き合い、口づけし、泣き、叫んだ。
 The great audience looked on and went. and as many as could crowd into the vacant space at the front of the platform sought God for salvation, healing and the baptism.
 大会衆はそれを見て泣いた。そして、壇の前の空いた所に詰めかけられるだけの人々が詰めかけ、救いと、いやしと、バプテスマとを神に求めた。
 // 英文の went. は OCR の読み誤り。原本は wept,（ページ画像で確かめた）。
@@ -250,7 +251,7 @@ Oh, the pitiful sights! How they make my heart ache! Sometimes it is more than I
 I saw two on cots get up and walk when prayed with.
 簡易寝台の人のうちふたりが、共に祈ってもらうと起き上がって歩くのを、私は見ました。
 Some who were thought to be dying have jumped right over the end of their cots, leaping and walking and shouting all over the tent after the prayer of faith was offered.
-死にかけていると思われていた人々の中には、信仰による祈りがささげられた後、簡易寝台の端を跳び越えた人もいます。その人々は、踊ったり歩いたり叫んだりしながら天幕じゅうを回りました。
+死にかけていると思われていた人々の中には、信仰による祈りがささげられた後、簡易寝台の端を跳び越えた人もいます。その人々は、跳びはねたり歩いたり叫んだりしながら天幕じゅうを回りました。
 I will mention one or two remarkable cases:
 目ざましい例を一つ二つ挙げましょう。
 
@@ -286,14 +287,14 @@ We also give the following clipping from the Dallas Daily Times-Herald of Septem
 また、一九一二年九月七日付けの『ダラス・デイリー・タイムズ・ヘラルド』紙から、次の切り抜きを載せる。
 
 "Hundreds in Dallas and all over Texas and many other states have already been healed in this meeting of all manner of diseases and afflictions by the power of God, in answer to 'the prayer of faith.'
-「ダラスとテキサス全土と、ほかの多くの州の何百人もの人々が、この集会ですでにあらゆる病と苦しみをいやされた。『信仰による祈』（ヤコブ五・一五）への答えとして、神の力によっていやされたのである。
+「ダラスとテキサス全土と、ほかの多くの州の何百人もの人々が、この集会ですでにあらゆる病と苦しみをいやされた。『信仰による祈』への答えとして、神の力によっていやされたのである（ヤコブ五・一五）。
 Many have been brought over one thousand miles and have been wonderfully saved and healed.
 千マイル以上の道のりを連れて来られ、驚くべきしかたで救われ、いやされた人も多い。
 The lame, the blind, many deaf and dumb, the palsied, the paralytic, consumptives, those suffering with cancers, tumors, fistulas, pellagra, operations, many with epilepsy, and invalids for years are praising God for healing for soul and body.
 足の不自由な人、目の見えない人、耳が聞こえず口のきけない多くの人、中風の人、まひした人、肺病の人がいる。癌、腫瘍、瘻孔、ペラグラ、手術の後に苦しむ人、てんかんの多くの人、長年寝たきりだった人もいる。その人々が、魂と体のいやしのゆえに神をほめたたえている。
 
 "Perhaps never before was there such a scene as that witnessed by the great audience Monday night, when three deaf and dumb mutes, fifty-four, thirty-four and seventeen years old, all strangers to each other, hugged, kissed, wept, shouted and praised God for perhaps twenty minutes, because He had opened all their ears, gave them their voices and saved their souls.
-「月曜日の夜に大会衆が目にした光景は、おそらくこれまでになかったものである。耳が聞こえず口のきけない三人が、二十分ほども抱き合い、口づけし、泣き、叫び、神をほめたたえた。五十四歳と三十四歳と十七歳の、互いに見知らぬ者どうしである。神が三人の耳をみな開き、声を与え、魂を救ってくださったからである。
+「月曜日の夜に大会衆が目にした光景は、おそらくこれまでになかったものである。耳が聞こえず口のきけない三人が、二十分ほども抱き合い、口づけし、泣き、叫び、神をほめたたえた。五十四歳と三十四歳と十七歳の、互いに見知らぬ者どうしである。神が三人の耳をみなお開きになり、声をお与えになり、魂を救ってくださったからである。
 Sinners look on and weep and make their way to the altar.
 罪人たちはそれを見て泣き、祭壇の前へ進み出る。
 Sunday, God came in slaying power and twenty-one, like Saul, were struck down by the power of God and lay from one to eleven hours.
@@ -301,7 +302,7 @@ Sunday, God came in slaying power and twenty-one, like Saul, were struck down by
 They had wonderful visions of heaven and of Jesus and all got up with shining faces, filled with the love of God.
 その人々は天国とイエスのすばらしい幻を見た。そしてみな顔を輝かせ、神の愛に満たされて起き上がった。
 The tent looked like a battlefield for 'the slain of the Lord were many.'
-『主に打ち倒される者は多かった』ので（イザヤ六六・一六）、天幕は戦場のようだった。
+『主に打ち倒される者は多かった』ので、天幕は戦場のようだった（イザヤ六六・一六）。
 This power has continued all the week and sinners have been struck down in their homes several miles from the tent.
 この力は一週間ずっと続き、天幕から数マイル離れた自分の家で打ち倒された罪人たちもいる。
 Hundreds in Dallas have been filled with the Holy Ghost as at Pentecost.
@@ -310,7 +311,7 @@ Perhaps in no other place in the world is God so wonderfully displaying His powe
 今この時、神がこれほど驚くべきしかたで力を現しておられる所は、世界のほかのどこにも、おそらくないだろう」
 
 Mrs. Clay E. Martin, one of the deaf mutes who was healed, gives a written testimony as follows:
-いやされた口のきけない人のひとり、クレイ・E・マーティン夫人は、次のような証しを書いている。
+いやされた、耳が聞こえず口のきけなかった人のひとり、クレイ・E・マーティン夫人は、次のような証しを書いている。
 
 （ここには、マーティン夫人の証しが載っているが、書き手の没年が確かめられないため訳していない）
 // ここからクレイ・E・マーティン夫人の証し（「Qh, it seems so wonderful to hear everything.」まで）。一九一二年に五十四歳（一八五八年ごろの生まれ）で、没年が確かめられないので訳さない。
@@ -318,7 +319,7 @@ Mrs. Clay E. Martin, one of the deaf mutes who was healed, gives a written testi
 "T am now fifty-four years old. My father and mother were first cousins. * * * Myself and two sisters were born totally deaf and dumb. I was born at Jonesville, Lee County, Virginia, educated at Staunton, Virginia, under Prof. J. J. Covell. I was teacher in Prof. Van Nostrand's deaf and dumb school at Austin, Texas, at the time my uncle, Ben. D. Martin, was state senator under Governor Coke. On Wednesday, July 31, 1912, I went to the wonderful meeting in the large tent at the corner of Parry and Fletcher streets. When Sister Etter put her finger in my mouth at the root of my tongue and then in my ears, commanding the 'deaf and dumb spirit' to come out, God instantly opened my ears and gave me my voice. * * * Qh, it seems so wonderful to hear everything."
 // 訳さない範囲ここまで
 
-## 英国の編集者からの手紙
+## イングランドの編集者からの手紙
 
 （ここには、イングランドの編集者スタンリー・H・フロッドシャムの手紙が載っているが、著作権が残っているため訳していない）
 // ここから署名「STANLEY H. FRODSHAM.」までは Stanley H. Frodsham（1969 年没）の手紙。日本では著作権が残っている（2050 年ごろまで）ので、扱いが決まるまで訳さない。
