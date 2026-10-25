@@ -27,7 +27,7 @@
 + [x] Chapter XVII. At Anderson, Ind. and Hannibal, Mo. / Chapter XVIII. At Springfield, Illinois
 + [x] Chapter XIX. A Great Fight / Chapter XX. "My Counsel Shall Stand"--(Isiah XLVI, 10.)
 + [x] Chapter XXI. "Multitudes, Multitudes in the Valley of Decision" (Joel) / Chapter XXII. A Mighty Work at St. Louis, Mo.
-+ [ ] Chapter XXIII. Permanent Results
++ [x] Chapter XXIII. Permanent Results
 + [ ] Chapter XXIV. The Gospel the Power of God / Chapter XXV. At Carroll, Iowa / Chapter XXVI. At Muscatine, Iowa
 + [ ] Chapter XXVII. Meetings at Moline, Illinois / Chapter XXVIII. World's Fair Time
 + [ ] Chapter XXIX. Manifestations of the Spirit
