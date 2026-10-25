@@ -7,7 +7,7 @@ const { SITE_URL, BOOKS_DIR, STATIC_DIR, PUBLIC_DIR, STYLE_PATH, SCRIPT_PATH } =
 
 const book = process.argv[2]
 const singlePage = process.argv[3] === 'single'
-const books = book ? [book] : fs.readdirSync(BOOKS_DIR).filter((name) => new Repository(name).completed)
+const books = book ? [book] : fs.readdirSync(BOOKS_DIR).filter((name) => new Repository(name).published)
 
 fs.rmSync(PUBLIC_DIR, { recursive: true, force: true })
 fs.cpSync(STATIC_DIR, PUBLIC_DIR, { recursive: true })

@@ -40,8 +40,12 @@ class Repository {
     }
   }
 
-  get completed () {
+  get published () {
     return Boolean(this.book)
+  }
+
+  get completed () {
+    return this.published && !this.book.preview
   }
 
   get epubPath () {
