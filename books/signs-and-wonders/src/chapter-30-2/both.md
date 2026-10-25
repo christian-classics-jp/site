@@ -21,23 +21,23 @@ Mrs. Etter is an old-time friend of ours.
 When we first knew her she was in the midst of a very remarkable revival work on the Pacific coast, where many thousands were saved, and many were healed.
 私たちが初めて夫人と知り合ったとき、夫人は太平洋岸で、たいへん目ざましいリバイバルの働きのさなかにあった。そこでは何千人もが救われ、多くの人がいやされた。
 We were delighted to meet each other again, after the lapse of many years.
-長い年月を経て再会し、私たちは互いに喜んだ。
+私たちと夫人は、長い年月を経て再会し、喜び合った。
 She extended to us a most loving welcome, and gave us seats on the platform by her side.
 夫人は私たちを心から温かく迎え、壇の上の自分の隣に席を用意してくれた。
 
 We have already published reports of these Dallas meetings, which we knew were reliable, but it has been a joy to attend them for ourselves, and to witness the mighty power of God convicting and converting sinners, healing sick bodies, and baptising saints with the Holy Ghost.
-私たちはこれまでにも、このダラスの集会の報告を誌上に載せてきた。信頼できる報告だとわかっていたからである。しかし、自分たちで集会に出て、神の大いなる力を目の当たりにしたのは喜びだった。その力は、罪人に罪を示して回心させ、病んだ体をいやし、聖徒に聖霊のバプテスマを授けていた。
+私たちはこれまでにも、このダラスの集会の報告を誌上に載せてきた。それが信頼できる報告であることもわかっていた。しかし、自分たちで集会に出て、神の大いなる力を目の当たりにしたのは喜びだった。その力は、罪人に罪を示して回心させ、病んだ体をいやし、聖徒に聖霊のバプテスマを授けていた。
 We could only make it possible to remain for a few days, but in that length of time we saw much that we shall never forget.
 私たちは数日しかとどまれなかったが、そのあいだに、決して忘れられないものを数多く見た。
 As we entered the Tabernacle on Saturday evening, we saw a crowd of rejoicing ones at the front, and we learned later that a deaf and dumb man, about sixty years of age, had just been saved and instantly healed by the power of God through Mrs. Etter's command of faith, as she bade the deaf and dumb demons to depart in Jesus' name.
-土曜日の夕方に幕屋に入ると、前のほうに喜び合う人々の群れが見えた。あとで聞くと、六十歳ほどの耳が聞こえず口のきけない男が、ちょうど救われ、たちまちいやされたところだった。エター夫人が信仰によって命じ、耳が聞こえず口のきけない悪霊どもにイエスの名によって去れと言うと、神の力によってそうなったのである。
+土曜日の夕方に幕屋に入ると、前のほうに喜び合う人々の群れが見えた。あとで聞くと、耳が聞こえず口のきけない六十歳ほどの男が、ちょうど救われ、たちまちいやされたところだった。エター夫人が信仰によって命じ、耳が聞こえず口のきけない悪霊どもにイエスの名によって去れと言うと、神の力によってそうなったのである。
 Another man who had been healed of deafness was pointed out to us, and as he was singing a hymn in unison with the others. with eyes closed, it was evident how well he could hear.
 耳が聞こえないのをいやされた別の男を、人々が教えてくれた。彼は目を閉じたまま、ほかの人々と声を合わせて賛美歌を歌っていたので、どれほどよく聞こえているかは明らかだった。
 // 英文の the others. with の句点は原本の誤植（ページ画像で確かめた）。読点と読んだ。
 We saw one lady who had been stone deaf, but after prayer was offered, the ears which had seemed dead began to have life in them, and she could hear loud sounds near her.
 まったく耳の聞こえなかったある婦人にも会った。祈りがささげられた後、死んだようだった耳に生気が戻りはじめ、近くの大きな音が聞こえるようになっていた。
 Some people are healed at once, and others gradually, but Mrs. Etter feels that if they have been receptive as she has prayed "the prayer of faith" for them, that they have only to hold on in faith and continue to praise God on the authority of His Word, and the symptoms will surely pass away.
-たちまちいやされる人もいれば、少しずつよくなる人もいる。しかしエター夫人はこう考えている。夫人がその人々のために『信仰による祈』（ヤコブ五・一五）をささげたとき、その人々が素直に受け入れていたのなら、あとは信仰によって持ちこたえ、神のみことばを根拠に神をほめたたえ続けさえすればよい。そうすれば症状は必ず消えていく。
+たちまちいやされる人もいれば、少しずつよくなる人もいる。しかしエター夫人はこう考えている。夫人がその人々のために『信仰による祈』（ヤコブ五・一五）をささげたとき、その人々が素直に受け入れていたとする。その場合、あとは信仰によって持ちこたえ、神のみことばを根拠に神をほめたたえ続けさえすればよい。そうすれば症状は必ず消えていく。
 There really are so many healings day by day, that only the more remarkable ones attract attention.
 実際、日々あまりに多くのいやしがあるので、とりわけ目ざましいものだけが人の目を引くのである。
 
@@ -46,7 +46,7 @@ Mrs. Etter's greatest concern is to have people "get right with God" in their so
 When they come to her with more desire for physical healing than for the spiritual healing, she refuses to pray for the healing of their bodies until their souls come into right relations with God.
 霊のいやしよりも体のいやしを求めて夫人のもとに来る人々には、魂が神と正しい関係に入るまで、体のいやしのために祈ることを断る。
 This undoubtedly is one great reason of her success, and another reason is that she believes in working for the unifying of all the members of the body of Christ, and therefore she does not preach mere theories, but holds up a living Christ, receiving all who are honest in their hearts and purposes towards Him, even if they do not yet see the truth just as she teaches it.
-これは疑いなく、夫人の働きが実を結んでいる大きな理由の一つである。もう一つの理由は、キリストのからだのすべての肢体を一つにするために働くことを、夫人が信じていることである。だから夫人はただの理論を説かず、生きておられるキリストを高く掲げる。そして、キリストに対して心と志の正直な人をみな受け入れる。たとえその人々が、夫人の教えるとおりにはまだ真理を見ていなくてもである。
+これは疑いなく、夫人の働きが実を結んでいる大きな理由の一つである。もう一つの理由は、キリストのからだのすべての肢体を一つにするために働くべきだと、夫人が信じていることである。だから夫人はただの理論を説かず、生きておられるキリストを高く掲げる。そして、キリストに対して心と志の正直な人をみな受け入れる。たとえその人々が、夫人の教えるとおりにはまだ真理を見ていなくてもである。
 She also avoids laying stress upon certain words or expressions, with which the enemy is trying to cause divisions in the body of Christ.
 また夫人は、特定の言葉や言い回しを強調することを避けている。敵はそれを使って、キリストのからだに分裂を起こそうとしているからである。
 Therefore there is no contention or strife in these meetings, but love and unity.
@@ -58,8 +58,8 @@ She also encourages all the saints to press on for more power from God to do the
 また夫人は、すべての聖徒に、神からさらに力をいただくよう求め進むことを勧めている。信じる者がイエスの名によって行う、とイエスが言われた奇跡のわざを、行うための力である。
 
 Mrs. Etter is one that speaks with no uncertain sound, and we have never seen any one else rebuke disease and demons with such Heaven-sent authority, and power.
-エター夫人は、はっきりした音を出す人である。病と悪霊を、これほど天から授かった権威と力とをもってしかりつける人を、私たちはほかに見たことがない。
-// コリント第一一四・八 の言い回し。
+エター夫人は、はっきりした音で語る人である。病と悪霊を、これほど天から授かった権威と力とをもってしかりつける人を、私たちはほかに見たことがない。
+// 第一コリント一四・八 の言い回し。
 It brought a new wave of spiritual joy to our heart to hear the way in which these "cruel demons" were ordered to depart.
 この「残酷な悪霊ども」が去れと命じられるのを聞いて、私たちの心には霊の喜びが新たに押し寄せた。
 Perhaps it is needless to say here that when people get their eyes on the instrument that God uses, instead of upon Himself, they do not receive healing.
@@ -67,7 +67,7 @@ Perhaps it is needless to say here that when people get their eyes on the instru
 While on the other hand, those whose gaze of faith is upon the Saviour alone often receive healing, through the application in faith of the anointed handkerchiefs or tracts sent out from these meetings.
 その一方で、信仰の目を救い主だけに注いでいる人々は、しばしばいやしを受けている。この集会から送り出される、油を注いだハンカチや小冊子を信仰によって当てることによってである。
 Some periodicals have ridiculed this means of reaching the sick, but God is wonderfully using them just the same, and as He wrought special miracles by the hands of Paul (see Acts xix:11, 12) He is doing the same now for those who trust Him, for so many of God's children are sick everywhere that the need is most urgent and the unbelief is so great that often in isolated places those suffering saints cannot get one near at hand to offer for them "the prayer of faith."
-この方法で病人に手を伸ばすことをあざ笑う雑誌もある。しかし神は、それでも驚くべきしかたでハンカチや小冊子をお用いになっている。神はパウロの手によって異常な力あるわざをなさったが（使徒一九・一一〜一二）、今も、神に信頼する人々のために同じことをしておられる。至る所で、神の子供たちのたいへん多くが病んでおり、必要はきわめて差し迫っている。不信仰もたいへん大きいので、人里離れた所では、苦しむ聖徒たちのために『信仰による祈』をささげてくれる人が近くに見つからないことがよくあるのである。
+この方法で病人に手を伸ばすことをあざ笑う雑誌もある。しかし神は、それでも驚くべきしかたでハンカチや小冊子をお用いになっている。神はパウロの手によって異常な力あるわざをなさったが（使徒一九・一一〜一二）、今も、神に信頼する人々のために同じことをしておられる。至る所で、神の子供たちのたいへん多くが病んでおり、必要はきわめて差し迫っているからである。不信仰もたいへん大きい。そのため人里離れた所では、苦しむ聖徒たちのために『信仰による祈』（ヤコブ五・一五）をささげてくれる人が、近くに見つからないことがよくある。
 
 Mrs. Etter preaches the gospel in great simplicity and power, backing up all her remarks by quotations from the Word of God.
 エター夫人は、たいへん素朴に、力強く福音を説く。語ることはすべて、神のみことばを引いて裏づける。
@@ -101,7 +101,7 @@ All tendency to wildfire or fanaticism is entirely discountenanced.
 燃え広がる野火のような熱狂や狂信に向かう傾きは、すべてきっぱりと退けられている。
 
 Perhaps the explanation for the solemnity of these meetings is that there is continual teaching about the soon coming of the Lord for His Bride, and exhortations to get ready.
-この集会がおごそかなのは、おそらく、主が花嫁のために間もなく来られることがたえず教えられ、備えをするようにと勧められているからだろう。
+この集会がおごそかなのは、おそらく、主が花嫁を迎えに間もなく来られることがたえず教えられ、備えをするようにと勧められているからだろう。
 One dear brother, Rev. If. C. Mears, who has preached the gospel for over forty years, came to fight the work, but became convinced that it was of God; he received the baptism of the Holy Spirit with the sign of tongues, and afterwards God gave him the most wonderful visions of Heaven, and of what the Lord is preparing for His people, and also visions of the coming of the Lord.
 % H・C・ミアーズ牧師という愛する兄弟は、四十年以上福音を説いてきた人である。彼はこの働きと戦うために来たが、これが神から出たものだと確信するようになった。そして異言のしるしを伴う聖霊のバプテスマを受けた。その後、神は彼に、天国と、主がご自分の民のために備えておられるものについて、最もすばらしい幻を与えてくださった。また主の来臨の幻も与えてくださった。
 // 英文の If. C. Mears は OCR の読み誤り。原本は H. C. Mears（ページ画像で確かめた）。
@@ -117,7 +117,7 @@ CLAIMING THE PROMISE
 『わたしはあなたがたに、へびやさそりを踏みつけ、敵のあらゆる力に打ち勝つ権威を授けた。だから、あなたがたに害をおよぼす者はまったく無いであろう』（ルカ一〇・一九）。
 
 At a recent meeting at the time just after the call for all needing prayer to come to the altar had been made, Sister Etter had been praying for many round the altar and God wonderfully healed them all, and as she was praying for a lady there was a scorpion laying two inches away from her hand.
-最近の集会でのことである。祈りの必要な人はみな祭壇の前に出るように、という招きがなされたすぐ後だった。エター姉妹は祭壇のまわりで多くの人のために祈っていた。神は驚くべきしかたで、その人々をみないやしてくださった。姉妹がひとりの婦人のために祈っていると、その手から五センチほどの所に、さそりが一匹いた。
+最近の集会でのことである。祈りの必要な人はみな祭壇の前に出るように、という招きがなされたすぐ後だった。エター姉妹は祭壇のまわりで多くの人のために祈っていた。神は驚くべきしかたで、その人々をみないやしてくださった。姉妹がひとりの婦人のために祈っていると、姉妹の手から五センチほどの所に、さそりが一匹いた。
 
 She saw it and went to knock it off and it stung her.
 姉妹はそれに気づき、払いのけようとして、刺された。
@@ -174,7 +174,7 @@ She had cancer of the mouth, and she was saved and healed.
 At once the swelling all went down and the soreness went, and she had the perfect use of her mouth.
 たちまち腫れはすっかり引き、痛みも去って、口を完全に使えるようになった。
 She came back the next day to testify that she was healed.
-彼女は翌日またやって来て、いやされたことを証しした。
+彼女は翌日またやって来て、いやされたと証しをした。
 
 ## ダラスの集会
 
@@ -226,7 +226,7 @@ F. F. BOSWORTH.
 AN APPRECIATION OF SISTER WOODWORTH-ETTER
 
 A minister of the gospel, who has been in the Lord's work for eleven years past, writes:--
-この十一年、主の働きに携わってきたある福音の働き人が、こう書いている。
+この十一年、主の働きに携わってきたある福音の牧師が、こう書いている。
 
 We have met with most of the leaders of the Apostolic Faith Movement, but never before met with anyone so deep in wisdom and in the knowledge of the things of God as Mrs. Woodworth-Etter.
 私たちは使徒信仰運動の指導者たちのほとんどに会ってきた。しかし、ウッドワース・エター夫人ほど、知恵においても神のことの知識においても深い人には、これまで会ったことがない。
@@ -235,30 +235,30 @@ Never have we seen the power of God manifested to such an extent as in these mee
 この集会ほど神の力が現されたのを、私たちは見たことがない。
 Her preaching is always in the demonstration of the Spirit, and in power.
 夫人の説教は、いつも霊と力との証明による。
-// コリント第一二・四 の言い回し。
+// 第一コリント二・四 の言い回し。
 
 One can sit and feast on the strong meat of the Kingdom, which she, a servant of Jesus, is giving to the Household of Faith here.
-イエスのしもべである夫人は、ここで信仰の家族に御国の堅い食物を与えている。人は座って、それを心ゆくまで味わうことができる。
+イエスのしもべである夫人は、ここで信仰の仲間に御国の堅い食物を与えている。人は座って、それを心ゆくまで味わうことができる。
 
 At one meeting at the time of the altar call she laid hands on and prayed for God to baptize some seekers with the Holy Ghost, and three in succession so prayed for fell and lay prostrate under the outpouring of the Holy Ghost, and received the baptism.
 ある集会で祭壇への招きをしたとき、夫人は何人かの求道者に手を置き、神がその人々に聖霊のバプテスマを授けてくださるよう祈った。そうして祈ってもらった三人が、次々に聖霊の注ぎによって倒れて横たわり、バプテスマを受けた。
 It is noticed that after she has prayed for certain ones and laid hands on them the power of the Holy Ghost comes upon them, and they speak in other tongues as the Spirit of God gives them utterance.
-夫人がある人々のために祈り、手を置くと、聖霊の力がその人々に臨む。そして神の御霊が語らせるままに異言を語る。そのことに人々は気づいている。
+夫人がある人々のために祈り、手を置くと、聖霊の力がその人々に臨む。そしてその人々は、神の御霊が語らせるままに異言を語る。そのことに人々は気づいている。
 
 She has a quick and accurate perception of the needs of the seekers, and can help and lead them into the Kingdom in a few minutes, where it would take most other workers hours, and then probably without attaining the same results.
 夫人は、求道者が何を必要としているかを、すばやく正確に見て取る。そして数分のうちに求道者を助け、御国へ導き入れることができる。ほかのたいていの働き人なら何時間もかかり、それでもおそらく同じ結果は得られないだろう。
 
 We have met with numbers of people from various cities that have been saved and healed in her meetings, and also independent, unbiased witnesses who confirm our conclusion, that she knows God, and the workings of His Spirit better than anyone that we have ever met.
-私たちは、夫人の集会で救われ、いやされた多くの人々に、さまざまな町で会ってきた。また、どの立場にも偏らない証人たちにも会ってきた。その人々は、私たちの結論を裏づけてくれる。夫人は、私たちがこれまでに会っただれよりも、神と、神の御霊の働きとをよく知っている、という結論である。
+私たちは、夫人の集会で救われ、いやされた、さまざまな町の多くの人々に会ってきた。また、利害関係のない、偏りのない証人たちにも会ってきた。その人々は、私たちの結論を裏づけてくれる。夫人は、私たちがこれまでに会っただれよりも、神と、神の御霊の働きとをよく知っている、という結論である。
 
 As to her capability and qualification to take charge and lead a meeting: after her thirty-five years of active evangelical work under the direct tuition, supervision, and guidance of God Himself, she stands unequalled in that respect as far as the writer and his colleagues have been able to ascertain.
-集会を受け持ち、導く力量と資格について言えば、夫人は三十五年のあいだ、神ご自身の直接の教えと監督と導きのもとで、活発に伝道の働きをしてきた。その点で、筆者と同僚たちが確かめることのできたかぎり、夫人に並ぶ者はいない。
+集会を受け持ち、導く力量と資格について言おう。夫人は三十五年のあいだ、神ご自身の直接の教えと監督と導きのもとで、活発に伝道の働きをしてきた。その点で、筆者と同僚たちが確かめることのできたかぎり、夫人に並ぶ者はいない。
 
 We have excellent grounds for believing that, like Daniel, she is "Greatly beloved" of our Heavenly Father; that like John the Beloved, she constantly leans on Jesus' bosom.
-夫人が、ダニエルのように天の父から『大いに愛せられる人』であり（ダニエル一〇・一一）、愛された弟子ヨハネのように、いつもイエスの胸に寄りかかっていると信じるのには、十分な根拠がある。
+夫人は、ダニエルのように天の父から『大いに愛せられる人』である（ダニエル一〇・一一）。また愛された弟子ヨハネのように、いつもイエスの胸に寄りかかっている。そう信じるのには、十分な根拠がある。
 
 At times while the meeting is going on the Spirit of God will come down in an exceptional manner and envelop her like a cloud; she at such times is transformed in appearance, the fashion of her countenance changes, and standing motionless for several minutes, with the light of Heaven streaming radiant in her face, she sees the unseen and invisible Lord, and the angelic hosts and other spiritual things within the veil, which are hidden to others.
-集会のさなかに、ときどき神の御霊がふつうでないしかたで下り、雲のように夫人を包まれる。そのようなとき、夫人の姿は変わり、顔の様が変わる。夫人は数分のあいだ身動きもせずに立ち、天の光が顔に輝き注ぐ。そして、目に見えない主と、御使の大軍と、そのほか幕の内にある霊の事柄とを見る。それらは、ほかの人々には隠されている。
+集会のさなかに、ときどき神の御霊がふつうでないしかたで下って来られ、雲のように夫人を包まれる。そのようなとき、夫人の姿は変わり、顔の様が変わる。夫人は数分のあいだ身動きもせずに立ち、天の光が顔に輝き注ぐ。そして、目に見えない主と、御使の大軍と、そのほか幕の内にある霊の事柄とを見る。それらは、ほかの人々には隠されている。
 // 顔の様が変わる はルカ九・二九、幕の内 はヘブル六・一九 の言い回し。
 Like when the high priest entered into the Holy of Holies, she leaves the congregation waiting till she returns in spirit and ministers once more to them.
 大祭司が至聖所に入ったときのように、夫人は会衆を待たせておく。そして霊において戻って来ると、再び会衆に仕える。
