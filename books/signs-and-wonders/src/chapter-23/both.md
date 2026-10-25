@@ -46,9 +46,9 @@ I felt very much rejoiced and encouraged by meeting so many who were saved five 
 私はたいへん喜び、励まされた。五、六年前にこの州で救われた人々の多くに会えたからである。その人々は、自分たちが幸せであるだけでなく、ほかの人々をキリストに導くために、実にさまざまな方法で働いていた。
 
 At Muncie and Anderson I met twenty-one licensed ministers who were converted or anointed in our meetings for the work.
-マンシーとアンダーソンで、私は伝道の免許を持つ二十一人の伝道者に会った。みな、私たちの集会で回心したか、働きのために油を注がれた人々だった。
+マンシーとアンダーソンで、私は説教の資格を受けた二十一人の牧師に会った。みな、私たちの集会で回心したか、働きのために油を注がれた人々だった。
 Some are ministers in the Church of God, some in the M. E., U. B., Friends, Baptists, and Newlights.
-神の教会の伝道者もいれば、メソジスト監督教会、合同兄弟教会、フレンド派、バプテスト、ニューライト派の伝道者もいる。
+神の教会の牧師もいれば、メソジスト監督教会、合同兄弟教会、フレンド派、バプテスト、ニューライト派の牧師もいる。
 
 From Anderson we went to Pendleton, Indiana, to hold meetings in the United Brethren Church three days.
 アンダーソンから、私たちはインディアナ州ペンドルトンへ行き、合同兄弟教会で三日間集会を開いた。
@@ -150,7 +150,7 @@ Many of my old acquaintances were brought out into the light.
 From Canton we went to St. Louis, and spent one night with the Church of God.
 カントンから私たちはセントルイスへ行き、神の教会と共に一夜を過ごした。
 The house was filled with Christians and friends to welcome us with them again.
-会堂は、私たちが再び共にいるのを迎えるクリスチャンと友人たちでいっぱいだった。
+会堂は、再び私たちを迎えようと集まったクリスチャンと友人たちでいっぱいだった。
 
 From St. Louis we went to Topeka, Kansas, and pitched our tabernacle in the City Park.
 セントルイスから私たちはカンザス州トピーカへ行き、市の公園に幕屋を張った。
@@ -184,7 +184,7 @@ It was a great trial and test of faith to stand and see our tent destroyed, but 
 In the midst of this we never became the least discouraged or faint-hearted, but praised God in the midst of the tempest.
 そのただ中で、私たちは少しも心くじけず、気落ちもせずに、嵐のただ中で神をほめたたえた。
 We could say, "The Lord gave and the Lord has permitted to be taken away."
-私たちは「主が与え、主が取り去られるのを許されたのだ」と言うことができた。
+私たちは「主が与え、それが取り去られるのを主が許されたのだ」と言うことができた。
 // ヨブ一・二一 の言い換え。
 We are only the Lord's stewards.
 私たちは主の管理人にすぎない。
@@ -202,7 +202,7 @@ They soon purchased a tent.
 We dedicated it to the Lord.
 私たちはそれを主にささげた。
 Notwithstanding these difficulties and many others that were in the way of the meeting, God was with us in power from the beginning, and the spirit of conviction rested upon every congregation.
-こうした困難や、集会を妨げたほかの多くの困難にもかかわらず、神は初めから力をもって私たちと共におられた。罪を示す御霊が、どの会衆の上にもとどまっていた。
+こうした困難や、集会を妨げたほかの多くの困難にもかかわらず、神は初めから力をもって私たちと共におられた。罪を示す霊が、どの会衆の上にもとどまっていた。
 
 ## 重んじられた神の言葉
 WORD OF GOD HONORED
@@ -237,15 +237,14 @@ The Lord not only saved the outbroken sinner, but also those who were living mor
 Many members of different churches were made to see that they had only a profession.
 いろいろな教会の多くの会員が、自分には信仰の告白しかなかったことを悟らされた。
 Now they know they are born of God, his Spirit bearing witness that they are the children of God, and if children then heirs of God, and joint-heirs with the Lord Jesus Christ.
-今その人々は、自分が神から生れたことを知っている。神の御霊が、その人々が神の子であることをあかししてくださる。もし子であれば、神の相続人であり、主イエス・キリストと共同の相続人である。
+今その人々は、自分が神から生まれたことを知っている。神の御霊が、その人々が神の子であることをあかししてくださる。もし子であれば、神の相続人であり、主イエス・キリストと共同の相続人である。
 
 One sister had belonged to church from childhood: She was considered one of the best workers.
 ある姉妹は、子供のころから教会に属していた。彼女は、最も良い働き手のひとりと見られていた。
-// 英文の childhood: の後の She は原本のとおりか OCR の誤りかを確かめていない。文の切れ目と読んだ。
 When she came to meeting she found she had never had a change of heart.
 集会に来て、彼女は自分の心が一度も変えられていなかったことに気づいた。
 She came to the altar like any other sinner, and cried to God for mercy, and, bless his dear name, he did not disappoint her.
-彼女はほかの罪人と同じように祭壇の前に出て、あわれみを求めて神に叫んだ。そして、その愛する御名がほめたたえられるように、神は彼女を失望させられなかった。
+彼女はほかの罪人と同じように祭壇の前に出て、あわれみを求めて神に叫んだ。愛する御名をほめたたえよ。神は彼女を失望させることはなさらなかった。
 Salvation came streaming down in her soul.
 救いが、彼女の魂に流れ下った。
 In giving her experience, she said she thought all these years she was, like Job, perfect; but now she knew if she had died she would have been lost forever.
@@ -263,7 +262,7 @@ Many others of the same experience were brought to the Lord.
 This is evidence that what we are teaching everywhere we go is true; that there are thousands in the churches to-day who think they are all right, think they have eternal life, but are in a lost condition.
 これは、私たちが行く先々で教えていることが本当である証拠である。今日の教会には、自分は大丈夫だ、永遠のいのちを持っていると思いながら、滅びの状態にある人々が何千人もいるのである。
 May God have mercy on blind leaders and false teachers, and send something to arouse them before they and their followers go down to hell together.
-どうか神が、盲目の手引きや偽教師たちをあわれんでくださるように。そして、その者たちが従う者たちと共に地獄に下る前に、目をさまさせる何かを送ってくださるように。
+どうか神が、盲目の手引きや偽教師たちをあわれんでくださるように。そして、その者たちが自分に従う者たちと共に地獄に下る前に、目をさまさせる何かを送ってくださるように。
 There are thousands of ministers to-day who are healing the "hurt of my daughter" but slightly; saying peace, peace, when the Lord God says there is no peace.
 今日、「わたしの娘の傷」を手軽にいやしている牧師が何千人もいる。主なる神が平安はないと言われるのに、平安、平安と言っているのである。
 // エレミヤ八・一一（六・一四）の言葉。英文の my daughter は口語訳で「わたしの民」。
@@ -282,7 +281,7 @@ The people are dead in trespasses and sins, and these false teachers are making 
 They are making them believe there is no hell, doing away with future punishment.
 来世の刑罰を取り去って、地獄はないと信じ込ませている。
 The Lord says they are teaching the people to hide behind a refuge of lies, but in the storm of God's wrath these refuges shall be swept away, and they, with their followers, will have no hiding place.
-主は言われる。その者たちは人々に、偽りの避け所の陰に隠れるよう教えている。しかし神の怒りの嵐の中で、その避け所は押し流され、その者たちも従う者たちも、隠れ場を失うだろう、と。
+主は言われる。その者たちは人々に、偽りの避け所の陰に隠れるよう教えている。しかし神の怒りの嵐の中で、その避け所は押し流され、その者たちも、それに従う者たちも、隠れ場を失うだろう、と。
 May the Spirit of God come upon every reader, and cause you to search your heart in the light of God and eternity, and see if you are hiding behind these refuges of lies.
 どうか神の御霊が、読者のひとりひとりの上に臨んでくださるように。そして、神と永遠の光の中で自分の心を探り、偽りの避け所の陰に隠れていないかを見させてくださるように。
 If so, you are on the sand; unless you come to Christ and receive life, there is a-fearful doom awaiting you.
@@ -355,9 +354,9 @@ We visited Florida, New York City, Ohio, Illinois, Oregon, Kansas and:then we co
 We found a large crowd present to welcome us back, and amid the tears and shouts of joy we felt we were at home.
 大勢の群衆が私たちの帰りを迎えてくれた。喜びの涙と叫びの中で、私たちはわが家に帰ったように感じた。
 We were made to rejoice to find the church in a good spiritual condition also for the beautiful house of worship which was dedicated while we were at Salem, Oregon, this being the first time we were permitted to meet in it.
-教会が霊的に良い状態にあるのを見て、私たちは喜んだ。美しい礼拝堂のことも喜んだ。それは私たちがオレゴン州セーレムにいたあいだに献堂されたもので、私たちがその中で集うのを許されたのは、これが初めてだった。
+教会が霊的に良い状態にあるのを見て、私たちは喜んだ。美しい礼拝堂のことも喜んだ。それは私たちがオレゴン州セイラムにいたあいだに献堂されたもので、私たちがその中で集うのを許されたのは、これが初めてだった。
 As we looked at the beautiful building, and saw this was the results of the battle we commenced in Kerry Patch amid the howling mob and showers of stones, we realized it is not by might nor by power, but it is by the Spirit of God.
-美しい建物を眺め、これが、わめく暴徒と石の雨の中、ケリー・パッチで私たちが始めた戦いの実であることを見て、私たちは悟った。これは権勢によらず、能力によらず、神の霊によるのである。
+美しい建物を眺め、これが、わめく暴徒と石の雨の中、ケリー・パッチで私たちが始めた戦いの実であることを見て、私たちは悟った。これは権勢によらず、能力によらず、神の御霊によるのである。
 Hear him say: "T am the God of all flesh; is there anything too hard for me?"
 神がこう言われるのを聞け。『わたしはすべて命ある者の神である。わたしにできない事があろうか』（エレミヤ三二・二七）。
 // 英文の T am は I am と読んだ。
@@ -394,7 +393,7 @@ The physicians said she could not be cured.
 I laid hands on her and prayed for her; she was healed in a moment.
 私が手を置いて祈ると、彼女はたちまちいやされた。
 The prayer of faith shall save the sick, and the Lord shall raise them up, saith God's word.
-信仰による祈は病んでいる人を救い、主はその人を立ちあがらせて下さる、と神の言葉は言う。
+信仰による祈りは病んでいる人を救い、主はその人を立ちあがらせてくださる、と神の言葉は言う。
 A girl fourteen years of age was healed of spinal disease she had suffered with for two years.
 十四歳の少女が、二年患っていた脊椎の病気をいやされた。
 She was in the hospital for treatment, and the physicians said she could not get well.
@@ -435,7 +434,7 @@ Many came from other States to enjoy the meeting and to eat at our Father's tabl
 Some were saved, others were healed in body and went home rejoicing.
 救われる人もいれば、からだをいやされる人もいて、喜んで家に帰って行った。
 An evangelist who had been afflicted with rheumatism for over thirty years came nearly one hundred miles and was healed instantly, which caused him to leap and shout.
-三十年以上もリウマチに苦しんでいたひとりの伝道者が、百マイル近くの道のりをやって来て、たちどころにいやされ、躍り上がって叫んだ。
+三十年以上もリウマチに苦しんでいたひとりの伝道者が、百マイル近くの道のりをやって来た。そして、たちどころにいやされ、躍り上がって叫んだ。
 The next day he walked several miles over the city.
 次の日、彼は町じゅうを何マイルも歩いた。
 
@@ -474,7 +473,7 @@ Although she accepted Christ at the eleventh hour she has won a number of stars 
 彼女がキリストを受け入れたのは最後の時刻だったが、自分の冠のための星をいくつも勝ち取った。
 
 We have told only a few of the wonderful cases of divine healing that God wrought in the tent-meeting.
-天幕集会で神がなされた驚くべき神のいやしのうち、ここに記したのはほんのわずかである。
+天幕集会でなされた驚くべき神のいやしのうち、ここに記したのはほんのわずかである。
 
 The healing power was not confined to the tent alone, but many people in the city, and in other States, were healed instantly while we were engaged in prayer for them in the tent.
 いやしの力は天幕の中だけにとどまらなかった。町の多くの人々や、ほかの州の人々も、私たちが天幕の中でその人々のために祈っているあいだに、たちどころにいやされた。
@@ -498,7 +497,7 @@ During this time I have traveled about thirty-five thousand three hundred and tw
 The power of the Holy Ghost has gone out from these meetings all over the United States, and been felt in many places across the mighty deep in awakening power.
 聖霊の力は、これらの集会から合衆国じゅうに出て行き、大海の向こうの多くの所でも、人を目ざめさせる力として感じられた。
 God alone knows how many thousand souls have been born into the kingdom of our Lord Jesus Christ, and how many bodies have been healed by the power of the Lord.
-何千の魂が私たちの主イエス・キリストの御国に生れたか、何人のからだが主の力によっていやされたかは、神だけがご存じである。
+何千の魂が私たちの主イエス・キリストの御国に生まれたか、何人のからだが主の力によっていやされたかは、神だけがご存じである。
 Thousands have been saved, from the age of fifty to eight-five; some past ninety.
 五十歳から八十五歳までの人々が何千人も救われた。九十歳を過ぎた人々もいた。
 // 英文の eight-five は eighty-five と読んだ。
@@ -512,12 +511,12 @@ Hundreds of those who have been blest in the meetings have died in the triumph o
 Many of these were very aged, plucked as brands from the eternal burnings.
 その多くはたいへん年老いた人々で、永遠の火の中から燃えさしのように取り出されたのである。
 Many said with their last breath they would be waiting and watching for us at the beautiful gates.
-その多くは、息を引き取る間際に、美しい門で私たちを待ち、見守っていると言った。
+その多くは、息を引き取る間際に、美しい門で私たちを待ち受けていると言った。
 
 I can say with Joshua, in all the promises the Lord has made, he has never failed in one, but has been with me in every trial and given grace and glory.
 私はヨシュアと共に言うことができる。主が約束されたすべてのことのうち、一つも欠けたものはなかった。主はどの試練のときにも私と共におられ、恵みと栄光を与えてくださった。
 He has conquered all my enemies and glorified his name again and again.
-主は私の敵をことごとく征服され、何度も何度も御名をあがめられた。
+主は私の敵をことごとく征服され、何度も何度も御名の栄光を現された。
 What he has done in the past he will do in the future.
 主はこれまでなさったことを、これからもなさるだろう。
 I will trust him and go forward until he calls me from labor to reward.
@@ -544,6 +543,6 @@ We shall be like him; these "bodies of our humiliation" shall be changed and mad
 Oh, what a happy meeting that will be!
 ああ、それは何という幸せな再会になることだろう。
 Whole families and friends will rise up from the old churchyards and clasp each other in a long embrace, which will last forever; parents and children shall meet, husbands and wives, brothers and sisters, friends and neighbors, pastors and flocks.
-家族そろって、友人たちも、古い教会墓地からよみがえり、互いに長く抱き合う。その抱擁はとこしえに続く。親と子が、夫と妻が、兄弟姉妹が、友と隣人が、牧師と群れが再会する。
+家族も友人たちも、そろって古い教会墓地からよみがえり、互いに長く抱き合う。その抱擁はとこしえに続く。親と子が、夫と妻が、兄弟姉妹が、友と隣人が、牧師と群れが再会する。
 Those who are alive will be changed in a moment, set free from the effects of sin, and be clothed with the glory of heaven.
 生きている者はたちまち変えられ、罪の影響から解き放たれ、天の栄光を着せられる。
