@@ -38,7 +38,7 @@ The Lord said through the prophet, many hundred years ago, "Whom shall He teach 
 // 口語訳のイザヤ二八・九は後半も問いの形で、英文の意味と合わないので、英文に合わせて「」で訳した。
 
 Jesus had been on earth, healed the sick, cast out devils, cleansed the temple; but the Jews rejected and crucified Him. Now, on the day of Pentecost, when they heard the Holy Ghost speak through these 120 unlearned men and women, they were confounded.
-イエスは地上におられたとき、病人をいやし、悪霊を追い出し、宮をきよめられた。しかしユダヤ人はイエスを拒み、十字架につけた。そして今、ペンテコステの日に、聖霊がこの百二十人の無学な男女を通して語られるのを聞いて、彼らはあっけに取られたのである。
+イエスは地上におられたとき、病人をいやされ、悪霊を追い出され、宮をきよめられた。しかしユダヤ人はイエスを拒み、十字架につけた。そして今、ペンテコステの日に、聖霊がこの百二十人の無学な男女を通して語られるのを聞いて、彼らはあっけに取られたのである。
 
 They heard them tell of Jesus, whom they had crucified, and were convinced that this was the work of Divine Power. Some said, these people are drunk, filled with new wine; but Peter said, they cannot be drunk so early in the day.
 彼らは、自分たちが十字架につけたイエスのことを、その人々が語るのを聞いた。そして、これは神の力のわざだと確信した。ある人々は、この人たちは酔っている、新しい酒に酔っているのだ、と言った。しかしペテロは、こんなに朝早くから酔っているはずがない、と言った。
@@ -54,13 +54,13 @@ They would not believe Jesus, so they had to be convinced by the Word of God, th
 彼らはイエスを信じようとしなかった。それで、自分たちの聞いたものが預言者たちの語った聖霊であることを、神のみことばによって納得させられなければならなかった。ペテロは旧約聖書を証拠として、彼らに説教した。彼らは罪を示されて回心した。その数は三千人であった。
 
 They cried out for mercy; we have crucified the Lord; what shall we do? They got saved and baptized in the Holy Ghost. Peter said to them, "this you see is from the Father; repent of what ye did; turn to God and you shall receive the gift of the Holy Ghost."
-彼らはあわれみを求めて叫んだ。私たちは主を十字架につけてしまった、どうしたらよいのか、と。彼らは救われ、聖霊のバプテスマを受けた。ペテロは彼らに言った。「あなたがたが見ているこれは、父から出たものである。自分のしたことを悔い改め、神に立ち返りなさい。そうすれば、聖霊の賜物を受けるであろう」（使徒二・三八）。
+彼らはあわれみを求めて叫んだ。私たちは主を十字架につけてしまった、どうしたらよいのか、と。彼らは救われ、聖霊のバプテスマを受けた。ペテロは彼らに言った。「あなたがたが見ているこれは、父から出たものである。自分のしたことを悔い改め、神に立ち返りなさい。そうすれば、聖霊の賜物を受けるであろう」（使徒二・三三、三八）。
 
 "The promise is unto you and your children." You can all have the same power we have and do the same things, you and your children; you can get this baptism and teach it to your children; they can have it, "and all that are afar off, even as many as the Lord our God shall call."
 『この約束は、あなたがたと、あなたがたの子らとに、与えられているものである』（使徒二・三九）。あなたがたはみな、私たちと同じ力を持ち、同じことをすることができる。あなたがたも、あなたがたの子供たちもである。あなたがたはこのバプテスマを受け、それを子供たちに教えることができる。子供たちもそれを受けることができる。「遠くの者一同、すなわち、われらの主なる神の召しにあずかるすべての者」も受けることができるのである（使徒二・三九）。
 
 God sends the Holy Ghost to come into the human body; He takes charge of the vocal organs and the person has nothing to do about it; but, for all that God does such a wonderful thing, some of you will not believe it. Tongues are for a sign to unbelievers; they were the worst kind of unbelievers; they had crucified the Lord, but they were made to believe in Jesus Christ by this sign. They were convinced by this sign that Jesus was the Messiah, when everything else had failed.
-神は聖霊をお遣わしになって、人の体の中に入らせてくださる。聖霊は発声器官を支配され、その人はそれに何の手出しもしない。しかし、神がこれほどすばらしいことをしてくださるのに、あなたがたの中には信じようとしない人々がいる。異言は信じない者のためのしるしである。彼らは最悪の信じない者であった。主を十字架につけたのである。しかし、このしるしによってイエス・キリストを信じるようにされた。ほかのすべてが失敗したとき、彼らはこのしるしによって、イエスがメシヤであると納得したのである。
+神は聖霊をお遣わしになって、人の体の中に入らせてくださる。聖霊は発声器官を支配され、その人はそれに何の手出しもしない。しかし、神がこれほどすばらしいことをしてくださるのに、あなたがたの中には信じようとしない人々がいる。異言は信じない者のためのしるしである。彼らは、信じない者の中でも最もひどい者たちであった。主を十字架につけたのである。しかし、このしるしによってイエス・キリストを信じるようにされた。ほかのすべてが失敗したとき、彼らはこのしるしによって、イエスがメシヤであると納得したのである。
 
 These were unlearned men, all Galileans, yet they spoke all these tongues representing the different nations, in a wonderful way. It takes years and years to master other languages and very few speak them fluently like natives. These were unlearned people, yet they spoke fluently, like the natives, because God Almighty spoke through them.
 この人々は無学な人たちで、みなガリラヤ人であった。それなのに、さまざまな国々の言葉を、すばらしい仕方で語った。他国の言葉を身につけるには、何年も何年もかかる。その国の人のように流暢に話せる人は、ごくわずかである。この人々は無学だったのに、その国の人のように流暢に語った。全能の神が、彼らを通して語られたからである。
@@ -69,26 +69,26 @@ Every one who is baptized in the Holy Ghost today, as he ought to be, speaks in 
 今日、受けるべきかたちで聖霊のバプテスマを受ける人はみな、他国の言葉で語る。そして最初の言葉は、ほとんどいつも「イエスはすぐに来られる！」である。
 
 The pouring out of the Holy Spirit in this way is a sign that we are in the last days. When He comes in His fullness, He shall take possession and talk through you of the death, resurrection and ascension of Jesus. When Jesus went away, He said, do not preach but tarry at Jerusalem until ye receive power, after the Holy Ghost comes upon you.
-聖霊がこのように注がれることは、私たちが終わりの時にいるしるしである。聖霊が満ちあふれて来られるとき、あなたをとらえられ、あなたを通してイエスの死と復活と昇天について語られる。イエスは去って行かれるとき、説教はせずに、聖霊があなたがたにくだって力を受けるまで、エルサレムにとどまっていなさい、と言われた。
+聖霊がこのように注がれることは、私たちが終わりの時にいるしるしである。聖霊が満ちあふれて来られるとき、あなたをとらえられ、あなたを通してイエスの死と復活と昇天について語られる。イエスは去って行かれるとき、説教はせずにエルサレムにとどまっていなさい、と言われた。聖霊があなたがたにくだって、あなたがたが力を受けるまで、というのである。
 
 After their training of three years, they had much to tell, but He told them not to talk about it, to stay together and watch until the power should come, and then they should testify of Him. Now, when the Holy Ghost came and took possession of them, remember they kept still until the Holy Ghost testified through them; then they could be witnesses.
-三年間の訓練の後、彼らには語ることがたくさんあった。しかしイエスは、それを語らず、共にとどまって、力が来るまで待ち、それから主についてあかしをするように、と言われた。さて、聖霊が来られて彼らをとらえられたとき、聖霊が彼らを通してあかしをされるまで、彼らが黙っていたことを覚えておきなさい。それから、彼らは証人となることができたのである。
+三年間の訓練の後、彼らには語ることがたくさんあった。しかしイエスは、それを語らず、共にとどまって、力が来るまで目をさまして待ち、それから主についてあかしをするように、と言われた。さて、聖霊が来られて彼らをとらえられたとき、聖霊が彼らを通してあかしをされるまで、彼らが黙っていたことを覚えておきなさい。それから、彼らは証人となることができたのである。
 
 They had to keep still until the Holy Ghost testified through every one of them. He told the wonderful works of God; Jesus died and rose again, went to God's right hand, and sent the Holy Ghost to testify of Him. It is so wonderful to me; the Holy Ghost speaking first, the rest waiting until He had finished.
-聖霊がひとり残らず彼らを通してあかしをされるまで、彼らは黙っていなければならなかった。聖霊は神の大きな働きを告げられた。イエスが死んでよみがえられ、神の右に行かれて、ご自分についてあかしをさせるために聖霊を遣わされたということである。それは私にとって、実にすばらしいことである。聖霊がまず語られ、ほかの者たちは、聖霊が語り終えられるまで待っていたのである。
+聖霊がひとり残らず彼らを通してあかしをされるまで、彼らは黙っていなければならなかった。聖霊は神の大きな働きを告げられた。イエスが死なれてよみがえられ、神の右に行かれて、ご自分についてあかしをさせるために聖霊を遣わされたということである。それは私にとって、実にすばらしいことである。聖霊がまず語られ、ほかの者たちは、聖霊が語り終えられるまで待っていたのである。
 
 He took the Scriptures, for the people always believed in the prophets. He took the witness-stand and brought to them the proof that the promise of the Father had literally come to pass in the fullness of time, God had spoken in other tongues through men. Peter took up the word, and confirmed what the Holy Ghost had done. He confirmed it by the Old Testament.
 聖霊は聖書を取り上げられた。人々はいつも預言者たちを信じていたからである。聖霊は証人台に立たれ、父の約束が時満ちて文字どおりに実現したという証拠を、人々に示された。神は人々を通して異言で語られたのである。ペテロは話を引き継いで、聖霊がなさったことを確かにした。旧約聖書によって確かにしたのである。
 
 Jesus said, when the Holy Ghost comes in He shall testify of Me, then you shall be witnesses. In the mouth of two or three witnesses, every word shall be established. When the Holy Ghost comes in to abide, He comes into the body like rivers of living water. The power comes from the heart, not the head. We talk through the intellect; the Holy Ghost talks through the Spirit. The Holy Ghost testifies when it is God's work.
-イエスは言われた。聖霊が来るとき、わたしについてあかしをする、それからあなたがたが証人となる、と。ふたりか三人の証人の口によって、すべての言葉が確かにされる。聖霊が来てとどまられるとき、生ける水の川のように体の中に入って来られる。力は頭からではなく、心から来る。私たちは知性を通して話す。聖霊は霊を通して話される。それが神のわざであるとき、聖霊があかしをされるのである。
+イエスは言われた。聖霊が来るとき、わたしについてあかしをする、それからあなたがたが証人となる、と。ふたりまたは三人の証人の口によって、すべてのことがらが確かめられる。聖霊が来られてとどまられるとき、生ける水の川のように体の中に入って来られる。力は頭からではなく、心から来る。私たちは知性を通して話す。聖霊は霊を通して話される。それが神のわざであるとき、聖霊があかしをされるのである。
 
 Peter said, "This is that," this special thing. These, acting like drunken men, these talking in other languages--all this is "that spoken by the prophet." God said when His Spirit was poured out He would speak with stammering lips and another tongue; but some will not believe it.
 ペテロは「これこそ」と言った。この特別なことこそ、というのである。酔った人のようにふるまうこの人々、他国の言葉で語るこの人々、これはみな「預言者が預言していたこと」なのである。神は、ご自分の霊が注がれるときには、異国のくちびると異国の舌とをもって語る、と言われた。しかし、ある人々はそれを信じようとしない。
 // 「This is that」「that spoken by the prophet」は、使徒二・一六の言葉を切り取ったもの。
 
 The cloven tongues are seen: In Dallas and Chicago, fire was seen upon the heads of some. It is the same Holy Ghost speaking in other tongues; why not see the cloven tongues of fire?
-炎のように分かれた舌が見られている。ダラスとシカゴでは、ある人々の頭の上に火が見えた。異言で語らせておられるのは同じ聖霊である。それなら、炎のように分かれた舌が見えてもおかしくないではないか。
+炎のように分かれた舌が見られている。ダラスとシカゴでは、ある人々の頭の上に火が見えた。異言で語っておられるのは同じ聖霊である。それなら、炎のように分かれた舌が見えてもおかしくないではないか。
 
 When the Holy Ghost comes in, He will take possession of the house, take the uppermost seat and speak Himself. Paul shows it is a wonderful thing for God to speak through you in unknown tongues, by the Holy Ghost. He quotes the prophets of thousands of years ago.
 聖霊は来られるとき、その家をご自分のものとされ、上座に着かれて、ご自身で語られる。パウロは、聖霊によって神があなたを通して異言で語られるのはすばらしいことだと示している。パウロは何千年も前の預言者たちを引用している。
@@ -110,13 +110,13 @@ John the Baptist was filled with the Holy Ghost from his birth, yet he was under
 バプテスマのヨハネは、生まれたときから聖霊に満たされていた。それでも律法のもとにあった。イエスの母は聖霊に満たされていたが、ほかの者たちと共にバプテスマを受けなければならなかった。使徒たちは聖霊を受けており、神の愛が心に注がれていた。それでも、ペンテコステの日にバプテスマを受けたのである。
 
 Follow on and get the real baptism and you will be filled with all the fullness. Jesus did not have the fullness of power until He finished His work, laid down His life, and God raised Him from the dead.
-進み続けて、本当のバプテスマを受けなさい。そうすれば、満ちあふれるものすべてで満たされる。イエスでさえ、ご自分の働きを終えられ、いのちを捨てられ、神によって死人の中からよみがえらされるまでは、満ちあふれる力を持っておられなかった。
+進み続けて、本当のバプテスマを受けなさい。そうすれば、満ちあふれるものすべてで満たされる。イエスは、ご自分の働きを終えられ、いのちを捨てられた。そして神によって死人の中からよみがえらされるまでは、満ちあふれる力を持っておられなかった。
 
 When He arose He was a mighty conqueror; then He had all authority and power. He breathed upon the Apostles and said, "Receive ye the Holy Ghost." Their understanding was opened and they knew more than they ever did before. They were wonderfully blessed.
 よみがえられたとき、イエスは力ある勝利者であった。そのとき、いっさいの権威と力をお持ちになった。イエスは使徒たちに息を吹きかけられて、『聖霊を受けよ』と言われた（ヨハネ二〇・二二）。彼らは悟りが開かれ、それまでよりも多くのことを知った。彼らはすばらしく祝福された。
 
 You must be full of joy before you get the baptism. They were full of joy, and all of one mind and one spirit. Glory to God! They went to the upper room, they were ready, they believed, and they waited at Jerusalem; they continued with one accord, not praying and begging all the time, but waiting.
-バプテスマを受ける前に、喜びに満ちていなければならない。彼らは喜びに満ち、みな心を一つにし、霊を一つにしていた。神に栄光あれ！　彼らは屋上の間に行った。彼らは備えができており、信じていた。そしてエルサレムで待った。彼らは心を合わせて続けていたが、いつも祈って懇願していたのではなく、待っていたのである。
+バプテスマを受ける前に、喜びに満ちていなければならない。彼らは喜びに満ち、みな心を一つにし、霊を一つにしていた。神に栄光あれ！　彼らは屋上の間に行った。彼らは備えができており、信じていた。そしてエルサレムで待った。彼らは心を合わせてとどまっていた。いつも祈って懇願していたのではなく、待っていたのである。
 
 Stop begging and get joy in your heart, then you will get something. God had been moving in power and they had cast out devils; but now they waited until the power came upon them and they spoke in new tongues.
 懇願するのをやめて、心に喜びを持ちなさい。そうすれば何かを受ける。神はそれまでも力をもって働いておられ、彼らは悪霊を追い出していた。しかし今は、力が臨むまで待った。そして彼らは、新しい言葉で語ったのである。
@@ -143,10 +143,10 @@ When the prophets were anointed, the oil was poured over their heads; then the H
 預言者たちが油を注がれたとき、油は頭に注がれた。それから、聖霊が彼らの中に入られた。聖霊は私たちの頭の上にくだられなければならない。それから私たちの全身に満ちられる。こうして私たちをとらえられるのである。多くの人は、異言で語ることのほかは何も考えず、ほかのすべてをわきへ置いてしまう。
 
 Thirty-five years ago, I was baptized with the Holy Ghost and fire; and I stood alone. When the Pentecostal Movement broke out, and some said they would not have anything but tongues, I was kept back, and could not do much with the movement at first. There was so much false teaching, the Holy Ghost was driven away from many people; they wanted the Holy Ghost to work this way, and not that way. Let the Holy Ghost work in any way that agrees with the word of God.
-三十五年前、私は聖霊と火とのバプテスマを受けた。そして、ひとりで立っていた。ペンテコステ運動が起こり、ある人々が異言のほかは何も受け入れないと言ったとき、私は引き止められて、初めはこの運動とあまりかかわることができなかった。間違った教えがあまりにも多く、多くの人が聖霊を追いやってしまった。人々は、聖霊にこう働いていただきたい、ああではいけない、と望んだのである。神のみことばに合うものなら、どのようにでも聖霊に働いていただきなさい。
+三十五年前、私は聖霊と火とのバプテスマを受けた。そして、ひとりで立っていた。ペンテコステ運動が起こり、ある人々が異言のほかは何も受け入れないと言った。そのとき私は引き止められて、初めはこの運動とあまりかかわることができなかった。間違った教えがあまりにも多く、多くの人が聖霊を追いやってしまった。人々は、聖霊にこう働いていただきたい、ああではいけない、と望んだのである。神のみことばに合うものなら、どのようにでも聖霊に働いていただきなさい。
 
 The Apostles had faith; they knew they were going to have power as they had never had it before. God has given us light and He expects us to have faith that we shall receive the Holy Ghost in such a wonderful way that He will speak through us.
-使徒たちには信仰があった。それまで持ったことのないような力を受けることを、知っていた。神は私たちに光を与えてくださった。そして、聖霊が私たちを通して語ってくださるほどすばらしい仕方で聖霊を受けるという信仰を、私たちが持つことを期待しておられる。
+使徒たちには信仰があった。それまで持ったことのないような力を受けることを、知っていた。神は私たちに光を与えてくださった。そして、聖霊を受けるという信仰を私たちが持つことを期待しておられる。聖霊が私たちを通して語ってくださるほど、すばらしい仕方で受けるという信仰である。
 
 I believe the Holy Ghost will speak in tongues through every one who receives the baptism, and you will receive the other gifts also, if you believe for them. In these last days, God is raising up a people who will blow the trumpet.
 私は、バプテスマを受けるすべての人を通して、聖霊が異言で語られると信じている。そして、ほかの賜物も信じて求めるなら、それも受ける。この終わりの時に、神はラッパを吹き鳴らす民を起こしておられる。
@@ -176,7 +176,7 @@ People who are healed are full of joy and sometimes jump and dance when the heal
 Men and women, rejoice, seek the baptism and receive the gifts. You shall have them if you believe for them; and you shall be witnesses. May God seal this to some heart, in the name of Jesus.
 男たちよ、女たちよ、喜びなさい。バプテスマを求め、賜物を受けなさい。信じて求めるなら、あなたがたはそれを受ける。そして証人となる。イエスの名によって、神がこのことをだれかの心に確かに刻んでくださるように。
 
-# 第六十三章　病人のために祈れというヤコブの命令
+# 第六十三章　ヤコブが教会に与えた、病人のために祈れという命令
 CHAPTER LXIII
 JAMES' COMMISSION TO THE CHURCH TO PRAV FOR THE SICK
 // 英文の「PRAV」は「PRAY」の誤植。
@@ -232,7 +232,7 @@ Great miracles ought to be performed, and they are being performed in these days
 大きな奇跡が行われるべきである。そして、この時代に実際に行われている。花嫁が、花婿を迎えて共に空中に上って行くために、自分を整えている時代である。神は終わりの時に、もっと大きいわざをなさる。
 
 All the people that are baptized in the Spirit believe that Jesus is coming soon. One-half know it: how? By the word and signs. God wants to move His people, when the gospel of the coming King shall be preached to all the world; then the Lord will come.
-御霊のバプテスマを受けている人々はみな、イエスがまもなく来られると信じている。その半数は、それを知っている。どのようにしてか。みことばとしるしによってである。来たるべき王の福音が全世界に宣べ伝えられるとき、神はご自分の民を動かしたいと望んでおられる。そのとき、主は来られる。
+御霊のバプテスマを受けている人々はみな、イエスがまもなく来られると信じている。その半数は、それを知っている。どのようにしてか。みことばとしるしによってである。神はご自分の民を動かして、来たるべき王の福音を全世界に宣べ伝えさせたいと望んでおられる。そのとき、主は来られる。
 
 This gospel of the coming King is to girdle the earth, and give every professing child of God a chance to come into the power of the Holy Ghost. If we do not blow the trumpet and give forth the right sound, the tribulation will be upon us and their blood will be required at our hands.
 この来たるべき王の福音は地を一巡りし、神の子供と称するすべての人に、聖霊の力の中に入る機会を与えることになっている。私たちがラッパを吹かず、正しい音を出さないなら、患難が私たちの上に臨み、彼らの血の責任が私たちの手に求められる。
@@ -280,10 +280,10 @@ The next morning, I was very weak, but felt I must go to her, when the Lord said
 次の朝、私はひどく弱っていたが、どうしても彼女の所へ行かなければならないと感じていた。そのとき、主が私に言われた。「あなたは彼女のために祈りなさい。わたしが彼女をいやす」数日後、別の町で、主が約束を果たされたという知らせが私に届いた。あなたがたは、催眠術の力だとか、私の力だとか言う。私はこの女性に会ったことすらなかったのである。
 
 About laying on of hands; I was holding a meeting in Indiana; there were few people to pray the power down. Dr. Daggett, a physician, came to the meetings whenever he could and would lead in prayer.
-手を置くことについて話そう。私はインディアナ州で集会を開いていた。祈って力を呼び下す人は、ほとんどいなかった。医師のダゲット博士が、来られるときにはいつも集会に来て、祈りを導いてくれた。
+手を置くことについて話そう。私はインディアナ州で集会を開いていた。祈って力を呼び下す人は、ほとんどいなかった。医師のダゲット博士が、来ることのできるときにはいつも集会に来て、祈りを導いてくれた。
 
 Sometimes he had to go out, he suffered so with pain in his knees. The Lord began to say to me, "That man ought to be healed." He impressed this upon me so much, I had to go to him and say, "I wish you did not have to go out; I need you here." He said, "I am very sorry, but I suffer so I have to go." I asked him if he did not believe God could heal him, and told him that I believed God wanted to heal him.
-彼はひざの痛みにひどく苦しんでいたので、ときどき外に出なければならなかった。主は私に、「あの人はいやされるべきだ」と言いはじめられた。主があまりにも強くこのことを私に感じさせられたので、私は彼の所へ行って言わなければならなかった。「あなたが出て行かなくてすめばいいのですが。ここにいていただきたいのです」彼は言った。「本当に申し訳ないのですが、とても痛くて、出て行かなければならないのです」私は彼に、神があなたをいやすことがおできになると信じないのかと尋ね、神はあなたをいやしたいと望んでおられると私は信じている、と話した。
+彼はひざの痛みにひどく苦しんでいたので、ときどき外に出なければならなかった。主は私に、「あの人はいやされるべきだ」と言いはじめられた。主があまりにも強くこのことを私に感じさせられたので、私は彼の所へ行って言わなければならなかった。「あなたが出て行かなくてすめばいいのですが。ここにいていただきたいのです」彼は言った。「本当に申し訳ないのですが、とても痛くて、出て行かなければならないのです」私は彼に、神があなたをいやすことがおできになると信じないのか、と尋ねた。そして、神はあなたをいやしたいと望んでおられると私は信じている、と話した。
 
 God was working with him in the same way. I called the congregation together and said, "Are there any Christians here who believe God can heal? If you really believe, come and help me. I am going to pray for healing."
 神は彼にも、同じように働きかけておられた。私は会衆を呼び集めて言った。「ここに、神はいやすことがおできになると信じるクリスチャンはいますか。本当に信じるなら、来て私を助けてください。私はいやしのために祈ります」
@@ -295,7 +295,7 @@ When I understood what God wanted, I laid my hand on the knee, and asked God to 
 神が何を望んでおられるかがわかったとき、私はひざに手を置き、病を取り去ってくださるよう神に願った。彼は飛び上がった。いやされたのである。彼は十二年間そのような状態だった。だれもが彼を知っていたので、だれもが驚いた。
 
 Once when there were thousands of people present, I called out, "Is Dr. Daggett in the congregation?' He was making his way through the crowd, running to a place on the platform. He told how wonderfully he was healed; and 1 heard of him twelve years afterward.
-あるとき、何千人もの人が集まっていたところで、私は呼びかけた。「ダゲット博士は会衆の中におられますか」彼は群衆の中をかき分けて、壇の上のある場所へ走って来た。彼は、自分がどれほどすばらしくいやされたかを話した。私は十二年後にも、彼のことを聞いた。
+あるとき、何千人もの人が集まっていたところで、私は呼びかけた。「ダゲット博士は会衆の中にいらっしゃいますか」彼は群衆の中をかき分けて、壇の上のある場所へ走って来た。彼は、自分がどれほどすばらしくいやされたかを話した。私は十二年後にも、彼のことを聞いた。
 // 英文の閉じの引用符「'」は「"」の誤り。「1 heard」は「I heard」の誤り。
 
 That was the first one I ever laid hands on. "They shall lay hands on the sick, and they shall recover." That was the way God led me out. I have been criticised all along the line..by those who anoint with oil.
