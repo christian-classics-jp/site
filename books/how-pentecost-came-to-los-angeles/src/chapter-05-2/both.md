@@ -30,10 +30,8 @@ I was taken quite sick with fever here but a missionary from India prayed for me
 私はここでひどい熱を出した。しかし、インドから来た宣教師が祈ってくれ、神が熱を下げてくださった。食べ物も水も悪かった。大会は、私に20ドルを出すことを決めた。
 This paid my fare home, to my family. I had traveled eighteen hundred miles. It seemed a long trip as I had never been more than a hundred miles from my family before.
 これで、家族の待つ家までの運賃がまかなえた。私は千八百マイルを旅していた。それまで家族から百マイル以上離れたことがなかったので、長い旅に思えた。
-Our train ran over and killed a man on the way south. How uncertain is life!
-南へ向かう途中、私たちの汽車が一人の男をひいて死なせた。人のいのちとは、なんと定めないものか！
-Brother Doty wrote in "Christian Harvester," concerning this camp: "There was loftier preaching, but Brothers Bartleman and Shaw were probably the greater prayer contingent for the work in hand." So I thanked God, and took further courage.
-ドーティ兄弟は、この野営集会について『クリスチャン・ハーベスター』にこう書いた。「もっと高尚な説教はあった。しかし、当面の働きのために祈る力としては、おそらくバートルマン兄弟とショー兄弟のほうが大きかった」。それで私は神に感謝し、さらに勇気を得た。
+Our train ran over and killed a man on the way south. How uncertain is life! Brother Doty wrote in "Christian Harvester," concerning this camp: "There was loftier preaching, but Brothers Bartleman and Shaw were probably the greater prayer contingent for the work in hand." So I thanked God, and took further courage.
+南へ向かう途中、私たちの汽車が一人の男をひいて死なせた。人のいのちとは、なんと定めないものか！　ドーティ兄弟は、この野営集会について『クリスチャン・ハーベスター』にこう書いた。「もっと高尚な説教はあった。しかし、当面の働きのために祈る力としては、おそらくバートルマン兄弟とショー兄弟のほうが大きかった」。それで私は神に感謝し、さらに勇気を得た。
 
 I next went to Old Orchard, Maine, changing cars at Boston. There was a C. M. A. Convention at Old Orchard.
 次に私は、ボストンで汽車を乗り換えて、メイン州オールド・オーチャードへ行った。オールド・オーチャードでは、キリスト者宣教同盟の大会が開かれていた。

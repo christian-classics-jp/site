@@ -151,10 +151,8 @@ Then came the Holiness churches, wonderfully blessed of God, and the Lord moved 
 
 These dear people, many of them, thought that the Lord had now restored all He was going to restore to the Church, and believed that they had all the Lord had for them.
 この愛する人々の多くは、主が教会に回復しようとしておられたものを、もうすべて回復されたと思った。そして、主が自分たちのために備えておられるものを、すべて持っていると信じた。
-But not so!
-けれども、そうではない！
-God had said,
-神はこう言っておられた。
+But not so! God had said,
+けれども、そうではない！　神はこう言っておられた。
 
 "I will restore the years that the locust, the cankerworm, the caterpillar and the palmerworm hath eaten." This necessarily meant A-L-L.
 「群がるいなご、とびいなご、滅ぼすいなご、かみ食らういなごの食った年を、わたしは回復する」これは当然、す、べ、て、を意味していた。
@@ -259,10 +257,8 @@ Those who fought the Holy Spirit, barred their doors, or put up umbrellas of unb
 聖霊と戦い、戸にかんぬきを掛け、不信仰の傘を広げた人々は、たちまち霊的に干からび始めた。
 Assemblies and churches who once were on fire for God, and preaching Holiness, without which no man shall see the Lord, the moment they rejected the Holy Spirit they began to lose their power.
 かつて神のために燃え、きよさを宣べ伝えていた集会や教会があった。「それがなければ、だれも主を見ることはできない」きよさである（ヘブル一二・一四）。その集会や教会も、聖霊を拒んだとたんに、力を失い始めた。
-O why could they not see that this latter rain outpouring of the Spirit was just what they needed and had been pining for!
-ああ、後の雨としてのこの御霊の注ぎこそ、自分たちに必要なもの、自分たちが待ち焦がれてきたものだということが、なぜ彼らにはわからなかったのだろう！
-Why could they not just have humbled themselves and let the Spirit, who had been "with them" now come "in" them, making them the Temple of the Holy Ghost?
-なぜ、ただへりくだって、彼らと「共に」おられた御霊に、今度は彼らの「うちに」来ていただき、自分を聖霊の宮としていただくことができなかったのだろうか（ヨハネ一四・一七、第一コリント六・一九）。
+O why could they not see that this latter rain outpouring of the Spirit was just what they needed and had been pining for! Why could they not just have humbled themselves and let the Spirit, who had been "with them" now come "in" them, making them the Temple of the Holy Ghost?
+ああ、後の雨としてのこの御霊の注ぎこそ、自分たちに必要なもの、自分たちが待ち焦がれてきたものだということが、なぜ彼らにはわからなかったのだろう！　なぜ、ただへりくだって、彼らと「共に」おられた御霊に、今度は彼らの「うちに」来ていただき、自分を聖霊の宮としていただくことができなかったのだろうか（ヨハネ一四・一七、第一コリント六・一九）。
 All the fighting and persecution, however, was unable to quench the outpouring of the Spirit, upon those who sought earnestly with pure and humble hearts.
 けれども、どんな攻撃も迫害も、清くへりくだった心で熱心に求める人々の上への御霊の注ぎを、消すことはできなかった。
 

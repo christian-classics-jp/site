@@ -170,10 +170,8 @@ Up through 'its' and 'isms,' theories, creeds and doctrines (and schisms), issue
 私たちは、『〜派』と『〜主義』、理論、信条、教理（そして分派）、争点と運動、祝福と経験と信仰告白を通って、はい上がってきた。流れは、その源より高くは上れなかった。
 We need no more theology or theory. Let the devil have them. Let us get to God.
 私たちには、もう神学も理論もいらない。そんなものは悪魔にくれてやれ。神のもとへ行こう。
-Many are cramped up in present experiences. They are actually afraid to seek more of God for fear the devil will get them. Away with such foolish bondage! Follow your heart!
-多くの人が、今の経験の中に縮こまっている。悪魔に捕まるのではないかと、もっと神を求めることを本当にこわがっているのだ。そんな愚かな束縛は捨ててしまえ！　自分の心に従いなさい！
-Believe in your own heart's hunger, and go ahead for God. We are sticking to the bottom. We need the fire of God.
-自分の心の飢え渇きを信じて、神のために進みなさい。私たちは底にこびりついている。私たちには神の火が必要なのだ。
+Many are cramped up in present experiences. They are actually afraid to seek more of God for fear the devil will get them. Away with such foolish bondage! Follow your heart! Believe in your own heart's hunger, and go ahead for God. We are sticking to the bottom. We need the fire of God.
+多くの人が、今の経験の中に縮こまっている。悪魔に捕まるのではないかと、もっと神を求めることを本当にこわがっているのだ。そんな愚かな束縛は捨ててしまえ！　自分の心に従いなさい！　自分の心の飢え渇きを信じて、神のために進みなさい。私たちは底にこびりついている。私たちには神の火が必要なのだ。
 Straight-jacket methods and religious rules have well nigh crushed out our spiritual life altogether. We had better grieve all men rather than God." - F. Bartleman, Jan., 1907.
 拘束服のようなやり方と宗教上の規則が、私たちの霊的ないのちを、ほとんどすっかり押しつぶしてしまった。神を悲しませるよりは、すべての人を悲しませるほうがよい」（F・バートルマン、1907年1月）。
 

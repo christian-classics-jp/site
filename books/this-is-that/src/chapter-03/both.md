@@ -72,10 +72,8 @@ Reaching across the board enclosure that guarded the mouth of the well was the w
 The big handle had given me many hard, warning-whacks when I was experimenting with it, and Mother had warned me again and again not to go near the well; but one day when she was having company, I slipped down out of my chair at the table, away from her protecting care, and watchful eyes, and toddled straight to the well which held such mystery and interest.
 いじって試していると、大きなハンドルに何度もひどくぶたれて、こらしめられたものだった。母も、井戸に近づいてはいけないと、何度も何度も私に注意していた。ところがある日、母がお客をもてなしているとき、私は食卓の椅子からするりと下りた。母の守りと見張る目から離れ、よちよちと、あの不思議と興味に満ちた井戸へまっすぐ向かった。
 
-What fun it would be to get hold of the swinging rope, get into the bucket and go down to visit the little girl I had seen reflected in the water!
-揺れている綱をつかみ、おけに乗って下りていき、水に映って見えたあの小さな女の子を訪ねたら、どんなに楽しいだろう！
-I had just climbed up on a box, leaned over, and was scrambling into the bucket, when Mother missed me.
-私は箱によじ登り、身を乗り出して、おけに這い込もうとしていた。ちょうどそのとき、母が私のいないのに気づいた。
+What fun it would be to get hold of the swinging rope, get into the bucket and go down to visit the little girl I had seen reflected in the water! I had just climbed up on a box, leaned over, and was scrambling into the bucket, when Mother missed me.
+揺れている綱をつかみ、おけに乗って下りていき、水に映って見えたあの小さな女の子を訪ねたら、どんなに楽しいだろう！　私は箱によじ登り、身を乗り出して、おけに這い込もうとしていた。ちょうどそのとき、母が私のいないのに気づいた。
 The silence pervading the air arousing her apprehensions, she flew to the door just in time to see the skirt of a pink dress and a little pair of feet disappearing as I crept over.
 あたりがしんと静まり返っているので、母は胸騒ぎがした。戸口に飛んで行くと、ちょうどピンクの服のすそと小さな両足が、井戸の縁を越えて消えていくところだった。
 The handle jarred loose from its holder and was beginning to turn when she caught it and snatched me from the mouth of the well into her arms.

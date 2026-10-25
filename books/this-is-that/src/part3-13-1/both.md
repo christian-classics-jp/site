@@ -54,10 +54,8 @@ For ten days they waited.
 十日のあいだ、彼らは待った。
 They "continued with one accord in one place in prayer and supplication."
 彼らは「心を合わせて一つ所にいて、ひたすら祈り願っていた」（使徒一・一四）。
-One accord, O what unbroken harmony is depicted in these simple words!
-心を合わせて。ああ、この単純な言葉に、なんと乱れのない調和が描かれていることだろう！
-Thomas was not saying to Peter:
-トマスはペテロに、こう言ってはいなかった。
+One accord, O what unbroken harmony is depicted in these simple words! Thomas was not saying to Peter:
+心を合わせて。ああ、この単純な言葉に、なんと乱れのない調和が描かれていることだろう！　トマスはペテロに、こう言ってはいなかった。
 
 "Peter, what are you doing here. You denied the Lord thrice, you cursed and swore; the Lord will never baptize you with the Spirit." Peter was not saying to Thomas:
 「ペテロ、君はここで何をしているのか。君は主を三度も知らないと言った。のろいの言葉を口にして誓いさえした。主が君に御霊のバプテスマを授けられることなど、決してないさ」ペテロもトマスに、こう言ってはいなかった。
