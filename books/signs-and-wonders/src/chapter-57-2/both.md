@@ -28,7 +28,7 @@ In the Pentecostal Herald.
 （『ペンテコスタル・ヘラルド』誌から転載）
 
 The Editor has received several letters of testimony corroborating the story of the Visit of Angels referred to above, and requesting that we reprint it.
-編集部は、上に述べた「御使の訪れ」の話を裏づける証しの手紙を何通も受け取った。その話を再び載せてほしいという願いも寄せられている。
+編集者は、上に述べた「御使の訪れ」の話を裏づける証しの手紙を何通か受け取った。その話を再び載せてほしいという願いも寄せられている。
 
 ## 石のような腫瘍がいやされる
 STONE TUMOR HEALED
@@ -37,21 +37,21 @@ Los Angeles, Cal., Oct. 22, 1915--Mrs. Rosa Lopez, wife of a Spanish Pentecostal
 カリフォルニア州ロサンゼルス、一九一五年十月二十二日　ローザ・ロペス夫人は、スペイン語で説教するペンテコステ派の伝道者の妻である。彼女は七年間、石のような腫瘍を患っていた。この四年間はずっと悪くなっていて、十月四日から九日までは激しく苦しみ、いのちが危ぶまれるほどだった。夫は、妻は死ぬに違いないと思った。彼女は水さえ胃に収めておくことができず、絶えず吐いた。
 
 The authorities requested him to take her to the county hospital to be operated on, but when he objected they allowed him to take her to Dr. Yoakum's faith home Oct. 9th, but the Lord spoke to Brother Lopez and told him to take her to Sister Etter's meeting, and he telephoned for her to pray that his wife would be able to get there.
-当局は彼に、手術を受けさせるため妻を郡立病院に連れて行くよう求めた。しかし彼が反対すると、十月九日、ヨーカム博士の信仰の家に連れて行くことを許した。ところが主がロペス兄弟に語りかけ、エター姉妹の集会に連れて行くようにとお告げになった。そこで彼は電話をかけ、妻が集会に行けるように祈ってほしいと姉妹に頼んだ。
+当局は彼に、手術を受けさせるため妻を郡立病院に連れて行くよう求めた。しかし彼が反対すると、十月九日、ヨーカム博士の信仰の家に連れて行くことを許した。ところが主がロペス兄弟に語りかけられ、エター姉妹の集会に連れて行くようにとお告げになった。そこで彼は電話をかけ、妻が集会に行けるように祈ってほしいと姉妹に頼んだ。
 
 Brother Lopez brought his wife to the meeting Saturday, October 9th, and Sister Etter prayed for her at 8:30 p. m. and when she commanded the devil to loosen his hold on her and said, "T take the sword of the Spirit and cut this evil tumor loose in the name of the Lord!" the tumor was immediately cut loose as if a surgeon's knife had been used, and both were filled with the power and went home and waited on God for full evidence, and at 3:30 A. M., Sunday, the stone tumor passed away, root and branch. Glory to God! And she didn't have to stay in bed to convalesce, as she would have done had a surgeon performed the operation. We have a wonderful Physician.
-ロペス兄弟は十月九日の土曜日、妻を集会に連れて来た。エター姉妹は午後八時半に彼女のために祈った。姉妹は悪魔に、彼女をつかんでいる手を放すよう命じ、「私は御霊の剣を取り、主の名によって、この悪い腫瘍を切り離す」と言った。すると、外科医のメスを使ったかのように、腫瘍はたちまち切り離された。ふたりとも力に満たされて家に帰り、はっきりしたしるしが現れるのを、神を待ち望みながら待った。そして日曜日の午前三時半、石のような腫瘍が根も枝もすっかり出て行った。神に栄光あれ。しかも彼女は、回復のために寝ている必要もなかった。外科医が手術をしていたなら、そうしなければならなかっただろう。私たちには、驚くべき医者であるお方がおられる。
+ロペス兄弟は十月九日の土曜日、妻を集会に連れて来た。エター姉妹は午後八時半に彼女のために祈った。姉妹は悪魔に、彼女をつかんでいる手を放すよう命じ、「私は御霊の剣を取り、主の名によって、この悪い腫瘍を切り離す」と言った。すると、外科医のメスを使ったかのように、腫瘍はたちまち切り離された。ふたりとも力に満たされて家に帰り、はっきりしたしるしを求めて神を待ち望んだ。そして日曜日の午前三時半、石のような腫瘍が根も枝もすっかり出て行った。神に栄光あれ。しかも彼女は、回復のために寝ている必要もなかった。外科医が手術をしていたなら、そうしなければならなかっただろう。私たちには、驚くべき医者であるお方がおられる。
 // 英文は「"T take」。「I take」の誤植と見て訳した。
 
 Brother Lopez will be glad to answer any inquiries concerning her case, as his heart is filled with praise unto God, as he had no money and no hope but Jesus, and Jesus did not fail them.
-ロペス兄弟は、妻の病状についての問い合わせに喜んで答えるという。彼の心は神への賛美に満ちている。彼にはお金がなく、イエスのほかに望みがなかったが、イエスは彼らを見捨てられなかったのである。
+ロペス兄弟は、妻の病状についての問い合わせに喜んで答える。彼の心は神への賛美に満ちている。彼にはお金がなく、イエスのほかに望みがなかったが、イエスは彼らを見捨てられなかったのである。
 
 He says, "Thanks be unto God, who giveth us the victory at all times through the blood of His own Son, our beloved Saviour, Jesus Christ."
 彼は言う。「神に感謝します。神は、ご自分の御子、私たちの愛する救い主イエス・キリストの血によって、いつも私たちに勝利を与えてくださいます」
 // 第一コリント一五・五七 を言い換えた言葉。ロペスの没年は確かめられていないが、署名のない記事に引かれた聖句の言い換えの一文なので訳した（第五十四章のファイクの一文と同じ扱い）。
 
 He says God gave him Psalm 34:1-4, and truly delivered him from all his troubles.
-神は彼に詩篇三四・一〜四 を与えてくださった。そして、まことに彼をすべての悩みから救い出してくださった、と彼は言う。
+彼によれば、神は彼に詩篇三四・一〜四を与えてくださり、まことに彼をすべての悩みから救い出してくださったという。
 
 His address, Abundio L. Lopez, 130 North Vignes Street, Los Angeles, Cal.
 彼の住所は、カリフォルニア州ロサンゼルス、ノースヴィニェス通り一三〇番地、アブンディオ・L・ロペス。
@@ -89,7 +89,7 @@ Mr. Carl L. Williams, of Monrovia, Cal., had been sick for one year, following a
 カリフォルニア州モンロヴィアのカール・L・ウィリアムズ氏は、手術の後、一年間病気だった。彼はこの前の五月、ホノルルに住んでいたときに、医者たちがデング熱と呼ぶ熱帯の病気にかかった。
 
 After he recovered, his wife's health necessitated her leaving him and returning to California. Shortly after her arrival there, she received word that Mr. Williams was very ill in Honolulu with what two doctors diagnosed as tubercular peritonitis.
-回復した後、妻が健康を損ねたため、彼のもとを離れてカリフォルニアに帰らなければならなかった。妻は着いて間もなく、ウィリアムズ氏がホノルルで重い病気にかかっているという知らせを受けた。ふたりの医者は、それを結核性腹膜炎と診断していた。
+彼が回復した後、妻は健康を損ねたため、彼のもとを離れてカリフォルニアに帰らなければならなかった。妻は着いて間もなく、ウィリアムズ氏がホノルルで重い病気にかかっているという知らせを受けた。ふたりの医者は、それを結核性腹膜炎と診断していた。
 
 They took three X-ray pictures of the abdomen, and found a large lump behind the stomach. Some of the doctors (there were seven in all) were of the opinion that it was a cancerous sarcoma and absolutely incurable. He grew rapidly worse.
 医者たちは腹部のエックス線写真を三枚撮り、胃の後ろに大きなしこりを見つけた。医者は全部で七人いたが、その何人かは、それががん性の肉腫で、まったく治る見込みがないという意見だった。彼はみるみる悪くなった。
@@ -111,10 +111,10 @@ The pain in his back was excruciating, and he could not masticate nor swallow hi
 背中の痛みは耐えがたく、食べ物をかむことも飲み込むことも、つばを吐くことさえも、激しい痛みなしにはできなかった。次の日（十一月二十五日の感謝祭の日）、ふたりはエター夫人の午後の集会に来ることができた。ウィリアムズ氏は痛みがあまりにひどかったので、集いが終わるまで横になっていなければならなかった。それから、やっと壇の上の椅子に座ることができ、エター夫人が彼のために祈った。
 
 In a few moments he was prostrate under the power of the Spirit of God; and it was not long before he sprang up without any assistance and was able to stand perfectly straight, whereas before he had walked in a doubled-up condition. He walked from end to end of the platform, leaping and praising God that he was every whit whole. He then testified in a clear voice to the assembled crowds, telling them how wonderfully the power of God had quickened every part of his body. In a few moments more, he was eating a raw apple with ease, finding no difficulty whatever in swallowing, and praising the Lord at every mouthful.
-間もなく、彼は神の御霊の力の下に倒れ伏した。しばらくすると、だれの助けも借りずに跳び起き、背筋をまっすぐに伸ばして立つことができた。それまでは、体を二つに折り曲げて歩いていたのである。彼は壇の端から端まで歩き、全身がすっかりよくなったことを喜んで、跳びはね、神をほめたたえた。それから、集まった群衆に澄んだ声で証しをした。神の力が体のすみずみをどんなに驚くべきしかたで生かしたかを、人々に語ったのである。さらに少したつと、彼は生のりんごを楽々と食べていた。飲み込むのに少しも苦労せず、一口ごとに主をほめたたえていた。
+間もなく、彼は神の御霊の力の下に倒れ伏した。しばらくすると、だれの助けも借りずに跳び起き、背筋をまっすぐに伸ばして立つことができた。それまでは、体を二つに折り曲げて歩いていたのである。彼は壇の端から端まで歩き、全身を丈夫にされたことを喜んで、跳びはね、神をほめたたえた。それから、集まった群衆に澄んだ声で証しをした。神の力が体のすみずみをどんなに驚くべきしかたで生かしたかを、人々に語ったのである。さらに少したつと、彼は生のりんごを楽々と食べていた。飲み込むのに少しも苦労せず、一口ごとに主をほめたたえていた。
 
 Mr. Williams who came from Honolulu and got healed, came back a few days afterwards and walked by his wife, helping her up on the platform and gave a marvelous testimony of his deliverance. He also demonstrated, and showed the people how complete his deliverance has been. A person who did not know him would have hardly believed his eyes. His wife gave a marvelous testimony of how God came at last to their rescue, and how she was healed by the laying on of hands of God's servant.
-ホノルルから来ていやされたウィリアムズ氏は、数日後に再び来た。彼は妻のそばを歩き、妻を壇の上に助け上げて、自分が救い出されたことについてすばらしい証しをした。また、実際にやってみせて、自分の救いがどれほど完全なものであったかを人々に示した。彼を知らない人なら、自分の目をほとんど信じられなかっただろう。妻もすばらしい証しをした。神がついにどのように自分たちを救い出してくださったか、また神の僕に手を置かれて自分がどのようにいやされたかを語ったのである。
+ホノルルから来ていやされたウィリアムズ氏は、数日後に再び来た。彼は妻のそばを歩き、妻を壇の上に助け上げて、自分が救い出されたことについてすばらしい証しをした。また、実際にやってみせて、自分がどれほど完全に救い出されたかを人々に示した。彼を知らない人なら、自分の目をほとんど信じられなかっただろう。妻もすばらしい証しをし、神がついにどのように自分たちを救い出してくださったかを語った。また、神の僕に手を置かれて、自分がどのようにいやされたかも語った。
 
 ## 脊髄癆
 LOCOMOTOR ATAXIA
@@ -132,10 +132,10 @@ MRS. S. E. ROGERS,
 HEALING POWER PRESENT
 
 A woman who had not walked on her feet for sixty years, her limbs were drawn up so that the doctors wanted to cut them off. This was caused by spotted fever, which she had when very young; after prayer was offered for her she walked back and forth and praised God with uplifted hands for her healing.
-六十年間、自分の足で歩いたことのない女性がいた。手足が縮み上がってしまったので、医者たちは切断したがっていた。これは、ごく幼いころにかかった斑点熱のためだった。彼女のために祈りがささげられると、彼女は行ったり来たり歩き、手を上げて、いやされたことのゆえに神をほめたたえた。
+六十年間、自分の足で歩いたことのない女性がいた。脚が縮み上がってしまったので、医者たちは切断したがっていた。これは、ごく幼いころにかかった斑点熱のためだった。彼女のために祈りがささげられると、彼女は行ったり来たり歩き、手を上げて、いやされたことのゆえに神をほめたたえた。
 
 A young boy was brought to the meeting, being totally blind for some time. After he was prayed for and on the way home, they tested his eyes. He was asked whether he could read a sign spelling "Ford." He spelled it "F-e-r-d." When told it was wrong, he immediately looked again and said, "Ford!" The "o" looked much like an "e."
-ひとりの少年が集会に連れて来られた。しばらく前から全く目が見えなかった。祈ってもらった後、家に帰る途中で、人々は彼の目を試した。「Ford」とつづってある看板が読めるかと聞かれると、彼は「F-e-r-d」とつづった。違うと言われると、すぐにもう一度見て、「Ford」と言った。その「o」は「e」によく似ていたのである。
+ひとりの少年が集会に連れて来られた。しばらく前からまったく目が見えなかった。祈ってもらった後、家に帰る途中で、人々は彼の目を試した。『Ford』とつづってある看板が読めるかと聞かれると、彼は「F-e-r-d」とつづった。違うと言われると、すぐにもう一度見て、「Ford」と言った。その『o』は『e』によく似ていたのである。
 
 ## 母と息子がいやされる
 MOTHER AND SON HEALED
@@ -148,7 +148,7 @@ After my healing my little son said: 'Mamma, I believe God will heal my finger."
 // 訳さない範囲ここまで
 
 I want to testify how God so wonderfully healed me. I was born in Richmond, Va., about ninety years ago, a slave to Betsy Kincade. Sold to William Dansby, and have lived in Los Angeles thirty years. About seven years ago, I was run over by a man on a wheel, and taken to the hospital. My shoulder was crushed down on my lungs. My arm was broken, and for seven years I had suffered misery. The doctor said I also had kidney trouble, and I suffered a great deal. I could not use my arm. Two weeks ago, I went to Sister Etter's meetings. She laid hands on me and prayed, and God wonderfully healed me and made me whole. I am praising and thanking Him.
-私は、神がどんなに驚くべきしかたで私をいやしてくださったかを証ししたいと思います。私はおよそ九十年前、ヴァージニア州リッチモンドで、ベッツィー・キンケードの奴隷として生まれました。ウィリアム・ダンズビーに売られ、ロサンゼルスに三十年住んでいます。七年ほど前、私は自転車に乗った男にひかれ、病院に運ばれました。肩がつぶれて肺の上に押し下げられ、腕は折れ、七年のあいだ苦しみ続けました。医者は、腎臓も悪いと言いました。私はたいへん苦しみました。腕を使うことができませんでした。二週間前、私はエター姉妹の集会に行きました。姉妹が私に手を置いて祈ってくださると、神は驚くべきしかたで私をいやし、全く健やかにしてくださいました。私は神をほめたたえ、感謝しています。
+私は、神がどんなに驚くべきしかたで私をいやしてくださったかを証ししたいと思います。私はおよそ九十年前、ヴァージニア州リッチモンドで、ベッツィー・キンケードの奴隷として生まれました。ウィリアム・ダンズビーに売られ、ロサンゼルスに三十年住んでいます。七年ほど前、私は自転車に乗った男にひかれ、病院に運ばれました。肩がつぶれて肺の上に押し下げられ、腕は折れ、七年のあいだ苦しみ続けました。医者は、腎臓も悪いと言いました。私はたいへん苦しみました。腕を使うことができませんでした。二週間前、私はエター姉妹の集会に行きました。姉妹が私に手を置いて祈ってくださると、神は驚くべきしかたで私をいやしてくださり、まったく健やかにしてくださいました。私は神をほめたたえ、感謝しています。
 // 本人がおよそ九十年前（一八二五年ごろ）の生まれと書いており、一九五八年以後の没なら百三十歳を超えるので、一九五七年以前の没と判断して訳した。
 
 MALINDA DANSBY.
@@ -187,7 +187,7 @@ Stone tumor, consumption, epileptic fits, cancer, deafness, broken ankle, afflic
 // 英文は「appendicitis chronic catarrh」で、あいだのコンマが落ちている。
 
 The latest report received is from Sister Smock, with whom the Editor is personally acquainted, and who states that hundreds have been healed of which no record has been taken.
-最新の報告はスモック姉妹からのものである。編集者は姉妹と個人的に知り合いである。姉妹によれば、記録に残されていないいやしが何百もあるという。
+最新の報告はスモック姉妹からのものである。編集者は姉妹と個人的に知り合いである。姉妹によれば、何百人もの人がいやされたが、その記録は取られていないという。
 
 "Bless the Lord, O my soul; and all that is within me, bless His holy name. Bless the Lord, O my soul, and forget not all His benefits: Who forgiveth all thine iniquities; Who healeth all thy diseases.' Ps. 103.--EDITOR.
 『わがたましいよ、主をほめよ。わがうちなるすべてのものよ、その聖なるみ名をほめよ。わがたましいよ、主をほめよ。そのすべてのめぐみを心にとめよ。主はあなたのすべての不義をゆるし、あなたのすべての病をいやす』（詩篇一〇三・一〜三）（編者）
@@ -208,7 +208,7 @@ MRS. NELLIS.
 HEALED OF CANCER
 
 I had a cancer on my right hip so large and so sore that I could not lie on that side. I went to four doctors, then I went to the hospital, where the doctors pronounced it cancer and were going to burn it out. I knew that I could not stand that, as I am seventy-seven years old, so my son-in-law brought me to the mission, where Mrs. Etter prayed for me. The pain all left and the fever went away. I was perfectly healed and feel ten years younger than before.
-私は右の腰にがんがありました。とても大きく、ひどく痛むので、その側を下にして横になることができませんでした。四人の医者にかかり、それから病院に行きました。そこで医者たちはがんだと診断し、焼き取ろうとしました。私は七十七歳なので、それには耐えられないとわかっていました。それで娘婿が私を伝道所に連れて来てくれ、そこでエター夫人が私のために祈ってくださいました。痛みはすっかり去り、熱も引きました。私は完全にいやされ、以前より十歳若くなったように感じます。
+私は右の腰にがんがありました。とても大きく、ひどく痛むので、その側を下にして横になることができませんでした。四人の医者にかかり、それから病院に行きました。そこで医者たちはがんだと診断し、焼き取るつもりでした。私は七十七歳なので、それには耐えられないとわかっていました。それで娘婿が私を伝道所に連れて来てくれ、そこでエター夫人が私のために祈ってくださいました。痛みはすっかり去り、熱も引きました。私は完全にいやされ、以前より十歳若くなったように感じます。
 // 本人が七十七歳（一八三八年ごろの生まれ）と書いており、一九五八年以後の没なら百二十歳ほどになるので、一九五七年以前の没と判断して訳した。
 
 MRS. MARGARET DYER,
@@ -306,7 +306,7 @@ There's a great day coming by and by;
 When the saints and the sinners shall be parted right and left--
 聖徒と罪人が右と左に分けられる日が<br/>
 Are you ready for that day to come?
-その日が来るための備えはできているか<br/>
+その日を迎える備えはできているか<br/>
 
 CHORUS
 （おりかえし）<br/>
@@ -328,7 +328,7 @@ There's a bright day coming by and by;
 But its brightness shall only come to them that love the Lord--
 しかしその輝きは、主を愛する者にだけ臨む<br/>
 Are you ready for that day to come?
-その日が来るための備えはできているか<br/>
+その日を迎える備えはできているか<br/>
 
 There's a sad day coming, a sad day coming,
 悲しい日が来る、悲しい日が来る<br/>
@@ -337,4 +337,4 @@ There's a sad day coming by and by;
 When the sinner shall hear his doom, "Depart, I know ye not,"
 罪人が「離れ去れ、わたしはあなたがたを知らない」との宣告を聞く日が<br/>
 Are you ready for that day to come?
-その日が来るための備えはできているか<br/>
+その日を迎える備えはできているか<br/>
