@@ -9,13 +9,13 @@ SLIGHT EARTHQUAKE SHAKES CITY, THEN THE MIGHTY REVIVAL.
 MANY PEOPLE HEALED, ALSO SAVED AND BAPTIZED.
 
 On the fifth day of March, 1914, Mr. Etter and myself (he then being quite poorly) with two young men, who were just branching into the Christian warfare, boarded the train for our field of labor in the city of Atlanta.
-一九一四年三月五日、エター氏と私は（夫はそのころかなり体が弱っていた）、ふたりの若い男と共に、働きの場であるアトランタの町へ向かう列車に乗った。ふたりは、キリスト者の戦いに踏み出したばかりだった。
+一九一四年三月五日、エター氏と私は、ふたりの若い男と共に、働きの場であるアトランタの町へ向かう列車に乗った。夫はそのころかなり体が弱っていた。若いふたりは、キリスト者の戦いに踏み出したばかりだった。
 The battle (from a human standpoint) promised to be a hard one, but we looked to Jesus, from whom we have received our commission; in His strength we went forward, knowing that as we did this we would win a great victory for Him, which would result in bringing many souls into the kingdom.
 戦いは（人の目から見れば）厳しいものになりそうだった。しかし私たちは、任務を授けてくださったイエスを仰いだ。そして主の力によって進んで行った。そうすれば主のために大きな勝利を得ると知っていたからである。その勝利によって、多くの魂が御国に導き入れられるのである。
 I had hoped that the Lord would send us at least one good spirit-filled minister on whom I could depend a little to stand by my side, but no one seemed to be in sight, and no one was sent by God.
-私は、御霊に満たされたよい牧師を、主が少なくともひとりは送ってくださることを願っていた。私のそばに立ってくれて、少しは頼りにできる人である。しかし、そのような人は見当たらず、神もだれもお遣わしにならなかった。
+私は、御霊に満たされたよい牧師を、主が少なくともひとりは送ってくださることを願っていた。私のそばに立ってくれて、少しは頼りにできる人である。しかし、そのような人は見当たらず、神がだれかをお遣わしになることもなかった。
 In the meantime God showed me plainly that I was to look to Him entirely for the help and strength needed when the battle commenced; also that later he would send the help that I needed.
-そのあいだに神は、戦いが始まったら、必要な助けと力をすべて神に仰がなければならないことを、はっきりと示してくださった。また、私に必要な助けを後で送ってくださることも示された。
+そのあいだに神は、戦いが始まったら、必要な助けと力を、ただご自身だけに仰がなければならないことを、はっきりと示してくださった。また、私に必要な助けを後で送ってくださることも示された。
 
 One thing that made the battle hard in this place was the many factions into which God's people were divided. A number of the saints desired us to come a few months later, when they were going to have their large tabernacle ready for us; some seemed to pull one way and some another.
 この地で戦いを厳しくしたことの一つは、神の民が多くの党派に分かれていたことだった。何人もの聖徒たちは、私たちに数か月後に来てほしいと望んでいた。そのころには、私たちのために大きな幕屋の用意ができるはずだったのである。ある者はこちらへ、ある者はあちらへと引っ張っているようだった。
@@ -27,7 +27,7 @@ We felt that God's hand was in this invitation and so accepted it, provided that
 It was to be an union meeting, no special doctrine was to be preached. Jesus and the cross were to be upheld as the need of sinners. It was to be a meeting for every one, no matter to what creed or "ism" they belonged, or whether they belonged to any at all.
 それは合同の集会になるはずだった。特定の教理は説かないことになっていた。罪人に必要なものとして、イエスと十字架を高く掲げるのである。どんな信条や「主義」に属していても、またどこにも属していなくても、すべての人のための集会になるはずだった。
 They formed a committee which was to look after the business and financial part. On this committee were men and women of various beliefs. There were people on it from the various Pentecostal missions, from the Gideon mission, those that belonged to the Holiness Movement, those connected with the Methodist and Baptist churches, etc.
-彼らは委員会を作り、事務と会計の面を受け持たせた。この委員会には、さまざまな信仰を持つ男女がいた。さまざまなペンテコステの伝道所の人々、ギデオンの伝道所の人々、ホーリネス運動に属する人々、メソジストやバプテストの教会につながる人々などである。
+彼らは委員会を作り、事務と会計の面を受け持たせた。この委員会には、さまざまな信仰を持つ男女がいた。さまざまなペンテコステの伝道所の人々や、ギデオンの伝道所の人々がいた。ホーリネス運動に属する人々や、メソジストやバプテストの教会につながる人々などもいた。
 
 ## 幻によって示された戦いの一端
 A GLIMPSE OF BATTLE GIVEN BY VISION
@@ -37,11 +37,11 @@ A short time before the meeting began one of the workers had a vision, in which 
 The roads were all blocked so that it seemed impossible for any one to get through. Every one seemed to be afraid to risk going any farther than their own premises, in way of opening the road. The people seemed to be waiting for some one to come along and open the way.
 道はすべてふさがれ、だれも通り抜けられそうになかった。だれもが、道を開こうとして自分の敷地より先へ踏み出すのを恐れているようだった。人々は、だれかがやって来て道を開いてくれるのを待っているようだった。
 As they were in a great state of expectation, suddenly a one-horse cutter came along with a single individual in it, the occupant was a lady; this cutter worked its way right through the snow. Then quite a number of vehicles could be seen, all following this one-horse cutter.
-人々が大いに待ち望んでいると、突然、一頭立ての馬そりがやって来た。乗っているのはひとりだけで、それは婦人だった。そのそりは、雪の中をまっすぐに進んで行った。すると、たくさんの乗り物が見えてきた。みな、その一頭立ての馬そりの後について来ていた。
+人々が大いに待ち望んでいると、突然、一頭立ての馬そりがやって来た。乗っているのはひとりだけで、それは婦人だった。そのそりは、雪をかき分けてまっすぐに突き進んで行った。すると、たくさんの乗り物が見えてきた。みな、その一頭立ての馬そりの後について来ていた。
 All kinds of traffic was soon carried on over this road and the people seemed to be happy because some one had ventured to break through the snow and open the way. At this point he woke up and found it to be a vision.
 間もなく、この道をあらゆる往来が通るようになった。人々は、だれかが思いきって雪を突き破り、道を開いてくれたので、うれしそうだった。そこで彼は目を覚まし、それが幻だったと知った。
 This took place just a few days before we started the meeting in the large and beautiful city of Atlanta, Georgia, where God did such marvelous work for the sick and the afflicted in the body as well as the soul.
-これは、ジョージア州の大きく美しい町アトランタで私たちが集会を始める、ほんの数日前のことだった。その町で神は、病む人々と体を苦しむ人々のために、また魂のために、驚くべきわざをなさったのである。
+これは、ジョージア州の大きく美しい町アトランタで私たちが集会を始める、ほんの数日前のことだった。その町で神は、病む人々と、魂ばかりでなく体も苦しむ人々のために、驚くべきわざをなさったのである。
 
 We had not been in the city more than one hour when the city was struck by an earthquake, severe enough to throw dishes down from shelves in many homes. It was felt in many places but the city seismograph did not register it.
 私たちが町に着いて一時間もたたないうちに、町は地震に見舞われた。多くの家で棚から皿が落ちるほどの揺れだった。多くの所で感じられたが、町の地震計には記録されなかった。
@@ -52,7 +52,7 @@ We commenced on a Sunday morning with a large crowd. While I was preaching my fi
 I could not stand it. I left the pulpit and went to her. She was dying and not even saved, burning with fever. I laid my hands on her and covered her with the blood of the Lamb of God.
 私は耐えられなかった。説教壇を離れて彼女のもとに行った。彼女は死にかけていて、救われてさえいなかった。熱に燃えていた。私は彼女に手を置き、神の小羊の血で彼女をおおった。
 She quieted down and the fever left her and she began at once to praise God, and got off the bed just as she was in her short gown and walked back and forth before them all, shouting and praising the Lord. I went back and finished my sermon.
-彼女は静かになり、熱が去った。彼女はすぐに神をほめたたえはじめた。そして短い寝間着のまま寝台から降り、皆の前を行ったり来たりして歩いた。叫んで主をほめたたえていた。私は説教壇に戻って説教を終えた。
+彼女は静かになり、熱が去った。彼女はすぐに神をほめたたえはじめた。そして短い寝間着のまま寝台から降り、みなの前を行ったり来たりして歩いた。叫んで主をほめたたえていた。私は説教壇に戻って説教を終えた。
 In the afternoon she was on the platform singing with the rest. Some one asked me if I knew what had become of the woman that was healed in the morning meeting. I said, no, I did not, that I had not seen her since.
 午後には、彼女は壇の上でほかの人々と一緒に歌っていた。だれかが私に、朝の集会でいやされた婦人がどうなったか知っているかと尋ねた。私は、知らない、あれから見ていない、と答えた。
 Why! some one said, she sits there on the platform. She came forward nicely dressed and singing like the rest.
@@ -83,15 +83,15 @@ They saw a supernatural power at work, and the more they investigated the more t
 TEN MUTES HEALED
 
 Among the miracles of healing in the first Atlanta meeting, were about ten mutes, some were born deaf and dumb. Among them was a lady who was healed and converted at the same time.
-アトランタでの最初の集会のいやしの奇跡の中には、口のきけない人々およそ十人のいやしがあった。生まれつき耳が聞こえず口のきけない人もいた。その中にひとりの婦人がいて、いやされると同時に回心した。
+アトランタでの最初の集会のいやしの奇跡の中には、耳が聞こえず口のきけない人々およそ十人のいやしがあった。生まれつきそうだった人もいた。その中にひとりの婦人がいて、いやされると同時に回心した。
 She spoke several words of praise right away; her whole body became light with resurrection power, she began to dance back and forth, right away; and went to the piano and heard the music for the first time in her life. She was much affected, and began to keep time with music.
 彼女はすぐに、賛美の言葉をいくつか口にした。全身が復活の力によって軽くなり、すぐに前へ後ろへと踊りはじめた。そしてピアノの所へ行き、生まれて初めて音楽を聞いた。彼女はたいへん心を動かされ、音楽に合わせて拍子をとりはじめた。
 Soon after she brought a friend with her who was born deaf and dumb. They were sitting together. The Holy Ghost took possession of a minister; he spoke several languages and danced and sang in the Spirit, and then spoke the dumb language in signs.
-間もなく彼女は、生まれつき耳が聞こえず口のきけない友人を連れて来た。ふたりは並んで座っていた。聖霊がひとりの牧師をとらえられた。彼はいくつもの言葉を語り、御霊によって踊って歌い、それから手話で語った。
+間もなく彼女は、生まれつき耳が聞こえず口のきけない友人を連れて来た。ふたりは並んで座っていた。聖霊がひとりの牧師をとらえられた。彼はいくつもの国の言葉を語り、御霊によって踊って歌い、それから手話で語った。
 The message was to the deaf and dumb woman. God took hold of her and her friend; brought her to the altar. In a few minutes she was saved and could talk and hear. They both began praising the Lord, and danced.
-そのメッセージは、耳が聞こえず口のきけないその婦人に向けたものだった。神は彼女とその友人をとらえ、彼女を祭壇の前に導かれた。数分のうちに彼女は救われ、話すことも聞くこともできるようになった。ふたりとも主をほめたたえはじめ、踊った。
+そのメッセージは、耳が聞こえず口のきけないその婦人に向けたものだった。神は彼女とその友人をとらえられ、彼女を祭壇の前に導かれた。数分のうちに彼女は救われ、話すことも聞くこともできるようになった。ふたりとも主をほめたたえはじめ、踊った。
 They both went to the piano, and cried and showed the audience that it was like getting into a new world. Oh, glory to God, for His wonderful works. Let all the people praise Him. These things always move the audience to tears and shouts of praise.
-ふたりともピアノの所へ行って泣き、新しい世界に入ったようだと聴衆に示した。ああ、そのくすしきみわざのゆえに、神に栄光あれ。すべての民に神をほめたたえさせよ。こうしたことは、いつも聴衆を涙させ、賛美の叫びを上げさせる。
+ふたりともピアノの所へ行って泣き、新しい世界に入ったようだと聴衆に示した。ああ、その驚くべきみわざのゆえに、神に栄光あれ。もろもろの民に神をほめたたえさせよ。こうしたことは、いつも聴衆を涙させ、賛美の叫びを上げさせる。
 
 ## ユダヤ人が異言のメッセージを理解する
 A JEW UNDERSTANDS MESSAGE IN TONGUES
@@ -101,7 +101,7 @@ The same young minister, one of my workers, who travelled with me in another mee
 Jesus appeared to him. When he came out he was converted and filled with the Spirit. He arose and began to preach with great power and said the message was for him, speaking in the Hebrew language.
 イエスが彼にお現れになった。さめたとき、彼は回心しており、御霊に満たされていた。彼は立ち上がって、大いなる力をもって説教しはじめた。そして、あのメッセージは自分に向けたもので、ヘブル語で語られていたと言った。
 He said the Lord appeared to him, and he was taken all through the crucifixion. I never heard any one before or since, make the Christ so real, showing up the tragedy of Calvary, with so much power and eloquence, magnifying the name of Jesus.
-彼は、主が自分に現れ、十字架の出来事をすべて通らせてくださったと言った。私は、それ以前にもそれ以後にも、これほどキリストを生き生きと描き出した人を聞いたことがない。彼はカルバリの悲劇を、大いなる力と雄弁をもって示し、イエスの御名をあがめた。
+彼は、主が自分にお現れになり、十字架の出来事の一部始終を見せてくださったと言った。私は、それ以前にもそれ以後にも、これほどキリストを生き生きと描き出した人を聞いたことがない。彼はカルバリの悲劇を、大いなる力と雄弁をもって示し、イエスの御名をあがめた。
 No one could doubt who saw and heard him that Jesus was the Messiah, the Son of God.
 彼を見て聞いた者はだれも、イエスがメシヤ、神の子であることを疑えなかった。
 
@@ -118,17 +118,17 @@ I asked the saints to unite in faith while I prayed for him; I prayed aloud and 
 私は聖徒たちに、私が彼のために祈るあいだ、信仰を一つにしてほしいと頼んだ。声に出して祈ると、彼がいやされたというあかしを受けた。私は人々に告げた。私たちは勝利を得た、祈りは聞かれた、疫病はやんだ。主は彼を起き上がらせてくださり、彼は野営集会に行って神の栄光を現すだろう、と。
 
 This was Saturday night about nine o'clock when we prayed: away over in California the loved ones were watching every minute (all earthly hopes were gone), to see him pass away, and away across the continent the Lord heard our cry and gave the witness that he was healed.
-私たちが祈ったのは、土曜日の夜九時ごろだった。はるかカリフォルニアでは、愛する家族が、彼が息を引き取るのを今か今かと見守っていた（地上の望みはすべて尽きていた）。そして大陸を隔てた所で、主は私たちの叫びを聞いてくださり、彼がいやされたというあかしを与えてくださった。
+私たちが祈ったのは、土曜日の夜九時ごろだった。はるかカリフォルニアでは、愛する家族が、彼が息を引き取るのを今か今かと見守っていた（この世の望みはすべて尽きていた）。そして大陸を隔てた所で、主は私たちの叫びを聞いてくださり、彼がいやされたというあかしを与えてくださった。
 
 To the surprise of all he rose up the next morning, dressed, and walked to the dining room and ate heartily. Continuing to gain strength daily; praise the Lord for the great mercy in raising him up.
-皆が驚いたことに、彼は翌朝起き上がり、服を着て、食堂まで歩いて行き、たっぷりと食べた。それからも日ごとに力を増していった。彼を起き上がらせてくださった大いなるあわれみのゆえに、主をほめたたえよ。
+みなが驚いたことに、彼は翌朝起き上がり、服を着て、食堂まで歩いて行き、たっぷりと食べた。それからも日ごとに力を増していった。彼を起き上がらせてくださった大いなるあわれみのゆえに、主をほめたたえよ。
 
 Many who read this will have heard about his long serious illness and wonderful healing. Sister Montgomery had it published far and near, but she never knew how the Lord gave us faith, and the witness, that He had heard our prayers thousands of miles away and gave me courage to tell the great company that he was healed and we would soon hear from him; oh, praise God! while we call on Him He will answer.
-これを読む人の多くは、彼の長く重い病と、驚くべきいやしについて聞いているだろう。モンゴメリー姉妹は、そのことを広く知らせた。しかし姉妹は知らなかった。主が私たちに信仰とあかしを与えてくださったことを。何千マイルも離れた所から、主が私たちの祈りを聞いてくださったというあかしである。また主は私に勇気を与えて、彼がいやされた、間もなく便りがあるだろうと、大勢の会衆に告げさせてくださった。ああ、神をほめたたえよ！　私たちが呼ぶあいだに、主は答えてくださる。
+これを読む人の多くは、彼の長く重い病と、驚くべきいやしについて聞いているだろう。モンゴメリー姉妹は、そのことを広く知らせた。しかし姉妹は知らなかった。主が私たちに信仰とあかしを与えてくださったことを。何千マイルも離れた所から、主が私たちの祈りを聞いてくださったというあかしである。主が私に勇気を与えて、彼がいやされた、間もなく便りがあるだろうと大勢の会衆に告げさせてくださったことも、姉妹は知らなかった。ああ、神をほめたたえよ！　私たちが呼び求めているうちに、主は答えてくださる。
 It is now two years since, and a few months ago while holding a meeting in San Francisco, he and Sister Montgomery were a great help in the revival there. Oh! how I praise the Lord for saving his life, and that he was strong in faith and courage, going on together in the "good old way."
-それから今で二年になる。数か月前、サンフランシスコで集会を開いていたとき、彼とモンゴメリー姉妹は、そこでのリバイバルの大きな助けになった。ああ、主が彼のいのちを救ってくださったことを、私はどれほどほめたたえていることか。彼は信仰と勇気に強く、夫婦は共に「昔ながらの良い道」を歩み続けていた。
+それから今で二年になる。数か月前、私がサンフランシスコで集会を開いていたとき、彼とモンゴメリー姉妹は、そこでのリバイバルの大きな助けになった。ああ、主が彼のいのちを救ってくださったことを、私はどれほどほめたたえていることか。彼は信仰と勇気に強く、夫婦は共に「昔ながらの良い道」を歩み続けていた。
 
-## 内科・外科医ボーエン博士
+## 内科・外科医ジョン・ボーエン博士
 DR. JOHN H. BOWEN, PHYSICIAN AND SURGEON,
 
 ## ジョージア州アトランタ、頭蓋骨折と脚の骨折をいやされる
