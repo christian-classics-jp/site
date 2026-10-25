@@ -73,7 +73,7 @@
 + [x] Chapter LXIV. "Eye Hath Not Seen nor Ear Heard."
 + [x] Chapter LXV. The Fire and Glory of God Filling the Temple / Chapter LXVI. Sermon on Dancing
 + [x] Chapter LXVII. The Outpouring of the Holy Spirit in the Last Days--According to Joel's Prophecy
-+ [ ] Chapter LXVIII. The Great Revival in Jerusalem
++ [x] Chapter LXVIII. The Great Revival in Jerusalem
 + [ ] Chapter LXIX. Blasphemy Against the Holy Ghost
 + [ ] Chapter LXX. Summary--Second Camp-Meeting, Petoskey, Mich. (1)
 + [ ] Chapter LXX. Summary--Second Camp-Meeting, Petoskey, Mich. (2)
