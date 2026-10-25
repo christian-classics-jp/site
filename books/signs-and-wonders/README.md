@@ -74,7 +74,7 @@
 + [x] Chapter LXV. The Fire and Glory of God Filling the Temple / Chapter LXVI. Sermon on Dancing
 + [x] Chapter LXVII. The Outpouring of the Holy Spirit in the Last Days--According to Joel's Prophecy
 + [x] Chapter LXVIII. The Great Revival in Jerusalem
-+ [ ] Chapter LXIX. Blasphemy Against the Holy Ghost
++ [x] Chapter LXIX. Blasphemy Against the Holy Ghost
 + [ ] Chapter LXX. Summary--Second Camp-Meeting, Petoskey, Mich. (1)
 + [ ] Chapter LXX. Summary--Second Camp-Meeting, Petoskey, Mich. (2)
 + [ ] Chapter LXXI. Put a Mark on Every Man and Woman That Sighs and Cries for the Abominations Done in the Land (1)
