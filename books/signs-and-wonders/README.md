@@ -46,7 +46,7 @@
 + [x] Chapter XL. Camp-Meeting at Long Hill, Conn., 1913 (1)
 + [x] Chapter XL. Camp-Meeting at Long Hill, Conn., 1913 (2)
 + [x] Chapter XLI. At the Stone Church, Chicago, 1913 (1)
-+ [ ] Chapter XLI. At the Stone Church, Chicago, 1913 (2)
++ [x] Chapter XLI. At the Stone Church, Chicago, 1913 (2)
 + [ ] Chapter XLI. At the Stone Church, Chicago, 1913 (3)
 + [ ] Chapter XLII. Woodworth-Etter Meeting at Montwait, Mass., August, 1913 (1)
 + [ ] Chapter XLII. Woodworth-Etter Meeting at Montwait, Mass., August, 1913 (2)
