@@ -43,7 +43,7 @@
 + [x] Chapter XXXVII. Sermon--Prepare for War--Marshalling of the Nations
 + [x] Chapter XXXVIII. San Antonio, Texas, and Oakland, Cal.
 + [x] Chapter XXXIX. World-wide Camp Meeting at Los Angeles
-+ [ ] Chapter XL. Camp-Meeting at Long Hill, Conn., 1913 (1)
++ [x] Chapter XL. Camp-Meeting at Long Hill, Conn., 1913 (1)
 + [ ] Chapter XL. Camp-Meeting at Long Hill, Conn., 1913 (2)
 + [ ] Chapter XLI. At the Stone Church, Chicago, 1913 (1)
 + [ ] Chapter XLI. At the Stone Church, Chicago, 1913 (2)
