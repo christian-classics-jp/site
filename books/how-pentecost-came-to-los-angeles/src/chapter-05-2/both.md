@@ -174,11 +174,9 @@ And all this because of the sin of the leader in Denver. He had resisted the Spi
 Some years later he confessed he had faked "Pentecost." I am afraid too many leaders have done the same.
 何年かのちに、彼は「ペンテコステ」を偽っていたと告白した。同じことをしてきた指導者があまりに多いのではないかと、私は恐れている。
 
-At Colorado Springs I preached six times. The Spirit flowed like oil. I have seldom found such liberty anywhere. Oh, the possibilities, where purity and unity reign!
-コロラド・スプリングズでは六回説教した。御霊が油のように流れた。これほどの自由を、私はどこでもめったに味わったことがない。ああ、きよさと一致が支配する所には、なんと大きな可能性があることか！
-Brother Brelsford was pastor here. He later went to Egypt as a missionary. Trinity, Colo., was our next stop. I preached ten times here, to a very hungry band of saints. They were much strengthened and blessed.
+At Colorado Springs I preached six times. The Spirit flowed like oil. I have seldom found such liberty anywhere. Oh, the possibilities, where purity and unity reign! Brother Brelsford was pastor here. He later went to Egypt as a missionary. Trinity, Colo., was our next stop. I preached ten times here, to a very hungry band of saints. They were much strengthened and blessed.
 // 英文の Trinity, Colo. は、コロラド州にその名の町が見当たらない。サンタフェ鉄道の沿線で標高の高いトリニダード（Trinidad）と読んだ。
-ここではブレルズフォード兄弟が牧師だった。彼はのちに宣教師としてエジプトへ行った。次に立ち寄ったのは、コロラド州トリニダードだった。ここでは、たいへん飢え渇いた聖徒たちの群れに、十回説教した。彼らは大いに力づけられ、祝福された。
+コロラド・スプリングズでは六回説教した。御霊が油のように流れた。これほどの自由を、私はどこでもめったに味わったことがない。ああ、きよさと一致が支配する所には、なんと大きな可能性があることか！　ここではブレルズフォード兄弟が牧師だった。彼はのちに宣教師としてエジプトへ行った。次に立ち寄ったのは、コロラド州トリニダードだった。ここでは、たいへん飢え渇いた聖徒たちの群れに、十回説教した。彼らは大いに力づけられ、祝福された。
 But the high altitude was hard on us. Then the devil had tried to ditch our train just before we arrived there. We came on to Los Angeles from here, over the Santa Fe railroad.
 しかし、標高が高いことは、私たちにはこたえた。それに、そこに着く直前に、悪魔が私たちの汽車を脱線させようとしたのだ。私たちはここから、サンタフェ鉄道でロサンゼルスへ向かった。
 One night our wheels began to slide, down a steep grade in Arizona. I put on the brakes with prayer. The Lord brought us through. But I slept very little for two nights.
