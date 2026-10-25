@@ -17,7 +17,7 @@ A FEW YEARS AGO
 // 英文の出典は (I. Thess. 4.15, 16 and で途切れている。引用は一七節までなので一五〜一七とした。
 
 "The Lord Jesus shall be revealed from Heaven with his mighty Angels."
-『主イエスが炎の中で力ある天使たちを率いて天から現れる』。
+『主イエスが炎の中で力ある天使たちを率いて天から現れる。
 // 英文では In flaming fire が次の段落にあるが、口語訳では「炎の中で」が七節にあるので、この段落に置いた。
 
 "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ.
@@ -62,11 +62,11 @@ He spoke of the loss of life and property by fire and floods. Whole towns have b
 『そのように、すべてこれらのことを見たならば、人の子が戸口まで近づいていると知りなさい』（マタイ二四・三三）。
 
 As Jesus sat upon the Mount of Olives, the Disciples came unto Him privately, saying: "Tell us, when shall these things be, and what shall be the sign of Thy coming, and of the end of the world?"
-イエスがオリブ山ですわっておられると、弟子たちがひそかにみもとに来て言った。『どうぞお話しください。いつ、そんなことが起るのでしょうか。あなたがまたおいでになる時や、世の終りには、どんな前兆がありますか』
+イエスがオリブ山ですわっておられると、弟子たちがひそかにみもとに来て言った。『どうぞお話しください。いつ、そんなことが起るのでしょうか。あなたがまたおいでになる時や、世の終りには、どんな前兆がありますか』（マタイ二四・三）。
 
 And Jesus answered and said unto them: "Take heed that no man deceiveth you, for many shall come in My name saying I am Christ, and shall deceive many." (Matt. 24.3-4.)
-イエスは答えて言われた。『人に惑わされないように気をつけなさい。多くの者がわたしの名を名のって現れ、自分がキリストだと言って、多くの人を惑わすであろう』（マタイ二四・三〜五）。
-// 英文の出典は Matt. 24.3-4. だが、引用は五節まで続くので三〜五とした。
+イエスは答えて言われた。『人に惑わされないように気をつけなさい。多くの者がわたしの名を名のって現れ、自分がキリストだと言って、多くの人を惑わすであろう』（マタイ二四・四〜五）。
+// 英文の出典は Matt. 24.3-4. だが、弟子たちの問いは三節、イエスの答えは四〜五節なので、それぞれに出典を付けた。
 
 It is said there are thirty-two persons in the world today claiming to be the Christ and each of these have a large following. Perhaps the most notable of them all is a Persian, Abdul Baha, whose home is in the Valley of Akka, and who is the founder of the Bahaian Movement, a false system of religion which has spread over the United States during the past few years, and which has caused many of our best educated and cultured men and women to worship at his shrine.
 今日、世界には自分がキリストだと称する者が三十二人いて、そのひとりひとりに大勢の信奉者がいるという。その中で最も名高いのは、おそらくペルシャ人のアブドル・バハであろう。彼はアッカの谷に住み、バハイ運動の創始者である。バハイ運動は偽りの宗教の体系で、この数年のうちに合衆国じゅうに広がった。そして、わが国で最も教育があり教養のある男女の多くを、彼の祭壇の前にひれ伏させてきた。
@@ -101,7 +101,7 @@ EARTHQUAKES
 // 英文は地震のことだけを引くので、口語訳の「ききんが起り、また」を省いた。
 
 Now, as we come to the subject of Earthquakes we find that during the past twenty-five years practically every country has been visited one or more times by a great convulsion of nature, and they have been increasing at an ala-ming rate. I mention these only that have been disastrous to life and property.
-さて、地震という主題に来ると、この二十五年のうちに、ほとんどすべての国が一度ならず大きな自然の激変に見舞われてきたことがわかる。しかも地震は驚くべき割合で増えている。ここでは、人命と財産に大きな被害を与えたものだけを挙げる。
+さて、地震という主題に来ると、こういうことがわかる。この二十五年のうちに、ほとんどすべての国が、一度あるいは何度も、大きな自然の激変に見舞われてきた。しかも地震は驚くべき割合で増えている。ここでは、人命と財産に大きな被害を与えたものだけを挙げる。
 // 英文の ala-ming は alarming の読み誤り。
 
 In 1899 six villages were destroyed and seven others damaged by an earthquake in Russia, in which one thousand people lost their lives. In the same year, in Asia Minor, over sixteen hundred deaths occurred from the same cause, while many others were injured.
@@ -119,11 +119,11 @@ In Turkestan, there were ten thousand deaths, and fifteen thousand houses destro
 トルキスタンでは一万人が死に、一万五千軒の家が倒れた。同じ年のまた別のときには、七百人近くが死に、千人が負傷した。セントビンセント島では、火山の噴火で二千人が死んだ。マルティニークを壊滅させたペレー山の噴火は、みながありありと覚えているだろう。そこでは二千人が永遠へと押し流され、多くの人が負傷した。これがみな、一年のうちのことなのだ！　何と恐ろしい記録だろう！
 
 In the first three years of the present century, there were forty-eight earthquakes. Allowing the same number for each successive three years, should the world stand, we would have the amazing record of sixteen hundred earthquakes for this century.
-今世紀の最初の三年に、地震は四十八回あった。続く三年ごとに同じ数があるとすれば、世界が続くかぎり、今世紀には千六百回という驚くべき記録になる。
+今世紀の最初の三年に、地震は四十八回あった。続く三年ごとに同じ数があるとすれば、世界がそれまで続くなら、今世紀には千六百回という驚くべき記録になる。
 
 "The chariots shall be with flaming torches in the day of his preparation. The chariots shall rage in the streets, they shall jostle against one another in the broadways; they shall seem like torches, and they shall run like lightning." (Nahum 2.3-4.)
 『戦車はその備えの日に、火のように輝く。戦車はちまたに狂い走り、大路で互いに押し合う。彼らはたいまつのように輝き、いなずまのように飛びかける』（ナホム二・三〜四）。
-// 口語訳の「軍馬はおどる」を省き、「大路に飛びかける」を英文の jostle against one another に合わせて言い換えた。後の段落（Today the cars run…）の引用も同じ。
+// 口語訳の「軍馬はおどる」を省き、「大路に飛びかける」を英文の jostle against one another に合わせて言い換えた。後の段落（Today the cars run…）の引用も同じ。同じ段落のナホム二・六 は、口語訳の「開け、」で文が切れると命令に読めるので「開かれる」とした。
 
 (Automobiles.) We have had them now for almost fifteen years, and we become so familiar with these big, awkward chariots with their immense lights, constantly passing to and fro in our streets, jostling one against another and running like lightning, that we have forgotten that they are only another fulfillment of God's prophesy for the last days.
 （自動車のこと）自動車が現れて、もう十五年近くになる。大きな明かりを付けた、大きくぎこちないこの戦車が、絶えず通りを行き来し、互いに押し合い、いなずまのように走る。私たちはそれにすっかり慣れてしまった。そのため、それもまた、終わりの時についての神の預言の成就であることを、忘れてしまっている。
@@ -140,7 +140,7 @@ Today, when an event of any note occurs, it is flashed around the world in thirt
 今日、少しでも注目すべき出来事が起こると、それは三十分で世界じゅうに電信で伝えられる。だから、この数年のうちに知識がどれほど驚くほど進んだかが、たやすくわかる。こうしてダニエルの預言の幻が成就しているのである。
 
 The first steam locomotive ever seen in the old Garden of Eden is today puffing noisely back and forth, hauling material to construct a mighty dam, which shall create a new channel for the river Euphrates, and thereby irrigate Mesopotamia, the land originally given to Abraham, and which is today being resettled through the Zionistic Society.
-昔のエデンの園に初めて現れた蒸気機関車が、今日、音を立てて盛んに行き来している。大きなダムを造るための資材を運んでいるのである。そのダムはユフラテ川に新しい水路を作り、それによってメソポタミアを潤す。そこはもともとアブラハムに与えられた地で、今日、シオニスト協会によって再び人が住むようになっている。
+昔のエデンの園に初めて現れた蒸気機関車が、今日、煙を吐き、音を立てて行き来している。大きなダムを造るための資材を運んでいるのである。そのダムはユフラテ川に新しい水路を作り、それによってメソポタミアを潤す。そこはもともとアブラハムに与えられた地で、今日、シオニスト協会によって再び人が住むようになっている。
 // 英文の noisely は noisily の誤り。
 
 ## そして知識が増す
@@ -159,23 +159,23 @@ The angel told Daniel to seal up these prophecies until the time of the end, in 
 御使はダニエルに、終わりの時まで、その備えの日まで、これらの預言を封じておくように告げた。ダニエルやナホムやほかの預言者が語ったキリストの来臨のしるしは、この五十年になるまで、すべての時代を通して封じられていた。
 
 Today the cars run over and under the river. "The gates of the rivers shall be opened." "The chariots shall rage in the streets and shall jostle one against another in the broad ways." (Nahum 2.4) The Lord says: "When ye shall see all these things, know that it is near. Verily I say unto you, this generation shall not pass till all these things be fulfilled."
-今日、列車は川の上も下も走っている。『川々の門は開け』（ナホム二・六）。『戦車はちまたに狂い走り、大路で互いに押し合う』（ナホム二・四）。主は言われる。『すべてこれらのことを見たならば、人の子が戸口まで近づいていると知りなさい。よく聞いておきなさい。これらの事が、ことごとく起るまでは、この時代は滅びることがない』（マタイ二四・三三〜三四）。
+今日、列車は川の上も下も走っている。『川々の門は開かれる』（ナホム二・六）。『戦車はちまたに狂い走り、大路で互いに押し合う』（ナホム二・四）。主は言われる。『すべてこれらのことを見たならば、人の子が戸口まで近づいていると知りなさい。よく聞いておきなさい。これらの事が、ことごとく起るまでは、この時代は滅びることがない』（マタイ二四・三三〜三四）。
 
 These chariots or coaches should run in the day of his preparation. (See Nahum 2.3.5.) These things are to take place in the end of the harvest, the time we are now living in, when the last call is being given, the summons just before the Gentile age closes. These cars were not to run over all the land, but they were to reach Jerusalem, and the Jews were to see these signs of his preparation in Palestine, to enable them to know the end of the dispensation and the coming of Christ was near. The cars are now running from Joppa to Jerusalem. The electric cars are also said to be running there, and sewerage and all modern improvements are now seen. Every car or train that passes there is speaking to them, and to us, in tones of thunder, as a warning voice from God saying, the harvest will soon be passed and the summer ended. The preparation days are closing. Christ is coming; go ye out to meet him.
-これらの戦車、すなわち客車は、その備えの日に走ることになっていた（ナホム二・三〜五を見よ）。これらのことは刈入れの終わりに起こる。それは今私たちが生きている時であり、最後の招きが与えられている時、異邦人の時代が閉じる直前の呼び出しの時である。これらの列車は全土を走るのではなく、エルサレムにまで達することになっていた。そしてユダヤ人は、パレスチナで、その備えのこれらのしるしを見ることになっていた。それは、時代の終わりとキリストの来臨が近いことを知るためだった。今、列車はヨッパからエルサレムまで走っている。路面電車もそこを走っているといわれ、下水道をはじめ、近代のあらゆる設備が今そこに見られる。そこを通る車両や列車は、一つ残らずユダヤ人と私たちに、雷のような声で語っている。それは神からの警告の声で、こう言っている。刈入れの時は間もなく過ぎ、夏は終わる。備えの日々は閉じようとしている。キリストが来られる。迎えに出なさい、と。
+これらの戦車、すなわち客車は、その備えの日に走ることになっていた（ナホム二・三〜五を見よ）。これらのことは刈入れの終わりに起こる。それは今私たちが生きている時であり、最後の招きが与えられている時、異邦人の時代が閉じる直前の呼び出しの時である。これらの列車は全土を走るのではなく、エルサレムにまで達することになっていた。そしてユダヤ人は、パレスチナで、その備えを示すこれらのしるしを見ることになっていた。それは、時代の終わりとキリストの来臨が近いことを知るためだった。今、列車はヨッパからエルサレムまで走っている。路面電車もそこを走っているといわれ、下水道をはじめ、近代のあらゆる設備が今そこに見られる。そこを通る車両や列車は、一つ残らずユダヤ人と私たちに、雷のような声で語っている。それは神からの警告の声で、こう言っている。刈入れの時は間もなく過ぎ、夏は終わる。備えの日々は閉じようとしている。キリストが来られる。迎えに出なさい、と。
 // 英文の Nahum 2.3.5. は二・三〜五と読んだ。
 
 Jesus cursed the fig tree and the Jewish nation in Palestine. The rain and dews were taken away from the land; it became a barren waste and has been for two thousand years. The Lord told them when they, the Jews, or anyone, would see the fig tree again bearing, and the latter rains and dews in Palestine, they would know the coming of the Son of man was near, even at your door.
-イエスはいちじくの木を、またパレスチナのユダヤの民をのろわれた。雨と露はその地から取り去られた。地は荒れ果てた荒野となり、二千年のあいだそのままだった。主はユダヤ人に言われた。ユダヤ人であれだれであれ、いちじくの木が再び実を結び、パレスチナに後の雨と露が降るのを見るなら、人の子の来臨が近く、戸口にまで来ていることを知るであろう、と。
+イエスはいちじくの木を、またパレスチナのユダヤの民をのろわれた。雨と露はその地から取り去られた。地は荒れ果てた荒野となり、二千年のあいだそのままだった。主はユダヤ人に言われた。いちじくの木が再び実を結び、パレスチナに後の雨と露が降る。ユダヤ人であれだれであれ、それを見るなら、人の子の来臨が近く、戸口にまで来ていることを知るであろう、と。
 
 Dear readers these signs are seen today by all who visit the Holy Land. For several years God has been sending the rains and dews, the fig trees are bearing, and many other kinds of fruit. The flowers are blooming. The Jews are going back by the thousands. This is one of the strongest signs. Oh! praise the Lord that we are living in the close of this last generation and are permitted to give the Household of Faith their portion in this His due season. At this same time he promised to pour out his Spirit and give us the rains of spiritual power; that Christ, the chief reaper, would be with us in a cloud of glory and the Holy Ghost power to reap the harvest and gather in the wheat. Thank God we will have the pleasure of being one of the reapers.
-愛する読者よ、聖地を訪れる人はみな、今日これらのしるしを見ている。この数年、神は雨と露を送っておられる。いちじくの木は実を結び、ほかの多くの種類の果物も実っている。花は咲いている。ユダヤ人は何千人も帰って行っている。これは最も強いしるしの一つである。ああ、主をほめたたえよ。私たちはこの最後の世代の終わりに生きていて、主の定めたこの時に応じて、信仰の仲間にその分を与えることを許されているのだ。この同じ時に、主はご自分の御霊を注がれて、霊の力の雨を私たちに与えると約束された。また、刈る者のかしらであるキリストが、栄光の雲と聖霊の力のうちに私たちと共におられ、収穫を刈り取り、麦を集めてくださると約束された。神に感謝する。私たちも刈る者のひとりになる喜びにあずかるのである。
+愛する読者よ、聖地を訪れる人はみな、今日これらのしるしを見ている。この数年、神は雨と露を送っておられる。いちじくの木は実を結び、ほかの多くの種類の果物も実っている。花は咲いている。ユダヤ人は何千人も帰って行っている。これは最も強いしるしの一つである。ああ、主をほめたたえよ。私たちはこの最後の世代の終わりに生きていて、主の定められたこの時に応じて、信仰の仲間にその分を与えることを許されているのだ。この同じ時に、主はご自分の御霊を注がれて、霊の力の雨を私たちに与えると約束された。また、刈る者のかしらであるキリストが、栄光の雲と聖霊の力のうちに私たちと共におられ、収穫を刈り取り、麦を集めてくださると約束された。神に感謝する。私たちも刈る者のひとりになる喜びにあずかるのである。
 
 He says to us, "Watch and pray always that you may escape all these things that are coming on the earth and stand before the Son of man."
 主は私たちに言われる。『これらの起ろうとしているすべての事からのがれて、人の子の前に立つことができるように、絶えず目をさまして祈っていなさい』（ルカ二一・三六）。
 
 The angels that are now holding back the powers of darkness will soon be commanded to let loose the four winds of God's wrath. This awful time of trouble will last some years. We think about three and one-half years. Then Christ will come back with his bride to begin the millenium reign of one thousand years, when the Jews will accept Christ.
-今、闇の力を押しとどめている御使たちは、間もなく、神の怒りの四方の風を解き放つよう命じられる。この恐ろしい患難の時は何年か続く。私たちは三年半ほどと考えている。それからキリストはご自分の花嫁をお連れになって戻って来られ、千年にわたる千年王国の治世を始められる。そのとき、ユダヤ人はキリストを受け入れる。
+今、闇の力を押しとどめている御使たちは、間もなく、神の怒りの四方の風を解き放つよう命じられる。この恐ろしい患難の時は何年か続く。私たちは三年半ほどと考えている。それからキリストはご自分の花嫁をお連れになって戻って来られ、千年の統治を始められる。そのとき、ユダヤ人はキリストを受け入れる。
 // 英文の millenium は millennium の誤り。
 
 "The residue of men might seek after the Lord." (Acts 15.-17.) The judgments will last one thousand years. One day with the Lord is as a thousand years. The six days are about passed, or six thousand years. The last or seventh is now about coming in. The saints will sit with Christ to judge the nations and angels all through this judgment day. "Know you not that the saints will judge the world." The Lord is preparing his little flock now for this work. Reader will you be among that number?
@@ -214,7 +214,7 @@ Jesus will send his angels to gather the wheat from the tares; God help us, dear
 『日は暗くなり、月はその光を放つことをやめ、星は空から落ちる』（マタイ二四・二九）。これらのしるしは、驚くほどはっきりと成就した。天の花火の壮大な光景を見た人々が、何千人も生きている。そのとき天と地は火の玉に覆われた。人々は、さばきの日が来たと思った。大変な騒ぎが広がり、男も女も子供も、あわれみを求めて叫んだ。自殺した者もいれば、正気を失った者もいた。
 
 Many remember, when the sun was darkened, it began to grow dark at ten, and at twelve it was so dark the lanterns were lighted, the fowls went to roost, the frogs began to peep, the cattle came lowing into the barnyards, the moon was full, yet it was so dark one could not discern white paper from black velvet, and it lasted fourteen hours. "Verily, I say unto you, this generation shall not pass till all these things be fulfilled." This generation that has seen all these things shall live to see Christ coming; every prophecy is being fulfilled except those that shall take place at his coming.
-多くの人が、太陽が暗くなった日のことを覚えている。十時に暗くなり始め、十二時にはランプをともすほど暗くなった。鶏はねぐらにつき、蛙は鳴きはじめ、牛は鳴きながら納屋の庭に入って来た。月は満月だったが、白い紙と黒いビロードの見分けがつかないほど暗かった。それが十四時間続いた。『よく聞いておきなさい。これらの事が、ことごとく起るまでは、この時代は滅びることがない』（マタイ二四・三四）。これらのことをすべて見てきたこの時代の人々は、生きてキリストの来臨を見る。主の来臨のときに起こる預言のほかは、どの預言も成就しつつある。
+多くの人が、太陽が暗くなった日のことを覚えている。十時に暗くなりはじめ、十二時にはランプをともすほど暗くなった。鶏はねぐらにつき、蛙は鳴きはじめ、牛は鳴きながら納屋の庭に入って来た。月は満月だったが、白い紙と黒いビロードの見分けがつかないほど暗かった。それが十四時間続いた。『よく聞いておきなさい。これらの事が、ことごとく起るまでは、この時代は滅びることがない』（マタイ二四・三四）。これらのことをすべて見てきたこの時代の人々は、生きてキリストの来臨を見る。主の来臨のときに起こる預言のほかは、どの預言も成就しつつある。
 
 Also in a spiritual sense, the sun of righteousness has gone down, or out of, most of all the churches.
 また霊的な意味でも、義の太陽は、ほとんどすべての教会で沈んでしまった。あるいは、教会から出て行ってしまった。
@@ -281,11 +281,11 @@ Oh, what a happy meeting that will be! Whole families and friends will rise up f
 ああ、それは何という幸せな再会になることだろう。家族も友人たちも、そろって古い教会墓地からよみがえり、互いに長く抱き合う。その抱擁はとこしえに続く。母と子が、夫と妻が、兄弟姉妹が、友と隣人が、牧師と群れが再会する。
 
 Those who are alive will be changed in a moment, set free from the effect of sin, and be clothed with the glory of heaven. Then a mighty shout of victory will go up from the millions of saints: "Oh death, where is thy sting? Oh grave, where is thy victory? But thanks be to God for victory over death, hell and the grave.
-生きている者はたちまち変えられ、罪の影響から解き放たれ、天の栄光を着せられる。そのとき、何百万という聖徒たちから、大いなる勝利の叫びが上がる。「死よ、おまえのとげは、どこにあるのか。墓よ、おまえの勝利は、どこにあるのか。しかし感謝すべきことには、神は死と地獄と墓とに対する勝利を賜わったのである」（第一コリント一五・五五、五七）
+生きている者はたちまち変えられ、罪の影響から解き放たれ、天の栄光を着せられる。そのとき、何百万という聖徒たちから、大いなる勝利の叫びが上がる。「死よ、おまえのとげは、どこにあるのか。墓よ、おまえの勝利は、どこにあるのか。しかし感謝すべきことには、神は死と地獄と墓とに対する勝利を賜わったのである」（第一コリント一五・五五、五七）。
 // 英文には閉じの引用符がない。口語訳の一五・五五 は二度とも「死よ」で語順も逆なので、英文の grave と語順に合わせて言い換え、「」にした。
 
 Oh, the rapture, as we shall march through the streets of pure gold! We shall raise our voices, which shall sound like rushing waters, like mighty thunders, in singing glory to the Lamb, who has bought us and washed us in his own precious blood. With harps and palms in our hands and crowns on our heads--Jesus will place the shining crowns with his own hands upon our heads --then we shall march through the streets of the city, with all the music of the hosts of heaven saying, "Alleluia, for the Lord God Omnipotent Reigneth." Let us be glad and rejoice and give honor to him for the marriage of the Lamb is come and his wife hath made herself ready.
-ああ、純金の大通りを行進するときの喜びよ！　私たちは声を上げ、私たちを買い取り、ご自分の尊い血で洗ってくださった小羊に、栄光の歌を歌う。その声は大水のとどろきのように、激しい雷鳴のように響く。手には立琴としゅろの枝を持ち、頭には冠をいただく。イエスはご自分の手で、輝く冠を私たちの頭に載せてくださる。それから私たちは、天の万軍のあらゆる音楽と共に、都の大通りを行進する。万軍は言う。『ハレルヤ、全能者にして主なるわれらの神は、王なる支配者であられる』（黙示録一九・六）。私たちは喜び楽しみ、神をあがめまつろう。小羊の婚姻の時がきて、花嫁はその用意をしたからである。
+ああ、純金の大通りを行進するときの喜びよ！　私たちは声を上げ、私たちを買い取り、ご自分の尊い血で洗ってくださった小羊に、栄光の歌を歌う。その声は大水のとどろきのように、激しい雷鳴のように響く。手には立琴としゅろの枝を持ち、頭には冠をいただく。イエスはご自分の手で、輝く冠を私たちの頭に載せてくださる。それから私たちは、天の万軍のあらゆる音楽と共に、都の大通りを行進する。万軍は言う。『ハレルヤ、全能者にして主なるわれらの神は、王なる支配者であられる』（黙示録一九・六）。私たちは喜び楽しみ、神をあがめまつろう。小羊の婚姻の時が来て、花嫁はその用意をしたからである。
 
 Jesus will lead us to the Great White Throne and say, "Here, Father, am I, and the children thou hast given me." We will prostrate ourselves before the Throne and cast our crowns at his feet saying, "Holy, holy, holy, is the Lord God of hosts." "Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honor, and glory, and blessing."
 イエスは私たちを大きな白い御座に導かれて、言われる。「父よ、ここにわたしと、あなたがわたしに賜わった子たちとがいます」（ヘブル二・一三）。私たちは御座の前にひれ伏し、冠を主の足もとに投げ出して言う。『聖なるかな、聖なるかな、聖なるかな、万軍の主』（イザヤ六・三）。『ほふられた小羊こそは、力と、富と、知恵と、勢いと、ほまれと、栄光と、さんびとを受けるにふさわしい』（黙示録五・一二）。
