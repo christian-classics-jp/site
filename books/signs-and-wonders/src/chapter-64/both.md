@@ -9,13 +9,13 @@ SERMON BY MRS. M. B. WOODWORTH-ETTER
 第一コリント二・九〜一四。聖霊を持っている人でなければ、だれもこれを理解できない。『目がまだ見ず、耳がまだ聞かず、人の心に思い浮びもしなかったことを、神は、ご自分を愛する者たちのために備えられた。そして、それを神は、御霊によってわたしたちに啓示して下さったのである。御霊はすべてのものをきわめ、神の深みまでもきわめるのだからである』（第一コリント二・九〜一〇）。
 
 Many today apply this to eternity, to the other world; they think we never know these things until we get into another world. I am glad the scripture explains itself. "Eye hath not seen," in the natural state. God hath--in the present--revealed unto us by His Spirit. How? By His Spirit, in this world. "The Spirit searcheth all things; yea, the deep things of God."
-今日多くの人は、これを永遠に、あの世に当てはめている。別の世界に入るまで、私たちはこれらのことを決して知ることはないと考えている。聖書がそれ自身を説明していることを、私はうれしく思う。『目がまだ見ず』とあるのは、生まれながらの状態でのことである（第一コリント二・九）。神は、今このときに、御霊によって私たちに啓示してくださった。どのようにしてか。この世で、御霊によってである。『御霊はすべてのものをきわめ、神の深みまでもきわめる』（第一コリント二・一〇）。
+今日多くの人は、これを永遠に、あの世に当てはめている。別の世界に入るまで、私たちはこれらのことを決して知ることはないと考えている。この聖句がそれ自身を説明していることを、私はうれしく思う。『目がまだ見ず』とあるのは、生まれながらの状態でのことである（第一コリント二・九）。神は、今このときに、御霊によって私たちに啓示してくださった。どのようにしてか。この世で、御霊によってである。『御霊はすべてのものをきわめ、神の深みまでもきわめる』（第一コリント二・一〇）。
 
 I desire to call your attention, especially, to the 14th verse. "The natural man receiveth not the things of the Spirit of God: for they are foolishness to him: neither can he know them, because they are spiritually discerned."
 とくに十四節に注意していただきたい。『生れながらの人は、神の御霊の賜物を受けいれない。それは彼には愚かなものだからである。また、御霊によって判断されるべきであるから、彼はそれを理解することができない』（第一コリント二・一四）。
 
 The natural man cannot understand this wonderful scripture. There are two classes of men; the spiritual man and the natural man. The natural man is in the "gall of bitterness"; the spiritual man is born of God and walks in the Spirit; he gets out into the deep. The natural man can never discern spiritual things, never hear and understand the work of the Lord; these things pass all human understanding. The wisdom of this world, intellect and science, can never understand the spiritual things of God.
-生まれながらの人は、このすばらしい聖句を理解できない。人には二つの種類がある。霊の人と、生まれながらの人である。生まれながらの人は『苦い胆汁』の中にいる（使徒八・二三）。霊の人は神から生まれ、御霊によって歩み、深みへと出て行く。生まれながらの人は、霊のことを決して見分けられない。主のわざを聞いて理解することも決してない。これらのことは、人のあらゆる理解を超えている。この世の知恵、知性や科学は、神の霊のことを決して理解できない。
+生まれながらの人は、このすばらしい聖句を理解できない。人には二つの種類がある。霊の人と、生まれながらの人である。生まれながらの人は『苦い胆汁』の中にいる（使徒八・二三）。霊の人は神から生まれ、御霊によって歩み、深みへと出て行く。生まれながらの人は、霊のことを決して見分けられない。主のわざを聞いて理解することも決してない。これらのことは、人のあらゆる理解を超えている。この世の知恵、知性や科学は、神の霊的なことを決して理解できない。
 
 There are two kinds of wisdom; the wisdom of this world is foolishness with God. The wisdom from above, the natural man cannot comprehend; it never enters his imagination to think of the things God hath prepared for those who love Him.
 知恵には二種類ある。この世の知恵は、神の前では愚かである。上からの知恵は、生まれながらの人には理解できない。神がご自分を愛する者たちのために備えられたものを思うことなど、その人の想像に浮かぶことさえない。
@@ -28,13 +28,13 @@ There are many kinds of power, and many spirits going out in the world today; an
 // 英文の「will be lead」は「will be led」の誤り。
 
 Then we can go from one deep thing to another. The Holy Ghost is sent to us by Jesus Christ, and all gifts come through the Holy Ghost. Jesus said He shall not speak of Himself, but of Me; He will speak to you and show you the things to come. We believe it. Glory to God!
-そうすれば、私たちは一つの深みから次の深みへと進むことができる。聖霊はイエス・キリストによって私たちに遣わされ、すべての賜物は聖霊を通して来る。イエスは言われた。聖霊は自分から語るのではなく、わたしについて語る。あなたがたに語り、きたるべき事を知らせる、と。私たちはそれを信じる。神に栄光あれ！
+そうすれば、私たちは一つの深みから次の深みへと進むことができる。聖霊はイエス・キリストによって私たちに遣わされ、すべての賜物は聖霊を通して来る。イエスは言われた。聖霊は自分から語るのではなく、わたしについて語る。あなたがたに語り、きたるべきことを知らせる、と。私たちはそれを信じる。神に栄光あれ！
 
 This is the Holy Ghost who came at Pentecost, and turned Jerusalem upside down; and Jesus said that when the Holy Ghost came, He should abide with us forever, even unto the end. The work of the Spirit is foolishness to the natural man; he cannot comprehend it.
 これが、ペンテコステの日に来られて、エルサレムをかき回された聖霊である。イエスは、聖霊が来るときには、いつまでも、終わりまでも私たちと共にいる、と言われた。御霊のわざは、生まれながらの人には愚かである。その人はそれを理解できない。
 
 Unless you will hear the voice of God, the voice of the natural man will make you attribute what you see, to excitement, or to some other power. When the Holy Ghost is poured out there are always two classes; one is convinced and convicted, and accept it; the other says, if I accept, I will have to lead a different life, and be a gazing stock for the world; they are not willing to pay the price, so they begin to draw back. First they wonder at the strange acts, then when they won't accept, they begin to despise. Every one who continues to despise the works of the Holy Ghost will perish.
-神の声を聞こうとしないなら、生まれながらの人の声によって、あなたは自分の見るものを、興奮のせいか、何かほかの力のせいにしてしまう。聖霊が注がれるときには、いつも二種類の人々がいる。一方は納得し、罪を示されて、それを受け入れる。もう一方は言う。受け入れたら、違う生活をしなければならないし、世の見せ物にならなければならない、と。彼らは代価を払おうとせず、それで退きはじめる。初めは異なったわざに驚く。それから、受け入れようとしないので、侮りはじめる。聖霊のわざを侮り続ける者はみな滅びる。
+神の声を聞こうとしないなら、あなたは生まれながらの人の声に動かされる。そして、自分の見るものを、興奮のせいか、何かほかの力のせいにしてしまう。聖霊が注がれるときには、いつも二種類の人々がいる。一方は納得し、罪を示されて、それを受け入れる。もう一方は言う。受け入れたら、違う生活をしなければならないし、世の見せ物にならなければならない、と。彼らは代価を払おうとせず、それで退きはじめる。初めは異なったわざに驚く。それから、受け入れようとしないので、侮りはじめる。聖霊のわざを侮り続ける者はみな滅びる。
 
 There are many powers in the world, that are not of God, but are counterfeit; but where there is a counterfeit there is always a genuine. No one ever tries to counterfeit anything that is not genuine; that is a sure evidence that it is genuine.
 世には、神から出たものではない、偽物の力が多くある。しかし偽物がある所には、いつも本物がある。本物でないものを偽造しようとする者はいない。それこそ、それが本物であることの確かな証拠である。
@@ -72,7 +72,7 @@ In the last days, there will be some people living very near to God; but the dev
 終わりの時には、神のすぐ近くに生きる人々がいる。しかし悪魔にも働き手がいて、行われたしるしと不思議を、キリストの力のほかなら何の力のせいにでもする。神の小羊、ユダ族の獅子は、決してその力を失われたことはなく、これからも決して失われない。私は、悪魔のほうが神よりも力があると思っていることを、自分の行いで言うようなことはしたくない。
 
 There is a wonderful difference between the power of God and any of those other powers. The Holy Ghost comes only in Christ; He only comes into the bodies of those who love God. When He takes possession of us, He takes us away into the sweetest experience this side of Heaven, alone with God. He talks to us and reveals to us "things to come." (Jno. xvi.)
-神の力と、ほかのどんな力とのあいだにも、驚くほどの違いがある。聖霊はキリストにあってのみ来られる。神を愛する者の体の中にだけ来られる。聖霊は私たちをとらえられるとき、私たちを、この世で最も甘美な経験へと連れて行ってくださる。神とふたりきりになるのである。聖霊は私たちに語り、『きたるべき事』を明らかにしてくださる（ヨハネ一六・一三）。
+神の力と、ほかのどんな力とのあいだにも、驚くほどの違いがある。聖霊はキリストにあってのみ来られる。神を愛する者の体の中にだけ来られる。聖霊は私たちをとらえられるとき、私たちを、この世で最も甘美な経験へと連れて行ってくださる。神とふたりきりになるのである。聖霊は私たちに語られ、『きたるべき事』を明らかにしてくださる（ヨハネ一六・一三）。
 // 英文の出典は「Jno. xvi.」で章だけを示している。
 
 It is wonderful! God puts us under the power, and God takes us out. No man can bestow this power upon another; it comes only through Jesus Christ. There are two kinds of power, and people who do not know the difference will stand up today and say wisdom is foolishness.
@@ -92,7 +92,7 @@ I have stood before thousands of people, and could not speak, just weeping. When
 「神は人知を超えた道によって、その不思議なみわざを行われる」。これが私の礼拝する神である。イエスは言われる。「ここにわたしと、あなたがわたしに賜わった子たちとがいます」（ヘブル二・一三）。私たちは「しるしと不思議」を信じている。下からのものではなく、上からのものである。私たちは人々に驚かれる民であり、人々の中でしるしとなっている。
 
 The heaven of heavens cannot contain God, yet He tabernacles with men; He comes and dwells in us. His gifts are demonstrated through us, that people may know God dwells in Zion; we have a bodyguard of angels. The angels of the Lord encamp around those who love God. "Our citizenship is in Heaven," and we are on the way.
-天も、いと高き天も、神をいれることはできない。それなのに神は、人の間に幕屋を張られる。来て、私たちの内に住まわれるのである。神の賜物は私たちを通して現される。神がシオンに住んでおられることを、人々が知るためである。私たちには、御使の護衛がついている。主の使は、神を愛する者たちのまわりに陣をしく。『わたしたちの国籍は天にある』（ピリピ三・二〇）。そして私たちは、そこへ向かう途上にある。
+天も、いと高き天も、神をいれることはできない。それなのに神は、人の間に幕屋を張られる。来られて、私たちの内に住まわれるのである。神の賜物は私たちを通して現される。神がシオンに住んでおられることを、人々が知るためである。私たちには、御使の護衛がついている。主の使は、神を愛する者たちのまわりに陣をしく。『わたしたちの国籍は天にある』（ピリピ三・二〇）。そして私たちは、そこへ向かう途上にある。
 
 The Holy Ghost works in many ways. People saw the fire on the disciples' heads at Pentecost; they staggered like drunken men; then the Holy Ghost took possession of their tongues. God Almighty spoke through 120 of His children, and they were telling of His wonderful works. They did not know what they were saying, but every man heard them speak in his own tongue wherein he was born.
 聖霊はさまざまな仕方で働かれる。ペンテコステの日に、人々は弟子たちの頭の上に火を見た。弟子たちは酔った人のようによろめいた。それから、聖霊が彼らの舌をとらえられた。全能の神が百二十人のご自分の子供たちを通して語られ、彼らは神の大きな働きを告げていた。彼らは自分が何を言っているのかわからなかった。しかし、だれもかれも、自分の生まれ故郷の言葉で彼らが語るのを聞いた。
@@ -122,7 +122,7 @@ We want more of it, don't we? More of this mighty power. No matter what people s
 私たちは、もっとこれが欲しいのではないか。この大いなる力が、もっと欲しいのではないか。人々が何と言おうと、愚かだ、催眠術だ、ほかの何だと言おうと、それでそうなるわけではない。御霊は私たちを深みへ、まさに『神の深み』へと連れ出してくださる（第一コリント二・一〇）。
 
 Many things recorded in the Old Testament are types of the work of the Spirit in the New. Many of the movements of God through His children seemed foolishness, and the messages He gave His prophets to carry, humanly speaking, seemed very foolish.
-旧約聖書に記されている多くのことは、新約における御霊の働きの型である。神がご自分の子供たちを通してなさった多くの動きは、愚かに見えた。神が預言者たちに伝えさせられたメッセージも、人間的に言えば、とても愚かに見えた。
+旧約聖書に記されている多くのことは、新約における御霊のわざの型である。神がご自分の子供たちを通してなさった多くの動きは、愚かに見えた。神が預言者たちに伝えさせられたメッセージも、人間的に言えば、とても愚かに見えた。
 
 He gave Noah a plan of the ark; only one window, only one door. He built it according to God's plan, not heeding the jeers of the people, who thought he was losing his mind. He was a gazing stock for everybody, but he went on with the building, and proved the wisdom of God in the end.
 神はノアに箱舟の設計図をお与えになった。窓は一つだけ、戸も一つだけであった。ノアは神の設計図どおりに箱舟を造り、人々のあざけりに耳を貸さなかった。人々は、ノアが正気を失いかけていると思っていた。ノアはみなの見せ物になったが、それでも造り続け、ついには神の知恵を証明した。
@@ -151,10 +151,10 @@ The other interpreted it, "This is nothing else save the sword of Gideon; into h
 もうひとりは、それを解いて言った。『それはギデオンのつるぎにちがいない。神はミデアンとすべての軍勢を彼の手にわたされるのだ』（士師記七・一四）。それでギデオンは信じて、勇気を得た。
 
 Children of God, who think you are something, you are nothing; when you realize you are nothing, God fights for you. How foolish seemed the method of fighting the Midianites! Israel might have said, if we break the pitchers, the lamps will show the enemy where we are and they will shoot us. When God speaks go forward, obey Him; He takes care of His own.
-自分をひとかどの者だと思っている神の子供たちよ、あなたがたは何者でもない。自分が何者でもないと悟るとき、神があなたのために戦ってくださる。ミデアン人と戦うそのやり方は、なんと愚かに見えたことか！　イスラエルはこう言ってもよかったのだ。つぼを割れば、たいまつで敵に居場所を知られて、射られてしまう、と。神が語られるときは、前進し、神に従いなさい。神はご自分の者を守ってくださる。
+自分をひとかどの者だと思っている神の子供たちよ、あなたがたは何者でもない。自分が何者でもないと悟るとき、神があなたのために戦ってくださる。ミデアン人と戦うそのやり方は、なんと愚かに見えたことか！　イスラエルはこう言うこともできただろう。つぼを割れば、たいまつで敵に居場所を知られて、射られてしまう、と。神が語られるときは、前進し、神に従いなさい。神はご自分の者を守ってくださる。
 
 Truly, God moves in a mysterious way. Remember the fall of Jericho. It had great walls around it, and all the people were shut in. God said to Joshua that he and his men of war should march around the city once a day for six days, seven priests bearing before the ark seven trumpets of rams' horns; on the seventh day they were to march around the city seven times, the priests blowing with the trumpets; and when they made a long blast the people were to shout, and the walls should fall down.
-まことに、神は人知を超えた道によって働かれる。エリコの陥落を思い出しなさい。エリコは大きな城壁に囲まれ、民はみな中に閉じこもっていた。神はヨシュアに言われた。ヨシュアと戦士たちは、六日のあいだ一日に一度、町の周りを行進しなければならない。七人の祭司が、雄羊の角のラッパ七つを携えて、箱に先立って行く。七日目には町を七度巡り、祭司たちはラッパを吹き鳴らす。そして長く吹き鳴らしたら、民は叫ぶ。そうすれば、城壁はくずれ落ちる、と。
+まことに、神は人知を超えた道によって働かれる。エリコの陥落を思い出しなさい。エリコは大きな城壁に囲まれ、民はみな中に閉じこもっていた。神はヨシュアに言われた。ヨシュアと戦士たちは、六日のあいだ一日に一度、町の周りを行進しなければならない。七人の祭司が、雄羊の角のラッパ七つを携えて、神の箱に先立って行く。七日目には町を七度巡り、祭司たちはラッパを吹き鳴らす。そして長く吹き鳴らしたら、民は叫ぶ。そうすれば、城壁は崩れ落ちる、と。
 
 It took faith to do all that marching without any sign of victory, to shout, anyone can shout after the walls fall. Humanly speaking, how foolish this all was, don't you see? No preparation for war, only marching, and blowing rams' horns; but that was God's way and they were silly enough to obey God! What was the result? The walls went down.
 勝利のしるしが何もないのに、あれだけの行進をし、叫ぶには、信仰が要った。城壁が崩れた後なら、だれでも叫ぶことができる。人間的に言えば、これはみな、なんと愚かなことだったか。そう思わないか。戦いの準備は何もなく、ただ行進して雄羊の角を吹き鳴らすだけである。しかし、それが神のやり方であり、彼らは愚かにも神に従ったのである！　結果はどうだったか。城壁は崩れ落ちた。
@@ -166,7 +166,7 @@ When these visible signs came, they put a fear of God upon the people; it is so 
 このような目に見えるしるしが現れたとき、人々は神を恐れるようになった。聖霊のわざについても同じである。神の道は、生まれながらの人には愚かである。御霊のわざも、生まれながらの人には愚かである。しかし、結果はどうか。
 
 Paul said, "If any man among you seemeth to be wise in this world, let him become a fool that he may be wise." Later he said, "I will come to visions and revelations of the Lord." He said he was carried away to the third heaven--whether in the body or out of the body, he could not tell--he could not tell whether his whole body went or not; he was so light he could not tell whether he had left his body here or not.
-パウロは言った。『もしあなたがたのうちに、自分がこの世の知者だと思う人がいるなら、その人は知者になるために愚かになるがよい』（第一コリント三・一八）。後には、『主のまぼろしと啓示とについて語ろう』と言った（第二コリント一二・一）。パウロは、第三の天にまで引き上げられたと言った。それが、からだのままであったか、からだを離れてであったか、わからなかった。体ごと行ったのかどうか、わからなかった。あまりにも軽く感じられて、体をここに置いて来たのかどうか、わからなかったのである。
+パウロは言った。『もしあなたがたのうちに、自分がこの世の知者だと思う人がいるなら、その人は知者になるために愚かになるがよい』（第一コリント三・一八）。後には、『主のまぼろしと啓示とについて語ろう』と言った（第二コリント一二・一）。パウロは、第三の天にまで引き上げられたと言った。それが、体のままであったか、体を離れてであったか、わからなかった。体ごと行ったのかどうか、わからなかった。あまりにも軽く感じられて、体をここに置いて来たのかどうか、わからなかったのである。
 
 He said, "God knoweth"; and he heard unutterable things. At another time Paul was praying in the temple, and fell under the power of God; he fell into a trance; he appeared to be unconscious to the world, but he was never so wide awake to God in his life.
 パウロは『神がご存じである』と言った（第二コリント一二・二）。そして、口に言い表せない言葉を聞いた。またあるとき、パウロは宮で祈っているうちに、神の力に打たれて倒れ、入神状態に陥った。この世に対しては意識を失っているように見えたが、生涯でこれほど神に対して目覚めていたことはなかった。
@@ -194,7 +194,7 @@ Once I was seven hours under the power of God. I have been examined at such a ti
 あるとき、私は七時間、神の力の下にあった。そのようなときに医者に診察されたことがあるが、正常な状態だとわかった。私の知る多くの人は、理解できないながらも、その力は催眠術ではないと正直に言ってくれた。
 
 One of the greatest hypnotists in the world came to our meeting in St. Louis; he had been there two or three days before I knew anything about it. He was surprised to see a man lying there whom hundreds of hypnotists had tried to get under their power; he himself had tried it.
-世界で最も偉大な催眠術師のひとりが、セントルイスの私たちの集会にやって来た。私が何も知らないうちに、彼はもう二、三日そこにいた。彼は、ひとりの男の人がそこに横たわっているのを見て驚いた。それは、何百人もの催眠術師が自分の力の下に置こうとして、できなかった人であった。彼自身もやってみたことがあった。
+世界で最も偉大な催眠術師のひとりが、セントルイスの私たちの集会にやって来た。私が何も知らないうちに、彼はもう二、三日そこにいた。彼は、ひとりの男の人がそこに横たわっているのを見て驚いた。それは、何百人もの催眠術師が自分の力の下に置こうとした人であった。彼自身もやってみたことがあった。
 
 He went to him and tried to bring him out, but could not. After a while the hypnotist came to me to have an interview with me; he said he was going to call his friends together and tell them he had found something he could not understand.
 彼はその人の所へ行って、さめさせようとしたが、できなかった。しばらくして、その催眠術師は私と会って話をしにやって来た。そして、友人たちを呼び集めて、自分には理解できないものを見つけたと話すつもりだ、と言った。
