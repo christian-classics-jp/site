@@ -12,15 +12,15 @@ Thousands came daily, and souls were saved, and diseases healed from the first.
 Many came forty and seventy miles over land in buggies and wagons, from the other meetings we had held.
 私たちが前に開いたほかの集会から、多くの人が四十マイル、七十マイルの道のりを、軽馬車や荷馬車に乗って陸路でやって来た。
 They told how the Lord had saved their souls, and many of them had also been healed by the power of God, and made every whit whole.
-その人々は、主がどのように自分の魂を救ってくださったかを語った。その多くは神の力によっていやされ、全身を丈夫にされてもいた。
+その人々は、主がどのように自分の魂を救ってくださったかを語った。その多くはまた、神の力によっていやされ、全身を丈夫にされていた。
 They had been given up by the best physicians to die.
 最も優れた医者たちに、死ぬものと見放されていた人々である。
 Their ringing testimonies convinced the people that God was with us in mighty power.
-その人々の高らかに響く証しを聞いて、人々は、神が大いなる力をもって私たちと共におられると確信した。
+その高らかに響く証しを聞いて、集まった人々は、神が大いなる力をもって私たちと共におられると確信した。
 They saw these people were saved soul and body and filled with the Holy Ghost.
-この人々が魂もからだも救われ、聖霊に満たされているのを、人々は見たのである。
+この人々が魂もからだも救われ、聖霊に満たされているのを、集まった人々は見たのである。
 Nearly all the ministers of the Church of God were at the meeting and many from other churches, viz., M. E., U. B., Congregational, Christian, and others.
-神の教会の伝道者のほとんどが集会に来ていた。ほかの教会、すなわちメソジスト監督教会、合同兄弟教会、会衆派、クリスチャン教会などからも、多くの伝道者が来ていた。
+神の教会の牧師のほとんどが集会に来ていた。ほかの教会、すなわちメソジスト監督教会、合同兄弟教会、会衆派、クリスチャン教会などからも、多くの牧師が来ていた。
 Many of them bowed at the altar to be anointed with power from on high.
 その多くが、上からの力を注がれるために、祭壇の前にひざまずいた。
 Several were healed of different infirmities.
@@ -39,7 +39,7 @@ Hundreds came to the altar crying, what must I do to be saved.
 Forty at once.
 一度に四十人のこともあった。
 Sometimes the shouts of scores of the new born babes rang out, that made the Heavens ring.
-ときには、新しく生れた何十人もの赤子たちの叫びが響き渡り、天にまでとどろいた。
+ときには、何十人もの、生まれたばかりの乳飲み子たちの叫びが響き渡り、天にまでとどろいた。
 People from thirty-five to seventy-five came to Christ by scores, but some of the brethren began to get discouraged about the young men and women not coming.
 三十五歳から七十五歳までの人々が、何十人もキリストのもとに来た。しかし兄弟たちの何人かは、若い男女が来ないことで気落ちしはじめた。
 There were so many in that community, and the worst of them were very wild; they had tried hard to save them, but could not.
@@ -69,7 +69,7 @@ The Holy fire spread all over the surrounding country, and went in all churches.
 I must again omit several accounts.
 ここでもまた、いくつかの記録を省かなければならない。
 From St. Louis, Mo., I went to Lisbon, Salem and Canton, Ohio.
-私はミズーリ州セントルイスから、オハイオ州のリスボン、セーレム、カントンへ行った。
+私はミズーリ州セントルイスから、オハイオ州のリスボン、セイラム、カントンへ行った。
 Held meetings in the Tabernacle six years before in Canton.
 カントンでは、六年前に幕屋で集会を開いていた。
 This time I held services in the Church of God.
@@ -77,7 +77,7 @@ This time I held services in the Church of God.
 Most of the church had been converted when we were there before.
 教会員のほとんどは、私たちが前にそこにいたときに回心した人々だった。
 The minister who had charge of the church was called to the ministry, and anointed for the work at our meeting held in the Tabernacle.
-その教会を受け持っていた伝道者は、私たちが幕屋で開いた集会で伝道の務めに召され、働きのために油を注がれた人だった。
+その教会を受け持っていた牧師は、私たちが幕屋で開いた集会で伝道の務めに召され、働きのために油を注がれた人だった。
 
 ## セントルイスに戻る
 BACK TP LOUIS
@@ -90,7 +90,7 @@ I felt the care and responsibility of the church was too much for me with the wo
 I am no longer responsible for the prosperity of the church.
 教会が栄えるかどうかについて、私はもう責任を負っていない。
 The church and the work we have done in the hands of the Lord, is more established and appreciated by the people of St. Louis than ever before.
-教会と、主の御手の中で私たちがしてきた働きとは、これまでになく堅く立てられ、セントルイスの人々に重んじられている。
+教会と、私たちがしてきた働きとは、主の御手の中にあって、これまでになく堅く立てられ、セントルイスの人々に重んじられている。
 
 ## アイオワ州マウントプレザントで
 AT MOUNT PLEASANT, IOWA
@@ -98,7 +98,7 @@ AT MOUNT PLEASANT, IOWA
 During our meeting at this place the editors of the different papers stood by the work and gave grand reports of the wonderful works the Lord was doing in the city.
 この地での集会のあいだ、いろいろな新聞の編集者たちが働きを支持してくれた。そして、主が町でなさっている驚くべきみわざを、すばらしい記事にして伝えてくれた。
 God bless them, they will never know the good they did until Eternity, when the Books are opened and all will be rewarded for the good they have done.
-神がその人々を祝福してくださるように。自分たちのした善がどれほどのものであったかを、その人々は永遠のときまで知ることはないだろう。そのときには書物が開かれ、すべての人が自分のした善に応じて報いを受けるのである。
+神がその人々を祝福してくださるように。自分たちのした善がどれほどのものであったかを、その人々は永遠に入るまで知ることはないだろう。そのときには書物が開かれ、すべての人が自分のした善に応じて報いを受けるのである。
 The interest continued to increase until the close.
 関心は、終わりまで高まり続けた。
 The night we closed, the house was packed to the outside door at six o'clock, and many were turned away.
@@ -118,9 +118,9 @@ We were kindly received by the pastor and his wife and also the church.
 As we entered the church the first night we found a large congregation awaiting our coming.
 最初の夜、教会に入ると、大勢の会衆が私たちの来るのを待っていた。
 When we walked up the aisle they sang, "Praise God from whom all blessings flow;" they were so rejoiced to see the Lord had answered their prayers, in sending us to them.
-私たちが通路を進んで行くと、会衆は「すべての祝福の源なる神をほめたたえよ」と歌った。主が私たちを遣わして、祈りに答えてくださったのを見て、たいへん喜んでいたのである。
+私たちが通路を進んで行くと、会衆は「すべての祝福の源なる神をほめたたえよ」と歌った。主が私たちを遣わされて、祈りに答えてくださったのを見て、たいへん喜んでいたのである。
 Souls were converted the first night, and every day and night for five weeks, the shouts went up to Heaven, from those who had been born into the Kingdom of our Lord and Savious, Jesus Christ; and from those who had been made whole in body of all their diseases.
-最初の夜から魂が回心した。五週間のあいだ毎日昼も夜も、叫びが天に上った。私たちの主であり救い主であるイエス・キリストの御国に生れた人々の叫びだった。あらゆる病からからだを丈夫にされた人々の叫びでもあった。
+最初の夜に魂が回心した。五週間のあいだ毎日昼も夜も、叫びが天に上った。私たちの主であり救い主であるイエス・キリストの御国に生まれた人々の叫びだった。あらゆる病からからだを丈夫にされた人々の叫びでもあった。
 // 英文の Savious は原本の誤植。
 People came from all parts of the country, and were saved.
 その地方の至る所から人々が来て、救われた。
@@ -128,7 +128,7 @@ Several came seven hundred miles and were saved and healed.
 七百マイルの道のりをやって来て、救われ、いやされた人々も幾人かいた。
 
 There were many ministers present at this meeting and they did what they could to push the car of salvation on.
-この集会には多くの伝道者が来ていて、救いの車を前へ押し進めるために、できるかぎりのことをした。
+この集会には多くの牧師が来ていて、救いの車を前へ押し進めるために、できるかぎりのことをした。
 The day we closed the people took a vote to have us come in the summer with our tent.
 集会を閉じた日、人々は、夏に私たちに天幕を持って来てもらうことについて投票した。
 The vote was unanimous.
@@ -158,7 +158,7 @@ The next place at which we held a meeting was at Dedham, thirteen miles from Car
 We held the meeting in the Methodist Episcopal Church.
 私たちは、メソジスト監督教会で集会を開いた。
 The town was well named, for the people, most of them, were dead spiritually.
-この町はうまく名づけられていた。人々のほとんどが霊的に死んでいたからである。
+この町はうまく名づけられていた。人々のほとんどが霊的に死んで（デッド）いたからである。
 // Dedham を dead（死んだ）にかけている。
 Almost all the help we had was from those who had attended our revival at Carroll.
 私たちの受けた助けは、ほとんどすべて、キャロルでの私たちのリバイバルに来ていた人々からのものだった。
@@ -193,7 +193,7 @@ CHAPTER XXVI
 AT MUSCATINE, IOWA
 
 After missions at Arthur, Iowa, and N. Liberty, we went to Muscatine, Iowa, about fifty miles from Iowa City.
-アイオワ州アーサーとノースリバティで伝道した後、私たちはアイオワシティから五十マイルほどのアイオワ州マスカティンへ行った。
+アイオワ州アーサーとノースリバティで伝道した後、私たちはアイオワ州マスカティンへ行った。アイオワシティから五十マイルほどの町である。
 We pitched our tent in Park Place on the same spot where we held a three weeks' meeting one year before.
 私たちはパークプレースに天幕を張った。一年前に三週間の集会を開いたのと同じ場所である。
 The crowds were large and the interest good from the first.
@@ -233,7 +233,7 @@ She has conducted a number of tent meetings and the Lord has been with her, and 
 いくつもの天幕集会を導いてきた。主は彼女と共におられ、その労苦を祝福してくださった。
 
 A lady who had been healed of a tumor, in one of our meetings the summer before was at this meeting and told how she had been healed, and had been perfectly well ever since.
-前の年の夏に私たちの集会の一つで腫瘍をいやされた婦人も、この集会に来ていた。そして、どのようにいやされたか、それ以来どれほど元気でいるかを語った。
+前の年の夏に私たちの集会の一つで腫瘍をいやされた婦人も、この集会に来ていた。そして、どのようにいやされたか、それ以来すっかり元気でいることを語った。
 
 Conviction fell on the people, the fear of God made them tremble.
 罪の自覚が人々に下り、人々は神への恐れに震えた。
@@ -242,7 +242,7 @@ The children of the Lord said, "We had a Pentecost."
 Praise the Lord!
 主をほめたたえよ。
 As Brother Talmage said, "We ought not to be looking at a dead Pentecost of the past, but we ought to have thousands of Pentecosts all along the way."
-タルメージ兄弟が言ったように、「私たちは過去の死んだペンテコステを眺めているべきではない。道の途中のいたる所で、何千ものペンテコステを経験すべきである」。
+タルメージ兄弟が言ったように、「私たちは過去の死んだペンテコステを眺めているべきではない。行く先々で、何千ものペンテコステを経験すべきである」
 // Talmage は説教者 T. DeWitt Talmage（一八三二〜一九〇二）と思われる。
 One day a woman was brought to the meeting on two crutches.
 ある日、ひとりの女が、二本の松葉杖をついて集会に連れて来られた。
@@ -315,11 +315,11 @@ A lady came over one hundred miles, greatly afflicted with a tumor in her throat
 She had had no use of her arm for eight years; it was always cold and looked like the hand of a corpse.
 八年のあいだ腕が使えず、その腕はいつも冷たくて、死人の手のようだった。
 As I prayed and told her in the name of Jesus Christ of Nazareth to stretch forth her hand, she did so, and it was made whole like the other.
-私は祈り、ナザレ人イエス・キリストの名によって手を伸ばしなさい、と彼女に言った。彼女が手を伸ばすと、その手はもう一方の手のように元どおりになった。
+私は祈り、ナザレ人イエス・キリストの名によって手を伸ばしなさい、と彼女に言った。彼女が手を伸ばすと、その手はほかの手のように良くなった。
 She clapped her hands above her head, giving glory to God.
 彼女は頭の上で手をたたいて、神に栄光を帰した。
 She told the people her hand had been asleep for eight years, but was made whole.
-自分の手は八年のあいだ眠っていたが、元どおりになった、と彼女は人々に語った。
+自分の手は八年のあいだしびれて感覚がなかったが、元どおりになった、と彼女は人々に語った。
 She testified often and told she was well, that she could feed herself and comb her hair, and that she had been baptized with the Holy Ghost.
 彼女は何度も証しをした。自分は元気になった、自分で食事をし、髪をとかすことができる、聖霊のバプテスマも受けた、と語った。
 A lady in Muscatine, who had a withered hand for fifteen years was healed.
@@ -347,6 +347,7 @@ When we prayed for her the people crowded around the altar to see what would hap
 私たちが彼女のために祈ると、人々は何が起こるかを見ようと祭壇のまわりに押し寄せた。彼女が指と手を動かしはじめた。はれが引いていった。彼女はその腕を上げて伸ばし、それから両手を打ち合わせて「いやされた」と叫んだ。それを見た人々は、自分の目がほとんど信じられなかった。
 Strong men wept who were sinners, and said, "Surely God is here."
 罪人であったたくましい男たちが泣いて、「まことに神がここにおられる」と言った。
+// 創世記二八・一六『まことに主がこの所におられる』の言い回し。
 The saints shouted, and the fear of the Lord came upon all who saw her.
 聖徒たちは叫び、彼女を見たすべての人に主への恐れが臨んだ。
 She stayed at the meeting several days and testified of what Jesus had done for her.
@@ -359,11 +360,11 @@ The tent was two miles from the city and there was no shelter any place around.
 I felt anxious to be at the tent with the rest.
 私は、ほかの人たちと一緒に天幕にいたいと気がせいた。
 I began to pray for the Lord to protect them, to be around them like a wall of fire, and protect them from harm.
-私は祈りはじめた。主がその人々を守り、火の城壁のようにその人々を囲んで、災いから守ってくださるように、と。
+私は祈りはじめた。主がその人々を守られ、火の城壁のようにその人々を囲まれて、災いから守ってくださるように、と。
 While praying the words of Paul came to me, that he spoke while on the sinking vessel.
 祈っていると、パウロの言葉が心に浮かんだ。沈みかけた船の上でパウロが語った言葉である。
 You remember he said that the vessel would be wrecked but no lives would be lost.
-覚えておられるだろう。パウロは、船は難破するが、いのちを失う者はひとりもない、と言った。
+読者も覚えているだろう。パウロは、船は難破するが、いのちを失う者はひとりもない、と言った。
 I did not understand it, but as we got off the cars, we saw the storm just ready to burst in all its fury.
 私にはその意味がわからなかった。しかし路面電車を降りると、嵐が今にも猛威を振るおうとしているのが見えた。
 The tent was crowded, they had neglected to put down the side walls and it was too late now to put them down.
@@ -373,13 +374,13 @@ They were having testimony.
 The interest was so great that they did not know the storm was upon them.
 あまりに熱心だったので、嵐が迫っていることに気づいていなかった。
 I stepped upon the pulpit and told them the storm was upon us, and not to try to get away but just sit still and put all their trust in God and he would save us.
-私は説教壇に上がって人々に言った。嵐が迫っています。逃げようとしないで、ただじっと座って、神にすべてをゆだねなさい。神が私たちを救ってくださいます、と。
+私は説教壇に上がって人々に言った。嵐が迫っています。逃げようとしないで、ただじっと座って、神にすべてをゆだねてください。神が私たちを救ってくださいます、と。
 Just as I said this the storm struck the tent, and the ropes broke close around the pulpit, where I was standing.
 私がそう言ったとたん、嵐が天幕を打ち、私の立っていた説教壇のすぐまわりで綱が切れた。
 The side poles were flying and cracking.
 側面の柱が飛び、音を立てて折れた。
 I fell and lay upon the pulpit; all the other ministers and sinners were knocked off; the congregation saw all this; they saw the tent with the two large center poles falling.
-私は倒れて説教壇の上に横たわった。ほかの伝道者や罪人たちはみな、はじき飛ばされた。会衆はこの一部始終を見ていた。二本の大きな中央の柱ごと、天幕が倒れてくるのを見た。
+私は倒れて説教壇の上に横たわった。ほかの牧師や罪人たちはみな、はじき飛ばされた。会衆はこの一部始終を見ていた。二本の大きな中央の柱ごと、天幕が倒れてくるのを見た。
 They saw the tent would soon cover them.
 天幕が今にも自分たちの上にかぶさってくるのを見た。
 Many thought I was killed; when I saw the tent going down, then I knew what the scripture meant that the Lord gave me in answer to my prayers, that the tent would be wrecked, or go down, but no lives would be lost.
@@ -400,7 +401,7 @@ In the morning meeting there were one hundred and thirty testimonies of the heal
 朝の集会では、からだのいやしの証しが百三十あり、魂の救いの証しは何百もあった。
 
 I must pass over various meetings in several States: readers are referred to the old book "Acts of the Holy Ghost,' to be had from the author.
-いくつもの州でのさまざまな集会は省かなければならない。読者は、著者から求めることのできる古い本『聖霊の行伝』をご覧いただきたい。
+いくつもの州でのさまざまな集会は省かなければならない。読者には、著者から求めることのできる古い本『聖霊の行伝』をご覧いただきたい。
 // 英文の閉じの ' は OCR の誤りと読んだ。
 
 ## 結婚とマスカティンの集会
