@@ -76,6 +76,6 @@
 + [x] Chapter LXVIII. The Great Revival in Jerusalem
 + [x] Chapter LXIX. Blasphemy Against the Holy Ghost
 + [x] Chapter LXX. Summary--Second Camp-Meeting, Petoskey, Mich. (1)
-+ [ ] Chapter LXX. Summary--Second Camp-Meeting, Petoskey, Mich. (2)
++ [x] Chapter LXX. Summary--Second Camp-Meeting, Petoskey, Mich. (2)
 + [ ] Chapter LXXI. Put a Mark on Every Man and Woman That Sighs and Cries for the Abominations Done in the Land (1)
 + [ ] Chapter LXXI. Put a Mark on Every Man and Woman That Sighs and Cries for the Abominations Done in the Land (2)

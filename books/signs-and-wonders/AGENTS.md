@@ -74,6 +74,8 @@
 - 第六十二〜六十四章：著者の説教だけなので、すべて訳した。
 - 第六十五〜六十七章：著者の説教と、歌「OPEN THE PEARLY GATES」を訳した。歌は本に作者の名がなく、hymnary.org も作者を姓だけの「Miller」としている（一九一二年の歌集に載る）。WebSearch（standard 2 回、extended 1 回）でも名と没年がわからなかったので、名のない作品として訳した。第六十六章の最後の段落は全体が引用符に入っているが、会衆に手を挙げさせたと語る集会の指導者の言葉なので、著者自身の言葉と見て訳した。
 - 第六十八章：著者の説教と、歌「THE COMMUNINGS OF JESUS」を訳した。歌は本に作者の名がない。hymnary.org では、一八九九年の歌集に作者の名なしで、一九一一年の歌集に「Whisperings of Jesus」の題で頭文字だけの「D. K. W.」の作として載っている。名がわからないので、名のない作品として訳した。
+- 第六十九章：『ラター・レイン・エバンジェル』誌から転載された著者の説教なので、すべて訳した。
+- 第七十章（その一・その二）：著者の地の文（「PETOSKEY MEETING IS IN SESSION…」とフェイスの話、「A FEW CLOSING REMARKS」）、『ワード・アンド・ワーク』誌の「EDITOR.」の署名だけの短信、署名のない「A FEW VISIONS SEEN AT PETOSKEY MEETING」と「MISCELLANEOUS」、異言による言葉の解き明かし（回心した世界産業労働者組合の指導者を通して与えられた言葉を含む）、歌「THE COMING KING」（詞・曲とも R. E. Winsett、一九五二年没。hymnary.org による）は訳した。訳していないのは、ペトスキーの牧師 F. W. Jewell の二つの報告、宣教師 N. Diamond Gill の幻、August Feick の報告（再検索していない）、デトロイトの牧師 J. R. Kline の手紙（一九二〇年にアッセンブリーズ・オブ・ゴッドの中部地区会の臨時議長を務めた人と見られる）、Mrs. J. P. Howard の報告（第四十八章（その二）の Mrs. P. J. Howard と同じ人と見られる）、Benjamin Wittich の証し、Mrs. Abbie Thomas、Grace Boggs、Mrs. M. Banfill、Mrs. Geo. Simmins、Minnie Kapp、Mrs. Minnie Bowman、Joseph Walker の証し、Harry W. Tyler の手紙（見出しはいずれも訳した）。ジュエル、ギル、クライン、ハワード、ウィティック、タイラーは WebSearch（standard 2 回、extended 1 回）、ほかは standard 2 回で没年が見つからなかった。
 - ほかの書き手（編者 A. E. Sidford、August Feick、W. J. Mortlock など）と、証しを寄せた多くの人の没年は確かめていない。これらの文の扱いは決めていない。訳す前に確かめる。
 - のちの版（1922 年の『 Marvels and Miracles 』、現代の復刻版や編集版）で加わった序文、注、本文の書き換えは著作権が残りうる。訳にはそれらを使わず、参照もしない。
 
