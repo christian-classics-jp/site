@@ -42,6 +42,7 @@
 - 第二十九章のサラ・ネルソン夫人の証し（「RAISED FROM THE DEAD」）と、アームストロング夫人が夫の証しを裏づけた一文は、没年が確かめられないので訳していない。同じ章のジョン・N・アームストロングの証しは、本人が 1912 年に 65 歳だったと書いており（1846 年ごろの生まれ）、1958 年以後の没なら 111 歳を超えるので、1957 年以前の没と判断して訳した。
 - 第三十章（その一）の『デイリー・タイムズ・ヘラルド』紙、『ブライドグルームズ・メッセンジャー』誌の抜粋、『ラター・レイン・エバンジェル』誌の記事と目撃者の私信は、書き手の名がないので訳した。「INCREASING WONDERS OF GOD IN DALLAS, TEXAS」は一人称（I played on the organ for them）で、ボズワースの文の可能性もあるが、本では署名がないので既定どおり訳した。同じ節のクレイ・E・マーティン夫人の証しは、本人が 1912 年に 54 歳（1858 年ごろの生まれ）で、1958 年以後の没でも 100 歳ほどにしかならず、没年も確かめられないので訳していない。
 - 第三十章（その二）のキャリー・ジャッド・モンゴメリーの記事（1946 年没）、「CLAIMING THE PROMISE」、名のない牧師の「AN APPRECIATION OF SISTER WOODWORTH-ETTER」は訳した。S. B. Finley の証しは、開きの引用符だけで閉じがないので、一人称の幻の記事と「The prophet Joel」の段落までを証しとみなし、没年が確かめられないので訳していない。その後の「A brother came to these meetings…」からの三段落は三人称の報告なので、編者の文として訳した。「REPORT OF EVANGELIST」（W. J. Mortlock）も没年が確かめられないので訳していない。
+- 第三十一章の「VISIONS OF ELDER H. C. MEARS」（一人称の幻の記録、「Again, I saw my Saviour」の段落まで）は訳していない。第三十章（その二）に「四十年以上福音を説いてきた」とあるので一八五〇年代前半までの生まれと見られるが、本人の年齢ではなく伝道の年数からの推定で、一九五八年以後の没なら百三歳ほどにしかならず、没年も確かめられないため。同じ名の Henrietta C. Mears（一九六三年没）は別人。その後の「Many of the saints in the Dallas meeting…」からは三人称で、ミアーズの幻を著者が語る文なので訳した。同じ章の出所の書かれていない二つの引用（「God's children have Supernatural Revelations…」「We repeat that…」）も訳した。
 - ほかの書き手（編者 A. E. Sidford、Earl W. Clark、Cyrus B. Fockler、Robert J. Craig、August Feick、W. J. Mortlock、Anna C. Reiff など）と、証しを寄せた多くの人の没年は確かめていない。これらの文の扱いは決めていない。訳す前に確かめる。
 - のちの版（1922 年の『 Marvels and Miracles 』、現代の復刻版や編集版）で加わった序文、注、本文の書き換えは著作権が残りうる。訳にはそれらを使わず、参照もしない。
 

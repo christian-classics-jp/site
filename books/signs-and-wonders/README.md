@@ -34,7 +34,7 @@
 + [x] Chapter XXX. Signs and Wonders at Dallas, Texas (1)
 + [x] Chapter XXX. Signs and Wonders at Dallas, Texas (2)
 + [x] Chapter XXX. Signs and Wonders at Dallas, Texas (3)
-+ [ ] Chapter XXXI. A Vision of the Coming of the Lord
++ [x] Chapter XXXI. A Vision of the Coming of the Lord
 + [ ] Chapter XXXII. Questions and Answers on Divine Healing
 + [ ] Chapter XXXIII. Sermon--Gifts for Men
 + [ ] Chapter XXXIV. Sermon--Womens' Rights in the Gospel
