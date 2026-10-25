@@ -21,7 +21,7 @@ Note: Some are here that have been healed in my meetings as long as nearly thirt
 注　ここには、三十年近くも前に私の集会でいやされた人々も来ている。彼らは今も勝利を叫び、実際にその勝利を保っている。
 
 Last night we had the greatest day of the feast yet. It seemed as if heaven had come down. Some danced, some shouted, Glory! Glory! with uplifted hands, praising God for his mighty presence among us. Others sang in the heavenly choir, God giving some heavenly instruments, which they played by faith. The meeting had a great effect on unbelievers, who are earnestly inquiring into the cause of the strange power that is manifesting itself in these meetings. The Spirit has also given us many messages in tongues, with interpretations, speaking mainly of the near approach of the Saviour, and warning the saints to be prepared to meet Him and what is coming on the world.
-昨夜は、これまでで最も大いなる祭りの日だった。天が下って来たかのようだった。ある者は踊り、ある者は手を上げて「栄光、栄光」と叫び、私たちの中にある神の力強い臨在のゆえに神をほめたたえた。ほかの者は天の合唱で歌った。神は幾人かに天の楽器を与えられ、彼らは信仰によってそれを奏でた。集会は信じない者たちに大きな影響を与えた。彼らは、これらの集会に現れている不思議な力の原因を、熱心に尋ねている。御霊はまた、解き明かしを伴う異言による言葉を多く与えてくださった。それはおもに救い主の来臨が近いことを語り、主を迎える備えと、世に臨もうとしていることへの備えをするよう、聖徒たちに警告するものだった。
+昨夜は、これまでで最も大いなる祭りの日だった。天が下って来たかのようだった。ある者は踊り、ある者は手を上げて「栄光、栄光」と叫び、私たちの中にある神の力強い臨在のゆえに神をほめたたえた。ほかの者は天の合唱で歌った。神は幾人かに天の楽器を与えられ、彼らは信仰によってそれを奏でた。集会は信じない者たちに大きな影響を与えた。彼らは、これらの集会に現れている不思議な力の原因を、熱心に尋ねている。御霊はまた、解き明かしを伴う異言による言葉を多く与えてくださった。それはおもに救い主の来臨が近いことを語るものだった。そして、主を迎える備えと、世に臨もうとしていることへの備えをするよう、聖徒たちに警告していた。
 // 「the greatest day of the feast」はヨハネ七・三七 の借用。
 
 ## 追い出された悪霊ども
@@ -39,7 +39,7 @@ Truly my heart is melted in deep gratitude to God for all He has done for me. I 
 // 訳さない範囲ここまで
 
 This is the experience of Miss Goldie Howell, Twenty-fifth and Dearborn streets, Chicago, Ill.
-以上は、イリノイ州シカゴの二十五番通りとディアボーン通りの角に住む、ゴールディ・ハウエル嬢の経験である。
+以上は、イリノイ州シカゴ、二十五番街とディアボーン通りの角のゴールディ・ハウエル嬢の経験である。
 
 ## ウッドワース・エター・ペンテコステ集会
 WOODWORTH-ETTER PENTECOSTAL MEETINGS
@@ -52,10 +52,10 @@ CHICAGO CAMPAIGN
 // 英文の閉じ引用符「'」は「"」の読み誤り。
 
 Englewood Gospel Tabernacle, W. 63d St., Oct. 10th-Nov. 10th.
-西六十三番通り、エングルウッド福音幕屋、十月十日〜十一月十日。
+西六十三番街、エングルウッド福音幕屋、十月十日〜十一月十日。
 
 Just three days before the meetings were announced to open, God wonderfully opened a place in the best location on the South Side. The problem of financing so large a campaign without any money in sight was another great mountain that was swept into the sea.
-集会の開始が告知された日のわずか三日前に、神はサウスサイドで最もよい場所をすばらしく開いてくださった。見込みのお金が全くないまま、これほど大きな伝道の費用をまかなうという問題も、もう一つの大きな山だった。しかしそれも、海に投げ込まれた。
+集会が始まると告知されていた日のわずか三日前に、神はサウスサイドで最もよい場所をすばらしく開いてくださった。お金の当てが全くないまま、これほど大きな伝道の費用をまかなうという問題も、もう一つの大きな山だった。しかしそれも、海に投げ込まれた。
 
 The physical weakness of our beloved sister, humanly speaking, would have forbid her undertaking such an arduous campaign. Other trials would have discouraged both Sister Etter and those planning the campaign, had not God wonderfully strengthened their faith and given assurance that He would "stand by," and surely the results of the meetings have borne tremendous testimony to the leadings of the Holy Spirit as well as to the miraculous operations of the Holy Spirit.
 人間的に言えば、愛する姉妹の体の弱さは、これほど骨の折れる伝道を引き受けることを許さなかっただろう。ほかの試練も、エター姉妹と伝道を計画する人々をくじいていただろう。しかし神は彼らの信仰をすばらしく強め、ご自分が「支える」と確信させてくださった。そして確かに、集会の結果は、聖霊の導きと聖霊の奇跡的な働きとを、力強く証ししている。
@@ -83,7 +83,7 @@ Hundreds of sinners were drawn thither nightly, notwithstanding the attractions 
 SISTER ETTER'S WORK CONFIRMED BY MANY WITNESSES
 
 Never has the public ministry and lifework of one of God's servants received fuller confirmation and endorsement than has the long ministry of Sister Etter during this campaign. There were scores and hundreds of visitors from out of the city whose united testimony covered practically the entire public career of our sister--witnesses to healing, witnesses to salvation, witnesses to the baptism in the Holy Spirit. There were witnesses from that wonderful tent campaign in St. Louis, twenty-five years ago, witnesses from revival meetings conducted in Ohio, Indiana, Illinois, for many years back, witnesses from Dallas, Tex., witnesses from Los Angeles, Cal., witnesses from Long Hill, Conn., scores of witnesses from the Stone Church, Chicago, who were permanently healed over a year ago, many witnesses from the more recent campaigns at Petoskey, Mich., and Philadelphia, Pa. These all bore testimony to the real and lasting work wrought by God through the instrumentality of His hand-maiden. It would seem as though God had planned that this meeting should be a complete and full vindication of the ministry to which He had called her many years ago.
-神の僕のひとりの公の伝道と生涯の働きが、この伝道でのエター姉妹の長い伝道の働きほど、十分に裏づけられ、認められたことはかつてない。町の外から何十人、何百人もの訪問者が来た。彼らの証しを合わせると、私たちの姉妹の公の経歴のほとんど全体にわたった。いやしの証人、救いの証人、聖霊のバプテスマの証人である。二十五年前のセントルイスでのあのすばらしい天幕伝道の証人がいた。何年も前からオハイオ、インディアナ、イリノイで開かれたリバイバル集会の証人がいた。テキサス州ダラスの証人、カリフォルニア州ロサンゼルスの証人、コネチカット州ロングヒルの証人がいた。一年余り前にいやされて、そのまま治っている、シカゴのストーン・チャーチの何十人もの証人がいた。もっと最近のミシガン州ペトスキーとペンシルベニア州フィラデルフィアの伝道の証人も、大勢いた。この人々はみな、神がご自分の女の僕を用いてなさった、本物の、長く続くわざを証しした。神は、何年も前にご自分が彼女を召された伝道の務めの正しさを、この集会が完全に明らかにするように計画されたかのようだった。
+この伝道で、エター姉妹の長い伝道の働きは十分に裏づけられ、認められた。神の僕の公の伝道と生涯の働きが、これほど裏づけられたことはかつてない。町の外から何十人、何百人もの訪問者が来た。彼らの証しを合わせると、私たちの姉妹の公の経歴のほとんど全体にわたった。いやしの証人、救いの証人、聖霊のバプテスマの証人である。二十五年前のセントルイスでのあのすばらしい天幕伝道の証人がいた。何年も前からオハイオ、インディアナ、イリノイで開かれたリバイバル集会の証人がいた。テキサス州ダラスの証人、カリフォルニア州ロサンゼルスの証人、コネチカット州ロングヒルの証人がいた。一年余り前にいやされて、そのまま治っている、シカゴのストーン・チャーチの何十人もの証人がいた。もっと最近のミシガン州ペトスキーとペンシルベニア州フィラデルフィアの伝道の証人も、大勢いた。この人々はみな、神がご自分の女の僕を用いてなさった、本物の、長く続くわざを証しした。神は、何年も前にご自分が彼女を召された伝道の務めの正しさを、この集会が完全に明らかにするように計画されたかのようだった。
 
 ## 開かれたみことば
 THE WORD OPENED
@@ -108,13 +108,13 @@ No meetings held in Englewood in recent years have drawn the unsaved in such num
 SEEKERS BAPTIZED
 
 A very moderate estimate of the number who "were filled with the Holy Spirit, and began to speak with other tongues as the Spirit gave them utterance," would be over one hundred at the least. There have been seekers at every service and some have been baptized at nearly every service. Members of denominational churches, who had no knowledge of Pentecost, have been swept into this company of rejoicing saints.
-『聖霊に満たされ、御霊が語らせるままに、いろいろの他国の言葉で語り出した』人の数は、ごく控えめに見積もっても、少なくとも百人を超えるだろう（使徒二・四）。毎回の集いに求道者がいて、ほとんど毎回の集いで何人かがバプテスマを受けた。ペンテコステのことを何も知らなかった諸教派の教会員たちも、この喜びにあふれる聖徒たちの群れの中に押し流されて来た。
+『聖霊に満たされ、御霊が語らせるままに、いろいろの他国の言葉で語り出した』人々がいた（使徒二・四）。その数は、ごく控えめに見積もっても、少なくとも百人を超えるだろう。毎回の集いに求道者がいて、ほとんど毎回の集いで何人かがバプテスマを受けた。ペンテコステのことを何も知らなかった諸教派の教会員たちも、この喜びにあふれる聖徒たちの群れの中に押し流されて来た。
 
 ## いやされた病人たち
 THE SICK HEALED
 
 While healing was not given chief emphasis in the meetings, nevertheless scores were healed from all manner of diseases. Deaf ears were opened; the dumb spake; the lame and halt leaped and walked and praised God; tumors and cancers were smitten by the sword of the Spirit in Jesus' name and withered; sufferers from heart-disease, catarrh, organic diseases, functional disorders, insanity, apoplexy, fits and all manner of diseases were healed by the power of God in Jesus' name. Many who were demon-possessed were set free. The evil spirits came forth at the word of command with loud cries and terrible screams.
-集会ではいやしが最も強調されたわけではなかったが、それでも何十人もの人が、あらゆる病からいやされた。聞こえない耳が開かれ、口のきけない者が語った。足の不自由な者は躍り上がり、歩き、神をほめたたえた。腫瘍や癌は、イエスの名により御霊の剣に打たれて、しなびた。心臓病、カタル、器質性の病、機能の障害、精神錯乱、卒中、ひきつけ、そのほかあらゆる病に苦しむ人々が、イエスの名により、神の力によっていやされた。悪霊につかれていた多くの人が、解き放たれた。悪霊どもは命じる言葉によって、大声で叫び、恐ろしい悲鳴をあげて出て行った。
+集会ではいやしが最も強調されたわけではなかったが、それでも何十人もの人が、あらゆる病からいやされた。聞こえない耳が開かれ、口のきけない者が語った。足の不自由な者は躍り上がり、歩き、神をほめたたえた。腫瘍や癌は、イエスの名によって御霊の剣に打たれて、しなびた。心臓病、カタル、器質性の病、機能の障害、精神錯乱、卒中、ひきつけ、そのほかあらゆる病に苦しむ人々が、イエスの名によって、神の力でいやされた。悪霊につかれていた多くの人が、解き放たれた。悪霊どもは命じる言葉によって、大声で叫び、恐ろしい悲鳴をあげて出て行った。
 
 Some were healed sitting in their seats, for "The power of God was present to heal." One sister who was stone-deaf for eighteen years in her left ear was healed without the laying on of hands as she sat listening to the message. A few testimonies to healing are given elsewhere in this issue.
 ある人々は、座席に座ったままいやされた。「神の力がいやすために臨んでいた」からである（ルカ五・一七）。左耳が十八年間全く聞こえなかったひとりの姉妹は、座って説教を聞いているうちに、手を置かれずにいやされた。いやしの証しのいくつかは、本号のほかの所に載せてある。
@@ -126,7 +126,7 @@ Many visions have been given the saints. One saw the bride caught up to meet the
 聖徒たちには多くの幻が与えられた。ある人は、花嫁が空中で主に会うために引き上げられるのを見た。ある人は御使の幻を、ある人はすべてを見通す神の目の幻を見た。天が開かれ、白い馬に乗っておられる方を見た人々もいた。災いの幻を見た人々もいた。ある集会で、ひとりの姉妹が両腕を上げて、部屋じゅうを激しく走り回った。彼女は患難の幻を見たのである。御霊によって彼女は走り、地の人々に臨む恐怖を描き出した。そのとき人々は、「岩や山に、自分たちの上に倒れかかれと叫ぶ」のである（黙示録六・一六）。
 
 Several have had visions of destruction--the crumbling of high stone buildings, of flaming fire, of rushing water, of horses and men rushing through the streets, which they believed was a warning of some calamity that will come to Chicago. One sister, a prophetess, who foretold the Galveston disaster and the St. Louis cyclone, has been so burdened at night with visions of disaster and has had such groanings in the Spirit that she could scarcely eat or sleep for days at a time. Another sister who was slain on the platform under the power of the Spirit saw a vision which she afterward related as follows:
-何人かの人は、滅びの幻を見た。高い石造りの建物が崩れ落ちる幻、燃える火の幻、押し寄せる水の幻、馬と人が通りを駆け抜ける幻である。彼らは、それがシカゴに臨む何かの災いの警告だと信じた。ガルベストンの災害とセントルイスの旋風を予告した女預言者のひとりの姉妹は、夜ごと災いの幻に重荷を負わされた。そして御霊にあってひどくうめいたので、何日も続けてほとんど食べることも眠ることもできなかった。御霊の力の下に壇の上で打ち倒されたもうひとりの姉妹は、ある幻を見て、あとで次のように語った。
+何人かの人は、滅びの幻を見た。高い石造りの建物が崩れ落ちる幻、燃える火の幻、押し寄せる水の幻、馬と人が通りを駆け抜ける幻である。彼らは、それがシカゴに臨む何かの災いの警告だと信じた。女預言者であるひとりの姉妹は、ガルベストンの災害とセントルイスの旋風を予告した人である。この姉妹は夜ごと災いの幻に重荷を負わされた。そして御霊にあってひどくうめいたので、何日も続けてほとんど食べることも眠ることもできなかった。御霊の力の下に壇の上で打ち倒されたもうひとりの姉妹は、ある幻を見て、あとで次のように語った。
 
 ## 幻の一つ
 ONE OF THE VISIONS
@@ -136,7 +136,7 @@ ONE OF THE VISIONS
 
 "T saw a halo of light around Sister Etter's head. I saw tongues of the fire on the top of her head.
 「私は、エター姉妹の頭の周りに光の輪を見ました。彼女の頭の上に、火の舌を見ました。
-// 英文の「T saw」（この段落から四か所）は「I saw」の読み誤り。
+// 英文の「T saw」（この段落から五か所）は「I saw」の読み誤り。
 
 "T saw chariots on the battlements of heaven, coming down.
 「私は、天の城壁の上に戦車があって、下って来るのを見ました。
@@ -145,10 +145,10 @@ ONE OF THE VISIONS
 「私は、この会衆全体の上に雨が降っているのを見ました。イエスを求める方は、今イエスを得ることができます。
 
 "T saw Jesus standing with outstretched arms, waiting for you--to forgive you, to cleanse you, to heal you, to baptize you in the Holy Ghost and fire.
-「私は、イエスが両腕を広げて立ち、あなたがたを待っておられるのを見ました。あなたがたをゆるし、きよめ、いやし、聖霊と火とでバプテスマを授けるために、待っておられるのです。
+「私は、イエスが両腕を広げて立ち、あなたがたを待っておられるのを見ました。あなたがたをゆるし、きよめ、いやし、聖霊と火とでバプテスマを授けてくださるために、待っておられるのです。
 
 "T saw that there are some in this house who, if they do not accept Jesus Christ, if they do not accept of this woman as a messenger of the gospel of peace, are going to judgment. I saw that some of you here, if you reject the message, if you reject the Word, if you reject the Holy Ghost, are sealing your own doom.
-「私は、この会堂にいる人々のうちに、さばきに向かっている人がいるのを見ました。イエス・キリストを受け入れず、この女性を平和の福音の使者として受け入れないなら、その人々はさばきに向かうのです。また、ここにいるあなたがたのうちのある人々が、自分の滅びに封印をしようとしているのを見ました。この言葉を拒み、みことばを拒み、聖霊を拒むなら、そうなるのです。
+「私は、この会堂にいる人々のうちに、さばきに向かっている人がいるのを見ました。イエス・キリストを受け入れず、この女性を平和の福音の使者として受け入れないなら、その人々はさばきに向かうのです。また、ここにいるあなたがたのうちのある人々が、自分の滅びを決定づけようとしているのを見ました。この言葉を拒み、みことばを拒み、聖霊を拒むなら、そうなるのです。
 
 "I saw, and God spoke to me as it were from heaven, and He said these words:
 「私が見ていると、神が天からのように私に語りかけられ、こう言われました。
@@ -166,7 +166,7 @@ At nearly every meeting there have been one or more messages in other tongues wh
 MESSAGE OF WARNING
 
 "He's coming soon! Jesus is coming soon! Oh, He's coming soon! Oh! Oh! Oh! great destruction is coming on the people that do not believe! It is better that they were not born than to have heard and not listened to the voice of God to come unto Him. They will cry to the rocks but they will not hear them. My anger will be upon them, I shall laugh at their calamities. I am sending forth my messengers far and wide. This is the last call to the world. Jesus is the Light of the world. He cometh to catch his bride away. He will not tarry. Oh, those that have not the oil in their lamps! Oh, wake up! can't you see my hand? I have sounded the trumpet! Can't you hear it? Oh, wake up! wake up! I am coming soon! Can't you hear, I'm coming soon? Wake up!"
-「主はすぐに来られる。イエスはすぐに来られる。ああ、主はすぐに来られる。ああ、ああ、ああ、信じない人々の上に、大いなる滅びが来ようとしている。彼らは、神のもとに来なさいという神の声を聞きながら、それに耳を傾けなかった。それなら、生まれなかったほうがよかった。彼らは岩に向かって叫ぶが、岩は彼らに耳を貸さない。わたしの怒りは彼らの上にあり、わたしは彼らが災いにあうときに笑う。わたしはわたしの使者たちを遠く広く遣わしている。これは世への最後の招きである。イエスは世の光である。主はご自分の花嫁を携え上げるために来られる。主はためらわれない。ああ、ともしびに油のない者たちよ。ああ、目をさませ。わたしの手が見えないのか。わたしはラッパを吹き鳴らした。それが聞こえないのか。ああ、目をさませ、目をさませ。わたしはすぐに来る。わたしがすぐに来るのが聞こえないのか。目をさませ」
+「主はすぐに来られる。イエスはすぐに来られる。ああ、主はすぐに来られる。ああ、ああ、ああ、信じない人々の上に、大いなる滅びが来ようとしている。神のもとに来なさいという神の声を聞きながら耳を傾けないくらいなら、彼らは生まれなかったほうがよかった。彼らは岩に向かって叫ぶが、岩は彼らに耳を貸さない。わたしの怒りは彼らの上にあり、わたしは彼らが災いにあうときに笑う。わたしはわたしの使者たちを遠く広く遣わしている。これは世への最後の招きである。イエスは世の光である。主はご自分の花嫁を携え上げるために来られる。主は遅れることはなさらない。ああ、あかりに油のない者たちよ。ああ、目をさませ。わたしの手が見えないのか。わたしはラッパを吹き鳴らした。それが聞こえないのか。ああ、目をさませ、目をさませ。わたしはすぐに来る。わたしがすぐに来るのが聞こえないのか。目をさませ」
 // 「I shall laugh at their calamities」は箴言一・二六、「the oil in their lamps」はマタイ二五・三〜八 の借用。
 
 At one of our evening services, one of the workers under the anointing of the Spirit was seen suddenly to revolve his arm with great speed and power like the revolution of a flywheel, while great solemnity and awe rested upon the audience. Suddenly he spoke with great energy these words:
@@ -190,4 +190,4 @@ When the altar call was given he went forward, apparently under the deepest conv
 祭壇への招きがなされると、彼は、見たところ最も深い罪の自覚のうちに、前に進み出た。その祈りとうめきには、深い悔い改めの響きがあった。やがて、どうなったかと尋ねられると、彼は顔を輝かせ、自分の胸を指さして、「イエスは私のメシヤです。メシヤはここにおられます」と答えた。次に、あの兄弟はイディッシュ語で語ったのか、ヘブル語で語ったのかと尋ねられると、純粋なヘブル語で語った、と答えた。言葉は何だったかと尋ねられると、「あなたは下りて来て、イエスを自分のメシヤと認めなければならない」と答えた。この言葉が何度も繰り返された、と彼は言った。
 
 Brother Howell, through whom the Lord gave the message, testified that he had never studied languages, knew nothing about the Hebrew and had never graduated from the grammar schools. Here, then, is indisputable evidence that the "new tongue" is a real language. It would take years of study to enable one to converse in the Hebrew, which is a very difficult language, yet the Holy Spirit can miraculously use the vocal organs to speak the language with the perfect purity of a highly educated Hebrew.
-主がその言葉をお与えになったハウエル兄弟は、自分は言葉を学んだことがなく、ヘブル語については何も知らず、小学校さえ卒業していない、と証言した。それなら、ここに、『新しい言葉』が本物の言葉であるという、議論の余地のない証拠がある（マルコ一六・一七）。ヘブル語はたいへん難しい言葉で、それで会話ができるようになるには何年も学ばなければならない。しかし聖霊は、奇跡によって発声器官を用い、高い教育を受けたヘブル人と同じ完全な純粋さで、その言葉を語らせることがおできになる。
+主はハウエル兄弟を通してその言葉をお与えになった。この兄弟は、自分は外国語を学んだことがなく、ヘブル語については何も知らず、小学校さえ卒業していない、と証言した。それなら、ここに、『新しい言葉』が本物の言葉であるという、議論の余地のない証拠がある（マルコ一六・一七）。ヘブル語はたいへん難しい言葉で、それで会話ができるようになるには何年も学ばなければならない。しかし聖霊は、奇跡によって発声器官を用い、高い教育を受けたユダヤ人と同じ完全な純粋さで、その言葉を語らせることがおできになる。
