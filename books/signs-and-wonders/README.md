@@ -68,7 +68,7 @@
 + [x] Chapter LVIII. Trying but Blessed Times at San Diego, Calif.
 + [x] Chapter LIX. The Battle at San Francisco, 1916
 + [x] Chapter LX. The Signs and Wonders at Houston, Texas, March, 1916.
-+ [ ] Chapter LXI. "Try the Spirits"
++ [x] Chapter LXI. "Try the Spirits"
 + [ ] Chapter LXII. Work of the Holy Ghost / Chapter LXIII. James' Commission to the Church to Prav for the Sick
 + [ ] Chapter LXIV. "Eye Hath Not Seen nor Ear Heard."
 + [ ] Chapter LXV. The Fire and Glory of God Filling the Temple / Chapter LXVI. Sermon on Dancing
