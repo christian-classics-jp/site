@@ -87,7 +87,7 @@ When we realize that within the past twelve years, eight of the great nations of
 この十二年のうちに、地上の大国のうち八つが戦争という恐ろしい大殺戮に加わった。しかも戦いのたびに、激しさと失われる人命が増してきた。このことを悟るとき、人は最も厳粛な思いで、こう問わずにはいられない。終わりはいったいどうなるのか、と（今の一九一六年の情勢を考えてみよ）。
 
 The powers of the world today are outwardly at peace, but more than once the 'rumblings of war have been heard on the Eastern continent, and might have broken forth, but for the fact that strong internal forces of revolution are at work in Russia, Turkey and China. Communism, Nihilism and Socialism are threatening the foundations of the strongest thrones, and not a crowned head today is safe from the assassin's bullet.
-今日、世界の列強は表向きは平和を保っている。しかし東の大陸では、一度ならず戦争の地響きが聞こえた。戦争が起こっていたかもしれない。そうならなかったのは、ロシアとトルコと中国で、革命という強い内部の力が働いているからにすぎない。共産主義、虚無主義、社会主義が、最も強固な王座の土台を脅かしている。今日、王冠をいただく者で、暗殺者の弾丸から安全な者はひとりもいない。
+今日、世界の列強は表向きは平和を保っている。しかし東の大陸では、一度ならず戦争の地響きが聞こえた。戦争が起こっていたかもしれない。そうならなかったのは、ロシアとトルコと中国で、革命という強い内部の力が働いているからである。共産主義、虚無主義、社会主義が、最も強固な王座の土台を脅かしている。今日、王冠をいただく者で、暗殺者の弾丸から安全な者はひとりもいない。
 // 英文の 'rumblings の ' は余分な記号。
 
 "For nation shall rise against nation, and kingdom against kingdom: And there shall be famines and pestilences. And earthquakes in divers places. All these are the beginning of Sorrows." (Matt. 24.7-8.)
@@ -252,7 +252,7 @@ It is only a little flock that is holding the angels in check, and the world fro
 御使たちを押しとどめ、世を恐ろしい破滅から守っているのは、小さい群れにすぎない。神の僕たちは間もなくみな印を押される。それから主は、世の光である花嫁を取り去られる。花嫁はしののめのように美しく、太陽のように輝き、旗を立てた軍勢のように恐るべき者である。
 
 Christ is a perfect Saviour; he came to restore all that was lost in Adam's fall. When Adam fell he lost his holy nature; sickness and death came to the body. If Christ could not restore soul and body, he would not be a perfect Saviour. The believer's soul is made perfect in this life, pure and white; the body will be subject to disease, until the coming of Christ.
-キリストは完全な救い主である。キリストは、アダムの堕落によって失われたすべてを回復するために来られた。アダムは堕落したとき、聖なる性質を失い、からだには病と死が来た。もしキリストが魂とからだを回復することがおできにならないなら、完全な救い主ではないことになる。信じる者の魂は、この世で完全にされ、清く白くされる。からだは、キリストの来臨のときまで病にかかることがある。
+キリストは完全な救い主である。キリストは、アダムの堕落によって失われたすべてを回復するために来られた。アダムは堕落したとき、聖なる性質を失い、からだには病と死が来た。もしキリストが魂とからだを回復することがおできにならないなら、完全な救い主ではないことになる。信じる者の魂は、この世で完全にされ、清く白くされる。からだは、キリストの来臨のときまで病を免れない。
 
 At the crucifixion of Christ, "The graves were opened; and many bodies of the saints which slept arose, and came out of the graves after his resurrection, and went into the Holy City, and appeared unto many." (Matt. 27.52, 53.)
 キリストが十字架につけられたとき、『墓が開け、眠っている多くの聖徒たちの死体が生き返った。そしてイエスの復活ののち、墓から出てきて、聖なる都にはいり、多くの人に現れた』（マタイ二七・五二〜五三）。
