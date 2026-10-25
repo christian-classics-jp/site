@@ -56,7 +56,7 @@
 + [x] Chapter XLVII. A Few Days at London, Ky.
 + [x] Chapter XLVIII. Camp Meeting at Petoskey, Mich. (1)
 + [x] Chapter XLVIII. Camp Meeting at Petoskey, Mich. (2)
-+ [ ] Chapter XLIX. Camp Meeting at Philadelphia, Pa., 1914
++ [x] Chapter XLIX. Camp Meeting at Philadelphia, Pa., 1914
 + [ ] Chapter L. Mission at Englewood, Chicago, 1914 (1)
 + [ ] Chapter L. Mission at Englewood, Chicago, 1914 (2)
 + [ ] Chapter LI. Work at Tampa, Florida
