@@ -60,7 +60,7 @@
 + [x] Chapter L. Mission at Englewood, Chicago, 1914 (1)
 + [x] Chapter L. Mission at Englewood, Chicago, 1914 (2)
 + [x] Chapter LI. Work at Tampa, Florida
-+ [ ] Chapter LII. Atlanta Meeting, 1915
++ [x] Chapter LII. Atlanta Meeting, 1915
 + [ ] Chapter LIII. Convention in Chicago at the Red Stone Church, June, 1915 / Chapter LIV. Meetings at St. Louis, Mo.
 + [ ] Chapter LV. The Fire Falls at Topeka, Kansas / Chapter LVI. Colorado Springs, Colo.
 + [ ] Chapter LVII. Convention at Los Angeles, Cal. (1)
