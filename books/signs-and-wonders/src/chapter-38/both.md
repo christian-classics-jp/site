@@ -7,10 +7,10 @@ A few words about the wonderful work of God in San Antonio, Texas. The power oft
 // 英文の visions of Jews は Jesus の読み誤り。
 
 Dear Brother, Fred Lohman, the minister, was filled with God. He was a noble soldier, stood so nobly by and helped to push the battle on to the gates of victory: People talked much about going to heaven. I want to bring heaven down.
-牧師である愛するフレッド・ローマン兄弟は、神に満たされていた。彼は気高い兵士だった。りっぱに私たちのそばに立ち、戦いを勝利の門まで押し進めるのを助けてくれた。人々は、天国へ行くことをよく口にする。私は天国を引き降ろしたいのである。
+牧師である愛するフレッド・ローマン兄弟は、神に満たされていた。彼は気高い兵士だった。実にりっぱに私たちを支え、戦いを勝利の門まで押し進めるのを助けてくれた。人々は、天国へ行くことをよく話していた。私は天国を引き降ろしたいのである。
 
 A bishop of the Church of England and his wife, who had been attending the meetings, came in, got half way up to the pulpit, was struck with the power of God and held in the aisle, standing amazed at the wonderful display of the presence of God. Ministers all stood like the priests of old; they could not move or work, for the glory and presence of God filled the House of the Lord.
-集会に来ていたイングランド国教会の監督とその夫人が、会堂に入って来た。説教壇へ半分ほど進んだところで、監督は神の力に打たれ、通路にとどめられた。そして、神の臨在の驚くべき現れに驚嘆して立ちつくした。牧師たちはみな、昔の祭司たちのように立ちつくした。神の栄光と臨在が主の宮に満ちたので、動くことも勤めをすることもできなかったのである。
+集会に来ていたイングランド国教会の主教とその夫人が、会堂に入って来た。説教壇へ半分ほど進んだところで、主教は神の力に打たれ、通路にとどめられた。そして、神の臨在の驚くべき現れに驚嘆して立ちつくした。牧師たちはみな、昔の祭司たちのように立ちつくした。神の栄光と臨在が主の宮に満ちたので、動くことも勤めをすることもできなかったのである。
 
 I felt we could not stand it much longer.
 これ以上は耐えられないと私は感じた。
@@ -81,7 +81,7 @@ After closing the meeting at San Antonio, Texas, my husband and I started on the
 // 英文の financial.burden の . は余分な記号。
 
 I remembered how the Lord had shown me at that time the great earthquake that was coming on San Francisco, Oakland and adjoining towns, and that I would-live to work over the ruins. Now, after all these years, I saw that prophecy fulfilled.
-私は思い出した。主はそのとき、サンフランシスコとオークランドと周辺の町々を襲う大地震を、私に示された。また、私が生きてその廃墟の上で働くことになることも示された。今、これほどの年月を経て、私はその預言が成就したのを見た。
+私は思い出した。主はそのとき、サンフランシスコとオークランドと周辺の町々を襲う大地震を、私に示された。また、私が生きながらえて、その廃墟の上で働くことも示された。今、これほどの年月を経て、私はその預言が成就したのを見た。
 // 英文の would-live の - は余分な記号。
 
 Dear Brother and Sister Montgomery kindly insisted on us stopping at their beautiful home of peace at Beulah Heights for a week of rest before commencing meeting in San Jose. But when the dear saints knew we were coming they insisted on having a meeting if only for a week. We had a great desire to meet the dear ones after so many years, so we stayed one night with Sister Montgomery, then held services five days in the theatre in Oakland. It was a time of rejoicing, meeting many who had been saved, healed and saved from the grave. Brother and Sister Montgomery, Dr. Smith and wife were greatly used of the Lord. All were surprised to see such an outpouring of the Spirit in so short a time, so many healed, saved, and filled with the Spirit.
@@ -91,11 +91,11 @@ Dear Brother and Sister Montgomery kindly insisted on us stopping at their beaut
 MRS. ETTER'S MEETINGS IN OAKLAND, CAL.
 
 I (Copied from "Triumphs of Faith")
-（『トライアンフス・オブ・フェイス』誌からの転載）
+（『トライアンフス・オブ・フェイス』誌から転載）
 // 英文の行頭の I は余分な文字。
 
 We had the privilege of attending all of Mrs. Etter's meetings in Oakland during her six days' stay in this city. The meetings were held in Castle Hall, 387 Twelfth street, a comfortable, well ventilated hall, seating several hundred. The services were well attended. Mrs. Etter gave Bible addresses on the New Birth, A Victorious Life in Christ, the Double Cure--or Healing for Soul and Body, the Coming of the Lord, and kindred topics. Often for more than an hour at a time she would give teachings from the word of God, and the power of God would so hold the audience from beginning to end that scarcely a person would leave before the close.
-私たちは、エター夫人がこの町に六日間とどまったあいだ、オークランドでの夫人の集会のすべてに出席する恵みにあずかった。集会は、十二番街三八七番地のキャッスル・ホールで開かれた。快適で風通しのよい会場で、数百人が座ることができる。集会には多くの人が集まった。エター夫人は、新生、キリストにある勝利の生活、二重のいやし、すなわち魂とからだのいやし、主の来臨、またそれに関連した主題について、聖書の講話をした。夫人はしばしば一時間以上も続けて、神のみことばから教えた。神の力が初めから終わりまで聴衆をとらえていたので、終わる前に席を立つ人はほとんどいなかった。
+私たちは、エター夫人がこの町に六日間とどまったあいだ、オークランドでの夫人の集会のすべてに出席する恵みにあずかった。集会は、十二番街三八七番地のキャッスル・ホールで開かれた。快適で風通しのよい会場で、数百人が座ることができる。集会には多くの人が集まった。エター夫人は、新生、キリストにある勝利の生活、二重のいやし（魂とからだのいやし）、主の来臨、またそれに関連した主題について、聖書の講話をした。夫人はしばしば一時間以上も続けて、神のみことばから教えた。神の力が初めから終わりまで聴衆をとらえていたので、終わる前に席を立つ人はほとんどいなかった。
 
 The altar services were remarkable, large numbers crowding forward for Spiritual blessings, and healing of the body. So many desired healing that it was impossible for Mrs. Etter to pray personally with each one, but she laid her hands on a large number at nearly every altar service, and prayed the prayer of faith for them. Many of these seemed very ill, and we often noticed a great change in their outward appearance, after prayer had been offered for them. We also heard many say that they had been wonderfully relieved from suffering. It was quite marvelous at times to note the different expression on the face, as the light of God came into the soul, through some teaching given at the moment by Mrs. Etter.
 祭壇での集いは目ざましいものだった。大勢の人が、霊の祝福とからだのいやしを求めて前に押し寄せた。いやしを求める人があまりに多かったので、エター夫人がひとりひとりと祈ることはできなかった。しかし夫人は、ほとんど毎回の祭壇での集いで大勢の人に手を置き、その人々のために信仰による祈りをささげた。その多くはたいへん重い病気のようだったが、祈りがささげられた後、外見が大きく変わったのを、私たちはたびたび目にした。苦しみから驚くほど解放されたと言う人々の声も、多く聞いた。ときには、その場でエター夫人が語った教えによって、神の光が魂に入ることがあった。そのとき顔の表情が変わるのを見るのは、実に驚くべきことだった。
@@ -117,10 +117,10 @@ Sometimes a wonderful wave of praise and joy would strike the audience, and many
 // 英文には閉じの引用符がない。
 
 Since I began to write this article, a lady (almost a stranger to me) said over the phone: "I never expect to be as near heaven again while on earth, as I was in those meetings." And then she added about Mrs. Etter, "How wonderful she was in always pointing us to Jesus, and never letting any one get their eyes on her." Yes, praise God, that was true. She begged the Christians to hold her up in prayer, while she preached.
-この記事を書きはじめてから、ある婦人（私にとってはほとんど見知らぬ人）が電話で言った。「地上にいるあいだに、あの集会のときほど天国の近くにいることは、二度とないと思います」そして、エター夫人についてこう付け加えた。「夫人がいつも私たちをイエスに向けさせ、だれにも自分に目を向けさせなかったのは、本当にすばらしいことでした」そうだ、神をほめたたえよ。それは本当だった。夫人は、自分が説教しているあいだ祈りによって支えてくれるよう、クリスチャンたちに願った。
+この記事を書きはじめてから、ある婦人（私にとってはほとんど見知らぬ人）が電話で言った。「地上にいるあいだに、あの集会のときほど天国の近くにいることは、二度とないと思います」そして、エター夫人についてこう付け加えた。「夫人がいつも私たちにイエスを指し示し、だれにも自分に目を向けさせなかったのは、本当にすばらしいことでした」そうだ、神をほめたたえよ。それは本当だった。夫人は、自分が説教しているあいだ祈りによって支えてくれるよう、クリスチャンたちに願った。
 
 Praise the Lord for the privilege of looking into the faces and taking the hand of fellowship; of so many of the redeemed of the Lord. The power of the Lord was wonderful in leading the believers out into the baptism of the Holy Ghost, and clearing up experiences, and to heal the sick. Multitudes went forth to publish the word with power and gifts as never before."
-主にあがなわれた多くの人々の顔を見、交わりの手を取り合うことのできた恵みを、主に感謝する。主の力は驚くべきものだった。信じる者たちを聖霊のバプテスマへと導き、信仰の経験を確かなものにし、病人をいやした。大勢の人が、かつてないほどの力と賜物とをもって、みことばを宣べ伝えに出て行った。
+主にあがなわれた多くの人々の顔を見、交わりの手を取り合うことのできた恵みのゆえに、主をほめたたえよ。主の力は驚くべきものだった。信じる者たちを聖霊のバプテスマへと導き、信仰の経験を確かなものにし、病人をいやした。大勢の人が、かつてないほどの力と賜物とをもって、みことばを宣べ伝えに出て行った。
 // 英文の末尾の閉じの引用符に対応する開きの引用符はない。
 
 By the Editor,
