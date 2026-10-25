@@ -38,7 +38,7 @@ A sister from Alanson, Mich., got healed of acute appendicitis.
 ミシガン州アランソンから来たひとりの姉妹が、急性虫垂炎をいやされた。
 
 A woman from Tiffin, Ohio, brought her child, about six years old, to the meeting to get prayed for. It had inherited an awful disease, and was a mass of scabs and corruption. The mother said there were places on its body where the corruption seem to be half an inch deep. After it got prayed for it soon showed indications of healing. In about a week's time a good part of its body had healed up--a marvel to everybody--even to doctors who examined it. Since then, the mother wrote that the child had almost been completely healed.
-オハイオ州ティフィンから来たひとりの女性が、六歳ほどの子供を、祈ってもらうために集会に連れて来た。その子は恐ろしい病を親から受け継いでいて、全身がかさぶたと膿のかたまりになっていた。母親の話では、膿が深さ一センチ以上にもなっているように見える所が、体のあちこちにあった。祈ってもらうと、その子はまもなく、いやされるきざしを見せた。一週間ほどで、体の大部分がいえた。それはすべての人にとって驚きであり、その子を診察した医者たちにとってさえそうであった。その後、母親から、子供はほとんどすっかりいやされたという手紙が来た。
+オハイオ州ティフィンから来たひとりの女性が、六歳ほどの子供を、祈ってもらうために集会に連れて来た。その子は恐ろしい病を親から受け継いでいて、全身がかさぶたと膿のかたまりになっていた。母親の話では、膿が深さ一センチあまりにもなっているように見える所が、体のあちこちにあった。祈ってもらうと、その子はまもなく、いやされるきざしを見せた。一週間ほどで、体の大部分がいえた。それはすべての人にとって驚きであり、その子を診察した医者たちにとってさえそうであった。その後、母親から、子供はほとんどすっかりいやされたという手紙が来た。
 
 ## 嗅覚と味覚の回復
 SENSE OF SMELL AND TASTE RESTORED
@@ -118,7 +118,7 @@ HARRY W. TYLER,
 No. 8 North Sixth St., Darby, Pa.
 // 訳さない範囲ここまで
 
-## 異言による言葉の解き明かしから
+## 異言による言葉のいくつかの解き明かし
 A FEW INTERPRETATIONS FROM MESSAGES IN OTHER TONGUES
 
 I am He that liveth; my word shall not return unto me void but it shall accomplish that which I purpose.
@@ -138,23 +138,23 @@ Behold, I will come. The time is nigh when you shall cry for the rocks and mount
 // 英文の「in that day? .」の「 .」は余分な記号。
 
 My people, heed the warnings that have been hurled forth from this place. Ye stiff necked and hard hearted. Come to Jesus while you may. You will see the day when you will call for the rocks and the mountains to cover you and it will be too late. Oh! Heed the warnings. Behold, I come quickly--every eye shall see Me. Be ye ready, for in such an hour as ye think not the Son of Man will come. I will have a people that will be looking for me when I come again. Keep on the wedding garment and be ye ready. Now is the sifting time. Who will be able to stand? Who will be true to the words that I have given them to speak? Who will do my will? Behold, I have sent my Son to the world to suffer, bleed and die upon Calvary's Cross that you might have Life and that you might be redeemed from your sins. And for all that you will not believe. But turn ye, why will ye die? Come now while my arm is stretched out to save you. The darkness of the wrath of God will be poured out on this earth on account of sin and iniquity, because ye have trampled the blood of my Son under your feet and called it unholy. O, forget everything but that Jesus died on the cross that you might have Life and have it more abundantly.
-わたしの民よ、この場所から投げかけられた警告に耳を傾けなさい。うなじのこわい、心のかたくなな者たちよ。来られるうちにイエスのもとに来なさい。あなたがたは、岩と山とに向かって自分を覆ってくれと叫ぶ日を見る。しかし、そのときには遅すぎる。ああ、警告に耳を傾けなさい。見よ、わたしはすぐに来る。すべての目がわたしを見る。あなたがたも用意していなさい。思いがけない時に人の子が来るからである。わたしは、再び来るとき、わたしを待ち望んでいる民を得る。婚礼の衣を着続けて、用意していなさい。今はふるい分けの時である。だれが立ちおおせようか。語るようにとわたしが与えた言葉に、だれが忠実であろうか。だれがわたしの心を行うであろうか。見よ、わたしはわたしの子を世に遣わし、カルバリの十字架の上で苦しみ、血を流し、死なせた。あなたがたがいのちを得、罪からあがなわれるためである。それでもなお、あなたがたは信じない。しかし、立ち返れ。なぜ死のうとするのか。わたしの腕があなたがたを救うために伸べられているうちに、今来なさい。罪と不義のゆえに、神の怒りの暗やみがこの地に注がれる。あなたがたがわたしの子の血を足の下に踏みつけ、それを汚れたものとしたからである。ああ、ほかのすべてを忘れなさい。ただ、イエスが十字架の上で死なれたことだけを覚えていなさい。あなたがたがいのちを得、それを豊かに得るためである。
+わたしの民よ、この場所から投げかけられた警告に耳を傾けなさい。うなじのこわい、心のかたくなな者たちよ。来ることのできるうちにイエスのもとに来なさい。あなたがたは、岩と山とに向かって自分を覆ってくれと叫ぶ日を見る。しかし、そのときには遅すぎる。ああ、警告に耳を傾けなさい。見よ、わたしはすぐに来る。すべての目がわたしを見る。あなたがたも用意をしていなさい。思いがけない時に人の子が来るからである。わたしは、再び来るとき、わたしを待ち望んでいる民を得る。婚礼の衣を着続けて、用意していなさい。今はふるい分けの時である。だれが立ちおおせようか。語るようにとわたしが与えた言葉に、だれが忠実であろうか。だれがわたしの心を行うであろうか。見よ、わたしはわたしの子を世に遣わし、カルバリの十字架の上で苦しみを受けさせ、血を流させ、死なせた。あなたがたがいのちを得、罪からあがなわれるためである。それでもなお、あなたがたは信じようとしない。しかし、立ち返りなさい。なぜ死のうとするのか。わたしの腕があなたがたを救うために伸べられているうちに、今来なさい。罪と不義のゆえに、神の怒りの暗やみがこの地に注がれる。あなたがたがわたしの子の血を足の下に踏みつけ、それを汚れたものとしたからである。ああ、ほかのすべてを忘れなさい。ただ、イエスが十字架の上で死なれたことだけを覚えていなさい。あなたがたがいのちを得、それを豊かに得るためである。
 
 For some time you have been looking for the Church with Signs. Now we are in the midst of them. These signs shall follow them that believe. Now you are stripped of your excuse. This is that which should come that was spoken of by the prophet Joel as a testimony against you.
-しばらくのあいだ、あなたがたはしるしを伴う教会を待ち望んできた。今、私たちはそのただ中にいる。信じる者にはこれらのしるしが伴う。今、あなたがたは言い訳をはぎ取られた。これこそ、来るべきものとして預言者ヨエルが語ったことであり、あなたがたに対するあかしである。
+しばらくのあいだ、あなたがたはしるしを伴う教会を待ち望んできた。今、私たちはそのただ中にいる。信じる者にはこれらのしるしが伴う。今、あなたがたは言い訳をはぎ取られた。これこそ、来たるべきものとして預言者ヨエルが語ったことであり、あなたがたに対するあかしである。
 
 Behold, if you will lift up your eyes, you can see. You look over this world, read my Word and compare. See the darkness stealing upon the earth; see the great wars and pestilences coming right now! Realize that we are living in the last days. Oh! You should get ready to meet your God.
 見よ、目を上げれば、あなたがたは見ることができる。この世を見渡し、わたしの言葉を読んで、比べてみなさい。暗やみが地に忍び寄るのを見なさい。大きな戦争と疫病が、まさに今来ようとしているのを見なさい。私たちが終わりの時に生きていることを悟りなさい。ああ、あなたがたは、あなたがたの神に会う備えをしなければならない。
 
 Now the wrath of God is being poured out into this earth, don't you know it? Do you not know that I am just withholding these awful plagues and awful things that I may Seal my children in their foreheads. The day is at hand, you should be hidden away in me. Come closer. Hide away in me and let me protect vou.
-今、神の怒りがこの地に注がれている。それを知らないのか。わたしの子供たちの額に印を押すために、わたしがこの恐ろしい災いと恐ろしいことを引き止めているのを、あなたがたは知らないのか。その日は近い。あなたがたはわたしの中に隠れていなければならない。もっと近くに来なさい。わたしの中に隠れ、わたしにあなたがたを守らせなさい。
+今、神の怒りがこの地に注がれている。それを知らないのか。わたしは、わたしの子供たちの額に印を押すために、この恐ろしい災いと恐ろしいことを引き止めている。あなたがたはそれを知らないのか。その日は近い。あなたがたはわたしの中に隠れていなければならない。もっと近くに来なさい。わたしの中に隠れ、わたしにあなたがたを守らせなさい。
 // 英文の「protect vou」は「protect you」の読み誤り。
 
 The days are at hand when the inhabitants of the earth shall mourn. When the sun shall burn as an oven and when only you that are hidden away in me can stand these things. Behold the days are at hand when I shall smite this earth with plagues and pestilences. These are just the beginning of sorrows that you feel now.
 地に住む者たちが嘆く日が近い。太陽が炉のように燃え、わたしの中に隠れているあなたがただけが、これらのことに耐えられる日が近い。見よ、わたしが疫病と災いとでこの地を打つ日が近い。あなたがたが今感じているのは、苦しみの始まりにすぎない。
 
 I have spoken through stammering lips and other tongues and I have warned you of the judgments to come. Prepare to meet your God because the wrath of God is to be poured out upon this earth. Have I not said unto you that you should cry for the rocks and mountains to hide you from Him that sitteth upon the Throne. Behold your house is left unto you desolate. How often would I have gathered you unto me even as a hen gathereth her brood and ye would not. Many signs and wonders have been done in your midst and for all that ye have stiffened your neck and hardened your heart. Behold my servants' hands are clear of your blood. They have warned you, plead with you and shown you of my wrath to come, and for all that some of you would not believe.
-わたしは異国のくちびると異国の舌とで語り、来るべきさばきについてあなたがたに警告した。あなたがたの神に会う備えをしなさい。神の怒りがこの地に注がれようとしているからである。あなたがたは岩と山とに向かって、御座にいます方から自分を隠してくれと叫ぶ、とわたしは言わなかったか。見よ、あなたがたの家は見捨てられて荒れ果てる。めんどりが翼の下にそのひなを集めるように、わたしはあなたがたを幾たび集めようとしたことであろう。それだのに、あなたがたは応じようとしなかった。多くのしるしと不思議が、あなたがたのただ中で行われた。それでもなお、あなたがたはうなじをこわくし、心をかたくなにした。見よ、わたしの僕たちの手は、あなたがたの血について潔白である。彼らはあなたがたに警告し、嘆願し、来るべきわたしの怒りを示した。それでもなお、あなたがたのうちのある者は信じようとしなかった。
+わたしは異国のくちびると異国の舌とで語り、来たるべきさばきについてあなたがたに警告した。あなたがたの神に会う備えをしなさい。神の怒りがこの地に注がれようとしているからである。あなたがたは岩と山とに向かって、御座にいます方から自分を隠してくれと叫ぶ、とわたしは言わなかったか。見よ、あなたがたの家は見捨てられて荒れ果てる。めんどりがそのひなを集めるように、わたしはあなたがたを幾たび集めようとしたことであろう。それだのに、あなたがたは応じようとしなかった。多くのしるしと不思議が、あなたがたのただ中で行われた。それでもなお、あなたがたはうなじをこわくし、心をかたくなにした。見よ、わたしの僕たちの手は、あなたがたの血について潔白である。彼らはあなたがたに警告し、嘆願し、来たるべきわたしの怒りを示した。それでもなお、あなたがたのうちのある者は信じようとしなかった。
 
 ## 別の集会で
 AT ANOTHER MEETING
@@ -164,10 +164,10 @@ A Message Given In Tongues By the Spirit Through a Converted
 I. W. W. Leader
 
 Come, my people, march to Zion. Jesus is calling thee; rise up steadfast in faith, run with thy feet prepared with the gospel of peace and righteousness. Look forward, still forward to the Lamb of God, the Spotless One, and He will lead you out and on, still farther, for ye are His chosen ones, and are sealed to the day of redemption.
-さあ、わたしの民よ、シオンへ進みなさい。イエスがあなたを呼んでおられる。信仰に堅く立って立ち上がり、平和と義の福音の備えを足にはいて走りなさい。前を見なさい。なおも前へ、神の小羊、汚れのないお方を見なさい。そうすれば主はあなたがたを導き出し、さらに先へ、なおも遠くへと導いてくださる。あなたがたは主に選ばれた者であり、あがないの日のために証印を押されているからである。
+さあ、わたしの民よ、シオンへ進みなさい。イエスがあなたを呼んでおられる。信仰に堅く立って立ち上がり、平和と義の福音の備えを足にはいて走りなさい。前を見なさい。なおも前へ、神の小羊、汚れのないお方を見なさい。そうすれば主はあなたがたを導き出され、さらに先へ、なおも遠くへと導いてくださる。あなたがたは主に選ばれた者であり、あがないの日のために証印を押されているからである。
 
 I have always loved my people. Have I not given my life for them? Although the path is narrow, walk ye in it and be saved. Now, go, proclaim to the nations, shout it from the roof-tops that the kingdom of heaven is at hand, and all ye that follow me must proclaim the glad tidings of salvation. Come hither, my children, follow thou me. I will be thy compass, thy guide and thy physician. If you would inherit eternal life, believe and receive. Wake up and shout, ye people, that Jesus saves. Let it be proclaimed as at Pentecost--'"a flame of fire across the sky." Shout the message into whatsoever land thou goest. Lift Jesus up and point the people to the Lamb of God.
-わたしはいつも、わたしの民を愛してきた。わたしは彼らのためにいのちを与えたではないか。道は狭いが、その道を歩んで救われなさい。さあ、行って、諸国民に宣べ伝えなさい。天国は近づいた、と屋根の上から叫びなさい。わたしに従う者はみな、救いのよきおとずれを宣べ伝えなければならない。わが子らよ、ここに来なさい。わたしに従って来なさい。わたしがあなたの羅針盤となり、案内者となり、医者となる。永遠のいのちを受け継ぎたいなら、信じて受けなさい。民よ、目を覚まして、イエスは救ってくださると叫びなさい。ペンテコステのときのように、それを告げ知らせなさい。「空を横切る炎」のように。あなたの行くどの国にでも、このメッセージを叫び伝えなさい。イエスを高く上げ、人々に神の小羊を指し示しなさい。
+わたしはいつも、わたしの民を愛してきた。わたしは彼らのためにいのちを与えたではないか。道は狭いが、その道を歩んで救われなさい。さあ、行って、諸国民に宣べ伝えなさい。天国は近づいた、と屋根の上から叫びなさい。わたしに従う者はみな、救いのよきおとずれを宣べ伝えなければならない。わたしの子供たちよ、ここに来なさい。わたしに従って来なさい。わたしがあなたの羅針盤となり、案内者となり、医者となる。永遠のいのちを受け継ぎたいなら、信じて受けなさい。民よ、目を覚まして、イエスは救ってくださると叫びなさい。ペンテコステのときのように、それを告げ知らせなさい。「空を横切る炎」のように。あなたの行くどの国にでも、このメッセージを叫び伝えなさい。イエスを高く上げ、人々に神の小羊を指し示しなさい。
 // 英文の「--'"a flame」の「'」は余分な記号。
 
 Multitudes shall be saved if Jesus be lifted up. I will be with thee to strengthen and keep thee, my people, in this life and in the life to come. Amen.
@@ -177,33 +177,33 @@ Multitudes shall be saved if Jesus be lifted up. I will be with thee to strength
 A FEW CLOSING REMARKS
 
 Well, beloved readers, as the meetings are closed, I will write more of God's wonderful works and. outstretched hands in Petoskey.
-さて、愛する読者よ、集会が閉じたので、ペトスキーでの神のすばらしいみわざと、伸べられた御手について、さらに書こう。
+さて、愛する読者よ、集会が閉じたので、ペトスキーでの神の驚くべきみわざと、伸べられた御手について、さらに書こう。
 // 英文の「and. outstretched」の句点は余分な記号。
 
 Surely the people of this city and surrounding country will have no cloak for their sins.
 確かに、この町と周辺の地方の人々には、自分の罪を言いのがれる道がない。
 
 The Holy Ghost has also borne witness to the Word with signs, wonders and gifts of the Spirit, spiritual significations and divers operations, which Paul says is profitable to all.
-聖霊はまた、しるしと不思議と御霊の賜物とによって、霊的なしるしと種々の働きとによって、みことばにあかしをされた。パウロは、それがすべての人の益になると言っている。
+聖霊はまた、しるしと不思議と御霊の賜物とによって、霊的な示しと種々の働きとによって、みことばにあかしをされた。パウロは、それがすべての人の益になると言っている。
 
 The convention has continued six weeks, without intermission, with three meetings a day, and an early morning prayer service almost every day.
 大会は休みなく六週間続いた。一日に三度の集会があり、ほとんど毎日、早朝の祈祷会もあった。
 
 The interest in the meeting has increased in power and number from the first to the last. Jesus says, "If I be lifted up, I will draw all men unto Me, and where the carcas is, or pure strong meat is held up, there will the eagles be gathered together. We do praise the Lord, God's saints, or eagles, came from many parts; the pastor says they have come from almost every state in the Union. The Master of Assemblies has honored the feast with His glorious presence and continually supplied the table with the bounties of heaven. Oh, praise the Lord, He prepares the table in the presence of our enemies, and they cannot taste of the feast. Oh! See the beautiful whiteness, the shining brightness of the great loaves of "Living Bread" dropped down from heaven, not like the manna in the wilderness, after which people died, but who so eateth of this bread shall live forever. Oh, see the table is filled with fat things, a feast of wine on the lees, of fat things full of marrow, of wines on the lees well refined. Isa. 25:6. See the strong meat to make us mighty in the Lord, the oil to make us shine that the beauty of the Lord may be seen in us.
-集会への関心は、初めから終わりまで、力においても人数においても増していった。イエスは言われる。「わたしが上げられる時には、すべての人をわたしのところに引きよせるであろう。死体のある所、すなわち純粋で強い肉が掲げられている所には、わしが集まる」（ヨハネ一二・三二、マタイ二四・二八）。私たちは主をほめたたえる。神の聖徒たち、すなわちわしたちが、多くの地方から来た。牧師によれば、合衆国のほとんどすべての州から来たという。集会の主は、その栄光のご臨在をもってこの祝宴を重んじ、絶えず天の恵みで食卓を満たしてくださった。ああ、主をほめたたえよ。主は敵の前で食卓を整えてくださる。敵はその祝宴を味わうことができない。ああ、見なさい。天から下った『生きたパン』の大きなかたまりの、美しい白さ、輝く明るさを（ヨハネ六・五一）。それは荒野のマナのように、食べた人々が死んでしまったものとは違う。このパンを食べる者は、いつまでも生きる。ああ、見なさい。食卓は肥えたもので満ちている。久しくたくわえたぶどう酒の祝宴、髄の多い肥えたものと、よく澄んだ長くたくわえたぶどう酒の祝宴である（イザヤ二五・六）。私たちを主にあって力強くする強い肉を見なさい。主の麗しさが私たちのうちに見られるように、私たちを輝かせる油を見なさい。
+集会への関心は、初めから終わりまで、力においても人数においても増していった。イエスは言われる。「わたしが上げられる時には、すべての人をわたしのところに引きよせるであろう。死体のある所、すなわち純粋で強い肉が掲げられている所には、わしが集まる」（ヨハネ一二・三二、マタイ二四・二八）。私たちは主をほめたたえる。神の聖徒たち、すなわちわしたちが、多くの地方から来た。牧師によれば、合衆国のほとんどすべての州から来たという。集会の主は、その栄光のご臨在をもってこの祝宴を重んじられ、絶えず天の恵みで食卓を満たしてくださった。ああ、主をほめたたえよ。主は敵の前で食卓を整えてくださる。敵はその祝宴を味わうことができない。ああ、見なさい。天から下った『生きたパン』の大きなかたまりの、美しい白さ、輝く明るさを（ヨハネ六・五一）。それは荒野のマナのように、食べた人々が死んでしまったものとは違う。このパンを食べる者は、いつまでも生きる。ああ、見なさい。食卓は肥えたもので満ちている。久しくたくわえたぶどう酒の祝宴、髄の多い肥えたものと、よく澄んだ長くたくわえたぶどう酒の祝宴である（イザヤ二五・六）。私たちを主にあって力強くする強い肉を見なさい。主の麗しさが私たちのうちに見られるように、私たちを輝かせる油を見なさい。
 // 英文では、イエスの言葉の閉じの引用符が落ちている。「gathered together.」までをイエスの言葉と読んだ。口語訳のマタイ二四・二八 は「はげたか」だが、著者が聖徒たちを eagles にたとえているので「わし」とした。
 
 Praise God for the many hungry hearts who continued to gather around. Many were very timid at first and felt their unworthiness, yet the Master of the feast was always present to welcome and drive away their fears. As He began to reveal Himself to them, they fell in love with the Nazarene, and as they let Him have His way with them, His love and brightness began to shine forth through them until, like Stephen, they looked like angels.
-集まり続けた多くの飢え渇いた心のゆえに、神をほめたたえよ。多くの人は初めはとても気おくれし、自分がふさわしくないと感じていた。しかし祝宴の主はいつもそこにおられ、彼らを迎え、その恐れを追い払ってくださった。主がご自身を彼らに現しはじめられると、彼らはナザレ人を愛するようになった。そして主に思いのままに働いていただくと、主の愛と輝きが彼らを通して輝き出しはじめた。ついには、ステパノのように、彼らは御使のように見えた。
+集まり続けた多くの飢え渇いた心のゆえに、神をほめたたえよ。多くの人は初めはとても気おくれし、自分がふさわしくないと感じていた。しかし祝宴の主はいつもそこにおられ、彼らをお迎えになり、その恐れを追い払ってくださった。主がご自身を彼らに現しはじめられると、彼らはナザレ人を愛するようになった。そして主に思いのままに働いていただくと、主の愛と輝きが彼らを通して輝き出しはじめた。ついには、ステパノのように、彼らは御使のように見えた。
 
 As they left for their homes their testimonies rang out with shouts and tears, that they had received much more than they had expected, and they must get busy in every way possible to show by word and life that Jesus will soon come to catch us away.
-彼らが家路についたとき、その証しは叫びと涙と共に鳴り響いた。期待していたよりもはるかに多くのものを受けた、これからは、イエスがまもなく私たちを引き上げに来られることを言葉と生活とによって示すために、あらゆる仕方で励まなければならない、と。
+彼らが家路についたとき、その証しは叫びと涙と共に鳴り響いた。期待していたよりもはるかに多くのものを受けた。これからはあらゆる仕方で励み、イエスがまもなく私たちを引き上げに来られることを、言葉と生活とによって示さなければならない。彼らはそう証しした。
 
 The Lord revealed His presence in many ways to saints and sinners. A Catholic man and wife were brought to Christ and received healing, also were baptized in the Holy Ghost by the Glory of God's brightness lighting up their room so that they were frightened and tried to hide. Many were healed at their homes, also in their seats. Many saw bright lights in the tent, and saw it a blaze of glory. Many displays of the fire and glory of the Lord were seen in and around the tent. Often the whole tent, or parts of it, were seen lighted up with the glory of God. The Lord was seen on the platform and in different parts of the tent.
-主は聖徒にも罪人にも、さまざまな仕方でご臨在を現された。カトリックのある夫婦がキリストに導かれ、いやしを受けた。また、神の輝きの栄光が彼らの部屋を照らし、ふたりはおびえて隠れようとしたほどであったが、その栄光によって聖霊のバプテスマを受けた。多くの人が家で、また席に座ったままいやされた。多くの人が天幕の中に明るい光を見、天幕が燃えるような栄光に包まれるのを見た。主の火と栄光の現れが、天幕の中でも周りでも数多く見られた。しばしば天幕全体が、あるいはその一部が、神の栄光で照らされているのが見えた。主が壇の上に、また天幕のあちこちに見られた。
+主は聖徒にも罪人にも、さまざまな仕方でご臨在を現された。カトリックのある夫婦がキリストに導かれ、いやしを受けた。また、神の輝きの栄光が彼らの部屋を照らし、その栄光によって、ふたりは聖霊のバプテスマを受けた。ふたりはおびえて隠れようとしたほどであった。多くの人が家で、また席に座ったままいやされた。多くの人が天幕の中に明るい光を見、天幕が燃えるような栄光に包まれるのを見た。主の火と栄光の現れが、天幕の中でも周りでも数多く見られた。しばしば天幕全体が、あるいはその一部が、神の栄光で照らされているのが見えた。主が壇の上に、また天幕のあちこちに見られた。
 
 Through the Spirit-filled saints the soft, sweet dove-like song of the redeemed, in almost every meeting, rolled out through the tent and was heard by people far away. Just like John says, "it was like rolling thunder, or roaring waves of the sea." The people looked on in wonder. A stillness like death settled over the people, then as God began to speak from heaven, in other languages, through little children, old men and women, young men and maidens, plainly, fluently, intelligently, with great power, one at a time, and each message was interpreted in the same voice as was given by the one who gave the messages in the unknown language. Little children often interpreted their own messages, all speaking and telling the wonderful works of God, quoting strongest prophecies that many did not know anything about. Singing new songs about Jesus and His coming in words that never were heard before, then singing them in English, the congregation was spell-bound in wonder and amazement. The fear of God rested on them; many wept and trembled at the presence of God.
-御霊に満たされた聖徒たちを通して、あがなわれた者のやわらかく甘い、鳩のような歌が、ほとんど毎回の集会で天幕の中に響き渡り、遠くの人々にも聞こえた。ヨハネが言っているとおりである。「それはとどろく雷のよう、あるいは海の逆巻く波のようであった」（黙示録一四・二）。人々は驚いてながめていた。死のような静けさが人々の上を覆った。それから神が天から、他国の言葉で語りはじめられた。小さな子供たち、年老いた男や女、若者やおとめたちを通して、はっきりと、よどみなく、意味の通る言葉で、大いなる力をもって、ひとりずつ語られたのである。そして、どの言葉も、知られていない言語でその言葉を語った人と同じ声で解き明かされた。小さな子供たちが、自分の言葉をしばしば自分で解き明かした。みな神の大きな働きを語り告げ、多くの人が何も知らない力強い預言を引いた。彼らは、だれも聞いたことのない言葉で、イエスとその来臨についての新しい歌を歌い、それから英語で歌った。会衆は驚きと感嘆に魅了された。神への恐れが人々の上にとどまり、多くの人が神のご臨在に泣き、震えた。
+御霊に満たされた聖徒たちを通して、あがなわれた者のやわらかく甘い、鳩のような歌が、ほとんど毎回の集会で天幕の中に響き渡った。その歌は遠くの人々にも聞こえた。ヨハネが言っているとおりである。「それはとどろく雷のよう、あるいは海の逆巻く波のようであった」（黙示録一四・二）。人々は驚いてながめていた。死のような静けさが人々の上を覆った。それから神が天から、他国の言葉で語りはじめられた。小さな子供たち、年老いた男や女、若者やおとめたちを通して、ひとりずつ語られたのである。その言葉ははっきりとして、よどみなく、意味が通り、大いなる力があった。そして、どの言葉も、知られていない言語でその言葉を語った人と同じ声で解き明かされた。小さな子供たちが、自分の言葉をしばしば自分で解き明かした。みな神の大きな働きを語り告げ、多くの人が何も知らない、このうえなく力強い預言を引いた。彼らは、だれも聞いたことのない言葉で、イエスとその来臨についての新しい歌を歌い、それから英語で歌った。会衆は驚きと感嘆に魅了された。神への恐れが人々の上にとどまり、多くの人が神のご臨在に泣き、震えた。
 
 The Lord revealed Himself and put His seal on the work.
 主はご自身を現され、このわざに印を押された。
