@@ -97,30 +97,30 @@ WESLEY WARTENBE, Petoskey, Mich.
 『それから、御使はわたしに言った、「書きしるせ。小羊の婚宴に招かれた者は、さいわいである」』（黙示録一九・九）。『御霊も花嫁も共に言った、「きたりませ」』（黙示録二二・一七）。
 // 英文の出典は「Rev. 19.」で章だけ。
 
-（ここには、P・J・ハワード夫人の手紙が載っているが、書き手の没年が確かめられないため訳していない）
+（ここには、メソジスト教会の有力な働き人であるP・J・ハワード夫人の手紙が載っているが、書き手の没年が確かめられないため訳していない）
 // この段落は Mrs. P. J. Howard の手紙（前置きの一文を含む）。WebSearch（standard 2 回、extended 1 回）で没年が見つからなかったので訳さない。
 Mrs. P. J. Howard, Petoskey, Mich., a prominent worker in the Methodist church, writes these words: Yes, I attended the Pentecostal Meetings held in Petoskey during July. I went there prejudiced, but went away saying, "I will follow Thee whither soever thou goest." The presence of the Holy Spirit was there from the beginning to the end, and the slain of the Lord were many. We saw, heard and felt that it was now even as it was in the days of Christ when they tarried in the flesh. Praise the Lord. The blind receive their sight, the lame walk, the lepers are cleansed; the deaf hear, the dead are raised up and the poor have the gospel preached to them. Glory to God! May the Pentecostal power speedily fill the whole earth.
 // 訳さない範囲ここまで
 
 One brother that came from Southern Michigan writes these words: While I was sitting in the big tent and Sister Etter was speaking to the people, the Spirit of God fell on her so that she was transfixed as a statue of marble for three or four minutes. I closed my eyes, soon the Spirit fell on me and filled me to overflowing. When I opened my eyes I saw the west end of the tent as if it was lined with pure gold. This lasted for some time and was the most beautiful scene that I ever witnessed.
-南ミシガンから来たひとりの兄弟は、こう書いている。私が大天幕の中に座り、エター姉妹が人々に語っていたときのことです。神の御霊が彼女の上に下り、彼女は三、四分のあいだ、大理石の像のように身動きしなくなりました。私は目を閉じました。すると間もなく、御霊が私の上にも下り、私をあふれるほどに満たしてくださいました。目を開けると、天幕の西の端が、純金で張られているかのように見えました。これはしばらく続きました。私がこれまでに見た中で、最も美しい光景でした。
+南ミシガンから来たひとりの兄弟は、こう書いている。私が大天幕の中に座り、エター姉妹が人々に語っていたときのことです。神の御霊が彼女の上に下られ、彼女は三、四分のあいだ、大理石の像のように身動きしなくなりました。私は目を閉じました。すると間もなく、御霊が私の上にも下られ、私をあふれるほどに満たしてくださいました。目を開けると、天幕の西の端が、純金で張られているかのように見えました。これはしばらく続きました。私がこれまでに見た中で、最も美しい光景でした。
 
 One morning an Indian woman (who got saved a short time before) and her daughter received her baptism and came out speaking in a new tongue. The daughter got saved; she could not speak well in Indian. When she got her baptism she began at once to speak her language fluently (her mother said), this being done under the inspiration of the Spirit. Both mother and daughter immediately told the people that they got a call from the Spirit to go to their people and preach the good news of the Kingdom to them. The daughter gave a heart-rending exhortation to the audience to give their whole life to Jesus, who had done so much for them. These were some of her words, "Oh, come! Oh, come! God wants you. God is calling you. People won't always stand by you, God will. Oh, it is so sweet; He stretches His arms out to you. Come today. Jesus is always willing. He is so sweet. There is no real pleasure in this world. She exhorted like this in the Spirit for some minutes. This young woman testified that she was just getting ready to go on the stage, wishing to take her mother along. She feared a little to come to the meeting, thinking that probably she would change her plans; praise God, she did change her plans. The Spirit of God got her under deep conviction, then saved and baptized her, then gave a message in tongues with the interpretation.
-ある朝、ひとりのインディアンの婦人（少し前に救われたばかりだった）と、その娘がバプテスマを受け、新しい言葉を語りながらさめた。娘は救われていたが、インディアンの言葉をうまく話せなかった。ところがバプテスマを受けると、すぐに自分たちの言葉を流暢に話しはじめた（母親がそう言った）。これは御霊の霊感によるものだった。母も娘もすぐに人々に告げた。自分たちの同胞のもとへ行って、御国の良い知らせを宣べ伝えるよう、御霊から召しを受けた、と。娘は聴衆に、心を揺さぶる勧めをした。あなたがたのために多くのことをしてくださったイエスに、生涯のすべてをささげなさい、と。彼女の言葉の一部はこうである。「ああ、来てください！　ああ、来てください！　神はあなたがたを求めておられます。神があなたがたを呼んでおられます。人はいつもあなたがたを支えてくれるとはかぎりません。でも神は支えてくださいます。ああ、なんとすばらしいのでしょう。主はあなたがたに腕を伸ばしておられます。今日来てください。イエスはいつでも喜んで迎えてくださいます。主はなんとすばらしいお方でしょう。この世には本当の楽しみはありません」彼女はこのように、数分のあいだ御霊によって勧めた。この若い婦人は証しをして言った。自分はちょうど舞台に立つ準備をしていて、母親も連れて行きたいと思っていた。集会に来るのは少し怖かった。たぶん計画を変えることになると思ったからである。神をほめたたえよ、彼女は計画を変えたのである。神の御霊は彼女に深く罪を示され、それから彼女を救ってバプテスマを授け、さらに異言による言葉とその解き明かしをお与えになった。
+ある朝、ひとりのインディアンの婦人（少し前に救われたばかりだった）と、その娘がバプテスマを受け、新しい言葉を語りだした。娘は救われた。彼女はインディアンの言葉をうまく話せなかった。ところがバプテスマを受けると、すぐに自分たちの言葉を流暢に話しはじめた（母親がそう言った）。これは御霊の霊感によるものだった。母も娘もすぐに人々に告げた。自分たちの同胞のもとへ行って、御国の良い知らせを宣べ伝えるよう、御霊から召しを受けた、と。娘は聴衆に、心を揺さぶる勧めをした。あなたがたのために多くのことをしてくださったイエスに、生涯のすべてをささげなさい、と。彼女の言葉の一部はこうである。「ああ、来てください！　ああ、来てください！　神はあなたがたを求めておられます。神があなたがたを呼んでおられます。人はいつもあなたがたを支えてくれるとはかぎりません。でも神は支えてくださいます。ああ、なんとすばらしいのでしょう。主はあなたがたに腕を伸ばしておられます。今日来てください。イエスはいつでも喜んで迎えてくださいます。主はなんとすばらしいお方でしょう。この世には本当の楽しみはありません」彼女はこのように、数分のあいだ御霊によって勧めた。この若い婦人は証しをして言った。自分はちょうど舞台に立つ準備をしていて、母親も連れて行きたいと思っていた、と。彼女は集会に来るのが少し怖かった。たぶん計画を変えることになると思ったからである。神をほめたたえよ。彼女は計画を変えたのである。神の御霊は彼女に深く罪を示された。それから彼女を救われ、バプテスマを授けられた。さらに、異言による言葉とその解き明かしをお与えになった。
 // 英文は娘の言葉の閉じの引用符がない。「There is no real pleasure in this world.」までを娘の言葉とした。
 
 ## 幻
 VISIONS
 
 A young woman (Miss Esther Pratt of Petoskey, Mich.) was saved and baptized in the Holy Spirit in these meetings. While laying under the power of the Spirit she got a vision. In the vision she first saw a black cloud, then a white and afterwards a blue one. These all passed away and then she saw Jesus in His Majesty sitting on the Throne, with the angels around Him. He reached his hand out saying, I am coming soon. Go and tell the people that I am coming soon. Everything seemed to be bright with the glory of heaven, when suddenly I was aware that I was speaking in another language.
-ひとりの若い婦人（ミシガン州ペトスキーのエスター・プラット嬢）が、この集会で救われ、聖霊のバプテスマを受けた。御霊の力の下に横たわっているあいだに、彼女は幻を見た。幻の中で彼女は、初めに黒い雲を、次に白い雲を、その後に青い雲を見た。これらがみな過ぎ去ると、彼女は、イエスが威光のうちに御座に着き、御使たちに囲まれておられるのを見た。主は御手を伸ばして言われた。「わたしはすぐに来る。行って人々に、わたしがすぐに来ると告げなさい」「すべてが天の栄光に輝いているように見えたとき、突然、私は自分が他国の言葉で語っていることに気づきました」
-// 英文は最後の文で引用符のないまま一人称に変わるので、プラット嬢の言葉として「」に入れた。主の言葉も英文に引用符がないが「」に入れた。
+ひとりの若い婦人（ミシガン州ペトスキーのエスター・プラット嬢）が、この集会で救われ、聖霊のバプテスマを受けた。御霊の力の下に横たわっているあいだに、彼女は幻を見た。幻の中で彼女は、初めに黒い雲を、次に白い雲を、その後に青い雲を見た。これらがみな過ぎ去ると、彼女は、イエスが威光のうちに御座に着かれ、御使たちに囲まれておられるのを見た。主は御手を伸ばされ、言われた。「わたしはすぐに来る。行って人々に、わたしがすぐに来ると告げなさい」すべてが天の栄光に輝いているように見えたとき、突然、彼女は自分が他国の言葉で語っていることに気づいた。
+// 英文は最後の文で引用符のないまま一人称（I was aware）に変わるが、主の言葉の「」に続けると主の言葉に読めるので、三人称の地の文として訳した。主の言葉も英文に引用符がないが「」に入れた。
 
 The power of God has been manifested so strong at times in these meetings that some of the saints were held like statues under the power. Once while the power held Sister Etter in this condition for a long time the power began to fall all over the meeting, people began to go down in various places around the altar. During this period a dear brother got a vision, in which he saw the tent around the altar all ablaze with the Glory of God. It was all lit up like burning gold with the bright light from Heaven. The God of the heavens is surely in the midst of this work. The same day in the evening, when the meeting was about to close, a young woman got in the chair to be prayed for the healing of her body. While she was being prayed for the power struck her, and with it came a burden for her girl friend who was seeking at the altar. She made a rush for her, embraced her and helped her. The power immediately came on her friend and prostrated her, giving her, too, a glorious experience in God.
 集会では、ときに神の力があまりに強く現されたので、聖徒たちの何人かは、力の下で像のように身動きできなくなった。あるとき、力がエター姉妹を長いあいだこのような状態にとどめていると、力が集会全体に下りはじめた。祭壇の周りのあちこちで、人々が倒れはじめた。そのあいだに、ひとりの愛する兄弟が幻を見た。その幻の中で、彼は祭壇の周りの天幕が、すべて神の栄光で燃え立っているのを見た。そこは天からの輝く光で、燃える金のように照らされていた。天の神は、確かにこの働きのただ中におられる。同じ日の夕方、集会が閉じられようとしていたとき、ひとりの若い婦人が、からだのいやしのために祈ってもらおうと椅子に座った。祈ってもらっているあいだに力が彼女を打ち、それと共に、祭壇で求めていた女友達のための重荷が彼女に臨んだ。彼女は友達のもとに駆け寄り、抱きしめて助けた。力はすぐにその友達にも臨んで彼女を倒れ伏させ、彼女にも神にある輝かしい経験を与えた。
 
 The meetings began to increase in number and interest from the very start. Already a number of ministers are among the seekers. Some of the churches are opening their doors and wish to have their members attend the meetings, and get all the good from them that they can. One minister began to oppose the work, but soon found that his members were of a different trend of mind. They began to attend the meetings quite regular, one by one fell in line with the work. Some soon received the baptism of the Holy Ghost, and came out speaking in another tongue. Others are getting saved and healed. Since then various members of the board of that church extended an invitation to the Pentecostal people to use a nice basement of the church (free of charge) to conduct their meetings, after the camp-meeting closes.
-集会は、まさに初めから、人数も関心も増しはじめた。すでに何人もの牧師が求道者の中にいる。いくつかの教会は門戸を開き、会員たちが集会に出席して、できるかぎりの益を受けることを望んでいる。ひとりの牧師はこの働きに反対しはじめたが、間もなく、自分の会員たちが違う考えを持っていることに気づいた。会員たちはかなり規則正しく集会に出席するようになり、ひとりまたひとりと、この働きに加わった。何人かは間もなく聖霊のバプテスマを受け、異言を語りながらさめた。ほかの人々も救われ、いやされている。その後、その教会の役員会の何人かが、ペンテコステの人々を招いた。野営集会が終わった後、教会のきれいな地下室を（無料で）使って集会を開いてほしいというのである。
+集会は、まさに初めから、人数も関心も増しはじめた。すでに何人もの牧師が求道者の中にいる。いくつかの教会は門戸を開き、会員たちが集会に出席して、できるかぎりの益を受けることを望んでいる。ひとりの牧師はこの働きに反対しはじめたが、間もなく、自分の会員たちが違う考えを持っていることに気づいた。会員たちはかなり規則正しく集会に出席するようになり、ひとりまたひとりと、この働きに加わった。何人かは間もなく聖霊のバプテスマを受け、異言を語りだした。ほかの人々も救われ、いやされている。その後、その教会の役員会の何人かが、ペンテコステの人々を招いた。野営集会が終わった後、教会のきれいな地下室を（無料で）使って集会を開いてほしいというのである。
 
 ## 地元の働き人たちの証し
 TESTIMONY BY LOCAL WORKERS
@@ -146,9 +146,9 @@ IN THE GREAT TRIUMPHANT MORNING
 In the great triumphant morning,
 大いなる勝利の朝に<br/>
 When we hear the Bridegroom cry,
-花婿の呼ぶ声を聞くとき<br/>
+花婿の呼ぶ声を聞き<br/>
 And the dead in Christ shall rise;
-キリストにある死者はよみがえる<br/>
+キリストにある死者がよみがえるとき<br/>
 We'll be changed to life immortal
 私たちは朽ちないいのちに変えられる<br/>
 In the twinkling of an eye,
@@ -159,11 +159,11 @@ And meet Jesus in the skies.
 REFRAIN
 （おりかえし）<br/>
 We shall all rise to meet Him, we shall all go to greet Him,
-みな主を迎えによみがえり、みな主にまみえに行く<br/>
+みな主を迎えに上り、みな主にまみえに行く<br/>
 In the morning when the dead in Christ shall rise;
 キリストにある死者がよみがえる朝に<br/>
 We shall all rise to meet Him, we shall all go to greet Him,
-みな主を迎えによみがえり、みな主にまみえに行く<br/>
+みな主を迎えに上り、みな主にまみえに行く<br/>
 And shall have the marriage supper in the skies.
 そして空で婚宴にあずかる<br/>
 
@@ -176,16 +176,16 @@ When the dead in Christ shall rise;
 When the Lord descends in glory,
 主が栄光のうちに下って来られ<br/>
 Sets His waiting children free,
-待ち望む子らを解き放ち<br/>
+待ち望む子らを解き放ってくださり<br/>
 And we meet Him in the skies.
 私たちが空で主にお会いするとき<br/>
 
 In the great triumphant morning,
 大いなる勝利の朝に<br/>
 When the harvest is complete,
-刈入れが終わるとき<br/>
+刈入れが終わり<br/>
 And the dead in Christ shall rise;
-キリストにある死者はよみがえる<br/>
+キリストにある死者がよみがえるとき<br/>
 We'll be crowned with life immortal,
 私たちは朽ちないいのちの冠を受け<br/>
 Christ and all the loved ones meet,
