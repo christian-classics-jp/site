@@ -6,7 +6,7 @@ MISSION AT ENGLEWOOD, CHICAGO, 1914
 THE HEAVENLY CHOIR
 
 The singing in the Spirit was one of the manifestations of frequent occurrence. Sometimes many joined with "other tongues" in the heavenly choir, which only the redeemed of the Lamb can sing. It would rise to bursts of praise like the sound of many waters or sink to the sweetness of the dove-note, and then rise again to greater heights like the incoming waves It was indeed the heavenly Dove singing and calling for its mate. Untrained voices joined with a purity of tone and harmony surpassing that of expert vocalists. Such scenes recall vividly the loving converse of the bride with the bridegroom given in prophetic allegory in the Song of Solomon, 2:10-13:
-御霊による歌は、たびたび起こる現れの一つだった。ときには大勢の人が「異言」で天の合唱に加わった。それは、小羊にあがなわれた者だけが歌える歌である。その歌は、多くの水の音のような賛美のほとばしりにまで高まったかと思うと、鳩の鳴き声のような甘やかさにまで沈んだ。それからまた、打ち寄せる波のように、さらに高く上った。それはまさしく、天の鳩が歌い、つがいの相手を呼んでいるのだった。訓練を受けていない声が、熟練した声楽家にまさる澄んだ音色と調和で加わった。このような光景は、雅歌二・一〇〜一三 に預言的なたとえとして描かれた、花嫁と花婿の愛の語らいを、ありありと思い起こさせる。
+御霊による歌は、たびたび起こる現れの一つだった。ときには大勢の人が「異言」で天の合唱に加わった。それは、小羊にあがなわれた者だけが歌える歌である。その歌は、多くの水の音のような賛美のほとばしりにまで高まったかと思うと、鳩の鳴き声のような甘やかさにまで沈んだ。それからまた、打ち寄せる波のように、さらに高く上った。それはまさしく、天の鳩が歌い、つがいの相手を呼んでいるのだった。訓練を受けていない声が、熟練した声楽家にまさる澄んだ音色と調和で加わった。このような光景は、雅歌二・一〇〜一三に預言的なたとえとして描かれた、花嫁と花婿の愛の語らいを、ありありと思い起こさせる。
 
 "Rise, up, my love, my fair one, and come away.
 『わが愛する者よ、わが麗しき者よ、立って、出てきなさい<br/>
@@ -27,7 +27,7 @@ And the vines are in blossom;
 They give forth their fragrance.
 かんばしいにおいを放つ<br/>
 Arise, my love, my. fair one, and come come away."
-わが愛する者よ、わが麗しき者よ、立って、出てきなさい』<br/>
+わが愛する者よ、わが麗しき者よ、立って、出てきなさい』（雅歌二・一〇〜一三）<br/>
 // 英文の「Rise, up」「my. fair」「come come」は原本の誤植。
 
 We have heard a brother sing a sacred hymn to God in other tongues, as a solo, in which the tone-placement, tone-purity, and tone-color was fully equal to that of grand opera singers, and yet he never had but the slightest training in singing.
@@ -37,19 +37,19 @@ We have heard a brother sing a sacred hymn to God in other tongues, as a solo, i
 DANCING IN THE SPIRIT
 
 Among the "strange acts" also (Isa. 28:21) which God is performing these last days is dancing and playing on musical instruments in the Spirit. These manifestations are not induced by suggestion or by imitation. It is true that some will occasionally step and hop about who are simply expressing their joy and praise in their own way, as all of us in former days have seen the saints, when they are blessed, jump and skip and run in holiness meetings. These fleshly manifestations cannot be regarded as sinful and certainly are not hypocritical. They are the human expression of feeling toward God under great blessing just as demonstrations at a baseball or football game are the natural, human expression of feeling in that lower, carnal plane of joy.
-神はこの終わりの日々に「異なったわざ」をなさっている（イザヤ二八・二一）。その中には、御霊によって踊ることや、御霊によって楽器を奏でることもある。これらの現れは、暗示や模倣によって引き起こされるものではない。確かに、ときには、ただ自分なりのしかたで喜びと賛美を表して、ステップを踏んだり跳ね回ったりする人もいる。私たちもみな、以前、ホーリネスの集会で、聖徒たちが祝福を受けて跳び上がり、跳ね、走るのを見たものである。このような肉の現れを罪深いとみなすことはできないし、偽善でないことも確かである。それは、大きな祝福を受けて神に向かう感情の、人間的な表現である。ちょうど、野球やフットボールの試合での熱狂が、それより低い肉の次元の喜びにおける、自然な人間的な感情の表現であるのと同じである。
+神はこの終わりの時に「異なったわざ」をなさっている（イザヤ二八・二一）。その中には、御霊によって踊ることや、御霊によって楽器を奏でることもある。これらの現れは、暗示や模倣によって引き起こされるものではない。確かに、ときには、ただ自分なりのしかたで喜びと賛美を表して、ステップを踏んだり跳ね回ったりする人もいる。私たちもみな、以前、ホーリネスの集会で、聖徒たちが祝福を受けて跳び上がり、跳ね、走るのを見たものである。このような肉の現れを罪深いとみなすことはできないし、偽善でないことも確かである。それは、大きな祝福を受けて神に向かう感情の、人間的な表現である。ちょうど、野球やフットボールの試合での熱狂と同じである。それは、それより低い肉の次元の喜びにおける、自然な人間的な感情の表現である。
 
 But the real dancing under the power of the Spirit is altogether different. It is spontaneous. It comes without premeditation or choice. It lacks all human direction and control. It does not follow the two-step or waltz or any dance ever learned. The steps are controlled and directed by the Holy Spirit. The whole body is energized by the Spirit. The eyes are closed. The movements are wonderfully graceful and often rapid beyond all possibility of imitation. There are none of the attitudes or poses or familiar joining of partners, which characterize the ordinary dance.
-しかし、御霊の力の下での本当の踊りは、全く違う。それはおのずから起こる。前もって考えたり選んだりすることなく起こる。人間の指図や制御は全くない。ツーステップやワルツや、これまでに習ったどんな踊りにも従わない。足の運びは、聖霊が制御し、導かれる。体全体が御霊によって力を与えられる。目は閉じている。動きは驚くほど優美で、しばしば、とてもまねのできない速さである。普通の踊りに特有の身構えや姿勢や、おなじみの相手と組むことは、全くない。
+しかし、御霊の力の下での本当の踊りは、全く違う。それはおのずから起こる。前もって考えたり選んだりすることなく起こる。人間の指図や制御は全くない。ツーステップやワルツや、これまでに習ったどんな踊りにも従わない。足の運びは、聖霊が制御なさり、導かれる。体全体が御霊によって力を与えられる。目は閉じている。動きは驚くほど優美で、しばしば、とてもまねのできない速さである。普通の踊りに特有の身構えや姿勢や、相手と組むおなじみの形は、全くない。
 
-## 「金の琴」を奏でる
+## 「金の竪琴」を奏でる
 PLAYING ON "HARPS OF GOLD"
 
 Others have played upon invisible musical instruments with the apparent skill and dexterity of musicians. This experience is not less startling to the observer than to the one who is thus exercised, when suddenly his fingers are moved by an invisible power in which he has absolutely no part. One who has had the experience can testify to the supernaturalness of this "strange act," when the fingers are involuntarily reaching and stretching for chords of the harp, and when the pulling and straining of muscles and the loosening of the joints of the hands and fingers is similar to that induced by years of technical practice in our schools of music.
-ほかの人々は、音楽家のような見事な腕前と器用さで、目に見えない楽器を奏でた。この経験は、それを受けている本人にとってと同じく、見ている人にとっても驚くべきものである。突然、自分の指が、自分は全く加わっていない目に見えない力によって動かされるのである。この経験をした人は、この「異なったわざ」が超自然のものであることを証しできる。指はひとりでに琴の和音へと伸び、広がる。手と指の筋肉は引っ張られ、張りつめ、関節はゆるむ。それは、音楽学校で何年も技術の練習を積んで得られるものと似ている。
+ほかの人々は、音楽家のような見事な腕前と器用さで、目に見えない楽器を奏でた。この経験は、それを受けている本人にとってと同じく、見ている人にとっても驚くべきものである。突然、自分の指が、自分は全く加わっていない目に見えない力によって動かされるのである。この経験をした人は、この「異なったわざ」が超自然のものであることを証しできる。指はひとりでに竪琴の和音へと伸び、広がる。手と指の筋肉は引っ張られ、張りつめ、関節はゆるむ。それは、音楽学校で何年も技術の練習を積んで得られるものと似ている。
 
 Some were seen to dance and sing with the accompaniment of invisible violins and harps which they were playing with great skill. Still others were representing heavenly instruments by inimitable sounds formed in the throat, which sounded like harps or bells to those present. It was all truly wonderful. Sister Etter declares that these are the last manifestations of the Spirit training the bride to dance and sing in preparation for the wedding feast of the Lamb, which is soon to take place and which will surpass in glory and splendor and sumptuousness and singing and dancing and joy and music every marriage feast and every bridal chorus and every wedding march that the world has ever known. The description is given in Rev. 19:6-8:
-目に見えないバイオリンや琴を見事な腕前で奏で、その伴奏に合わせて踊り、歌う人々も見られた。さらにほかの人々は、のどでまねのできない音を出して、天の楽器を表した。それはその場にいた人々には、琴や鐘のように聞こえた。それはすべて、まことにすばらしいものだった。エター姉妹は、これらは花嫁に踊りと歌を教えておられる御霊の、最後の現れだと言う。小羊の婚宴に備えるためである。その婚宴は間もなく開かれる。それは、栄光と輝きと豪華さにおいても、歌と踊りと喜びと音楽においても、世が知るどの婚宴にもまさる。これまでのどの花嫁の合唱、どの結婚行進曲にもまさるものとなる。その様子は、黙示録一九・六〜八 に描かれている。
+目に見えないバイオリンや竪琴を見事な腕前で奏で、その伴奏に合わせて踊り、歌う人々も見られた。さらにほかの人々は、のどでまねのできない音を出して、天の楽器を表した。それはその場にいた人々には、竪琴や鐘のように聞こえた。それはすべて、まことにすばらしいものだった。エター姉妹は、これらは花嫁に踊りと歌を教えておられる御霊の、最後の現れだと言う。小羊の婚宴に備えるためである。その婚宴は間もなく開かれる。それは、栄光と輝きと豪華さにおいても、歌と踊りと喜びと音楽においても、世が知るどの婚宴にもまさる。これまでのどの花嫁の合唱、どの結婚行進曲にもまさるものとなる。その様子は、黙示録一九・六〜八に描かれている。
 
 And I heard as it were the voice of a great multitude, and as the voice of many waters, and the voice of mighty thunders saying:
 わたしはまた、大群衆の声、多くの水の音、また激しい雷鳴のようなものを聞いた。それはこう言った。
@@ -61,12 +61,12 @@ And I heard as it were the voice of a great multitude, and as the voice of many 
 IN APPRECIATION
 
 Sister Etter has been like a mother in the Lord. She has shown an interest in the work and carried the burden of the work to a degree that is seldom seen in evangelists who come and go. In the financial arrangements she has shown a liberal and generous spirit, voluntarily releasing the committee from their full obligations and personally donating to the work a considerable sum of money which by arrangement belonged to her. We believe it is right that credit and appreciation should be shown where they are due.
-エター姉妹は、主にある母のようだった。彼女は働きに関心を示し、働きの重荷を負った。それは、来ては去っていく伝道者にはめったに見られないほどだった。お金の取り決めにおいても、気前のよい寛大な心を示した。自分から委員会の義務を一部免除し、取り決めによって自分のものとなるはずだったかなりの額のお金を、自ら働きのために寄付したのである。称賛と感謝は、それがふさわしい所に示されるべきだと、私たちは信じる。
+エター姉妹は、主にある母のようだった。彼女は働きに関心を示し、働きの重荷を負った。それは、来ては去っていく伝道者にはめったに見られないほどだった。お金の取り決めにおいても、気前のよい寛大な心を示した。自分から委員会の義務を一部免除した。そして、取り決めによって自分のものとなるはずだったかなりの額のお金を、自ら働きのために寄付したのである。称賛と感謝は、それがふさわしい所に示されるべきだと、私たちは信じる。
 
 ## イエスにあって眠りについた
 FALLEN ASLEEP IN JESUS
 
-## 天に召されたS・P・エター兄弟
+## 天に召されたエター兄弟
 PROMOTION OF BROTHER S. P. ETTER
 
 ## 『生きることはキリストであり、死ぬことは益である』（ピリピ一・二一）
@@ -85,7 +85,7 @@ At the Dallas, Tex., meeting he was stricken with tuberculosis of the bone and s
 テキサス州ダラスの集会で、彼は骨と胃の結核にかかった。間もなく彼は自分では何もできなくなり、あちこちへ運ばれなければならなくなった。働きを求める招きがあまりに多く、切実だった。それでふたりは、そのような悪い状態のまま一万一千マイル以上を旅し、福音を宣べ伝え、一日に三回の集会を開いた。ふたりはほとんど合衆国じゅうを回った。エター夫人は彼に別れの口づけをして集会に出かけたが、帰ったときに彼が生きているかどうかわからないことが、たびたびあった。とくに、ジョージア州アトランタで三月八日から五月十日まで開いた集会のときがそうだった。
 
 As the weather got warmer he had a desire to get home and rest for a while expecting that God would before long either deliver him entirely or take him home to Glory. They reached home towards the end of May. He enjoyed his little home very much, and had perfect victory in his soul.
-暖かくなるにつれて、彼はしばらく家に帰って休みたいと願った。神が間もなく彼を完全にいやされるか、栄光のうちに家へ迎えられるだろう、と期待していたのである。ふたりは五月の末ごろに家に着いた。彼は小さな家をたいへん喜び、魂には完全な勝利があった。
+暖かくなるにつれて、彼はしばらく家に帰って休みたいと願った。神が間もなく彼を完全にいやされるか、栄光のうちに天の家へ迎えられるだろう、と期待していたのである。ふたりは五月の末ごろに家に着いた。彼は小さな家をたいへん喜び、魂には完全な勝利があった。
 
 Sister Etter had a great desire to be with him till the last, but together they had promised the saints at Petoskey, Mich., and also at Philadelphia, Pa., to hold meetings for them. When time arrived to leave he burst forth in strong exhortation urging through it all to be brave and courageous in the Lord's work; that the Lord's coming was drawing nigh. When out of the house his last words heard by his wife were these:
 エター姉妹は、最後まで彼のそばにいたいと強く願った。しかしふたりは、ミシガン州ペトスキーの聖徒たちとペンシルベニア州フィラデルフィアの聖徒たちに、集会を開くと約束していた。出発の時が来ると、彼は力強い勧めの言葉をほとばしらせた。何があっても主の働きに勇敢に、雄々しく当たるように、主の来臨が近づいているのだから、と励ましたのである。家を出るとき、妻が聞いた彼の最後の言葉は、次のとおりだった。
@@ -97,7 +97,7 @@ She trusted that God would spare him till she got back again, but felt perfectly
 彼女は、自分が戻るまで神が彼を生かしておいてくださると信じていたが、神の御心に全く身をゆだねる思いでいた。
 
 Soon after the meeting in Philadelphia started he showed signs that God would take him to rest before long.
-フィラデルフィアの集会が始まって間もなく、神が間もなく彼を休みに召されるというしるしが、彼に見えはじめた。
+フィラデルフィアの集会が始まって間もなく、神が近いうちに彼を休みに召されるというしるしが、彼に現れはじめた。
 
 When asked whether Mrs. Etter should stop the work and come home he said, "No, she must go on till the meeting closes at the end of the month."
 エター夫人は働きをやめて帰るべきかと尋ねられると、彼は言った。「いや、月の終わりに集会が閉じるまで、続けなければならない」
@@ -140,7 +140,7 @@ MRS. L. E. MILLER,
 // 訳さない範囲ここまで
 
 The sister who writes the above testimony has been blessed in soul as much as in body. Although of a naturally quiet disposition, she has been seen on more than one occasion since her healing dancing in the Spirit, full of joy unspeakable and full of glory.--Ed.
-この証しを書いた姉妹は、からだと同じほど魂にも祝福を受けた。生まれつき物静かな人だが、いやされてから一度ならず、言葉に尽くせない、輝きに満ちた喜びにあふれて、御霊によって踊っているのが見られた（編者）。
+この証しを書いた姉妹は、からだと同じほど魂にも祝福を受けた。生まれつき物静かな人だが、いやされてから一度ならず、御霊によって踊っているのが見られた。言葉に尽くせない、輝きに満ちた喜びにあふれていた（編者）。
 // 「full of joy unspeakable and full of glory」は第一ペテロ一・八 の借用。
 
 ## 多くの慢性の病からいやされる　九年間の遊走腎
@@ -161,7 +161,7 @@ MRS. OLOF SMITH,
 1537 South Crawford avenue, Chicago, III.
 // 訳さない範囲ここまで
 
-## 腫瘍のいやし　油を注いだトラクトを用いて
+## 腫瘍からいやされる　油を注いだトラクトを用いて
 HEALED OF TUMOR--USED AN ANOINTED TRACT
 
 （ここには、A・V・ホーキンズ夫人の証しが載っているが、書き手の没年が確かめられないため訳していない）
@@ -191,7 +191,7 @@ MRS. PHOEBE TOMKINS,
 DISEASED LIMB
 
 A lady in England had a diseased limb and was in a terrible condition. She heard of the great work of God and sent us word about her suffering and that nothing could help her, and asked us to pray for her and send her a handkerchief. We prayed and sent her a handkerchief, and it was not long until we received a letter from her, and it began with praises to God. She said when she got the handkerchief the power of God came upon her and she laid the handkerchief on her limb, which was almost rotten. She was healed completely. Hallelujah
-イングランドのある婦人が足を病み、ひどい状態にあった。彼女は神の大いなるわざのことを聞き、自分の苦しみと、何をしても治らないことを書き送ってきた。そして、自分のために祈り、ハンカチを送ってほしいと頼んできた。私たちは祈ってハンカチを送った。間もなく彼女から手紙が来た。それは神への賛美で始まっていた。彼女が言うには、ハンカチを受け取ったとき、神の力が彼女の上に臨んだ。それで、ほとんど腐りかけていた足の上にハンカチを置いた。すると、すっかりいやされたという。ハレルヤ。
+イングランドのある婦人が足を病み、ひどい状態にあった。彼女は神の大いなるわざのことを聞き、自分の苦しみと、何をしても治らないことを書き送ってきた。そして、自分のために祈り、ハンカチを送ってほしいと頼んできた。私たちは祈ってハンカチを送った。間もなく彼女から手紙が来た。それは神への賛美で始まっていた。彼女が言うには、ハンカチを受け取ったとき、神の力が彼女の上に臨んだ。そして、ほとんど腐りかけていた足の上にハンカチを置いた。すると、すっかりいやされたという。ハレルヤ。
 
 ## 精神錯乱
 INSANITY
