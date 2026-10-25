@@ -26,7 +26,7 @@
 + [x] Chapter XIV. The Harvest Is Great / Chapter XV. An Earthquake at Anderson / Chapter XVI. A Hard Place: Muncie, Indiana
 + [x] Chapter XVII. At Anderson, Ind. and Hannibal, Mo. / Chapter XVIII. At Springfield, Illinois
 + [x] Chapter XIX. A Great Fight / Chapter XX. "My Counsel Shall Stand"--(Isiah XLVI, 10.)
-+ [ ] Chapter XXI. "Multitudes, Multitudes in the Valley of Decision" (Joel) / Chapter XXII. A Mighty Work at St. Louis, Mo.
++ [x] Chapter XXI. "Multitudes, Multitudes in the Valley of Decision" (Joel) / Chapter XXII. A Mighty Work at St. Louis, Mo.
 + [ ] Chapter XXIII. Permanent Results
 + [ ] Chapter XXIV. The Gospel the Power of God / Chapter XXV. At Carroll, Iowa / Chapter XXVI. At Muscatine, Iowa
 + [ ] Chapter XXVII. Meetings at Moline, Illinois / Chapter XXVIII. World's Fair Time
