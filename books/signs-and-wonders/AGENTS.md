@@ -44,6 +44,7 @@
 - 第三十章（その二）のキャリー・ジャッド・モンゴメリーの記事（1946 年没）、「CLAIMING THE PROMISE」、名のない牧師の「AN APPRECIATION OF SISTER WOODWORTH-ETTER」は訳した。S. B. Finley の証しは、開きの引用符だけで閉じがないので、一人称の幻の記事と「The prophet Joel」の段落までを証しとみなし、没年が確かめられないので訳していない。その後の「A brother came to these meetings…」からの三段落は三人称の報告なので、編者の文として訳した。「REPORT OF EVANGELIST」（W. J. Mortlock）も没年が確かめられないので訳していない。
 - 第三十一章の「VISIONS OF ELDER H. C. MEARS」（一人称の幻の記録、「Again, I saw my Saviour」の段落まで）は訳していない。第三十章（その二）に「四十年以上福音を説いてきた」とあるので一八五〇年代前半までの生まれと見られるが、本人の年齢ではなく伝道の年数からの推定で、一九五八年以後の没なら百三歳ほどにしかならず、没年も確かめられないため。同じ名の Henrietta C. Mears（一九六三年没）は別人。その後の「Many of the saints in the Dallas meeting…」からは三人称で、ミアーズの幻を著者が語る文なので訳した。同じ章の出所の書かれていない二つの引用（「God's children have Supernatural Revelations…」「We repeat that…」）も訳した。
 - 第三十四章の編者 A. E. Sidford の注（パレスチナの礼拝で女性が質問するのをボディ牧師が聞いたという注）は訳していない。WebSearch（standard 2 回、extended 1 回）で没年が見つからなかった。後の章の Sidford の注も、再検索せず同じ扱いにする。
+- 第三十八章の Fred Lohman（サンアントニオの牧師、『ワード・アンド・ウィットネス』誌の寄稿編集者）の二つの報告（「GOD VISITING SAN ANTONIO WITH MIGHTY POWER」「GOD WORKING IN SAN ANTONIO」）は訳していない。WebSearch（standard 2 回、extended 1 回）で没年が見つからなかった。同じ章のキャリー・ジャッド・モンゴメリーの記事（1946 年没）は訳した。
 - ほかの書き手（編者 A. E. Sidford、Earl W. Clark、Cyrus B. Fockler、Robert J. Craig、August Feick、W. J. Mortlock、Anna C. Reiff など）と、証しを寄せた多くの人の没年は確かめていない。これらの文の扱いは決めていない。訳す前に確かめる。
 - のちの版（1922 年の『 Marvels and Miracles 』、現代の復刻版や編集版）で加わった序文、注、本文の書き換えは著作権が残りうる。訳にはそれらを使わず、参照もしない。
 

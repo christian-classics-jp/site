@@ -41,7 +41,7 @@
 + [x] Chapter XXXV. Sermon on Visions and Trances
 + [x] Chapter XXXVI. Sermon--The Second Coming of Christ
 + [x] Chapter XXXVII. Sermon--Prepare for War--Marshalling of the Nations
-+ [ ] Chapter XXXVIII. San Antonio, Texas, and Oakland, Cal.
++ [x] Chapter XXXVIII. San Antonio, Texas, and Oakland, Cal.
 + [ ] Chapter XXXIX. World-wide Camp Meeting at Los Angeles
 + [ ] Chapter XL. Camp-Meeting at Long Hill, Conn., 1913 (1)
 + [ ] Chapter XL. Camp-Meeting at Long Hill, Conn., 1913 (2)
