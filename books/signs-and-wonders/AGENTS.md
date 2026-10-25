@@ -39,6 +39,7 @@
   - Howard A. Goss（1883-1964）：第四十三章の「JEHOVAH STILL WORKING AT HOT SPRINGS, ARK.」。
 - 次の書き手は 1957 年以前に没している（没年は一般の伝記資料による）：Carrie Judd Montgomery（1946 年没）、Elizabeth Sisson（1934 年没）、A. A. Boddy（1930 年没）、Stanley P. Smith（1931 年没）、George B. Studd（1945 年没）、A. G. Garr（1944 年没）、D. C. O. Opperman（1926 年没）。
 - 書き手の名のない新聞記事や記録は、公表から 50 年と戦時加算で保護期間が切れている。
+- 第二十九章のサラ・ネルソン夫人の証し（「RAISED FROM THE DEAD」）と、アームストロング夫人が夫の証しを裏づけた一文は、没年が確かめられないので訳していない。同じ章のジョン・N・アームストロングの証しは、本人が 1912 年に 65 歳だったと書いており（1846 年ごろの生まれ）、1958 年以後の没なら 111 歳を超えるので、1957 年以前の没と判断して訳した。
 - ほかの書き手（編者 A. E. Sidford、Earl W. Clark、Cyrus B. Fockler、Robert J. Craig、August Feick、W. J. Mortlock、Anna C. Reiff など）と、証しを寄せた多くの人の没年は確かめていない。これらの文の扱いは決めていない。訳す前に確かめる。
 - のちの版（1922 年の『 Marvels and Miracles 』、現代の復刻版や編集版）で加わった序文、注、本文の書き換えは著作権が残りうる。訳にはそれらを使わず、参照もしない。
 
