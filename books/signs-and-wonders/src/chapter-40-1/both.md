@@ -12,7 +12,7 @@ CURRENT EVENTS AND SIGNS OF THE TIMES
 ## 一九一三年のコネチカット州ロングヒルの大会
 THE CONVENTION AT LONG HILL, CONN., 1913
 
-（ここには、オタワの編集者・発行者A・W・オットーが『ヘラルド・オブ・トゥルース』誌に寄せた、天の賛歌を描く報告が載っているが、没年が確かめられないため訳していない）
+（ここには、オタワの編集者・発行者A・W・オットーが『ヘラルド・オブ・トゥルース』誌に寄せた、天の賛歌を描く報告が載っているが、書き手の没年が確かめられないため訳していない）
 // ここから節の終わりまでと、次の節の署名「A. W. OTTO, Editor and Publisher,」「Ottawa, Canada.」までは A. W. Otto の報告。没年が確かめられないので訳さない。
 
 (Taken from "The Herald of Truth.'')
