@@ -10,7 +10,7 @@ On our way home from Tampa, Fla., at the earnest call from the dear ones at Atla
 // 英文の「J will draw」の「J」は「I」の読み誤り。
 
 Hundreds who had attended the year before, when we held a nine weeks' meeting in the large tabernacle, came. Ringing testimonies came from those who had been saved and baptized with the Holy Ghost, or healed from day to day. As many as sixty who had received these blessings, testified in one day that they had been healed of all kinds of sicknesses and diseases, and had been kept well in soul and body. Jesus says, "Ye are My witnesses," and "in the mouth of two or three witnesses every word shall be established." Jesus loves to hear the praises of the Redeemed so well that He stopped a great procession while on earth to hear the testimony of one poor leper, and the poor old woman who did not have a friend in the world. I am sure He stops the angel choir and the music in heaven to listen to these wonderful testimonies in Jackson's hall; for the Eternal Gates flew open and the tidal waves from the River of Life, from before the Throne of God, came sweeping in over the people like mighty, rushing waters, until the healing and life-giving power of God was felt by all in the building.
-前の年に大きな幕屋で九週間の集会を開いたときに来ていた何百人もの人々が、やって来た。救われて聖霊のバプテスマを受けた人々や、日ごとにいやされた人々から、響きわたる証しが上がった。これらの祝福を受けた人々のうち、一日に六十人もが証しをした。あらゆる病気や疾患からいやされ、魂も体も健やかに守られてきた、と。イエスは『あなたがたはわが証人』と言われる（イザヤ四三・一〇）。また、『ふたりまたは三人の証人の口によって、すべてのことがらが確かめられる』とも言われる（マタイ一八・一六）。イエスは、あがなわれた者たちの賛美を聞くことをこよなく愛しておられる。地上におられたとき、ひとりのあわれならい病人と、この世にひとりの友もいないあわれな老婆の証しを聞くために、大きな行列を止められたほどである。主はきっと、天の御使の合唱と音楽を止めて、ジャクソン会館でのこのすばらしい証しに耳を傾けておられるに違いない。永遠の門がさっと開き、神の御座の前から流れ出るいのちの川の高潮が、激しく押し寄せる大水のように人々の上に流れ込んで来たからである。そして、建物の中のすべての人が、いやし、いのちを与える神の力を感じた。
+前の年に大きな幕屋で九週間の集会を開いたときに来ていた何百人もの人々が、やって来た。救われて聖霊のバプテスマを受けた人々や、日ごとにいやされた人々から、響きわたる証しが上がった。これらの祝福を受けた人々のうち、一日に六十人もが証しをした。あらゆる病気や疾患からいやされ、魂も体も健やかに守られてきた、と。イエスは『あなたがたはわが証人』と言われる（イザヤ四三・一〇）。また、『ふたりまたは三人の証人の口によって、すべてのことがらが確かめられる』とも言われる（マタイ一八・一六）。イエスは、あがなわれた者たちの賛美を聞くことをこよなく愛しておられる。地上におられたときには、大きな行列を止められたほどである。あわれなひとりのらい病人と、この世にひとりの友もいないあわれな老婆の証しを聞くためであった。主はきっと、天の御使の合唱と音楽をお止めになって、ジャクソンの会館でのこのすばらしい証しに耳を傾けておられるに違いない。永遠の門がさっと開いたからである。神の御座の前から流れ出るいのちの川の高潮が、激しく押し寄せる大水のように人々の上に流れ込んで来た。そして、建物の中のすべての人が、いやし、いのちを与える神の力を感じた。
 // 「Ye are My witnesses」は、英文ではイエスの言葉とされているが、聖書ではイザヤ四三・一〇 の主の言葉。後の句は、イエスの言葉であるマタイ一八・一六 で示した（第二コリント一三・一 にも同じ句がある）。
 
 Some would weep, some shout, some were healed, standing or sitting in their seats. One little boy, eight years old, gave messages in tongues, interpreted, danced and preached and held the great crowd spellbound. He told them he had been saved, and healed, and baptized in the Holy Ghost when we were there the year before. He said all his family, sisters and brothers, and parents--except one--had been saved, and he knew that one would be soon. Almost all the family had received the baptism in the Holy Ghost. We had wonderful music played upon the piano by those who were entirely controlled by the Spirit. Their whole bodies were charged and moved with the mighty power of the Holy Ghost. It had a great effect on the people, the instrument seemed full of the glory of God.
@@ -20,7 +20,7 @@ Some would weep, some shout, some were healed, standing or sitting in their seat
 DYING, NOW FILLED WITH RESURRECTION LIFE
 
 Sister Ida Ball, who had been saved and healed in the last stages of consumption, was there all through the meeting, and filled with God,-was wonderfully used of the Lord. She is small and frail looking; very fair with golden hair. Whenever she came before the audience, she held the people spellbound, they said she looked like an angel. When the Lord took possession of her, she became light as a bird, and would dance the holy dance, and her hair would fall around her face and shoulders like a veil. She sang new songs in other tongues that no one had ever heard before, and then sang them in English; also gave wonderful messages in different languages and interpreted them. I took her with me through several conventions. God used her everywhere to convince one and all that God lives and moves in His own today.
-アイダ・ボール姉妹は、肺病の末期に救われ、いやされた人である。彼女は集会のあいだずっとそこにいて、神に満たされ、主にすばらしく用いられた。小柄できゃしゃに見え、たいへん色白で、金色の髪をしている。彼女が会衆の前に出ると、いつも人々は魅了された。御使のようだと人々は言った。主が彼女をとらえられると、彼女は鳥のように軽くなり、聖なる踊りを踊った。髪がベールのように顔と肩のまわりに垂れた。彼女は、だれも聞いたことのない新しい歌を異言で歌い、それから英語で歌った。また、さまざまな言語ですばらしい言葉を語り、それを解き明かした。私はいくつかの大会に彼女を連れて行った。神は至る所で彼女を用いて、神が今日もご自分の民のうちに生きて働いておられることを、すべての人に確信させられた。
+アイダ・ボール姉妹は、肺病の末期に救われ、いやされた人である。彼女は集会のあいだずっとそこにいて、神に満たされ、主にすばらしく用いられた。小柄できゃしゃに見え、たいへん色白で、金色の髪をしている。彼女が会衆の前に出ると、いつも人々は魅了された。御使のようだと人々は言った。主が彼女をとらえられると、彼女は鳥のように軽くなり、聖なる踊りを踊った。髪がベールのように顔と肩のまわりに垂れた。彼女は、だれも聞いたことのない新しい歌を異言で歌い、それから英語で歌った。また、さまざまな言語ですばらしい言葉を語り、それを解き明かした。私はいくつかの大会に彼女を連れて行った。神は至る所で彼女をお用いになって、神が今日もご自分の民のうちに生きて働いておられることを、すべての人に確信させられた。
 
 ## 本を手に入れて救われ、いやされる
 SAVED AND HEALED THROUGH GETTING A BOOK
@@ -136,11 +136,11 @@ BEHOLD I COME
 When I survey the wondrous theme
 驚くべきこの主題を思い巡らすとき<br/>
 Of Jesus coming for His own,
-ご自分の民のためにイエスが来られるという<br/>
+ご自分の民を迎えにイエスが来られるという<br/>
 'Tis like the morning's rising beam,
 それは朝の昇る光のように<br/>
 Calling to our heavenly home.
-天の家へと私たちを呼ぶ<br/>
+天の家へとわれらを呼ぶ<br/>
 
 In these last days of darkened time,
 暗い時代の、この終わりの時に<br/>
