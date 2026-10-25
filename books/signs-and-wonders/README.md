@@ -57,7 +57,7 @@
 + [x] Chapter XLVIII. Camp Meeting at Petoskey, Mich. (1)
 + [x] Chapter XLVIII. Camp Meeting at Petoskey, Mich. (2)
 + [x] Chapter XLIX. Camp Meeting at Philadelphia, Pa., 1914
-+ [ ] Chapter L. Mission at Englewood, Chicago, 1914 (1)
++ [x] Chapter L. Mission at Englewood, Chicago, 1914 (1)
 + [ ] Chapter L. Mission at Englewood, Chicago, 1914 (2)
 + [ ] Chapter LI. Work at Tampa, Florida
 + [ ] Chapter LII. Atlanta Meeting, 1915
