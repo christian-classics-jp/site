@@ -3,7 +3,7 @@
 - 日付：2026-10-26
 - レビューした者：新しいサブエージェント（訳者の判断理由は渡していない）
 - 渡したもの：`both.md`、リポジトリと本の `AGENTS.md`、`books/ignatius/AGENTS.md`、`books/polycarp-philippians/AGENTS.md`、参考の `jp.md`（`chapter-00-06`）、`research/cruxes.md`（7.1〜12.3 の項目 l. 198–345）、Lightfoot & Harmer 1891 の英訳（djvu l. 11512–11634）、Lake 1913 の本文と英訳（djvu l. 15147–15583）、Lightfoot 1889 Part II vol. 3 の英訳（djvu l. 37590–37713）、口語訳
-- 結果：必須 5、提案 15（直した案は 20 組）。20 組すべてを採った。
+- 結果：必須 6、提案 14（直した案は 20 組）。20 組すべてを採った。
 
 | 節 | 指摘 | 採否 | 理由・直した訳 |
 |---|---|---|---|
