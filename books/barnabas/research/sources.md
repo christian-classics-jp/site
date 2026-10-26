@@ -1,0 +1,21 @@
+# 資料
+
+訳と調査に使った資料。ファイルはリポジトリの `cache/`（git 管理外）に置く。取得し直すときは URL から同じ場所に保存し、SHA-256 の先頭 16 桁で同じものか確かめる。
+
+| 資料 | 権利 | URL | cache のパス | SHA-256（先頭 16 桁） | 取得日 |
+|---|---|---|---|---|---|
+| 底本：Open Apostolic Fathers（Tauber & Macdonald 2019、Lake の本文を校正）のバルナバの手紙 | CC BY-SA 4.0 | https://github.com/jtauber/apostolic-fathers （コミット a07f920） | `cache/open-apostolic-fathers/texts/012-barnabas.txt` | cca51c5f5ed600e7 | 2026-10-25 |
+| Kirsopp Lake, The Apostolic Fathers I（Loeb、1912）。底本の印刷版。脚注に異読。バルナバの序論は djvu l. 16681–16837、本文と英訳は l. 16838–20378（左にギリシア語、右に英訳のページが交互に並ぶ） | パブリックドメイン | https://archive.org/details/apostolicfathers0001kirs | `cache/archive.org/apostolicfathers0001kirs/apostolicfathers0001kirs_djvu.txt` | 3c44c12995efedfa | 2026-10-25 |
+| J. B. Lightfoot & J. R. Harmer, The Apostolic Fathers（1891）。バルナバの序論（djvu l. 13062–13300 ごろ）、本文（l. 13300–14865）、英訳（l. 14866–15800） | パブリックドメイン | https://archive.org/details/a590752000clemuoft | `cache/archive.org/a590752000clemuoft/a590752000clemuoft_djvu.txt` | 20b617bbbad2fc61 | 2026-10-25 |
+| O. von Gebhardt & A. Harnack, Barnabae epistula graece et latine（Patrum apostolicorum opera I.2、第 2 版、1878）。序論（ラテン語）、ギリシア語本文と古ラテン語訳、校注、注解。本文は djvu l. 4915 から | パブリックドメイン | https://archive.org/details/barnabaeepistul00gebhgoog | `cache/archive.org/barnabaeepistul00gebhgoog/barnabaeepistul00gebhgoog_djvu.txt` | dcd370d6707994c8 | 2026-10-26 |
+| A. Hilgenfeld, Barnabae epistula（第 2 版、1877）。ギリシア語本文、古ラテン語訳、校注、注解。本文は djvu l. 2315 から | パブリックドメイン | https://archive.org/details/barnabaeepistul00hilggoog | `cache/archive.org/barnabaeepistul00hilggoog/barnabaeepistul00hilggoog_djvu.txt` | 06a6916375732b0e | 2026-10-26 |
+| W. Cunningham, A Dissertation on the Epistle of S. Barnabas（1877）。ギリシア語本文、ラテン語訳、英訳。本文は djvu l. 5869 から | パブリックドメイン | https://archive.org/details/adissertationon00cunngoog | `cache/archive.org/adissertationon00cunngoog/adissertationon00cunngoog_djvu.txt` | 8e492df93018a9ad | 2026-10-26 |
+| H. Windisch, Der Barnabasbrief（Handbuch zum Neuen Testament, Ergänzungsband III、1920）。独訳と注解 | パブリックドメイン（著者は 1935 年没） | https://archive.org/details/derbarnabasbrief00winduoft | `cache/archive.org/derbarnabasbrief00winduoft/derbarnabasbrief00winduoft_djvu.txt` | 018c684916819eb9 | 2026-10-26 |
+| H. B. Swete, The Old Testament in Greek according to the Septuagint I（1896）。創世記〜列王紀 | パブリックドメイン | https://archive.org/details/oldtestamentingr01swetuoft | `cache/archive.org/oldtestamentingr01swetuoft/oldtestamentingr01swetuoft_djvu.txt` | ec01d2d2ff795aa3 | 2026-10-26 |
+| H. B. Swete, The Old Testament in Greek according to the Septuagint II（1896）。歴代誌〜トビト記（詩篇を含む） | パブリックドメイン | https://archive.org/details/oldtestamentingr02swetuoft | `cache/archive.org/oldtestamentingr02swetuoft/oldtestamentingr02swetuoft_djvu.txt` | 03494c93e62c1672 | 2026-10-26 |
+| H. B. Swete, The Old Testament in Greek according to the Septuagint III（1896）。預言書 | パブリックドメイン | https://archive.org/details/theoldtestamenti03swetuoft | `cache/archive.org/theoldtestamenti03swetuoft/theoldtestamenti03swetuoft_djvu.txt` | 4f7fa262c0637272 | 2026-10-26 |
+| Lake 1912 のスキャン画像（p. 340〜366 の偶数ページ。1〜7 章のギリシア語本文、脚注、欄外の確認に使用。印刷ページ＋19 が画像番号） | パブリックドメイン | https://archive.org/download/apostolicfathers0001kirs/page/n359.jpg （同じく n361〜n385 の奇数番号） | `cache/archive.org/apostolicfathers0001kirs/pages/n359.jpg`〜`n385.jpg`（奇数番号） | n359 603c4ada3435e129、n361 b84efc7ec67f79d8、n363 19a35909a769874e、n365 681cbb6c73134fb6、n367 6e36f84961955502、n369 64b9b9349e10756a、n371 ec8c870c2401835a、n373 8d59193c214bcf3e、n375 65dcbd760406afb1、n377 529a520327e4a110、n379 08dfeb8175f68947、n381 cd666f173cb9bb83、n383 142229dd9ffad23a、n385 4d6ad15b439a02c5 | 2026-10-26 |
+| Lightfoot & Harmer 1891 のスキャン画像（p. 245、246。3.1〜4.9 の本文と 4.6 の校注の確認に使用。印刷ページ＋17 が画像番号） | パブリックドメイン | https://archive.org/download/a590752000clemuoft/page/n262.jpg （同じく n263） | `cache/archive.org/a590752000clemuoft/pages/n262.jpg`、`n263.jpg` | n262 e44e4022577894a9、n263 3ceda9f98a36f6eb | 2026-10-26 |
+| 口語訳聖書（1955 年版）の本文。FujiHaruka/bible-api の `mysql/sql/create-table.sql.tar.gz` | 1955 年版の本文のみ（日本聖書協会が後に訂正した語句は含まない） | https://github.com/FujiHaruka/bible-api | `../bible-api/mysql/sql/create-table.sql.tar.gz`（リポジトリの外） | 2961c5ac10691409 | 2026-10-26 |
+
+archive.org の資料は OCR テキスト（`_djvu.txt`）。ギリシア語の OCR は崩れていることが多いので、読みを確かめるときはスキャン画像も見る。
