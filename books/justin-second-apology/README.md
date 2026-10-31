@@ -19,5 +19,5 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/rauschen-1911.txt` と各
 | 節 | 章 | 訳 |
 |---|---|---|
 | chapter-01-05 | 1〜5 章 | [x] |
-| chapter-06-10 | 6〜10 章 | [ ] |
+| chapter-06-10 | 6〜10 章 | [x] |
 | chapter-11-15 | 11〜15 章 | [ ] |
