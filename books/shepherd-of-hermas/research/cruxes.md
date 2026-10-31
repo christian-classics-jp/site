@@ -1,6 +1,6 @@
-# 校訂上の論点（第一〜第四の幻、第五の啓示、第一〜第十二の戒め、第一〜第九のたとえ）
+# 校訂上の論点（第一〜第四の幻、第五の啓示、第一〜第十二の戒め、第一〜第十のたとえ）
 
-『ヘルマスの牧者』第一〜第四の幻、第五の啓示、第一〜第十二の戒め、第一〜第九のたとえ（底本のラベル 1.0.0〜26.33.3）の本文で、写本・古代訳・引用の読みが分かれる箇所と、本文の成り立ちにかかわる箇所、聖書の言い回しの形が訳に影響する箇所の一覧。訳は底本（Open Apostolic Fathers。Lake 1913 の本文）の読みのとおりに行い、ほかの読みは記録にとどめる。訳注は、ほかの読みを知ると一般の読者の理解が変わる箇所にだけ付ける。
+『ヘルマスの牧者』第一〜第四の幻、第五の啓示、第一〜第十二の戒め、第一〜第十のたとえ（底本のラベル 1.0.0〜27.4.5）の本文で、写本・古代訳・引用の読みが分かれる箇所と、本文の成り立ちにかかわる箇所、聖書の言い回しの形が訳に影響する箇所の一覧。訳は底本（Open Apostolic Fathers。Lake 1913 の本文）の読みのとおりに行い、ほかの読みは記録にとどめる。訳注は、ほかの読みを知ると一般の読者の理解が変わる箇所にだけ付ける。
 
 略号と資料の所在は次のとおり。資料の URL と取得情報は [sources.md](sources.md) にある。「l.」は各資料の OCR テキスト（`_djvu.txt`）の行番号。「Lake スキャン p.」は Lake 1913 の印刷ページで、画像は `cache/archive.org/apostolicfathers02lakeuoft/pages/n<印刷ページ＋9>.jpg`（ギリシア語は偶数ページで、脚注に異読、左の欄外に聖書の箇所がある）。「Hg スキャン p.」は Hilgenfeld 1881 の印刷ページで、画像は `cache/archive.org/hermaepastorgrc00lxgoog/pages/n<印刷ページ＋44>.jpg`。「L–H スキャン p.」は Lightfoot & Harmer 1891 の印刷ページで、画像は `cache/archive.org/a590752000clemuoft/pages/n<印刷ページ＋17>.jpg`。
 
@@ -10,6 +10,7 @@
 - Pam：アマースト・パピルス 190。幻では 1.1.2〜1.3.1、3.12.3、3.13.3〜4、第十二の戒めでは 1.1、1.3 を含む（Lake スキャン p. 4、djvu l. 505–515）。第九のたとえでは 26.2.1〜26.2.2、26.2.4〜26.2.5、26.12.2〜26.12.3、26.12.5、26.17.1、26.17.3、26.30.1〜26.30.4 を含む（同 l. 507–512）。Lake の脚注は P^Amh と書く。
 - Pox：オクシリンコス・パピルス 1172（たとえ 2.4〜10）。Pber：ベルリン・パピルス 5513（たとえ 2.7〜10、4.2〜5）。H：ハンブルクの羊皮紙断片（たとえ 4.6〜7、5.1〜5）。どれも Lake の資料一覧による（Lake djvu l. 495–529）。
 - P6789：ベルリン・パピルス 6789（たとえ 8.1.1〜12。底本 25.1.1〜25.1.12）。Lake の資料一覧による（Lake djvu l. 525–526）。Lake の脚注は PBerl と書く。
+- Pox404：オクシリンコス・パピルス 404（第十のたとえの断片）。上の Pox（1172）とは別のもの。Lake の資料一覧は範囲を「たとえ 10.3.2〜5」とし（Lake djvu l. 517–521）、Lake の脚注は P^Ox と書く（Lake スキャン p. 302）。翻刻者の Grenfell & Hunt は表を 10.3.2〜3.5（底本 27.3.2〜27.3.5）、裏を 10.4.3〜4.4 の初め（底本 27.4.3〜27.4.4）とする（Oxyrhynchus Papyri III djvu l. 1226–1249、1350、1406）。「Pox404 スキャン p.」は Oxyrhynchus Papyri III の印刷ページで、画像は `cache/archive.org/oxyrhynchuspapyr03gren/pages/n<印刷ページ＋15>.jpg`。
 - L1：古ラテン語訳（いわゆるウルガタ。Hg の v.）。L2：パラティナ写本のラテン語訳（Hg の p.）。L は両者の一致（Lake djvu l. 547–556）。
 - E：エチオピア語訳（Hg の ae.）（Lake djvu l. 558–560）。
 - 引用：アレクサンドリアのクレメンス、オリゲネス、偽アタナシオス、アンティオコス（Lake djvu l. 568–571、L–H djvu l. 16083–16089）。
@@ -2309,6 +2310,176 @@
 - 訳での扱い：訳注は付けない。formae は 26.10.1〜26.10.2 の訳語「跡」に揃える。`// ` メモに 26.10.1〜26.10.2 を挙げる。
 - 確かめた資料：Lake スキャン p. 296、djvu l. 14118–14153。Hg djvu l. 14090–14197、21024–21040。L–H djvu l. 23269–23285。
 
+## 写本の伝わり方（第十のたとえ）
+
+- 第十のたとえ（底本 27.0.0〜27.4.5）は、ギリシア語の写本では残らない。A は 26.30.2 で終わっている（第九のたとえ 16〜33 章の「写本の伝わり方」を見よ）。Lake、L–H、Hg 1881 はいずれも全体を L1 のラテン語で印刷する（Lake スキャン p. 298〜304、djvu l. 14206–14506。L–H スキャン p. 399〜402、djvu l. 23288–23402。Hg スキャン p. 134〜137、djvu l. 14205–14457）。
+- 例外は 27.3.3 の後半から 27.3.5 の λέγει αὐταῖς までで、Lake はここだけ Pox404 のギリシア語を印刷し、脚注で出どころを示す（Lake スキャン p. 302、djvu l. 14410–14434）。L–H と Hg 1881 はパピルスの刊行（Oxyrhynchus Papyri 第 3 巻）より前の版なので、ここも L1 で印刷する。
+- Pox404：Grenfell & Hunt によれば、パピルスの冊子本の一葉の 3 つの断片で、3 世紀末か 4 世紀の筆跡。断片をヘルマスの失われた結びと見分けたのは V. Bartlet。Pam とともに、シモニデスが作った A の最後の葉のギリシア語が偽作であることを示す。本文は、現存の古い訳のもとになった本文と細かな点で多く違うらしく、確かに復元できるのは表の数行だけで、裏はほとんど読めない（Oxyrhynchus Papyri III djvu l. 1226–1249、Pox404 スキャン p. 8）。表の 1〜11 行（10 行目は失われている）は 27.3.2 から 27.3.3 の前半に当たる断片的な語で、12〜22 行が Lake の印刷するギリシア語の部分に当たる。裏の 40〜42 行は 27.4.3 の終わりから 27.4.4 の初めに当たる（Pox404 スキャン p. 8〜9）。Lake は表の 1〜11 行と裏を本文に使わない。
+- L1 の写本の略号（G、Aug.、Cus.、Vind.1、Vind.2、D、Lb.、Vat. など）は Hg の序論にある（Hg djvu l. 1125–1152）。L–H は 27.2.4 で、ケンブリッジ大学図書館の写本 Dd. IV. 11 の読みを採る（L–H スキャン p. 400、djvu l. 23344）。
+- L2 と E も全体を含む。この巻の L2 と E の読みは、Hg の校注と、Grenfell & Hunt が 27.3.2〜27.3.5 と 27.4.3 について引くラテン語の本文でしか見ていない（Oxyrhynchus Papyri III djvu l. 1350–1380、1406–1413）。
+- 構成：Hg は、第十のたとえを、第八〜第十のたとえを書き足した「第二のヘルマス」による結びとし、第五の啓示（底本 5.1.1〜5.1.7）をなぞったものと見る（Hg djvu l. 1882–1892、21044）。Hg の校注は、題の「Similitudo X」が L1 と L2 にあり E にないことを記し、実際には結びだと注する（Hg スキャン p. 134、djvu l. 14247–14248）。Hg が引く Harnack は、L2 が第九のたとえの最後と第十のたとえの最後の両方に AMHN を置き、Vat. も第十のたとえの前を題の分より広く空けていることから、第五の啓示 5.1.5 の「そのほかのもの」（τὰ δὲ ἕτερα）は第十のたとえを指すと考えた。Hg は、第十のたとえだけがそれに当たるわけではないとする（Hg djvu l. 16683–16702。5.1.5 の項も見よ）。読者への影響：小。訳注は付けない。
+
+---
+
+### 27.0.0〜27.1.1 第十のたとえの題と、あの御使い（Similitudo X の有無、nuntius ille が誰か。第五の啓示との並行）
+- 底本（Lake）：27.0.0 Similitudo X 27.1.1 Postquam perscripseram librum hunc, venit nuntius ille, qui me tradiderat huic pastori, in domum, in qua eram, et consedit supra lectum, et adstitit ad dexteram hic pastor. Deinde vocavit me et haec mihi dixit:
+- ほかの読み：
+  - 題は L1 と L2 にあり、E にない。Hg 1881 は題を角かっこに入れる（Hg スキャン p. 134、djvu l. 14205、14247–14248）。L–H は「Similitudo decima」（L–H スキャン p. 399、djvu l. 23288）。
+  - nuntius を Hg 1881 は nuncius と綴る（Hg djvu l. 14207）。本文の異読は校注に挙がらない。
+- 文意：
+  - 「あの御使い」は、ヘルマスを牧者にゆだねた者で、第五の啓示の「最も尊い御使い」（5.1.2）、第七のたとえの「栄光ある御使い」（24.1.1〜24.1.3）と同じ役を持つ。Hg は、第五の啓示の注で、第十のたとえの「あの御使い」を 5.1.2〜5.1.3 の御使いと並べる（Hg djvu l. 16630–16636）。
+  - Harnack は、第五の啓示で神の子自身が現れるのと同じだとして、この御使いを神の子と取り、Funk も同意する。Hg は、第二のヘルマスが天使の長である神の子の代わりにミカエル（第八のたとえ 3.3。底本 25.3.3）を置いたことはすでに見た、と注する（Hg スキャン p. 225、djvu l. 21046–21049）。Hg は別の箇所で、第二のヘルマスはミカエルを神の子より低い御使いとして置いたと述べる（Hg djvu l. 1886–1889、19100–19122）。第五の啓示の項のとおり、Hg は以前の著作で 5.1.2 の御使いと 27.2.2 の御使いをキリスト自身、Zahn はミカエルと取り、Harnack は両方を結びつけた（Hg djvu l. 16634–16648）。
+  - Lake の英訳の欄外の見出しは、この場面を御使いの最後の幻とする（Lake スキャン p. 299、djvu l. 14293–14295）。
+- 出典と並行：第五の啓示 5.1.1〜5.1.4（牧者が来て寝床に座り、最も尊い御使いからつかわされたと言う）、24.1.1〜24.1.3、25.3.3、26.1.3（栄光ある御使い）。
+- 読者への影響：中 — 異読はないが、「あの御使い」が誰かは注解者の間で説が分かれ、第五の啓示や第七・第八のたとえとのつながりに読者が引っかかる。
+- 訳での扱い：訳注は付けない。nuntius は 26.33.1 の nuntius paenitentiae「悔い改めの御使い」に揃えて「御使い」とする。`// ` メモに、5.1.2 の「最も尊い御使い」と同じ方を指すと読めること、この御使いを神の子と取る注解者と、ミカエルと取る注解者がいることを「〜と取る注解者がいる」の形で書く。題は底本どおり「第十のたとえ」とする（本の AGENTS.md の形）。
+- 確かめた資料：Lake スキャン p. 298・299、djvu l. 14200–14256、14293–14295。Hg スキャン p. 134・225、djvu l. 1882–1892、14205–14248、16630–16648、19100–19122、21044–21049。L–H スキャン p. 399、djvu l. 23288–23295。
+
+### 27.1.2 だれの戒めか（in mandatis huius……quae dedi tibi、Hg の his と haec、L2 の iniunxi）
+- 底本（Lake）：Tradidi te, inquit, et domum tuam huic pastori, ut ab eo protegi possis. Ita, inquam, domine. Si vis ergo protegi……successum autem habere in omni opere bono atque verbo et omnem virtutem aequitatis, in mandatis huius ingredere, quae dedi tibi, et poteris dominari omni nequitiae. 27.1.3 Custodienti enim tibi mandata huius……
+- ほかの読み：
+  - L–H も in mandatis huius……quae dedi tibi と mandata huius（L–H スキャン p. 399、djvu l. 23299–23301）。Hg 1881 は in mandatis his（これらの戒めのうちを）と mandata haec（これらの戒めを）と印刷し、校注にこの違いを挙げない（Hg スキャン p. 134、djvu l. 14214–14216）。
+  - quae dedi tibi, et poteris dominari omni nequitiae は L1（Gh も同じ）。L2 は quae iniunxi tibi（わたしがあなたに課した）、E は「わたしが命じた彼の戒めのうちを歩み、あらゆる義を見いだせる」の意味（Hg djvu l. 14259–14263）。どの証人も、戒めを与えた者を話し手（御使い）自身とする。
+  - in omni opere bono atque verbo et omnem virtutem aequitatis を、L2 は「あらゆる善とあらゆる真理の力のうちに」、E は「あらゆる良いわざと、あらゆる良い義の言葉のうちに」の意味に訳す（Hg djvu l. 14254–14258）。
+  - Ita, inquam, domine を、E は「わたしは彼に言った。はい、主よ」、L2 は「わたしは彼に言った。そうなりますように、主よ」の意味にする（Hg djvu l. 14249–14253）。
+- 文意：Lake の英訳は quae dedi tibi の dedi を三人称で訳しているが、Lake のラテン語本文は一人称の dedi で、脚注もない（Lake スキャン p. 298・299、djvu l. 14216、14264–14265）。L–H の英訳は一人称（L–H djvu l. 26968）。huius は牧者を指す（Harnack は 27.1.3 の huius を「あなたの牧者の」と注する。Hg スキャン p. 225、djvu l. 21051–21053）。牧者の戒めを「わたしが与えた」と御使いが言う形になる。
+- 出典と並行：第五の啓示 5.1.5〜5.1.7（牧者が戒めとたとえを書くよう命じる）。
+- 読者への影響：小 — 戒めは牧者が語ったものだが、御使いがそれを自分の与えたものとして言う。どの証人もこの形なので、底本どおり訳せばよい。
+- 訳での扱い：訳注は付けない。huius（牧者）と dedi（話し手の御使い）の人称を崩さずに訳す。virtus aequitatis の aequitas は本の AGENTS.md どおり「義」（δικαιοσύνη）。`// ` メモは不要。
+- 確かめた資料：Lake スキャン p. 298、djvu l. 14210–14218。Hg スキャン p. 134・225、djvu l. 14209–14263、21051–21053。L–H スキャン p. 399、djvu l. 23294–23302。
+
+### 27.1.3 maturitas と modestia（σεμνότης の訳し戻し、potensne、dispicitis）
+- 底本（Lake）：……successus vero in omni bono negotio te sequetur. Maturitatem huius et modestiam suscipe in te et dic omnibus, in magno honore esse eum et dignitate apud dominum et magnae potestatis eum praesidem esse et potentem in officio suo. Huic soli per totum orbem paenitentiae potestas tributa est. Potensne tibi videtur esse? Sed vos maturitatem huius et verecundiam, quam in vos habet, despicitis.
+- ほかの読み：
+  - 一つ目の maturitatem huius……in te は L1。L2 は「彼の慎みと敬いをたっとびなさい」（modestiam et venerationem huius honora）、E は「彼の柔和さと義をあがめなさい」の意味（Hg スキャン p. 134、djvu l. 14263–14269）。二つ目の maturitatem huius et verecundiam を、L2 は「彼の慎みと恥じらい」（modestiam verecundiamque eius）、E は「あなたがたを敬う彼の柔和さ」の意味にする（Hg スキャン p. 135、djvu l. 14314–14320）。
+  - potensne（力ある者と見えるか）は L1（Gh も）、L2、E も同じ向き。Dressel と Hg 1866 は potestasne とした（Hg djvu l. 14314–14315）。
+  - despicitis は Lake と Hg。L–H は dispicitis と綴る（L–H スキャン p. 400、djvu l. 23314）。
+  - in omni bono negotio の bono は L1 と E にあり、L2 にない（Hg djvu l. 14264）。
+- 文意：Hg は、自分の初版から maturitas を τὴν σεμνότητα と訳し戻しており、Harnack と Funk もそれに従ったと注する。L2 は venerationem、E は iustitiam にあたる語を置く（Hg スキャン p. 225、djvu l. 21051–21052）。Lake の英訳の注は、maturitas は字義どおりには「熟すこと」、modestia は σωφροσύνη か εὐταξία（ふるまいの節度。ストア派がとくに使った語）の訳だろうと言う（Lake スキャン p. 299、djvu l. 14285–14287）。
+- 出典と並行：16.1.8〜16.1.10（真の預言者の霊の σεμνότης）、5.1.2（σεμνότατος「最も尊い」）。
+- 読者への影響：小 — maturitas は字義のままでは意味が通りにくく、元のギリシア語の推定によって訳語が変わる。
+- 訳での扱い：訳注は付けない。maturitas は Hg・Harnack・Funk の訳し戻しに従って σεμνότης と見なし、本の AGENTS.md の訳語「品位」を使う。modestia と verecundia は訳し分ける。`// ` メモに、maturitas は字義どおりには「熟すこと」で、元のギリシア語を σεμνότης（品位）と見る注解者がいることを書く。
+- 確かめた資料：Lake スキャン p. 298・299、djvu l. 14218–14226、14268–14287。Hg スキャン p. 134・135・225、djvu l. 14216–14269、14281–14282、14314–14318、21051–21053。L–H スキャン p. 399・400、djvu l. 23302–23314。
+
+### 27.2.1〜27.2.3 牧者に尋ねてください（in quo と ex quo、de his、quia と quod、iam antea、magnalia domini。使徒 2・11）
+- 底本（Lake）：27.2.1 Dico ei: Interroga ipsum, domine, ex quo in domo mea est, an aliquid extra ordinem fecerim, ex quo eum offenderim. 27.2.2 Et ego, inquit, scio nihil extra ordinem fecisse te……Bene enim de te hic apud me existimavit. Tu autem ceteris haec verba dices, ut et illi, qui egerunt aut acturi sunt paenitentiam, eadem quae tu sentiant et hic apud me de his bene interpretetur et ego apud dominum. 27.2.3 Et ego, inquam, domine, omni homini indico magnalia domini; spero autem, quia omnes, qui antea peccaverunt, si haec audiant, libenter acturi sunt paenitentiam vitam recuperantes.
+- ほかの読み：
+  - 27.2.1 二つ目の ex quo（それによって）を、L–H は in quo とする（L–H スキャン p. 400、djvu l. 23316–23318）。Hg は Lake と同じ ex quo（Hg スキャン p. 135、djvu l. 14284–14285）。
+  - 27.2.2 de his は L1 にあり、L2 にない。bene は L1 と L2 にあり、E にない。enim を L2 は autem、aut acturi sunt は L1 と E にあり L2 にない（Hg djvu l. 14318–14324）。L–H は hic apud me his bene interpretetur と de を持たない（L–H スキャン p. 400、djvu l. 23323）。
+  - 27.2.3 Lake は spero autem, quia omnes, qui antea peccaverunt, si haec audiant, libenter acturi sunt……と、quia を omnes の前に置き、libenter の前に接続詞を置かない。L–H は spero autem omnes qui jam antea peccaverunt, si haec audiant, quod libenter acturi sunt……（L–H スキャン p. 400、djvu l. 23325–23327）。Hg 1881 は spero autem, omnes, qui iam antea peccaverunt, si haec audient, quod libenter acturi sunt……で、iam antea は Hg の推定。L1 の写本は amant ea et（G、Vind.1）、tam ante（Lb.）、iam ante（D、Vind.2、Hg 1866）、ante（Vat.）と分かれ、antea は Gh と F。quod は D と Vat. にあり（D は qui iam の前にも quod を置く）、Gh と F は持たない（Hg スキャン p. 135、djvu l. 14325–14333）。Lake の quia の出どころは校注からは分からない（未確認を見よ）。
+- 文意：Harnack は 27.2.2 の「わたしは主のもとで」の「主」を父なる神と取り、すぐ後でヘルマスがこの御使いを κύριε（主よ）と呼ぶのは重いと注した。Hg は、ヘルマスは牧者もいつも κύριε と呼ぶので、「主」を神の子と取ってもよいとし、第八のたとえ 3.2 と 27.2.4 を参照させる（Hg スキャン p. 225、djvu l. 21054–21061）。Harnack は 27.2.2 を、ヘルマスが自分をほめているところとする（同 l. 21054）。Harnack は 27.2.3 の magnalia を τὰ μεγαλεῖα の訳とし、27.4.1、幻 4.1.8、4.2.5、第九のたとえ 18.2（底本 26.18.2）を挙げる（同 l. 21062–21063）。
+- 出典と並行：Lake の欄外は 27.2.3 の magnalia domini に使徒 2・11 を挙げる（Lake スキャン p. 300、djvu l. 14298）。口語訳使徒 2・11「神の大きな働き」。この本の訳では 4.1.8、4.2.5、26.18.2 の μεγαλεῖα を「大いなるわざ」とした。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。magnalia domini は 4.2.5 などに揃えて「主の大いなるわざ」とし、`// ` メモに 4.2.5 と使徒 2・11 を挙げる（使徒 2・11 の文言には揃えない）。27.2.2 の apud dominum は「主のもとで」とし、主を父なる神と取るか神の子と取るかで注解者が分かれることを `// ` メモに書く。ヘルマスの呼びかけ domine は本の AGENTS.md どおり「主よ」。
+- 確かめた資料：Lake スキャン p. 298・300、djvu l. 14232–14233、14304–14315。Hg スキャン p. 135・225、djvu l. 14284–14297、14314–14333、21054–21063。L–H スキャン p. 400、djvu l. 23316–23327。口語訳 使徒 2・11。
+
+### 27.2.4 戒めを守らない者たち（illum adversus、faciunt と aversantur、L2 と E の一文、hic の指すもの、priorum）
+- 底本（Lake）：Permane ergo, inquit, in hoc ministerio et consumma illud. Quicumque autem mandata huius efficiunt, habebunt vitam, et hic apud dominum magnum honorem. Quicumque vero huius mandata non servant, fugiunt a sua vita et illum adversus; nec mandata eius sequuntur, sed morti se tradunt et unusquisque eorum reus fit sanguinis sui. Tibi autem dico, ut servias mandatis his, et remedium peccatorum habebis.
+- ほかの読み：
+  - illum adversus（動詞がない）は、L1 の写本（D、Lb.、Vat. など）の et adversus illum による形。Lake は脚注で、Hilgenfeld が aversantur illum（彼に背を向ける）と直すことだけを記す（Lake スキャン p. 300、djvu l. 14327–14337）。Hg 1881 は et aversantur illum（Hg 1866 と F も同じ）、D、Lb.、Vat. などと Gh は et adversus illum（Hg スキャン p. 135、djvu l. 14298、14342–14344）。
+  - L–H は et faciunt adversus illum（彼に逆らって行う）と組み、faciunt はケンブリッジ大学図書館の写本 Dd. IV. 11 だけにあって、ほかの写本にないとする。L–H はさらに、L1 の写本はここで似た語尾に目を移して数語（hic autem apud deum habet honorem suum. quicumque ergo faciunt adversus illum のような語）を落としたとし、L2 と E を参照させる（L–H スキャン p. 400、djvu l. 23331–23332、23344–23346）。
+  - L2 と E は、ここに「しかし、この者（牧者）は神のもとで自分の誉れを持っている。だから、彼を軽んじる者は……」にあたる一文を持つ。L2 は hic autem apud deum habet honorem suum. quicunque ergo contemnent eum、E は「彼は主のもとで誉れを受けているが、彼をさげすむ者は」の意味。Hg 1881 は L2 の形を角かっこで本文に入れ、L1 と Gh は持たない（Hg スキャン p. 135、djvu l. 14298–14299、14344–14348）。
+  - fugiunt a sua vita は G、Aug.、Cus.、Vind.1 と Gh、F。D、Lb.、Vat. と Hg 1866 は fugant a se vitam（自分から命を追い払う）、L2 は fugiunt a vita sua、E は「命を持たないだろう」の意味（Hg djvu l. 14334–14342）。
+  - remedium peccatorum の前に、L2 と E は priorum（前の）を持ち、Hg 1881 が角かっこで入れる（Hg スキャン p. 135、djvu l. 14302、14348–14349）。
+  - Hg 1881 は sed を持たず morti se tradunt とし、reus fit を reus erit とする。校注にはこの二つの違いが見当たらない（Hg スキャン p. 135、djvu l. 14299–14301）。L–H は secuntur と綴る（L–H djvu l. 23332）。
+- 文意：「その人（hic）は主のもとで大きな誉れを」の hic を、Lake と L–H の英訳は戒めを行う者と取る（Lake djvu l. 14364–14365、L–H djvu l. 27000）。27.2.2 の hic apud me は牧者を指し、27.1.3 も牧者が主のもとで大きな誉れを持つと言う。L2 と E の一文は、誉れを持つ者を牧者とする。Hg は 27.2.2 の注で、27.2.4 の dominum を神の子と取る見方を示す（Hg djvu l. 21058–21061）。Hg の注は、27.2.4 の in hoc ministerio（この務め）に、第十二の戒め 3.2 などの διακονία を参照させる（Hg スキャン p. 225、djvu l. 21064–21065）。
+- 出典と並行：「自分の血の責任を負う」（reus sanguinis sui）について、Lake・L–H・Hg は聖書の箇所を挙げない。言い回しの近い箇所として、口語訳エゼキエル 33・4〜5「その血は彼のこうべに帰する」「その血は彼自身に帰する」、使徒 18・6「あなたがたの血は、あなたがた自身にかえれ」がある（参考）。27.4.3 の reus fit sanguinis eius も見よ。
+- 読者への影響：中 — 底本の illum adversus は動詞がなく、L1 の写本で一文が落ちたためと見る校訂者がいる。底本のままでも「彼に背く」の意味には取れる。hic を牧者と取るか、戒めを行う者と取るかで、「主のもとで大きな誉れ」を持つ者が変わる。
+- 訳での扱い：訳注は付けない（読者は「彼に背く」と読めば足り、落ちた一文を知らなくても文意は変わらない）。底本の illum adversus は、Hg の推定に近い「彼に背を向ける」の意味で訳す。hic の訳し方は訳者が決める（底本の語順では、戒めを行う者たちが「命」と並べて「大きな誉れ」を持つとも、牧者が持つとも取れる）。`// ` メモに、「彼に背く」の句は古いラテン語訳の写本で形が崩れていて、ほかの古い訳には「この牧者は神のもとで誉れを持つ。彼を軽んじる者は」にあたる一文があることを書く。reus sanguinis sui の並行（エゼキエル 33・4〜5）を挙げるなら、文言は揃えない。
+- 確かめた資料：Lake スキャン p. 300・301、djvu l. 14315–14337、14360–14370。Hg スキャン p. 135・225、djvu l. 14294–14302、14334–14349、21058–21065。L–H スキャン p. 400、djvu l. 23328–23335、23344–23346、26998–27004。口語訳 エゼキエル 33・4〜5、使徒 18・6。
+
+### 27.3.1〜27.3.2 おとめたちを住まわせる（omnes と omnem、habuerint と εὕρωσι、nullum と nullam、Pox404 の表の前半）
+- 底本（Lake）：27.3.1 Misi autem tibi has virgines, ut habitent tecum; vidi enim eas affabiles tibi esse…… 27.3.2 Tu tantum communda domum tuam; in munda enim domo libenter habitabunt; mundae enim sunt atque castae et industriae et omnes habentes gratiam apud dominum. Igitur si habuerint domum tuam puram, tecum permanebunt. Sin autem pusillum aliquid inquinationis acciderit, protinus a domo tua recedent; hae enim virgines nullum omnino diligunt inquinationem.
+- ほかの読み：
+  - 27.3.1 vidi enim eas affabiles tibi esse は L1。L2 は「あなたに好意を持っている」（benevolas）、E は「あなたが彼女たちに守られ、助けられているのを見た」の意味。quo magis possis huius mandata servare を L2 は「これらの戒めを守れるように」、E は「彼の戒めを守れるように」の意味にする。tantum を L2 は tantum modo、E は autem、communda を L2 は para（整えよ）とする（Hg スキャン p. 135、djvu l. 14349–14365）。
+  - 27.3.2 omnes habentes gratiam は L1、L2 は omnem（cunctam）、E は持たない。Hg 1881 は L2 に従って et omnem habentes gratiam（あらゆる恵みを持つ）と組む（Hg スキャン p. 136、djvu l. 14373、14419–14420。Oxyrhynchus Papyri III djvu l. 1364）。L–H は omnes（L–H スキャン p. 401、djvu l. 23354）。
+  - nullum omnino diligunt inquinationem は Lake の印刷（Lake スキャン p. 302）。L–H と Hg は nullam（女性形で inquinationem に合う）（L–H スキャン p. 401、djvu l. 23357。Hg スキャン p. 136、djvu l. 14377）。
+  - Pox404 の表 1〜8 行は、この節のギリシア語の断片で、Grenfell & Hunt は「主のもとで」にあたる ἐν κυρίῳ、「（あなたの家を清いと）見いだすなら」にあたる [καθαρὸν τὸν οἶ]κον σου εὕρωσι、「あなたと共にとどまる」にあたる [μετὰ σοῦ παρα]μενοῦσιν、「去る」にあたる [ἀποχ]ωρήσουσιν、「このおとめたちは」にあたる [αἱ γὰρ πα]ρθένοι αὗται、「愛する」にあたる [ἀ]γαπῶσιν を読み、4 行目の語（pusillum か inquinationis か acciderit にあたるはずの語）は読み解けないとする（Pox404 スキャン p. 8〜9、Oxyrhynchus Papyri III djvu l. 1263–1349、1383–1394）。L1 と L2 の habuerint（持つなら）に対し、パピルスは εὕρωσι（見いだすなら）、E は invenerint（見いだすなら）（Oxyrhynchus Papyri III djvu l. 1350–1380）。Lake はこの部分を本文に採らない。
+- 文意：Harnack は 27.3.1 のおとめたちに第九のたとえ 10、11、15 章（底本 26.10〜26.11、26.15）を、27.3.2 の「家を清めよ」に幻 1.3、2.2 を挙げ、Hg は第七のたとえ 2（底本 24.1.2）を加える（Hg スキャン p. 225、djvu l. 21066–21069）。
+- 出典と並行：26.10.6〜26.11.8（おとめたちと過ごした夜）、26.15.1〜26.15.3（おとめたちの名）、24.1.2（家の者たちを清める）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。nullum は nullam と読む。habuerint は底本のラテン語どおり訳し、`// ` メモに、ギリシア語の断片と古いエチオピア語訳は「見いだすなら」と読むことを書いてもよい（提案）。おとめたちは本の AGENTS.md どおり「おとめ」。
+- 確かめた資料：Lake スキャン p. 300・302、djvu l. 14329–14335、14396–14407。Hg スキャン p. 135・136・225、djvu l. 14304–14365、14373–14377、14419–14420、21066–21069。L–H スキャン p. 400・401、djvu l. 23336–23358。Pox404 スキャン p. 8・9、Oxyrhynchus Papyri III djvu l. 1263–1394。
+
+### 27.3.3〜27.3.4 ギリシア語の断片の部分（Pox404、ὥσπερ δέ と καὶ ὥσπερ、οἶδα と video、ἐν καθαρότητι と habitatione munda）
+- 底本（Lake）：27.3.3 Dico ei: Spero me, domine, placiturum eis, ita ut in domo mea libenter habitent semper. καὶ ὥσπερ οὗτος, ᾧ παρέδωκάς με, οὐ μέμφεταί με, οὐδὲ αὗται μέμψονταί με. 27.3.4 λέγει τῷ ποιμένι· Οἶδα, ὅτι ὁ δοῦλος τοῦ θεοῦ θέλει ζῆν καὶ τηρήσει τὰς ἐντολὰς ταύτας καὶ τὰς παρθένους ἐν καθαρότητι καταστήσει.
+- 資料の出どころとほかの読み：
+  - Lake は 27.3.3 の前半（Dico ei……semper）を L1 で、καὶ ὥσπερ から 27.3.5 λέγει αὐταῖς までを Pox404 で印刷する（Lake スキャン p. 302、djvu l. 14408–14434）。
+  - パピルスは 27.3.3 の前半にもギリシア語の断片を持つ。Grenfell & Hunt は表 8 行目を [λέγω αὐτῷ·] ἐλπ[ί]ζω [κ(ύρι)ε]（「わたしは彼に言った。主よ、望みます」にあたる。ἐλπ と ζω だけが残り、ほかは補い）と読み、11 行目を「（彼女たちが）いつまでも住む」にあたる語と推定する（Pox404 スキャン p. 8・9、Oxyrhynchus Papyri III djvu l. 1263–1349、1395）。Lake はこの部分を使わない。
+  - Grenfell & Hunt の翻刻では、Lake の καὶ ὥσπερ にあたるところは ὥσπε]ρ δέ（ρ と δέ がパピルスに残る）で、καί はない（Pox404 スキャン p. 8、12 行目）。L1 と L2 は et sicut、E は sicut（Oxyrhynchus Papyri III djvu l. 1350–1380）。Lake の καί は脚注がなく、出どころは確かめていない（未確認を見よ）。
+  - 翻刻で読み取れているのは、οὐ [μέμ]φεταί με οὐδὲ αὗται μεμψ[ον]ται με（一部補い）、ποιμένι、οἶδ[α]、θ(εο)ῦ θέλει ζῆ[ν]、τηρήσει τὰ]ς ἐντολὰς τ[α]ύ[τας]、ἐν καθαρότη[τι] など。λέγει τ]ῷ と [ὅτι δοῦλος το]ῦ は補いで、Grenfell & Hunt の補いは ὁ を置かない。Lake の ὁ δοῦλος の ὁ は欠けの中にある（Pox404 スキャン p. 8、13〜18 行目）。
+  - 27.3.4 Οἶδα（知っている）：パピルスは οἶδ[α]（δ は ι から直したらしい）で、L2 と E の scio と一致し、L1 の video（見ている）と違う（Oxyrhynchus Papyri III djvu l. 1397–1399）。L2 は「彼がこれらの戒めを守ることを知っている」の形で、「生きることを望む」にあたる語を持たない。E は「主のしもべが命を望み」の意味（Oxyrhynchus Papyri III djvu l. 1364–1380。Hg djvu l. 14420–14422）。
+  - ἐν καθαρότητι καταστήσει（清さのうちに置く）：E の in puritate と一致し、L1 は habitatione munda conlocaturum（清い住まいに住まわせる）、L2 は in habitationem mundam conlocaturum（Oxyrhynchus Papyri III djvu l. 1400–1402）。
+  - L–H と Hg 1881 は 27.3.3〜27.3.4 を L1 で印刷する：et sicut hic, cui me tradidisti, nihil de me queritur, ita neque illae querentur. ait ad pastorem illum: Video, inquit, servum Dei velle vivere, et custoditurum haec mandata, et virgines has habitatione munda conlocaturum（L–H スキャン p. 401、djvu l. 23358–23364）。Hg 1881 は L2 と E に従って illae の後に [de me] を加える（Hg スキャン p. 136、djvu l. 14380–14385、14420）。L–H の英訳は servum Dei velle vivere を「神のしもべとして生きることを望む」の意味に取る（L–H djvu l. 27022–27023）。
+- 文意：「あなたがわたしを渡したこの方」は牧者を指し、27.1.1〜27.1.2 と第五の啓示 5.1.3〜5.1.4 を受ける。
+- 出典と並行：5.1.3〜5.1.4（牧者にゆだねられた）。
+- 読者への影響：小 — 底本のギリシア語と古いラテン語訳とで細部が違うが（「知っている」と「見ている」、「清さのうちに」と「清い住まいに」）、話の筋は変わらない。
+- 訳での扱い：本の AGENTS.md どおり、ラテン語とギリシア語の部分を一つの訳の行にまとめ、ギリシア語の部分は底本のギリシア語から訳す（οἶδα は「知っている」、ἐν καθαρότητι καταστήσει は「清さのうちに置く」の向き）。καί は底本どおり訳す。訳注は付けない（付けるなら提案、注の案：「この前後の数文はギリシア語の断片が残り、それによって訳した。」〔29 字〕）。`// ` メモに、ギリシア語の部分はパピルスの断片によること、古いラテン語訳では「見ている」「清い住まいに住まわせる」とあることを書く。παραδίδωμι は 5.1.3 の「ゆだねる」に揃える。
+- 確かめた資料：Lake スキャン p. 302・303、djvu l. 14408–14434、14451–14458。Pox404 スキャン p. 8・9、Oxyrhynchus Papyri III djvu l. 1226–1249、1263–1349、1350–1380、1395–1402。Hg スキャン p. 136、djvu l. 14377–14385、14419–14422。L–H スキャン p. 401、djvu l. 23357–23364、27019–27024。
+
+### 27.3.5 御使いがおとめたちを呼ぶ（τῷ ποιμένι の係り方、底本の「…」の欠け、L1 との違い）
+- 底本（Lake）：ταῦτα εἰπὼν τῷ ποιμένι πάλιν παρέδωκέν με καὶ τὰς παρθένους καλέσας … λέγει αὐταῖς· Quoniam video vos libenter in domo huius habitare, commendo eum vobis et domum eius, ut a domo eius non recedatis omnino. Illae vero haec verba libenter audierunt.
+- 資料の出どころとほかの読み：
+  - ギリシア語の部分は Pox404 の表 19〜22 行目で、Grenfell & Hunt は τ]αῦτα εἰ[π]ὼν τῷ [ποιμένι πάλι]ν παρέδ[ω]κέν με [καὶ τὰς παρθέ]νους καλέσας [………λ]έγει αὐταῖς と翻刻する（Pox404 スキャン p. 8）。Quoniam 以下は L1（Lake スキャン p. 302、djvu l. 14415–14420）。
+  - 底本の「…」（Lake の印刷では点の列）は、22 行目の初めの、およそ 9〜10 文字分の欠けにあたる。Grenfell & Hunt は、この欠けた語にあたるものは古い訳のどれにもないと記す（Oxyrhynchus Papyri III djvu l. 1403–1404）。Lake の英訳はこの欠けを訳さずに続ける（Lake djvu l. 14458–14462）。
+  - τῷ ποιμένι（牧者に）の係り方：L1 は haec cum dixisset, iterum pastori illi me tradidit（こう言ってから、再びわたしをあの牧者に渡した）、L2 は haec cum dixisset, rursus eidem pastori me tradidit で、どちらも「牧者に」を「渡した」に係ける。E は「再びわたしを渡した後」で牧者を言わない（Oxyrhynchus Papyri III djvu l. 1350–1380）。Lake の英訳も「渡した」に係ける（Lake djvu l. 14458–14459）。ギリシア語の語順だけなら「牧者にこう言ってから」とも読める。
+  - L–H と Hg 1881 はここも L1 で印刷する：haec cum dixisset, iterum pastori illi me tradidit, et vocavit eas virgines et dixit ad eas（L–H スキャン p. 401、djvu l. 23364–23368。Hg スキャン p. 136、djvu l. 14386–14390）。L–H の英訳も同じ（L–H djvu l. 27024–27026）。
+  - commendo を L–H は conmendo と綴る。Hg は libenter haec verba audierunt と語順を変える（L–H djvu l. 23366。Hg djvu l. 14389–14390）。
+- 文意：27.3.4 で御使いが牧者に話しかけた（λέγει τῷ ποιμένι）後なので、「牧者にこう言ってから」とも取れるが、L1、L2、Lake の英訳はいずれも「再びわたしを牧者に渡した」と取る。
+- 出典と並行：27.1.2、27.3.1（おとめたちをヘルマスのもとに住まわせる）。
+- 読者への影響：中 — 底本のギリシア語には「呼んで」と「言った」のあいだに欠けがあり、何が書かれていたかは分からない。ただし欠けを飛ばしても文は通る。
+- 訳での扱い：訳注は付けない。欠けは訳文に記号を残さず、「おとめたちを呼んで、言った」と続ける。`// ` メモに、原文はパピルスの断片で「呼んで」の後に数文字の欠けがあり、古い訳にはそれにあたる語がないこと、Quoniam 以下はラテン語訳によることを書く。τῷ ποιμένι は L1 と L2 に合わせて「渡した」に係け、メモでもう一つの読み方に触れてもよい（提案）。
+- 確かめた資料：Lake スキャン p. 302・303、djvu l. 14414–14420、14458–14464。Pox404 スキャン p. 8・9、Oxyrhynchus Papyri III djvu l. 1263–1349、1350–1380、1403–1404。Hg スキャン p. 136、djvu l. 14386–14390。L–H スキャン p. 401、djvu l. 23364–23368、27024–27027。
+
+### 27.4.1 だれが言うのか（ille angelus と ille pastor、magnalia domini。使徒 2・11）
+- 底本（Lake）：Ait deinde mihi: Viriliter in ministerio hoc conversare, omni homini indica magnalia domini, et habebis gratiam in hoc ministerio. Quicumque ergo in his mandatis ambulaverit, vivet et felix erit in vita sua; quicumque vero neglexerit, non vivet et erit infelix in vita sua.
+- ほかの読み：
+  - Ait deinde mihi の後に、E は ille angelus（あの御使い）、L2 は ille pastor（あの牧者）を置く。L1 は主語を言わない。Hg 1881 は E に従って [ille angelus] を角かっこで入れる（Hg スキャン p. 136、djvu l. 14392、14425–14426）。Lake と L–H は主語を置かない（L–H スキャン p. 401、djvu l. 23370）。
+  - neglexerit の後に、L2 と E は ea（それを）を持ち、Hg 1881 が角かっこで入れる。in vita sua（一つ目）は L1 と E にあり、L2 にない。infelix を L2 は infestus とする（Hg djvu l. 14396–14397、14425–14429）。
+- 文意：27.3.5 で御使いがヘルマスを牧者に渡し、27.4.5 で寝床から立ち上がるのは御使いなので、L1 の文脈では話し手は御使い。L2 だけが牧者とする。
+- 出典と並行：Lake の欄外は magnalia domini に使徒 2・1 と印刷する（Lake スキャン p. 302、djvu l. 14390）。同じ句の 27.2.3 では使徒 2・11 なので、2・11 の誤植の可能性がある（未確認を見よ）。27.2.3 の項も見よ。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。話し手は御使いとして、文脈で分かるように訳す（主語を補うなら「御使いは」）。magnalia domini は 27.2.3 と同じ訳語。`// ` メモに、古い訳の一つはこの言葉を牧者の言葉とすることを書いてもよい（提案）。
+- 確かめた資料：Lake スキャン p. 302・303、djvu l. 14390、14426–14431。Hg スキャン p. 136、djvu l. 14392–14397、14425–14429。L–H スキャン p. 401、djvu l. 23370–23374。
+
+### 27.4.2〜27.4.3 困っている者を救い出す（句読点、recte facere、in vincula と in vinculo、Pox404 の裏、reus fit sanguinis eius）
+- 底本（Lake）：27.4.2 Dic omnibus, ut non cessent, quicumque recte facere possunt; bona opera exercere utile est illis. Dico autem, omnem hominem de incommodis eripi oportere…… 27.4.3 Qui igitur huiusmodi animam eripit de necessitate, magnum gaudium sibi adquirit. Is enim, qui huiusmodi vexatur incommodo, pari tormento cruciatur atque torquet se qui in vincula est. Multi enim propter huiusmodi calamitates, cum eas sufferre non possunt, mortem sibi adducunt. Qui novit igitur calamitatem huiusmodi hominis et non eripit eum, magnum peccatum admittit et reus fit sanguinis eius.
+- ほかの読み：
+  - 27.4.2 の句読点：Lake と Hg 1881 は possunt の後で文を切り、bona opera exercere を utile est illis の主語とする（「やめないように。善いわざを行うことは彼らに益がある」）（Lake スキャン p. 304、djvu l. 14485–14486。Hg スキャン p. 136、djvu l. 14397–14399）。L–H は dic omnibus ut non cessent, quicumque recte facere possunt, bona opera exercere; utile est illis と組み、bona opera exercere を cessent に係ける（「善いわざを行うことをやめないように。それは彼らに益がある」）（L–H スキャン p. 401、djvu l. 23374–23376）。L–H の英訳も同じ取り方（L–H djvu l. 27034–27035）。
+  - 27.4.3 in vincula（Lake、L–H）は G、Aug. と Gh、F。Cus.、D、Vat.、Vind.2 と Hg 1866、1881 は in vinculo（Hg スキャン p. 136、djvu l. 14405、14434–14435）。adquirit を L2 は未来形 acquiret とする（Hg djvu l. 14430）。
+  - 27.4.3 の最後の文：L2 は「その窮状を知りながら贖い出さない者は」の形で、初めの qui novit igitur は欠けている。E は「その人の殺害者となる」の意味で結ぶ（Hg djvu l. 14435–14436。Oxyrhynchus Papyri III djvu l. 1406–1411）。
+  - Pox404 の裏 40〜42 行目（27.4.3 の終わりと 27.4.4 の初め）は、ὡς μ[ὴ] δυνάμ[ενοι]……ἔνοχοι γείν[ονται] τούτου τοῦ αἵ[μ]ατος· ποι[εῖτε] οὖν と読まれる。Grenfell & Hunt は、パピルスが「その血の責任を負う」を単数（reus）でなく複数（ἔνοχοι）で書き、「大きな罪を犯す」にあたる句を持たず、代わりに古い訳にない分詞句を置いていたらしいとする（Pox404 スキャン p. 8・9、Oxyrhynchus Papyri III djvu l. 1263–1349、1406–1416）。Lake はこの部分を使わない。
+- 文意：Lake の英訳の注は、recte facere は εὖ ποιεῖν のような語の訳で、文脈からは施しの意味で善を行うことだろうと言う（Lake スキャン p. 305、djvu l. 14540–14543）。Harnack は 27.4.2 を施しの勧めとし、27.4.3、第八の戒め 10、第一のたとえ 8、第二のたとえ 5、第九のたとえ 30.5、第五のたとえ 3、第八のたとえ 10.3 を挙げ、さらに『ペテロとパウロの宣教』の「富む者たちよ、悟れ。あなたがたは仕える義務がある。必要より多くを受けたのだから。ほかの人に欠けているものが、あなたがたには余っていることを学べ」にあたる句を引く（Hg スキャン p. 225、djvu l. 21071–21076）。Harnack は de necessitate を「貧しさから」の意味とし、Hg は ἐξ ἀνάγκης と戻す（同 l. 21077–21078）。Hg は 26.30.5 の注でも、富を削ることに 27.4.2〜27.4.3 を挙げる Harnack の説を記す（Hg djvu l. 20977–20980）。
+- 出典と並行：13.1.10（善い行いの一覧。やもめ、みなしご、困っている者を顧み、神のしもべを窮乏から〔ἐξ ἀναγκῶν〕贖い出す。Hg の ἐξ ἀνάγκης の訳し戻しと近い）、18.1.8（土地の代わりに苦しむ魂を買い取る）、19.1.5〜19.1.7（富む人と貧しい人）、26.30.5、25.10.3。27.2.4 の reus sanguinis の項も見よ。
+- 読者への影響：中 — 27.4.2 の句読点で、「善を行える者は（善いわざを）やめるな」の文の形が変わる。27.4.3 の「自ら死を招く」は、困窮による自殺を言う内容で、注解者は特に注しない。
+- 訳での扱い：訳注は付けない。27.4.2 は底本（Lake）の句読点どおり、possunt で切って訳す。recte facere は Lake の注どおり、施しの意味の「善を行う」とし、27.4.4 の facere recte も同じ訳語にする。`// ` メモに、句読点を変えて「善いわざを行うことをやめないように」と読む校訂本があることを書く（L–H の英訳と突き合わせるため）。施しの並行として 18.1.8、19.1.5〜19.1.7 を挙げる。
+- 確かめた資料：Lake スキャン p. 302・304・305、djvu l. 14431–14432、14485–14498、14512–14543。Hg スキャン p. 136・225、djvu l. 14397–14411、14433–14436、20977–20980、21071–21078。L–H スキャン p. 401、djvu l. 23374–23384、27034–27046。Pox404 スキャン p. 8・9、Oxyrhynchus Papyri III djvu l. 1263–1349、1406–1416。
+
+### 27.4.4 塔が完成する前に（accepistis の目的語、L2 と E の加筆、tardatis と tardamini、cum bonis vestris。26.5.1、26.14.2、26.32.1）
+- 底本（Lake）：Facite igitur opera bona, quicumque accepistis a domino, ne, dum tardatis facere, consummetur structura turris. Propter vos enim intermissum est opus aedificationis eius. Nisi festinetis igitur facere recte, consummabitur turris, et excludemini.
+- ほかの読み：
+  - quicumque accepistis a domino の後に、L2 は bonum（善いものを）を持ち、Hg 1881 が角かっこで入れる。L1 にない（Hg スキャン p. 136、djvu l. 14410–14411、14437）。L–H の英訳は、かっこに入れて目的語を補う（L–H djvu l. 27054）。
+  - consummetur structura turris の後に、L2 は「そしてあなたがたは建物から不合格とされる。もうほかの塔は建てられない」にあたる一文を持ち、E も近い。Hg 1881 は L2 の形 [et vos de structura reprobemini. iam alia turris non aedificatur.] を角かっこで入れる。L1 にない（Hg スキャン p. 136、djvu l. 14411–14413、14437–14438）。
+  - dum tardatis（Lake、L–H）を Hg 1881 は dum tardamini とする（Hg djvu l. 14411）。enim を L2 は autem とする。festinetis igitur は G、Aug.、Cus.、Vind.1 と Gh、F。D、Vat.、Vind.2 と Hg 1866 は igitur festinaveritis（Hg djvu l. 14438–14442）。
+  - excludemini の後に、E は「あなたがたの財産と共に」（cum bonis vestris）を加える（Hg djvu l. 14442–14443）。
+  - Pox404 の裏 42 行目の ποι[εῖτε] οὖν は、27.4.4 の Facite igitur にあたる（Pox404 スキャン p. 8。Oxyrhynchus Papyri III djvu l. 1406–1408）。
+- 文意：Hg は 27.4.4 に 26.32.1（「塔がまだ建てられているうちに、自分をいやしなさい」）を参照させる（Hg スキャン p. 225、djvu l. 21079）。「工事が中断された」は、26.5.1 と 26.14.2 の「建物の工事の中休み」（ἀνοχὴ τῆς οἰκοδομῆς）を受ける。
+- 出典と並行：3.8.9（塔が建て終えられると終わりになる）、26.5.1、26.9.4、26.14.2、26.32.1。
+- 読者への影響：小 — L2 と E の加筆は、塔の完成の後にはほかの塔が建たないことをはっきり言うが、底本の「締め出される」と意味は同じ向き。
+- 訳での扱い：訳注は付けない。accepistis は目的語を補わずに訳せるか先に確かめる（本の AGENTS.md の「目的語のない動詞」の決まり）。intermissum est opus aedificationis は 26.5.1、26.14.2 の訳語「工事が中休みとなった」に揃える。facere recte は 27.4.2 の recte facere と同じ訳語。`// ` メモに 26.5.1、26.14.2、26.32.1、3.8.9 を挙げる。
+- 確かめた資料：Lake スキャン p. 304・305、djvu l. 14498–14502、14532–14538。Hg スキャン p. 136・225、djvu l. 14410–14415、14437–14443、21079。L–H スキャン p. 402、djvu l. 23387–23397、27053–27058。Pox404 スキャン p. 8・9、Oxyrhynchus Papyri III djvu l. 1263–1349、1406–1408。
+
+### 27.4.5 結び（Amen と、写本の結びの句）
+- 底本（Lake）：Postquam vero locutus est mecum, surrexit de lecto et apprehenso pastore et virginibus abiit, dicens autem mihi, remissurum se pastorem illum et virgines in domum meam.
+- ほかの読み：
+  - Hg 1881 は最後に [Amen.] を角かっこで置く。Amen は L1 の D、Vat.、Vind.2 にあり、L2 は ἀμήν、E は「世々限りなく。アーメン」の意味。L1 の写本の一つ（校注では Vat. の後に括弧で記す）は「祝福された使徒パウロの弟子である牧者の書、終わり。神に感謝」にあたる結びの句を加える（Hg スキャン p. 137、djvu l. 14449–14457）。Lake と L–H は Amen を持たない（Lake スキャン p. 304、L–H スキャン p. 402）。
+  - apprehenso を L–H は adprehenso と綴る（L–H djvu l. 23400）。
+- 文意：Hg は、Amen を第九のたとえの最後にも置く L2 について、Harnack の説を紹介する（「写本の伝わり方（第十のたとえ）」を見よ）。牧者とおとめたちを「再び家に送る」と言って御使いが去るのは、27.3.1 の約束を受ける。
+- 出典と並行：第五の啓示 5.1.1〜5.1.4（牧者がヘルマスの家に来て、生涯の残りの日々を共に住む）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。Amen は底本にないので訳さない。`// ` メモは不要。
+- 確かめた資料：Lake スキャン p. 304・305、djvu l. 14503–14506、14532–14538。Hg スキャン p. 137、djvu l. 14449–14457、16683–16702。L–H スキャン p. 402、djvu l. 23399–23402。
+
 ---
 
 ## 項目にしなかった小さな異読
@@ -2451,6 +2622,13 @@
 - 26.31.3：omnes は Gh と F、Hg 1881 は持たない。deum を Hg 1881 は dominum とする（Hg djvu l. 13934–13936）。
 - 26.32.3：in usu esse の usu は L1 の写本の一部と Gh、F、ほかの写本と Hg 1881 は usum（Hg djvu l. 14113–14114）。
 
+### 第十のたとえ
+
+- 27.2.3：si haec audiant の audiant を Hg 1881 は audient とし、L1 の写本は audient、audientes、audiunt などと分かれる（Hg スキャン p. 135、djvu l. 14328–14331）。L–H と Lake は audiant。
+- 27.3.1：has virgines を L2 は etiam virgines has とする（Hg djvu l. 14351–14352）。
+- 27.3.5：Hg 1881 は illae vero libenter haec verba audierunt と語順を変える（Hg djvu l. 14389–14390）。
+- 27.4.4：Propter vos enim の enim を L2 は autem とする（Hg djvu l. 14438–14439）。
+
 ## 未確認
 
 確かめられなかったので、上の項目には入れなかったもの。
@@ -2535,3 +2713,21 @@
 - コプト語訳（Lake の C）の断片がこの範囲を含むか。Lake は資料一覧で挙げるだけ（djvu l. 562–568）。
 - ミシガン・パピルスなど、Lake 1913 より後に見つかった断片が 26.16〜26.33 を含むか。パブリックドメインの資料では確かめていない。
 - 1950 年以後の主な校訂版（Whittaker、Joly、Brox、Leutzsch など）が、26.17.4 ἑνὶ ὀνόματι、26.18.1 θεόν と Χριστόν、26.20.2 αἰτισθῶσιν、26.27.2 καί、26.28.3 εὐειδέστεροι、26.30.3 necesse、26.30.5 の崩れた句、26.32.4 morte te をどう扱っているか。
+
+### 第十のたとえ
+
+- 27.3.3 の Lake の καὶ ὥσπερ。Grenfell & Hunt の翻刻は ὥσπε]ρ δέ で、καί はない（Pox404 スキャン p. 8、12 行目）。Lake は脚注を付けず、ラテン語訳の et sicut に合わせたのか、パピルスを別に読み直したのかは確かめていない。27.3.4 の ὁ δοῦλος の ὁ も、Grenfell & Hunt の補いにない（欠けの中）。
+- Pox404 の図版（Oxyrhynchus Papyri III の Plate IV。表の断片 c だけを載せる）は見ていない。翻刻と注は Grenfell & Hunt の印刷でしか確かめていない。裏の 40〜42 行目の読み（ὡς μὴ δυνάμενοι、ἔνοχοι γείνονται）も同じ。
+- 27.1.2〜27.1.3 で、Hg 1881 が in mandatis his と mandata haec を印刷すること。校注に記載がなく、L1 の写本の読みか Hg の直しかは確かめていない。
+- 27.2.3 の Lake の quia の出どころ。Hg の校注は quod を D と Vat.（D は qui iam の前にも）とし（djvu l. 14331–14333）、quia を挙げない。L–H は quod を libenter の前に置く。Lake は脚注を付けない。
+- 27.2.4 で、Hg 1881 が sed を持たず reus erit とすること。校注に記載が見当たらない（Hg スキャン p. 135）。
+- Hg の 27.3.5 の校注「11. virgines c. p. ae., om. v.」（スキャン p. 136、djvu l. 14423）。Hg の本文の 11 行目は et vocavit eas virgines で、L–H と Grenfell & Hunt の引く L1 もこの virgines を持つので、どの語を指すのか、「c.」が何の略かが分からない。
+- 27.1.3 の Hg の校注が「maturitatem huius et modestiam v.」と、本文の二つ目の句（maturitatem huius et verecundiam）と合わない見出しを掲げていること（スキャン p. 135、djvu l. 14317）。L2 と E の読みがどちらの句に当たるかは、校注の行番号から判断した。
+- 27.4.1 の Lake の欄外「Acts 2, 1」（スキャン p. 302）。同じ句の 27.2.3 では「Acts 2, 11」（スキャン p. 300）なので誤植と考えられるが、確かめていない。
+- 27.4.5 の Hg の校注で、結びの句（explicit liber pastoris……）を加えるのが Vat. か D か。校注は「Amen D. Vat. (add.: ……) Vind.2」と並べる（スキャン p. 137）。
+- 27.1.1 の Harnack の注「cf. Vis. V, 2: ipse filius dei apparet」は Hg の引用でしか見ていない。Harnack と Funk の注解そのもの、Zahn の Der Hirt des Hermas は開いていない。
+- Lake が第十のたとえの L1 の本文をどの版（Gh か自分の照合か）から採ったか。Lake は 27.2.4 の Hilgenfeld の推定のほかに脚注を付けず、27.3.2 の nullum（L–H と Hg は nullam）も説明がない。
+- E と L2 の読みは、Hg の校注のラテン語訳と、Grenfell & Hunt が引くラテン語の本文でしか見ていない。Gebhardt & Harnack 1877 は開いていない。
+- 『ペテロとパウロの宣教』の本文は、Hg の注の引用でしか見ていない。
+- コプト語訳（Lake の C）の断片や、Lake 1913 より後に見つかったパピルスが第十のたとえを含むか。パブリックドメインの資料では確かめていない。
+- 1950 年以後の主な校訂版（Whittaker、Joly、Brox、Leutzsch など）が、27.2.4 の illum adversus、27.3.3〜27.3.5 のギリシア語（καὶ ὥσπερ、欠け）、27.4.2 の句読点をどう扱っているか。
