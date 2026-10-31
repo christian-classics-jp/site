@@ -9,6 +9,7 @@
     "jesep": "^1.0.0",
     "marked": "^0.7.0",
     "mkdirp": "^0.5.1",
+    "pdf-lib": "1.17.1",
     "playwright": "1.64.0"
   },
   "devDependencies": {},

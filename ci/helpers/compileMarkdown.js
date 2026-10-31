@@ -28,9 +28,9 @@ const markNotes = (html, idPrefix, epub) => {
   return `${body}<section class="notes"${attrs.section}><h2>訳注</h2><ol>${items.join('')}</ol></section>\n`
 }
 
-function compileMarkdown (markdown, {idPrefix = '', epub = false} = {}) {
+function compileMarkdown (markdown, {idPrefix = '', epub = false, vertical = false} = {}) {
   const html = markVerseNumbers(marked(markdown, {headerIds: !epub, xhtml: epub}))
-  return markNotes(epub ? markUprightDigits(html) : html, idPrefix, epub)
+  return markNotes(vertical ? markUprightDigits(html) : html, idPrefix, epub)
 }
 
 module.exports = compileMarkdown

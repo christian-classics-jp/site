@@ -57,7 +57,7 @@ function epub (repos) {
     title: markdownTitle(markdowns[i]),
     type: 'bodymatter',
     sectionType: 'chapter',
-    body: compileMarkdown(markdowns[i], {idPrefix: `${name}-`, epub: true})
+    body: compileMarkdown(markdowns[i], {idPrefix: `${name}-`, epub: true, vertical: true})
   }))
   const documents = [surface, ...chapters].map((doc, i) => ({
     ...doc,
