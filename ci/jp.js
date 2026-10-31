@@ -27,7 +27,18 @@ function build (target) {
   }
   const text = fs.readFileSync(srcPath).toString()
   const ja = separate(withoutOriginalLines(text))
-  fs.writeFileSync(destPath, ja)
+  fs.writeFileSync(destPath, withLabelsOnOwnLines(ja, escapedVerseLabels(text)))
+}
+
+function escapedVerseLabels (text) {
+  return text.split('\n')
+    .map((line) => line.trim().match(/^% ([A-Z]+:\d+) /))
+    .filter(Boolean)
+    .map((match) => match[1])
+}
+
+function withLabelsOnOwnLines (ja, labels) {
+  return labels.reduce((out, label) => out.replace(new RegExp(`([^\\n])(${label} )`), '$1\n$2'), ja)
 }
 
 function withoutOriginalLines (text) {

@@ -16,4 +16,4 @@
 | 04-fragments-3-9 | 断片 III〜IX | [x] |
 | 05-fragments-10-14 | 断片 X〜XIV | [x] |
 | 06-fragments-15-20 | 断片 XV〜XX | [x] |
-| 07-quadratus | クアドラトゥスの断片（エウセビオス『教会史』四・三） | [ ] |
+| 07-quadratus | クアドラトゥスの断片（エウセビオス『教会史』四・三） | [x] |
