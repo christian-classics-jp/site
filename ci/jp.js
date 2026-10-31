@@ -26,15 +26,19 @@ function build (target) {
     return
   }
   const text = fs.readFileSync(srcPath).toString()
-  const ja = separate(withoutGreekLines(text))
+  const ja = separate(withoutOriginalLines(text))
   fs.writeFileSync(destPath, ja)
 }
 
-function withoutGreekLines (text) {
-  return text.split('\n').filter((line) => !isGreekLine(line)).join('\n')
+function withoutOriginalLines (text) {
+  return text.split('\n').filter((line) => !isOriginalLine(line)).join('\n')
 }
 
-function isGreekLine (line) {
-  const firstLetter = line.trim().match(/[^\u0020-\u0040\u005b-\u0060\u007b-\u007e\u2000-\u206f]/)
-  return Boolean(firstLetter) && /[\u0370-\u03ff\u1f00-\u1fff]/.test(firstLetter[0])
+function isOriginalLine (line) {
+  const trimmed = line.trim()
+  if (trimmed.startsWith('% ')) {
+    return false
+  }
+  const firstLetter = trimmed.match(/[^\u0020-\u0040\u005b-\u0060\u007b-\u007e\u2000-\u206f]/)
+  return Boolean(firstLetter) && /[A-Za-z\u00c0-\u024f\u0370-\u03ff\u1f00-\u1fff]/.test(firstLetter[0])
 }
