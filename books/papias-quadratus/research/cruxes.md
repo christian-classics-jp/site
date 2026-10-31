@@ -337,7 +337,7 @@
 - Jackson & Lake, The Beginnings of Christianity II p. 501（2.4 の παρηκολουθηκώς の意味。Lake の注が参照を示す）。著作権の状態も確かめていない。
 - Renan（L’Antichrist 1873）、Haussleiter（Theologisches Literaturblatt 1896）、Krenkel（Der Apostel Johannes 1871）、Bacon（JBL 1898）、Lützelberger（1840）、Weiffenbach（1874、1877）、Muralt（Theologische Studien und Kritiken 1858）、Zahn（Forschungen VI、1900。Geschichte des neutestamentlichen Kanons I）の議論そのもの。Funk と Heinichen の注の要約でだけ確かめた。
 - エウセビオス『福音の論証』三・五・八八（使徒ヨハネが手紙で自分を「長老」と呼ぶこと）と、『教会史』七・二五・一六（ディオニュシオスの二つの墓の話）の本文。Funk の注と Schwartz・Lake の参照指示でだけ見た。
-- ヒエロニュムス『著名者列伝』一八の本文（書名 Explanatio sermonum Domini と、λέγουσιν の訳 loquebantur）。L–H の断片（l. 28747〜28750）で書名は見たが、loquebantur の箇所は Funk の注でだけ見た（ヒエロニュムスの文は本書の断片 XV として訳す予定）。
+- ヒエロニュムス『著名者列伝』一八の本文（書名 Explanatio sermonum Domini と、λέγουσιν の訳 loquebantur）。L–H の断片（l. 28747〜28750）で書名は見たが、loquebantur の箇所は Funk の注でだけ見た（ヒエロニュムスの文は本書の断片 XV として訳す予定）。→ 断片 XV の論点「15.1 loquebantur」で Richardson の本文と校注を確かめた（本文は loquebantur、古い写本の一部は loquantur）。
 - σοι（2.3「あなたに」）が誰を指すか。Funk の注にも見た資料にも論じたものがない。
 
 ---
@@ -1149,3 +1149,299 @@
 - 13.1 の Heinichen 1868 p. 141（L–H の底本）と Lake の Loeb 版の三・三六。
 - 14.1 の Schoene 1866〜1875 の II p. 162（Funk と L–H の出典）。archive.org で見つかったのは第一巻だけだった。アルメニア語訳は Aucher のラテン語訳で、ヒエロニュムスは Fotheringham の OCR でだけ見た。アルメニア語そのものは読んでいない。
 - 14.1 の μεθ’ ὃν の取り方を論じた資料。見た資料は訳し方を示すだけで、論じていない。
+
+---
+
+# 校訂上の論点（断片 XV〜XX）
+
+パピアス断片 XV〜XX（ヒエロニュムスの三つの文、ラテン語のヨハネ福音書の序文、ギリシア語のカテナの序、アルメニア語の福音書の問答）の本文で、引用元の写本・刊本と校訂本の読みが分かれる箇所と、文脈を知らないと意味が取れない箇所の一覧。訳は底本（Funk 1901）の読みのとおりに行い、ほかの読みは記録にとどめる。どの断片も引用する著者の文の一部か、後代の文書の一部なので、前後の文脈（省かれた語、指示語の指すもの、パピアスに帰せる範囲）も、見た刊本で確かめたかぎり書く。
+
+断片 I〜XIV の略号（Funk、L–H、byztxt、bible-api、Stieren、Lake など）はそのまま使う。新しく使う資料と所在は次のとおり。URL と取得情報は [sources.md](sources.md) にある。
+
+- Funk（断片 XV〜XX）：本文は pp. 372〜375。XV は n534 l. 2〜21（djvu l. 31342〜31370）、XVI は n534 の最終行と n535 l. 1〜3（l. 31373〜31410）、XVII は n535 l. 5〜6（l. 31411〜31421）、XVIII は n535 l. 8〜12 と n536 l. 1〜4（l. 31422〜31431、31460、31463、31500〜31512）、XIX は n536 l. 6〜11 と n537 l. 1〜8（左がギリシア語で l. 31515〜31523、31598〜31605、右が Funk のラテン語対訳で l. 31555〜31560、31611〜31621）、XX は n537 l. 10〜16（l. 31628〜31654）。画像の行番号は、Funk が欄外に付けた 5 行ごとの番号から数えた。注は n534 の下（l. 31379〜31394）、n535 の下（l. 31434〜31491）、n536 の下（l. 31526〜31592）、n537 の下（l. 31657〜31680）。OCR は 2 段組の注が混じるので、注はすべて画像で読んだ。XV は Funk が 2、3 の番号を付け、本書では 15.1〜15.3 と呼ぶ。XVIII は 1〜2 で 18.1〜18.2。XVI、XVII、XIX、XX は節が一つで、16.1、17.1、19.1、20.1 と呼ぶ。Funk の出典表示は、XV が『著名者列伝』一八（Richardson 1896）、XVI が書簡七一・五（PL 22, 671）、XVII が書簡七五・三（PL 22, 687。OCR の「c. 8」は画像では c. 3）、XVIII がヴァティカン写本 Alex. 14（九世紀、Thomasius 1747、Pitra, Analecta sacra II 160）、XIX が Corderius のカテナ（Antwerp 1630。OCR の「1680」は画像では 1630）、XX がヴァルダン・ヴァルダペト（十二世紀）の『四福音書の解答』（Conybeare, Guardian 1894 年 7 月 18 日）。
+- L–H：Lightfoot & Harmer 1891。断片の番号の対応は次のとおり（本文の djvu の行、英訳の行）。L–H は p. 524 を IIIF の原寸（`_0542.jp2`）でも見た。
+  - Funk XV ＝ L–H VII（本文 l. 28747〜28779、英訳 l. 29368〜29402）。L–H は「Dominum regnaturum」で終わり、Funk の 15.3 末尾の一文（Tertullianus quoque …）を含まない。出典は Vallarsi II p. 845。
+  - Funk XVI ＝ L–H VIII（本文 l. 28785〜28791、英訳 l. 29405〜29413）。出典は書簡七一（Vallarsi の番号で 28）・五、Vallarsi I p. 432。
+  - Funk XVII ＝ L–H IX（本文 l. 28797〜28800、英訳 l. 29416〜29421）。出典は書簡七五（Vallarsi の番号で 29）・三、Vallarsi I p. 450。
+  - Funk XVIII ＝ L–H XIX（本文 l. 29041〜29056、英訳 l. 29595〜29605）。L–H は 18.2 の最初の文（Descripsit vero evangelium dictante Iohanne recte.）までを含み、Martion の話を含まない。
+  - Funk XIX ＝ L–H XX（本文 l. 29059〜29070、英訳 l. 29608〜29619）。
+  - Funk XX は L–H にない（L–H は 1891 年刊で、Conybeare の発表は 1894 年）。
+- Richardson：E. C. Richardson 編『著名者列伝』（Texte und Untersuchungen XIV, 1、1896）。この item は TU 14 の合本で、Richardson はその初め。一八章は p. 19（画像 n100、djvu l. 5563〜5610）。校注の写本記号のうち、A はパリ・ラテン 12161（七世紀）、T はヴァティカン・レギナ・ラテン 2077（六〜七世紀）、25 はヴェローナ XXII（八世紀）、30 はヴェルチェッリ CLXXXIII（八世紀）、31 はモンペリエ 406（八〜九世紀）、C はパリ・ラテン 1856（十世紀）、e はウィーン 16（八〜九世紀）（写本の一覧 l. 354〜802。a と H は記号の行が OCR で落ちていて、特定していない）。Richardson が全部を照合した主な写本は a e A C H T 25 30 31 の九つ（l. 2564〜2566）。付録（p. LVI から）は Vallarsi（Migne）、Herding、Bernoulli の三つの版が Richardson の本文と違う箇所を並べる。ただし Richardson が見た写本のどれにもない読みは載せない（l. 2638〜2644）。一八章の分は p. LX（画像 n69、l. 2935〜2944）。九章は pp. 12〜13（l. 5231〜5300、OCR）、七四章は pp. 40〜41（l. 6695〜6720、OCR）。
+- Bernoulli：C. A. Bernoulli 編『著名者列伝』（1895）。一八章の本文は l. 4026〜4048、校注は巻頭の「Kritischer Apparat」の l. 1802〜1813（OCR で読んだ）。Bernoulli の写本記号 A B C D は Richardson の T A 25 30（Richardson l. 2581〜2582）。
+- Hilberg：I. Hilberg 編、ヒエロニュムス書簡集 II（CSEL 55、1912）。書簡七一（AD LUCINUM BAETICUM）・五は pp. 5〜6（djvu l. 336〜383）、書簡七五（AD THEODORAM SPANAM DE MORTE LUCINI）・三は pp. 31〜32（l. 1602〜1612、1752〜1800）。OCR で読んだ。
+- Pitra 1884：J. B. Pitra, Analecta sacra II（1884）。ヨハネ福音書の序文（Funk XVIII）の写本どおりの翻刻は p. 160（画像 n215、djvu l. 18361〜18400）。写本と序文についての説明は p. 156（l. 18081〜18131）と p. 161（l. 18500〜18535）。
+- W–W：J. Wordsworth & H. J. White, Novum Testamentum … latine I（1889〜1898）。p. 490 にトレド写本の「第二の序文」（画像 n535）、p. 491 に Thomasius の版から刷り直した序文（n536）。トレド写本（W–W の記号 T）は九世紀（エピローグ l. 88792〜88797。序文では十世紀としていた、l. 796〜798）。
+- Corderius：B. Corderius 編『ヨハネ福音書のギリシア教父のカテナ』（Antwerp 1630）。バイエルン州立図書館のデジタル化（bsb11204085）の画像 00018〜00019 が序（PROOEMIVM）の該当箇所。00018 の下に ΑΝΕΠΙΓΡΑΦΟΥ（「作者名のないもの」）の見出し、00019 の上に断片 XIX の本文と Corderius のラテン語訳。序の終わりは 00020、カテナの本文 p. 1 は 00021。細かい字は IIIF で切り出して読んだ。
+- Zahn：Th. Zahn, Einleitung in das Neue Testament II（第 2 版、1900）。p. 460 の注 3（ヴァルダン、djvu l. 24640〜24658）と注 4（ヨハネ福音書の序文、l. 24660〜24674）、p. 468 の注 27 の末尾（l. 25111〜25118）。OCR で読んだ。
+- Lightfoot 1889：J. B. Lightfoot, Essays on the Work Entitled Supernatural Religion（1889）。ヨハネ福音書の序文を論じるのは pp. 210〜214（djvu l. 10115〜10340）。p. 213 の注 4 にカテナ（Corderius）の本文の引用がある。
+- エイレナイオスとエウセビオス（19.1 の照合）：『異端反駁』三・一・一は Stieren p. 424（l. 48786〜48796）、三・一一・一は l. 53161、二・二二・五と三・三・四は l. 41478、50331（いずれも OCR）。『教会史』三・二四・五〜七は Lake の英訳 l. 14219〜14236。
+- 新約本文：マルコ三・一七は byztxt（`MAR.csv`）で、口語訳（マルコ三・一七、ヨハネ一九・三八〜三九、二〇・一九、二〇・二六、二一・二四、マタイ二七・五七、二七・六三、ルカ二四・三三、マルコ一六・一四、第二コリント五・六、ヘブル一三・三）は bible-api で確かめた。
+
+---
+
+### 15.1 loquebantur（写本の読みの分かれと、エウセビオスの λέγουσιν）
+- 底本（Funk）：quid etiam Aristion et senior Iohannes, discipuli domini, loquebantur（n534 l. 8〜9 = l. 31351〜31352）。直前の使徒たちには dixissent（接続法過去完了）。
+- ほかの読み：Richardson の本文も loquebantur。校注は「loquebantur] loquantur A 25 30 C, loquerentur e?」（p. 19 l. 11、画像 n100 で確かめた）。つまり七世紀のパリ写本 A、八世紀のヴェローナ 25 とヴェルチェッリ 30、十世紀の C は loquantur（接続法現在）、e はおそらく loquerentur（接続法未完了過去）。T（六〜七世紀）ほか校注に挙がらない写本は loquebantur。Richardson の付録によれば、Herding と Bernoulli の版は loquerentur を刷る（p. LX、画像 n69）。Bernoulli の本文も loquerentur で、その校注はここに異読を挙げない（l. 4037、1802〜1813）。L–H（Vallarsi による）は loquebantur（l. 28765。OCR は logquebantur）。
+- エウセビオスとの関係：エウセビオスのギリシア語（断片 II 4 節）は εἶπεν（アオリスト）と λέγουσιν（現在）を使い分ける（funk-1901.txt 2.4）。Funk の断片 II の注は、ヒエロニュムスが λέγουσιν を loquebantur と訳したのは正しくないようだ、とする（n514 = l. 29878〜29887。本ファイルの 2.4 の項）。loquantur（現在）を採る古い写本の読みなら、ヒエロニュムスも時制を訳し分けていたことになる。Funk の注は loquebantur を本文とする刊本に拠った判断である。どちらがヒエロニュムス自身の語かを論じた資料は見ていない。
+- 採る校訂者：loquebantur は Richardson、Funk、L–H。loquerentur は Herding、Bernoulli。loquantur を本文に採る版は見ていない。
+- 読者への影響：中 — loquebantur なら「アリスティオンと長老ヨハネが何を語っていたか」となり、断片 II 4 節の「言っているか」と食い違う。読者は断片 II と断片 XV を並べて読むので、この違いがヒエロニュムスの訳し方なのか写本の違いなのかで受け取り方が変わる。
+- 訳での扱い：底本どおり loquebantur で訳す（過去の進行）。訳注は付けないことを勧める（時制の論点は断片 II 4 節の項で扱い済みで、ヒエロニュムスの原文がどちらかは決められない）。付けるなら案：「古い写本には『語っているか』と現在で読むものもある。」（26 字）。`// ` メモに、古い写本の一部が loquantur（現在）と読み、エウセビオスの λέγουσιν と時制が合うことを書く。
+- 確かめた資料：Funk n534（l. 31351〜31352）、n514（l. 29878〜29887）。Richardson n100（p. 19 本文 l. 10〜11 と校注）、n69（p. LX）、l. 354〜802（写本の一覧）。Bernoulli l. 4037、1802〜1813。L–H l. 28762〜28767。
+
+### 15.1 ヒエロニュムスの引用とエウセビオスのギリシア語（断片 II 2〜4 節）の違い
+- 底本（Funk）：Considerabam, quid Andreas, quid Petrus dixissent, … vel alius quilibet discipulorum domini; quid etiam Aristion et senior Iohannes, discipuli domini, loquebantur. Non enim tantum mihi libri ad legendum prosunt, quantum viva vox usque hodie in suis auctoribus personans（n534 l. 6〜11 = l. 31349〜31355）。
+- 断片 II との対応（funk-1901.txt 2.3〜2.4）：
+  - エウセビオスでは、引用は「長老たちに付き従った人がどこかから来たときには」（εἰ δέ που καὶ παρηκολουθηκώς τις τοῖς πρεσβυτέροις ἔλθοι）で始まり、パピアスが尋ねたのは「長老たちの言葉」（τοὺς τῶν πρεσβυτέρων … λόγους）である。ヒエロニュムスはこの条件の句と「長老たちの言葉を」を落とし、パピアスが使徒たちの言ったことを直接考えた（considerabam）ように書く。ἀνέκρινον（「問いただした」）は considerabam（「考えた、調べた」）になる。
+  - ἅ τε（「また…ことを」）は quid etiam（「また何を…か」）。前の quid の列に揃えたもので、語の異読ではない。Richardson と Bernoulli の校注はこの語に異読を挙げない。
+  - οὐ γὰρ … ὑπελάμβανον（「…とは考えなかった」、未完了過去）は Non enim … prosunt（「益にならない」、現在）。パピアスの過去の考えが、一般的な言い方に変わる。
+  - παρὰ ζώσης φωνῆς καὶ μενούσης（「生きていて、とどまっている声から」）は viva vox usque hodie in suis auctoribus personans（「今日までその語り手たちのうちに響いている生きた声」）。ヒエロニュムスの言い換えで、μενούσης を「今日まで…響いている」と敷衍し、「語り手たちのうちに」を足す。
+  - 冒頭の地の文の「序文で、自分はいろいろな意見に従うのでなく、使徒たちを根拠にすると言う」（non varias opiniones sequi, sed apostolos habere auctores）は、エウセビオスの 2.3「多くを語る人々でなく、真実を教える人々を喜んだ」のまとめ直しにあたる。
+- 採る校訂者：ヒエロニュムスの本文の中では読みは一つ（上の loquebantur と、下の小さな異読を除く）。Funk の注は、ヒエロニュムスがこの章をエウセビオス三・三九から取ったと言う（n534 = l. 31379〜31380）。
+- 読者への影響：中 — 断片 II と並べると、パピアスが使徒の言葉を又聞きしたのか直接聞いたのかの印象が変わる。エウセビオスはパピアスが使徒たちから直接聞いたのではないと強調する（2.2、2.7）が、ヒエロニュムスの要約はその区別を消す。
+- 訳での扱い：訳注は付けない（異読ではなく、引用者の要約）。ヒエロニュムスのラテン語のとおりに訳し、断片 II の訳に寄せない。`// ` メモに、エウセビオス『教会史』三・三九・四（本書の断片 II 4 節）のラテン語訳による要約であること、条件の句「長老たちに付き従った人が来たときには」が落ちていることを書く。
+- 確かめた資料：Funk n534（l. 31349〜31355、31379〜31380）。funk-1901.txt 2.2〜2.4、2.7。Richardson n100。Bernoulli l. 1802〜1813。
+
+### 15.1 Iohannis auditor（「ヨハネに聞いた者」と、エウセビオスの判断）
+- 底本（Funk）：Papias, Iohannis auditor, Hierapolitanus in Asia episcopus（n534 l. 2 = l. 31344）。
+- 文脈：これはエイレナイオスの Ioannis auditor（断片 I 4 節、funk-1901.txt 1.4）と同じ言い方。エウセビオスは同じ序文から、パピアスは使徒たちを自分で聞いたのではないと言う（2.2）。ヒエロニュムスは冒頭ではエイレナイオスに従いながら、15.2 ではエウセビオスに従って二人のヨハネを分ける。どちらのヨハネを指すかは 15.1 の文だけからは決まらない。九章（下の項目）では、ヒエロニュムスはパピアスを使徒ヨハネの「聞き手」（auditorem eius）と呼ぶ（Richardson p. 13 l. 23 = l. 5275。OCR）。
+- 採る校訂者：読みは一つ。
+- 読者への影響：小 — 文の中で矛盾は起きない。断片 I、II と読み比べる読者にだけ関係する。
+- 訳での扱い：訳注は付けない。auditor は本の AGENTS.md のとおり「ヨハネに聞いた者」。
+- 確かめた資料：Funk n534（l. 31344）。funk-1901.txt 1.4、2.2。Richardson l. 5266〜5276。
+
+### 15.1〜15.3 Funk の本文と、Funk が出典に挙げる Richardson の本文の違い
+- 底本（Funk）：viva vox usque hodie（l. 31354〜31355）、Ex quo apparet, ex ipso catalogo, nominum alium esse Iohannem（l. 31355〜31356）、Hoc autem diximus（l. 31358）、qua a plerisque rettulimus traditum（l. 31360）、Apollinarius（l. 31363）。
+- ほかの読み（画像 n100 で確かめた）：Richardson は viva vox et usque hodie（et あり）、ex ipso catalogo nominum, alium esse（読点は nominum の後）、Hoc autem dicimus（現在）、qua a plerisque rettulimus traditum（Funk と同じ）、Apollinaris。Bernoulli も et usque、dicimus、Apollinaris、qua … traditum（l. 4036〜4044）。L–H（Vallarsi による）は viva vox usque hodie（et なし）、in ipso catalogo nominum、Hoc autem diximus、quam a plerisque retulimus traditam、Apollinarius（l. 28766〜28775）。Richardson の校注は「ex] in e² H Val., de T Her.」（ex を in と読む写本と版、de と読む写本と版）、「a] om. a 31 H」、付録は「qua] quem Val. e」（p. LX）。et の有無と dicimus／diximus は、校注にも付録にも挙がらない。付録は Richardson の見た写本にない読みを載せない（上の資料の項）ので、Funk の et なしと diximus は、Richardson の見た写本にない読みとみられる。Funk の et なしと diximus は L–H と一致する。
+- 採る校訂者：Funk は出典を Richardson とするが、この数か所では L–H（Vallarsi）と同じ形を刷る。ex ipso catalogo, nominum の読点の位置は Funk だけ。
+- 読者への影響：小 — どれも文意をほとんど変えない。et は「今日までも」の「も」、diximus は「述べた」と「述べる」の違い。読点の位置は、Funk のままでは「名の」が「一覧」から離れて文が取れない。
+- 訳での扱い：訳注は付けない。底本の語で訳すが、読点は Richardson と L–H のとおり「名の一覧そのものから」と取る。`// ` メモに、Funk の読点の位置と、Richardson が viva vox et usque hodie、dicimus、Apollinaris と読むことを書いてよい。
+- 確かめた資料：Funk n534（l. 31354〜31363）。Richardson n100、n69。Bernoulli l. 4026〜4048。L–H l. 28762〜28776。
+
+### 15.2 superiorem opinionem（『著名者列伝』九章を指す）
+- 底本（Funk）：Hoc autem diximus propter superiorem opinionem, qua a plerisque rettulimus traditum, duas posteriores epistulas Iohannis non apostoli esse, sed presbyteri（n534 l. 14〜16 = l. 31358〜31361）。Funk の注は『著名者列伝』九を参照させる（n534 = l. 31382〜31383）。
+- 九章の文：ヒエロニュムスは使徒ヨハネの項で、第一の手紙はすべての教会の学者に認められるが、「長老から選ばれた婦人へ」「長老から愛するガイオへ」で始まる残りの二つは長老ヨハネのものとされ（adseruntur）、エペソには今日もその別の墓が示され、二つの墓はどちらも福音書記者ヨハネの記念だと考える人もいる、と書き、「このことは、順を追ってヨハネの聞き手パピアスのところに来たときに論じる」と結ぶ（Richardson p. 13 l. 14〜24 = l. 5266〜5276。OCR）。15.2 はこの予告を果たす文である。
+- 解釈：15.2 は九章の説を「多くの人から伝えられたと述べた」（a plerisque rettulimus traditum）と言うが、九章の文そのものは「…とされる」「…と考える人もいる」で、「多くの人」とは言わない。qua … traditum は「その説によって…が伝えられたと述べた」の非人称の構文で、Vallarsi の quem や L–H の quam … traditam はこれを整えた形。
+- 採る校訂者：qua … traditum は Richardson、Bernoulli、Funk。quam … traditam は L–H。
+- 読者への影響：中 — 「先の意見」が何を指すかがわからないと、なぜここで手紙の話が出るのかがわからない。
+- 訳での扱い：訳注は付けない。`// ` メモに、「先の意見」は同じ書物の九章（使徒ヨハネの項）で、ヨハネの第二・第三の手紙を長老ヨハネのものとする説と、エペソの二つの墓の話を述べた箇所であることを書く。
+- 確かめた資料：Funk n534（l. 31358〜31361、31382〜31383）。Richardson l. 5266〜5276、n69（p. LX）。L–H l. 28771〜28773。
+
+### 15.3 dicitur … iudaicam … δευτέρωσιν（「…と言われる」と「ユダヤ的な言い伝え」）
+- 底本（Funk）：Hic dicitur mille annorum iudaicam edidisse δευτέρωσιν（n534 l. 16〜17 = l. 31361〜31362）。ラテン語の文の中にギリシア語の語がそのまま入る。Richardson も δευτέρωσιν（ギリシア文字。画像 n100）、Bernoulli も同じ（l. 4041。校注 l. 1805 に D 写本の大文字の綴り）。
+- 解釈：Funk の注は、δευτέρωσις を「言い伝え」（traditionem）と説明し、エピファニオス『パナリオン』三三・九の「長老たちの言い伝えは、ユダヤ人のもとで δευτερώσεις と呼ばれる」と、ヒエロニュムス『エゼキエル書注解』三六章（Vallarsi V p. 422）を挙げる（n534 = l. 31382〜31388）。dicitur について Funk の注は、ヒエロニュムスはこの語で、『著名者列伝』を書いたときパピアスを読んでいなかったことを自分で明かしている、後にも読んだようには見えない、どこにもくわしい知識を示さないから、と言う（n534 = l. 31385〜31390）。さらに Funk の注は、ヒエロニュムスが『ウィクトリヌスの黙示録注解』に付けたアナトリウスあての書簡で「さらに古いヒエラポリスのパピアスとネポスも…千年王国についてウィクトリヌスと同じように考えた」と書いていることを挙げる（n534 = l. 31391〜31394、右段 l. 31379〜31382）。エウセビオスは、パピアスが復活の後に千年があり、キリストの王国がこの地上に体をもって立てられると言う、と書く（funk-1901.txt 2.12）。
+- 採る校訂者：読みは一つ。
+- 読者への影響：中 — mille annorum iudaicam … δευτέρωσιν は「千年についてのユダヤ的な言い伝え」で、千年王国の説を指す。δευτέρωσις をギリシア語のまま残したのはヒエロニュムスで、ユダヤ教の言い伝え（ミシュナー）を呼ぶ語として使っている（Funk の注の挙げるエピファニオスの文による）。「ユダヤ的」には、ヒエロニュムスがこの説をユダヤ的だと退ける含みがある。
+- 訳での扱い：訳注は付けない。「千年についてのユダヤ的な言い伝え」のように、意味で訳す（ギリシア語の語をそのまま残すかはメインが決める）。`// ` メモに、原文がここだけギリシア語の δευτέρωσιν を使うこと、Funk がそれを「言い伝え」と説明しエピファニオス三三・九を挙げることを書く。「言われる」（dicitur）は伝聞として訳し、Funk の注（ヒエロニュムスはパピアスを読んでいなかった）をメモに一行書いてよい。
+- 確かめた資料：Funk n534（l. 31361〜31362、31379〜31394）。Richardson n100。Bernoulli l. 4041、1805。funk-1901.txt 2.12〜2.13。エピファニオス、『エゼキエル書注解』、アナトリウスあての書簡の本文は見ていない（末尾の「未確認」）。
+
+### 15.3 Quem secuti sunt Irenaeus et Apollinarius …（後に続いた人々の名）
+- 底本（Funk）：Quem secuti sunt Irenaeus et Apollinarius et ceteri, qui post resurrectionem aiunt in carne cum sanctis dominum regnaturum. Tertullianus quoque in libro de spe fidelium et Victorinus Petavionensis et Lactantius hac opinione ducuntur（n534 l. 17〜21 = l. 31362〜31368）。
+- ほかの読み：Richardson と Bernoulli は Apollinaris（上の項目）。Bernoulli の校注は、その B 写本（Richardson の A）が et を Apollinaris の前に欠くと言う（l. 1811）。Petavionensis は、写本ごとに Petab-、Pitab-、Peetab-、Pectav- と綴りが揺れる（Richardson 校注 p. 19 l. 22）。L–H はこの一文（Tertullianus quoque …）を含まない（l. 28773〜28776）。
+- 人物：Victorinus Petavionensis は『著名者列伝』七四章のペタビオ（Petabio）の監督ウィクトリヌスで、黙示録の注解を書き、最後は殉教した（Richardson pp. 40〜41 = l. 6695〜6717。OCR）。Funk の注は「secuti sunt」の語に注して、パピアスの説に従った人々の名残として、ユスティニアヌス法典一・五・五に「パピアス派」の名があり、『プラエデスティナトゥス』三二章がエルケサイ派の中に「アカイアの長老パピアス」を挙げると添える（n534 = l. 31389〜31394 右段）。Tertullianus の de spe fidelium（『信じる者の望みについて』）については、見た資料に説明がない（末尾の「未確認」）。Apollinarius がどの人か（ヒエラポリスのアポリナリオスか、ラオディキアのアポリナリオスか）を示す注は、見た資料にない（末尾の「未確認」）。
+- 採る校訂者：Apollinarius は Funk と L–H、Apollinaris は Richardson と Bernoulli。
+- 読者への影響：小 — 名の綴りが違うだけ。どのアポリナリオスかは訳文には響かない。
+- 訳での扱い：訳注は付けない。名の表記はメインが決める（本の AGENTS.md の名前の表に、ギリシア語の Ἀπολινάριος「アポリナリオス」がある）。書名は『』で囲む（本の AGENTS.md の訳語の表）。テルトゥリアヌスの書についてのメモは、確かめてから書く。
+- 確かめた資料：Funk n534（l. 31362〜31368、31389〜31394）。Richardson n100、l. 6695〜6717。Bernoulli l. 4044〜4048、1811。L–H l. 28773〜28776。
+
+### 16.1 書簡七一・五の文脈と、otii mei
+- 底本（Funk）：Porro Iosephi libros et sanctorum Papiae et Polycarpi volumina falsus ad te rumor pertulit a me esse translata: quia nec otii mei nec virium est, tantas res eadem in alteram linguam exprimere venustate（n534 最終行〜n535 l. 3 = l. 31376、31403〜31407）。
+- 文脈：書簡七一はスペインのバエティカのルキヌス（Lucinus）にあてたもの（Hilberg の表題 AD LUCINUM BAETICUM、l. 102）。五節でヒエロニュムスは、ルキヌスが望んだ自分の小品を、ルキヌスの使いの者たちに写させたこと、写しの誤りは自分でなく筆写者のせいであることを述べ（p. 5 l. 16〜p. 6 l. 2）、そのあとに断片 XVI の文が来る。続けて「オリゲネスとディデュモスのものは少しだけ訳した。ギリシアの学問が何を持っているかを、われわれの人々に一部でも示したかったからである」と言い、ヘブル語からの旧約の訳と、新約のギリシア語による改訂に話が移る（p. 6 l. 5〜13）。
+- ほかの読み：Hilberg の本文は nec otii nec uirium est（mei なし）。校注は「4 odii D; add. mei D」で、mei は D 写本だけの読み（p. 6 l. 4 と校注 = l. 381、409）。Funk（PL 22）と L–H（l. 28786〜28787）は otii mei。Hilberg は Polycarpi の綴りを policarpi と書く写本も挙げる（校注 l. 407）。
+- 採る校訂者：otii mei は Funk、L–H。otii だけは Hilberg。
+- 読者への影響：小 — mei の有無は「私の暇」と「暇」の違いだけ。文脈は、ヒエロニュムスがパピアスとポリュカルポスの著作を知っていたが訳していないことを示す。
+- 訳での扱い：訳注は付けない。宛先の「あなた」はルキヌス。`// ` メモに、書簡七一はスペインのルキヌスあてで、写しを作らせた自分の著作の話の続きであること、すぐあとでオリゲネスとディデュモスのものは少し訳したと言うことを書く。名の表記（ルキヌス、ヨセフス）はメインが決める。
+- 確かめた資料：Funk n534〜n535（l. 31376、31403〜31410）。Hilberg l. 102、338〜409。L–H l. 28785〜28791。
+
+### 17.1 省略点に省かれた語と、discipulus がだれにかかるか（書簡七五・三）
+- 底本（Funk）：Refert Irenaeus ..... Papiae auditoris evangelistae Ioannis discipulus .....（n535 l. 5〜6 = l. 31414〜31418）。
+- 省かれた語：Hilberg の本文は「refert Irenaeus, uir apostolicorum temporum et Papiae, auditoris euangelistae Iohannis, discipulus episcopusque ecclesiae Lugdunensis, quod Marcus quidam de Basilidis Gnostici stirpe descendens primum ad Gallias uenerit …」（p. 32 l. 14〜17 = l. 1765〜1768）。つまり最初の省略点は「使徒たちの時代の人であり、また」（uir apostolicorum temporum et）、二つ目は「またリヨンの教会の監督である（エイレナイオスが）、グノーシス派のバシレイデスの系統から出たマルコスという者が、まずガリアに来て…」以下を省く。Hilberg の注はエイレナイオス『異端反駁』一巻八章以下を参照させる（l. 1772〜1773）。
+- 構文：discipulus は主格で、主語 Irenaeus と同格。Papiae は属格で discipulus にかかり、auditoris euangelistae Iohannis は Papiae と同格。すなわち「福音書記者ヨハネに聞いた者であるパピアスの弟子エイレナイオス」。L–H の英訳もそう取る（l. 29419〜29420）。Hilberg の校注によれば、A と D の写本は papias、auditores、discipuli と書く（l. 1785〜1786）が、どれも誤写の形。
+- 文脈：書簡七五はスペインのテオドラに、夫ルキヌス（書簡七一の宛先）の死を悼んで書いたもの（表題 l. 1603、1 節 l. 1605〜1610）。三節でヒエロニュムスは、スペインにバシレイデスの異端が広がったとき、ルキヌスが教会の信仰の純粋さを守ったとほめ、その異端の古さの証人としてエイレナイオスを引く。直後には「彼はこれをおよそ三百年前に書いた」とある（l. 1799〜1800）。
+- 採る校訂者：Funk と L–H は省略点で抜き出す。本文の読みは一つ。
+- 読者への影響：中 — 省略点のままでは、だれが「パピアスの弟子」なのかも、エイレナイオスが何を伝えるのかもわからない。この断片の要点は、ヒエロニュムスがエイレナイオスをパピアスの弟子と呼び、パピアスを福音書記者ヨハネの聞き手と呼ぶことにある。
+- 訳での扱い：訳注は付けない。省略点は本書の決まりどおり「（中略）」とし、「弟子」がエイレナイオスにかかるように訳す。`// ` メモに、省かれた語（「使徒たちの時代の人であり、また」と「リヨンの教会の監督である」、そしてエイレナイオスが伝える内容＝バシレイデス派のマルコスがガリアに来て人々を惑わしたこと）と、書簡七五はルキヌスの妻テオドラへの弔いの手紙であることを書く。
+- 確かめた資料：Funk n535（l. 31414〜31421）。Hilberg l. 1602〜1612、1752〜1800。L–H l. 28797〜28800、29416〜29421。
+
+### 18.1 序文の出典と、伝わり方
+- 底本（Funk）：Incipit argumentum secundum Iohannem. Evangelium Iohannis manifestatum et datum est ecclesiis ab Iohanne adhuc in corpore constituto, sicut Papias nomine Hierapolitanus, discipulus Iohannis carus, in exotericis id est in extremis quinque libris retulit（n535 l. 8〜12 = l. 31425〜31431、31460）。出典は「Cod. Vatic. Alex. 14 saec. IX ed. J. M. Thomasius … Opp. I, 344 Romae 1747; Pitra, Analecta sacra II, 160」（n536 = l. 31511〜31512）。
+- 写本と刊本：Funk の注は、この断片が長く忘れられていたのを Aberle が Theologische Quartalschrift 1864 pp. 1〜31 で取り上げ、すぐに大きな論争が起こって今も続いている、Harnack（Geschichte der altchristl. Litteratur II, 1、1897、664 以下）は証言を退け、Zahn（Forschungen VI 127）は認める、と言う（n535 = l. 31434〜31442）。Pitra 1884 は、写本はアレクサンドリア（Alexandrinus）と呼ばれ今はヴァティカンのレギナ文庫にあり、第一葉に十五世紀の書き込みで、この本はボヘミアの聖ヴァーツラフの持ち物だったと信じられているとある、と書く（p. 156 = l. 18084〜18093）。Zahn は「レギナ写本 14、九世紀のラテン語聖書」と呼ぶ（p. 460 注 4 = l. 24660〜24661）。W–W は「スウェーデン女王の写本から、Thomasius の版（I p. 344）で刷った」とし（p. 491 = 画像 n536）、次の p. 492 では、同じ Thomasius I p. 344 から刷った章の目次の出所を「Uat. Alex. 14」と書く（l. 63646）。Pitra 1884 は写本どおりの翻刻（略字つき）を出し、注 2 で、写本をそのまま示すこと、先に Thomasius と Maignan（Les évangiles p. 439）が刊行していることを言う（p. 160 注 2 = l. 18390〜18392）。
+- もう一つの形：W–W p. 490 は、トレド写本（九世紀）にある別の序文を刷る。『著名者列伝』九章のヨハネの項に近い文（ヨハネが小アジアの監督たちの求めでケリントスやエビオン派に反対して書いた、ほかの三福音書を見て…）で始まり、そのあとに「この福音書は黙示録の後に書かれ、ヨハネがまだ体のうちにあったときに、アジヤの教会に示され与えられた。エラポリス（Iheropolitanus）の監督でヨハネの弟子で愛されたパピアスが、自分の exotericis すなわち最後の五巻で伝えているとおりである。彼（qui）はヨハネの口述のもとでこの福音書を書いた」と続き、さらに Martion の代わりに archinon という名で異端者の話がある（画像 n535）。Funk の注もこの序文を挙げる（n535 = l. 31443〜31447）。Zahn も「Wordsworth p. 490 の序文」を参照させる（l. 24669〜24670）。
+- 採る校訂者：Funk と L–H は Thomasius（ヴァティカン写本）の形を本文とする。
+- 読者への影響：中 — 断片 XVIII はパピアスの文ではなく、九世紀のラテン語聖書にある序文が、パピアスを出典として挙げる文。パピアスに帰せるのは「ヨハネがまだ体のうちにあるとき福音書を教会に与えた」という部分だけとみる説（Zahn。下の 18.2 の項目）がある。
+- 訳での扱い：訳注は付けない。見出しの「引用している著者や書物」は「ヴァティカン写本のヨハネ福音書の序文」のように書く（メインが決める）。冒頭の Incipit argumentum secundum Iohannem（「ヨハネによる（福音書の）序文、ここに始まる」）は底本の本文なので訳す。`// ` メモに、九世紀のラテン語聖書の写本にある序文で、十八世紀に Thomasius が刊行したこと、トレド写本には同じ話を含む別の形の序文があることを書く。
+- 確かめた資料：Funk n535（l. 31425〜31447）、n536（l. 31511〜31512）。Pitra 1884 n215、l. 18081〜18131。W–W n535、n536、l. 63646、88792〜88797。Zahn l. 24660〜24674。L–H l. 29053〜29056（IIIF）。
+
+### 18.1 in exotericis id est in extremis（「外の、すなわち最後の」五巻）
+- 底本（Funk）：in exotericis id est in extremis quinque libris retulit（n535 l. 11〜12 = l. 31460、31431）。写本の読み（Pitra 1884 の翻刻 in exotericis id ē in extremis、p. 160 = 画像 n215）。W–W の刷り直した Thomasius の版も同じ（n536）。トレド写本の序文は in exotericis suis id est in extremis（「自分の exotericis すなわち最後の」、n535）。
+- ほかの読み（推測）：Funk の注は、ほとんどすべての人がこの箇所は崩れているとみること、著者はきっと exotericis でなく exegeticis（「解き明かしの」）と書いたこと、筆写者が exotericis と書いた後で、別の人がこの語を説明して id est in extremis を足したことを言う（n535〜n536 = l. 31491、31526〜31531）。L–H は exotericis (l. exegeticis) と extremis (l. externis) と刷る（l. 29048〜29049、p. 524 を IIIF で確かめた）。Pitra 1884 も、Exegeticos の五巻のほかに別の本があったと考えてはならず、exotericos は不注意な筆写者の明らかな誤りだ、と言う（p. 156 = l. 18095〜18097）。Lightfoot 1889 は、Overbeck が「Exoterica」という五巻の偽書がパピアスの名で作られたと考え、Hilgenfeld がそれに従ったことを挙げて退け、丸い字形の七〜八世紀の書体では OT と EG の取り違えが起こりやすいので exegeticis と読むべきだ、extremis は誤った exotericis のラテン語の説明で、externis と読むべきかもしれない、と論じる（pp. 210〜213 = l. 10138〜10180、10270〜10276）。Aberle は exegeseos、Hilgenfeld（偽書説を採る前）は exegeticis を提案した（Lightfoot p. 213 注 2 = l. 10295〜10297、10316）。パピアスの書の題がギリシア語で λογίων κυριακῶν ἐξήγησις であること（funk-1901.txt 2.1）は、exegeticis の推測の支えになる。
+- 採る校訂者：本文は全員が写本どおり exotericis id est in extremis を刷り、exegeticis は推測として注に置く（Funk、L–H、Pitra 1884）。
+- 読者への影響：大 — 写本どおりに訳すと「外向けの、すなわち最後の五巻」となり、パピアスに『主の言葉の解き明かし』とは別の五巻の書があったように読める。推測を知れば、これはパピアスのあの五巻の書（断片 I、II、XV）を指す。
+- 訳での扱い：底本どおり訳し、訳注を付けることを勧める。注の案：「本来は『解き明かしの五巻』とあったものが写し誤られたとみられる。」（32 字）。`// ` メモに、exotericis（「外の」）は exegeticis（「解き明かしの」）の誤写で、id est in extremis（「すなわち最後の」）はその誤った語に後から付けた説明とする Funk の注と、L–H が externis と直す案を書く。
+- 確かめた資料：Funk n535〜n536（l. 31431、31460、31491、31526〜31531）。Pitra 1884 n215、l. 18095〜18097。W–W n535、n536。L–H l. 29046〜29049（IIIF）。Lightfoot 1889 l. 10115〜10180、10265〜10316。
+
+### 18.1 adhuc in corpore constituto（「まだ体のうちにあったときに」）
+- 底本（Funk）：ab Iohanne adhuc in corpore constituto（n535 l. 10 = l. 31427）。
+- 解釈：Funk の注は、これはギリシア語の ἔτι ἐν τῷ σώματι καθεστῶτος にあたり、この分詞の言い方から断片はもとギリシア語で書かれたとわかる、と言う。Harnack はこの言い方は意味をなさないとする。死んだヨハネが福音書を出したとはだれも言いえないからである。しかし Funk は、マタイ二七・六三にも「あの惑わす者がまだ生きていたときに言った」（ἐκεῖνος ὁ πλάνος εἶπεν ἔτι ζῶν）と同じ言い方がある、と反論する。Zahn はこの言い方をヨハネ二一・二四から説明する。この節から、第四福音書は著者の死後にその友人たちが出したと推論されえたので、パピアスはそうでなく、ヨハネの生前に本人によって出されたと言ったのだ、とする。Funk はむしろ Lightfoot の推測を正しいとみる。パピアスが長老たちの権威でヨハネの言葉をいくつか挙げた後で、「そしてこれは、彼がまだ生きていたときに教会に与えた彼自身の福音書にあることと合う」のように続けたのだろう、それなら、ヨハネの死後に繰り返された話と、生きている人の口から受けた福音書とを対比して、この言い方がよくわかる、とする（n535 = l. 31449〜31488）。Lightfoot 1889 も同じ推測を述べ、constituto の語から、この文はギリシア語から訳されたとみる（pp. 213〜214 = l. 10276〜10290）。
+- 聖書との関係：口語訳のマタイ二七・六三は「あの偽り者がまだ生きていたとき」。ヨハネ二一・二四は「これらの事を書いたのは、この弟子である」。「体のうちに」は、口語訳では第二コリント五・六「肉体を宿としている間」、ヘブル一三・三「同じ肉体にある者」などの言い方に近いが、序文が特定の聖句を引いているのではない。
+- 採る校訂者：読みは一つ。トレド写本の序文も aduc in corpore constituto（n535）。
+- 読者への影響：中 — 「まだ体のうちにあったときに」は「生きているあいだに」の意で、福音書がヨハネの死後に弟子たちの手で出されたのではないことを言う。
+- 訳での扱い：訳注は付けない。「まだ体のうちにあったときに」「まだ生きていたときに」のどちらにするかはメインが決める。`// ` メモに、Funk がこれをギリシア語の ἔτι ἐν τῷ σώματι καθεστῶτος の訳とみること、ヨハネ二一・二四（「これらの事を書いたのは、この弟子である」）との関係を論じる説があることを書いてよい。
+- 確かめた資料：Funk n535（l. 31427、31449〜31488）。Lightfoot 1889 l. 10276〜10290。bible-api（Matt.27.63、John.21.24、2Cor.5.6、Heb.13.3）。W–W n535。
+
+### 18.2 角括弧（Funk がパピアスに帰さない部分）と、パピアスに帰せる範囲
+- 底本（Funk）：2. [Descripsit vero Evangelium dictante Iohanne recte. Verum Martion haereticus, cum ab eo fuisset improbatus, eo quod contraria sentiebat, abiectus est a Iohanne. Is vero scripta vel epistolas ad eum pertulerat a fratribus, qui in Ponto fuerunt]（n535 l. 12〜n536 l. 4 = l. 31463、31500〜31508）。Funk は 18.2 全体を角括弧に入れる。
+- 理由（Funk の注）：これが信じるに足るかは決めずにおく。ただ、序文の書き手自身がこれをけっしてパピアスに帰していないこと、またすぐ後に続く話（Martion の話）がより後の時代を示すので、この教父に帰すべきでないことは確かである。だから角括弧に入れた（n536 = l. 31533〜31540）。
+- ほかの扱い：L–H は 18.2 の最初の文（Descripsit … recte.）までを断片に含め、Martion 以下を含まない（l. 29049〜29050）。Zahn は、パピアスの書に帰してよいのは retulit までで、その先は序文の書き手が別の資料から取った、と言う（p. 460 注 4 = l. 24667〜24669）。Lightfoot 1889 も、この序文はいろいろな出所の記事を集めたもので、最後のマルキオンの話は時代の錯誤を含む、と言う（p. 212 = l. 10244〜10252）。
+- 採る校訂者：角括弧は Funk。L–H は最初の文までを断片とする。
+- 読者への影響：大 — 角括弧の意味がわからないと、パピアスがヨハネの口述筆記者であったことやマルキオンの話までがパピアスの伝えに見える。
+- 訳での扱い：底本の本文なので訳し、角括弧も残す。訳注を付けることを勧める。注の案：「角括弧の部分はパピアスの伝えではなく、別の資料によるとみられる。」（32 字）。`// ` メモに、Funk がここを角括弧に入れた理由（序文の書き手自身がパピアスに帰していない、マルキオンの話が後代を示す）と、L–H は最初の文までを断片に含めることを書く。14.1 の角括弧（「神学者であり」）は訳さなかったが、そこは Funk が本文への加筆とみた語で、ここは序文そのものの一部なので、扱いを分けてよい（メインが決める）。
+- 確かめた資料：Funk n535〜n536（l. 31463、31500〜31508、31533〜31540）。L–H l. 29044〜29050（IIIF）。Zahn l. 24660〜24670。Lightfoot 1889 l. 10244〜10252。
+
+### 18.2 Descripsit vero Evangelium dictante Iohanne recte（だれが書いたのか）
+- 底本（Funk）：Descripsit vero Evangelium dictante Iohanne recte（n535 l. 12〜n536 l. 1 = l. 31463、31500）。主語は書かれていない。前の文の主語はパピアス（sicut Papias … retulit）。
+- 写本と刊本：Pitra 1884 の翻刻は Descripsit uō（vero の略字）evangelium で、注に「刊本は descripsit evangelium と刷り、vero を落とす」と書く（p. 160 と注 3 = 画像 n215、l. 18393〜18394）。しかし W–W が Thomasius の版から刷り直した本文は descripsit uero euangelium（n536）。どちらが Thomasius の版の実際の形かは、Thomasius を見ていないので決められない（末尾の「未確認」）。Funk と L–H は vero を刷る。
+- 解釈：文法上は前の文の主語パピアスを受け、「パピアスがヨハネの口述で福音書を書き写した」となる。Pitra 1884 はそう取り、序文はパピアスが福音書を読んだだけでなく、ヨハネの口述で書いたとはっきり言う、と書く（p. 161 = l. 18526〜18530）。トレド写本の序文は「彼（qui）はヨハネの口述のもとでこの福音書を書いた」と関係代名詞でパピアスにつなぐ（W–W p. 490 = 画像 n535）。Funk の注によれば、Lightfoot は、パピアスはもと福音書を「ヨハネが教会に与え、人々がその口から書き取った」（ὃ ἀπέγραφον ἀπὸ τοῦ στόματος αὐτοῦ）と引いたのを、後の書き手があいまいな ἀπέγραφον（三人称複数とも一人称単数とも取れる）を「私が書き取った」と誤解したので、パピアスが使徒の筆記者になった、と推測する。Funk は、ヨハネがごく高齢で福音書を書いたことを考えれば、自分で書かずにだれかに口述したことはありそうだ、と添え、断片 XIX を参照させる（n536 = l. 31541〜31553、31592、31563）。Lightfoot 1889 の推測も同じで、ἀπέγραψα と ἀπέγραψαν の取り違えの可能性も挙げる（p. 214 と注 1 = l. 10321〜10326、10355〜10356）。recte（「正しく」）は descripsit にかかる（「正しく書き写した」）とも、dictante にかかるとも取れる。
+- 採る校訂者：本文の読みは一つ（vero の有無を除く）。
+- 読者への影響：中 — 主語を補えば「パピアスが書いた」となり、断片 XIX と同じ伝えになる。訳文で主語をぼかすか補うかで、読者の受け取り方が変わる。
+- 訳での扱い：訳注は付けない（角括弧の注で足りる）。主語を補うかはメインが決める。文法と、トレド写本の形と、断片 XIX からは、パピアスを主語と取るのが自然。`// ` メモに、主語は書かれていないが前の文のパピアスを受けること、トレド写本の序文は関係詞でパピアスにつなぐこと、断片 XIX にも同じ伝えがあることを書く。
+- 確かめた資料：Funk n535〜n536（l. 31463、31500、31541〜31553、31563、31592）。Pitra 1884 n215、l. 18393〜18394、18526〜18530。W–W n535、n536。Lightfoot 1889 l. 10321〜10356。
+
+### 18.2 Martion haereticus（マルキオンか、ケリントスか）
+- 底本（Funk）：Verum Martion haereticus, cum ab eo fuisset improbatus, eo quod contraria sentiebat, abiectus est a Iohanne（n536 l. 1〜3 = l. 31500〜31504）。Martion（t の綴り）は写本の読み（Pitra 1884 の翻刻 = n215、W–W の Thomasius の版 = n536）。
+- ほかの読み：Funk の注によれば、Aberle は Merinthus か Cerinthus と読むべきだと推測した（n536 = l. 31563〜31565）。トレド写本の序文は archinon hereticus（n535）。Zahn は Marcion と綴る（l. 24665）。
+- 解釈（Funk の注）：ポントスの兄弟たちの話が出る以上、Martion（＝ポントス出身のマルキオン）の読みはきっと残すべきだ。しかしそう読むなら、この話は誤りと考えなければならない。フィラストリウス『異端について』四五は、マルキオンが福音書記者ヨハネに打ち負かされ追い払われたと書くが、エイレナイオスもエウセビオスもそれより前の世紀の教父たちも何も言わない。しかもこの異端者が使徒と同じ時代の人でなかったことは確かである。書き手はヨハネの弟子ポリュカルポスをヨハネと取り違えたように見える。Harnack は、この話はエイレナイオス三・三・四（ヨハネとケリントス、ポリュカルポスとマルキオンが並んで出る箇所）から作られたとみる（n536 = l. 31563〜31583）。Lightfoot 1889 も同じく、ヨハネとケリントスの出会いとポリュカルポスとマルキオンの出会いの取り違えとみる（p. 212 = l. 10244〜10252）。
+- 採る校訂者：Martion は Funk、Pitra 1884、W–W（Thomasius）。L–H はこの部分を含まない。
+- 読者への影響：中 — マルキオンは二世紀の人で、使徒ヨハネに会えたはずがない。読者がこれを史実と受け取らないよう、角括弧の注（上の項目）が要る。
+- 訳での扱い：訳注は角括弧の注に任せ、ここには付けない。名は「マルキオン」とする案（写本の t の綴りはメモに書く）。`// ` メモに、写本の綴りは Martion で、ポントスの話からマルキオンと取れること、マルキオンは使徒より後の人でこの話は史実と合わないこと（Funk の注）、ケリントスと読む推測とトレド写本の archinon を書く。
+- 確かめた資料：Funk n536（l. 31500〜31504、31563〜31583）。Pitra 1884 n215。W–W n535、n536。Zahn l. 24665。Lightfoot 1889 l. 10244〜10252。
+
+### 18.2 Is vero scripta vel epistolas ad eum pertulerat a fratribus, qui in Ponto fuerunt（だれがだれに何を届けたのか）
+- 底本（Funk）：Is vero scripta vel epistolas ad eum pertulerat a fratribus, qui in Ponto fuerunt（n536 l. 3〜4 = l. 31508、31505）。
+- 解釈：is は直前の主語マルキオン、eum はヨハネを受けると取るのが自然で、「マルキオンはポントスにいる兄弟たちから、書き物あるいは手紙を彼（ヨハネ）のもとに届けていた」となる。過去完了 pertulerat は、追い払われる前のこととして言う。a fratribus は「兄弟たちから（託されて）」。トレド写本の序文は hic uero scribtu ut epistolas ad eum pertulerunt a fratribus missus qui in ponto erant fideles in domino nostro（「この者は、ポントスにいた主にある信仰の兄弟たちから遣わされて、書いたもの、すなわち手紙を彼のもとに届けた」の意）で、missus（遣わされた）を足して意味をはっきりさせる（W–W p. 490 = 画像 n535）。scripta vel の vel は写本では略字（Pitra 1884 は「ī (vel)」と翻刻、n215）。
+- 採る校訂者：読みは一つ。
+- 読者への影響：小 — 指示語の取り方で文意が少し変わるが、どれも伝説の細部。
+- 訳での扱い：訳注は付けない。「マルキオンは」「ヨハネのもとに」のように指示語を名で補うかはメインが決める。`// ` メモに、トレド写本の序文が「兄弟たちから遣わされて」と足していることを書いてよい。
+- 確かめた資料：Funk n536（l. 31505〜31508）。Pitra 1884 n215。W–W n535。
+
+### 19.1 カテナの序の文脈（ΑΝΕΠΙΓΡΑΦΟΥ と、γάρ・τούτων の受けるもの）
+- 底本（Funk）：Ὕστατος γὰρ τούτων Ἰωάννης ὁ τῆς βροντῆς υἱὸς μετακληθείς …（n536 l. 6 = l. 31518）。出典は「Ex Catena Patrum graec. in S. Ioannem ex antiquissimo graeco codice ms. in lucem edita a B. Corderio. Antverpiae 1630」（n537 = l. 31624〜31625）。
+- 写本：Funk の注は、このカテナはかつてクザーヌス枢機卿の文庫にあって今は失われた写本で伝わり、フォティオスが中に場所を占めているので九世紀より前には書かれていない、と言う（n536 = l. 31585〜31592）。
+- 文脈：Funk の注は、断片はカテナの序（prooemium）にあり、そこではアレクサンドリアのキュリロスとモプスエスティアのテオドロスのあとに名のない証人が続き、各福音書記者が前の人の省いたことを補ったと言ってから、この言葉を加え、そのあとヨハネがほかの福音書に何を足したかを述べる、と言う（n537 = l. 31657〜31667）。Corderius の刊本では、見出し ΑΝΕΠΙΓΡΑΦΟΥ（ラテン語の欄は ANEPIGRAPHI）の下に「キリストの来臨の歴史の全体は四人の福音書記者によって満たされる。マタイが黙っていたことはマルコで満たされ、マルコで忘れられたことはルカで明らかにされ、この三人の福音書記者が言わなかったことは神学者ヨハネで満たされた」の意の文があり（画像 00018 の下）、それに Ὕστατος γὰρ τούτων が続く（00019 の上）。断片の後は「たとえばカナの婚礼、役人の息子、…ニコデモとの対話」のように、ヨハネだけが記す話の列が続く（00019）。したがって γάρ は前の文（ヨハネが三人の省いたことを満たした）の理由を言い、τούτων は四人の福音書記者を受ける。
+- 採る校訂者：読みは一つ（Corderius の綴りは下の「小さな異読」）。
+- 読者への影響：中 — 断片だけでは「これらのうち最後の」が何を指すかわからない。
+- 訳での扱い：訳注は付けない。γάρ は本の AGENTS.md の決まりどおり落とさず、「〜からである」か「〜のである」で訳す。`// ` メモに、断片はカテナの序の、作者名のない一節の途中から始まること、直前の文（四福音書は互いに補い合い、三人が言わなかったことはヨハネで満たされた）と、「これら」は福音書記者たちを指すことを書く。
+- 確かめた資料：Funk n536〜n537（l. 31518、31585〜31592、31624〜31625、31657〜31667）。Corderius 00018〜00020（IIIF で切り出して読んだ）。
+
+### 19.1 εὐβιότῳ（「徳の高い」か、名か、「同居の」か）
+- 底本（Funk）：τῷ ἑαυτοῦ μαθητῇ Παπίᾳ εὐβιότῳ τῷ Ἱεραπολίτῃ（n537 l. 3〜4 = l. 31600〜31601）。Funk のラテン語対訳は discipulo suo Papiae honesto Hierapolitae（n537 = l. 31612〜31613）で、形容詞に取る。
+- ほかの読み：Funk の注は、写本は εὐβιώτῳ と書いていたようで、Corderius はこの語を呼び名と取って大文字の Εὐβιώτῳ と刷った、ひょっとすると Lightfoot の推測どおり συμβιότῳ か συμβιωτῇ と読むべきかもしれない、と言う（n537 = l. 31667〜31672）。Corderius の刊本は Παπίᾳ Εὐβιώτῳ τῷ Ἱεραπολίτῃ で、ラテン語訳は Papiae Eubioto Hierapolitae（画像 00019、IIIF で確かめた）。Lightfoot 1889 もカテナを引いて εὐβιώτῳ (sic) と書く（p. 213 注 4 = l. 10310〜10316）。L–H は本文を εὐβιώτῳ とし、(l. εὐβιότῳ) と直す（l. 29066、p. 524 を IIIF で確かめた）。συμβιότῳ／συμβιωτῇ の推測が Lightfoot のどの著作にあるかは確かめていない（Lightfoot 1889 の該当ページにはない）。
+- 採る校訂者：εὐβιότῳ は Funk（本文）と L–H（直した読み）。εὐβιώτῳ は Corderius と L–H の本文。συμβιότῳ／συμβιωτῇ は推測。
+- 読者への影響：中 — 形容詞なら「徳の高い（りっぱに生きた）弟子パピアス」、Corderius のように名なら「パピアス・エウビオトス」、推測なら「ともに暮らした弟子パピアス」になる。
+- 訳での扱い：訳注は付けない（底本は形容詞で、名と取る読みは刊行者の解釈、ほかは推測）。底本どおり形容詞として訳す。`// ` メモに、最初の刊行者がこの語を名と取ったこと、「同居の」と読み直す推測があることを書く。
+- 確かめた資料：Funk n537（l. 31600〜31601、31612〜31613、31667〜31672）。Corderius 00019。Lightfoot 1889 l. 10310〜10316。L–H l. 29066（IIIF）。
+
+### 19.1 ὡς παρέδοσαν ἡμῖν ὅ τε Εἰρηναῖος καὶ Εὐσέβιος …（だれが何を伝えたのか）
+- 底本（Funk）：πάνυ γηραλέου αὐτοῦ γενομένου, ὡς παρέδοσαν ἡμῖν ὅ τε Εἰρηναῖος καὶ Εὐσέβιος καὶ ἄλλοι πιστοὶ κατὰ διαδοχὴν γεγονότες ἱστορικοί, κατ’ ἐκεῖνο καιροῦ αἱρέσεων ἀναφυεισῶν δεινῶν ὑπηγόρευσε τὸ εὐαγγέλιον τῷ ἑαυτοῦ μαθητῇ Παπίᾳ …（n536 l. 8〜11、n537 l. 1〜4 = l. 31520〜31523、31598〜31601）。
+- 解釈：ὡς の句は位置からは「ごく年老いてから」にかかり、エイレナイオスとエウセビオスが伝えるのは、ヨハネが最後に、年老いて、異端が起こったころに福音書を書いたことと読める。見た範囲では、エイレナイオスはヨハネが（マタイ、マルコ、ルカの後に）エペソで福音書を出したこと（『異端反駁』三・一・一）、ケリントスの誤りを除こうとして書いたこと（三・一一・一）、トラヤヌスの時代まで生きたこと（二・二二・五、三・三・四）を言う。エウセビオスは、ヨハネがほかの三福音書の後に、それらに欠けているものを補うために書いたと伝える（『教会史』三・二四・五〜七）。パピアスへの口述は、どちらの見た箇所にもない。Zahn は、パピアスがヨハネの口述の筆記者だったという伝説は、ギリシア語ではこのカテナの序に出て、プロコロスに移されて『ヨハネ行伝』にも出る、と言う（p. 460 注 4 = l. 24671〜24674）。κατὰ διαδοχὴν γεγονότες ἱστορικοί は「次々に現れた歴史家たち」。Funk のラテン語対訳は aliique post eos fide digni historici（「その後の信頼できる歴史家たち」、n536 = l. 31559）で、Corderius のラテン語訳（aliique post eos fide digni historici、00019）をそのまま使う。
+- 採る校訂者：読みは一つ。
+- 読者への影響：中 — 訳し方によっては、エイレナイオスとエウセビオスがパピアスへの口述まで伝えているように読める。
+- 訳での扱い：訳注は付けない。語順をできるだけ保ち、「エイレナイオスやエウセビオスたちが伝えるとおり、ごく年老いてから」のように、ὡς の句が年齢と時期にかかるように訳すとよい（メインが決める）。`// ` メモに、エイレナイオスとエウセビオスが伝えるのはヨハネが最後に年老いて福音書を書いたことで、パピアスへの口述は見た箇所にないことを書く。
+- 確かめた資料：Funk n536〜n537（l. 31520〜31523、31559、31598〜31601）。Corderius 00019。Stieren l. 41478、48786〜48796、50331、53161。Lake l. 14219〜14236。Zahn l. 24671〜24674。
+
+### 19.1 ὁ τῆς βροντῆς υἱὸς μετακληθείς（マルコ三・一七）
+- 底本（Funk）：Ἰωάννης ὁ τῆς βροντῆς υἱὸς μετακληθείς（n536 l. 6〜7 = l. 31518〜31519）。Corderius は Υἱὸς を大文字で刷る（00019）。
+- 聖書との関係：マルコ三・一七で、イエスはゼベダイの子ヤコブとヨハネに「ボアネルゲ、すなわち雷の子」（Υἱοὶ Βροντῆς、複数）という名を付けた（byztxt。口語訳「雷の子という名をつけられた」）。カテナの序はヨハネ一人について単数で言う。μετακληθείς は「（新しく）呼び名を付けられた」。
+- 採る校訂者：読みは一つ。
+- 読者への影響：小 — 聖書を知る読者にはすぐわかる言い回し。
+- 訳での扱い：訳注は付けない。本の AGENTS.md のとおり、原文が引用と示していないので出典は本文に付けず、`// ` メモに「マルコ三・一七」と書く。「雷の子」は口語訳に合わせる。
+- 確かめた資料：Funk n536（l. 31518〜31519）。Corderius 00019。byztxt `MAR.csv` 3:17。bible-api（Mark.3.17）。
+
+### 20.1 出典と伝わり方（アルメニア語→ドイツ語→ラテン語）
+- 底本（Funk）：Et cum fores clausae essent, apparuit undecim (discipulis) et aliis, qui cum eis erant. … etenim divites erant（n537 l. 10〜16 = l. 31631〜31650）。出典は「Ex Solutionibus in IV Evang. Vardani Vardapeti Armenii saec. XII ed. Conybeare in Guardian 1894 die 18. Iulii」（l. 31653〜31654）。
+- 伝わり方：Funk の注は、ヴァルダンのこの書はヴェネツィアのサン・ラザロ修道院の写本 51 の fol. 3 で伝わり、Zahn が Einleitung 第 2 版 II 460 でこの部分をドイツ語に訳し、Funk はその訳からラテン語にした、と言う（n537 = l. 31657〜31664 右段）。Zahn も、Conybeare が Guardian 1894 年 7 月 18 日にサン・ラザロ写本 51 fol. 3 から報告したものとして、ドイツ語訳を載せる（p. 460 注 3 = l. 24640〜24651）。したがって本書の訳は、アルメニア語の英訳（Conybeare、見ていない）のドイツ語訳（Zahn）のラテン語訳（Funk）を、さらに日本語にするものになる。Zahn は p. 468 で、この Vardapet がポリュカルポスを「洗礼者ヨハネの弟子」と呼ぶ（もとの資料では「福音書記者ヨハネの弟子」）ことを、伝えの崩れの例に挙げる（l. 25114〜25118）。
+- 採る校訂者：本文は Funk のラテン語だけ。L–H にはない。
+- 読者への影響：中 — この断片の語の細部（「十一人」の後の補い、接続詞、アロエの名）は、何重もの翻訳を経ている。
+- 訳での扱い：訳注は付けない。見出しの「引用している著者や書物」は「ヴァルダン（十二世紀のアルメニアの学者）の『四福音書の解答』」のように書く（名の表記はメインが決める。Vardapet は名でなく「博士」にあたる称号）。`// ` メモに、アルメニア語の原文を Zahn がドイツ語に訳し、それを Funk がラテン語にしたものを訳したことを書く。
+- 確かめた資料：Funk n537（l. 31631〜31664）。Zahn l. 24640〜24651、25111〜25118。
+
+### 20.1 パピアスに帰せる範囲
+- 底本（Funk）：Certum est autem, aloen speciem turis esse, sicut refertur a geographo et Papia, quod (vel: namque) sunt quindecim species aloes in India …（n537 l. 13〜15 = l. 31646〜31648）。
+- 解釈：Funk の注は、断片の中でパピアスに帰すべきものは「アロエは乳香の一種である」という言葉だけのようだ、と言い、Zahn を参照させる（n537 = l. 31677〜31680）。Zahn は、「地理学者」はモヴセス・ホレナツィで、その『地理』四一章にアロエの四つの種類のことがあるので、四つの種類の話はパピアスからではない、アロエを油と蜜を混ぜたものとする通俗の解釈も、それに反対して地理学者とパピアスが引かれているのだからパピアスからではない、パピアスに残るのはアロエが乳香の一種だという主張だけで、パピアスはヨハネ一九・三八以下を解き明かしの題材にしたことになる、と言う（p. 460 注 3 = l. 24651〜24658）。冒頭の「戸が閉じていたとき…」の文について、Zahn は後との関係が見えないと注する（l. 24644）。
+- 採る校訂者：Funk と Zahn は同じ判断。
+- 読者への影響：大 — 断片全体がパピアスの言葉であるように見えるが、パピアスの名で伝わるのは一つの主張だけで、ほかはヴァルダンの地の文と別の資料による。
+- 訳での扱い：訳注を付けるかはメインが決める（底本の範囲に関わる注で、異読ではない）。付けるなら案：「パピアスに由来するのは、沈香が乳香の一種だという言葉だけとされる。」（33 字）。付けない場合も、`// ` メモに Funk と Zahn の判断（パピアスに帰せるのは「アロエは乳香の一種」だけで、四つの種類は「地理学者」から、油と蜜の説はそれに反対して引かれた通俗の説）を書く。
+- 確かめた資料：Funk n537（l. 31646〜31648、31677〜31680）。Zahn l. 24644〜24658。
+
+### 20.1 Funk のラテン語と Zahn のドイツ語の違い（(discipulis)、(vel: namque)、アロエの名）
+- 底本（Funk）：apparuit undecim (discipulis) et aliis, qui cum eis erant（l. 31631〜31634）、quod (vel: namque) sunt quindecim species（l. 31647）、Nikre, Andrataratz, Ierravor, Dzakotken; unde erat id, quod Iosephus et Nicodemus ad sepulturam dabant（l. 31648〜31650）。
+- Zahn のドイツ語（l. 24643〜24651）との違い：
+  - Zahn は「erschien er den Elfen und den Andern, die mit ihnen waren」（「十一人と、彼らと一緒にいたほかの人々とに現れた」）。(discipulis) は Funk が補った語で、ドイツ語の den Elfen（「十一人に」）をラテン語で明らかにするためのもの。主語「彼」（主）は Zahn にも Funk にも書かれていない。
+  - Zahn は「daß (oder „denn“)」（「…ということ（あるいは『なぜなら』）」）。Funk の quod (vel: namque) はこれをそのまま移したもので、アルメニア語の接続詞をどちらに取るかを Zahn が決めなかったことを示す。quod なら「インドには十五種類のアロエがあるということ」が地理学者とパピアスの伝える中身になり、namque なら前の文（アロエは乳香の一種）の理由になる。
+  - Zahn は名に疑問符つきの別案を添える：「Nikre (? Ingre), Andrataratz (? Sangrataratz), Jerravor, Dzakotken」。Funk は別案を落とす。
+  - Zahn は「Daher (? von diesen 4 kostbaren Arten) war, was Joseph und Nikodemus zum Begräbnis spendeten」（「そこから（？この四つの高価な種類から）、ヨセフとニコデモが埋葬のために出したものが来ていた」）。Funk の unde erat id, quod … は疑問符つきの補いを落とす。
+  - Zahn は聖書の箇所を括弧で添える：冒頭の文に「ルカ二四・三三、ヨハネ二〇・一九」、「彼らが持ってきたアロエ」に「ヨハネ一九・三九」、「彼らは金持ちだった」に「ヨハネ一九・三八以下、マタイ二七・五七 πλούσιος」。Funk はこれを本文に入れない。
+- 採る校訂者：Funk のラテン語だけが底本。
+- 読者への影響：中 — (discipulis) は補いで、quod／namque は二つの訳し方の選択肢。訳文ではどちらかを選ぶか、両方を示すかを決める必要がある。
+- 訳での扱い：訳注は付けない。(discipulis) は括弧のまま「十一人（の弟子）」のように訳す。(vel: namque) は底本の括弧のまま「…ということ（あるいは『なぜなら』）」とするか、どちらかを選ぶかをメインが決める。アロエの四つの名は底本の綴りをカタカナにし、`// ` メモに Zahn の別案（Ingre、Sangrataratz）を書く。
+- 確かめた資料：Funk n537（l. 31631〜31650）。Zahn l. 24640〜24651。
+
+### 20.1 aloe と「地理学者」（口語訳の「沈香」）
+- 底本（Funk）：Aloe vero, quam ferebant, mixta erat, ut dicitur, dimidia parte ex oleo, dimidia ex melle. Certum est autem, aloen speciem turis esse, sicut refertur a geographo et Papia …（n537 l. 11〜15 = l. 31640、31637、31643〜31647）。
+- 聖書との関係：「彼らが持ってきたアロエ」はヨハネ一九・三九で、口語訳は「没薬と沈香とをまぜたもの」と aloe を「沈香」と訳す。「ヨセフとニコデモ」「彼らは金持ちだった」はヨハネ一九・三八〜三九とマタイ二七・五七（口語訳「アリマタヤの金持で、ヨセフという名の人」）。Zahn も同じ箇所を挙げる（l. 24645、24650〜24651）。
+- 「地理学者」：Funk の注は、モヴセス・ホレナツィ（Moses Chorenensis）で、その『地理』四一章でアロエの四つの種類を語る、と言う（n537 = l. 31664〜31677 右段）。Zahn も同じ（l. 24651〜24653）。『地理』そのものは見ていない。
+- 採る校訂者：読みは一つ。
+- 読者への影響：中 — aloe を今日の「アロエ」（多肉植物）と訳すと、「乳香の一種」「インドの十五種類」の話と合わず、ヨハネ一九・三九の口語訳の「沈香」ともつながらない。
+- 訳での扱い：訳注は付けない。aloe は口語訳に合わせて「沈香」と訳すことを勧める（ヨハネ一九・三九との結びつきが読者に見える）。`// ` メモに、aloe を口語訳のヨハネ一九・三九に合わせて「沈香」としたこと、「地理学者」は Funk と Zahn によればモヴセス・ホレナツィの『地理』であることを書く。tus は「乳香」。
+- 確かめた資料：Funk n537（l. 31637〜31650、31664〜31677）。Zahn l. 24645〜24653。bible-api（John.19.38、John.19.39、Matt.27.57）。
+
+### 20.1 Et cum fores clausae essent, apparuit undecim (discipulis) et aliis …（聖書の暗示）
+- 底本（Funk）：Et cum fores clausae essent, apparuit undecim (discipulis) et aliis, qui cum eis erant（n537 l. 10〜11 = l. 31631〜31634）。
+- 聖書との関係：戸が閉じていたときの復活の主の現れはヨハネ二〇・一九（口語訳「自分たちのおる所の戸をみなしめていると」）と二〇・二六（「戸はみな閉ざされていたが」）。「十一人と、彼らと一緒にいた人々」はルカ二四・三三（口語訳「十一弟子とその仲間が集まっていて」）に近い。Zahn は、この文と後のアロエの話との関係は見えないと注する（l. 24644）。
+- 採る校訂者：読みは一つ。
+- 読者への影響：小 — 主語（主）が書かれていないが、聖書の場面から明らか。
+- 訳での扱い：訳注は付けない。本の AGENTS.md のとおり出典は本文に付けず、`// ` メモに「ヨハネ二〇・一九、二六、ルカ二四・三三」と書く。主語「主は」を補うか、「イエスは」とするかはメインが決める（主の動作には尊敬語、本の AGENTS.md）。「十一人」は口語訳のルカ二四・三三、マルコ一六・一四の「十一弟子」に寄せてもよい。
+- 確かめた資料：Funk n537（l. 31631〜31634）。Zahn l. 24643〜24645。bible-api（John.20.19、John.20.26、Luke.24.33、Mark.16.14）。
+
+---
+
+## 項目にしなかった小さな異読と注（断片 XV〜XX）
+
+- 15.1 Richardson の校注は Aristion に「al. Ariston, Aristeon」（ほかの写本は Ariston、Aristeon、p. 19 l. 10）、mihi libri に「libri mihi e A 30 31」（l. 11）を挙げる。Bernoulli は libri mihi を本文に採る（l. 4037）。付録によれば Herding と T 写本は quid Iohannes を欠く（p. LX）。Bernoulli の校注も「7 quid iohannes fehlt A」（Bernoulli の A = Richardson の T、l. 1803）。
+- 15.1 L–H は quum、asserat（Funk は cum、adserat）、Explanatio Sermonum Domini（大文字）と刷る（l. 28748〜28749）。
+- 15.3 Bernoulli の本文は annorum mille iudaicam（語順が違う）、Hireneus、Pitabionensis（l. 4041〜4046）。Richardson の付録によれば、Bernoulli の Hireneus と Herding・Bernoulli の Pitabionensis は写本の綴り（p. LX）。
+- 15.3 Richardson は libro de Spe fidelium と Spe を大文字で書く（p. 19 l. 21）。
+- 15.3 Funk の注の右段は「secuti sunt」の語に注して、ユスティニアヌス法典一・五・五の「パピアス派」と『プラエデスティナトゥス』三二章の「アカイアの長老パピアス」を挙げる（n534 = l. 31389〜31394）。どちらも Funk の注でだけ見た。
+- 16.1 L–H の出典表示は「HIERONYMUS ad Lucinium Ep. 71 (28) c. 5. (Vallarsi I. p. 432.)」で、宛先を Lucinius と綴る（l. 28790〜28791）。Hilberg は Lucinus（表題 l. 102）で、Lucinii、Lucinium と綴る版（記号 g）もある（l. 138、469）。
+- 16.1 Funk は rumor pertulit a me esse translata: quia とコロンで区切る。Hilberg は translata, quia（l. 380）。
+- 17.1 L–H は Iohannis（Funk は Ioannis）、省略点の数も違う（l. 28797〜28798）。Hilberg の本文は Iohannis（l. 1766）。
+- 17.1 書簡七五・三でエイレナイオスを「使徒たちの時代の人」と呼ぶのは、断片 I 4 節の vetus homo（「昔の人」）とは別の言い方。
+- 18.1 W–W の刷り直した Thomasius の版は Hieropolitanus（Hierapolitanus でなく）と書き、句読点を多く入れる（Papias nomine, Hieropolitanus, discipulus …、n536）。トレド写本の序文は Iheropolitanus episcopus（「監督」を足す）、discipulus Ihoannis et carus（n535）。Pitra 1884 の翻刻は Hierapolitanus（n215）。
+- 18.1 Pitra 1884 の翻刻は datum ē（est の略字）、id ē in extremis のように略字を残す（n215）。
+- 18.1 Zahn の引用は ecclesiis（OCR は ecclesiüis）、adhuc と綴る（l. 24662〜24663）。
+- 18.1 L–H は sicut の前をセミコロンで区切る（Funk は読点、l. 29047）。
+- 18.2 トレド写本の序文は improbatus でなく reprobatus、abiectus でなく prelectus（proiectus の誤りか）と書く（n535）。
+- 18.2 Funk の注の右段の冒頭は、ヨハネの福音書の口述について「Cf. Fragm. XIX」で終わる（n536 = l. 31563）。
+- 18.2 Lightfoot 1889 は、アレクサンドリアのクレメンス『ストロマテイス』七・一七の記事はマルキオンを使徒たちと同時代の人とするが、本文に誤りがあるとみる（p. 213 注 1 = l. 10292〜10302）。
+- 19.1 Corderius の刊本の綴りは παρέδωσαν（Funk と L–H は παρέδοσαν）、κατ’ ἐκείνου καιροῦ（ȣ の合字を ου と読んだ。Funk と L–H は κατ’ ἐκεῖνο καιροῦ）、ὑπαγόρευσε（Funk と L–H は ὑπηγόρευσε）、ὅτε（Funk と L–H は ὅ τε）（画像 00019、IIIF で切り出して読んだ）。Lightfoot 1889 の引用も ὑπαγόρευσε（l. 10312）。Funk と L–H は綴りを正した形を刷る。
+- 19.1 Funk のラテン語対訳 Postremus enim inter illos Ioannes est … は Corderius のラテン語訳とほぼ同じ（00019）。Funk は Eubioto を honesto に変える。
+- 20.1 Zahn の訳の「wie man sagt」（「人の言うところでは」）は Funk の ut dicitur（l. 24645）。
+- 20.1 Zahn の名の綴りは Jerravor（Funk は Ierravor、l. 24649）。
+
+## 未確認（断片 XV〜XX）
+
+確かめられなかったので、上の項目には入れなかったもの。
+
+- 15.1 の loquebantur について、Richardson の校注の「e?」の意味（e 写本がはっきり読めないのか）と、a と H の写本が何か。写本の一覧の a と H の行は OCR で記号が落ちていた。loquantur をヒエロニュムスの原文とみる研究があるか。
+- 15.1〜15.3 で Funk が刷る diximus と、et のない viva vox usque hodie の出所（Vallarsi の版か）。Vallarsi の版そのもの（PL 23）は見ていない。
+- 15.3 の Funk の注が挙げるエピファニオス『パナリオン』三三・九、ヒエロニュムス『エゼキエル書注解』三六章（Vallarsi V p. 422）、アナトリウスあての書簡（ウィクトリヌスの黙示録注解の序）、ユスティニアヌス法典一・五・五、『プラエデスティナトゥス』三二章の本文。Funk の注でだけ見た。
+- 15.3 の Apollinarius がどのアポリナリオスか。テルトゥリアヌス『信じる者の望みについて』（de spe fidelium）が失われた書であることと、テルトゥリアヌス自身の言及（『マルキオン反駁』など）。ラクタンティウスの千年王国の説の箇所。
+- 16.1、17.1 の PL 22（Funk の出典）と Vallarsi I（L–H の出典）の本文。Hilberg の OCR でだけ読み、画像は見ていない。Hilberg の写本記号（A、D、Σ、B、g など）の対応。書簡七一と七五の年代。
+- 18.1〜18.2 の Thomasius, Opera I p. 344（1747）。archive.org で見つかった Thomasius の Opera は第二巻だけだった。Pitra 1884 の「刊本は vero を落とす」と、W–W の刷り直しにある uero のどちらが Thomasius の実際の形か。
+- 18.1〜18.2 の Aberle（Theologische Quartalschrift 1864）、Harnack（Geschichte der altchristl. Litteratur II, 1、1897、664 以下）、Zahn（Forschungen VI 127）、Lightfoot（Contemporary Review XXVI 851〜854）、Overbeck（Zeitschrift für wissenschaftliche Theologie X、1867）、Hilgenfeld、Tischendorf の議論そのもの。Funk の注と Lightfoot 1889 の要約でだけ見た。
+- 18.2 のフィラストリウス『異端について』四五と、エイレナイオス『異端反駁』三・三・四（ヨハネとケリントス、ポリュカルポスとマルキオン）の本文。Funk の注と Lightfoot 1889 でだけ見た。
+- 19.1 の Corderius の序文の写本の説明（クザーヌス枢機卿の文庫の写本）と、カテナの写本の年代の根拠（フォティオスの抜粋の位置）。Funk の注でだけ見た。直前の二つの証人（キュリロスとテオドロス）の見出しも、Corderius の画像では確かめていない（00018 の上はテオドロスの文とみられるが、見出しの位置まで見ていない）。
+- 19.1 の συμβιότῳ／συμβιωτῇ の推測が Lightfoot のどこにあるか。Lightfoot 1889 pp. 210〜214 にはない。εὐβίοτος、συμβιωτής の語の意味は辞書で確かめていない（Funk の対訳 honesto による）。
+- 19.1 の Zahn の言うプロコロス『ヨハネ行伝』（Zahn 版 p. 154 以下）の該当箇所。
+- 20.1 の Conybeare, Guardian 1894 年 7 月 18 日の記事と、アルメニア語の原文（サン・ラザロ写本 51 fol. 3）。Zahn のドイツ語訳でだけ見た。Zahn の訳の疑問符つきの別案（Ingre、Sangrataratz）がアルメニア文字のどの読みに当たるか。
+- 20.1 のモヴセス・ホレナツィ『地理』四一章と、『地理』の著者の帰属をめぐる後の研究。Funk と Zahn の注でだけ見た。
+- 20.1 で Zahn が挙げる Forschungen VI 128〜130、155（アルメニア人がパピアスの書を知っていたこと）と、p. 468 の Ananias Sharkuni。Zahn の注でだけ見た。
