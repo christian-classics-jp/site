@@ -6,7 +6,7 @@
 
 | 作品 | 原語 | 備考 |
 |---|---|---|
-| ユスティノス『第一弁明』 | ギリシア語 | |
+| ユスティノス『第一弁明』 | ギリシア語 | 翻訳中（`books/justin-first-apology/`） |
 | ユスティノス『トリュフォンとの対話』 | ギリシア語 | 長編 |
 | タティアノス『ギリシア人への演説』 | ギリシア語 | |
 | アテナゴラス『キリスト者のための弁明』 | ギリシア語 | |
@@ -44,8 +44,6 @@
 
 | 作品 | 資料 | 権利 | URL | `cache/` のパス | SHA-256 先頭 16 桁 | 取得日 |
 |---|---|---|---|---|---|---|
-| ユスティノス『第一弁明』 | First1KGreek。G. Rauschen 編（Bonn, 1911）の電子化 | CC BY-SA 4.0 | https://github.com/OpenGreekAndLatin/First1KGreek/blob/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg0645/tlg001/tlg0645.tlg001.1st1K-grc1.xml | `F1K/tlg0645/tlg001/tlg0645.tlg001.1st1K-grc1.xml` | d89772ab0d12a0a2 | 2026-10-31 |
-| ユスティノス『第一弁明』『第二弁明』 | G. Rauschen 編、S. Iustini apologiae duae（Bonn, 1911）のスキャン | パブリックドメイン（米国、1911 年刊） | https://archive.org/details/siustiniapologia00just | `cache/archive.org/siustiniapologia00just/siustiniapologia00just.pdf`、`…_djvu.txt` | PDF abaaaf0d80e57f5a、txt ac521ee8561f8f9c | 2026-10-31 |
 | ユスティノス『トリュフォンとの対話』 | First1KGreek。G. Archambault 編（Paris, 1909）の電子化 | CC BY-SA 4.0 | 同上の `data/tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml` | `F1K/tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml` | d5e87fafb4ee51cd | 2026-10-31 |
 | ユスティノス『トリュフォンとの対話』 | G. Archambault 編、Dialogue avec Tryphon I・II（Paris, 1909）のスキャン。仏訳が対訳で付く | パブリックドメイン（米国、1909 年刊） | https://archive.org/details/dialogueavectryp01just 、https://archive.org/details/dialogueavectryp02just | `cache/archive.org/dialogueavectryp01just/`、`dialogueavectryp02just/` の PDF と `_djvu.txt` | I：PDF 3225dbf3e881a2dd、txt 731671248eb71665。II：PDF a6dba9cdfdb13804、txt f9155affb7e27e5f | 2026-10-31 |
 | テオフィロス『アウトリュコスへ』 | First1KGreek。grc1 は W. G. Humphry 編（Cambridge, 1852）、grc2 は J. C. T. von Otto 編（Corpus apologetarum VIII）の電子化 | CC BY-SA 4.0 | 同上の `data/tlg1725/tlg001/` | `F1K/tlg1725/tlg001/tlg1725.tlg001.perseus-grc1.xml`、`…perseus-grc2.xml` | grc1 0b4a6d70231ac71a、grc2 b190660e17566298 | 2026-10-31 |
