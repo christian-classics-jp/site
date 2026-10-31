@@ -14,6 +14,6 @@
 | 02-fragment-2-1 | 断片 II 1〜7 節（エウセビオス『教会史』三・三九） | [x] |
 | 03-fragment-2-2 | 断片 II 8〜16 節 | [x] |
 | 04-fragments-3-9 | 断片 III〜IX | [x] |
-| 05-fragments-10-14 | 断片 X〜XIV | [ ] |
+| 05-fragments-10-14 | 断片 X〜XIV | [x] |
 | 06-fragments-15-20 | 断片 XV〜XX | [ ] |
 | 07-quadratus | クアドラトゥスの断片（エウセビオス『教会史』四・三） | [ ] |
