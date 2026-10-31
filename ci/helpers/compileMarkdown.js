@@ -1,6 +1,6 @@
 const marked = require('marked')
 
-const markVerseNumbers = (html) => html.replace(/(^|\n|<p>)((?:\d+|[A-Z]+):\d+) /g, '$1<span class="verse-number">$2</span> ')
+const markVerseNumbers = (html) => html.replace(/(^|\n|<p>)((?:\d+|[A-Z]+)(?::\d+)+) /g, '$1<span class="verse-number">$2</span> ')
 
 const markNotes = (html, idPrefix) => {
   const notes = []
