@@ -8,9 +8,13 @@ const hbs = require('handlebars')
 const Repository = require('./helpers/Repository')
 const pdfOption = require('../assets/pdf/config')
 const compileMarkdown = require('./helpers/compileMarkdown')
-const {BOOKS_DIR, EPUB_BOOK_PATH, PDF_TEMPLATE_PATH, PDF_CSS_PATH, SURFACE_TEMPLATE_PATH} = require('./helpers/consts')
-const {AUTHOR, LANG} = require(EPUB_BOOK_PATH)
+const markUprightDigits = require('./helpers/markUprightDigits')
+const {BOOKS_DIR, SITE_URL, EPUB_BOOK_PATH, PDF_TEMPLATE_PATH, PDF_MATTER_TEMPLATE_PATH, PDF_CSS_PATH} = require('./helpers/consts')
+const {AUTHOR, PUBLISHER, LANG} = require(EPUB_BOOK_PATH)
 const readTmpl = (tmplPath) => hbs.compile(fs.readFileSync(tmplPath, {encoding: 'utf-8'}).toString())
+const renderPage = readTmpl(PDF_TEMPLATE_PATH)
+const renderMatter = readTmpl(PDF_MATTER_TEMPLATE_PATH)
+const css = fs.readFileSync(PDF_CSS_PATH, {encoding: 'utf-8'})
 const marginTemplate = (html) => `<div style="width: 100%; font-family: 'Noto Serif CJK JP', serif; font-size: 9px; color: #444; text-align: center;">${html}</div>`
 
 const book = process.argv[2]
@@ -35,37 +39,42 @@ async function main () {
 async function pdf (browser, repos) {
   const {articleNames, book} = repos
   const markdowns = articleNames.map(repos.readArticleMarkdown.bind(repos))
-  const surfaceHtml = readTmpl(SURFACE_TEMPLATE_PATH)({
+  const chapters = markdowns.map((markdown, i) => `<section class="chapter">${compileMarkdown(markdown, {idPrefix: `${articleNames[i]}-`, vertical: true})}</section>`)
+  const now = new Date()
+  const matter = renderMatter({
+    title: book.title,
+    author: book.author,
+    translator: AUTHOR,
+    publisher: PUBLISHER,
+    edition: markUprightDigits(`${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日版`),
+    siteUrl: `${SITE_URL}${repos.repos}/`,
     reposUrl: repos.url
   })
-  const chapterHtmls = markdowns.map((markdown, i) => compileMarkdown(markdown, {idPrefix: `${articleNames[i]}-`, vertical: true}))
-  const sections = [`<section class="surface-page">${surfaceHtml}</section>`]
-    .concat(chapterHtmls.map((html) => `<section class="chapter">${html}</section>`))
 
-  const html = readTmpl(PDF_TEMPLATE_PATH)({
-    lang: LANG,
-    title: book.title,
-    css: fs.readFileSync(PDF_CSS_PATH, {encoding: 'utf-8'}),
-    data: sections.join('\n')
-  })
-  const page = await browser.newPage()
-  await page.setContent(html)
-  await page.evaluate(() => document.fonts.ready)
-  const printed = await page.pdf({
-    ...pdfOption,
+  const body = await PDFDocument.load(await print(browser, book.title, chapters.join('\n'), {
     outline: true,
-    tagged: true,
     displayHeaderFooter: true,
     headerTemplate: marginTemplate(hbs.escapeExpression(repos.title)),
     footerTemplate: marginTemplate('- <span class="pageNumber"></span> -')
-  })
-  await page.close()
+  }))
+  const matterDoc = await PDFDocument.load(await print(browser, book.title, matter, {}))
+  const [titlePage, colophonPage] = await body.copyPages(matterDoc, [0, 1])
+  body.insertPage(0, titlePage)
+  body.addPage(colophonPage)
 
-  const doc = await PDFDocument.load(printed)
-  doc.setTitle(book.title, {showInWindowTitleBar: true})
-  doc.setAuthor(`${book.author}（${AUTHOR} 訳）`)
-  doc.setLanguage(LANG)
-  doc.catalog.getOrCreateViewerPreferences().setReadingDirection(ReadingDirection.R2L)
+  body.setTitle(book.title, {showInWindowTitleBar: true})
+  body.setAuthor(`${book.author}（${AUTHOR} 訳）`)
+  body.setLanguage(LANG)
+  body.catalog.getOrCreateViewerPreferences().setReadingDirection(ReadingDirection.R2L)
   fs.mkdirSync(dirname(repos.pdfPath), {recursive: true})
-  fs.writeFileSync(repos.pdfPath, await doc.save())
+  fs.writeFileSync(repos.pdfPath, await body.save())
+}
+
+async function print (browser, title, data, options) {
+  const page = await browser.newPage()
+  await page.setContent(renderPage({lang: LANG, title, css, data}))
+  await page.evaluate(() => document.fonts.ready)
+  const printed = await page.pdf({...pdfOption, tagged: true, ...options})
+  await page.close()
+  return printed
 }

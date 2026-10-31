@@ -13,10 +13,6 @@ body {
   overflow-wrap: break-word;
 }
 
-.surface-page {
-  font-size: 9pt;
-}
-
 .chapter {
   break-before: page;
   column-count: 2;
@@ -122,7 +118,56 @@ strong {
   margin-bottom: 0.5em;
 }
 
-.surface p {
+.title-page, .colophon {
+  display: flex;
+  flex-direction: column;
+  block-size: 170mm;
+  inline-size: 250mm;
+  break-after: page;
+}
+
+.title-page {
+  justify-content: center;
+}
+
+.title-page p, .colophon p {
+  margin: 0;
   text-indent: 0;
   text-align: start;
+}
+
+.title-page .book-title {
+  column-span: none;
+  font-family: 'Noto Serif CJK JP', serif;
+  font-size: 26pt;
+  margin: 0 0 0 3em;
+  padding-top: 15%;
+}
+
+.book-author, .book-translator {
+  font-size: 13pt;
+  padding-top: 45%;
+}
+
+.colophon {
+  justify-content: flex-end;
+}
+
+.colophon-box {
+  align-self: flex-end;
+  border-right: 0.5pt solid #333;
+  border-left: 0.5pt solid #333;
+  padding: 0 1.5em;
+  font-size: 8.5pt;
+}
+
+.colophon-title {
+  font-family: 'Noto Sans CJK JP', sans-serif;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-left: 0.5em !important;
+}
+
+.url {
+  word-break: break-all;
 }
