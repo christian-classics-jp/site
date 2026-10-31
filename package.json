@@ -4,7 +4,7 @@
   "description": "Simplest static HTML site template",
   "dependencies": {
     "co": "^4.6.0",
-    "epub-gen": "^0.1.0",
+    "fflate": "0.8.2",
     "handlebars": "^4.0.5",
     "jesep": "^1.0.0",
     "marked": "^0.7.0",

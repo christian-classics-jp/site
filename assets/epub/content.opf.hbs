@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId" xml:lang="{{lang}}">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="BookId">{{identifier}}</dc:identifier>
+    <dc:title id="title">{{title}}</dc:title>
+    <dc:creator id="author">{{author}}</dc:creator>
+    <meta refines="#author" property="role" scheme="marc:relators">aut</meta>
+    <dc:creator id="translator">{{translator}}</dc:creator>
+    <meta refines="#translator" property="role" scheme="marc:relators">trl</meta>
+    <dc:publisher>{{publisher}}</dc:publisher>
+    <dc:language>{{lang}}</dc:language>
+    <dc:description>{{description}}</dc:description>
+    <dc:rights>Copyright © {{year}} by {{publisher}}. Licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).</dc:rights>
+    <meta property="dcterms:modified">{{modified}}</meta>
+    <meta property="rendition:layout">reflowable</meta>
+    <meta property="rendition:spread">auto</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilitySummary">縦書きのリフロー型の本文で、目次と見出しから移動できます。訳注は各章の終わりにまとめてあります。</meta>
+    <meta name="primary-writing-mode" content="vertical-rl"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="css" href="style.css" media-type="text/css"/>
+    {{#each documents}}
+    <item id="{{id}}" href="{{href}}" media-type="application/xhtml+xml"/>
+    {{/each}}
+  </manifest>
+  <spine page-progression-direction="rtl" toc="ncx">
+    <itemref idref="nav"/>
+    {{#each documents}}
+    <itemref idref="{{id}}"/>
+    {{/each}}
+  </spine>
+</package>

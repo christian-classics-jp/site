@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="{{lang}}" lang="{{lang}}">
+<head>
+  <meta charset="UTF-8"/>
+  <title>{{tocTitle}}</title>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+<nav id="toc" epub:type="toc" role="doc-toc">
+  <h1>{{tocTitle}}</h1>
+  <ol>
+    {{#each documents}}
+    <li><a href="{{href}}">{{{titleHtml}}}</a></li>
+    {{/each}}
+  </ol>
+</nav>
+<nav epub:type="landmarks" hidden="hidden">
+  <ol>
+    <li><a epub:type="toc" href="nav.xhtml">{{tocTitle}}</a></li>
+    <li><a epub:type="bodymatter" href="{{bodyStart.href}}">{{bodyStart.title}}</a></li>
+  </ol>
+</nav>
+</body>
+</html>
