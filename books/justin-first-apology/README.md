@@ -25,7 +25,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/rauschen-1911.txt` と各
 | chapter-20-25 | 20〜25 章 | [x] |
 | chapter-26-31 | 26〜31 章 | [x] |
 | chapter-32-35 | 32〜35 章 | [x] |
-| chapter-36-40 | 36〜40 章 | [ ] |
+| chapter-36-40 | 36〜40 章 | [x] |
 | chapter-41-44 | 41〜44 章 | [ ] |
 | chapter-45-50 | 45〜50 章 | [ ] |
 | chapter-51-53 | 51〜53 章 | [ ] |
