@@ -85,7 +85,7 @@ rg -z -a -o "\('[^']+', '[^']*みじめな人間[^']*'" ../bible-api/mysql/sql/c
 
 1. その節の `jp.md` をビルドする。
 2. README の進捗表に `[x]` を付ける。
-3. 本の全体を訳し終えたら、`books/<本>/book.json` を置き、`static/index.html` の作品一覧にその本を加える。`CANDIDATES.md` から訳し終えた本を消す。
+3. 本の全体を訳し終えたら、`books/<本>/book.json` を置き、`static/index.html` の作品一覧で、時代と流れの合うカテゴリーにその本を加える（カテゴリーの中は古い順）。`CANDIDATES.md` から訳し終えた本を消す。
 
 ## 原文（ギリシア語・ラテン語）から訳す本
 
