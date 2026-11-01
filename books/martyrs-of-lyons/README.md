@@ -25,4 +25,4 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/dindorf-1871.txt` と各�
 | 02-letter-2 | 一章 18〜32 節 | [x] |
 | 03-letter-3 | 一章 33〜48 節 | [x] |
 | 04-letter-4 | 一章 49〜63 節 | [x] |
-| 05-letter-5 | 二〜四章 | [ ] |
+| 05-letter-5 | 二〜四章 | [x] |
