@@ -29,4 +29,4 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/otto-1851.txt` と各節�
 | chapter-24-27 | 24〜27 章 | [x] |
 | chapter-28-32 | 28〜32 章 | [x] |
 | chapter-33-36 | 33〜36 章 | [x] |
-| chapter-37-42 | 37〜42 章 | [ ] |
+| chapter-37-42 | 37〜42 章 | [x] |
