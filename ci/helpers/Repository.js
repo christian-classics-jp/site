@@ -2,6 +2,11 @@ const {BOOKS_DIR, PUBLIC_DIR} = require('./consts')
 const fs = require('fs')
 const {join} = require('path')
 
+const LICENSES = {
+  CC0: {name: 'CC0 1.0', url: 'https://creativecommons.org/publicdomain/zero/1.0/deed.ja', waived: true},
+  'CC BY-SA': {name: 'CC BY-SA 4.0', url: 'https://creativecommons.org/licenses/by-sa/4.0/deed.ja', waived: false}
+}
+
 class Repository {
   constructor (repos) {
     this.repos = repos
@@ -42,6 +47,19 @@ class Repository {
 
   get published () {
     return Boolean(this.book)
+  }
+
+  get license () {
+    const license = LICENSES[this.book.license]
+    if (!license) throw new Error(`books/${this.repos}/book.json: license must be one of ${Object.keys(LICENSES).join(', ')}`)
+    return {...license, text: `訳文は ${license.name} で公開しています。`}
+  }
+
+  get credit () {
+    const {aiTranslation} = this.book
+    return aiTranslation
+      ? {role: '制作', label: '制作', marc: 'bkp', aiTranslation}
+      : {role: '訳', label: '翻訳', marc: 'trl', aiTranslation: null}
   }
 
   get completed () {

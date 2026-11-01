@@ -50,6 +50,7 @@ function buildHtml (reposName, options = {}) {
   fs.copyFileSync(SCRIPT_PATH, join(repos.destDir, 'js', 'theme.js'))
 
   const siteTitle = repos.title
+  const {license, credit} = repos
 
   const markdowns = articleNames.map(repos.readArticleMarkdown.bind(repos))
   const titles = markdowns.map(markdownTitle)
@@ -62,6 +63,8 @@ function buildHtml (reposName, options = {}) {
     repos: repos.repos,
     siteTitle,
     loc,
+    license,
+    credit,
     url: `${bookUrl}${fileNames[i]}`,
     description: describe(htmls[i]),
     title: titles[i],
@@ -100,6 +103,8 @@ function buildHtml (reposName, options = {}) {
       siteTitle,
       repos: repos.repos,
       loc,
+      license,
+      credit,
       completed,
       epubUrl,
       pdfUrl,

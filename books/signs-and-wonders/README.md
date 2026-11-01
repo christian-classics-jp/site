@@ -2,6 +2,8 @@
 
 マリア・ウッドワース・エター（1844-1924）著『 Signs and Wonders God Wrought in the Ministry for Forty Years 』（Indianapolis: Mrs. M. B. W. Etter, 1916）の翻訳。著者が自分で出版した本で、印刷は Chicago の Hammond Press（W. B. Conkey Company）。本文は 5〜584 ページ。序文にあるとおり、それまでの著書（『 Trials and Triumphs 』『 Acts of the Holy Ghost 』など）の内容を引き継いでいるが、1916 年 6 月付けの序文と 1916 年 7 月までの記事を収めた別の本である。のちの『 Marvels and Miracles 』（1922 年）や、現代の復刻版・編集版（『 A Diary of Signs and Wonders 』の題のものなど）は用いない。
 
+制作：藤遥。全文を Claude Code（Anthropic の Claude）を使って訳した。
+
 原文は、Internet Archive にある次の 4 つのスキャンの OCR テキストによる。
 
 - [signswondersgodw0000wood](https://archive.org/details/signswondersgodw0000wood)（Claremont School of Theology の蔵本）と [bwb_C0-CCV-102](https://archive.org/details/bwb_C0-CCV-102)（The Church on the Way の蔵本）：1916 年の原本。扉に著者の住所（2114 Miller Street, Indianapolis）と「Copyright 1916 by M. B. W. Etter」がある。

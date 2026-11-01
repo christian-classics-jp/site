@@ -2,6 +2,8 @@
 
 『ヘルマスの牧者』（Ποιμήν）のギリシア語原文からの翻訳。
 
+制作：藤遥。全文を Claude Code（Anthropic の Claude）を使って訳した。
+
 底本は [Open Apostolic Fathers](https://jtauber.github.io/apostolic-fathers/)（James Tauber & Seumas Macdonald, Version 1.0, 2019, doi:10.5281/zenodo.2555673）の本文。Kirsopp Lake の Loeb 版（1913）の本文を、印刷版と照らし合わせて校正したもの。各節の `both.md` に置いた原文は CC BY-SA 4.0 で、そのまま引き継ぐ。巻・章・節の番号も底本に従う。巻は通し番号で、1〜5 が幻、6〜17 が戒め、18〜27 がたとえ。第九のたとえの 30 章 3 節から後は、ギリシア語が断片しか残っておらず、底本はおもにラテン語訳を載せる。そこはラテン語から訳した。
 
 聖書の引用は口語訳聖書を参考にした。

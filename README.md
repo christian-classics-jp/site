@@ -12,6 +12,8 @@ christian-classics-jp の翻訳書と、その公開サイトのリポジトリ�
 
 ## ライセンス
 
-- 訳文（`books/`）とトップページ（`static/index.html`）は [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)（[LICENSE](LICENSE)）。表示する名前は「藤遥（christian-classics-jp）」とする。
+- 訳文（`books/`）のライセンスは本ごとに違い、CC0 1.0（[LICENSE-CC0](LICENSE-CC0)）か CC BY-SA 4.0（[LICENSE](LICENSE)）のどちらか。どちらの本かは、サイトの各本のページと `books/<本>/book.json` に示す。CC BY-SA 4.0 の本で表示する名前は「藤遥（christian-classics-jp）」とする。
+- AI を使って訳した本は CC0 1.0 にする。原文のライセンスを引き継ぐ必要がある本だけは CC BY-SA 4.0 にする。
+- トップページ（`static/index.html`）は CC BY-SA 4.0。
 - サイトのビルドのプログラム（`ci/`・`assets/`）は MIT（[LICENSE-MIT](LICENSE-MIT)）。
-- 訳文の中で引用した聖書の本文と、ロゴは、どちらのライセンスにも含まない。原文の扱いは各書の README に書いた出典に従う。
+- 訳文の中で引用した聖書の本文と、ロゴは、どのライセンスにも含まない。原文の扱いは各書の README に書いた出典に従う。

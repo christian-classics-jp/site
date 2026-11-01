@@ -2,6 +2,8 @@
 
 エイミー・センプル・マクファーソン（1890-1944）著『 This Is That: Personal Experiences, Sermons and Writings of Aimee Semple McPherson, Evangelist 』（初版、Los Angeles: The Bridal Call Publishing House, 1919）の翻訳。1923 年以降の版（Echo Park Evangelistic Association 刊、791 ページ）は、序文を改め、1919 年以後の伝道やアンジェラス・テンプルの記事を加えて構成も変えた増補版なので用いない。1985 年の Garland の影印版などの、のちの復刻版も用いない。
 
+制作：藤遥。全文を Claude Code（Anthropic の Claude）を使って訳した。
+
 原文は、カリフォルニア大学図書館の蔵本を Internet Archive が撮影した [スキャン](https://archive.org/details/thisisthatperson00mcphrich) の OCR テキストによる。目録の刊年は「[c1921]」となっているが、本書の奥付は「COPYRIGHTED JUNE, 1919」で、本文 685 ページ、記事は 1919 年 2 月までで終わる。1919 年版と同じ本文である。同じ版を Google が撮影したもう一つの [スキャン](https://archive.org/details/thisisthatperso00mcphgoog)（Internet Archive の書誌は別の本のものになっている）の OCR と語ごとに突き合わせて読み誤りを直し、段落の切れ目、詩の行、見出しはページ画像の文字の位置から組み直した。OCR の読み誤りはなお残っている。
 
 聖書の引用は口語訳聖書を参考にした。

@@ -2,6 +2,8 @@
 
 原文は第四版（New York: Christian Alliance Publishing Co., 1890）による。[原文PDF](https://web.archive.org/web/20190728160233/http://www.cmalliance.org/resources/archives/downloads/simpson/the-gospel-of-healing.pdf) は CMA が公開していたもので、元のリンクが切れたため Wayback Machine の保存版を示す。同じ PDF を `the-gospel-of-healing-1890.pdf` としてこのディレクトリに置く。
 
+制作：藤遥。序文から第六章の途中までは藤遥が訳し、第六章の途中から付録までは Claude Code（Anthropic の Claude）を使って訳した。
+
 聖書の引用は口語訳聖書を参考にした。
 
 ## 翻訳進捗表

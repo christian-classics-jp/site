@@ -2,6 +2,8 @@
 
 殉教者ユスティノスの『第二弁明』（Ἀπολογία δευτέρα）のギリシア語原文からの翻訳。
 
+制作：藤遥。全文を Claude Code（Anthropic の Claude）を使って訳した。
+
 底本は G. Rauschen 編、*S. Iustini apologiae duae*（Florilegium patristicum II、第 2 版、Bonn: P. Hanstein, 1911）。[First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek)（コミット ed91552）の電子化（`data/tlg0645/tlg002/tlg0645.tlg002.perseus-grc2.xml`）を、次のコマンドで [research/rauschen-1911.txt](research/rauschen-1911.txt) にした。
 
 ```sh

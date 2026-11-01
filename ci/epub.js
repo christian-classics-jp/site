@@ -42,7 +42,7 @@ for (const name of books) {
 }
 
 function epub (repos) {
-  const {articleNames, book} = repos
+  const {articleNames, book, license, credit} = repos
   const markdowns = articleNames.map(repos.readArticleMarkdown.bind(repos))
 
   const surface = {
@@ -50,7 +50,7 @@ function epub (repos) {
     title: '本の情報',
     type: 'frontmatter',
     sectionType: 'copyright-page',
-    body: renderSurface({reposUrl: repos.url})
+    body: renderSurface({reposUrl: repos.url, license, credit})
   }
   const chapters = articleNames.map((name, i) => ({
     name,
@@ -75,6 +75,10 @@ function epub (repos) {
     title: book.title,
     author: book.author,
     translator: AUTHOR,
+    credit,
+    rights: license.waived
+      ? `Dedicated to the public domain under ${license.name} (${license.url}).`
+      : `Copyright © ${now.getFullYear()} by ${PUBLISHER}. Licensed under ${license.name} (${license.url}).`,
     publisher: PUBLISHER,
     description: (repos.intro || book.title).trim(),
     year: now.getFullYear(),

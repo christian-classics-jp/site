@@ -1,4 +1,6 @@
 {
   "author": "ジョン・ウェスレー",
-  "title": "標準説教集"
+  "title": "標準説教集",
+  "license": "CC0",
+  "aiTranslation": "説教一と説教五十を除き、原文（Sermons on Several Occasions）から AI を使って翻訳しました。"
 }

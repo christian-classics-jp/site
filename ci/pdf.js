@@ -37,7 +37,7 @@ async function main () {
 }
 
 async function pdf (browser, repos) {
-  const {articleNames, book} = repos
+  const {articleNames, book, license, credit} = repos
   const markdowns = articleNames.map(repos.readArticleMarkdown.bind(repos))
   const chapters = markdowns.map((markdown, i) => `<section class="chapter">${compileMarkdown(markdown, {idPrefix: `${articleNames[i]}-`, vertical: true})}</section>`)
   const now = new Date()
@@ -45,6 +45,8 @@ async function pdf (browser, repos) {
     title: book.title,
     author: book.author,
     translator: AUTHOR,
+    credit,
+    license,
     publisher: PUBLISHER,
     edition: markUprightDigits(`${now.getFullYear()}年${now.getMonth() + 1}月${now.getDate()}日版`),
     siteUrl: `${SITE_URL}${repos.repos}/`,
@@ -63,7 +65,7 @@ async function pdf (browser, repos) {
   body.addPage(colophonPage)
 
   body.setTitle(book.title, {showInWindowTitleBar: true})
-  body.setAuthor(`${book.author}（${AUTHOR} 訳）`)
+  body.setAuthor(`${book.author}（${AUTHOR} ${credit.role}）`)
   body.setLanguage(LANG)
   body.catalog.getOrCreateViewerPreferences().setReadingDirection(ReadingDirection.R2L)
   fs.mkdirSync(dirname(repos.pdfPath), {recursive: true})

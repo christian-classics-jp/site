@@ -455,6 +455,11 @@ article .notes h2 {
   margin: 0 0 1em;
 }
 
+.book-ai-translation {
+  margin: 0;
+  color: var(--muted);
+}
+
 .toc h2,
 .article-list h2,
 .article-list h5,
@@ -578,6 +583,7 @@ footer h2 {
   font-weight: 400;
 }
 
+.ai-translation,
 .copy-right,
 .license,
 .logo-credit {

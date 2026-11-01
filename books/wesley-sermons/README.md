@@ -2,7 +2,7 @@
 
 原文は [The Sermons of John Wesley (1872 Edition) - The Standard Sermons](http://wesley.nnu.edu/john-wesley/the-sermons-of-john-wesley-1872-edition/the-sermons-of-john-wesley-the-standard-sermons/)。
 
-翻訳者：藤遥
+制作：藤遥。説教一と説教五十は藤遥が訳し、ほかの説教は Claude Code（Anthropic の Claude）を使って訳した。
 
 聖書の引用は口語訳聖書を参考にし、説教の文体に合わせて敬体に言い換えた。
 

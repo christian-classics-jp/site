@@ -33,6 +33,9 @@
           {{{ intro }}}
         </div>
         {{/if}}
+        {{#if credit.aiTranslation}}
+        <p class="book-ai-translation">{{ credit.aiTranslation }}</p>
+        {{/if}}
         <h2>{{ loc.TOC }}</h2>
         <ul>
           {{#each nav}}
@@ -54,8 +57,13 @@
           <li><a href="../">{{ loc.BOOK_LIST }}</a></li>
         </ul>
       </nav>
+      {{#if credit.aiTranslation}}
+      <p class="ai-translation">{{ credit.aiTranslation }}</p>
+      {{/if}}
+      {{#unless license.waived}}
       <p class="copy-right"><a href="{{ loc.URL }}">{{ loc.COPY_RIGHT }}</a></p>
-      <p class="license"><a href="{{ loc.LICENSE_URL }}" rel="license">{{ loc.LICENSE }}</a></p>
+      {{/unless}}
+      <p class="license"><a href="{{ license.url }}" rel="license">{{ license.text }}</a></p>
     </footer>
   </body>
 </html>

@@ -2,6 +2,8 @@
 
 ガーフィールド・トーマス・ヘイウッド（1880-1931）著『 Apostolic Bible Reading: The Birth of the Spirit and the Mystery of the Godhead 』（Indianapolis: The Voice in the Wilderness Magazine、刊行年の記載なし）の翻訳。問いと聖句の答えを並べた 16 ページの小冊子で、「 The Birth of the Spirit 」（41 問）と「 The Mystery of the Godhead 」（35 問）の二部からなる。
 
+制作：藤遥。全文を Claude Code（Anthropic の Claude）を使って訳した。
+
 刊行年は冊子に書かれていない。表紙の著者名が「 Bishop 」となっており（ヘイウッドの監督職は 1925 年から）、版元がヘイウッドの主宰した雑誌『 The Voice in the Wilderness 』であることから、1925 年から 1931 年ごろの刊行と推定する。著作権表示はない。ヘイウッドは 1931 年に没した。
 
 ヘイウッドには『 The Birth of the Spirit in the Days of the Apostles 』という別の小冊子があり、1985 年の Garland 版『 Seven "Jesus Only" Tracts 』に復刻されている。題が似ているが、この本とは別の作品である。
