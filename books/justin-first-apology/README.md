@@ -33,5 +33,5 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/rauschen-1911.txt` と各
 | chapter-51-53 | 51〜53 章 | [x] |
 | chapter-54-57 | 54〜57 章 | [x] |
 | chapter-58-61 | 58〜61 章 | [x] |
-| chapter-62-65 | 62〜65 章 | [ ] |
+| chapter-62-65 | 62〜65 章 | [x] |
 | chapter-66-68 | 66〜68 章 | [ ] |
