@@ -25,7 +25,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/march-owen-1876.txt` と�
 | chapter-08-10 | 8〜10 章 | [x] |
 | chapter-11-14 | 11〜14 章 | [x] |
 | chapter-15-17 | 15〜17 章 | [x] |
-| chapter-18-20 | 18〜20 章 | [ ] |
+| chapter-18-20 | 18〜20 章 | [x] |
 | chapter-21-22 | 21〜22 章 | [ ] |
 | chapter-23-24 | 23〜24 章 | [ ] |
 | chapter-25-27 | 25〜27 章 | [ ] |
