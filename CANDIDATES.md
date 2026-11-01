@@ -10,7 +10,7 @@
 | アンティオキアのテオフィロス『アウトリュコスへ』 | ギリシア語 | 3 巻 |
 | アレクサンドリアのクレメンス『救われる富者とは誰か』 | ギリシア語 | |
 | サルディスのメリトン『過越について』 | ギリシア語 | 保留。1940 年に見つかった作品で、権利の切れた校訂本も英訳もない |
-| 『スキリウムの殉教者行伝』 | ラテン語 | 180 年。キリスト教のラテン語文書で最古、数段落 |
+| 『スキリウムの殉教者行伝』 | ラテン語 | 翻訳中（`books/scillitan-martyrs/`） |
 | ミヌキウス・フェリクス『オクタウィウス』 | ラテン語 | 対話形式の弁証書 |
 | エイレナイオス『異端反駁』 | ラテン語（ギリシア語はほぼ失われた） | 長大なので抜粋で |
 | 『ヤコブ原福音書』 | ギリシア語 | 新約外典。教父文書とは別の扱い |
@@ -45,8 +45,6 @@
 | アレクサンドリアのクレメンス『救われる富者とは誰か』 | First1KGreek。O. Stählin 編、Clemens Alexandrinus III（GCS, 1909）の電子化 | CC BY-SA 4.0 | 同上の `data/tlg0555/tlg006/tlg0555.tlg006.1st1K-grc1.xml` | `F1K/tlg0555/tlg006/tlg0555.tlg006.1st1K-grc1.xml` | f300ef6a2ccfa819 | 2026-10-31 |
 | アレクサンドリアのクレメンス『救われる富者とは誰か』 | Stählin 編、Clemens Alexandrinus III（GCS, 1909）のスキャン。archive.org のメタデータの年（1905）はシリーズの第 1 巻の年 | パブリックドメイン（米国、1909 年刊） | https://archive.org/details/clemensalexandri0003clem | `cache/archive.org/clemensalexandri0003clem/` の PDF と `_djvu.txt` | PDF 2dd5321c205cd425、txt cd8920903785afde | 2026-10-31 |
 | 『ヤコブ原福音書』 | C. Tischendorf 編、Evangelia apocrypha（第 2 版、Leipzig, 1876）のスキャン。原福音書は巻頭 | パブリックドメイン | https://archive.org/details/evangeliaapocry00tiscgoog | `cache/archive.org/evangeliaapocry00tiscgoog/` の PDF と `_djvu.txt` | PDF 6f415ca7b8ea360c、txt 93053efe737dc0e8 | 2026-10-31 |
-| 『スキリウムの殉教者行伝』 | R. Knopf 編、Ausgewählte Märtyrerakten（第 2 版、Tübingen, 1913）のスキャン。序文の日付が 1913 年 6 月 24 日であることは画像で確かめた。OCR はギリシア文字として読まれて使えないので、PDF の画像を読む。各ページが二度ずつ撮られている。ページ画像の TIFF の zip と画像番号の当て方は `books/martyrdom-of-justin/research/sources.md`（殉教録は pp. 16〜18）。スキリウムの位置は未確認 | パブリックドメイン（米国、1913 年刊。Knopf は 1914 年没） | https://archive.org/details/MN41421ucmf_7 | `cache/archive.org/MN41421ucmf_7/` の PDF と `_djvu.txt` | PDF f8f4ee1b2b4978c2、txt 87d1338b8824c71d | 2026-10-31 |
-| 『スキリウムの殉教者行伝』 | J. A. Robinson, The Passion of S. Perpetua（Texts and Studies I, 2、Cambridge, 1891）のスキャン。付録にスキリウムの殉教録のラテン語本文がある | パブリックドメイン | https://archive.org/details/MN5140ucmf_2 | `cache/archive.org/MN5140ucmf_2/` の PDF と `_djvu.txt` | PDF 14ef344019c43401、txt e41edd91c9611438 | 2026-10-31 |
 | ミヌキウス・フェリクス『オクタウィウス』 | C. Halm 編、M. Minucii Felicis Octavius. Iulii Firmici Materni Liber de errore profanarum religionum（CSEL 2、Wien, 1867）のスキャン | パブリックドメイン | https://archive.org/details/mminuciifelicis00halmgoog | `cache/archive.org/mminuciifelicis00halmgoog/` の PDF と `_djvu.txt` | PDF dd858274ac1d0ffd、txt c99508c28b7754de | 2026-10-31 |
 | エイレナイオス『異端反駁』第一巻のギリシア語の部分 | First1KGreek。Harvey 編（Cambridge, 1857）の電子化。OCR の崩れが残る | CC BY-SA 4.0 | 同上の `data/tlg1447/tlg001/tlg1447.tlg001.1st1K-grc1.xml` | `F1K/tlg1447/tlg001/tlg1447.tlg001.1st1K-grc1.xml` | bbbc779f0d9d2372 | 2026-10-31 |
 
