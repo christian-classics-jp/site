@@ -22,7 +22,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/otto-1851.txt` と各節�
 |---|---|---|
 | chapter-01-04 | 1〜4 章 | [x] |
 | chapter-05-08 | 5〜8 章 | [x] |
-| chapter-09-12 | 9〜12 章 | [ ] |
+| chapter-09-12 | 9〜12 章 | [x] |
 | chapter-13-16 | 13〜16 章 | [ ] |
 | chapter-17-19 | 17〜19 章 | [ ] |
 | chapter-20-23 | 20〜23 章 | [ ] |
