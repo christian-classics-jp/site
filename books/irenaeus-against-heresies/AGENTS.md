@@ -82,6 +82,11 @@ README の進捗表の 13 ページ。第五巻 33 章 3〜4 節（パピアス�
 | Anacletus／Evaristus／Alexander／Sixtus／Telesphorus | アネンクレトス／エウアレストス／アレクサンドロス／クシュストス／テレスフォロス（ギリシア語の Ἀνέγκλητος、Εὐάρεστος、Ξύστος の形。3:3:3） |
 | Hyginus／Pius／Anicetus／Soter／Eleutherius | ヒュギノス／ピオス／アニケトス／ソテル／エレウテロス（3:3:3。3.4.3 でも同じ） |
 | Corinthus, Corinthii | コリント、コリントの人々（口語訳） |
+| Polycarpus／Smyrna | ポリュカルポス／スミルナ（口語訳。3:3:4） |
+| Philippenses | ピリピの人々（口語訳。手紙の書名はサイトの『ポリュカルポスのピリピ人への手紙』。3:3:4） |
+| Traianus | トラヤヌス（3:3:4） |
+| Pontius Pilatus | ポンテオ・ピラト（口語訳。3:4:2） |
+| Cerdon／Menander／Gnostici | ケルドン／メナンドロス（ユスティノスの本と同じ）／グノーシス派（3:4:3） |
 
 ## 訳語
 
@@ -133,4 +138,9 @@ README の進捗表の 13 ページ。第五巻 33 章 3〜4 節（パピアス�
 | scriptura（クレメンスの手紙を指すとき） | 手紙（「聖書」にしない。3:3:3） |
 | praedicatio／praeconatio | 宣教（3:3:3 の veritatis praeconatio も「真理の宣教」） |
 | ostensio | 証明（3:0:1、3:3:3） |
+| barbari | 異国の民、異国の者（1:0:3 の barbarus sermo＝異国の言葉と揃える。3:4:2） |
+| ordo traditionis／ordinatio（それを受けるとき） | 伝承の秩序／この秩序（3:3:3 の監督の並びの ordinatio＝順序とは訳し分ける。3:4:1、3:4:2） |
+| exhomologesin facere | 罪の告白をする（3:4:3） |
+| traductus（異端の教師が） | 暴かれる（3:0:1 の traductio＝暴露と揃える。3:4:3） |
+| portentiloquium | 奇怪な話（3:4:2） |
 | profundum（βυθός にかけた語） | 深み（1:0:2。異端のアイオーンの名 Bythus が出てきたら、字を揃えるか決めて、このメモも見直す） |
