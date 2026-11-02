@@ -109,6 +109,7 @@ README の進捗表の 13 ページ。第五巻 33 章 3〜4 節（パピアス�
 | Horus（finis） | ホロス、すなわち境界（3:18:3） |
 | Emmanuel | インマヌエル（口語訳。3:18:3） |
 | Petrus／Esaias／Iudaei | ペテロ／イザヤ／ユダヤ人（口語訳。3:18:3〜5） |
+| Malachias／Salomon | マラキ／ソロモン（口語訳。4:20:2、4:20:3） |
 
 ## 訳語
 
@@ -188,4 +189,11 @@ README の進捗表の 13 ページ。第五巻 33 章 3〜4 節（パピアス�
 | regenerare | 新たに生む（3:22:4） |
 | animalis／spiritalis（人について） | 魂の（人）／霊の（かた、人）（3:22:3） |
 | virgo（エバ、マリヤ） | おとめ（3:18:3、3:22:4） |
+| secundum magnitudinem／secundum dilectionem（神を知ること） | 大きさの点では／愛の点では（4:20:1、4:20:4。4.20.5 でも同じ） |
+| Demiurgus（エイレナイオスが唯一の神を呼ぶとき） | 造り主（尊敬語を付ける。4:20:4） |
+| Scriptura（ヘルマス『牧者』を指すとき） | 書（「聖書」にしない。4:20:2） |
+| Verbum et Sapientia（御子と霊） | 言と知恵（manus＝手。4:20:1〜4） |
+| principatus（キリストの） | 首位（4:20:2） |
+| commixtio et communio Dei et hominis | 神と人との交じり合いと交わり（4:20:4） |
+| placitum Patris | 父のみこころ（4:20:4） |
 | profundum（βυθός にかけた語） | 深み（1:0:2。異端のアイオーンの名 Bythus が出てきたら、字を揃えるか決めて、このメモも見直す） |
