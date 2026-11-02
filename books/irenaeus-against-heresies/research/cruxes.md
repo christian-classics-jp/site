@@ -1,4 +1,4 @@
-# 校訂上の論点（第一巻 序、第一巻 10 章 1〜3 節）
+# 校訂上の論点（第一巻 序、第一巻 10 章 1〜3 節、第三巻 序〜4 章）
 
 『異端反駁』の訳す範囲で、ラテン語訳の写本・刊本の読みが分かれる箇所、ラテン語訳とギリシア語（エピファニオスなどの引用）が違う箇所、聖書の引用の形が訳に影響する箇所の一覧。訳は底本（Stieren 1853 の古いラテン語訳）の読みのとおりに行い、ほかの読みは記録にとどめる。訳注は、ほかの読みを知ると一般の読者の理解が変わる箇所にだけ付ける。
 
@@ -21,6 +21,11 @@ Stieren の紙面の下の段（近代の編者がギリシア語をラテン語
 - 刊本を出していない学者：Billius と Fronto Ducaeus（注を出した。Feuardent が自分の版に取り込んだ。St. l. 1834–1846）、Franciscus Iunius（Gallasius 版の余白に書き込んだ推定と注。Stieren が見つけて自分の注に取り込んだ。St. l. 1869–1889）、Heumann（エラスムス版の余白の推定。St. l. 1849–1867）。
 - 「写本は」と書くのは写本だけの読み、「写本と刊本は」は刊本も同じ読みのとき。
 - 口語訳の本文は `../bible-api` で確かめた。
+- 第三巻で足した略号：
+  - 「Hv. II」は Harvey 1857 II の印刷ページ、「Hv. II l.」はその OCR（`sanctiirenaeiep00harvgoog_djvu.txt`）の行番号、「Hv. II 画像」はその IIIF の画像番号（印刷ページ＋11）。
+  - 「Eus. grc1 l.」「Eus. grc2 l.」は、First1KGreek のエウセビオス『教会史』（`tlg2018.tlg002`）の xml の行番号。grc1 は Lake 1926、grc2 は Dindorf 1871 の電子化。
+  - 「Schwartz p.」は E. Schwartz 編『教会史』（GCS、1903）の印刷ページ、「Schwartz l.」はその OCR の行番号、「Schwartz 画像」はその IIIF の jp2 の番号（印刷ページ＋12）。Schwartz の校注の記号：A、T、E、R、B、D、M はギリシア語の写本、Π はその一致した本文、Λ はルフィヌスのラテン語訳、Σ はシリア語訳（Schwartz l. 236–282）。OCR は Λ を A と崩すので、論点にかかわる校注は画像で確かめた。
+  - Vat.：Latinus Latinius が Bibliotheca sacra et profana（ローマ、1677 年）に抜き書いた、ヴァティカンの写本の読み。Latinius はエラスムスの 1548 年版と突き合わせて少しだけ書き留めた。Stieren は、Feuardent の Vet. とは別の写本だろうとみる（St. l. 549–570）。
 
 ---
 
@@ -414,11 +419,382 @@ Stieren の紙面の下の段（近代の編者がギリシア語をラテン語
 
 ---
 
+## 第三巻 序〜4 章
+
+本文の範囲と紙面の形（本文はまだ起こしていない。次に起こす人のためのメモ）：
+
+- 第三巻の序から 4 章 3 節の終わり（insurrexerunt in suam apostasiam.）までは St. pp. 421〜440（画像 0469〜0488、St. l. 48461〜50791）。その下が CAP. V。
+- ページごとの OCR の行：p. 421（画像 0469）l. 48461–48509、p. 422（0470）l. 48516–48647、p. 423（0471）l. 48651–48783、p. 424（0472）l. 48792–48890、p. 425（0473）l. 48899–49005、p. 426（0474）l. 49008–49137、p. 427（0475）l. 49140–49268、p. 428（0476）l. 49271–49440、p. 429（0477）l. 49443–49516、p. 430（0478）l. 49519–49670、p. 431（0479）l. 49673–49799、p. 432（0480）l. 49808–49900、p. 433（0481）l. 49911–50037、p. 434（0482）l. 50042–50141、p. 435（0483）l. 50147–50270、p. 436（0484）l. 50276–50413、p. 437（0485）l. 50416–50533、p. 438（0486）l. 50538–50612、p. 439（0487）l. 50614–50746、p. 440（0488）l. 50762–50846。OCR は注の位置を入れ替えることがある（p. 429 の注 1 は l. 49403 から、p. 428 の注のあいだに入っている）。
+- 紙面の形：第三巻の 1〜4 章では、各ページの上の段が古いラテン語訳、線より下の小さい活字の段が Thiersch のギリシア語への訳し戻し（「Κεφ. αʹ.」などの見出し。St. p. 422 注 2 によれば Theol. Studien u. Kritiken 1842 から）。下の段は起こさず、根拠にも使わない。エウセビオスの引くギリシア語が残る四か所だけ、上の段を左右に分け、左にエウセビオスのギリシア語、右にラテン語訳を置く：3.1.1 の Ita Matthaeus … commorans（pp. 423〜424）、3.3.3 の Fundantes … pervenit usque ad nos（pp. 431〜433）、3.3.4 の Et Polycarpus … traditionis（pp. 433〜436。p. 434 は上の段全体がギリシア語、p. 435 は全体がラテン語）、3.4.3 の Valentinus enim … conventu（pp. 439〜440）。p. 432 の下の段（ἀναγγέλλουσαν ἕνα θεόν…）、p. 437〜439 の下の段、p. 440 の下の段（Μαρκίων δέ…。注 a「Haec Thierschius vertit」）は Thiersch。
+- 注の番号：第三巻では、ラテン語訳への注とエウセビオスのギリシア語への注が、同じ通し番号の数字になる（p. 423 なら注 1〜4 がギリシア語、5〜10 がラテン語）。ローマ字の注（a、b…）は Thiersch の訳し戻しへの注（多くは Thiersch 自身の言葉）。上の凡例の「ギリシア語本文への注はローマ字」は、第三巻には当てはまらない。
+- Harvey 1857 II では pp. 1〜18（Hv. II 画像 0012〜0029、Hv. II l. 461〜2131）。Harvey の節と底本の節の対応：Hv. III.i.1 ＝ 3.1.1 の前半（l. 533）、i.2 ＝ 3.1.1 の Ita Matthaeus から 3.1.2 まで（l. 627）、ii.1 ＝ 3.2.1（l. 1103）、ii.2 ＝ 3.2.2〜3（l. 1119）、iii.1 ＝ 3.3.1〜2（l. 1227）、iii.2 ＝ 3.3.3 の前半（l. 1429）、iii.3 ＝ 3.3.3 の表から（l. 1522）、iii.4 ＝ 3.3.4（l. 1587）、iv.1 ＝ 3.4.1〜2（l. 1882）、iv.2 ＝ 3.4.3（l. 2029）。第三巻のこの範囲では、章の番号は Massuet と同じ。
+- エウセビオス『教会史』の該当箇所：3.1.1 ＝ 五・八・二〜四（Eus. grc1 l. 8141–8153、Eus. grc2 l. 9852–9872、Schwartz pp. 442–444）、3.3.3 ＝ 五・六・一〜五（Eus. grc1 l. 8033–8065、Eus. grc2 l. 9720–9764、Schwartz pp. 438–440）、3.3.4 ＝ 四・一四・三〜八（Eus. grc1 l. 6085–6126、Eus. grc2 l. 7251–7308、Schwartz pp. 332–334）と三・二三・四（3.3.4 の終わりの文。Eus. grc1 l. 4444–4449、Eus. grc2 l. 5180–5184、Schwartz p. 238）、3.4.3 ＝ 四・一一・一（Eus. grc1 l. 5917–5925、Eus. grc2 l. 7022–7031、Schwartz p. 320）。どれも Stieren の注で確かめた（St. p. 423 注 1、p. 431 注 1、p. 432 注 7、p. 433 注 2、p. 436 注 1、p. 439 注 1）。
+- F1K grc1（Lake）には電子化の誤りがある。五・六・四の「καὶ τὸν ἀποστόλων Ἀλέξανδρος」（Eus. grc1 l. 8055）は、Schwartz の印刷と grc2 では「καὶ τὸν Εὐάρεστον Ἀλέξανδρος」（Schwartz l. 25742–25743、Eus. grc2 l. 9752–9753）。同じく l. 8061 の「τὸν τῆς ἐπισκοπῆς τῶν ἀποστόλων」は ἀπό が落ちている（Schwartz l. 25753–25754、Eus. grc2 l. 9757–9758）。
+
+### 3.0.1 序の小さな異読（Tu quidem、varietatem、arguentes、postulet、distribuit、destructio）
+- 底本（Stieren）：Tu quidem, dilectissime, praeceperas nobis … et ostenderem varietatem ipsorum … Aggressi sumus autem nos, arguentes eos a Simone … propter quod, quum sit unius operis traductio eorum et destructio in multis … plura donat, quam postulet quis ab ea … quam ab apostolis ecclesia percepit et distribuit filiis suis.
+- ほかの読み：Tu quidem は、エラスムスの 1526〜1545 年版の本文と写本の Merc.（I・II の区別なし）で quia quidem。エラスムスは余白に今の読みを書き、1548 年版から本文に入れた（St. p. 421 注 1）。varietatem は写本の Merc. I で veritatem（注 2）。arguentes は写本の Arund. で circueuntes（注 3）。postulet は写本の Clarom.、Voss.、Merc. II で postulat（注 4）。distribuit は写本の Voss.、Clarom.、Merc. II で distribuet（注 5）。Harvey は、destructio を detectio（ἔλεγχος、暴露）と読みたいとし、続く destructa sunt も、並ぶ nudata に合わせて detecta とすべきだとする（推定で、本文は変えない。Hv. II p. 1 注 1）。
+- 採る校訂者：Stieren と Harvey の本文は同じ（Hv. II l. 470–490）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。traductio eorum et destructio は、第一巻（暴露）と第二巻（反駁）の二つの仕事を言う、と取る。
+- 確かめた資料：St. p. 421 本文・注 1–5（画像 0469、St. l. 48469–48509）。Hv. II p. 1 本文・注 1（Hv. II l. 470–500）。
+
+### 3.0.1 Qui vos audit, me audit…（ルカ一〇・一六）
+- 底本（Stieren）：quibus et dixit Dominus: Qui vos audit, me audit; et qui vos contemnit, me contemnit et eum, qui me misit.
+- ほかの読み：dixit は写本の Clarom. で dicit（St. p. 422 注 1）。聖句の形：ルカ一〇・一六は「あなたがたに聞き従う者」「あなたがたを拒む者」「わたしを拒む者」の三つの句。底本は後の二つをまとめ、「あなたがたを退ける者は、わたしと、わたしをつかわした方とを退ける」としている。
+- 採る校訂者：Stieren、Harvey（Hv. II l. 492–494）。両者とも欄外に Luc. X. 16。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。直接の引用。口語訳は「あなたがたに聞き従う者は、わたしに聞き従うのであり、あなたがたを拒む者は、わたしを拒むのである。そしてわたしを拒む者は、わたしをおつかわしになったかたを拒むのである」。前半は口語訳の文言に揃え、後半は底本の形に合わせて口語訳の語で言い換え、違いを `// ` メモに書く。言い換えを含むので、『』に入れるかは本の AGENTS.md（文に組み込んだ聖句の決まり）で決める。
+- 確かめた資料：St. p. 422 本文・欄外・注 1（画像 0470、St. l. 48519–48528、48599）。Hv. II p. 1（Hv. II l. 490–494）。口語訳 Luke.10.16。
+
+### 3.1.1 supervenientis Spiritus sancti virtutem ex alto（ルカ二四・四九、使徒一・八）
+- 底本（Stieren）：Postea enim quam surrexit Dominus noster a mortuis, et induti sunt supervenientis Spiritus sancti virtutem ex alto…
+- ほかの読み：Feuardent が写本の Vet. から戻した読みで、Voss.、Clarom. も同じ。刊本の Erasm.、Gall. と写本の Merc. II、Ottob. は superveniente Spiritu sancto（聖霊が臨んで）（St. p. 422 注 3）。Harvey は、属格を使徒一・八と同じ絶対句とみ、写本の Arund. は奪格で virtute とする（Hv. II p. 2 注 3）。
+- 採る校訂者：Feuardent、Stieren、Harvey（Hv. II l. 540–541）。
+- 読者への影響：小 — どちらでも「上から臨んだ聖霊の力をまとった」という意味は同じ。
+- 訳での扱い：訳注は付けない。ルカ二四・四九（口語訳「上から力を授けられる」）と使徒一・八（「聖霊があなたがたにくだる時、あなたがたは力を受けて」）を合わせた言い方。口語訳の語を借りるなら本文に出典を置き、思わせるだけなら `// ` メモに書く。
+- 確かめた資料：St. p. 422 本文・注 3（画像 0470、St. l. 48558–48562、48611–48615）。Hv. II p. 2 本文・注 3（Hv. II l. 539–541、556–557）。口語訳 Luke.24.49、Acts.1.8。
+
+### 3.1.1 de omnibus adimpleti sunt（Stieren は et de omnibus と読みたい）／exierunt
+- 底本（Stieren）：Postea enim quam surrexit Dominus noster a mortuis, et induti sunt … virtutem ex alto, de omnibus adimpleti sunt et habuerunt perfectam agnitionem: exierunt in fines terrae…
+- ほかの読み：写本と刊本に異読の記録はない。Stieren は de omnibus の前に et を足して読みたいとする（St. p. 422 注 4）。Thiersch は exierunt の前で接続詞なしに文が続くのを嫌い、ギリシア語への訳し戻しでは文の初めに ἐπεί を置いて、exierunt から主文が始まるように組んだ。Stieren は、著者の文体を直すのは批評家の仕事ではなく、訳者が語に即して訳したことも分かっているとして退け、ここで足りないのは de omnibus の前の et だけだ、と繰り返す（注 5）。
+- 採る校訂者：Stieren は本文を変えず、注で et を勧める。Harvey の本文も et がない（Hv. II l. 541–542）。
+- 底本で意味が通るか：通る。Postea enim quam … を時の節とし、de omnibus adimpleti sunt から主文と取れば、「…た後、すべてのことに満たされ、完全な知識を得た。（そして）地の果てまで出て行った」と読める。et を足すと、「満たされ」までが時の節に入り、exierunt が主文になる。どちらでも意味は同じ。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。底本で訳し、et を足す読みは `// ` メモに書く（本の AGENTS.md：底本で意味が通るときは底本で訳す）。
+- 確かめた資料：St. p. 422 本文・注 4・5（画像 0470、St. l. 48553–48563、48617–48644）。Hv. II l. 539–543。
+
+### 3.1.1 fundamentum et columnam fidei nostrae futurum（第一テモテ三・一五）
+- 底本（Stieren）：quod quidem tunc praeconaverunt, postea vero per Dei voluntatem in Scripturis nobis tradiderunt, fundamentum et columnam fidei nostrae futurum.
+- ほかの読み：異読の記録はない。praeconaverunt は写本の Arund. で praeconiaverunt（Hv. II p. 2 注 1）。Harvey は、第一テモテ三・一五ではこの二語が教会について言われている、と注記する（Hv. II p. 2 注 2）。
+- 採る校訂者：Stieren、Harvey（Hv. II l. 535–537）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。futurum は中性単数で、quod（使徒たちが宣べ、のちに書いて伝えた福音）を受ける。口語訳の第一テモテ三・一五は「真理の柱、真理の基礎」で、語の順が逆、言われているのも教会。語を借りるなら「基礎と柱」とし、`// ` メモに出典と違いを書く。
+- 確かめた資料：St. p. 422 本文（画像 0470、St. l. 48537–48550）。Hv. II p. 2 本文・注 1・2（Hv. II l. 533–537、550–554）。口語訳 1Tim.3.15。
+
+### 3.1.1 Ita Matthaeus … Ephesi Asiae commorans（エウセビオス『教会史』五・八・二〜四）
+- 底本（Stieren）：Ita Matthaeus in Hebraeis ipsorum lingua Scripturam edidit evangelii, quum Petrus et Paulus Romae evangelizarent, et fundarent ecclesiam. Post vero horum excessum Marcus, discipulus et interpres Petri, et ipse, quae a Petro annuntiata erant, per scripta nobis tradidit. Et Lucas autem, sectator Pauli, quod ab illo praedicabatur evangelium in libro condidit. Postea et Ioannes discipulus Domini, qui et supra pectus eius recumbebat, et ipse edidit evangelium, Ephesi Asiae commorans.
+- ギリシア語：エウセビオス『教会史』五・八・二〜四が引く（St. p. 423 注 1）。Stieren は左の段にこのギリシア語を載せる（p. 423〜424）。grc2（Dindorf）は五・八・二〜四に節を分けて載せ（Eus. grc2 l. 9852–9872）、grc1（Lake）も同じ本文（Eus. grc1 l. 8141–8153）。ラテン語訳との違いは小さい。ἐν τοῖς Ἑβραίοις τῇ ἰδίᾳ αὐτῶν διαλέκτῳ καὶ γραφήν の καί を、訳者は読んでいない（St. p. 423 注 3）。Schwartz の五・八・三〜四の校注には、意味の変わる異読はない（Schwartz p. 444、l. 26076–26082、26125–26128）。
+- ラテン語の写本：in Hebraeis の in を Heumann は削りたいとしたが、Stieren はギリシア語の ἐν τοῖς Ἑβραίοις（ヘブル人の間で）を根拠に退ける（注 2）。evangelii は写本の Voss. で evangelicam（注 5。Stieren は悪くないとする）。evangelizarent et fundarent は刊本みなの読み。Massuet によれば、写本の Clarom. には後の手で evangelizarunt et fundarunt と上書きがある。写本の Voss. は quum を欠き、evangelizarunt et fundarunt とはっきり書く（注 6）。per scripta は Feuardent が初めて正しく読んだもので、刊本の Erasm.、Gall. は praescripta（注 8）。Et Lucas … condidit の文は刊本の Erasm.、Gall.、Grynaeus になく、Feuardent が写本の Vet. から入れた（注 9。ギリシア語にもある）。sectator を Heumann は assectator と読みたいとする（注 10）。
+- 採る校訂者：Stieren と Harvey の本文は同じ（Hv. II l. 627–630、764、818、879、1007–1010）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。in Hebraeis ipsorum lingua は「ヘブル人の間で、彼らの言葉で」と取り、「ヘブル語で」だけにしない。qui et supra pectus eius recumbebat はヨハネ一三・二五、二一・二〇（Lake と Schwartz の欄外）。口語訳は「イエスの胸によりかかって」（一三・二五）、「イエスの胸近くに寄りかかって」（二一・二〇）。語を借り、`// ` メモに出典を書く。
+- 確かめた資料：St. p. 423 本文・注 1–3・5–10（画像 0471、St. l. 48654–48783）、p. 424 冒頭（画像 0472、St. l. 48795–48796）。Eus. grc1 l. 8141–8153（欄外 l. 8151）、Eus. grc2 l. 9852–9872。Schwartz p. 444（l. 26076–26082、26122、26125–26128）。Hv. II pp. 3–6。口語訳 John.13.25、John.21.20。
+
+### 3.1.1 Post vero horum excessum（μετὰ δὲ τὴν τούτων ἔξοδον）
+- 底本（Stieren）：Post vero horum excessum Marcus …（ペテロとパウロが「去った」後に、マルコが…）。
+- ほかの読み：excessum は写本と刊本みなの読み。Feuardent の 1639 年版だけが、誤植かもしれないが discessum。写本の Voss. には post vero horum excessum の語がない（St. p. 423 注 7）。ギリシア語の μετὰ δὲ τὴν τούτων ἔξοδον について、Christophorson はエウセビオスの本文を μετὰ τὴν τοῦ κατὰ Ματθαῖον εὐαγγελίου ἔκδοσιν（マタイによる福音書が出た後）に変えたが、本文に手を入れたとして Valesius に退けられた。Grotius はある写本に μετὰ δὲ τὴν τούτου（マタイの）ἔκδοσιν という読みを見たと言い、Possinus が出したマルコ福音書のカテナ（ヴァティカンの古い写本による）にも同じ読みがある（注 4）。Schwartz の校注には、この語の異読はない（Schwartz p. 444、l. 26125–26128）。
+- 解釈：Stieren は、ἔξοδος は二人がこの世を去ることとも、ローマを去ること（Grabe）とも取れるが、どちらに取っても、マルコの福音書をペテロの生前のこととするエウセビオス（『教会史』六・一四、二・一五）とエイレナイオスは食い違う、とする（注 4）。Grabe は、ローマを去ることと取る（Hv. II p. 4 注 2 に引く）。Harvey も、パウロは二年の軟禁の終わりに殉教していないので、ἔξοδος は死ではなく、ペテロがほかの宣教のためにローマを離れたことだ、とする（同注）。
+- 採る校訂者：本文はみな excessum（Stieren、Harvey）。
+- 読者への影響：中 — 「二人が世を去った後」と取るか「ローマを去った後」と取るかで、マルコの福音書が書かれた時の理解が変わる。ただし異読ではなく、excessus という語の意味の問題。
+- 訳での扱い：訳注は付けない（別の読みではないため）。excessus は「立ち去ること」で、死の婉曲な言い方にもなる。訳は「二人が去った後」のように両方に取れる言い方にし、二つの取り方を `// ` メモに書く。
+- 確かめた資料：St. p. 423 本文・注 4・7（画像 0471、St. l. 48693–48695、48725–48756、48768–48772）。Hv. II p. 4 本文・注 2（Hv. II l. 750–764、818、906–969）。Schwartz p. 444（l. 26076–26077、26125–26128）。
+
+### 3.1.2 spernit autem et ipsum Christum Dominum／participes Domini
+- 底本（Stieren）：Et omnes isti unum Deum … et unum Christum filium Dei tradiderunt nobis; quibus si quis non assentit, spernit quidem participes Domini, spernit autem et ipsum Christum Dominum, spernit vero et Patrem, et est a semetipso damnatus, resistens et repugnans saluti suae…
+- ほかの読み：spernit autem et ipsum Christum Dominum は、写本の Voss. では後の手で欄外に書かれている。写本の Arund. は Christum を欠く（St. p. 424 注 1）。
+- 採る校訂者：Stieren、Harvey（Hv. II l. 1012–1015）。
+- 読者への影響：小 — 句がなければ「使徒を退ける者は父をも退ける」の二段になるが、主旨は同じ。
+- 訳での扱い：訳注は付けない。participes Domini（主にあずかった者たち）は、前の Et omnes isti（福音書を書いた使徒と弟子たち）を指す。est a semetipso damnatus は、3.3.4 のテトス三・一一の引用の終わりと同じラテン語（St. p. 436）なので、訳語を揃える。
+- 確かめた資料：St. p. 424 本文・注 1（画像 0472、St. l. 48798–48803、48845–48850）、p. 436 本文（画像 0484、St. l. 50320–50321）。Hv. II p. 6（Hv. II l. 1010–1018）。
+
+### 3.2.1 Non enim per litteras traditam illam（古い写本にない五語）
+- 底本（Stieren）：et quia non possit ex his inveniri veritas ab his, qui nesciant traditionem. Non enim per litteras traditam illam, sed per vivam vocem; ob quam caussam et Paulum dixisse…
+- ほかの読み：Non enim per litteras traditam の五語は写本の Vet.、Clarom.、Voss. になく、これらでは ab iis qui nesciant traditionem（Voss. はここに illam を足す）, sed per vivam vocem と続く。刊本と同じ形は写本の Arund.、Merc. II、Ottob.（St. p. 424 注 3）。sint dictae は、Feuardent の余白によれば Voss. で sunt dictae（注 2）。
+- 採る校訂者：Stieren は五語を本文に置く。Harvey も同じ（Hv. II l. 1106–1107）。
+- 読者への影響：小 — 五語がなくても、sed per vivam vocem（生きた声によって）が残るので、「伝承は書かれたものではなく生きた声による」という異端の言い分は伝わる。
+- 訳での扱い：訳注は付けない。この文と続く ob quam caussam … dixisse は、異端の者たちの言い分を間接話法で伝えている（不定詞 dixisse）。訳では「〜と言います」の中に入れる。
+- 確かめた資料：St. p. 424 本文・注 2・3（画像 0472、St. l. 48807–48814、48851–48862）。Hv. II p. 7（Hv. II l. 1103–1108）。
+
+### 3.2.1 Sapientiam autem loquimur inter perfectos（第一コリント二・六）
+- 底本（Stieren）：Sapientiam autem loquimur inter perfectos; sapientiam autem non mundi huius.
+- ほかの読み：異読の記録はない。Stieren と Harvey は欄外に 1. Cor. II. 6 を挙げる（St. l. 48814、Hv. II l. 1189）。
+- 採る校訂者：Stieren、Harvey（Hv. II l. 1108–1109）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。直接の引用。口語訳は「しかしわたしたちは、円熟している者の間では、知恵を語る。この知恵は、この世の者の知恵ではなく、この世の滅び行く支配者たちの知恵でもない」。底本は後半の「支配者たちの知恵でもない」を引かないので、口語訳の前半の文言を借りて「この世の知恵ではない」で切る。perfecti（完全な者）は 3.3.1 の perfectos と同じ語で、異端の言う「完全な者」をエイレナイオスが逆手に取っているので、3.3.1 と訳語を揃える（口語訳の「円熟している者」を使うかどうかもそこで決める）。
+- 確かめた資料：St. p. 424 本文・欄外（画像 0472、St. l. 48814–48817）。Hv. II p. 7（Hv. II l. 1108–1109、1189）。口語訳 1Cor.2.6。
+
+### 3.2.1 unusquisque eorum／adinvenerit
+- 底本（Stieren）：Et hanc sapientiam unusquisque eorum esse dicit, quam a semetipso adinvenerit, fictionem videlicet…
+- ほかの読み：eorum は写本の Clarom. にない（St. p. 424 注 4）。adinvenerit は Feuardent の余白（Voss.）、写本の Merc. I、Ottob.、Clarom. と Massuet の読みで、ほかは adinvenit（注 5）。Harvey の本文は adinvenit で、Clarom. と Arund. も adinvenit だとし、Clarom. を adinvenerit とするのは Stieren であって Massuet ではない、と注記する（Hv. II p. 7 注 2）。Harvey は、Clarom. が esse を欠くとも注記する（注 1）。
+- 採る校訂者：Stieren は adinvenerit、Harvey は adinvenit。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。
+- 確かめた資料：St. p. 424 注 4・5（画像 0472、St. l. 48818–48822、48864–48871）。Hv. II p. 7 注 1・2（Hv. II l. 1109–1110、1123–1128）。
+
+### 3.2.1 aut et in illo qui contra disputat
+- 底本（Stieren）：ut digne secundum eos sit veritas, aliquando quidem in Valentino, aliquando autem in Marcione, aliquando in Cerintho; postea deinde in Basilide fuit, aut et in illo qui contra disputat, qui nihil salutare loqui potuit.
+- ほかの読み：postea は Grabe が写本に従って足した（St. p. 425 注 1）。aut et in illo は Massuet が写本の Clarom. に従った読みで、Voss. も同じ。刊本の Erasm.、Gall.、Grynaeus は autem in illo、Feuard. と Grab. は autem et in illo（注 2）。
+- 解釈：Stieren は「箇所そのものがひどく傷んでいるように見える」と書き、「反論する者」がだれかの説を挙げる。Feuardent はバシレイデス、Grabe は魔術師シモンとする（どちらも理由を書かない）。Massuet は、特定の人ではなく、公同の信仰に反論する者すべてだとする。Stieren はこの Massuet の説を「疑いなく正しい」とし、Thiersch の説明（エイレナイオスは不定代名詞「だれか」を書いたが、訳者はそれを冠詞と取った）も紹介する（注 2）。Harvey も「不定に、ほかのだれでも反論する者」と取る（Hv. II p. 7 注 3）。
+- 採る校訂者：Stieren、Harvey とも aut et in illo（Hv. II l. 1113–1114）。
+- 底本で意味が通るか：通る。異端の者たちにとって真理は、ウァレンティノスにもマルキオンにもケリントスにもバシレイデスにも、反論する者ならだれにでもあったことになる、という皮肉に読める。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。「あるいは、反論する者ならだれにでも」のように不定に訳し、特定の人とする説は `// ` メモに書く。
+- 確かめた資料：St. p. 425 本文・注 1・2（画像 0473、St. l. 48902–48907、48926–48975）。Hv. II p. 7 本文・注 3（Hv. II l. 1111–1114、1130–1131）。
+
+### 3.2.2 Apostolos enim … legalia／modo quidem a Demiurgo … a summitate／et se vero
+- 底本（Stieren）：adversantur traditioni, dicentes se … sinceram invenisse veritatem. Apostolos enim admiscuisse ea, quae sunt legalia Salvatoris verbis; et non solum apostolos, sed etiam ipsum Dominum, modo quidem a Demiurgo, modo autem a medietate, interdum autem a summitate fecisse sermones; et se vero indubitate et intaminate et sincere absconditum scire mysterium; quod quidem est impudentissime blasphemare suum factorem.
+- ほかの読み：adversantur traditioni dicentes は Feuardent が初めて正しく読み、Voss. も同じ。刊本の Erasm.、Gall. は qui adversantur traditioni, dicent（St. p. 425 注 5）。Apostolos enim は Grabe が初めて入れ、Massuet が従った読みで、ほかは apostolos autem（注 6）。legalia は「ユダヤ教から取ったもの」の意味（注 7）。sed etiam の etiam は Feuardent が写本の Vet. から戻した（注 8）。modo quidem a Demiurgo は写本の Voss. にない（St. p. 426 注 2）。Stieren は、主の言葉にはデーミウールゴスからのもの、「中間」からのもの、「至高」からのものがある、という説を、第一巻 7 章 3 節（ギリシア語では、救い主から、母から、造物主から）と比べる（注 1）。et se は写本の Voss.、Merc. II、Clarom.、Ottob. と初めのころのエラスムスの版、Massuet の読みで、ほかは et を欠く（注 3）。ところが Harvey は、Clarom. と Arund. は et を欠くとし、本文を se vero とする（Hv. II p. 8 注 1、l. 1208）。Harvey は a summitate を ἐκ τοῦ πληρώματος（プレーローマから）と説明する（同注）。intaminate は写本の Voss.、Clarom. と Massuet の読みで、ほかは incontaminate（St. p. 426 注 4）。est impudentissime の語順は Stieren が写本の Voss. によって変えたもので、ほかの刊本は impudentissime est（注 5。Harvey の本文も impudentissime est、Hv. II l. 1210）。
+- 採る校訂者：上のとおり。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。medietas（中間）と summitas（至高のもの）はウァレンティノス派の用語。訳語は本の AGENTS.md の訳語表に足して決める（Demiurgus＝造物主と揃える）。
+- 確かめた資料：St. p. 425 本文・注 5–8（画像 0473、St. l. 48909–48915、48983–48996）、p. 426 本文・注 1–5（画像 0474、St. l. 49011–49015、49066–49086）。Hv. II p. 8 本文・注 1（Hv. II l. 1203–1211、1235–1236）。
+
+### 3.2.3 lubricos／effugere／retusione（ユスティノス『第一弁明』12 章との並行）
+- 底本（Stieren）：Adversus tales certamen nobis est, o dilectissime, more serpentum lubricos undique effugere conantes. Quapropter undique resistendum est illis, si quos ex his retusione confundentes, ad conversionem veritatis adducere possimus. Etenim si non facile est ab errore apprehensam resipiscere animam; sed non omnimodo impossibile est errorem effugere, apposita veritate.
+- ほかの読み：lubricos は、Latinus Latinius によれば写本の Vat. の読みで、Grabe と Massuet がこれによって入れた。Grabe は Voss. も lubricos だと言うが、Stieren は、Voss. にははっきり lubrici とあり、ほかの写本と刊本もみな lubrici だとする（St. p. 426 注 6）。Harvey は、写本の Clarom.、Arund.、Voss. が lubrici なので、訳者は副詞 lubrice を書いたのではないかと推定し、本文に lubrici [l. lubrice] と置く（Hv. II p. 8 注 2、l. 1213）。effugere は Feuardent が写本の Vet. によって直した読みで、Latinius によれば Vat.、また Voss. も同じ。刊本の Erasm.、Gall. は誤って fingere（St. p. 426 注 7）。retusione は写本の Arund.、Merc. II で retunsione（注 8）。最後の文は、Grabe が初めて指摘したとおり、ユスティノス『第一弁明』12 章の終わり（真理が示されれば、無知を逃れることは不可能ではない）によく似る（注 9。Hv. II p. 8 注 3 も同じ）。
+- 採る校訂者：lubricos は Grabe、Massuet、Stieren。Harvey は lubrici（lubrice を推定）。
+- 底本で意味が通るか：通る。lubricos は tales（異端の者たち）にかかり、「蛇のようにぬめって、あらゆる方へ逃げようとする者たち」と読める。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。ユスティノスとの並行は `// ` メモに書いてよい（『第一弁明』はこのリポジトリで訳してある）。
+- 確かめた資料：St. p. 426 本文・注 6–9（画像 0474、St. l. 49016–49021、49088–49113）。St. の序論 cap. II（St. l. 549–570、Vat. について）。Hv. II p. 8 本文・注 2・3（Hv. II l. 1212–1217、1238–1251、Hv. II 画像 0019）。
+
+### 3.3.1 adest respicere／videre／habemus annumerare／successores
+- 底本（Stieren）：Traditionem itaque apostolorum in toto mundo manifestatam in omni ecclesia adest respicere omnibus qui vera velint videre, et habemus annumerare eos, qui ab apostolis instituti sunt episcopi in ecclesiis, et successores eorum usque ad nos…
+- ほかの読み：adest は「〜できる、すぐに〜できる」という意味のギリシア語風の言い方（πάρεστιν。Billius による。St. p. 427 注 1。Harvey は πάρεστιν か、単に ἐστίν、Hv. II p. 8 注 4）。respicere は写本の Voss. と Massuet の版の読みで、ほかの刊本は perspicere、写本の Merc. II は prospicere（St. p. 427 注 1）。Harvey は本文を perspicere とし、それが Clarom. と Arund. の読みだとする（Hv. II p. 8 注 5、l. 1228）。videre は Grabe が写本の Vet.（Feuardent の余白）、Arund.、Voss.、Merc. I によって入れ、Massuet も従った読みで、ほかは audire（St. p. 427 注 2）。habemus は写本の Arund.、Merc. II で habeamus。Heumann は annumerare を、3.3.2 の初めの語に合わせて enumerare と読みたいとする（注 3）。successores は写本の Arund.、Merc. I で successiones（注 4）。Harvey は successiones を Clarom. と Arund. から戻し、本文に置く（Hv. II p. 8 注 6、l. 1230）。
+- 採る校訂者：Stieren は respicere、successores。Harvey は perspicere、successiones。
+- 読者への影響：小 — 「監督たちとその後継者たち」と「監督たちとその継承」で、指すものは同じ。
+- 訳での扱い：訳注は付けない。
+- 確かめた資料：St. p. 427 本文・注 1–4（画像 0475、St. l. 49149–49153、49191–49212）。Hv. II p. 8 本文・注 4–6（Hv. II l. 1227–1231、1253–1263、Hv. II 画像 0019）。
+
+### 3.3.1 seorsim et latenter／irreprehensibiles（第一テモテ三・二）／quibus emendate agentibus
+- 底本（Stieren）：quae seorsim et latenter ab reliquis perfectos docebant … Valde enim perfectos et irreprehensibiles in omnibus eos volebant esse, quos et successores relinquebant, suum ipsorum locum magisterii tradentes; quibus emendate agentibus fieret magna utilitas, lapsis autem summa calamitas.
+- ほかの読み：seorsim は写本の Voss.、Merc. II で seorsum（St. p. 427 注 5）。latenter ab reliquis は、Feuardent の余白によれば Voss. で latentes a reliquis（注 6）。irreprehensibiles について、Grabe は第一テモテ三・二（監督は非難のない者でなければならない）を挙げる（注 7）。quibus emendate agentibus は、Billius によればギリシア語の ὧν κατορθούντων（その務めを正しく果たすなら）（注 8）。Harvey は ὧν ἀνορθουμένων とする（Hv. II p. 9 注 1）。
+- 採る校訂者：Stieren、Harvey（Hv. II l. 1232–1288）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。irreprehensibiles は口語訳第一テモテ三・二の「非難のない」を借りられる（暗示なので `// ` メモ）。perfectos は 3.2.1 の第一コリント二・六の perfecti と訳語を揃える。
+- 確かめた資料：St. p. 427 本文・注 5–8（画像 0475、St. l. 49153–49159、49214–49246）。Hv. II p. 9 本文・注 1（Hv. II l. 1278–1288、1305）。口語訳 1Tim.3.2。
+
+### 3.3.2 maximae et antiquissimae … Petro et Paulo … quam habet
+- 底本（Stieren）：Sed quoniam valde longum est in hoc tali volumine omnium ecclesiarum enumerare successiones; maximae et antiquissimae et omnibus cognitae, a gloriosissimis duobus apostolis Petro et Paulo Romae fundatae et constitutae ecclesiae, eam quam habet ab apostolis traditionem…
+- ほかの読み：Stieren は、この「名高く、また論争の多い」箇所で Grabe と Massuet が論争の調子に流れたのを戒め、批評家にとって確かで疑いのないことだけを注する、と書く（St. p. 428 注 1）。antiquissimae には「もちろん、東方の教会こそ最も古い」と注記する（注 2）。Petro et Paulo は写本の Clarom.、Voss. で Paulo et Petro（注 3）。quam habet は写本の Clarom.、Voss. で quam habebat（注 4。Harvey はギリシア語の εἶχεν に当たるとする、Hv. II p. 9 注 3）。
+- 採る校訂者：Stieren、Harvey（Hv. II l. 1288–1293）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。antiquissimae は最上級だが、「非常に古い」と取れる（Harvey も、主要な教会はみな同じように antiquissimae だったと書く。Hv. II p. 9 注 7）。
+- 確かめた資料：St. p. 428 本文・注 1–4（画像 0476、St. l. 49274–49278、49299–49324）。Hv. II p. 9 注 2・3・7（Hv. II l. 1288–1293、1306–1310、1346–1350）。
+
+### 3.3.2 per sibiplacentiam（malam）
+- 底本（Stieren）：confundimus omnes eos, qui quoquo modo, vel per sibiplacentiam vel vanam gloriam vel per caecitatem et malam sententiam praeterquam oportet colligunt.
+- ほかの読み：sibiplacentiam は Clarom. を除く写本みなの読み。Clarom. は sibiplacentia（a の上の略記号が消されている）。刊本の Erasm.、Gall.、Feuard.、Grab. は sui placentiam malam、Massuet は Clarom. に従って sibi placentia。Stieren は、写本のどれにもない malam を Massuet とともに削った（St. p. 428 注 5）。Thiersch はこの語をギリシア語 αὐταρέσκεια（ひとりよがり）の訳として作られた語とみる（同注）。Harvey の本文は sibiplacentiam malam（Hv. II l. 1295）。
+- 採る校訂者：Stieren は malam なし。Harvey は malam あり。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。「ひとりよがり」の意味で訳す。
+- 確かめた資料：St. p. 428 本文・注 5（画像 0476、St. l. 49279–49281、49326–49361）。Hv. II p. 9 本文・注 5（Hv. II l. 1294–1296、1319）。
+
+### 3.3.2 praeterquam oportet colligunt
+- 底本（Stieren）：…praeterquam oportet colligunt.
+- ほかの読み：異読はない。解釈の問題。Billius は、訳者がギリシア語の παρασυνάγειν（正しくない集会を開く）を訳そうとしたとみる。Stieren は訳者がその語を訳そうとしたことは認めつつ、ここは隠れた集会の話ではなく、使徒から受けた教えを退けて新しい教えを作る者の話なので合わないとし、Thiersch の「正しい以上に推し量る」という説明のほうが文脈に合う、とする（St. p. 428 注 6、続きは p. 429）。Harvey は παρ᾽ ὃ δεῖ συνάγουσι と取り、前後の語から、公同の伝承を退けた者たちの認められない集会のことだとする（Hv. II p. 9 注 6）。
+- 採る校訂者：異読がないので該当なし。
+- 読者への影響：中 — 「正しくない集会を開く」と「正しくない推論をする」で、相手の何を責めているのかが変わる。ただし異読ではない。
+- 訳での扱い：訳注は付けない（別の読みではないため）。どちらかに決めて訳し、もう一つの取り方を `// ` メモに書く。
+- 確かめた資料：St. p. 428 本文・注 6（画像 0476、St. l. 49281、49363–49374）、p. 429 注 6 の続き（画像 0477、St. l. 49383–49401）。Hv. II p. 9 注 6（Hv. II l. 1321–1329）。
+
+### 3.3.2 propter potentiorem principalitatem
+- 底本（Stieren）：Ad hanc enim ecclesiam propter potentiorem principalitatem necesse est omnem convenire ecclesiam…
+- ほかの読み：potentiorem は写本と刊本みなの読みで、写本の Clarom. と Massuet だけが potiorem。Massuet は、写字生は pontiorem と書き、古い手が n を消した、と言う。Stieren は、potiorem を Massuet が言葉を尽くして勧めるのは先入見によるとして、potentiorem に戻した（St. p. 429 注 1）。Harvey も本文を potentiorem とし、Clarom. は pontiorem と注記する（Hv. II p. 9 注 7）。
+- ギリシア語の推定（ギリシア語は残らないので、どれも推定）：Salmasius は ἐξαίρετον πρωτεῖον、Massuet は ὑπέρτερον πρωτεῖον。Griesbach は διὰ τὴν κρείττονα（ἱκανωτέραν）ἀρχήν と推定して ἀρχή をローマの教会の始まり（二人の使徒による創設）と取り、Gieseler も ἱκανωτέραν ἀρχήν とする。Stieren は、3.3.3 で訳者が ἱκανωτάτην γραφήν を potentissimas litteras と訳し、3.3.4 で ἱκανωτάτη を perfectissima と訳しているので、potentior は ἱκανώτερος に当たると見る。principalitas については、訳者が ἀρχή を initium、ἀρχαῖος を principalis と訳す例を挙げ、ἀρχαιότης（古さ、始まりの確かさ）の訳と推定して、διὰ τὴν ἱκανωτέραν ἀρχαιότητα とする。Heumann は propter apostolicam principalitatem と読みたいとした（以上 St. p. 429 注 1、続きは p. 430）。Harvey は、Grabe が διὰ τὴν ἱκανωτέραν ἀρχήν を、教会ではなく帝国の都の支配を指すものとして推定した、と記す。Harvey 自身は διὰ τὴν διαφορωτέραν ἀρχήν を挙げ、Stieren の「古さ」の説には、主要な教会はみな使徒にさかのぼり、同じように古いとして反対する（Hv. II p. 9 注 7）。
+- 採る校訂者：potentiorem は Stieren、Harvey。potiorem は Massuet。
+- 読者への影響：大（解釈）— ローマの教会の何が「より力ある」のかの取り方で、この箇所の読まれ方が大きく変わる。異読（potiorem）としては小。
+- 訳での扱い：訳注は付けない（別の読みではなく解釈の問題で、どの推定も資料で確かめられないため）。底本の語に即し、特定の解釈（首位権、古さ）に寄せない訳語にする。訳語は本の AGENTS.md の訳語表に足す。
+- 確かめた資料：St. p. 428 注 1（画像 0476）、p. 429 本文・注 1（画像 0477、St. l. 49403–49508）、p. 430 注 1 の続き（画像 0478、St. l. 49533–49592）。Hv. II p. 9 本文・注 7（Hv. II l. 1297、1331–1350）。
+
+### 3.3.2 convenire／eos qui sunt undique fideles／in qua
+- 底本（Stieren）：necesse est omnem convenire ecclesiam, hoc est, eos qui sunt undique fideles, in qua semper ab his, qui sunt undique, conservata est ea quae est ab apostolis traditio.
+- ほかの読み：eos は写本の Arund. になく、Clarom. にある（Hv. II p. 9 注 9）。convenire について、Stieren は Thiersch の説明（伝承についての証しで、ローマの教会と「一致する、声を合わせる」）を正しいとし、Grabe に従ってローマへ送られた諸教会の使者の集まりと取る Neander に驚く、と書く（St. p. 430 注 2）。Harvey も συντρέχειν εἰς（一致する）と取り、会議のように「集まる」のではないとする（Hv. II p. 9 注 8）。in qua について、Harvey は「〜するかぎり、〜なので」の意味の ᾗ か、関係詞なら omnem ecclesiam を受けるとし、ローマの教会を受けるとは取りにくい（ほかの教会の人々は伝承を自分の教会で守ったのであって、ローマの教会の中で守ったのではない）とする（Hv. II p. 9 注 10）。Thiersch の注（St. p. 430 注 c）は、Feuardent ほかのローマ・カトリックの神学者が in qua をローマの教会に取ったことを挙げ、自分は omnem ecclesiam（ほかの一つ一つの教会）を受けると取る。
+- 採る校訂者：ラテン語の写本に異読はない（eos を除く）。
+- 読者への影響：大（解釈）。異読としては小。
+- 訳での扱い：訳注は付けない（別の読みではないため）。convenire は「一致する」と「集まる」のどちらにも取れるが、Stieren と Harvey は「一致する」。in qua の先行詞は訳でできるだけ決めつけず、決めた取り方と別の取り方を `// ` メモに書く。
+- 確かめた資料：St. p. 429 本文（画像 0477、St. l. 49449）、p. 430 本文・注 2・注 c（画像 0478、St. l. 49522–49523、49596–49662）。Hv. II p. 9 本文・注 8–10（Hv. II l. 1297–1302、1352–1369）。
+
+### 3.3.3 Fundantes igitur … et annuntians（エウセビオス『教会史』五・六・一〜三）
+- 底本（Stieren）：Fundantes igitur et instruentes beati apostoli ecclesiam Lino episcopatum administrandae ecclesiae tradiderunt. Huius Lini Paulus in his quae sunt ad Timotheum epistolis meminit. … qui et vidit ipsos apostolos et contulit cum eis, et quum adhuc insonantem praedicationem apostolorum et traditionem ante oculos haberet, non solus; adhuc enim multi supererant tunc ab apostolis docti. … scripsit quae est Romae ecclesia potentissimas litteras Corinthiis, ad pacem eos congregans et reparans fidem eorum, et annuntians quam in recenti ab apostolis acceperat traditionem…
+- ギリシア語：エウセビオス『教会史』五・六・一〜三が引く。最後の文はニケフォロスも引く（St. p. 431 注 1）。Eus. grc1 l. 8033–8053、Eus. grc2 l. 9720–9748、Schwartz p. 438（l. 25723–25735）。違いは次のとおり。
+  - τοὺς μακαρίους ἀποστόλους の μακαρίους を訳者は読んでいない（St. p. 431 注 3）。ラテン語の ipsos は、写本の Merc. II とギリシア語にないとして Grabe が削ったが、Massuet が最良の写本にあるとして戻した（注 6）。
+  - ラテン語の et annuntians は、エウセビオスとニケフォロスの本文になく、ルフィヌスのラテン語訳にはある（St. p. 432 注 1。Harvey もギリシア語本文に [ἀναγγέλλουσα] を補う、Hv. II p. 11 注 1）。Schwartz は、εἰλήφει の後に κηρύσσουσα（annuntians）が続いていたが、抜き出しの区切りを誤って落ちた、と注記する（Schwartz p. 438 校注、l. 25761–25763）。
+  - συμβιβάζουσα … ἀνανεοῦσα は、ニケフォロスとルフィヌスでは対格で手紙にかかる。ラテン語訳（congregans … reparans）はエウセビオスの普通の読み（教会にかかる）を支える（St. p. 431 注 4）。
+  - ἱκανωτάτην を訳者は potentissimas と訳した。Stieren は、Valesius の luculentissimas、エウセビオスのドイツ語訳者 Stroth の「とても行き届いた手紙」を挙げ、ἱκανός は「確かな、欠けるところのない」の意味だとする（注 9）。
+- ラテン語の写本：Huius Lini の後に写本の Arund. は autem を入れる（注 5）。et quum adhuc の et は Grabe が写本によって足した（注 7）。non solus; adhuc enim multi は Grabe が写本によって初めて入れた読みで、刊本の Erasm.、Gall.、Feuard. は non solus enim, adhuc multi（注 8）。acceperat は Massuet だけが写本の Clarom. に従った正しい読みで、Grabe は Arund. と Voss. から acceperant、ほかは receperant（St. p. 432 注 2）。
+- 採る校訂者：Stieren と Harvey のラテン語本文は同じ（Hv. II l. 1429–1439、1495）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。scripsit の主語はローマの教会で、ここでは手紙をローマの教会が書いたことになっている（クレメンスが書いたとは言わない）。acceperat の主語も教会。potentissimas は「強い」より「十分な、行き届いた」の意味で訳し、3.3.4 の perfectissima（同じ ἱκανωτάτη）と合わせる。Linus は第二テモテ四・二一の「リノス」（Lake と Schwartz の欄外 2 Tim. 4, 21）。
+- 確かめた資料：St. p. 431 本文・注 1–9（画像 0479、St. l. 49673–49799）、p. 432 冒頭・注 1・2（画像 0480、St. l. 49811–49812、49860–49869）。Eus. grc1 l. 8033–8053、Eus. grc2 l. 9720–9748。Schwartz p. 438（l. 25723–25735、25758–25763）。Hv. II pp. 10–11（Hv. II l. 1404–1495、1537–1542）。口語訳 2Tim.4.21。
+
+### 3.3.3 ex ipsa scriptura（γραφή＝手紙）／クレメンスの手紙が告げる神
+- 底本（Stieren）：annuntiantem unum Deum omnipotentem, factorem caeli et terrae, plasmatorem hominis, qui induxerit cataclysmum et advocaverit Abraham, qui eduxerit populum de terra Aegypti, qui collocutus sit Moysi, qui legem disposuerit et prophetas miserit, qui ignem praeparaverit diabolo et angelis eius. Hunc Patrem Domini nostri Iesu Christi ab ecclesiis annuntiari, ex ipsa scriptura, qui velint, discere possunt, et apostolicam ecclesiae traditionem intelligere; quum sit vetustior epistola his qui nunc falso docent…
+- ほかの読み：omnipotentem は写本の Clarom.、Voss. にない（St. p. 432 注 3、Hv. II p. 11 注 2）。cataclysmum は Voss. で eum cataclysmum（注 4）。disposuerit … miserit は写本の Arund.、Ottob.、Merc. II で disposuerat … miserat、Clarom. も後の語は miserat（注 5）。scriptura について、Grabe はクレメンスの手紙を指すと注記する。Stieren は、訳者はギリシア語の γραφή を読んだに違いなく、epistola と訳したほうがよかった、と書く（注 6）。Harvey も「書いたもの、すなわちクレメンスの手紙」とする（Hv. II p. 11 注 3）。Harvey は、この部分の一つ一つの句に当たるクレメンスの手紙の章を欄外に挙げる（Hv. II p. 11 欄外と注、l. 1495–1502、1532–1534）。
+- 採る校訂者：Stieren、Harvey（Hv. II l. 1495–1505）。
+- 底本で意味が通るか：通る。scriptura は「書いたもの」の意味も持ち、Stieren の勧める epistola は語の意味の幅の中にある。
+- 読者への影響：中 — scriptura を「聖書」と取ると、「聖書から学べる」と誤って読める。ただし異読ではなく、語の意味の問題。
+- 訳での扱い：訳注は付けない。scriptura は「その手紙そのもの」「その書いたもの」と訳し、「聖書」にしない。qui ignem praeparaverit diabolo et angelis eius はマタイ二五・四一（口語訳「悪魔とその使たちとのために用意されている永遠の火」）の語。語を借りるなら本文に出典を置き、思わせるだけなら `// ` メモに書く。
+- 確かめた資料：St. p. 432 本文・注 3–6（画像 0480、St. l. 49813–49822、49871–49889）。Hv. II p. 11 本文・欄外・注 2・3（Hv. II l. 1495–1505、1532–1550、Hv. II 画像 0022）。口語訳 Matt.25.41。
+
+### 3.3.3 ローマの監督の名前の表（Linus〜Eleutherius）
+- 底本（Stieren）：Lino … Succedit autem ei Anacletus; post eum tertio loco ab apostolis episcopatum sortitur Clemens … Huic autem Clementi succedit Evaristus et Evaristo Alexander, ac deinceps sextus ab apostolis constitutus est Sixtus, et ab hoc Telesphorus, qui etiam gloriosissime martyrium fecit; ac deinceps Hyginus, post Pius, post quem Anicetus. Quum autem successisset Aniceto Soter, nunc duodecimo loco episcopatum ab apostolis habet Eleutherius.
+- ギリシア語：エウセビオス『教会史』五・六・一〜四（St. p. 432 注 7）。Eus. grc1 l. 8035–8062、Eus. grc2 l. 9724–9759、Schwartz p. 438（l. 25723–25754）。名前は Λίνος、Ἀνέγκλητος、Κλήμης、Εὐάρεστος、Ἀλέξανδρος、Ξύστος、Τελεσφόρος、Ὑγῖνος、Πίος、Ἀνίκητος、Σωτήρ、Ἐλεύθερος。順序はラテン語訳と同じ。数え方も同じで、使徒の次のリノスを一番目とし、クレメンスが三番目、クシュストス（Sixtus）が六番目、エレウテロスが十二番目。綴りの違いは Anacletus／Ἀνέγκλητος（ルフィヌスは Anencletus、Schwartz l. 25786）、Evaristus／Εὐάρεστος、Sixtus／Ξύστος、Eleutherius／Ἐλεύθερος。ギリシア語の εἶθ᾽ οὕτως ἕκτος の οὕτως を訳者は読んでいない（St. p. 432 注 8）。
+- ラテン語の写本：Telesphorus は写本の Arund.、Merc. II、Voss. で Telesiphorus。Clarom. ははじめ Telesiphorus と書き、上に Telosporus と書き直したらしい（St. p. 432 注 9）。Eleutherius は写本の Voss. の読みで（Grabe は Voss. について誤って伝える）、Arund. は Eleutherus（St. p. 433 注 5）。Harvey のラテン語本文は Euaristus、Eleutherius（Hv. II l. 1522–1527）。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。名前は本の AGENTS.md の名前の表に足す。聖書にある名前は口語訳に揃え（リノス＝第二テモテ四・二一、クレメンス＝ピリピ四・三）、ほかは今の書き方にする。ラテン語訳の綴りとギリシア語の綴りのどちらに拠るかを決め、Anacletus／Ἀνέγκλητος のように形の違うものは、どちらに拠ったかを `// ` メモに書く。ヒュギノスが「八番目」になることは 3.4.3 の項目を見よ。
+- 確かめた資料：St. p. 431 本文（画像 0479）、p. 432 本文・注 7–9（画像 0480、St. l. 49823–49840、49891–49900）、p. 433 本文・注 5（画像 0481、St. l. 49951–49953、50013–50014）。Eus. grc1 l. 8035–8062、Eus. grc2 l. 9724–9759。Schwartz pp. 438–439（l. 25723–25754、25786）。Hv. II pp. 10–11（Hv. II l. 1429–1432、1508–1527）。口語訳 2Tim.4.21、Phil.4.3。
+
+### 3.3.3 Hac ordinatione et successione（τῇ αὐτῇ τάξει καὶ τῇ αὐτῇ διδαχῇ）
+- 底本（Stieren）：Hac ordinatione et successione, ea quae est ab apostolis in ecclesia traditio et veritatis praeconatio pervenit usque ad nos.
+- ほかの読み：エウセビオスの本文は τῇ αὐτῇ τάξει καὶ τῇ αὐτῇ διδαχῇ（同じ順序と同じ教えによって）。Stieren は、Christophorson と古いラテン語訳に従って διαδοχῇ（継承）と読みたいとする（St. p. 433 注 1）。Schwartz の校注によれば、διδαχῇ は写本の A、T、E、R、B、D とシリア語訳の読みで、διαδοχῇ は写本 M（推定によって入れたもの）とラテン語訳のエイレナイオス（Schwartz は ταύτῃ τῇ τάξει καὶ διαδοχῇ と戻す）の読み（Schwartz p. 440 校注）。Schwartz、Lake、Dindorf の本文は διδαχῇ（Schwartz l. 25826、Eus. grc1 l. 8062、Eus. grc2 l. 9762）。Harvey はギリシア語本文に διδαχῇ [διαδοχῇ] と置く（Hv. II l. 1519）。praeconatio は写本の Merc. II、Voss. と Massuet の読みで、ほかは praeconiatio（St. p. 433 注 6）。
+- 採る校訂者：ラテン語は successione で、異読はない。διαδοχῇ を良しとするのは Christophorson、Stieren。
+- 読者への影響：小 — ラテン語訳では「この順序と継承によって」、ギリシア語では「同じ順序と同じ教えによって」。どちらでも、監督の連なりを通して使徒の伝承が届いた、という主旨は同じ。
+- 訳での扱い：訳注は付けない。底本どおり「継承」と訳し、ギリシア語の読みを `// ` メモに書く。
+- 確かめた資料：St. p. 433 本文・注 1・6（画像 0481、St. l. 49954–49957、49986–49987、50016–50017）。Schwartz p. 440（l. 25826–25827、25866–25867、Schwartz 画像 0452）。Eus. grc1 l. 8062、Eus. grc2 l. 9762。Hv. II pp. 11–12（Hv. II l. 1516–1519、1527–1529）。
+
+### 3.3.4 Et Polycarpus … haec docuit semper（エウセビオス『教会史』四・一四・三〜四）
+- 底本（Stieren）：Et Polycarpus autem non solum ab apostolis edoctus et conversatus cum multis ex eis, qui Dominum nostrum viderunt; sed etiam ab apostolis in Asia, in ea quae est Smyrnis ecclesia constitutus episcopus, quem et nos vidimus in prima nostra aetate: (multum enim perseveravit et valde senex gloriosissime et nobilissime martyrium faciens exivit de hac vita) haec docuit semper quae ab apostolis didicerat…
+- ギリシア語：エウセビオス『教会史』四・一四・三〜八が引く（St. p. 433 注 2）。Eus. grc1 l. 6085–6126、Eus. grc2 l. 7251–7308、Schwartz pp. 332–334（l. 19282–19296、19381–19395）。
+- ほかの読み：ex eis の ex は写本の Arund.、Merc. II、Clarom. になく、Voss. は崩れた形（cum multis eius qui dominum no[strum] viderunt）（St. p. 433 注 7）。ギリシア語は Stieren の左の段、Dindorf、Harvey が πολλοῖς τοῖς τὸν Χριστὸν ἑωρακόσιν（Eus. grc2 l. 7253–7254、Hv. II l. 1570）、Lake と Schwartz が τὸν κύριον（Eus. grc1 l. 6086–6087、Schwartz l. 19283）。Schwartz の校注によれば、κύριον は写本の B、D、M とルフィヌス、シリア語訳、ラテン語訳のエイレナイオスの読みで、Χριστόν は写本の A、T、E、R の読み（Schwartz p. 332 校注、l. 19305–19307、Schwartz 画像 0344）。ラテン語の Dominum nostrum は κύριον の読みに当たる。perseveravit は Grabe が Feuardent の余白と写本の Arund.、Voss.、Merc. II によって perseveraverat から直した読みで、Stieren は、訳者は prorogavit tempus（長く生きた）と訳したほうがよかった、と書く（注 8。ギリシア語は ἐπὶ πολὺ παρέμεινε）。haec docuit は Grabe が Feuardent の余白、写本の Arund.、Voss.、Merc. I とギリシア語によって入れた読みで、刊本の Erasm.、Gall.、Feuard. の本文は hic docuit（注 9）。in prima nostra aetate について、Stieren はエイレナイオスのフロリノスへの手紙を比べる（注 3）。Harvey は τῇ πρώτῃ ἡλικίᾳ を 20 歳ぐらいとする（Hv. II p. 12 注 1）。
+- 採る校訂者：Stieren、Harvey のラテン語本文は同じ（Hv. II l. 1587–1593）。
+- 底本で意味が通るか：通る。perseveravit は「長くとどまった」で、Stieren の勧める prorogavit tempus（長く生きた）は語の意味の幅の中にある。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。perseveravit は、ギリシア語どおり「長く生きながらえた」の意味で訳す（底本の語の意味の範囲に入る）。
+- 確かめた資料：St. p. 433 本文・注 2・3・7–9（画像 0481、St. l. 49925–49945、49965–49983、49988–49995、50019–50033）。Eus. grc1 l. 6085–6094、Eus. grc2 l. 7252–7264。Schwartz p. 332（l. 19282–19288、19305–19307、Schwartz 画像 0344）。Hv. II p. 12 本文・注 1（Hv. II l. 1566–1593、1596–1600）。
+
+### 3.3.4 quae et ecclesiae tradidit（ἃ καὶ ἡ ἐκκλησία παραδίδωσιν）、二か所
+- 底本（Stieren）：一つ目：haec docuit semper quae ab apostolis didicerat, quae et ecclesiae tradidit, et sola sunt vera.（使徒から学んだことを教え、それを教会にも伝えた）。二つ目：unam et solam hanc veritatem annuntians ab apostolis percepisse se, quam et ecclesiae tradidit.
+- ほかの読み：エウセビオスのギリシア語は、一つ目が ἃ καὶ ἡ ἐκκλησία παραδίδωσιν（教会も伝えていること）、二つ目が τὴν ὑπὸ τῆς ἐκκλησίας παραδεδομένην（教会によって伝えられた〔真理〕）（Eus. grc1 l. 6093、6103–6104、Eus. grc2 l. 7263、7276）。ラテン語訳はどちらも「（ポリュカルポスが）教会に伝えた」で、伝える主語が違う。Stieren は、訳者は一つ目で ἃ καὶ τῇ ἐκκλησίᾳ παραδέδωκε、二つ目で τὴν τῇ ἐκκλησίᾳ παραδεδομένην を読んだとし、ルフィヌスも一つ目を et haec ecclesiae tradebat と訳していること、刊本の編者たちも訳者の読みのほうがよいとみていることを書く（St. p. 433 注 4）。二つ目について、Stieren はギリシア語も訳者に従って τὴν τῇ ἐκκλησίᾳ と読みたいとし（St. p. 434 注 4）、ラテン語は Massuet とともに訳者の読みを採る。Grabe はギリシア語に従いたいとした（その場合 quam et ecclesia tradidit）（St. p. 435 注 16）。Grabe は一つ目も、ギリシア語に合わせて quae et ecclesia tradit と直すべきだとし、Ussher が、訳者とルフィヌスの写本には ἃ καὶ τῇ ἐκκλησίᾳ παρέδωκε とあったと推定したのに反対した（Hv. II p. 12 注 4 に引く。Harvey は本文を変えない）。Schwartz の校注によれば、一つ目の τῇ ἐκκλησίᾳ と二つ目の καὶ τῇ ἐκκλησίᾳ は、どちらもルフィヌス（Λ）とラテン語訳のエイレナイオスの読みで、ギリシア語の写本はみな本文どおり（Schwartz p. 332 校注、l. 19309、19313–19314、Schwartz 画像 0344）。
+- 採る校訂者：ラテン語の写本に異読はない。Massuet と Stieren は訳者の読みを良しとし、Grabe はギリシア語を採る。Schwartz、Lake、Dindorf のギリシア語本文は ἡ ἐκκλησία、ὑπὸ τῆς ἐκκλησίας。
+- 読者への影響：中 — ラテン語訳では、ポリュカルポスが使徒から学んだことを教会に手渡した、という話になる。ギリシア語では、ポリュカルポスの教えが、教会がいま伝えている教えと同じだ、という証しになる。
+- 訳での扱い：訳注を付ける。二か所それぞれに、注の案：「ギリシア語の引用では『教会が伝える』。」（19 字）。二つ目の注を省いて `// ` メモにとどめるかは訳出で決める。
+- 確かめた資料：St. p. 433 本文・注 4（画像 0481、St. l. 49938–49941、49976–49983、49996–50007）、p. 434 本文・注 4（画像 0482、St. l. 50050–50052、50084–50086）、p. 435 本文・注 16（画像 0483、St. l. 50158–50160、50197–50201）。Eus. grc1 l. 6092–6094、6102–6104、Eus. grc2 l. 7262–7276。Schwartz p. 332（l. 19287–19296、19309、19313–19314、Schwartz 画像 0344）。Schwartz p. 333 のルフィヌス（l. 19344）。Hv. II p. 12 本文・注 4（Hv. II l. 1580–1581、1593、1618–1640）、p. 13（Hv. II l. 1674–1677、1694–1695）。
+
+### 3.3.4 Testimonium his perhibent … fidelior veritatis est testis／Is enim est … percepisse se
+- 底本（Stieren）：Testimonium his perhibent quae sunt in Asia ecclesiae omnes et qui usque adhuc successerunt Polycarpo; qui vir multo maioris auctoritatis et fidelior veritatis est testis, quam Valentinus et Marcion et reliqui, qui sunt perversae sententiae. Is enim est, qui sub Aniceto quum advenisset in urbem, multos ex his quos praediximus, haereticos convertit in ecclesiam Dei, unam et solam hanc veritatem annuntians ab apostolis percepisse se…
+- ほかの読み：Testimonium の前の Et（刊本の Erasm.、Gall.、Feuard.）は、Stieren が Grabe と Massuet とともに、写本の Merc. II と Voss. によって削った（St. p. 433 注 10、続きは p. 434 冒頭）。omnes は Voss. にない（St. p. 435 注 10）。auctoritatis の後の testis（刊本の Erasm.、Gall.、Feuard.）は、Grabe と Massuet がギリシア語と写本の Voss.、Clarom. によって削った（注 11）。fidelior は Feuardent が、エウセビオスと Billius の勧めによって直した読み。写本はみな fidelioris だったが、Clarom. と Voss. はこの直しに合う（Voss. は est を欠くだけ）。Merc. II は fideliores et testes（注 12）。Is enim est は Voss. で ipse enim est（注 13）。advenisset は Voss. の読み（Grabe は誤って伝える）で、Arund. は venisset（注 14）。percepisse se の se は、Voss. とギリシア語にないので Grabe が削ったが、Clarom. と Voss. のほかの写本と刊本みなにあるとして Massuet が戻した（注 15）。ギリシア語の οἱ μέχρι νῦν διαδεδεγμένοι τὸν Πολύκαρπον は、エウセビオスのいくつかの版と Feuardent では τὸν τοῦ Πολυκάρπου θρόνον（ポリュカルポスの座を継いだ者）だが、ラテン語訳とルフィヌスは簡単なほうの読みを支える（St. p. 434 注 1）。
+- 採る校訂者：Stieren、Harvey のラテン語本文は同じ（Hv. II l. 1688–1695）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。qui vir … est testis の主語はポリュカルポス（ギリシア語でも μάρτυρα ὄντα はポリュカルポスにかかる）。
+- 確かめた資料：St. p. 433 注 10（画像 0481、St. l. 50035–50037。続きは画像 0482、St. l. 50066–50067）、p. 434 注 1（画像 0482、St. l. 50069–50074）、p. 435 注 10・11（画像 0482 に印刷、St. l. 50135–50141）、p. 435 本文・注 12–15（画像 0483、St. l. 50153–50160、50171–50195）。Eus. grc1 l. 6094–6104、Eus. grc2 l. 7266–7276。Schwartz p. 332（l. 19290–19296、19310–19312）。Hv. II p. 13（Hv. II l. 1665–1677、1688–1695）。
+
+### 3.3.4 Ioannes … in Epheso iens lavari（ケリントスと浴場の話）
+- 底本（Stieren）：Et sunt qui audierunt eum dicentem, quoniam Ioannes Domini discipulus, in Epheso iens lavari, quum vidisset intus Cerinthum, exsilierit de balneo non lotus; dicens, quod timeat ne balneum concidat, quum intus esset Cerinthus inimicus veritatis.
+- ほかの読み：dicentem は、ギリシア語にも写本の Voss. にもないとして Grabe が削ったが、Massuet が戻した（Clarom. にもない）。Stieren は、dicentem を除くと audierunt ab eo と直さねばならず、写本みなに反するとして Massuet に従う（St. p. 435 注 17）。Harvey は、dicentem は Arund. だけにあり Clarom. と Voss. にないとして本文から除く（Hv. II p. 13 注 5、l. 1695）。ギリシア語では、ヨハネは直接話法で「逃げよう。浴場が崩れるといけない」と言う（φύγωμεν, μὴ καὶ τὸ βαλανεῖον συμπέσῃ。Eus. grc2 l. 7283–7284）。ラテン語訳は間接話法で、「逃げよう」がない。Stieren は、エイレナイオスかエウセビオスのどちらかが意味だけを伝えたのだとする（注 18）。Schwartz も、φύγωμεν はラテン語訳にない、と注記する（Schwartz p. 334 校注、l. 19421）。Stieren は、エウセビオス『教会史』三・二八も同じ話を書き、エピファニオスは同じ話をエビオンについて書くので、作り話だろうとする（St. p. 434 注 5）。Harvey は、何か事実のもとがあったかもしれない、とする（Hv. II p. 13 注 3）。
+- 採る校訂者：dicentem は Massuet、Stieren。Harvey は除く。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。底本どおり間接話法で訳す。
+- 確かめた資料：St. p. 434 注 5（画像 0482、St. l. 50088–50097）、p. 435 本文・注 17・18（画像 0483、St. l. 50160–50164、50203–50231）。Eus. grc1 l. 6104–6109、Eus. grc2 l. 7280–7285。Schwartz p. 334（l. 19381–19384、19421、Schwartz 画像 0346）。Hv. II p. 13 本文・注 3・5（Hv. II l. 1695–1698、1719–1739）。
+
+### 3.3.4 Cognoscis nos?（ἐπιγινώσκεις／ἐπιγίνωσκε ἡμᾶς）
+- 底本（Stieren）：Et ipse autem Polycarpus Marcioni aliquando occurrenti sibi et dicenti: Cognoscis nos? respondit: Cognosco te primogenitum Satanae.
+- ほかの読み：Cognoscis nos は Grabe が写本の Arund. によって入れた読み（St. p. 435 注 19）。Harvey は、Clarom. は cognosce me で、エウセビオスの初めのころの版の異読 ἐπιγίνωσκέ με（ルフィヌスとニケフォロスも示す）とよく合う、と注記する（Hv. II p. 14 注 1）。ギリシア語では、Valesius が四つの写本に ἐπιγινώσκεις ἡμᾶς（わたしたちが分かるか）を見た。Stieren は Grabe、Massuet とともに、これを、エウセビオスの刊本とニケフォロス、ルフィヌスの ἐπιγίνωσκε ἡμᾶς（わたしたちを認めよ）よりよいとする。ラテン語の写本 Arund. に合い、問いと取るほうが分かりやすいため（St. p. 434 注 8）。Schwartz の本文は ἐπιγίνωσκε ἡμᾶς で、校注によれば、これは写本の B、D、M とシリア語訳、ルフィヌス、ポリュカルポス殉教記のモスクワ写本、ヒエロニムスの読み。ἐπιγινώσκεις は写本の A、T、E、R とラテン語訳のエイレナイオス、復活祭年代記の読み（Schwartz p. 334 校注、l. 19421–19424、Schwartz 画像 0346）。Lake は ἐπιγίνωσκε（Eus. grc1 l. 6113）、Dindorf と Stieren・Harvey のギリシア語は ἐπιγινώσκεις（Eus. grc2 l. 7294、Hv. II l. 1752）。答えの Cognosco te は、訳者が ἐπιγινώσκω σε を読んだもの（σε は復活祭年代記にある）（St. p. 434 注 9）。Schwartz の本文は ἐπιγινώσκω ἐπιγινώσκω と繰り返す（l. 19386）。Valesius は ἐπιγινώσκειν を「挨拶する」の意味に取ったが、Grabe は、ポリュカルポスの憤りに合わないとして退けた（St. p. 434 注 8、Hv. II p. 14 注 1）。
+- 採る校訂者：Cognoscis nos は Grabe、Stieren、Harvey（Hv. II l. 1774）。
+- 読者への影響：小 — 問い（わたしたちが分かるか）と求め（わたしたちを認めよ）の違いで、答えの意味は変わらない。
+- 訳での扱い：訳注は付けない。底本どおり問いで訳す。
+- 確かめた資料：St. p. 434 注 8・9（画像 0482、St. l. 50110–50133）、p. 435 本文・注 19（画像 0483、St. l. 50164–50168、50233–50235）。Eus. grc1 l. 6112–6115、Eus. grc2 l. 7293–7295。Schwartz p. 334（l. 19385–19386、19421–19424、Schwartz 画像 0346）。Hv. II p. 14 本文・注 1（Hv. II l. 1752–1755、1773–1774、1783–1817、Hv. II 画像 0025）。
+
+### 3.3.4 ut neque verbo tenus communicarent／Haereticum autem hominem…（テトス三・一〇〜一一）
+- 底本（Stieren）：Tantum apostoli et horum discipuli habuerunt timorem, ut neque verbo tenus communicarent alicui eorum, qui adulteraverant veritatem, quemadmodum et Paulus ait: Haereticum autem hominem post unam correptionem devita, sciens quoniam perversus est qui est talis, et est a semetipso damnatus.
+- ほかの読み：ut neque verbo tenus communicarent は刊本の Erasm.、Gall.、Grynaeus と写本の Merc. II、Arund. の読み。Voss. は neque の代わりに ne で tenus を欠き、Clarom. は ut ne verbo bonos communicarent（Massuet は verbo bono か verbo tenus と推定）。Feuardent は ut を除いて ne、Grabe は nec として tenus を削り、Massuet は ut ne verbo tenus。Stieren は、ギリシア語（μηδὲ μέχρι λόγου）とラテン語が合うように neque verbo tenus とした（St. p. 435 注 20。Harvey もこの読みと注を採る、Hv. II p. 14 注 3）。聖句について：autem は写本にあるが、ギリシア語にも聖書にもない（注 21）。post unam correptionem の後に、新約の写本（ギリシア語もラテン語も）とエウセビオスのギリシア語は「と二度目の」（καὶ δευτέραν）を持つ。Stieren は、Feuardent、Grabe、Massuet とともに、ラテン語訳で写字生が落としたとみる。エイレナイオスの訳者は第一巻 16 章 3 節では et secundam と訳しているが、古いラテン語訳聖書（テルトゥリアヌス、キプリアヌス、ルキフェル、アンブロシアステル）にはこの句がない（St. p. 435 注 22、続きは p. 436 冒頭）。Harvey は、古いラテン語訳聖書に合わせるために et alteram が除かれたのだろうとし、シリア語訳はギリシア語と同じとする（Hv. II p. 14 注 2）。et est a semetipso damnatus の est は、Grabe が写本の Arund.、Voss. によって足したもので、Clarom. も同じ。ギリシア語とテトスへの手紙に合わせるなら et peccat（罪を犯している）も足さねばならない、と Stieren は書く（St. p. 436 注 2）。
+- 採る校訂者：neque verbo tenus は Stieren、Harvey。
+- 読者への影響：小 — 口語訳を知る読者には、「一、二度」が「一度」になり、「罪を犯している」がないことが分かる。ただし底本の聖書の形の問題で、エイレナイオスの言い分は変わらない。
+- 訳での扱い：訳注は付けない（本の AGENTS.md：聖句の形の違いは `// ` メモ）。直接の引用（Stieren と Harvey の欄外 Tit. III. 10）。口語訳テトス三・一〇〜一一は「異端者は、一、二度、訓戒を加えた上で退けなさい。たしかに、こういう人たちは、邪道に陥り、自ら悪と知りつつも、罪を犯しているからである」。底本どおり「一度」とし、「罪を犯している」は入れず、口語訳の語を借りられるところだけ借りる。違いを `// ` メモに書く。
+- 確かめた資料：St. p. 435 本文・欄外・注 20–22（画像 0483、St. l. 50218–50267）、p. 436 冒頭・本文・注 2（画像 0484、St. l. 50320–50321、50363–50379）。Eus. grc1 l. 6115–6121、Eus. grc2 l. 7295–7301。Hv. II p. 14 本文・注 2・3（Hv. II l. 1775–1779、1819–1846、Hv. II 画像 0025）。口語訳 Titus.3.10、Titus.3.11。
+
+### 3.3.4 epistola … perfectissima（ἱκανωτάτη）／quae est Ephesi ecclesia（『教会史』三・二三・四）
+- 底本（Stieren）：Est autem et epistola Polycarpi ad Philippenses scripta perfectissima, ex qua et characterem fidei eius, et praedicationem veritatis, qui volunt et curam habent suae salutis, possunt discere. Sed et quae est Ephesi ecclesia a Paulo quidem fundata, Ioanne autem permanente apud eos usque ad Traiani tempora, testis est verus apostolorum traditionis.
+- ほかの読み：perfectissima はギリシア語 ἱκανωτάτη の訳。Stieren は、この語の訳され方がまちまちだとして、ルフィヌスの pervalidam、ニケフォロスの訳者 Langus の longissima、Christophorson の accurate scripta、Valesius の luculentissima を挙げ、3.3.2 の注（potentiorem）を見よとする（St. p. 436 注 3）。Harvey は、ἱκανωτάτη は後の文を導き、「学ぼうとする者が学ぶのに十分な」の意味だとする（Hv. II p. 15 注 1）。最後の文は、エウセビオス『教会史』三・二三・四とニケフォロスにギリシア語が残る（St. p. 436 注 1）。ラテン語訳との違いはない（Eus. grc1 l. 4444–4449、Eus. grc2 l. 5180–5184、Schwartz p. 238、l. 13871–13873）。
+- 採る校訂者：Stieren、Harvey（Hv. II l. 1868–1872）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。perfectissima は「申し分のない」より、Harvey の言う「（学ぶのに）十分な」に寄せてよい。3.3.3 の potentissimas と同じギリシア語であることを `// ` メモに書く。
+- 確かめた資料：St. p. 436 本文・注 1・3（画像 0484、St. l. 50279–50311、50322–50333、50367–50387）。Eus. grc1 l. 4444–4449、6121–6126、Eus. grc2 l. 5180–5184、7304–7308。Schwartz p. 238（l. 13871–13873）。Hv. II p. 15 本文・注 1（Hv. II l. 1851–1872、1899–1912、Hv. II 画像 0026）。
+
+### 3.4.1 Tantae igitur ostensiones … fures sunt et latrones（ヨハネ一〇・八〜九）
+- 底本（Stieren）：Tantae igitur ostensiones quum sint, non oportet adhuc quaerere apud alios veritatem, quam facile est ab ecclesia sumere; quum apostoli, quasi in depositorium dives, plenissime in eam contulerint omnia quae sint veritatis; uti omnis quicunque velit, sumat ex ea potum vitae. Haec enim est vitae introitus; omnes autem reliqui fures sunt et latrones. Propter quod oportet devitare quidem illos; quae autem sunt ecclesiae, cum summa diligentia diligere et apprehendere veritatis traditionem.
+- ほかの読み：ostensiones quum sint, non は写本の Clarom. と Massuet の読み。Feuardent は写本の Vet. によって ostensionis とし、Voss. も同じ。Grabe は刊本の Erasm.、Gall. と写本の Arund.、Merc. II によって ostensiones に戻した。sint の後の haec（刊本の Erasm.、Gall.、Feuard.）は、Grabe が写本の Voss.、Arund.、Merc. I によって削った（St. p. 436 注 4）。oportet adhuc は Voss. で oportet et adhuc（注 5）。in eam contulerint は、エラスムスの後の版と Gall. で in ea（注 6）。Haec enim est の語順は Voss. の読みで、刊本はみな haec est enim（注 7。Harvey の本文も haec est enim、Hv. II l. 1886）。reliqui は Voss. にない（注 8）。cum summa は Feuardent が初めて書いた読みで、Arund.、Voss. も同じ。それまでの刊本は cum magna（注 9）。diligere を Billius は、前の devitare に合わせて deligere（選び取る）と読みたいとしたが、Stieren は二つの語の違いは大きくないとする（St. p. 437 注 1）。
+- 採る校訂者：Stieren、Harvey（Hv. II l. 1882–1889）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。fures sunt et latrones はヨハネ一〇・八（口語訳「みな盗人であり、強盗である」）の語、vitae introitus は一〇・九（「わたしは門である」）を思わせる。sumat ex ea potum vitae は黙示録二二・一七、二一・六の「いのちの水」を思わせる。Stieren と Harvey の欄外には、これらの箇所は挙がらない。語を借りるなら本文に出典を置き、思わせるだけなら `// ` メモに書く。
+- 確かめた資料：St. p. 436 本文・注 4–9（画像 0484、St. l. 50339–50353、50390–50411）、p. 437 本文・注 1（画像 0485、St. l. 50422、50447–50450）。Hv. II pp. 15–16（Hv. II l. 1882–1889）。口語訳 John.10.8、John.10.9、Rev.22.17、Rev.21.6。
+
+### 3.4.1 Et si de aliqua modica quaestione … in antiquissimas recurrere ecclesias
+- 底本（Stieren）：Quid enim? Et si de aliqua modica quaestione disceptatio esset, nonne oporteret in antiquissimas recurrere ecclesias, in quibus apostoli conversati sunt, et ab eis de praesenti quaestione sumere quod certum et re liquidum est? Quid autem si neque apostoli quidem Scripturas reliquissent nobis, nonne oportebat ordinem sequi traditionis, quam tradiderunt iis quibus committebant ecclesias?
+- ほかの読み：si と de の間の quibus（刊本の Erasm.、Gall. は qui）を Feuardent と Grabe は本文に置くが、Stieren は写本の Clarom.、Voss. と Massuet に従って除いた。Heumann は et si qui を et si qua と推定した。Daniel は modica を lubrica と読む推定を出したが、Stieren は軽率とする（St. p. 437 注 2）。Grabe は、テルトゥリアヌス『異端者への抗弁』の、使徒の教会をめぐれ（コリント、ピリピ、テサロニケ、エペソ、ローマ）という箇所を並行として初めて挙げた（St. p. 437 注 3、Hv. II p. 15 注 2）。de praesenti quaestione は Voss. で de praesentia quaestione（St. p. 437 注 4）。re は Merc. I にない（注 5）。si neque apostoli quidem は、Voss. で誤って sine capituli quidem（注 6）。
+- 採る校訂者：Stieren、Harvey（Hv. II l. 1889–1893、1935–1943）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。re liquidum は「事実としてはっきりしている」の意味で訳す。
+- 確かめた資料：St. p. 437 本文・注 2–6（画像 0485、St. l. 50422–50428、50451–50508）。Hv. II p. 15 注 2、p. 16（Hv. II l. 1889–1893、1913–1925、1935–1943、Hv. II 画像 0027）。
+
+### 3.4.2 eorum qui in Christum credunt／sine charta et atramento … in cordibus（第二ヨハネ一二、第二コリント三・三）
+- 底本（Stieren）：Cui ordinationi assentiunt multae gentes barbarorum, eorum qui in Christum credunt, sine charta et atramento scriptam habentes per Spiritum in cordibus suis salutem, et veterem traditionem diligenter custodientes…
+- ほかの読み：eorum は写本の Clarom.、Arund.、Voss. と Feuardent で quorum で、これらの写本は Christum の代わりに Christo。Stieren は Erasm.、Gall.、Grab.、Mass. の読みを採る（St. p. 437 注 7）。charta は写本の Voss.、Clarom.、Vet. と Feuard.、Grab.、Mass. の読みで、刊本の Erasm.、Gall. と写本の Ottob.、Arund.、Merc. II は charactere（注 8）。et atramento は Clarom.、Feuard.、Mass. の読みで、ほかは vel atramento（注 9）。Harvey の本文は vel atramento（Hv. II l. 1945）。Grabe は、ヒエロニムスがエルサレムのヨハネを駁してパンマキウスに書いた手紙の「使徒から伝えられたものは、紙と墨で書かれず、心の肉の板に書かれる」を似たものとして挙げる（St. p. 437 注 9、Hv. II p. 16 注 2）。
+- 採る校訂者：Stieren は eorum … in Christum、charta et atramento。Harvey は vel atramento。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。「紙と墨」は第二ヨハネ一二（口語訳「紙と墨とで書くことはすまい」）、「墨によらず…心の板に」は第二コリント三・三（「墨によらず生ける神の霊によって書かれ、石の板にではなく人の心の板に書かれた」）と語が重なる。Stieren と Harvey は聖書の箇所を挙げず、ヒエロニムスとの並行だけを挙げる。語を借りるなら `// ` メモに出典を書く。
+- 確かめた資料：St. p. 437 本文・注 7–9（画像 0485、St. l. 50430–50433、50510–50529）。Hv. II p. 16 本文・注 2（Hv. II l. 1943–1946、1963–1964、1991–1993、Hv. II 画像 0027）。口語訳 2John.1.12、2Cor.3.3。
+
+### 3.4.2 蛮族の信仰の要約（per Christum Iesum … in ignem aeternum）／aliquis annuntiaverit
+- 底本（Stieren）：in unum Deum credentes fabricatorem caeli et terrae, et omnium quae in eis sunt, per Christum Iesum Dei Filium. Qui propter eminentissimam erga figmentum suum dilectionem, eam quae esset ex virgine generationem sustinuit, ipse per se hominem adunans Deo, et passus sub Pontio Pilato et resurgens et in claritate receptus, in gloria venturus Salvator eorum qui salvantur et iudex eorum qui iudicantur, et mittens in ignem aeternum transfiguratores veritatis et contemtores Patris sui et adventus eius. … Quibus si aliquis annuntiaverit ea, quae ab haereticis adinventa sunt…
+- ほかの読み：この要約の部分に異読の注はない。aliquis annuntiaverit は写本の Merc. II、Clarom. で aliqui transfiguraverint（St. p. 438 注 1）。Heumann は、続く per illam veterem … traditionem の per を propter と読みたいとする（注 2）。Harvey は、この要約はローマの教会のものより東方の信条の形に近いとし、ヒッポリュトスの言い方を比べる（Hv. II p. 16 注 3・4）。
+- 採る校訂者：Stieren、Harvey（Hv. II l. 1947–1960）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。per Christum Iesum Dei Filium が fabricatorem（キリストによって造った）にかかるか、credentes（キリストによって信じる）にかかるかは訳出で決め、`// ` メモに書く。in ignem aeternum はマタイ二五・四一の「永遠の火」を思わせる（`// ` メモ）。
+- 確かめた資料：St. p. 438 本文・注 1・2（画像 0486、St. l. 50540–50557、50580–50584）。Hv. II p. 16 本文・注 3・4（Hv. II l. 1947–1960、1965–1966、1995–2014）。口語訳 Matt.25.41。
+
+### 3.4.2 nequedum enim congregatio fuit apud eos
+- 底本（Stieren）：Sic per illam veterem apostolorum traditionem ne in conceptionem quidem mentis admittunt, quodcunque eorum portentiloquium est: nequedum enim congregatio fuit apud eos, neque doctrina instituta.
+- ほかの読み：dum は刊本の Erasm.、Gall. と写本の Clarom.、Arund.、Merc. II になく、Voss. には enim がない（St. p. 438 注 3）。Harvey は、Grabe、Massuet、Stieren の neque dum は Voss. だけによるもので、しかも Voss. では dum が enim の代わりに入っている、として dum を除き、本文を neque enim とする（Hv. II p. 17 注 1、l. 2026）。
+- 解釈：Massuet は nequedum を needum（まだ…ない）と取り、使徒が蛮族に福音を伝えたとき、異端の集まりもその教えもまだそこになかった（ウァレンティノスやマルキオンは使徒より後に現れた）と説明する。Stieren は、これが文脈（次の 3.4.3 の初めの enim）に合うと認めつつ、なぜ congregatio と doctrina が異端の集まりと異端の教えを指すのか分からないとし、写字生の不注意で語が落ちたのではないかと疑う（St. p. 438 注 3）。Harvey は、Billius が congregatio を σύναξις、doctrina を διδασκαλεῖον と訳したことに反対し、第三巻 6 章では synagoga と ecclesia が同じ意味で使われる、と書く（Hv. II p. 17 注 1）。
+- 採る校訂者：nequedum は Grabe、Massuet、Stieren。neque enim は Harvey。
+- 底本で意味が通るか：Massuet の取り方なら通る（彼らのところには、異端の集まりもまだなく、その教えも立てられていなかった）。Stieren は語の脱落を疑うが、本文は変えていない。
+- 読者への影響：中 — nequedum なら、異端がまだ現れていなかったという時の話になり、neque enim なら、蛮族のところには異端の集まりも教えもなかった、という話になる。どちらでも、蛮族が異端の教えを受けつけない理由を言う文で、主旨は近い。
+- 訳での扱い：訳注は付けない。底本どおり「まだ」を訳し、何の集まり・教えかは 3.4.3（異端は使徒より後に現れた）とつながるように補う。補ったことと Stieren の疑いを `// ` メモに書く。
+- 確かめた資料：St. p. 438 本文・注 3（画像 0486、St. l. 50555–50558、50586–50606）。Hv. II p. 17 本文・注 1（Hv. II l. 2023–2027、2060–2072、Hv. II 画像 0028）。
+
+### 3.4.3 Valentinus enim venit Romam … conventu（エウセビオス『教会史』四・一一・一）／saepe
+- 底本（Stieren）：Valentinus enim venit Romam sub Hygino; increvit vero sub Pio et prorogavit tempus usque ad Anicetum. Cerdon autem, qui ante Marcionem, et hic sub Hygino, qui fuit octavus episcopus, saepe in ecclesiam veniens, et exhomologesin faciens, sic consummavit, modo quidem latenter docens, modo vero exhomologesin faciens, modo vero ab aliquibus traductus in his quae docebat male, et abstentus est a religiosorum hominum conventu.
+- ギリシア語：エウセビオス『教会史』四・一一・一が引く（St. p. 439 注 1）。Eus. grc1 l. 5917–5925、Eus. grc2 l. 7022–7031、Schwartz p. 320（l. 18587–18598）。違い：saepe（たびたび）はギリシア語になく、訳者か写字生が足した（St. p. 439 注 4）。λαθροδιδασκαλῶν は、Stieren が引く Valesius の注によれば、Valesius の三つの写本（Mazarin.、Medic.、Fuket.）で λαθροδιδάσκων、ニケフォロスと Regius 写本が普通の読みを支える（St. p. 439 注 3）。Schwartz の校注でも、λαθροδιδασκαλῶν は写本の B、D、M、λαθροδιδάσκων は A、T、E、R（Schwartz p. 320 校注、l. 18615）。ラテン語の latenter docens はどちらにも合う。ギリシア語の πάλιν（ふたたび）は、写本 B の初めの手とラテン語訳にない（同校注、l. 18616）。ヒュギノスの数（octavus／ἔνατος）と abstentus est は別の項目にする。
+- 採る校訂者：Stieren、Harvey のラテン語本文は同じ（Hv. II l. 2051–2057）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。exhomologesin faciens は（罪の）公の告白。Stieren が引く Valesius の注は、ケルドンは告白して教会に受け入れられた後、隠れて教えては告白することを繰り返した、と説明する（St. p. 439 注 3 の続き）。
+- 確かめた資料：St. p. 439 本文・注 1・3・4（画像 0487、St. l. 50623–50653、50680–50731）、p. 440 本文（画像 0488、St. l. 50765–50783）。Eus. grc1 l. 5917–5925、Eus. grc2 l. 7022–7031。Schwartz p. 320（l. 18587–18598、18615–18616、Schwartz 画像 0332）。Hv. II p. 17（Hv. II l. 2038–2057）。
+
+### 3.4.3 qui fuit octavus episcopus（ὃς ἦν ἔνατος ἐπίσκοπος）
+- 底本（Stieren）：Cerdon autem … et hic sub Hygino, qui fuit octavus episcopus … Marcion autem illi succedens invaluit sub Aniceto, decimum locum episcopatus continente.
+- ほかの読み：エウセビオスのギリシア語は ἔνατος（九番目）。エウセビオスは同じ章で第一巻 27 章 1 節も引き、そこでもヒュギノスを ἔνατον κλῆρον（九番目）とする（Eus. grc1 l. 5927–5930、Eus. grc2 l. 7042）。Stieren は「訳者とともに ὄγδοος と読め」とし、Grabe と Massuet の注を見よとする（St. p. 439 注 2）。第一巻 27 章 1 節で、Stieren は写本の Pass. だけが読む octavum を本文に置き（ほかの写本と刊本は nonum）、Massuet の注を引く。Massuet は、エウセビオスは誤った写本によって二度 ἔνατος と書いたとし、(1) 訳者が 3.4.3 で octavus と訳していること、(2) エイレナイオス自身が 3.3.3 で、クシュストスを六番目とし、テレスフォロス、ヒュギノスと続けるので、ヒュギノスは八番目になることを挙げる。キプリアヌスとエピファニオスがヒュギノスを九番目とすること、Cotelerius が、ペテロを数えるか数えないかで九番目とも八番目とも言えた、と両立させたことも挙げ、その説には従わない（St. p. 256 注 3、画像 0304、St. l. 29809–29880）。Schwartz は本文に ἔνατος を置きつつ、校注で、これはエウセビオスの数え方にもエイレナイオスの数え方にも反し（五・六・四を見よ）、エピファニオスとキプリアヌスに合う、ラテン語訳のエイレナイオスは octauus、と書く（Schwartz p. 320 校注、l. 18613–18615、Schwartz 画像 0332）。ギリシア語の写本、シリア語訳、ルフィヌスはみな「九番目」（同。ルフィヌスは nonus、Schwartz l. 18672）。Harvey は第一巻の該当箇所（Massuet の 1.27.1）で本文を nonum とし、ヒュギノスの順番の難しさを論じる（Hv. I l. 33780–33860）。第三巻では本文を octavus のまま置き、注で、decimum（アニケトスが十番目）は ἔνατος を支え、ラテン語は nonus とすべきで、訳者は Θ（九）を Η（八）と読んだのかもしれない、とする（Hv. II p. 18 注 1、Hv. II 画像 0029）。
+- 採る校訂者：Stieren と Harvey のラテン語本文は octavus（Hv. II l. 2053）。
+- 読者への影響：小 — ラテン語訳の「八番目」は、3.3.3 の表（リノスから数えてヒュギノスは八番目、アニケトスは十番目）と食い違わない。ギリシア語の「九番目」は、表の数え方と合わない。
+- 訳での扱い：訳注は付けない。底本どおり「八番目」と訳し、ギリシア語の「九番目」と諸説を `// ` メモに書く。
+- 確かめた資料：St. p. 439 本文・注 2（画像 0487、St. l. 50645–50646、50683–50685）、p. 440 本文（画像 0488、St. l. 50786–50787）、p. 256 第一巻 27 章 1 節の本文・注 3（画像 0304、St. l. 29803–29880）。Eus. grc1 l. 5920、5929–5930、Eus. grc2 l. 7025、7042。Schwartz p. 320（l. 18591、18613–18615、Schwartz 画像 0332）、p. 321（l. 18672）。Hv. II pp. 17–18 本文・注 1（Hv. II l. 2042、2053、2123–2124、2160、2176–2179、Hv. II 画像 0029）。Hv. I l. 33730–33860。
+
+### 3.4.3 abstentus est a religiosorum hominum conventu（ἀφιστάμενος τῆς τῶν ἀδελφῶν συνοδίας）
+- 底本（Stieren）：modo vero ab aliquibus traductus in his quae docebat male, et abstentus est a religiosorum hominum conventu.（敬虔な人々の集まりから遠ざけられた）
+- ほかの読み：エウセビオスのギリシア語は καὶ ἀφιστάμενος τῆς τῶν ἀδελφῶν συνοδίας（兄弟たちの集まりから離れていった。中動態の分詞で、自分から離れたとも読める）（Eus. grc1 l. 5924–5925、Eus. grc2 l. 7029–7030）。Stieren は「ギリシア語から abstinuit a fratrum conventu（兄弟たちの集まりを避けた）と訳せ」と注記する（St. p. 440 注 1）。Stieren が引く Valesius の注は、エイレナイオスはケルドンが教会から追い出されたとは言わず、自分から教会を離れた、と言うのだとし、ルフィヌスと Christophorson の訳を誤りとする（St. p. 439 注 3 の続き）。ルフィヌスのラテン語訳は a coetu fraternitatis arcetur（兄弟の集まりから締め出される）で、受け身（Schwartz l. 18675）。Harvey は、abstentus est は abstinuit se（自分から離れた）と同じ意味らしいとしつつ、Harvey の第 1 冊 p. 16 注 1 を見よとする（Hv. II p. 18、Valesius の注を引いた後の Harvey の言葉、l. 2172–2174）。
+- 採る校訂者：ラテン語の写本に異読はない。
+- 底本で意味が通るか：通る。abstentus est を受け身に取れば「集まりから遠ざけられた（締め出された）」で、文として成り立つ。Stieren と Harvey は、ギリシア語に合わせて「自分から離れた」の意味に取る。
+- 読者への影響：中 — ケルドンが教会から締め出されたのか、自分から離れていったのかが変わる。
+- 訳での扱い：訳注を付ける。注の案：「ギリシア語の引用では『自分から離れていった』。」（23 字）。底本は受け身で訳す（本の AGENTS.md：底本で意味が通るときは底本で訳す）。Stieren と Harvey の取り方は `// ` メモに書く。
+- 確かめた資料：St. p. 440 本文・注 1（画像 0488、St. l. 50765–50783、50825–50826）、p. 439 注 3（画像 0487、St. l. 50687–50728）。Eus. grc1 l. 5923–5925、Eus. grc2 l. 7028–7030。Schwartz p. 320（l. 18595–18598）、p. 321（l. 18675）。Hv. II pp. 17–18（Hv. II l. 2057、2085–2105、2158–2174、Hv. II 画像 0029）。
+
+### 3.4.3 Omnes autem hi … insurrexerunt in suam apostasiam（古い写本にない文）
+- 底本（Stieren）：…unusquisque eorum, cuius participatus est sententiae, eius et pater et antistes apparuit. Omnes autem hi multo posterius, mediantibus iam ecclesiae temporibus, insurrexerunt in suam apostasiam.
+- ほかの読み：Massuet は、この文全体が写本の Clarom. にないと記す。Stieren は、同じ欠けを写本の Voss. にも見つけた。そこで、これはだれかが写本の余白に書いたものが後に本文に入った、という Massuet の説を、Stieren は「ほとんど確かめられた」とみる（St. p. 440 注 2）。Harvey も、この文が Clarom. と Voss. にないこと、Massuet が欄外の書き込みと疑うことを記し、Arund. が autem を欠くことがその見方を強めるかもしれない、とする。ただし Harvey 自身は、hi はマルコス派などウァレンティノス派の後の分かれを指すと考え、本文に残す（Hv. II p. 18 注 3、l. 2127–2131）。この文はエウセビオスの引用（四・一一・一）の範囲の外で、ギリシア語は残らない（p. 440 の下の段のギリシア語は Thiersch の訳し戻し。注 a）。
+- 採る校訂者：Stieren と Harvey は本文に残す。Massuet と Stieren は後の書き込みとみる。
+- 読者への影響：中 — 後の書き込みなら、「これらの者はみな、教会の時代の半ばになってから現れた」という締めくくりはエイレナイオスの言葉ではなくなる。前の 3.4.3 の初め（ウァレンティノス以前にウァレンティノス派はいなかった）と同じことを言うので、主旨は変わらない。
+- 訳での扱い：訳注を付ける。注の案：「この一文を欠く古い写本があり、後の書き込みとする説がある。」（29 字）。
+- 確かめた資料：St. p. 440 本文・注 2・注 a（画像 0488、St. l. 50786–50791、50827–50846）。Hv. II p. 18 本文・注 3（Hv. II l. 2123–2131、2187–2197、Hv. II 画像 0029）。
+
+---
+
 ## 未確認
 
 - 現代の校訂版（Sources Chrétiennes の Rousseau–Doutreleau 版、第一巻）が、上の各箇所でどの読みを採っているか（たとえば 1.0.2 の Deum／Christum、1.10.1 の adventum、1.10.3 の et non in initio）。`cache/` に資料がなく確かめていない。
 - 1.10.3 の investigabiles を「たどりきれない」の意味に取ることを、ラテン語の辞書や他のラテン語聖書の用例で確かめていない。ギリシア語の否定の形容詞との対応だけで判断した。
 - 1.0.1 の infinitas と ματαίας について、Harvey がシリア語の聖書を引き合いに出す注（Hv. p. 1 注 4）は、OCR が欠けて全文を読めていない（Hv. l. 12157–12174）。画像で確かめていない。
-- St. p. 9 注 9 の「Codd. Arund. Merc. II. Vat. et Voss.」の「Vat.」が Vet. の誤植か別の写本かは確かめていない（画像 0057）。
+- St. p. 9 注 9 の「Codd. Arund. Merc. II. Vat. et Voss.」の「Vat.」が、Vet. の誤植か、Latinus Latinius が読みを抜き書いたヴァティカンの写本（第三巻の St. p. 426 注 6・7 に Cod. Vaticanus として出る。凡例の Vat.）かは確かめていない（画像 0057）。
 - Stieren の 1.10 のうち p. 126 のギリシア語への注（a–f）は OCR（St. l. 16031–16080）だけで読み、画像で確かめていない。
 - ANF 第 1 巻の英訳がどの読みに従っているかは見ていない（レビューの段階で読み比べる）。
+
+### 第三巻 序〜4 章
+
+- 現代の校訂版（Sources Chrétiennes の Rousseau–Doutreleau 版、第三巻）の読み。たとえば 3.3.2 の potentiorem、3.3.4 の quae et ecclesiae tradidit、3.4.2 の nequedum、3.4.3 の octavus と Omnes autem hi … の文をどう扱うか。`cache/` に資料がなく確かめていない。
+- Clarom. の読みについて Stieren と Harvey の報告が食い違う箇所。3.2.1 の adinvenerit／adinvenit、3.2.2 の et se／se、3.3.1 の respicere／perspicere と successores／successiones、3.3.4 の Cognoscis nos?（Harvey は Clarom. を cognosce me とする）。Massuet の校注（Clarom. を照合した）が `cache/` になく、どちらが正しいか確かめていない。
+- 3.1.1 の ea quae a Deo nobis bona sunt evangelizantes, et caelestem pacem hominibus annuntiantes が、イザヤ五二・七（口語訳「よきおとずれを伝え、平和を告げ」）やローマ一〇・一五を思わせるかどうか。Stieren・Harvey・Schwartz の欄外と注には挙がらず、資料での指摘を見つけていない。
+- 3.4.1 のテルトゥリアヌス『異端者への抗弁』の並行箇所を、Stieren は 32 章、Harvey は 36 章とする（St. p. 437 注 3、Hv. II p. 15 注 2）。テルトゥリアヌスの本文で確かめていない。
+- 3.3.3 と 3.4.3 でローマの監督の順番を論じる Harvey の第 1 冊 p. 214 注 2 と、3.4.3 の abstentus について Harvey が指す第 1 冊 p. 16 注 1 は読んでいない（Harvey I は `cache/` にある）。
+- 3.3.2 で Stieren が挙げる Massuet の論文（Diss. III）、Griesbach、Gieseler、Neander の著作は、Stieren の注で読んだだけで、原著で確かめていない。
+- Schwartz の校注は、論点にかかわる箇所（四・一一・一の ἔνατος、四・一四・三の κύριον、四・一四・四〜五の τῇ ἐκκλησίᾳ、四・一四・七の ἐπιγίνωσκε、五・六・五の διδαχῇ）だけを画像で確かめた（Schwartz 画像 0332、0344、0346、0452）。ほかの校注（四・一四・五の τὸν Πολύκαρπον、四・一一・一の πάλιν など）は OCR だけで読んだ。

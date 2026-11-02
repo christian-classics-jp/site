@@ -66,6 +66,11 @@ README の進捗表の 13 ページ。第五巻 33 章 3〜4 節（パピアス�
 | Pleroma | プレーローマ |
 | Enthymesis | エンテュメーシス |
 | Monogenes | ひとり子（ウァレンティノス派がキリストと別のアイオーンとするものでも。1:10:3） |
+| Simon | シモン（使徒行伝八章の魔術師。3:0:1） |
+| Marcion／Cerinthus／Basilides | マルキオン／ケリントス／バシレイデス（3:2:1） |
+| Matthaeus／Marcus／Lucas／Ioannes | マタイ／マルコ／ルカ／ヨハネ（口語訳） |
+| Hebraei | ヘブル人（口語訳） |
+| Ephesus, Asia | アジヤのエペソ（口語訳） |
 
 ## 訳語
 
@@ -96,4 +101,14 @@ README の進捗表の 13 ページ。第五巻 33 章 3〜4 節（パピアス�
 | regula veritatis | 真理の基準 |
 | incorruptela | 朽ちないもの |
 | aliud docere（παραδιδάσκειν） | 違うことを教える（1:0:2） |
+| successiones（異端の教師の系譜も、長老・監督の継承も） | 継承（3:0:1、3:2:2） |
+| traductio et destructio（原題の ἔλεγχος καὶ ἀνατροπή） | 暴露と反駁（3:0:1） |
+| destruere／evertere／arguere／contradicere, contradictio | 反駁する／覆す／論駁する／反論する、反論（3:0:1） |
+| occasiones | 手がかり（1:0:2、3:0:1） |
+| presbyteri | 長老たち（3:2:2） |
+| participes Domini | 主の仲間たち（3:1:2） |
+| spernere（ルカ一〇・一六の contemnere を受けるとき） | 拒む（3:1:2） |
+| perfecti（第一コリント二・六） | 円熟している者（口語訳の語。3:2:1。3.3.1 の perfectos もこれに揃える） |
+| medietas／summitas（ウァレンティノス派の領域） | 中間／高み（3:2:2） |
+| Salvator | 救い主 |
 | profundum（βυθός にかけた語） | 深み（1:0:2。異端のアイオーンの名 Bythus が出てきたら、字を揃えるか決めて、このメモも見直す） |
