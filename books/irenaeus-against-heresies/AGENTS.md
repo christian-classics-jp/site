@@ -52,6 +52,15 @@ README の進捗表の 13 ページ。第五巻 33 章 3〜4 節（パピアス�
 | Valentinus | ウァレンティノス |
 | Ptolemaeus | プトレマイオス |
 | Celtae | ケルト人 |
+| Germania | ゲルマニア |
+| Hiberi | イベリア人（イスパニアの人々。1:10:2） |
+| Aegyptus／Libya | エジプト／リビヤ（口語訳） |
+| Oriens | 東方 |
+| medium mundi | 世界の中央（何を指すかはメモに書く。1:10:2） |
+| Aeon | アイオーン |
+| Pleroma | プレーローマ |
+| Enthymesis | エンテュメーシス |
+| Monogenes | ひとり子（ウァレンティノス派がキリストと別のアイオーンとするものでも。1:10:3） |
 
 ## 訳語
 
@@ -59,11 +68,22 @@ README の進捗表の 13 ページ。第五巻 33 章 3〜4 節（パピアス�
 |---|---|
 | agnitio（異端の名乗る γνῶσις） | 知識 |
 | Fabricator / Conditor / Demiurgus | 造り主（異端の教えの中の Demiurgus は「造物主」） |
+| Creator | 創造者（creator et fabricator＝創造者であり造り主であるかた。1:10:3） |
+| factor／nutritor | 作り手／養い手（1:10:3） |
+| dispositio(nes) Dei | 神のご計画（口語訳エペソ一・一〇の「ご計画」。1:10:1、1:10:3） |
+| instrumentum（πραγματεία） | お働き（1:10:3） |
+| argumentum（ὑπόθεσις） | 主題（1:10:3 の二か所で同じ語） |
+| testamentum | 契約 |
+| praedicatio | 宣教 |
+| sententia（σύνεσις の意味のとき） | 悟り（1:10:3） |
+| incarnatus | 肉をおとりになった（1:10:1） |
+| recapitulare | まとめ直す（口語訳エペソ一・一〇とは言い方が違うのでメモに書く） |
 | universitas | 万物 |
 | haeretici / haeresis | 異端の者たち／異端 |
 | ecclesia | 教会 |
 | apostoli | 使徒たち |
 | traditio | 伝承 |
 | regula veritatis | 真理の基準 |
+| incorruptela | 朽ちないもの |
 | aliud docere（παραδιδάσκειν） | 違うことを教える（1:0:2） |
 | profundum（βυθός にかけた語） | 深み（1:0:2。異端のアイオーンの名 Bythus が出てきたら、字を揃えるか決めて、このメモも見直す） |
