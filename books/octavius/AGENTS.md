@@ -175,7 +175,7 @@
 | antiquitas／uetustas | いにしえ／古さ（20:2） |
 | sacra／mysteria／ritus | 祭儀／秘儀／儀礼（20:6、22:1） |
 | simulacrum／imago／statua | 像／肖像／立像（20:5） |
-| monstruosus／monstrum | 怪物じみた／奇怪な姿（20:3、22:6） |
+| monstruosus／monstrum | 怪物じみた／奇怪な姿（20:3、22:6）。拝む対象として言う monstra は「奇怪なもの」（28:2） |
 | fabula／fabella | 作り話（aniles fabulae は「老婆の作り話」。11:2、20:2、20:4、22:4） |
 | fingere | 作り上げる（20:3、21:9） |
 | munus | 恵み（20:6、21:1） |
@@ -221,3 +221,8 @@
 | damnare | 罪に定める（27:8、28:8） |
 | fingere（病や情を） | 作り上げる（27:2、26:12）。confingere は「でっち上げる」（26:6） |
 | pleraque（pars）、plerique | 大部分（10:1、27:5、28:9）。maior pars も「大部分」（12:2、26:3） |
+| interim／nonnumquam | あるときは／ときには（19:9、27:1） |
+| uidelicet | 言うまでもなく（28:3。scilicet の「もちろん」、nimirum の「なるほど」と分ける） |
+| etiam／item | 「〜でさえ」「〜も」／「同様に」（28:3、28:7。「さらに」は atque etiam、「さらには」は denique にとっておく） |
+| urbanitas | 都会風の才気（16:2、28:10。26:6 の politiores は「洗練され」） |
+| adorare（単独） | 拝む（25:5、28:8、28:10。colere と並ぶときだけ「伏し拝む」） |
