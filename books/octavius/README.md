@@ -4,7 +4,7 @@
 
 制作：藤遥。全文を Claude Code（Anthropic の Claude）を使って訳した。
 
-底本は C. Halm 編、*M. Minucii Felicis Octavius. Iulii Firmici Materni Liber de errore profanarum religionum*（Corpus Scriptorum Ecclesiasticorum Latinorum 2、Wien: C. Gerold, 1867）の本文（pp. 3〜56）。パブリックドメイン。archive.org のスキャン（[mminuciifelicis00halmgoog](https://archive.org/details/mminuciifelicis00halmgoog)）の画像から本文を起こし、[research/halm-1867.txt](research/halm-1867.txt) に置いた。ページごとに、訳す範囲を起こして足していく。
+底本は C. Halm 編、*M. Minucii Felicis Octavius. Iulii Firmici Materni Liber de errore profanarum religionum*（Corpus Scriptorum Ecclesiasticorum Latinorum 2、Wien: C. Gerold, 1867）の本文（pp. 3〜56）。パブリックドメイン。archive.org のスキャン（[mminuciifelicis00halmgoog](https://archive.org/details/mminuciifelicis00halmgoog)）の画像から本文を起こし、[research/halm-1867.txt](research/halm-1867.txt) に置いた。
 
 章と節の番号は底本に従う。底本は全 40 章で、英訳などで 40 章と 41 章に分けられる結びの部分を 40 章にまとめる。
 
