@@ -69,6 +69,19 @@
 | Democritus／Straton／Epicurus／Aristoteles／Heraclides Ponticus／Theophrastus | デモクリトス／ストラトン／エピクロス／アリストテレス／ポントスのヘラクレイデス／テオプラストス |
 | Zenon／Chrysippus／Cleanthes／Ariston Stoicus／Socraticus Xenophon | ゼノン／クリュシッポス／クレアンテス／ストア派のアリストン／ソクラテスの弟子クセノポン |
 | Plato／Timaeus／Hesiodus／Homerus／Orpheus | プラトン／『ティマイオス』／ヘシオドス／ホメロス／オルフェウス |
+| Scylla／Chimaera／Hydra／Centauri | スキュラ／キマイラ／ヒュドラ／ケンタウロス（20:3） |
+| Euhemerus／Prodicus／Persaeus | エウヘメロス／プロディコス／ペルサイオス（21:1、21:2） |
+| Dictaeus Iuppiter／Apollo Delphicus／Pharia Isis／Ceres Eleusinia | ディクテのユピテル／デルポイのアポロ／ファロスのイシス／エレウシスのケレス（21:1） |
+| Liber／Libera／Ceres／Venus | リベル（21:2 では「リベル（ぶどう酒）」）／リベラ（22:2 で「娘のリベラ」と補う）／ケレス／ウェヌス |
+| Alexander ille Magnus | あのマケドニアのアレクサンドロス大王（21:3。序文に従って「マケドニアの」を補う） |
+| Saturnus／Nepos／Cassius／Thallus／Diodorus | サトゥルヌス／ネポス／カッシウス／タッロス／ディオドロス（21:4） |
+| Creta／Italia、Itali／Ianus／Latium／Saturnia／Ianiculum | クレタ／イタリア、イタリアの人々／ヤヌス／ラティウム／サトゥルニア／ヤニクルム（21:5〜21:8。latebra・latuisset と Latium の語呂合わせは「隠れていた（ラテオー）」と補う） |
+| Proculus／Romulus／Iuba／Mauri | プロクルス／ロムルス／ユバ／マウリ人（21:9） |
+| Isis／Osiris／Cynocephalus／Isiaci | イシス／オシリス（「セラピス、つまりオシリス」）／犬の頭の神（アヌビスの名は補わない）／イシスの信者（21:12、22:1） |
+| Corybantes／Cybele／Dindyma／Galli | コリュバンテス／キュベレ／キュベレのディンデュマの祭儀／ガッリと呼ばれるキュベレの祭司たち（22:3、22:4。6:1、6:2 の「ガリア人」と分ける） |
+| Apollo／Pan／Mercurius／Aesculapius／Diana Ephesia／Triuia | アポロ／パン／メルクリウス／アエスクラピウス／エフェソスのディアナ／三叉路の女神トリウィア（22:5） |
+| Iuppiter Hammon／Capitolinus／Latiaris／Feretrius | ハンモン／カピトリウムのユピテル／ラティアリス／フェレトリウス（22:6） |
+| Erigone／Castores／Hercules／Oetaei ignes | エリゴネ／カストルの兄弟（7:3 の「騎士の兄弟」と同じ二人）／ヘルクレス／オエタ山の火（22:7） |
 
 ## 訳語
 
@@ -131,3 +144,18 @@
 | infinitus／inmensus | 無限の／測り知れない（18:8、19:5） |
 | diuinus | 神的な（18:7、19:9）。uis diuina は、numen の「神的な力」（17:4）と分けて「神の力」（19:11） |
 | interpretari／conprehendi | 解き明かす／つかむ（18:8、19:10、19:11、19:13） |
+| inperitus | 無知な（3:1、16:5、20:2） |
+| antiquitas／uetustas | いにしえ／古さ（20:2） |
+| sacra／mysteria／ritus | 祭儀／秘儀／儀礼（20:6、22:1） |
+| simulacrum／imago／statua | 像／肖像／立像（20:5） |
+| monstruosus／monstrum | 怪物じみた／奇怪な姿（20:3、22:6） |
+| fabula／fabella | 作り話（aniles fabulae は「老婆の作り話」。11:2、20:2、20:4、22:4） |
+| fingere | 作り上げる（20:3、21:9） |
+| munus | 恵み（20:6、21:1） |
+| examen（神々の一族をさげすむ語） | 群れ（21:4。5:10 の「見境」とは別の意味） |
+| arguere | 暴く（21:8、22:5） |
+| consecrare／diuus | 神として祀る／神とされた者（21:9） |
+| in homine perseuerare／hominem exuere | 人間のままでいる／人間を脱ぐ（21:10、22:7） |
+| luctus／planctus（plangere）／caedere pectora | 嘆き／哀哭（胸を打つ）／胸をたたく（22:1） |
+| supplicium／tormenta | 罰／責め苦（22:4） |
+| ludibria／dedecora | 笑いぐさ／不面目（22:5） |
