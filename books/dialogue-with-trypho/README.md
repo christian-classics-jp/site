@@ -21,7 +21,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/archambault-1909.txt` と
 | 節 | 章 | 訳 |
 |---|---|---|
 | chapter-001-002 | 1〜2 章 | [x] |
-| chapter-003-004 | 3〜4 章 | [ ] |
+| chapter-003-004 | 3〜4 章 | [x] |
 | chapter-005-008 | 5〜8 章 | [ ] |
 | chapter-009-011 | 9〜11 章 | [ ] |
 | chapter-012-014 | 12〜14 章 | [ ] |
