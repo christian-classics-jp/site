@@ -28,6 +28,6 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/staehlin-1909.txt` と各
 | chapter-20-23 | 20〜23 章 | [x] |
 | chapter-24-27 | 24〜27 章 | [x] |
 | chapter-28-32 | 28〜32 章 | [x] |
-| chapter-33-38 | 33〜38 章 | [ ] |
+| chapter-33-38 | 33〜38 章 | [x] |
 | chapter-39-41 | 39〜41 章 | [ ] |
 | chapter-42 | 42 章 | [ ] |
