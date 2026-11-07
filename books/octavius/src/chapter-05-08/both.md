@@ -57,7 +57,7 @@
 7:6 だからこそ、神に満たされ、神と混じり合った予言者たちは、未来を先取りして摘み取る。危険には用心を、病には薬を、苦しむ者には望みを、みじめな者には助けを、災いには慰めを、労苦には安らぎを与える。眠っているあいだにさえ、わたしたちは神々を見、その声を聞き、それと知る。昼には、不敬にも否み、拒み、偽って誓うその神々をである。
 
 8.1 Itaque cum omnium gentium de dis inmortalibus, quamuis incerta sit uel ratio uel origo, maneat tamen firma consensio, neminem fero tanta audacia tamque inreligiosa nescio qua prudentia tumescentem, qui hanc religionem tam uetustam, ⟨tam⟩ utilem, tam salubrem dissoluere aut infirmare nitatur.
-8:1 だから、不死の神々については、その理屈も起こりも不確かではあっても、あらゆる民の考えが揺るがずに一致している。そうである以上、この宗教を崩そうとしたり、弱めようとしたりする者を、わたしはだれ一人許さない。これほど古く、これほど役に立ち、これほど身のためになる宗教をである。そういう者は、それほどの大胆さと、それほど神を恐れぬ何やらの知恵とで、ふくれ上がっているのだ。
+8:1 だから、不死の神々については、その理屈も起こりも不確かではあっても、あらゆる民の考えが揺るがずに一致している。そうである以上、この宗教を崩そうとしたり、弱めようとしたりする者を、わたしはだれ一人許さない。これほど古く、これほど役に立ち、これほど身のためになる宗教をである。そういう者は、それほどの大胆さと、それほど神を恐れぬ何やらの賢さとで、ふくれ上がっているのだ。
 // 二つ目の「これほど」（tam）は写本になく、ある刊本の編者の推定で、底本もこれを補う。
 8.2 sit licet ille Theodorus Cyrenaeus, uel qui prior Diagoras Melius, cui atheon cognomen adposuit antiquitas, qui uterque nullos deos adseuerando timorem omnem, quo humanitas regitur, uenerationemque penitus sustulerunt: numquam tamen in hac inpietatis disciplina simulatae philosophiae nomine atque auctoritate pollebunt.
 8:2 たとえそれが、キュレネのテオドロスであっても、それより前の、メロスのディアゴラスであってもだ。ディアゴラスには、昔の人々が「無神論者」（アテオス）というあだ名を付けた。この二人はどちらも、神々などいないと言い張って、人の世を治めているあらゆる恐れと崇敬とを、根こそぎ取り去った。それでも、この不敬の教えにおいて、見せかけの哲学の名と権威によって、彼らが力を持つことは決してないだろう。
