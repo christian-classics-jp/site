@@ -62,3 +62,11 @@
 | testa（子供たちが水切りに投げるもの） | 貝殻（陶片とも取れる。3:5、3:6） |
 | amicitia | 友情（4:6） |
 | arbiter | 審判（4:6） |
+| mereo（meruerunt など） | 得る、勝ち得る（「許される」としない。5:12、6:1、6:3） |
+| auctor／artifex／machinator（世界を造る者） | 造り主／造り手／工匠（5:7、5:8） |
+| templum／delubrum／fanum | 神殿／聖所／社（6:3、7:1、7:5） |
+| religio | 宗教（「信仰」は fides にとっておく。6:2） |
+| dilectus／examen／discrimen | 選ぶこと／見境／分け隔て（5:9、5:10） |
+| auspicium／augurium | 鳥の兆し／鳥占い（7:4） |
+| probare／contestari | 明らかにする／証しする（7:3、7:4） |
+| uetera／antiquitas | 昔のこと／いにしえ（7:5） |
