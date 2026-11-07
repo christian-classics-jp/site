@@ -1,0 +1,80 @@
+# 26〜28 章　オクタウィウスの演説（五）
+
+26.1 Iam enim uenio ad illa auspicia et auguria Romana, quae summo labore collecta testatus es et paenitenter omissa et obseruata feliciter.
+26:1 実際、ここで、あのローマの鳥の兆しと鳥占いに話を移します。あなたは、それを大変な苦労をして集め、証言しました。怠って悔やまれたものと、守って幸いを得たものとしてです。
+// 「あなたは…証言しました」（testatus es）は、ある刊本の編者の直しで、底本もこれを採る。写本は testatus est（彼は…証言した）。
+26.2 Clodius scilicet et Flaminius et Iunius ideo exercitus perdiderunt, quod pullorum solistimum tripudium exspectandum non putauerunt.
+26:2 クラウディウスとフラミニウスとユニウスは、軍勢を失いました。もちろん、それは、ひな鳥の最もめでたい兆しを待つべきだと思わなかったからなのでしょう。ひな鳥が、こぼすほどに餌をついばむ兆しです。
+// 「最もめでたい兆し」（solistimum tripudium）は、ひな鳥が餌を口からこぼすほどに食べることをいう鳥占いの言葉。solistimum は、ある刊本の編者の直しで、底本もこれを採る。写本は sollemnisimum（最も厳かな）。
+// 「クラウディウス」は、底本では Clodius と刷られている。底本の索引は、7 章 4 節と同じクラウディウスとする。
+26.3 quid Regulus? nonne auguria seruauit et captus est? Mancinus religionem tenuit, et sub iugum missus est et deditus. pullos edaces habuit et Paulus, apud Cannas tamen cum maiore populi Romani parte prostratus est.
+26:3 レグルスはどうでしょうか。鳥占いを守ったのに、それでも捕らえられたではありませんか。マンキヌスは宗教を固く守りましたが、それでも軛の下をくぐらされ、敵に引き渡されました。パウルスも、よく食べるひな鳥を得ていました。それでも、カンナエで、ローマの国の人々の大部分とともに打ち倒されたのです。
+26.4 Gaius Caesar, ne ante brumam in Africam nauigia transmitteret, auguriis et auspiciis renitentibus, spreuit: eo facilius et nauigauit et uicit.
+26:4 ガイウス・カエサルは、冬至より前に船をアフリカへ渡してはならないと、鳥占いと鳥の兆しが逆らったのに、それを軽んじました。そのため、かえってたやすく航海し、勝利したのです。
+26.5 quae uero et quanta de oraculis prosequar? post mortem Amphiaraus uentura respondit, qui proditum iri se ob monile ab uxore nesciuit. Tiresias caecus futura uidebat, qui praesentia non uidebat.
+26:5 では、神託について、どんなことを、どれほど語りましょうか。アンピアラオスは、死んだ後で、これから起こることを答えました。それなのに、自分が首飾りのために妻に裏切られることは、知りませんでした。テイレシアスは、目が見えないのに未来を見ていました。それなのに、目の前のことは見ていなかったのです。
+26.6 de Pyrro Ennius Apollinis Pythi responsa confinxit, cum iam Apollo uersus facere desisset: cuius tunc cautum illud et ambiguum defecit oraculum, cum et politiores homines et minus creduli esse coeperunt. et Demosthenes, quod sciret responsa simulata, φιλιππίζειν Pythiam querebatur.
+26:6 エンニウスは、ピュロスについてのピュトのアポロの答えを、でっち上げました。アポロは、そのときにはもう詩句で答えるのをやめていたのにです。アポロの、あの用心深い、どちらにも取れる神託がすたれたのは、人々がより洗練され、あまり信じやすくなくなったときでした。また、デモステネスは、答えが偽りであることを知っていました。そのため、巫女ピュティアがフィリッポスの味方をしていると不平を言ったのです。
+// 「フィリッポスの味方をしている」（φιλιππίζειν）は、原文がここだけギリシア語の動詞で書いている。
+26.7 At nonnumquam tamen ueritatem uel auspicia uel oracula tetigerunt. quamquam inter multa mendacia uideri possit industriam casus imitatus, adgrediar tamen fontem ipsum erroris et prauitatis, unde omnis caligo ista manauit, et altius eruere et aperire manifestius. spiritus sunt insinceri, uagi, a caelesti uigore terrenis labibus et cupiditatibus degrauati.
+26:7 「それでも、鳥の兆しや神託が、ときには真理に触れたこともあるではないか」と、あなたは言うでしょう。もっとも、多くの嘘の中では、偶然が意図をまねたように見えることもあるでしょう。それでも、わたしは、誤りとゆがみの源そのものに取りかかります。この闇はすべて、そこから流れ出たのです。その源を、もっと深く掘り起こし、もっとはっきりと明るみに出しましょう。純粋でない、さまよう霊たちがいます。地上の朽ちることと欲望とに重くされ、天の活力から落ちた霊たちです。
+26.8 isti igitur spiritus, posteaquam simplicitatem substantiae suae onusti et inmersi uitiis perdiderunt, ad solacium calamitatis suae non desinunt perditi iam perdere et deprauati errorem prauitatis infundere et alienati a Deo inductis prauis religionibus a Deo segregare.
+26:8 それで、この霊たちは、悪徳を負い、悪徳に沈んで、自分の本質の純一さを失いました。そののち、自分の災いの慰めのために、やむことなく働きます。自分が滅びたので、もう人を滅ぼします。自分がゆがめられたので、ゆがみの誤りを注ぎ込みます。自分が神から離されたので、ゆがんだ宗教を持ち込んで、人を神から引き離すのです。
+26.9 eos spiritus daemonas esse poetae sciunt, philosophi disserunt, Socrates nouit, qui ad nutum et arbitrium adsidentis sibi daemonis uel declinabat negotia uel petebat.
+26:9 この霊たちがダイモンであることを、詩人たちは知っており、哲学者たちは論じています。ソクラテスも、それをよく知っていました。ソクラテスは、自分にいつも付き添うダイモンのうなずきと意向に従って、事を退けたり、求めたりしていたからです。
+26.10 magi quoque non tantum sciunt daemonas, sed etiam quicquid miraculi ludunt, per daemonas faciunt: illis adspirantibus et infundentibus praestigias edunt, uel quae non sunt uideri, uel quae sunt non uideri.
+26:10 魔術師たちも、ダイモンを知っているだけではありません。何であれ不思議なわざを戯れに演じるときは、ダイモンを通して行っています。ダイモンが息を吹きかけ、注ぎ込むことで、魔術師たちは目くらましを見せるのです。ないものが見えたり、あるものが見えなかったりするようにします。
+26.11 eorum magorum et eloquio et negotio primus Hostanes et uerum Deum merita maiestate prosequitur et angelos, id est ministros et nuntios Dei sed ueri, eius uenerationi nouit adsistere, ut et nutu ipso et uultu domini territi contremescant. idem etiam daemonas prodidit terrenos, uagos, humanitatis inimicos.
+26:11 その魔術師たちの中で、言葉でもわざでも第一の者であるホスタネスは、まことの神を、ふさわしい威厳をもってたたえています。また、天使たちのことも知っています。天使たちとは、神の、それもまことの神の、仕える者と使いたちです。天使たちは、神をあがめるためにそばに立っています。そして、主のうなずき一つ、御顔の動き一つにもおびえ、震え上がるほどだというのです。同じホスタネスは、ダイモンが地上のもので、さまよい、人類の敵であることも明かしました。
+// 「ホスタネス」（Hostanes）は、ある刊本の編者の直しで、底本もこれを採る。写本は sosthenes。
+26.12 quid Plato, qui inuenire Deum negotium credidit, nonne et angelos sine negotio narrat et daemonas? et in Symposio etiam suo naturam daemonum exprimere conititur? uult enim esse substantiam inter mortalem inmortalemque, id est inter corpus et spiritum mediam, terreni ponderis et caelestis leuitatis admixtione concretam, ex qua monet etiam † nos procupidinem amoris, et dicit informari et inlabi pectoribus humanis et sensum mouere et adfectus fingere et ardorem cupiditatis infundere.
+26:12 プラトンはどうでしょうか。神を見いだすことは骨の折れることだと考えたプラトンも、天使とダイモンについては、造作もなく語っているではありませんか。また、自分の『饗宴』の中でも、ダイモンの本性を描き出そうと努めているではありませんか。プラトンは、ダイモンが、死ぬものと死なないもののあいだ、つまり体と霊のあいだにある中間の本質だとします。地上の重さと天の軽さが混じり合って固まったものだというのです。そして、この本質から、愛の欲求もわたしたちの中に生まれると教えます^[この句は写本が崩れていて、読み方が定まらない。]。プラトンは言います。愛の欲求は、人間の胸の中で形をとり、そこに忍び込み、感覚を動かし、情を作り上げ、欲望の熱を注ぎ込む、と。
+// 底本は「愛の欲求もわたしたちの中に生まれると教えます」にあたる nos procupidinem に短剣符を付け、写本の読みが崩れているとする。写本は monet etiam nos procupidinem amoris。訳では、1543 年の初版の manare in nos procupidinem、ある学者の推定 manet etiam in nos porro cupido、底本の編者の推定 monet etiam in nobis promi cupidinem の方向（わたしたちの中に愛の欲求が生じる）で訳した。
+
+27.1 Isti igitur impuri spiritus, daemones, ut ostensum ⟨a⟩ magis, a philosophis et a Platone, sub statuis et imaginibus consecratis delitescunt et adflatu suo auctoritatem quasi praesentis numinis consequuntur, dum inspirant interim uates, dum fanis inmorantur, dum nonnumquam extorum fibras animant, auium uolatus gubernant, sortes regunt, oracula efficiunt, falsis pluribus inuoluta.
+27:1 それで、この汚れた霊たちは、ダイモンです。魔術師たちによって、哲学者たちによって、プラトンによって示されたとおりです。ダイモンは、神として祀られた立像や肖像の下に潜んでいます。そして、自分の息吹によって、まるで神的な力がそこにいるかのような権威を得ます。ときには予言者たちに霊感を吹き込み、社にとどまります。ときにはいけにえの内臓の筋を動かし、鳥の飛び方を操り、くじを導き、神託を生み出します。その神託は、真実より多くの偽りに包まれています。
+// 「魔術師たちによって」の「によって」（a）は写本になく、ある刊本の編者の推定で、底本もこれを補う。
+// 「予言者たちに霊感を吹き込み」（inspirant uates）は、ある学者の推定で、底本もこれを採る。写本は inspirantur uatibus（予言者たちに吹き込まれ）。
+27.2 nam et falluntur et fallunt, ut et nescientes sinceram ueritatem et quam sciunt, in perditionem sui non confitentes. sic a caelo deorsum grauant et a Deo uero ad materias auocant, uitam turbant, somnos inquietant, inrepentes etiam corporibus occulte ut spiritus tenues morbos fingunt, terrent mentes, membra distorquent, ut ad cultum sui cogant, ut nidore altarium uel hostiis pecudum saginati, remissis quae constrinxerant, curasse uideantur.
+27:2 実際、ダイモンは欺かれ、また欺きます。純粋な真理を知らないうえに、知っている真理も、自分の滅びになるので告白しないからです。こうしてダイモンは、人を天から下へと引きずり下ろし、まことの神から物質へと呼び離します。生活をかき乱し、眠りを騒がせます。また、薄い霊なので、ひそかに体に忍び込み、病を作り上げ、知性をおびえさせ、手足をねじ曲げます。それは、人を、自分を拝むように追い込むためです。そして、祭壇の煙やいけにえの家畜で肥え太ると、自分で締めつけていたものを緩めて、治したように見せるためです。
+// 「眠りを」（somnos）は、ある刊本の編者の推定で、底本もこれを採る。写本は omnes（すべての人を）。
+27.3 hinc sunt et furentes, quos in publicum uidetis excurrere, uates et ipsi absque templo, sic insaniunt, sic bacchantur, sic rotantur: par et in illis instigatio daemonis, sed argumentum dispar furoris.
+27:3 狂う者たちが出てくるのも、ここからです。あなたがたは、彼らが人前に走り出るのを見ています。彼らもまた、神殿を持たない予言者で、このように正気を失い、このように熱狂し、このようにぐるぐる回ります。彼らの中にも、ダイモンのそそのかしは同じようにあります。ただ、狂いの中身が違うのです。
+27.4 de ipsis etiam illa, quae paulo ante tibi dicta sunt, ut Iuppiter ludos repeteret ex somnio, ut cum equis Castores uiderentur, ut cingulum matronae nauicula sequeretur.
+27:4 少し前にあなたが語ったことも、ダイモンの仕業です。ユピテルが夢によって競技のやり直しを求めたこと、騎士の兄弟が馬とともに姿を見せたことです。また、ある婦人の帯に小舟がついていったことです。
+27.5 haec omnia sciunt pleraque pars uestrum ipsos daemonas de semetipsis confiteri, quotiens a nobis tormentis uerborum et orationis incendiis de corporibus exiguntur.
+27:5 ダイモン自身が、これらのことをみな、自分について告白しています。あなたがたの大部分も、それを知っています。わたしたちが、言葉の責め苦と祈りの火で、ダイモンを体から追い出すたびにです。
+27.6 ipse Saturnus et Serapis et Iuppiter et quicquid daemonum colitis, uicti dolore quod sunt eloquuntur, nec utique in turpitudinem sui, nonnullis praesertim uestrum adsistentibus, mentiuntur.
+27:6 サトゥルヌスその人も、セラピスも、ユピテルも、あなたがたの拝むダイモンは何であれ、そうです。痛みに負けて、自分が何者であるかを口に出すのです。自分の恥になることで、嘘をつくはずがありません。しかも、あなたがたの何人かが、そばに立ち会っているのです。
+27.7 ipsis testibus, esse eos daemonas, credite fassis: adiurati enim per Deum uerum et solum inuiti miseris corporibus inhorrescunt et uel exiliunt statim uel euanescunt gradatim, prout fides patientis adiuuat aut gratia curantis adspirat. sic Christianos de proximo fugitant, quos longe in coetibus per uos lacessebant.
+27:7 彼らがダイモンであることについては、彼ら自身を証人として、白状した当人たちを信じてください。まことの唯一の神にかけて命じられると、彼らは、あわれな体の中で、いやいやながら身震いします。そして、すぐに飛び出すか、少しずつ消えていきます。とりつかれた人の信仰が助けるか、癒やしてくださる方の恵みが息を吹きかけるかによるのです。こうして彼らは、近くではキリスト者から逃げ回ります。遠くからは、人々の集まりの中で、あなたがたを使ってキリスト者を攻め立てていたのにです。
+// 「あわれな体の中で」（miseris corporibus）は、ある刊本の編者の直しで、底本もこれを採る。写本は miseri（あわれな者たちは）。
+27.8 ideo inserti mentibus imperitorum odium nostri serunt occulte per timorem: naturale est enim et odisse quem timeas, et quem metueris infestare, si possis. sic occupant animos et obstruunt pectora, ut ante nos incipiant homines odisse quam nosse, ne cognitos aut imitari possint aut damnare non possint.
+27:8 そのために、ダイモンは、無知な者たちの知性に入り込み、恐れを通して、わたしたちへの憎しみをひそかに蒔きます。恐れる相手を憎み、怖がる相手をできることなら苦しめるのは、自然なことだからです。こうしてダイモンは、魂を占め、胸をふさぎます。そのため人々は、わたしたちをよく知るより先に、憎み始めるのです。知ったうえで、わたしたちをまねることができるようになったり、罪に定めることができなくなったりしないためです。
+
+28.1 Quam autem inicum sit, ⟨de⟩ incognitis et inexploratis iudicare, quod facitis, nobis ipsis paenitentibus credite.
+28:1 よく知らず、調べもしないことについて裁くのが、どれほど不当であるか。あなたがたはそうしていますが、悔いているわたしたち自身の言うことを信じてください。
+// 「ことについて」の「について」（de）は写本になく、ある学者の推定で、底本もこれを補う。
+28.2 et nos enim idem fecimus et eadem uobiscum quondam adhuc caeci et hebetes sentiebamus, quasi Christiani monstra colerent, infantes uorarent, conuiuia incesta miscerent, nec intellegebamus ab his fabulas istas semper uentilari et numquam uel inuestigari uel probari, nec tanto tempore aliquem existere qui proderet, non tantum facti ueniam, uerum etiam indicii gratiam consecuturum: malum autem adeo non esse, ut Christianus reus nec erubesceret nec timeret, et unum solummodo, quod non ante fuerit, paeniteret.
+28:2 わたしたちも、かつては同じことをしていたからです。まだ目が見えず、鈍かったころ、あなたがたと同じように考えていました。キリスト者は奇怪なものを拝み、赤子をむさぼり食い、近親姦の宴を催している、と。わたしたちは、気づいていませんでした。その作り話は、いつもダイモンにあおり立てられるだけで、一度も調べられることも、明らかにされることもなかったのです。また、これほど長いあいだ、密告する者が一人も現れませんでした。密告すれば、自分のしたことの赦しばかりか、密告の褒美まで得られたはずなのにです。それに、悪いことなど何もなかったので、訴えられたキリスト者は、恥じもせず、恐れもしませんでした。ただ一つ、もっと早くキリスト者にならなかったことだけを、悔いていたのです。
+// 「同じことをしていた」（idem fecimus）は、ある学者の推定で、底本もこれを採る。写本は idem fuimus（同じであった）。「ダイモンに」は原文では ab his（この者たちによって）で、前の章のダイモンを受けると取った。
+28.3 nos tamen cum sacrilegos aliquos et incestos, parricidas etiam defendendos et tuendos suscipiebamus, hos nec audiendos in totum putabamus, nonnumquam etiam miserantes eorum crudelius saeuiebamus, ut torqueremus confitentes ad negandum, uidelicet ne perirent, exercentes in his peruersam quaestionem, non quae uerum erueret, sed quae mendacium cogeret.
+28:3 それでもわたしたちは、神聖を汚す者や近親姦の者、さらには身内殺しの者でさえ、弁護し守るために引き受けていました。それなのに、キリスト者のことは、聞く必要さえまったくないと考えていました。ときには、彼らをあわれむあまり、かえって残酷に荒れ狂いました。告白する者を拷問にかけて、否ませようとしたのです。もちろん、死なせないためにです。わたしたちは、彼らにあべこべの取り調べを行いました。真実を掘り起こすためではなく、嘘を強いるための取り調べです。
+28.4 et si qui infirmior malo pressus et uictus Christianum se negasset, fauebamus ei, quasi eierato nomine iam omnia facta sua illa negatione purgaret.
+28:4 そして、だれか弱い者が、苦しみに押しつぶされ、負けて、自分はキリスト者ではないと否むことがありました。すると、わたしたちはその者をかばいました。まるで、キリスト者という名を捨てたので、否んだことによって、自分のしたことをすべてもう清めたかのようにです。
+28.5 adgnoscitisne eadem nos sensisse et egisse, quae sentitis et geritis? cum si ratio, non instigatio daemonis iudicaret, urguendi magis, non ut diffiterentur se Christianos, sed ut de incestis stupris, de inpiatis sacris, de infantibus immolatis faterentur.
+28:5 わたしたちが、あなたがたの今考え、行っているのと同じことを、考え、行っていたことが分かるでしょうか。もし、ダイモンのそそのかしではなく理性が裁いていたなら、キリスト者には、むしろ迫るべきだったでしょう。自分がキリスト者であることを打ち消すように迫るのではありません。近親姦の淫らな交わりや、不敬な祭儀や、いけにえにされた赤子について、白状するように迫るべきだったのです。
+28.6 his enim et huiusmodi fabulis idem daemones ad execrationis horrorem imperitorum aures aduersus nos referserant. nec tamen mirum, quoniam fama, quae semper insparsis mendaciis alitur, ostensa ueritate consumitur.
+28:6 実際、同じダイモンが、こうした作り話や、これに類する作り話を使っていたのです。それで、無知な者たちの耳を、わたしたちに逆らうように満たしていました。わたしたちを呪わしいものとして、おぞましく思わせるためでした。それでも、驚くことではありません。噂は、いつもまき散らされた嘘で養われ、真理が示されると消え失せるからです。
+28.7 sic est negotium daemonum; ab ipsis enim rumor falsus et seritur et fouetur. inde est quod audire te dicis, caput asini rem nobis esse diuinam. quis tam stultus, ut hoc colat? quis stultior, ut hoc coli credat? nisi quod uos et totos asinos in stabulis cum uestra uel ⟨sua⟩ Epona consecratis et eosdem asinos cum Iside religiose decoratis, item boum capita et capita ueruecum et immolatis et colitis, de capro etiam et homine mixtos deos et leonum et canum uultibus deos dedicatis.
+28:7 これが、ダイモンのやり方です。偽りの風評は、ダイモン自身によって蒔かれ、育てられるからです。わたしたちにとって、ろばの頭が神聖なものだと聞いたと、あなたが言うのも、そこから来ています。それを拝むほど愚かな者がいるでしょうか。それが拝まれていると信じるほど、さらに愚かな者がいるでしょうか。ただ、あなたがたのほうは、ろばを丸ごと、厩で神として祀っています。あなたがたの、いやむしろ、ろばたち自身のエポナとともにです。また、同じろばを、イシスとともに、うやうやしく飾っています。さらに、牛の頭や去勢した羊の頭を、いけにえにもし、拝みもしています。山羊と人の混じった神々や、獅子や犬の顔をした神々も、奉献しています。
+// 「ろばたち自身の」（sua）は写本になく、ある刊本の編者の推定で、底本もこれを補う。
+// 「飾っています」（decoratis）は、ある刊本の編者の推定で、底本もこれを採る。写本は deuoratis（むさぼり食っています）で、こちらを保つ刊本もある。
+28.8 nonne et Apim bouem cum Aegyptiis adoratis et pascitis? nec eorum sacra damnatis instituta serpentibus, crocodillis, beluis ceteris et auibus et piscibus, quorum aliquem deum si quis occiderit, etiam capite punitur.
+28:8 あなたがたは、エジプト人とともに、雄牛アピスを伏し拝み、しかも飼って養っているではありませんか。エジプト人の祭儀を、罪に定めもしません。それは、蛇や鰐や、そのほかの獣や、鳥や魚のために定められた祭儀です。そのどれか一匹の神を殺した者は、死罪にさえ処せられるのです。
+28.9 idem Aegyptii cum plerisque uobis non magis Isidem quam ceparum acrimonias metuunt, nec Serapidem magis quam strepitus per pudenda corporis expressos contremescunt.
+28:9 同じエジプト人は、あなたがたの大部分とともに、イシスを、玉ねぎの辛さ以上には怖がりません。セラピスにも、体の恥ずかしい所から押し出される音以上には、震え上がりません。
+28.10 etiam ille, qui de adoratis sacerdotis uirilibus aduersum nos fabulatur, temptat in nos conferre quae sua sunt. ista enim inpudicitiae eorum forsitan sacra sint, apud quos sexus omnis membris omnibus prostat, apud quos tota inpudicitia uocatur urbanitas, qui scortorum licentiae inuident, qui medios uiros lambunt, libidinoso ore inguinibus inhaerescunt, homines malae linguae etiam si tacerent, quos prius taedescit impudicitiae suae quam pudescit.
+28:10 祭司の陰部を伏し拝んでいると、わたしたちに逆らって作り話をする者もいます。その者も、自分たちのことを、わたしたちに押しつけようとしているのです。実際、そうしたことは、もしかすると、彼らの恥知らずの祭儀なのかもしれません。彼らのもとでは、どちらの性の者も、体のあらゆる部分で身を売ります。彼らのもとでは、どんな恥知らずも洗練と呼ばれます。彼らは娼婦の放縦をうらやみ、男の股をなめ、淫らな口で下腹に吸いつきます。たとえ黙っていても、舌の汚れた者たちです。彼らは、自分の恥知らずを恥じるより先に、それに飽きてしまうのです。
+28.11 pro nefas! id in se mali facinoris admittunt, quod nec aetas potest pati mollior nec cogi seruitus durior.
+28:11 ああ、罰当たりな！　彼らは、それほどの悪い罪を、自分の身に許しています。どれほど柔らかな年頃の者でも耐えられず、どれほど厳しい奴隷の身でも強いられないほどの罪です。
