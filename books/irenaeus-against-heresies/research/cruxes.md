@@ -1,4 +1,4 @@
-# 校訂上の論点（第一巻 序、第一巻 10 章 1〜3 節、第三巻 序〜4 章、第三巻 11 章 7〜9 節、18 章、22 章 3〜4 節、第四巻 20 章 1〜7 節、38 章 1〜4 節）
+# 校訂上の論点（第一巻 序、第一巻 10 章 1〜3 節、第三巻 序〜4 章、第三巻 11 章 7〜9 節、18 章、22 章 3〜4 節、第四巻 20 章 1〜7 節、38 章 1〜4 節、第五巻 序、1 章 1〜3 節、2 章 2〜3 節、16 章 2〜3 節、19 章 1 節）
 
 『異端反駁』の訳す範囲で、ラテン語訳の写本・刊本の読みが分かれる箇所、ラテン語訳とギリシア語（エピファニオスなどの引用）が違う箇所、聖書の引用の形が訳に影響する箇所の一覧。訳は底本（Stieren 1853 の古いラテン語訳）の読みのとおりに行い、ほかの読みは記録にとどめる。訳注は、ほかの読みを知ると一般の読者の理解が変わる箇所にだけ付ける。
 
@@ -27,6 +27,7 @@ Stieren の紙面の下の段（近代の編者がギリシア語をラテン語
   - 「Schwartz p.」は E. Schwartz 編『教会史』（GCS、1903）の印刷ページ、「Schwartz l.」はその OCR の行番号、「Schwartz 画像」はその IIIF の jp2 の番号（印刷ページ＋12）。Schwartz の校注の記号：A、T、E、R、B、D、M はギリシア語の写本、Π はその一致した本文、Λ はルフィヌスのラテン語訳、Σ はシリア語訳（Schwartz l. 236–282）。OCR は Λ を A と崩すので、論点にかかわる校注は画像で確かめた。
   - 第三巻 11 章以下で足した略号（Anastas.、Bodl.、Florent.／Mor.、German.、C. C.、Theodoret Dial.、Syr.、Cod. D.）は、「第三巻 11 章 7〜9 節、18 章、22 章 3〜4 節」の節の初めのメモにある。
   - 第四巻で足した略号（Parallela、Halloix、Melissa、Swete I／II／III、OAF ヘルマス、Lake djvu、Bull）は、「第四巻 20 章 1〜7 節、38 章 1〜4 節」の節の初めのメモにある。
+  - 第五巻で足した略号（Theodoret Dial.、Augustin. c. Iul.、Int.、Cotelerius）は、「第五巻 序、1 章 1〜3 節、2 章 2〜3 節、16 章 2〜3 節、19 章 1 節」の節の初めのメモにある。
   - Vat.：Latinus Latinius が Bibliotheca sacra et profana（ローマ、1677 年）に抜き書いた、ヴァティカンの写本の読み。Latinius はエラスムスの 1548 年版と突き合わせて少しだけ書き留めた。Stieren は、Feuardent の Vet. とは別の写本だろうとみる（St. l. 549–570）。
 
 ---
@@ -1587,6 +1588,438 @@ Stieren の紙面の下の段（近代の編者がギリシア語をラテン語
 
 ---
 
+## 第五巻 序、1 章 1〜3 節、2 章 2〜3 節、16 章 2〜3 節、19 章 1 節
+
+本文の範囲と紙面の形（論点一覧を作った時点では、どの範囲も `stieren-1853.txt` に起こしていないので、OCR とスキャン画像で読んだ）：
+
+- 5.0（序）は、PRAEFATIO. Traductis, dilectissime, omnibus haereticis から … uti nos perficeret esse quod est ipse. まで。St. pp. 712〜713（画像 0760〜0761、St. l. 80802〜80891）。その下が CAP. I（l. 80894）。
+  - p. 711（画像 0759、l. 80724–80796）は第四巻 41 章 4 節で、第四巻の終わり。上の段全体がラテン語訳で、ギリシア語はない。パウロの手紙の説き明かしを「もう一つの巻で」行い、全体を五巻にすると予告して終わる（… in quinque exercentes libris.）。第五巻の範囲は含まない。
+  - p. 712（0760、l. 80797–80868）：上に SANCTI IRENAEI CONTRA OMNES HAERETICOS LIBER V. の題、PRAEFATIO の見出し（l. 80802）、本文 l. 80805–80817（Traductis … in hoc libro quinto）、注 1–11（l. 80820–80863。注 11 は p. 712 の中で終わる）。
+  - p. 713（0761、l. 80869–80931）：本文 l. 80872–80891（operis universi … quod est ipse.）、CAP. I の見出し（l. 80894）、5.1.1 の初め（l. 80897〜）、注 1–5（序への注。l. 80920–80929）。
+- 5.1.1〜3 は、1. Non enim aliter nos discere poteramus から 3. の … uti fiat Adam secundum imaginem et similitudinem Dei. まで。St. pp. 713〜716（画像 0761〜0764、St. l. 80897〜81158）。その下が CAP. II（l. 81161）。ページごとの OCR の行：p. 713（0761）l. 80869–80931（5.1.1 は l. 80897 から）、p. 714（0762）l. 80932–81029、p. 715（0763）l. 81030–81139、p. 716（0764）l. 81140–81219（本文の終わりは l. 81158）。
+  - 5.1.2（2. Vani enim sunt qui putative dicunt eum apparuisse.）は p. 714 の l. 80971、5.1.3（3. Vani autem et Ebionaei）は p. 715 の l. 81104 から。
+  - OCR は、p. 714 の左右の段でギリシア語の行とラテン語の行を混ぜる（l. 80949–80961、80974–80988）。p. 715 の左の段のギリシア語（l. 81030–81054）と注 1–2（l. 81057–81065）を、柱（l. 81068–81071）の前に置く。p. 715 の右の段のラテン語は l. 81074–81101。5.1.3 の初めの数行では行頭の字と行を落とす（l. 81104–81117）。
+- 5.2.2〜3 は、2. Vani autem omnimodo, qui universam dispositionem Dei contemnunt から 3. の … neque Deum, neque nosmetipsos ignorantes? まで。St. pp. 717〜720（画像 0765〜0768、St. l. 81227〜81624）。その下が CAP. III（5.3.1 は l. 81629）。p. 721（0769）は 5.3.1 の続きで、この範囲を含まない。ページごとの OCR の行：p. 717（0765）l. 81220–81312（5.2.2 は l. 81227 から）、p. 718（0766）l. 81313–81400、p. 719（0767）l. 81401–81534（5.2.3 は l. 81407 から）、p. 720（0768）l. 81535–81657（本文の終わりは l. 81624）。
+  - 5.2.1 は p. 716 の l. 81163 から p. 717 の 2 行目（… ut nos colligeret in sinum Patris.）まで。5.2.2 は p. 717 の 3 行目から。
+  - OCR は、p. 717 の左右の段（l. 81238–81244）と注の二つの欄（l. 81247–81304）を一行ずつ混ぜる。p. 720 では、ギリシア語の段（l. 81538–81563）、CAP. III のギリシア語（l. 81569–81578）、注 1–4（l. 81581–81595）の後に柱（l. 81598）を置き、右の段のラテン語をその後に置く（l. 81601–81641。5.2.3 は l. 81604–81624）。
+- 5.16.2〜3 は、2. Tunc autem hoc Verbum ostensum est から 3. の … cuius et praeceptum transgressi fueramus ab initio. まで。St. pp. 761〜762（画像 0809〜0810、St. l. 86159〜86341）。その下が CAP. XVII（5.17.1 は l. 86346）。ページごとの OCR の行：p. 761（0809）l. 86144–86264（5.16.2 は l. 86159 から）、p. 762（0810）l. 86265–86394（5.16.3 は l. 86277 から、本文の終わりは l. 86341）。
+  - OCR は左右の段を崩す。p. 761 では左の段のギリシア語（l. 86165–86180）、注（l. 86186–86211）、右の段のラテン語（l. 86214–86225）、注の続き（l. 86228–86253）の順。p. 762 では左の段のギリシア語（l. 86297–86307）の後に右の段のラテン語（l. 86321–86341）を置き、行を落とす（per quae mani- の行の前後など）。
+- 5.19.1 は、CAP. XIX. 1. Manifeste itaque in sua propria venientem Dominum から … per quae alligati eramus morti. まで。St. pp. 769〜770（画像 0817〜0818、St. l. 87017〜87148）。その下が 2. Indocti omnes haeretici（l. 87150）。ページごとの OCR の行：p. 769（0817）l. 87014–87143、p. 770（0818）l. 87144–87209（5.19.1 は l. 87147–87148 の 2 行）。p. 768（0816）は 5.18 の終わりで、この範囲を含まない。
+  - OCR は p. 769 の本文の行を注の間に散らし（l. 87018–87032、87083–87091）、行頭の字と数行を落とす。画像でも、左端の 1〜3 字が汚れと綴じ目で読みにくい（haec per、obediens、est obedire の行。Harvey の本文 l. 31803–31806 で確かめられる）。
+- 紙面の形：
+  - Thiersch の訳し戻しの段も、ギリシア語の近代のラテン語訳の段も、どの範囲にもない（画像 0759〜0768、0809〜0810、0817〜0818 で確かめた）。左の段のギリシア語は後の著作家の引用で、偶数ページにも奇数ページにも出る（p. 715、717、761 は奇数ページで左がギリシア語）。注は、ラテン語とギリシア語の両方に同じ通し番号の数字で付くページ（pp. 714、717、720、761、762。p. 715 の注 1–7 はラテン語の段への注だけ）と、ギリシア語にローマ字で付くページ（p. 718 の注 a–i。注 f の終わりと g–i は p. 719 の注の上に続く）がある。
+  - 5.0：pp. 712〜713 の上の段全体がラテン語訳。ギリシア語はない。
+  - 5.1.1：p. 713 から p. 714 の … neque antiqua plasmatio Dei deperiret.（l. 80948）まで全幅のラテン語。そこから左右の段：左にギリシア語 Τῷ ἰδίῳ οὖν αἵματι λυτρωσαμένου ἡμᾶς τοῦ Κυρίου … ἀντὶ τῶν ἡμετέρων σαρκῶν,、右にラテン語 Suo igitur sanguine redimente nos Domino … carnem suam pro nostris carnibus,。続く et effundente Spiritum Patris … perierunt omnes haereticorum doctrinae. は全幅のラテン語だけ。
+  - 5.1.2：初めの一文 2. Vani enim sunt qui putative dicunt eum apparuisse. は全幅のラテン語で、ギリシア語はない。Non enim putative haec から … et reprobent plasmationem Dei. までは、p. 714 の下から p. 715 の上 3 分の 2 まで左右の段（左にギリシア語 Οὐ γὰρ δοκήσει ταῦτα … ἵνα ἐκβάλωσι τὴν ζωὴν τῆς σαρκός.、右にラテン語）。
+  - 5.1.3：p. 715 の下から p. 716 まで全幅のラテン語。ギリシア語はない。5.2.1 も全幅のラテン語。
+  - 5.2.2：Vani autem omnimodo … remissionem peccatorum.（p. 717 の上半分）は全幅のラテン語。Et quoniam membra eius sumus から p. 717 の下まで左右の段（左にギリシア語 Ἐπειδὴ μέλη αὐτοῦ ἐσμέν … αἷμα ἴδιον ὡμολόγη-、右にラテン語 … suum sanguinem qui effusus）。p. 718 は上の段全体がギリシア語（-σεν, ἐξ οὗ τὸ ἡμέτερον δεύει αἷμα から 5.2.3 の … ἀπαρθῶμέν ποτε κατὰ τοῦ Θεοῦ, まで）、p. 719 は上の段全体がラテン語（est, ex quo auget nostrum sanguinem から 5.2.3 の … inflemur aliquando et extollamur adversus まで）。ラテン語は、p. 717 の qui effusus から、ギリシア語だけの p. 718 を飛ばして p. 719 の est に続く。
+  - 5.2.3：上のとおり p. 718〜719 にまたがり、p. 720 の上が左右の段（左に ἀχάριστον ἔννοιαν ἀναλαβόντες … μήτε ἑαυτοὺς ἀγνοοῦντες;、右に Deum, ingratam mentem accipientes … neque nosmetipsos ignorantes?）。その下の CAP. III も左右の段だが、範囲の外。
+  - 5.16.2：Tunc autem hoc Verbum ostensum est … pretiosus homo fiat Patri.（p. 761 の 4 行）は全幅のラテン語で、ギリシア語はない。In praeteritis enim temporibus から 5.16.2 の終わり（p. 762 の上 4 行）まで左右の段（左に Ἐν τοῖς πρόσθεν χρόνοις … συνεξομοιώσας τὸν ἄνθρωπον τῷ ἀοράτῳ Πατρὶ ......、右にラテン語 … per visibile Verbum.）。ギリシア語は Πατρί の後が点線で、per visibile Verbum に当たる語はない。
+  - 5.16.3：3. Et non solum autem から … per quae manifeste ipsum ostendit Deum, quem まで全幅のラテン語。in primo quidem Adam offendimus から … ab initio. まで左右の段（左に Ἐν μὲν γὰρ τῷ πρώτῳ Ἀδὰμ προσεκόψαμεν … οὗ καὶ τὴν ἐντολὴν παρέβημεν ἀπ' ἀρχῆς.）。下の CAP. XVII の 1 節の初めも左右の段（範囲の外）。
+  - 5.19.1：pp. 769〜770 の上の段全体がラテン語訳。ギリシア語はない。p. 769 の per virginalem obedientiam の後には句読点がなく、少し広い空きの後に大文字の Adhuc が続く（画像 0817 を原寸で見た）。
+- ギリシア語の出典（後の著作家の引用）：
+  - 5.1.1 の Τῷ ἰδίῳ οὖν αἵματι … と 5.1.2 の Οὐ γὰρ δοκήσει ταῦτα …：Stieren p. 714 注 6 によれば、テオドレトスの『対話』（『エラニステス』）が残す。前者は第三対話 p. 155、後者は第二対話 p. 87（Stieren が使った版のページ）。Harvey の欄外は、前者に Theod. Dial. III. Ἀπαθής. Schultz. IV. 232.、後者に Theod. Dial. II. Ἀσύγχυτος. Schultz. IV. 129.（Hv. II p. 315、Hv. II 画像 0326）。
+  - 5.2.2〜3 の Ἐπειδὴ μέλη αὐτοῦ ἐσμέν … μήτε ἑαυτοὺς ἀγνοοῦντες;：Stieren p. 717 注 7（Grabe の注）によれば、ここと続く二つの章のギリシア語は、ダマスコスのヨアンネスの Parallela の写本から Halloix が取り出し、『エイレナイオス伝』p. 488 以下に刊行した。注 8 によれば、τὸ ἀπὸ τῆς κτίσεως ποτήριον からパウロの言葉の終わり（ἐκ τῆς σαρκὸς αὐτοῦ καὶ ἐκ τῶν ὀστέων αὐτοῦ）までは Parallela の別の箇所にも引かれ、Halloix が p. 501 に載せた。Grabe はこれによって一つ目の引用を補い、直した（St. p. 718 注 a–d）。注 b は、二つ目の引用を Parallela の Θ の部の 8 項とする。Harvey の欄外は Ex Parall. Joh. Damasc. ed. Halloix. v. Ir.（Hv. II p. 319、画像 0330）。
+  - 5.16.2 の Ἐν τοῖς πρόσθεν χρόνοις …：Halloix が Parallela から取り出し、『エイレナイオス伝』p. 480 に刊行した（St. p. 761 注 6）。Harvey の欄外は E Parall. J. Damasc. Hall. v. Iren. p. 480.（Hv. II p. 368、画像 0379）。
+  - 5.16.3 の Ἐν μὲν γὰρ τῷ πρώτῳ Ἀδὰμ …：これと 5.17.1 の初めのギリシア語も、Halloix が Parallela から取り出した（St. p. 762 注 5）。Harvey の欄外は J. Damasc. Ibid.（Hv. II p. 368）。
+  - 5.0、5.1.3、5.19.1 にはギリシア語の引用がない（Stieren と Harvey の紙面と注）。
+  - F1K の tlg1447 は Harvey I（第一巻）だけの電子化なので、この範囲のギリシア語は入っていない。テオドレトス、ダマスコスのヨアンネス、Halloix の本文そのものは見ていない（「未確認」）。
+- シリア語の断片：Harvey II の断片の部に、5.2.2 の Vani autem omnimodo … communicatio corporis eius est. のシリア語の断片 XIX がある（Hv. II p. 447、l. 37505–37542、注 l. 37552–37574、画像 0458。欄外は V. ii. 1. と II. 318.）。Harvey の注によれば、写本 H の fol. 60 からで、「リヨンの監督聖エイレナイオスの、異端反駁第五巻から」という見出しが付く。Harvey は本文 p. 318 でも、この範囲を * で囲んでシリア語の断片の範囲とする（Hv. II p. 318 注 1、画像 0329）。断片の部の XX〜XXIV（XXI はアルメニア語）は、本文を見たかぎりこの範囲の外。
+- Harvey 1857 II：
+  - 5.0 は PRAEFATIO（l. 26695）、pp. 313〜314（Hv. II 画像 0324〜0325、本文は l. 26698–26774）。
+  - 5.1 は CAP. I（l. 26777）、pp. 314〜317（画像 0325〜0328、本文は l. 26786–26971）。節の対応（欄外の「LIB. V. … MASS. V. …」による）：Hv. V.i.1 ＝ 5.1.1 の前半（Non enim aliter から … neque antiqua plasmatio Dei deperiret. まで。l. 26786）、i.2 ＝ 5.1.1 の後半（Suo igitur sanguine から。ギリシア語 l. 26848、ラテン語 l. 26870）と 5.1.2（Harvey は Vani enim sunt で節を改めない。l. 26877）、i.3 ＝ 5.1.3（l. 26927）。
+  - 5.2 は CAP. II（l. 26974）、pp. 317〜324（画像 0328〜0335）。Hv. V.ii.1 ＝ 5.2.1 と 5.2.2 の前半（… remissionem peccatorum. まで。Harvey は Vani autem omnimodo で節を改めない。l. 27019–27143）、ii.2 ＝ 5.2.2 の後半（Et quoniam membra から。ギリシア語 l. 27144、ラテン語 l. 27161）と 5.2.3 の前半（Quando ergo から … de pane, quod est corpus eius, augetur. まで）、ii.3 ＝ 5.2.3 の後半（Et quemadmodum lignum vitis から。ギリシア語 l. 27472、ラテン語 l. 27484、終わりは l. 27625）。ギリシア語は節の頭にまとめて置き、ラテン語を下に続ける。
+  - 5.16.2〜3 は CAP. XVI、pp. 367〜369（画像 0378〜0380）。Hv. V.xvi.1 ＝ 5.16.1〜2（Tunc autem hoc Verbum は l. 31167 で、節を改めない。ギリシア語 l. 31217–31226、ラテン語 l. 31227–31234）、xvi.2 ＝ 5.16.3（l. 31235–31299。ギリシア語 l. 31249–31293）。
+  - 5.19.1 は CAP. XIX（l. 31739）の Hv. V.xix.1（l. 31747–31816）、pp. 375〜376（画像 0386〜0387）。
+  - ページの見出しの行：p. 314 l. 26763、p. 315 l. 26831、p. 316 l. 26894、p. 317 l. 26956、p. 318 l. 27016、p. 319 l. 27136、p. 320 l. 27232、p. 321 l. 27342、p. 322 l. 27464、p. 323 l. 27546、p. 324 l. 27609、p. 367 l. 31134、p. 368 l. 31214、p. 369 l. 31286、p. 375 l. 31710、p. 376 l. 31797（p. 313 は見出しの行がなく、題は l. 26690）。
+  - Harvey の章の頭のイタリックの要約と柱は Harvey が書いたもので、本文ではない（たとえば CAP. XIX の要約の … B. Virgo Maria, illius advocata、p. 376 の柱 MARIA EVAE PATRONA）。
+- ANF 第 1 巻の範囲（行の確認だけに使った）：序 l. 50426–50468（注 4449 を含む）、1 章 l. 50471（1 節 l. 50476、2 節 l. 50513、3 節 l. 50534）、2 章 l. 50582（1 節 l. 50587、2 節 l. 50606、3 節 l. 50624。3 章は l. 50691）、16 章 l. 52175（1 節 l. 52179、2 節 l. 52199、3 節 l. 52211。17 章は l. 52235）、19 章 l. 52491（1 節 l. 52495。2 節は l. 52519、20 章は l. 52556）。
+- この節で足した略号：
+  - Theodoret Dial.：テオドレトス『エラニステス』（三つの対話）。Stieren は対話の番号とページ、Harvey は対話の題（Ἀσύγχυτος、Ἀπαθής）と Schulze の版（「Schultz.」）の巻とページで引く。
+  - Augustin. c. Iul.：アウグスティヌス『ユリアヌス駁論』第一巻。5.19.1 を引く（St. p. 769 注 5、6、8、p. 770 注 1、2）。
+  - Int.：Stieren と Harvey の注で、古いラテン語訳の訳者（Interpres）のこと。「Int. legit …」は、訳者がそのギリシア語を読んだらしい、の意味。
+  - Cotelerius：J. B. Cotelier『ギリシア教会の記念物』（Monumenta ecclesiae graecae）。5.2.3 の προχαρίζεται の注に出る（St. p. 718 注 h）。
+
+### 5.0.1 小さな異読（dilectissime、ex ratione、proponuntur、quae a Domino、ex reliquis doctrinae、elaborantibus、transvertantur、Oportebit、et te et omnes lecturos）
+- 底本（Stieren）：Traductis, dilectissime, omnibus haereticis in quatuor libris, qui sunt tibi ante hunc a nobis editi … aliquid autem ex ratione, universis ostensionibus procedente; … quaestionibusque omnibus solutis, quae ab haereticis nobis proponuntur; et apostolorum doctrina explanata et manifestatis pluribus, quae a Domino per parabolas et dicta sunt et facta: … ex reliquis doctrinae Domini nostri et ex apostolicis epistolis conabimur ostensiones facere … et omni modo elaborantibus secundum nostram virtutem … ut nullo modo transvertantur ab his … Oportebit et te et omnes lecturos hanc scripturam impensius legere …
+- ほかの読み：dilectissime は Grabe と Massuet が Clarom.、Voss. によって書いた読みで、ほかは diligentissime（St. p. 712 注 1。Harvey は diligentissime を Ar. の読みとする。Hv. II p. 313 注 1）。tibi は Arund. にない（注 2）。a nobis の a は Voss. にない（注 3）。ipsorum は Voss. で eorum（注 4）。aliquid quidem — aliquid autem は partim quidem — partim autem の意味（Grabe。注 5）。ex ratione は Clarom.、Voss.、Vet.、Grabe、Massuet の読みで、ほかは ex の代わりに et を持つか、両方を続ける（注 6）。praeconaverunt は Erasm.、Gall.、Feuard. で praeconizaverunt（注 7）。bene は Voss. にない（注 8）。proponuntur はすべての写本の読みで、ほかの刊本は proponebantur。Grabe の版は proponuntur の前の nobis を誤って落とした（注 9）。quae a Domino は Vet.、Voss. で quemadmodum、Voss. は a Domino を欠く（注 10）。ex reliquis doctrinae は Massuet が Clarom.、Arund. によって書いた読みで（Stieren は Voss. を足す。doctrinae の語は Merc. I も同じ）、ほかの刊本は et（Grabe は ex）reliquis doctrinis（p. 713 注 1。Harvey も doctrinae を Clerm.、Ar.、Merc. I の読みとする。Hv. II p. 313 注 6）。elaborantibus はすべての写本の読みで、刊本は elaboramus（p. 713 注 2）。transvertantur は Voss. で誤って transvertamus（注 3）。Oportebit は Clarom. で oportebat（注 4）。et te et omnes lecturos は Massuet が Clarom. によって書いた読みで、Vet.、Voss.、Arund.、Merc. II は et te et omnes lectores、ほかの刊本は autem te, omnesque lecturos（注 5）。Harvey は autem te, omnesque lecturos を取る（Hv. II p. 314、l. 26766）。accipies と abiiciens は Ar. で accipis、abjicies（Hv. II p. 314 注 1）。Harvey は ex ratione universis ostensionibus procedente を διὰ λόγου ταῖς καθολικαῖς ἀποδείξεσι προβαίνοντος と戻す（Hv. II p. 313 注 4）。
+- 採る校訂者：Stieren。Harvey は Oportebit autem te, omnesque lecturos が違う。
+- 読者への影響：小 — どの読みでも文意は同じ。ex ratione universis ostensionibus procedente は、読みにかかわらず分かりにくい句（ANF も注 4449 で「非常に分かりにくい」とする。ANF l. 50467–50468）。
+- 訳での扱い：訳注は付けない。dilectissime は本の決まりの「愛する友よ」。ex ratione … procedente の取り方（すべての証明に通じる理屈によって、など）を `// ` メモに書く。
+- 確かめた資料：St. pp. 712–713 本文・注（画像 0760、0761、St. l. 80805–80891、80820–80863、80920–80929）。Hv. II pp. 313–314 本文・注（Hv. II l. 26698–26774、画像 0324、0325）。ANF l. 50467–50468。
+
+### 5.0.1 in hoc libro quinto operis universi, quod est de traductione et eversione falso cognominatae agnitionis（語順と quod／qui）
+- 底本（Stieren）：in hoc libro quinto operis universi, quod est de traductione et eversione falso cognominatae agnitionis, ex reliquis doctrinae Domini nostri …
+- ほかの読み：Stieren は Grabe、Massuet とともに、この語順に直した。写本では、写字生の不注意から libro quinto, qui est de traductione operis universi et eversione の順に並ぶ（St. p. 712 注 11）。編者たちは、第四巻の序の初めにほとんど同じ言い方（hunc quartum librum transmittens tibi operis, quod est de detectione et eversione）があることを挙げる（同）。Harvey も operis universi を前に出すが、関係詞は qui（operis universi, qui est de traductione …）で、写本は operis universi を traductione の後に置き、Clerm. は qui est de traductione op. un.、Ar. は quod est d. t. o. u. と読む、と注記する（Hv. II p. 313 本文・注 5、画像 0324）。
+- 文の形：quod なら、全体の著作（opus）が「…の暴露と反駁について」のものになる。qui なら、第五巻（liber）がそうなる。
+- 採る校訂者：Stieren（quod）、Harvey（qui）。語順はどちらも operis universi を前に出す。
+- 読者への影響：小 — どの形でも、全体の書名を挙げて「その第五巻で」と言う意味は変わらない。
+- 訳での扱い：訳注は付けない。traductio et eversio は訳語表の「暴露と反駁」、falso cognominata agnitio は README の原題の訳「偽って名づけられた知識」に揃える。写本の語順と Harvey の qui は `// ` メモに書く。
+- 確かめた資料：St. pp. 712–713 本文・注 11（画像 0760、0761、St. l. 80817、80872–80873、80854–80863）。Hv. II p. 313 本文・注 5（Hv. II l. 26710–26711、26740–26742、画像 0324）。
+
+### 5.0.1 (quoniam et in administratione sermonis positi sumus) と velut stercora abiiciens
+- 底本（Stieren）：quemadmodum postulasti a nobis, obedientibus tuo praecepto, (quoniam et in administratione sermonis positi sumus) et omni modo elaborantibus … illorum quidem sententias per caelestem fidem velut stercora abiiciens;
+- ほかの読み：異読の報告はない。丸括弧は Stieren の印刷で、Harvey は括弧を使わず quoniam … positi sumus を読点で挟む（Hv. II p. 313）。Harvey はこの句を τῇ τοῦ λόγου διακονίᾳ καθιστάμεθα と戻す（注 7）。
+- 聖書の形：Stieren と Harvey の欄外には出典がない。in administratione sermonis は使徒行伝六・四（口語訳「御言のご用」）を、velut stercora abiiciens はピリピ三・八（口語訳「それらのものを、ふん土のように思っている」）を思わせるが、どちらも資料の欄外と注に挙がらない。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。sermo を「言」（訳語表の sermo の決まり）と取るか「みことば」と取るかを訳出で決め、`// ` メモに書く。二つの暗示は、思わせるだけなら本の AGENTS.md の決まりで `// ` メモに書く。括弧は本の決まりで扱う。
+- 確かめた資料：St. p. 713 本文（画像 0761、St. l. 80875–80888）。Hv. II pp. 313–314 本文・注 7（Hv. II l. 26714–26715、26747–26748、26770–26771、画像 0324、0325）。口語訳 Acts.6.4、Phil.3.8。
+
+### 5.0.1 factus est quod sumus nos, uti nos perficeret esse quod est ipse
+- 底本（Stieren）：solum autem verum et firmum magistrum sequens, Verbum Dei, Iesum Christum Dominum nostrum, qui propter immensam suam dilectionem factus est quod sumus nos, uti nos perficeret esse quod est ipse.
+- ほかの読み：Stieren に注はない。Harvey は … uti nos perficeret esse quod et ipse.（est の代わりに et。注はない。Hv. II p. 314、l. 26774、画像 0325）。
+- 採る校訂者：Stieren（quod est ipse）、Harvey（quod et ipse）。
+- 読者への影響：小 — 「ご自身がそうであるものに」と「ご自身もそうであるものに」で、意味は同じ。
+- 訳での扱い：訳注は付けない。factus est quod sumus nos と esse quod est ipse の対を、訳でも同じ形にする。御子の動作は尊敬語。Harvey の et は `// ` メモに書く。
+- 確かめた資料：St. p. 713 本文（画像 0761、St. l. 80888–80891）。Hv. II p. 314（Hv. II l. 26770–26774、画像 0325）。
+
+### 5.1.1 Quis enim alius cognovit sensum Domini? …（ローマ一一・三四）と factores autem sermonum（ヤコブ一・二二）
+- 底本（Stieren）：Neque enim alius poterat enarrare nobis quae sunt Patris, nisi proprium ipsius Verbum. Quis enim alius cognovit sensum Domini? aut quis alius eius consiliarius factus est? Neque rursus nos aliter discere poteramus, nisi magistrum nostrum videntes et per auditum nostrum vocem eius percipientes: uti imitatores quidem operum, factores autem sermonum eius facti, communionem habeamus cum ipso;
+- ほかの読み：Stieren に注はない。nos（Non enim aliter nos discere poteramus）と nostrum（per auditum nostrum）は Clarom. にない（Hv. II p. 314 注 2）。
+- 聖書の形：Stieren と Harvey の欄外は Rom. XI. 34。七十人訳イザヤ四〇・一三は τίς ἔγνω νοῦν Κυρίου, καὶ τίς αὐτοῦ σύμβουλος ἐγένετο（Swete III l. 17682–17685）。底本は二つの問いに alius（ほかのだれが）を足し、前の文の「御子のほかにはだれも」につなげる。口語訳のローマ一一・三四は「だれが、主の心を知っていたか。だれが、主の計画にあずかったか」。factores autem sermonum について、Harvey の欄外は Jac. i. 22（口語訳「御言を行う人になりなさい」）。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。聖句は alius を残して訳し（「ほかのだれが」）、口語訳の語（「主の心」）を借りられるだけ借りて本文に出典を置く。consiliarius factus est（相談役となった）と口語訳の「計画にあずかった」の違いを `// ` メモに書く。ヤコブ一・二二は暗示として扱う。enarrare は訳語表の「あらわす」（4.20.7）。
+- 確かめた資料：St. p. 713 本文・欄外（画像 0761、St. l. 80897–80909）。Hv. II p. 314 本文・欄外・注 2（Hv. II l. 26786–26794、26809、画像 0325）。Swete III l. 17682–17685。口語訳 Rom.11.34、Isa.40.13、Jas.1.22。
+
+### 5.1.1 Qui nunc nuper facti sumus … accepimus の区切りと initium facturae（ヤコブ一・一八）、accepimus、omnibus
+- 底本（Stieren）：… communionem habeamus cum ipso; a perfecto et eo, qui est ante omnem conditionem, augmentum accipientes. Qui nunc nuper facti sumus, a solo optimo et bono et ab eo, qui habet donationem incorruptibilitatis, in eam, quae est ad eum, similitudinem facti, praedestinati quidem ut essemus, qui nondum eramus, secundum praescientiam Patris, facti autem initium facturae, accepimus in praecognitis temporibus secundum ministrationem Verbi, qui est perfectus in omnibus: quoniam Verbum potens et homo verus, sanguine suo rationabiliter redimens nos, redemtionem semetipsum dedit pro his, qui in captivitatem ducti sunt.
+- ほかの読み：accepimus は Voss. の読みで、Erasm.、Gall.、Feuard. は誤って accipiemus（St. p. 714 注 1）。omnibus は Vet.、Voss. で hominibus（注 2）。Harvey は区切りが違い、augmentum accipientes, qui nunc nuper facti sumus a solo optimo et bono, et ab eo qui habet donationem incorruptibilitatis, in eam quae est ad eum similitudinem facti, (praedestinati quidem, ut essemus qui nondum eramus, secundum praescientiam Patris,) facti autem initium facturae, accepimus … と刷る（Hv. II pp. 314–315）。Harvey の注によれば、a perfecto … bono と et ab eo … facti が並び、括弧が文の組み立てを中断し、facti … facturae で受け直して accepimus に続く。Grabe は bono で、Massuet は accipientes で文を切ったが、それでは意味が見えなくなる、と Harvey はいう（Hv. II p. 314 注 5）。nunc nuper は単に ἄρτι（注 3）、a solo optimo et bono は ἀπὸ μόνου τοῦ χρηστοῦ καὶ ἀγαθοῦ（注 4）。initium facturae を Grabe は ἀπαρχὴ τοῦ κτίσματος と戻し、ヤコブ一・一八を指すとする（注 5）。Harvey の欄外も Jac. i. 18。
+- 文の形：Stieren（Massuet の区切り）では、Qui nunc nuper facti sumus から新しい文が始まる。主語の「わたしたち」に facti、praedestinati、facti が掛かり、主文の動詞は accepimus で、その目的語は書かれていない。
+- 聖書の形：口語訳のヤコブ一・一八は「被造物の初穂とするために」。底本の initium facturae は「造られたものの初め」。
+- 採る校訂者：Stieren（Massuet の区切り）。Harvey は Grabe とも Massuet とも違う区切りで、括弧を置く。
+- 読者への影響：中 — 区切りで、「完全なかたから成長を受ける」ことと「最近造られた」ことの係り方が変わる。語はどの区切りでも同じ。
+- 訳での扱い：訳注は付けない。底本の区切りで訳す。accepimus の目的語が書かれていないことと、Harvey の区切りを `// ` メモに書く。initium facturae に口語訳の「被造物の初穂」を借りるか、ヤコブ一・一八を本文の出典にするか `// ` メモにするかを訳出で決める。similitudo の訳語は 5.16.2 の imago と similitudo の項を見よ。
+- 確かめた資料：St. pp. 713–714 本文・注 1、2（画像 0761、0762、St. l. 80909–80939、80991–80996）。Hv. II pp. 314–315 本文・欄外・注 3–5（Hv. II l. 26794–26822、画像 0325、0326）。口語訳 Jas.1.18。
+
+### 5.1.1 小さな異読（faciens の前の nos、ab ea、Dei、Clerm. の utique quod）と secundum suadelam
+- 底本（Stieren）：Et quoniam iniuste dominabatur nobis apostasia, et quum natura essemus Dei omnipotentis, alienavit nos contra naturam, suos proprios faciens discipulos; potens in omnibus Dei Verbum, et non deficiens in sua iustitia, iuste etiam adversus ipsam conversus est apostasiam, ea quae sunt sua redimens ab ea: non cum vi, quemadmodum illa initio dominabatur nostri, ea quae non erant sua insatiabiliter rapiens; sed secundum suadelam, quemadmodum decebat Deum suadentem, et non vim inferentem, accipere quae vellet, ut neque quod est iustum confringeretur, neque antiqua plasmatio Dei deperiret.
+- ほかの読み：faciens の前に、Grabe は Arund. から nos を入れたが、Stieren は Massuet とともに、もっともよい写本にないので除いた（St. p. 714 注 3）。Harvey は nos を本文に残す（Ar. にあり、ほかの写本にないと注記する。Hv. II p. 315 本文・注 1）。ab ea は Gall.、Feuard. で ab eo（注 4）。plasmatio Dei の Dei は Voss. にない（注 5）。Clerm. は utique quod … ne confringeretur と読み、Ar. は vellet, ut の代わりに veluti（Hv. II p. 315 注 3）。accipere quae vellet を Harvey は καταλαβεῖν ἃ θέλῃ と戻す（注 2）。
+- 文の形：illa（離反、apostasia）が力ずくで支配したのに対し、神の言は「説得によって」（secundum suadelam）取り戻した、という対比。apostasia が人のように振る舞う（dominabatur、alienavit、rapiens）。
+- 採る校訂者：Stieren。Harvey は nos を入れる。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。apostasia は訳語表の「離反」で、主語として分かるように訳す。御子（Verbum）の動作は尊敬語にし、apostasia には使わない。nos の有無と Clerm. の読みは `// ` メモに書いてよい。
+- 確かめた資料：St. p. 714 本文・注 3–5（画像 0762、St. l. 80939–80948、80998–81005）。Hv. II p. 315 本文・注 1–3（Hv. II l. 26834–26845、26885–26891、画像 0326）。
+
+### 5.1.1 のギリシア語（テオドレトス）Τῷ ἰδίῳ οὖν αἵματι … と pro nostra anima、redimente
+- 底本（Stieren）：Suo igitur sanguine redimente nos Domino, et dante animam suam pro nostra anima et carnem suam pro nostris carnibus,
+- ギリシア語（St. p. 714 の左の段）：Τῷ ἰδίῳ οὖν αἵματι λυτρωσαμένου ἡμᾶς τοῦ Κυρίου, καὶ δόντος τὴν ψυχὴν ὑπὲρ τῶν ἡμετέρων ψυχῶν καὶ τὴν σάρκα τὴν ἑαυτοῦ ἀντὶ τῶν ἡμετέρων σαρκῶν,。出典は上の紙面のメモのとおり（テオドレトス第三対話）。引用はここで切れ、続く et effundente Spiritum Patris … perierunt omnes haereticorum doctrinae. に当たるギリシア語はない（Harvey は σαρκῶν の後に点線を置く。Hv. II p. 315）。
+- 違い：ラテン語の pro nostra anima は単数、ギリシア語の ὑπὲρ τῶν ἡμετέρων ψυχῶν は複数。Stieren の注は「Secundum Int. pro nostris animabus」と刷る（St. p. 714 注 7。画像 0762 を原寸で見た）。ギリシア語は魂に ὑπέρ、肉に ἀντί と前置詞を変えるが、ラテン語はどちらも pro。ギリシア語の λυτρωσαμένου はアオリストの分詞で、ラテン語は redimente（現在分詞）。Ar. は redemit（Hv. II p. 315 注 4）。
+- 採る校訂者：Stieren と Harvey は、ラテン語とギリシア語を両方載せる。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。底本のラテン語で訳す（「わたしたちの魂のために」）。ギリシア語の複数と、前置詞の違いは `// ` メモに書く。この奪格独立句は主文の perierunt omnes haereticorum doctrinae まで長く続くので、本の AGENTS.md の決まり（奪格独立句を別の文に出すときは主文とのつながりを示す。神の動作を並べるときは連用形にも尊敬語）で扱う。
+- 確かめた資料：St. p. 714 本文・ギリシア語・注 6、7（画像 0762、St. l. 80949–80969、81007–81016）。Hv. II p. 315 ギリシア語・欄外・注 4（Hv. II l. 26848–26876、26885、画像 0326）。
+
+### 5.1.1 hominis／hominum、ad eum／ad Deum、deponente … imponente
+- 底本（Stieren）：et effundente Spiritum Patris in adunitionem et communionem Dei et hominis, ad homines quidem deponente Deum per Spiritum, ad Deum autem rursus imponente hominem per suam incarnationem, et firme et vere in adventu suo donante nobis incorruptelam, per communionem quae est ad eum, perierunt omnes haereticorum doctrinae.
+- ほかの読み：hominis は Stieren が Massuet とともに Voss. によって書いた読みで、Clarom. もいつものように Voss. と同じだろうという。ほかは hominum（St. p. 714 注 8。Harvey は hominis を Cl.、Ar.、Voss.、hominum を Grabe とする。Hv. II p. 315 注 5）。ad eum は Vet.、Voss.、Massuet の読みで、ほかの刊本は ad Deum（注 9）。Harvey は ad Deum を取り、Ar. の読みで、ほかは eum とする（Hv. II p. 315 本文・注 6）。deponente … imponente を Harvey は καταθέντος … ἀνατιθέντος と戻す（注 5）。
+- 採る校訂者：Stieren（hominis、ad eum）、Harvey（hominis、ad Deum）。
+- 読者への影響：小 — eum も神（または御子）を指す。
+- 訳での扱い：訳注は付けない。communio は訳語表の「交わり」、incorruptela は「朽ちないもの」。adunitio の訳語は訳出で決める。ad eum を「神との」とするか「このかたとの」とするかは訳出で決め、Harvey の ad Deum を `// ` メモに書く。
+- 確かめた資料：St. p. 714 本文・注 8、9（画像 0762、St. l. 80964–80969、81018–81024）。Hv. II p. 315 本文・注 5、6（Hv. II l. 26870–26877、26886–26891、画像 0326）。
+
+### 5.1.2 のギリシア語（テオドレトス）と、ラテン語との違いの全体
+- 底本（Stieren）：5.1.2 の Non enim putative haec, sed in substantia veritatis fiebant. から … et reprobent plasmationem Dei. まで（初めの Vani enim sunt qui putative dicunt eum apparuisse. にはギリシア語がない）。
+- ギリシア語：Οὐ γὰρ δοκήσει ταῦτα, ἀλλ' ἐν ὑποστάσει ἀληθείας ἐγίνετο. … Μάταιοι οὖν οἱ ἀπὸ Βαλεντίνου, τοῦτο δογματίζοντες, ἵνα ἐκβάλωσι τὴν ζωὴν τῆς σαρκός.（St. pp. 714–715 の左の段。出典は上の紙面のメモのとおり、テオドレトス第二対話）
+- 違い：
+  - id, quod futurum erat, per visionem prophetantes：ギリシア語は τὸ μέλλον ἔσεσθαι δι' ὄψεως προφητεύοντες。Clarom. と Ottobon. は futurus erat（「来ることになっていたかたを」）と読み、エラスムスの 1526 年・1528 年の版の余白にもこの読みが書かれているが、ギリシア語がこれに反する（St. p. 715 注 2）。Ar. は ad quod futurus（Hv. II p. 316 注 1）。
+  - veritas quaedam：ギリシア語は ἀλήθειά τις。Gallasius は、訳者は veritas ulla（何の真実も）と訳すべきだったとする。Voss. は quaedam を欠く（St. p. 715 注 1）。
+  - per quam nos redemit：ギリシア語は δι' ὧν ἡμᾶς ἐξηγοράσατο（複数。肉と血によって）で、Stieren は「ギリシア語によれば per quae」と注記する（注 4）。Neque enim esset の enim は Voss. にない（注 3）。
+  - uti excludant salutem carnis, et reprobent plasmationem Dei：ギリシア語は ἵνα ἐκβάλωσι τὴν ζωὴν τῆς σαρκός（肉のいのちを締め出すために）だけ。ラテン語の salutem（救い）はギリシア語の ζωήν（いのち）と違い、et reprobent plasmationem Dei に当たる語はない。Stieren と Harvey はこの違いに注を付けない。
+  - Vani igitur qui a Valentino sunt：Ar. は qui の前に et を入れる（Hv. II p. 316 注 2）。
+- 採る校訂者：Stieren と Harvey は、ラテン語とギリシア語を両方載せる。
+- 読者への影響：小 — 「肉の救い」と「肉のいのち」は、この巻の論旨の中では同じことを言う。et reprobent plasmationem Dei は、ギリシア語の引用が短くしたのか、ラテン語が足したのか分からない。
+- 訳での扱い：訳注は付けない。底本のラテン語で訳す。ギリシア語との違いは `// ` メモに書く。per quam は先行詞 carnem に合わせた単数で、意味は「その肉と血によって」なので、そのように訳してよい。
+- 確かめた資料：St. pp. 714–715 本文・ギリシア語・注 1–4（画像 0762、0763、St. l. 80971–80988、81030–81065、81074–81101、81120–81122）。Hv. II pp. 315–316 ギリシア語・欄外・注 1、2（Hv. II l. 26856–26925、26943–26944、画像 0326、0327）。
+
+### 5.1.2 neque, quod erat vere, perseveravit, Spiritus Dei（区切り）
+- 底本（Stieren）：Si autem, quum homo non esset, apparebat homo; neque, quod erat vere, perseveravit, Spiritus Dei, quoniam invisibilis est Spiritus: neque veritas quaedam erat in eo; non enim illud erat quod videbatur.
+- ギリシア語（Stieren の印刷）：Εἰ δὲ μὴ ὢν ἄνθρωπος, ἐφαίνετο ἄνθρωπος, οὔτε ὃ ἦν ἐπ' ἀληθείας, ἔμεινε, πνεῦμα Θεοῦ, ἐπεὶ ἀόρατον τὸ πνεῦμα· οὔτε ἀλήθειά τις ἦν ἐν αὐτῷ, οὐ γὰρ ἦν ἐκεῖνα ἅπερ ἐφαίνετο.
+- ほかの区切り：Harvey は、ラテン語を neque, quod erat vere, perseveravit Spiritus Dei, quoniam invisibilis est Spiritus と、ギリシア語を οὔτε ὃ ἦν ἐπ' ἀληθείας ἔμεινε πνεῦμα Θεοῦ, ἐπεὶ ἀόρατον τὸ πνεῦμα と刷り、perseveravit／ἔμεινε と Spiritus Dei／πνεῦμα Θεοῦ の間に読点を置かない（Hv. II p. 315、l. 26858–26861、26879–26881、画像 0326）。
+- 文の形：Stieren の区切りでは、主語は前の文と同じ「彼」（主）で、「本当にそうであったもの、すなわち神の霊としてとどまらなかった（霊は見えないから）」となる。Harvey の区切りでは、「神の霊が、本当にそうであったものにとどまらなかった」とも読める。どちらも「人でないのに人に見えたのなら」という仮定の帰結。
+- 採る校訂者：Stieren（読点あり）、Harvey（読点なし）。
+- 読者への影響：中 — 区切りで主語が変わる。異読ではない。
+- 訳での扱い：訳注は付けない。底本の区切りで、Spiritus Dei を quod erat vere の言い換えとして訳す。Harvey の区切りは `// ` メモに書く。仮定の帰結の中の主に尊敬語を付けるかは、エイレナイオス自身の仮定なので付ける方向で、訳出で決める。
+- 確かめた資料：St. pp. 714–715 本文・ギリシア語（画像 0762、0763、St. l. 80974–80988、81030–81032、81074–81079）。Hv. II p. 315（画像 0326）。
+
+### 5.1.3 エビオン派（unitionem Dei et hominis per fidem、in veteri generationis fermento、volentes）とルカ一・三五
+- 底本（Stieren）：Vani autem et Ebionaei, unitionem Dei et hominis per fidem non recipientes in suam animam, sed in veteri generationis perseverantes fermento; neque intelligere volentes, quoniam Spiritus sanctus advenit in Mariam, et virtus altissimi obumbravit eam: quapropter et quod generatum est, sanctum est, et filius altissimi Dei Patris omnium, qui operatus est incarnationem eius, et novam ostendit generationem; uti quemadmodum per priorem generationem mortem hereditavimus, sic per generationem hanc hereditaremus vitam.
+- ほかの読み：non recipientes は Voss. で nec recipientes（St. p. 715 注 5）。volentes は Voss. で valentes で、Stieren は「それも悪くない」とする（注 6）。Dei Patris の Dei は Voss. にない（注 7）。hereditaremus は Voss. で haereditemus（p. 716 注 1）。quapropter et の et は Ar. にない（Hv. II p. 316 注 3）。
+- 聖書の形：Harvey の欄外は Luc. i. 35（Stieren には欄外がない）。口語訳のルカ一・三五は「聖霊があなたに臨み、いと高き者の力があなたをおおうでしょう。それゆえに、生れ出る子は聖なるものであり、神の子と、となえられるでしょう」。底本は、天使の言葉（二人称・未来）を、起こったこと（三人称・過去の advenit in Mariam、obumbravit eam、generatum est）として言い、「神の子と、となえられる」の代わりに filius altissimi Dei Patris omnium（万物の父である、いと高き神の子）と言う。
+- 文の形：qui operatus est incarnationem eius, et novam ostendit generationem の qui は、直前の altissimi Dei Patris omnium（父）を受けるのが自然。in veteri generationis … fermento（古い生まれのパン種）は第一コリント五・七の「古いパン種」を思わせるが、資料の欄外にない。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。Ebionaei は名前の表の「エビオン派」（3:11:7）。ルカ一・三五は底本の形で訳し、口語訳の語（「聖霊が…臨み」「いと高き者の力が…おおう」「聖なるもの」）を借りて本文に出典を置き、形の違いを `// ` メモに書く。qui operatus est … は父の動作として尊敬語で訳す。volentes／valentes は `// ` メモに書いてよい。
+- 確かめた資料：St. pp. 715–716 本文・注 5–7、p. 716 注 1（画像 0763、0764、St. l. 81104–81117、81124–81131、81143、81178–81179）。Hv. II p. 316 本文・欄外・注 3（Hv. II l. 26927–26936、画像 0327）。口語訳 Luke.1.35、1Cor.5.7。
+
+### 5.1.3 Reprobant itaque hi commixtionem vini caelestis, et solam aquam saecularem volunt esse
+- 底本（Stieren）：Reprobant itaque hi commixtionem vini caelestis, et solam aquam saecularem volunt esse, non recipientes Deum ad commixtionem suam; perseverantes autem in eo qui victus est, Adam, et proiectus est de paradiso:
+- ほかの読み：solam aquam saecularem は、Massuet が Voss.、Clarom. によって書いた読み。Massuet によれば、両写本は写字生の不注意で a の上の略号の印を落とし、sola aqua saecularem と書く。ほかの刊本は sola aqua saecularis（St. p. 716 注 2）。Harvey は sola aqua saecularis を取り、Ar. は saeculares volentes se non r.（Hv. II p. 316 本文・注 5）。perseverantes は Massuet がすべての写本によって書いた（注 3）。Harvey の注によれば、これは杯に水を混ぜることにかけた言い方で、エビオン派（エピファニオス『薬籠』30・16）と、タティアノスの流れのヒュドロパラスタタイ（アウグスティヌスの言う Aquarii、『異端について』64）は、水だけで聖餐を行った（Hv. II p. 316 注 4）。
+- 文の形：Stieren の読みでは「〔杯を〕この世の水だけのものにしたがる」、Harvey の読みでは「〔彼ら自身が〕この世の水だけであろうとする」。どちらでも、天のぶどう酒（神）が混ざることを受け入れない、という比喩。
+- 採る校訂者：Stieren（solam aquam saecularem）、Harvey（sola aqua saecularis）。
+- 読者への影響：中 — 比喩が聖餐の杯（水とぶどう酒を混ぜる習わし）にかけてあることを知らないと、分かりにくい。どちらの読みでも比喩の意味は同じ。
+- 訳での扱い：訳注は付けない（異読ではなく背景の説明になるため）。底本の読みで訳す。Harvey の読みと、水だけで聖餐を行った人々のことは `// ` メモに書く。commixtio は二か所で同じ語（「混ぜ合わせ」など）にする。
+- 確かめた資料：St. p. 716 本文・注 2、3（画像 0764、St. l. 81143–81146、81181–81189）。Hv. II p. 316 本文・注 4、5（Hv. II l. 26936–26939、26948–26950、画像 0327）。
+
+### 5.1.3 adspiratio vitae、animal rationale、Verbum Patris et Spiritus Dei, adunitus … と第一コリント一五・二二
+- 底本（Stieren）：non contemplantes, quoniam quemadmodum ab initio plasmationis nostrae in Adam ea quae fuit a Deo adspiratio vitae, unita plasmati, animavit hominem, et animal rationale ostendit; sic in fine Verbum Patris et Spiritus Dei, adunitus antiquae substantiae plasmationis Adae, viventem et perfectum effecit hominem, capientem perfectum Patrem: ut quemadmodum in animali omnes mortui sumus, sic in spiritali omnes vivificemur.
+- ほかの読み：adspiratio は Vet.、Voss.、Massuet の読みで、Arund. は spiratio、ほかの刊本と Merc. II は inspiratio（St. p. 716 注 4）。rationale は Vet.、Voss.（Clarom. もおそらく同じ）と Massuet の読みで、ほかは rationabile（注 5）。Harvey は rationabile（Hv. II p. 317、l. 26960）。effecit は Ar. で efficit（Hv. II p. 317 注 1）。
+- 文の形：Verbum Patris et Spiritus Dei は、「父の言と神の霊」（二つの主語）とも読めるが、分詞 adunitus と動詞 effecit は単数。すぐ後で manus Dei（複数）と言い、御子と霊を神の手とする（次の項）ので、二つの主語に取るのが文脈に合う。Stieren と Harvey はこの点に注を付けない。
+- 聖書の形：Harvey の欄外は 1 Cor. xv. 22。口語訳の第一コリント一五・二二は「アダムにあってすべての人が死んでいるのと同じように、キリストにあってすべての人が生かされるのである」。底本は「アダムに」「キリストに」の代わりに in animali（魂の者に）、in spiritali（霊の者に）と言い、一五・四五〜四六の「最初の人アダム」「最後のアダム」「肉のもの」「霊のもの」と重ねる。adspiratio vitae は創世記二・七（口語訳「命の息」、七十人訳 πνοὴν ζωῆς。Swete I l. 1951–1953）。
+- 採る校訂者：Stieren（rationale）、Harvey（rationabile）。
+- 読者への影響：小〜中 — Verbum Patris et Spiritus Dei の取り方で、人を完全にするのが御子だけか、御子と霊かが変わる。
+- 訳での扱い：訳注は付けない。Verbum Patris et Spiritus Dei は二つの主語に取って訳し、adunitus が単数であることと、もう一つの取り方を `// ` メモに書く。animalis／spiritalis は訳語表の「魂の（人）／霊の（かた、人）」（3:22:3）。第一コリント一五・二二は底本の形で訳し、口語訳の語（「すべての人が死んでいる」「生かされる」）を借りる。
+- 確かめた資料：St. p. 716 本文・注 4、5（画像 0764、St. l. 81146–81153、81191–81200）。Hv. II p. 317 本文・欄外・注 1（Hv. II l. 26959–26964、画像 0328）。Swete I l. 1951–1953。口語訳 1Cor.15.22、1Cor.15.45、1Cor.15.46、Gen.2.7。
+
+### 5.1.3 manus Dei、Faciamus hominem …（創世記一・二六）、non ex voluntate carnis …（ヨハネ一・一三）、uti fiat Adam
+- 底本（Stieren）：Non enim effugit aliquando Adam manus Dei, ad quas Pater loquens dicit: Faciamus hominem ad imaginem et similitudinem nostram. Et propter hoc in fine non ex voluntate carnis, neque ex voluntate viri, sed ex placito Patris manus eius vivum perfecerunt hominem, uti fiat Adam secundum imaginem et similitudinem Dei.
+- ほかの読み：Stieren は Grabe の注を引き、神の手は御子と霊で、第四巻 20 章と第五巻 6 章 1 節を比べよ、とする（St. p. 716 注 6）。uti fiat は Clerm. で vivificat（Hv. II p. 317 注 1）。
+- 聖書の形：Stieren の欄外は Gen. I. 26、Harvey の欄外は Gen. i. 26 と Joh. i. 13。口語訳の創世記一・二六は「われわれのかたちに、われわれにかたどって人を造り」、ヨハネ一・一三は「血すじによらず、肉の欲によらず、また、人の欲にもよらず、ただ神によって生れたのである」。底本は「血すじによらず」を欠き、「ただ神によって」の代わりに sed ex placito Patris（父のみこころによって）と言う。信じる者の生まれではなく、御子と霊の手が人を完成させたことに当てる。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。manus は「手」（4.20.1 と同じ）。創世記一・二六は 4.20.1 の訳（口語訳の文言）に揃え、secundum imaginem et similitudinem Dei は 3.18.1、4.38.3〜4 の「神のかたちに、神にかたどった」に揃える。ヨハネ一・一三は口語訳の語を借りて本文に出典を置き、形の違いを `// ` メモに書く。placitum Patris は訳語表の「父のみこころ」（4:20:4）。
+- 確かめた資料：St. p. 716 本文・欄外・注 6（画像 0764、St. l. 81153–81158、81202–81204）。Hv. II p. 317 本文・欄外・注 1（Hv. II l. 26964–26971、26999–27000、画像 0328）。口語訳 Gen.1.26、John.1.13。
+
+### 5.2.2 Vani autem omnimodo … communicatio corporis eius est（シリア語の断片 XIX）と第一コリント一〇・一六
+- 底本（Stieren）：Vani autem omnimodo, qui universam dispositionem Dei contemnunt, et carnis salutem negant et regenerationem eius spernunt, dicentes non eam capacem esse incorruptibilitatis. Si autem non salvetur haec, videlicet nec Dominus sanguine suo redemit nos; neque calix eucharistiae communicatio sanguinis eius est, neque panis quem frangimus, communicatio corporis eius est.
+- ほかの読み：Si autem non salvetur haec は、Stieren が Massuet とともに、三つのもっともよい写本（Feuardent の Vet.、Clarom.、Voss.）によって読む形。ほかの写本と刊本は sic autem secundum haec、Ottobon. は secundum の前に nos を入れる。Stieren は自分の Apparatus を見よとする（St. p. 717 注 3）。Harvey も同じ読みを取り、Arund. と Ottobon. の sic autem nos secundum haec にも元の読みの痕が見え、secundum は大文字の写本で少し崩れた servetur かもしれない、とする（Grabe は nos を不注意に落とした、という。Hv. II p. 318 注 1）。panis は Arund.、Merc. I で panem（St. 注 4。Harvey は Clerm.、Ar.、Merc. I の読みとする。Hv. II p. 318 注 4）。
+- シリア語：Harvey の断片 XIX がこの範囲を残す（上の紙面のメモ）。Harvey の注によれば、シリア語は Dei を欠き（Harvey は自分のラテン語訳で [Dei] と括弧に入れる）、videlicet に当たるシリア語は δηλονότι の意味の語（Hv. II p. 447 注 2、4、画像 0458）。
+- 聖書の形：Harvey の欄外は 1 Cor. x. 16。口語訳の第一コリント一〇・一六は「わたしたちが祝福する祝福の杯、それはキリストの血にあずかることではないか。わたしたちがさくパン、それはキリストのからだにあずかることではないか」。底本は calix eucharistiae（感謝の杯）と言う。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。communicatio は口語訳の「あずかること」を借りる（訳語表の communicatio と同じ）。eucharistia を「聖餐」とするか「感謝」とするかは、5.2.3 と合わせて訳出で決める。dispositio Dei は訳語表の「神のご計画」。シリア語に Dei がないことは `// ` メモに書いてよい。
+- 確かめた資料：St. p. 717 本文・注 3、4（画像 0765、St. l. 81227–81232、81252–81259、81279）。Hv. II p. 318 本文・欄外・注 1、4（Hv. II l. 27019–27037、27047–27055、27122–27123、画像 0329）。Hv. II p. 447 断片 XIX と注（Hv. II l. 37505–37574、画像 0458）。口語訳 1Cor.10.16。
+
+### 5.2.2 qua vere factum est Verbum Dei. Sanguine suo redemit nos（区切り）と In quo habemus redemtionem …（コロサイ一・一四、エペソ一・七）
+- 底本（Stieren）：Sanguis enim non est, nisi a venis et carnibus et a reliqua, quae est secundum hominem, substantia, qua vere factum est Verbum Dei. Sanguine suo redemit nos, quemadmodum et apostolus eius ait: In quo habemus redemtionem, per sanguinem eius, remissionem peccatorum.
+- ほかの読み：qua vere の qua は、Clarom.、Voss.、Merc. I が quam で、Stieren は誤りとする。Massuet は、qua は quae の代わりで、意味は「神の言はまことに人の実体となった」だ、と文脈から言う（St. p. 717 注 5）。factum est の est は、Massuet が Vet.、Clarom.、Voss. によって足し、区切りを変えて Sanguine suo redemit nos から新しい文を始めた。Massuet が引く学識ある修道士の説明では、こうすると意味がはっきりし、使徒の言葉で証明する論の最初の部分になる（注 6）。Harvey は est を Ar. に従って除き（Vet.、Clerm.、Voss. は est を残す、と注記する）、qua vere factum Verbum Dei, sanguine suo redemit nos と一つの文に読む（「神の言がまことにその実体となって、その血でわたしたちをあがなった」の意味）。Grabe の quae は聖書的（ヨハネ一・一四）だが、qua は ᾗ に当たり、よい意味になり、写本の支持もある、と Harvey はいう（Hv. II pp. 318–319 本文・注 5、* の注、画像 0329、0330）。Harvey は remissionem の前に et を置く。Ar. は et の代わりに in と書き、Grabe は et を除いた。Harvey の注によれば、Syr. はこの et を表すが、per sanguinem eius（διὰ τοῦ αἵματος αὐτοῦ）を欠く（Hv. II p. 319 注 1）。Stieren は et を持たず、注もない。
+- 聖書の形：Stieren と Harvey の欄外は Coloss. I. 14。口語訳のコロサイ一・一四は「わたしたちは、この御子によってあがない、すなわち、罪のゆるしを受けているのである」で、「血によって」がない。per sanguinem eius を含む形は、エペソ一・七（口語訳「その血によるあがない、すなわち、罪過のゆるしを受けたのである」）に近い。
+- 採る校訂者：Stieren（est を入れて文を切る）、Harvey（est を除いて一つの文に読む）。
+- 読者への影響：中 — 区切りで、「血は人の実体からしか出ない。神の言はまことにその実体となった」（Stieren）と、「神の言はまことにその実体となって、その血でわたしたちをあがなった」（Harvey）に分かれる。どちらでも、あがないの血は本当の肉の血だ、という論旨は同じ。
+- 訳での扱い：訳注は付けない。底本の区切りで訳し、Harvey の区切りを `// ` メモに書く。聖句は、エペソ一・七の口語訳の語（「その血によるあがない」「ゆるし」）を借り、出典は底本の欄外どおりコロサイ一・一四とし、口語訳のコロサイ一・一四に「血によって」がないこととエペソ一・七に近いことを `// ` メモに書く。
+- 確かめた資料：St. p. 717 本文・欄外・注 5、6（画像 0765、St. l. 81233–81237、81280–81303）。Hv. II pp. 318–319 本文・欄外・注 5、*、1（Hv. II l. 27040–27044、27125–27143、27169–27175、画像 0329、0330）。口語訳 Col.1.14、Eph.1.7、John.1.14。
+
+### 5.2.2〜3 のギリシア語（ダマスコスのヨアンネスの Parallela）と、ラテン語との違いの全体
+- 底本（Stieren）：5.2.2 の Et quoniam membra eius sumus から 5.2.3 の終わり（… neque nosmetipsos ignorantes?）まで。
+- ギリシア語：出典は上の紙面のメモのとおり（Parallela の二か所。Grabe が二つ目で一つ目を補った）。Stieren のギリシア語への注（St. p. 718 注 a–f、画像 0766。注 f の終わりと g–i は p. 719 の注の上、画像 0767）：
+  - a：ἐξ οὗ τὸ ἡμέτερον δεύει αἷμα は一つ目の引用に欠け、Grabe が二つ目から補った。
+  - b：ἐκ τούτων δὲ αὔξει は Halloix p. 501 の二つ目の引用（Θ の部の 8 項）の読みで、p. 488 の一つ目の ἐκ τούτου τε よりよい（Grabe）。
+  - c：ἐν τῇ πρὸς Ἐφεσίους ἐπιστολῇ は一つ目の引用（Halloix p. 489）に欠け、ラテン語にあるので、Grabe が二つ目から補った。
+  - d：τοῦ σώματος の後に、ラテン語と聖書の本文によって αὐτοῦ を足せ。二つ目の引用は誤って καὶ τοῦ αἵματος を足す（Grabe）。
+  - e：ἐκ τῆς σαρκὸς αὐτοῦ καὶ ἐκ τῶν ὀστέων αὐτοῦ について（5.2.3 のエペソ五・三〇の項）。
+  - f：Θεοῦ καὶ πατρός の καί をラテン語は知らず、除くべきに見える。
+  - g：ὄντως を訳者は τούτῳ と読んだ（ラテン語の huic）。
+  - h：προχαρίζεται は、Cotelerius が『ギリシア教会の記念物』III p. 643 で言うとおり、訳者に従って προῖκα χαρίζεται と読むべき（ラテン語の gratuito donat）。
+  - i：ἀπαρθῶμεν は ἐπαρθῶμεν と読め。
+  - p. 720 のギリシア語への注：ἀνθρώπων を訳者は ἀνθρώπου と読んだ（注 1）。τὴν εἰς τὴν γῆν … を訳者は γίνεσθαι を足して読んだ（注 2）。ラテン語の et quemadmodum には「Int. は et を知らない」と注記する（注 4）。
+  - Harvey は Grabe の ἐπαρθῶμεν を本文に取り（Hv. II p. 323 注 2）、Stieren が ὡς ἐστιν の前に καί を入れるのを根拠がないとする（注 3）。
+- 違いの主なもの（以下の項目で節の順に書く）：
+  - 5.2.2：suum sanguinem qui effusus est（αἷμα ἴδιον ὡμολόγησεν）、auget（δεύει）、qui est creatura（τὸ ἀπὸ τῆς κτίσεως）。
+  - 5.2.3：fit eucharistia sanguinis et corporis Christi（γίνεται ἡ εὐχαριστία σῶμα Χριστοῦ）、et membrum eius est、quae（ἥτις）、sapientiam（σοφίας τοῦ Θεοῦ）、hominis（ἀνθρώπων）、Dei Patris（Θεοῦ καὶ πατρός）、huic（ὄντως）、circumdat（περιποιεῖ）、gratuito donat（προχαρίζεται）、fieri in nobis resolutionem（τὴν εἰς τὴν γῆν ἡμῶν ἀνάλυσιν）、in omnibus（ἐν πᾶσιν εἰς τὸ μέλλον）。
+- 採る校訂者：Stieren と Harvey は、ラテン語とギリシア語を両方載せる。
+- 読者への影響：中（個々の論点は以下）。
+- 訳での扱い：底本のラテン語訳で訳す。ギリシア語との違いは `// ` メモに書く。訳注は付けない案（5.2.3 の fit eucharistia の項を見よ）。
+- 確かめた資料：St. p. 717 注 7、8（画像 0765、St. l. 81247–81278）、p. 718 ギリシア語・注 a–f（画像 0766、St. l. 81316–81395）、p. 719 注 f–i（画像 0767、St. l. 81457–81468）、p. 720 ギリシア語・注 1、2、4（画像 0768、St. l. 81538–81563、81581–81595）。Hv. II pp. 319–324 ギリシア語・欄外・注（画像 0330–0334）。
+
+### 5.2.2 suum sanguinem qui effusus est（ὡμολόγησεν）、auget（δεύει）、qui est creatura と solem suum oriri faciens et pluens（マタイ五・四五）
+- 底本（Stieren）：Et quoniam membra eius sumus, et per creaturam nutrimur; creaturam autem ipse nobis praestat, solem suum oriri faciens et pluens, quemadmodum vult; eum calicem, qui est creatura, suum sanguinem qui effusus est, ex quo auget nostrum sanguinem; et eum panem, qui est a creatura, suum corpus confirmavit, ex quo nostra auget corpora.
+- ギリシア語：Ἐπειδὴ μέλη αὐτοῦ ἐσμέν, καὶ διὰ τῆς κτίσεως τρεφόμεθα, τὴν δὲ κτίσιν ἡμῖν αὐτὸς παρέχει, τὸν ἥλιον αὐτοῦ ἀνατέλλων, καὶ βρέχων, καθὼς βούλεται, τὸ ἀπὸ τῆς κτίσεως ποτήριον, αἷμα ἴδιον ὡμολόγησεν, ἐξ οὗ τὸ ἡμέτερον δεύει αἷμα, καὶ τὸν ἀπὸ τῆς κτίσεως ἄρτον, ἴδιον σῶμα διεβεβαιώσατο, ἀφ' οὗ τὰ ἡμέτερα αὔξει σώματα.
+- ほかの読み：qui est creatura は、ギリシア語によれば qui est a creatura（Grabe もすでに指摘した。St. p. 717 注 9）。qui effusus est は、Grabe が言うとおり、ギリシア語によって confessus est（言い表した）と読むべきで、第四巻 17 章 5 節の終わり（Eum, qui ex creatura panis est, accepit … Et calicem similiter … suum sanguinem confessus est）と、同じ巻の 33 章 2 節にほとんど同じ言い方がある（注 10）。auget nostrum sanguinem の auget を、Grabe は rigat（潤す）、Massuet は perfundit（注ぎかける）に直すべきだとする（St. p. 719 注 1）。Harvey は、ラテン語にも confessus est が示されており、auget は下の行から不注意に写されたもので rigat の代わり、とする（Hv. II p. 319 注 2、3）。
+- 文の形：底本のままでは、第一の半文（eum calicem … suum sanguinem qui effusus est, ex quo auget nostrum sanguinem）に定動詞がなく、第二の半文の confirmavit が両方を受ける形になる（その杯を…ご自分の流された血と、そのパンを…ご自分のからだと確かになさった）。
+- 聖書の形：solem suum oriri faciens et pluens について、Harvey の欄外は Matt. v. 45（口語訳「太陽をのぼらせ、…雨を降らして下さる」）。Stieren には欄外がない。
+- 採る校訂者：Stieren、Harvey とも本文は qui effusus est、auget のまま。直す説は注に置く。
+- 読者への影響：中 — 底本では、主が杯を「ご自分の流された血」と確かになさったことになり、ギリシア語では「ご自分の血だと言い表された」ことになる。どちらでも、杯と血、パンとからだの結びつきは同じ。
+- 訳での扱い：訳注は付けない。底本のまま、confirmavit を二つの半文に掛けて訳す。confessus est の説、auget を rigat とする説、第四巻 17 章 5 節の並行は `// ` メモに書く。マタイ五・四五は口語訳の語を借りる。creatura は「造られたもの」で揃える。
+- 確かめた資料：St. p. 717 本文・ギリシア語・注 9、10（画像 0765、St. l. 81238–81244、81284–81304）、p. 718 のギリシア語の初め（画像 0766、St. l. 81316–81317）、p. 719 本文・注 1（画像 0767、St. l. 81404–81406、81470–81471）。Hv. II p. 319 本文・欄外・注 2、3（Hv. II l. 27144–27166、27177–27190、画像 0330）。口語訳 Matt.5.45。
+
+### 5.2.3 factus panis／fractus、et fit eucharistia sanguinis et corporis Christi（γίνεται ἡ εὐχαριστία σῶμα Χριστοῦ）、percipit verbum Dei
+- 底本（Stieren）：Quando ergo et mixtus calix et factus panis percipit verbum Dei et fit eucharistia sanguinis et corporis Christi, ex quibus augetur et consistit carnis nostrae substantia;
+- ギリシア語：Ὁπότε οὖν καὶ τὸ κεκραμένον ποτήριον καὶ ὁ γεγονὼς ἄρτος ἐπιδέχεται τὸν λόγον τοῦ Θεοῦ, καὶ γίνεται ἡ εὐχαριστία σῶμα Χριστοῦ, ἐκ τούτων δὲ αὔξει καὶ συνίσταται ἡ τῆς σαρκὸς ἡμῶν ὑπόστασις·
+- ほかの読み：factus はすべての写本と Grabe、Massuet、Erasm. の読みで、ギリシア語（ὁ γεγονώς）に合う。Feuardent、Gall.、Grynaeus は、ロチェスターの司教 Fisher と Oecolampadius（『聖餐について』第四巻 23 章）とともに、誤って fractus（裂かれた）と読む（St. p. 719 注 2）。sanguinis et corporis について、Stieren は、ギリシア語のほうを εὐχαριστία αἵματος καὶ σώματος Χ. と読むべきだとする（注 3）。ἐκ τούτων δὲ は、一つ目の引用では ἐκ τούτου τε（St. p. 718 注 b）。et fit の et は Ar. にない（Hv. II p. 320 本文、p. 321 注 3）。Harvey は τὸ κεκραμένον ποτήριον に第一巻 p. 116 と p. 256 の temperamentum、κρᾶμα を比べ、過越の食事で水をぶどう酒に混ぜたユダヤ人の習わしと、キプリアヌスの手紙 63 などを長く注記する（Hv. II pp. 319–320 注 4）。
+- 文の形：ギリシア語では「聖餐（感謝）がキリストのからだとなる」。ラテン語では「〔杯とパンが〕キリストの血とからだの聖餐（感謝）となる」で、主語は calix と panis、eucharistia は述語。少し後の文では、ラテン語も percipientia verbum Dei eucharistia fiunt, quod est corpus et sanguis Christi（神の言を受けて聖餐となる。それはキリストのからだと血である）と、ギリシア語（εὐχαριστία γίνεται, ὅπερ ἐστὶ σῶμα καὶ αἷμα τοῦ Χριστοῦ）と同じことを言う。
+- verbum Dei：Stieren は小文字の verbum Dei、Harvey は大文字の Verbum Dei と刷る（Hv. II p. 320、l. 27240）。ギリシア語は τὸν λόγον τοῦ Θεοῦ。少し後の percipientia verbum Dei も同じ。
+- 採る校訂者：Stieren、Harvey（本文はどちらも sanguinis et corporis Christi）。
+- 読者への影響：中 — ギリシア語のほうが「キリストのからだとなる」と強く言うが、ラテン語も次の文で同じことを言うので、段落全体の意味は変わらない。
+- 訳での扱い：訳注は付けない（次の文でラテン語もギリシア語と同じことを言うため）。付けるなら案：「ギリシア語の引用では『聖餐がキリストのからだとなり』。」。底本のラテン語で訳し、ギリシア語の形と Stieren の注 3 は `// ` メモに書く。verbum Dei をキリスト（神の言）とするか、祈りのことば（神のことば）とするかは訳出で決め、どちらに取ったかを `// ` メモに書く（4.38.1 の項と同じ扱い）。mixtus calix は、5.1.3 の commixtio とつながる語にする。
+- 確かめた資料：St. p. 719 本文・注 2、3（画像 0767、St. l. 81407–81411、81473–81482）、p. 718 ギリシア語・注 b（画像 0766、St. l. 81318–81321）。Hv. II pp. 319–321 ギリシア語・本文・注 3、4（Hv. II l. 27157–27166、27192–27286、27235–27241、画像 0330–0332）。
+
+### 5.2.3 quae est vita aeterna、et membrum eius est と in ea, quae est ad Ephesios, epistola
+- 底本（Stieren）：quomodo carnem negant, capacem esse donationis Dei, quae est vita aeterna, quae sanguine et corpore Christi nutritur, et membrum eius est? Quemadmodum et beatus apostolus ait in ea, quae est ad Ephesios, epistola:
+- ギリシア語：πῶς δεκτικὴν μὴ εἶναι λέγουσι τὴν σάρκα τῆς δωρεᾶς τοῦ Θεοῦ, ἥτις ἐστὶ ζωὴ αἰώνιος, τὴν ἀπὸ τοῦ σώματος καὶ αἵματος τοῦ Κυρίου τρεφομένην, καὶ μέλος αὐτοῦ ὑπάρχουσαν; Καθὼς ὁ μακάριος Παῦλός φησιν, ἐν τῇ πρὸς Ἐφεσίους ἐπιστολῇ·
+- ほかの読み：quae est vita は Massuet が Clarom. とギリシア語によって書いた読みで、ほかは誤って qui est vita（St. p. 719 注 4）。Harvey は quae を Clerm.、qui を Ar.、Voss. などの読みとする（Hv. II p. 321 注 5）。et membrum eius est の est は、Massuet が「意味を満たすのに要る」としてギリシア語（ὑπάρχουσαν）によって足した（St. 注 5）。Harvey も est を本文に置くが、写本の支持はないと注記し、Arund. は sanguine の後に suo を入れるとする（Hv. II p. 321 注 6）。Harvey は in epistola quae est ad Ephesios の語順を Clerm. と Ar. によって取る。Grabe、Massuet と古い刊本は in ea quae est ad Ephesios epistola（Stieren も同じ）で、写本の Epistola は ea の位置に入ったのかもしれない、と Harvey はいう（Hv. II p. 321 注 7）。
+- 文の形：quae est vita aeterna は donationis Dei（神の賜物）を受け、quae sanguine … nutritur は carnem を受ける。ギリシア語も ἥτις ἐστὶ ζωὴ αἰώνιος と τὴν … τρεφομένην で同じ。donatio Dei, quae est vita aeterna はローマ六・二三（口語訳「神の賜物は、…永遠のいのちである」）を思わせるが、資料の欄外にない。
+- 採る校訂者：Stieren（quae、est、in ea … epistola）。Harvey は語順だけが違う。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。二つの quae の先行詞を取り違えないように訳す（賜物＝永遠のいのち。肉＝養われ、肢体である）。est が編者の補いであることは `// ` メモに書く。
+- 確かめた資料：St. p. 719 本文・注 4、5（画像 0767、St. l. 81411–81419、81484–81491）、p. 718 ギリシア語（画像 0766、St. l. 81321–81325）。Hv. II p. 321 本文・注 5–7（Hv. II l. 27346–27370、27402–27413、画像 0332）。口語訳 Rom.6.23。
+
+### 5.2.3 Quoniam membra sumus corporis eius, de carne eius et de ossibus eius（エペソ五・三〇）と Spiritus enim neque ossa, neque carnes habet（ルカ二四・三九）
+- 底本（Stieren）：Quoniam membra sumus corporis eius, de carne eius et de ossibus eius; non de spirituali aliquo et invisibili homine dicens haec; (Spiritus enim neque ossa, neque carnes habet) sed de ea dispositione …
+- ギリシア語：ὅτι μέλη ἐσμὲν τοῦ σώματος, ἐκ τῆς σαρκὸς αὐτοῦ καὶ ἐκ τῶν ὀστέων αὐτοῦ· οὐ περὶ πνευματικοῦ τινος καὶ ἀοράτου ἀνθρώπου λέγων ταῦτα· τὸ γὰρ πνεῦμα οὔτε ὀστέα οὔτε σάρκα ἔχει·
+- ほかの読み：Stieren の注 e（Grabe）：Parallela の二つの引用と古いラテン語訳がどちらも「その肉とその骨から」を持つので、この句は大いに確かめられる。アレクサンドリア写本にないので欄外の書き込みが使徒の本文に入ったのだろう、という Grotius のエペソ五・三〇の注は退けられる。むしろその写本とエチオピア語訳では、最後の αὐτοῦ が繰り返されるために落ちたのだろう（St. p. 718 注 e）。Harvey は同じ注を載せ、「シリア語はこの語を表す」と足す（Hv. II p. 321 注 4）。Stieren は τοῦ σώματος の後に αὐτοῦ を足せとする（注 d）。carnes は、ギリシア語では単数の σάρκα（St. p. 719 注 6）。
+- 聖書の形：Stieren の欄外は Ephes. V. 30 と Luc. XXIV. 39、Harvey の欄外も同じ。口語訳のエペソ五・三〇は「わたしたちは、キリストのからだの肢体なのである」で、「その肉とその骨から」の句がない。口語訳のルカ二四・三九は「霊には肉や骨はないが」。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：中 — この論証は「その肉とその骨から」の句にかかっているが、口語訳のエペソ五・三〇にはこの句がない。読者が口語訳で確かめると、引用が合わないように見える。エイレナイオスの本文の異読ではない。
+- 訳での扱い：訳注は付けない（聖書の形の違いは、本の AGENTS.md の決まりで `// ` メモに書く）。付けるなら案：「口語訳にない句。新約の写本の一部がこの句を持つ。」。聖句は口語訳の語（「キリストのからだの肢体」）を借り、「その肉とその骨から」を底本どおり足して訳し、本文に出典を置く。ルカ二四・三九は口語訳の「霊には肉や骨はない」を借りる（底本の carnes は複数、ギリシア語は単数）。括弧は底本どおり残す。
+- 確かめた資料：St. p. 718 ギリシア語・注 d、e（画像 0766、St. l. 81325–81328、81365–81392）、p. 719 本文・欄外・注 6（画像 0767、St. l. 81419–81425、81493）。Hv. II p. 321 本文・欄外・注 4（Hv. II l. 27356–27372、27384–27400、画像 0332）。口語訳 Eph.5.30、Luke.24.39。
+
+### 5.2.3 sed de ea dispositione … quae de calice … nutritur（ἥτις の先行詞）、verum、quod est
+- 底本（Stieren）：sed de ea dispositione, quae est secundum verum hominem, quae ex carnibus et nervis et ossibus consistit: quae de calice, qui est sanguis eius, nutritur, et de pane, quod est corpus eius, augetur.
+- ギリシア語：ἀλλὰ περὶ τῆς κατὰ τὸν ἀληθινὸν ἄνθρωπον οἰκονομίας, τῆς ἐκ σαρκὸς καὶ νεύρων καὶ ὀστέων συνεστώσης· ἥτις καὶ ἐκ τοῦ ποτηρίου αὐτοῦ, ὅ ἐστι τὸ αἷμα αὐτοῦ, τρέφεται, καὶ ἐκ τοῦ ἄρτου, ὅ ἐστι τὸ σῶμα αὐτοῦ, αὔξεται.
+- ほかの読み：verum は Erasm.、Gall. になく、Feuardent が足した（St. p. 719 注 7。Harvey は Arund. にないとする。Hv. II p. 322 注 2）。quod est は Clarom.、Voss.、Arund.、Merc. I、ギリシア語、Grabe、Massuet の読みで、ほかは qui est（注 8）。Harvey の注：ἥτις は σάρξ を受けるのに、訳者は dispositio を先行詞にした。使徒は οἰκονομία、すなわち肉となった言について言い、その肉が、わたしたちの場合は杯とパンによって養われ、増す。ἥτις は οἰκονομία の語に含まれる σάρξ を受ける。ποτηρίου の後の αὐτοῦ は除け（Hv. II p. 322 注 1）。
+- 文の形：ラテン語では、杯とパンで養われるのは dispositio（真の人に従った「ご計画」）。Harvey は、意味の上では肉だとする。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小〜中 — dispositio を訳語表の「ご計画」と訳すと、「ご計画が杯で養われる」という分かりにくい文になる。
+- 訳での扱い：訳注は付けない。dispositio（οἰκονομία）は訳語表では「ご計画」（3:18:2 の dispensatio）だが、ここでは「真の人としてのありかた」に近いので、訳語を訳出で決め、`// ` メモに書く。Harvey の見方も `// ` メモに書く。
+- 確かめた資料：St. p. 719 本文・注 7、8（画像 0767、St. l. 81425–81431、81495–81500）、p. 718 ギリシア語（画像 0766、St. l. 81328–81330）。Hv. II p. 322 本文・注 1、2（Hv. II l. 27467–27482、27521–27532、画像 0333）。
+
+### 5.2.3 lignum vitis … per Spiritum Dei, qui continet omnia、sapientiam、hominis、fiunt
+- 底本（Stieren）：Et quemadmodum lignum vitis depositum in terram suo fructificat tempore, et granum tritici decidens in terram et dissolutum, multiplex surgit per Spiritum Dei, qui continet omnia; quae deinde per sapientiam in usum hominis veniunt, et percipientia verbum Dei eucharistia fiunt, quod est corpus et sanguis Christi:
+- ギリシア語：Καὶ ὅνπερ τρόπον τὸ ξύλον τῆς ἀμπέλου κλιθὲν εἰς τὴν γῆν τῷ ἰδίῳ καιρῷ ἐκαρποφόρησε, καὶ ὁ κόκκος τοῦ σίτου πεσὼν εἰς τὴν γῆν καὶ διαλυθείς, πολλοστὸς ἐγέρθη διὰ τοῦ Πνεύματος τοῦ Θεοῦ τοῦ συνέχοντος τὰ πάντα· ἔπειτα δὲ διὰ τῆς σοφίας τοῦ Θεοῦ εἰς χρῆσιν ἐλθόντα ἀνθρώπων, καὶ προσλαμβανόμενα τὸν λόγον τοῦ Θεοῦ, εὐχαριστία γίνεται, ὅπερ ἐστὶ σῶμα καὶ αἷμα τοῦ Χριστοῦ·
+- ほかの読み：in terram は Vet.、Clarom.、Voss.、Massuet の読みで、ほかは in terra。depositum は Voss. で dispositum（St. p. 719 注 9）。sapientiam の後に、ギリシア語によって Dei を足せ（注 10）。hominis は Vet.、Clarom.、Voss.、Massuet の読みで、ほかは hominibus。ギリシア語によれば hominum（注 11）。Harvey によれば、Ar. はここで一行を落として 8 語を欠き、et sanguinis Christi と誤る（Hv. II p. 322 注 4）。fiunt は、Latinius によればヴァティカンの写本の読みで、Massuet とともに取った。Grabe が Voss. にも fiunt とあるとするのは明らかな誤り（St. 注 12）。Harvey は fiunt を Massuet の読み、fiant を Cl.、Voss.、Grabe とする（Hv. II p. 323 注 4）。
+- 聖書の形：granum tritici decidens in terram はヨハネ一二・二四（口語訳「一粒の麦が地に落ちて死ななければ」）を思わせるが、Stieren と Harvey の欄外にない。per Spiritum Dei, qui continet omnia のギリシア語 τοῦ συνέχοντος τὰ πάντα は、七十人訳の知恵の書一・七の τὸ συνέχον τὰ πάντα（Swete II l. 52675–52676）と同じ語だが、これも資料の欄外と注にない。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。lignum vitis depositum（ギリシア語 κλιθέν）の訳（地に伏せたぶどうの木、など）は訳出で決める。二つの暗示は資料にないので、思わせるだけなら `// ` メモに書く。eucharistia fiunt, quod est corpus et sanguis Christi の eucharistia は、前の文と同じ訳語にする。fiunt／fiant は `// ` メモに書いてよい。
+- 確かめた資料：St. p. 719 本文・注 9–12（画像 0767、St. l. 81431–81441、81502–81517）、p. 718 ギリシア語（画像 0766）。Hv. II pp. 322–323 ギリシア語・本文・注 4（Hv. II l. 27472–27487、27537–27543、27552–27554、27579–27580、27596–27597、画像 0333、0334）。Swete II l. 52675–52676。口語訳 John.12.24。
+
+### 5.2.3 qui huic mortali immortalitatem circumdat …（第一コリント一五・五三）と virtus Dei in infirmitate perficitur（第二コリント一二・九）
+- 底本（Stieren）：sic et nostra corpora ex ea nutrita et reposita in terram et resoluta in ea resurgent in suo tempore, Verbo Dei resurrectionem eis donante, in gloriam Dei Patris, qui huic mortali immortalitatem circumdat, et corruptibili incorruptelam gratuito donat, quoniam virtus Dei in infirmitate perficitur:
+- ギリシア語：οὕτως καὶ τὰ ἡμέτερα σώματα ἐξ αὐτῆς τρεφόμενα … τοῦ λόγου τοῦ Θεοῦ τὴν ἔγερσιν αὐτοῖς χαριζομένου εἰς δόξαν Θεοῦ καὶ πατρός· ὃς ὄντως τῷ θνητῷ τὴν ἀθανασίαν περιποιεῖ, καὶ τῷ φθαρτῷ τὴν ἀφθαρσίαν προχαρίζεται, ὅτι δύναμις τοῦ Θεοῦ ἐν ἀσθενείᾳ τελειοῦται·
+- ほかの読み：Θεοῦ καὶ πατρός の καί、ὄντως／huic、προχαρίζεται／gratuito donat は、上の「ギリシア語の全体」の項の注 f、g、h。Harvey も huic は τούτῳ を示すとする（Hv. II p. 323 注 5）。virtus Dei の Dei を、Feuardent は誤って落とした（St. p. 719 注 13）。in infirmitate の in は Ar. にない（Hv. II p. 323 注 6）。
+- 聖書の形：Harvey の欄外は 1 Cor. xv. 53 と 2 Cor. xii. 9（Stieren には欄外がない）。口語訳の第一コリント一五・五三は「この朽ちるものは必ず朽ちないものを着、この死ぬものは必ず死なないものを着ることになる」。circumdat（まとわせる）は「着る」の比喩に近く、ギリシア語の περιποιεῖ（得させる）とは違う。口語訳の第二コリント一二・九は「わたしの力は弱いところに完全にあらわれる」で、底本とギリシア語は「神の力」と言う。次の 5.3.1 は同じ聖句を virtus in infirmitate perficitur（「わたしの」も「神の」もない）と引く。Harvey の注に引かれる Grabe は、エイレナイオスは聖書を ἡ δύναμίς μου と読んでいたとし、5.2.3 の δύναμις τοῦ Θεοῦ をその根拠に挙げる（Hv. II p. 324 注 3）。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。第二コリント一二・九は底本の「神の力」で訳し、口語訳の「弱いところに完全にあらわれる」を借りて本文に出典を置き、「わたしの力」との違いを `// ` メモに書く。第一コリント一五・五三に口語訳の語（「死ぬもの」「死なないもの」「朽ちるもの」「朽ちないもの」）を借りるかは訳出で決める。Verbo Dei は「神の言」（御子）で尊敬語。
+- 確かめた資料：St. p. 719 本文・注 13（画像 0767、St. l. 81441–81449、81519–81520）、p. 718 ギリシア語・注 f–h（画像 0766、0767）。Hv. II pp. 323–324 本文・欄外・注 5、6、p. 324 注 3（Hv. II l. 27579–27584、27598–27600、27679–27691、画像 0334）。口語訳 1Cor.15.53、2Cor.12.9。
+
+### 5.2.3 終わりの文（sicuti est、accipit、et quemadmodum sunt、fieri in nobis resolutionem、in omnibus）
+- 底本（Stieren）：ut non quasi ex nobis ipsis habentes vitam, inflemur aliquando et extollamur adversus Deum, ingratam mentem accipientes; experimento autem discentes, quoniam ex illius magnitudine, et non ex nostra natura, habemus in aeternum perseverantiam, neque ab ea quae est circa Deum gloria, sicuti est, frustremur aliquando, neque nostram naturam ignoremus; sed ut sciamus et quid Deus potest, et quid homo beneficii accipit: et non erremus aliquando a vera comprehensione eorum quae sunt, et quemadmodum sunt, id est, Dei et hominis. Et numquid forte, quemadmodum praediximus, propter hoc passus est Deus fieri in nobis resolutionem; ut per omnia eruditi, in omnibus simus diligentes, neque Deum, neque nosmetipsos ignorantes?
+- ギリシア語（Stieren の印刷）：… μήτε τῆς περὶ Θεὸν δόξης, καὶ ὡς ἐστιν, ἀστοχήσωμεν … τουτέστι, Θεοῦ τε καὶ ἀνθρώπων. Μήτιγε, καθὼς προείπομεν, καὶ διὰ τοῦτο ἠνέσχετο ὁ Θεὸς τὴν εἰς τὴν γῆν ἡμῶν ἀνάλυσιν· ὅπως παντοίως παιδευθέντες, ἐν πᾶσιν εἰς τὸ μέλλον ὦμεν ἀκριβεῖς, μήτε Θεόν, μήτε ἑαυτοὺς ἀγνοοῦντες;（Harvey は καί のない ὡς ἐστιν）
+- ほかの読み：accipit は Vet.、Voss. で accepit（St. p. 720 注 3）。et quemadmodum について、Stieren は「Int. は et を知らない」と注記する（注 4）。ἀνθρώπων を訳者は ἀνθρώπου と読んだ（注 1）。fieri in nobis resolutionem は、訳者が γίνεσθαι を足して読んだ形（注 2）。in omnibus の後に、ギリシア語によって in futurum を足せ（注 5）。Harvey によれば、訳文は γίνεσθαι が落ちたことを示し、ほかの点では、Harvey の p. 326 の ἀναλυθὲν εἰς τὴν γῆν ἡμῶν がこの本文を確かめる。死ぬべきものの共通のちりに解かれる、の意味（Hv. II p. 324 注 1）。experimento autem の autem は Clerm. で落ち、circa Deum の Deum は Clerm. で略号 Dm が Dni に崩れた（Hv. II p. 323 注 7、8）。
+- 違い：ギリシア語の τὴν εἰς τὴν γῆν ἡμῶν ἀνάλυσιν（わたしたちが地に解かれること）を、ラテン語は in nobis resolutionem（わたしたちのうちに解体が起こること）と訳し、「地に」がない。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小 — 直前の文が、からだが地に置かれて解かれることを言うので、ラテン語でも意味は通る。
+- 訳での扱い：訳注は付けない。resolutio は、直前の resoluta in ea（地の中で解かれ）と同じ語で訳し、ギリシア語の「地に」を `// ` メモに書く。passus est Deus（神が忍ばれた、そのままにしておかれた）は尊敬語。修辞疑問は本の決まり（「〜ではないでしょうか」）。quemadmodum praediximus がどこを指すかは訳出で確かめ、`// ` メモに書く。
+- 確かめた資料：St. p. 720 本文・ギリシア語・注 1–5（画像 0768、St. l. 81538–81563、81581–81595、81604–81624、81644–81645）、p. 719 本文（画像 0767、St. l. 81449–81451）。Hv. II pp. 323–324 ギリシア語・本文・注 3、7、8、p. 324 注 1（Hv. II l. 27561–27625、27603–27606、27669–27675、画像 0334）。
+
+### 5.16.2 Tunc autem hoc Verbum ostensum est …（ギリシア語のない部分）と節の区切り
+- 底本（Stieren）：2. Tunc autem hoc Verbum ostensum est, quando homo Verbum Dei factum est, semetipsum homini, et hominem sibimetipsi assimilans, ut per eam quae est ad Filium similitudinem, pretiosus homo fiat Patri.
+- ほかの読み：Stieren に注はない。Harvey も同じ本文で注はなく、ここで節を改めない（Hv. V.xvi.1 の中。Hv. II p. 367、l. 31167–31170、画像 0378）。
+- 文の形：hoc Verbum は、前の文（5.16.1 の終わり）の「初めから終わりまでわたしたちを形造る、神の手」を受ける。assimilans の目的語は二つ（ご自分を人に、人をご自分に）。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。hoc Verbum を「この言」と訳し、前の文の「手」を受けることが分かるようにする。assimilans と similitudo は、5.16.2 の後半の similitudo と同じ語群で訳す（imago と similitudo の項）。
+- 確かめた資料：St. p. 761 本文（画像 0809、St. l. 86156–86162）。Hv. II p. 367 本文・欄外（Hv. II l. 31165–31170、画像 0378）。
+
+### 5.16.2 のギリシア語（Parallela）と、ラテン語との違い
+- 底本（Stieren）：In praeteritis enim temporibus dicebatur quidem secundum imaginem Dei factum esse hominem, non autem ostendebatur. Adhuc enim invisibile erat Verbum, cuius secundum imaginem homo factus fuerat. Propter hoc autem et similitudinem facile amisit. Quando autem caro Verbum Dei factum est, utraque confirmavit: et imaginem enim ostendit veram, ipse hoc fiens, quod erat imago eius; et similitudinem firmans restituit, consimilem faciens hominem invisibili Patri per visibile Verbum.
+- ギリシア語（Stieren の印刷）：Ἐν τοῖς πρόσθεν χρόνοις ἐλέγετο μὲν κατ' εἰκόνα Θεοῦ γεγονέναι τὸν ἄνθρωπον, οὐκ ἐδείκνυτο δέ. Ἔτι γὰρ ἀόρατος ἦν ὁ Λόγος, οὗ κατ' εἰκόνα ὁ ἄνθρωπος ἐγεγόνει. Διὰ τοῦτο δὴ καὶ τὴν ὁμοίωσιν ῥᾳδίως ἀπέβαλεν. Ὁπότε δὲ σὰρξ ἐγένετο ὁ Λόγος τοῦ Θεοῦ, τὰ ἀμφότερα ἐπεκύρωσε· καὶ γὰρ (καὶ) τὴν εἰκόνα ἔδειξεν ἀληθῶς, αὐτὸς τοῦτο γενόμενος ὅπερ ἦν ἡ εἰκὼν αὐτοῦ· καὶ τὴν ὁμοίωσιν βεβαίως κατέστησε, συνεξομοιώσας τὸν ἄνθρωπον τῷ ἀοράτῳ Πατρὶ ......（Harvey は (καὶ) を括弧なしで刷る）
+- 違い：
+  - In praeteritis enim の enim は Arund. になく、ギリシア語にもない（St. p. 761 注 9）。Harvey は、enim のないのが自然で、ギリシア語の断片は γάρ をわざと消したのかもしれない、とする（Hv. II p. 368 注 2）。
+  - factus fuerat の factus は Feuardent が足し、Voss. とギリシア語（ἐγεγόνει）が支持する（St. 注 10。Harvey は Clerm.、Voss. にあり Arund. にないとする。Hv. II p. 368 注 3）。
+  - (καὶ) は余分な語（St. 注 7）。
+  - imaginem … veram：ギリシア語の ἀληθῶς（まことに示した）を、訳者は ἀληθῆ（まことのかたちを）と読んだ（注 8）。
+  - utraque confirmavit の confirmavit は、Merc. の写本で firmavit（注 11）。
+  - similitudinem firmans restituit：ギリシア語の βεβαίως（確かに）を、訳者は βεβαιῶν（確かにして）と読んだに違いない（St. p. 762 注 1。Harvey も Int. βεβαιῶν とする。Hv. II p. 368 注 1）。
+  - ipse hoc fiens は、Clerm. で faciens に書き換えられている（Hv. II p. 368 注 4）。
+  - per visibile Verbum：ギリシア語は Πατρί の後が点線で、この句に当たる語はない（Stieren も Harvey も点線）。
+- 採る校訂者：Stieren と Harvey は、ラテン語とギリシア語を両方載せる。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。底本のラテン語で訳す。ギリシア語との違いは `// ` メモに書く。caro は訳語表の「肉」（口語訳ヨハネ一・一四の語を借りるなら「肉体」）。
+- 確かめた資料：St. pp. 761–762 本文・ギリシア語・注 6–11、p. 762 注 1（画像 0809、0810、St. l. 86165–86180、86214–86225、86236–86253、86269–86276、86359–86362）。Hv. II p. 368 ギリシア語・本文・欄外・注 1–4（Hv. II l. 31217–31234、31257–31268、画像 0379）。
+
+### 5.16.2 imago と similitudo（εἰκών／ὁμοίωσις）、ipse hoc fiens, quod erat imago eius
+- 底本（Stieren）：上の項と同じ。
+- 語の対応：ラテン語の imago はギリシア語の εἰκών、similitudo は ὁμοίωσις。エイレナイオスはここで二つを分けて扱う（人は「かたちに従って」造られたと言われていたが、それが示されていなかったので、similitudo をたやすく失った。肉となった言が二つとも確かにした）。5.16.2 の前半の assimilans、per eam quae est ad Filium similitudinem、後半の consimilem faciens も同じ語群。5.1.1 の in eam, quae est ad eum, similitudinem facti、5.1.3 と 5.2.1 の secundum imaginem et similitudinem Dei ともつながる。
+- 文の形：ipse hoc fiens, quod erat imago eius（αὐτὸς τοῦτο γενόμενος ὅπερ ἦν ἡ εἰκὼν αὐτοῦ）は、前の文の「言のかたちに従って人が造られた」を受けて、「言ご自身が、ご自分のかたちであったもの（人）となって」と読める。eius は言を指す。Stieren と Harvey はこの点に注を付けない。
+- ほかの読み：異読はない。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：中 — これまでの訳（3.18.1、4.38.3〜4）は、imago et similitudo を口語訳の創世記一・二六に合わせて「神のかたちに、神にかたどった者」と訳した。ここでは similitudo が単独の名詞で「失う」「確かにする」の目的語になるので、動詞の「かたどる」では訳せない。二つを分けて訳さないと、論旨（かたちのことは言われていたが、似ることは失った）が読者に見えなくなる。
+- 訳での扱い：訳注は付けない。imago＝「かたち」は揃え、similitudo に名詞の訳語（「似姿」「似ること」など）を決めて、5.16.2 の中のすべての similitudo、assimilans、consimilis で通す。決めた訳語と、これまでの「かたどる」との関係を本の AGENTS.md の訳語表に書き、5.1.1、5.1.3、5.2.1 の範囲にも当てる。ipse hoc fiens の eius が言を指すことが分かるように訳す（「ご自分のかたちであったもの」）。
+- 確かめた資料：St. pp. 761–762 本文・ギリシア語（画像 0809、0810、St. l. 86159–86180、86214–86225、86269–86276）。Hv. II pp. 367–368（画像 0378、0379）。`src/07-book-3-5/jp.md`（3:18:1）と `src/11-book-4-3/jp.md`（4:38:3、4:38:4）の訳。
+
+### 5.16.3 obediens factus est usque ad mortem, mortem autem crucis（ピリピ二・八）と per eandem
+- 底本（Stieren）：3. Et non solum autem per ea, quae praedicta sunt, et Patrem et semetipsum manifestavit Dominus, sed etiam per ipsam passionem. Dissolvens enim eam, quae ab initio in ligno facta fuerat, hominis inobedientiam, obediens factus est usque ad mortem, mortem autem crucis; eam quae in ligno facta fuerat inobedientiam, per eam quae in ligno fuerat obedientiam sanans. Non autem per eandem venisset exsolvere eam, quae fuerat erga plasmatorem nostrum inobedientiam, si alterum annuntiabat Patrem.
+- ほかの読み：Stieren にはこの部分の注がない。Harvey は per eandem を κατὰ τὴν αὐτήν と戻し、「sc. εἰκόνα」（つまり同じかたちによって）と注記する（Hv. II p. 368 注 6）。Harvey は、Grabe が引くクレルヴォーのベルナルドゥスの言葉（アダムの不従順に対してキリストの従順が与えられる。古いアダムは禁じられた木に罪ある手を伸ばし、キリストは救いの木に罪のない手を広げた）を載せる（注 5）。
+- 文の形：per eandem は女性形で、中性の lignum を受けない。何を受けるかは書かれていない。
+- 聖書の形：Stieren と Harvey の欄外は Phil. II. 8。口語訳のピリピ二・八は「死に至るまで、しかも十字架の死に至るまで従順であられた」。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。ピリピ二・八は口語訳の文言を借りて本文に出典を置く。per eandem の取り方は訳出で決め、Harvey の取り方を `// ` メモに書く。inobedientia／obedientia は 3.22.3〜4 の「不従順／従順」に揃える。
+- 確かめた資料：St. p. 762 本文・欄外（画像 0810、St. l. 86277–86288）。Hv. II p. 368 本文・欄外・注 5、6（Hv. II l. 31235–31246、31269–31279、画像 0379）。口語訳 Phil.2.8。
+
+### 5.16.3 audivimus Deum／obedivimus Deo、assensionem、per quae
+- 底本（Stieren）：Quoniam autem per haec, per quae non audivimus Deum, et non credidimus eius verbo, per haec eadem obedientiam introduxit, et eam quae esset erga verbum eius assensionem, per quae manifeste ipsum ostendit Deum, quem
+- ほかの読み：audivimus Deum は、Stieren が Vet.、Voss.、Clarom. によって Massuet とともに書いた読みで、ほかは obedivimus Deo（St. p. 762 注 2）。Harvey は obedivimus Deo を取り、Clerm.、Voss. は audivimus Deum で、Arund. の写字生は自分で直したらしく a の上に o を書く、と注記する（Hv. II p. 368 本文・注 7）。assensionem は Grabe がはじめて Vet.、Voss. によって書いた読みで、Erasm.、Gall.、Feuard.、Arund.、Merc. II は誤って ostensionem（St. 注 3）。per quae は Vet.、Voss. で per quem。Grabe が perquam と読むべきだと言うのは正しい、と Stieren はいう（注 4）。
+- 文の形：「聞き従わなかった」と「信じなかった」に、「従順」と「同意」が対になる。audire Deum は「神に聞き従う」で、obedire と同じことを言う。
+- 採る校訂者：Stieren（audivimus Deum）、Harvey（obedivimus Deo）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。audivimus は「聞き従う」と訳して、obedientia（従順）との対が見えるようにする。obedivimus Deo の読みは `// ` メモに書く。assensio は「同意」など。
+- 確かめた資料：St. p. 762 本文・注 2–4（画像 0810、St. l. 86289–86294、86363–86382）。Hv. II p. 368 本文・注 7（Hv. II l. 31246–31253、31281–31283、画像 0379）。
+
+### 5.16.3 のギリシア語（Parallela）：quem in primo quidem Adam offendimus … in secundo autem Adam
+- 底本（Stieren）：quem in primo quidem Adam offendimus, non facientes eius praeceptum; in secundo autem Adam reconciliati sumus, obedientes usque ad mortem facti. Neque enim alteri cuidam eramus debitores, sed illi, cuius et praeceptum transgressi fueramus ab initio.
+- ギリシア語：Ἐν μὲν γὰρ τῷ πρώτῳ Ἀδὰμ προσεκόψαμεν, μὴ ποιήσαντες αὐτοῦ τὴν ἐντολήν· ἐν δὲ τῷ δευτέρῳ Ἀδὰμ ἀποκατηλλάγημεν, ὑπήκοοι μέχρι θανάτου γενόμενοι. Οὐδὲ γὰρ ἄλλῳ τινὶ ἦμεν ὀφειλέται, ἀλλ' ἢ ἐκείνῳ, οὗ καὶ τὴν ἐντολὴν παρέβημεν ἀπ' ἀρχῆς.（St. p. 762。出典は上の紙面のメモ。Harvey は ἀπ' ἀρχῆς. の後に点線を置く）
+- 違い：ラテン語は関係詞 quem（神）で前の文につなぎ、神を offendimus の目的語にする。ギリシア語は γάρ で新しい文を始め、προσεκόψαμεν に目的語がない（わたしたちはつまずいた）。
+- 聖書の形：Stieren と Harvey の欄外に出典はない。「最初のアダム」「第二のアダム」は、第一コリント一五・四五の「最初の人アダム」「最後のアダム」（口語訳）を思わせる。obedientes usque ad mortem facti は、前のピリピ二・八の言葉を「わたしたち」に当てる。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。底本のとおり quem で前の文につなぐ（長ければ「この神に対して、わたしたちは…」と文を分ける）。ギリシア語の形は `// ` メモに書く。primus／secundus は本の決まりの「最初の／第二の」（3:22:3）。debitores は、次の 5.17.1 の主の祈り（マタイ六・一二、口語訳「わたしたちの負債をもおゆるしください」）につながるので、つながりの見える語（「負債のある者」など）にする。
+- 確かめた資料：St. p. 762 本文・ギリシア語・注 5（画像 0810、St. l. 86297–86307、86321–86341、86385–86392）。Hv. II pp. 368–369 ギリシア語・本文（Hv. II l. 31249–31299、画像 0379、0380）。口語訳 1Cor.15.45、Phil.2.8、Matt.6.12。
+
+### 5.19.1 venientem Dominum、baiulante、facientem et seductionem illam solutam
+- 底本（Stieren）：Manifeste itaque in sua propria venientem Dominum, et sua propria eum baiulante conditione, quae baiulatur ab ipso, et recapitulationem eius, quae in ligno fuit inobedientiae, per eam quae in ligno est obedientiam, facientem et seductionem illam solutam, qua seducta est male illa, quae iam viro destinata erat virgo Eva, per veritatem evangelizata est bene ab angelo iam sub viro virgo Maria.
+- ほかの読み：venientem Dominum は Grabe と Massuet が写本によって書いた読みで、Erasm.、Gall.、Feuard. は veniente Domino（St. p. 769 注 1）。baiulante は Massuet が Clarom.、Arund.、Ottobon.、Merc. II によって、Erasm.、Gall.、Feuard. とともに書いた読みで、Grabe は baiulantem。対格を使うなら baiulatum と読まなければ意味が崩れる、と Massuet はいう（注 2）。Harvey も baiulante を Cl.、Ar.、Othob.、Merc. II、baiulantem を Grabe が Voss. から取ったものとし、文脈の並びは per eam baiulantem conditionem を示す、とする（Hv. II p. 375 注 6）。facientem et seductionem illam solutam は Grabe がはじめて Vet.、Voss. によって書いた読みで、Arund. と Merc. II も facientem では一致する。古い刊本はこの語を奪格で書く（St. 注 3）。Harvey は facientem, et seductione illa soluta と奪格の句にし、Ar. の読みとする。Cl. は seductionem illam solutam, qua soluta と読み、viro を欠く（Hv. II pp. 375–376 本文・注 7）。
+- 文の形：主語は virgo Maria、主動詞は evangelizata est。前半の対格（venientem Dominum … facientem）は、知らせの中身（主がご自分のところに来られ、…まとめ直しをなさること）を言う。recapitulatio は訳語表の「まとめ直す」の名詞。Harvey は、Grabe が比べるユスティノス『トリュフォンとの対話』の並行（おとめのエバは蛇の言葉を受けて不従順と死を生み、おとめマリヤは信仰と喜びを受けて「お言葉どおりこの身に成りますように」と答えた）を引く（Hv. II p. 375 注 7）。
+- 採る校訂者：Stieren（facientem et seductionem illam solutam）、Harvey（facientem, et seductione illa soluta）。
+- 読者への影響：小〜中 — 文が長く、主語（マリヤ）と主動詞（知らせを受けた）が終わりに来る。
+- 訳での扱い：訳注は付けない。本の決まりで主文の動詞を先に見つけ、文を分ける。主の動作は尊敬語（quae baiulatur ab ipso も「主が担っておられる」と能動に）。facientem が主の動作であることが分かるように訳す。Harvey の奪格の読みとユスティノスの並行は `// ` メモに書く。
+- 確かめた資料：St. p. 769 本文・注 1–3（画像 0817、St. l. 87018–87032、87035–87055、87083–87085）。Hv. II pp. 375–376 本文・注 6、7（Hv. II l. 31747–31802、31771–31794、画像 0386、0387）。
+
+### 5.19.1 Et si ea inobedierat Deo; sed haec suasa est obedire Deo（Stieren 注 4）
+- 底本（Stieren）：Quemadmodum enim illa per angeli sermonem seducta est, ut effugeret Deum, praevaricata verbum eius; ita et haec per angelicum sermonem evangelizata est, ut portaret Deum, obediens eius verbo. Et si ea inobedierat Deo; sed haec suasa est obedire Deo, uti virginis Evae virgo Maria fieret advocata.
+- ほかの読み：Stieren p. 769 注 4 によれば、Massuet 以外の刊本と新しい写本は et sicut illa seducta est, ut effugeret Deum; sic haec suasa est と読む。この読みは少なくとも一部が前の句から取られたもので、Grabe もすでに好まなかった。古くてよい写本 Vet.、Clarom.、Voss. は et si eum obaudierat Deo, sed haec と読む。Grabe は、eum の代わりに ea non を置けば、この読みのほうが通行の読みよりよいとした。Massuet は Grabe の推定に触れずに ea を本文に取り、non obedierat の代わりに inobedierat と書いた。写本では in の字が m に変わることがよくあるので（eum ＝ ea in…）、Stieren は Massuet の読みを取った。ただし、よい写本に si がなければよかった、si は次の sed とよく合わず、余分に見える、という（画像 0817 を原寸で切り出して読んだ）。Harvey は Et si ea inobediret Deo, sed et haec suasa est と刷る（Hv. II p. 376、l. 31805）。注では、Massuet の Et si ea inobedierat Deo, sed は Clerm.、Vet.、Voss. の支持があって Grabe の読みよりよいが、これらの写本は eū obaudiret と読み、Harvey はそれを本文で ea non（の意味）に解いた、Massuet と Stieren は eum が ea in… を表すとみる、とする。haec の前の et は Ar. による。Grabe は Ar. に従ったが、その読みは写字生が前の文の seducta … Deum を写し誤ったためで、後の手が sicut … sic で継ぎ目を整えた、と Harvey はいう。Clerm. は suasa の代わりに a sua（Hv. II p. 376 注 1）。
+- 二つの報告の違い：写本の動詞を、Stieren は obaudierat（直説法過去完了）、Harvey は obaudiret（接続法未完了）と報告する（Harvey の本文も inobediret）。
+- 文の形：底本の Et si … sed は「たとえ…でも、しかし」で、エバの不従順とマリヤの従順を対にする。通行の読みでは「エバが惑わされて神から逃れたように、マリヤは神に従うよう説き伏せられた」。
+- 採る校訂者：Stieren（Massuet の読み）、Harvey（inobediret と sed et）。
+- 読者への影響：小 — どの読みでも、エバの不従順とマリヤの従順の対比は同じ。3.22.4 の Sic autem et Evae inobedientiae nodus … per obedientiam Mariae と同じ教えで、Stieren もこの注でそれを挙げ、テルトゥリアヌス『キリストの肉体について』17 章の「エバは蛇を信じ、マリヤはガブリエルを信じた」を比べる。
+- 訳での扱い：訳注は付けない。底本で訳す。si … sed の重なりは、「エバは神に従わなかったのですが、このかたは…」と一つの対比にまとめてよい。通行の読み、写本の読み、Stieren と Harvey の報告の違いは `// ` メモに書く。obedire／inobedire は 3.22.3〜4 の「従う／従わない」「従順／不従順」に揃える（3.22.4 で Voss. が obaudiens、per audientiam と書く論点とつながる）。
+- 確かめた資料：St. p. 769 本文・注 4（画像 0817、St. l. 87083–87091、87057–87110）。Hv. II p. 376 本文・注 1（Hv. II l. 31800–31806、31825–31856、画像 0387）。この一覧の 3.22.4 の Sic autem et Evae inobedientiae nodus … の項。
+
+### 5.19.1 uti virginis Evae virgo Maria fieret advocata
+- 底本（Stieren）：uti virginis Evae virgo Maria fieret advocata.
+- ほかの読み：Stieren に注はなく、写本の異読の報告もない。Harvey は advocata を patroness（保護者、後ろ盾）と言い換え、動詞 προστατεύῃ を含むとして、プルタルコス『マリウス伝』の「ローマ人は προστάται を patroni と呼ぶ」を挙げる。Feuardent が聖母のとりなしについて述べたことは見当違いで、人類がおとめマリヤによって受ける益は、エバの不従順による損失と同じ広さだ、というのが著者の言うことだ、とし、第三巻 22 章の終わり（Harvey の III. xxxii. 1）とテルトゥリアヌス『キリストの肉体について』17 章を比べる（Hv. II p. 376 注 2）。Harvey の章の頭の要約は … B. Virgo Maria, illius advocata、p. 376 の柱は MARIA EVAE PATRONA（どちらも Harvey が付けたもので、本文ではない）。
+- 語：3.18.7 の advocationem praebentes peccato について、Harvey は、訳者が προστασία（後ろ盾、支配）を法廷の「弁護」の意味に取ったのだろうとした（この一覧の 3.18.7 の項）。5.19.1 でも、Harvey は同じ語群（προστατεύειν）を想定する。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：中 — advocata を「弁護者」「とりなし手」と訳すと、マリヤがエバのためにとりなす、という後代のマリヤ論の意味に読まれやすい。Harvey は「後ろ盾」の意味に取り、とりなしの意味を退ける。異読ではなく、訳語の問題。
+- 訳での扱い：訳注は付けない（異読ではないため）。訳語は訳出で決め（「弁護者」「助け手」「後ろ盾」など）、Harvey の取り方と、3.18.7 の advocatio の訳（「罪に味方している」）との関係を `// ` メモに書く。決めた訳語は本の AGENTS.md の訳語表に書く。
+- 確かめた資料：St. p. 769 本文（画像 0817、St. l. 87088–87091）。Hv. II pp. 375–376 本文・章の要約・柱・注 2（Hv. II l. 31742–31744、31797、31858–31872、画像 0386、0387）。この一覧の 3.18.7 の項と `src/07-book-3-5/both.md` の 3:18:7 のメモ。
+
+### 5.19.1 adstrictum est、salvatur、aequa lance disposita, virginalis inobedientia と obedientiam の後の句読点
+- 底本（Stieren）：Et quemadmodum adstrictum est morti genus humanum per virginem, salvatur per virginem: aequa lance disposita, virginalis inobedientia, per virginalem obedientiam（句読点なし） Adhuc enim protoplasti …
+- ほかの読み：adstrictum est は Clarom.、Voss.、Merc. II で adstricta est。Stieren は、略号の印のない u が a に変わった写字生の誤りとみる。Grabe は、訳者がギリシア語 ἀνθρωπότης の性に従ったと考えたが、アウグスティヌスが『ユリアヌス駁論』でこの文を引いて adstrictum と書くので、当たらない、と Stieren はいう（St. p. 769 注 5）。salvatur は Vet.、Clarom.、Voss.、Grabe、Massuet の読みで、アウグスティヌス（第一巻）も同じ。ほかは solvatur（注 6）。virginalis inobedientia は Erasm.、Gall. で inobedientiae（注 7）。Harvey は aequa lance disposita virginalis inobedientia per virginalem obedientiam; と読点なしで刷り、disposita はギリシア語の独立主格の言い方で、virginalis inobedientia が主語だ、と注記する。Harvey の想定するギリシア語は ἴσῃ τρυτάνῃ διατιθεμένη ἡ παρθενικὴ παρακοὴ παρὰ τὴν παρθενικὴν ἀκοήν（Harvey の訳し戻し。Hv. II p. 376 本文・注 3）。
+- 句読点：Stieren の紙面では obedientiam の後に句読点がなく、少し広い空きの後に大文字の Adhuc が続く（画像 0817 を原寸で見た）。落ちた終止符とみられる。Harvey は obedientiam; adhuc と小文字で続ける。
+- 文の形：aequa lance disposita, virginalis inobedientia, per virginalem obedientiam は、「おとめの不従順が、おとめの従順によって、等しい秤で釣り合わされて」の意味。
+- 採る校訂者：Stieren、Harvey。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。obedientiam の後で文を切る（底本の大文字の Adhuc による）。disposita の句は、主文（救われる）の様子を言う句として訳す。adstricta の読み、句読点、Harvey の取り方は `// ` メモに書く。
+- 確かめた資料：St. p. 769 本文・注 5–7（画像 0817、原寸で切り出して読んだ。St. l. 87088–87091、87113–87130）。Hv. II p. 376 本文・注 3（Hv. II l. 31809–31813、31874–31879、画像 0387）。
+
+### 5.19.1 Adhuc enim protoplasti peccatum … accipiens（アウグスティヌスの引用）、in columbae simplicitate、vinculis … resolutis
+- 底本（Stieren）：Adhuc enim protoplasti peccatum per correptionem primogeniti emendationem accipiens, et serpentis prudentia devicta in columbae simplicitate, vinculis autem illis resolutis, per quae alligati eramus morti.
+- ほかの読み：アウグスティヌスは、peccatum — accipiens を peccato — accipiente と（St. p. 769 注 8）、in columbae simplicitate を per columbae simplicitatem と（p. 770 注 1）、vinculis autem illis resolutis を vinculis illis resoluti sumus と引く（注 2）。Harvey は adhuc enim の enim に「おそらく etiam と読む」と注記する（Hv. II p. 376 注 4）。
+- 文の形：底本の文には定動詞がない（accipiens は分詞、devicta と resolutis は奪格独立句）。アウグスティヌスの形では、peccato … accipiente が奪格独立句になり、resoluti sumus が主動詞になる。protoplastus は「最初に形造られた者」（アダム）、primogenitus は「初めに生まれたかた」（キリスト。口語訳コロサイ一・一五「すべての造られたものに先だって生れたかた」、一・一八「死人の中から最初に生れたかた」の言い方）。
+- 聖書の形：serpentis prudentia … columbae simplicitate は、マタイ一〇・一六（口語訳「へびのように賢く、はとのように素直であれ」）の語を使うが、Stieren と Harvey の欄外にない。
+- 3.22.4 とのつながり：vinculis … resolutis, per quae alligati eramus の「結ぶ」（alligare）と「ほどく」（resolvere）は、3.22.4 の結び目の語（訳語表の「結び目／結び／結び合わせ」「結ぶ／ほどく」）と同じ群。前の seductionem illam solutam の solvere も同じ。
+- 採る校訂者：Stieren、Harvey（本文は同じ。Harvey は enim に注）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。定動詞のない文なので、前の文の続きとして訳すか、「〜されたのです」と補って独立させるかを訳出で決め、アウグスティヌスの形を `// ` メモに書く。alligare／resolvere は訳語表の「結ぶ／ほどく」に揃える。マタイ一〇・一六に口語訳の語（「へび」「賢さ」「はと」「素直さ」）を借りるかを決め、暗示として `// ` メモに書く。primogenitus は 3.22.4 の「死人の中から最初に生れたかた」との関係を考えて訳す。
+- 確かめた資料：St. pp. 769–770 本文・注 8、p. 770 注 1、2（画像 0817、0818、St. l. 87132–87133、87147–87148、87180–87186）。Hv. II p. 376 本文・注 4（Hv. II l. 31813–31816、31881、画像 0387）。口語訳 Matt.10.16、Col.1.15、Col.1.18。
+
+---
+
 ## 未確認
 
 - 現代の校訂版（Sources Chrétiennes の Rousseau–Doutreleau 版、第一巻）が、上の各箇所でどの読みを採っているか（たとえば 1.0.2 の Deum／Christum、1.10.1 の adventum、1.10.3 の et non in initio）。`cache/` に資料がなく確かめていない。
@@ -1630,3 +2063,17 @@ Stieren の紙面の下の段（近代の編者がギリシア語をラテン語
 - 4.38.2 の sensum erga Deum conversationis（ギリシア語 αἰσθητήρια … γυμνασίας）とヘブル五・一四、4.38.4 の agnitione accepta boni et mali と創世記三・二二、4.20.2 の sanguine suo redemit nos と黙示録五・九のつながりは、資料の欄外にも注にも挙がらない。訳者の気づきにとどまる。
 - 4.20.2 の黙示録三・七の後半（ダビデのかぎ）は、`../bible-api` の口語訳の本文に入っておらず、口語訳の文言を確かめていない。
 - ヘルマス『牧者』戒め一・一の引用を、エイレナイオスが scriptura と呼ぶことの意味（正典として引いたのか）について、Stieren と Harvey の注のほかの研究は見ていない。
+
+### 第五巻
+
+- 現代の校訂版（Sources Chrétiennes の Rousseau–Doutreleau 版、第五巻）と、第四巻・第五巻のアルメニア語訳の読み。たとえば 5.0.1 の quod／qui、5.1.1 の Qui nunc nuper の区切り、5.1.2 の perseveravit, Spiritus Dei、5.1.3 の solam aquam saecularem、5.2.2 の qua vere factum est と qui effusus est、5.19.1 の Et si ea inobedierat と advocata をどう扱うか。`cache/` に資料がなく確かめていない。
+- ギリシア語の証言そのもの（テオドレトス『エラニステス』、ダマスコスのヨアンネスの Parallela とその写本、Halloix の『エイレナイオス伝』）は見ていない。Stieren と Harvey の印刷と注で読んだだけ。テオドレトスについて、Stieren（第三対話 p. 155、第二対話 p. 87）と Harvey（Schulze IV pp. 232、129）は別の版のページを挙げるが、Stieren がどの版を使ったかは確かめていない。
+- アウグスティヌス『ユリアヌス駁論』第一巻の 5.19.1 の引用は、Stieren の注（St. p. 769 注 5、6、8、p. 770 注 1、2）で読んだだけで、原著で確かめていない。ユスティノス『トリュフォンとの対話』の並行（Hv. II p. 375 注 7、Grabe による）、エピファニオス『薬籠』30・16 とアウグスティヌス『異端について』64（Hv. II p. 316 注 4）、テルトゥリアヌス『キリストの肉体について』17 章（St. p. 769 注 4、Hv. II p. 376 注 2）、プルタルコス『マリウス伝』（同）、キプリアヌスの手紙 63（Hv. II pp. 319–320 注 4）、Cotelerius（St. p. 718 注 h）、Grotius のエペソ五・三〇の注（St. p. 718 注 e）、ベルナルドゥス（Hv. II p. 368 注 5）も、注で読んだだけ。
+- St. p. 714 注 7 の「Secundum Int. pro nostris animabus」が、訳者（Int.）ならそう訳すはずだという意味か、「Gr.」（ギリシア語）の誤植かは確かめていない（画像 0762 の印刷は「Int.」）。
+- 5.19.1 の写本の読みを、Stieren は et si eum obaudierat Deo（Vet.、Clarom.、Voss.）、Harvey は eū obaudiret（Clerm.、Vet.、Voss.）と報告する（St. p. 769 注 4、Hv. II p. 376 注 1）。どちらが正しいかは、Massuet の校注などで確かめていない。
+- Harvey が 5.2.2 のコロサイ一・一四（Hv. II p. 319 注 1）と 5.2.3 のエペソ五・三〇（Hv. II p. 321 注 4）で挙げる「Syr.」「The Syriac」は、エイレナイオスのシリア語の断片（XIX は corporis eius est で終わる）の範囲の外なので、シリア語訳の聖書を指すと思われるが、確かめていない。
+- Harvey が 5.2.3 のギリシア語の欄外に置く Luc. xvi. 9（Hv. II p. 323、画像 0334）が、どの語に当たるかは分からない。
+- 5.2.3 の quemadmodum praediximus（καθὼς προείπομεν）がどこを指すかは確かめていない。St. p. 720 注 4 の「et quemadmodum について Int. は et を知らない」の意味（ギリシア語に καί がないということか）も確かめていない。
+- 新約のギリシア語の本文が `cache/` にないので、5.1.1 のローマ一一・三四（ラテン語の alius）、5.2.2 のコロサイ一・一四とエペソ一・七、5.2.3 のエペソ五・三〇（「その肉とその骨から」を持つ写本と持たない写本）、第二コリント一二・九（「わたしの力」）が、ギリシア語の新約でどうなっているかは確かめていない。Grabe の注と口語訳だけで書いた。
+- 資料の欄外にも注にも挙がらない暗示（訳者の気づきにとどまる）：5.0.1 の in administratione sermonis と使徒行伝六・四、velut stercora とピリピ三・八、5.1.3 の in veteri generationis fermento と第一コリント五・七、5.2.3 の donatio Dei, quae est vita aeterna とローマ六・二三、granum tritici decidens in terram とヨハネ一二・二四、Spiritum Dei, qui continet omnia と知恵の書一・七、5.16.3 の primo … secundo Adam と第一コリント一五・四五、5.19.1 の serpentis prudentia … columbae simplicitate とマタイ一〇・一六。
+- 5.1.3 の Verbum Patris et Spiritus Dei を二つの主語に取るか、5.16.2 の imago eius の eius が何を指すか、5.16.3 の per eandem が何を受けるか、5.19.1 の advocata の意味について、Stieren と Harvey のほかの説は見ていない。

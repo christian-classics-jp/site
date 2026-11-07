@@ -211,4 +211,8 @@ README の進捗表の 13 ページ。第五巻 33 章 3〜4 節（パピアス�
 | nostrae potestatis, suae potestatis esse | 自分のことを自分で決める者である（4:38:4） |
 | humanitas／benignitas（神の） | 人への慈愛／いつくしみ（4:20:5） |
 | dispensator（言） | 管理者（4:20:7） |
+| similitudo（名詞として単独で使うとき） | 似姿（imago et similitudo の対で動詞に添うときは「神のかたちに、神にかたどった」のまま。5:1:1） |
+| apostasia（人を支配する力として） | 離反（尊敬語を使わない。5:1:1） |
+| adunitio, adunitus／unitio | 一つに結ばれること、一つに結ばれて／一つになること（5:1:1、5:1:3） |
+| commixtio（5.1.3 の聖餐の比喩） | 混ぜ合わせ、混ぜ合わされること（5:1:3） |
 | profundum（βυθός にかけた語） | 深み（1:0:2。異端のアイオーンの名 Bythus が出てきたら、字を揃えるか決めて、このメモも見直す） |
