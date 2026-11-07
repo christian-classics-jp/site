@@ -1,18 +1,18 @@
-# 校訂上の論点（1〜17 章）
+# 校訂上の論点（1〜19 章）
 
-『オクタウィウス』1〜17 章（オスティアの浜辺の場面、カエキリウスの演説、幕間、オクタウィウスの演説の初め）の本文で、写本の読みと底本の読みが違う箇所、底本が角括弧で削った語と、イタリックで補った語、編者のあいだで読みが分かれて意味が変わる箇所、古典や聖書との関係が訳に影響する箇所の一覧。訳は底本（Halm 1867）の読みのとおりに行い、ほかの読みは記録にとどめる。訳注は、ほかの読みを知ると一般の読者の理解が変わる箇所にだけ付ける。
+『オクタウィウス』1〜19 章（オスティアの浜辺の場面、カエキリウスの演説、幕間、オクタウィウスの演説の初めから、摂理と唯一の神、詩人と哲学者の証言まで）の本文で、写本の読みと底本の読みが違う箇所、底本が角括弧で削った語と、イタリックで補った語、編者のあいだで読みが分かれて意味が変わる箇所、古典や聖書との関係が訳に影響する箇所の一覧。訳は底本（Halm 1867）の読みのとおりに行い、ほかの読みは記録にとどめる。訳注は、ほかの読みを知ると一般の読者の理解が変わる箇所にだけ付ける。
 
-節番号は底本の余白の番号。1〜4 章は `halm-1867.txt` の行頭のラベル、5〜8 章は底本のスキャン（画像 0044〜0050）、9〜13 章は画像 0050〜0056、14〜17 章は画像 0056〜0061 の余白の番号に従った。9〜17 章の節が行のどの語から始まるかは、「9〜13 章の節の区切り」と「14〜17 章の節の区切り」にまとめた。
+節番号は底本の余白の番号。1〜4 章は `halm-1867.txt` の行頭のラベル、5〜8 章は底本のスキャン（画像 0044〜0050）、9〜13 章は画像 0050〜0056、14〜17 章は画像 0056〜0061、18〜19 章は画像 0061〜0066 の余白の番号に従った。9〜19 章の節が行のどの語から始まるかは、「9〜13 章の節の区切り」「14〜17 章の節の区切り」「18〜19 章の節の区切り」にまとめた。
 
 略号と資料の所在は次のとおり。資料の URL と取得情報は [sources.md](sources.md) にある。「l.」は各資料の OCR テキスト（`_djvu.txt`）の行番号。「画像」は底本のスキャンの画像番号（印刷ページ＋38）。
 
 - P：パリ写本 1661 番。『オクタウィウス』を伝える唯一の写本で、アルノビウス『異教徒駁論』七巻の後に「第八巻」として写されている（Halm 序文 l. 106–111、校注 l. 1095）。ブリュッセル写本 10847 番は P の写し（Halm 序文 l. 110–111、Wa 序文 l. 178–181）。Wa の序文は、P を 9 世紀の初めの写本とする Reifferscheid の説を紹介する（Wa l. 186–190）。校注の「P corr.」「m. 2」は P の訂正者の手。
 - r：1543 年にローマで出た初版（Faustus Sabaeus 編）。P から刷られた（Halm 序文 l. 112–115）。初版はこの書をアルノビウスの第八巻として出し、1560 年に Balduinus が著者をミヌキウスに戻した（Wa 序文 l. 157–162）。
-- Halm：底本。C. Halm 編、CSEL 2（1867）。本文は djvu l. 1078–1543（印刷 pp. 3–12、画像 0041–0050）。各ページの下の校注は、p. 3 l. 1095–1109、p. 4 l. 1151–1161、p. 5 l. 1195–1210、p. 6 l. 1251–1262、p. 7 l. 1292–1311、p. 8 l. 1346–1361、p. 9 l. 1399–1411、p. 10 l. 1442–1462、p. 11 l. 1498–1514、p. 12 l. 1548–1564。9〜13 章の本文は l. 1545–1836（印刷 pp. 12–18、画像 0050–0056）、校注は p. 13 l. 1605–1615、p. 14 l. 1654–1664、p. 15 l. 1702–1715、p. 16 l. 1752–1768、p. 17 l. 1803–1817、p. 18 l. 1857–1869。14〜17 章の本文は l. 1837–2083（印刷 pp. 18–23、画像 0056–0061）、校注は p. 18 l. 1857–1869、p. 19 l. 1910–1921、p. 20 l. 1958–1974、p. 21 l. 2019–2025、p. 22 l. 2069–2075、p. 23 l. 2119。巻末の索引の該当箇所は各項目に挙げる。校注の行番号はページごとの行番号で、余白の節番号とは別。校注と、角括弧・イタリックは画像で確かめた。序文（praefatio）で、いくつかの箇所の読みの判断を述べる（l. 156–451 のうち該当箇所を各項目に挙げる）。
-- Wa：J. P. Waltzing 編、Teubner 1912。P を 1907 年に自分で照合し、Halm よりも写本の読みに戻した本文（Wa 序文 l. 182–185、l. 259–268）。ページの下に、上段に典拠と類例、下段に校注を置く。1〜8 章の本文と校注は l. 763–1500、9〜13 章は l. 1498–1962、14〜17 章は l. 1964–2369（画像 0034–0039）。校訂者の略号表は l. 410–760。スキャンの画像番号は印刷ページ＋16（p. 12 は 0028）で、OCR が崩れた箇所は画像で確かめた。
-- Wa09：Waltzing の 1909 年の学校版の教師用の巻（partie du maître）。巻末の校訂付録（appendice critique）l. 7061–7330 に、写本から離れた箇所の理由を短く書く。語彙の解説 l. 3260–3285。14〜17 章の校訂付録は l. 7247–7293。
-- Ho：H. A. Holden 編、Cambridge 1853。英語の注解つき。1〜8 章の本文と注は l. 4754–7050 ごろ、9〜13 章は l. 7679–9990 ごろ、14〜17 章は l. 9940–11373 ごろ、序論 l. 1200–1275。
-- ANF：Ante-Nicene Fathers 第 4 巻の Wallis の英訳（`cache/ccel.org/anf04.txt`）。1〜8 章は l. 19954–20366、9〜13 章は l. 20368–20625、14〜17 章は l. 20627–20857。ANF がどの読みで訳しているかだけを記す。
+- Halm：底本。C. Halm 編、CSEL 2（1867）。本文は djvu l. 1078–1543（印刷 pp. 3–12、画像 0041–0050）。各ページの下の校注は、p. 3 l. 1095–1109、p. 4 l. 1151–1161、p. 5 l. 1195–1210、p. 6 l. 1251–1262、p. 7 l. 1292–1311、p. 8 l. 1346–1361、p. 9 l. 1399–1411、p. 10 l. 1442–1462、p. 11 l. 1498–1514、p. 12 l. 1548–1564。9〜13 章の本文は l. 1545–1836（印刷 pp. 12–18、画像 0050–0056）、校注は p. 13 l. 1605–1615、p. 14 l. 1654–1664、p. 15 l. 1702–1715、p. 16 l. 1752–1768、p. 17 l. 1803–1817、p. 18 l. 1857–1869。14〜17 章の本文は l. 1837–2083（印刷 pp. 18–23、画像 0056–0061）、校注は p. 18 l. 1857–1869、p. 19 l. 1910–1921、p. 20 l. 1958–1974、p. 21 l. 2019–2025、p. 22 l. 2069–2075、p. 23 l. 2119。18〜19 章の本文は l. 2085–2337（印刷 pp. 23–28、画像 0061–0066）、校注は p. 23 l. 2110–2125（2110 は典拠の行）、p. 24 l. 2158–2175、p. 25 l. 2212–2226（2212–2213 は典拠の行）、p. 26 l. 2258–2278、p. 27 l. 2313–2328、p. 28 l. 2362–2364。巻末の索引の該当箇所は各項目に挙げる。校注の行番号はページごとの行番号で、余白の節番号とは別。校注と、角括弧・イタリックは画像で確かめた。序文（praefatio）で、いくつかの箇所の読みの判断を述べる（l. 156–451 のうち該当箇所を各項目に挙げる）。
+- Wa：J. P. Waltzing 編、Teubner 1912。P を 1907 年に自分で照合し、Halm よりも写本の読みに戻した本文（Wa 序文 l. 182–185、l. 259–268）。ページの下に、上段に典拠と類例、下段に校注を置く。1〜8 章の本文と校注は l. 763–1500、9〜13 章は l. 1498–1962、14〜17 章は l. 1964–2369（画像 0034–0039）、18〜19 章は l. 2396–2850（画像 0039–0046。18.1 の冒頭は OCR から落ちているので画像 0039 で読んだ）。校訂者の略号表は l. 410–760。スキャンの画像番号は印刷ページ＋16（p. 12 は 0028）で、OCR が崩れた箇所は画像で確かめた。
+- Wa09：Waltzing の 1909 年の学校版の教師用の巻（partie du maître）。巻末の校訂付録（appendice critique）l. 7061–7330 に、写本から離れた箇所の理由を短く書く。語彙の解説 l. 3260–3285。14〜17 章の校訂付録は l. 7247–7293、18〜19 章は l. 7295–7401。18〜19 章の仏訳は l. 1026–1210。
+- Ho：H. A. Holden 編、Cambridge 1853。英語の注解つき。1〜8 章の本文と注は l. 4754–7050 ごろ、9〜13 章は l. 7679–9990 ごろ、14〜17 章は l. 9940–11373 ごろ、18〜19 章は l. 11400–12951 ごろ、序論 l. 1200–1275。
+- ANF：Ante-Nicene Fathers 第 4 巻の Wallis の英訳（`cache/ccel.org/anf04.txt`）。1〜8 章は l. 19954–20366、9〜13 章は l. 20368–20625、14〜17 章は l. 20627–20857、18〜19 章は l. 20859–21044。ANF がどの読みで訳しているかだけを記す。
 - 校訂者：底本の校注と Wa の略号表（l. 410–760）での名のまま挙げる。このうち刊本を出した編者は、Sabaeus（r、1543）、Gelenius（1546）、Balduinus（1560。Wa 序文 l. 162）、Ursinus（1583）、Wowerus（1603）、Heraldus（1613）、Rigaltius（1643）、Ouzelius（1652）、Davisius（1707）、Cellarius（1699）、Jac. Gronovius（1709）、Lindner（1760）、Oehler（1847）、Holden（1853）、Baehrens（1886）、Boenig（1903）、Waltzing（1903・1909・1912）。刊本を出していない学者は、Heumann、Wopkens、P. Daniel（Wowerus 版の注）、Meursius、Barth、Scheffer、Perizonius、J. Fr. Gronovius、Stieber、Klotz、Scaliger、Heusinger、Dombart、Vahlen、Usener、Bursian、Norden、Winterfeld、Haupt、Elter（1909）など。Baehrens、Boenig、Norden、Winterfeld の読みは、Wa と Wa09 の記述でだけ確かめた。
 
 「採る校訂者」の欄には、底本の読みが写本と違うとき、その推定がだれのものかを書く。本の `AGENTS.md` の書き分け（底本の編者の推定／ある刊本の編者の推定で、底本もこれを採る／ある学者の推定で、底本もこれを採る）に合わせ、「Halm 自身」「刊本の編者」「学者」と分類を添える。
@@ -1070,6 +1070,271 @@
 - Wa が底本と違う位置に節の境を置く箇所：Wa は 17.3 を Quo magis から始め、sacrilegii enim … inuenire を 17.2 に含める（Wa l. 2250–2253。Wa の画像 0038）。訳は底本の番号に従う。
 - ANF との対応：14、15、16、17 章の始まりは底本と同じ（ANF l. 20633、20687、20711、20782）。
 
+### 18.1〜18.2 その他の小さな異読（liniamenta、data est、quid cupido generandi）
+- 18.1 liniamenta：P と r の綴り。後の版は lineamenta（Halm 校注 l. 2112–2113）。Wa も liniamenta（Wa l. 2399）。
+- 18.2 nonne a Deo data est：Davisius は data sunt と読む（Halm 校注 l. 2113）。r は fetus を foetus とする（同）。Wa は Quid nascendi ratio? quid? cupido generandi nonne a deo data est と、quid? で区切る（Wa l. 2403–2404。Wa の画像 0040）。Wa は maturescente の ma が P で削った跡の上に書かれ、tu が行の上に書き足されている、とする（Wa l. 2447）。
+- 解釈：Ho は ut ubera … を、「乳房が…ように、とは神が与えたことではないか」と、data est の主語を ut 以下にも及ぼす Lindner の説明を引く（Ho l. 11429–11431）。
+- 読者への影響：小。訳注は付けない。
+- 確かめた資料：Halm l. 2085–2093、校注 l. 2112–2114（画像 0061）。Wa l. 2399–2405、2447（Wa の画像 0039、0040）。Ho l. 11413–11431。
+
+### 18.3 Aegypti siccitatem temperat Nilus amnis, Euphrates Mesopotamiam pro imbribus pensat（写本 amnis colet Euphrates）
+- 底本（Halm）：Britannia sole deficitur, sed circumfluentis maris tepore recreatur: Aegypti siccitatem temperat Nilus amnis, Euphrates Mesopotamiam pro imbribus pensat, Indus flumen et serere Orientem dicitur et rigare（「ブリタンニアは日の光に乏しいが、取り巻く海のぬくもりで生き返る。エジプトの乾きはナイル川がやわらげ、ユーフラテス川はメソポタミアに雨の代わりをし、インダス川は東方に種をまき、水を注ぐと言われる」）。
+- ほかの読み：P は amnis colet eufrates。Halm は Bursian に従って colet を削る（角括弧に入れず、本文から除く。画像 0061 で確かめた）。通行の本文は Davisius の考えに従って colit Euphrates Mesopotamiam, pro imbribus pensat Indus flumen et serere … と区切り、「ユーフラテスはメソポタミアを耕し、インダスが雨の代わりをして…」と読んでいた。Heraldus がすでに書き込みを嗅ぎつけていたが、pro imbribus pensat のほうを誤って削った、と Halm は書く。Wowerus は amnis を削る（Halm 校注 l. 2114–2118）。Wa は Cima の推定で temperare Nilus amnis solet（「ナイル川はやわらげるのが常である」）と読む（Wa l. 2409–2411、校注 l. 2449–2450。Wa の画像 0040 で、temperare の二つ目の r と solet の s がイタリックであることを確かめた）。Wa09 は、ナイルの氾濫はときに起こらないので solet なのだ、とする（Wa09 l. 7295–7297）。Ho は colit Euphrates Mesopotamiam: [pro imbribus pensat] Indus flumen … と、pro imbribus pensat を角括弧に入れる（Ho l. 11400–11401、11472）。ANF は Davisius の区切りで「ユーフラテスはメソポタミアを耕し、インダスが雨の不足を補う」と訳す（ANF l. 20879–20881）。Heumann は consulit を consuluit と読む。P は Britannia を bryttania と書く（Halm 校注 l. 2114）。
+- 典拠：Halm は 12〜14 行目（Britannia … Euphrates …）に、キケロ『神々の本性について』2.130 を挙げる（Halm l. 2110。画像 0061）。Wa も同じ箇所を挙げる（Wa l. 2435–2437）。Ho は同じキケロの箇所（ナイルはエジプトを潤し、ユーフラテスはメソポタミアを肥やし、インダスは種まで運ぶ）を引く（Ho l. 11518–11535）。Ho は Britannia sole deficitur に、ストラボン 4 巻、タキトゥス『アグリコラ』12 章などを挙げる（Ho l. 11442–11460）。
+- 採る校訂者：colet の削除は Bursian（学者）の提案。Halm が採る。
+- 読者への影響：小 — 底本ではユーフラテスが雨の代わりをし、通行の区切りではインダスが雨の代わりをする。どの川が何をするかが入れ替わるが、神が地方ごとに恵みを配るという論旨は同じ。
+- 訳での扱い：訳注は付けない。底本の区切りで訳す（ユーフラテス＝雨の代わり、インダス＝種まきと水やり）。colet は角括弧に入っていないので、底本テキストにも入れない。`// ` メモに、写本はナイルの後に colet（意味の通らない語）を持ち、ある学者の提案に従って底本がこれを除いたことを書く。
+- 確かめた資料：Halm l. 2094–2097、2110、校注 l. 2114–2118（画像 0061）。Wa l. 2407–2412、2435–2437、2449–2450（Wa の画像 0040）。Wa09 l. 7295–7297。Ho l. 11400–11401、11442–11460、11472、11518–11535。ANF l. 20877–20881。
+
+### 18.4 cum caelum terramque `**` perspicias prouidentiam（底本の脱落の印）
+- 底本（Halm）：ita in hac mundi domo cum caelum terramque**perspicias prouidentiam, ordinem, legem, crede esse uniuersitatis dominum parentemque ipsis sideribus et totius mundi partibus pulchriorem（terramque と perspicias のあいだに脱落の印 `**` を置く。画像 0061 の 18 行目で確かめた）。
+- 底本の説明：Halm は序文で、この文をミヌキウスが書いたとは信じがたい、とする。対格の prouidentiam, ordinem, legem が、まったく種類の違う caelum terramque に並べられているのがよくないうえ、perspicere（見抜く）は目に見えるものには使わない語だから cum caelum terramque perspicias という言い方自体がおかしい、という。ただし caelum terramque を書き込みとして消す Lindner の処置は大胆すぎ、perspicias が prouidentiam ordinem legem だけにかかると見た点だけが正しい。Vahlen が考えたように、terramque の後に分詞 lustrans か perlustrans（見渡して）が落ちたとみるのがもっともらしいので脱落の印を置いた、と述べ、17.4 の cum oculos in caelum sustuleris et quae sunt infra circaque lustraueris（天に目を上げ、下と周りを見渡すとき）を参照させる（序文 l. 366–382）。校注も同じことを短く書く（校注 l. 2118–2122）。
+- ほかの読み：Lindner は caelum terramque を削って cum perspicias prouidentiam と読む。Heumann は cum c. t. perspiciens prouidentiam ordinem legem uides, crede と読む（Halm 校注 l. 2118–2121）。Wa は P. Thomas（1905）の推定で cum caelo terraque perspicias（「天と地に摂理…を見抜くとき」）と、奪格に直す（Wa l. 2418、校注 l. 2450–2452。Wa の画像 0040 で caelo の o がイタリックであることを確かめた）。Wa の校注は、Vahlen の perlustrans と、Boenig の perscrutans aspicias を挙げる（同）。Wa09 は、in のない奪格は詩の言い方だがこの著者にはよくある、とする（Wa09 l. 7299–7302）。Ho は P のまま quum caelum terramque perspicias, providentiam, ordinem, legem と区切る（Ho l. 11482–11483）。Wa09 の仏訳は「天と地に摂理…を見いだすとき」の意味で訳す（Wa09 l. 1060–1061）。ANF は「天と地を、その摂理、秩序、掟を眺めるとき」と P の形で訳す（ANF l. 20885–20886）。P の第一の手は sideribus を siderebus と書く（Halm 校注 l. 2122）。
+- 典拠：Ho は、家に入って秩序を見れば主人がいると分かるという論を、キケロ『神々の本性について』2 巻のルキリウスの論（家や体育場や広場に入って、すべてに理と節度を見る人の例）のまねとする（Ho l. 11541–11557）。Wa は 18.4 の初めにキケロ『神々の本性について』2.15–18 を、pulchriorem の行に『知恵の書』13.1、プラトン『ティマイオス』29A を挙げる（Wa l. 2437–2439。Wa の画像 0040）。
+- 採る校訂者：脱落の印は Vahlen（学者）の考えによる。Halm が置く。
+- 読者への影響：小 — どの読みでも「世界という家に摂理と秩序と掟を見るなら、その主がいると信じよ」という論旨は同じ。
+- 訳での扱い：訳注は付けない。底本テキストには `**` をそのまま残す。訳では序文に従い、「天と地を見渡して（摂理と秩序と掟を見抜くなら）」と分詞を補う。`// ` メモに、底本がここに脱落の印を置き、序文で lustrans か perlustrans（見渡して）が落ちたとみて 17.4 を参照させていること、それに従って補ったことを書く。17.4 の「見渡す」と同じ訳語にそろえる。『知恵の書』は口語訳にないので、聖句として示さない。
+- 確かめた資料：Halm l. 2099–2105、序文 l. 366–382、校注 l. 2118–2122（画像 0061）。Wa l. 2414–2421、2437–2439、2450–2452（Wa の画像 0040）。Wa09 l. 1060–1061、7299–7302。Ho l. 11473–11490、11541–11557。ANF l. 20881–20888。
+
+### 18.5 その他の小さな異読（ni forte、plurimorum、quibus exempla utique de caelo）
+- ni forte：Heumann は nisi forte と読む（Halm 校注 l. 2122–2123）。
+- plurimorum：Gulielmus Meyer は plurium と読む（Halm 校注 l. 2123）。Wa も plurimorum（Wa l. 2426）。
+- imperia terrena, quibus exempla utique de caelo：Halm は terrena, a quibus と読みたいとし、キプリアヌス『偶像が神でないこと』5 の「神の支配の例を地上からも借りよう」を挙げる（Halm 校注 l. 2123–2125）。Ho は「（例が）天から取られている」と sunt petita を補って読み、同じキプリアヌスの箇所を挙げる（Ho l. 11559–11565）。Wa も、地上の王国の例をキプリアヌス『偶像について』8 に挙げる（Wa l. 2444）。
+- 読者への影響：小。訳注は付けない。quibus exempla utique de caelo は「地上の支配は、まさしく天に手本を持つ」と、天が手本で地上が写しという向きで訳す。
+- 確かめた資料：Halm l. 2105–2108、2131、校注 l. 2122–2125（画像 0061、0062）。Wa l. 2423–2429、2444（Wa の画像 0040）。Ho l. 11490–11508、11559–11565。
+
+### 18.6 sine cruore desiit（写本 discessit）
+- 底本（Halm）：quando umquam regni societas aut cum fide coepit aut sine cruore desiit?（「王位を分け合うことが、信義をもって始まり、血を流さずに終わったことが、いつあっただろうか」）。
+- ほかの読み：desiit は Ursinus がキプリアヌス『偶像が神でないこと』5.2 から採った読みで、P と r は discessit（Halm 校注 l. 2158）。Wa と Ho は P の discessit（Wa l. 2430–2431。Wa の画像 0040。Ho l. 11617）。Ho は、キプリアヌスがこの文を desiit で写していることを引き、何人かの編者がそこから desiit を本文に入れたと注する（Ho l. 11645–11658）。
+- 典拠：Wa は regni societas に、キケロ『義務について』1.26 などに引かれるエンニウスの詩句（王権には聖なる共同も信義もない）を挙げる（Wa l. 2440–2442）。Ho も同じエンニウスの句を引く（Ho l. 11645–11648）。
+- 採る校訂者：desiit は Ursinus（刊本の編者）。Halm が採る。
+- 読者への影響：小 — 「終わった」か「離れた（別れた）」かの違いで、文意は同じ。
+- 訳での扱い：訳注は付けない。
+- 確かめた資料：Halm l. 2131–2132、校注 l. 2158（画像 0062）。Wa l. 2429–2431、2440–2442（Wa の画像 0040）。Ho l. 11613–11617、11645–11658。
+
+### 18.6 Thebanorum par, mortuam fabulam（写本 permortuam）、ペルシア人・双子・婿と舅
+- 底本（Halm）：omitto Persas de equorum hinnitu augurantes principatum, et Thebanorum par, mortuam fabulam, transeo. ob pastorum et casae regnum de geminis memoria notissima est. generi et soceri bella toto orbe diffusa sunt, et tam magni imperii duos fortuna non cepit（「馬のいななきで王位を占ったペルシア人のことは言わずにおく。テーバイの二人という、もう死んだ話も素通りする。羊飼いと小屋の王国をめぐる双子のことは、よく知られている。婿と舅の戦いは全世界に広がった。これほど大きな支配でも、運は二人を容れなかった」）。
+- ほかの読み：P と r は Thebanorum permortuam。par, mortuam は Meursius と Rigaltius がキプリアヌス『偶像が神でないこと』5.2 の sic Thebanorum germanitas rupta（こうしてテーバイの兄弟の仲は裂けた）から直したもの（Halm 校注 l. 2158–2160）。Halm は序文で、この直しはほとんどすべての版に受け入れられ、自分も従ったが、Vahlen によれば、失われたヴェローナのキプリアヌスの古写本は Thebanorum fratrum germanitas rupta と読むので、Vahlen は Thebanorum fratrum intermortuam fabulam（テーバイの兄弟の、半ば死んだ話）と直すのももっともだ、と述べる（序文 l. 547–563）。Wa は P を per mortuā（行末で per が切れる）とし、Meursius と Rigaltius の par, mortuam を採る（Wa l. 2467、校注 l. 2521–2522。Wa の画像 0041）。Wa09 も同じ（Wa09 l. 7304–7307）。Ho は Thebanorum par mortuum, fabulam と刷り、Oehler は mortuum と読み、Gronovius は par, mortuam fabulam と読んで mortuam を「もう古びて、論証の力のない」の意味とした、と注する（Ho l. 11618–11619、11693–11706）。ANF は「まったく死んだテーバイの兄弟の作り話」と訳す（ANF l. 20897–20898）。Heumann は duos fortuna を fortuna duos の語順にし、Halm はそれを「もっともだ」とする。r は cepit（容れた）を coepit（始めた）とする（Halm 校注 l. 2160–2162）。
+- 人物：Halm の索引は、Thebanorum par をエテオクレスとポリュネイケス、gemini をロムルスとレムス、generi et soceri bella をポンペイウスとカエサルの戦いとし、fabula mortua を挙げる（Halm l. 4194、4503、4628、5092。l. 3960 にもカエサル）。Ho も同じ人物をあて、婿と舅にウェルギリウス『アエネーイス』6.830 を挙げる（Ho l. 11675、11693–11695、11708–11712）。ANF の脚注も同じ（ANF l. 20934–20938）。ペルシア人の話は、Ho がユスティヌス 1.10 とヘロドトス 3.84 を（Ho l. 11660–11671）、Wa がヘロドトス 3.84、ウァレリウス・マクシムス 7.2 を挙げる（Wa l. 2442）。ANF の脚注はダレイオス・ヒュスタスペスの例とする（ANF l. 20934）。
+- 典拠：Wa は Thebanorum par にスタティウス『テーバイス』10.876、ペトロニウス 80 を（Ho もペトロニウスの Thebanum par を挙げる。Ho l. 11693–11695）、casae regnum にプロペルティウスを、duos fortuna non cepit にルカヌス『内乱』1.111、フロルス 2.13.14 などを挙げる（Wa l. 2496–2500。Wa の画像 0041）。Ho も、この句はルカヌスの non cepit fortuna duos から直接か、フロルスを通して借りたとする（Ho l. 11713–11720）。Halm もこの句にルカヌス 1.109 とフロルスを参照させる（校注 l. 2160–2162）。
+- 採る校訂者：par, mortuam は Meursius（学者）と Rigaltius（刊本の編者）。Halm が採る。
+- 読者への影響：中 — 読みの違いは小さいが、「テーバイの二人」「双子」「婿と舅」が誰かを知らないと、王位を分け合えば必ず血が流れるという例が読者に伝わらない。
+- 訳での扱い：訳注は付けない（読みの違いではない）。par, mortuam fabulam は、底本の区切りどおり「テーバイの二人（という）、もう死んだ話」と、par と fabula を並べて訳す。人物の名は原文にないので、本文で「テーバイの兄弟」「双子の兄弟」のように分かる形にするか、名を補うかは訳者が決める。`// ` メモに、写本は permortuam で、par, mortuam はある学者と刊本の編者の推定で、底本もこれを採ることを書く。
+- 確かめた資料：Halm l. 2132–2137、校注 l. 2158–2162、序文 l. 547–563、索引 l. 3960、4194、4503、4628、5092（画像 0062）。Wa l. 2431、2440–2442、2467–2470、2496–2500、2521–2522（Wa の画像 0040、0041）。Wa09 l. 7304–7307。Ho l. 11617–11626、11660–11720。ANF l. 20895–20903、20934–20938。
+
+### 18.7 summam maiestatem … totam potestatem（写本 potestatem … potestatem）
+- 底本（Halm）：tu in caelo summam maiestatem diuidi credas et scindi ueri illius ac diuini imperii totam potestatem（「天では最高の威厳が分けられ、あのまことの神的な支配の全権が裂かれていると、あなたは信じるのでしょうか」）。
+- ほかの読み：maiestatem は Vahlen の推定で、P と r は summam potestatem。Davisius は potestatem を省いて summam diuidi と読む（Halm 校注 l. 2163–2166。Halm はキプリアヌスの同じ書（校注は l. c. 8 と書く）の「あの高みは仲間を持てない。ただひとりですべての権を持つから」を参照させる）。Wa は Jac. Gronovius の推定で、前を P のまま summam potestatem とし、後ろの totam potestatem を totam maiestatem と直す。P は前の potestatem をくり返して書いた（重複誤写）とする（Wa l. 2473–2475、校注 l. 2522。Wa の画像 0041 で maiestatem の mai がイタリックであることを確かめた。Wa09 l. 7308–7315 も同じ）。Ho は P のまま両方 potestatem とし、Davies は前の potestatem を消して summam を名詞に取ることを勧めた、と注する（Ho l. 11635–11641、11722–11788）。ANF は「最高の権力が分けられ、全権が裂かれる」と訳す（ANF l. 20904–20906）。
+- 採る校訂者：maiestatem は Vahlen（学者）。Halm が採る。
+- 読者への影響：小 — どちらの語がどちらに来ても、「天の支配が分割される」という意味は同じ。
+- 訳での扱い：訳注は付けない。`// ` メモに、写本は二つとも potestatem で、前の maiestatem はある学者の推定で、底本もこれを採ることを書く。maiestas（威厳）と potestas（権力）は訳し分ける。
+- 確かめた資料：Halm l. 2138–2140、校注 l. 2163–2166（画像 0062）。Wa l. 2472–2475、2522（Wa の画像 0041）。Wa09 l. 7308–7315。Ho l. 11632–11641、11722–11788。ANF l. 20904–20906。
+
+### 18.7 qui natiuitatem omnibus praestet, sibi perpetuitatem（第一テモテ 6.13、16）、uerbo iubet, ratione dispensat, uirtute consummat
+- 底本（Halm）：cum palam sit parentem omnium Deum nec principium habere nec terminum, qui natiuitatem omnibus praestet, sibi perpetuitatem, qui ante mundum fuerit sibi ipse pro mundo: qui uniuersa, quaecumque sunt, uerbo iubet, ratione dispensat, uirtute consummat（P のまま。P は praestet を prestet と書く）。
+- 典拠：Wa は qui natiuitatem omnibus praestet, sibi perpetuitatem に第一テモテ 6.13 と 6.16 を、uerbo iubet にヨハネ 1.1–14 を挙げる（Wa l. 2501–2504。Wa の画像 0041 で、それぞれ p. 25 の 10 行目と 12 行目の注であることを確かめた）。Ho も、前者を第一テモテ 6.13（すべてのものを生かす神）と 6.16（ただひとり不死を保つ）の言い方とし、後者にテルトゥリアヌス『護教論』17 章と 21 章の「言葉と理と力によって世界を造った」を引く（Ho l. 11790–11804）。Wa もテルトゥリアヌス『護教論』17.1、21.10、21.17 などを挙げる（Wa l. 2512–2514）。sibi ipse pro mundo に、Wa はアテナゴラス『嘆願』16 を挙げる（Wa l. 2503）。口語訳の第一テモテ 6.13 は『わたしはすべてのものを生かして下さる神のみまえと、…あなたに命じる』、6.16 は『神はただひとり不死を保ち、近づきがたい光の中に住み、人間の中でだれも見た者がなく、見ることもできないかたである』。
+- ほかの読み：Davisius は iubet, dispensat, consummat を接続法の iubeat, dispenset, consummet と読む（Halm 校注 l. 2166）。palam sit を、Halm の索引は manifestum sit（明らかである）とする（Halm l. 5470）。
+- 採る校訂者：Halm、Wa（l. 2475–2483）、Ho とも P の本文。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。聖書の言い方の響きにとどまり、直接の引用ではないので、口語訳の文言に揃えない。natiuitas（生まれ）と perpetuitas（終わりなく続くこと）の対、uerbo・ratione・uirtute（言葉・理・力）の三つの並びを崩さずに訳す。uerbum は、ヨハネ 1 章の響きを残すなら「ことば」とするが、ここは大文字の Verbum ではないので、「言葉」と訳して名前にしない。
+- 確かめた資料：Halm l. 2140–2145、校注 l. 2166、索引 l. 5470（画像 0062）。Wa l. 2475–2483、2501–2504、2512–2514（Wa の画像 0041）。Ho l. 11749–11759、11790–11804。口語訳 第一テモテ 6.13、6.16（`../bible-api`）。
+
+### 18.8 nec conprendi [potest], tactu purior est（底本の削除と、キプリアヌスからの補い）
+- 底本（Halm）：hic non uideri potest, uisu clarior est, nec conprendi [potest], tactu purior est, nec aestimari, sensibus maior est（potest を角括弧に入れて削る。「この方は見ることができない。目で見るには明るすぎるからだ。つかむこともできない。手でふれるには清すぎるからだ。量ることもできない。感覚より大きいからだ」）。tactu purior est はイタリックでなく、ふつうの字で刷られている（画像 0062 の 14 行目を幅 1600 で確かめた）。
+- ほかの読み：P は nec conprendi potest nec aestimari で、tactu purior est がない（Halm 序文 l. 343–352、Wa 校注 l. 2523–2524）。Canterus と Ursinus が、この箇所をそのまま写したキプリアヌス『偶像が神でないこと』（Halm は 5.5、Wa は 9 とする）の hic nec uideri potest, uisu clarior est, nec comprehendi, tactu purior est, nec aestimari, sensu maior est から tactu purior est を補った（Halm 校注 l. 2168–2171、序文 l. 343–356）。Halm は序文で、補いは正しいが、nec conprendi potest, tactu purior est とする補い方には疑いがあり、文の均整からは、キプリアヌスにない potest を、必要な補いを入れたうえで削るべきだ、と述べる。potest は purior est が崩れたものか、ただの書き込みだという（序文 l. 359–366。校注 l. 2169–2171 も同じ）。r は conprendi を compraehendi とする（Halm 校注 l. 2168）。Wa は nec conprehendi: tactu purior est と読み、potest を除き、tactu purior est をイタリックで刷る（Wa l. 2485–2486、校注 l. 2523–2524。Wa の画像 0041）。Wa09 は、明らかな欠落と potest の重複誤写があり、Norden がリズムのために conprehendi を提案した、とする（Wa09 l. 7317–7323）。Ho は nec comprehendi; [tactu purior est] と補いを角括弧に入れ、この語は写本になく、Meursius 以後の編者がキプリアヌスから入れた、と注する（Ho l. 11765–11766、11806–11811）。ANF は「手でふれるより清い」を訳し、脚注で、この語を省く編者がいるとする（ANF l. 20912、20942）。uero は P で uerbo から直したもの（Halm 校注 l. 2171）。
+- 典拠：Wa は hic non uideri potest にローマ 1.20 などを、テルトゥリアヌス『護教論』17.2–3 とキプリアヌスを挙げる（Wa l. 2506、2514–2516）。Ho はテルトゥリアヌス『護教論』17 章（見えないのに見られ、つかめないのに恵みによって示される、など）と、アンティオキアのテオフィロス『アウトリュコスへ』1.5 などを引く（Ho l. 11806–11846）。
+- 採る校訂者：tactu purior est は Canterus（学者）と Ursinus（刊本の編者）の補い。potest の削除は Halm 自身（序文と校注で理由を述べる）。
+- 読者への影響：小 — 補いがなくても「つかむこともできない」は残る。補いによって「見る・つかむ・量る」の三つがそろって「〜すぎるからだ」で受ける形になる。
+- 訳での扱い：訳注は付けない。本文テキストでは [potest] を角括弧ごと残し、訳さない。tactu purior est は底本がイタリックにしていないので、`⟨ ⟩` に入れず刷られたとおりに起こし、訳す。`// ` メモに、tactu purior est（手でふれるには清すぎる）は写本になく、この箇所を写したキプリアヌスからある学者と刊本の編者が補ったもので、底本もこれを採ること、写本の potest を底本の編者が削ったことを書く。
+- 確かめた資料：Halm l. 2145–2150、序文 l. 343–366、校注 l. 2168–2171（画像 0062）。Wa l. 2485–2493、2506、2514–2516、2523–2525（Wa の画像 0041）。Wa09 l. 7317–7323。Ho l. 11765–11775、11806–11846。ANF l. 20911–20914、20942。
+
+### 18.9〜18.10 nec nomen Deo quaeras, Deus nomen est、Deo, qui solus est
+- 底本（Halm）：nec nomen Deo quaeras, Deus nomen est. illic uocabulis opus est, cum per singulos propriis appellationum insignibus multitudo dirimenda est: Deo, qui solus est, Dei uocabulum totum est（P のまま）。
+- ほかの読み：Ursinus は Deo quaeras を Dei quaeras と読む。Halm はキプリアヌス『偶像が神でないこと』5.7 を参照させ、ただしそこでも属格を持つ版がある、と書く（Halm 校注 l. 2171–2172）。Deo, qui solus est について、Vahlen は、ラクタンティウス『神学綱要』1.6.5 が似た箇所で quia solus est と言うことを指摘する（Halm 校注 l. 2172–2173）。Ho は、ラクタンティウスがヘルメス・トリスメギストスの「神は名を持たない」を引いたあと、「神には名がない。ただひとりだからである。多くのものを分けるときのほかは固有の呼び名はいらない」とミヌキウスをまねて続けることを引き、ユスティノス『第一弁明』10、『第二弁明』6 なども挙げる（Ho l. 11897–11916）。Wa も、アリスティデス『弁明』1.5、ユスティノス『第一弁明』61、『第二弁明』6 などを挙げる（Wa l. 2573–2574、2587–2588）。
+- 刷り：Halm の dirimenda est: の後に、活字のかけらのような小さな印がある（画像 0062 の 22 行目。OCR は est:^ と読む）。校注に記載がなく、本文の語ではない。
+- 採る校訂者：Halm、Wa（l. 2543–2546）、Ho（l. 11870–11876）とも P の本文。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。「神」が名であることが伝わるように、Deus nomen est は「『神』が名なのです」と、名としての「神」を『』で示すことを勧める。dirimenda の後の印は起こさない。
+- 確かめた資料：Halm l. 2151–2155、校注 l. 2171–2173（画像 0062）。Wa l. 2543–2546、2573–2574、2587–2588（Wa の画像 0042）。Ho l. 11870–11876、11897–11916。
+
+### 18.10 carnalem … terrenum（写本 terrenum … carnalem）、intellegis
+- 底本（Halm）：quem si patrem dixero, carnalem opineris, si regem, terrenum suspiceris, si dominum, intellegis utique mortalem（「この方を父と呼べば、肉の者と思うでしょう。王と呼べば、地上の者と疑うでしょう。主と呼べば、きっと死ぬ者と取るでしょう」）。
+- ほかの読み：P と r は terrenum opineris, si regem carnalem suspiceris。形容詞の terrenum と carnalem を入れ替えたのは Wopkens（Halm 校注 l. 2173–2175）。Wa も Wopkens に従う（Wa l. 2546–2547、校注 l. 2597。Wa の画像 0042）。Wa09 は、carnalis は spiritalis（霊の）と対になって「父」に合い、terrenus は caelestis（天の）・immortalis と対になって「王」に合うので、入れ替わっていたのだ、と説明する（Wa09 l. 7324–7329）。Ho は P の語順のまま刷り、注で Wopkens の入れ替えを引く（Ho l. 11877–11878、11960–11964）。ANF は P の語順で「父と呼べば地上の者、王と呼べば肉の者」と訳す（ANF l. 20921–20923）。intellegis について、Wa09 は P の読みは intelleges（未来形）で、Halm の言う intellegis ではない、とする（Wa09 l. 7330）。Wa の本文も intelleges で、校注に「P にある」と書く（Wa l. 2548、校注 l. 2598）。Halm の校注にはこの語の記載がない。Ho は intelliges（Ho l. 11878）。
+- 採る校訂者：入れ替えは Wopkens（学者）。Halm、Wa が採る。
+- 読者への影響：小 — 写本の語順でも「人間の呼び名で呼ぶと、神を人間並みに思い描いてしまう」という論旨は同じ。
+- 訳での扱い：訳注は付けない。`// ` メモに、写本では terrenum（地上の）と carnalem（肉の）が逆の位置にあり、ある学者が入れ替え、底本もこれを採ることを書く。intellegis は底本のとおり現在形で読む（訳では前の二つと同じ推量の形にそろえてよい）。
+- 確かめた資料：Halm l. 2156、2181–2182、校注 l. 2173–2175（画像 0062、0063）。Wa l. 2546–2549、2597–2598（Wa の画像 0042）。Wa09 l. 7324–7330。Ho l. 11877–11879、11960–11964。ANF l. 20921–20923。
+
+### 18.11 audio uulgus … 'Deus magnus est' et 'Deus uerus est' et 'si Deus dederit'（テルトゥリアヌス『護教論』17 章）
+- 底本（Halm）：quid quod omnium de isto habeo consensum? audio uulgus: cum ad caelum manus tendunt, nihil aliud quam 'Deum' dicunt et 'Deus magnus est' et 'Deus uerus est' et 'si Deus dederit.' uulgi iste naturalis sermo est an Christiani confitentis oratio? et qui Iouem principem uolunt, falluntur in nomine, sed de una potestate consentiunt（民衆の言葉を引用符 ' ' で囲む。画像 0063）。
+- ほかの読み：P は削る前に de histo と書いていた。Vonck は audio を audi と読むが、Halm はキプリアヌス『偶像が神でないこと』9 の「よく『おお神よ』『神は見ておられる』と言うのを聞く」を参照させて退ける。Deus uerus est の箇所は、P が dm̄ uerus と書き、訂正者が dn̄s uerus（主はまことだ）に直した。ds（Deus）の誤りである（Halm 校注 l. 2215–2217。Wa 校注 l. 2598–2599 も同じ）。
+- 典拠：Wa は audio uulgus にテルトゥリアヌス『護教論』17.5–6、『魂の証言』2 などを挙げる（Wa l. 2590–2591）。Ho は、テルトゥリアヌス『護教論』17 章の「魂は…正気に返ると神を名指し、『よき神』『偉大な神』『神が与えたもうなら』と言う。おお、生まれながらにキリスト者である魂の証言よ」を長く引く（Ho l. 11972–12065）。si Deus dederit には、ギリシア語の「神が望むなら」の言い回しをアリストパネス、プラトン、ヘロドトスから挙げる（Ho l. 12067–12072）。qui Iouem principem uolunt に、Wa はプラトン『パイドロス』246e、キケロ『神々の本性について』2.4 などを挙げる（Wa l. 2575–2577）。ANF は 'Deum' を「おお神よ」と訳す（ANF l. 20926–20928）。
+- 採る校訂者：Halm、Wa（l. 2551–2557）、Ho（l. 11880–12021）とも P の本文（訂正前の形を正す）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。民衆の言葉は、オクタウィウスの演説の中で人の言葉を引くので「」に入れる（本の `AGENTS.md`）。'Deum' は呼びかけとして「神よ」と訳す。テルトゥリアヌスの「魂の証言」と同じ論だが、本文で触れない。
+- 確かめた資料：Halm l. 2182–2188、校注 l. 2215–2217（画像 0063）。Wa l. 2551–2557、2575–2577、2590–2591、2598–2599（Wa の画像 0042）。Ho l. 11880–12072。ANF l. 20926–20931。
+
+### 19.1 unum patrem diuum atque hominum（エンニウス）、qualem parens omnium diem induxerit（写本 diem duxerit、『オデュッセイア』18.136〜137）
+- 底本（Halm）：Audio poetas quoque unum patrem diuum atque hominum praedicantes, et talem esse mortalium mentem qualem parens omnium diem induxerit（「詩人たちも、神々と人間のただひとりの父をたたえ、死すべき者たちの心は、万物の父がもたらす日のとおりになる、と言っているのを聞きます」）。
+- ほかの読み：induxerit は Davisius の推定で、P は diem duxerit、r は deus induxerit（Halm 校注 l. 2217–2218）。Wa は P の diem duxerit を採り、P では du と xerit のあいだが削られている（du///xerit）とし、ウェルギリウス『アエネーイス』2.801 と『オデュッセイア』18.137 を参照させる（Wa l. 2561、校注 l. 2601–2603。Wa の画像 0042）。Wa09 は、写本の読みは文末のリズム（二重のクレティクス）と、『アエネーイス』2.801 の「ルキフェルが昇り、日を導いていた（ducebatque diem）」で支えられるとし、Norden と Winterfeld を挙げる（Wa09 l. 7332–7338）。Ho も diem duxerit を本文にし、写本の読みは、何人かの編者の言う direxerit ではなく duxerit だとする。induxerit、eduxerit、direxerit と読む人は著者の意味を取り違えたのであり、qualem diem duxerit は『オデュッセイア』18 巻の「地上の人間の心は、神々と人間の父がもたらす日のようなものだ」の訳だ、と注する（Ho l. 12037、12109–12112、12183–12209）。Ursinus は Audio を audi と読む（Halm 校注 l. 2217）。
+- 典拠：底本はこの節の二つの詩句に典拠を挙げない（p. 25 の典拠の行は 11 行目のウェルギリウスから始まる。Halm l. 2212–2213、画像 0063）。また、二つの句を隔字体（ウェルギリウスの句に使う字間を空けた刷り）にしていない。Wa は unum patrem diuum atque hominum に、キケロ『神々の本性について』2.4 に引かれるエンニウスの詩句と、ウァロ『ラテン語について』5.65、ウェルギリウス『アエネーイス』10.2 を、talem esse mortalium mentem に『オデュッセイア』18.135 以下と、アウグスティヌス『神の国』5.8 に残るキケロ『運命について』の断片（ホメロスのこの詩句のラテン語訳）を挙げる（Wa l. 2577–2582。Wa の画像 0042）。Ho も前者をキケロ『神々の本性について』2 巻のエンニウスの句とし（Ho l. 12103–12106）、後者について、キケロの訳「人の心は、父ユピテル自らが実りをもたらす光で地を照らしたとおりのものである」を引き、Rigaltius の「心は、その心が生まれた日のようなものだ」という説明を添える（Ho l. 12196–12209）。ANF の脚注は『オデュッセイア』18.136–137 を挙げる（ANF l. 21025）。
+- 採る校訂者：induxerit は Davisius（刊本の編者）。Halm が採る。
+- 読者への影響：小 — induxerit でも duxerit でも「（父が）日をもたらす」の意味で、違いはない。ただし、二つ目の句がホメロスの句（人の心は神の送る日しだいで変わる）だと知らないと、読者には意味がつかみにくい。
+- 訳での扱い：訳注は付けない（読みの違いが意味を変えないため）。`// ` メモに、写本は diem duxerit で、in はある刊本の編者が補った推定で、底本もこれを採ることを書く。二つの句は詩人の言葉なので『』で示し、mentem … qualem … diem は「人の心は、万物の父がもたらすその日のようになる」と、日ごとに心が移るというホメロスの意味が伝わるように訳す。典拠は底本が挙げないので、訳では名を出さない。
+- 確かめた資料：Halm l. 2190–2193、2212–2213、校注 l. 2217–2218（画像 0063）。Wa l. 2559–2561、2577–2582、2601–2603（Wa の画像 0042）。Wa09 l. 1128–1130、7332–7338。Ho l. 12031–12037、12103–12112、12183–12209。ANF l. 20950–20952、21025。
+
+### 19.2 ウェルギリウスの引用（『アエネーイス』6.724〜727、『農耕詩』4.221〜222、『アエネーイス』1.743）と unde homines et pecudes
+- 底本（Halm）：quid Mantuanus Maro? nonne apertius, proximius, uerius principio ait caelum ac terras et cetera mundi membra spiritus intus alit et infusa mens agitat, inde hominum pecudumque genus et quicquid aliud animalium? idem alio loco mentem istam et spiritum deum nominat. haec enim uerba sunt: / deum namque ire per omnes / terrasque tractusque maris caelumque profundum, / unde homines et pecudes, unde imber et ignes.
+- 刷り：底本はウェルギリウスの言葉そのものを字間を空けて刷る。一つ目の引用で隔字体なのは principio、caelum ac terras、spiritus intus alit、inde hominum pecudumque genus だけで、ait、et cetera mundi membra、et infusa mens agitat、et quicquid aliud animalium はふつうの字（画像 0063 の 11〜14 行目を幅 1800 で確かめた）。二つ目の引用（三行）は全体を隔字体で、詩の行に分けて刷る。
+- 典拠：底本は、11 行目に「『アエネーイス』6.724 以下による」、16 行目に『農耕詩』4.221 以下、18 行目に『アエネーイス』1.743 を挙げる（Halm l. 2212。画像 0063）。Ho も一つ目を『アエネーイス』6.724–729、二つ目を『農耕詩』4.221、三行目を『アエネーイス』1.743 とし、これらはピュタゴラスの説を述べた箇所だ、とする（Ho l. 12222–12232）。Wa は一つ目に『アエネーイス』6.724–729、二つ目に『農耕詩』4.221 以下と『アエネーイス』1.743 を挙げる（Wa l. 2582–2584、2646）。ANF の脚注も『アエネーイス』6.724、『農耕詩』4.221、『アエネーイス』1.743 を挙げる（ANF l. 21027、21031）。
+- ほかの読み：unde homines et pecudes は P のまま。底本の校注は、ウェルギリウス『アエネーイス』1.743 は unde hominum genus et pecudes で、『農耕詩』4.223 は hinc pecudes, armenta, uiros, genus omne ferarum と続く、と書く（Halm 校注 l. 2220–2222）。三行目は、『農耕詩』の二行に『アエネーイス』1 巻の一行をつないだものになる。Wa は Vahlen の推定で unde hominum genus et pecudes と、『アエネーイス』1.743 の形に直す（Wa l. 2619、校注 l. 2666–2667。Wa の画像 0043 で hominum の um と genus の us がイタリックであることを確かめた。Wa09 l. 7341–7344 も同じ）。Ho は P のまま（Ho l. 12175）。haec enim uerba sunt の uerba は Ursinus の推定で、P と r は uera（「これは真実だ」）（Halm 校注 l. 2219–2220。Wa 校注 l. 2666。Wa09 l. 7339 は 23.5 と 36.2 を参照させる）。ANF の脚注は「これらは真実だ」とする読みを挙げる（ANF l. 21029）。通行の本文は uerius? Principio と区切るが、底本は uerius principio ait と続け、principio を引用の初めの語とする（Halm 校注 l. 2218）。caelum ac terras の ac は P、r は et（同 l. 2218–2219）。Vonck は quicquid aliud animalium を quicquid alitur anim.（養われるものは何でも）と読む（同 l. 2219）。
+- 採る校訂者：uerba は Ursinus（刊本の編者）。Halm が採る。unde homines は P のまま。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。底本が隔字体にした語だけを『』に入れ、ふつうの字の部分（「…と言い」「世界のほかの肢体を」「注ぎ込まれた精神が動かし」など）は地の文として訳す。二つ目の引用は詩として 1 行ずつ訳し、行末に `<br/>` を付ける（ルートの `AGENTS.md`）。三行目は底本どおり「人間と家畜は」と訳し、「人間の種族」とはしない。`// ` メモに、uerba は写本で uera（真実）で、ある刊本の編者が直し、底本もこれを採ることを書く。
+- 確かめた資料：Halm l. 2193–2203、2212–2213、校注 l. 2218–2222（画像 0063）。Wa l. 2561–2564、2582–2584、2612–2619、2646、2666–2667（Wa の画像 0042、0043）。Wa09 l. 7339–7344。Ho l. 12151–12175、12222–12232。ANF l. 20952–20960、21027–21031。
+
+### 19.3 quid aliud et a nobis Deus、disciplinam philosophorum（キケロ『神々の本性について』1 巻の哲学者一覧）
+- 底本（Halm）：quid aliud et a nobis Deus quam mens et ratio et spiritus praedicatur? recenseamus, si placet, disciplinam philosophorum: deprehendes eos, etsi sermonibus uariis, ipsis tamen rebus in hanc unam coire et conspirare sententiam（P のまま）。
+- ほかの読み：aliud et は P、r は aliud。a は、P が削る前に ad と書いていた（Halm 校注 l. 2222–2223。Wa 校注 l. 2667–2668 も同じ）。Heumann は disciplinas と読む。Halm は uariis を uarios と読みたいとする（Halm 校注 l. 2223）。Ho は Heumann の disciplinas を本文にし、写本は disciplinam、disciplinas は「学派」の意味だとする（Ho l. 12179、12238–12241、12274）。
+- 典拠：底本は 20 行目（recenseamus …）以下に「キケロ『神々の本性について』1 巻 10 章以下から」と書く（Halm l. 2213。画像 0063）。Ho も、この哲学者たちの説の一覧はほとんどキケロ『神々の本性について』1.10 以下の写しだ、とする（Ho l. 12241–12244）。Wa も以下の各哲学者にキケロ『神々の本性について』1.25–41 の各節を挙げる（Wa l. 2651、2659、2705–2711、2768–2774）。
+- 採る校訂者：Halm、Wa（l. 2622–2627）とも P の本文。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。19.4〜19.14 の哲学者の説は、キケロ『神々の本性について』1 巻でエピクロス派のウェレイウスが批判のために並べた一覧から取られているが、オクタウィウスはそれを一神の証言に読み替えている。この事情は訳には出さない。
+- 確かめた資料：Halm l. 2204–2208、2213、校注 l. 2222–2223（画像 0063）。Wa l. 2622–2627、2667–2668（Wa の画像 0043）。Ho l. 12176–12179、12238–12244、12274–12276。
+
+### 19.4 is autem Milesius Thales（写本 isdem）、primus omnium のくり返し
+- 底本（Halm）：omitto illos rudes et ueteres, qui de suis dictis sapientes esse meruerunt. sit Thales Milesius omnium primus, qui primus omnium de caelestibus disputauit. is autem Milesius Thales rerum initium aquam dixit, deum autem eam mentem quae ex aqua cuncta formauerit（「粗野で古い人々、その言葉のゆえに賢者と呼ばれた人々のことは措きます。最初に、ミレトスのタレスを挙げましょう。万人に先駆けて天のことを論じた人です。このミレトスのタレスは、万物の始まりを水だと言い、神とは水からすべてを形づくった精神だと言いました」）。
+- ほかの読み：is autem は Vahlen の推定で、P は isdem、r は idem。Elmenhorst は Milesius Thales を削って is rerum と読む。ある評者（Z. f. Philos. u. kath. Theol. 18）は二つ目の primus omnium に削除の印を付けた。r は sit Thales を Si Thales とする。P の第一の手は disputauit を disputabit と書く（Halm 校注 l. 2223–2226）。Wa は is autem を採り、autem の aut をイタリックで刷る（Wa l. 2631、校注 l. 2670–2671。Wa の画像 0043）。Wa09 も is autem を Vahlen とする（Wa09 l. 7346）。Ho は r の Idem（Ho l. 12293）。ANF は「同じタレスは」と訳す（ANF l. 20967）。
+- 解釈：qui de suis dictis sapientes esse meruerunt は七賢人のこと。Wa はセネカ『自然研究』3.14.2、キケロ『友情について』7、ディオゲネス・ラエルティオス 1.40 を挙げる（Wa l. 2649–2651）。Ho は de suis dictis を「その言葉のゆえに」と取る（Ho l. 12246–12251）。Thales の説には、Wa がキケロ『神々の本性について』1.25 などを（Wa l. 2651）、Ho がキケロの同じ箇所とシンプリキオスを引く（Ho l. 12253–12258、12310–12319）。
+- 採る校訂者：is autem は Vahlen（学者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。primus omnium のくり返しは底本のとおり残し、「だれよりも先に」の重ねが分かるように訳す。
+- 確かめた資料：Halm l. 2208–2210、2232–2233、校注 l. 2223–2226（画像 0063、0064）。Wa l. 2629–2634、2649–2651、2670–2671（Wa の画像 0043）。Wa09 l. 7346。Ho l. 12246–12258、12288–12297、12310–12319。ANF l. 20964–20968。
+
+### 19.4 [eo altior et sublimior aquae et spiritus ratio, quam ut ab homine potuerit inueniri, a deo traditum]（底本の削除、創世記 1.2）
+- 底本（Halm）：deum autem eam mentem quae ex aqua cuncta formauerit: [eo altior et sublimior aquae et spiritus ratio, quam ut ab homine potuerit inueniri, a deo traditum]: uides philosophi principalis nobiscum penitus opinionem consonare（eo から traditum までを角括弧に入れて削る。画像 0064 の 2〜4 行目で確かめた。削った文は「水と霊についてのこの理は、人間に見いだされるにはあまりに高く崇高で、神から伝えられたものだ」の意味）。
+- ほかの読み：eo は P ではっきりそう書かれている。r は et、Vahlen は est、Rigaltius は eho、Holden は en と読む。Halm は J. Fr. Gronovius（『教会史考』7 章）に従って、この文を書き込みとして括弧に入れた。Cellarius は、同じ Gronovius にならって、この文を opinionem consonare の後に sed altior … と移した。poterit は P と r で、potuerit の推定者は校注に書かれていない。traditum は P、r は tradita、Vahlen は traditur。Halm は、写本の traditum が正しい読みであるほど、書き込みの疑いは強まる、と書く（Halm 校注 l. 2258–2262）。Wa は削らず、Vahlen の推定で Esto（「…としてもよい」）と読み、文全体を丸括弧に入れて (Esto altior … a deo traditum): と刷る。potuerit も Vahlen とする（Wa l. 2634–2639、校注 l. 2671–2672。Wa の画像 0043 で、丸括弧と、Esto の sto と potuerit の u がイタリックであることを確かめた）。Wa09 も esto と potuerit を Vahlen（Hermes 30）とする（Wa09 l. 7348–7349）。Wa09 の仏訳は、esto を受けて「水と霊のこの理が人の発明には深すぎ、神の啓示だとしてもよい。少なくとも…一致することは分かるだろう」の意味で訳す（Wa09 l. 1159–1163）。Ho は自分の推定で en（ほら）と読み、文を残す。ほかの注釈者は eho!（Rigaltius、Davies）、et（Heraldus）、exactior（Gronovius の手稿の注）などと読み、文を consonare の後に移す説や、文全体を書き込みとする Gronovius の説があった、と注する（Ho l. 12297–12301、12321–12333）。ANF は eho の読みで「ああ、水と霊のなんと高く崇高な理か。人には見いだせず、神から伝えられた」と訳す（ANF l. 20969–20971）。
+- 典拠：Wa はこの文に創世記 1.2 を挙げ、Vahlen の論文を参照させる（Wa l. 2653–2655。Wa の画像 0043 の上段の注、p. 27 の 16 行目）。Ho は、「ミヌキウスは創世記 1.2 を念頭に置いた」という Davies の注と、タレスはエジプト人から学び、エジプト人はモーセから学んだ、多くの古いキリスト者はこの箇所に洗礼の予表を見た、という Le Nourry の注を引く（Ho l. 12333–12350）。口語訳の創世記 1.2 は『地は形なく、むなしく、やみが淵のおもてにあり、神の霊が水のおもてをおおっていた』。
+- 採る校訂者：削除は J. Fr. Gronovius（学者）の説。Halm が採る（画像 0064 で角括弧を確かめた）。
+- 読者への影響：大 — 削られた文で、オクタウィウスはタレスの「水と精神」の説を、創世記 1.2 の「神の霊が水のおもてを」を思わせる「水と霊の理」と言い換え、人知を超えて神から伝えられたものだと主張する。ほかの版と英訳はすべてこの文を訳す。底本どおりに訳すと、読者はタレスの説から直接「哲学者の第一人者の考えはわたしたちと一致する」に進み、この主張を知らない。
+- 訳での扱い：本文テキストには角括弧ごと残し、訳さない。`// ` メモに、eo altior … a deo traditum（水と霊の理は高すぎて人には見いだせず、神から伝えられた）を、ある学者の説に従って底本が後の書き込みとして削ったことを書く。訳注を付けることを勧める。注の案：「写本には『水と霊の理は神から授かった』とあるが、後の書き込みとみて訳さない。」（36 字）。9.3 の [asini] と同じく、付けるかどうかは訳者が決める。
+- 確かめた資料：Halm l. 2232–2237、校注 l. 2258–2262（画像 0064）。Wa l. 2634–2639、2653–2655、2671–2672（Wa の画像 0043）。Wa09 l. 1159–1163、7348–7349。Ho l. 12297–12301、12321–12355。ANF l. 20969–20971。口語訳 創世記 1.2（`../bible-api`）。
+
+### 19.5〜19.6 Anaximenes、Apolloniates Diogenes、Anaxagorae uero descriptio et motus（写本 metus）infinitae mentis deus dicitur
+- 底本（Halm）：19.5 Anaximenes deinceps et post Apolloniates Diogenes aëra deum statuunt infinitum et inmensum … 19.6 Anaxagorae uero descriptio et motus infinitae mentis deus dicitur, et Pythagorae deus est animus per uniuersam rerum naturam commeans et intentus, ex quo etiam animalium omnium uita capiatur（「アナクサゴラスにとっては、無限の精神による秩序づけと動きが神と言われ、ピュタゴラスにとっては、万物の本性の全体を行き渡り張りめぐらされた魂が神で、すべての生き物の命もそこから受け取られる、と言います」）。
+- 名前：P は Anaximenes を anaxamenes と書く（Halm 校注 l. 2263。Wa 校注 l. 2672–2673 も同じ）。Apolloniates Diogenes は、Halm の索引で「アポロニアのディオゲネス」として 19.12 の「バビロンのディオゲネス」と分ける（Halm l. 3910、3936、4114–4118）。aëra は底本でウムラウトつきで刷られる（画像 0064）。
+- ほかの読み：motus は Meursius と Rigaltius の推定で、P は metus、r は modus。Bouhier は Anaxagorae rerum descriptio et modus inf. mentis opus dicitur、Lindner は mentis opus（または m. esse）dicitur と読む（Halm 校注 l. 2263–2265）。Wa は Usener の推定で descriptio を discriptio（配列）とし、motus を採る（Wa l. 2683、校注 l. 2719。Wa の画像 0044）。Wa09 は、キケロ『神々の本性について』1.26 を参照させる（Wa09 l. 7351–7353）。Ho は descriptio et motus とし、キケロ『神々の本性について』1.26 の「アナクサゴラスは、万物の秩序づけと動き（ある版は modum）が無限の精神の力と理によって定められると考えた最初の人」を引く（Ho l. 12389–12396、12446–12449）。ANF は「神は無限の精神の動きと言われる」と訳す（ANF l. 20974–20975）。capiatur は r の読みで、P は capitatur。Vahlen は、キケロ『神々の本性について』1.27 とラクタンティウス『神学綱要』1.5.17 を挙げて carpatur（摘み取られる）と読む（Halm 校注 l. 2266–2267）。Wa は Vahlen と Norden の carpatur を採る（Wa l. 2686、校注 l. 2720–2721。Wa09 l. 7354–7356）。Ho は capiatur で、キケロ『神々の本性について』1.27 の「ピュタゴラスは、魂が万物の本性に張りめぐらされ行き渡っていて、わたしたちの魂はそこから摘み取られると考えた」を引く（Ho l. 12405–12408、12461–12464）。
+- 構文：Halm は序文で、Anaxagorae … dicitur を、ギリシア語風の行為者を表す与格（「アナクサゴラスによって言われる」）の例に挙げる（序文 l. 776–777）。
+- 採る校訂者：motus は Meursius（学者）と Rigaltius（刊本の編者）。capiatur は r（刊本の編者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。Anaxagorae は与格の行為者として「アナクサゴラスは…を神と言う」と訳す。descriptio は「秩序づけ」「配置」の意味で訳す。
+- 確かめた資料：Halm l. 2237–2244、校注 l. 2263–2267、序文 l. 776–777、索引 l. 3910、3936、4114–4118（画像 0064）。Wa l. 2641–2643、2683–2686、2719–2721（Wa の画像 0043、0044）。Wa09 l. 7351–7356。Ho l. 12357–12408、12417–12468。ANF l. 20972–20978。
+
+### 19.7 Xenophanen、Antisthenen、Speusippum（写本 xeonfanen、antistenen、zeuxippus）
+- 底本（Halm）：Xenophanen notum est omne infinitum cum mente deum tradere, et Antisthenen populares deos multos, sed naturalem unum praecipuum, Speusippum uim [naturalem] animalem, qua omnia regantur, Deum nosse.
+- 名前：P は xeonfanen、r は Xenophanem。P は antistenen、r は Antisthenem。Speusippum は Gelenius の直しで、P は zeuxippus、r は speusippus（Halm 校注 l. 2267–2268。Wa 校注 l. 2721–2722 も同じ）。Halm の索引は Speusippus、Antisthenes、Xenophanes とする（Halm l. 3902、4600、4688）。Ho は Xenophanem、Antisthenem と r の形で刷る（Ho l. 12452、12508）。ANF は P の形で「クセウクシッポス」と訳し、脚注で「スペウシッポス」とする読みを挙げる（ANF l. 20981、21033）。
+- 典拠：Ho は、クセノパネス（精神を加えた、無限であるものすべてを神とした）、アンティステネス（民衆の神々は多いが、自然の神はひとつだと言った）、スペウシッポス（万物を支配するある力を、それも生きた力を言った）について、キケロ『神々の本性について』1 巻 11〜13 章の該当箇所を引く（Ho l. 12470–12492）。Wa もキケロ『神々の本性について』1.28、1.32 を挙げる（Wa l. 2705）。
+- 採る校訂者：Speusippum は Gelenius（刊本の編者）。Halm が採る。
+- 読者への影響：小 — 写本の zeuxippus は誤りで、同じ文がキケロでスペウシッポスの説として出る。
+- 訳での扱い：訳注は付けない。名は「クセノパネス」「アンティステネス」「スペウシッポス」とし、名前の表に加えることを勧める。Deum nosse は、Ho の注のとおり「神と認める」の意味で訳す（Ho l. 12492–12493）。
+- 確かめた資料：Halm l. 2244–2248、校注 l. 2267–2271、索引 l. 3902、4600、4688（画像 0064）。Wa l. 2686–2690、2705、2721–2723（Wa の画像 0044）。Ho l. 12452–12493、12508–12510。ANF l. 20978–20982、21033。
+
+### 19.7 uim [naturalem] animalem（底本の削除）
+- 底本（Halm）：Speusippum uim [naturalem] animalem, qua omnia regantur, Deum nosse（naturalem を角括弧に入れて削る。画像 0064 の 12〜13 行目で確かめた。行末で natu-ralem と分かれ、角括弧も [natu- と ralem] に分かれる）。
+- ほかの読み：P と r は uim naturalem animalem。uim animalem は Davisius が、キケロ『神々の本性について』1.32 の注で示した読み。Wopkens は uim naturamue anim. と読む（Halm 校注 l. 2268–2270）。Wa は naturalem を角括弧なしに除き、vim animalem と刷る（Wa l. 2689、校注 l. 2722–2723。Wa の画像 0044）。Wa09 も Davisius とし、キケロ 1.32 を参照させる（Wa09 l. 7358–7360）。Ho は P のまま vim naturalem animalem（Ho l. 12509–12510）。ANF も「自然の、生きた力」と訳す（ANF l. 20981–20982）。qua は P と r で、P の第二の手は quo と直す。Ursinus は Deum nosse を deum esse と読むが、Halm は Madvig のキケロ『善と悪の究極について』2.8 の注を参照させて退ける（Halm 校注 l. 2270–2271）。
+- 解釈：直前のアンティステネスの naturalem unum praecipuum（自然の唯一の神）から、naturalem が隣の行に入り込んだとみる余地がある。キケロ 1.32 のスペウシッポスの説は「ある力を…それも生きた力を」と言い、「自然の」を持たない（Ho l. 12487–12492 の引用）。
+- 採る校訂者：削除は Davisius（刊本の編者）の読み。Halm が採る（角括弧で示す）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。本文テキストには角括弧ごと残し（行末で分かれた語はつないで [naturalem] とする）、訳さない。`// ` メモに、naturalem（自然の）を、ある刊本の編者の読みに従って底本が削ったことを書く。
+- 確かめた資料：Halm l. 2246–2248、校注 l. 2268–2271（画像 0064）。Wa l. 2689、2722–2723（Wa の画像 0044）。Wa09 l. 7358–7360。Ho l. 12487–12493、12509–12510。ANF l. 20981–20982。
+
+### 19.8 quid? Democritus（区切り）、naturam quae imagines fundat et intellegentiam、Straton、Epicurus
+- 底本（Halm）：quid? Democritus, quamuis atomorum primus inuentor, nonne plerumque naturam quae imagines fundat et intellegentiam deum loquitur? Straton quoque et ipse naturam? etiam Epicurus ille, qui deos aut otiosos fingit aut nullos, naturam tamen superponit.
+- ほかの読み：通行の本文は Quid Democritus? と区切り、quid? Democritus と区切ったのは Arntzenius が最初（Halm 校注 l. 2271–2272）。Ho は Quid Democritus? と刷る（Ho l. 12512）。Wa は Halm と同じ Quid? Democritus（Wa l. 2690）。P は atomorum を athomorum と書く（Halm 校注 l. 2272）。Straton quoque et ipse naturam を、底本は疑問符で終え、Wa（l. 2692–2693）と Ho（l. 12515–12516）は平叙文で終える。
+- 解釈：Ho は imagines をデモクリトスの「像（エイドーラ）」、intellegentia を生まれつきの観念の意味とし、キケロ『神々の本性について』1.29 を引く（Ho l. 12495–12545）。Ho は、ストラトンもエピクロスも一つの摂理を説いた人ではないので、ここに並べるのは不適切だ、という Davies の注も引く（Ho l. 12547–12595）。Wa はデモクリトスにキケロ『神々の本性について』1.29、ストラトンに 1.35、エピクロスに 1.43 などを挙げる（Wa l. 2705–2708）。
+- 採る校訂者：区切りは Arntzenius（学者）。Halm、Wa が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。naturam quae imagines fundat は「像を送り出す自然」と訳す。Straton … naturam? は底本どおり疑問の形で、前の nonne … loquitur? の続きとして訳す。
+- 確かめた資料：Halm l. 2248–2253、校注 l. 2271–2272（画像 0064）。Wa l. 2690–2694、2705–2708（Wa の画像 0044）。Ho l. 12495–12595。
+
+### 19.9〜19.10 Aristoteles … Heraclides Ponticus quoque deo … Theophrastus etiam uariat（写本の乱れと語句の移し替え）
+- 底本（Halm）：19.9 Aristoteles uariat et adsignat tamen unam potestatem: nam interim mentem, mundum interim deum dicit, interim mundo deum praeficit. Heraclides Ponticus quoque deo diuinam mentem quamuis uarie adscribit. 19.10 Theophrastus etiam uariat, alias mundo, alias menti diuinae tribuens principatum. Zenon et Chrysippus et Cleanthes sunt et ipsi multiformes, sed ad unitatem prouidentiae omnes reuoluuntur.
+- 写本の形：P は praeficit の後に Aristoles ponticus uariat alias mundo alias menti diuinae tribuens principatum. heraclides ponticus quoque de deo diuinam mentem quamuis uarie adscribit. theofrastus et zenon et crysippus et cleanthes sunt … と書く（Halm 序文 l. 569–575、校注 l. 2274–2275。Wa 校注 l. 2724–2728 は、adscribit の上に do と書かれているとする。Wa09 l. 7361–7366 は、上に adscribendo とあるとする）。
+- 底本の説明：Halm は序文で、Aristoles ponticus … principatum の一句は、Heraldus や Meursius に従って多くの人がしたように書き込みとして追い出すのではなく、本来の場所から動いたものだと、C. Roeren（1859）が正しく見抜いた、と述べる。ミヌキウスが写したキケロ『神々の本性について』1.35「テオプラストスの気まぐれも許せない。あるときは精神に神の首位を与え、あるときは天に与える」がその証拠で、通行の本文ではテオプラストスだけ説が述べられず、ストア派と同じ学派のように並べられてしまう。ただし Roeren の Theophrastus uariat … principatum et Zenon … という直しでは足りず、Vahlen の見たとおり Theophrastus etiam（et の代わりに）uariat … principatum. Zenon … と続けるべきだ。テオプラストスについての句が落ち、欄外から補われたときに、近くの名（aristoles ponticus）を付けて違う場所に入った、と説明する（序文 l. 575–618）。校注は、Ursinus がこの句を書き込みとして除いたこと、Roeren が Aristoles ponticus を除いて句を Theophrastus の後に移したこと、Theophrastus etiam が Vahlen で P は theofrastus et であることを書く（校注 l. 2274–2278、2313–2314）。底本の本文は、移した句にも etiam にも印を付けない（画像 0064、0065）。quoque deo の de は P と r にあり、de を除いた推定者は校注に書かれていない（Halm 校注 l. 2278）。
+- ほかの読み：Wa は Theophrastus etiam variat, alias mundo, alias menti divinae tribuens principatum. Heraclides Ponticus quoque mundo divinam mentem quamvis varie adscribit と、テオプラストスをヘラクレイデスの前に置き、de deo を Sauppe の推定で mundo（世界に）とする（Wa l. 2697–2701、校注 l. 2724–2730。Wa の画像 0044 で、etiam の iam と mundo の mun がイタリックであることを確かめた）。Wa09 は、P. Médan（1905）が Theophrastus et を、Zenon にではなく uariat 以下に合う語として移したこと、Sauppe がキケロ 1.34 に従って de deo を mundo に直したことを書き、テオプラストスの移動のほかは写本の順を守る、とする（Wa09 l. 7366–7385）。Ho は Aristoteles … praeficit. Heraclides Ponticus quoque Deo divinam mentem, quamvis varie, adscribit. Theophrastus, et Zenon, et Chrysippus, et Cleanthes … と刷り、Aristoles ponticus の句を本文に入れない。注で、写本はヘラクレイデスの前に Aristoteles Ponticus variat … principatum を持ち、Davies などはそれを最初の三語を除いて adscribit の後に移す、とする（Ho l. 12612–12627、12666–12688）。ANF は Ho と同じ形で訳し、脚注で写本の句と、それを書き込みとみる説と、テオプラストスに移す説を挙げる（ANF l. 20987–20993、21035–21038）。Vahlen は adsignat を designat と読む（p. 28 の 20.1 designasse とキケロ 1.33 を参照）。Wopkens は unam を uni（または unam mundo）と読む（Halm 校注 l. 2272–2274）。
+- 典拠：Ho は、アリストテレスにキケロ『神々の本性について』1.33（あるときは精神に、あるときは世界そのものに神性を与え、あるときは世界の上に別のものを置く）を、ヘラクレイデスに 1.34（あるときは世界を、あるときは神の精神を神と考える）を、テオプラストスに 1.35 を引く（Ho l. 12597–12688）。Wa も 1.33、1.34、1.35 を挙げる（Wa l. 2708–2711）。
+- 採る校訂者：句の移し替えと Aristoles ponticus の削除は Roeren（学者）、etiam は Vahlen（学者）。Halm が採る。
+- 読者への影響：中 — 底本では、テオプラストスは「世界と神の精神のあいだで揺れた」という自分の説を持ち、ストア派の三人とは別に扱われる。写本の順に近い版や英訳では、テオプラストスはストア派の三人と一緒に「さまざまだが摂理の一つに帰る」とひとまとめにされる。ただし底本で読むかぎり、文は通っていて、読者の理解が別の読みを知って変わるほどではない。
+- 訳での扱い：訳注は付けない。`// ` メモに、テオプラストスの句（uariat … principatum）は写本ではアリストテレスの後に「アリストレス・ポンティクス」の名を付けて置かれており、ある学者がこれを移し、別の学者が et を etiam と直し、底本もこれを採ることを書く。deo diuinam mentem adscribit は底本どおり「神に神の精神を帰する」と訳す。名は「ヘラクレイデス・ポンティコス（ポントスのヘラクレイデス）」「テオプラストス」とし、名前の表に加えることを勧める。interim … interim は「あるときは…あるときは」と訳す（Ho l. 12656–12658）。
+- 確かめた資料：Halm l. 2253–2256、2284–2287、序文 l. 569–618、校注 l. 2272–2278、2313–2314（画像 0064、0065）。Wa l. 2695–2703、2708–2711、2724–2730（Wa の画像 0044）。Wa09 l. 1189–1192、7361–7385。Ho l. 12597–12688。ANF l. 20987–20993、21035–21038。
+
+### 19.10 Cleanthes enim mentem, modo animum（modo の欠落）、disseruit、Zenon
+- 底本（Halm）：Cleanthes enim mentem, modo animum, modo aethera, plerumque rationem deum disseruit. Zenon, eiusdem magister, naturalem legem atque diuinam et aethera interim interdumque rationem uult omnium esse principium; idem interpretando Iunonem aëra, Iouem caelum, Neptunum mare, ignem esse Vulcanum et ceteros similiter uulgi deos elementa esse monstrando publicum arguit grauiter et reuincit errorem（P のまま）。
+- 底本の説明：Halm は序文で、写字生が似た字のために語を落とした例として、ここも Cleanthes enim mentem ⟨modo⟩, modo animum … と補うのが同じく必要に思われる、と書く（序文 l. 300–304）。しかし本文には modo を補っていない（画像 0065 の 4 行目）。校注では、Davisius は mentem を mundum と読み、自分としては mundum modo（または mentem modo）, modo animum と読みたい、としてキケロ『神々の本性について』1.37 の「クレアンテスは、あるときは世界そのものを神と言い、あるときは自然全体の精神と魂にこの名を与え、あるときは…アイテールと呼ばれる熱を最も確かな神とする」を引く（校注 l. 2314–2319）。
+- ほかの読み：P は mentem modo animum。Wa はキケロ 1.37 に従い mentem modo naturae atque animum（あるときは自然の精神と魂を）と、naturae atque を補ってイタリックで刷る（Wa l. 2739、校注 l. 2789–2791。Wa の画像 0045）。Wa09 は、最初の項の前で modo が省かれたと認めて Cleanthes enim mentem, modo animum, modo aethera と読むこともできる、とする（Wa09 l. 7386–7392）。disseruit は P。Davisius は disserit と読み、Halm は、タレスの箇所のほかは前後の動詞がみな現在形なので、これが正しいようだ、とする（Halm 校注 l. 2319–2320）。Wa は disserit を採り、Davisius と、文末のリズムのための Winterfeld を挙げる（Wa l. 2740、校注 l. 2791–2792。Wa09 l. 7393–7397）。Ho は P のまま mentem, modo animum … disseruit（Ho l. 12630–12636）。ANF も P の形で訳す（ANF l. 20993–20995）。P と r は Chrysippus を crysippus と書く（Halm 校注 l. 2314）。
+- 典拠：Ho は、クレアンテスにキケロ『神々の本性について』1.37 とラクタンティウス『神学綱要』1.5.19、ゼノンに 1.36 を引き、ゼノンがユノを空気、ユピテルを天とする解釈にアテナゴラス、アレクサンドリアのクレメンスを挙げる（Ho l. 12690–12781）。Wa も 1.36、2.63–69 などを挙げる（Wa l. 2768–2770）。
+- 採る校訂者：Halm、Ho とも P の本文。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。底本の序文の考えに従い、mentem の前に modo を補って読み、「あるときは精神、あるときは魂、あるときはアイテール、たいていは理性を神とした」と訳す。本文テキストには補わない（底本の本文に補いがないため）。`// ` メモに、底本の編者が序文で modo の欠落を指摘していることを書く。
+- 確かめた資料：Halm l. 2287–2294、序文 l. 300–304、校注 l. 2314–2320（画像 0065）。Wa l. 2739–2746、2768–2770、2789–2792（Wa の画像 0045）。Wa09 l. 7386–7397。Ho l. 12630–12644、12690–12781。ANF l. 20993–21000。
+
+### 19.11 uim diuinam, rationalem naturam et mundum interim（区切り）、interpretatione physiologica（写本 physologiae）
+- 底本（Halm）：eadem fere Chrysippus: uim diuinam, rationalem naturam et mundum interim et fatalem necessitatem deum credit Zenonemque interpretatione physiologica in Hesiodi, Homeri Orpheique carminibus imitatur（「クリュシッポスもほぼ同じで、神の力、理性ある自然、またあるときは世界、そして運命の必然を神と信じ、ヘシオドス、ホメロス、オルペウスの詩を自然学として解釈する点でゼノンにならう」）。
+- ほかの読み：Wa は vim divinam rationalem, naturam et mundum, interim et fatalem necessitatem と区切り、「理性ある神の力、自然と世界、またあるときは運命の必然」と読む（Wa l. 2748–2752。Wa の画像 0045）。Wa09 の仏訳も「理性を備えた神の力、自然と世界、ときに避けられない必然」の意味で訳す（Wa09 l. 1206–1207）。Ho は vim divinam, rationalem naturam, et mundum interim と底本に近く区切る（Ho l. 12731–12734）。ANF は「神の力、理性ある自然、ときに世界、運命の必然」と訳す（ANF l. 21000–21002）。Vonck は uim enim diuinam と読む（Halm 校注 l. 2320–2321）。physiologica は Bursian の推定。P は physo・sogiae と書いて phylologiae に直し、r は physiologiae（Halm 校注 l. 2321–2322）。Wa は Bursian を採り、P は physologiae を phylologiae に直したとする（Wa 校注 l. 2792–2793）。Wa09 は、Norden が physiologice と読むことを挙げる（Wa09 l. 7398–7400）。P は aesiodi homeri orfeique と書く（Halm 校注 l. 2322）。
+- 典拠：Ho は、キケロ『神々の本性について』1.39「クリュシッポスは、神の力は理性と、自然全体の魂と精神にあると言い、世界そのものを神と言い、…運命の力と未来の必然とも呼ぶ」を引く（Ho l. 12783–12795）。Wa もキケロ『神々の本性について』1.39、1.40、1.55 を挙げる（Wa l. 2770）。
+- 採る校訂者：physiologica は Bursian（学者）。Halm、Wa が採る。区切りは Halm の本文のとおり。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。底本の区切りに従い、uim diuinam と rationalem naturam を別の二項として訳す。interpretatione physiologica は「自然学的な解釈」と訳す。
+- 確かめた資料：Halm l. 2294–2298、校注 l. 2320–2322（画像 0065）。Wa l. 2748–2754、2770、2792–2793（Wa の画像 0045）。Wa09 l. 1206–1207、7398–7400。Ho l. 12728–12740、12783–12795。ANF l. 21000–21004。
+
+### 19.12 Babylonio etiam Diogeni、cetera rerum uocabula（写本 ceterarum）
+- 底本（Halm）：Babylonio etiam Diogeni disciplina est exponendi et disserendi, Iouis partum et ortum Mineruae et hoc genus cetera rerum uocabula esse, non deorum（「バビロンのディオゲネスも、ユピテルの出産やミネルウァの誕生、そのたぐいのほかのことは、神々の名ではなく事物の呼び名だと説き明かすのを方法とする」）。
+- ほかの読み：cetera は Rigaltius の推定で、P と r は ceterarum（Halm 校注 l. 2323）。Halm は disciplina eadem est exponenti et disserenti と読みたいとする（同 l. 2322–2323）。Wa も cetera（Rigaltius）を採る（Wa l. 2756、校注 l. 2793）。Ho も cetera を本文にし、写本は ceterarum で、Gronovius は手稿の注で cetera tum（tantum）を提案した、とする（Ho l. 12749、12806–12810）。
+- 典拠：Ho はキケロ『神々の本性について』1.41「（バビロンのディオゲネスは）『ミネルウァについて』という書で、ユピテルの出産と処女の誕生を自然学に移して作り話から切り離す」を引き、disciplina est exponendi を「彼のやり方は説明することだ」とする（Ho l. 12797–12802）。Wa もキケロ 1.41 を挙げる（Wa l. 2770）。Halm の索引は、バビロンのディオゲネスが神々の話を寓意として解釈したとする（Halm l. 4117–4118）。
+- 採る校訂者：cetera は Rigaltius（刊本の編者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。Iouis partum は、キケロの文に合わせ、「ユピテルが（ミネルウァを）産んだこと」と、ユピテルが産む側であると分かるように訳す（ミネルウァはユピテルの頭から生まれたとされるため）。名は「バビロンのディオゲネス」とし、19.5 の「アポロニアのディオゲネス」と分ける。
+- 確かめた資料：Halm l. 2298–2301、校注 l. 2322–2323、索引 l. 4117–4118（画像 0065）。Wa l. 2754–2757、2770、2793（Wa の画像 0045）。Ho l. 12743–12752、12797–12810。
+
+### 19.13 nam Socraticus Xenophon（nam か iam か）、Ariston Stoicus（写本 aristo stonicus）
+- 底本（Halm）：nam Socraticus Xenophon formam dei ueri negat uideri posse et ideo quaeri non oportere, Ariston Stoicus conprehendi omnino non posse: uterque maiestatem Dei intellegendi desperatione senserunt（「ソクラテスの弟子クセノポンは、まことの神の姿は見ることができず、だから探し求めるべきでないと言い、ストア派のアリストンは、まったくとらえられないと言います。どちらも、知り尽くせないと思い知ることで、神の威厳を感じ取ったのです」）。
+- ほかの読み：nam は P。Halm は iam かもしれない、とする。P は Xenophon を xenofon と書く（Halm 校注 l. 2324）。P は aristo stonicus、r は Aristo stoicus、Gelenius は Aristo Chius（キオスのアリストン）。Halm は、写本の軽い崩れから Ariston の形を戻した、とする（Halm 校注 l. 2324–2326）。P と r は conprehendi を compraehendi、P は maiestatem を magistatem と書く（同 l. 2326）。Wa は Ariston Stoicus（Wa l. 2758、校注 l. 2794）。Ho は Gelenius の Aristo Chius を本文にし（Ho l. 12830）、キケロ『神々の本性について』1.37「アリストンは、神の姿は知りえないと考える」を引く（Ho l. 12866–12870）。ANF は「ストア派のアリスト」と訳し、脚注で「キオスのアリスト」とする読みを挙げる（ANF l. 21009、21040）。Halm の索引は「ストア派のアリストンは、神はとらえられないと考えた」とする（Halm l. 3914–3915）。
+- 典拠：Wa はクセノポンにキケロ『神々の本性について』1.31 とクセノポン『ソクラテスの思い出』4.3.13 を、アリストンにキケロ 1.37 を挙げる（Wa l. 2772–2774）。Ho も『ソクラテスの思い出』4.3.13 を引く（Ho l. 12812–12821）。Ho は nam を「というのは、クセノポンについては言うまでもなく」の意味とする（Ho l. 12812–12815）。
+- 採る校訂者：Ariston の形は Halm 自身。Stoicus は r（刊本の編者）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。名は「クセノポン」「ストア派のアリストン」とする。uterque … senserunt（どちらも…感じ取った）は複数の動詞のまま、二人を主語に訳す。
+- 確かめた資料：Halm l. 2301–2304、校注 l. 2324–2326、索引 l. 3914–3915（画像 0065）。Wa l. 2757–2761、2772–2774、2794（Wa の画像 0045）。Ho l. 12752–12755、12812–12833、12866–12870。ANF l. 21007–21011、21040。
+
+### 19.14 Platoni apertior … et rebus ipsis et nominibus、persuasionis ciuilis、in Timaeo（プラトン『ティマイオス』28c）
+- 底本（Halm）：Platoni apertior de deo et rebus ipsis et nominibus oratio est et quae tota esset caelestis, nisi persuasionis ciuilis nonnumquam admixtione sordesceret. Platoni itaque in Timaeo deus est ipso suo nomine mundi parens, artifex animae, caelestium terrenorumque fabricator, quem et inuenire difficile prae nimia et incredibili potestate, et cum inueneris, in publicum dicere inpossibile praefatur（P のまま。P は ipso suo を ipsuo から直す）。
+- ほかの読み：Meursius は et nominibus を et hominibus と読むが、Halm は Davisius を参照させて退ける。Halm は est, quae（et なし）かもしれない、とする。Ursinus は ipso suo を ipso と読む（Halm 校注 l. 2326–2328）。inueneris は r の読みで、P は inueniris、第二の手が inuenires と直した。Meursius は praefatur を profatur と読む（Halm 校注 l. 2362–2363。Wa 校注 l. 2846 は、P が inveniris から inveneris に直したとする）。
+- 解釈：Ho は、et rebus ipsis et nominibus を、プラトンが神を名だけでなく正しい属性で呼んだという Davies の説明で取り、caelestis oratio を「天の啓示にかなう、キリスト教的な言葉」とする Lindner の説明を引く。persuasionis ciuilis admixtione を、Le Nourry に従って「ときどき世間の思い込み（国の宗教）に譲りすぎて言葉を汚した」の意味とする（Ho l. 12872–12890）。Halm の索引は ciuilia を diuina と対にする語として挙げる（Halm l. 4842–4846）。
+- 典拠：底本はこの節に典拠を挙げない（画像 0065、0066）。Ho は quem et inuenire difficile … を『ティマイオス』28c「この万物の作り手であり父である者を見いだすのは難しく、見いだしても万人に語ることはできない」の言い換えとし、オリゲネス『ケルソス駁論』7 巻とアテナゴラス『嘆願』6 がこの箇所を論じていることを挙げる（Ho l. 12903–12928）。Wa は 26.12、『ティマイオス』28C と 29A、『法律』7 巻 821A、キケロ『神々の本性について』1.18、1.30、キケロ訳『ティマイオス』6 などを挙げる（Wa l. 2774–2780、2837）。Halm の索引は、プラトンが神は見いだしえないと言う箇所を 26.12 とし、その神についての説を 19.13 以下に挙げる（Halm l. 4483–4485）。
+- 採る校訂者：Halm、Wa（l. 2761–2805）、Ho とも P の本文。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。persuasio ciuilis は「国の（世間の）通念」と訳し、ローマ市民権などの意味に取らない。in publicum dicere inpossibile は、19.15 の numquam publice … praedicamus（公には語らない）と呼応するので、「公に語る」の訳語をそろえる。
+- 確かめた資料：Halm l. 2304–2310、2334–2335、校注 l. 2326–2328、2362–2363、索引 l. 4483–4485、4842–4846（画像 0065、0066）。Wa l. 2761–2805、2774–2780、2837、2846（Wa の画像 0045、0046）。Ho l. 12836–12928。ANF l. 21011–21019。
+
+### 19.15 eadem fere sunt ista（写本 fere et ista）
+- 底本（Halm）：eadem fere sunt ista, quae nostra sunt: nam et Deum nouimus et parentem omnium dicimus et numquam publice nisi interrogati praedicamus（「これらは、わたしたちの考えとほとんど同じです。わたしたちも神を知り、万物の父と呼び、問われないかぎり公に説くことはしないからです」）。
+- ほかの読み：fere sunt ista は Halm 自身の推定（scripsi。sunt が P の略記 st̄ から落ちたとみる）。P と r は fere et ista。Ursinus は fere ista quae et nostra sunt と読む（Halm 校注 l. 2363–2364）。Wa は P の Eadem fere et ista, quae nostra sunt（Wa l. 2808。Wa の画像 0046）。Ho も Eadem fere et ista que nostra sunt（Ho l. 12895）。ANF は「同じほどの意見が、わたしたちのものでもある」と訳す（ANF l. 21019–21020）。
+- 採る校訂者：sunt は Halm 自身の推定。
+- 読者への影響：小 — 写本の et ista でも「これらもわたしたちの考えとほぼ同じだ」の意味で、違いはない。
+- 訳での扱い：訳注は付けない。nisi interrogati は「問われないかぎり」と訳す（法廷で尋問されるときに限る意味か、ただ尋ねられるときの意味かは資料に説明がないので、どちらにも読める訳にする）。
+- 確かめた資料：Halm l. 2335–2337、校注 l. 2363–2364（画像 0066）。Wa l. 2808–2810、2846（Wa の画像 0046）。Ho l. 12895、12945–12951。ANF l. 21019–21022。
+
+### 18〜19 章の節の区切り
+底本の余白の番号が付いた行と、その行のどの語から節が始まるか。行の中の位置は文の切れ目から決めた（画像 0061〜0066）。偶数ページは余白の節番号が左、奇数ページは右にある。Wa の (n) の位置も添える。
+- 18.1 Longum est（p. 23 の 4 行目。章番号 18 は右の余白。Wa の画像 0039）。18.2 quid nascendi ratio?（p. 23 の 8 行目。この行は dissimiles inuenimur. で 18.1 が終わる。Wa l. 2403）。18.3 nec uniuersitati（p. 23 の 10 行目。Wa l. 2407）。18.4 quod si ingressus（p. 23 の 15 行目、行頭。Wa l. 2414）。18.5 ni forte（p. 23 の 20 行目。この行は mundi partibus pulchriorem: で 18.4 が終わる。Wa l. 2423）。
+- 18.6 quando umquam（p. 24 の 1 行目。この行は exempla utique de caelo. で 18.5 が終わる。Wa l. 2429）。18.7 uide cetera（p. 24 の 6 行目。この行は magni imperii duos fortuna non cepit. で 18.6 が終わる。Wa l. 2472）。18.8 hic non uideri（p. 24 の 13 行目。Wa l. 2485）。18.9 eloquar（p. 24 の 18 行目。Wa l. 2491）。18.10 nec nomen（余白の 10 は p. 24 の 20 行目にあり、この行は Deo quaeras, Deus nomen est. illic … で始まる。nec nomen は 19 行目の終わりにある。nec nomen Deo quaeras で一つの文なので、18.10 は nec nomen から始める。Wa も (10) を Nec nomen の前に置く。Wa l. 2543）。
+- 18.11 quid quod omnium（p. 25 の 2 行目。Wa l. 2551）。
+- 19.1 Audio poetas（p. 25 の 8 行目。章番号 19 は右の余白）。19.2 quid Mantuanus Maro?（p. 25 の 10 行目。この行は nium diem induxerit. で 19.1 が終わる。Wa l. 2561）。19.3 quid aliud et a nobis（p. 25 の 19 行目、行頭。直前の 16〜18 行目は『農耕詩』の三行）。19.4 omitto illos（p. 25 の 22 行目。Wa l. 2629）。
+- 19.5 Anaximenes（p. 26 の 5 行目。Wa l. 2641）。19.6 Anaxagorae（p. 26 の 7 行目。Wa l. 2643）。19.7 Xenophanen（p. 26 の 10 行目。Wa l. 2686）。19.8 quid? Democritus（p. 26 の 13 行目。この行は ralem] animalem … Deum nosse. で 19.7 が終わる。Wa l. 2690）。19.9 Aristoteles（p. 26 の 17 行目。Wa l. 2695）。
+- 19.10 Theophrastus etiam（p. 27 の 1 行目。この行は scribit. で 19.9 が終わる）。19.11 eadem fere Chrysippus（p. 27 の 10 行目。Wa l. 2748）。19.12 Babylonio（p. 27 の 14 行目。Wa l. 2754）。19.13 nam Socraticus（p. 27 の 16 行目。Wa l. 2757）。19.14 Platoni apertior（p. 27 の 19 行目。Wa l. 2761）。
+- 19.15 eadem fere sunt ista（p. 28 の 2 行目。余白の 15 は左にある。Wa l. 2808）。20 章は p. 28 の 5 行目から。
+- Wa が底本と違う位置に節の境を置く箇所：Wa は 19.3 を Recenseamus から始め、Quid aliud et a nobis … praedicatur? を 19.2 に含める（Wa l. 2622–2625。Wa の画像 0043）。Wa は 19.10 を Zenon から始める。Wa の本文ではテオプラストスの句がヘラクレイデスの前にあり、19.9 に入る（Wa l. 2697–2701。Wa の画像 0044）。訳は底本の番号に従う。
+- ANF との対応：18、19 章の始まりは底本と同じ（ANF l. 20859、20945）。
+
 ---
 
 ## 未確認
@@ -1097,3 +1362,13 @@
 - 17.7 の testatur? Ver：底本の校注は通行の本文の句読とし、Wa の校注は P の句読とする（Wa l. 2368）。
 - 17.9 の Wa の画像 0039 にある quicquid … animatur! を囲む角括弧は、鉛筆の書き込みと判断した。Wa の校注に削除の記載はない。
 - 14〜17 章の典拠として挙げた古典の箇所（プラトン『パイドン』88c–89d、『パイドロス』243d、キケロ『神々の本性について』1.10、2.1、2.4、2.20、2.100、2.140、『善と悪の究極について』2.3、オウィディウス『変身物語』1.84–86、『祭暦』5.3–6、ウェルギリウス『アエネーイス』6.540、サルスティウス『カティリナ』1.1、ゲッリウス『アッティカの夜』3.3、ヒエロニュムス『書簡』、ラクタンティウス『神学綱要』6.3、6.4.20、7.1.19、クレメンス『パイダゴーゴス』3.1 など）は、Ho・Wa・Halm の校注が挙げる箇所をそのまま記しただけで、原典の文言は確かめていない。
+- 18〜19 章で挙げた Bursian、Vahlen、Roeren（1859）、P. Médan（1905）、P. Thomas（1905）、Cima、Sauppe（1867）、Norden、Winterfeld、Usener、Gulielmus Meyer の推定と説明は、底本の校注・序文と Wa・Wa09 の記述でだけ確かめた。原著は見ていない。
+- 18.4 の脱落の印について、底本は序文で lustrans か perlustrans が落ちたとみるが、どちらの語が落ちたかは決めていない。訳の補い（「見渡して」）は 17.4 の lustraueris に合わせた選択で、資料が一つの語に定めているわけではない。
+- 18.8 の tactu purior est：補いなのに底本がイタリックにしていない理由は、序文にも校注にも書かれていない。序文は補いを正しいとし、potest の削除だけを角括弧で示した（序文 l. 343–366）。
+- 18.10 の intellegis：Wa09 は P の読みを intelleges とし、底本が intellegis としたと書く（Wa09 l. 7330）。底本の校注には記載がなく、どちらが P の読みかは確かめていない。
+- 19.4 の potuerit の推定者：底本の校注は「poterit Pr」とだけ書き、名を挙げない。Wa と Wa09 は Vahlen とするが、Ho（1853）の本文にすでに potuerit がある（Ho l. 12299）。だれが始めたかは確かめていない。
+- 19.9 の quoque deo（P と r は de deo）：de を除いた推定者を、底本の校注は書かない。Ho（1853）の本文にもすでに Deo がある（Ho l. 12614）。
+- 19.9 の P の adscribit の上の書き込み：Wa の校注は do、Wa09 は adscribendo とする（Wa l. 2726–2727、Wa09 l. 7366）。どちらが正しいかは確かめていない。
+- 19.13 の Ariston Stoicus と Aristo Chius が同じ人を指すかどうかは、使った資料に書かれていない。
+- 19.15 の nisi interrogati（問われないかぎり）が、裁きの場で尋問されることを指すのか、ただ尋ねられることを指すのかは、使った資料に説明がない。
+- 18〜19 章の典拠として挙げた古典と教父の箇所（キケロ『神々の本性について』1.25–41、2.4、2.5、2.15–18、2.130、『義務について』1.26、『運命について』の断片、ウェルギリウス『アエネーイス』1.743、2.801、6.724–729、6.830、10.2、『農耕詩』4.221–223、『オデュッセイア』18.135–137、ルカヌス『内乱』1.109–111、フロルス 2.13.14、スタティウス『テーバイス』10.876、ペトロニウス 80、プロペルティウス、ヘロドトス 3.84、ユスティヌス 1.10、プラトン『ティマイオス』28c、29A、『パイドロス』246e、クセノポン『ソクラテスの思い出』4.3.13、『知恵の書』13.1、キプリアヌス『偶像が神でないこと』、テルトゥリアヌス『護教論』17、21 章、ラクタンティウス『神学綱要』1.5–6、アテナゴラス『嘆願』など）は、Ho・Wa・Halm の校注が挙げる箇所をそのまま記しただけで、原典の文言は確かめていない。聖書（第一テモテ 6.13、6.16、創世記 1.2）は口語訳で確かめた。
