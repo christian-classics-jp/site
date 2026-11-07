@@ -267,3 +267,9 @@
 | fatum／fatus est | 運命（ファトゥム）／語られた（ファトゥス）（36:2。語呂合わせは読みを添える） |
 | genitura | 生まれたときの星の配置（36:2） |
 | ceterum（話を移す） | さて（34:1、34:9、36:3） |
+| religiose／pietas | うやうやしく／敬虔（20:5、25:1、28:7、33:3、35:2） |
+| inperitia／ignorantia・nescire・ignorare | 無知／知らない（ものを知らないこと）（13:2、33:2、35:4、35:5） |
+| facultates／diuitiae・opes／patrimonium | 財産／富／蓄え（16:5、36:5〜36:7） |
+| et tamen | とはいえ（35:1、36:4、36:7） |
+| error | 誤り（23:1、31:7、34:1、34:12。11:5 だけ「迷い」と訳している） |
+| conflagratio／incendium／ardor | 大火／炎上（35:3 の poenale incendium は「刑罰の炎」）／炎熱（34:1、34:3、35:1） |
