@@ -26,7 +26,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/staehlin-1909.txt` と各
 | chapter-11-15 | 11〜15 章 | [x] |
 | chapter-16-19 | 16〜19 章 | [x] |
 | chapter-20-23 | 20〜23 章 | [x] |
-| chapter-24-27 | 24〜27 章 | [ ] |
+| chapter-24-27 | 24〜27 章 | [x] |
 | chapter-28-32 | 28〜32 章 | [ ] |
 | chapter-33-38 | 33〜38 章 | [ ] |
 | chapter-39-41 | 39〜41 章 | [ ] |
