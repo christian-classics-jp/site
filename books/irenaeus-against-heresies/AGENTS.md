@@ -217,4 +217,18 @@ README の進捗表の 13 ページ。第五巻 33 章 3〜4 節（パピアス�
 | adunitio, adunitus／unitio | 一つに結ばれること、一つに結ばれて／一つになること（5:1:1、5:1:3） |
 | commixtio（5.1.3 の聖餐の比喩） | 混ぜ合わせ、混ぜ合わされること（5:1:3） |
 | augmentum | 成長（人について。4.38.4 の「成長の時」と揃える。造られたもの一般は 4.38.3 の「増し加わり」。5:1:1） |
+| eucharistia | 聖餐（calix eucharistiae＝聖餐の杯。5:2:2、5:2:3） |
+| verbum Dei（底本が小文字で、杯とパンが受けるもの） | 神のことば（Harvey の大文字の取り方はメモに書く。5:2:3） |
+| mixtus calix／factus panis | 混ぜ合わされた杯／作られたパン（5.1.3 の commixtio と同じ語群。5:2:3） |
+| augere, augetur（杯とパンがわたしたちの血・からだ・肉を） | 増し加える、増し加わる（5:2:2、5:2:3） |
+| dispositio, quae est secundum verum hominem（οἰκονομία） | まことの人のつくり（神の「ご計画」と訳し分ける。5:2:3） |
+| resolvere, resolutio（からだが地の中で） | 解く、解かれること（5:2:3） |
+| imago／similitudo／assimilare, consimilis | かたち／似姿／似せる、似た者（5:16:2。創世記一・二六を引くときだけ「神のかたちに、神にかたどった」） |
+| obedientia／inobedientia, obedire／inobedire, audire Deum | 従順／不従順、従う／従わない、神に聞き従う（3:22:3〜4 と揃える。5:16:3、5:19:1） |
+| assensio | 同意（5:16:3） |
+| debitores | 負債を負う者（5.17.1 のマタイ六・一二とつなぐ。5:16:3） |
+| advocata（マリヤがエバの） | 味方（3.18.7 の advocatio＝「罪に味方している」と同じ語群。とりなし手の意味にしない。5:19:1） |
+| protoplastus／primogenitus | 最初に形造られた者／最初にお生まれになったかた（5:19:1） |
+| seductio, seducere／evangelizare（マリヤが受ける） | 惑わし、惑わす／よい知らせを受ける（5:19:1） |
+| vincula, alligare（死に） | 縄目、結びつける（5:19:1） |
 | profundum（βυθός にかけた語） | 深み（1:0:2。異端のアイオーンの名 Bythus が出てきたら、字を揃えるか決めて、このメモも見直す） |
