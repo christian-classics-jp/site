@@ -7,7 +7,7 @@
 | 作品 | 原語 | 備考 |
 |---|---|---|
 | ユスティノス『トリュフォンとの対話』 | ギリシア語 | 長編 |
-| アレクサンドリアのクレメンス『救われる富者とは誰か』 | ギリシア語 | |
+| アレクサンドリアのクレメンス『救われる富者とは誰か』 | ギリシア語 | 翻訳中（`books/who-is-the-rich-man/`） |
 | サルディスのメリトン『過越について』 | ギリシア語 | 保留。1940 年に見つかった作品で、権利の切れた校訂本も英訳もない |
 | ミヌキウス・フェリクス『オクタウィウス』 | ラテン語 | 対話形式の弁証書 |
 
@@ -37,8 +37,6 @@
 |---|---|---|---|---|---|---|
 | ユスティノス『トリュフォンとの対話』 | First1KGreek。G. Archambault 編（Paris, 1909）の電子化 | CC BY-SA 4.0 | 同上の `data/tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml` | `F1K/tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml` | d5e87fafb4ee51cd | 2026-10-31 |
 | ユスティノス『トリュフォンとの対話』 | G. Archambault 編、Dialogue avec Tryphon I・II（Paris, 1909）のスキャン。仏訳が対訳で付く | パブリックドメイン（米国、1909 年刊） | https://archive.org/details/dialogueavectryp01just 、https://archive.org/details/dialogueavectryp02just | `cache/archive.org/dialogueavectryp01just/`、`dialogueavectryp02just/` の PDF と `_djvu.txt` | I：PDF 3225dbf3e881a2dd、txt 731671248eb71665。II：PDF a6dba9cdfdb13804、txt f9155affb7e27e5f | 2026-10-31 |
-| アレクサンドリアのクレメンス『救われる富者とは誰か』 | First1KGreek。O. Stählin 編、Clemens Alexandrinus III（GCS, 1909）の電子化 | CC BY-SA 4.0 | 同上の `data/tlg0555/tlg006/tlg0555.tlg006.1st1K-grc1.xml` | `F1K/tlg0555/tlg006/tlg0555.tlg006.1st1K-grc1.xml` | f300ef6a2ccfa819 | 2026-10-31 |
-| アレクサンドリアのクレメンス『救われる富者とは誰か』 | Stählin 編、Clemens Alexandrinus III（GCS, 1909）のスキャン。archive.org のメタデータの年（1905）はシリーズの第 1 巻の年 | パブリックドメイン（米国、1909 年刊） | https://archive.org/details/clemensalexandri0003clem | `cache/archive.org/clemensalexandri0003clem/` の PDF と `_djvu.txt` | PDF 2dd5321c205cd425、txt cd8920903785afde | 2026-10-31 |
 | ミヌキウス・フェリクス『オクタウィウス』 | C. Halm 編、M. Minucii Felicis Octavius. Iulii Firmici Materni Liber de errore profanarum religionum（CSEL 2、Wien, 1867）のスキャン | パブリックドメイン | https://archive.org/details/mminuciifelicis00halmgoog | `cache/archive.org/mminuciifelicis00halmgoog/` の PDF と `_djvu.txt` | PDF dd858274ac1d0ffd、txt c99508c28b7754de | 2026-10-31 |
 | エイレナイオス『異端反駁』第一巻のギリシア語の部分 | First1KGreek。Harvey 編（Cambridge, 1857）の電子化。OCR の崩れが残る | CC BY-SA 4.0 | 同上の `data/tlg1447/tlg001/tlg1447.tlg001.1st1K-grc1.xml` | `F1K/tlg1447/tlg001/tlg1447.tlg001.1st1K-grc1.xml` | bbbc779f0d9d2372 | 2026-10-31 |
 
