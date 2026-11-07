@@ -1,0 +1,13 @@
+# 資料
+
+訳と調査に使った資料。ファイルはリポジトリの `cache/`（git 管理外）に置く。取得し直すときは URL から同じ場所に保存し、SHA-256 の先頭 16 桁で同じものか確かめる。
+
+| 資料 | 権利 | URL | cache のパス | SHA-256（先頭 16 桁） | 取得日 |
+|---|---|---|---|---|---|
+| 底本：C. Halm 編、M. Minucii Felicis Octavius. Iulii Firmici Materni Liber de errore profanarum religionum（Corpus Scriptorum Ecclesiasticorum Latinorum 2、Wien: C. Gerold, 1867）。『オクタウィウス』は印刷 pp. 3〜56。各ページの上が本文、下が校注。序文（praefatio）は pp. III〜XXVIII で、底本の記号（角括弧は削除、イタリックは補い）と主な読みの判断を説明する。本文の OCR は djvu l. 1058〜3800 ごろ（各ページの柱 `Octauius c. …` は l. 1165（p. 5）、1266（p. 7）…3775（p. 56））。序文は l. 480〜1050 ごろ | パブリックドメイン（1867 年刊） | https://archive.org/details/mminuciifelicis00halmgoog | `cache/archive.org/mminuciifelicis00halmgoog/mminuciifelicis00halmgoog.pdf`、`mminuciifelicis00halmgoog_djvu.txt` | PDF dd858274ac1d0ffd、txt c99508c28b7754de | 2026-10-31 |
+| 同上の OCR の XML（語ごとの座標つき）。余白の行番号と節番号を本文から分けるのに使った。この資料には `page_numbers.json` がない。djvu の画像番号は印刷ページ＋38（p. 3 は 0041、p. 56 は 0094） | パブリックドメイン | https://archive.org/download/mminuciifelicis00halmgoog/mminuciifelicis00halmgoog_djvu.xml | `cache/archive.org/mminuciifelicis00halmgoog/mminuciifelicis00halmgoog_djvu.xml` | f91ff265c457fb9d | 2026-11-07 |
+| 同上の画像を IIIF で切り出したもの（`https://iiif.archive.org/image/iiif/3/mminuciifelicis00halmgoog%2fmminuciifelicis00halmgoog_jp2.zip%2fmminuciifelicis00halmgoog_jp2%2fmminuciifelicis00halmgoog_{番号}.jp2/pct:x,y,w,h/{幅},/0/default.jpg`、番号は印刷ページ＋38）。本文は画像から起こし、OCR と語ごとに突き合わせた。1〜4 章は pp. 3〜6（画像 0041〜0044）を幅 1400 で読み、p. 5 の 2 行目（civitatis、fluctibus）は幅 1600 で確かめた。OCR との違いはすべて OCR の誤り（contubemalis、altema、qaod、fiuctibus など）と行末の分綴だった。切り出しは保存していない | パブリックドメイン | 左の形の URL | なし | なし | 2026-11-07 |
+| A. Roberts & J. Donaldson 編、Ante-Nicene Fathers 第 4 巻（CCEL の電子テキスト）。R. E. Wallis の英訳「The Octavius of Minucius Felix」は l. 19950〜22300 ごろ（序論 l. 19870〜、1 章 l. 19954、5 章 l. 20098、14 章 l. 20627、16 章 l. 20703、20 章 l. 21045、25 章 l. 21374、30 章 l. 21730、35 章 l. 22012、39 章 l. 22249、40 章 l. 22264、41 章 l. 22289）。ANF は 41 章に分け、底本の 40 章を 40 章（Dum istaec … まで）と 41 章（Post haec laeti … ）に分ける。レビューで読み比べに使う | パブリックドメイン | https://ccel.org/ccel/schaff/anf04/cache/anf04.txt | `cache/ccel.org/anf04.txt` | b9f385a048c18158 | 2026-11-07 |
+| 口語訳聖書（1955 年版）の本文。FujiHaruka/bible-api の `mysql/sql/create-table.sql.tar.gz` | 1955 年版の本文のみ（日本聖書協会が後に訂正した語句は含まない） | https://github.com/FujiHaruka/bible-api | `../bible-api/mysql/sql/create-table.sql.tar.gz`（リポジトリの外） | 2961c5ac10691409 | 2026-10-26 |
+
+archive.org の資料は OCR テキスト（`_djvu.txt`）。OCR は余白の行番号・節番号を本文の語にくっつけ、校注を本文と同じ流れに入れるので、読みを確かめるときはスキャン画像を見る。

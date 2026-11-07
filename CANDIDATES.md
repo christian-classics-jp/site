@@ -8,7 +8,7 @@
 |---|---|---|
 | ユスティノス『トリュフォンとの対話』 | ギリシア語 | 長編 |
 | サルディスのメリトン『過越について』 | ギリシア語 | 保留。1940 年に見つかった作品で、権利の切れた校訂本も英訳もない |
-| ミヌキウス・フェリクス『オクタウィウス』 | ラテン語 | 対話形式の弁証書 |
+| ミヌキウス・フェリクス『オクタウィウス』 | ラテン語 | 翻訳中（`books/octavius/`）。対話形式の弁証書 |
 
 ## 3 世紀
 
@@ -36,7 +36,6 @@
 |---|---|---|---|---|---|---|
 | ユスティノス『トリュフォンとの対話』 | First1KGreek。G. Archambault 編（Paris, 1909）の電子化 | CC BY-SA 4.0 | 同上の `data/tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml` | `F1K/tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml` | d5e87fafb4ee51cd | 2026-10-31 |
 | ユスティノス『トリュフォンとの対話』 | G. Archambault 編、Dialogue avec Tryphon I・II（Paris, 1909）のスキャン。仏訳が対訳で付く | パブリックドメイン（米国、1909 年刊） | https://archive.org/details/dialogueavectryp01just 、https://archive.org/details/dialogueavectryp02just | `cache/archive.org/dialogueavectryp01just/`、`dialogueavectryp02just/` の PDF と `_djvu.txt` | I：PDF 3225dbf3e881a2dd、txt 731671248eb71665。II：PDF a6dba9cdfdb13804、txt f9155affb7e27e5f | 2026-10-31 |
-| ミヌキウス・フェリクス『オクタウィウス』 | C. Halm 編、M. Minucii Felicis Octavius. Iulii Firmici Materni Liber de errore profanarum religionum（CSEL 2、Wien, 1867）のスキャン | パブリックドメイン | https://archive.org/details/mminuciifelicis00halmgoog | `cache/archive.org/mminuciifelicis00halmgoog/` の PDF と `_djvu.txt` | PDF dd858274ac1d0ffd、txt c99508c28b7754de | 2026-10-31 |
 | エイレナイオス『異端反駁』第一巻のギリシア語の部分 | First1KGreek。Harvey 編（Cambridge, 1857）の電子化。OCR の崩れが残る | CC BY-SA 4.0 | 同上の `data/tlg1447/tlg001/tlg1447.tlg001.1st1K-grc1.xml` | `F1K/tlg1447/tlg001/tlg1447.tlg001.1st1K-grc1.xml` | bbbc779f0d9d2372 | 2026-10-31 |
 
 ほかの 2 世紀の候補は、使徒教父文書を訳すときに集めた資料に原文がある。記録はそれぞれの本の `research/sources.md` にある。
