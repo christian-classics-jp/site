@@ -50,6 +50,6 @@ function isOriginalLine (line) {
   if (trimmed.startsWith('% ')) {
     return false
   }
-  const firstLetter = trimmed.match(/[^\u0020-\u0040\u005b-\u0060\u007b-\u007e\u2000-\u206f]/)
+  const firstLetter = trimmed.match(/[^\u0020-\u0040\u005b-\u0060\u007b-\u007e\u00a0-\u00bf\u2000-\u206f]/)
   return Boolean(firstLetter) && /[A-Za-z\u00c0-\u024f\u0370-\u03ff\u1f00-\u1fff]/.test(firstLetter[0])
 }
