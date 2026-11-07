@@ -202,6 +202,11 @@ README の進捗表の 13 ページ。第五巻 33 章 3〜4 節（パピアス�
 | administratio（4.20.6）／ministeria sua（4.20.7）／ministrare | お務め／ご自分のお務め／仕える |
 | incapabilis／capax, capere／percipere（4.20.5） | 何ものにも容れられない／容れる、容れることのできる／受け取る（4.38.2 の capax effectus も同じ語群で） |
 | enarrare（ヨハネ一・一八、4.20.7） | あらわす |
+| innatus／infectus（どちらも ἀγέννητος）／factus, facta | 造られたのでない（かた、もの）／造られた（もの）（訳を一つにして対を見せる。4:38:1〜4） |
+| principalitas（神がすべてにおいて持つ。πρωτεύειν） | 首位（3.3.2 の「卓越性」とは別の意味。4:38:3） |
+| ministrare et formante（御子。δημιουργεῖν）／plasmare | 仕えて、形を与える／形造る（同じ文で訳し分ける。4:38:3） |
+| conversatio／disciplina | 生き方／訓練（4:38:1、4:38:2） |
+| nostrae potestatis, suae potestatis esse | 自分のことを自分で決める者である（4:38:4） |
 | humanitas／benignitas（神の） | 人への慈愛／いつくしみ（4:20:5） |
 | dispensator（言） | 管理者（4:20:7） |
 | profundum（βυθός にかけた語） | 深み（1:0:2。異端のアイオーンの名 Bythus が出てきたら、字を揃えるか決めて、このメモも見直す） |
