@@ -1,18 +1,18 @@
-# 校訂上の論点（1〜25 章）
+# 校訂上の論点（1〜28 章）
 
-『オクタウィウス』1〜25 章（オスティアの浜辺の場面、カエキリウスの演説、幕間、オクタウィウスの演説の初めから、摂理と唯一の神、詩人と哲学者の証言、神々がもとは人間であったこと、異教の祭儀のあざけり、詩人の作り話、偶像、ローマの祭儀と支配まで）の本文で、写本の読みと底本の読みが違う箇所、底本が角括弧で削った語と、イタリックで補った語、短剣符を付けた語、編者のあいだで読みが分かれて意味が変わる箇所、古典や聖書との関係が訳に影響する箇所の一覧。訳は底本（Halm 1867）の読みのとおりに行い、ほかの読みは記録にとどめる。訳注は、ほかの読みを知ると一般の読者の理解が変わる箇所にだけ付ける。
+『オクタウィウス』1〜28 章（オスティアの浜辺の場面、カエキリウスの演説、幕間、オクタウィウスの演説の初めから、摂理と唯一の神、詩人と哲学者の証言、神々がもとは人間であったこと、異教の祭儀のあざけり、詩人の作り話、偶像、ローマの祭儀と支配、鳥占いと神託の反駁、ダイモーンの正体、キリスト者への中傷への反論まで）の本文で、写本の読みと底本の読みが違う箇所、底本が角括弧で削った語と、イタリックで補った語、短剣符を付けた語、編者のあいだで読みが分かれて意味が変わる箇所、古典や聖書との関係が訳に影響する箇所の一覧。訳は底本（Halm 1867）の読みのとおりに行い、ほかの読みは記録にとどめる。訳注は、ほかの読みを知ると一般の読者の理解が変わる箇所にだけ付ける。
 
-節番号は底本の余白の番号。1〜4 章は `halm-1867.txt` の行頭のラベル、5〜8 章は底本のスキャン（画像 0044〜0050）、9〜13 章は画像 0050〜0056、14〜17 章は画像 0056〜0061、18〜19 章は画像 0061〜0066、20〜22 章は画像 0066〜0070、23〜25 章は画像 0070〜0075 の余白の番号に従った。9〜25 章の節が行のどの語から始まるかは、「9〜13 章の節の区切り」「14〜17 章の節の区切り」「18〜19 章の節の区切り」「20〜22 章の節の区切り」「23〜25 章の節の区切り」にまとめた。21〜23 章は、底本が写本の順を並べ替えている（「21〜23 章　写本の紙の入れ替わり」）。
+節番号は底本の余白の番号。1〜4 章は `halm-1867.txt` の行頭のラベル、5〜8 章は底本のスキャン（画像 0044〜0050）、9〜13 章は画像 0050〜0056、14〜17 章は画像 0056〜0061、18〜19 章は画像 0061〜0066、20〜22 章は画像 0066〜0070、23〜25 章は画像 0070〜0075、26〜28 章は画像 0075〜0080 の余白の番号に従った。9〜28 章の節が行のどの語から始まるかは、「9〜13 章の節の区切り」「14〜17 章の節の区切り」「18〜19 章の節の区切り」「20〜22 章の節の区切り」「23〜25 章の節の区切り」「26〜28 章の節の区切り」にまとめた。21〜23 章は、底本が写本の順を並べ替えている（「21〜23 章　写本の紙の入れ替わり」）。
 
 略号と資料の所在は次のとおり。資料の URL と取得情報は [sources.md](sources.md) にある。「l.」は各資料の OCR テキスト（`_djvu.txt`）の行番号。「画像」は底本のスキャンの画像番号（印刷ページ＋38）。
 
 - P：パリ写本 1661 番。『オクタウィウス』を伝える唯一の写本で、アルノビウス『異教徒駁論』七巻の後に「第八巻」として写されている（Halm 序文 l. 106–111、校注 l. 1095）。ブリュッセル写本 10847 番は P の写し（Halm 序文 l. 110–111、Wa 序文 l. 178–181）。Wa の序文は、P を 9 世紀の初めの写本とする Reifferscheid の説を紹介する（Wa l. 186–190）。校注の「P corr.」「m. 2」は P の訂正者の手。
 - r：1543 年にローマで出た初版（Faustus Sabaeus 編）。P から刷られた（Halm 序文 l. 112–115）。初版はこの書をアルノビウスの第八巻として出し、1560 年に Balduinus が著者をミヌキウスに戻した（Wa 序文 l. 157–162）。
-- Halm：底本。C. Halm 編、CSEL 2（1867）。本文は djvu l. 1078–1543（印刷 pp. 3–12、画像 0041–0050）。各ページの下の校注は、p. 3 l. 1095–1109、p. 4 l. 1151–1161、p. 5 l. 1195–1210、p. 6 l. 1251–1262、p. 7 l. 1292–1311、p. 8 l. 1346–1361、p. 9 l. 1399–1411、p. 10 l. 1442–1462、p. 11 l. 1498–1514、p. 12 l. 1548–1564。9〜13 章の本文は l. 1545–1836（印刷 pp. 12–18、画像 0050–0056）、校注は p. 13 l. 1605–1615、p. 14 l. 1654–1664、p. 15 l. 1702–1715、p. 16 l. 1752–1768、p. 17 l. 1803–1817、p. 18 l. 1857–1869。14〜17 章の本文は l. 1837–2083（印刷 pp. 18–23、画像 0056–0061）、校注は p. 18 l. 1857–1869、p. 19 l. 1910–1921、p. 20 l. 1958–1974、p. 21 l. 2019–2025、p. 22 l. 2069–2075、p. 23 l. 2119。18〜19 章の本文は l. 2085–2337（印刷 pp. 23–28、画像 0061–0066）、校注は p. 23 l. 2110–2125（2110 は典拠の行）、p. 24 l. 2158–2175、p. 25 l. 2212–2226（2212–2213 は典拠の行）、p. 26 l. 2258–2278、p. 27 l. 2313–2328、p. 28 l. 2362–2364。20〜22 章の本文は l. 2338–2561（印刷 pp. 28–32、画像 0066–0070）、校注は p. 28 l. 2362–2379、p. 29 l. 2409–2428（続きは p. 30 の校注の初めの l. 2470–2473）、p. 30 l. 2475–2483、p. 31 l. 2518–2532、p. 32 l. 2568–2578。23〜25 章の本文は l. 2563–2802（印刷 pp. 32–37、画像 0070–0075）、校注は p. 32 l. 2579–2581（22〜25 行目の分）、p. 33 l. 2621–2631、p. 34 l. 2666–2680、p. 35 l. 2720–2731、p. 36 l. 2770–2783、p. 37 l. 2819–2822（1〜12 行目の分）。pp. 28–37 には典拠の行がない。巻末の索引の該当箇所は各項目に挙げる。校注の行番号はページごとの行番号で、余白の節番号とは別。校注と、角括弧・イタリックは画像で確かめた。序文（praefatio）で、いくつかの箇所の読みの判断を述べる（l. 156–830 のうち該当箇所を各項目に挙げる）。
-- Wa：J. P. Waltzing 編、Teubner 1912。P を 1907 年に自分で照合し、Halm よりも写本の読みに戻した本文（Wa 序文 l. 182–185、l. 259–268）。ページの下に、上段に典拠と類例、下段に校注を置く。1〜8 章の本文と校注は l. 763–1500、9〜13 章は l. 1498–1962、14〜17 章は l. 1964–2369（画像 0034–0039）、18〜19 章は l. 2396–2850（画像 0039–0046。18.1 の冒頭は OCR から落ちているので画像 0039 で読んだ）。20〜22 章は、底本 20.1〜21.12 が l. 2813–3083、21.12 の短剣符の一文が l. 3235–3236、底本 22 章（Wa の 23 章）が l. 3237–3414（画像 0046–0049、0052–0054）。23〜25 章は、底本 23.1〜23.8（Wa の 24 章）が l. 3416–3512、底本 23.9〜24.5（Wa の 22 章）が l. 3085–3233、底本 25 章が l. 3514–3733（画像 0050–0052、0055–0059）。Wa は 21〜24 章を底本と違う順に並べる。校訂者の略号表は l. 410–760。スキャンの画像番号は印刷ページ＋16（p. 12 は 0028）で、OCR が崩れた箇所は画像で確かめた。
-- Wa09：Waltzing の 1909 年の学校版の教師用の巻（partie du maître）。巻末の校訂付録（appendice critique）l. 7061–7330 に、写本から離れた箇所の理由を短く書く。語彙の解説 l. 3260–3285。14〜17 章の校訂付録は l. 7247–7293、18〜19 章は l. 7295–7401、20〜22 章は l. 7403–7504、23〜25 章は l. 7448–7466（底本 23.9〜24.5）、7506–7540。18〜19 章の仏訳は l. 1026–1210、20〜22 章は l. 1241–1534、23〜25 章は l. 1382–1463（底本 23.9〜24.5）、1537–1676。
-- Ho：H. A. Holden 編、Cambridge 1853。英語の注解つき。1〜8 章の本文と注は l. 4754–7050 ごろ、9〜13 章は l. 7679–9990 ごろ、14〜17 章は l. 9940–11373 ごろ、18〜19 章は l. 11400–12951 ごろ、20〜22 章は写本の順で、l. 12954–14086（底本 20.1〜21.3、21.12 の短剣符の一文、22 章）、14497–14797（21.4〜21.8）、14767–15041（21.9〜21.12）、23〜25 章は l. 14130–14496（23.1〜23.8）、15044–15240（23.9〜23.13）、15305–15700（24 章）、15643–16220（25 章）、序論 l. 1200–1275。
-- ANF：Ante-Nicene Fathers 第 4 巻の Wallis の英訳（`cache/ccel.org/anf04.txt`）。1〜8 章は l. 19954–20366、9〜13 章は l. 20368–20625、14〜17 章は l. 20627–20857、18〜19 章は l. 20859–21044、20〜22 章は写本の順で l. 21045–21302 に分かれて入る（対応は「20〜22 章の節の区切り」）。23〜25 章は l. 21206–21236（23.1〜23.8）、21302–21331（23.9〜23.13）、21335–21454（24〜25 章）。ANF がどの読みで訳しているかだけを記す。
+- Halm：底本。C. Halm 編、CSEL 2（1867）。本文は djvu l. 1078–1543（印刷 pp. 3–12、画像 0041–0050）。各ページの下の校注は、p. 3 l. 1095–1109、p. 4 l. 1151–1161、p. 5 l. 1195–1210、p. 6 l. 1251–1262、p. 7 l. 1292–1311、p. 8 l. 1346–1361、p. 9 l. 1399–1411、p. 10 l. 1442–1462、p. 11 l. 1498–1514、p. 12 l. 1548–1564。9〜13 章の本文は l. 1545–1836（印刷 pp. 12–18、画像 0050–0056）、校注は p. 13 l. 1605–1615、p. 14 l. 1654–1664、p. 15 l. 1702–1715、p. 16 l. 1752–1768、p. 17 l. 1803–1817、p. 18 l. 1857–1869。14〜17 章の本文は l. 1837–2083（印刷 pp. 18–23、画像 0056–0061）、校注は p. 18 l. 1857–1869、p. 19 l. 1910–1921、p. 20 l. 1958–1974、p. 21 l. 2019–2025、p. 22 l. 2069–2075、p. 23 l. 2119。18〜19 章の本文は l. 2085–2337（印刷 pp. 23–28、画像 0061–0066）、校注は p. 23 l. 2110–2125（2110 は典拠の行）、p. 24 l. 2158–2175、p. 25 l. 2212–2226（2212–2213 は典拠の行）、p. 26 l. 2258–2278、p. 27 l. 2313–2328、p. 28 l. 2362–2364。20〜22 章の本文は l. 2338–2561（印刷 pp. 28–32、画像 0066–0070）、校注は p. 28 l. 2362–2379、p. 29 l. 2409–2428（続きは p. 30 の校注の初めの l. 2470–2473）、p. 30 l. 2475–2483、p. 31 l. 2518–2532、p. 32 l. 2568–2578。23〜25 章の本文は l. 2563–2802（印刷 pp. 32–37、画像 0070–0075）、校注は p. 32 l. 2579–2581（22〜25 行目の分）、p. 33 l. 2621–2631、p. 34 l. 2666–2680、p. 35 l. 2720–2731、p. 36 l. 2770–2783、p. 37 l. 2819–2822（1〜12 行目の分）。26〜28 章の本文は l. 2804–3061（印刷 pp. 37–42、画像 0075–0080）、校注は p. 37 l. 2822–2832（13〜24 行目の分）、p. 38 l. 2872–2882、p. 39 l. 2917–2934、p. 40 l. 2972–2985、p. 41 l. 3024–3035、p. 42 l. 3080–3087（1〜17 行目の分）。pp. 28–42 には典拠の行がない。巻末の索引の該当箇所は各項目に挙げる。校注の行番号はページごとの行番号で、余白の節番号とは別。校注と、角括弧・イタリックは画像で確かめた。序文（praefatio）で、いくつかの箇所の読みの判断を述べる（l. 156–830 のうち該当箇所を各項目に挙げる）。
+- Wa：J. P. Waltzing 編、Teubner 1912。P を 1907 年に自分で照合し、Halm よりも写本の読みに戻した本文（Wa 序文 l. 182–185、l. 259–268）。ページの下に、上段に典拠と類例、下段に校注を置く。1〜8 章の本文と校注は l. 763–1500、9〜13 章は l. 1498–1962、14〜17 章は l. 1964–2369（画像 0034–0039）、18〜19 章は l. 2396–2850（画像 0039–0046。18.1 の冒頭は OCR から落ちているので画像 0039 で読んだ）。20〜22 章は、底本 20.1〜21.12 が l. 2813–3083、21.12 の短剣符の一文が l. 3235–3236、底本 22 章（Wa の 23 章）が l. 3237–3414（画像 0046–0049、0052–0054）。23〜25 章は、底本 23.1〜23.8（Wa の 24 章）が l. 3416–3512、底本 23.9〜24.5（Wa の 22 章）が l. 3085–3233、底本 25 章が l. 3514–3733（画像 0050–0052、0055–0059）。26〜28 章は l. 3735–4296（画像 0059–0066）。Wa は 21〜24 章を底本と違う順に並べる。校訂者の略号表は l. 410–760。スキャンの画像番号は印刷ページ＋16（p. 12 は 0028）で、OCR が崩れた箇所は画像で確かめた。
+- Wa09：Waltzing の 1909 年の学校版の教師用の巻（partie du maître）。巻末の校訂付録（appendice critique）l. 7061–7330 に、写本から離れた箇所の理由を短く書く。語彙の解説 l. 3260–3285。14〜17 章の校訂付録は l. 7247–7293、18〜19 章は l. 7295–7401、20〜22 章は l. 7403–7504、23〜25 章は l. 7448–7466（底本 23.9〜24.5）、7506–7540、26〜28 章は l. 7542–7609。18〜19 章の仏訳は l. 1026–1210、20〜22 章は l. 1241–1534、23〜25 章は l. 1382–1463（底本 23.9〜24.5）、1537–1676、26〜28 章は l. 1681–1903。
+- Ho：H. A. Holden 編、Cambridge 1853。英語の注解つき。1〜8 章の本文と注は l. 4754–7050 ごろ、9〜13 章は l. 7679–9990 ごろ、14〜17 章は l. 9940–11373 ごろ、18〜19 章は l. 11400–12951 ごろ、20〜22 章は写本の順で、l. 12954–14086（底本 20.1〜21.3、21.12 の短剣符の一文、22 章）、14497–14797（21.4〜21.8）、14767–15041（21.9〜21.12）、23〜25 章は l. 14130–14496（23.1〜23.8）、15044–15240（23.9〜23.13）、15305–15700（24 章）、15643–16220（25 章）、26〜28 章は l. 16160–18154、序論 l. 1200–1275。
+- ANF：Ante-Nicene Fathers 第 4 巻の Wallis の英訳（`cache/ccel.org/anf04.txt`）。1〜8 章は l. 19954–20366、9〜13 章は l. 20368–20625、14〜17 章は l. 20627–20857、18〜19 章は l. 20859–21044、20〜22 章は写本の順で l. 21045–21302 に分かれて入る（対応は「20〜22 章の節の区切り」）。23〜25 章は l. 21206–21236（23.1〜23.8）、21302–21331（23.9〜23.13）、21335–21454（24〜25 章）。26〜28 章は l. 21457–21673。ANF がどの読みで訳しているかだけを記す。
 - 校訂者：底本の校注と Wa の略号表（l. 410–760）での名のまま挙げる。このうち刊本を出した編者は、Sabaeus（r、1543）、Gelenius（1546）、Balduinus（1560。Wa 序文 l. 162）、Ursinus（1583）、Wowerus（1603）、Heraldus（1613）、Rigaltius（1643）、Ouzelius（1652）、Davisius（1707）、Cellarius（1699）、Jac. Gronovius（1709）、Lindner（1760）、Oehler（1847）、Holden（1853）、Baehrens（1886）、Boenig（1903）、Waltzing（1903・1909・1912）。刊本を出していない学者は、Heumann、Wopkens、P. Daniel（Wowerus 版の注）、Meursius、Barth、Scheffer、Perizonius、J. Fr. Gronovius、Stieber、Klotz、Scaliger、Heusinger、Dombart、Vahlen、Usener、Bursian、Norden、Winterfeld、Haupt、Elter（1909）、Vonck、Pithoeus、Withof、A. I. Cramerus、Roeren、Hildebrand、Gataker、Andr. Schottus、Monachius、Cuperus、Sauppe など。Baehrens、Boenig、Norden、Winterfeld の読みは、Wa と Wa09 の記述でだけ確かめた。
 
 「採る校訂者」の欄には、底本の読みが写本と違うとき、その推定がだれのものかを書く。本の `AGENTS.md` の書き分け（底本の編者の推定／ある刊本の編者の推定で、底本もこれを採る／ある学者の推定で、底本もこれを採る）に合わせ、「Halm 自身」「刊本の編者」「学者」と分類を添える。
@@ -1918,6 +1918,388 @@
 - ANF との対応：底本 23.1〜23.8＝ANF 22 章の初め（l. 21206–21236）。底本 23.9〜23.13＝ANF 23 章の終わり（l. 21302–21323）。底本 24 章＝ANF 24 章（l. 21339–21372）。底本 25 章＝ANF 25 章（l. 21382–21448）。
 - Ho との対応：底本 23.1〜23.8＝Ho 22 章の初め（l. 14130–14496）。底本 23.9〜23.13＝Ho 23 章の終わり（l. 15044–15168）。底本 24 章＝Ho 24 章（l. 15305–15642）。底本 25 章＝Ho 25 章（l. 15643–16160）。
 
+### 26.1 testatus es（写本 testatus est）、paenitenter omissa et obseruata feliciter（7.3〜7.4 への応答）
+- 底本（Halm）：Iam enim uenio ad illa auspicia et auguria Romana, quae summo labore collecta testatus es et paenitenter omissa et obseruata feliciter.（p. 37 の 13〜15 行目。行頭から新しい段落。章番号 26 は右の余白。画像 0075）
+- ほかの読み：es は Gelenius の直しで、P と r は est。Halm は 7 章を参照させる。P は paenitenter を penitenter、r は poenitenter と書く（Halm 校注 l. 2822–2823）。Wa も testatus es で、7.4 を参照させる（Wa l. 3735–3738、校注 l. 3771–3772。Wa の画像 0059）。Wa09 は、カエキリウスが 7 章で言ったことを指すと説明する（Wa09 l. 7542–7543）。Ho は P の testatus est を本文にし、主語をカエキリウスとして 7 章を参照させる（Ho l. 16160–16164、16222–16223）。
+- 本文の内の照応：カエキリウスは 7.3 で testis（証人）を重ね、7.4 で、ないがしろにされた鳥の兆しが神々の臨在を証ししてきた（contempta auspicia contestata sunt）と言って、クラウディウス、ユニウス、フラミニウスを挙げた（`halm-1867.txt` の 7.3〜7.4）。paenitenter omissa（ないがしろにして悔やまれた）と obseruata feliciter（守って幸いを得た）は、その主張をまとめ直したもの。Wa は類例に『オクタウィウス』7.1 以下を挙げる（Wa l. 3756–3758）。
+- 採る校訂者：es は Gelenius（刊本の編者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない（書くなら、「君が証言した」は写本で est（彼が）で、ある刊本の編者の直しで底本もこれを採る）。testatus es は、7:3 の「その証人は」の重ねと 7:4 の「証ししてきた」に響くように、本の訳語表の testari＝「証言する」で訳す。auspicia と auguria は訳語表の「鳥の兆し」「鳥占い」（7:4）。paenitenter omissa と obseruata feliciter の対を残す。
+- 確かめた資料：Halm l. 2804–2807、校注 l. 2822–2823（画像 0075）。`halm-1867.txt` の 7.3〜7.4。Wa l. 3735–3738、3756–3758、3771–3772（Wa の画像 0059）。Wa09 l. 1681–1684、7542–7543。Ho l. 16160–16164、16222–16223。ANF l. 21463–21465。
+
+### 26.2 Clodius（Meursius Claudius）、solistimum tripudium（写本 sollemnisimum）
+- 底本（Halm）：Clodius scilicet et Flaminius et Iunius ideo exercitus perdiderunt, quod pullorum solistimum tripudium exspectandum non putauerunt.（p. 37 の 15〜17 行目。画像 0075）
+- ほかの読み：Meursius は Clodius を Claudius と読む。solistimum は Gelenius の直しで、P は sollemnisimum、r は solemnissimum（最も厳かな）（Halm 校注 l. 2823–2824）。Wa も Clodius と solistimum で、ist をイタリックで刷る（Wa l. 3738–3741、校注 l. 3772–3773。Wa の画像 0059）。Wa09 は solistimum を「まれな語」とする（Wa09 l. 7545–7546）。Ho も Clodius と solistimum（Ho l. 16167–16174）。ANF は古い読みの「最も厳かな」の意味で訳す（ANF l. 21466–21468）。
+- 解釈：Ho は Cellarius の注を引き、solistimum tripudium を、ひな鳥の餌の食べ方から取る鳥占いの一種で、キケロ『占いについて』2 巻 34 章が説明するものとし、キケロ『縁者への手紙』6.6.13、リウィウス 10.40 も挙げる（Ho l. 16225–16261）。底本の索引は「solistimum tripudium 26.2」「ひな鳥…よく食べる 26.2」とする（Halm l. 4513、4596、4642）。
+- 本文の内の照応：三人は 7.4 の「クラウディウスとユニウスの出陣が…死の難破に終わった」「フラミニウスが鳥占いを軽んじた」と同じ人々。底本の索引は Clodius の形を挙げず、(P.) Claudius（前 249 年の執政官）として 7.4 と 26.2 を挙げ、(C.) Flaminius（前 217 年の執政官）、(L.) Iunius (Pullus) も 7.4 と 26.2 に挙げる（Halm l. 4021–4022、4161–4163、4275–4277）。
+- 採る校訂者：solistimum は Gelenius（刊本の編者）。Halm が採る。Clodius は P のまま。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。Clodius は底本の索引のとおり 7:4 の「クラウディウス」と同じ人なので、「クラウディウス」と訳す。`// ` メモに、solistimum は写本で sollemnisimum（最も厳かな）で、ある刊本の編者の直しで底本もこれを採ることを書く（兆しの中身が少し変わるので）。solistimum tripudium は鳥占いの用語なので、ひな鳥の餌の食べ方による最も吉い兆しだと分かる形で訳す。pulli は 25:12 の「ひな鳥」。scilicet は皮肉。exercitus perdiderunt は、7:4 では難破の話なので、「軍勢を失った」と広く訳す。
+- 確かめた資料：Halm l. 2807–2809、校注 l. 2823–2824、索引 l. 4021–4022、4161–4163、4275–4277、4513、4596、4642（画像 0075）。`halm-1867.txt` の 7.4。`src/chapter-05-08/jp.md` の 7:4。Wa l. 3738–3741、3772–3773（Wa の画像 0059）。Wa09 l. 1684–1687、7545–7546。Ho l. 16167–16174、16225–16261。ANF l. 21466–21468。
+
+### 26.3 quid Regulus? nonne auguria（写本 arguria）、populi Romani（写本 reip.）、pullos edaces habuit et Paulus, apud Cannas tamen（区切り）
+- 底本（Halm）：quid Regulus? nonne auguria seruauit et captus est? Mancinus religionem tenuit, et sub iugum missus est et deditus. pullos edaces habuit et Paulus, apud Cannas tamen cum maiore populi Romani parte prostratus est.（p. 37 の 17〜20 行目。画像 0075）
+- ほかの読み：P は auguria を arguria と書き、キプリアヌス『偶像が神でないこと』3.6 は auspicia とする。Wopkens はキプリアヌス 3.6 と同じく habuit Paulus et apud と読む。通行の本文は habuit et Paulus apud Cannas, tamen と区切り、Meursius が区切りを直した。populi Romani は P. Daniel の推定で、P と r は reip.（国の）。r は続く Gaius を Caius とする（Halm 校注 l. 2824–2828）。Wa は P の reipublicae を本文にし、校注に記載しない。Quid? Regulus と区切る（Wa l. 3742–3747、校注 l. 3773。Wa の画像 0059）。Ho は Romani populi を本文にし、「respublica はしばしば国をなす人々を指す」という Davies の注を載せる（Ho l. 16312–16318、16358–16362）。ANF は「国の大部分とともに」と訳し、脚注で「ローマの民の」とする推定を紹介する（ANF l. 21471–21472、21522–21524）。
+- 典拠：Ho は Regulus にホラティウス『歌章』3.5、ウァレリウス・マクシムス 1.1.14、アウグスティヌス『神の国』1.15 を挙げ、Mancinus をヌマンティアで敗れて屈辱の降伏をしたホスティリウス・マンキヌスとしてフロルス 2.18、エウトロピウス 4.8 などを、Paulus をハンニバルに敗れた L. アエミリウスとしてキケロ『占いについて』2.33、リウィウス 22.47 を挙げる（Ho l. 16263–16272、16347–16356）。Wa はキケロ『神々の本性について』3.80、ホラティウス『歌章』3.5、ウァレリウス・マクシムス 1.1.14、1.6.7、ウェッレイウス・パテルクルス 2.90.3、フロルス 2.18、キケロ『占いについて』2.71 を挙げる（Wa l. 3758–3762。Wa の画像 0059）。Ho は et captus est の et を et tamen（それでも）の意味とする（Ho l. 16263–16264）。底本の索引は Regulus、Mancinus、(Aemilius) Paulus、Cannae をこの節に挙げる（Halm l. 3968、4353、4442、4526）。
+- 採る校訂者：populi Romani は P. Daniel（学者）、区切りは Meursius（学者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない（populi Romani と写本の reip. は、どちらも「ローマの人々の大部分とともに」の意味で訳せる）。et captus est、et sub iugum missus est の et は「それでも」の逆接で訳す。pullos edaces habuit は、ひな鳥がよく食べた（吉い兆しを得た）ことなので、25:12 の「餌を食べるか食べ渋るか」とつながるように訳す。Paulus に「アエミリウス」は補わない（「26〜28 章の名前」）。
+- 確かめた資料：Halm l. 2809–2813、校注 l. 2824–2828、索引 l. 3968、4353、4442、4526（画像 0075）。Wa l. 3742–3747、3758–3762、3773（Wa の画像 0059）。Wa09 l. 1687–1692。Ho l. 16177–16180、16263–16272、16306–16318、16347–16362。ANF l. 21468–21472、21522–21524。
+
+### 26.4 Gaius Caesar … auguriis et auspiciis renitentibus, spreuit（Ursinus retinentibus）、eo facilius（Heumann felicius）
+- 底本（Halm）：Gaius Caesar, ne ante brumam in Africam nauigia transmitteret, auguriis et auspiciis renitentibus, spreuit: eo facilius et nauigauit et uicit.（p. 37 の 20〜22 行目。画像 0075）
+- ほかの読み：Davisius は nauigia を nauigio と読むが、Halm はキプリアヌスを参照させて退ける。Ursinus は renitentibus を retinentibus（引き止める）と読むが、Halm はキプリアヌス 3.6 を参照させて退ける。P は spreuit を spręuit と書く。Heumann は facilius を felicius（より幸いに）と読むが、Halm はラクタンティウス『神学綱要』6.24.2 への Bünemann の注を参照させて退ける（Halm 校注 l. 2828–2830）。Wa、Ho とも底本と同じ（Wa l. 3747–3749、Ho l. 16321–16324、16421）。
+- 典拠：Ho はキケロ『占いについて』2.24、スエトニウス『カエサル伝』59、77 を挙げる（Ho l. 16364–16365）。Wa はキケロ『占いについて』2.52 を挙げる（Wa l. 3762）。底本の索引は「C. カエサル、鳥占いを軽んじて幸いを得た 26.4」とする（Halm l. 3959）。
+- 採る校訂者：Halm、Wa、Ho とも P の本文。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない。ne … transmitteret は、鳥占いと鳥の兆しが逆らって告げた中身（冬至より前にアフリカへ船を渡すな）。spreuit の目的語（鳥占いと鳥の兆し）を補って訳す。eo facilius は「それだけいっそうたやすく」。
+- 確かめた資料：Halm l. 2813–2815、校注 l. 2828–2830、索引 l. 3866、3959（画像 0075）。Wa l. 3747–3749、3762、3773（Wa の画像 0059）。Wa09 l. 1692–1695。Ho l. 16321–16324、16364–16365、16421。ANF l. 21472–21475。
+
+### 26.5 post mortem Amphiaraus uentura respondit（Halm euentura?）、proditum iri se（写本の訂正）、nesciuit. Tiresias（写本 nesciuit ire sias）
+- 底本（Halm）：quae uero et quanta de oraculis prosequar? post mortem Amphiaraus uentura respondit, qui proditum iri se ob monile ab uxore nesciuit.（p. 37 の 22〜24 行目。画像 0075）
+- ほかの読み：Halm は uentura を euentura と読みたいとしつつ、ラクタンティウス『迫害者の死について』10 を参照させる。proditum iri se は P の訂正の形で、もとは prodituis rise。r は proditus est ipse。P は続く nesciuit. Tiresias を nesciuit ire sias と書き、r が nescius. Tiresias とした（Halm 校注 l. 2830–2832）。Wa は P の形を nesciuit ire suas とし、nescivit. Tiresias を r の読みとする（Wa 校注 l. 3822–3824。Wa の画像 0060）。Wa09 は、大文字で書かれた写本の NESCIVITTIRESIAS を、注意の足りない写字生が写し間違えたとみる（Wa09 l. 7548–7550）。Wa、Ho とも底本と同じ本文（Wa l. 3778–3780、Ho l. 16325–16329）。
+- 典拠：Ho は Amphiaraus にホラティウス『歌章』3.16.11 と、黄金の首飾りの罠に隠されたアンピアラオスを歌うソポクレス『エレクトラ』840 行を挙げる（Ho l. 16367–16374）。Wa はキケロ『神々の本性について』2.7 を挙げる（Wa l. 3804。Wa の画像 0060）。底本の索引は Amphiaraus と oracula をこの節に挙げる（Halm l. 3879、4423）。
+- 採る校訂者：Halm、Wa、Ho とも P の訂正の proditum iri se。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない。post mortem（死んだ後で）未来を答えた者が、生きているうちに自分の裏切りを知らなかった、という対比を残す。monile は「首飾り」（ANF の bracelet は取らない）。妻の名は原文にないので補わない。quae uero et quanta … prosequar? は「神託について、どれほどのことを、どれだけ述べ立てようか」の修辞疑問。
+- 確かめた資料：Halm l. 2815–2817、校注 l. 2830–2832、索引 l. 3879、4423（画像 0075）。Wa l. 3778–3780、3804、3822–3824（Wa の画像 0060）。Wa09 l. 1697–1700、7548–7550。Ho l. 16325–16329、16367–16374。ANF l. 21475–21478。
+
+### 26.6 Tiresias caecus（Davisius の疑い）、de Pyrro Ennius Apollinis Pythi responsa confinxit（キケロ『占いについて』2.116）、cautum illud et ambiguum … oraculum
+- 底本（Halm）：Tiresias caecus futura uidebat, qui praesentia non uidebat. de Pyrro Ennius Apollinis Pythi responsa confinxit, cum iam Apollo uersus facere desisset: cuius tunc cautum illud et ambiguum defecit oraculum, cum et politiores homines et minus creduli esse coeperunt.（p. 38 の 1〜5 行目。画像 0076）
+- ほかの読み：Davisius は caecus を疑った。P は phyrro、pyti と書き、r は Pythii。P は confinxit を confincxit と書く。r は illud を illuc とする（Halm 校注 l. 2872–2873）。Wa は De Pyrrho、Pythi（Wa l. 3780–3785、校注 l. 3824。Wa の画像 0060）。Ho は De Pyrrho、Pythii（Ho l. 16332–16344、16433–16434）。
+- 典拠：Ho は Davies から、キケロ『占いについて』2 巻 56 章（Wa の数え方で 2.116）を引く。ヘロドトスがクロイソスについて作り話をしなかったと言えるなら、エンニウスがピュロスについて作り話をしなかったとも言える、アポロの神託がピュロスに Aio te, Aeacida, Romanos vincere posse（アイアコスの末よ、汝がローマ人に勝ちうると我は言う）と答えたなどとだれが信じよう、アポロはラテン語で語ったことがなく、ギリシア人はこの託宣を知らず、ピュロスの時代にはアポロはもう詩句を作るのをやめていた、という一節である（Ho l. 16376–16396）。Ho は ambiguum を「二通りの意味の」とする（Ho l. 16398）。Wa はキケロ『占いについて』2.116 とエンニウス『年代記』186（Vahlen）を挙げ、神託がやんだことにキケロ『占いについて』2.118 を挙げる（Wa l. 3804–3806。Wa の画像 0060）。底本の索引は Tiresias を 26.5 に、ピュロス王への神託、Ennius、Pythius Apollo を 26.6 に挙げる（Halm l. 3800、3905、4515、4523、4634）。
+- 採る校訂者：Halm、Wa、Ho とも P の本文（綴りを除く）。
+- 読者への影響：中 — cautum illud et ambiguum … oraculum が、キケロの挙げる「汝がローマ人に勝ちうる」（どちらがどちらに勝つとも読める）託宣を指すことが分からないと、「あの用心深い、二通りに取れる神託」の皮肉が伝わりにくい。
+- 訳での扱い：訳注は付けない（読みの違いではない）。cautum illud et ambiguum は、どちらにも取れることが分かる語で訳す。託宣の文言は原文にないので補わない。uersus facere desisset は「詩句で答えるのをやめていた」。Tiresias caecus … non uidebat は、見えない目で未来を見て、目の前のことは見なかった、という対を残す。Apollinis Pythi の訳名は「26〜28 章の名前」。この節をどこから始めるかは「26〜28 章の節の区切り」。
+- 確かめた資料：Halm l. 2838–2842、校注 l. 2872–2873、索引 l. 3800、3905、4515、4523、4634（画像 0076）。Wa l. 3780–3785、3804–3806、3824（Wa の画像 0060）。Wa09 l. 1700–1705。Ho l. 16332–16344、16376–16398、16433–16434。ANF l. 21478–21483。
+
+### 26.6 φιλιππίζειν（写本 philippi zaeno）
+- 底本（Halm）：et Demosthenes, quod sciret responsa simulata, φιλιππίζειν Pythiam querebatur.（φιλιππίζειν はギリシア文字で刷る。p. 38 の 5〜6 行目。画像 0076）
+- ほかの読み：P は philippi zaeno phytiam、r は Philippizin pytiam。P は querebatur を quaerebatur と書く（Halm 校注 l. 2873–2874）。Wa は φιλιππίζειν Pythiam を通行の読み（vulgo）として本文にする（Wa l. 3785–3787、校注 l. 3825。Wa の画像 0060）。Ho もギリシア文字で刷る（Ho l. 16435–16436）。Wa09 は、この書に出るギリシア語の一つに philippizein を数える（Wa09 l. 3160–3171）。
+- 典拠：Ho は、キケロ『占いについて』2 巻 57 章がこの語を「いわばフィリッポスと共に事をなす」と説明すると注する（Ho l. 16400–16402）。Wa はキケロ『占いについて』2.118 を挙げる（Wa l. 3806）。底本の索引は「Pythia（φιλιππίζει）26.6」「Demosthenes 26.6」とする（Halm l. 3796、4522）。
+- 採る校訂者：Halm、Wa、Ho ともギリシア語の形。底本の校注は、この形をだれが戻したかを書かない。
+- 読者への影響：中 — ギリシア語の動詞で、フィリッポス（マケドニアの王）の側につくという意味が分からないと、デモステネスの不満が伝わらない。
+- 訳での扱い：訳注は付けない（読みの違いではない）。「巫女がフィリッポスの肩を持つ」のように意味で訳し、フィリッポスの名は動詞の中にあるので訳に出してよい。`// ` メモに、原文がここだけギリシア語の動詞であることを書く。底本テキストではギリシア文字のまま起こす。Pythia の訳名は「26〜28 章の名前」。
+- 確かめた資料：Halm l. 2842–2843、校注 l. 2873–2874、索引 l. 3796、4522（画像 0076）。Wa l. 3785–3787、3806、3825（Wa の画像 0060）。Wa09 l. 1705–1707、3160–3171。Ho l. 16400–16402、16435–16442。ANF l. 21483–21484。
+
+### 26.7 At nonnumquam tamen …（相手の言い分の先取り）、tetigerunt（後の版 tetigere）、industriam casus imitatus
+- 底本（Halm）：At nonnumquam tamen ueritatem uel auspicia uel oracula tetigerunt. quamquam inter multa mendacia uideri possit industriam casus imitatus, adgrediar tamen fontem ipsum erroris et prauitatis, unde omnis caligo ista manauit, et altius eruere et aperire manifestius.（p. 38 の 7〜11 行目。行頭から字下げした新しい段落。画像 0076）
+- ほかの読み：tetigerunt は P、後の版は tetigere（Halm 校注 l. 2874）。Wa、Ho とも At nonnumquam tamen で始め、Ho は tetigere と刷る（Wa l. 3789–3794、Ho l. 16445–16459）。底本の校注は 25.1 で、Heumann の At enim を退ける根拠にこの at nonnumquam tamen を挙げる（Halm 校注 l. 2727。「25.1」の項目）。
+- 解釈：最初の文は、25.1 と同じく相手の言い分を先に持ち出したもの。Wa09 の仏訳は「と人は言うだろう」と補う（Wa09 l. 1709）。ANF は「確かに…こともある」と譲歩に訳す（ANF l. 21484–21485）。Ho は industriam casus imitatus を「偶然が意図に似て見えることもある」とし、14.8 とキケロ『占いについて』2.21 を参照させる（Ho l. 16404–16408）。Wa はキケロ『占いについて』2.49 を挙げる（Wa l. 3806）。
+- 採る校訂者：Halm、Wa は P の tetigerunt。
+- 読者への影響：中 — 最初の文を相手の言い分として訳さないと、オクタウィウスが鳥の兆しや神託の当たることを認めているように読める。
+- 訳での扱い：訳注は付けない。メモも要らない。最初の文は、25:1 と同じ形で、相手の言い分だと分かるように訳す。quamquam … imitatus でまずその言い分に答え（多くの偽りの中では、偶然が意図をまねたように見えることもあろう）、tamen 以下で本題（誤りの源）に進む。industria は「意図」「工夫」の意味で、casus（偶然）と対にする。fontem ipsum erroris et prauitatis（誤りとゆがみの源そのもの）は、26.8 の deprauati … prauitatis と語を揃える。
+- 確かめた資料：Halm l. 2845–2849、校注 l. 2727、2874（画像 0073、0076）。Wa l. 3789–3794、3806（Wa の画像 0060）。Wa09 l. 1709–1715。Ho l. 16404–16408、16445–16459。ANF l. 21484–21489。
+
+### 26.7〜26.8 spiritus sunt insinceri, uagi（Ursinus et uagi）、labibus（写本 lauibus）、perditi iam perdere（Ursinus iam を除く）
+- 底本（Halm）：spiritus sunt insinceri, uagi, a caelesti uigore terrenis labibus et cupiditatibus degrauati. isti igitur spiritus, posteaquam simplicitatem substantiae suae onusti et inmersi uitiis perdiderunt, ad solacium calamitatis suae non desinunt perditi iam perdere et deprauati errorem prauitatis infundere et alienati a Deo inductis prauis religionibus a Deo segregare.（p. 38 の 11〜16 行目。画像 0076）
+- ほかの読み：P は insinceri を insingeri と書く。Ursinus はキプリアヌス 3.8 に従って et uagi と読む。P の第一の手は labibus を lauibus と書く。Ursinus はキプリアヌスに従って iam を除き、perditi perdere と読む（Halm 校注 l. 2874–2876）。Wa は底本と同じで、spiritus sunt から (8) を始める（Wa l. 3796–3802。Wa の画像 0060 で iam を囲む括弧は鉛筆の書き込みで、印刷ではない）。Ho も同じ本文（Ho l. 16460–16463、16564–16569）。
+- 典拠と解釈：Ho は、この悪霊の説明がテルトゥリアヌス『護教論』22 章にならい、ラクタンティウス『神学綱要』2.14 以下に引き継がれたとする。labes を、もとは「沈むこと、崩れ」、そこから「身を落とす過ち」の意味とし、terrenis labibus にラクタンティウス 2.14.1 の「地の汚れに染まって天の本性の尊さを失った」を、simplicitatem substantiae suae に、悪霊は堕落の後により粗い体に結びつけられたという古代の考え（オリゲネス、アウグスティヌス）を、ad solacium calamitatis suae にラクタンティウス 2.14.11 の「自分の滅びの慰めに人を滅ぼす」を挙げる（Ho l. 16410–16418、16466–16628）。Wa はタティアノス『ギリシア人への言葉』7〜8、12〜13、アテナゴラス『嘆願』25〜27、ユスティノス『第二弁明』5、テルトゥリアヌス『護教論』22.1、キプリアヌス『偶像が神でないこと』6 などを挙げる（Wa l. 3808–3819。Wa の画像 0060）。底本・Wa・Ho は聖書の箇所を挙げない。
+- 採る校訂者：Halm、Wa、Ho とも P の本文。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない。perditi iam perdere（自分が滅びて、人を滅ぼす）、deprauati … prauitatis（ゆがめられて、ゆがみの誤りを注ぐ）、alienati a Deo … a Deo segregare（神から離されて、神から引き離す）の三つの語の重ねを残す。Deo は大文字で真の神を言うので、尊敬語を使う。spiritus は訳語表の「霊」（19 章）。daemon の訳語は「26.9〜28.7 daemon、spiritus、angelus の訳語」。26.8 をどこから始めるかは「26〜28 章の節の区切り」。
+- 確かめた資料：Halm l. 2849–2856、校注 l. 2874–2876（画像 0076）。Wa l. 3796–3802、3808–3819（Wa の画像 0060）。Wa09 l. 1717–1729。Ho l. 16410–16418、16460–16463、16466–16628。ANF l. 21489–21497。
+
+### 26.9 poetae sciunt … Socrates nouit, … uel declinabat negotia uel petebat（P. Daniel appetebat、Heumann gerebat）
+- 底本（Halm）：eos spiritus daemonas esse poetae sciunt, philosophi disserunt, Socrates nouit, qui ad nutum et arbitrium adsidentis sibi daemonis uel declinabat negotia uel petebat.（p. 38 の 16〜19 行目。画像 0076）
+- ほかの読み：P. Daniel と Elmenhorst は petebat を appetebat、Heumann は gerebat と読む（Halm 校注 l. 2876–2877）。Wa、Ho とも petebat（Wa l. 3802、3836–3838、Ho l. 16569–16635）。
+- 典拠：poetae sciunt に、Ho はラクタンティウス 2.14.7 と、大いなるゼウスの計らいでダイモーンとなった者たちを歌うヘシオドス『仕事と日』122 以下を挙げ（Ho l. 16630–16651）、Wa もヘシオドス『仕事と日』121 以下を挙げる（Wa l. 3858）。Socrates に、Wa はプラトン『パイドン』、『ソクラテスの弁明』31D、『テアゲス』128D、クセノポン『ソクラテスの思い出』1.1.4 など、キケロ『占いについて』1.122、アプレイウス『ソクラテスの神について』17 などを挙げる（Wa l. 3858–3862。Wa の画像 0061）。Ho は adsidentis を、Cuperus と J. Gronovius に従って「内にあるのでなく、外からそばに付いて呼びかける」意味とし、petebat を appetebat（望んだ）と同じとする。プラトンではソクラテスのダイモーンは思いとどまらせるだけで勧めはしない（『弁明』『テアゲス』『パイドロス』）と注し、テルトゥリアヌス『護教論』22 章がこれを皮肉ったことも挙げる（Ho l. 16654–16683）。底本の索引は「ソクラテスのダイモーン（daemonium）26.9」とする（Halm l. 4575–4581）。
+- 採る校訂者：Halm、Wa、Ho とも P の petebat。
+- 読者への影響：小。ただし、ミヌキウスはダイモーンがソクラテスに事を退けさせも求めさせもしたと書き、プラトンの伝える「止めるだけ」の形とは違う。訳ではミヌキウスの書いたとおりにする。
+- 訳での扱い：訳注は付けない。メモも要らない。declinabat と petebat の対（退けた／求めた）を残す。poetae sciunt, philosophi disserunt, Socrates nouit の三つの動詞（知っている、論じる、知っていた）を訳し分ける。daemon の訳語は次の項目。
+- 確かめた資料：Halm l. 2856–2860、校注 l. 2876–2877、索引 l. 4575–4581（画像 0076）。Wa l. 3802、3836–3838、3858–3862（Wa の画像 0060、0061）。Wa09 l. 1729–1733。Ho l. 16569–16683。ANF l. 21497–21500。
+
+### 26.9〜28.7 daemon、spiritus、angelus の訳語（ギリシアの「ダイモーン」とキリスト教の「悪霊」）
+- 底本（Halm）：26.7〜26.8 で、天の力から地の汚れに落ちた汚れた霊（spiritus insinceri）を述べ、26.9 で、その霊たちがダイモーン（daemonas）であることを詩人は知り、哲学者は論じ、ソクラテスは知っていた、とギリシアの語で名指す。以下 27.1 の impuri spiritus, daemones、27.3 の instigatio daemonis、27.5〜27.7 の悪霊払い、28.5 の instigatio daemonis、28.6 の negotium daemonum まで同じ語が続く。26.11 では angelos（天使）を ministros et nuntios Dei（神に仕える者と使い）と言い換え、daemonas と対にする。
+- 資料：底本の索引は daemones を 26.9 以下に、angeli を 26.11 に挙げる（Halm l. 3894、4075）。Ho は 26.12 の angelos narrat に、プラトンは「天使」の語を使わないが、善いダイモーンをよく語ったので、キリスト教の著作家がそれを天使になぞらえた、という Hales の注を載せる（Ho l. 16830–16836）。Wa は 27.2 の ut ad cultum sui cogant の行に第一コリント 10.20 を挙げる（Wa l. 3964–3967。「27.2」の項目）。口語訳は、第一コリント 10.20 とヤコブ 2.19 の daimonia を「悪霊ども」、マルコ 9.25 の「けがれた霊」と訳す（bible-api で確かめた）。
+- 読者への影響：中 — ミヌキウスは、異教徒の尊ぶダイモーン（ソクラテスに付き添う者、プラトンの説く神と人の間の者）が、実はキリスト者の言う汚れた霊だ、と同じ語で結びつけて論じる。訳語を途中で替えると、この結びつきが見えなくなる。
+- 訳での扱い：訳注は付けない。daemon には一つの訳語を当て、26.9 から 28.7 まで（29 章以降も）通す。「ダイモーン」と音で写すか、「悪霊」とするかを訳者が決める（「悪霊」はソクラテスやプラトンの話ではなじまず、「ダイモーン」は 27.5〜27.7 の悪霊払いの話で聖書の言い方から離れる）。spiritus は訳語表の「霊」で、27.1 の impuri spiritus は口語訳の「けがれた霊」に寄せてよい。angelos, id est ministros et nuntios Dei は、「天使」とその言い換え（神に仕える者、神の使い）を両方残す。
+- 確かめた資料：Halm l. 2856–2857、2898、2942、2948–2958、3009、3016、索引 l. 3894、4075（画像 0076〜0079）。Wa l. 3964–3967（Wa の画像 0062）。Ho l. 16830–16836。口語訳（bible-api）の 1Cor.10.20、Jas.2.19、Mark.9.25。
+
+### 26.10 quicquid miraculi ludunt（P. Daniel miraculis）、praestigias edunt, uel quae non sunt uideri（Vahlen）
+- 底本（Halm）：magi quoque non tantum sciunt daemonas, sed etiam quicquid miraculi ludunt, per daemonas faciunt: illis adspirantibus et infundentibus praestigias edunt, uel quae non sunt uideri, uel quae sunt non uideri.（p. 38 の 19〜22 行目。画像 0076）
+- ほかの読み：P. Daniel は miraculi を miraculis と読む。Vahlen は praestigias edunt et efficiunt uel quae non sunt uideri と efficiunt を補う（Halm 校注 l. 2877–2878）。Wa、Ho とも底本と同じ（Wa l. 3838–3843、Ho l. 16694–16697）。
+- 典拠と解釈：Ho は、uel quae non sunt uideri 以下を praestigias edunt の説明（ないものを見えさせ、あるものを見えなくする手品）とし、魔術師は悪霊の吹き込みによって人の目をくらまし、あるものを見えなくし、ないものを見えると思わせる、というラクタンティウス 2.14.10 を引く。占いも祭司の術も魔術もみなダイモーンを通る、というプラトン『饗宴』202e と、アプレイウス『ソクラテスの神について』6 も挙げる（Ho l. 16712–16742）。Wa は『ソクラテスの神について』6 などを挙げる（Wa l. 3864。Wa の画像 0061）。底本の索引は magi をこの節と 26.11、27.1 に挙げる（Halm l. 4348）。
+- 採る校訂者：Halm、Wa、Ho とも P の本文。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない。magi は「魔術師」とするか「マギ」とするかを訳者が決める（26.11 でホスタネスをその第一人者と呼び、ここでは手品を演じる者として語る）。uel quae non sunt uideri, uel quae sunt non uideri の対を残す。ludunt（戯れに演じる）は手品の軽さを出す。
+- 確かめた資料：Halm l. 2860–2864、校注 l. 2877–2878、索引 l. 4348（画像 0076）。Wa l. 3838–3843、3864（Wa の画像 0061）。Wa09 l. 1733–1737。Ho l. 16694–16697、16712–16742。ANF l. 21500–21504。
+
+### 26.11 eorum magorum（写本 magnorum）、Hostanes（写本 sosthenes）、et eloquio et negotio（ルカ 24.19）
+- 底本（Halm）：eorum magorum et eloquio et negotio primus Hostanes et uerum Deum merita maiestate prosequitur et angelos … idem etiam daemonas prodidit terrenos, uagos, humanitatis inimicos.（p. 38 の 22〜27 行目。画像 0076）
+- ほかの読み：P は削る前は magnorum（偉大な者たちの）。キプリアヌス 4.1 は quorum tamen praecipuus Hostanes とする。Hostanes は Gelenius の直しで、P と r は primus sosthenes（Halm 校注 l. 2878–2880）。Wa も Hostanes で、P は削る前は magnorum と記す（Wa l. 3843–3844、校注 l. 3890–3892。Wa の画像 0061）。Wa09 も Gelenius とする（Wa09 l. 7552）。Ho は Ostanes と刷る（Ho l. 16698）。ANF は Sosthenes と訳し、脚注に「ほかに Hostanes」と記す（ANF l. 21505、21526）。
+- 典拠：Ho は Ostanes（Hostanes）を、魔術師の長であり父として、アプレイウス『弁明』90、27、プリニウス『博物誌』30.1、アルノビウス 1.52、タティアノス『ギリシア人への言葉』17 などが引く人物とし、キリスト者がこの名で書物を偽作したと非難されたことも記す。et eloquio et negotio を「理論と実践の腕で」とし、ルカ 24.19 の「わざにも言葉にも力ある」を参照させる（Ho l. 16744–16777）。Wa はルカを挙げ（「14, 19」と刷る。ルカ 14.19 は牛を買った人の断りの言葉でここに合わないので、24.19 の刷り違いとみられる）、プリニウス『博物誌』30.1.8、アプレイウス『弁明』27、90 を挙げる（Wa l. 3866。Wa の画像 0061）。Ho は humanitatis を「人類」の意味の抽象名詞とする（Ho l. 16819–16825）。底本の索引は「魔術師ホスタネス 26.11」「天使 26.11」とする（Halm l. 3894、4227）。
+- 口語訳で確かめた本文：ルカ 24.19（「わざにも言葉にも力ある預言者」）。
+- 採る校訂者：Hostanes は Gelenius（刊本の編者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。`// ` メモに、Hostanes は写本で sosthenes で、ある刊本の編者の直しで底本もこれを採ることを書く（人の名が変わるので）。et eloquio et negotio は、ルカ 24.19 の「わざにも言葉にも」に寄せて「言葉でもわざでも」としてよいが、引用ではないので『』に入れない。merita maiestate prosequitur は「ふさわしい威厳をもってたたえる」（maiestas は訳語表の「威厳」）。terrenos, uagos は 26.7 の terrenis labibus、uagi と語を揃える。humanitatis inimicos は「人類の敵」。
+- 確かめた資料：Halm l. 2864–2870、校注 l. 2878–2880、索引 l. 3894、4227（画像 0076）。Wa l. 3843–3844、3866、3890–3892（Wa の画像 0061）。Wa09 l. 1738–1745、7552。Ho l. 16697–16698、16744–16777、16802–16805、16819–16825。ANF l. 21504–21510、21526。口語訳（bible-api）の Luke.24.19、Luke.14.19。
+
+### 26.11 angelos, id est ministros et nuntios Dei sed ueri, eius uenerationi（写本 sed et ueri … eiusque、Wa sedem tueri eiusque）
+- 底本（Halm）：et angelos, id est ministros et nuntios Dei sed ueri, eius uenerationi nouit adsistere, ut et nutu ipso et uultu domini territi contremescant.（p. 38 の 24〜26 行目。画像 0076）
+- ほかの読み：Halm の校注は、P は sed et ueri で、et は削られているとする。eius は Ursinus の直しで、P と r は eiusq.（eiusque）。Halm は、ホスタネスは真の神の姿は見えないと言い、真の天使がその御座のそばに立つと言う、というキプリアヌス 4.2 を引く（Halm 校注 l. 2880–2882）。Wa は Koch（1873）と Hartel（1868）に従って dei sedem tueri eiusque venerationi（神の御座を守り、その崇敬のために）と読み、P を sedet ueri とし、同じキプリアヌスを引く（Wa l. 3846、校注 l. 3892–3893。Wa の画像 0061 で sedem の m がイタリック。略号は Wa l. 468–470、508–510）。Wa09 は Hartel とする（Wa09 l. 7554–7556）。Ho は ministros et nuntios Dei, sed veri, ejusque venerationi（Ho l. 16700–16703）。ANF は「神の、それも真の神の」と訳す（ANF l. 21506–21507）。
+- 典拠：Ho は ministri et nuntii に、天と地の間にいて人の願いと神々の賜物を運ぶ者とするアプレイウス『ソクラテスの神について』6 を引く（Ho l. 16783–16817）。
+- 採る校訂者：sed ueri は P（底本の校注の読む形）、eius は Ursinus（刊本の編者）。Halm が採る。
+- 読者への影響：小 — 底本では「神の、しかも真の神の、仕える者と使い」で、Wa では「神の御座を守る」が加わる。どちらでも、天使が真の神に仕えて崇めるという意味は同じ。
+- 訳での扱い：訳注は付けない。メモも要らない（eius と写本の eiusque は訳に関わらない）。sed ueri は、魔術師の言う「神」がまことの神であることを念押しする挿入句として訳す。nutu ipso et uultu domini（主のうなずき一つ、顔つき一つで）は真の神を言うので、尊敬語を使う。
+- 確かめた資料：Halm l. 2866–2868、校注 l. 2880–2882（画像 0076）。Wa l. 468–470、508–510、3845–3848、3892–3893（Wa の画像 0061）。Wa09 l. 1739–1743、7554–7556。Ho l. 16700–16706、16783–16817。ANF l. 21505–21509。
+
+### 26.12 qui inuenire Deum negotium credidit … sine negotio（19.14 との照応）、in Symposio（プラトン『饗宴』202d〜e）、conititur
+- 底本（Halm）：quid Plato, qui inuenire Deum negotium credidit, nonne et angelos sine negotio narrat et daemonas? et in Symposio etiam suo naturam daemonum exprimere conititur? uult enim esse substantiam inter mortalem inmortalemque, id est inter corpus et spiritum mediam, terreni ponderis et caelestis leuitatis admixtione concretam,（p. 38 の 27 行目〜p. 39 の 5 行目。画像 0076、0077）
+- ほかの読み：P の第一の手は inueniri と書き、inuenire に直されている。Usener は angelos esse in negotio と読み、Davisius は aut daemonas と読む。conititur は P、後の版は connititur。P は leuitatis を laeuitatis と書く（Halm 校注 l. 2882、2917–2918）。Wa も conititur（Wa l. 3849–3855）、Ho は connititur（Ho l. 16805–16811）。
+- 典拠：inuenire Deum negotium に、Wa は『オクタウィウス』19.14 とプラトン『ティマイオス』28c を挙げ（Wa l. 3868）、Ho は negotium を「難しい仕事」とする（Ho l. 16827–16828）。in Symposio に、Ho はプラトン『饗宴』202e の、ダイモーン的なものはすべて神と死すべきものの間にあり、人のものを神々に、神々のものを人に通訳して運ぶ、という一節を引き（Ho l. 16840–16860）、Wa は『饗宴』195E、202DE、203E、『国家』392A、427B、『法律』717AB、アプレイウス『ソクラテスの神について』6 を挙げる（Wa l. 3870–3872。Wa の画像 0061）。Ho は Davies から、inter corpus et spiritum はプラトンの考えを不正確に言い換えたもので、プラトンはダイモーンを神々と人間の間に置き、アプレイウスではダイモーンは神々と同じく不死で、人間と同じく情念を持つ、という注を引く（Ho l. 16862–16886）。底本の索引は「プラトン『饗宴』26.12」「プラトン、神は見いだしがたいと言う 26.12」とする（Halm l. 3814、4483–4487）。
+- 本文の内の照応：19.14 で、プラトンは『ティマイオス』で、神は「見いだすことが難しく、見いだしても、公に語ることはできない」と言った、と述べた（`src/chapter-18-19/jp.md` の 19:14）。ここの inuenire Deum negotium はそれを受け、negotium（骨の折れること）と sine negotio（造作もなく）の語の重ねで皮肉る。
+- 採る校訂者：Halm、Wa は P の conititur。
+- 読者への影響：小。ただし、19.14 との照応と、negotium と sine negotio の重ねが訳に出ないと、皮肉が伝わらない。
+- 訳での扱い：訳注は付けない。メモも要らない。inuenire は 19:14 の「見いだす」に揃え、negotium と sine negotio を「骨の折れること」と「造作もなく」のように難しい／たやすいの対で訳す。in Symposio は『饗宴』と『』に入れる。inter corpus et spiritum は、ミヌキウスの言い換えのまま訳し、プラトンの説に直さない。conititur は底本の綴りのとおりに起こす。
+- 確かめた資料：Halm l. 2870、2888–2893、校注 l. 2882、2917–2918、索引 l. 3814、4483–4487（画像 0076、0077）。`src/chapter-18-19/jp.md` の 19:14。Wa l. 3849–3855、3868–3872（Wa の画像 0061）。Wa09 l. 1745–1752。Ho l. 16805–16811、16827–16886。ANF l. 21510–21516。
+
+### 26.12 ex qua monet etiam † nos procupidinem amoris, et dicit informari et inlabi（短剣符）
+- 底本（Halm）：ex qua monet etiam † nos procupidinem amoris, et dicit informari et inlabi pectoribus humanis et sensum mouere et adfectus fingere et ardorem cupiditatis infundere.（短剣符は p. 39 の 6 行目の頭、nos の前。p. 39 の 5〜8 行目。画像 0077。`pct:15,19,75,10` 幅 1800 で確かめた）
+- ほかの読み（底本の校注）：P は monet etiam nos procupidinem。r は manare in nos procupidinem。Meursius は manet etiam in nos porro cupido、Davisius は monet etiam nasci pruriginem amoris、Vonck は monet etiam nos promere cupidinem と読む。Halm 自身は「おそらく」として monet etiam in nobis promi cupidinem（わたしたちの中に欲望が引き出される、と教える）を挙げる。Zeitschrift für Philosophie und katholische Theologie 18 巻 173 の書評者は ex quo mouent (sc. daemones) etiam nos per cupidinem amoris（それゆえダイモーンは愛の欲望によってわたしたちを動かす）と読む。illabi は Gelenius の直しで、P と r は labi（Halm 校注 l. 2918–2923）。序文はこの箇所を論じない。
+- ほかの読み（ほかの版）：Wa は Sauppe に従って ex qua monet etiam nos amorem informari et inlabi pectoribus humanis（そこから愛が形づくられ、人の胸に入り込む、と教える）と読み、amorem の m と inlabi の in をイタリックで刷る（Wa l. 3855、3934–3936、校注 l. 3894–3896。Wa の画像 0061、0062）。Wa09 は、procupidinem は amorem の上に書かれた注釈 pro cupidine（欲望の意味で）が本文に入ったもので、そのために amorem が amoris に変わり、et dicit は monet の注釈だ、と説明し、プラトン『饗宴』202E 以下を参照させる（Wa09 l. 7558–7564）。Wa09 は procupido を、この書にだけ出る語の一つに数える（Wa09 l. 2816）。Ho は ex qua movet etiam nos pro cupidine amoris と刷り、写本の形から pro cupidinem と monet だけを直したとし、「その（地の重みの）まじりのために、ダイモーンは好意の欲から私たちを動かす」という疑わしい意味を引き出せるとする。procupido という語は編者が作者に押しつけた、一度しか出ない語だと述べ、Lindner の manare in nos procupidinem amoris と Oehler の monet etiam nos percipi cupidinem amoris を紹介する（Ho l. 16812、16901、16923–16947）。ANF は「愛の欲望について私たちに警告し」と訳し、脚注で「愛の欲望が受け入れられると警告する」という読みを挙げる（ANF l. 21516–21519、21532–21533）。
+- 解釈：どの読みでも、続く dicit informari et inlabi pectoribus humanis 以下は、愛（の欲望）が人の胸に入り込み、感覚を動かし、情を作り、欲の火を注ぐ、という内容になる。読み方で変わるのは、主語がプラトン（が教える）かダイモーン（が動かす）か、愛がダイモーンの本性から生まれるのか、わたしたちがダイモーンに動かされるのか、である。Wa と Wa09 は、エロースを神と人の間のダイモーンとする『饗宴』202E 以下を挙げる。
+- 採る校訂者：底本は直しを採らず、短剣符を付ける。illabi は Gelenius（刊本の編者）。
+- 読者への影響：中 — 読み方で、この文の主語と、愛とダイモーンの関係が変わる。
+- 訳での扱い：本の `AGENTS.md` の短剣符の決まりに従い、底本の校注が挙げる読みのうち文脈に合うものに従って訳す。続く dicit informari et inlabi と主語（プラトン）が揃い、Wa の読みとも意味が近い、「（プラトンは）この本性から、愛の欲望もわたしたちの中に生じると教える」の方向（r、Meursius、底本の編者の推定）を勧める。`// ` メモに、底本が nos procupidinem に短剣符を付けて写本の読みが崩れているとすること、どの読みの方向で訳したかを書く。意味が定まらず、読み方で文の意味が変わる箇所なので、訳注を付けることを勧める。注の案：「この句は写本が崩れていて、読み方が定まらない。」（23 字）。illabi と写本の labi は訳に関わらないので、メモは要らない。底本テキストでは † を nos の前に置いて起こす。
+- 確かめた資料：Halm l. 2893–2896、校注 l. 2918–2923（画像 0077）。Wa l. 3855、3894–3896、3934–3936（Wa の画像 0061、0062）。Wa09 l. 1752–1754、2816、7558–7564。Ho l. 16812、16901–16907、16923–16947。ANF l. 21516–21519、21532–21533。
+
+### 27.1 ut ostensum ⟨a⟩ magis, a philosophis et a Platone（底本の補い。Dombart magis ac philosophis）、consecratis（写本 consecrati）
+- 底本（Halm）：Isti igitur impuri spiritus, daemones, ut ostensum *a* magis, a philosophis et a Platone, sub statuis et imaginibus consecratis delitescunt et adflatu suo auctoritatem quasi praesentis numinis consequuntur,（a はイタリック。p. 39 の 9〜12 行目。行頭から新しい段落。章番号 27 は右の余白。画像 0077。`pct:15,19,75,10` 幅 1800 で確かめた）
+- ほかの読み：Ursinus は daemones を後の書き込みとみた（キプリアヌス 4.3 は hi ergo spiritus sub statuis atque imaginibus consecratis delitescunt と daemones なしで書く）が、Halm は「この箇所は、魔術師によって示されたとおりダイモーンである霊たち、と解すべきだ」とする。P と r は ostensum magis で、Gelenius が a を補った。Heumann は a philosophis を括弧に入れる。consecratis は Balduinus がキプリアヌスから直したもので、P と r は consecrati。P は delitescunt を delitiscunt と書く（Halm 校注 l. 2923–2928）。Wa は Dombart に従って ut ostensum magis ac philosophis と読み、et a Platone を除き、P の delitiscunt を刷る（Wa l. 3939–3941、校注 l. 3980–3981。Wa の画像 0062 で ac の c がイタリック）。Wa09 は、前の章で詩人・魔術師・哲学者を挙げたが、詩人はだれも引かず、魔術師ホスタネスと哲学者ソクラテス、プラトンを引いたので、ここでは詩人を省いてまとめた、a Platone は注釈で、それが ac を a に変えたらしい、と説明し、Norden を参照させる（Wa09 l. 7566–7576）。Ho は ut ostensum Magis, a philosophis et a Platone と consecrati（P）を刷り、a philosophis et a Platone を「哲学者たち、とりわけプラトンによって」とする（Ho l. 16910–16915、16949–16959）。ANF は「魔術師、哲学者、プラトンによって示されたとおり」と訳す（ANF l. 21546–21548）。
+- 採る校訂者：a は Gelenius、consecratis は Balduinus（いずれも刊本の編者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。底本の補いに従い、魔術師、哲学者、プラトンの三つを「〜によって」で並べて訳す（26.10〜26.12 を受ける）。`// ` メモに、a は写本になく、ある刊本の編者の推定で、底本もこれを補うことを書く。consecratis と写本の consecrati（「祀られて、立像の下に潜む」）の違いは小さいので、メモは書かなくてもよい。daemones は、底本の校注のとおり「（それは）ダイモーンである」と、spiritus と同格に取って訳す。imagines consecratae は 23.9 の imagines consecratas の訳と揃える。底本テキストでは ⟨a⟩ と起こす。
+- 確かめた資料：Halm l. 2898–2902、校注 l. 2923–2928（画像 0077）。Wa l. 3939–3942、3980–3981（Wa の画像 0062）。Wa09 l. 1755–1764、7566–7576。Ho l. 16910–16915、16949–16959。ANF l. 21546–21549。
+
+### 27.1 dum inspirant interim uates（写本 inspirantur interim uatibus）、falsis pluribus inuoluta
+- 底本（Halm）：dum inspirant interim uates, dum fanis inmorantur, dum nonnumquam extorum fibras animant, auium uolatus gubernant, sortes regunt, oracula efficiunt, falsis pluribus inuoluta.（p. 39 の 12〜15 行目。画像 0077）
+- ほかの読み：inspirant uates は Dombart の推定で、P と r は inspirantur interim uatibus、Heumann は inspirant interim uatibus と読む。Halm はキプリアヌス 4.3 の hi afflatu suo uatum pectora inspirant を引く。Gelenius は fanis を sanis と読む（Halm 校注 l. 2929–2931）。Halm は序文で、写本の inspirantur uatibus を「予言者たちがダイモーンに吹き込まれる」と解する通行の本文は、inspirare を中動・形式所相に使う例がないので成り立たないとし、Heumann の inspirant は正しいが、与格の uatibus にするか対格の uates にするか迷ったすえ、キプリアヌスが uatum pectora inspirant と言い換えていること、inspirare が与格をとる例はまれで、それも本来の「吹き込む」の意味のものに限ることから、Dombart の uates を採った、と書く（序文 l. 836–858）。Wa は Heumann の inspirant interim vatibus（Wa l. 3942–3943、校注 l. 3982–3983。Wa の画像 0062）。Wa09 は、inspirare は与格をとるとし、Norden の insinuantur、Baehrens の inseruntur も紹介する（Wa09 l. 7578–7581）。Ho は P の inspirantur interim vatibus を残し、他の版の inspirant は写本に反するとし、interim を「ときに」とする（Ho l. 16916–16917、16961–16974）。ANF も写本どおり「予言者たちに吹き込まれる」と訳す（ANF l. 21549–21550）。
+- 典拠と解釈：Ho は、ダイモーンが夢を形づくり、内臓に裂け目を入れ、鳥の飛び方を導き、予言者に吹き込む、と説くアプレイウス『ソクラテスの神について』6 を引き、鳥占い、くじ、内臓占い、神託の四つの占い方を歌うティブッルスの詩を引く。falsis pluribus inuoluta を「大部分が偽りの織物である神託を作る」とし、ラクタンティウス 2.16.13、テルトゥリアヌス『護教論』22 章（神託のあいまいさ）を挙げる（Ho l. 16961–17071）。Wa はティブッルス 2.5.13、ウェルギリウス『アエネーイス』6.98〜100、キケロ『神々の本性について』1.12 などを挙げる（Wa l. 3962–3964。Wa の画像 0062）。
+- 採る校訂者：inspirant uates は Dombart（学者）。Halm が採る。
+- 読者への影響：小 — 「ダイモーンが予言者たちに吹き込む」（底本）と「ダイモーンが予言者たちに吹き込まれる」（写本）は、同じことを主語を替えて言う。
+- 訳での扱い：訳注は付けない。`// ` メモに、inspirant uates（予言者たちに吹き込む）は写本で inspirantur uatibus（予言者たちに吹き込まれる）で、ある学者の推定で底本もこれを採ることを書く（底本の序文がこの箇所を論じる）。uates は 7:6 の「予言者たち」に揃える。interim は「ときに」。四つの dum 句（予言者、社、内臓、鳥とくじと神託）と、7:1 の「鳥占いを守り、いけにえの内臓に伺いを立て」との対応を残す。fanum は訳語表の「社」。falsis pluribus inuoluta は、神託が多くの偽りに包まれている（真実より偽りのほうが多い）と分かるように訳す。
+- 確かめた資料：Halm l. 2902–2906、序文 l. 836–858、校注 l. 2929–2931（画像 0077）。Wa l. 3942–3946、3960–3964、3982–3983（Wa の画像 0062）。Wa09 l. 1764–1768、7578–7581。Ho l. 16916–16918、16961–17071、17035–17036。ANF l. 21549–21552。
+
+### 27.2 somnos inquietant（写本 omnes）、remissis quae constrinxerant（P の第二の手 remissius）、ut ad cultum sui cogant（第一コリント 10.20）
+- 底本（Halm）：nam et falluntur et fallunt, ut et nescientes sinceram ueritatem et quam sciunt, in perditionem sui non confitentes. sic a caelo deorsum grauant et a Deo uero ad materias auocant, uitam turbant, somnos inquietant, inrepentes etiam corporibus occulte ut spiritus tenues morbos fingunt, terrent mentes, membra distorquent, ut ad cultum sui cogant, ut nidore altarium uel hostiis pecudum saginati, remissis quae constrinxerant, curasse uideantur.（p. 39 の 15 行目〜p. 40 の 1 行目。画像 0077、0078）
+- ほかの読み：P は ut を行の上に書くが、第一の手による。Ouzelius は ad materias を ad materiam と読む。somnos は Ursinus がキプリアヌス 4.4 から直したもので、P と r は omnes（すべての人を）。P は occulte を occultae と書く。Vonck は ut sunt spiritus tenues と読む。P の第一の手は altarium uel hostiis を alterium uel hostis と書く。remissis は P の第一の手の形で、キプリアヌスもこの形。P の第二の手の訂正と r は remissius（Halm 校注 l. 2931–2934）。Wa も somnos と remissis（Wa l. 3946–3955、校注 l. 3983–3985。Wa の画像 0062）。Ho も somnos で、写本は omnes と注する（Ho l. 17036–17040、17100）。ANF は「すべての人を不安にし」と訳し、脚注で「眠りを」の読みを挙げる（ANF l. 21556–21557、21592）。
+- 典拠と解釈：Ho は a caelo deorsum grauant を「心を天から押し下げて上らせない」、ad materias auocant を「物質の拝みへ引きそらす」とし、タティアノス『ギリシア人への言葉』16 を挙げる。morbos fingunt 以下に、悪霊は細やかな霊なので人の体に入り込み、ひそかに病を起こし、人を自分たちの助けに走らせる、というラクタンティウス 2.14.14 を、nidore altarium に、悪霊が祭壇の煙と血を好むというアテナゴラス、テルトゥリアヌス『護教論』22 章、オリゲネスなどを挙げ、remissis … curasse uideantur を「自分で掛けた縛りを解いただけなのに、治したと思わせる」として、テルトゥリアヌス『護教論』22 章の「まず害し、それから薬を指図し、そのあと害するのをやめて、治したように見せる」を引く（Ho l. 17076–17229）。Wa は ut ad cultum sui cogant の行に『オクタウィウス』38.1、第一コリント 10.20、ユスティノス『第二弁明』5.4、アテナゴラス『嘆願』27 を挙げる（Wa l. 3964–3967。Wa の画像 0062）。
+- 口語訳で確かめた本文：第一コリント 10.20（人々が供える物は、悪霊ども、すなわち、神ならぬ者に供えるのである）。
+- 採る校訂者：somnos は Ursinus（刊本の編者）。Halm が採る。remissis は P の第一の手。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。`// ` メモに、somnos（眠りを）は写本で omnes（すべての人を）で、ある刊本の編者の推定で底本もこれを採ることを書く。第一コリント 10.20 は引用ではないので『』に入れない。falluntur et fallunt（欺かれ、欺く）の語の重ねを残す。in perditionem sui non confitentes は「自分の滅びになるので、知っていることも認めない」。remissis quae constrinxerant は、自分で締めつけたものを緩めて治したように見せる、という皮肉を残す。
+- 確かめた資料：Halm l. 2906–2914、2940、校注 l. 2931–2934（画像 0077、0078）。Wa l. 3946–3955、3964–3967、3983–3985（Wa の画像 0062）。Wa09 l. 1768–1780。Ho l. 17036–17040、17076–17229、17142–17150。ANF l. 21552–21562、21592。口語訳（bible-api）の 1Cor.10.20。
+
+### 27.3 hinc sunt et furentes（写本 hi sunt）、uates et ipsi absque templo
+- 底本（Halm）：hinc sunt et furentes, quos in publicum uidetis excurrere, uates et ipsi absque templo, sic insaniunt, sic bacchantur, sic rotantur: par et in illis instigatio daemonis, sed argumentum dispar furoris.（p. 40 の 1〜4 行目。画像 0078）
+- ほかの読み：hinc sunt は Davisius の推定で、P と r は hi sunt（これらが…である）、Heumann は de his sunt。P の第一の手は bacchantur を uacchantur と書く（Halm 校注 l. 2972–2973）。Wa も Hinc で、nc をイタリックで刷る（Wa l. 3955–3957、4022、校注 l. 3985–3986。Wa の画像 0062）。Wa09 も Davisius とする（Wa09 l. 7588）。Ho は hi sunt を本文にし、「おそらく hinc と読むべきだ」という Davies の注を載せる（Ho l. 17153、17231–17246）。ANF は「これらの狂う者たちも」と訳す（ANF l. 21562–21563）。
+- 典拠と解釈：Ho は Davies から、彼らを「神殿のない予言者」と呼ぶのは、予言者が神殿で狂うように、この者たちは街や広場で狂って回ったからだ、という注を引く。sic rotantur などを、予言の霊を与えるとされた力に一時とりつかれた者に使う語として、アルノビウス 1.19、ウェルギリウス『アエネーイス』6.77 以下（シビュラ）、ルカヌス 5.166 などを挙げ、par et in illis instigatio daemonis, sed argumentum dispar furoris を「ダイモーンのけしかけは（予言者の場合と）同じだが、狂いを起こす目的が違う」とする（Ho l. 17319–17348）。Wa はルカヌス 5.169 以下、スタティウス『シルウァエ』4.3.120 以下、アプレイウス『変身物語』8.27 を挙げる（Wa l. 3968–3969）。底本の索引は sic rotantur と absque をこの節に挙げる（Halm l. 4699、5619）。
+- 採る校訂者：hinc は Davisius（刊本の編者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモは書いても書かなくてもよい（書くなら、hinc（ここから）は写本で hi（これらが）で、ある刊本の編者の推定で底本もこれを採る。狂う者たちがダイモーンから「出る」か、ダイモーン「そのもの」かが少し変わる）。uates et ipsi absque templo は「神殿のない予言者」の皮肉を残す。sic insaniunt, sic bacchantur, sic rotantur の三つの重ねを残す。argumentum dispar furoris の argumentum は「（狂いの）中身、目的」。instigatio daemonis は 28.5 と同じ句なので、訳語を揃える。
+- 確かめた資料：Halm l. 2940–2944、校注 l. 2972–2973、索引 l. 4699、5619（画像 0078）。Wa l. 3955–3957、3968–3969、3985–3986、4022（Wa の画像 0062、0063）。Wa09 l. 1780–1786、7588。Ho l. 17153、17231–17246、17272–17289、17319–17348。ANF l. 21562–21566。
+
+### 27.4 de ipsis etiam illa, quae paulo ante tibi dicta sunt（7.3 への照応）
+- 底本（Halm）：de ipsis etiam illa, quae paulo ante tibi dicta sunt, ut Iuppiter ludos repeteret ex somnio, ut cum equis Castores uiderentur, ut cingulum matronae nauicula sequeretur.（p. 40 の 4〜6 行目。画像 0078）
+- ほかの読み：底本の校注に記載はない。Wa、Ho とも同じ本文（Wa l. 4022–4025、Ho l. 17282–17299）。
+- 本文の内の照応：三つとも、カエキリウスが 7.3 で挙げた証し（ユピテルの機嫌を損ねて、平民の男の夢によって競技がやり直されたこと、騎士の兄弟が馬に乗って勝利を知らせたこと、イダの母神の到来がある婦人の貞潔を明らかにしたこと）を指す。Wa は 7.3 を、Ho は 7 章を参照させる（Wa l. 4048、Ho l. 17350）。Ho は de ipsis を「まさにこの霊たちから出たもの（その仕業）」とする（Ho l. 17352–17353）。底本の索引は Castores と ludi ex somnio repetiti を 7.3 と 27.4 に挙げ、婦人を 7.3 で (Claudia Quinta) とする（Halm l. 3985、4019、4335）。
+- 読者への影響：中 — 7 章の三つの話と同じだと分からないと、「婦人の帯に小舟がついてきた」が何のことか取れない。
+- 訳での扱い：訳注は付けない。7:3 の訳に語を揃える。Castores は「騎士の兄弟」（7:3）か、名前の表の「カストルの兄弟」（22:7）。matrona は「婦人」。ludos repeteret ex somnio は「夢によって競技のやり直しを求めた」。婦人の名は原文にないので補わない。cingulum は「帯」、nauicula は「小舟」で、7:3 の「到来によって、ある婦人の貞潔を明らかにし」と結びつくように訳す。de ipsis は「これもダイモーンの仕業だ」の意味で訳す。
+- 確かめた資料：Halm l. 2944–2947、索引 l. 3985、4019、4335（画像 0078）。`halm-1867.txt` の 7.3。`src/chapter-05-08/jp.md` の 7:3。Wa l. 4022–4025、4048（Wa の画像 0063）。Wa09 l. 1786–1789。Ho l. 17282–17299、17350–17353。ANF l. 21566–21570。
+
+### 27.5 pleraque pars（写本 plerique pars）、tormentis uerborum et orationis incendiis（Usener incentiuis。oratio の意味）
+- 底本（Halm）：haec omnia sciunt pleraque pars uestrum ipsos daemonas de semetipsis confiteri, quotiens a nobis tormentis uerborum et orationis incendiis de corporibus exiguntur.（p. 40 の 6〜9 行目。画像 0078）
+- ほかの読み：pleraque pars は Davisius の推定で、P は plerique pars、r とブリュッセル写本は plerique。P の第一の手は ipso daemonas de semet ipsos と書き、第二の手が直した。Usener は orationis incendiis を orationis incentiuis と読む（Halm 校注 l. 2973–2975）。底本の索引は「tormenta uerborum 27.5」「incendia (incentiua?) orationis 27.5」とする（Halm l. 5197、5690）。Wa も pleraque pars で、P を pleriq. pars とする（Wa l. 4027–4030、校注 l. 4067–4068。Wa の画像 0063）。Ho も pleraque pars（Ho l. 17303–17316）。
+- 典拠と解釈：Ho は「わたしたちの言葉の責め苦と祈りの火で追い出される」とし、悪霊にとりつかれた者を法廷に出せば、キリスト者に命じられて自分が悪霊であると告白する、というテルトゥリアヌス『護教論』23 章、悪霊は霊のむちと言葉の責め苦で、とりつかれた体から追い出される、というキプリアヌス『デメトリアヌスへ』、ラクタンティウスなどを挙げる（Ho l. 17355–17391）。Wa は 27.5〜27.7 の行にテルトゥリアヌス『護教論』23 章、32.3、キプリアヌス『デメトリアヌスへ』15、ラクタンティウス 2.15.3〜4、4.27.1 などを挙げる（Wa l. 4056–4064。Wa の画像 0063）。Wa09 の仏訳と ANF も oratio を「祈り」の意味に取る（Wa09 l. 1793–1794、ANF l. 21572–21573）。
+- 採る校訂者：pleraque は Davisius（刊本の編者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない（pleraque と写本の plerique は訳に関わらない）。orationis はここでは悪霊払いの「祈り」で、本の訳語表の oratio（弁論、語り）とは別の意味なので、訳語表に書き足す必要がある。tormentis uerborum（言葉の責め苦）と orationis incendiis（祈りの火）の対を残す。tormenta は訳語表の「責め苦」（22:4）。de corporibus exiguntur は「体から追い出される」。
+- 確かめた資料：Halm l. 2947–2951、校注 l. 2973–2975、索引 l. 5197、5690（画像 0078）。Wa l. 4027–4030、4056–4064、4067–4068（Wa の画像 0063）。Wa09 l. 1791–1794、7590。Ho l. 17303–17316、17355–17391。ANF l. 21570–21573。
+
+### 27.6〜27.7 ipsis testibus … credite fassis（写本の訂正 de se uerum confitentibus credite）、miseris corporibus（写本 miseri）、悪霊払いの聖書の類例
+- 底本（Halm）：ipse Saturnus et Serapis et Iuppiter et quicquid daemonum colitis, uicti dolore quod sunt eloquuntur, nec utique in turpitudinem sui, nonnullis praesertim uestrum adsistentibus, mentiuntur. ipsis testibus, esse eos daemonas, credite fassis: adiurati enim per Deum uerum et solum inuiti miseris corporibus inhorrescunt et uel exiliunt statim uel euanescunt gradatim, prout fides patientis adiuuat aut gratia curantis adspirat.（p. 40 の 9〜15 行目。画像 0078）
+- ほかの読み：credite fassis は Miscellaneae Observationes 4 巻 423 の無名の学者の推定。P の第一の手は credite fessis と書き、fessis は削られている。P の訂正と r は de se uerum confitentibus credite（自分について真実を告白する者たちを信じよ）。Halm は、神によって呼びかけられると、ただちに退き、告白する、というキプリアヌスを参照させる。miseris は Gelenius の直しで、P と r は miseri（あわれな者たちは）。キプリアヌスは obsessa corpora（とりつかれた体）とする（Halm 校注 l. 2975–2979）。Wa は de se verum confitentibus credite と miseri を本文にし、de se verum confitentibus は P の行の上の書き足しで、P では credite の後に fassis か fessis が続いていたが削られた、と記す（Wa l. 4033–4037、校注 l. 4068–4069。Wa の画像 0063）。Wa09 は Winterfeld を参照させる（Wa09 l. 7592–7593）。Ho も de se verum confitentibus credite と miseri（Ho l. 17419–17423）。ANF も写本の訂正と miseri で訳し、脚注で inhorrescunt に「しがみつく」という別の読みを挙げる（ANF l. 21576–21579、21594）。
+- 典拠と解釈：Ho は、悪霊は自分の名を明かし、それを拝む者の前でも告白する、神にも義人にも偽ることができないからだ、とするラクタンティウスと、ユスティノス、テオフィロス、タティアノス、オリゲネス、アタナシオスなどの同じ証言を挙げる。nec utique in turpitudinem sui … mentiuntur を「わざわざ自分の恥になる嘘をつくとは考えられない」とし、テルトゥリアヌス『護教論』23 章の「だれも自分の恥のために嘘はつかない」を引く。corporibus inhorrescunt にヤコブ 2.19 とルカ 9.39 を挙げ、miser を軽蔑かあわれみの「あわれな」とし、gratia curantis の curantis を神とする（Ho l. 17361–17378、17430–17487）。Wa は uicti dolore の行にルカ 9.39、マルコ 9.24 以下とヤコブの手紙（「II 9」と刷る。2.9 は分け隔ての罪の話でここに合わないので、Ho の挙げる 2.19 の刷り違いとみられる）を挙げる（Wa l. 4048–4049。Wa の画像 0063）。底本の索引は「神によって呼びかけられた（悪霊）27.7」とする（Halm l. 4733）。
+- 口語訳で確かめた本文：ヤコブ 2.19（悪霊どもでさえ、信じておののいている）。ルカ 9.39（霊が取りつくと急に叫び出し、ひきつけさせて、あわを吹かせる）。マルコ 9.24〜26（父親の「信じます。不信仰なわたしを、お助けください」、イエスがけがれた霊に出て行けと命じ、霊が叫び声をあげて出て行く）。
+- 採る校訂者：credite fassis は無名の学者、miseris は Gelenius（刊本の編者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。`// ` メモに、miseris corporibus（あわれな体に）は写本で miseri（あわれな者たちは）で、ある刊本の編者の直しで底本もこれを採ることを書く（「あわれ」が人の体を言うか、悪霊を言うかが変わる）。credite fassis と写本の訂正 de se uerum confitentibus credite は意味が同じなので、メモは要らない。inhorrescunt は、ヤコブ 2.19 の口語訳「おののいている」に寄せてよい（引用ではないので『』に入れない）。fides patientis（とりつかれた人の信仰）と gratia curantis（癒やす者の恵み）の対を残す。curantis を神とするか、悪霊を払うキリスト者とするかは訳者が決める（Ho は神とする）。神とするなら尊敬語を使う。Deum uerum et solum も尊敬語。Saturnus、Serapis、Iuppiter は名前の表のとおり。
+- 確かめた資料：Halm l. 2951–2958、校注 l. 2975–2979、索引 l. 4733（画像 0078）。Wa l. 4030–4039、4048–4049、4068–4069（Wa の画像 0063）。Wa09 l. 1795–1809、7592–7593。Ho l. 17316、17361–17378、17406–17427、17430–17487。ANF l. 21573–21581、21594。口語訳（bible-api）の Jas.2.19、Jas.2.9、Luke.9.39、Mark.9.24–26。
+
+### 27.7 sic Christianos de proximo fugitant, quos longe in coetibus per uos lacessebant（Vahlen a coetibus … lacessant）
+- 底本（Halm）：sic Christianos de proximo fugitant, quos longe in coetibus per uos lacessebant.（p. 40 の 16〜17 行目。画像 0078）
+- ほかの読み：Vahlen は、ラクタンティウス『神学綱要』4.27 の初めと比べて quos longe a coetibus per uos lacessant と読む（Halm 校注 l. 2979–2980）。P は Christianos を略して書く（Wa 校注 l. 4069）。Wa、Ho とも底本と同じ（Wa l. 4039–4040、Ho l. 17426–17427）。
+- 解釈：Ho は de proximo fugitant を「近くからはさっさと逃げる」とし、テルトゥリアヌス『護教論』27 章の「遠くからは攻め、近くでは嘆願する」を挙げる（Ho l. 17489–17497）。Wa はテルトゥリアヌス『護教論』27.6、ラクタンティウス 4.27.8 を挙げる（Wa l. 4063）。in coetibus を、Wa09 の仏訳は「キリスト者の集まりで」と取り、ANF は「彼らの集まりで」と訳す（Wa09 l. 1809–1811、ANF l. 21581–21583）。
+- 採る校訂者：Halm、Wa、Ho とも P の本文。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない。de proximo（近くでは）と longe（遠くからは）の対を残す。in coetibus を、キリスト者の集まりと取るか、人々の集まり（群衆）と取るかを訳者が決める。per uos（あなたがたを使って）は、悪霊が異教徒を通してキリスト者を攻めたことを言い、次の 27.8 につながる。
+- 確かめた資料：Halm l. 2959–2961、校注 l. 2979–2980（画像 0078）。Wa l. 4039–4040、4063、4069（Wa の画像 0063）。Wa09 l. 1809–1811。Ho l. 17426–17427、17489–17497。ANF l. 21581–21583。
+
+### 27.8 timeas（写本 timens）、quem metueris（Freinshemius oderis）、ante … odisse quam nosse（6.1、24.2 との照応）
+- 底本（Halm）：ideo inserti mentibus imperitorum odium nostri serunt occulte per timorem: naturale est enim et odisse quem timeas, et quem metueris infestare, si possis. sic occupant animos et obstruunt pectora, ut ante nos incipiant homines odisse quam nosse, ne cognitos aut imitari possint aut damnare non possint.（p. 40 の 17〜21 行目。画像 0078）
+- ほかの読み：P は timens と書き、n に削除の点を付ける。r は times。timeas はすでにブリュッセル写本（P の写し）にある。Freinshemius は、クルティウス 8.10.1 への注で、キケロ『義務について』2.7 と比べて quem metueris を quem oderis と読む。P の第一の手は infestare, si を infestares si と書く（Halm 校注 l. 2980–2982）。Wa も timeas で、P の第一の手は si possis、訂正は posses と記す（Wa l. 4042–4045、校注 l. 4070–4071。Wa の画像 0063）。Wa09 も同じ（Wa09 l. 7595–7596）。Ho は、Lindner が Freinshemius の oderis と、キケロ『義務について』2.7 の「人は恐れる者を憎み、憎む者が滅びることを望む」とタキトゥス『アグリコラ』42 を挙げたことを紹介する（Ho l. 17565–17568、17586–17592）。
+- 典拠：Wa は naturale est enim の行に『オクタウィウス』37.9、キケロ『義務について』2.23 に引かれるエンニウスの句、タキトゥス『アグリコラ』42、セネカ『怒りについて』2.11.3、Otto の諺集の「憎む」の項を挙げる（Wa l. 4050–4054。Wa の画像 0063）。odisse quam nosse に、Ho は Heraldus から、人が知らないものを憎むことほど不当なことがあろうか、というテルトゥリアヌス『護教論』1 章と、ラクタンティウス 5.1.4 を引く（Ho l. 17594–17601）。Wa はテルトゥリアヌス『護教論』27.5 を挙げる（Wa l. 4064）。
+- 本文の内の照応：ante … odisse quam nosse（知るより先に憎む）は、カエキリウスの 6.1 の「よく知るより先に恐れる」（timere quam nosse）と、それに答えた 24.2 の「拝むより先に知る」（nosse quam colere）の言い方を、キリスト者への憎しみに向け直したもの。
+- 採る校訂者：timeas は通行の読み（ブリュッセル写本にすでにある）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない（timeas と写本の timens は訳に関わらない）。odisse quam nosse は、6:1 の「よく知るより先に、恐れるように」、24:2 の「神を拝むより先に、神をよく知らなければならない」と響き合う形で訳す。ne cognitos aut imitari possint aut damnare non possint は、二つの possint の対（まねることができるようになる／罪に定めることができなくなる）を残す。serunt は 28.6 の seritur と同じ「蒔く」の比喩。imperitorum は訳語表の「無知な」。
+- 確かめた資料：Halm l. 2961–2965、校注 l. 2980–2982（画像 0078）。`halm-1867.txt` の 6.1、24.2。`src/chapter-05-08/jp.md` の 6:1、`src/chapter-23-25/jp.md` の 24:2。Wa l. 4042–4045、4050–4054、4064、4070–4071、4117–4118（Wa の画像 0063、0064）。Wa09 l. 1811–1819、7595–7596。Ho l. 17561–17573、17586–17601。ANF l. 21583–21589。
+
+### 28.1 Quam autem inicum sit, ⟨de⟩ incognitis et inexploratis iudicare（底本の補い）
+- 底本（Halm）：Quam autem inicum sit, *de* incognitis et inexploratis iudicare, quod facitis, nobis ipsis paenitentibus credite.（de はイタリック。p. 40 の 22〜23 行目。行頭から新しい段落。章番号 28 は左の余白。画像 0078）
+- ほかの読み：de は Carrio（『校訂』2.18）の補いで、P と r にはない。Meursius は in incognitis と読む。r は Quam autem inicum を Quantum autem uitium とする。P は paenitentibus を penitentibus と書く（Halm 校注 l. 2982–2984）。Wa は de を補わず incognitis et inexploratis iudicare と刷る（Wa l. 4120–4122。Wa の画像 0064）。Ho も de なしで iniquum と刷り、incognitis に rebus を補って解し、Meursius の in incognitis を記す（Ho l. 17575–17576、17603–17604）。ANF は「知られず調べられていないことについて判断する」と訳し、脚注で r の「なんと大きな過ちか」を挙げる（ANF l. 21606–21607、21665）。Wa09 は inicum を古い綴りの一つに数える（Wa09 l. 3502）。
+- 典拠：Ho はテルトゥリアヌス『護教論』18 章の「わたしたちもかつてこれを笑った。あなたがたの仲間だったのだ」を挙げる（Ho l. 17606–17614）。Wa は nobis ipsis paenitentibus の行にテルトゥリアヌス『護教論』18.4、48.2 を挙げる（Wa l. 4155）。底本の索引は paenitentes 28.1 とする（Halm l. 5468）。Ho の欄外の要約は、28.1〜28.5 をオクタウィウス自身の経験として「わたし」で述べる（Ho l. 17537–17552）。
+- 採る校訂者：de は Carrio（学者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。底本の補いに従って訳す（「〜について裁く」）。`// ` メモに、de は写本になく、ある学者の推定で、底本もこれを補うことを書く（意味は変わらない）。iudicare は 28.3〜28.5 の法廷の話につながるので「裁く」でよい。nobis ipsis paenitentibus は「悔いているわたしたち自身」。28.1〜28.5 の「わたしたち」は、キリスト者全体ではなく、かつて異教徒として同じことをした者（オクタウィウス自身。28.3 では弁護人として）を言う。本の `AGENTS.md` の「自分一人を言う複数」の決まりに照らして、「わたしたち」とするか「わたし」とするかを訳者が決める。inicum は底本の綴りのとおりに起こす。底本テキストでは ⟨de⟩ と起こす。
+- 確かめた資料：Halm l. 2967–2968、校注 l. 2982–2984、索引 l. 5468（画像 0078）。Wa l. 4120–4122、4155、4165（Wa の画像 0064）。Wa09 l. 1821–1823、3502。Ho l. 17537–17552、17575–17577、17603–17614。ANF l. 21606–21608、21665。
+
+### 28.2 fecimus（写本 fuimus）、ab his fabulas istas（Usener anilis、Heumann ab his を削る）、quod non ante fuerit
+- 底本（Halm）：et nos enim idem fecimus et eadem uobiscum quondam adhuc caeci et hebetes sentiebamus, quasi Christiani monstra colerent, infantes uorarent, conuiuia incesta miscerent, nec intellegebamus ab his fabulas istas semper uentilari et numquam uel inuestigari uel probari, nec tanto tempore aliquem existere qui proderet, non tantum facti ueniam, uerum etiam indicii gratiam consecuturum: malum autem adeo non esse, ut Christianus reus nec erubesceret nec timeret, et unum solummodo, quod non ante fuerit, paeniteret.（p. 40 の 23 行目〜p. 41 の 6 行目。画像 0078、0079）
+- ほかの読み：fecimus は Wopkens の推定で、P と r は fuimus（わたしたちも同じであった）。Halm は 28.5（p. 41 の 15 行目）の sensisse et egisse を参照させる。P は hebetes を haebet sēe es と書き、sēe に削除の点を付ける（Halm 校注 l. 2984–2985）。Usener は ab his を anilis（老婆の）と読み、Heumann は ab his を削る。Heumann は uentilari を uenditari と読む。Halm は existere を extitisse と読みたいとする。r は indicii を iudicii とする。Usener は reus esse nec と読む。P は solummodo を solumodo、paeniteret を peneteret と書く（Halm 校注 l. 3024–3026）。Wa は P の fuimus（Wa l. 4122、校注 l. 4165–4166。Wa の画像 0064）。Ho も idem fuimus を本文にして iidem の意味とするが、前の quod facitis と 28.5 の sensisse, egisse から idem fecimus と読みたいとし、テルトゥリアヌス『護教論』18 章を挙げる（Ho l. 17577、17606–17614）。ANF は「わたしたちもあなたがたと同じだった」と訳す（ANF l. 21607–21608）。
+- 解釈：ab his を、Ho は「（噂を）言いふらす者たちによって」とし（Ho l. 17616–17618）、ANF も「（噂を言いふらす者たち）」と補う（ANF l. 21611–21612）。Wa09 の仏訳は「ダイモーンたち」と取る（Wa09 l. 1827–1829）。malum autem adeo non esse 以下を、Ho は「悪いことなどまったくなく、訴えられたキリスト者は恥じも恐れもしなかった」とし、だれも恥じず、悔いない、悔いるのは以前に（キリスト者で）なかったことだけだ、というテルトゥリアヌス『護教論』1 章を挙げる（Ho l. 17625–17638）。Wa はテルトゥリアヌス『護教論』1.12、7.1、7.5〜7、『諸国民へ』1.1、キプリアヌス『書簡』59.13、『背教者について』28 などを挙げる（Wa l. 4155–4162）。
+- 本文の内の照応：monstra colerent, infantes uorarent, conuiuia incesta miscerent は、カエキリウスが 9.3〜9.7 で語った三つの噂（家畜の頭や祭司の陰部を拝む、赤子を殺して血をなめる、近親姦の宴）を指す。底本の索引は infanticidium と conuiuia incesta を 9 章とこの節に挙げ、uorare infantes を 28.2 とする（Halm l. 4046、4258–4260、5739）。
+- 採る校訂者：fecimus は Wopkens（学者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。`// ` メモに、fecimus（同じことをした）は写本で fuimus（同じであった）で、ある学者の推定で底本もこれを採ることを書く。三つの噂は、9:3〜9:7 の訳の語（「赤子」「宴」「近親姦」）に揃える。ab his は、前の章のダイモーンを指すか、噂を広める人々を指すかを訳者が決める（ダイモーンと取ると、28.6 の「噂はダイモーンが蒔き育てる」と合う）。quod non ante fuerit は「もっと早く（キリスト者に）ならなかったこと」と補って訳す。facti ueniam と indicii gratiam は「（自分の）罪の赦し」と「密告の褒美」。
+- 確かめた資料：Halm l. 2968–2970、2991–2997、校注 l. 2984–2985、3024–3026、索引 l. 4046、4258–4260、5739（画像 0078、0079）。`src/chapter-09-13/jp.md` の 9:3〜9:7。Wa l. 4122–4131、4153–4162、4165–4166（Wa の画像 0064）。Wa09 l. 1823–1841。Ho l. 17577–17583、17606–17638、17656–17659。ANF l. 21608–21617。
+
+### 28.3 hos nec audiendos in totum putabamus、nonnumquam etiam miserantes … saeuiebamus（Wa の本文に欠ける）、parricidas
+- 底本（Halm）：nos tamen cum sacrilegos aliquos et incestos, parricidas etiam defendendos et tuendos suscipiebamus, hos nec audiendos in totum putabamus, nonnumquam etiam miserantes eorum crudelius saeuiebamus, ut torqueremus confitentes ad negandum, uidelicet ne perirent, exercentes in his peruersam quaestionem, non quae uerum erueret, sed quae mendacium cogeret.（p. 41 の 7〜12 行目。画像 0079）
+- ほかの読み：Heumann は aliquos を削り、miserantes を miserentes と読む。r は ut torqueremus を ut urgeremus とする。P は perirent を perient と書く（Halm 校注 l. 3026–3027）。Wa の本文は hos nec audiendos in totum putabamus, ut torqueremus confitentes と続き、nonnumquam etiam miserantes eorum crudelius saeuiebamus の一句がない。Wa の校注に記載はなく、スキャンでは読者がページの下にこの句を鉛筆で書き込んでいる（Wa l. 4133–4134。Wa の画像 0064）。Wa09 の仏訳はこの句を訳している（Wa09 l. 1844–1846）。Ho は底本と同じ（Ho l. 17660–17666）。
+- 解釈：底本の索引は、ここの nec を ne … quidem（〜さえない）、in totum を omnino（まったく）とする（Halm l. 5424、5694–5696）。Ho は suscipere を、弁護を引き受ける法廷の語とし、nonnumquam etiam 以下を「ときには、あわれみの中で怒りより残酷になった。告白する者を責めて、宗教を否むことで助かるようにさせた」と説明し、ほかの被告には告白させるために拷問を使うのに、キリスト者にだけは否ませるために使う、というテルトゥリアヌス『護教論』2 章と、ユスティノス『第一弁明』4、エウセビオス『教会史』5.1 を挙げる（Ho l. 17692–17728）。Wa はテルトゥリアヌス『護教論』2.9〜15、7.2、エウセビオス『教会史』5.1.8 などを挙げる（Wa l. 4160–4162）。
+- 採る校訂者：Halm、Ho は P の本文。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない。hos nec audiendos in totum は、底本の索引のとおり「まったく、聞くことさえ要らない」と強い否定で訳す。parricidas は、25:2 の parricidium の「身内殺し」と語を揃えるか、ここでは広く「人殺し」とするかを訳者が決める。miserantes … crudelius saeuiebamus は「あわれむあまり、かえって残酷にふるまった」の逆説を残す。torqueremus は拷問にかけること、peruersam quaestionem は「あべこべの取り調べ」で、真実を引き出すためでなく偽りを強いるため、という対を残す。Wa の欠落は印刷の脱落とみられ、訳には関わらない。
+- 確かめた資料：Halm l. 2998–3004、校注 l. 3026–3027、索引 l. 5424、5694–5696（画像 0079）。`src/chapter-23-25/jp.md` の 25:2。Wa l. 4131–4137、4160–4162、4166–4167（Wa の画像 0064）。Wa09 l. 1841–1849。Ho l. 17660–17666、17692–17728。ANF l. 21617–21624、21667。
+
+### 28.4〜28.5 si qui infirmior、eierato nomine、urguendi magis（Cellarius essent urguendi）
+- 底本（Halm）：et si qui infirmior malo pressus et uictus Christianum se negasset, fauebamus ei, quasi eierato nomine iam omnia facta sua illa negatione purgaret. adgnoscitisne eadem nos sensisse et egisse, quae sentitis et geritis? cum si ratio, non instigatio daemonis iudicaret, urguendi magis, non ut diffiterentur se Christianos, sed ut de incestis stupris, de inpiatis sacris, de infantibus immolatis faterentur.（p. 41 の 12〜18 行目。画像 0079）
+- ほかの読み：r は si qui を si quis とする。P は pressus を praessus と書き、Heumann は oppressus と読む。r は adgnoscitisne を Agnoscitisne とする。パリの無名の学者は egisse を gessisse、Heumann は geritis を et agitis と読む。r は urguendi を arguendi とする。Halm は「自分は Cellarius とともに essent urguendi と読みたい」と書く（Halm 校注 l. 3027–3030）。Wa は Cellarius の essent をイタリックで補い、校注に「おそらく不当ではない」と記す（Wa l. 4196、校注 l. 4245。Wa の画像 0065）。Wa09 は、省略が強すぎると思われたのだろうとする（Wa09 l. 7598–7599）。Ho は urgendi を本文にし、essent を補って解す（Ho l. 17770–17773、17785–17790）。
+- 解釈：Ho は eierato nomine を「（キリスト者の）名を捨てて」とし、苦しみや死を恐れて天の秘跡を捨てた者を、ほかの者を誘うために栄誉で飾る、というラクタンティウス 5.9.11 を挙げる（Ho l. 17730–17737）。底本の索引は「キリスト者の名を捨てる 28.4」「神聖を汚された祭儀 28.5」「ダイモーンのけしかけ 28.5」とする（Halm l. 5044、5234、5270）。
+- 本文の内の照応：de incestis stupris, de inpiatis sacris, de infantibus immolatis は、28.2 と同じく 9 章の噂を指す。inpiatis は 25.6 の inpiatum est（訳では「不敬が行われた」）と同じ語。
+- 採る校訂者：Halm、Wa、Ho とも P の urguendi（Wa は essent を補う）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない。urguendi magis は essent を補って「（キリスト者は）むしろ…告白するよう迫られるべきだった」の意味で訳す（底本の編者もそう読みたいとする）。instigatio daemonis は 27.3 と語を揃える。eierato nomine の nomen は「キリスト者という名」。inpiatis sacris は 25:6 と響き合う語を選ぶ。
+- 確かめた資料：Halm l. 3004–3011、校注 l. 3027–3030、索引 l. 5044、5234、5270（画像 0079）。`src/chapter-23-25/jp.md` の 25:6。Wa l. 4137–4141、4196–4199、4245（Wa の画像 0064、0065）。Wa09 l. 1850–1859、7598–7599。Ho l. 17672–17685、17730–17737、17770–17773、17785–17790。ANF l. 21624–21632。
+
+### 28.6 referserant（写本 referserunt）、quoniam fama（写本 cum omnium fama、Rigaltius cum hominum）、sic est negotium（J. Fr. Gronovius sit et）
+- 底本（Halm）：his enim et huiusmodi fabulis idem daemones ad execrationis horrorem imperitorum aures aduersus nos referserant. nec tamen mirum, quoniam fama, quae semper insparsis mendaciis alitur, ostensa ueritate consumitur. sic est negotium daemonum; ab ipsis enim rumor falsus et seritur et fouetur.（p. 41 の 18〜23 行目。画像 0079）
+- ほかの読み：referserant と quoniam は Vahlen の推定で、P と r は referserunt と cum omnium、Rigaltius は cum hominum。J. Fr. Gronovius（『観察』7 章）は sic est を sit et と読む（Halm 校注 l. 3030–3032）。Wa は P の referserunt と cum omnium fama を残し、J. Fr. Gronovius の sit et を採って、Nec tamen mirum, cum omnium fama, … consumitur, sit et negotium daemonum と読む（Wa l. 4199–4204、校注 l. 4245–4246。Wa の画像 0065 で sit の t がイタリック）。Wa09 は、et negotium の et を「〜も」の意味でふつうでない位置に置く例に挙げる（Wa09 l. 5596–5598、7601）。Ho は quum hominum fama（Rigaltius）と sic est で、写本は omnium と注する（Ho l. 17774–17779、17807–17809）。ANF も「人々の噂は」と訳し、脚注で「すべての人の」を挙げる（ANF l. 21634–21638、21669）。
+- 典拠と解釈：Ho は Lindner から、nec tamen mirum を「（ダイモーンが無知な者の耳を満たしたのは）驚くにあたらない。真実が示されて噂が消えるのを望まないからだ」とし、噂は偽るあいだしか続かず、証明しないあいだだけ生きている、というテルトゥリアヌス『護教論』7 章を引く。sic est negotium daemonum を「このようにこの噂はダイモーンの仕事である」とする（Ho l. 17796–17818）。Wa はウェルギリウス『アエネーイス』4.174 以下、ユスティノス『第一弁明』3、アテナゴラス『嘆願』2、テオフィロス『アウトリュコスへ』3.4、Otto の諺集の「噂」の項を挙げる（Wa l. 4222–4226）。
+- 採る校訂者：referserant と quoniam は Vahlen（学者）。Halm が採る。sic est は P。
+- 読者への影響：小 — どの読みでも、噂はダイモーンが蒔き育て、真実が示されれば消える、という意味は同じ。
+- 訳での扱い：訳注は付けない。メモは書いても書かなくてもよい（書くなら、quoniam fama（噂は…なので）は写本で cum omnium fama（すべての人の噂は…なので）で、ある学者の推定で底本もこれを採る）。insparsis は底本の綴りのとおりに起こす。seritur et fouetur は「蒔かれ、育てられる」と、27.8 の odium … serunt と同じ蒔く比喩を残す。28.7 をどこから始めるかは「26〜28 章の節の区切り」。
+- 確かめた資料：Halm l. 3011–3017、校注 l. 3030–3032（画像 0079）。Wa l. 4199–4204、4222–4226、4245–4246（Wa の画像 0065）。Wa09 l. 1859–1865、5596–5598、7601。Ho l. 17774–17779、17796–17818。ANF l. 21632–21638、21669。
+
+### 28.7 inde est quod audire te dicis, caput asini rem nobis esse diuinam（9.3 との照応）
+- 底本（Halm）：inde est quod audire te dicis, caput asini rem nobis esse diuinam. quis tam stultus, ut hoc colat? quis stultior, ut hoc coli credat?（p. 41 の 23〜25 行目。画像 0079）
+- ほかの読み：底本の校注に記載はない。Wa はここで改行して (7) を置き、『オクタウィウス』9.3 を参照させる（Wa l. 4206–4208、4226。Wa の画像 0065）。Ho も 9 章を参照させる（Ho l. 17821–17823）。
+- 本文の内の照応：カエキリウスは 9.3 で audio eos turpissimae pecudis caput [asini] consecratum … uenerari と言った。底本は 9.3 の asini を、28 章から入り込んだ書き込みとして角括弧で削り、訳もそこで「ろばの」を訳さず、訳注「写本には『ろばの』とあるが、後の書き込みとみて訳さない。」を付けた（「9.3 caput [asini]」の項目、`src/chapter-09-13/jp.md` の 9:3）。底本の索引は「ろばの頭を拝むとキリスト者が非難された 9.4、28.7」とする（Halm l. 3919–3921）。
+- 読者への影響：中 — 訳では、ここで初めて「ろばの頭」が本文に出る。9:3 の「聞くところでは…最も卑しい家畜の頭を…あがめている」と同じ噂だと分からないと、オクタウィウスがカエキリウスの言っていないことに答えているように読める。
+- 訳での扱い：訳注は付けない（9:3 の訳注がすでに「ろばの」を示している）。audire te dicis は、9:3 の「聞くところでは」に答える形で訳す。res diuina は「拝むもの」「聖なるもの」。quis tam stultus … quis stultior の比較の重ねを残す。
+- 確かめた資料：Halm l. 3017–3020、索引 l. 3919–3921（画像 0079）。`halm-1867.txt` の 9.3。`src/chapter-09-13/jp.md` の 9:3。Wa l. 4206–4208、4226（Wa の画像 0065）。Wa09 l. 1866–1870。Ho l. 17821–17823、17871–17875。ANF l. 21638–21641。
+
+### 28.7 cum uestra uel ⟨sua⟩ Epona（底本の補い）
+- 底本（Halm）：nisi quod uos et totos asinos in stabulis cum uestra uel *sua* Epona consecratis（sua はイタリック。p. 41 の 25〜26 行目。画像 0079）
+- ほかの読み：sua は Rigaltius の補いで、テルトゥリアヌス『護教論』16 章の uos tamen non negabitis et iumenta omnia et totos cantherios cum sua Epona coli a uobis（あらゆる荷獣と去勢馬が丸ごと、それらのエポナとともに、あなたがたに拝まれていることは否まないだろう）と比べる。r は Epona を Hippona とする（Halm 校注 l. 3032–3034）。Halm は序文で、写本の cum uestra uel Epona から uel を削るのはたやすいが、そうした語がなぜ加えられたのか分からない、Boissonade の cum uestra Hippona uel Epona も取らない、Rigaltius が正しいことはテルトゥリアヌスの同じような箇所が教える、と書き、補った文の意味を「君たちの（拝むのを恥じない女神）とともに、いやむしろ、ろばの厩に属する女神であるそれら自身のエポナとともに」と説明する（序文 l. 193–215）。Wa は sua を補わず cum vestra vel Epona と刷り、P は epona と書くと記す（Wa l. 4209、校注 l. 4246。Wa の画像 0065）。Wa09 は、vel を「たとえば」の意味に使う例に cum vestra vel Epona を挙げる一方、別の箇所では cum sua vel Epona（＝ vel cum sua）と引く（Wa09 l. 5603、5841）。Ho も cum vestra vel Epona で、「君たちの女神エポナとともにさえ」とし、11.8 の vel ut exemplo crederetis と同じ vel の置き換えとする。エポナを馬丁の女神とし、テルトゥリアヌス『護教論』16 章、『諸国民へ』1.11、ユウェナリス 8.157、厩の柱にばらの花輪で飾ったエポナの像があったというアプレイウス『変身物語』3 巻を挙げる（Ho l. 17826–17851）。ANF は「君たちのエポナとともに」と訳し、脚注に Hippona を挙げる（ANF l. 21641–21642、21671）。
+- 典拠：Wa はオウィディウス『祭暦』6.311 以下、ユウェナリス 8.157 を挙げる（Wa l. 4226–4228。Wa の画像 0065）。底本の索引は「エポナ、厩の女神 28.7」とする（Halm l. 4137）。
+- 採る校訂者：Rigaltius（刊本の編者）。Halm が採る。
+- 読者への影響：小 — 補いがあってもなくても、ろばを厩でエポナとともに神として祀る、という意味は同じ。
+- 訳での扱い：訳注は付けない。底本の補いに従い、序文の説明のとおり「君たちの、いやむしろ、ろばたち自身のエポナ」の形で訳す。`// ` メモに、sua は写本になく、ある刊本の編者の推定で、底本もこれを補うことを書く。totos asinos は、前の caput asini（ろばの頭）に対して「ろばを丸ごと」。エポナが厩の女神であることは in stabulis（厩で）から分かるので補わなくてよい。底本テキストでは ⟨sua⟩ と起こす。
+- 確かめた資料：Halm l. 3020–3021、序文 l. 193–215、校注 l. 3032–3034、索引 l. 4137（画像 0079）。Wa l. 4208–4209、4226–4228、4246（Wa の画像 0065）。Wa09 l. 1870–1871、5603、5841。Ho l. 17826–17851、17875–17880。ANF l. 21641–21643、21671。
+
+### 28.7 religiose decoratis（写本 deuoratis）
+- 底本（Halm）：et eosdem asinos cum Iside religiose decoratis,（p. 41 の 26〜27 行目。画像 0079）
+- ほかの読み：decoratis は Rigaltius の推定で、P と r は deuoratis（むさぼり食う）。Meursius は deuotatis（捧げる）、Heinsius（『書簡集』4 巻 260）は adoratis（伏し拝む）と読む（Halm 校注 l. 3034–3035）。Wa は P の devoratis を残し、自分の論文（Musée Belge 13、1909、pp. 65〜66）を参照させる（Wa l. 4210、校注 l. 4246–4247。Wa の画像 0065）。Wa09 は「保つべきだ」とし、仏訳も「イシスとともに、そのろばをうやうやしく食らう」の意味に取る（Wa09 l. 1870–1872、7603–7604）。Ho も devoratis を本文にし、エジプト人はある祭りで、テュポンのしるしであるろばの形を押した菓子を食べた、というプルタルコス『イシスとオシリスについて』の記事でこの語の前半は説明できるが、イシスの像を食べるというのは分かりにくいので、Heraldus の denotatis（行列で指し示す）、Rigaltius の decoratis、Meursius の devotatis が出された、という注を載せる（Ho l. 17853–17899）。ANF は「うやうやしく食らう」と訳し、脚注で「捧げる」などの読みを挙げる（ANF l. 21643、21673）。
+- 典拠：Ho は decoratis について、アプレイウス『変身物語』11 巻（イシスの行列）とオウィディウス『祭暦』6.311、317 を参照させる（Ho l. 17894–17898）。
+- 採る校訂者：Rigaltius（刊本の編者）。Halm が採る。
+- 読者への影響：中 — 底本では「イシスとともに、そのろばをうやうやしく飾る」で、写本では「…うやうやしく食らう」になり、思い浮かべる儀式がまったく違う。ただし、異教徒がろばを宗教の対象にしている、という論旨は同じ。
+- 訳での扱い：底本の decoratis で「飾る」と訳す。`// ` メモに、decoratis（飾る）は写本で deuoratis（むさぼり食う）で、ある刊本の編者の推定で底本もこれを採ること、写本の読みを保つ刊本もあることを書く。訳注は付けなくてよい（付けるなら案：「写本では『食らう』とあり、それを生かす読み方もある。」26 字）。religiose は「うやうやしく」で皮肉を出す。
+- 確かめた資料：Halm l. 3022、校注 l. 3034–3035（画像 0079）。Wa l. 4210、4246–4247（Wa の画像 0065）。Wa09 l. 1870–1872、7603–7604。Ho l. 17853–17899、17880–17881。ANF l. 21643、21673。
+
+### 28.7 de capro etiam et homine mixtos deos et leonum et canum uultibus（写本 uultus）
+- 底本（Halm）：item boum capita et capita ueruecum et immolatis et colitis, de capro etiam et homine mixtos deos et leonum et canum uultibus deos dedicatis.（p. 41 の 27 行目〜p. 42 の 2 行目。画像 0079、0080）
+- ほかの読み：P の第一の手は ueruecum を uerbecum と書く。uultibus は Halm 自身の推定（nos）で、P と r は uultus、Gelenius は uultu。Halm はテルトゥリアヌス『護教論』16 章を参照させる（Halm 校注 l. 3035、3080）。Halm は序文で、ミヌキウスが異教徒は獅子や犬の顔を神として奉献したと言えたはずはないことを Gelenius はすでに見ていたが、その uultu より uultibus に直すほうがよいと考えた、つまり「獅子や犬の顔をした神々を奉献する」の意味で、犬の頭と獅子の頭を合わせた神々を受け入れた、というテルトゥリアヌス『護教論』16 章が支える、と書く（序文 l. 826–836）。Wa は Gelenius の vultu（Wa l. 4212、校注 l. 4248–4250。Wa の画像 0065）。Wa09 も同じ（Wa09 l. 7606–7607）。Ho は P の vultus（Ho l. 17883）。
+- 典拠：Ho は boum capita を牛そのものとするボシャールの説と、エジプト人は雄牛は供えるが、イシスに捧げられた雌牛は供えない、というヘロドトス 2.41 を、de capro et homine mixtos をパン（ヘロドトス 2.46）とサテュロスのこととし、leonum et canum uultus に、犬の頭のエジプトの怪物と、獅子の顔の神をミトラスとするアルノビウス 6.10 などを挙げる（Ho l. 17904–17944）。Wa はキケロ『神々の本性について』1.82、1.101、3.39、3.47、ユウェナリス 15.1〜13 を挙げる（Wa l. 4228。Wa の画像 0065）。底本の索引は「山羊と人の混じった神＝パン 28.7」「犬の顔の神々 28.7」「獅子の顔の神々 28.7」「牛の頭が拝まれる 28.7」とする（Halm l. 3944、3972、3976–3977、4327）。
+- 採る校訂者：uultibus は Halm 自身。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない（uultibus と写本の uultus は、「獅子や犬の顔をした神々」と訳せば同じになる）。パン、アヌビスなどの名は原文にないので補わない（22:1 で「犬の頭の神」とし、アヌビスの名を補わなかったのと同じ）。immolatis et colitis（供えもし、拝みもする）の皮肉を残す。
+- 確かめた資料：Halm l. 3022、3041–3043、序文 l. 826–836、校注 l. 3035、3080、索引 l. 3944、3972、3976–3977、4327（画像 0079、0080）。Wa l. 4210–4213、4228、4248–4250（Wa の画像 0065）。Wa09 l. 1872–1882、7606–7607。Ho l. 17881–17883、17904–17944。ANF l. 21643–21646。
+
+### 28.8 Apim（写本 apen）、crocodillis、beluis ceteris（Vonck の疑い）
+- 底本（Halm）：nonne et Apim bouem cum Aegyptiis adoratis et pascitis? nec eorum sacra damnatis instituta serpentibus, crocodillis, beluis ceteris et auibus et piscibus, quorum aliquem deum si quis occiderit, etiam capite punitur.（p. 42 の 2〜6 行目。画像 0080）
+- ほかの読み：Apim は r の読みで、P は apen。Halm は、プリニウス『博物誌』8.46.184 のリッカルディ写本が Apin と書くので、Apin かもしれないとする。後の版は crocodilis と書く。Vonck は beluis ceteris に疑いの印を付けた（Halm 校注 l. 3080–3082）。Wa は Apin と刷り、P を Apin か Apen とする（Wa l. 4213、校注 l. 4251。Wa の画像 0065）。Ho は Apim（Ho l. 17884）。
+- 典拠：Ho は Apis を、メンフィスの壮麗な神殿で飼われた神託の雄牛で、オシリスの化身とされ、二十五年生きるとナイル川に身を投げるとされ、葬られたあと新しいアピスが見つかるまで祭司が嘆いた、と注し（アイリアノス、プリニウス『博物誌』8.46 など）、si quis occiderit に、これらの獣を故意に殺した者は死罪、というヘロドトス 2.65 を挙げる（Ho l. 17946–18098）。Wa はヘロドトス 2.65 を挙げる（Wa l. 4230）。底本の索引は Apis、エジプトの神々、serpentibus sacra instituta、pisces をこの節に挙げる（Halm l. 3844、3851、3904、4482、4571）。
+- 採る校訂者：Apim は r（刊本の編者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない。Apim bouem は「雄牛アピス」。adoratis et pascitis（伏し拝み、しかも飼って養う）の対を残す。crocodillis は底本の綴りのとおりに起こす。eorum sacra は「エジプト人の祭儀」と補ってよい。
+- 確かめた資料：Halm l. 3043–3048、校注 l. 3080–3082、索引 l. 3844、3851、3904、4482、4571（画像 0080）。Wa l. 4213–4217、4230、4251（Wa の画像 0065）。Wa09 l. 1883–1888。Ho l. 17884、17946–18098。ANF l. 21646–21650。
+
+### 28.9 cum plerisque uobis（写本 uobiscum）、ceparum acrimonias、strepitus（Ursinus crepitus）
+- 底本（Halm）：idem Aegyptii cum plerisque uobis non magis Isidem quam ceparum acrimonias metuunt, nec Serapidem magis quam strepitus per pudenda corporis expressos contremescunt.（p. 42 の 6〜8 行目。画像 0080）
+- ほかの読み：uobis は Ursinus の直しで、P と r は uobiscum。Bursian は uostrum と読み、Lindner はほかの多くの編者とともに疑いの印を付けた。Ursinus は strepitus を crepitus と読むが、Halm はペトロニウス『サテュリコン』117 の strepitu obsceno を参照させる（Halm 校注 l. 3083–3085）。Wa は vobis（Ursinus）（Wa l. 4217、校注 l. 4251–4252）。Wa09 も同じ（Wa09 l. 7609）。Ho は P の vobiscum で cum plerisque を丸括弧に入れ、Lindner はこれを注釈とみる、と記す（Ho l. 18015–18018、18183–18184）。
+- 典拠：Ho は ceparum acrimonias に、プルタルコス『イシスとオシリスについて』、ゲッリウス 20.8、ねぎや玉ねぎを歯でかじるのは罪だ、というユウェナリス 15.9、プルデンティウスを挙げる（Ho l. 18099–18118）。Wa はユウェナリス 15.9 以下、プリニウス『博物誌』2.7.16、ゲッリウス 20.8.7、プルタルコス『イシスについて』を挙げる（Wa l. 4230–4232。Wa の画像 0065）。底本の索引は「エジプト人の聖なる玉ねぎ 28.9」「pudenda corporis 28.9」とし、Isis を 28.7 と 28.9 に、Serapis を 27.6 と 28.9 に挙げる（Halm l. 3992、4263、4568、5556）。
+- 採る校訂者：uobis は Ursinus（刊本の編者）。Halm が採る。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない。cum plerisque uobis は「あなたがたの多くとともに」。non magis A quam B（B を恐れるのと同じほどにしか A を恐れない）の二つの比較（イシスと玉ねぎの辛さ、セラピスと体から出る音）の皮肉を、比べる向きを取り違えずに訳す。strepitus per pudenda corporis expressos は下品な皮肉なので、言葉の水準を訳者が決める。
+- 確かめた資料：Halm l. 3048–3051、校注 l. 3083–3085、索引 l. 3992、4263、4568、5556（画像 0080）。Wa l. 4217–4218、4230–4232、4251–4252、4283–4284（Wa の画像 0065、0066）。Wa09 l. 1888–1891、7609。Ho l. 18015–18025、18099–18118、18183–18184。ANF l. 21650–21653。
+
+### 28.10 etiam ille, qui de adoratis sacerdotis uirilibus aduersum nos fabulatur（9.4 への照応）
+- 底本（Halm）：etiam ille, qui de adoratis sacerdotis uirilibus aduersum nos fabulatur, temptat in nos conferre quae sua sunt.（p. 42 の 8〜10 行目。画像 0080）
+- ほかの読み：底本の校注に記載はない。Wa はここで改行して (10) を置き、『オクタウィウス』9.4 を参照させる（Wa l. 4286–4288、4318。Wa の画像 0066）。Ho も同じ本文（Ho l. 18028–18032）。
+- 本文の内の照応：カエキリウスの 9.4 の alii eos ferunt ipsius antistitis ac sacerdotis colere genitalia（彼らは自分たちの長であり祭司である者の陰部を拝む、と言う者たちもいる）を指す。9.4 の fabulatur（単数）は、底本の校注がこの 28.10 を参照させて残したもの（「9.4 antistitis、fabulatur … tribuit」の項目）。
+- 読者への影響：中 — 9:4 の噂を受けることが分からないと、ille（あの者）がだれか分からない。
+- 訳での扱い：訳注は付けない。9:4 の訳語（「長であり祭司である者の陰部を拝み」）に揃える。ille にだれかの名を補わない。conferre quae sua sunt は「自分たちのことを、わたしたちに押しつける」の意味。
+- 確かめた資料：Halm l. 3051–3053（画像 0080）。`halm-1867.txt` の 9.4。`src/chapter-09-13/jp.md` の 9:4。Wa l. 4286–4288、4318（Wa の画像 0066）。Wa09 l. 1893–1895。Ho l. 18028–18032。ANF l. 21653–21655。
+
+### 28.10〜28.11 ista enim inpudicitiae eorum（写本 inpuditiae、Halm inpudica）、taedescit … pudescit、pati … cogi
+- 底本（Halm）：ista enim inpudicitiae eorum forsitan sacra sint, apud quos sexus omnis membris omnibus prostat, apud quos tota inpudicitia uocatur urbanitas, qui scortorum licentiae inuident, qui medios uiros lambunt, libidinoso ore inguinibus inhaerescunt, homines malae linguae etiam si tacerent, quos prius taedescit impudicitiae suae quam pudescit. pro nefas! id in se mali facinoris admittunt, quod nec aetas potest pati mollior nec cogi seruitus durior.（p. 42 の 10〜17 行目。inpudicitiae と inpudicitia は n で、impudicitiae は m で刷る。画像 0080）
+- ほかの読み：P は inpuditiae と書き、行の上に ci を書き足す。Heumann は inpudicitiae を削り、Halm 自身は inpudica（みだらな祭儀）と読みたいとする。Heumann は omnis を削る。r は prostat を praestat とする。P は taedescit を tedescit と書く。r は pro を proh、mali facinoris を pessimi facinoris、nec aetas を nec et aetas とする（Halm 校注 l. 3085–3087）。Wa は Ista enim impudicitiae と刷る（Wa l. 4288、校注 l. 4332。Wa の画像 0066）。Ho も同じ本文で、Proh と刷る（Ho l. 18035–18154）。ANF は 28.10 の ista enim から pudescit までを訳さず、ラテン語のまま括弧に入れて載せる（ANF l. 21655–21660）。
+- 典拠と解釈：Ho は sexus omnis を「両方の性」とし、ラクタンティウス 1.20.25 を挙げる。28.11 に、ローマ 1.26 以下、マルティアリス、セネカ『恩恵について』3.20、『自然研究』1.16 を挙げ、pati を本来の語、cogi seruitus を「（受けるよう）強いられる奴隷の身」とする（Ho l. 18186–18221）。Wa はスエトニウス『ネロ伝』29、マルティアリス 2.61.2、3.81.2、ユウェナリス 2 巻などを挙げる（Wa l. 4318–4320）。底本の索引は urbanitas を「愛称めかした意味で 28.10」とする（Halm l. 5741）。Wa09 は pudescit と taedescit を、この書にだけ出る語に数える（Wa09 l. 2821）。
+- 口語訳で確かめた本文：ローマ 1.26〜27（女は自然の関係を不自然なものに代え、男もまた…男は男に対して恥ずべきことをなした）。
+- 採る校訂者：Halm、Wa、Ho とも P の本文（書き足しを読んだ形）。
+- 読者への影響：小。
+- 訳での扱い：訳注は付けない。メモも要らない（inpudicitiae は写本の書き足しを読んだもので、底本の編者の inpudica は本文に入っていない）。底本の綴り（inpudicitiae、inpudicitia、impudicitiae）は刷られたとおりに起こす。この節は性の行いをあからさまに書くので、ぼかしすぎず露骨にもしすぎない言葉の水準を訳者が決める（ANF は訳さずに残した）。homines malae linguae etiam si tacerent（黙っていても舌の汚れた人々）の言い回しを残す。prius taedescit … quam pudescit は「恥じるより先に飽きる」と、まれな二つの動詞の対を残す。ローマ 1.26〜27 は引用ではないので『』に入れず、文言を揃える必要もない。
+- 確かめた資料：Halm l. 3053–3061、校注 l. 3085–3087、索引 l. 5741（画像 0080）。Wa l. 4288–4296、4318–4320、4332（Wa の画像 0066）。Wa09 l. 1895–1903、2821。Ho l. 18035–18154、18186–18221。ANF l. 21655–21662。口語訳（bible-api）の Rom.1.26–27。
+
+### 26〜28 章の名前（名前の表に足す候補）
+- 底本の索引で確かめた名と、訳名の案。本の `AGENTS.md` の名前の表と既存の訳（7:3 の「騎士の兄弟」「ある婦人」「ユピテル」、7:4 の「クラウディウス」「ユニウス」「フラミニウス」、7:6 の「予言者たち」、13:1 の「ソクラテス」、19:14 の「プラトン」、21:1 の「デルポイのアポロ」、22:1 の「イシス」「セラピス、つまりオシリス」「犬の頭の神」）に揃え、ローマ人の名と神々の名はラテン語の形に、ギリシア人の名はギリシア語の形に寄せる（23〜25 章のブリアレオス、サルペドンと同じ）。
+- 26.2：Clodius／Flaminius／Iunius → クラウディウス／フラミニウス／ユニウス（7:4 と同じ人。底本は Clodius と刷るが、索引は (P.) Claudius とする。索引 l. 4021–4022、4161–4163、4275–4277）。
+- 26.3：Regulus／Mancinus／Paulus／Cannae → レグルス／マンキヌス／パウルス（索引は (Aemilius) Paulus とするが、アエミリウスは補わない）／カンナエ（索引 l. 3968、4353、4442、4526）。
+- 26.4：Gaius Caesar／Africa → ガイウス・カエサル／アフリカ（索引 l. 3866、3959）。
+- 26.5：Amphiaraus → アンピアラオス（索引 l. 3879）。
+- 26.6：Tiresias／Pyrrus／Ennius／Apollo Pythius／Demosthenes／Pythia → テイレシアス／ピュロス／エンニウス／ピュトのアポロ（21:1 の「デルポイのアポロ」と同じ神。「ピュティオスのアポロ」とする手もある）／デモステネス／ピュティア（デルポイの巫女。巫女と分かるように訳す）（索引 l. 3796、3800、3905、4515、4522–4523、4634）。φιλιππίζειν の中の名は「フィリッポス」。
+- 26.9：Socrates → ソクラテス（13:1 などの既存の訳。索引 l. 4575–4581）。
+- 26.11：magi／Hostanes → 魔術師（またはマギ。「26.10」の項目）／ホスタネス（Ho の Ostanes の形なら「オスタネス」。名前の表は Hammon を「ハンモン」とし、底本の綴りの H を写すので、「ホスタネス」を勧める）（索引 l. 4227、4348）。angeli → 天使（索引 l. 3894）。
+- 26.12：Plato／Symposium → プラトン／『饗宴』（索引 l. 3814、4483–4487）。
+- 27.4：Iuppiter／Castores／matrona → ユピテル／騎士の兄弟（7:3）またはカストルの兄弟（名前の表、22:7）／婦人（7:3。索引は 7.3 でクラウディア・クインタとするが、名は補わない）（索引 l. 3985、4019、4283–4284、4335）。
+- 27.6：Saturnus／Serapis／Iuppiter → サトゥルヌス／セラピス／ユピテル（名前の表。索引 l. 4283–4284、4555、4568）。
+- 28.7：Epona／Isis → エポナ／イシス（索引 l. 4137、4263）。
+- 28.8：Apis／Aegyptii → アピス／エジプト人（索引 l. 3851、3904）。
+- 28.9：Isis／Serapis → イシス／セラピス（22:1 では「セラピス、つまりオシリス」と補ったが、ここは補わなくてよい）。
+- 確かめた資料：Halm 索引（上の各行）。既存の訳は `src/chapter-05-08/jp.md` の 7:3、7:4、7:6、`src/chapter-09-13/jp.md` の 13:1、`src/chapter-18-19/jp.md` の 19:14、`src/chapter-20-22/jp.md` の 21:1、22:1、22:5。本の `AGENTS.md` の名前の表。
+
+### 26〜28 章の節の区切り
+底本の余白の番号が付いた行と、その行のどの語から節が始まるか。行の中の位置は文の切れ目から決めた（画像 0075〜0080）。偶数ページは余白の節番号が左、奇数ページは右にある。Wa の (n) の位置も添える（Wa の画像 0059〜0066）。
+- 26.1 Iam enim（p. 37 の 13 行目、行頭、新しい段落。章番号 26 は右の余白。Wa 26 章の初め、l. 3735）。26.2 Clodius（p. 37 の 15 行目。この行は feliciter. で 26.1 が終わる。Wa (2) l. 3738）。26.3 quid Regulus?（p. 37 の 17 行目。この行は non putauerunt. で 26.2 が終わる。Wa (3) は Quid? Regulus、l. 3742）。26.4 Gaius Caesar（p. 37 の 20 行目。この行は maiore populi Romani parte prostratus est. で始まり、19 行目からの pullos edaces … の文は 26.3 に入る。Wa (4) l. 3747）。26.5 quae uero（p. 37 の 22 行目の終わり。この行は renitentibus, spreuit: … uicit. で 26.4 が終わる。Wa (5) は改行して Quae vero、l. 3778）。
+- 26.6（余白の 6 は p. 38 の 1 行目にあり、この行は Tiresias caecus futura uidebat, qui praesentia non uidebat. de Pyrro Ennius … で、二つの文の初めを含む。26.5 の文は p. 37 の終わりで切れる。これまでの形なら、余白の行の初めの文 Tiresias から始める。ただし底本の索引は Tiresias と Amphiaraus を 26.5 に、ピュロス王への神託、Ennius、Pythius Apollo、Pythia、Demosthenes を 26.6 に挙げ（Halm l. 3796、3800、3879、3905、4515、4522–4523、4634）、Wa も (6) を De Pyrrho の前に置く（Wa l. 3781）。アンピアラオスとテイレシアスの話と、デルポイの神託の話の切れ目でもある。de Pyrro から始めることを勧めるが、訳者が決める）。
+- 26.7 At nonnumquam（p. 38 の 7 行目、行頭、字下げした新しい段落。Wa (7) l. 3789）。
+- 26.8 isti igitur（余白の 8 は p. 38 の 12 行目にあり、この行は terrenis labibus et cupiditatibus degrauati. isti igitur … で始まる。spiritus sunt insinceri … degrauati. は 11 行目から始まる文で、26.7 に入る。Wa は (8) を一文前の Spiritus sunt の前に置いて改行し（Wa l. 3796）、Wa09 の仏訳も同じ（Wa09 l. 1717）。これまでの形に従い、isti igitur から始めることを勧める）。
+- 26.9 eos spiritus（p. 38 の 16 行目。この行は nati a Deo … segregare. で 26.8 が終わる。Wa (9) l. 3802）。26.10 magi quoque（p. 38 の 19 行目。この行は clinabat negotia uel petebat. で始まる。Wa (10) l. 3838）。26.11 eorum magorum（p. 38 の 22 行目。この行は quae non sunt uideri, uel quae sunt non uideri. で始まる。Wa (11) l. 3843）。26.12 quid Plato（p. 38 の 27 行目。この行は renos, uagos, humanitatis inimicos. で始まる。Wa (12) は Quid? Plato、l. 3849）。
+- 27.1 Isti igitur（p. 39 の 9 行目、行頭、新しい段落。章番号 27 は右の余白。Wa 27 章の初め、l. 3939）。27.2 nam et falluntur（p. 39 の 15 行目。この行は luta. で 27.1 が終わる。Wa (2) l. 3946）。27.3 hinc sunt（p. 40 の 1 行目。この行は tur. で 27.2 が終わる。Wa (3) l. 3955）。27.4 de ipsis（p. 40 の 4 行目。この行は furoris. で 27.3 が終わる。Wa (4) l. 4022）。27.5 haec omnia（p. 40 の 6 行目。この行は rentur, ut cingulum matronae nauicula sequeretur. で 27.4 が終わる。Wa (5) は改行、l. 4027）。27.6 ipse Saturnus（p. 40 の 9 行目。この行は de corporibus exiguntur. で始まる。Wa (6) l. 4030）。27.7 ipsis testibus（p. 40 の 12 行目。この行は sistentibus, mentiuntur. で始まる。Wa (7) l. 4033）。27.8 ideo inserti（p. 40 の 17 行目。この行は uos lacessebant. で始まる。Wa (8) l. 4040）。
+- 28.1 Quam autem（p. 40 の 22 行目、行頭、新しい段落。章番号 28 は左の余白。Wa 28 章の初め、l. 4120）。
+- 28.2 et nos enim（余白の 2 は p. 40 の 23 行目にあり、この行は quod facitis, nobis ipsis paenitentibus credite. et nos enim … で始まる。Quam autem … credite. は 22 行目から始まる 28.1 の文。Wa (2) も Et nos enim、l. 4122）。
+- 28.3 nos tamen（p. 41 の 7 行目、行頭。6 行目で 28.2 が終わる。Wa (3) l. 4131）。28.4 et si qui（p. 41 の 12 行目。この行は erueret, sed quae mendacium cogeret. で始まる。Wa (4) l. 4137）。28.5 adgnoscitisne（p. 41 の 14 行目の終わりの ad- から。この行は eierato nomine … purgaret. で始まる。Wa (5) l. 4140）。28.6 his enim（p. 41 の 18 行目。この行は inpiatis sacris, de infantibus immolatis faterentur. で始まる。Wa (6) l. 4199）。
+- 28.7 sic est negotium（余白の 7 は p. 41 の 22 行目にあり、この行は tate consumitur. sic est negotium daemonum; ab ipsis enim rumor で始まる。Wa は sit et negotium daemonum … fovetur. を 28.6 に残し、改行して (7) を Inde est の前に置く（Wa l. 4206）。Wa09 の仏訳も同じ（Wa09 l. 1866）。底本の余白に従い、sic est から始めることを勧める）。
+- 28.8 nonne et Apim（p. 42 の 2 行目。この行は deos et leonum et canum uultibus deos dedicatis. で始まり、p. 41 の 25 行目からの nisi quod … の文は 28.7 に入る。Wa (8) l. 4213）。28.9 idem Aegyptii（p. 42 の 6 行目。この行は punitur. で 28.8 が終わる。Wa (9) l. 4217）。28.10 etiam ille（p. 42 の 8 行目。この行は strepitus … contremescunt. で 28.9 が終わる。Wa (10) は改行、l. 4286）。
+- 28.11 pro nefas!（余白の 11 は p. 42 の 15 行目にあり、この行は quos prius taedescit impudicitiae suae quam pudescit. pro nefas! … で始まる。ista enim … pudescit. は 10 行目から始まる文で、28.10 に入る。Wa (11) も Pro nefas、l. 4294）。29 章は p. 42 の 18 行目から。
+- この範囲に、底本の角括弧・脱落の印・隔字体はない。短剣符は 26.12 の一か所、イタリックは 27.1 の a、28.1 の de、28.7 の sua の三か所、ギリシア文字は 26.6 の φιλιππίζειν の一か所（画像 0076〜0079）。
+- 底本の綴りで、底本テキストに刷られたとおりに起こすもの：Pyrro、Pythi（26.6）、conititur（26.12）、imperitorum（27.8、28.6。23.1 の inperitis と違う）、inicum（28.1）、insparsis（28.6）、crocodillis（28.8）、inpudicitiae・inpudicitia と impudicitiae（28.10）。
+- 底本の索引の節番号は、この範囲で本文の余白と食い違うことがある（pulli edaces を 26.2、Tiresias を 26.5、ろばの頭を 9.4 と 28.7 とする。Halm l. 3919–3921、4513、4634）。
+- Wa・Wa09・ANF・Ho との対応：底本の 26〜28 章は、どの資料でも 26〜28 章（章の並べ替えはない）。Wa は 26 章 l. 3735–3936、27 章 l. 3939–4118、28 章 l. 4120–4296（画像 0059〜0066）。Wa09 の仏訳は 26 章 l. 1681–1754、27 章 l. 1755–1819、28 章 l. 1821–1903。ANF は 26 章 l. 21457–21533、27 章 l. 21536–21594、28 章 l. 21597–21673（節番号を付けない）。Ho は 26 章 l. 16160–16907、27 章 l. 16910–17573、28 章 l. 17575–18154（Ho の余白の節番号は底本と数え方が違う）。Wa が底本と違う位置に節の境を置くのは、26.6、26.8、28.7（上に書いた）。
+
 ---
 
 ## 未確認
@@ -1980,3 +2362,17 @@
 - 23.13、24.3、25.8 の節の始まりは、底本の余白の番号の位置と序文の引き方から決めたもので、底本がどの語から節を始めるつもりだったかを明記した箇所はない。底本の索引の節番号も、この範囲で余白と食い違うことがある（「23〜25 章の節の区切り」）。底本の序文が 25.3 の箇所を「26 章 3 節」とする理由（刷りの誤りか）は確かめていない。
 - 24.3 の祭儀の列挙を、ルペルキ、サリイ、キュベレやイシスの祭司などに当てるのは、底本の索引と Ho の注と Wa の典拠の挙げ方による。原典の記事は確かめていない。
 - 23〜25 章の典拠として挙げた古典と教父の箇所（ホメロス『イリアス』1.396–406、2.765、5.66 以下、5.330、5.385、5.855、14.214、14.312 以下、16.459、16.522、20.67 以下、20.231 以下、21.443 以下、『オデュッセイア』8.266–369、ウェルギリウス『アエネーイス』1.12–15、7.48、7.331、8.31、8.423 以下、8.635、8.663、プラトン『国家』2.379、3.398a、キケロ『神々の本性について』1.42、1.43、1.77、1.82、2.8、2.70 以下、3.5、3.53、3.63、『占いについて』2.25、2.43、2.86、『トゥスクルム荘対談』2.27、3.3、『国家について』3.14、4.5.5、『法律について』2.28、『ハルスペクスの答えについて』9.18、37、オウィディウス『変身物語』4.171、9.187、10.155 以下、11.205 以下、14.320 以下、『祭暦』2.280、4.179 以下、4.213、5.195 以下、6.478–481、6.551、『恋の歌』2.8.14、『恋の技法』1.77、3.365、『悲しみの歌』4.4.63、リウィウス 1.4、1.5、1.9、1.10、1.20、1.26、1.27、タキトゥス『弁論家についての対話』29、セネカ『書簡』48.11、95.72、『人生の短さについて』16.5、『アガメムノン』115、『迷信について』の断片、プリニウス『博物誌』2.15、15.119、35.165、ユウェナリス 2.46、6.488–489、6.511、9.24、15.1、マルティアリス 1.68、8.24、ホラティウス『風刺詩』1.8、アリストパネス『蛙』366、ルクレティウス 2.618–628、ティブッルス 1.6.45、ルカヌス 1.565、プロペルティウス 2.19.10、ペトロニウス 21、スエトニウス『ティベリウス伝』44、ゲッリウス 6.7、11.6、マクロビウス 1.12、ウァレリウス・マクシムス 1.1.8、2.5、パウサニアス 8.31、9.25、ヘロドトス 2.172、ピンダロス『ネメア祝勝歌』10.2、エウリピデス『アルケスティス』8、カッリマコス『アポロン讃歌』49、シビュラの託宣、ネポス『テミストクレス伝』6.4、テルトゥリアヌス『護教論』5、12–15、25–27、『諸国民へ』2.9、2.10、2.17、『一婚について』17、『見世物について』5、キプリアヌス『偶像が神でないこと』1.3、2.5、2.9、5、アルノビウス 1.39、6.16、ラクタンティウス『神学綱要』1.17、1.20、2.6、5.12、7.15.13、アウグスティヌス『神の国』2.14、3.6、6.10、オリゲネス『ケルソス駁論』4.36、フィロン、ユスティノス、アテナゴラス、テオフィロス、タティアノス、オロシウス 2.4.2 など）は、Ho・Wa・Halm の校注と序文が挙げる箇所をそのまま記しただけで、原典の文言は確かめていない。聖書（エレミヤ書 10.3–5、イザヤ書 44.12–17、使徒行伝 19.26、詩編 115.4–8）は口語訳で確かめた。バルク書 6 章（エレミヤの手紙）は口語訳に含まれず、確かめていない。
+- 26〜28 章で挙げた Koch（1873）、Hartel（1868）、Sauppe（1867）、Dombart、Norden、Baehrens、Winterfeld の推定と説明は、Wa と Wa09 の記述でだけ確かめた。Vahlen、Usener、Carrio、Freinshemius、Wopkens、Vonck、Bursian、Heinsius、Elmenhorst、P. Daniel、Ouzelius、Boissonade、Miscellaneae Observationes の無名の学者、パリの無名の学者、Zeitschrift für Philosophie und katholische Theologie の書評者の推定は、底本の校注・序文と Wa・Ho の記述でだけ確かめた。原著は見ていない。
+- 26.5 の P の読み：底本の校注は nesciuit ire sias、Wa の校注は nesciuit ire suas とする（Halm l. 2832、Wa l. 3824）。
+- 26.11 の P の読み：底本の校注は sed et ueri（et は削られている）、Wa の校注は sedet ueri とする（Halm l. 2880、Wa l. 3892）。
+- 28.8 の P の読み：底本の校注は apen、Wa の校注は Apin か Apen とする（Halm l. 3081、Wa l. 4251）。
+- 26.6 の φιλιππίζειν：写本の philippi zaeno をギリシア語の形に戻したのがだれかを、底本の校注は書かない（Wa は通行の読みとする）。
+- 26.3：Wa が P の reipublicae を本文に残しながら校注に記載しない理由は書かれていない。
+- 28.3：Wa の本文に nonnumquam etiam miserantes eorum crudelius saeuiebamus がない。Wa の校注に記載がなく、Wa09 の仏訳はこの句を訳しているので印刷の脱落とみたが、Wa の正誤表などでは確かめていない。
+- Wa が 26.11 の et eloquio et negotio に挙げる「Ev. Luc. 14, 19」と、27.6 に挙げる「epist. Iacobi II 9」は、それぞれルカ 24.19、ヤコブ 2.19 の刷り違いとみた（Ho は 24.19 と 2.19 を挙げる）が、Wa の正誤表は見ていない。
+- 28.7 の Epona：Wa09 は文法の解説の一か所で cum sua vel Epona、別の箇所で cum vestra vel Epona と引く（Wa09 l. 5603、5841）。Wa 1912 の本文は cum vestra vel Epona。どちらが Waltzing の考えかは確かめていない。
+- 28.7 の decoratis／devoratis で Wa が参照させる論文（Musée Belge 13、1909、pp. 65〜66）は見ていない。Ho が引く、ろばの形を押した菓子をエジプト人が食べたというプルタルコスの記事は、原典で確かめていない。
+- 26.6 の節の始まり：余白の 6 の行に Tiresias と de Pyrro の二つの文の初めがあり、底本がどちらから節を始めるつもりだったかは、本文からは決められない（索引と Wa から de Pyrro を勧めた）。26.8 と 28.7 も、底本の余白と Wa の (n) が一文ずれる。底本の索引が「ろばの頭」を 9.4 とする理由（9.3 の誤りか）は確かめていない。
+- 27.7 の gratia curantis の curantis を神とするのは、Ho の注だけによる。28.2 の ab his がだれを指すかは、資料で一致しない（Ho と ANF は噂を広める者、Wa09 の仏訳はダイモーン）。27.7 の in coetibus がだれの集まりかも、資料で一致しない。
+- 26.12 の短剣符の箇所で、勧めた訳の方向（愛の欲望がわたしたちの中に生じると教える）は、底本の校注の挙げる読みのうち r、Meursius、底本の編者の推定に共通する意味をまとめたもので、どれか一つの読みに定めたものではない。
+- 26〜28 章の典拠として挙げた古典と教父の箇所（キケロ『占いについて』1.122、2.21、2.24、2.33、2.49、2.52、2.71、2.72、2.116、2.118、『神々の本性について』1.12、1.82、1.101、2.7、3.39、3.47、3.80、『義務について』2.7、2.23、『縁者への手紙』6.6.13、エンニウス『年代記』186、ホラティウス『歌章』3.5、3.16.11、ウァレリウス・マクシムス 1.1.14、1.6.7、ウェッレイウス・パテルクルス 2.90.3、フロルス 2.18、エウトロピウス 4.8、リウィウス 10.40、22.47、スエトニウス『カエサル伝』59、77、『ネロ伝』29、ソポクレス『エレクトラ』840、ヘシオドス『仕事と日』121 以下、プラトン『饗宴』195E、202D〜203E、『ティマイオス』28c、『ソクラテスの弁明』31D、『テアゲス』128D、『パイドン』、『パイドロス』、『国家』392A、427B、『法律』717AB、クセノポン『ソクラテスの思い出』1.1.4、アプレイウス『ソクラテスの神について』6、17、『弁明』27、90、『変身物語』3 巻、8.27、11 巻、プリニウス『博物誌』2.7.16、8.46、30.1、ヘロドトス 2.41、2.46、2.65、プルタルコス『イシスとオシリスについて』、ゲッリウス 20.8、ユウェナリス 2 巻、8.157、15.1〜13、マルティアリス 2.61、3.81、ペトロニウス 117、ティブッルス 2.5.13、ウェルギリウス『アエネーイス』4.174、6.77、6.98〜100、ルカヌス 5.166〜169、スタティウス『シルウァエ』4.3.120、オウィディウス『祭暦』6.311〜317、タキトゥス『アグリコラ』42、セネカ『怒りについて』2.11.3、『恩恵について』3.20、『自然研究』1.16、クルティウス 8.10.1、テルトゥリアヌス『護教論』1、2、7、16、18、22、23、27、32、48、『諸国民へ』1.1、1.11、キプリアヌス『偶像が神でないこと』3.6、3.8、4.1〜4.4、6、『デメトリアヌスへ』15、『書簡』59.13、『背教者について』28、ラクタンティウス『神学綱要』1.20.25、2.14〜2.16、4.27、5.1.4、5.9.11、6.24.2、『迫害者の死について』10、アルノビウス 1.19、1.52、6.10、タティアノス『ギリシア人への言葉』7〜8、12〜13、16〜17、アテナゴラス『嘆願』25〜27、ユスティノス『第一弁明』4、5、『第二弁明』5、エウセビオス『教会史』5.1、アウグスティヌス『神の国』1.15、プルデンティウスなど）は、Ho・Wa・Halm の校注と序文が挙げる箇所をそのまま記しただけで、原典の文言は確かめていない。聖書（ルカ 24.19、第一コリント 10.20、ヤコブ 2.19、ルカ 9.39、マルコ 9.24〜26、ローマ 1.26〜27）は口語訳で確かめた。
