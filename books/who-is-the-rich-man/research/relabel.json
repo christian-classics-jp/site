@@ -23,5 +23,10 @@
   {"from": "23.5", "to": "23.4", "words": 3, "pos": "head"},
   {"from": "25.7", "to": "25.6", "words": 4, "pos": "head"},
   {"from": "27.4", "to": "27.3", "words": 2, "pos": "head"},
-  {"from": "27.5", "to": "28.1", "words": 9, "pos": "tail"}
+  {"from": "27.5", "to": "28.1", "words": 9, "pos": "tail"},
+  {"from": "30.3", "to": "30.2", "words": 5, "pos": "head"},
+  {"from": "30.5", "to": "30.4", "words": 2, "pos": "head"},
+  {"from": "31.6", "to": "31.5", "words": 9, "pos": "head"},
+  {"from": "31.8", "to": "31.7", "words": 5, "pos": "head"},
+  {"from": "32.1", "to": "31.9", "words": 8, "pos": "head"}
 ]
