@@ -22,7 +22,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/staehlin-1909.txt` と各
 | 節 | 章 | 訳 |
 |---|---|---|
 | chapter-01-04 | 1〜4 章 | [x] |
-| chapter-05-10 | 5〜10 章 | [ ] |
+| chapter-05-10 | 5〜10 章 | [x] |
 | chapter-11-15 | 11〜15 章 | [ ] |
 | chapter-16-19 | 16〜19 章 | [ ] |
 | chapter-20-23 | 20〜23 章 | [ ] |
