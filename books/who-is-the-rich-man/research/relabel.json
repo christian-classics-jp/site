@@ -33,5 +33,7 @@
   {"from": "33.6", "to": "33.5", "words": 4, "pos": "head"},
   {"from": "34.1", "to": "34.2", "words": 5, "pos": "tail"},
   {"from": "34.3", "to": "34.2", "words": 3, "pos": "head"},
-  {"from": "35.2", "to": "35.1", "words": 1, "pos": "head"}
+  {"from": "35.2", "to": "35.1", "words": 1, "pos": "head"},
+  {"from": "42.7", "to": "42.8", "words": 10, "pos": "tail"},
+  {"from": "42.8", "to": "42.9", "words": 8, "pos": "tail"}
 ]
