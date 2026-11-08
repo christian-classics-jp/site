@@ -35,7 +35,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/archambault-1909.txt` と
 | chapter-036-038 | 36〜38 章 | [x] |
 | chapter-039-041 | 39〜41 章 | [x] |
 | chapter-042-044 | 42〜44 章 | [x] |
-| chapter-045-047 | 45〜47 章 | [ ] |
+| chapter-045-047 | 45〜47 章 | [x] |
 | chapter-048-050 | 48〜50 章 | [ ] |
 | chapter-051-055 | 51〜55 章 | [ ] |
 | chapter-056-1 | 56 章 1〜13 節 | [ ] |
