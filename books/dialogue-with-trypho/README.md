@@ -31,7 +31,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/archambault-1909.txt` と
 | chapter-024-027 | 24〜27 章 | [x] |
 | chapter-028-030 | 28〜30 章 | [x] |
 | chapter-031-032 | 31〜32 章 | [x] |
-| chapter-033-035 | 33〜35 章 | [ ] |
+| chapter-033-035 | 33〜35 章 | [x] |
 | chapter-036-038 | 36〜38 章 | [ ] |
 | chapter-039-041 | 39〜41 章 | [ ] |
 | chapter-042-044 | 42〜44 章 | [ ] |
