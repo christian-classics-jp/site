@@ -46,7 +46,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/archambault-1909.txt` と
 | chapter-064-065 | 64〜65 章 | [x] |
 | chapter-066-067 | 66〜67 章 | [x] |
 | chapter-068-069 | 68〜69 章 | [x] |
-| chapter-070-073 | 70〜73 章 | [ ] |
+| chapter-070-073 | 70〜73 章 | [x] |
 | chapter-074-076 | 74〜76 章 | [ ] |
 | chapter-077-078 | 77〜78 章 | [ ] |
 | chapter-079-081 | 79〜81 章 | [ ] |
