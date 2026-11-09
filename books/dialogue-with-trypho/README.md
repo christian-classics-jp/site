@@ -41,7 +41,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/archambault-1909.txt` と
 | chapter-056-1 | 56 章 1〜13 節 | [x] |
 | chapter-056-2 | 56 章 14〜23 節 | [x] |
 | chapter-057-058 | 57〜58 章 | [x] |
-| chapter-059-061 | 59〜61 章 | [ ] |
+| chapter-059-061 | 59〜61 章 | [x] |
 | chapter-062-063 | 62〜63 章 | [ ] |
 | chapter-064-065 | 64〜65 章 | [ ] |
 | chapter-066-067 | 66〜67 章 | [ ] |
