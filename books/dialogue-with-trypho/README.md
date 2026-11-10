@@ -64,7 +64,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/archambault-1909.txt` と
 | chapter-116-118 | 116〜118 章 | [x] |
 | chapter-119-120 | 119〜120 章 | [x] |
 | chapter-121-123 | 121〜123 章 | [x] |
-| chapter-124-126 | 124〜126 章 | [ ] |
+| chapter-124-126 | 124〜126 章 | [x] |
 | chapter-127-129 | 127〜129 章 | [ ] |
 | chapter-130-132 | 130〜132 章 | [ ] |
 | chapter-133-135 | 133〜135 章 | [ ] |
