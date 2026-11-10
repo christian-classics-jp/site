@@ -69,4 +69,4 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/archambault-1909.txt` と
 | chapter-130-132 | 130〜132 章 | [x] |
 | chapter-133-135 | 133〜135 章 | [x] |
 | chapter-136-139 | 136〜139 章 | [x] |
-| chapter-140-142 | 140〜142 章 | [ ] |
+| chapter-140-142 | 140〜142 章 | [x] |
