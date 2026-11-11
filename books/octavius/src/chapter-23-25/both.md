@@ -47,7 +47,7 @@
 24:5 正気を失った者たち、むなしく堕落した知性の者たちが、こうしたことで愚かになっています。迷う者の群れそのものが、互いにかばい合っています。そのことを、だれが理解しないでしょうか。ここでは、皆に共通する狂気の弁護は、狂う者たちの数の多さなのです。
 
 25.1 At tamen ista ipsa superstitio Romanis dedit, auxit, fundauit imperium, cum non tam uirtute quam religione et pietate pollerent. nimirum insignis et nobilis iustitia Romana ab ipsis imperii nascentis incunabulis auspicata est.
-25:1 「それでも、まさにこの迷信が、ローマ人に支配を与え、広げ、打ち立てたのだ。彼らは、勇気によってよりも、宗教と敬虔によって力をふるっていたのだから」と、あなたは言うでしょう。なるほど、ローマの名高く気高い正義は、生まれたばかりの支配の揺りかごのときから、めでたい鳥の兆しのもとに始まったのです。
+25:1 「それでも、まさにこの迷信が、ローマ人に支配を与え、広げ、打ち立てたのだ。彼らは、勇気によってよりも、宗教と敬虔によって力をふるっていたのだから」と、あなたは言うでしょう。なるほど、ローマのよく知られた気高い正義は、生まれたばかりの支配の揺りかごのときから、めでたい鳥の兆しのもとに始まったのです。
 25.2 nonne in ortu suo et scelere collecti et muniti immanitatis suae terrore creuerunt? nam asylo prima plebs congregata est: confluxerant perditi, facinerosi, incesti, sicarii, proditores, et ut ipse Romulus imperator et rector populum suum facinore praecelleret, parricidium fecit. haec prima sunt auspicia religiosae ciuitatis.
 25:2 ローマ人は、その始まりのときに、悪事によって寄り集まったのではありませんか。そして、自分たちの凶暴さの恐ろしさで守りを固めて、大きくなったのではありませんか。実際、最初の住民は避難所に集められました。そこには、身を持ち崩した者、罪を犯した者、不貞の者、刺客、裏切り者が流れ込んでいました。そして、総大将であり指導者であるロムルス自身が、罪で自分の国の人々にまさるために、身内殺しをしたのです。これが、信心深い都の、最初の鳥の兆しです。
 25.3 mox alienas uirgines iam desponsatas, iam destinatas et nonnullas de matrimonio mulierculas sine more rapuit, uiolauit, inlusit, et cum earum parentibus, id est cum soceris suis bellum miscuit, propinquum sanguinem fudit. quid inreligiosius, quid audacius, quid ipsa sceleris confidentia turpius?

@@ -22,7 +22,7 @@
 2:4 そこで、ある夜明けに、わたしたちは浜辺をそぞろ歩きながら海へ向かっていた。吹き寄せるそよ風に、手足をやさしく元気づけてもらうためだった。また、砂が柔らかな足取りに沈み込むのを、このうえなく心地よく味わうためでもあった。そのとき、カエキリウスはセラピスの像に目をとめた。そして、迷信深い民衆がよくするように、手を口もとに寄せ、唇でその手に口づけした。
 
 3.1 Tunc Octauius ait: Non boni uiri est, Marce frater, hominem domi forisque lateri tuo inhaerentem sic in hac inperitiae uulgaris caecitate deserere, ut tam luculento die in lapides eum patiaris inpingere, effigiatos sane et unctos et coronatos, cum scias huius erroris non minorem ad te quam ad ipsum infamiam redundare.
-3:1 すると、オクタウィウスが言った。「兄弟マルクス、この人は、家でも外でもあなたのそばを離れない人です。その人を、このように無知な民衆の盲目の中に見捨てておくのは、善い人のすることではありません。こんなに明るい日に、この人が石にぶつかるのを放っておくのですから。たしかに、形を刻まれ、油を塗られ、花の冠をかぶせられた石ではありますが。この迷いの恥は、本人に劣らず、あなたにもはね返ってくることを、あなたも知っているでしょうに。」
+3:1 すると、オクタウィウスが言った。「兄弟マルクス、この人は、家でも外でもあなたのそばを離れない人です。その人を、このように無知な民衆の盲目の中に見捨てておくのは、善い人のすることではありません。こんなに明るい日に、この人が石にぶつかるのを放っておくのですから。たしかに、形を刻まれ、油を塗られ、花の冠をかぶせられた石ではありますが。この迷いの恥は、本人に劣らず、あなたにもはね返ってくることを、あなたも知っているでしょうに」
 3.2 cum hoc sermone eius medium spatium civitatis emensi iam liberum litus tenebamus.
 3:2 あの人がこう話すうちに、わたしたちは町の中ほどを通り抜け、もう開けた浜辺に出ていた。
 3.3 ibi harenas extimas, uelut sterneret ambulacro, perfundens lenis unda tendebat, et ut semper mare etiam positis flatibus inquietum est, etsi non canis spumosisque fluctibus exibat ad terram, tamen crispis tortuosisque ibidem erroribus delectati perquam sumus, cum in ipso aequoris limine plantas tingueremus, quod uicissim nunc adpulsum nostris pedibus adluderet fluctus, nunc relabens ac uestigia retrahens in sese resorberet.
@@ -38,13 +38,13 @@
 4.1 Igitur cum omnes hac spectaculi uoluptate caperemur, Caecilius nihil intendere neque de contentione ridere, sed tacens, anxius, segregatus dolere nescio quid uultu fatebatur.
 4:1 こうして、みながこの眺めの楽しさに心を奪われていた。ところが、カエキリウスは何にも気を向けず、子供たちの競い合いを見て笑いもしなかった。黙りこみ、思い悩み、一人離れて、何かに心を痛めていることを顔に出していた。
 4.2 cui ego: Quid hoc est rei? cur non agnosco, Caecili, alacritatem tuam illam? et illam oculorum etiam in seriis hilaritatem requiro.
-4:2 そこで、わたしは彼に言った。「これはどうしたことか。カエキリウス、君のいつもの快活さが見えないのはなぜだろうか。まじめな話のときでさえ目に浮かんでいた、あの明るさも見当たらない。」
+4:2 そこで、わたしは彼に言った。「これはどうしたことか。カエキリウス、君のいつもの快活さが見えないのはなぜだろうか。まじめな話のときでさえ目に浮かんでいた、あの明るさも見当たらない」
 4.3 tum ille: Iam dudum me Octaui nostri acriter angit et remordet oratio, qua in te inuectus obiurgauit neglegentiae, ut me dissimulanter grauius argueret inscientiae.
-4:3 すると彼は言った。「さっきから、わたしたちのオクタウィウスの言葉が、わたしをひどく苦しめ、ちくちくと責めているのだ。彼は君に食ってかかって、怠慢を叱った。だがそれは、それとなく、もっと重く、わたしの無知をとがめるためだった。」
+4:3 すると彼は言った。「さっきから、わたしたちのオクタウィウスの言葉が、わたしをひどく苦しめ、ちくちくと責めているのだ。彼は君に食ってかかって、怠慢を叱った。だがそれは、それとなく、もっと重く、わたしの無知をとがめるためだった」
 4.4 itaque progrediar ulterius: de toto et integro mihi cum Octauio res est. si placet, ut ipsius sectae homo cum eo disputem, iam profecto intelleget facilius esse in contubernalibus disputare quam conserere sapientiam:
-4:4 「だから、わたしはもっと先へ進もう。この件は、もう何から何まで、わたしとオクタウィウスとのあいだのことだ。よければ、わたしは、彼に攻められた当の一派の人間として、彼と論じ合おう。そうすれば、仲間うちで議論するほうが、知恵をもって渡り合うよりもたやすいことが、彼にもきっとすぐにわかるだろう。」
+4:4 「だから、わたしはもっと先へ進もう。この件は、もう何から何まで、わたしとオクタウィウスとのあいだのことだ。よければ、わたしは、彼に攻められた当の一派の人間として、彼と論じ合おう。そうすれば、仲間うちで議論するほうが、知恵をもって渡り合うよりもたやすいことが、彼にもきっとすぐにわかるだろう」
 // ipsius sectae homo（その一派の人間）は、オクタウィウスが攻めた側の一派、つまりカエキリウス自身の宗教の者と取った。底本の編者は校注で、ipsius より istius（その一派の）と読みたいとし、そう説明している。キリスト者と取る説もある。
 4.5 modo in istis ad tutelam balnearum iactis et in altum procurrentibus petrarum obicibus residamus, ut et requiescere de itinere possimus et intentius disputare.
-4:5 「さあ、浴場を守るために投げ入れられ、沖へ突き出している、あの岩の防波堤に腰を下ろそう。そうすれば、歩き疲れも休められるし、もっと身を入れて論じ合うこともできる。」
+4:5 「さあ、浴場を守るために投げ入れられ、沖へ突き出している、あの岩の防波堤に腰を下ろそう。そうすれば、歩き疲れも休められるし、もっと身を入れて論じ合うこともできる」
 4.6 et cum dicto eius adsedimus, ita ut me ex tribus medium lateris ambitione protegerent: nec hoc obsequi fuit aut ordinis aut honoris, quippe cum amicitia pares semper aut accipiat aut faciat, sed ut arbiter et utrisque proximus aures darem et disceptantes duos medius segregarem.
 4:6 彼がそう言うとすぐに、わたしたちは腰を下ろした。二人は、三人のうち真ん中のわたしを、両脇から囲んで守る形になった。これは序列や名誉への敬意からではなかった。友情は、いつも対等な者を受け入れるか、対等な者にするかのどちらかだからだ。そうではなく、わたしが審判として、二人のどちらにもいちばん近くにいて耳を傾け、論じ合う二人を真ん中で隔てるためだった。

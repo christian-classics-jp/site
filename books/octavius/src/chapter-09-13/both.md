@@ -3,7 +3,7 @@
 9.1 Ac iam, ut fecundius nequiora proueniunt, serpentibus in dies perditis moribus per uniuersum orbem sacraria ista taeterrima impiae coitionis adolescunt. eruenda prorsus haec et execranda consensio.
 9:1 しかも、悪いものほどよく実るのが世の常だ。堕落した風習が日ごとに這い広がるにつれ、あの不敬な寄り合いのおぞましい拝み所が、いまや全世界で育っている。こんな結託は、根こそぎ掘り起こし、呪って捨てるべきだ。
 9.2 occultis se notis et insignibus noscunt et amant mutuo paene antequam nouerint: passim etiam inter eos uelut quaedam libidinum religio miscetur, ac se promisce appellant fratres et sorores, ut etiam non insolens stuprum intercessione sacri nominis fiat incestum. ita eorum uana et demens superstitio sceleribus gloriatur.
-9:2 彼らは、ひそかな目印やしるしで互いを見分ける。そして、知り合うか知り合わないうちから、もう愛し合っている。そのうえ彼らのあいだでは、いわば情欲の宗教とでもいうものが、ところかまわず入り乱れている。彼らは互いに、だれかれなく兄弟、姉妹と呼び合う。そのため、ありふれた姦淫でさえ、聖なる呼び名が間に入ることで、近親姦になる。このように、彼らのむなしく狂った迷信は、悪事を誇りとしているのだ。
+9:2 彼らは、ひそかな目印やしるしで互いを見分ける。そして、知り合うか知り合わないうちから、もう愛し合っている。そのうえ彼らのあいだでは、いわば情欲の宗教とでもいうものが、ところかまわず入り乱れている。彼らは互いに、だれかれなく兄弟、姉妹と呼び合う。そのため、ありふれた姦淫でさえ、聖なる名が間に入ることで、近親姦になる。このように、彼らのむなしく狂った迷信は、悪事を誇りとしているのだ。
 9.3 nec de ipsis, nisi subsisteret ueritas, maxime nefaria et honore praefanda sagax fama loqueretur. audio eos turpissimae pecudis caput [asini] consecratum inepta nescio qua persuasione uenerari: digna et nata religio talibus moribus!
 9:3 根に真実がなければ、目ざとい噂が彼らのことを語りはしないだろう。それも、ひどく忌まわしく、詫びの前置きなしには口にできないことをである。聞くところでは、彼らは何やらばかげた思い込みから、最も卑しい家畜の頭^[写本には『ろばの』とあるが、後の書き込みとみて訳さない。]を聖なるものとしてあがめているという。こういう風習にふさわしい、こういう風習から生まれた宗教だ！
 // 「ひどく忌まわしい」（maxime nefaria）は、ある学者の推定で、底本もこれを採る。写本は maxima et uaria（数多く、さまざまな）。
@@ -26,7 +26,7 @@
 10.3 unde autem uel quis ille aut ubi deus unicus, solitarius, destitutus, quem non gens libera, non regna, non saltem Romana superstitio nouerunt?
 10:3 それに、あのただ一人の、孤独な、見捨てられた神とは、どこから来た、何者で、どこにいるのか。自由な民も、王国も、ローマの迷信さえも、知らない神ではないか。
 10.4 Iudaeorum sola et misera gentilitas unum et ipsi deum, sed palam, sed templis, aris, uictimis caerimoniisque coluerunt, cuius adeo nulla uis nec potestas est, ut sit Romanis numinibus cum sua sibi natione captiuus.
-10:4 ただユダヤ人のみじめな一族だけは、やはり唯一の神を拝んだ。しかし、公然と、神殿や祭壇、いけにえや儀式によってである。その神は、力も権威もまるでなく、自分の民もろとも、ローマの神々の捕虜になっているほどだ。
+10:4 ただユダヤ人のみじめな一族だけは、やはり唯一の神を拝んだ。しかし、公然と、神殿や祭壇、犠牲や儀式によってである。その神は、力も権威もまるでなく、自分の民もろとも、ローマの神々の捕虜になっているほどだ。
 // 「ローマの神々の」（Romanis numinibus）は、ある刊本の編者の推定で、底本もこれを採る。写本は nominibus で、1543 年の初版は hominibus（ローマ人の）と読む。
 10.5 at iam Christiani quanta monstra, quae portenta confingunt! Deum illum suum, quem nec ostendere possunt nec uidere, in omnium mores, actus omnium, uerba denique et occultas cogitationes diligenter inquirere: discurrentem scilicet atque ubique praesentem molestum illum uolunt, inquietum, inpudenter etiam curiosum, siquidem adstat factis omnibus, locis omnibus intererrat, cum nec singulis inseruire possit per uniuersa districtus nec uniuersis sufficere in singulis occupatus.
 10:5 ところが、キリスト者たちときたら、どれほどの化け物、どんな怪異をこしらえることか！　彼らの神は、示すことも見ることもできない神だ。それなのに彼らは言う。その神は、すべての人の品行と行いを、さらには言葉とひそかな思いまでも、念入りに調べ上げるのだと。つまり、その神は至る所を駆けめぐり、どこにでもいるというわけだ。だから彼らはその神を、わずらわしく、落ち着きがなく、恥知らずなほどせんさく好きな者にしたがっているのだ。実際、その神はあらゆる行いのそばに立ち、あらゆる場所をうろつくというのだから。しかし、すべてに散らばっていては、一つ一つに仕えることはできない。一つ一つにかかりきりでは、すべてに手が回らない。
@@ -40,9 +40,9 @@
 11:3 これは二重の害悪、二重の狂気だ。天と星々は、わたしたちが見いだしたとおりのまま、後に残していくものだ。その天と星々には、滅びを告げる。そのくせ、わたしたちと同じく生まれては死んでいく自分たち、死んで消え去る自分たちには、永遠を約束するのだから！
 // 「死んで消え去る」の「死んで」と「消え去る」をつなぐ et（そして）は写本になく、ある刊本の編者の推定で、底本もこれを補う。
 11.4 inde uidelicet et execrantur rogos et damnant ignium sepulturas, quasi non omne corpus, etsi flammis subtrahatur, annis tamen et aetatibus in terram resoluatur, nec intersit, utrum ferae diripiant an maria consumant an humus contegat an flamma subducat, cum cadaueribus omnis sepultura, si sentiunt, poena sit, si non sentiunt, ipsa conficiendi celeritate medicina.
-11:4 なるほど、だから彼らは火葬の薪を呪い、火による葬りを罪とするのだ。まるで、どんなからだも、たとえ炎を免れても、年月を経れば結局は土に還るのではないかのようだ。また、獣が引き裂こうと、海が呑み込もうと、土が覆おうと、炎が消し去ろうと、何の違いもないのではないかのようだ。死体にとって、どんな葬りも、感じるなら罰であり、感じないなら、片づけの速さそのものが薬なのだから。
+11:4 言うまでもなく、だから彼らは火葬の薪を呪い、火による葬りを罪とするのだ。まるで、どんなからだも、たとえ炎を免れても、年月を経れば結局は土に還るのではないかのようだ。また、獣が引き裂こうと、海が呑み込もうと、土が覆おうと、炎が消し去ろうと、何の違いもないのではないかのようだ。死体にとって、どんな葬りも、感じるなら罰であり、感じないなら、片づけの速さそのものが薬なのだから。
 11.5 hoc errore decepti beatam sibi ut bonis et perpetem uitam mortuis pollicentur, ceteris ut iniustis poenam sempiternam. multa ad haec subpetunt, ni festinet oratio. iniustos ipsos magis nec laboro, iam docui: quamquam, etsi iustos darem, culpam tamen uel innocentiam fato tribui sententia est plurimorum, etiam uestra consensio est.
-11:5 この迷いに欺かれて、彼らは、自分たちは善人だから、死んだあとに幸いな、絶えることのないいのちを得ると約束する。ほかの者たちには、不正な者だから、永遠の罰を約束する。話が先を急いでいなければ、これについて言えることはたくさんある。むしろ彼ら自身こそ不正な者だということは、骨を折って示すまでもない。もう示したのだから。もっとも、たとえ彼らを正しい者と認めたとしても、罪も無罪も運命に帰せられるというのが、大多数の人の考えだ。君たちもそれに同意している。
+11:5 この誤りに欺かれて、彼らは、自分たちは善人だから、死んだあとに幸いな、絶えることのないいのちを得ると約束する。ほかの者たちには、不正な者だから、永遠の罰を約束する。話が先を急いでいなければ、これについて言えることはたくさんある。むしろ彼ら自身こそ不正な者だということは、骨を折って示すまでもない。もう示したのだから。もっとも、たとえ彼らを正しい者と認めたとしても、罪も無罪も運命に帰せられるというのが、大多数の人の考えだ。君たちもそれに同意している。
 // 写本は sententiis plurimorum et haec uestra consensio est。「考えだ」（sententia）と「も」（etiam）は、二人の刊本の編者の推定で、底本もこれを採る。
 11.6 nam quicquid agimus, ut alii fato, ita uos deo addicitis: sic sectae uestrae non spontaneos cupere, sed electos.
 11:6 実際、わたしたちのすることは何であれ、ほかの人々が運命に帰するように、君たちは神に帰する。だから君たちの一派では、人は自分から望むのではなく、選ばれた者として望むのだ、ということになる。
@@ -63,7 +63,7 @@
 12.3 tu, qui inmortalitatem postumam somnias, cum periculo quateris, cum febribus ureris, cum dolore laceraris, nondum condicionem tuam sentis? nondum adgnoscis fragilitatem? inuitus miser infirmitatis argueris nec fateris.
 12:3 死んだあとの不死を夢見ている君よ。危険に揺さぶられ、熱に焼かれ、痛みに引き裂かれるとき、君はまだ自分の身の定めを感じないのか。まだ自分のもろさを認めないのか。みじめな君は、いやおうなしに自分の弱さを突きつけられていながら、それを認めようとしない。
 12.4 sed omitto communia. ecce uobis minae, supplicia, tormenta, et iam non adorandae sed subeundae cruces, ignes etiam quos et praedicitis et timetis: ubi deus ille, qui subuenire reuiuescentibus potest, uiuentibus non potest?
-12:4 だが、だれにでもあることは省こう。見よ、君たちには、脅しと刑罰と拷問が待っている。それに、もはや拝むためではなく、身に受けるための十字架もだ。君たちが予言しながら、恐れてもいる火もだ。生き返る者は助けられるのに、生きている者は助けられないあの神は、どこにいるのか。
+12:4 だが、だれにでもあることは省こう。見よ、君たちには、脅しと罰と責め苦が待っている。それに、もはや拝むためではなく、身に受けるための十字架もだ。君たちが予言しながら、恐れてもいる火もだ。生き返る者は助けられるのに、生きている者は助けられないあの神は、どこにいるのか。
 12.5 nonne Romani sine uestro deo imperant regnant, fruuntur orbe toto uestrique dominantur? uos uero suspensi interim atque solliciti honestis uoluptatibus abstinetis, non spectacula uisitis, non pompis interestis, conuiuia publica absque uobis, sacra certamina, praecerptos cibos et delibatos altaribus potus abhorretis. sic reformidatis deos quos negatis.
 12:5 ローマ人は、君たちの神なしに、支配し、王として治め、全世界を楽しみ、君たちをも従えているではないか。ところが君たちは、そのあいだ、宙ぶらりんのまま気をもんで、まっとうな楽しみを断っている。見世物を見に行かず、行列にも加わらない。公の宴は、君たち抜きで開かれる。君たちは、神聖な競技も、初物を取り分けた食べ物も、祭壇に注ぎ分けた飲み物も、忌み嫌う。それほどまでに君たちは、否んでいる神々を恐れているのだ。
 12.6 non floribus caput nectitis, non corpus odoribus honestatis: reseruatis unguenta funeribus, coronas etiam sepulcris denegatis, pallidi trepidi, misericordia digni, sed nostrorum deorum. ita nec resurgitis miseri nec interim uiuitis.

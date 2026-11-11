@@ -23,7 +23,7 @@
 21:2 プロディコスは、さまよううちに新しい作物を見いだして人間の役に立った人々が、神々の中に加えられたと語ります。ペルサイオスも同じ考えで哲学を論じ、見いだされた作物と、その作物を見いだした人々とを、同じ名で結びつけています。喜劇の言葉に、リベル（ぶどう酒）とケレス（穀物）がなければウェヌスは冷える、とあるとおりです。
 // 「プロディコス」は、写本で prodigus と崩れている名を、ある刊本の編者がキケロによって戻したもので、底本もこれを採る。
 21.3 Alexander ille Magnus insigni uolumine ad matrem suam scripsit, metu suae potestatis proditum sibi de diis hominibus a sacerdote secretum: illic Vulcanum facit omnium principem, et postea Iouis gentem.
-21:3 あのマケドニアのアレクサンドロス大王は、名高い一巻の手紙で、母に書き送りました。神々が人間であったという秘密を、大王の権能を恐れた祭司が明かしてくれた、というのです。その手紙の中で、大王は、ウルカヌスをすべての者の中で首位の者とし、その後にユピテルの一族を置いています。
+21:3 あのマケドニアのアレクサンドロス大王は、よく知られた一巻の手紙で、母に書き送りました。神々が人間であったという秘密を、大王の権能を恐れた祭司が明かしてくれた、というのです。その手紙の中で、大王は、ウルカヌスをすべての者の中で首位の者とし、その後にユピテルの一族を置いています。
 // 「マケドニアの」（Macedo）は写本にあるが、底本の本文は、ある刊本の編者に従ってこれを除く。底本の序文はこれを戻すべきだとしているので、訳では序文に従って補った。「その手紙の中で」（illic）は、ある刊本の編者の推定で、底本もこれを採る。写本は illi（母に、または彼が）。
 21.4 Saturnum enim principem huius generis et examinis omnes scriptores uetustatis Graeci Romanique hominem prodiderunt. scit hoc Nepos et Cassius in historia, et Thallus ac Diodorus hoc loquuntur.
 21:4 実際、この一族、この群れの首位の者であるサトゥルヌスを、昔のギリシアとローマの著述家はみな、人間だったと伝えています。ネポスもカッシウスも、その歴史書でこれを知っており、タッロスとディオドロスもこれを語っています。
@@ -42,7 +42,7 @@
 21.10 inuitis his denique hoc nomen adscribitur: optant in homine perseuerare, fieri se deos metuunt, etsi iam senes nolunt. ergo nec de mortuis dii, quoniam Deus mori non potest, nec de natis, quoniam moritur omne quod nascitur: diuinum autem id est, quod nec ortum habet nec occasum.
 21:10 さらには、この名は、本人が望まないのに書き加えられるのです。彼らは人間のままでいたいと願い、神にされることを恐れます。もう年老いていても、それを望まないのです。したがって、神々は死んだ者から生じるのではありません。神というものは死ぬことができないからです。生まれた者から生じるのでもありません。生まれるものはみな死ぬからです。神的なものとは、生じることも滅びることもないもののことです。
 21.11 cur enim, si nati sunt, non hodie quoque nascuntur? nisi forte iam Iuppiter senuit et partus in Iunone defecit et Minerua canuit antequam peperit. an ideo cessauit ista generatio, quoniam nulla huiusmodi fabulis praebetur adsensio?
-21:11 実際、もし神々が生まれたのなら、なぜ今日も生まれないのでしょうか。もしかすると、ユピテルはもう年老い、ユノは子を産めなくなり、ミネルウァは子を産む前に白髪になったのでしょうか。それとも、このような作り話にもうだれも同意しないので、神々の生まれが途絶えたのでしょうか。
+21:11 実際、もし神々が生まれたのなら、なぜ今日も生まれないのでしょうか。ただし、ユピテルがもう年老い、ユノが子を産めなくなり、ミネルウァが子を産む前に白髪になったというのなら、話は別です。それとも、このような作り話にもうだれも同意しないので、神々の生まれが途絶えたのでしょうか。
 21.12 ceterum si dii creare possent, interire non possent, plures totis hominibus deos haberemus, ut iam eos nec caelum contineret nec aër caperet nec terra gestaret. unde manifestum est homines illos fuisse, quos et natos legimus et mortuos scimus. † et despicis Isidis ad hirundinem, sistrum, et ad sparsis membris inanem tui Serapidis siue Osiris tumulum.
 21:12 それに、もし神々が子を生み出すことができ、しかも滅びることができないとしましょう。それなら、わたしたちは、すべての人間よりも多くの神々を持っていることになるでしょう。そうなれば、もう天も神々を収めきれず、空気も入れきれず、大地も支えきれないでしょう。ここから明らかなように、生まれたと読み、死んだと知っているあの者たちは、人間だったのです。イシスの燕と鳴り物のシストルムを見てください。また、手足が散らされて空になった、あなたのセラピス、つまりオシリスの墓を見てください^[この一文は写本が崩れていて、意味も置き場所も定まらない。]。
 // 底本は「イシスの燕」で始まる一文の初めに短剣符を付け、写本の読みが崩れているとする。写本は despicis（見下ろす）で、この一文は別の箇所から紛れ込んだとみる学者もいる。訳では、1543 年の初版の dispicis（見分ける）や、ほかの編者たちの despice（見よ）の方向で訳した。
@@ -63,5 +63,5 @@
 22:6 あなたがたのユピテル自身はどうでしょうか。あるときはひげのない姿で立てられ、あるときはひげのある姿で据えられます。ハンモンと呼ばれるときは角を持ち、カピトリウムのユピテルのときは雷を手にします。ラティアリスのときは血を浴び、フェレトリウスのときは最高の戦利品をまとっています^[写本では『聞かれない』とあり、意味が定まらない。推定に従って訳した。]。多くのユピテルをこれ以上たどるのはやめましょう。ユピテルの名の数だけ、ユピテルの奇怪な姿があるのです。
 // 底本は「最高の戦利品をまとっています」にあたる non auditur（聞かれない）に短剣符を付け、写本の読みが崩れているとする。訳では、底本の校注が挙げる直しのうち、ある学者の推定 opimis induitur に従った。
 22.7 Erigone suspensa de laqueo est, ut uirgo inter astra ignita sit, Castores alternis moriuntur ut uiuant, Aesculapius ut in deum surgat fulminatur, Hercules ut hominem exuat, Oetaeis ignibus concrematur.
-22:7 エリゴネは、おとめとして星々のあいだで輝くために、輪縄で首をつりました。カストルの兄弟は、生きるために、かわるがわる死にます。アエスクラピウスは、神へと昇るために、雷に打たれます。ヘルクレスは、人間を脱ぐために、オエタ山の火で焼き尽くされます。
+22:7 エリゴネは、乙女として星々のあいだで輝くために、輪縄で首をつりました。カストルの兄弟は、生きるために、かわるがわる死にます。アエスクラピウスは、神へと昇るために、雷に打たれます。ヘルクレスは、人間を脱ぐために、オエタ山の火で焼き尽くされます。
 // 「オエタ山の」（Oetaeis）は、ある刊本の編者の推定で、底本もこれを採る。写本は henneis で、崩れている。
