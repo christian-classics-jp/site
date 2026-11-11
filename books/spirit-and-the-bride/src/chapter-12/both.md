@@ -15,7 +15,7 @@ As to just how, or the circumstances under which this judgment is to take place,
 I used to think of heaven as one great auditorium with a platform on one side, while just before the door was a stand.
 私はかつて、天を一つの大きな講堂のように思い描いていた。片側には壇があり、入口のすぐ前には台がある。
 I thought at the judgment Christ would sit in the door, while upon this platform would be gathered all nations and peoples: an angel would call the roll, beginning with the first man that ever lived, and continuing throughout Adam's race; each one as his name was called taking his place upon the stand, and, bowing his knee, would give an account of his life to God; the Judge setting the one on His right hand and the other on His left, according as his works had been.
-さばきのときには、キリストが入口にすわられ、この壇の上にすべての国民と民族が集められると思っていた。ひとりの御使が名簿を読み上げる。最初に生きた人から始めて、アダムの子孫を残らず呼んでいく。名を呼ばれた者は一人ずつ台に立ち、ひざをかがめて、自分の生涯について神に申し開きをする。さばき主は、その行いに応じて、ある者をご自分の右に、ある者を左に置かれる。
+さばきのときには、キリストが入口にすわられ、この壇の上にすべての国民と民族が集められると思っていた。ひとりの御使いが名簿を読み上げる。最初に生きた人から始めて、アダムの子孫を残らず呼んでいく。名を呼ばれた者は一人ずつ台に立ち、ひざをかがめて、自分の生涯について神に申し開きをする。さばき主は、その行いに応じて、ある者をご自分の右に、ある者を左に置かれる。
 Then He would say to those on the right hand, "Come," and to those on the left, "Depart."
 それから、右にいる人々には『さあ』と言い、左にいる人々には『わたしを離れて』と言われる。
 I had this idea of the judgment, not because my heart was not open to the truth, but because to me the truth had never been presented; and I was unable from a mere study of the Word, to get hold of the facts in the case.

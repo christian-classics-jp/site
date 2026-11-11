@@ -122,7 +122,7 @@ The following is from Dr. G. D. Watson:
 次は、G・D・ワトソン博士の言葉である。
 
 "What an era of prayer that will be when the martyred saints of all ages, in heaven are uttering one prayer, and all the blood washed hearts of earth are uttering the same prayer, when millions and millions of those who love Jesus in heaven and earth are pleading for His coming, when the very throne of God the Father is encircled with golden cords of prayer, as if to pull heaven down to earth, and, so far as we know, the myriads of sympathetic angels may be saying one grand Amen to those united prayers of all the saints; it will be in such an hour as this that the silence of the sky shall be broken with the piercing, penetrating cry, 'Behold the Bridegroom cometh.'"
-「それは、なんという祈りの時代となることであろうか。天ではあらゆる時代の殉教した聖徒たちが一つの祈りをささげ、地では血で洗われたすべての心が同じ祈りをささげる。天と地でイエスを愛する幾百万、幾千万の人々が、主の来臨を願い求める。父なる神の御座そのものが、天を地に引き下ろそうとするかのように、祈りの金の綱で取り巻かれる。そしてことによると、思いを同じくする無数の御使たちが、声をそろえて大いなるアーメンを唱えているかもしれない。すべての聖徒の心を合わせたこの祈りに、である。このようなときにこそ、空の沈黙は、『さあ、花婿だ』という鋭く突き刺すような叫びによって破られるのである」。
+「それは、なんという祈りの時代となることであろうか。天ではあらゆる時代の殉教した聖徒たちが一つの祈りをささげ、地では血で洗われたすべての心が同じ祈りをささげる。天と地でイエスを愛する幾百万、幾千万の人々が、主の来臨を願い求める。父なる神の御座そのものが、天を地に引き下ろそうとするかのように、祈りの金の綱で取り巻かれる。そしてことによると、思いを同じくする無数の御使いたちが、声をそろえて大いなるアーメンを唱えているかもしれない。すべての聖徒の心を合わせたこの祈りに、である。このようなときにこそ、空の沈黙は、『さあ、花婿だ』という鋭く突き刺すような叫びによって破られるのである」。
 
 Can you say, "EVEN SO, COME, LORD JESUS"?
 あなたは、『アァメン、主イエスよ、きたりませ』と言えるか。
