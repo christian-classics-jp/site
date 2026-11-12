@@ -3,16 +3,13 @@
   "version": "1.0.0",
   "description": "Simplest static HTML site template",
   "dependencies": {
-    "co": "^4.6.0",
-    "fflate": "0.8.2",
+    "fflate": "0.8.3",
     "handlebars": "^4.0.5",
     "jesep": "^1.0.0",
-    "marked": "^0.7.0",
-    "mkdirp": "^0.5.1",
+    "marked": "^18.2.0",
     "pdf-lib": "1.17.1",
-    "playwright": "1.64.0"
+    "playwright": "1.65.0"
   },
-  "devDependencies": {},
   "scripts": {
     "build": "node ci/build.js",
     "epub": "node ci/epub.js",
@@ -31,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/FujiHaruka/simplest-site-template/issues"
   },
-  "homepage": "https://github.com/FujiHaruka/simplest-site-template#readme"
+  "homepage": "https://github.com/FujiHaruka/simplest-site-template#readme",
+  "engines": {
+    "node": ">=26"
+  }
 }

@@ -8,7 +8,7 @@ christian-classics-jp の翻訳書と、その公開サイトのリポジトリ�
 - `static/`：トップページ、ロゴ、PDF、EPUB
 - `ci/`・`assets/`：サイトのビルド
 
-`yarn install --ignore-scripts && yarn build` で `dist/` にサイトができる。master に push すると GitHub Actions が訳し終えた本をビルドして GitHub Pages に公開する。翻訳中の本は公開しない。翻訳作業の決まりは [AGENTS.md](AGENTS.md) にある。
+`npm install --ignore-scripts && npm run build` で `dist/` にサイトができる。master に push すると GitHub Actions が訳し終えた本をビルドして GitHub Pages に公開する。翻訳中の本は公開しない。翻訳作業の決まりは [AGENTS.md](AGENTS.md) にある。
 
 ## ライセンス
 

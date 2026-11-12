@@ -1,11 +1,10 @@
-const marked = require('marked')
+const {toHtml} = require('./markdown')
 const compileMarkdown = require('./compileMarkdown')
 const {SITE_URL, INDEX_TEMPLATE_PATH, SINGLEPAGE_TMPLE_PATH, ARTICLE_TEMPLATE_PATH, STYLE_PATH, SCRIPT_PATH} = require('./consts')
 const fs = require('fs')
 const {join} = require('path')
 const hbs = require('handlebars')
 const loc = require('../../assets/info/loc.json')
-const mkdirp = require('mkdirp')
 const Repository = require('./Repository')
 
 // title は最初にヒットする h1 要素である
@@ -44,9 +43,9 @@ function buildHtml (reposName, options = {}) {
   if (articleNames.length === 0) return []
 
   const bookUrl = `${SITE_URL}${repos.repos}/`
-  mkdirp.sync(join(repos.destDir, 'css'))
+  fs.mkdirSync(join(repos.destDir, 'css'), {recursive: true})
   fs.copyFileSync(STYLE_PATH, join(repos.destDir, 'css', 'main.css'))
-  mkdirp.sync(join(repos.destDir, 'js'))
+  fs.mkdirSync(join(repos.destDir, 'js'), {recursive: true})
   fs.copyFileSync(SCRIPT_PATH, join(repos.destDir, 'js', 'theme.js'))
 
   const siteTitle = repos.title
@@ -89,7 +88,7 @@ function buildHtml (reposName, options = {}) {
     })
 
     const indexTmpl = readTmpl(INDEX_TEMPLATE_PATH)
-    const intro = repos.intro && marked(repos.intro)
+    const intro = repos.intro && toHtml(repos.intro)
     const {
       completed,
       epubUrl,

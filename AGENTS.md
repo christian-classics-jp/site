@@ -77,11 +77,11 @@ rg -z -a -o "\('[^']+', '[^']*みじめな人間[^']*'" ../bible-api/mysql/sql/c
 
 ## ビルド
 
-リポジトリのルートで `yarn install --ignore-scripts` を実行したあと、次のコマンドを使う。
+リポジトリのルートで `npm install --ignore-scripts` を実行したあと、次のコマンドを使う。
 
 - `node ci/jp.js books/<本>/src/<節>`：`both.md` から `jp.md` を作り直す。アルファベットかギリシア文字で始まる行は原文とみなして消す（行頭の数字や記号は飛ばして判定する）。日本語の行は空行がなければ前の行とつながる。アルファベットで始まる日本語の行は、`both.md` で行頭に `% ` を付けて書く。
-- `yarn build`：サイト全体を `dist/` にビルドする。`yarn build <本>` ならその本だけ。公開は push で自動的に行われるので、手元のビルドは確認用。
-- `yarn epub`・`yarn pdf`：`book.json` のある本の EPUB と PDF を `dist/epub/`・`dist/pdf/` に作る。`yarn build` の後に実行する（`yarn build` が `dist/` を作り直すため）。本の名前を付ければその本だけ。PDF には Chromium（`npx playwright install chromium`）と Noto CJK フォントが要る。公開時は GitHub Actions が作る。
+- `npm run build`：サイト全体を `dist/` にビルドする。`npm run build <本>` ならその本だけ。公開は push で自動的に行われるので、手元のビルドは確認用。
+- `npm run epub`・`npm run pdf`：`book.json` のある本の EPUB と PDF を `dist/epub/`・`dist/pdf/` に作る。`npm run build` の後に実行する（`npm run build` が `dist/` を作り直すため）。本の名前を付ければその本だけ。PDF には Chromium（`npx playwright install chromium`）と Noto CJK フォントが要る。公開時は GitHub Actions が作る。
 
 ## 節の訳が終わったら
 

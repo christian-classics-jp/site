@@ -5,7 +5,7 @@ const { join } = require('path')
 const { execFileSync } = require('child_process')
 const { BOOKS_DIR } = require('./helpers/consts')
 
-const SITE_PATHS = ['static/', 'assets/', 'ci/', 'package.json', 'yarn.lock', '.github/workflows/']
+const SITE_PATHS = ['static/', 'assets/', 'ci/', 'package.json', 'package-lock.json', '.github/workflows/']
 
 const [before, after] = process.argv.slice(2)
 console.log(shouldPublish(before, after) ? 'true' : 'false')

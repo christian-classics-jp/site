@@ -1,4 +1,4 @@
-const marked = require('marked')
+const {toHtml, toXhtml} = require('./markdown')
 const markUprightDigits = require('./markUprightDigits')
 
 const markVerseNumbers = (html) => html.replace(/(^|\n|<p>)((?:\d+|[A-Z]+)(?::\d+)+) /g, '$1<span class="verse-number">$2</span> ')
@@ -29,7 +29,7 @@ const markNotes = (html, idPrefix, epub) => {
 }
 
 function compileMarkdown (markdown, {idPrefix = '', epub = false, vertical = false} = {}) {
-  const html = markVerseNumbers(marked(markdown, {headerIds: !epub, xhtml: epub}))
+  const html = markVerseNumbers(epub ? toXhtml(markdown) : toHtml(markdown))
   return markNotes(vertical ? markUprightDigits(html) : html, idPrefix, epub)
 }
 
