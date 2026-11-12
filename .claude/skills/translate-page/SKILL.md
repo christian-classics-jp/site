@@ -18,6 +18,11 @@ python3 -I tools/page-context.py <本> <節> <scratchpad>/<節>      # 抜粋と
 
 `page-context` は、底本の範囲、前のページ、論点一覧と照合の有無、英訳と印刷版 OCR の行範囲を表示し、抜粋と三つの依頼文（`crux-prompt.md`・`collate-prompt.md`・`review-prompt.md`）を書き出す。`unset` と出た行範囲は、見つけしだい `pages.json` に書き足す（英訳の章見出しから一括で埋めるなら `tools/pages.py locate`）。次のページからは探さずに済む。
 
+途中で止まったページの続きから始めるとき（リレーの再試行など）：
+- `src/<節>/both.md` があり、`research/reviews/<節>.md` がない → 訳はできている。`verify` を通してから 3 のレビューへ。
+- `research/reviews/<節>.md` もある → 適用まで済んでいる。4 の最後（`verify`、jp.md、`[x]`、コミット）だけを行う。
+- 論点一覧・照合のファイルがあるページは、1 を飛ばす。
+
 読むもの：本の `AGENTS.md`、前のページの `jp.md`（文体・訳語・口調を引き継ぐ）。大きなファイル（論点一覧、底本全体、OCR 全体）は丸ごと読まず、抜粋を読む。
 
 ## 1. 論点一覧と照合（サブエージェント）

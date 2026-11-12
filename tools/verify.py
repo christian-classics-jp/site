@@ -14,7 +14,7 @@ followed by its translation; forbidden marks (？ ―― … and half-width ? !)
 after ！ when the sentence goes on; brackets unbalanced over the whole file.
 WARN (fix unless the book's AGENTS.md says otherwise): sentences over 60 characters; footnotes
 over 40 characters; a citation with Arabic numerals, 章・節, or a full book name; a citation
-placed after 。; 「 inside 「; brackets unbalanced in one line.
+placed after 。; words the root AGENTS.md writes in kana (全て, 出来る, 下さい, 頂く …); 「 inside 「; brackets unbalanced in one line.
 """
 
 if len(sys.argv) != 4:
@@ -47,6 +47,7 @@ ARABIC_CITE = re.compile(r'（[^）]*[ぁ-んァ-ヶ一-龥][0-9０-９]+[:：�
 CHAPTER_VERSE = re.compile(rf'[{KANJI_NUM}]+章[{KANJI_NUM}]+節')
 FULL_NAME = re.compile(rf'（[^）]*(使徒行伝|[ァ-ヶ]{{2,6}}書|[ァ-ヶ]{{2,6}}による福音書)[{KANJI_NUM}]+[・章]')
 CITE_AFTER_STOP = re.compile(rf'。（[^）]*[{KANJI_NUM}]+[・章]')
+HIRAKU = re.compile(r'全て|出来(?:る|ない|ず|ま|た|て|れ)|下さ(?:い|る|っ|ら)|頂(?:く|き|い|け)|又(?:、|は|も)|為に|命を(?:得|与|持)')
 BANG = re.compile(r'！(?=[^\s」』）！　])|！ ')
 FOOTNOTE = re.compile(r'\^\[([^\]]*)\]')
 
@@ -82,6 +83,9 @@ for i, l in enumerate(lines):
         warnings.append(f'line {n}: write 章・節 citations as 書名 + 漢数字・漢数字: {CHAPTER_VERSE.search(plain).group(0)}')
     if FULL_NAME.search(plain):
         warnings.append(f'line {n}: use the short book name in citations: {FULL_NAME.search(plain).group(1)}')
+    m = HIRAKU.search(plain)
+    if m:
+        warnings.append(f'line {n}: write in kana (ひらく語): {m.group(0)}')
     if CITE_AFTER_STOP.search(plain):
         warnings.append(f'line {n}: citation after 。 (put it before 。)')
     if nested_kagi(plain):

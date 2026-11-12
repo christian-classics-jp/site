@@ -4,7 +4,7 @@
   "base": "books/dialogue-with-trypho/research/archambault-1909.txt",
   "digitized": true,
   "english_name": "ANF 第 1 巻の英訳（Roberts–Donaldson、1867）",
-  "print_name": "",
+  "print_name": "Archambault 1909 の印刷版（第 1 巻 1〜63 章、第 2 巻 64〜142 章）",
   "pages": [
     {
       "id": "chapter-001-002",
@@ -104,7 +104,9 @@
     {
       "id": "chapter-056-2",
       "spec": "56.14-56.23",
-      "english": "cache/ccel.org/anf01.txt:20071-20309"
+      "english": "cache/ccel.org/anf01.txt:20071-20309",
+      "print": "cache/archive.org/dialogueavectryp01just/dialogueavectryp01just_djvu.txt:20069-20520",
+      "images": "dialogueavectryp01just:368-376"
     },
     {
       "id": "chapter-057-058",

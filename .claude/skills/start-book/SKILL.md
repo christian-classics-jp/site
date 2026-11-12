@@ -46,7 +46,7 @@ python3 -I tools/pages.py locate <本> english cache/ccel.org/anf01.txt '^\s*Cha
 python3 -I tools/pages.py locate <本> print <印刷版の djvu.txt> '<その版の章見出しの正規表現>' --from … --to …
 ```
 
-  正規表現のグループ 1 が章番号（算用数字かローマ数字）。印刷版の章見出しが OCR で崩れて拾えない章は、出力に `not found` と出るので、その行だけ手で書く。画像（`images`：`<identifier>:<最初>-<最後>` の IIIF 番号）は分かる範囲で書き、残りは論点一覧のエージェントに探させる。
+  正規表現のグループ 1 が章番号（算用数字かローマ数字）。印刷版の章見出しが OCR で崩れて拾えない章は、出力に `not found` と出るので、その行だけ手で書く。英訳の章の番号や順が底本と違う本（『第二弁明』の ANF など）は、出た範囲を確かめて手で直し、`english_name` にその旨を書く。画像（`images`：`<identifier>:<最初>-<最後>` の IIIF 番号）は分かる範囲で書き、残りは論点一覧のエージェントに探させる。
 
 ## 4. 本の AGENTS.md
 
