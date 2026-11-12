@@ -1,0 +1,30 @@
+{
+  "title": "リヨンとヴィエンヌの教会の手紙",
+  "language": "ギリシア語",
+  "base": "books/martyrs-of-lyons/research/dindorf-1871.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "01-letter-1",
+      "spec": "5.0,5.1.1-5.1.17"
+    },
+    {
+      "id": "02-letter-2",
+      "spec": "5.1.18-5.1.32"
+    },
+    {
+      "id": "03-letter-3",
+      "spec": "5.1.33-5.1.48"
+    },
+    {
+      "id": "04-letter-4",
+      "spec": "5.1.49-5.1.63"
+    },
+    {
+      "id": "05-letter-5",
+      "spec": "5.2-5.4"
+    }
+  ]
+}

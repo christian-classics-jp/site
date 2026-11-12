@@ -1,0 +1,26 @@
+{
+  "title": "ディオグネトスへの手紙",
+  "language": "ギリシア語",
+  "base": "cache/open-apostolic-fathers/texts/015-diognetus.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-01-04",
+      "spec": "1-4"
+    },
+    {
+      "id": "chapter-05-08",
+      "spec": "5-8"
+    },
+    {
+      "id": "chapter-09-10",
+      "spec": "9-10"
+    },
+    {
+      "id": "chapter-11-12",
+      "spec": "11-12"
+    }
+  ]
+}

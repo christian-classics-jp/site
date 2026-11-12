@@ -41,3 +41,6 @@ dist
 
 # Research sources
 /cache/
+
+# Python
+__pycache__/

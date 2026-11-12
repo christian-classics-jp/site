@@ -1,0 +1,18 @@
+{
+  "title": "ポリュカルポスのピリピ人への手紙",
+  "language": "ギリシア語",
+  "base": "cache/open-apostolic-fathers/texts/010-polycarp-philippians.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-00-06",
+      "spec": "0-6"
+    },
+    {
+      "id": "chapter-07-14",
+      "spec": "7-14"
+    }
+  ]
+}

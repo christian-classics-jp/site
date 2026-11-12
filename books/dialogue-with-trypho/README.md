@@ -7,7 +7,7 @@
 底本は G. Archambault 編、*Justin, Dialogue avec Tryphon*（全 2 巻、Textes et documents pour l'étude historique du christianisme、Paris: A. Picard, 1909）のギリシア語本文。[First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek)（コミット ed91552）の電子化（`data/tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml`）を、次のコマンドで [research/archambault-1909.txt](research/archambault-1909.txt) にした。
 
 ```sh
-python3 -I ~/.claude/handoffs/tei2labeled.py cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml books/dialogue-with-trypho/research/archambault-1909.txt
+python3 -I tools/tei2labeled.py cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg0645/tlg003/tlg0645.tlg003.perseus-grc2.xml books/dialogue-with-trypho/research/archambault-1909.txt
 ```
 
 First1KGreek の本文は CC BY-SA 4.0 で、`research/archambault-1909.txt` と各節の `both.md` に置いたギリシア語本文もそれを引き継ぐ。電子化の入力の誤りは底本の行では直さず、印刷版（archive.org のスキャン [第 1 巻](https://archive.org/details/dialogueavectryp01just)・[第 2 巻](https://archive.org/details/dialogueavectryp02just)）と照らして、意図された形で訳した。

@@ -1,0 +1,25 @@
+{
+  "title": "ユスティノス『第二弁明』",
+  "language": "ギリシア語",
+  "base": "books/justin-second-apology/research/rauschen-1911.txt",
+  "digitized": true,
+  "english_name": "ANF 第 1 巻の英訳（Roberts–Donaldson、1867。3〜8 章の番号と順が底本と違う）",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-01-05",
+      "spec": "1-5",
+      "english": "cache/ccel.org/anf01.txt:16617-16940"
+    },
+    {
+      "id": "chapter-06-10",
+      "spec": "6-10",
+      "english": "cache/ccel.org/anf01.txt:16769-16981"
+    },
+    {
+      "id": "chapter-11-15",
+      "spec": "11-15",
+      "english": "cache/ccel.org/anf01.txt:16982-17141"
+    }
+  ]
+}

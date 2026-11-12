@@ -1,0 +1,26 @@
+{
+  "title": "ポリュカルポスの殉教",
+  "language": "ギリシア語",
+  "base": "cache/open-apostolic-fathers/texts/014-martyrdom.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-00-06",
+      "spec": "0-6"
+    },
+    {
+      "id": "chapter-07-12",
+      "spec": "7-12"
+    },
+    {
+      "id": "chapter-13-18",
+      "spec": "13-18"
+    },
+    {
+      "id": "chapter-19-22",
+      "spec": "19-22,EP"
+    }
+  ]
+}

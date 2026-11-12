@@ -1,0 +1,260 @@
+{
+  "title": "トリュフォンとの対話",
+  "language": "ギリシア語",
+  "base": "books/dialogue-with-trypho/research/archambault-1909.txt",
+  "digitized": true,
+  "english_name": "ANF 第 1 巻の英訳（Roberts–Donaldson、1867）",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-001-002",
+      "spec": "1-2",
+      "english": "cache/ccel.org/anf01.txt:17146-17296"
+    },
+    {
+      "id": "chapter-003-004",
+      "spec": "3-4",
+      "english": "cache/ccel.org/anf01.txt:17297-17497"
+    },
+    {
+      "id": "chapter-005-008",
+      "spec": "5-8",
+      "english": "cache/ccel.org/anf01.txt:17498-17672"
+    },
+    {
+      "id": "chapter-009-011",
+      "spec": "9-11",
+      "english": "cache/ccel.org/anf01.txt:17673-17796"
+    },
+    {
+      "id": "chapter-012-014",
+      "spec": "12-14",
+      "english": "cache/ccel.org/anf01.txt:17797-17964"
+    },
+    {
+      "id": "chapter-015-017",
+      "spec": "15-17",
+      "english": "cache/ccel.org/anf01.txt:17965-18109"
+    },
+    {
+      "id": "chapter-018-021",
+      "spec": "18-21",
+      "english": "cache/ccel.org/anf01.txt:18110-18263"
+    },
+    {
+      "id": "chapter-022-023",
+      "spec": "22-23",
+      "english": "cache/ccel.org/anf01.txt:18264-18396"
+    },
+    {
+      "id": "chapter-024-027",
+      "spec": "24-27",
+      "english": "cache/ccel.org/anf01.txt:18397-18579"
+    },
+    {
+      "id": "chapter-028-030",
+      "spec": "28-30",
+      "english": "cache/ccel.org/anf01.txt:18580-18694"
+    },
+    {
+      "id": "chapter-031-032",
+      "spec": "31-32",
+      "english": "cache/ccel.org/anf01.txt:18695-18825"
+    },
+    {
+      "id": "chapter-033-035",
+      "spec": "33-35",
+      "english": "cache/ccel.org/anf01.txt:18826-18981"
+    },
+    {
+      "id": "chapter-036-038",
+      "spec": "36-38",
+      "english": "cache/ccel.org/anf01.txt:18982-19132"
+    },
+    {
+      "id": "chapter-039-041",
+      "spec": "39-41",
+      "english": "cache/ccel.org/anf01.txt:19133-19285"
+    },
+    {
+      "id": "chapter-042-044",
+      "spec": "42-44",
+      "english": "cache/ccel.org/anf01.txt:19286-19468"
+    },
+    {
+      "id": "chapter-045-047",
+      "spec": "45-47",
+      "english": "cache/ccel.org/anf01.txt:19469-19664"
+    },
+    {
+      "id": "chapter-048-050",
+      "spec": "48-50",
+      "english": "cache/ccel.org/anf01.txt:19665-19862"
+    },
+    {
+      "id": "chapter-051-055",
+      "spec": "51-55",
+      "english": "cache/ccel.org/anf01.txt:19863-20070"
+    },
+    {
+      "id": "chapter-056-1",
+      "spec": "56.1-56.13",
+      "english": "cache/ccel.org/anf01.txt:20071-20309"
+    },
+    {
+      "id": "chapter-056-2",
+      "spec": "56.14-56.23",
+      "english": "cache/ccel.org/anf01.txt:20071-20309"
+    },
+    {
+      "id": "chapter-057-058",
+      "spec": "57-58",
+      "english": "cache/ccel.org/anf01.txt:20310-20470"
+    },
+    {
+      "id": "chapter-059-061",
+      "spec": "59-61",
+      "english": "cache/ccel.org/anf01.txt:20471-20622"
+    },
+    {
+      "id": "chapter-062-063",
+      "spec": "62-63",
+      "english": "cache/ccel.org/anf01.txt:20623-20766"
+    },
+    {
+      "id": "chapter-064-065",
+      "spec": "64-65",
+      "english": "cache/ccel.org/anf01.txt:20767-20917"
+    },
+    {
+      "id": "chapter-066-067",
+      "spec": "66-67",
+      "english": "cache/ccel.org/anf01.txt:20918-21044"
+    },
+    {
+      "id": "chapter-068-069",
+      "spec": "68-69",
+      "english": "cache/ccel.org/anf01.txt:21045-21209"
+    },
+    {
+      "id": "chapter-070-073",
+      "spec": "70-73",
+      "english": "cache/ccel.org/anf01.txt:21210-21405"
+    },
+    {
+      "id": "chapter-074-076",
+      "spec": "74-76",
+      "english": "cache/ccel.org/anf01.txt:21406-21562"
+    },
+    {
+      "id": "chapter-077-078",
+      "spec": "77-78",
+      "english": "cache/ccel.org/anf01.txt:21563-21693"
+    },
+    {
+      "id": "chapter-079-081",
+      "spec": "79-81",
+      "english": "cache/ccel.org/anf01.txt:21694-21890"
+    },
+    {
+      "id": "chapter-082-084",
+      "spec": "82-84",
+      "english": "cache/ccel.org/anf01.txt:21891-22008"
+    },
+    {
+      "id": "chapter-085-086",
+      "spec": "85-86",
+      "english": "cache/ccel.org/anf01.txt:22009-22166"
+    },
+    {
+      "id": "chapter-087-088",
+      "spec": "87-88",
+      "english": "cache/ccel.org/anf01.txt:22167-22300"
+    },
+    {
+      "id": "chapter-089-092",
+      "spec": "89-92",
+      "english": "cache/ccel.org/anf01.txt:22301-22491"
+    },
+    {
+      "id": "chapter-093-095",
+      "spec": "93-95",
+      "english": "cache/ccel.org/anf01.txt:22492-22610"
+    },
+    {
+      "id": "chapter-096-099",
+      "spec": "96-99",
+      "english": "cache/ccel.org/anf01.txt:22611-22761"
+    },
+    {
+      "id": "chapter-100-102",
+      "spec": "100-102",
+      "english": "cache/ccel.org/anf01.txt:22762-22933"
+    },
+    {
+      "id": "chapter-103-105",
+      "spec": "103-105",
+      "english": "cache/ccel.org/anf01.txt:22934-23098"
+    },
+    {
+      "id": "chapter-106-109",
+      "spec": "106-109",
+      "english": "cache/ccel.org/anf01.txt:23099-23246"
+    },
+    {
+      "id": "chapter-110-112",
+      "spec": "110-112",
+      "english": "cache/ccel.org/anf01.txt:23247-23397"
+    },
+    {
+      "id": "chapter-113-115",
+      "spec": "113-115",
+      "english": "cache/ccel.org/anf01.txt:23398-23573"
+    },
+    {
+      "id": "chapter-116-118",
+      "spec": "116-118",
+      "english": "cache/ccel.org/anf01.txt:23574-23728"
+    },
+    {
+      "id": "chapter-119-120",
+      "spec": "119-120",
+      "english": "cache/ccel.org/anf01.txt:23729-23868"
+    },
+    {
+      "id": "chapter-121-123",
+      "spec": "121-123",
+      "english": "cache/ccel.org/anf01.txt:23869-24066"
+    },
+    {
+      "id": "chapter-124-126",
+      "spec": "124-126",
+      "english": "cache/ccel.org/anf01.txt:24067-24228"
+    },
+    {
+      "id": "chapter-127-129",
+      "spec": "127-129",
+      "english": "cache/ccel.org/anf01.txt:24229-24352"
+    },
+    {
+      "id": "chapter-130-132",
+      "spec": "130-132",
+      "english": "cache/ccel.org/anf01.txt:24353-24497"
+    },
+    {
+      "id": "chapter-133-135",
+      "spec": "133-135",
+      "english": "cache/ccel.org/anf01.txt:24498-24646"
+    },
+    {
+      "id": "chapter-136-139",
+      "spec": "136-139",
+      "english": "cache/ccel.org/anf01.txt:24647-24801"
+    },
+    {
+      "id": "chapter-140-142",
+      "spec": "140-142",
+      "english": "cache/ccel.org/anf01.txt:24802-24940"
+    }
+  ]
+}

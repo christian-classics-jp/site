@@ -1,0 +1,54 @@
+{
+  "title": "アテナゴラス『キリスト者のための弁明』",
+  "language": "ギリシア語",
+  "base": "books/athenagoras-plea/research/march-owen-1876.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-00-03",
+      "spec": "0-3"
+    },
+    {
+      "id": "chapter-04-07",
+      "spec": "4-7"
+    },
+    {
+      "id": "chapter-08-10",
+      "spec": "8-10"
+    },
+    {
+      "id": "chapter-11-14",
+      "spec": "11-14"
+    },
+    {
+      "id": "chapter-15-17",
+      "spec": "15-17"
+    },
+    {
+      "id": "chapter-18-20",
+      "spec": "18-20"
+    },
+    {
+      "id": "chapter-21-22",
+      "spec": "21-22"
+    },
+    {
+      "id": "chapter-23-24",
+      "spec": "23-24"
+    },
+    {
+      "id": "chapter-25-27",
+      "spec": "25-27"
+    },
+    {
+      "id": "chapter-28-31",
+      "spec": "28-31"
+    },
+    {
+      "id": "chapter-32-37",
+      "spec": "32-37"
+    }
+  ]
+}

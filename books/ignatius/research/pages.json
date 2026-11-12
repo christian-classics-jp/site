@@ -1,0 +1,48 @@
+{
+  "title": "イグナティオスの手紙",
+  "language": "ギリシア語",
+  "base": "cache/open-apostolic-fathers/texts/003-ignatius-ephesians.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "01-ephesians-1",
+      "spec": "0-10"
+    },
+    {
+      "id": "02-ephesians-2",
+      "spec": "11-21"
+    },
+    {
+      "id": "03-magnesians",
+      "spec": "0-15",
+      "base": "cache/open-apostolic-fathers/texts/004-ignatius-magnesians.txt"
+    },
+    {
+      "id": "04-trallians",
+      "spec": "0-13",
+      "base": "cache/open-apostolic-fathers/texts/005-ignatius-trallians.txt"
+    },
+    {
+      "id": "05-romans",
+      "spec": "0-10",
+      "base": "cache/open-apostolic-fathers/texts/006-ignatius-romans.txt"
+    },
+    {
+      "id": "06-philadelphians",
+      "spec": "0-11",
+      "base": "cache/open-apostolic-fathers/texts/007-ignatius-philadelphians.txt"
+    },
+    {
+      "id": "07-smyrnaeans",
+      "spec": "0-13",
+      "base": "cache/open-apostolic-fathers/texts/008-ignatius-smyrnaeans.txt"
+    },
+    {
+      "id": "08-polycarp",
+      "spec": "0-8",
+      "base": "cache/open-apostolic-fathers/texts/009-ignatius-polycarp.txt"
+    }
+  ]
+}

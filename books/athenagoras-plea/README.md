@@ -7,7 +7,7 @@
 底本は F. A. March・W. B. Owen 編、*Athenagoras*（Douglass Series of Christian Greek and Latin Writers IV、New York, 1876）。[First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek)（コミット ed91552）の電子化（`data/tlg1205/tlg001/tlg1205.tlg001.perseus-grc2.xml`）を、次のコマンドで [research/march-owen-1876.txt](research/march-owen-1876.txt) にした。
 
 ```sh
-python3 -I ~/.claude/handoffs/tei2labeled.py cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg1205/tlg001/tlg1205.tlg001.perseus-grc2.xml books/athenagoras-plea/research/march-owen-1876.txt
+python3 -I tools/tei2labeled.py cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg1205/tlg001/tlg1205.tlg001.perseus-grc2.xml books/athenagoras-plea/research/march-owen-1876.txt
 ```
 
 First1KGreek の本文は CC BY-SA 4.0 で、`research/march-owen-1876.txt` と各節の `both.md` に置いたギリシア語本文もそれを引き継ぐ。電子化の入力の誤りは底本の行では直さず、意図された形で訳した。

@@ -1,0 +1,50 @@
+{
+  "title": "救われる富者とは誰か",
+  "language": "ギリシア語",
+  "base": "books/who-is-the-rich-man/research/staehlin-1909.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-01-04",
+      "spec": "1-4"
+    },
+    {
+      "id": "chapter-05-10",
+      "spec": "5-10"
+    },
+    {
+      "id": "chapter-11-15",
+      "spec": "11-15"
+    },
+    {
+      "id": "chapter-16-19",
+      "spec": "16-19"
+    },
+    {
+      "id": "chapter-20-23",
+      "spec": "20-23"
+    },
+    {
+      "id": "chapter-24-27",
+      "spec": "24-27"
+    },
+    {
+      "id": "chapter-28-32",
+      "spec": "28-32"
+    },
+    {
+      "id": "chapter-33-38",
+      "spec": "33-38"
+    },
+    {
+      "id": "chapter-39-41",
+      "spec": "39-41"
+    },
+    {
+      "id": "chapter-42",
+      "spec": "42"
+    }
+  ]
+}

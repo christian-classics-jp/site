@@ -1,0 +1,38 @@
+{
+  "title": "パピアス断片・クアドラトゥス断片",
+  "language": "ギリシア語",
+  "base": "books/papias-quadratus/research/funk-1901.txt",
+  "digitized": false,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "01-fragment-1",
+      "spec": "1"
+    },
+    {
+      "id": "02-fragment-2-1",
+      "spec": "2.1-2.7"
+    },
+    {
+      "id": "03-fragment-2-2",
+      "spec": "2.8-2.16"
+    },
+    {
+      "id": "04-fragments-3-9",
+      "spec": "3-9"
+    },
+    {
+      "id": "05-fragments-10-14",
+      "spec": "10-14"
+    },
+    {
+      "id": "06-fragments-15-20",
+      "spec": "15-20"
+    },
+    {
+      "id": "07-quadratus",
+      "spec": "Q"
+    }
+  ]
+}

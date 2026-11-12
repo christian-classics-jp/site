@@ -1,0 +1,22 @@
+{
+  "title": "クレメンスの第二の手紙",
+  "language": "ギリシア語",
+  "base": "cache/open-apostolic-fathers/texts/002-ii_clement.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-01-06",
+      "spec": "1-6"
+    },
+    {
+      "id": "chapter-07-13",
+      "spec": "7-13"
+    },
+    {
+      "id": "chapter-14-20",
+      "spec": "14-20"
+    }
+  ]
+}

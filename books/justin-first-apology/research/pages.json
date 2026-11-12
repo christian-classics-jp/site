@@ -1,0 +1,70 @@
+{
+  "title": "ユスティノス『第一弁明』",
+  "language": "ギリシア語",
+  "base": "books/justin-first-apology/research/rauschen-1911.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-01-05",
+      "spec": "1-5"
+    },
+    {
+      "id": "chapter-06-12",
+      "spec": "6-12"
+    },
+    {
+      "id": "chapter-13-15",
+      "spec": "13-15"
+    },
+    {
+      "id": "chapter-16-19",
+      "spec": "16-19"
+    },
+    {
+      "id": "chapter-20-25",
+      "spec": "20-25"
+    },
+    {
+      "id": "chapter-26-31",
+      "spec": "26-31"
+    },
+    {
+      "id": "chapter-32-35",
+      "spec": "32-35"
+    },
+    {
+      "id": "chapter-36-40",
+      "spec": "36-40"
+    },
+    {
+      "id": "chapter-41-44",
+      "spec": "41-44"
+    },
+    {
+      "id": "chapter-45-50",
+      "spec": "45-50"
+    },
+    {
+      "id": "chapter-51-53",
+      "spec": "51-53"
+    },
+    {
+      "id": "chapter-54-57",
+      "spec": "54-57"
+    },
+    {
+      "id": "chapter-58-61",
+      "spec": "58-61"
+    },
+    {
+      "id": "chapter-62-65",
+      "spec": "62-65"
+    },
+    {
+      "id": "chapter-66-68",
+      "spec": "66-68"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "オクタウィウス",
+  "language": "ラテン語",
+  "base": "books/octavius/research/halm-1867.txt",
+  "digitized": false,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-01-04",
+      "spec": "1-4"
+    },
+    {
+      "id": "chapter-05-08",
+      "spec": "5-8"
+    },
+    {
+      "id": "chapter-09-13",
+      "spec": "9-13"
+    },
+    {
+      "id": "chapter-14-17",
+      "spec": "14-17"
+    },
+    {
+      "id": "chapter-18-19",
+      "spec": "18-19"
+    },
+    {
+      "id": "chapter-20-22",
+      "spec": "20-22"
+    },
+    {
+      "id": "chapter-23-25",
+      "spec": "23-25"
+    },
+    {
+      "id": "chapter-26-28",
+      "spec": "26-28"
+    },
+    {
+      "id": "chapter-29-32",
+      "spec": "29-32"
+    },
+    {
+      "id": "chapter-33-36",
+      "spec": "33-36"
+    },
+    {
+      "id": "chapter-37-40",
+      "spec": "37-40"
+    }
+  ]
+}

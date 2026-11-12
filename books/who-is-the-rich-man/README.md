@@ -7,8 +7,8 @@
 底本は O. Stählin 編、*Clemens Alexandrinus* III（Die griechischen christlichen Schriftsteller 17、Leipzig, 1909）の pp. 159〜191。[First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek)（コミット ed91552）の電子化（`data/tlg0555/tlg006/tlg0555.tlg006.1st1K-grc1.xml`）を、次のコマンドで [research/staehlin-1909.txt](research/staehlin-1909.txt) にした。
 
 ```sh
-python3 -I ~/.claude/handoffs/tei2labeled.py cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg0555/tlg006/tlg0555.tlg006.1st1K-grc1.xml books/who-is-the-rich-man/research/staehlin-1909.txt
-python3 -I ~/.claude/handoffs/relabel.py books/who-is-the-rich-man/research/staehlin-1909.txt books/who-is-the-rich-man/research/relabel.json
+python3 -I tools/tei2labeled.py cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg0555/tlg006/tlg0555.tlg006.1st1K-grc1.xml books/who-is-the-rich-man/research/staehlin-1909.txt
+python3 -I tools/relabel.py books/who-is-the-rich-man/research/staehlin-1909.txt books/who-is-the-rich-man/research/relabel.json
 ```
 
 First1KGreek の本文は CC BY-SA 4.0 で、`research/staehlin-1909.txt` と各節の `both.md` に置いたギリシア語本文もそれを引き継ぐ。

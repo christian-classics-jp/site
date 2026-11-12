@@ -1,0 +1,54 @@
+{
+  "title": "クレメンスの第一の手紙",
+  "language": "ギリシア語",
+  "base": "cache/open-apostolic-fathers/texts/001-i_clement.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-00-06",
+      "spec": "0-6"
+    },
+    {
+      "id": "chapter-07-12",
+      "spec": "7-12"
+    },
+    {
+      "id": "chapter-13-17",
+      "spec": "13-17"
+    },
+    {
+      "id": "chapter-18-21",
+      "spec": "18-21"
+    },
+    {
+      "id": "chapter-22-29",
+      "spec": "22-29"
+    },
+    {
+      "id": "chapter-30-35",
+      "spec": "30-35"
+    },
+    {
+      "id": "chapter-36-42",
+      "spec": "36-42"
+    },
+    {
+      "id": "chapter-43-48",
+      "spec": "43-48"
+    },
+    {
+      "id": "chapter-49-55",
+      "spec": "49-55"
+    },
+    {
+      "id": "chapter-56-59",
+      "spec": "56-59"
+    },
+    {
+      "id": "chapter-60-65",
+      "spec": "60-65,SB"
+    }
+  ]
+}

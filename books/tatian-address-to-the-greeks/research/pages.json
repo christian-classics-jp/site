@@ -1,0 +1,50 @@
+{
+  "title": "タティアノス『ギリシア人への演説』",
+  "language": "ギリシア語",
+  "base": "books/tatian-address-to-the-greeks/research/otto-1851.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-01-04",
+      "spec": "1-4"
+    },
+    {
+      "id": "chapter-05-08",
+      "spec": "5-8"
+    },
+    {
+      "id": "chapter-09-12",
+      "spec": "9-12"
+    },
+    {
+      "id": "chapter-13-16",
+      "spec": "13-16"
+    },
+    {
+      "id": "chapter-17-19",
+      "spec": "17-19"
+    },
+    {
+      "id": "chapter-20-23",
+      "spec": "20-23"
+    },
+    {
+      "id": "chapter-24-27",
+      "spec": "24-27"
+    },
+    {
+      "id": "chapter-28-32",
+      "spec": "28-32"
+    },
+    {
+      "id": "chapter-33-36",
+      "spec": "33-36"
+    },
+    {
+      "id": "chapter-37-42",
+      "spec": "37-42"
+    }
+  ]
+}

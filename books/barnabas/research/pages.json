@@ -1,0 +1,42 @@
+{
+  "title": "バルナバの手紙",
+  "language": "ギリシア語",
+  "base": "cache/open-apostolic-fathers/texts/012-barnabas.txt",
+  "digitized": true,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "chapter-01-03",
+      "spec": "1-3"
+    },
+    {
+      "id": "chapter-04-05",
+      "spec": "4-5"
+    },
+    {
+      "id": "chapter-06-07",
+      "spec": "6-7"
+    },
+    {
+      "id": "chapter-08-10",
+      "spec": "8-10"
+    },
+    {
+      "id": "chapter-11-12",
+      "spec": "11-12"
+    },
+    {
+      "id": "chapter-13-15",
+      "spec": "13-15"
+    },
+    {
+      "id": "chapter-16-18",
+      "spec": "16-18"
+    },
+    {
+      "id": "chapter-19-21",
+      "spec": "19-21,SB"
+    }
+  ]
+}

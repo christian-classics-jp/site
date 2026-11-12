@@ -7,7 +7,7 @@
 底本は W. Dindorf 編、*Eusebii Caesariensis opera* IV（Teubner、Leipzig, 1871）。[First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek)（コミット ed91552）の電子化（`data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc2.xml`）を、次のコマンドでラベル付きの行にし、第五巻だけを [research/dindorf-1871.txt](research/dindorf-1871.txt) に残した。
 
 ```sh
-python3 -I ~/.claude/handoffs/tei2labeled.py cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc2.xml all-books.txt
+python3 -I tools/tei2labeled.py cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg2018/tlg002/tlg2018.tlg002.1st1K-grc2.xml all-books.txt
 rg '^5\.' all-books.txt > books/martyrs-of-lyons/research/dindorf-1871.txt
 ```
 

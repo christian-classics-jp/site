@@ -1,0 +1,30 @@
+{
+  "title": "ヤコブ原福音書",
+  "language": "ギリシア語",
+  "base": "books/protevangelium-of-james/research/tischendorf-1876.txt",
+  "digitized": false,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "01-chapters-01-05",
+      "spec": "0.1,1-5"
+    },
+    {
+      "id": "02-chapters-06-10",
+      "spec": "6-10"
+    },
+    {
+      "id": "03-chapters-11-15",
+      "spec": "11-15"
+    },
+    {
+      "id": "04-chapters-16-20",
+      "spec": "16-20"
+    },
+    {
+      "id": "05-chapters-21-25",
+      "spec": "21-25"
+    }
+  ]
+}

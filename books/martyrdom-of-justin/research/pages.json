@@ -1,0 +1,14 @@
+{
+  "title": "ユスティノス殉教録",
+  "language": "ギリシア語",
+  "base": "books/martyrdom-of-justin/research/knopf-1913.txt",
+  "digitized": false,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "01-acts",
+      "spec": "0-6"
+    }
+  ]
+}

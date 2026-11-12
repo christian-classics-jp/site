@@ -1,0 +1,14 @@
+{
+  "title": "スキリウムの殉教者行伝",
+  "language": "ラテン語",
+  "base": "books/scillitan-martyrs/research/knopf-1913.txt",
+  "digitized": false,
+  "english_name": "",
+  "print_name": "",
+  "pages": [
+    {
+      "id": "01-acts",
+      "spec": "0-17"
+    }
+  ]
+}
