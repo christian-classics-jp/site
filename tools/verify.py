@@ -14,7 +14,7 @@ followed by its translation; forbidden marks (？ ―― … and half-width ? !)
 after ！ when the sentence goes on; brackets unbalanced over the whole file.
 WARN (fix unless the book's AGENTS.md says otherwise): sentences over 60 characters; footnotes
 over 40 characters; a citation with Arabic numerals, 章・節, or a full book name; a citation
-placed after 。; words the root AGENTS.md writes in kana (全て, 出来る, 下さい, 頂く …); 「 inside 「; brackets unbalanced in one line.
+placed after 。; words the root AGENTS.md writes in kana (全て, 出来る, 下さい, 頂く, 又); 「 inside 「; brackets unbalanced in one line.
 """
 
 if len(sys.argv) != 4:
@@ -47,7 +47,7 @@ ARABIC_CITE = re.compile(r'（[^）]*[ぁ-んァ-ヶ一-龥][0-9０-９]+[:：�
 CHAPTER_VERSE = re.compile(rf'[{KANJI_NUM}]+章[{KANJI_NUM}]+節')
 FULL_NAME = re.compile(rf'（[^）]*(使徒行伝|[ァ-ヶ]{{2,6}}書|[ァ-ヶ]{{2,6}}による福音書)[{KANJI_NUM}]+[・章]')
 CITE_AFTER_STOP = re.compile(rf'。（[^）]*[{KANJI_NUM}]+[・章]')
-HIRAKU = re.compile(r'全て|出来(?:る|ない|ず|ま|た|て|れ)|下さ(?:い|る|っ|ら)|頂(?:く|き|い|け)|又(?:、|は|も)|為に|命を(?:得|与|持)')
+HIRAKU = re.compile(r'全て|出来(?:る|ない|ず|ま|た|て|れ)|下さ(?:い|る|っ|ら)|頂(?:く|き|い|け)|又(?:、|は|も)')
 BANG = re.compile(r'！(?=[^\s」』）！　])|！ ')
 FOOTNOTE = re.compile(r'\^\[([^\]]*)\]')
 

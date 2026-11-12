@@ -15,9 +15,10 @@ usage: python3 -I tools/relay.py <relays/name.md> [--dry-run] [--once] [--max N]
 
 The ledger lists books as `## <book>` headings, in order; the text under a heading is passed to
 the session as notes. For the first book that is not finished, the next task is:
-  start-book    when books/<book>/research/pages.json does not exist
+  start-book    when research/pages.json is missing or its first page is not in the README yet
   translate     the first page of pages.json not marked [x] in the book's README
-  finish-book   when every page is [x] but book.json is missing or has "preview"
+  finish-book   when every page is [x] but book.json is missing, has "preview", or the book is not
+                in the work list of static/index.html
 A task that is still pending after its session ends is retried (3 times; a usage limit waits until
 the limit resets and does not count). Logs go to cache/relay-logs/.
 
@@ -42,9 +43,17 @@ def parse_ledger(path):
 
 def finished(book):
     path = os.path.join(ROOT, 'books', book, 'book.json')
-    if not os.path.exists(path):
+    if not os.path.exists(path) or json.load(open(path, encoding='utf-8')).get('preview'):
         return False
-    return not json.load(open(path, encoding='utf-8')).get('preview')
+    index = open(os.path.join(ROOT, 'static', 'index.html'), encoding='utf-8').read()
+    return f'./{book}/' in index
+
+
+def started(book, data):
+    if data is None or not data.get('pages'):
+        return False
+    readme = os.path.join(ROOT, 'books', book, 'README.md')
+    return os.path.exists(readme) and data['pages'][0]['id'] in open(readme, encoding='utf-8').read()
 
 
 def next_task(books):
@@ -53,7 +62,7 @@ def next_task(books):
         if finished(book):
             continue
         data = load_pages(book)
-        if data is None:
+        if not started(book, data):
             return {'kind': 'start-book', 'book': book, 'notes': b['notes'], 'key': f'start {book}'}
         for p in data['pages']:
             if not page_done(book, p['id']):
@@ -145,6 +154,12 @@ def main(argv):
     while True:
         t = next_task(books)
         if t is None:
+            dirty = subprocess.run(['git', 'status', '--porcelain'], cwd=ROOT, capture_output=True, text=True).stdout.strip()
+            ahead = subprocess.run(['git', 'rev-list', '--count', '@{u}..HEAD'], cwd=ROOT, capture_output=True, text=True).stdout.strip()
+            if dirty or (ahead and ahead != '0'):
+                print('every task is done, but the work tree has uncommitted or unpushed changes; commit and push them:')
+                print(dirty or f'{ahead} commits not pushed')
+                return 1
             print('relay finished: every book in the ledger is done')
             return 0
         if dry:

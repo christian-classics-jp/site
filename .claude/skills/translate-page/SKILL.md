@@ -74,5 +74,5 @@ python3 -I tools/bible.py --find みじめな人間               # 語句から
 ## まとめて覚えておくこと
 
 - 論点一覧はページごとのファイル（`research/cruxes/<節>.md`、略号は `research/cruxes/README.md`）。照合は `research/collation/<節>.md`。1 冊で一つの `research/cruxes.md` を持つ古い本は、page-context が該当部分を切り出す。
-- 画像は `python3 -I tools/iiif-crop.py <identifier> <IIIF番号> <full|x,y,w,h|pct:x,y,w,h> <出力先>`。手元の画像の加工は Pillow、PDF のページの書き出しは PyMuPDF（`import pymupdf`）。
+- 資料のダウンロードは `python3 -I tools/fetch.py <URL>`、画像は `python3 -I tools/iiif-crop.py <identifier> <IIIF番号> <full|x,y,w,h|pct:x,y,w,h> <出力先>`。手元の画像の加工は Pillow、PDF のページの書き出しは PyMuPDF（`import pymupdf`）。
 - 著作権の残る訳文は、訳出でもレビューでも読まない。
