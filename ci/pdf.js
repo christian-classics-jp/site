@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const {chromium} = require('playwright')
-const {PDFDocument, ReadingDirection} = require('pdf-lib')
+const {PDFDocument, ReadingDirection} = require('@cantoo/pdf-lib')
 const fs = require('fs')
 const {dirname} = require('path')
 const hbs = require('handlebars')
