@@ -4,8 +4,8 @@
 
 ## clement-protrepticus　アレクサンドリアのクレメンス『ギリシア人への勧め』（ギリシア語）
 
-- 底本：O. Stählin 編、Clemens Alexandrinus I（GCS 12、Leipzig, 1905）。First1KGreek のコミット ed91552c52530c8f5a3ddf2dd767e899372a804c の `data/tlg0555/tlg001/tlg0555.tlg001.1st1K-grc1.xml`（CC BY-SA 4.0、約 23,000 語）。`cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c…/data/tlg0555/` に同じ著者のほかの作品がある。この本のファイルはまだ取っていない。
-- 印刷版の画像（照合用）：archive.org `clemensalexandri0001clem` または `clemensalexandri0001clem_x1w6`（どちらも GCS 12、1905）。
+- 底本：O. Stählin 編、Clemens Alexandrinus I（GCS 12、Leipzig, 1905）。First1KGreek のコミット ed91552c52530c8f5a3ddf2dd767e899372a804c の `data/tlg0555/tlg001/tlg0555.tlg001.1st1K-grc1.xml`（CC BY-SA 4.0、約 23,000 語）。`cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c…/data/tlg0555/tlg001/` に取得済み。底本テキストは `research/staehlin-1905.txt`（章.節.小節。`tei2labeled.js --running-sections` と `relabel.js`）。
+- 印刷版（照合用）：archive.org `clemensalexandri01clemuoft`（GCS 12、1905）。OCR は cache にあり、画像は IIIF で leaf ＝ ページ＋90。
 - 英訳：ANF 第 2 巻「Exhortation to the Heathen」（`cache/ccel.org/anf02.txt`）。
 - 揃える本：同じ著者の『救われる富者とは誰か』（who-is-the-rich-man）。訳語、文体、底本テキストの作り方（tei2labeled と relabel）をそこから引き継ぐ。
 - ギリシアの神話と秘儀、詩人の引用が多い。神々の名はユスティノス、タティアノス、アテナゴラスの本の表記に合わせる。
