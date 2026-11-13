@@ -6,7 +6,7 @@ const { usage, takeOpt, takeFlag } = require('./lib/common')
 const USAGE = `
 Convert a First1KGreek TEI edition into a labeled base text for tools/build.js and tools/verify.js.
 
-usage: node tools/tei2labeled.js <edition.xml> <out.txt> [--split] [--prefix N]
+usage: node tools/tei2labeled.js <edition.xml> <out.txt> [--split] [--prefix N] [--running-sections]
 
 Each output line is \`<label> <text>\`. Labels come from the nested textpart divs
 (book, chapter, section) and from <milestone unit="section|subsection">.
@@ -16,12 +16,16 @@ Each output line is \`<label> <text>\`. Labels come from the nested textpart div
 Non-numeric labels (prooemium, opener) become 0; a one-level label gets .1.
 Square brackets holding any Latin letter (editors' references, folio numbers) are removed.
 --prefix N: prepend N to every label (e.g. a book number when the file holds one book).
+--running-sections: section milestones count on across chapters and subsection milestones
+         divide them (Staehlin's Protrepticus), so labels become chapter.section.subsection.
+         Text before the first section milestone of a chapter joins that section's first line.
 Prints the word count per top-level division to stderr, for planning pages.
 `
 
 const args = process.argv.slice(2)
 const split = takeFlag(args, '--split')
 const prefix = takeOpt(args, '--prefix')
+const running = takeFlag(args, '--running-sections')
 usage(USAGE, args.length === 2)
 const [src, out] = args
 
@@ -72,8 +76,9 @@ function flush (labels, buf, leaf = false) {
   stripped.push(...(text.match(EDITORIAL) || []))
   text = clean(text.replace(EDITORIAL, ''))
   if (text) {
-    const lab = labels.concat(buf.sub ? [buf.sub] : [])
+    const lab = labels.concat(running && buf.sec ? [buf.sec] : [], buf.sub ? [buf.sub] : [])
     units.push([lab, text, leaf && !buf.sub])
+    buf.fresh = false
   }
   buf.text = []
   if (buf.sub && !text) return
@@ -86,13 +91,21 @@ function walk (el, labels, buf) {
     if (t === 'div' && child.getAttribute('type') === 'textpart') {
       flush(labels, buf)
       const n = child.getAttribute('n')
+      if (running && !buf.fresh) {
+        buf.sec = null
+        buf.sub = null
+      }
       walk(child, labels.concat([n]), buf)
       const hasSub = descendants(child).some((c) => tag(c) === 'div' ||
         (tag(c) === 'milestone' && ['section', 'subsection'].includes(c.getAttribute('unit'))))
       flush(labels.concat([n]), buf, !hasSub)
     } else if (t === 'milestone' && ['section', 'subsection'].includes(child.getAttribute('unit'))) {
       flush(labels, buf)
-      buf.sub = child.getAttribute('unit') === 'section' && labels.length && child.getAttribute('n') === labels.at(-1)
+      if (running && child.getAttribute('unit') === 'section') {
+        buf.sec = child.getAttribute('n')
+        buf.sub = '1'
+        buf.fresh = true
+      } else buf.sub = child.getAttribute('unit') === 'section' && labels.length && child.getAttribute('n') === labels.at(-1)
         ? '1'
         : child.getAttribute('n')
     } else if (['pb', 'lb', 'head', 'note', 'bibl', 'milestone'].includes(t)) {
@@ -107,9 +120,18 @@ function walk (el, labels, buf) {
 
 const body = doc.getElementsByTagNameNS('http://www.tei-c.org/ns/1.0', 'body')[0]
 const edition = kids(body).find((c) => tag(c) === 'div')
-const buf = { text: [], sub: null }
+const buf = { text: [], sub: null, sec: null, fresh: false }
 walk(edition, [], buf)
 flush([], buf)
+if (running) {
+  for (let i = units.length - 2; i >= 0; i--) {
+    if (units[i][0].length === 1 && units[i + 1][0].length === 3 && units[i + 1][0][0] === units[i][0][0]) {
+      process.stderr.write(`joined text before the first section of chapter ${units[i][0][0]} to ${units[i + 1][0].join('.')}\n`)
+      units[i + 1][1] = units[i][1] + ' ' + units[i + 1][1]
+      units.splice(i, 1)
+    }
+  }
+}
 
 function sentences (text) {
   const parts = text.split(/(?<=[.;])\s+/)

@@ -1,0 +1,171 @@
+{
+  "title": "",
+  "language": "ギリシア語",
+  "base": "books/clement-protrepticus/research/staehlin-1905.txt",
+  "digitized": true,
+  "english_name": "ANF 第 2 巻の英訳（W. Wilson、1867）。章を分けたページの範囲は、英訳の文の切れ目に合わせて手で付けた（前後に数行の重なりがある）",
+  "print_name": "Stählin 1905 の印刷版",
+  "pages": [
+    {
+      "id": "01-chapter-01-1",
+      "spec": "1.1-1.5",
+      "english": "cache/ccel.org/anf02.txt:15183-15320",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:4413-4693",
+      "images": "clemensalexandri01clemuoft:0093-0097"
+    },
+    {
+      "id": "02-chapter-01-2",
+      "spec": "1.6-1.10",
+      "english": "cache/ccel.org/anf02.txt:15316-15517",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:4689-4963",
+      "images": "clemensalexandri01clemuoft:0096-0101"
+    },
+    {
+      "id": "03-chapter-02-1",
+      "spec": "2.11-2.18",
+      "english": "cache/ccel.org/anf02.txt:15518-15675",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:4959-5285",
+      "images": "clemensalexandri01clemuoft:0100-0105"
+    },
+    {
+      "id": "04-chapter-02-2",
+      "spec": "2.19-2.24",
+      "english": "cache/ccel.org/anf02.txt:15671-15800",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:5281-5553",
+      "images": "clemensalexandri01clemuoft:0104-0109"
+    },
+    {
+      "id": "05-chapter-02-3",
+      "spec": "2.25-2.30",
+      "english": "cache/ccel.org/anf02.txt:15796-16016",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:5549-5897",
+      "images": "clemensalexandri01clemuoft:0108-0113"
+    },
+    {
+      "id": "06-chapter-02-4",
+      "spec": "2.31-2.35",
+      "english": "cache/ccel.org/anf02.txt:16012-16159",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:5893-6201",
+      "images": "clemensalexandri01clemuoft:0112-0117"
+    },
+    {
+      "id": "07-chapter-02-5",
+      "spec": "2.36-2.41",
+      "english": "cache/ccel.org/anf02.txt:16155-16404",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:6197-6483",
+      "images": "clemensalexandri01clemuoft:0116-0121"
+    },
+    {
+      "id": "08-chapter-03",
+      "spec": "3",
+      "english": "cache/ccel.org/anf02.txt:16405-16543",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:6479-6759",
+      "images": "clemensalexandri01clemuoft:0120-0125"
+    },
+    {
+      "id": "09-chapter-04-1",
+      "spec": "4.46-4.49",
+      "english": "cache/ccel.org/anf02.txt:16544-16661",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:6755-6962",
+      "images": "clemensalexandri01clemuoft:0124-0129"
+    },
+    {
+      "id": "10-chapter-04-2",
+      "spec": "4.50-4.53",
+      "english": "cache/ccel.org/anf02.txt:16656-16785",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:6958-7261",
+      "images": "clemensalexandri01clemuoft:0128-0131"
+    },
+    {
+      "id": "11-chapter-04-3",
+      "spec": "4.54-4.57",
+      "english": "cache/ccel.org/anf02.txt:16781-16928",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:7257-7453",
+      "images": "clemensalexandri01clemuoft:0132-0135"
+    },
+    {
+      "id": "12-chapter-04-4",
+      "spec": "4.58-4.63",
+      "english": "cache/ccel.org/anf02.txt:16924-17094",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:7449-7677",
+      "images": "clemensalexandri01clemuoft:0134-0139"
+    },
+    {
+      "id": "13-chapter-05",
+      "spec": "5",
+      "english": "cache/ccel.org/anf02.txt:17095-17184",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:7673-7861",
+      "images": "clemensalexandri01clemuoft:0138-0141"
+    },
+    {
+      "id": "14-chapter-06",
+      "spec": "6",
+      "english": "cache/ccel.org/anf02.txt:17185-17367",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:7857-8157",
+      "images": "clemensalexandri01clemuoft:0140-0145"
+    },
+    {
+      "id": "15-chapter-07",
+      "spec": "7",
+      "english": "cache/ccel.org/anf02.txt:17368-17573",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:8153-8426",
+      "images": "clemensalexandri01clemuoft:0144-0149"
+    },
+    {
+      "id": "16-chapter-08",
+      "spec": "8",
+      "english": "cache/ccel.org/anf02.txt:17574-17756",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:8422-8634",
+      "images": "clemensalexandri01clemuoft:0148-0153"
+    },
+    {
+      "id": "17-chapter-09",
+      "spec": "9",
+      "english": "cache/ccel.org/anf02.txt:17757-17939",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:8630-8909",
+      "images": "clemensalexandri01clemuoft:0152-0157"
+    },
+    {
+      "id": "18-chapter-10-1",
+      "spec": "10.89-10.94",
+      "english": "cache/ccel.org/anf02.txt:17940-18068",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:8905-9133",
+      "images": "clemensalexandri01clemuoft:0156-0159"
+    },
+    {
+      "id": "19-chapter-10-2",
+      "spec": "10.95-10.99",
+      "english": "cache/ccel.org/anf02.txt:18064-18171",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:9129-9335",
+      "images": "clemensalexandri01clemuoft:0158-0163"
+    },
+    {
+      "id": "20-chapter-10-3",
+      "spec": "10.100-10.104",
+      "english": "cache/ccel.org/anf02.txt:18167-18281",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:9331-9581",
+      "images": "clemensalexandri01clemuoft:0162-0165"
+    },
+    {
+      "id": "21-chapter-10-4",
+      "spec": "10.105-10.110",
+      "english": "cache/ccel.org/anf02.txt:18277-18483",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:9577-9847",
+      "images": "clemensalexandri01clemuoft:0164-0169"
+    },
+    {
+      "id": "22-chapter-11",
+      "spec": "11",
+      "english": "cache/ccel.org/anf02.txt:18484-18689",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:9843-10193",
+      "images": "clemensalexandri01clemuoft:0168-0173"
+    },
+    {
+      "id": "23-chapter-12",
+      "spec": "12",
+      "english": "cache/ccel.org/anf02.txt:18690-18909",
+      "print": "cache/archive.org/clemensalexandri01clemuoft/clemensalexandri01clemuoft_djvu.txt:10189-10498",
+      "images": "clemensalexandri01clemuoft:0172-0176"
+    }
+  ]
+}
