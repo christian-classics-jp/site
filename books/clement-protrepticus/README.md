@@ -26,7 +26,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/staehlin-1905.txt` と各
 | 03-chapter-02-1 | 2 章 11〜18 節 | [x] |
 | 04-chapter-02-2 | 2 章 19〜24 節 | [x] |
 | 05-chapter-02-3 | 2 章 25〜30 節 | [x] |
-| 06-chapter-02-4 | 2 章 31〜35 節 | [ ] |
+| 06-chapter-02-4 | 2 章 31〜35 節 | [x] |
 | 07-chapter-02-5 | 2 章 36〜41 節 | [ ] |
 | 08-chapter-03 | 3 章 | [ ] |
 | 09-chapter-04-1 | 4 章 46〜49 節 | [ ] |
