@@ -16,8 +16,9 @@
 - 底本の古典の欄は、ホメロスの巻をギリシア文字で刷る（大文字は『イリアス』、小文字は『オデュッセイア』。E 31 は『イリアス』五・三一、φ 26 は『オデュッセイア』二一・二六）。
 - 底本の第二巻：O. Stählin, Clemens Alexandrinus II（1906）の OCR（`cache/archive.org/clemensalexandri02clem/clemensalexandri02clem_djvu.txt`）。クレメンスが『ストロマテイス』で同じ句を引くところの照合に使う。
 - Diels：H. Diels, Die Fragmente der Vorsokratiker I（1906）のページ画像（`cache/archive.org/diefragmentederv01dieluoft/pages/`）。ヘラクレイトスの断片の本文の照合に使う。
+- Orig.：オリゲネス『ケルソス駁論』。4.50.4 のヘラクレイトスの句の ⟨τοῖς⟩ の出どころ（10-chapter-04-2）。cache になく、底本の欄による。
 - シビュラの託宣：J. Geffcken, Die Oracula Sibyllina（GCS 8、1902）の OCR（`cache/archive.org/dieoraculasibyll00geffuoft/dieoraculasibyll00geffuoft_djvu.txt`）。
 - キケロ『神々の本性について』三：The Latin Library の本文（`cache/thelatinlibrary.com/cicero/nd3.shtml`）。
 - 新約のギリシア語本文：Robinson-Pierpont のビザンティン本文の電子化（`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/<書>.csv`。行番号は「TIT.csv l.」の形）。Nestle-Aland と違う箇所に `{NA … > …}` の印がある。
-- 古典：Perseus の canonical-greekLit の電子化（`cache/raw.githubusercontent.com/PerseusDL/canonical-greekLit/`。『イリアス』は tlg0012.tlg001、『オデュッセイア』は tlg0012.tlg002、ヘロドトスは tlg0016.tlg001、ヘシオドス『神統記』は tlg0020.tlg001、プラトン『パイドン』は tlg0059.tlg004、エウリピデス『アルケスティス』は tlg0006.tlg002、ピンダロス『ピュティア祝勝歌』は tlg0033.tlg002、ヘシオドス『仕事と日』は tlg0020.tlg002、カリマコス『ゼウス讃歌』は tlg0533.tlg015。エウリピデス『トロイアの女たち』（tlg0006.tlg011）とプラトン『クラテュロス』（tlg0059.tlg005）は、同じディレクトリの `a6eb0cc3e6f6e382934a2c8b33577d2fb4371e00/data/…` の下にある）。
+- 古典：Perseus の canonical-greekLit の電子化（`cache/raw.githubusercontent.com/PerseusDL/canonical-greekLit/`。『イリアス』は tlg0012.tlg001、『オデュッセイア』は tlg0012.tlg002、ヘロドトスは tlg0016.tlg001、ヘシオドス『神統記』は tlg0020.tlg001、プラトン『パイドン』は tlg0059.tlg004、エウリピデス『アルケスティス』は tlg0006.tlg002、ピンダロス『ピュティア祝勝歌』は tlg0033.tlg002、ヘシオドス『仕事と日』は tlg0020.tlg002、カリマコス『ゼウス讃歌』は tlg0533.tlg015。エウリピデス『トロイアの女たち』（tlg0006.tlg011）とプラトン『クラテュロス』（tlg0059.tlg005）、トゥキュディデス（tlg0003.tlg001）は、同じディレクトリの `a6eb0cc3e6f6e382934a2c8b33577d2fb4371e00/data/…` の下にある）。
 - 01-chapter-01-1 の論点一覧は、サブエージェントを起動できなかった（API の認証エラー）ため、メインが底本の異読の欄と聖書・古典の欄だけから作った。ほかの校訂本や注解は見ていない。
