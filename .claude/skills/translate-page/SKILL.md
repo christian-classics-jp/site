@@ -74,5 +74,5 @@ node tools/bible.js --find みじめな人間               # 語句から探す
 ## まとめて覚えておくこと
 
 - 論点一覧はページごとのファイル（`research/cruxes/<節>.md`、略号は `research/cruxes/README.md`）。照合は `research/collation/<節>.md`。1 冊で一つの `research/cruxes.md` を持つ古い本は、page-context が該当部分を切り出す。
-- 資料のダウンロードは `node tools/fetch.js <URL>`、画像は `node tools/iiif-crop.js <identifier> <IIIF番号> <full|x,y,w,h|pct:x,y,w,h> <出力先>`。手元の画像の切り出し・拡大と PDF のページの書き出しは `node tools/image.js`。
+- 資料のダウンロードは `node tools/fetch.js <URL>`、画像は `node tools/iiif-crop.js <identifier> <IIIF番号> <full|x,y,w,h|pct:x,y,w,h> <出力先>`。手元の画像の切り出し・拡大と PDF のページの書き出しは `node tools/image.js`。PDF のテキスト層は `pdftotext -f <頁> -l <頁> -layout <PDF> -` で読める（poppler。画像の書き出しは `pdftoppm` でもよい）。
 - 著作権の残る訳文は、訳出でもレビューでも読まない。
