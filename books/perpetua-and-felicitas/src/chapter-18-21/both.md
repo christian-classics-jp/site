@@ -48,8 +48,8 @@
 20.4 et ubi sedit tunicam a latere discissam ad uelamentum femoris reduxit, pudoris potius memor quam doloris.
 20:4 彼女は身を起こして座ると、脇から裂けた下着を、腿を覆うように引き寄せました。痛みよりも、恥じらいを心にかけたのです。
 20.5 dehinc requisita, et dispersos capillos infibulauit. non enim decebat martyram sparsis capillis pati, ne in sua gloria plangere uideretur.
-20:5 それから、留め針を求めて、乱れた髪を留めました。髪を振り乱して苦しみを受けるのは、殉教者にふさわしくなかったからです。自分の栄光のときに、嘆いているように見えないためです。
-// dehinc requisita。底本の requisita は女性単数の受け身の分詞（「求められて」）で、何が求められたかを言う語がなく、このままでは意味がとりにくい。Gebhardt と Knopf は acu requisita（留め針が求められて）と読み、その後に脱落の印を置く。ギリシア語訳も「留め針を求めて」。訳はこれに従って「留め針を」を補った（底本にない補い）。
+20:5 それから、求めて、乱れた髪を留め針で留めました。髪を振り乱して苦しみを受けるのは、殉教者にふさわしくなかったからです。自分の栄光のときに、嘆いているように見えないためです。
+// dehinc requisita。底本の requisita は女性単数の受け身の分詞（「求められて」）で、何が求められたかを言う語がなく、このままでは意味がとりにくい。Gebhardt と Knopf は acu requisita（留め針が求められて）と読み、その後に脱落の印を置く。ギリシア語訳も「留め針を求めて」。訳は底本に従い、何を求めたかを補わずに「求めて」と訳した。「留め針で」は infibulauit（留め針で留める）の訳。
 20.6 ita surrexit, et elisam Felicitatem cum uidisset accessit, et manum ei tradidit et suscitauit illam.
 20:6 こうして彼女は立ち上がりました。そして、フェリキタスが打ち倒されているのを見ると、近づいて手を差し伸べ、彼女を起こしました。
 20.7 et ambae pariter steterunt, et populi duritia deuicta reuocatae sunt in portam Sanauiuariam.
