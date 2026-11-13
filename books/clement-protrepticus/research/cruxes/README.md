@@ -10,7 +10,11 @@
 - 刊本と学者：Di（Dindorf）、He（Heinsius）、Kl（Klotz）、Ma（Mayor）、Po（Potter）、Schw（Schwartz）、St（Stählin）、Sy（Sylburg）、Vi（Victorius）、Wi（Wilamowitz）。そのほか異読の欄に名の出る学者（Bernays、Reinkens、Reitzenstein、Alberti、Heyse、Markland、Viger、Cobet、L. Dindorf、Elmsley、G. Canter、Nauck、Pierson、Lobeck、Ed. Tournier、Rohde など）はそのまま挙げる。
 - 七十人訳と新約の本文は、`node tools/bible.js` の口語訳と、底本の聖書の欄の章節で確かめる。詩篇の章節は底本では七十人訳の数え方（口語訳より一つ少ないことが多い）。
 - ANF：Ante-Nicene Fathers 第 2 巻の Wilson の英訳（`cache/ccel.org/anf02.txt`）。レビューの読み比べに使う。英訳の文言はこの一覧に使わない。
-- 七十人訳：H. B. Swete, The Old Testament in Greek II・III（`cache/archive.org/oldtestamentingr02swetuoft/`、`cache/archive.org/theoldtestamenti03swetuoft/` の djvu テキスト。行番号は「Swete II、l.」の形）。
+- 七十人訳：H. B. Swete, The Old Testament in Greek I・II・III（`cache/archive.org/oldtestamentingr01swetuoft/`、`cache/archive.org/oldtestamentingr02swetuoft/`、`cache/archive.org/theoldtestamenti03swetuoft/` の djvu テキスト。行番号は「Swete II、l.」の形）。
+- 底本の古典の欄は、ホメロスの巻をギリシア文字で刷る（大文字は『イリアス』、小文字は『オデュッセイア』。E 31 は『イリアス』五・三一、φ 26 は『オデュッセイア』二一・二六）。
+- 底本の第二巻：O. Stählin, Clemens Alexandrinus II（1906）の OCR（`cache/archive.org/clemensalexandri02clem/clemensalexandri02clem_djvu.txt`）。クレメンスが『ストロマテイス』で同じ句を引くところの照合に使う。
+- シビュラの託宣：J. Geffcken, Die Oracula Sibyllina（GCS 8、1902）の OCR（`cache/archive.org/dieoraculasibyll00geffuoft/dieoraculasibyll00geffuoft_djvu.txt`）。
+- キケロ『神々の本性について』三：The Latin Library の本文（`cache/thelatinlibrary.com/cicero/nd3.shtml`）。
 - 新約のギリシア語本文：Robinson-Pierpont のビザンティン本文の電子化（`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/<書>.csv`。行番号は「TIT.csv l.」の形）。Nestle-Aland と違う箇所に `{NA … > …}` の印がある。
-- 古典：Perseus の canonical-greekLit の電子化（`cache/raw.githubusercontent.com/PerseusDL/canonical-greekLit/`。『イリアス』は tlg0012.tlg001、『オデュッセイア』は tlg0012.tlg002、ヘロドトスは tlg0016.tlg001、ヘシオドス『神統記』は tlg0020.tlg001、プラトン『パイドン』は tlg0059.tlg004）。
+- 古典：Perseus の canonical-greekLit の電子化（`cache/raw.githubusercontent.com/PerseusDL/canonical-greekLit/`。『イリアス』は tlg0012.tlg001、『オデュッセイア』は tlg0012.tlg002、ヘロドトスは tlg0016.tlg001、ヘシオドス『神統記』は tlg0020.tlg001、プラトン『パイドン』は tlg0059.tlg004、エウリピデス『アルケスティス』は tlg0006.tlg002、ピンダロス『ピュティア祝勝歌』は tlg0033.tlg002。エウリピデス『トロイアの女たち』（tlg0006.tlg011）とプラトン『クラテュロス』（tlg0059.tlg005）は、同じディレクトリの `a6eb0cc3e6f6e382934a2c8b33577d2fb4371e00/data/…` の下にある）。
 - 01-chapter-01-1 の論点一覧は、サブエージェントを起動できなかった（API の認証エラー）ため、メインが底本の異読の欄と聖書・古典の欄だけから作った。ほかの校訂本や注解は見ていない。
