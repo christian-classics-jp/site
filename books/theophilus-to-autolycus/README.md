@@ -7,7 +7,7 @@
 底本は J. C. T. von Otto 編、*Corpus apologetarum Christianorum saeculi secundi* VIII：*Theophili episcopi Antiocheni ad Autolycum libri tres*（Jena, 1861）。[First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek)（コミット ed91552）の電子化（`data/tlg1725/tlg001/tlg1725.tlg001.perseus-grc2.xml`）を、次のコマンドで [research/otto-1861.txt](research/otto-1861.txt) にした。
 
 ```sh
-python3 -I tools/tei2labeled.py cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg1725/tlg001/tlg1725.tlg001.perseus-grc2.xml books/theophilus-to-autolycus/research/otto-1861.txt --split
+node tools/tei2labeled.js cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg1725/tlg001/tlg1725.tlg001.perseus-grc2.xml books/theophilus-to-autolycus/research/otto-1861.txt --split
 ```
 
 First1KGreek の本文は CC BY-SA 4.0 で、`research/otto-1861.txt` と各節の `both.md` に置いたギリシア語本文もそれを引き継ぐ。電子化の入力の誤りは底本の行では直さず、意図された形で訳した。

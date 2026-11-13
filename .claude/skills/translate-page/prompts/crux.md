@@ -16,13 +16,13 @@ christian-classics-jp の翻訳リポジトリ（作業ディレクトリ /home/
 ## 資料の探し方
 
 - 印刷版の OCR は、上の抜粋の行範囲から読み始める。ページをめくって探さない。抜粋が「未記入」のときだけ自分で探し、見つけた行範囲を返す内容に書く。
-- ギリシア語の OCR は崩れていることが多い。読みの判断はページ画像で確かめる。画像は 1 枚ずつ `python3 -I tools/iiif-crop.py <identifier> <IIIF番号> <領域> <出力先のディレクトリ>` で取る。領域は `full`、ピクセルの `x,y,w,h`、割合の `pct:x,y,w,h`（脚注だけなら `pct:0,60,100,40` など）。出力先は `cache/archive.org/<identifier>/pages/`。すでにあるファイルは取り直さない。
-- そのほかの校訂本・注解は `research/sources.md` にあるものを使う。足りなければ、パブリックドメインの資料を `python3 -I tools/fetch.py <URL>` で `cache/` に取り（保存先と SHA-256 の先頭 16 桁が出る）、`research/sources.md` に行を足す（URL、権利、cache のパス、SHA-256 の先頭 16 桁、取得日 {{今日}}）。同じ資料を何度もウェブから引かない。
-- 七十人訳・新約の本文の確認は cache にある Swete などの OCR、口語訳は `python3 -I tools/bible.py <ref> …`（例 `Gen.18.1-3 Rom.8.18`）。
+- ギリシア語の OCR は崩れていることが多い。読みの判断はページ画像で確かめる。画像は 1 枚ずつ `node tools/iiif-crop.js <identifier> <IIIF番号> <領域> <出力先のディレクトリ>` で取る。領域は `full`、ピクセルの `x,y,w,h`、割合の `pct:x,y,w,h`（脚注だけなら `pct:0,60,100,40` など）。出力先は `cache/archive.org/<identifier>/pages/`。すでにあるファイルは取り直さない。
+- そのほかの校訂本・注解は `research/sources.md` にあるものを使う。足りなければ、パブリックドメインの資料を `node tools/fetch.js <URL>` で `cache/` に取り（保存先と SHA-256 の先頭 16 桁が出る）、`research/sources.md` に行を足す（URL、権利、cache のパス、SHA-256 の先頭 16 桁、取得日 {{今日}}）。同じ資料を何度もウェブから引かない。
+- 七十人訳・新約の本文の確認は cache にある Swete などの OCR、口語訳は `node tools/bible.js <ref> …`（例 `Gen.18.1-3 Rom.8.18`）。
 
 ## シェルの書き方
 
-承認の確認で止まらないように、実行するまで中身が決まらないシェルは書かない：`for` ループ、`set --`、変数をつないだ URL やファイル名、`$` を含む URL を curl に渡すこと、`rm`。繰り返しは、scratchpad に Python のスクリプトを書き、引数を渡して `python3 -I` で実行する。画像は上の `tools/iiif-crop.py` を使う。画像の切り出しや縮小に Pillow、PDF のページの書き出しに PyMuPDF（`import pymupdf`）が使える。
+承認の確認で止まらないように、実行するまで中身が決まらないシェルは書かない：`for` ループ、`set --`、変数をつないだ URL やファイル名、`$` を含む URL を curl に渡すこと、`rm`。繰り返しは、scratchpad に Node のスクリプト（`.js`）を書き、引数を渡して `node` で実行する。画像は上の `tools/iiif-crop.js` を使う。手元の画像の切り出し・拡大と PDF のページの書き出しは `node tools/image.js`（引数なしで使い方が出る）。
 
 ## 著作権
 

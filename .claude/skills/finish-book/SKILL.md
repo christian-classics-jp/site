@@ -18,7 +18,7 @@ description: 全ページを訳し終えた本の完了処理をする。book.js
 5. 検査する。
 
    ```sh
-   python3 -I tools/check-book.py <本>
+   node tools/check-book.js <本>
    ```
 
    `FAIL` がなくなるまで直す。jp.md が作り直されたと出たら、それもコミットに含める。

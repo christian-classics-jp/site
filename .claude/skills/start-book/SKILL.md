@@ -18,14 +18,14 @@ description: ギリシア語・ラテン語の原文から訳す新しい本を 
 - 著作権の切れた英訳：ANF・NPNF（ccel.org の `.txt` が行で扱いやすい）など。レビューで読み比べに使う。
 - ほかのパブリックドメインの校訂本・注解：論点一覧に使う。
 
-取得は 1 ファイルずつ `python3 -I tools/fetch.py <URL> [<cache/ の下の保存先>]` で行う（すでにあれば取り直さない。保存先、SHA-256 の先頭 16 桁、取得日が出る）。`research/sources.md` に、資料ごとに URL、権利、`cache/` のパス、SHA-256 の先頭 16 桁、取得日を書く。`CANDIDATES.md` の「取得済みの原文」にある資料は、そこから移す。著作権の残る資料は `cache/` に置くだけにし、文章をリポジトリに写さない。
+取得は 1 ファイルずつ `node tools/fetch.js <URL> [<cache/ の下の保存先>]` で行う（すでにあれば取り直さない。保存先、SHA-256 の先頭 16 桁、取得日が出る）。`research/sources.md` に、資料ごとに URL、権利、`cache/` のパス、SHA-256 の先頭 16 桁、取得日を書く。`CANDIDATES.md` の「取得済みの原文」にある資料は、そこから移す。著作権の残る資料は `cache/` に置くだけにし、文章をリポジトリに写さない。
 
 ## 2. 底本テキスト
 
 1 行 1 節で `<ラベル> <本文>` の形にし、`research/<編者>-<年>.txt` に置いてコミットする。
 
 ```sh
-python3 -I tools/tei2labeled.py <TEI の xml> books/<本>/research/<編者>-<年>.txt [--split] [--prefix N]
+node tools/tei2labeled.js <TEI の xml> books/<本>/research/<編者>-<年>.txt [--split] [--prefix N]
 ```
 
 `--split` は節のない版の章を文の切れ目で分け、この訳の番号を付ける。そのときは README と本の AGENTS.md に「節番号はこの訳で付けたもの」と書く（レビュアーが版の番号と照らさないように）。実行したコマンドは README に書く。First1KGreek・Open Apostolic Fathers の本文は CC BY-SA 4.0 なので、README に出典とライセンスを書く。
@@ -33,8 +33,8 @@ python3 -I tools/tei2labeled.py <TEI の xml> books/<本>/research/<編者>-<年
 ## 3. ページの割り（research/pages.json）
 
 ```sh
-python3 -I tools/plan-pages.py <底本.txt> <章の深さ> 1000 > <scratchpad>/plan.txt   # 1 ページ約 1,000 語
-python3 -I tools/pages.py new <本> <scratchpad>/plan.txt --base books/<本>/research/<底本>.txt --language ギリシア語 [--digitized]
+node tools/plan-pages.js <底本.txt> <章の深さ> 1000 > <scratchpad>/plan.txt   # 1 ページ約 1,000 語
+node tools/pages.js new <本> <scratchpad>/plan.txt --base books/<本>/research/<底本>.txt --language ギリシア語 [--digitized]
 ```
 
 - `--digitized`：底本が印刷版の電子化（First1KGreek など）なら付ける。各ページに電子化と印刷版の照合が付く。
@@ -42,8 +42,8 @@ python3 -I tools/pages.py new <本> <scratchpad>/plan.txt --base books/<本>/res
 - 各ページの英訳と印刷版 OCR の行範囲を、章見出しから一括で埋める。
 
 ```sh
-python3 -I tools/pages.py locate <本> english cache/ccel.org/anf01.txt '^\s*Chapter ([CXLVI]+)\.' --from <作品の始まりの行> --to <終わりの行>
-python3 -I tools/pages.py locate <本> print <印刷版の djvu.txt> '<その版の章見出しの正規表現>' --from … --to …
+node tools/pages.js locate <本> english cache/ccel.org/anf01.txt '^\s*Chapter ([CXLVI]+)\.' --from <作品の始まりの行> --to <終わりの行>
+node tools/pages.js locate <本> print <印刷版の djvu.txt> '<その版の章見出しの正規表現>' --from … --to …
 ```
 
   正規表現のグループ 1 が章番号（算用数字かローマ数字）。印刷版の章見出しが OCR で崩れて拾えない章は、出力に `not found` と出るので、その行だけ手で書く。英訳の章の番号や順が底本と違う本（『第二弁明』の ANF など）は、出た範囲を確かめて手で直し、`english_name` にその旨を書く。画像（`images`：`<identifier>:<最初>-<最後>` の IIIF 番号）は分かる範囲で書き、残りは論点一覧のエージェントに探させる。
@@ -62,12 +62,12 @@ python3 -I tools/pages.py locate <本> print <印刷版の djvu.txt> '<その版
 
 ## 5. README・intro.md・CANDIDATES.md
 
-- README：1 行目は書名。最初の段落（何の何語原文からの翻訳か）の次に `制作：藤遥。全文を Claude Code（Anthropic の Claude）を使って訳した。`。続けて底本（版・取得元・ライセンス、変換コマンド）、節の番号、聖書の引用に使う訳、`research/sources.md` と `research/cruxes/` への案内、進捗表（`python3 -I tools/pages.py readme <本>` の出力）。読者向けの文には、訳し直しの経緯を書かない。
+- README：1 行目は書名。最初の段落（何の何語原文からの翻訳か）の次に `制作：藤遥。全文を Claude Code（Anthropic の Claude）を使って訳した。`。続けて底本（版・取得元・ライセンス、変換コマンド）、節の番号、聖書の引用に使う訳、`research/sources.md` と `research/cruxes/` への案内、進捗表（`node tools/pages.js readme <本>` の出力）。読者向けの文には、訳し直しの経緯を書かない。
 - intro.md：著者の生没年と、いつの作品かを含めて 2〜4 文。末尾に翻訳中である旨の一文を置き、完了時に消す。
 - CANDIDATES.md：その作品の状態を「翻訳中」にする。
 
 ## 6. 仕上げ
 
-`python3 -I tools/page-context.py <本> <最初の節> <scratchpad>/check` を実行し、範囲と行範囲が出ることを確かめる。`Start <本>` でコミットして push する。
+`node tools/page-context.js <本> <最初の節> <scratchpad>/check` を実行し、範囲と行範囲が出ることを確かめる。`Start <本>` でコミットして push する。
 
 リレーから頼まれたときはここで終える。そうでなければ `translate-page` スキルで最初のページに進む。

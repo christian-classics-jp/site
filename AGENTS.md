@@ -78,7 +78,7 @@ rg -z -a -o "\('Rom\.7\.24', '[^']*'" ../bible-api/mysql/sql/create-table.sql.ta
 rg -z -a -o "\('[^']+', '[^']*みじめな人間[^']*'" ../bible-api/mysql/sql/create-table.sql.tar.gz
 ```
 
-何節も引くときは、ループを書かずに `python3 -I tools/bible.py Gen.18.1-3 Rom.8.18 Ps.90.4`（語句から探すときは `--find <語句>`）を使う。
+何節も引くときは、ループを書かずに `node tools/bible.js Gen.18.1-3 Rom.8.18 Ps.90.4`（語句から探すときは `--find <語句>`）を使う。
 
 ## ビルド
 
@@ -86,7 +86,7 @@ rg -z -a -o "\('[^']+', '[^']*みじめな人間[^']*'" ../bible-api/mysql/sql/c
 
 - `node ci/jp.js books/<本>/src/<節>`：`both.md` から `jp.md` を作り直す。アルファベットかギリシア文字で始まる行は原文とみなして消す（行頭の数字や記号は飛ばして判定する）。日本語の行は空行がなければ前の行とつながる。アルファベットで始まる日本語の行は、`both.md` で行頭に `% ` を付けて書く。
 - `npm run build`：サイト全体を `dist/` にビルドする。`npm run build <本>` ならその本だけ。公開は push で自動的に行われるので、手元のビルドは確認用。
-- `tools/` の Python は、リポジトリの `mise.toml` の Python 3.13 で動く。画像の加工（Pillow）と PDF のページの書き出し（PyMuPDF）を使うときは、一度 `python3 -m pip install -r tools/requirements.txt` を実行しておく。
+- `tools/` は Node.js のスクリプト。依存（画像の加工、PDF の書き出し、XML の解析）は `package.json` の devDependencies にあり、`npm install --ignore-scripts` で入る。繰り返しの処理を書くときも Node で書く。
 - `npm run epub`・`npm run pdf`：`book.json` のある本の EPUB と PDF を `dist/epub/`・`dist/pdf/` に作る。`npm run build` の後に実行する（`npm run build` が `dist/` を作り直すため）。本の名前を付ければその本だけ。PDF には Chromium（`npx playwright install chromium`）と Noto CJK フォントが要る。公開時は GitHub Actions が作る。
 
 ## 節の訳が終わったら
@@ -141,7 +141,7 @@ rg -z -a -o "\('[^']+', '[^']*みじめな人間[^']*'" ../bible-api/mysql/sql/c
 
 - 論点一覧は、数節分をまとめて一度に作ってよい（目安は合わせて 3,000 語まで）。
 - レビューで決まった訳し方（語の訳し分け、文法の形ごとの訳し方など）は、本の `AGENTS.md` の該当する節（訳語表、文型の訳し方など）に統合して書き、まだレビューしていない節にもすぐ当てはめる。ページごとの追記を積み重ねない。
-- サブエージェントへの依頼文は `tools/page-context.py` が作る。読むものは、大きなファイルの全体ではなく、該当部分の抜粋と行範囲で渡す。依頼文には、確かめる観点、書いてよいファイル、返す形（節番号・分類・現在の訳・問題・直した案・必須か提案か）を書く。著作権の残る訳文を読まないことも書く。
+- サブエージェントへの依頼文は `tools/page-context.js` が作る。読むものは、大きなファイルの全体ではなく、該当部分の抜粋と行範囲で渡す。依頼文には、確かめる観点、書いてよいファイル、返す形（節番号・分類・現在の訳・問題・直した案・必須か提案か）を書く。著作権の残る訳文を読まないことも書く。
 - サブエージェントに道具の使い方を禁止で伝えない。繰り返し使う処理は `tools/` のスクリプトにして渡す。
 
 ## コミット

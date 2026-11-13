@@ -30,5 +30,12 @@
   "homepage": "https://github.com/FujiHaruka/simplest-site-template#readme",
   "engines": {
     "node": ">=26"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "1.1.1",
+    "@xmldom/xmldom": "0.9.12",
+    "diff": "9.0.0",
+    "pdfjs-dist": "6.5.438",
+    "sharp": "0.35.5"
   }
 }

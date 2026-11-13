@@ -7,7 +7,7 @@
 底本は G. Rauschen 編、*S. Iustini apologiae duae*（Florilegium patristicum II、第 2 版、Bonn: P. Hanstein, 1911）。[First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek)（コミット ed91552）の電子化（`data/tlg0645/tlg002/tlg0645.tlg002.perseus-grc2.xml`）を、次のコマンドで [research/rauschen-1911.txt](research/rauschen-1911.txt) にした。
 
 ```sh
-python3 -I tools/tei2labeled.py cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg0645/tlg002/tlg0645.tlg002.perseus-grc2.xml books/justin-second-apology/research/rauschen-1911.txt --split
+node tools/tei2labeled.js cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg0645/tlg002/tlg0645.tlg002.perseus-grc2.xml books/justin-second-apology/research/rauschen-1911.txt --split
 ```
 
 First1KGreek の本文は CC BY-SA 4.0 で、`research/rauschen-1911.txt` と各節の `both.md` に置いたギリシア語本文もそれを引き継ぐ。電子化の入力の誤りと印刷版（[archive.org のスキャン](https://archive.org/details/siustiniapologia00just)）の誤植は底本の行では直さず、意図された形で訳した。
