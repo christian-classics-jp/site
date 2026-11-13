@@ -18,14 +18,14 @@
 7.8 ego dolebam quod et piscina illa aquam habebat, et tamen propter altitudinem marginis bibiturus non esset.
 7:8 池には水があるのに、縁が高いために彼は飲めずにいたので、わたしは悲しかった。
 7.9 et experrecta sum, et cognoui fratrem meum laborare. sed fidebam me profuturam labori eius: et orabam pro eo omnibus diebus quousque transiuimus in carcerem castrensem: munere enim castrensi eramus pugnaturi: natale tunc Getae Caesaris.
-7:9 そこで、わたしは目を覚ました。そして、兄弟が苦しんでいることを悟った。しかし、わたしは、自分が彼の苦しみの助けになれると信じていた。わたしたちが陣営の獄に移されるまで、わたしは毎日、彼のために祈った。わたしたちは陣営の見世物で戦うことになっていたのだ。そのころは、カイザル・ゲタの誕生日だった。
+7:9 そこで、わたしは目を覚ました。そして、わたしの兄弟が苦しんでいることを悟った。しかし、わたしは、自分が彼の苦しみの助けになれると信じていた。わたしたちが陣営の獄に移されるまで、わたしは毎日、彼のために祈った。わたしたちは陣営の見世物で戦うことになっていたのだ。そのときは、カイザル・ゲタの誕生日の祝いだった。
 // carcer castrensis と munus castrense。castrensis を二度とも「陣営の」と訳し、原文の重なりを残した。munus は剣闘士や獣の闘いを見せる催しで、「見世物」とした。
 7.10 et feci pro illo orationem die et nocte gemens et lacrymans ut mihi donaretur.
-7:10 わたしは昼も夜も、うめき、涙を流しながら、彼のために祈った。神に彼をわたしに与えていただくためだった。
-// ut mihi donaretur。だれが与えるかを原文は言わないが、祈りの相手の神の動作として尊敬語にした。
+7:10 わたしは昼も夜も、うめき、涙を流しながら、彼のために祈った。彼がわたしに与えられるためだった。
+// ut mihi donaretur。原文は受け身で、だれが与えるかを言わないので、受け身のまま訳した（Gr. も「彼がわたしに与えられるように」）。
 
 8.1 Die quo in neruo mansimus, ostensum est mihi hoc. uideo locum illum quem retro uideram, et Dinocraten mundo corpore, bene uestitum, refrigerantem; et ubi erat uulnus, uideo cicatricem:
-8:1 わたしたちが足枷につながれていた日に、わたしに次のことが示された。わたしは、前に見たあの場所を見た。ディノクラテスは体がきれいになり、よい着物を着て、涼やかに憩っていた。傷のあったところには、傷跡が見えた。
+8:1 わたしたちが足枷につながれていた日に、わたしに次のことが示された。わたしは、前に見たあの場所を見た。ディノクラテスは体がきれいになり、よい衣を着て、涼やかに憩っていた。傷のあったところには、傷跡が見えた。
 // refrigerantem。7.4 の aestuantem（暑さに苦しむ）と対になるので、訳語表の「ひと息つく」ではなく「涼やかに憩う」とした。
 8.2 et piscinam illam quam retro uideram, summisso margine usque ad umbilicum pueri; et aquam de ea trahebat sine cessatione:
 8:2 前に見たあの池は、縁が低くなって、その子のへそまでになっていた。池からは、絶えず水が汲み出されていた。
@@ -53,21 +53,21 @@
 10.4 uix tandem peruenimus anhelantes ad amphitheatrum, et induxit me in media arena. et dixit mihi: Noli pauere; hic sum tecum, et conlaboro tecum. et abiit.
 10:4 わたしたちは息を切らせて、やっとのことで円形闘技場に着いた。彼はわたしを闘技場の真ん中に連れて行き、わたしに言った。「恐れることはない。わたしはここであなたと一緒にいて、あなたと共に戦う」　そして、彼は去って行った。
 10.5 et adspicio populum ingentem adtonitum. et quia sciebam me ad bestias datam esse, mirabar quod non mitterentur mihi bestiae.
-10:5 見ると、おびただしい群衆が息をのんで見つめていた。わたしは獣の刑を言い渡されたことを知っていたので、獣が放たれないのを不思議に思った。
+10:5 見ると、おびただしい群衆が息をのんで見つめていた。わたしは獣の刑を言い渡されたことを知っていたので、わたしに獣が放たれないのを不思議に思った。
 10.6 et exiuit quidam contra me Aegyptius foedus specie cum adiutoribus suis pugnaturus mecum. ueniunt et ad me adolescentes decori adiutores et fautores mei.
 10:6 すると、見るからに醜いエジプト人が、わたしと戦うために、助手たちを連れて出て来た。わたしのところにも、美しい若者たちが、わたしの助手として、味方として来た。
 10.7 et expoliata sum, et facta sum masculus. et coeperunt me fautores mei oleo defrigere, quomodo solent in agonem: et illum contra Aegyptium uideo in afa uolutantem.
 10:7 わたしは衣を脱がされた。すると、わたしは男になった。味方の者たちは、闘技の前にいつもするように、わたしの体に油をすり込み始めた。向こうでは、あのエジプト人が砂の上を転げ回っていた。
 // afa（ギリシア語の ἁφή）は、闘技者が油を塗った体にまぶす砂。
 10.8 et exiuit uir quidam mirae magnitudinis, ut etiam excederet fastigium amphitheatri, discinctatus purpuram inter duos clauos per medium pectus, habens galliculas multiformes ex auro et argento factas: efferens uirgam quasi lanista, et ramum uiridem in quo erant mala aurea.
-10:8 そこへ、驚くほど大きな男が出て来た。円形闘技場のいちばん高いところよりも、もっと背が高かった。帯を締めない衣を着て、胸の真ん中、二本の縦縞のあいだが紫だった。金と銀でできた、手の込んだ履物をはいていた。剣闘士の師範のように棒を持ち、金のりんごの実った緑の枝を手にしていた。
+10:8 そこへ、驚くほど大きな男が出て来た。円形闘技場のいちばん高いところを越えるほどの背丈だった。帯を締めない衣を着ていた。衣は、胸の真ん中を通る二本の縦縞のあいだが紫だった。金と銀でできた、手の込んだ履物をはいていた。剣闘士の師範のように棒を持ち、金のりんごの実った緑の枝を手にしていた。
 // lanista は剣闘士を育て、試合を取りしきる者。「剣闘士の師範」とし、10.12 では「師範」とした。
 10.9 et petiit silentium, et dixit: Hic Aegyptius, si hanc uicerit, occidet illam gladio; et, si hunc uicerit, accipiet ramum istum. et recessit.
 10:9 男は静まるように求めて、言った。「このエジプト人がこの女に勝てば、剣で女を殺す。この女がこの男に勝てば、この枝を受ける」　そして、男は退いた。
 10.10 et accessimus ad inuicem, et coepimus mittere pugnos. ille mihi pedes adprehendere uolebat: ego autem illi calcibus faciem caedebam.
 10:10 わたしたちは互いに近寄り、こぶしで打ち合い始めた。相手はわたしの足をつかもうとした。しかし、わたしはかかとで相手の顔を打った。
 10.11 et sublata sum in aere, et coepi eum sic caedere quasi terram non calcans. at ubi uidi moram fieri, iunxi manus, ut digitos in digitos mitterem. et adprehendi illi caput, et cecidit in faciem; et calcaui illi caput.
-10:11 わたしは宙に持ち上げられ、地を踏まないかのようにして、相手を打ち始めた。しかし、なかなか決まらないのを見て、わたしは両手を組み、指と指を組み合わせた。そして相手の頭をつかむと、相手はうつ伏せに倒れた。わたしは相手の頭を踏みつけた。
+10:11 わたしは宙に持ち上げられ、地を踏まないかのようにして、相手を打ち始めた。しかし、なかなか決まらないのを見て、わたしは指と指を差し入れるようにして、両手を組んだ。そして相手の頭をつかむと、相手はうつ伏せに倒れた。わたしは相手の頭を踏みつけた。
 10.12 et coepit populus clamare, et fautores mei psallere. et accessi ad lanistam, et accepi ramum.
 10:12 群衆は叫び始め、味方の者たちは賛美の歌を歌い始めた。わたしは師範のところへ行って、枝を受け取った。
 10.13 et osculatus est me, et dixit mihi: Filia, pax tecum. et coepi ire cum gloria ad portam Sanauiuariam.
