@@ -36,7 +36,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/staehlin-1905.txt` と各
 | 13-chapter-05 | 5 章 | [x] |
 | 14-chapter-06 | 6 章 | [x] |
 | 15-chapter-07 | 7 章 | [x] |
-| 16-chapter-08 | 8 章 | [ ] |
+| 16-chapter-08 | 8 章 | [x] |
 | 17-chapter-09 | 9 章 | [ ] |
 | 18-chapter-10-1 | 10 章 89〜94 節 | [ ] |
 | 19-chapter-10-2 | 10 章 95〜99 節 | [ ] |
