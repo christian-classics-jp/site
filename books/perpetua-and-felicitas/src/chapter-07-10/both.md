@@ -3,7 +3,7 @@
 7.1 Post dies paucos, dum uniuersi oramus, subito media oratione profecta est mihi uox, et nominaui Dinocraten: et obstipui quod numquam mihi in mentem uenisset nisi tunc; et dolui commemorata casus eius.
 7:1 数日後、わたしたちがみなで祈っていると、祈りの最中に突然、わたしの口から声が出た。わたしはディノクラテスの名を呼んでいた。わたしは驚いた。そのときまで、一度も彼のことが心に浮かんだことがなかったからだ。わたしは彼の身に起きたことを思い出して、悲しんだ。
 7.2 et cognoui me statim dignam esse, et pro eo petere debere. et coepi de ipso orationem facere multum, et ingemiscere ad Dominum.
-7:2 そして、わたしはすぐに悟った。自分には彼のために願い求める資格があり、そうしなければならないのだと。わたしは彼のために多くの祈りをささげ、主に向かってうめき始めた。
+7:2 そして、わたしはすぐに悟った。自分がそれにふさわしい者であり、彼のために願い求めなければならないのだと。わたしは彼のために多くの祈りをささげ、主に向かってうめき始めた。
 7.3 continuo ipsa nocte ostensum est mihi hoc.
 7:3 すると、その夜すぐに、わたしに次のことが示された。
 7.4 uideo Dinocraten exeuntem de loco tenebroso, ubi et complura loca erant tenebrosa, aestuantem valde et sitientem, sordido uultu et colore pallido; et uulnus in facie eius, quod cum moreretur habuit.

@@ -62,7 +62,7 @@
 | martyr / martyrium | 殉教者／殉教 |
 | passio | 受難（書名の意味のときは「殉教録」） |
 | catechumenus（底本の綴りは catechuminus） | 洗礼志願者 |
-| uisio / ostensum est mihi | 幻／（わたしに）示された |
+| uisio / horoma（10.1。ギリシア語の ὅραμα） / ostensum est mihi | 幻（uisio も horoma も）／（わたしに）示された |
 | Spiritus Sanctus | 聖霊 |
 | uirtus（聖霊の） | 力 |
 | donatiua / reuelatio | 賜物／啓示 |
@@ -81,7 +81,6 @@
 | scala / draco（4 章） | はしご／竜 |
 | candidati | 白い衣を着た人々 |
 | refrigerare | ほっとする、ひと息つく（8.1 の死んだディノクラテスの姿は、7.4 の aestuans（暑さに苦しむ）との対を残して「涼やかに憩う」） |
-| uisio / horoma（10.1。ギリシア語の ὅραμα） | どちらも「幻」 |
 | munus（7.9、9.2、10.15） | 見世物（剣闘士や獣の闘いを見せる催し） |
 | castrensis（7.9 の carcer castrensis、munus castrense） | 陣営の（二度とも同じ語） |
 | natale（7.9） | 誕生日の祝い |
