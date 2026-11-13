@@ -1,7 +1,7 @@
 # 14〜17 章　セクンドゥルスの死、フェリキタスの出産、最後の食事
 
 14.1 Hae uisiones insigniores ipsorum martyrum beatissimorum Saturi et Perpetuae, quas ipsi conscripserunt.
-14:1 以上が、祝福に満ちた殉教者サトゥルスとペルペトゥアの、とりわけ際立った幻です。二人が自分で書き記したものです。
+14:1 以上が、いとも祝福された殉教者サトゥルスとペルペトゥアの、とりわけ際立った幻です。二人が自分で書き記したものです。
 // 文に動詞がないので「以上が〜です」と補った。Hae は Holsten の推定で、写本 A・B は et。
 14.2 Secundulum uero Deus maturiore exitu de saeculo adhuc in carcere euocauit, non sine gratia, ut bestias lucraretur.
 14:2 セクンドゥルスについては、まだ獄にいるうちに、神がもっと早い死によって彼をこの世から呼び出されました。それは恵みのないことではありませんでした。彼は獣の刑を免れたのです。

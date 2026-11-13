@@ -115,6 +115,8 @@
 | noxii nobilissimi（16.3） | いとも高貴な罪人（カイザルの称号を罪人に移した皮肉。メモに書く） |
 | optio carceris（16.4） | 獄の副官（9.1 のプデンスと読めるが、名は補わない） |
 | cena libera / agape（17.1） | 自由の食事／愛餐 |
+| constantia（16.1、17.1） | 不屈さ |
+| benedictus（3.7、11.1） / 最上級の形容詞（14.1 beatissimi、16.1 sanctissima、16.3 nobilissimi） | 祝福された／いとも〜（「いとも祝福された」「いとも聖なる」「いとも高貴な」） |
 | uiridarium（11.5、13.4） | 園 |
 | stadium uiolatum（11.8） | すみれを敷き詰めた走路（uiolatum は Robinson の推定なので訳注を付けた） |
 | Agios, agios, agios（12.2） | 聖なるかな、聖なるかな、聖なるかな（口語訳のイザヤ六・三、黙示録四・八の言い方。原文がギリシア語の音のままであることはメモに書く） |
