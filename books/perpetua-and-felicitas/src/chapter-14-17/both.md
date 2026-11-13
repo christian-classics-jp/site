@@ -13,14 +13,14 @@
 15.1 Circa Felicitatem uero, et illi gratia Domini eiusmodi contigit.
 15:1 一方、フェリキタスにも、主の恵みが次のように臨みました。
 15.2 cum octo iam mensium uentrem haberet, (nam praegnans fuerat adprehensa) instante spectaculi die, in magno erat luctu, ne propter uentrem differretur; quia non licet praegnantes poenae repraesentari: et ne inter alios postea sceleratos sanctum et innocentem sanguinem funderet.
-15:2 彼女は、もう身ごもって八か月になっていました。捕らえられたときに、すでに身ごもっていたのです。見世物の日が近づくと、彼女はひどく嘆き悲しみました。おなかの子のために、刑を延ばされるのではないかと恐れたのです。身ごもった女を刑に引き出すことは許されていないからです。そうなれば、後になって、ほかの罪人たちに混じって、聖なる罪のない血を流すことになります。
+15:2 彼女は、もう身ごもって八か月になっていました。捕らえられたときに、すでに身ごもっていたのです。見世物の日が近づくと、彼女はひどく嘆き悲しみました。おなかの子のために、刑を延ばされるのではないかと恐れたのです。身ごもった女を刑に引き出すことは許されていないからです。また、後になって、ほかの罪人たちに混じって、聖なる罪のない血を流すことになるのも恐れたのです。
 // spectaculum も munus と同じく「見世物」と訳した。
 15.3 sed et commartyres grauiter contristabantur, ne tam bonam sociam quasi comitem solam in uia eiusdem spei relinquerent.
-15:3 共に殉教する仲間たちも、ひどく悲しんでいました。これほどよい仲間を、いわば道連れを、同じ望みの道にひとり残して行くことになるからです。
+15:3 共に殉教する仲間たちも、ひどく悲しんでいました。これほどよい仲間を、いわば道連れを、同じ望みの道にひとり残して行くことになるのではないかと恐れたのです。
 15.4 coniuncto itaque unito gemitu ad Dominum orationem fuderunt ante tertium diem muneris.
 15:4 そこで、彼らは心を一つにして共に嘆き、見世物の三日前に、主に祈りを注ぎ出しました。
 15.5 statim post orationem dolores inuaserunt. et cum pro naturali difficultate octaui mensis in partu laborans doleret, ait illi quidam ex ministris cataractariorum: Quae sic modo doles, quid facies obiecta bestiis, quas contempsisti cum sacrificare noluisti?
-15:5 祈り終えるとすぐに、陣痛が彼女を襲いました。八か月目の出産には、本来の難しさがあります。そのために、彼女が産みの苦しみの中で痛がっていると、牢番の下役の一人が言いました。「今これほど痛がっているおまえが、獣の前に投げ出されたら、どうするのだ。いけにえをささげるのを拒んだとき、おまえは獣を侮ったではないか」
+15:5 祈り終えるとすぐに、陣痛が彼女を襲いました。八か月目の出産は、もともと難しいものです。そのために、彼女が産みの苦しみの中で痛がっていると、牢番の下役の一人が言いました。「今これほど痛がっているおまえが、獣の前に投げ出されたら、どうするのか。いけにえをささげるのを拒んだとき、おまえは獣を侮ったではないか」
 // cataractarii は獄の役人の職名とみられる（底本の注。cataracta は落とし格子、七十人訳では足かせ）。「牢番」と訳した。Gebhardt は 15.5 を et statim から始める。底本には et がないので statim の前に節の境を置いた。
 15.6 et illa respondit: Modo ego patior quod patior; illic autem alius erit in me qui patietur pro me, quia et ego pro illo passura sum.
 15:6 彼女は答えました。「今は、わたしが自分の苦しみを苦しんでいる。でも、あそこでは、別の方がわたしの内におられて、わたしのために苦しんでくださる。わたしもその方のために苦しむのだから」
@@ -36,10 +36,10 @@
 16:2 千卒長は、殉教者たちをかなり厳しく扱いました。ごく愚かな人々の忠告を聞いて、彼らが何かの魔術のまじないで獄から連れ出されはしないかと恐れたからです。そのとき、ペルペトゥアは千卒長に面と向かって答えました。
 // tribunus は口語訳が χιλίαρχος に使う「千卒長」とした。respondit の主語は原文にないが、16.1 の「彼女の」からペルペトゥアと分かるので名を補った。
 16.3 Quid utique non permittis nobis refrigerare noxiis nobilissimis, Caesaris scilicet, et natali eiusdem pugnaturis? aut non tua gloria est, si pinguiores illo producamur?
-16:3 「どうして、わたしたちにひと息つかせてくれないのか。わたしたちは、いとも高貴な罪人なのだ。そう、カイザルの罪人で、そのカイザルの誕生日の祝いに闘うことになっている。わたしたちが肥えて引き出されれば、それはあなたの誉れではないのか」
-// nobilissimus（いとも高貴な）はカイザルに付く称号。それを罪人に移した皮肉（底本の注）。
+16:3 「どうして、せめてわたしたちにひと息つかせてくれないのか。わたしたちは、いとも高貴な罪人なのだ。そう、カイザルの罪人で、そのカイザルの誕生日の祝いに闘うことになっている。それとも、わたしたちが肥えてそこへ引き出されれば、それはあなたの誉れではないのか」
+// nobilissimus（いとも高貴な）はカイザルに付く称号。それを罪人に移した皮肉（底本の注）。illo は「そこへ」（闘技場へ）の副詞と読んだ。直前の natali を受けて「その日に」とも、「そのことで」とも読める。
 16.4 horruit et erubuit tribunus; et ita iussit illos humanius haberi, ut fratribus eius et ceteris facultas fieret introeundi, et refrigerandi cum eis; iam et ipso optione carceris credente.
-16:4 千卒長はたじろぎ、顔を赤らめました。そして、彼らをもっと人間らしく扱うように命じました。それで、彼女の兄弟たちやほかの人々が中に入って、彼らと共にひと息つけるようになりました。獄の副官自身も、もう信じていたのです。
+16:4 千卒長はたじろぎ、顔を赤らめました。そして、彼らをもっと人間らしく扱うように命じました。それは、彼女の兄弟たちやほかの人々が中に入って、彼らと共にひと息つけるほどの扱いでした。獄の副官自身も、もう信じていたのです。
 // fratribus eius の eius は単数で、ペルペトゥアを指す。ギリシア語訳は「彼女の兄弟」と単数。optio carceris は 9.1 のプデンスと読めるが、原文は名を出さないので補わなかった。
 
 17.1 Pridie quoque cum illam cenam ultimam, quam liberam uocant, quantum in ipsis erat non cenam liberam sed agapen cenarent, eadem constantia ad populum uerba ista iactabant, comminantes iudicium Dei, contestantes passionis suae felicitatem, inridentes concurrentium curiositatem; dicente Saturo:
