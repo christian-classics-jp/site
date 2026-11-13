@@ -6,13 +6,14 @@
 
 - 底本（St）：O. Stählin, Clemens Alexandrinus I（GCS 12、1905）。ページの下に、聖書・古典の箇所の欄（「vgl.」は参照、無印は引用）と、異読の欄（行番号つき）を置く。余白の行番号はページごとに 1 から数える。記号と略号の表は写本表の後（画像 0092）にあり、本の `AGENTS.md` の「底本の扱い」に写した。
 - 写本：P（Paris. graec. 451。P¹ は写字生バアネス、P² はアレタスの手、P* は直す前の読み、Pcorr は直した読み）、M（Mut. III. D. 7）。M² は M の後の手。
-- Eus.：エウセビオス『福音の準備』二・三・一〜四二が 2.11.1〜2.23.2 を引く。その写本は A・B・H・I・O（A¹・A² は A の最初の手と後の手）。A は 2.13.4 の τολμήσας から引用の終わりまでを一折失っている（03-chapter-02-1 の冒頭）。
+- Eus.：エウセビオス『福音の準備』二・三・一〜四二が 2.11.1〜2.23.2 を引く。その写本は A・B・H・I・O（A¹・A² は A の最初の手と後の手）。A は 2.13.4 の τολμήσας から引用の終わりまでを一折失っている（03-chapter-02-1 の冒頭）。エウセビオスは同じ書の二・六・一〇で 2.34.1 の Ἴθι から Ζεύς までも引く（06-chapter-02-4。異読は底本の欄による）。
 - 刊本と学者：Di（Dindorf）、He（Heinsius）、Kl（Klotz）、Ma（Mayor）、Po（Potter）、Schw（Schwartz）、St（Stählin）、Sy（Sylburg）、Vi（Victorius）、Wi（Wilamowitz）。そのほか異読の欄に名の出る学者（Bernays、Reinkens、Reitzenstein、Alberti、Heyse、Markland、Viger、Cobet、L. Dindorf、Elmsley、G. Canter、Nauck、Pierson、Lobeck、Ed. Tournier、Rohde など）はそのまま挙げる。
 - 七十人訳と新約の本文は、`node tools/bible.js` の口語訳と、底本の聖書の欄の章節で確かめる。詩篇の章節は底本では七十人訳の数え方（口語訳より一つ少ないことが多い）。
 - ANF：Ante-Nicene Fathers 第 2 巻の Wilson の英訳（`cache/ccel.org/anf02.txt`）。レビューの読み比べに使う。英訳の文言はこの一覧に使わない。
 - 七十人訳：H. B. Swete, The Old Testament in Greek I・II・III（`cache/archive.org/oldtestamentingr01swetuoft/`、`cache/archive.org/oldtestamentingr02swetuoft/`、`cache/archive.org/theoldtestamenti03swetuoft/` の djvu テキスト。行番号は「Swete II、l.」の形）。
 - 底本の古典の欄は、ホメロスの巻をギリシア文字で刷る（大文字は『イリアス』、小文字は『オデュッセイア』。E 31 は『イリアス』五・三一、φ 26 は『オデュッセイア』二一・二六）。
 - 底本の第二巻：O. Stählin, Clemens Alexandrinus II（1906）の OCR（`cache/archive.org/clemensalexandri02clem/clemensalexandri02clem_djvu.txt`）。クレメンスが『ストロマテイス』で同じ句を引くところの照合に使う。
+- Diels：H. Diels, Die Fragmente der Vorsokratiker I（1906）のページ画像（`cache/archive.org/diefragmentederv01dieluoft/pages/`）。ヘラクレイトスの断片の本文の照合に使う。
 - シビュラの託宣：J. Geffcken, Die Oracula Sibyllina（GCS 8、1902）の OCR（`cache/archive.org/dieoraculasibyll00geffuoft/dieoraculasibyll00geffuoft_djvu.txt`）。
 - キケロ『神々の本性について』三：The Latin Library の本文（`cache/thelatinlibrary.com/cicero/nd3.shtml`）。
 - 新約のギリシア語本文：Robinson-Pierpont のビザンティン本文の電子化（`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/<書>.csv`。行番号は「TIT.csv l.」の形）。Nestle-Aland と違う箇所に `{NA … > …}` の印がある。
