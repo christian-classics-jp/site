@@ -1,0 +1,52 @@
+{
+  "title": "ペルペトゥアとフェリキタスの殉教録",
+  "language": "ラテン語",
+  "base": "books/perpetua-and-felicitas/research/robinson-1891.txt",
+  "digitized": false,
+  "english_name": "ANF 第 3 巻の英訳（R. E. Wallis 訳、1885）。序と 6 章に分け、章の中を段落番号で分ける。底本の章との対応は本の AGENTS.md の「節の形」にある",
+  "print_name": "Robinson 1891 の印刷版（偶数ページがラテン語、対向の奇数ページがギリシア語訳）",
+  "pages": [
+    {
+      "id": "chapter-01-02",
+      "spec": "1-2",
+      "english": "cache/ccel.org/anf03.txt:69188-69260",
+      "print": "cache/archive.org/MN5140ucmf_2/MN5140ucmf_2_djvu.txt:3573-3763",
+      "images": "MN5140ucmf_2:0084-0087"
+    },
+    {
+      "id": "chapter-03-06",
+      "spec": "3-6",
+      "english": "cache/ccel.org/anf03.txt:69261-69390",
+      "print": "cache/archive.org/MN5140ucmf_2/MN5140ucmf_2_djvu.txt:3764-4738",
+      "images": "MN5140ucmf_2:0086-0097"
+    },
+    {
+      "id": "chapter-07-10",
+      "spec": "7-10",
+      "english": "cache/ccel.org/anf03.txt:69391-69545",
+      "print": "cache/archive.org/MN5140ucmf_2/MN5140ucmf_2_djvu.txt:4739-5364",
+      "images": "MN5140ucmf_2:0096-0103"
+    },
+    {
+      "id": "chapter-11-13",
+      "spec": "11-13",
+      "english": "cache/ccel.org/anf03.txt:69546-69623",
+      "print": "cache/archive.org/MN5140ucmf_2/MN5140ucmf_2_djvu.txt:5365-5670",
+      "images": "MN5140ucmf_2:0102-0107"
+    },
+    {
+      "id": "chapter-14-17",
+      "spec": "14-17",
+      "english": "cache/ccel.org/anf03.txt:69624-69695",
+      "print": "cache/archive.org/MN5140ucmf_2/MN5140ucmf_2_djvu.txt:5671-6026",
+      "images": "MN5140ucmf_2:0106-0111"
+    },
+    {
+      "id": "chapter-18-21",
+      "spec": "18-21",
+      "english": "cache/ccel.org/anf03.txt:69696-69826",
+      "print": "cache/archive.org/MN5140ucmf_2/MN5140ucmf_2_djvu.txt:6027-6735",
+      "images": "MN5140ucmf_2:0110-0119"
+    }
+  ]
+}
