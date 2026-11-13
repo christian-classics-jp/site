@@ -40,6 +40,7 @@
 - 目的の ut＋接続法は「〜ためです」と訳し、勧めや依頼（「〜してください」）に置き換えない（1.6 の ut et uos … rememoremini）。結果の ut（tantus ut など）は「〜ほど」で受け、ut が二つの動詞を受けるときは両方を「ほど」の中に入れる（4.1 tanta ut postules … et ostendatur）。文を分けるときも後ろの文を「〜ほどの…だった」で受け、比較の文（「〜よりも高かった」）に替えない（10.8 mirae magnitudinis, ut etiam excederet）。
 - 理由の節（quia、quod）は、理由と結果を別々の文に切り離さず、「〜ので」「だから」でつなぐ（4.5 quia ipse nos aedificauerat）。
 - ペルペトゥアの口癖の beneficio＋属格（3.6 turbarum beneficio、3.8 mei beneficio、4.2 cuius beneficio）は原因の意味で訳す（「〜のせいで」「〜のおかげで」「〜の恵みによって」）。「〜のために」は目的と読まれるので使わない。
+- uox を主語や目的語にとる文（12.2 audiuimus uocem unitam dicentem）は、声を名詞のまま訳す（「一つになった声が〜と言うのが聞こえた」）。副詞（「声をそろえて」）にして主語のない文にしない。
 - sicut 節（「〜したとおりに」）は訳に出す。前の文の言い直しにしない（2.3）。
 - 手記の歴史的現在（3.3 mittit、4.3 uideo、6.6 pronuntiat、6.7 mitto など）は、地の文の常体の過去（「〜た」）で訳す。幻の中で見たものも同じ（4 章で決めた）。
 
@@ -108,6 +109,10 @@
 | doctor（13.1 presbyterum doctorem） | 教師である（長老） |
 | circus / factiones（13.6） | 競走場／ひいきの組（メモに戦車競走の組と書く） |
 | pacem facere（12.6） | 平和のあいさつを交わす |
+| hilaris（6.6、12.7） | 喜びにあふれて（「楽しい」にしない。12.7 は 6.6 を受ける） |
+| caro（11.2、12.7） | 肉体 |
+| dimittere（13.5 の罪や争いを） | ゆるす（口語訳のとおりひらく） |
+| cum admiratione（11.7、12.5） / sine cessatione（11.6、12.2） | 驚きながら／絶え間なく（呼応が見えるように、どこでも同じ訳にする） |
 
 ## 名前の表
 
