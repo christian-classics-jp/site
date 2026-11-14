@@ -43,4 +43,4 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/staehlin-1905.txt` と各
 | 20-chapter-10-3 | 10 章 100〜104 節 | [x] |
 | 21-chapter-10-4 | 10 章 105〜110 節 | [x] |
 | 22-chapter-11 | 11 章 | [x] |
-| 23-chapter-12 | 12 章 | [ ] |
+| 23-chapter-12 | 12 章 | [x] |
