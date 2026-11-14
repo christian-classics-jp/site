@@ -6,7 +6,7 @@ const { usage, takeOpt, takeFlag } = require('./lib/common')
 const USAGE = `
 Convert a First1KGreek TEI edition into a labeled base text for tools/build.js and tools/verify.js.
 
-usage: node tools/tei2labeled.js <edition.xml> <out.txt> [--split] [--prefix N] [--running-sections] [--add-angle]
+usage: node tools/tei2labeled.js <edition.xml> <out.txt> [--split] [--prefix N] [--running-sections] [--add-angle] [--only L]
 
 Each output line is \`<label> <text>\`. Labels come from the nested textpart divs
 (book, chapter, section) and from <milestone unit="section|subsection">.
@@ -21,6 +21,8 @@ Square brackets holding any Latin letter (editors' references, folio numbers) ar
          Text before the first section milestone of a chapter joins that section's first line.
 --add-angle: an <add> element (an editor's supplement, encoded with or without round brackets)
          is written in angle brackets ⟨…⟩, as in the printed edition (Koetschau's De oratione).
+--only L: keep only the division labeled L (dotted, as in the output: 2.13), e.g. one chapter of an
+         anthology such as the Philocalia. The matched label is dropped (2.13.4 becomes 4.1).
 Prints the word count per top-level division to stderr, for planning pages.
 `
 
@@ -29,13 +31,14 @@ const split = takeFlag(args, '--split')
 const prefix = takeOpt(args, '--prefix')
 const running = takeFlag(args, '--running-sections')
 const addAngle = takeFlag(args, '--add-angle')
+const only = takeOpt(args, '--only')
 usage(USAGE, args.length === 2)
 const [src, out] = args
 
 const ELEMENT = 1
 const TEXT = 3
 const CDATA = 4
-const doc = new DOMParser().parseFromString(fs.readFileSync(src, 'utf8'), 'text/xml')
+const doc = new DOMParser().parseFromString(fs.readFileSync(src, 'utf8').replace(/^\uFEFF/, ''), 'text/xml')
 
 const tag = (el) => el.localName
 const kids = (el) => Array.from(el.childNodes).filter((n) => n.nodeType === ELEMENT)
@@ -161,6 +164,12 @@ const lines = []
 const words = new Map()
 const add = (k, n) => words.set(k, (words.get(k) || 0) + n)
 for (let [lab, text, leaf] of units) {
+  if (only) {
+    const parts = only.split('.')
+    const head = lab.map((x) => (/^\d+$/.test(x || '') ? x : '0'))
+    if (head.slice(0, parts.length).join('.') !== only) continue
+    lab = lab.slice(parts.length)
+  }
   if (prefix) lab = [prefix].concat(lab)
   lab = lab.map((x) => (/^\d+$/.test(x || '') ? x : '0'))
   if (leaf && split) {

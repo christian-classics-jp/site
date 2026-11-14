@@ -1,0 +1,17 @@
+{
+  "title": "オリゲネス『グレゴリオスへの手紙』",
+  "language": "ギリシア語",
+  "base": "books/origen-letter-to-gregory/research/robinson-1893.txt",
+  "digitized": true,
+  "english_name": "ANF 第 4 巻の英訳（F. Crombie 訳）。ANF は手紙を 3 節に分け、ANF の 2 節が底本の 2〜3 節、ANF の 3 節が底本の 4 節に当たる",
+  "print_name": "Robinson 1893 の印刷版（トロント大学のスキャン）",
+  "pages": [
+    {
+      "id": "01-letter",
+      "spec": "1-4",
+      "english": "cache/ccel.org/anf04.txt:39435-39543",
+      "print": "cache/archive.org/philocalia00origuoft/philocalia00origuoft_djvu.txt:5336-5508",
+      "images": "philocalia00origuoft:0122-0125"
+    }
+  ]
+}

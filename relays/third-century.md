@@ -20,7 +20,7 @@
 ## origen-letter-to-gregory　オリゲネス『グレゴリオスへの手紙』（ギリシア語）
 
 - 底本：J. A. Robinson 編、The Philocalia of Origen（Cambridge, 1893）の 13 章。First1KGreek のコミット ed91552c… の `data/tlg2042/tlg019/tlg2042.tlg019.1st1K-grc1.xml`（CC BY-SA 4.0）。手紙は「Χαῖρε ἐν θεῷ, κύριέ μου σπουδαιότατε」から。フィロカリアの編者による 13 章の題も訳すかは、本の AGENTS.md で決める。
-- 印刷版の画像（照合用）：archive.org `philocaliaoforig0000orig`（1893、OCR あり）。
+- 印刷版の画像（照合用）：archive.org `philocaliaoforig0000orig`（1893、OCR あり）。この OCR はギリシア文字がラテン文字に化けていて、IIIF の画像も返らなかったので、照合はトロント大学のスキャン `philocalia00origuoft`（OCR はギリシア文字、IIIF 0122〜0125 ＝ pp. 64〜67）で行う（本の `research/sources.md`）。
 - 英訳：ANF 第 4 巻「A Letter from Origen to Gregory」（`cache/ccel.org/anf04.txt`）。
 - 1 ページで終わる短さ。訳語は origen-on-prayer に揃える。
 
