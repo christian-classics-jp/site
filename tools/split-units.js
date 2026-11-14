@@ -11,6 +11,7 @@ usage: node tools/split-units.js <chapters.txt> <base.txt>
 chapters.txt: one chapter per line, \`<chapter> <text>\` (e.g. \`2 Si certum est denique …\`).
 Each chapter is cut at sentence ends (. ? ! and a closing quote after them; not at ; or :) into
 units of at least 25 words, numbered 1, 2, …; a last piece under 12 words joins the unit before it.
+A period after a praenomen abbreviation (M. Aemilius, Cn., Ti., Sex.) is not a sentence end.
 The same word counts as tools/tei2labeled.js --split.
 The lines \`<chapter>.<n> <unit>\` are appended to base.txt (created if missing). A chapter that is
 already in base.txt, or one not after the last chapter there, is refused.
@@ -20,10 +21,15 @@ const args = process.argv.slice(2)
 usage(USAGE, args.length === 2)
 const [src, base] = args
 
+const ABBR = /(?:^|\s)(?:[A-Z]|Cn|Ti|Sex|Sp|Ap)\.$/
 const words = (a) => a.join(' ').split(/\s+/).filter(Boolean).length
 
 function units (text) {
-  const parts = text.split(/(?<=[.?!][“”"'’]?)\s+/)
+  const parts = []
+  for (const p of text.split(/(?<=[.?!][“”"'’]?)\s+/)) {
+    if (parts.length && ABBR.test(parts[parts.length - 1])) parts[parts.length - 1] += ' ' + p
+    else parts.push(p)
+  }
   const res = []
   let cur = []
   for (const p of parts) {

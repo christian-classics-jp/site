@@ -14,6 +14,6 @@
 | A. Roberts & J. Donaldson 編、Ante-Nicene Fathers 第 3 巻（CCEL の電子テキスト）。S. Thelwall の英訳「The Apology」は l. 1208〜4456（訳者名 l. 1210、1 章 l. 1217、50 章 l. 4377、本文の終わり l. 4455）。各章の本文のあとに、横線を挟んでその章の注を置く。章は底本と同じ 50 章で、節の番号はない。巻末の Elucidations は l. 4459〜。レビューで読み比べに使う | パブリックドメイン | https://ccel.org/ccel/schaff/anf03/cache/anf03.txt | `cache/ccel.org/anf03.txt` | 9299f3fae7c08024 | 2026-11-13 |
 | 口語訳聖書（1955 年版）の本文。FujiHaruka/bible-api の `mysql/sql/create-table.sql.tar.gz` | 1955 年版の本文のみ（日本聖書協会が後に訂正した語句は含まない） | https://github.com/FujiHaruka/bible-api | `../bible-api/mysql/sql/create-table.sql.tar.gz`（リポジトリの外） | 2961c5ac10691409 | 2026-10-26 |
 
-T. R. Glover の英訳（Loeb Classical Library、1931）は使わない。訳者は 1943 年に没したが、1931 年刊の本は米国で 2026 年末まで保護が続きうるため。
+T. R. Glover の英訳（Loeb Classical Library、1931）は使わない。訳者の没年を資料で確かめておらず、1931 年刊の本は米国で 2026 年末まで保護が続きうるため。
 
 archive.org の資料は OCR テキスト（`_djvu.txt`）。Oehler の OCR は本文・校注・注解を混ぜ、上付きの番号を本文の語にくっつけるので、読みを確かめるときはスキャン画像を見る。
