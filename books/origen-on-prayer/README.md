@@ -46,5 +46,5 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/koetschau-1899.txt` と�
 | 24-chapter-29-2 | 29 章 10〜14 節 | [x] |
 | 25-chapter-29-3 | 29 章 15〜19 節 | [x] |
 | 26-chapter-30 | 30 章 | [x] |
-| 27-chapter-31 | 31 章 | [ ] |
+| 27-chapter-31 | 31 章 | [x] |
 | 28-chapter-32-34 | 32〜34 章 | [ ] |
