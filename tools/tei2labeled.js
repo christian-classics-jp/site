@@ -6,7 +6,7 @@ const { usage, takeOpt, takeFlag } = require('./lib/common')
 const USAGE = `
 Convert a First1KGreek TEI edition into a labeled base text for tools/build.js and tools/verify.js.
 
-usage: node tools/tei2labeled.js <edition.xml> <out.txt> [--split] [--prefix N] [--running-sections]
+usage: node tools/tei2labeled.js <edition.xml> <out.txt> [--split] [--prefix N] [--running-sections] [--add-angle]
 
 Each output line is \`<label> <text>\`. Labels come from the nested textpart divs
 (book, chapter, section) and from <milestone unit="section|subsection">.
@@ -19,6 +19,8 @@ Square brackets holding any Latin letter (editors' references, folio numbers) ar
 --running-sections: section milestones count on across chapters and subsection milestones
          divide them (Staehlin's Protrepticus), so labels become chapter.section.subsection.
          Text before the first section milestone of a chapter joins that section's first line.
+--add-angle: an <add> element (an editor's supplement, encoded with or without round brackets)
+         is written in angle brackets ⟨…⟩, as in the printed edition (Koetschau's De oratione).
 Prints the word count per top-level division to stderr, for planning pages.
 `
 
@@ -26,6 +28,7 @@ const args = process.argv.slice(2)
 const split = takeFlag(args, '--split')
 const prefix = takeOpt(args, '--prefix')
 const running = takeFlag(args, '--running-sections')
+const addAngle = takeFlag(args, '--add-angle')
 usage(USAGE, args.length === 2)
 const [src, out] = args
 
@@ -109,6 +112,8 @@ function walk (el, labels, buf) {
         ? '1'
         : child.getAttribute('n')
     } else if (['pb', 'lb', 'head', 'note', 'bibl', 'milestone'].includes(t)) {
+    } else if (t === 'add' && addAngle) {
+      buf.text.push(`⟨${clean(child.textContent).replace(/^\((.*)\)$/, '$1')}⟩`)
     } else {
       buf.text.push(leadText(child))
       walk(child, labels, buf)

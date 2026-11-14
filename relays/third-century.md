@@ -13,8 +13,8 @@
 ## origen-on-prayer　オリゲネス『祈りについて』（ギリシア語）
 
 - 底本：P. Koetschau 編、Origenes Werke II（GCS 3、Leipzig, 1899）。First1KGreek のコミット ed91552c… の `data/tlg2042/tlg008/tlg2042.tlg008.perseus-grc1.xml`（CC BY-SA 4.0、約 28,000 語）。
-- 印刷版の画像（照合用）：archive.org `origeneswerke02orig`（OCR あり）。
-- 読み比べる訳：英語の定評ある権利の切れた訳はない。P. Koetschau のドイツ語訳（Bibliothek der Kirchenväter 1. Reihe 48、München, 1926。訳者は 1939 年没）を使う。https://bkv.unifr.ch/de/works/cpg-1477 の「Text anzeigen」から取れる。CCEL などにある W. A. Curtis の英訳は、出所と権利がはっきりしないので使わない。
+- 印刷版（照合用）：archive.org `origeneswerke02orig`（GCS 3、1899）。OCR は cache にあり、画像は IIIF で leaf ＝ ページ＋12。略号表と成立の記述は第 1 巻 `origeneswerke01orig` の序（cache にある）。
+- 読み比べる訳：英語の定評ある権利の切れた訳はない。P. Koetschau のドイツ語訳（Bibliothek der Kirchenväter 1. Reihe 48、München, 1926。訳者は 1939 年没）を使う。BKV の EPUB を `tools/epub2txt.js` で 1 行 1 節にしたものが cache にある（pages.json の `english`）。CCEL などにある W. A. Curtis の英訳は、出所と権利がはっきりしないので使わない。
 - 揃える本：アレクサンドリアの神学の語彙は clement-protrepticus と『救われる富者とは誰か』。主の祈りの句は、後で訳すテルトゥリアヌスとキプリアヌスの祈りの論考と揃うよう、本の AGENTS.md に訳を決めて書く。
 
 ## origen-letter-to-gregory　オリゲネス『グレゴリオスへの手紙』（ギリシア語）

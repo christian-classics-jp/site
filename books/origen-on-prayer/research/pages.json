@@ -1,0 +1,206 @@
+{
+  "title": "オリゲネス『祈りについて』",
+  "language": "ギリシア語",
+  "base": "books/origen-on-prayer/research/koetschau-1899.txt",
+  "digitized": true,
+  "english_name": "P. Koetschau のドイツ語訳（Bibliothek der Kirchenväter 1. Reihe 48、München, 1926）。英訳ではない（英語の定評ある権利の切れた訳がない）。BKV の EPUB を tools/epub2txt.js で 1 行 1 節（章.節）にした。章と節の番号は底本と同じ。本文の行範囲の後ろに、そのページの注の行範囲を付けた。訳者は 1899 年の後に採った改めに従うところがあり、訳は底本（1899）に従う",
+  "print_name": "Koetschau 1899（GCS 3）の印刷版",
+  "pages": [
+    {
+      "id": "01-chapter-01-02",
+      "spec": "1-2",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:4-11; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:171-215",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:21021-21499",
+      "images": "origeneswerke02orig:0309-0316"
+    },
+    {
+      "id": "02-chapter-03-04",
+      "spec": "3-4",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:12-17; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:216-245",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:21500-21781",
+      "images": "origeneswerke02orig:0316-0320"
+    },
+    {
+      "id": "03-chapter-05",
+      "spec": "5",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:18-24; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:246-267",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:21782-22036",
+      "images": "origeneswerke02orig:0320-0323"
+    },
+    {
+      "id": "04-chapter-06-07",
+      "spec": "6-7",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:25-30; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:268-291",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:22037-22360",
+      "images": "origeneswerke02orig:0323-0328"
+    },
+    {
+      "id": "05-chapter-08-10",
+      "spec": "8-10",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:31-37; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:292-333",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:22361-22673",
+      "images": "origeneswerke02orig:0328-0333"
+    },
+    {
+      "id": "06-chapter-11-12",
+      "spec": "11-12",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:38-44; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:334-371",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:22674-22953",
+      "images": "origeneswerke02orig:0333-0337"
+    },
+    {
+      "id": "07-chapter-13",
+      "spec": "13",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:45-49; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:372-414",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:22954-23293",
+      "images": "origeneswerke02orig:0337-0342"
+    },
+    {
+      "id": "08-chapter-14",
+      "spec": "14",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:50-56; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:415-437",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:23294-23537",
+      "images": "origeneswerke02orig:0342-0345"
+    },
+    {
+      "id": "09-chapter-15",
+      "spec": "15",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:57-60; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:438-455",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:23538-23728",
+      "images": "origeneswerke02orig:0345-0348"
+    },
+    {
+      "id": "10-chapter-16-17",
+      "spec": "16-17",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:61-67; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:456-483",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:23729-24018",
+      "images": "origeneswerke02orig:0348-0352"
+    },
+    {
+      "id": "11-chapter-18-19",
+      "spec": "18-19",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:68-73; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:484-509",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:24019-24253",
+      "images": "origeneswerke02orig:0352-0355"
+    },
+    {
+      "id": "12-chapter-20-21",
+      "spec": "20-21",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:74-77; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:510-539",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:24254-24451",
+      "images": "origeneswerke02orig:0355-0358"
+    },
+    {
+      "id": "13-chapter-22",
+      "spec": "22",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:78-82; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:540-576",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:24452-24664",
+      "images": "origeneswerke02orig:0358-0361"
+    },
+    {
+      "id": "14-chapter-23",
+      "spec": "23",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:83-87; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:577-616",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:24665-24920",
+      "images": "origeneswerke02orig:0361-0365"
+    },
+    {
+      "id": "15-chapter-24",
+      "spec": "24",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:88-93; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:617-650",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:24921-25145",
+      "images": "origeneswerke02orig:0365-0368"
+    },
+    {
+      "id": "16-chapter-25",
+      "spec": "25",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:94-96; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:651-683",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:25146-25317",
+      "images": "origeneswerke02orig:0368-0371"
+    },
+    {
+      "id": "17-chapter-26",
+      "spec": "26",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:97-102; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:684-722",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:25318-25620",
+      "images": "origeneswerke02orig:0371-0375"
+    },
+    {
+      "id": "18-chapter-27-1",
+      "spec": "27.1-27.7",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:103-109; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:723-757",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:25621-25871",
+      "images": "origeneswerke02orig:0375-0379"
+    },
+    {
+      "id": "19-chapter-27-2",
+      "spec": "27.8-27.12",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:110-114; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:758-787",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:25872-26149",
+      "images": "origeneswerke02orig:0379-0383"
+    },
+    {
+      "id": "20-chapter-27-3",
+      "spec": "27.13-27.17",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:115-119; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:788-827",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:26150-26417",
+      "images": "origeneswerke02orig:0383-0387"
+    },
+    {
+      "id": "21-chapter-28-1",
+      "spec": "28.1-28.6",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:120-125; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:828-851",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:26418-26684",
+      "images": "origeneswerke02orig:0387-0391"
+    },
+    {
+      "id": "22-chapter-28-2",
+      "spec": "28.7-28.10",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:126-129; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:852-875",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:26685-26830",
+      "images": "origeneswerke02orig:0391-0393"
+    },
+    {
+      "id": "23-chapter-29-1",
+      "spec": "29.1-29.9",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:130-138; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:876-920",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:26831-27146",
+      "images": "origeneswerke02orig:0393-0397"
+    },
+    {
+      "id": "24-chapter-29-2",
+      "spec": "29.10-29.14",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:139-143; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:921-940",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:27147-27419",
+      "images": "origeneswerke02orig:0397-0401"
+    },
+    {
+      "id": "25-chapter-29-3",
+      "spec": "29.15-29.19",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:144-148; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:941-969",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:27420-27644",
+      "images": "origeneswerke02orig:0401-0405"
+    },
+    {
+      "id": "26-chapter-30",
+      "spec": "30",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:149-152; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:970-994",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:27645-27804",
+      "images": "origeneswerke02orig:0405-0407"
+    },
+    {
+      "id": "27-chapter-31",
+      "spec": "31",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:153-160; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:995-1029",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:27805-28169",
+      "images": "origeneswerke02orig:0407-0412"
+    },
+    {
+      "id": "28-chapter-32-34",
+      "spec": "32-34",
+      "english": "cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:161-168; cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt:1030-1042",
+      "print": "cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt:28170-28368",
+      "images": "origeneswerke02orig:0412-0415"
+    }
+  ]
+}

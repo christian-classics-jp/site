@@ -14,7 +14,7 @@
 
 | 作品 | 原語 | 備考 |
 |---|---|---|
-| オリゲネス『祈りについて』 | ギリシア語 | 電子テキスト：Koetschau 編 GCS『オリゲネス著作集』第 2 巻（1899）、`tlg2042.tlg008.perseus-grc1`。約 28,000 語。ANF にはない。CCEL に W. A. Curtis の英訳があり、CCEL は Public Domain と表示するが、刊行年と訳者の没年は未確認 |
+| オリゲネス『祈りについて』 | ギリシア語 | 翻訳中（`books/origen-on-prayer/`）。電子テキスト：Koetschau 編 GCS『オリゲネス著作集』第 2 巻（1899）、`tlg2042.tlg008.perseus-grc1`。約 28,000 語。ANF にはない。CCEL に W. A. Curtis の英訳があり、CCEL は Public Domain と表示するが、刊行年と訳者の没年は未確認 |
 | オリゲネス『殉教の勧め』 | ギリシア語 | 電子テキスト：Koetschau 編 GCS 第 1 巻（1899）、`tlg2042.tlg007.perseus-grc1`。約 12,000 語。権利の切れた英訳は見つからない |
 | オリゲネス『グレゴリオスへの手紙』 | ギリシア語 | 電子テキスト：Robinson 編『フィロカリア』（1893）、`tlg2042.tlg019.1st1K-grc1` の 13 章。1 ページで終わる短さ。英訳は ANF 第 4 巻 |
 | テルトゥリアヌス『護教論』 | ラテン語 | スキャン：Oehler 編、著作集第 1 巻（1853、archive.org `quintiseptimiifl0001fanc`）。OCR は読める。約 20,000 語。英訳は ANF 第 3 巻 |
