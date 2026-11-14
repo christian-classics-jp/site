@@ -20,4 +20,4 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/robinson-1893.txt` と `b
 
 | 節 | 範囲 | 訳 |
 |---|---|---|
-| 01-letter | 1〜4 節 | [ ] |
+| 01-letter | 1〜4 節 | [x] |
