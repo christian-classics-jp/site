@@ -1,0 +1,150 @@
+{
+  "title": "テルトゥリアヌス『護教論』",
+  "language": "ラテン語",
+  "base": "books/tertullian-apology/research/oehler-1853.txt",
+  "digitized": false,
+  "english_name": "ANF 第 3 巻の英訳（S. Thelwall 訳）。章は底本と同じ 50 章で、節の番号はない。各章の本文のあとにその章の注がある",
+  "print_name": "Oehler 1853 の印刷版（各ページの上の数行が本文、その下に校注と二段組みの注解。OCR はそれらを混ぜて並べ、範囲は前後のページと重なる）",
+  "pages": [
+    {
+      "id": "chapter-01",
+      "spec": "1",
+      "english": "cache/ccel.org/anf03.txt:1217-1313",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:13900-14522",
+      "images": "quintiseptimiifl0001fanc:0141-0146"
+    },
+    {
+      "id": "chapter-02-03",
+      "spec": "2-3",
+      "english": "cache/ccel.org/anf03.txt:1314-1512",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:14345-15793",
+      "images": "quintiseptimiifl0001fanc:0146-0156"
+    },
+    {
+      "id": "chapter-04-06",
+      "spec": "4-6",
+      "english": "cache/ccel.org/anf03.txt:1513-1721",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:15551-17152",
+      "images": "quintiseptimiifl0001fanc:0156-0166"
+    },
+    {
+      "id": "chapter-07-08",
+      "spec": "7-8",
+      "english": "cache/ccel.org/anf03.txt:1722-1849",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:16939-18029",
+      "images": "quintiseptimiifl0001fanc:0166-0173"
+    },
+    {
+      "id": "chapter-09",
+      "spec": "9",
+      "english": "cache/ccel.org/anf03.txt:1850-1972",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:17729-19498",
+      "images": "quintiseptimiifl0001fanc:0173-0183"
+    },
+    {
+      "id": "chapter-10-11",
+      "spec": "10-11",
+      "english": "cache/ccel.org/anf03.txt:1973-2131",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:19179-20263",
+      "images": "quintiseptimiifl0001fanc:0183-0190"
+    },
+    {
+      "id": "chapter-12-14",
+      "spec": "12-14",
+      "english": "cache/ccel.org/anf03.txt:2132-2279",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:20067-21920",
+      "images": "quintiseptimiifl0001fanc:0190-0201"
+    },
+    {
+      "id": "chapter-15-17",
+      "spec": "15-17",
+      "english": "cache/ccel.org/anf03.txt:2280-2472",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:21616-23825",
+      "images": "quintiseptimiifl0001fanc:0201-0214"
+    },
+    {
+      "id": "chapter-18-20",
+      "spec": "18-20",
+      "english": "cache/ccel.org/anf03.txt:2473-2603",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:23529-25094",
+      "images": "quintiseptimiifl0001fanc:0214-0225"
+    },
+    {
+      "id": "chapter-21",
+      "spec": "21",
+      "english": "cache/ccel.org/anf03.txt:2604-2808",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:24866-26508",
+      "images": "quintiseptimiifl0001fanc:0225-0236"
+    },
+    {
+      "id": "chapter-22-23",
+      "spec": "22-23",
+      "english": "cache/ccel.org/anf03.txt:2809-2999",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:26229-27764",
+      "images": "quintiseptimiifl0001fanc:0236-0246"
+    },
+    {
+      "id": "chapter-24-26",
+      "spec": "24-26",
+      "english": "cache/ccel.org/anf03.txt:3000-3182",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:27570-29254",
+      "images": "quintiseptimiifl0001fanc:0246-0256"
+    },
+    {
+      "id": "chapter-27-31",
+      "spec": "27-31",
+      "english": "cache/ccel.org/anf03.txt:3183-3358",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:28760-30402",
+      "images": "quintiseptimiifl0001fanc:0256-0266"
+    },
+    {
+      "id": "chapter-32-35",
+      "spec": "32-35",
+      "english": "cache/ccel.org/anf03.txt:3359-3527",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:30098-31950",
+      "images": "quintiseptimiifl0001fanc:0266-0278"
+    },
+    {
+      "id": "chapter-36-38",
+      "spec": "36-38",
+      "english": "cache/ccel.org/anf03.txt:3528-3645",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:31695-32653",
+      "images": "quintiseptimiifl0001fanc:0278-0284"
+    },
+    {
+      "id": "chapter-39",
+      "spec": "39",
+      "english": "cache/ccel.org/anf03.txt:3646-3775",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:32359-34360",
+      "images": "quintiseptimiifl0001fanc:0284-0296"
+    },
+    {
+      "id": "chapter-40-42",
+      "spec": "40-42",
+      "english": "cache/ccel.org/anf03.txt:3776-3952",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:34129-35548",
+      "images": "quintiseptimiifl0001fanc:0296-0306"
+    },
+    {
+      "id": "chapter-43-46",
+      "spec": "43-46",
+      "english": "cache/ccel.org/anf03.txt:3953-4134",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:35348-36959",
+      "images": "quintiseptimiifl0001fanc:0306-0316"
+    },
+    {
+      "id": "chapter-47-48",
+      "spec": "47-48",
+      "english": "cache/ccel.org/anf03.txt:4135-4338",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:36583-38184",
+      "images": "quintiseptimiifl0001fanc:0316-0325"
+    },
+    {
+      "id": "chapter-49-50",
+      "spec": "49-50",
+      "english": "cache/ccel.org/anf03.txt:4339-4456",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:37806-39000",
+      "images": "quintiseptimiifl0001fanc:0325-0332"
+    }
+  ]
+}

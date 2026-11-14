@@ -29,6 +29,7 @@
 - 底本：F. Oehler 編、Q. Septimii Florentis Tertulliani quae supersunt omnia I（Leipzig, 1853）。archive.org `quintiseptimiifl0001fanc`。本文は djvu の l. 13906 ごろ（Si non licet vobis, Romani imperii antistites）から。ラテン語の OCR は読めるが、本文は画像から起こして OCR と突き合わせる（オクタウィウスと同じ）。約 20,000 語、50 章。
 - 英訳：ANF 第 3 巻「Apology」（`cache/ccel.org/anf03.txt`）。ほかに T. R. Glover の英訳（Loeb、1931）があるが、訳者の没年を確かめるまで使わない。
 - 揃える本：オクタウィウス（『護教論』と多くの論じ方を共有する）、ペルペトゥアとフェリキタスの殉教録、スキリウムの殉教者行伝（同じカルタゴ）。ローマの官職名、神々の名、法廷の語彙はこれらに合わせる。
+- 底本テキスト（`research/oehler-1853.txt`）は、本を始めたときに 1 章だけ起こした。各ページのセッションは、page-context を作る前に、そのページの章を Oehler の画像（`pages.json` の `images`）から起こし、`tools/split-units.js` で節に切って足す（本の AGENTS.md の「節の形」「底本の扱い」）。起こさないと page-context は空の抜粋を書き出す。
 
 ## tertullian-treatises　テルトゥリアヌス小品集（ラテン語）
 

@@ -28,7 +28,7 @@ description: ギリシア語・ラテン語の原文から訳す新しい本を 
 node tools/tei2labeled.js <TEI の xml> books/<本>/research/<編者>-<年>.txt [--split] [--prefix N]
 ```
 
-`--split` は節のない版の章を文の切れ目で分け、この訳の番号を付ける。そのときは README と本の AGENTS.md に「節番号はこの訳で付けたもの」と書く（レビュアーが版の番号と照らさないように）。実行したコマンドは README に書く。First1KGreek・Open Apostolic Fathers の本文は CC BY-SA 4.0 なので、README に出典とライセンスを書く。
+`--split` は節のない版の章を文の切れ目で分け、この訳の番号を付ける。画像から起こす節のない版は、起こした章を 1 章 1 行で `node tools/split-units.js <章.txt> <底本.txt>` に渡すと、同じ考え方で切って足す（tertullian-apology）。そのときは README と本の AGENTS.md に「節番号はこの訳で付けたもの」と書く（レビュアーが版の番号と照らさないように）。実行したコマンドは README に書く。First1KGreek・Open Apostolic Fathers の本文は CC BY-SA 4.0 なので、README に出典とライセンスを書く。
 
 ## 3. ページの割り（research/pages.json）
 
