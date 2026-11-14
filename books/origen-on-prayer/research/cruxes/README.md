@@ -24,7 +24,7 @@
 第 1 巻の略号表（pp. XCI〜XCII）で、画像で左の略号まで確かめた（画像 0095_pct:0,50,100,50.jpg、0096_pct:0,0,100,50.jpg）。OCR は Ausgg.・Bent.・Bo.・Del.・Hö. の行の左の略号を落としている（l. 5267〜5283）。
 
 - T：Cod. Cantabrig. Coll. S. Trinitatis B. 8. 10（もと Holm.）、14〜15 世紀（l. 5243）。この作品のほぼ唯一の写本。
-- Col：Cod. Regius Parisinus Gr. 1788（もと Colbertinus 3607）、15 世紀（l. 5234）。断片。
+- Col：Cod. Regius Parisinus Gr. 1788（もと Colbertinus 3607）、15 世紀（l. 5234）。断片で、31.1 の始めから 33.3 の ἐκπλαγέντος まで（II 395, 13〜402, 13〜14）を含み、終わりの紙葉は失われている（第 1 巻 l. 4857〜4858、4891〜4897）。
 - Angl.：無名の英国の学者。この作品への校訂と解釈の注が Reading の版と Delarue 版第 1 巻の巻末に載る（l. 5263〜5265）。欄では「bei Del. I 911a」のように Delarue 版の巻末のページで挙げる。
 - Ausgg.：この作品では Oxford（初版）、London（Reading）、Paris（Delarue）の三つの刊本（l. 5269〜5270）。『ケルソス駁論』では Hoeschel、Spencer、Delarue の刊本を指す（l. 5267）。「T Ausgg.」は写本とこの三つの刊本が一致する読み。
 - Bent.：Richard Bentley。この作品への校訂の注を Delarue が本文の下に載せた（l. 5272〜5273）。欄では「bei Del. I 197 Anm. b」のように Delarue 版の注で挙げる。
