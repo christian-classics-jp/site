@@ -71,7 +71,13 @@ if (fs.existsSync(intro)) {
 
 check(read(path.join(ROOT, 'static', 'index.html')).includes(`./${book}/`), 'static/index.html links to the book')
 const short = title.includes('『') ? title.replace(/^.*『|』.*$/g, '') : title
-check(!(short && read(path.join(ROOT, 'CANDIDATES.md')).includes(short)), `CANDIDATES.md no longer lists 「${short}」`)
+const listsBook = (line) => {
+  if (line.includes(`books/${book}/`)) return true
+  const cell = line.startsWith('|') ? line.split('|')[1].trim() : ''
+  const works = cell.match(/『[^』]*』/g) || []
+  return works.length ? works.length === 1 && works[0] === `『${short}』` : cell === short
+}
+check(!(short && read(path.join(ROOT, 'CANDIDATES.md')).split('\n').some(listsBook)), `CANDIDATES.md no longer lists 「${short}」`)
 check(!readme.includes('.claude/handoffs'), 'README has no path outside the repository')
 
 for (const m of oks) console.log('OK  ', m)
