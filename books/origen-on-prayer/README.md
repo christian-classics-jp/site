@@ -36,7 +36,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/koetschau-1899.txt` と�
 | 14-chapter-23 | 23 章 | [x] |
 | 15-chapter-24 | 24 章 | [x] |
 | 16-chapter-25 | 25 章 | [x] |
-| 17-chapter-26 | 26 章 | [ ] |
+| 17-chapter-26 | 26 章 | [x] |
 | 18-chapter-27-1 | 27 章 1〜7 節 | [ ] |
 | 19-chapter-27-2 | 27 章 8〜12 節 | [ ] |
 | 20-chapter-27-3 | 27 章 13〜17 節 | [ ] |
