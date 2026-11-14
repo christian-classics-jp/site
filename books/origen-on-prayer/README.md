@@ -24,7 +24,7 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/koetschau-1899.txt` と�
 | 02-chapter-03-04 | 3〜4 章 | [x] |
 | 03-chapter-05 | 5 章 | [x] |
 | 04-chapter-06-07 | 6〜7 章 | [x] |
-| 05-chapter-08-10 | 8〜10 章 | [ ] |
+| 05-chapter-08-10 | 8〜10 章 | [x] |
 | 06-chapter-11-12 | 11〜12 章 | [ ] |
 | 07-chapter-13 | 13 章 | [ ] |
 | 08-chapter-14 | 14 章 | [ ] |
