@@ -2,9 +2,8 @@
 
 新しいサブエージェント（fork ではない）に、`tools/page-context.js` が作った依頼文をそのまま渡した。依頼文は、論点一覧と照合ができた後に作り直したもの。渡した資料：
 
-- ルートの `AGENTS.md`、本の `AGENTS.md`、`src/16-chapter-25/both.md`、前のページの `src/15-chapter-24/jp.md`
+- ルートの `AGENTS.md`、本の `AGENTS.md`、`src/16-chapter-25/both.md`（底本は原文の行として入っている）、前のページの `src/15-chapter-24/jp.md`
 - 論点一覧 `research/cruxes/16-chapter-25.md`（略号は `research/cruxes/README.md`）と照合 `research/collation/16-chapter-25.md`
-- 底本の抜粋（`research/koetschau-1899.txt` の 25.1〜25.3）と印刷版 OCR `cache/archive.org/origeneswerke02orig/origeneswerke02orig_djvu.txt` l. 25146〜25350
 - P. Koetschau のドイツ語訳（BKV 48、1926）`cache/bkv.unifr.ch/files/vom-gebet-bkv/vom-gebet-bkv_deutsch_145.txt` の 25 章の本文（l. 94〜96）と注（l. 651〜683）の抜粋
 
 訳者がなぜそう訳したかは渡していない。
