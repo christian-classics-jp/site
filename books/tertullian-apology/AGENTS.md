@@ -30,7 +30,7 @@
 - 属州を治める長官たち（1.1 の Romani imperii antistites、praesides）に宛てた弁明なので、地の文は敬体（「〜です」「〜ます」）。書き手のテルトゥリアヌスは「わたし」、キリスト者全体は「わたしたち」。
 - 読み手の長官たち（vos）は「あなたがた」。長官や皇帝の動作に尊敬語は使わない（『第一弁明』『キリスト者のための嘆願』と同じ。「ご覧ください」も使わず「見てください」。8:1）。二人称単数は「あなた」とし、「あなたがた」と分ける。言い分を持ち出した相手に言い返すところ（1.15 の potes、revinceris）、一人の裁き手に向けた tu、existimas、cogis（2.13、2.17〜2.18）がこれに当たる。擬人化した判決（2.7 の censura）への呼びかけは「判決よ、…あなたは」。噂を信じる一人に向けて、入信の手順を皮肉に命じるところ（8.2〜8.3 の Veni, demerge …）は「さあ、来なさい」「〜なさい」。
 - キリスト者の神とキリストの動作は尊敬語にする。受肉を語る文では、「生まれる」も「お生まれになる」とし、同じ文の「降られる」などと敬語を揃える（21:7、21:14）。quis（だれが）などの疑問詞が神を指すときも尊敬語にする（30:1「だれが支配をお与えになったか」）。異教の神々、ダイモン、哲学者や詩人の説として述べる神には使わない（『オクタウィウス』と同じ）。異教の側の理屈を受けて仮に立てる、人間を神々にした「もっと高い神」（11.1 の sublimior deus、11.3 の ille magnus deus、11.10 の deus deificus、11.16〜11.17 の ille）にも使わず、「あの神」と呼ぶ。
-- 相手の言い分を先に持ち出して反論するところ（inquit、inquitis、inquis、dicitis）は、その言い分を「」に入れ、「と、あなたがたは言います」「と、人は言います」と受ける（地の文なので結びは敬体。1:11、9:5）。「」の中は常体（『オクタウィウス』25:1 と同じ）。inquit のない at enim で反論を持ち出すところも同じにし、「と、人は言うでしょう」と受ける（3:9。『オクタウィウス』32:4 と同じ）。at enim もなく地の文の形で相手の反論を置くところ（8.6 の Sed ignorantibus subicitur et inponitur、14.5 の Sed propterea damnatus est Socrates、25.10 の Sed postea Romani … regnaverunt?。25.10 は Oehler の注 m に従う）も、注釈者が反論と取るなら同じにする。相手の叫びを先取りするところ（12.6 の O impiae voces, o sacrilega convicia!）は「と、あなたがたは言うでしょう」。言い分の頭の Sed は「」の中で「しかし、」と残す（13:1、14:5）。言い分を持ち出す相手が単数の inquis（13.1）は「と、あなたは言います」とし、言い分の文言は複数の inquitis（10.4）と揃える。未来の dicet aliquis（46.18）は「と、ある人は言うでしょう」とし、言い分の中の de nostris（わたしたちの仲間）は、言う人の側から「あなたがたの中」と言い換える。 ただし、相手の言い分ではなく、相手の典拠で言い返すところの At enim（16.2 の At enim idem Cornelius Tacitus）は、「」に入れず「しかし実際、」とする。キリスト者の側の主張を述べる At enim（38.2 の At enim nobis … nulla est necessitas coetus）も同じ。
+- 相手の言い分を先に持ち出して反論するところ（inquit、inquitis、inquis、dicitis）は、その言い分を「」に入れ、「と、あなたがたは言います」「と、人は言います」と受ける（地の文なので結びは敬体。1:11、9:5）。「」の中は常体（『オクタウィウス』25:1 と同じ）。inquit のない at enim で反論を持ち出すところも同じにし、「と、人は言うでしょう」と受ける（3:9。『オクタウィウス』32:4 と同じ）。at enim もなく地の文の形で相手の反論を置くところ（8.6 の Sed ignorantibus subicitur et inponitur、14.5 の Sed propterea damnatus est Socrates、25.10 の Sed postea Romani … regnaverunt?。25.10 は Oehler の注 m に従う）も、注釈者が反論と取るなら同じにする。相手の叫びを先取りするところ（12.6 の O impiae voces, o sacrilega convicia!）は「と、あなたがたは言うでしょう」。言い分の頭の Sed は「」の中で「しかし、」と残す（13:1、14:5）。言い分を持ち出す相手が単数の inquis（13.1）は「と、あなたは言います」とし、言い分の文言は複数の inquitis（10.4）と揃える。未来の dicet aliquis（46.18）は「と、ある人は言うでしょう」とし、言い分の中の de nostris（わたしたちの仲間）は、言う人の側から「あなたがたの中」と言い換える。 ただし、相手の言い分ではなく、相手の典拠で言い返すところの At enim（16.2 の At enim idem Cornelius Tacitus）は、「」に入れず「しかし実際、」とする。キリスト者の側の主張を述べる At enim（38.2 の At enim nobis … nulla est necessitas coetus）と、哲学者との扱いの違いを示す At enim（48.2 の At enim Christianus si …）も同じ。
 - 著者が異教の神々にじかに呼びかけるところ（23.6 の Ista ipsa Virgo Caelestis …, ipse iste Aesculapius … fundite!。Oehler の注 p に従い、カエレスティスとアエスクラピウスへの呼びかけと取る。nisi se daemones confessi fuerint は sumministraturi の条件で、fundite は条件のない挑発）は、「カエレスティスよ」「〜はずだった者たちよ」と呼びかけ、命令は「〜してみなさい」とする。長官たちへの「あなたがた」と紛れないように、代名詞は使わない。ダイモンに挑む三人称の命令（23.16〜23.17 の rideant、negent、dicant、refutent、renuant）は「〜してみればよいのです」。
 - 問いを持ち出す言葉の後に、底本がコロンと大文字で問いを刷るところ（23.14 の Dicent ibidem: Et quis ille Christus cum sua fabula?）は、その問いだけを「」に入れ、続く si … si …（ダイモンが答える中身）は地の文で訳す。キリスト者の信仰の中身なので、キリストの動作は尊敬語にする（23:14〜23:15）。
 - 訴えられたキリスト者や、名をそしる人々の言葉（2.13〜2.14、3.1〜3.5）も「」に入れ、常体にする。祭儀の父が入信を望む者に言う言葉（8.8）も「」に入れて常体にし、相手は「おまえ」。Christianus sum は「わたしはキリスト者だ」（『スキリウムの殉教者行伝』『ペルペトゥアとフェリキタスの殉教録』と同じ）。1 節 1 行なので、言葉が節をまたぐときは節ごとに「」を閉じ、次の節で開き直す（2:13〜2:14、3:4〜3:5）。 民衆の叫びが節の終わりにあり、それを受ける動詞が節の切れ目で次の節の頭に来るところ（40.2〜40.3 の … ad leonem! / adclamatur.）は、叫びを前の節で「」に入れて閉じ、次の節を「そう叫ばれるのです」で始める（40:3）。民衆の口癖（17.5 の Deus bonus et magnus、Deus videt など）も「」に入れて言い切りの常体にし、原文が呼格でなければ呼びかけにしない（「神は善く、偉大だ」。『オクタウィウス』18:11 と同じ）。民衆が叫ぶ歓呼（35.7 の adclamant: De nostris annis augeat tibi Iupiter annos!）は、底本が詩の行に組んでいても、25.8 の詩句の引用ではなく人々の言葉なので「」に入れ、詩の形は `// ` メモに書く。凱旋の車の皇帝にささやかれる言葉（33.5 の Respice post te! Hominem te memento!）も「」。著者が ut merito dixerim: のようにコロンと大文字で示す自分の言い切り（33.1 の Noster est magis Caesar …）も「」に入れて常体にする。人の言葉として引く格言（39.14 のディオゲネスの言葉）も「」。異教徒の言葉の合間に著者が差し挟む皮肉（39.8 の ipsi enim invicem oderunt）は「」の外に置き、enim を「〜からです」で受ける。
@@ -87,7 +87,7 @@
 | licentia／luxuria（35.3） | 放縦／放蕩（同じ文に並ぶので訳し分ける）。licentia と並ばない 9.18 の luxuriae は「放縦」のまま。良い意味で許されていることを言う 46.3 の licentiam impunitatemque disciplinae は「教えを奉じる自由と、罰を受けないこと」 |
 | specularis（materia）（35.6） | 窓にはめる透き通った石のような（lapis specularis。ad translucendum と並ぶので「鏡のような」にしない） |
 | plausores（35.11） | 加勢する者たち（Oehler の注 b の fautores, auxiliatores。「喝采した者」にしない） |
-| factio／coetus（38.1〜38.2。見世物の場の coetus（42.6）は 39 章の「集い」） | 結社（licitae・inlicitae factiones「許された・許されない結社」。39.1 の Christianae factionis もこれに揃える）／徒党を組む（38.2 の necessitas coetus「徒党を組む必要」。39 章の集まりと紛れないように） |
+| factio／coetus（38.1〜38.2。見世物の場の coetus（42.6）は 39 章の「集い」。48.2 の nec saltim coetibus a populo exigetur は、注 d に従い「話を聞く集いのためにさえ求められず」） | 結社（licitae・inlicitae factiones「許された・許されない結社」。39.1 の Christianae factionis もこれに揃える）／徒党を組む（38.2 の necessitas coetus「徒党を組む必要」。39 章の集まりと紛れないように） |
 | coire・coitio／coetus／congregatio・congregari・convenire／conventus（39 章） | 寄り合う・寄り合い（Oehler の注 b のとおり結社の語なので、「集まる」と分ける）／集い／集まり・集まる／会合（39.4） |
 | comitia／concilia／curiae／contiones（38.1） | 民会／集会／議会／演説の集い。factio と対になる curia（39.22）も「議会」。区と組合のあいだに並ぶ市民の区分の curiae（39.15）は「市民の組」 |
 | circus／theatrum／arena／xystus（38.3） | 戦車競走場／劇場／闘技場／運動場（『オクタウィウス』37:11 の「戦車競走」に揃える） |
@@ -118,7 +118,12 @@
 | denotare | 文脈で訳し分ける。数や名を言い立てられるときは「非難される」（1:8）、人の過ちを指摘するときは「とがめる」（1:9、3:4。37.3 の denotatis も、Oehler の注 a に従い二人称複数の動詞と取って「とがめたことがあるでしょうか」）、名を挙げて責められるときは「名指しされる」（1:14）。「言いとがめる」は使わない |
 | interdum | 「さしあたり」（テルトゥリアヌスの interim の意味。1:3）。nonnunquam と並ぶなど「ときには」の意味のとき（22.9）は「ときには」 |
 | crimen／scelus／noxa／nocens／reus | 罪／悪事（『オクタウィウス』と同じ）／罪／罪人／罪人（訴えられた者は「訴えられる」と動詞で）。属格を取って「〜に対して罪ある」と言う reus（40.12 の Illius rea est「その方に対して罪ある者」）と、公の災いの責めを負う rei（41.1 の rei publicorum incommodorum inlices）は「罪ある者」（注 40 章 s、注 41 章 a） |
-| meritum（41.1、41.5、41.6） | 罪（注 41 章 c。教会の書き手の用法で peccatum の意味。「功績」にしない。a meritis Christianorum は「キリスト者の罪から」、vestris meritis deputatur は「あなたがたの罪のせいにされる」） |
+| meritum（41.1、41.5、41.6）／meritum・merere（48.5、48.14） | 罪（注 41 章 c。教会の書き手の用法で peccatum の意味。「功績」にしない。a meritis Christianorum は「キリスト者の罪から」、vestris meritis deputatur は「あなたがたの罪のせいにされる」）／善悪の裁きを言うところは「値打ち」「値する」（48.5 の boni seu contrarii meriti iudicium「善い、あるいはその反対の値打ちについての裁き」、48.14 の quod … boni seu mali meruit「値した善か悪か」） |
+| gehenna／paradisus／inferi | 地獄（47.10。口語訳のマタイ五・二二、『第一弁明』19:6〜19:7 と同じ）／パラダイス（47.11。口語訳のルカ二三・四三）／冥府（名前の表） |
+| expungere（48.14）／erogare（48.16）／apparere（48.16） | 決着をつける（注 48 章 r。44.1 の dispungere と同じく「決着をつける」）／使い尽くす（注 48 章 u）／仕える（qui usui humano, alius qui iudicio dei apparet「人間の用に仕える火と、神の裁きに仕える火」。13:9 の apparet「仕える」と同じ） |
+| conditio・condicio（48.4、48.12、48.13） | ありさま（48.4。注 g。effigies「姿」と対）／定め（48.12 の conditionis tuae legem「自分の定めの法」、48.13 の distincta condicione「区切った定め」） |
+| praescribere（47.8） | 抗弁する（7:2 の「抗弁」と同じ。注 47 章 r が送る 7 章の注 d） |
+| paratura（47.7） | 備え（22:11 の caelestes paraturas「天の備え」と同じ。novitiola paratura は「できて間もない備え」） |
 | exactor（40.10） | （罪の）償いを取り立てる方（nocentiae iudicem et exactorem「罪の裁き手であり、その償いを取り立てる方」） |
 | denique | 1.12 は「現に」。一つ例を挙げる意味の Denique（40.14。注 40 章 t）は「たとえば」、前を受けて促す Denique（42.8。注 42 章 m）は「それなら」 |
 | vectigalia（42.7、42.9） | 神殿の収入（templorum vectigalia）／税（cetera vectigalia「ほかの税」） |
@@ -130,7 +135,7 @@
 | factitator（46.11） | 作り手（21:9〜21:10 の「万物の作り手」に揃える。哲学者の説の神なので「造り主」にしない） |
 | lenones／perductores／aquarioli／sicarii／venenarii／aruspices／arioli／mathematici（43.1） | 取り持ち屋／連れ込み屋／その下働きの水汲み（注 43 章 a）／刺客（44.2 も）／毒を盛る者／腸卜師（35:12 と同じ）／占い師／占星術師（35.12 の astrologos と同じ人々なので同じ訳） |
 | manticularius／lavantium praedo（44.2） | すり（注 c）／浴場の泥棒（注 d） |
-| fides／fidelis（43〜46 章） | 46.1 の fides divinarum litterarum は「神の書物が確かであること」、46.8 の ex fide は注 o に従い「本心から」、46.16 の fides・fidelis は預かり物を返す「誠実」「誠実な者」（「信者」との掛け言葉は `// ` メモに書く） |
+| fides／fidelis（43〜48 章） | 46.1 の fides divinarum litterarum は「神の書物が確かであること」、46.8 の ex fide は注 o に従い「本心から」、46.16 の fides・fidelis は預かり物を返す「誠実」「誠実な者」（「信者」との掛け言葉は `// ` メモに書く）。47〜48 章は文脈で訳し分ける：47.4 の fidem aspernata「信仰を軽んじて」、47.9 の fidem infirmarent veritatis「真理への信頼を弱める」、47.11 の Elysii campi fidem occupaverunt「その信じられる場所は、エリュシオンの野に先に占められている」、47.12 の fideliora「信じるに足り」・fidem inveniunt「信じられている」、48.1 の fidem infiget「信念を植えつける」、48.6 の fidem rei invenies「このことが信じられるとわかる」 |
 | adfectare／praestare（46.8〜46.9、46.15） | 装う（真理を持たずに得ようとする）・ねらう（46.15 の tyrannidem adfectant「僭主の座をねらう」）／示す（46.8 の ex fide praestat「本心から示す」、46.9 の integre praestant「損なわずに示す」） |
 | spirituales potestates（46.1） | 霊的な力（ダイモン）（注 b。23 章のダイモンの告白を指すので括弧で補う） |
 | facinus | 悪事（8:1、9:2。scelus と同じ訳。『オクタウィウス』の「罪」にしない。この本は crimen を「罪」とするため） |
@@ -154,14 +159,14 @@
 | eruere | 掘り起こす（7:1〜7:2 の 4 回。『オクタウィウス』28:3 の「真実を掘り起こす」と同じ） |
 | carnifex | 刑吏（7:2） |
 | vitium（mendacii、seminis） | 欠陥（7:9、7:12。7.8 の Fama malum の「悪」と分ける） |
-| aemulatio／aemulus（operatio、ratio） | 敵意（2:19 の裁き手の vestra aemulatio）。悪評や敵対の動機として、張り合う相手へのねたみを挙げるところは「ねたみ」（7:3 の ex aemulatione Iudaei、7:12 の ingenio aemulationis「ねたむ心のたくらみ」）／敵対する（2:19〜2:20 の aemula operatio「敵対する働き」、aemula ratio「敵対する企み」。神に張り合うダイモンの働きを指す。27 章以下の aemulus もこれに揃える） |
+| aemulatio／aemulus（operatio、ratio） | 敵意（2:19 の裁き手の vestra aemulatio）。悪評や敵対の動機として、張り合う相手へのねたみを挙げるところは「ねたみ」（7:3 の ex aemulatione Iudaei、7:12 の ingenio aemulationis「ねたむ心のたくらみ」）／敵対する（2:19〜2:20 の aemula operatio「敵対する働き」、aemula ratio「敵対する企み」。神に張り合うダイモンの働きを指す。27 章以下の aemulus もこれに揃える。47.9 の operantibus aemulationem istam spiritibus erroris は「この敵対の働きをするのは、迷いの霊たち」）。自然の対立物を言う 48.13 の aemulis substantiis は「相反する実体」 |
 | revincere | 暴く（1:15、3:12）。probare（裏づける）と対になって、書き手の記述を退けるところと、人が教えによって言い負かされるところは「論駁する」（19.14 の aut probat aut revincit、21.20 の revincebantur magistri）。事実を目的に取るところ（40.9 の hoc revincam non ab eis evenire）は、注 40 章 q（convincam, demonstrem）に従い「はっきり示す」 |
-| instrumentum | 書物（聖書や、ユダヤ人の書を言うとき。19.1 の instrumentis istis「これらの書物」、21.1 の Iudaeorum instrumentis も揃える）。18.1 の instrumentum litteraturae は「書き記されたものという備え」（17.1 の instrumentum elementorum「元素の備え」と同じ語）。年代を調べる 19.14 の multis instrumentis は「多くの資料」 |
+| instrumentum | 書物（聖書や、ユダヤ人の書を言うとき。19.1 の instrumentis istis「これらの書物」、21.1 の Iudaeorum instrumentis も揃える）。18.1 の instrumentum litteraturae は「書き記されたものという備え」（17.1 の instrumentum elementorum「元素の備え」と同じ語）。年代を調べる 19.14 の multis instrumentis は「多くの資料」。47.7 の vetus instrumentum は「古い書物」（「旧約」にしない） |
 | propheta・prophetia／vaticinatio・vaticinari／divinatio | 預言者・預言（18.3、19.1）／預言（19.1 のモーセ、19.11 のシビュラの呼び名）。異教の詩人の vaticinatio は「予言」（19.7 の poeticam vaticinationem「詩の予言」）／予言（20.3〜20.5。divinitas「神性」と並ぶ語で、聖書の予告を言うときも「予言」） |
 | voces／litterae（預言者の） | 声／文字・書物（18.3、19.9、20.4。voces は「言葉」にしない） |
 | iustitia／innocentia | 義（神の前の義と、預言された世の義の衰えを言う 18.2、20.2）。人の徳や功績として並べる iustitia は「正義」（11.10、11.14、11.15）／潔白（18.2 の iustitiae innocentia「義の潔白」） |
 | scilicet | つまり（18.5、19.5、20.3、21.16）。皮肉に言うところは「なるほど」（25.3） |
-| verbum／sermo／ratio／virtus／ΛΟΓΟΝ | 言葉／言葉／理／力（17.1 の verbo、ratione、virtute「言葉・理・力」を 21.9 の Iam ediximus が受けるので、21.9〜21.19 もこれで通す。哲学の議論で単独に出る ratio は『オクタウィウス』の「理性」）／ロゴス（21.9 の ΛΟΓΟΝ, id est sermonem atque rationem は「ロゴス、つまり言葉と理」、21.19 の verbum dei, id est ΛΟΓΟΝ は「神の言葉、つまり、あのロゴス」） |
+| verbum／sermo／ratio／virtus／ΛΟΓΟΝ | 言葉／言葉／理／力（17.1 の verbo、ratione、virtute「言葉・理・力」を 21.9 の Iam ediximus が受けるので、21.9〜21.19 もこれで通す。宇宙を組み立てた 48.13 の Quae ratio … eadem も「理」。哲学の議論で単独に出る ratio は『オクタウィウス』の「理性」。48.3 の quaecunque ratio は「理屈」、48.5 の ratio restitutionis は「理由」、48.8 の rationem qua factus es は「どのようにして造られたか」）／ロゴス（21.9 の ΛΟΓΟΝ, id est sermonem atque rationem は「ロゴス、つまり言葉と理」、21.19 の verbum dei, id est ΛΟΓΟΝ は「神の言葉、つまり、あのロゴス」） |
 | spiritus／substantia | 霊（21.10〜21.13。神の本性を言う語で、聖霊と補わない。人間の側の spiritus も「霊」で、30.5 の de carne pudica, de anima innocenti, de spiritu sancto は「清い肉体から、潔白な魂から、聖い霊から」とし、「聖霊」にせず尊敬語も使わない（30.4〜30.5）。21.12 の Nam et deus spiritus は「神も霊だからです」と地の文に溶かし、『』と出典を付けない）／実体（21.8、21.11〜21.12 の unitas substantiae「実体が一つであること」。『オクタウィウス』26:8 のダイモンの substantia「本質」とは文脈が違う） |
 | praedicare（預言として） | 告げ知らせる（18.3 の praedicatores「告げ知らせる者たち」と揃える。21.14、21.17、21.22）。praenuntiare は「予告する」、adnuntiare は「告げる」（21.6） |
 | census（sectae et nominis） | 出どころ（21.29） |
@@ -297,4 +302,7 @@
 | Pythagoras／Thurii／Zenon／Prienenses／Lacones | ピュタゴラス／トゥリオイの人々／ゼノン（46.15。21.10 のストア派のゼノンとは別人だが、補わない）／プリエネの人々／ラケダイモン人（46.15。4.7 の Lacedaemonii と同じ人々） |
 | Anaxagoras／Aristoteles／Hermias／Alexander／Dionysius／Aristippus／Hippias | アナクサゴラス／アリストテレス／ヘルメイアス（底本の Hermian）／アレクサンドロス（11.15 と同じ）／ディオニュシオス／アリスティッポス／ヒッピアス（46.16〜46.17。どのヒッピアスかは補わない） |
 | Quirites／Tiberis | クイリテス（ローマ市民）（35.6。名前の後に括弧で補う）／ティベリス川（35.6。何を指すかは補わない） |
+| sophistae／Thebaei／Spartiatae／Argivi／Heraclitus | ソフィスト／テーバイ人／スパルタ人／アルゴス人（名前の表のアルゴス）／ヘラクレイトス（47.2〜47.5） |
+| Pyriphlegethon／Elysii campi | ピュリプレゲトン（47.11。「ピュリプレゲトンという川」）／エリュシオンの野。47.11 の igneae illius zonae は「あの火の帯」で、注 u の言うピュリプレゲトンの名は補わず `// ` メモに書く |
+| Laberius／Gaius（48.2）／titulus Pythiae | ラベリウス（48.1）／ガイウス（3.1 と同じ法律家の例の名）／デルポイのピュティアの銘（48.11。注 m に従い「デルポイの」を補い、銘の文言は `// ` メモに書く。22.11 の Pythius「ピュトの神（アポロ）」とは別の語） |
 | Cassii／Nigri／Albini／Sigerii／Parthenii | カッシウスやニゲルやアルビヌスのような人々／シゲリウスやパルテニウスのような人々（35.9。複数形なので 21.26 の「プロクルスのような人々」にならう。35.9 の喉を絞める者たち、宮殿に押し入る者たちが襲った皇帝の名は補わない） |
