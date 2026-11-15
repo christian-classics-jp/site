@@ -19,7 +19,7 @@
 | 03-de-spectaculis-01-03 | 見世物について 1〜3 章 | [x] |
 | 04-de-spectaculis-04-08 | 見世物について 4〜8 章 | [x] |
 | 05-de-spectaculis-09-13 | 見世物について 9〜13 章 | [x] |
-| 06-de-spectaculis-14-19 | 見世物について 14〜19 章 | [ ] |
+| 06-de-spectaculis-14-19 | 見世物について 14〜19 章 | [x] |
 | 07-de-spectaculis-20-25 | 見世物について 20〜25 章 | [ ] |
 | 08-de-spectaculis-26-30 | 見世物について 26〜30 章 | [ ] |
 | 09-de-oratione-01-04 | 祈りについて 1〜4 章 | [ ] |

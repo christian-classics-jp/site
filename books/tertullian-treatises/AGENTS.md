@@ -32,10 +32,10 @@
 - 『見世物について』：「神のしもべたち」（dei servi）、すなわち信仰に近づいている人々と、すでに信仰を告白した人々に向けた論。読み手は「あなたがた」。異教徒や、見世物を擁護する人の言い分は、『護教論』の型（言い分を「」に入れて常体にし、「と、人は言います」と受ける）に従う。
   - 言い分の「」の中で、相手がキリスト者一人に語りかける二人称単数（1.2 の tua）は「あなた」。相手の口から神を言うところは尊敬語にしない（2.2 の「神自身が造ったもの」）。言い分の中に書き手が挟む一人称の言葉（2.1 の sicut praedicamus）は、「」を閉じて地の文で「これは、わたしたちも説くとおりです」と受け、次の句で「」を開き直す。
   - 間接話法で紹介するだけの考え（1.3 の Sunt qui existiment …）は「」に入れず、「〜と考える人々もいます」「〜というのです」と地の文で受ける。
-  - 3 章の詩篇一・一 は、口語訳を下敷きにし、原文が七十人訳の形で、続く論が concilium を人の集まりとして扱うので、次の句にする：『悪しき者の集まりに行かず、罪びとの道に立たず、疫病のような者の座にすわらなかった人は、さいわいである』。論の中で詩篇の語を引くところ（3.5、3.9 の concilium impiorum）は『悪しき者の集まり』と『』に入れる。見世物の場の名として言う「道」「座」（3.6〜3.7）は「」。詩篇を裏返した書き手の言い方（3.7 の contrario infelix …）は聖句でないので『』に入れない。十戒の言い換え（3.2）は、口語訳の「〜してはならない」の形で、原文の語のまま『』に入れ、書き手が仮に作った禁令（Non ibis in circum …）も『』に入れる（書かれた文字の扱い）。
-  - 書き手がキリスト者一人に呼びかけるところ（8.6〜8.7 の Christiane、tibi、inquis）は「キリスト者よ」「あなた」。そのキリスト者の問いは「」に入れて常体にし、「と、あなたは尋ねます」と受ける（言い分の型の「人は」を「あなたは」にする）。
+  - 3 章の詩篇一・一 は、口語訳を下敷きにし、原文が七十人訳の形で、続く論が concilium を人の集まりとして扱うので、次の句にする：『悪しき者の集まりに行かず、罪びとの道に立たず、疫病のような者の座にすわらなかった人は、さいわいである』。論の中で詩篇の語を引くところ（3.5、3.9 の concilium impiorum）は『悪しき者の集まり』と『』に入れる。見世物の場の名として言う「道」「座」（3.6〜3.7）は「」。詩篇を裏返した書き手の言い方（3.7 の contrario infelix …）は聖句でないので『』に入れない。十戒の言い換え（3.2）は、口語訳の「〜してはならない」の形で、原文の語のまま『』に入れ、書き手が仮に作った禁令（Non ibis in circum …）も『』に入れる（書かれた文字の扱い）。15.7 の詩篇五〇・一八 も原文が七十人訳の形（συνέτρεχες）なので、同じく口語訳を下敷きにして『あなたは盗びとを見れば、これと共に走った』とし、`// ` メモに口語訳との違いを書く。
+  - 書き手がキリスト者一人に呼びかけるところ（8.6〜8.7 の Christiane、tibi、inquis、18 章の contendas、tuo、tibi、oderis）は「キリスト者よ」「あなた」。そのキリスト者の問いは「」に入れて常体にし、「と、あなたは尋ねます」と受ける（言い分の型の「人は」を「あなたは」にする）。
   - 6.1 と 7.1 の utriusque generis ludi は「両方の種類の遊戯」とし、中身を補わない（Oehler の注 b は戦車競走と劇場とするが、6.3 は聖なる遊戯と葬いの遊戯に分ける）。12.8 の utriusque ludi は闘技場の剣闘と獣狩り（注 p）で、6.1 と別のものなので「両方の遊戯（剣闘と獣狩り）」と補う。
-  - 使徒の言葉として新約を言い換えて引き、文言が口語訳から離れるところ（13.1 の Non quod idolum sit aliquid, apostolus ait, sed quod quae faciunt daemoniis faciunt、13.2 の第一コリント一〇・二一）は、底本がコロンと大文字で刷っていても『』に入れず、口語訳を参考にして地の文で言い換え、出典を付ける。口語訳の「悪霊」に当たる daemonia は、続く論（consistentibus … in consecrationibus）とつながるよう訳語表の「ダイモン」で訳す。これは『』に入れると口語訳の文言と読まれるためで、3.2 の十戒の言い換えのように、口語訳の「〜してはならない」の形をそのまま保てる短い句は、3.2 の決まりどおり『』に入れる。
+  - 使徒の言葉として新約を言い換えて引き、文言が口語訳から離れるところ（13.1 の Non quod idolum sit aliquid, apostolus ait, sed quod quae faciunt daemoniis faciunt、13.2 の第一コリント一〇・二一。主の言葉や使徒の勧めを地の文に溶かしたところ、15.2 のエペソ四・三〇〜三一、16.7 のマタイ五・四四 とルカ六・二八、17.4〜17.6 のエペソ五・四、マタイ一二・三六、一五・一一、第一コリント三・一九 も同じ）は、底本がコロンと大文字で刷っていても『』に入れず、口語訳を参考にして地の文で言い換え、出典を付ける。口語訳の「悪霊」に当たる daemonia は、続く論（consistentibus … in consecrationibus）とつながるよう訳語表の「ダイモン」で訳す。これは『』に入れると口語訳の文言と読まれるためで、3.2 の十戒の言い換えのように、口語訳の「〜してはならない」の形をそのまま保てる短い句は、3.2 の決まりどおり『』に入れる。
   - 名を出さない詩人の引用（9.3 のウェルギリウス）は、名を補わず「こうも歌われています」と受け、出典は `// ` メモに書く。
   - 本文が名を出さずに ille で指す人は、『護教論』の「強めの ipse・ille」の決まりに従い、本文だけでは読者がだれか分からないときに限って、Oehler の注に従って名を補う（3.4 の iustum illum は、詩篇をだれに当てはめたかが本文から分からないので「あの正しい人、アリマタヤのヨセフ」）。名を出さない町（7.3 の illius urbis, in qua daemoniorum conventus consedit。注 f のとおりローマ）も同じ扱いで、属州と対比していて分かるので補わない。本文がその人の行いを物語っていて、名がなくても話が通るところ（『殉教者たちへ』4.7 のアテナイの遊女、『護教論』50.6）は補わない。
 - 『祈りについて』『洗礼について』：教会の中の読み手に向けた教え。主語が書き手と読み手を含むときは「わたしたち」。『洗礼について』の論敵（1 章で言うカイン派の異端の者）とその仲間への言い返しも、『護教論』の言い分の型に従う。
@@ -100,18 +100,29 @@
 | ferae（12.3 の ferarum voluptati） | 獣のような見物人（注 d の Rigaltius の解。直後の feris は本物の「獣」） |
 | concilium／consessus（『見世物について』3 章） | 集まり（詩篇一・一 の句と揃える。3.4、3.5、7.3 の conventus、8.5 の daemonum concilium も「集まり」）／会合（3.4）。3.7 の ad consessum は「座るために」。8.8 の conciliabula spectaculorum は「見世物の集会所」 |
 | angelus（『見世物について』2.9、2.14） | 天使（『護教論』どおり）。2.9 の angeli は Oehler の注 h のとおりダイモンを指すが、語を足さず `// ` メモに書く |
-| voluptas／gaudium／fructus（saeculi）／vitae gratia | 快楽／喜び／楽しみ（注 b のとおり享受の意味）／生きる甲斐（『見世物について』2.4〜2.5）。periculum voluptatis, quam vitae（2.4）は「命を失う危険より、快楽を失う危険」と、何が危うくなるかを言う |
+| voluptas／gaudium／fructus（saeculi）／vitae gratia | 快楽（14.2 の voluptatis concupiscentia「快楽への欲」。concupiscentia は「欲」）／喜び（gratia「気に入られること」と分ける。17.2 の summa gratia eius dei「その神に最も気に入られるもの」）／楽しみ（注 b のとおり享受の意味）／生きる甲斐（『見世物について』2.4〜2.5）。periculum voluptatis, quam vitae（2.4）は「命を失う危険より、快楽を失う危険」と、何が危うくなるかを言う |
 | ferrum／herbae（『見世物について』2.9） | 鉄（材料として言うところ。手段を言う ferro は「鉄の刃」）／草（毒の材料） |
 | virtus／vires | 力（3.3 の virtutum animi et corporis「精神と体の力」、3.4、3.6） |
 | idololatria | 偶像礼拝 |
+| impudicitia | 恥知らずなこと（『護教論』38.3 の「劇場の恥知らず」に揃える。17 章） |
+| furor／furiae／animi／bilis／ira／dolor | 熱狂／狂乱／激情／いら立ち／怒り／悲しみ（15.2、15.4、16.1、16.4。『護教論』38.3 の insania circi「戦車競走場の狂乱」とは原語が違う） |
+| studium／aemulatio（観客の） | 肩入れ／張り合い（15.3〜15.4。affectatio の「熱中」、『護教論』の aemulatio「敵意」「ねたみ」と分ける） |
+| affectus／casus／passio（15.4〜15.5） | 心の動き／出来事／揺らぎ。vanitas は「むなしさ」（15.5〜15.6、16.2） |
+| saeculum／saecularia（15.7） | 世／世の事柄（「この世」にせず、対を残す） |
+| caecus／caecitas | 目が見えない・目が見えないこと（16.1 と 16.3 を揃える） |
+| erubescere | 顔を赤らめる（17.2、17.4。「恥じる」と分けない。17.4 の Erubescat senatus と erubescunt の掛け合いを残す） |
+| Atellanus／mimus／pantomimus | アテラナ劇の役者／笑劇の役者（『護教論』の mimi）／無言劇の役者（17.2） |
+| sancti（16.8） | 聖徒（口語訳） |
+| hostiae（17.3、19.4） | いけにえ（訳語表の hostia。publicae libidinis hostiae、publicae voluptatis hostiae） |
+| quaestio（19.3） | 拷問による取り調べ（『護教論』と同じ） |
 | pompa | 行列（『オクタウィウス』と同じ）。洗礼で捨てる「悪魔と、その行列と、その天使たち」（4.1〜4.3）と、戦車競走の行列（7.2〜7.4）を同じ語にして、論のつながりを残す。7.2 の pompatior は「行列らしく華やか」 |
 | renuntiare・renuntiatio／eieratio／lavacrum／signaculum | 捨てる・放棄／捨てる誓い（4.5）／洗い（4.3。テトス三・五 の口語訳「再生の洗い」の語）／印（4.1）。洗い・印が洗礼を指すことは補わない |
-| ludi／ludus・lusus／ludii／circenses | 遊戯（agon の「競技」と分ける。5.3 の語源の言葉遊びを残すため）／遊び・戯れ／遊ぶ者たち（5.3。Oehler の推定）／戦車競走（の遊戯） |
-| origo／titulus・nomen／apparatus・paratura／locus／ars（『見世物について』4.4 で挙げ、5〜9 章で論じる項目） | 起源／名（6.4 の sub quo nomine et titulo は「どんな名で、どんな呼び名のもとに」）／装い・しつらえ（4.3）／場所／技。4.4 と 8.11 の dicentur・dicantur は dicare の形と取り「ささげられている」。quibus praesidibus は「どんな守り神に」 |
+| ludi／ludus・lusus／ludii／circenses | 遊戯（agon の「競技」と分ける。5.3 の語源の言葉遊びを残すため）／遊び・戯れ／遊ぶ者たち（5.3。Oehler の推定）／戦車競走（の遊戯）。剣闘士の ludus（19.4〜19.5 の in ludum veneunt、damnantur in ludum）は「剣闘士の養成所」「養成所」 |
+| origo／titulus・nomen／apparatus・paratura／locus／ars（『見世物について』4.4 で挙げ、5〜9 章で論じる項目） | 起源／名（6.4 の sub quo nomine et titulo は「どんな名で、どんな呼び名のもとに」）／装い・しつらえ（4.3）／場所／技。4.4 と 8.11 の dicentur・dicantur は dicare の形と取り「ささげられている」。quibus praesidibus は「どんな守り神に」。15.2 の principalis titulus idololatriae は論の項目を言うので「偶像礼拝という主な項目」 |
 | census（『見世物について』7.5、8.5） | 出どころ（『護教論』21.29 と同じ。注 h）。7.5 では locuples、splendida との掛け合いを「その罪の出どころによって、豊かで、きらびやか」で残す |
 | currus／tensa／armamaxa／sedes／exuviae／simulacra／imagines（7.2、7.5） | 車／神々の持ち物を運ぶ車／覆いのある車／玉座／神々の装身具／像／肖像。plaustrum は「荷車」 |
 | metae（primae、Murciae）／euripus／ova／delphines／columnae（8 章） | 折り返しの柱（第一の、ムルキアの）／水路／卵の飾り／イルカの像／柱 |
-| reges（6.2 の solemnibus regum） | 皇帝たち（Oehler の注 c のとおり皇帝の祝い。`// ` メモに原文の語を書く） |
+| reges（6.2 の solemnibus regum） | 皇帝たち（Oehler の注 c のとおり皇帝の祝い。`// ` メモに原文の語を書く）。16.7 の principes も『護教論』の princeps どおり「皇帝たち」 |
 | argumentari | 理屈をこねる（4.1）。8.2 の circi appellationem argumentantur は「呼び名も…から出たと理屈をつける」 |
 | praescriptio（8.8）／causa simplex（8.8）／excidere a deo（8.10） | 定め（1.1 の praescriptum disciplinae「教えの定め」とつなげる）／ほかに意図のない用件／神から離れ落ちる |
 | sacrificium・sacrificare・sacrificator | 供え物・供え物をささげる・供え物をささげる者（『護教論』と同じ。hostia の「いけにえ」と分ける） |
@@ -129,6 +140,8 @@
 - 祭りの遊戯の名が神の名から作った形容詞のところ（6.2 の Apollinares、Cereales、Neptunales、Latiares、Florales）は、どの神にささげたかが論の要なので「アポロの遊戯」のように神の名で訳す。神と分かる形にする（Latiares は『オクタウィウス』30:4 の「ラティアリスのユピテル」）。神の名がすぐに分からない Megalenses は「メガレンセスの遊戯」。技の組合の名（11.3 の artium Musicarum et Minervalium et Apollinarium, etiam Martialium）も同じく「ムーサたちの技、ミネルウァの技、アポロの技…マルスの技」。
 - 同じ名の神々をまとめてあざける複数形（10.8 の Apollines、Minervas、Mercurios、11.3 の Herculum、Mercuriorum）は「アポロたち」のように「たち」で残す。もとから二人の Castores は名前の表どおり「カストルの兄弟」。
 - 散文の節の中で詩を引くところ（9.3 のウェルギリウス 2 行）は、行を分けず『』に入れて文に続ける（節の行が切れるので `<br/>` を使わない。『オクタウィウス』19:2 のウェルギリウスの引用と同じ扱い。『護教論』と『オクタウィウス』の both.md には `<br/>` の先例がない）。
+- 書き手が自分を含めて言う一人称複数の勧め（14.1 の tractemus、19.1 の eamus、delectemur）は「〜しましょう」。「〜するがよいでしょう」にしない。三人称の接続法の命令（17.4 の Erubescat senatus）は「〜がよい」。
+- 比較級で比べる相手が書かれていないところ（17.7 の nullius rei … commemoratio melior est）は、前後の文から相手を補って比較を残す（「語り出すことが、行うことよりましなはずはありません」）。
 - praescribere などの後に、言う中身が対格と不定法で続くところ（10.10 の altius praescripsisse debemus daemonas … inspirasse）は「前もって、次のことを言っておく」と受け、中身を次の文に出す。
 
 ## 名前の表
