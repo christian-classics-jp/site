@@ -37,6 +37,7 @@
 - 底本：Oehler 1853 の第 1 巻（archive.org `quintiseptimiifl0001fanc`）に 4 作とも載る。Ad martyras は djvu の l. 1151 ごろ（Inter carnis alimenta）、De spectaculis は l. 2875 ごろの題から、De oratione は l. 67039 の前後、De baptismo は l. 75093 ごろ（Felix sacramentum aquae nostrae）。本文は画像から起こす。
 - 英訳：ANF 第 3 巻（「Ad Martyras」「The Shows」「On Prayer」「On Baptism」）。
 - 揃える本：tertullian-apology。『祈りについて』の主の祈りの訳は origen-on-prayer の AGENTS.md の訳と揃える。
+- 底本テキストは作品ごとのファイル（`research/oehler-1853-<作品>.txt`）。本を始めたときに『殉教者たちへ』1 章だけ起こした。各ページのセッションは、page-context を作る前に、そのページの章を Oehler の画像（`pages.json` の `images`）から起こし、`tools/split-units.js` でその作品のファイルに足す（本の AGENTS.md の「底本の起こし方」）。IIIF が応答しないときは archive.org の `page/nN_w1600.jpg`（N＝IIIF の番号−1）を使う。
 
 ## cyprian-treatises　キプリアヌス小品集（ラテン語）
 

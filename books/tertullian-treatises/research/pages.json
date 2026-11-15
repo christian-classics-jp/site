@@ -1,0 +1,152 @@
+{
+  "title": "テルトゥリアヌス小品集",
+  "language": "ラテン語",
+  "base": "books/tertullian-treatises/research/oehler-1853-ad-martyras.txt",
+  "digitized": false,
+  "english_name": "ANF 第 3 巻の英訳（4 作とも S. Thelwall 訳）。章の番号は 4 作とも底本と同じで、節の番号はない。各章の本文のあとにその章の注がある",
+  "print_name": "Oehler 1853 の印刷版（各ページの上の数行が本文、その下に校注と二段組みの注解。OCR はそれらを混ぜて並べ、範囲は前後のページと重なる）",
+  "pages": [
+    {
+      "id": "01-ad-martyras-01-03",
+      "spec": "1-3",
+      "english": "cache/ccel.org/anf03.txt:68847-69004",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:1143-2333",
+      "images": "quintiseptimiifl0001fanc:0033-0041"
+    },
+    {
+      "id": "02-ad-martyras-04-06",
+      "spec": "4-6",
+      "english": "cache/ccel.org/anf03.txt:69005-69107",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:2274-2659",
+      "images": "quintiseptimiifl0001fanc:0041-0045"
+    },
+    {
+      "id": "03-de-spectaculis-01-03",
+      "spec": "1-3",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-spectaculis.txt",
+      "english": "cache/ccel.org/anf03.txt:6486-6685",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:2640-3631",
+      "images": "quintiseptimiifl0001fanc:0047-0054"
+    },
+    {
+      "id": "04-de-spectaculis-04-08",
+      "spec": "4-8",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-spectaculis.txt",
+      "english": "cache/ccel.org/anf03.txt:6686-6875",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:3512-5103",
+      "images": "quintiseptimiifl0001fanc:0054-0064"
+    },
+    {
+      "id": "05-de-spectaculis-09-13",
+      "spec": "9-13",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-spectaculis.txt",
+      "english": "cache/ccel.org/anf03.txt:6876-7075",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:5025-6362",
+      "images": "quintiseptimiifl0001fanc:0064-0073"
+    },
+    {
+      "id": "06-de-spectaculis-14-19",
+      "spec": "14-19",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-spectaculis.txt",
+      "english": "cache/ccel.org/anf03.txt:7076-7265",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:6252-7437",
+      "images": "quintiseptimiifl0001fanc:0073-0081"
+    },
+    {
+      "id": "07-de-spectaculis-20-25",
+      "spec": "20-25",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-spectaculis.txt",
+      "english": "cache/ccel.org/anf03.txt:7266-7439",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:7265-8469",
+      "images": "quintiseptimiifl0001fanc:0081-0088"
+    },
+    {
+      "id": "08-de-spectaculis-26-30",
+      "spec": "26-30",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-spectaculis.txt",
+      "english": "cache/ccel.org/anf03.txt:7440-7609",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:8271-8878",
+      "images": "quintiseptimiifl0001fanc:0088-0093"
+    },
+    {
+      "id": "09-de-oratione-01-04",
+      "spec": "1-4",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-oratione.txt",
+      "english": "cache/ccel.org/anf03.txt:67545-67774",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:66885-68062",
+      "images": "quintiseptimiifl0001fanc:0583-0590"
+    },
+    {
+      "id": "10-de-oratione-05-10",
+      "spec": "5-10",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-oratione.txt",
+      "english": "cache/ccel.org/anf03.txt:67775-68005",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:67908-68607",
+      "images": "quintiseptimiifl0001fanc:0590-0595"
+    },
+    {
+      "id": "11-de-oratione-11-19",
+      "spec": "11-19",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-oratione.txt",
+      "english": "cache/ccel.org/anf03.txt:68006-68300",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:68315-69841",
+      "images": "quintiseptimiifl0001fanc:0593-0603"
+    },
+    {
+      "id": "12-de-oratione-20-22",
+      "spec": "20-22",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-oratione.txt",
+      "english": "cache/ccel.org/anf03.txt:68301-68565",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:69673-70631",
+      "images": "quintiseptimiifl0001fanc:0603-0609"
+    },
+    {
+      "id": "13-de-oratione-23-29",
+      "spec": "23-29",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-oratione.txt",
+      "english": "cache/ccel.org/anf03.txt:68566-68840",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:70463-71396",
+      "images": "quintiseptimiifl0001fanc:0609-0616"
+    },
+    {
+      "id": "14-de-baptismo-01-04",
+      "spec": "1-4",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-baptismo.txt",
+      "english": "cache/ccel.org/anf03.txt:66255-66482",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:75067-75563",
+      "images": "quintiseptimiifl0001fanc:0649-0653"
+    },
+    {
+      "id": "15-de-baptismo-05-08",
+      "spec": "5-8",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-baptismo.txt",
+      "english": "cache/ccel.org/anf03.txt:66483-66743",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:75511-76189",
+      "images": "quintiseptimiifl0001fanc:0653-0658"
+    },
+    {
+      "id": "16-de-baptismo-09-12",
+      "spec": "9-12",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-baptismo.txt",
+      "english": "cache/ccel.org/anf03.txt:66744-67062",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:75965-76440",
+      "images": "quintiseptimiifl0001fanc:0657-0662"
+    },
+    {
+      "id": "17-de-baptismo-13-17",
+      "spec": "13-17",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-baptismo.txt",
+      "english": "cache/ccel.org/anf03.txt:67063-67302",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:76329-77123",
+      "images": "quintiseptimiifl0001fanc:0662-0667"
+    },
+    {
+      "id": "18-de-baptismo-18-20",
+      "spec": "18-20",
+      "base": "books/tertullian-treatises/research/oehler-1853-de-baptismo.txt",
+      "english": "cache/ccel.org/anf03.txt:67303-67529",
+      "print": "cache/archive.org/quintiseptimiifl0001fanc/quintiseptimiifl0001fanc_djvu.txt:76886-77426",
+      "images": "quintiseptimiifl0001fanc:0666-0670"
+    }
+  ]
+}
