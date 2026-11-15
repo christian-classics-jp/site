@@ -37,7 +37,7 @@
 - 底本（Oehler）：Atque adeo nuper conversata istic quaedam de Gaiana haeresi vipera venenatissima doctrina sua plerosque rapuit, inprimis baptismum destruens. Plane secundum naturam. Nam fere viperae et aspides ipsique reguli serpentes arida et inaquosa sectantur.
 - ほかの読み（1 章の校注 2・3、p. 619）：ab（Pamelius、Rigaltius）は Caiana。fere は ab で、Latinius の推定によるもの。AB（Gangneius、Gelenius）は ferae（「野の蛇たち」）。CSEL（l. 11482、11484、校注 l. 11502「fere Lat: ferae B」）は Gaiana と fere。
 - 採る校訂者：Oehler は A の Gaiana と、推定の fere。注 e（p. 619）は、ヒエロニムスのオケアヌスへの手紙 43 の「カイアナ（Caiana）の異端がわたしに向かって起こり、とうに死んだ蛇が踏み砕かれた頭を上げる」を引く（Rigaltius の注）。注 f は arida et inaquosa sectantur に、イシドルス『語源』12 巻 4 章の「レグルス（バシリスク）は、さそりと同じく、乾いた所をすべて求める」と、ヒエロニムスの手紙 83 を挙げる。
-- 読者への影響：小 — 注 e は、ヒエロニムスが同じく「蛇」と結びつけて Caiana の異端を言う例を挙げるだけで、Gaiana が何に由来するかは言わない。本の `AGENTS.md` は、この論敵を「カイン派の異端の者」とすでに決めている（この同定は、ここで読んだ資料では確かめていない。「未確認」）。quaedam は女性形で、論敵が女であることを示す（1.3 の illa monstrosissima も女性形）。
+- 読者への影響：小 — 注 e は、ヒエロニムスが同じく「蛇」と結びつけて Caiana の異端を言う例を挙げるだけで、Gaiana が何に由来するかは言わない。この一覧を作った時点の本の `AGENTS.md` は、この論敵を「カイン派の異端の者」と書いていた（訳では底本の名で「ガイアナ派の異端」とし、AGENTS.md も直した。この同定は、ここで読んだ資料では確かめていない。「未確認」）。quaedam は女性形で、論敵が女であることを示す（1.3 の illa monstrosissima も女性形）。
 - 訳での扱い：訳注は付けない。haeresis vipera は「異端の蛇」で、続く蛇の比喩（乾いた所を好む蛇、1.3 の水の中の魚）につながるように訳す。fere は「たいてい」。
 - 確かめた資料：`page/n648_w1600.jpg` の中・下（本文、校注 2・3、注 e・f）。OCR l. 75098–75104、75147、75158–75167。CSEL l. 11481–11485、11502。
 
@@ -240,7 +240,7 @@
 
 ## 未確認
 
-- 1.2 の Gaiana haeresis を「カイン派」とする同定：本の `AGENTS.md` はこの論敵を「カイン派の異端の者」と決めているが、Oehler の注 e はヒエロニムスの Caiana haeresis を引くだけで、名の由来は言わない。ここで読んだ資料では確かめていない。
+- 1.2 の Gaiana haeresis を「カイン派」とする同定：この一覧を作った時点の本の `AGENTS.md` はこの論敵を「カイン派の異端の者」と書いていた（訳では底本の名で「ガイアナ派の異端」とした）が、Oehler の注 e はヒエロニムスの Caiana haeresis を引くだけで、名の由来は言わない。ここで読んだ資料では確かめていない。
 - 1.3 の注 i が送るエピファニオス『異端反駁』49（クィンティラについて）と、注 k が送る『おとめのおおいについて』の該当箇所は読んでいない。
 - Gangneius の初版が、3.4〜3.5（subiiciebat から aquis deo まで）、4.3 の Numquid、4.5 の deo を括弧に入れた理由。Oehler も CSEL も括弧があることを記すだけで、意味を言わない。
 - 4.3 の species と 4.4 の in specie：CSEL は Gangneius が specie と読むとし（4.3）、4.4 は in speciem と刷るが、Oehler の校注はどちらにも記載がない。Gangneius の版そのものは見ていない。

@@ -5,8 +5,8 @@
 // sacramentum は『護教論』の訳語表の「秘儀」（キリスト者の sacramenta）に揃えた。3.8 の in sacramentis propriis、4.5 の sacramentum sanctificationis も同じ。
 // intentatam probabilem fidem は、底本の intentatam で、Oehler の注 d が引く Corbinianus Thomas の解（まだ十分に吟味されていないが、認められてよい信仰）の向きで訳した。
 1.2 Atque adeo nuper conversata istic quaedam de Gaiana haeresi vipera venenatissima doctrina sua plerosque rapuit, inprimis baptismum destruens. Plane secundum naturam. Nam fere viperae et aspides ipsique reguli serpentes arida et inaquosa sectantur.
-1:2 実際、つい最近も、ガイアナの異端の毒蛇である、ある女がここに来て暮らしました。そして、その猛毒の教えで、多くの人々をさらっていったのです。とりわけ、洗礼を打ち壊そうとしたのです。まったく、蛇の性分どおりです。毒蛇やまむし、さらにはバシリスクという蛇そのものも、たいてい乾いた、水のない所を好むからです。
-// Gaiana は底本の読み。Pamelius と Rigaltius は Caiana と読み、Oehler の注 e はヒエロニムスの手紙の Caiana haeresis（とうに死んだ蛇が頭を上げる）を引く。どの派を指すかは本文から定まらないので、底本の名のまま「ガイアナの異端」とした（名前の表の「ヘルマテレス（底本の名）」の扱い）。
+1:2 実際、つい最近も、ガイアナ派の異端の毒蛇である、ある女がここに来て暮らしました。そして、その猛毒の教えで、多くの人々をさらっていったのです。とりわけ、洗礼を打ち壊そうとしたのです。まったく、蛇の性分どおりです。毒蛇やまむし、さらにはバシリスクという蛇そのものも、たいてい乾いた、水のない所を好むからです。
+// Gaiana は底本の読み。Pamelius と Rigaltius は Caiana と読み、Oehler の注 e はヒエロニムスの手紙の Caiana haeresis（とうに死んだ蛇が頭を上げる）を引く。どの派を指すかは本文から定まらないので、底本の名のまま「ガイアナ派の異端」とした（名前の表の「ヘルマテレス（底本の名）」の扱い。国の名と紛れないよう「派」を付けた）。
 // quaedam は女性形で vipera を受ける。1.3 の cui nec integre quidem docendi ius erat は、教えることが男の務めであることを前提にする（注 k）ので、「女」と補った。reguli は「バシリスク」（注 f のイシドルスの regulus）。
 1.3 Sed nos pisciculi secundum ΙΧΘΥΝ nostrum Iesum Christum in aqua nascimur, nec aliter quam in aqua permanendo salvi sumus. Itaque illa monstrosissima, cui nec integre quidem docendi ius erat, optime norat pisciculos necare de aqua auferens.
 1:3 しかし、わたしたちは小さな魚です。わたしたちの「イクテュス」、すなわち「魚」であるイエス・キリストにならって、水の中で生まれるのです。そして、水の中にとどまっていなければ、救われないのです。だから、あの、このうえなく怪物じみた女^[古い版の多くは、ここでこの女を『クィンティラ』と名指す。]は、正しいことを教える権利さえなかったのに、魚を殺すすべはよく心得ていました。小さな魚を、水から取り出すのです。
@@ -15,6 +15,7 @@
 
 2.1 Sed enim quanta vis est perversitatis ad fidem labefactandam vel in totum non recipiendam, ut ex his eam impugnet ex quibus constat! Nihil adeo est quod obduret mentes hominum quam simplicitas divinorum operum quae in actu videntur et magnificentia quae in effectu repromittitur: ut hinc quoque, quoniam tanta simplicitate, sine pompa, sine apparatu novo aliquo, denique sine sumptu homo in aqua demissus et inter pauca verba tinctus non multo vel nihilo mundior, resurgit, eo incredibilis existimetur consecutio aeternitatis.
 2:1 それにしても、ひねくれた心が信仰を揺るがし、あるいはまったく受け入れないようにする力は、なんと大きいのでしょう。信仰を成り立たせているもの、そのものによって、信仰を攻めるのですから。神のわざは、行われるところを見れば単純で、その効き目として約束されるものは壮大です。この単純さと壮大さほど、人の心をかたくなにするものはありません。ここでもそうです。人は、これほど単純に、行列もなく、目新しい装いもなく、つまりは費用もかけずに、水に沈められます。わずかな言葉のうちに浸されて、見たところ、ほとんど、あるいは少しも清くならずに、上がってきます。それだけに、永遠を得ることが、いっそう信じがたいと思われるのです。
+// non multo vel nihilo mundior は、続く eo incredibilis existimetur の理由で、不信の目に映る姿を言うので「見たところ」と補った。補わないと、洗礼が清めないと書き手が言うように読める。
 // quod obduret … quam は、注 a のとおり比較の magis が省かれた形と取った。eo incredibilis も同じ（「それだけいっそう信じがたい」）。
 2.2 Mentior, si non e contrario idolorum sollemnia vel arcana de suggestu et apparatu deque sumptu fidem et auctoritatem sibi extruunt. Pro misera incredulitas, quae denegas deo proprietates suas, simplicitatem et potestatem!
 2:2 偶像の祭りや秘密の儀式は、反対に、飾りと装いと費用で、自分への信用と権威を築き上げています。そうでないなら、わたしはうそを言っていることになります。ああ、みじめな不信仰よ。あなたは、神に固有のもの、すなわち単純さと力とを、神に認めないのです。
