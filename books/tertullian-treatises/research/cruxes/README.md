@@ -24,8 +24,22 @@
   - Magliabechiani DXXVII・DXXVIII：題の注（p. 3 の *）に名が出るだけ。
 - 校注に名で出る推定・注釈者：Franc. Junius、Fulv. Ursinus、Aug. Neander、Hildebrand、Latinius、Just. Lipsius、La Cerda、Jos. Scaliger、Josias Mercerus、Petr. Ciacconius、Harris など。校注で名だけ出る Rhenanus は、D（1521 年の初版）とは別に、のちの版や注での読みを指す（1 章の校注 3 は「1528 年の版への注」と明記する）。
 
+## 『見世物について』の略号
+
+『見世物について』の校注の略号は、作品の前のページ（p. 16、画像 0046＝`page/n45_w1600.jpg`）の表で確かめた。『殉教者たちへ』とも『護教論』とも文字の意味が違う。写本は A だけで、B〜E はみな刊本。したがって「BCD」や「reliqui」（A のほかの残り）は写本の読みではなく、刊本の読み。
+
+- A：Agobardinus（アゴバルドゥスの写本。CSEL の表では Parisinus 1622、9 世紀）。Aβ は Steph. Baluzius の照合による読み、Aφ は Hildebrand の照合による読み。二つの照合が食い違う例は、2 章の校注 42（et iniquitatium Aφ、ut iniquitatium AβC）と 3 章の校注 22（contrario (Aβ)、e contrario (Aφ)）。
+- B：Io. Gangneius の初版（editio princeps、1545 年）。Bmg はその版の余白の読み。
+- C：Sigism. Gelenius の版（表には MDLXII と刷られている）。Gelenius はイングランドの写本（codex Anglicus, Masburensis）を使った、と表は言う。
+- D：Iac. Pamelius の版（1579 年）。Pamelius はイングランドの Jo. Clemens の写本を使った、と表は言う。校注の「liber (Io.) Clementis」「ex codice Clementis」は、Pamelius が報告するその写本の読みで、D の本文とは別に挙げることがある。
+- E：Nicol. Rigaltius の版（1634 年）。
+- 校注に名で出る推定・注釈者：Fulv. Ursinus、Franc. Junius、Hildebrand、Leopoldus、Jos. Scaliger、Colvius、Meursius、Salmasius、Latinius など。
+
+CSEL 20 の略号（OCR l. 477–500 の INDEX SIGLORUM）は Oehler と文字の割り当てが違う。CSEL の A は同じ Agobardinus（Bal＊、Hild＊ は Baluzius と Hildebrand の照合）、B は Gangneius の版（1545 年）、C は Pamelius が使った Jo. Clemens の写本の読み。Gelenius の版は Gel（表では 1550 年と刷られ、Oehler の表の MDLXII と違う。OCR は「Gei」と読む）、Pamelius の版は Pam、Rigaltius の版は Rig。論点一覧では、CSEL の読みを挙げるときは略号ではなく名前で書く（CSEL の C＝Clemens の写本で、Oehler の C＝Gelenius ではない）。CSEL の序（OCR l. 283–383）によると、Gangneius が使ったと言う古い写本は Agobardinus そのもので、Gangneius はほかにもう一つの写本を使った。Gelenius の Masburensis の写本はその写本と同じか近い親戚、Clemens の写本の読みは伝わるものが少なく、主な拠りどころにはしない、と言う。
+
 ## そのほかの資料
 
-- CSEL 20（Reifferscheid & Wissowa 1890）：『見世物について』『祈りについて』『洗礼について』を収め、『殉教者たちへ』は収めない（本の `AGENTS.md`）。
+- CSEL 20（Reifferscheid & Wissowa 1890）：『見世物について』『祈りについて』『洗礼について』を収め、『殉教者たちへ』は収めない（本の `AGENTS.md`）。略号は上の『見世物について』の節。OCR は本文に印や崩れが多いので、CSEL の読みは校注で裏づけられるものだけを確かなものとして挙げる。
+- 七十人訳：H. B. Swete, The Old Testament in Greek II（`cache/archive.org/oldtestamentingr02swetuoft/oldtestamentingr02swetuoft_djvu.txt`）。
 - 口語訳：`node tools/bible.js` で引いた 1955 年版の本文。
 - ANF：Ante-Nicene Fathers 第 3 巻の Thelwall の英訳（`cache/ccel.org/anf03.txt`）。レビューの読み比べに使う。英訳の文言はこの一覧に使わない。
