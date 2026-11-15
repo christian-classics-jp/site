@@ -19,7 +19,7 @@
 - 底本の明らかな刷りの誤り（p. 114 の cur nun liceat の nun など）は、正しい形で起こし、訳の `// ` メモに刷られた形を書く（1:6）。
 - 底本の角括弧・イタリック・短剣符・脱落の印などが出てきたら、`books/octavius/AGENTS.md` の「底本の扱い」の扱い（角括弧は残して訳さない、補いは ⟨ ⟩、短剣符と脱落の印は残す）に従い、最初に出たページでここに書き足す。
 - 底本の角括弧は、意味を校注で確かめてから扱う。後代の書き込みとして削る語句の印なら、『オクタウィウス』と同じく底本テキストに残して訳さない。フルダ写本だけが伝える一節の印（19.1〜19.11 の [Auctoritatem litteris … dei vestri.]。校注 p. 188 の Cap. XIX. 2）は、Oehler が本文として刷るので訳し、訳でも全角の［］で囲む。括弧の始まりの文の句点の前に、訳注「括弧の中は、失われた一つの写本にだけ伝わる文。」を付け、括弧の範囲と、ほかの写本がどこからどこへ続くかを `// ` メモに書く（19:1）。
-- 底本のイタリック（編者が補った語。16.1 の dei は Oehler 自身の補いで、校注に ego とある。19.10 の probata は先行の刊本の補い）は、底本テキストで ⟨ ⟩ に入れて起こす。訳では補いに従い、`// ` メモに補いであることと写本の読みを書く（16:1、19:10）。小型の大文字（16.11 の DEUS CHRISTIANORUM）は大文字で、ギリシア文字の語（16.11 の ΟΝΟΚΟΙΗΤΗΣ、17.1 の κόσμον）はギリシア文字で起こす。
+- 底本のイタリック（編者が補った語。16.1 の dei は Oehler 自身の補いで、校注に ego とある。19.10 の probata は先行の刊本の補い）は、底本テキストで ⟨ ⟩ に入れて起こす。訳では補いに従い、`// ` メモに補いであることと写本の読みを書く（16:1、19:10）。立体で刷られ、校注に ego とある Oehler 自身の推定（21.3 の Dudum。写本の多くは totum）も同じく、訳注は付けずに `// ` メモに書く（21:3）。小型の大文字（16.11 の DEUS CHRISTIANORUM）は大文字で、ギリシア文字の語（16.11 の ΟΝΟΚΟΙΗΤΗΣ、17.1 の κόσμον）はギリシア文字で起こす。
 - 底本の校注の略号は `research/sources.md` の底本の行にある。『護教論』には、失われたフルダ写本（λ）の異読が多く伝わり、ほかの写本と大きく違う本文を示す箇所がある。底本はおおむね写本の大勢の読みを本文に置くが、フルダ写本や少数の写本の読みを採る箇所もある（3.2 の Lucium Titium、3.5 の quam lascivus、3.6 の filium iam）。どちらの場合も訳は底本の読みで行い、ほかの読みは論点一覧に残す。読者の理解が変わる箇所にだけ訳注を付ける。
 - 底本の丸括弧は、訳でも（）に入れてよいが、括弧ごとで一文が 60 字を超えるときは文を分けて括弧を外す。
 
@@ -114,12 +114,18 @@
 | carnifex | 刑吏（7:2） |
 | vitium（mendacii、seminis） | 欠陥（7:9、7:12。7.8 の Fama malum の「悪」と分ける） |
 | aemulatio／aemulus（operatio、ratio） | 敵意（2:19 の裁き手の vestra aemulatio）。悪評や敵対の動機として、張り合う相手へのねたみを挙げるところは「ねたみ」（7:3 の ex aemulatione Iudaei、7:12 の ingenio aemulationis「ねたむ心のたくらみ」）／敵対する（2:19〜2:20 の aemula operatio「敵対する働き」、aemula ratio「敵対する企み」。神に張り合うダイモンの働きを指す。27 章以下の aemulus もこれに揃える） |
-| revincere | 暴く（1:15、3:12）。probare（裏づける）と対になって、書き手の記述を退けるところは「論駁する」（19.14 の aut probat aut revincit） |
+| revincere | 暴く（1:15、3:12）。probare（裏づける）と対になって、書き手の記述を退けるところと、人が教えによって言い負かされるところは「論駁する」（19.14 の aut probat aut revincit、21.20 の revincebantur magistri） |
 | instrumentum | 書物（聖書や、ユダヤ人の書を言うとき。19.1 の instrumentis istis「これらの書物」、21.1 の Iudaeorum instrumentis も揃える）。18.1 の instrumentum litteraturae は「書き記されたものという備え」（17.1 の instrumentum elementorum「元素の備え」と同じ語）。年代を調べる 19.14 の multis instrumentis は「多くの資料」 |
 | propheta・prophetia／vaticinatio・vaticinari／divinatio | 預言者・預言（18.3、19.1）／預言（19.1 のモーセ、19.11 のシビュラの呼び名）。異教の詩人の vaticinatio は「予言」（19.7 の poeticam vaticinationem「詩の予言」）／予言（20.3〜20.5。divinitas「神性」と並ぶ語で、聖書の予告を言うときも「予言」） |
 | voces／litterae（預言者の） | 声／文字・書物（18.3、19.9、20.4。voces は「言葉」にしない） |
 | iustitia／innocentia | 義（神の前の義と、預言された世の義の衰えを言う 18.2、20.2）。人の徳や功績として並べる iustitia は「正義」（11.10、11.14、11.15）／潔白（18.2 の iustitiae innocentia「義の潔白」） |
-| scilicet | つまり（18.5、19.5、20.3） |
+| scilicet | つまり（18.5、19.5、20.3、21.16） |
+| verbum／sermo／ratio／virtus／ΛΟΓΟΝ | 言葉／言葉／理／力（17.1 の verbo、ratione、virtute「言葉・理・力」を 21.9 の Iam ediximus が受けるので、21.9〜21.19 もこれで通す。哲学の議論で単独に出る ratio は『オクタウィウス』の「理性」）／ロゴス（21.9 の ΛΟΓΟΝ, id est sermonem atque rationem は「ロゴス、つまり言葉と理」、21.19 の verbum dei, id est ΛΟΓΟΝ は「神の言葉、つまり、あのロゴス」） |
+| spiritus／substantia | 霊（21.10〜21.13。神の本性を言う語で、聖霊と補わない。21.12 の Nam et deus spiritus は「神も霊だからです」と地の文に溶かし、『』と出典を付けない）／実体（21.8、21.11〜21.12 の unitas substantiae「実体が一つであること」。『オクタウィウス』26:8 のダイモンの substantia「本質」とは文脈が違う） |
+| praedicare（預言として） | 告げ知らせる（18.3 の praedicatores「告げ知らせる者たち」と揃える。21.14、21.17、21.22）。praenuntiare は「予告する」、adnuntiare は「告げる」（21.6） |
+| census（sectae et nominis） | 出どころ（21.29） |
+| fabula | 作り話（21.15。『オクタウィウス』と同じ） |
+| magus | 魔術師（21.19。『オクタウィウス』と同じ） |
 | censuales（19.14） | 諸民族の起源を伝える書き手たち（Oehler の注 y） |
 | lascivus（3.4〜3.5） | 陽気な、浮かれた（ほめ言葉。「淫らな」にしない） |
 | iniuria（3.5） | 損（「不正」にしない） |
@@ -136,7 +142,7 @@
 - sequitur ne（8.11）は結果の否定（「〜とは思わないことになる」）で訳し、recogitare＋ne の見込みの形にしない。7.12 の recogitet, ne は見込みの形（「最初のあの口が嘘をまいたのではないか」）。
 - 文と文をつなぐ小辞を、文を分けても落とさない。理由の quia（10.3 の quia tunc demum …「〜からです」）、前の文の中身を言う quod（11.8「〜からです」）、逆接の atquin（11.13「しかし」。「しかも」にしない）。
 - 当然そうあるべきことを言う直説法の未完了過去（12.7 の merebatur、14.4 の oportebat）は、接続法の事実に反する仮定とは分けて、現在の「〜はずです」「〜はずではありませんか」で訳す。
-- 14.4 の praefentur は、Oehler の注 m に従い「（神々が、ある家の災いや迷いの）元となる」と取り、dei を複数の主語とする（「前口上で語る」としない）。Oehler の注は、ほかの注釈者と語義が分かれるところでも、この本の判断の拠り所にする（4.11 の defendunt、10.1 などの semel、13.5 の hastarium と同じ）。
+- 14.4 の praefentur は、Oehler の注 m に従い「（神々が、ある家の災いや迷いの）元となる」と取り、dei を複数の主語とする（「前口上で語る」としない）。Oehler の注は、ほかの注釈者と語義が分かれるところでも、この本の判断の拠り所にする（4.11 の defendunt、10.1 などの semel、13.5 の hastarium と同じ。21.8 の Iovis ista sunt numina vestra も、注 r に従い前の passus est を補って「そうしたユピテルを父としたのは、あなたがたの神々です」）。
 - 疑問符で終わる non＋比較級（19.13 の non retrosiores reprehenduntur … ?）は、肯定を述べる「〜ではないでしょうか」にし、否定をもう一つ足さない。retrosior は Oehler の注 p に従い retro（＝以前に）からの語で「より前の」、reprehenduntur は retrahuntur で「さかのぼる」（「最後の人でさえ、…より前にさかのぼるのではないでしょうか」）。
 - 強めの ipse・ille が指す人が文中に名で出ていないときは、異読にない語を足さない範囲で、指す人を補う（5:3 の ipsius divinitatis は、前の nomen Christianum を受けて「キリストご自身の神性」）。
 
@@ -194,6 +200,9 @@
 | Hebraei／Iudaei | ヘブル人（口語訳。Hebraeae litterae は「ヘブルの文字」、Hebraicae litterae は「ヘブル語の書」）／ユダヤ人（18.5、18.7） |
 | Prometheus | プロメテウス（18.2。『ギリシア人への演説』と同じ） |
 | Moyses／Danaus／Argos／Inachus Argivus／Priamus／Homerus／Titani／Assyrii | モーセ／ダナオス／アルゴス／アルゴスのイナコス（『ギリシア人への演説』と同じ）／プリアモス／ホメロス／ティタンたち／アッスリヤ人（口語訳）（19.1〜19.3、19.12）。Troianum proelium は「トロイア戦争」、Iliacus exitus は「トロイアの滅び」 |
+| Danae（Danais）／Zeno／Cleanthes | ダナエ（21.7。『第一弁明』と同じ。底本の属格 Danaidis）／ゼノン／クレアンテス（21.10。『オクタウィウス』と同じ） |
+| Pontius Pilatus／Romulus／Proculi | ポンテオ・ピラト（口語訳。21.20）／ロムルス／プロクルスのような人々（21.26。複数の Proculi。『オクタウィウス』21:9 の表記） |
+| Orpheus／Musaeus／Melampus／Trophonius／Pieria／Boeotia／Pompilius Numa | オルフェウス／ムサイオス／メランプス／トロフォニオス／ピエリア／ボイオティア（『ギリシア人への演説』と同じ）／ヌマ・ポンピリウス（21.32。底本の語順は Pompilius Numa だが、なじみのある順で書く。21.33 の Numa は「ヌマ」） |
 | Zacharias／Cyrus／Darius／Thales／Solon／Sibylla | ゼカリヤ／クロス／ダリヨス（口語訳）／タレス／ソロン／シビュラ（19.5、19.11。シビュラは『第一弁明』と同じ） |
 | Aegyptii／Chaldaei／Phoenices／Tyrus | エジプト人／カルデヤ人／ピニケ人／ツロ（口語訳。ピニケは『ギリシア人への演説』と同じ）（19.14） |
 | Manethon／Berosus／Hieromus／Mendesius Ptolemaeus／Menander Ephesius／Iuba／Apion／Iosephus | マネト／ベロッソス／ヒラム（Oehler の推定 Hieromus。口語訳の名）／メンデスのプトレマイオス／エペソのメナンドロス／ユバ王／アピオン（『ギリシア人への演説』と同じ）／ヨセフス（19.14） |
