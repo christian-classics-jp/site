@@ -74,7 +74,7 @@
 |---|---|
 | spectaculum | 見世物（作品の題も『見世物について』） |
 | oratio | 祈り |
-| adorare（『祈りについて』） | 祈る（1.4〜1.6、2.3、16.2、17.1、17.5。ルカ一一・一 やマタイ六・六 の「祈る」の意味で orare と同じに使う。『護教論』の「拝む」にしない）。対象を目的語に取って崇めることを言うところ（13.3 の Nos dominum adoramus, non dedimus、16.3 の adoratis sigillaribus suis）は「拝む」 |
+| adorare（『祈りについて』） | 祈る（1.4〜1.6、2.3、16.2、17.1、17.4。ルカ一一・一 やマタイ六・六 の「祈る」の意味で orare と同じに使う。『護教論』の「拝む」にしない）。対象を目的語に取って崇めることを言うところ（13.3 の Nos dominum adoramus, non dedimus、16.3 の adoratis sigillaribus suis）は「拝む」 |
 | sophia／disciplina orandi／breviarium（『祈りについて』1 章） | 知恵／祈りの教え／要約 |
 | religio（『祈りについて』） | 礼拝（神にささげるもの。1.6 の religionem suam offerret、9.2 の religio orationis「祈りという礼拝」、18.4 の ieiunii religio「断食という礼拝」）。人の側の敬いの心を言う 6.4 の non sine religione は、『護教論』6.10 の「敬虔」の意味で「敬虔な思い」。superstitio（迷信）と対にする 15.2 の non religioni, sed superstitioni も「敬虔」 |
 | substantia（『祈りについて』） | 文脈で訳す（1.8 の interpretationis substantia「解き明かしの中身」、4.3 の substantiam … voluntatis「みこころの実質」、4.6 の substantia passionis「受難の実際」）。『護教論』の「実体」にしない |
@@ -82,7 +82,7 @@
 | pietas／potestas（『祈りについて』2.4） | 慈しみ／権力（『護教論』34.2 の nomen pietatis quam potestatis に揃える。Oehler の注 b）。4.7 の voluntas et potestas patris は「父のみこころであり、父の力」 |
 | sufferentia／sustinere（『祈りについて』4 章） | 忍耐／耐え忍ぶ |
 | temptatio・temptare／probare（『祈りについて』8 章） | 試み・試みる（8 章を通して揃え、8.3 のルカ二二・四六 の ne temptemini も「試みられないように」と言い換える。口語訳の「誘惑」にしない）／明らかに示す（8.2 の non temptandae fidei gratia …, sed probandae。神について「試みる」を退ける論なので、「確かめる」「ためす」のような知るための語にしない） |
-| exomologesis／confiteri（『祈りについて』） | 告白（7.2、9.1）／言い表す。7.2 の Exomologesis est petitio veniae は、続く理由から「ゆるしを願うことは、告白です」の向き |
+| exomologesis／confiteri（『祈りについて』） | 告白（7.2、9.1）／言い表す。7.2 の Exomologesis est petitio veniae は、続く理由から「ゆるしを願うことは、告白です」の向き。与格を取る 14.2 の orantes confitemur Christo は「ほめたたえる」（罪を言い表す意味と分ける） |
 | delictum／peccator／paenitentia | 罪／罪びと／悔い改め（『祈りについて』7 章） |
 | desiderium／petitio（『祈りについて』10.1） | 望み／願い（「あとから加わる望みには、外側に願いを積み上げる権利がある」） |
 | invidia（『祈りについて』5.4 の殉教者の叫び） | 嘆き訴えて（『護教論』40:14 の invidia caelum tundimus と同じ。Oehler の注 c。「ねたみ」にしない） |
@@ -97,7 +97,7 @@
 | anima | 魂。体と並べて死を言うところは「命」（4.9 の si anima potius cesserit plagis, quam corpus「体が屈するより、むしろ命が鞭に負けて尽きるなら」） |
 | caro／spiritus（4.1） | 肉／霊。マタイ二六・四一 の言い換え（caro infirma, spiritus promptus）は、口語訳の「心」「肉体」を「霊」「肉」に替えて地の文に溶かし、promptus は口語訳の「熱している」 |
 | secessus | 隠れ場（2.9〜2.10） |
-| pax（1.7〜1.8） | 平和（教会の中の和解とも、殉教者に請う教会への受け入れとも取れるので、どちらにも寄せない） |
+| pax（1.7〜1.8） | 平和（教会の中の和解とも、殉教者に請う教会への受け入れとも取れるので、どちらにも寄せない）。『祈りについて』でも「平和」（11.2 の ad pacem dei … sine pace、18.1 の conferenda … pax、18.2 の impedit pax、sine pace）。osculum pacis・osculum sanctum は「平和の口づけ」「聖なる口づけ」、口づけを延ばすことを言う 18.3 の differre pacem は「平和の口づけを延ばす」 |
 | sacramentum（3.1） | 誓い（兵士の入隊の誓い。『護教論』の「秘儀」にしない） |
 | militia／miles | 兵役／兵士 |
 | incommoda／durus・acerbus | 不便（3.2、3.6、4.2）／つらい |
@@ -109,7 +109,7 @@
 | agonothetes／xystarches／epistates | 競技の主催者／練習場の長／監督（3.3〜3.4。注 i）。剣闘士の magistri et praepositi（1.3）は「師範や親方」で、「監督」と重ねない |
 | agon／brabium／scamma／palaestra／stadium | 競技／賞／競技の場／練習場／競技場（3.3〜3.6。stadium tribunalis は「裁きの座という競技場」） |
 | athletae／gladiatores | 運動選手／剣闘士 |
-| disciplina（運動選手の） | 規律（『殉教者たちへ』3.5。『護教論』の教えの意味の「教え」と分ける）。キリスト者の disciplina は『護教論』どおり「教え」（『見世物について』1.1 の praescriptum disciplinae「教えの定め」、1.4、3.4、3.8 の admonet disciplinae「教えを守るよう勧める」）。異教の側の世の規律（10.4 の disciplinae etiam humanae「人間の規律さえ」、10.6 の監察官の disciplina）は「規律」、異教の神々が伝えた流儀（11.3 の Castorum … disciplinae）は「教え」 |
+| disciplina（運動選手の） | 規律（『殉教者たちへ』3.5。『護教論』の教えの意味の「教え」と分ける）。キリスト者の disciplina は『護教論』どおり「教え」（『見世物について』1.1 の praescriptum disciplinae「教えの定め」、1.4、3.4、3.8 の admonet disciplinae「教えを守るよう勧める」）。異教の側の世の規律（10.4 の disciplinae etiam humanae「人間の規律さえ」、10.6 の監察官の disciplina）は「規律」、異教の神々が伝えた流儀（11.3 の Castorum … disciplinae）は「教え」。『祈りについて』のキリスト者の disciplina も「教え」（11.3 の disciplina nostra、16.2 の ad instar disciplinae「教えの手本として」、18.4 の disciplinae foris「外では教えに」）。兵士の見張りのたとえの中の 19.3 の administrabit disciplinam は「規律を守る」 |
 | conditio・condere／conditi（『見世物について』） | 造られたもの・造る／造られた者（2.2、2.6、2.13 の perversa administratio conditionis a conditis「造られた者が、造られたものをゆがめて扱うこと」。『護教論』の「ありさま」「定め」「条件」とは意味が違う） |
 | instituere・institutor／convertere・interpolator・aemulus（『見世物について』2 章） | 造る・造り主／ねじ曲げる・ゆがめる者・敵対する者（2.7〜2.8、2.14。aemula vis は「敵対する力」で『護教論』の aemulus に揃える。一人の悪魔を指す同格の並び interpolatoris et aemulatoris angeli は「ゆがめる者、敵対する者である天使」とし、二人に読めないようにする）。corruptela／integritas は「損なわれたもの／損なわれていないもの」、de integritate は「損なわれていない状態から」 |
 | abdicatio（voluptatium、spectaculorum）／abstinentia | 断つこと／控えること（『見世物について』1.3、3.1） |
@@ -144,7 +144,7 @@
 | libido | 情欲（性の欲を言うところ。この本の 9.3、10.6、14.2、17.3、17.7、25.2）。気ままの意味（21.1 の pro arbitrio ac libidine「自分の気ままと欲にまかせて」）は「欲」 |
 | quaestio（19.3） | 拷問による取り調べ（『護教論』と同じ） |
 | pompa | 行列（『オクタウィウス』と同じ）。洗礼で捨てる「悪魔と、その行列と、その天使たち」（4.1〜4.3）と、戦車競走の行列（7.2〜7.4）を同じ語にして、論のつながりを残す。7.2 の pompatior は「行列らしく華やか」 |
-| renuntiare・renuntiatio／eieratio／lavacrum／signaculum | 捨てる・放棄／捨てる誓い（4.5）／洗い（4.3。テトス三・五 の口語訳「再生の洗い」の語）／印（4.1）。洗い・印が洗礼を指すことは補わない。25.6 の in Sanctum（注 d のとおり聖餐）も「聖なるもの」とだけ訳して補わない。eierare は「捨てると誓う」（24.1〜24.2）。24.2 の nonne eieramus et rescindimus signaculum は誓いを裏返して言うので「印そのものを捨て去り、破る」。24.3 の renuntient は「告げる」の意味なので「捨てる」と訳し分ける |
+| renuntiare・renuntiatio／eieratio／lavacrum／signaculum | 捨てる・放棄／捨てる誓い（4.5）／洗い（4.3。テトス三・五 の口語訳「再生の洗い」の語）／印（4.1）。洗い・印が洗礼を指すことは補わない。25.6 の in Sanctum（注 d のとおり聖餐）も「聖なるもの」とだけ訳して補わない。eierare は「捨てると誓う」（24.1〜24.2）。24.2 の nonne eieramus et rescindimus signaculum は誓いを裏返して言うので「印そのものを捨て去り、破る」。24.3 の renuntient は「告げる」の意味なので「捨てる」と訳し分ける。『祈りについて』13.2 の lavacrum totius corporis は体を洗うことなので「全身を洗う浴場」とし、洗礼の「洗い」と分ける（13.3 の quas cum toto corpore in Christo semel lavimus は洗礼を指すとみられるが、補わない）。18.1 の signaculum orationis は「祈りに押す印」 |
 | ludi／ludus・lusus／ludii／circenses | 遊戯（agon の「競技」と分ける。5.3 の語源の言葉遊びを残すため）／遊び・戯れ／遊ぶ者たち（5.3。Oehler の推定）／戦車競走（の遊戯）。剣闘士の ludus（19.4〜19.5 の in ludum veneunt、damnantur in ludum）は「剣闘士の養成所」「養成所」 |
 | origo／titulus・nomen／apparatus・paratura／locus／ars（『見世物について』4.4 で挙げ、5〜9 章で論じる項目） | 起源／名（6.4 の sub quo nomine et titulo は「どんな名で、どんな呼び名のもとに」）／装い・しつらえ（4.3）／場所／技。4.4 と 8.11 の dicentur・dicantur は dicare の形と取り「ささげられている」。quibus praesidibus は「どんな守り神に」。15.2 の principalis titulus idololatriae は論の項目を言うので「偶像礼拝という主な項目」 |
 | census（『見世物について』7.5、8.5） | 出どころ（『護教論』21.29 と同じ。注 h）。7.5 では locuples、splendida との掛け合いを「その罪の出どころによって、豊かで、きらびやか」で残す |
@@ -163,12 +163,9 @@
 | cavea（30.8 の utraque cavea） | 両方の観客席（闘技場と劇場）（注 o。12.8 の型で補う。『護教論』の cavea「闘技場の観客席」） |
 | societates ecclesiarum／spatia／palmae（29.3 の競走場のたとえ） | 諸教会の交わり／周回／しゅろの枝。spatium hoc（29.1）は「この一生」 |
 | si forte | 先のことの仮定は「もしそういうことがあれば」（1.8）。呼び方をやわらげるところ（2.4 の in custodiarium, si forte）は「いわば」。そうした場に居合わせることを言うところ（『祈りについて』18.3 の potes domi, si forte, inter quos …）は「たまたま」 |
-| lavacrum totius corporis（『祈りについて』13.2） | 全身を洗う浴場（体を洗うこと。訳語表の lavacrum「洗い」は洗礼を言うときの語なので分ける）。13.3 の quas cum toto corpore in Christo semel lavimus は洗礼を指すとみられるが、補わない |
 | paenula・paenulati／sarabara／tiara（『祈りについて』15 章） | 上着・上着を着た者（15.3 のパウロの上着と同じ語にして皮肉を残す。第二テモテ四・一三 の口語訳の語）／外套／帽子（ダニエル三・二一 の口語訳の語）。expositis paenulis は「上着を脱いで」（注 c のとおり exponere は「脱ぐ」） |
 | gentiles／nationes（『祈りについて』） | 異教徒／異邦人（5.5、6.5、15.2、16.3〜16.4。15.2 の gentilibus adaequent と sic … adeunt ad idola nationes を訳し分ける） |
-| confiteri（与格を取る。14.2 の orantes confitemur Christo） | ほめたたえる（罪を「言い表す」意味と分ける） |
 | operatio（『祈りについて』18 章） | わざ（注 a のとおり断食のわざ。初出の 18.1 は「断食のわざ」と補う。18.4 の operationem tuam は「自分のわざ」。『護教論』39.8 の「働き」とは意味が違う） |
-| osculum pacis・osculum sanctum／pax／signaculum（『祈りについて』18 章） | 平和の口づけ・聖なる口づけ／平和（11.2 の ad pacem dei … sine pace、18.1 の conferenda … pax、18.2 の impedit pax、sine pace。口づけを延ばすことを言う 18.3 の differre pacem は「平和の口づけを延ばす」）／印（18.1 の signaculum orationis「祈りに押す印」） |
 | dies Paschae（『祈りについて』18.4） | 過越の日（このリポジトリの『トリュフォンとの対話』と同じ語。Oehler の注 d のとおり主の受難の日の断食を指すが、補わず `// ` メモに書く） |
 | statio・stationes militum（『祈りについて』19 章） | 見張り（スタティオ）・兵士の見張り（19.3 で兵士の見張りから名を取ったと言うので、文型の訳し方の名の由来の型で、初出の 19.1 だけ音を添える。19.2 の steteris は「立つ」で掛け合いを残す）。solvere・resolvere は「解く」 |
 | eucharistia／sacrificiorum orationes／ara dei（『祈りについて』19 章） | 聖餐（『ディダケー』『第一弁明』と同じ）／供え物の祈り（注 b）／神の祭壇（11.1 の altare dei と同じ「祭壇」） |
@@ -176,7 +173,6 @@
 | audere（否定の nec … audent など） | あえて〜する・あえて〜しない（『祈りについて』14.1。「できない」にしない） |
 | obsequium（『祈りについて』9.1、19.1） | 従順（9.1 の oblatio obsequii「従順のささげ物」、19.1 の devotum deo obsequium「神にささげた従順」） |
 | cetus（『祈りについて』17.4） | 大魚（口語訳ヨナ一・一七 の「大いなる魚」に寄せる。続く tantae bestiae は「これほど大きな獣」） |
-| disciplina（『祈りについて』11〜19 章） | 教え（11.3 の disciplina nostra、16.2 の ad instar disciplinae「教えの手本として」、18.4 の disciplinae foris「外では教えに」）。兵士の見張りのたとえの中の 19.3 の administrabit disciplinam は「規律を守る」 |
 
 ## 文型の訳し方
 
