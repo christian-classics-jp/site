@@ -121,7 +121,7 @@
 | meritum（41.1、41.5、41.6）／meritum・merere（48.5、48.14） | 罪（注 41 章 c。教会の書き手の用法で peccatum の意味。「功績」にしない。a meritis Christianorum は「キリスト者の罪から」、vestris meritis deputatur は「あなたがたの罪のせいにされる」）／善悪の裁きを言うところは「値打ち」「値する」（48.5 の boni seu contrarii meriti iudicium「善い、あるいはその反対の値打ちについての裁き」、48.14 の quod … boni seu mali meruit「値した善か悪か」） |
 | gehenna／paradisus／inferi | 地獄（47.10。口語訳のマタイ五・二二、『第一弁明』19:6〜19:7 と同じ）／パラダイス（47.11。口語訳のルカ二三・四三）／冥府（名前の表） |
 | expungere（48.14）／erogare（48.16）／apparere（48.16） | 決着をつける（注 48 章 r。44.1 の dispungere と同じく「決着をつける」）／使い尽くす（注 48 章 u）／仕える（qui usui humano, alius qui iudicio dei apparet「人間の用に仕える火と、神の裁きに仕える火」。13:9 の apparet「仕える」と同じ） |
-| conditio・condicio（48.4、48.12、48.13） | ありさま（48.4。注 g。effigies「姿」と対）／定め（48.12 の conditionis tuae legem「自分の定めの法」、48.13 の distincta condicione「区切った定め」） |
+| conditio・condicio（48.4、48.12、48.13） | ありさま（48.4。注 g。effigies「姿」と対）／定め（48.12 の conditionis tuae legem「自分の定めの法」）／条件（48.13 の ita destinata et distincta condicione「こう定め、区切った条件」。destinata の「定め」と重ねない） |
 | praescribere（47.8） | 抗弁する（7:2 の「抗弁」と同じ。注 47 章 r が送る 7 章の注 d） |
 | paratura（47.7） | 備え（22:11 の caelestes paraturas「天の備え」と同じ。novitiola paratura は「できて間もない備え」） |
 | exactor（40.10） | （罪の）償いを取り立てる方（nocentiae iudicem et exactorem「罪の裁き手であり、その償いを取り立てる方」） |
@@ -135,7 +135,7 @@
 | factitator（46.11） | 作り手（21:9〜21:10 の「万物の作り手」に揃える。哲学者の説の神なので「造り主」にしない） |
 | lenones／perductores／aquarioli／sicarii／venenarii／aruspices／arioli／mathematici（43.1） | 取り持ち屋／連れ込み屋／その下働きの水汲み（注 43 章 a）／刺客（44.2 も）／毒を盛る者／腸卜師（35:12 と同じ）／占い師／占星術師（35.12 の astrologos と同じ人々なので同じ訳） |
 | manticularius／lavantium praedo（44.2） | すり（注 c）／浴場の泥棒（注 d） |
-| fides／fidelis（43〜48 章） | 46.1 の fides divinarum litterarum は「神の書物が確かであること」、46.8 の ex fide は注 o に従い「本心から」、46.16 の fides・fidelis は預かり物を返す「誠実」「誠実な者」（「信者」との掛け言葉は `// ` メモに書く）。47〜48 章は文脈で訳し分ける：47.4 の fidem aspernata「信仰を軽んじて」、47.9 の fidem infirmarent veritatis「真理への信頼を弱める」、47.11 の Elysii campi fidem occupaverunt「その信じられる場所は、エリュシオンの野に先に占められている」、47.12 の fideliora「信じるに足り」・fidem inveniunt「信じられている」、48.1 の fidem infiget「信念を植えつける」、48.6 の fidem rei invenies「このことが信じられるとわかる」 |
+| fides／fidelis（43〜48 章） | 46.1 の fides divinarum litterarum は「神の書物が確かであること」、46.8 の ex fide は注 o に従い「本心から」、46.16 の fides・fidelis は預かり物を返す「誠実」「誠実な者」（「信者」との掛け言葉は `// ` メモに書く）。47〜48 章は文脈で訳し分ける：47.4 の fidem aspernata「信仰を軽んじて」、47.9 の fidem infirmarent veritatis「真理への信頼を弱める」、47.11 の Elysii campi fidem occupaverunt「それを信じる気持ちは、エリュシオンの野に先に占められている」、47.12 の fideliora「信じるに足り」・fidem inveniunt「信じられている」、48.1 の fidem infiget「信念を植えつける」、48.6 の fidem rei invenies「このことが信じられるとわかる」 |
 | adfectare／praestare（46.8〜46.9、46.15） | 装う（真理を持たずに得ようとする）・ねらう（46.15 の tyrannidem adfectant「僭主の座をねらう」）／示す（46.8 の ex fide praestat「本心から示す」、46.9 の integre praestant「損なわずに示す」） |
 | spirituales potestates（46.1） | 霊的な力（ダイモン）（注 b。23 章のダイモンの告白を指すので括弧で補う） |
 | facinus | 悪事（8:1、9:2。scelus と同じ訳。『オクタウィウス』の「罪」にしない。この本は crimen を「罪」とするため） |
@@ -189,7 +189,7 @@
 ページを訳しレビューを適用するたびに、繰り返し出る構文の訳し方をここに書く。
 
 - recogitare・retractare などに続く ne（「〜ではないか」。Oehler の注が言う直説法の μή の用法）は、ne の節の中の後半（et … も）まで「〜のではないでしょうか」の見込みの形で訳し、事実として言い切らない（2:19、3:2）。Videte ne … も「見てください。…のではないでしょうか」とし、ne が重なるところ（26.1）は、ne ごとに文を分けて同じ形で受ける（24:7、26:1）。Velim … demonstrare, ne forte … deprehendantur（35.5）も、続く 35.6〜35.11 がローマ人のほうが悪いと示すので、「〜ないように」にせず「ひょっとすると、…のほうではないでしょうか」と見込みの形で受ける。
-- a＋奪格で行為者を言うところ（9.1 の a vobis fieri）は「あなたがた自身が〜している」とし、場所の「あなたがたのもとで」にしない。受け身の動詞と並ぶ a deo（21.6 の venturus a deo praenuntiabatur）も「神によって、来ると予告されていた」と行為者にし、「神から来る」と出どころに読める形にしない。
+- a＋奪格で行為者を言うところ（9.1 の a vobis fieri）は「あなたがた自身が〜している」とし、場所の「あなたがたのもとで」にしない。受け身の動詞に付くところ（47.3 の a quibusdam philosophia quoque eiecta est「ある人々によって、哲学までも追い出されました」）も「〜によって」とする。受け身の動詞と並ぶ a deo（21.6 の venturus a deo praenuntiabatur）も「神によって、来ると予告されていた」と行為者にし、「神から来る」と出どころに読める形にしない。
 - 分詞句のあとに置かれた副詞や理由の句（21.28 の utique pro fiducia veritatis libenter）は、主動詞に掛かるかを確かめ、文を分けるときは主動詞の文の側に置く。
 - 奪格の独立句（2.20 の praesumptis, non probatis criminibus）は、理由の「〜のゆえに」にせず、状況を言う別の文に分ける（「悪事は、決めてかかられただけで、証明されてはいません」）。
 - ut＋名詞（ut innocentes、ut nocentes）は「〜であるかのように」と、扱いの名目を言う形にする（2:6）。
@@ -200,12 +200,14 @@
 - 前の論の結論を引く文頭の Adeo（36.2）は「このように」で受ける。「それほどに」は、程度を受ける ut などの節があるときだけにする。
 - 否定と比較が重なる条件 si non … magis A quam B（37.6 の si non … magis occidi liceret quam occidere）は「B より A のほうが許されている、というのでなければ」とし、「A のほうが…ない」と否定を比較の片方に付けない。事実に反する仮定の帰結にある vel（37.3 の vel una nox「たったひと晩」）と utique（37.7「きっと」）も落とさない。
 - habere＋不定詞（37.1 の quem habemus odisse「だれを憎むことがあるでしょうか」）は、posse＋不定詞の「〜できる」と訳し分ける。
-- 程度を言う ita … ut（39.4 の ita deliquerit, ut … relegetur）は「〜ほどの」と度合いを残し、文を分けて「〜して、…される」の結果にしない。対になる non qua … sed qua（39.16）は、両方を同じ形（「その仕方で〜のではありません」「その仕方で〜のです」）で受け、片方を理由にしない。si の節を受けて話を切り替える Certe（39.3）は「いずれにせよ」とし、譲歩に読める「確かに」にしない。
+- 程度を言う ita … ut（39.4 の ita deliquerit, ut … relegetur）は「〜ほどの」と度合いを残し、文を分けて「〜して、…される」の結果にしない。対になる non qua … sed qua（39.16）は、両方を同じ形（「その仕方で〜のではありません」「その仕方で〜のです」）で受け、片方を理由にしない。si の節や etsi の譲歩を受けて話を切り替える Certe（39.3、48.5）は「いずれにせよ」とし、譲歩に読める「確かに」にしない。
 - 当然そうあるべきことを言う直説法の未完了過去（12.7 の merebatur、14.4 の oportebat）は、接続法の事実に反する仮定とは分けて、現在の「〜はずです」「〜はずではありませんか」で訳す。
 - 14.4 の praefentur は、Oehler の注 m に従い「（神々が、ある家の災いや迷いの）元となる」と取り、dei を複数の主語とする（「前口上で語る」としない）。Oehler の注は、ほかの注釈者と語義が分かれるところでも、この本の判断の拠り所にする（4.11 の defendunt、10.1 などの semel、13.5 の hastarium と同じ。21.8 の Iovis ista sunt numina vestra も、注 r に従い前の passus est を補って「そうしたユピテルを父としたのは、あなたがたの神々です」。23.1 の elidunt は注 b に従い「（子供たちを）殺す」で、「倒す」にしない。23.12 の verum utrobique は注 t に従い verum を形容詞と取り「どちらの側でも、それが本当の種族」。23.22 の a vobis quandoque a Christianis は注 zz に従い「いつかキリスト者となったあなたがた自身によって」。24.5 の in aliquo principe confitetur は注 e に従い、下の者たちに仕えて最高の者をないがしろにする者の罪として訳し、注 e の補い「その下の者たちに」を（）に入れる。25.12 の rebus religio profecerit? は注 p に従い「宗教が国の役に立ったとでもいうのでしょうか」。34.3 の Tanto abest は注 e に従い比較級 magis の省略と取り「まして…なおさら遠い」。35.10 の alii foris alii intus は注 a（Rigaltius）に従い「外と内とで別の者になって」、35.6 の vernaculam は注 p に従い「口の悪い生え抜きの」。46.6 の Quidni? cum … deputent は注 i に従い一つの問いと取り「どうして追い払えないのでしょうか。…数えているのにです」とし、注のない 22.1・30.2 の Quidni? cum …「当然でしょう」とは訳し分ける。46.2 の obducitur は注 d に従い「言い負かされる」、46.12 の Sexum nec femineum mutat は注 u に従い「相手の女でさえ取り替えません」。注が異論なしに他の注釈者の言葉を引くところも、Oehler の取り方として扱う（25.17 の注 v と同じ））。ほかの注釈者の取り方は reviews に残し、訳は変えない。
 - 過去完了の接続法の条件に、直説法の未完了過去が帰結として続く形（40.11 の si requisisset, sequebatur, ut …）は、8:11 の過去完了の事実に反する仮定と同じく、過去の「〜はずでした」で訳す。本来すべきだったことを言う直説法の過去完了（41.6 の debuerant）も「〜はずでした」とし、接続法未完了過去の deberent（41.1、41.6）は「〜べきなのに」とする。
 - 属格を取る形容詞（40.10 の inofficiosa eius、40.12 の rea、ingrata）は、「その方に対して〜」の形で、だれがその性質を持つのかを取り違えないように訳す（「恩知らずでもあるその方」のように、属格の相手を修飾する形にしない。40:12）。
 - 著者が一人称単数（わたし）と一人称複数（わたしたち）を切り替えるところ（42.4〜42.6）は、文を分けたあとも主語を補って区別を残す（42:6 の desideravero、sumam は「わたしは」）。si forte（41.4）は、38:4 と同じく「もしそうなるとすればですが」。
+- 神の動作の尊敬語「〜れる・られる」が、近くの受け身と紛れるところ（47.10 の praedicantes deum iudicaturum に「笑われます」が続く）は、「裁きを行われる」のように受け身に読めない形にする。
+- 文を分けても、対比の vero（48.13「一方、」）と、否定を受ける sed（48.16 の non … sed「かえって、」）は残し、sed を「〜からです」の理由に変えない。似た語は訳し分ける：reformare「作り変える・作り直す」（47.6、48.4、48.10）と reparare「新たにする」（48.16）、erogare「使い尽くす」（48.16）と prodigere「散らす」（48.11）。
 - O＋対格（46.8 の O Apollinem inconsideratum!）は感嘆で、「ああ、なんと思慮の足りないアポロでしょう」とする。「〜よ」の呼びかけにするのは呼格のときだけ。
 - 与格や奪格だけの句（46.16 の depositum hostibus denegavit「預かり物を、敵に返しませんでした」）に、「〜だから」「〜のために」の理由や動機を足さない。
 - 底本が dicere: … an docere: … のように引用の形に刷る聖書の掟（45.3 の Non occides、Ne irascaris quidem）は、言い換えのほうも並びを揃えて『』に入れ、出典はまとめて文末に置く（「（マタイ五・二一〜二二）」）。引用の形に刷らない言い換え（45.3〜45.4 の情欲、悪口、仕返し）には『』も出典も付けない。
