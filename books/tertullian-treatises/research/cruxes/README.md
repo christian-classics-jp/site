@@ -50,6 +50,17 @@ CSEL 20 の略号（OCR l. 477–500 の INDEX SIGLORUM）は Oehler と文字�
 
 CSEL 20 の『祈りについて』の略号（目次では ABD）：A は同じ Agobardinus、B は Gangneius の版（Oehler の C）、D は Ambrosianus（Oehler の B、9 章から）。Gelenius の版は Gel（OCR は「Gei」）、Pamelius は Pam、Junius の版（1597 年）は Iun、Rigaltius は Rig、Ursinus は Urs、Latinius は Lat、Scaliger は Scal。「x」は上の匿名の学者（Miscell. Observ.）。論点一覧では、CSEL の読みを挙げるときは略号ではなく名前で書く（CSEL の B＝Gangneius、Oehler の B＝Ambrosianus）。CSEL の OCR の校注は D を B と読むところがあるので、CSEL の校注が挙げる写本は、Oehler の校注と同じ分かれ方のときだけ挙げる。CSEL の校注には、略号の表にない推定者として Hartelius（序の結びに Wissowa と並んで名の出る W. Hartel、OCR l. 470）と H. Kellnerus も名で出る（11-de-oratione-11-19 の 14.2、18.1、18.3）。20 章以下の CSEL の校注には Harnackius（Harnack）と Routhius（Routh）も出る（12-de-oratione-20-22）。Oehler の校注で「V. D. in Misc. Obss.」（vir doctus）と書く推定は、CSEL の「x」と同じ学者のもの。20 章以下の Oehler の校注には、Aug. Neander と M. Joseph Routh（『教会著作家小品集』1 巻、第 2 版）も名で出る。CSEL の B（Gangneius）は 19 章で終わるので、20〜21 章の CSEL の校注の OCR に出る「B」は Ambrosianus（CSEL の D）の読み誤りとみる。
 
+## 『洗礼について』の略号
+
+『洗礼について』の校注の略号は、作品の前のページ（p. 618、画像 0648＝`page/n647_w1600.jpg`、OCR l. 75067–75081）の表で確かめた。ほかの 3 作と違い、表にあるのはみな刊本で、写本は一つもない。A は写本ではなく Gangneius の初版なので、「A」の読みは、ほかの作品の「A」（Agobardinus などの写本）とは別のもの。
+
+- A：Ioh. Gangneius の初版（editio princeps、1545 年）。Amg はその版の余白の読み（表の「Signum mg.」）。
+- B：Sigism. Gelenius の版（1550 年。表は、Gelenius がこの書を直すのに、Io. Lelandus から借りた、マスベリの修道院で見つかったブリタニアの写本を使ったと言う、と記す）。
+- a：Iac. Pamelius の版（1579 年）。b：Nic. Rigaltius の版（1634 年）。
+- 校注に名で出る推定・注釈者：Fulv. Ursinus、Fr. Junius、Latinius、Semlerus、Io. Wouwerius。注解には Rigaltius の注と Corbinianus Thomas の解が引かれる。
+
+CSEL 20 の『洗礼について』の略号（目次 l. 541 では B だけ）：B は Gangneius の版（Oehler の A）、Bmg はその余白（Oehler の Amg）、Gel は Gelenius（Oehler の B。OCR は「Gei」と読む）、Pam、Iun、Rig、Urs、Lat は刊本と推定者。CSEL の校注には、Wouwerius（OCR は「Wouweruis」）、Hartelius、Oehlerus も名で出る。論点一覧では、CSEL の読みを挙げるときは略号ではなく名前で書く（CSEL の B＝Gangneius、Oehler の B＝Gelenius）。CSEL の序（OCR l. 308–312）によると、『洗礼について』は Agobardinus にはなく、今に残るどの写本にも伝わらず、Gangneius の版で初めて世に出た（Gangneius が Agobardinus のほかに使ったもう一つの写本による）。Oehler の序文（p. XVI、OCR l. 653–686）によると、Gelenius はマスベリの写本でこの書を直し補ったが、どこが写本によりどこが推定によるかを示さなかったので、Oehler は理由がなければ Gangneius の版から離れないことにした（その例が 1.3 の「クィンティラ」）。
+
 ## そのほかの資料
 
 - CSEL 20（Reifferscheid & Wissowa 1890）：『見世物について』『祈りについて』『洗礼について』を収め、『殉教者たちへ』は収めない（本の `AGENTS.md`）。略号は上の『見世物について』の節。OCR は本文に印や崩れが多いので、CSEL の読みは校注で裏づけられるものだけを確かなものとして挙げる。
