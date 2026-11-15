@@ -1,7 +1,7 @@
 # 15〜17 章　見世物にされる神々と、わたしたちの拝む神
 
 15.1 Cetera lasciviae ingenia etiam voluptatibus vestris per deorum dedecus operantur. Dispicite Lentulorum et Hostiliorum venustates, utrum mimos an deos vestros in iocis et strophis rideatis: moechum Anubin, et masculum Lunam, et Dianam flagellatam, et Iovis mortui testamentum recitatum, et tres Hercules famelicos inrisos.
-15:1 ほかの浮かれた才知も、神々を辱めることで、あなたがたの楽しみに仕えています。レントゥルスやホスティリウスのような作者たちの洒落た出し物を、よく見分けてください。冗談やからかいの仕掛けの中で、あなたがたが笑っているのは、役者たちでしょうか。それとも、あなたがたの神々でしょうか。姦通するアヌビス、男にされたルナ（月の女神）、鞭打たれたディアナです。死んだユピテルの遺言状の読み上げ、笑いものにされた飢えた三人のヘルクレスです。
+15:1 ほかの浮かれた才知も、神々を辱めることで、あなたがたの楽しみに仕えています。レントゥルスやホスティリウスのような作者たちの洒落た出し物を、よく見分けてください。冗談やからかいの仕掛けの中で、あなたがたが笑っているのは、役者たちでしょうか。それとも、あなたがたの神々でしょうか。姦淫するアヌビス、男にされたルナ（月の女神）、鞭打たれたディアナです。死んだユピテルの遺言状の読み上げ、笑いものにされた飢えた三人のヘルクレスです。
 15.2 Sed et histrionum litterae omnem foeditatem eorum designant. Luget Sol filium de caelo iactatum laetantibus vobis, et Cybele pastorum suspirat fastidiosum non erubescentibus vobis, et sustinetis Iovis elogia cantari, et Iunonem, Venerem, Minervam a pastore iudicari.
 15:2 そればかりか、役者たちの台本も、神々のあらゆる醜さを書き記しています。太陽神ソルは、天から投げ落とされた息子を嘆きます。それを、あなたがたは喜んでいます。キュベレは、つれない羊飼いを恋い慕ってため息をつきます。それでも、あなたがたは赤面しません。あなたがたは、ユピテルの罪状が歌われるのを平気で聞いています。ユノとウェヌスとミネルウァが、羊飼いに裁かれるのもです。
 15.3 Ipsum quod imago dei vestri ignominiosum caput et famosum vestit, quod corpus inpurum et ad istam artem effeminatione productum Minervam aliquam vel Herculem repraesentat, nonne violatur maiestas et divinitas constupratur laudantibus vobis?
@@ -9,37 +9,37 @@
 15.4 Plane religiosiores estis in cavea, ubi super sanguinem humanum, super inquinamenta poenarum proinde saltant dei vestri argumenta et historias noxiis ministrantes, nisi quod et ipsos deos vestros saepe noxii induunt.
 15:4 確かに、闘技場の観客席では、あなたがたはもっと信心深くなります。そこでは、人間の血の上で、刑罰の汚れの上で、あなたがたの神々が同じように踊ります。罪人たちに筋書きと物語を提供しながらです。もっとも、罪人たちが、あなたがたの神々そのものの姿をまとうことも、しばしばあります。
 15.5 Vidimus aliquando castratum Attin, illum deum ex Pessinunte, et qui vivus ardebat, Herculem induerat. Risimus et inter ludicras meridianorum crudelitates Mercurium mortuos cauterio examinantem, vidimus et Iovis fratrem gladiatorum cadavera cum malleo deducentem.
-15:5 わたしたちは、いつか、去勢されたアッティスを見ました。ペッシヌスから来た、あの神です。また、生きたまま焼かれていた男は、ヘルクレスを演じていました。わたしたちは、昼の見世物の残酷な戯れの中で、メルクリウスが焼きごてで死者を確かめるのを笑いました。ユピテルの兄弟が、槌を持って剣闘士たちの死骸を運び出すのも見ました。
+15:5 わたしたちは、いつか、去勢されたアッティスを見ました。ペッシヌスから来た、あの神です。また、生きたまま焼かれていた男は、ヘルクレスを演じていました。わたしたちは、昼の見世物の残酷な戯れの中で、メルクリウスが焼きごてで死者を確かめるのを笑いもしました。ユピテルの兄弟が、槌を持って剣闘士たちの死骸を運び出すのも見ました。
 15.6 Singula ista quaeque adhuc investigare quis posset? Si honorem inquietant divinitatis, si maiestatis vestigia obsoletant, de contemptu utique censentur tam eorum qui eiusmodi factitant quam eorum quibus factitant.
 15:6 こうしたことを一つ一つ、さらに調べ上げることなど、だれにできるでしょうか。それらが神性の誉れを乱し、威厳の跡を汚して消すのなら、それはもちろん侮りから出ています。そうしたことを繰り返し演じる者たちの侮りからも、それを演じてもらう人々の侮りからもです。
 15.7 Sed ludicra ista sint. Ceterum si adiciam, quae non minus conscientiae omnium recognoscent, in templis adulteria conponi, inter aras lenocinia tractari, in ipsis plerumque aedituorum et sacerdotum tabernaculis sub isdem vittis et apicibus et purpuris thure flagrante libidinem expungi, nescio, ne plus de vobis dei vestri quam de Christianis querantur.
-15:7 しかし、それらはただの見世物だとしておきましょう。ところが、わたしが次のことを付け加えたらどうでしょうか。だれの良心も、劣らず思い当たることです。神殿で姦通が取り決められ、祭壇のあいだで女の取り持ちが行われます。たいていは、神殿番や祭司たちの小部屋そのもので、情欲が果たされます。同じ聖なる髪紐と祭司の帽子と紫の衣をつけたまま、香が燃えるなかでです。そうであれば、あなたがたの神々が苦情を言う相手は、キリスト者よりも、あなたがたのほうなのではないでしょうか。
+15:7 しかし、それらはただの見世物だとしておきましょう。ところが、わたしが次のことを付け加えたらどうでしょうか。だれの良心も、劣らず思い当たることです。神殿で姦淫が取り決められ、祭壇のあいだで女の取り持ちが行われます。たいていは、神殿番や祭司たちの小部屋そのもので、情欲が果たされます。同じ聖なる髪紐と祭司の帽子と紫の衣をつけたまま、香が燃えるなかでです。そうであれば、あなたがたの神々が苦情を言う相手は、キリスト者よりも、あなたがたのほうなのではないでしょうか。
 15.8 Certe sacrilegi de vestris semper adprehenduntur. Christiani enim templa nec interdiu norunt; spoliarent forsitan ea et ipsi, si et ipsi ea adorarent. Quid ergo colunt qui talia non colunt?
 15:8 確かに、神聖を汚す者は、いつもあなたがたの仲間の中から捕まります。キリスト者は、昼間でさえ神殿を知らないからです。もしキリスト者も神殿を拝んでいたら、おそらく、キリスト者も神殿を荒らすでしょう。それなら、こうしたものを拝まない者たちは、何を拝んでいるのでしょうか。
 15.9 Iam quidem intellegi subiacet veritatis esse cultores qui mendacii non sint, nec errare amplius in eo in quo errasse se recognoscendo cessaverunt. Hoc prius capite et omnem hinc sacramenti nostri ordinem haurite, repercussis ante tamen opinionibus falsis.
 15:9 もう分かりきったことです。偽りを拝む者でない人々は、真理を拝む者です。また、自分が誤っていたと認めて誤るのをやめた事柄では、もう誤ることはありません。まずこのことをつかんでください。そして、ここから、わたしたちの秘儀の筋道を残らずくみ取ってください。ただし、その前に、偽りの憶測を打ち返しておきます。
 
 16.1 Nam et, ut quidam, somniastis caput asininum esse deum nostrum. Hanc Cornelius Tacitus suspicionem eiusmodi ⟨dei⟩ inseruit. Is enim in quinta historiarum suarum bellum Iudaicum exorsus ab origine gentis etiam de ipsa tam origine quam de nomine et religione gentis quae voluit argumentatus Iudaeos refert Aegypto expeditos sive, ut putavit, extorres vastis Arabiae in locis aquarum egentissimis, cum siti macerarentur, onagris, qui forte de pastu potum petituri aestimabantur, indicibus fontis usos ob eam gratiam consimilis bestiae superficiem consecrasse.
-16:1 実際また、ある人々と同じように、あなたがたは、ろばの頭がわたしたちの神だと夢想しました。そのような神についてのこの疑いを持ち込んだのは、コルネリウス・タキトゥスです。タキトゥスは、その歴史書の第五巻で、ユダヤ戦争を民族の起こりから説き起こしています。そして、その起こりについても、民族の名と宗教についても、思うままに論じています。タキトゥスの伝えるところでは、ユダヤ人はエジプトから解き放たれました。あるいは、タキトゥスが思ったところでは、追放されました。そして、アラビアの荒野の、水のきわめて乏しい所で、渇きに苦しんでいました。そのとき、野ろばたちが、たまたま草を食べたあと水を飲みに行くと見えたので、それを泉の道案内にしました。その恩返しに、同じような獣の姿を聖なるものとして祀ったというのです。
+16:1 実際また、ある人々と同じように、あなたがたは、ろばの頭がわたしたちの神だと夢想しました。そのような神についてのこの疑いを持ち込んだのは、コルネリウス・タキトゥスです。実際、タキトゥスは、その歴史書の第五巻で、ユダヤ戦争を民族の起こりから説き起こしています。そして、その起こりについても、民族の名と宗教についても、思うままに論じています。タキトゥスの伝えるところでは、ユダヤ人はエジプトから解き放たれました。あるいは、タキトゥスが思ったところでは、追放されました。そして、アラビアの荒野の、水のきわめて乏しい所で、渇きに苦しんでいました。そのとき、野ろばたちが、たまたま草を食べたあと水を飲みに行くと見えたので、それを泉の道案内にしました。その恩返しに、同じような獣の姿を神として祀ったというのです。
 // 「そのような神についての」の dei（神）は、底本の編者の補い（底本ではイタリック）。写本にはない。
 16.2 Atque ita inde praesumptum opinor nos quoque ut Iudaicae religionis propinquos eidem simulacro initiari. At enim idem Cornelius Tacitus, sane ille mendaciorum loquacissimus, in eadem historia refert Gneum Pompeium, cum Hierusalem cepisset proptereaque templum adisset speculandis Iudaicae religionis arcanis, nullum illic reperisse simulacrum.
 16:2 わたしの思うに、こうして、そこから次のことが決めてかかられたのです。わたしたちも、ユダヤ人の宗教に近い者として、同じ像の手ほどきを受けている、ということです。しかし実際、そのコルネリウス・タキトゥス、だれよりも多くの嘘をしゃべるあの人が、同じ歴史書でこう伝えています。グナエウス・ポンペイウスは、エルサレムを攻め取りました。そこで、ユダヤ人の宗教の奥義を見ようとして、神殿に入りました。ところが、そこに像を一つも見つけなかったというのです。
 16.3 Et utique, si id colebatur quod aliqua effigie repraesentabatur, nusquam magis quam in sacrario suo exhiberetur, eo magis, quia nec verebatur extraneos arbitros, quamquam vana cultura.
 16:3 もちろん、何かの像で表されるものが拝まれていたのなら、その聖所でこそ、どこよりもはっきり示されるでしょう。そこでは部外者の立会人を恐れることもなかったのですから、なおさらです。むなしい礼拝ではありましたが。
 16.4 Solis enim sacerdotibus adire licitum; etiam conspectus ceterorum velo oppanso interdicebatur. Vos tamen non negabitis et iumenta omnia et totos cantherios cum sua Epona coli a vobis.
-16:4 祭司たちだけが入ることを許されていたからです。ほかの者たちの目も、張られた幕で遮られていました。ところが、あなたがたは否定しないでしょう。あらゆる荷役の獣を、また去勢した馬をまるごと、その獣たちのエポナとともに、あなたがた自身が拝んでいることをです。
+16:4 祭司たちだけが入ることを許されていたからです。ほかの者たちの目も、張られた幕で遮られていました。ところが、あなたがたは否まないでしょう。あらゆる荷役の獣を、また去勢した馬をまるごと、その獣たちのエポナとともに、あなたがた自身が拝んでいることをです。
 16.5 Hoc forsitan inprobamur, quod inter cultores omnium pecudum bestiarumque asinarii tantum sumus. Sed et qui crucis nos religiosos putat, consecraneus erit noster. Cum lignum aliquod propitiatur, viderit habitus, cum materiae qualitas eadem sit, viderit forma, dum id ipsum dei corpus sit.
 16:5 わたしたちが責められるのは、もしかすると、このことかもしれません。あらゆる家畜や獣を拝む人々の中で、わたしたちはろばだけを拝む者だということです。また、わたしたちを十字架を敬う者だと思う人も、わたしたちと同じ礼拝の仲間になるでしょう。何かの木をなだめて拝むときには、姿はどうでもよいのです。材料の性質が同じであればです。形もどうでもよいのです。それが神の体そのものであればです。
 16.6 Et tamen quanto distinguitur a crucis stipite Pallas Attica, et Ceres Pharia, quae sine effigie rudi palo et informi ligno prostant? Pars crucis est omne robur quod erecta statione defigitur.
 16:6 それにしても、アッティカのパラスや、ファロスのケレスが、十字架の幹とどれほど違うでしょうか。どちらも、像の形もなく、粗い杭、形のない木として人前に立っているのです。まっすぐに立てて打ち込まれる材木は、どれも十字架の一部です。
 16.7 Nos, si forte, integrum et totum deum colimus. Diximus originem deorum vestrorum a plastis de cruce induci. Sed et Victorias adoratis, cum in tropaeis cruces intestina sint tropaeorum.
-16:7 わたしたちのほうは、仮に十字架を拝むのだとしても、欠けたところのない、まるごとの神を拝んでいるのです。あなたがたの神々のもとは、塑像師たちが十字架の上に粘土を重ねて作るのだと、先に述べました。また、あなたがたは、ウィクトリア（勝利の女神）たちをも拝んでいます。しかも、戦勝記念碑では、十字架が記念碑の内側の骨組みです。
+16:7 わたしたちのほうは、仮に十字架を拝むとしても、まるごとの十字架を、欠けたところのない神として拝んでいることになります。あなたがたの神々のもとは、塑像師たちが十字架の上に粘土を重ねて作るのだと、先に述べました。また、あなたがたは、ウィクトリア（勝利の女神）たちをも拝んでいます。しかも、戦勝記念碑では、十字架が記念碑の内側の骨組みです。
 16.8 Religio Romanorum tota castrensis signa veneratur, signa iurat, signa omnibus deis praeponit. Omnes illi imaginum suggestus in signis monilia crucum sunt; siphara illa vexillorum et cantabrorum stolae crucum sunt.
-16:8 ローマ人の陣営の宗教は、まるごと、軍旗をあがめ、軍旗にかけて誓い、軍旗をあらゆる神々の上に置きます。軍旗に付いた、像を載せるあの台は、どれも十字架の首飾りです。旗の垂れ幕も、カンタブラ（旗の一種）の布も、十字架の衣です。
+16:8 ローマ人の陣営の宗教は、まるごと、軍旗をあがめ、軍旗にかけて誓い、軍旗をあらゆる神々の上に置きます。軍旗に付いた、像を載せるあの台は、どれも十字架の首飾りです。旗やカンタブラ（旗の一種）の、あの垂れ幕は、十字架の衣です。
 16.9 Laudo diligentiam. Noluistis incultas et nudas cruces consecrare. Alii plane humanius et verisimilius solem credunt deum nostrum. Ad Persas, si forte, deputabimur, licet solem non in linteo depictum adoremus, habentes ipsum ubique in suo clypeo.
-16:9 その念の入れようはほめましょう。飾りのない裸の十字架を、奉献したくはなかったのですね。ほかの人々は、確かにもっと人間らしく、もっと本当らしく、太陽がわたしたちの神だと信じています。仮にそうなら、わたしたちはペルシャ人の仲間に数えられるでしょう。もっとも、わたしたちは、亜麻布に描かれた太陽を拝むのではありません。太陽そのものを、どこでも、その円盤のうちに見ているのです。
+16:9 その念の入れようはほめましょう。飾りのない裸の十字架を、神として祀りたくはなかったのですね。ほかの人々は、確かにもっと穏当に、もっと本当らしく、太陽がわたしたちの神だと信じています。仮にそうなら、わたしたちはペルシャ人の仲間に数えられるでしょう。もっとも、わたしたちは、亜麻布に描かれた太陽を拝むのではありません。太陽そのものを、どこでも、その円盤のうちに見ているのです。
 16.10 Denique inde suspicio quod innotuerit nos ad orientis regionem precari. Sed et plerique vestrum adfectatione aliquando et caelestia adorandi ad solis ortum labia vibratis. Aeque si diem solis laetitiae indulgemus, alia longe ratione quam religione solis secundo loco ab eis sumus qui diem Saturni otio et victui decernunt exorbitantes et ipsi a Iudaico more, quem ignorant.
-16:10 つまり、その疑いは、わたしたちが東の方角に向かって祈ることが知られたところから来ています。しかし、あなたがたの多くも、ときには天のものを拝もうと気取って、日の出に向かって唇を震わせています。同じように、わたしたちが太陽の日（日曜日）を喜びに当てるとしても、それは太陽の崇拝とはまるで別の理由からです。わたしたちは、サトゥルヌスの日（土曜日）を休みと食事に当てる人々の次に並ぶだけです。その人々も、知りもしないユダヤ人の習わしから外れているのです。
+16:10 つまり、その疑いは、わたしたちが東の方角に向かって祈ることが知られたところから来ています。しかし、あなたがたの多くも、ときには天のものを拝もうと気取って、日の出に向かって唇を震わせています。同じように、わたしたちが太陽の日（日曜日）を喜びに当てるとしても、それは太陽の崇拝とはまるで別の理由からです。そうしても、わたしたちは、サトゥルヌスの日（土曜日）を休みと食事に当てる人々の次に並ぶだけです。その人々も、知りもしないユダヤ人の習わしから外れているのです。
 16.11 Sed nova iam dei nostri in ista proxime civitate editio publicata est, ex quo quidam frustrandis bestiis mercenarius noxius picturam proposuit cum eiusmodi inscriptione: DEUS CHRISTIANORUM ΟΝΟΚΟΙΗΤΗΣ.
 16:11 しかし、この町では、つい最近、わたしたちの神の新しい版が公にされました。ある男が絵を掲げてからです。獣をかわす芸で雇われた、罪人同然の男です。絵には次のような書き込みがありました。『キリスト者の神、ろばの祭司』^[写本の崩れた語の推定。『ろばから生まれた者』と読む説もある。]。
 16.12 Is erat auribus asininis, altero pede ungulatus, librum gestans et togatus. Risimus et nomen et formam. Sed illi debebant adorare statim biforme numen, quia et canino et leonino capite commixtos, et de capro et de ariete cornutos, et a lumbis hircos, et a cruribus serpentes, et planta vel tergo alites deos receperunt.
@@ -48,14 +48,14 @@
 16:13 これは、余分に述べたことです。どんな風評も、やましいところがあるかのように、打ち返さないまま素通りしないためです。いよいよわたしたちの宗教の証明に向かうにあたって、これらをすべて払い清めました。
 
 17.1 Quod colimus, deus unus est, qui totam molem istam cum omni instrumento elementorum, corporum, spirituum verbo quo iussit, ratione qua disposuit, virtute qua potuit, de nihilo expressit, in ornamentum maiestatis suae, unde et Graeci nomen mundo κόσμον accommodaverunt.
-17:1 わたしたちが拝むものは、唯一の神です。この神は、この巨大な全体を、元素や物体や霊のあらゆる備えとともに、無から形づくられました。命じられたその言葉によって、整えられたその理によって、おできになるその力によってです。それは、ご自分の威厳の飾りとするためでした。そこから、ギリシア人も、世界に「コスモス（飾り）」という名を当てたのです。
+17:1 わたしたちが拝むものは、唯一の神です。この神は、この巨大な全体を、元素や物体や霊のあらゆる備えとともに、無から形づくられました。命じられたその言葉によって、整えられたその理によって、おできになったその力によってです。それは、ご自分の威厳の飾りとするためでした。そこから、ギリシア人も、世界に「コスモス（飾り）」という名を当てたのです。
 17.2 Invisibilis est, etsi videatur; incomprehensibilis, etsi per gratiam repraesentetur; inaestimabilis, etsi humanis sensibus aestimetur. Ideo verus et tantus est. Ceterum quod videri communiter, quod comprehendi, quod aestimari potest, minus est et oculis quibus occupatur, et manibus quibus contaminatur, et sensibus quibus invenitur: quod vero inmensum est, soli sibi notum est.
-17:2 神は、見られることがあっても、見えない方です。恵みによって表されることがあっても、つかむことのできない方です。人の感覚で量られることがあっても、量り知れない方です。だからこそ、まことの神であり、これほど大きな方なのです。ほかのものは、ふつうに見られ、つかまれ、量られることができます。そうしたものは、それをとらえる目よりも、それを汚す手よりも、それを見いだす感覚よりも小さいのです。しかし、限りのないものは、ただ自分自身にだけ知られています。
+17:2 神は、見られることがあっても、見えない方です。恵みによって表されることがあっても、つかむことのできない方です。人の感覚で量られることがあっても、量り知れない方です。だからこそ、まことの神であり、これほど大きな方なのです。一方、ふつうに見られ、つかまれ、量られることのできるものがあります。そうしたものは、それをとらえる目よりも、それを汚す手よりも、それを見いだす感覚よりも小さいのです。しかし、限りのないものは、ただ自分自身にだけ知られています。
 17.3 Hoc quod est, deum aestimari facit, dum aestimari non capit. Ita eum vis magnitudinis et notum hominibus obicit et ignotum. Et haec est summa delicti nolentium recognoscere quem ignorare non possunt.
 17:3 このありさまこそが、量られることを受けつけないままで、神を神と量らせるのです。こうして、その大きさの力が、神を、人々に知られた方としても、知られない方としても突きつけます。そして、これが、知らずにはいられない方を認めようとしない人々の、罪の極みなのです。
 17.4 Vultis ex operibus ipsius tot ac talibus, quibus continemur, quibus sustinemur, quibus oblectamur, etiam quibus exterremur, vultis ex animae ipsius testimonio conprobemus? Quae licet carcere corporis pressa, licet institutionibus pravis circumscripta, licet libidinibus et concupiscentiis evigorata, licet falsis deis exancillata, cum tamen resipiscit, ut ex crapula, ut ex somno, ut ex aliqua valitudine, et sanitatem suam patitur, deum nominat, hoc solo, quia proprie verus hic unus.
-17:4 わたしたちが、このことを神ご自身のみわざから証明してほしいのですか。わたしたちを包み、支え、楽しませ、恐れさせもする、これほど多くの、これほどのみわざからです。それとも、魂そのものの証しから証明してほしいのですか。魂は、体の牢獄に押し込められています。悪い教えに取り巻かれ、情欲や欲望に力を奪われ、偽りの神々の奴隷にされています。それでも、魂は、酔いから、眠りから、何かの病からさめるように我に返ります。そして、本来の健やかさを味わうとき、神の名を呼びます。この名だけを呼ぶのです。本来まことであるのは、この唯一の方だからです。
+17:4 わたしたちが、このことを神ご自身のみわざから証明してほしいのですか。わたしたちを包み、支え、楽しませ、恐れさせもする、これほど多くの、これほどのみわざからです。それとも、魂そのものの証しから証明してほしいのですか。魂は、体の牢獄に押し込められています。悪い教えに取り巻かれ、情欲や欲望に力を奪われ、偽りの神々の奴隷にされています。それでも、魂は、酔いから、眠りから、何かの病からさめるように我に返り、本来の健やかさを味わうとき、神の名を呼びます。この名だけを呼ぶのです。本来まことであるのは、この唯一の方だからです。
 17.5 Deus bonus et magnus, et Quod deus dederit omnium vox est. Iudicem quoque contestatur illum Deus videt, et Deo commendo, et Deus mihi reddet. O testimonium animae naturaliter Christianae!
-17:5 「善く偉大な神よ」「神が与えてくださるとおりに」というのが、すべての人の声です。魂は、その方を裁き手としても呼び求めます。「神が見ている」「神にゆだねる」「神がわたしに報いてくださる」と言うのです。ああ、生まれながらにキリスト者である魂の証しよ！
+17:5 「神は善く、偉大だ」「神が与えてくださるとおりに」というのが、すべての人の声です。魂は、その方を裁き手としても呼び求めます。「神が見ている」「神にゆだねる」「神がわたしに報いてくださる」と言うのです。ああ、生まれながらにキリスト者である魂の証しよ！
 17.6 Denique pronuntians haec non ad Capitolium, sed ad caelum respicit. Novit enim sedem dei vivi ab illo, et inde descendit.
 17:6 現に、魂は、こう言いながら、カピトリウムではなく天を仰ぎます。生ける神の座を、その方から知っており、そこから下ってきたからです。
