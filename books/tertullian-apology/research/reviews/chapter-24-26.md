@@ -2,7 +2,7 @@
 
 - 日付：2026-11-15
 - レビューした者：新しいサブエージェント（訳者の判断理由は渡していない）
-- 渡したもの：`both.md`、リポジトリと本の `AGENTS.md`、前のページ `src/chapter-22-23/jp.md`、論点一覧 `research/cruxes/chapter-24-26.md`、底本の抜粋（`research/oehler-1853.txt` の 24.1〜26.3）、ANF 第 3 巻の英訳 `cache/ccel.org/anf03.txt` l. 3000〜3182。
+- 渡したもの：`both.md`、リポジトリと本の `AGENTS.md`、前のページ `src/chapter-22-23/jp.md`、論点一覧 `research/cruxes/chapter-24-26.md`、底本（both.md の原文の行。`research/oehler-1853.txt` の 24.1〜26.3）、ANF 第 3 巻の英訳 `cache/ccel.org/anf03.txt` l. 3000〜3182。
 - 結果：15 組、必須 3 件。14 組をそのまま採り、1 組（24:9）を変えて採った。採らなかった組はない。適用の後、26:3 の一文が 65 字になったので、条件の文を後ろに分けた。聖句の引用はこのページにない。
 - 論点一覧で「メインで決めること」とされた点の判断：
   - religio／religiositas／inreligiositas：religio は訳語表どおり「宗教」。religiositas は「信心深さ」、inreligiositas は「不信心」（『オクタウィウス』の religiosus「信心深い」、inreligiosus「不信心な」に揃える）。罪名 crimen laesae religionis は「宗教を害したという罪」とし、27 章の laesae divinitatis も「〜を害した罪」の形に揃える。
@@ -11,7 +11,7 @@
   - 25.3 の fautum：刷られた底本の fautum で訳した。Oehler が意図した factum でも訳文は変わらないので、メモは付けない。
   - 25.5 の日付：『スキリウムの殉教者行伝』1:1 にならい、今の暦（三月十七日、三月二十四日）に直し、ローマ暦の形を `// ` メモに書いた。archigallus は「ガッリの長」（『オクタウィウス』22:4 のガッリ）。
   - 25.8 のウェルギリウスの三行：7:8 と同じく行に分けず、地の文の中に『』で入れた。三行を「ここに…あった」と「運命がもし許すなら…」の二つに分け、出典はメモに書いた。
-  - 25.10〜25.11：訳注「この節は写本の読みが乱れていて、読み方が定まらない。」を 25.10 の文末に付けた。Oehler の注 m の取り方に従い、Sed postea Romani … regnaverunt? を相手の言い分として「」に入れ、「と、人は言うでしょう」で受けた（本の決まりの、at enim のない反論の扱い）。regnabantur はその神々を主語とする。
+  - 25.10〜25.11：訳注「この節は写本の読みが乱れていて、読み方が定まらない。」を 25.10 の文末に付けた。校注 p. 223 の 48〜55 の揺れは、起こしのときに画像 0253 で自分でも確かめた。Oehler の注 m の取り方に従い、Sed postea Romani … regnaverunt? を相手の言い分として「」に入れ、「と、人は言うでしょう」で受けた（本の決まりの、at enim のない反論の扱い）。regnabantur はその神々を主語とする。
   - 25.12：imperium は「支配」、regnum は「王国」「国」。rebus religio profecerit? は注 p に従い「宗教が国の役に立ったとでもいうのでしょうか」。
   - 25.17 の adolationes：注 v（Heraldus）に従い「へつらい」。
   - 26.1 の saeculum：「世」（saeculum corpus temporum は「時の集まりである世」）。
