@@ -42,3 +42,8 @@
 - 神々の複数形は「アポロたち」のように残す。Castores は表のとおり「カストルの兄弟」。11.3 の disciplinae は異教の神々の「教え」、10.6 の監察官の disciplina は「規律」。11.2 の sacerdotales praesides は人で「祭司である主宰者たち」。
 - parentatio・parentare は 6.3 と同じ「死者を祭る」。13.2 の conditio は『護教論』の「ありさま」。
 - 9.3 のウェルギリウスは名を補わず、『』に入れて節の文に続けた。10.5 のポンペイウスの布告は「」。
+
+レビューの後にメインで見直したもの：
+- 10:4：底本の disciplinae etiam humanae praerogativa では humanae が disciplinae に掛かる（praerogativa に掛かるのは CSEL の humana）。「人間の側の先立つ判断」は CSEL の読みに近いので、「人間の規律さえ先に同じ判断を下していたことが、わたしたちの言い分を強める」に直し、`// ` メモに書いた。
+- 訳注の確かめ直し：13:1 は OCR l. 6280（校注 5：qui bis E. ex emendatione Fulv. Ursini. quibus B. qui ACD.）と l. 6312–6321（注 b）で確かめた。『見世物について』の写本は A だけで B〜E は刊本（`research/cruxes/README.md`）なので、「写本になく、後に補われた語」は記述に合う。11:3 は OCR l. 5904–5915（校注 10〜15：Scaliger の削除、A の per duellum の欠落、statio などの綴りの乱れ）で確かめた。
+- 9:3 の詩の扱いは、『オクタウィウス』19:2 のウェルギリウスの引用（散文の中で『』に入れて続ける）を先例として確かめた。

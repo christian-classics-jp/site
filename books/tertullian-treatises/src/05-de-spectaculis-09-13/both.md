@@ -26,7 +26,8 @@
 10:3 このように、遊戯の起源から戦車競走に移ってきたので、ここからは劇場の遊戯に話を向けます。場所から始めましょう。劇場は、もともと、まさしくウェヌスの聖所なのです。この種の建物が世に生き延びたのは、結局のところ、このやり方によってでした。
 // a loci. Initio は Oehler の推定。写本は a loci vitio（場所の汚れから）。「場所から始めましょう」は、4.4 で挙げた項目の「場所」から始めると取って補った。
 10.4 Nam saepe censores nascentia cum maxime theatra destruebant, moribus consulentes, quorum scilicet periculum ingens de lascivia providebant, ut iam hinc ethnicis in testimonium cedat sententia ipsorum nobiscum faciens et nobis in exaggerationem disciplinae etiam humanae praerogativa.
-10:4 監察官たちは、建ちかけたばかりの劇場を、たびたび取り壊していました。風俗を案じたからです。放埒から風俗に大きな危険が及ぶことを、前もって見ていたのです。こうして、すでにここから、彼ら自身の判断がわたしたちと同じ側に立ち、異教徒に対する証しとなります。また、わたしたちにとっては、人間の側の先立つ判断さえもが、教えを強める助けになるのです。
+10:4 監察官たちは、建ちかけたばかりの劇場を、たびたび取り壊していました。風俗を案じたからです。放埒から風俗に大きな危険が及ぶことを、前もって見ていたのです。こうして、すでにここから、彼ら自身の判断がわたしたちと同じ側に立ち、異教徒に対する証しとなります。また、わたしたちにとっては、人間の規律さえ先に同じ判断を下していたことが、わたしたちの言い分を強める助けになるのです。
+// 底本の humanae は disciplinae に掛かり、in exaggerationem は「わたしたちの言い分を強める」と補った（CSEL は humana で praerogativa に掛ける）。
 10.5 Itaque Pompeius Magnus, solo theatro suo minor, cum illam arcem omnium turpitudinum extruxisset, veritus quandoque memoriae suae censoriam animadversionem, Veneris aedem superposuit, et ad dedicationem edicto populum vocans, non theatrum, sed Veneris templum nuncupavit, Cui subiecimus, inquit, gradus spectaculorum.
 10:5 そこで、大ポンペイウスのことです。自分の劇場のほかには何ものにも劣らない偉い人でした。彼は、あのあらゆる恥ずべきことの砦を建てたとき、いつか後の世の自分の評判に監察官の咎めが及ぶことを恐れました。それで、劇場の上にウェヌスの神殿を載せたのです。そして、奉献式に布告で民衆を呼び集めたとき、それを劇場とは呼ばず、ウェヌスの神殿と呼びました。「その下に、わたしたちは見世物の座席を置いた」と言ったのです。
 10.6 Ita damnatum et damnandum opus templi titulo praetexit et disciplinam superstitione delusit. Sed Veneri et Libero convenit. Duo ista daemonia conspirata et coniurata inter se sunt ebrietatis et libidinis.
