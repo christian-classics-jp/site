@@ -73,11 +73,11 @@
 8.3 Quot igitur in habitu loci ipsius idololatrias recognoscis? Singula ornamenta circi singula templa sunt. Ova honori Castorum adscribunt qui illos ovo editos credendo de cygno Iove non erubescunt.
 8:3 では、あなたは、この場所の姿のうちに、どれほどの偶像礼拝を見分けられるでしょうか。戦車競走場の飾りの一つひとつが、そのまま一つひとつの神殿なのです。卵の飾りは、カストルの兄弟の誉れのためのものとされています。彼らが卵から、しかも白鳥になったユピテルから生まれたと信じて、恥じない人々がそうしているのです。
 8.4 Delphines Neptuno vomunt. Columnae Sessias a sementationibus, Messias a messibus, Tutulinas a tutelis fructuum sustinent. Ante has tres arae trinis deis parent: Magnis, Potentibus, Valentibus.
-8:4 イルカの像は、ネプトゥヌスのために水を吐いています。柱は、セッシア、メッシア、トゥトゥリナの像を支えています。セッシアは播くこと（セメンタティオ）から、メッシアは刈り入れ（メッシス）から、トゥトゥリナは実りの守り（トゥテラ）から名づけたものです。その前の三つの祭壇は、三柱の神々に仕えています。大いなる神々、力ある神々、強き神々です。
+8:4 イルカの像は、ネプトゥヌスのために水を吐いています。柱は、セッシア、メッシア、トゥトゥリナの像を支えています。セッシアは播くこと（セメンタティオ）から、メッシアは刈り入れ（メッシス）から、トゥトゥリナは実りの守り（トゥテラ）から名づけたものです。その前の三つの祭壇は、三組の神々に仕えています。大いなる神々、力ある神々、強き神々です。
 8.5 Eosdem Samothracas existimant. Obelisci enormitas, ut Hermateles affirmat, Soli prostituta; scriptura eius, unde et census, de Aegypto superstitio est. Frigebat daemonum concilium sine sua Matre Magna; ea itaque illic praesidet euripo.
 8:5 人々は、この神々をサモトラケの神々と同じだと考えています。オベリスクの巨大さは、ヘルマテレスの言うところでは、ソルに身を売るようにささげられたものです。その碑文も、出どころと同じく、エジプトから来た迷信です。ダイモンたちの集まりは、自分たちの大いなる母がいないとさびしかったのです。そこで、その女神がそこの水路を司っています。
 8.6 Consus, ut diximus, apud metas sub terra delitescit Murcias. Has quoque idolum fecit. Murciam enim deam amoris volunt, cui in illa parte aedem vovere. Animadverte, Christiane, quot nomina inmunda possederint circum.
-8:6 コンススは、前に述べたとおり、ムルキアの折り返しの柱のそばで、地下に隠れています。この柱もまた、偶像のものにされました。人々はムルキアを愛の女神だと言い、その場所に神殿を誓って建てたからです。キリスト者よ、気づきなさい。どれほど多くの汚れた名が、戦車競走場を占めてきたかを。
+8:6 コンススは、前に述べたとおり、ムルキアの折り返しの柱のそばで、地下に隠れています。この柱もまた、偶像のものにされました。人々はムルキアを愛の女神だと言い、その場所に神殿を建てると誓ったからです。キリスト者よ、気づきなさい。どれほど多くの汚れた名が、戦車競走場を占めてきたかを。
 // 8.6 の Has quoque idolum fecit の Has は Rigaltius の補い（写本にない）。amoris（愛の）は刊本の読みで、Rigaltius は marcoris（怠惰の）、写本は marmoris と読む。
 8.7 Aliena est tibi religio, quam tot diaboli spiritus occupaverunt. De locis quidem locus est retractandi ad praeveniendam quorundam interrogationem. Quid enim, inquis, si alio in tempore circum adiero, periclitabor de inquinamento?
 8:7 あれほど多くの悪魔の霊が占めた崇拝の場は、あなたには無縁です。場所については、ある人々の問いに先回りするため、論じ直す場所があります。「では、ほかの時に戦車競走場へ行ったら、汚れの危険があるのか」と、あなたは尋ねます。
