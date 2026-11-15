@@ -32,7 +32,7 @@
 2.4 Dicendo autem patrem deum quoque cognominamus. Appellatio ista et pietatis et potestatis est. Item in patre filius invocatur. Ego enim, inquit, et pater unum sumus.
 2:4 また、父と呼ぶことで、わたしたちは神とも呼んでいるのです。この呼び名は、慈しみの名でもあり、権力の名でもあります。また、父のうちに子も呼び求められています。主が『わたしと父とは一つである』と言われたからです（ヨハネ一〇・三〇）。
 2.5 Ne mater quidem ecclesia praeteritur. Siquidem in filio et patre mater recognoscitur, de qua constat et patris et filii nomen. Uno igitur genere aut vocabulo et deum cum suis honoramus et praecepti meminimus et oblitos patris denotamus.
-2:5 母なる教会さえ、見落とされてはいません。子と父のうちに、母も見いだされるからです。父の名も子の名も、母によって成り立っています。こうして、わたしたちは一つの呼び方、一つの言葉で、神をご自分の者たちとともに敬います。また、命令を思い起こし、父を忘れた者たちをとがめているのです。
+2:5 母なる教会さえ、見落とされてはいません。子と父のうちに、母も見いだされるからです。父の名も子の名も、母によって成り立っています。こうして、わたしたちは一つの呼び方、一つの言葉で、神に、ご自分の者たちとともに誉れを帰します。また、命令を思い起こし、父を忘れた者たちをとがめているのです。
 // cum suis（ご自分の者たちとともに）を、Oehler の注 e は子と聖霊と取る。補わなかった。
 
 3.1 Nomen dei patris nemini proditum fuerat. Etiam qui de ipso interrogaverat Moyses, aliud quidem nomen audierat. Nobis revelatum est in filio. Iam enim filius novum patris nomen est.
