@@ -43,10 +43,10 @@
 50.10 O gloriam licitam, quia humanam, cui nec praesumptio perdita nec persuasio desperata reputatur in contemptu mortis et atrocitatis omnimodae, cui tantum pro patria, pro imperio, pro amicitia pati permissum est quantum pro deo non licet!
 50:10 ああ、なんと許された栄光でしょう。人間のものだからです。その栄光のためなら、死とあらゆる残虐を軽んじても、破れかぶれの思い込みとも、捨て鉢な信念とも数えられません。その栄光には、祖国のため、支配のため、友情のためなら、神のためには許されないほどの苦しみが許されているのです。
 50.11 Et tamen illis omnibus et statuas defunditis, et imagines inscribitis, et titulos inciditis in aeternitatem. Quantum de monumentis potestis scilicet, praestatis et ipsi quodammodo mortuis resurrectionem.
-50:11 それでも、あなたがたは、これらの人々みなのために、像を鋳造し、肖像に銘を記し、碑文を刻んで、永遠に残します。なるほど、記念のものでできる限り、あなたがた自身も、死者にいわば復活を与えているのです。
+50:11 それでも、あなたがたは、これらの人々みなのために、像を鋳造し、肖像に銘を記し、碑文を刻んで、永遠に残します。なるほど、記念のものでできる限り、あなたがた自身も、死者にいわばよみがえりを与えているのです。
 // de monumentis は、Oehler の注 q に従い手段（記念のものによって）と取る。
 50.12 Hanc qui veram a deo sperat, si pro deo patiatur, insanus est. Sed hoc agite, boni praesides, meliores multo apud populum si illis Christianos immolaveritis, cruciate, torquete, damnate, atterite nos: probatio est enim innocentiae nostrae iniquitas vestra.
-50:12 ところが、まことの復活を神から望む者が、神のために苦しむと、狂っているというわけです。それなら、善良な長官たちよ、さあ、それをしてください。キリスト者を民衆にいけにえとしてささげれば、民衆のもとで、ずっと善良になれるでしょう。わたしたちを責めさいなみ、拷問にかけ、罪に定め、すりつぶしてください。あなたがたの不正こそ、わたしたちの潔白の証拠だからです。
+50:12 ところが、まことのよみがえりを神から望む者が、神のために苦しむと、狂っているというわけです。それなら、善良な長官たちよ、さあ、それをしてください。キリスト者を民衆にいけにえとしてささげれば、民衆のもとで、ずっと善良になれるでしょう。わたしたちを責めさいなみ、拷問にかけ、罪に定め、すりつぶしてください。あなたがたの不正こそ、わたしたちの潔白の証拠だからです。
 // Sed hoc agite の Sed は、皮肉に促す切り替えとして「それなら」とする。illis は前の populum を受けると取る。
 50.13 Ideo nos haec pati deus patitur. Nam et proxime ad lenonem damnando Christianam potius quam ad leonem confessi estis labem pudicitiae apud nos atrociorem omni poena et omni morte reputari.
 50:13 そのために、神は、わたしたちがこうした苦しみを受けるのをお許しになるのです。実際、あなたがたは最近も、キリスト者の女を罪に定めて、獅子にではなく取り持ち屋に引き渡しました。そうして、わたしたちのもとでは、貞潔の汚れが、どんな刑罰よりも、どんな死よりもむごいとみなされていると、告白したのです。

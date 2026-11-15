@@ -167,6 +167,7 @@
 | iustitia／innocentia | 義（神の前の義と、預言された世の義の衰えを言う 18.2、20.2）。人の徳や功績として並べる iustitia は「正義」（11.10、11.14、11.15）／潔白（18.2 の iustitiae innocentia「義の潔白」） |
 | scilicet | つまり（18.5、19.5、20.3、21.16）。皮肉に言うところは「なるほど」（25.3、50.11） |
 | praesumptio・praesumere／desperatio・desperatus／perditio・perditus／obstinatio／persuasio（49〜50 章） | 思い込み・思い込む（49.1〜49.3、50.10。21:1 と同じ。19.9 の fiducia と対になる「思い上がり」はそのまま）／捨て鉢・捨て鉢な／破れかぶれ・破れかぶれの／強情（2:5 の「頑固さ」でなく 27:2、27:6、50.15 の「強情」）／信念（50.10）。異教徒がキリスト者に付ける一群の非難の名なので、この訳で通す |
+| resurrectio | よみがえり（48.9、48.15、50.11〜50.12。「復活」にしない） |
 | refrigerium | 安らぎ（49.2 の aeterni refrigerii「永遠の安らぎ」）。施しの食事の 39.16 は「元気づけ」 |
 | ingenium（49.1） | 発見（insignia ingenia「すぐれた発見」。注 b の送り先の ingenium＝artificium, inventum。人の能力を言う 47.2 などは「才」） |
 | obducere（46.2、50.4）／obtinere（50.3〜50.4）／evadere（50.4） | 言い負かされる（注 46 章 d、注 50 章 b）／手に入れる／勝者となって出て行く（注 50 章 b の victores evadimus。「逃れる」にしない） |
