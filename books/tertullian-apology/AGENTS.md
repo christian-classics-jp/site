@@ -33,7 +33,7 @@
 - 相手の言い分を先に持ち出して反論するところ（inquit、inquitis、inquis、dicitis）は、その言い分を「」に入れ、「と、あなたがたは言います」「と、人は言います」と受ける（地の文なので結びは敬体。1:11、9:5）。「」の中は常体（『オクタウィウス』25:1 と同じ）。inquit のない at enim で反論を持ち出すところも同じにし、「と、人は言うでしょう」と受ける（3:9。『オクタウィウス』32:4 と同じ）。at enim もなく地の文の形で相手の反論を置くところ（8.6 の Sed ignorantibus subicitur et inponitur、14.5 の Sed propterea damnatus est Socrates、25.10 の Sed postea Romani … regnaverunt?。25.10 は Oehler の注 m に従う）も、注釈者が反論と取るなら同じにする。相手の叫びを先取りするところ（12.6 の O impiae voces, o sacrilega convicia!）は「と、あなたがたは言うでしょう」。言い分の頭の Sed は「」の中で「しかし、」と残す（13:1、14:5）。言い分を持ち出す相手が単数の inquis（13.1）は「と、あなたは言います」とし、言い分の文言は複数の inquitis（10.4）と揃える。 ただし、相手の言い分ではなく、相手の典拠で言い返すところの At enim（16.2 の At enim idem Cornelius Tacitus）は、「」に入れず「しかし実際、」とする。
 - 著者が異教の神々にじかに呼びかけるところ（23.6 の Ista ipsa Virgo Caelestis …, ipse iste Aesculapius … fundite!。Oehler の注 p に従い、カエレスティスとアエスクラピウスへの呼びかけと取る。nisi se daemones confessi fuerint は sumministraturi の条件で、fundite は条件のない挑発）は、「カエレスティスよ」「〜はずだった者たちよ」と呼びかけ、命令は「〜してみなさい」とする。長官たちへの「あなたがた」と紛れないように、代名詞は使わない。ダイモンに挑む三人称の命令（23.16〜23.17 の rideant、negent、dicant、refutent、renuant）は「〜してみればよいのです」。
 - 問いを持ち出す言葉の後に、底本がコロンと大文字で問いを刷るところ（23.14 の Dicent ibidem: Et quis ille Christus cum sua fabula?）は、その問いだけを「」に入れ、続く si … si …（ダイモンが答える中身）は地の文で訳す。キリスト者の信仰の中身なので、キリストの動作は尊敬語にする（23:14〜23:15）。
-- 訴えられたキリスト者や、名をそしる人々の言葉（2.13〜2.14、3.1〜3.5）も「」に入れ、常体にする。祭儀の父が入信を望む者に言う言葉（8.8）も「」に入れて常体にし、相手は「おまえ」。Christianus sum は「わたしはキリスト者だ」（『スキリウムの殉教者行伝』『ペルペトゥアとフェリキタスの殉教録』と同じ）。1 節 1 行なので、言葉が節をまたぐときは節ごとに「」を閉じ、次の節で開き直す（2:13〜2:14、3:4〜3:5）。 民衆の口癖（17.5 の Deus bonus et magnus、Deus videt など）も「」に入れて言い切りの常体にし、原文が呼格でなければ呼びかけにしない（「神は善く、偉大だ」。『オクタウィウス』18:11 と同じ）。
+- 訴えられたキリスト者や、名をそしる人々の言葉（2.13〜2.14、3.1〜3.5）も「」に入れ、常体にする。祭儀の父が入信を望む者に言う言葉（8.8）も「」に入れて常体にし、相手は「おまえ」。Christianus sum は「わたしはキリスト者だ」（『スキリウムの殉教者行伝』『ペルペトゥアとフェリキタスの殉教録』と同じ）。1 節 1 行なので、言葉が節をまたぐときは節ごとに「」を閉じ、次の節で開き直す（2:13〜2:14、3:4〜3:5）。 民衆の口癖（17.5 の Deus bonus et magnus、Deus videt など）も「」に入れて言い切りの常体にし、原文が呼格でなければ呼びかけにしない（「神は善く、偉大だ」。『オクタウィウス』18:11 と同じ）。民衆が叫ぶ歓呼（35.7 の adclamant: De nostris annis augeat tibi Iupiter annos!）は、底本が詩の行に組んでいても、25.8 の詩句の引用ではなく人々の言葉なので「」に入れ、詩の形は `// ` メモに書く。凱旋の車の皇帝にささやかれる言葉（33.5 の Respice post te! Hominem te memento!）も「」。著者が ut merito dixerim: のようにコロンと大文字で示す自分の言い切り（33.1 の Noster est magis Caesar …）も「」に入れて常体にする。
 - 一文を短く切る。ラテン語の長い文は、主文の動詞を先に見つけ、従属節を「〜ので」「〜とき」「〜ために」でつなぐ。切るときも主文とのつながりを残す。1.1 のように si … si … si … と条件を重ねて主文に至る文は、条件ごとに文を分けてよいが、最後の主文が条件を受けることが分かる形にする。 譲歩の licet を重ねて cum の節と主文に至る形（17.4）は、前の譲歩を文に分けてよいが、cum の節（「〜とき」）と主文は一文にまとめる。
 - enim は落とさない。前の文の理由を言うときは「〜からです」、話を進めるときは「実際、」。Sed enim は「しかし実際、」（13:6）。修辞疑問の Quis enim … ? も、文頭に「実際、」を置いて残す（28:4）。
 - 修辞疑問は「〜でしょうか」「〜ではありませんか」で終え、「？」は使わない。
@@ -68,7 +68,11 @@
 | probari（4.13） | 吟味される（「吟味されることを望まない法」「吟味で認められないまま」。3.11 の probare「証明する」と分ける） |
 | debellator／debellare | 討ち滅ぼそうとした者（5.6 のキリスト者に対して）／征服した人（5.9 の Iudaeorum debellator）。動詞も同じく、キリスト者に向かうときは「討ち滅ぼそうとする」（29.5）、天や国に挑むときは「征服する」（30.3） |
 | Caesar | カイザル（『スキリウムの殉教者行伝』『ペルペトゥアとフェリキタスの殉教録』と同じ） |
-| genius（imperatoris） | 未定。『スキリウムの殉教者行伝』は「皇帝の守護霊」、『オクタウィウス』は本文が「つまりダイモン」と言い換えるので「ゲニウス」（29:5）。この本も 32 章で genios daemonas と言い換えるので、32 章のページで決め、それまでに出たところも揃える（28:5 は仮に「ゲニウス」） |
+| genius（imperatoris） | ゲニウス（28:5、32:2〜32:4、35:10）。本文が genios daemonas dici、daemonas, id est genios と言い換える（32.3〜32.4）ので、『オクタウィウス』29:5 と同じく音を写し、『スキリウムの殉教者行伝』の「守護霊」にしない |
+| adiurare／deierare（32.4） | 命じて退ける（ダイモンを人から追い出すとき。『オクタウィウス』27:7 の adiurati「かけて命じられる」と同じ働き）／かけて誓う（14:5 の deierabat、35:10 の genium deierabant と同じ） |
+| dominus | 主（神と、皇帝を呼ぶ呼び名。34.1〜34.2 は神と皇帝に同じ語を使う論なので、どちらも「主」）。家や奴隷の主人を言うときは「主人」（34.3 の familiae domini、35.13 の de dominis） |
+| pietas／religio・religiosus／fides（皇帝に対して） | 忠誠／敬虔・敬虔な／誠実（33.1、35.3、35.5、35.8。36.1 の pietas et religio et fides imperatoribus debita もこの三つで訳す）。神に対する religiosus は訳語表どおり「信心深い」（34.4）、まことの宗教は「宗教」（35.1 の verae religionis）。父の情愛を言う pietas は「慈しみ」（34.2 の nomen pietatis quam potestatis「権力の名より、慈しみの名」）。impietas（35.10）は「不忠」 |
+| salus（imperatoris） | 安寧（28〜35 章。32.2 の per salutem eorum「彼らの安寧にかけて」） |
 | martyr／martyrium | 殉教者／殉教 |
 | confiteri／negare | 告白する／否む（『オクタウィウス』と同じ。事実を否定する意味でも「否む」で通し、「否定する」にしない。11:12、16:4） |
 | damnare／damnatio | 罪に定める（『オクタウィウス』と同じ）。血や処刑の話の中の damnatio も「罪に定めること」で、「処刑」にしない（9:16）。判決の sententia と並ぶところも「判決」にしない（14:6 の rescissa damnatio「罪に定めたことが取り消されて」） |
@@ -78,7 +82,7 @@
 | simulacrum | 像 |
 | templum／delubrum／fanum | 神殿／聖所／社（『オクタウィウス』と同じ） |
 | sacra／caerimoniae | 祭儀／儀式（『オクタウィウス』と同じ） |
-| foculus／acerra | 小さな火鉢／香箱（9:16。キリスト者を試す道具。据え付けの「祭壇」「火壇」にしない） |
+| foculus／acerra | 小さな火鉢／香箱（9:16。キリスト者を試す道具。据え付けの「祭壇」「火壇」にしない）。祝いの日に公の場へ持ち出す focos と toros（35.2）は、Oehler の注 c（Focos intellege acerras; toros de lectisterniis）に従い「香箱」と「寝椅子」。35.11 の toris も「寝椅子」 |
 | colere／adorare／venerari | 拝む／（colere と並ぶとき）伏し拝む／あがめる（『オクタウィウス』と同じ）。adorare が単独で出るときは「拝む」（12.7、13.10） |
 | hostia／victima／sacrificium | いけにえ／犠牲／供え物（『オクタウィウス』と同じ）。sacrificare は「供え物をささげる」（10:1、14:1） |
 | consecrare／consecratio・dedicare・inaugurare | 神として祀る（10:12、12:5、16:1、16:9、24:8。人や像、獣の姿や十字架を神にするとき。動詞の consecrare には「奉献」「聖なるものとして祀る」を当てない）／奉献（12:1 の consecratione「奉献によって」、24.9 の municipali consecratione「町ごとの奉献によって」、12:2 の dedicatur「奉献される」、13:10 の inauguratis「神として奉献する」） |
@@ -102,7 +106,7 @@
 | interdum | 「さしあたり」（テルトゥリアヌスの interim の意味。1:3）。nonnunquam と並ぶなど「ときには」の意味のとき（22.9）は「ときには」 |
 | crimen／scelus／noxa／nocens／reus | 罪／悪事（『オクタウィウス』と同じ）／罪／罪人／罪人（訴えられた者は「訴えられる」と動詞で） |
 | facinus | 悪事（8:1、9:2。scelus と同じ訳。『オクタウィウス』の「罪」にしない。この本は crimen を「罪」とするため） |
-| homicidium／parricidium／infanticidium | 人殺し／身内殺し（『オクタウィウス』30:2 と同じ）／赤子殺し（9:4〜9:6） |
+| homicidium／parricidium／infanticidium | 人殺し／身内殺し（『オクタウィウス』30:2 と同じ）／赤子殺し（9:4〜9:6）。祖国の父（34.2 の pater patriae）である皇帝に背いた者を言う parricidae（35.11）は「反逆者たち」 |
 | error（9.18〜9.21） | 取り違え（身内と知らずに交わること）。9.14 の error vester は「あなたがたの思い違い」 |
 | homicida／sacrilegus／incestus／publicus hostis／reus maiestatis | 人殺し／神聖を汚す者／近親姦の者（『オクタウィウス』と同じ）／国家の敵／大逆の罪人（2:3、2:8） |
 | elogium | 罪状（2:3） |
@@ -134,7 +138,7 @@
 | praedicare（預言として） | 告げ知らせる（18.3 の praedicatores「告げ知らせる者たち」と揃える。21.14、21.17、21.22）。praenuntiare は「予告する」、adnuntiare は「告げる」（21.6） |
 | census（sectae et nominis） | 出どころ（21.29） |
 | fabula | 作り話（21.15。23.14 の cum sua fabula も「その作り話ともども」。『オクタウィウス』と同じ） |
-| daemonium | ダイモン（22.1 のソクラテスの daemonium、23.8、23.11。daemon と訳し分けない。『オクタウィウス』26:9 と同じ） |
+| daemonium | ダイモン（22.1 のソクラテスの daemonium、23.8、23.11。daemon と訳し分けない。『オクタウィウス』26:9 と同じ）。ただし、daemones から縮小の形で作った語だと本文が言うところ（32.3 の diminutiva voce daemonia）だけは、3.8 の Chrestianus と同じく音を写して「ダイモニア」 |
 | immundi spiritus | 汚れた霊（23.17。『オクタウィウス』27:1 と同じ） |
 | arbiter（Christus） | 審判者（23.18。iudex「裁き手」と分ける） |
 | praestigiae／vates | 目くらまし（22.7、23.1。『オクタウィウス』26:10 と同じ）／予言者（23.17。『オクタウィウス』27:3 と同じ） |
@@ -151,7 +155,7 @@
 
 ページを訳しレビューを適用するたびに、繰り返し出る構文の訳し方をここに書く。
 
-- recogitare・retractare などに続く ne（「〜ではないか」。Oehler の注が言う直説法の μή の用法）は、ne の節の中の後半（et … も）まで「〜のではないでしょうか」の見込みの形で訳し、事実として言い切らない（2:19、3:2）。Videte ne … も「見てください。…のではないでしょうか」とし、ne が重なるところ（26.1）は、ne ごとに文を分けて同じ形で受ける（24:7、26:1）。
+- recogitare・retractare などに続く ne（「〜ではないか」。Oehler の注が言う直説法の μή の用法）は、ne の節の中の後半（et … も）まで「〜のではないでしょうか」の見込みの形で訳し、事実として言い切らない（2:19、3:2）。Videte ne … も「見てください。…のではないでしょうか」とし、ne が重なるところ（26.1）は、ne ごとに文を分けて同じ形で受ける（24:7、26:1）。Velim … demonstrare, ne forte … deprehendantur（35.5）も、続く 35.6〜35.11 がローマ人のほうが悪いと示すので、「〜ないように」にせず「ひょっとすると、…のほうではないでしょうか」と見込みの形で受ける。
 - a＋奪格で行為者を言うところ（9.1 の a vobis fieri）は「あなたがた自身が〜している」とし、場所の「あなたがたのもとで」にしない。受け身の動詞と並ぶ a deo（21.6 の venturus a deo praenuntiabatur）も「神によって、来ると予告されていた」と行為者にし、「神から来る」と出どころに読める形にしない。
 - 分詞句のあとに置かれた副詞や理由の句（21.28 の utique pro fiducia veritatis libenter）は、主動詞に掛かるかを確かめ、文を分けるときは主動詞の文の側に置く。
 - 奪格の独立句（2.20 の praesumptis, non probatis criminibus）は、理由の「〜のゆえに」にせず、状況を言う別の文に分ける（「悪事は、決めてかかられただけで、証明されてはいません」）。
@@ -161,7 +165,7 @@
 - 状態を言う分詞句（23.6 の Christiano mentiri non audentes。Oehler の注 p では、偽る勇気がなく告白したという事実）は、条件（「〜なければ」）にせず、事実や状況として訳す（「ところが、キリスト者に偽る勇気はありませんでした」）。si quid ad dedecus facit（23.9）は「さらに恥になることには」の挿入句で、主語の行為の条件にしない。
 - 列挙の中で、同格の列（23.17 の餌の中身 sanguine et fumo et putidis rogis）と、et で並ぶ別の拠り所（et … linguis vatum）を一つの列に混ぜない。
 - 当然そうあるべきことを言う直説法の未完了過去（12.7 の merebatur、14.4 の oportebat）は、接続法の事実に反する仮定とは分けて、現在の「〜はずです」「〜はずではありませんか」で訳す。
-- 14.4 の praefentur は、Oehler の注 m に従い「（神々が、ある家の災いや迷いの）元となる」と取り、dei を複数の主語とする（「前口上で語る」としない）。Oehler の注は、ほかの注釈者と語義が分かれるところでも、この本の判断の拠り所にする（4.11 の defendunt、10.1 などの semel、13.5 の hastarium と同じ。21.8 の Iovis ista sunt numina vestra も、注 r に従い前の passus est を補って「そうしたユピテルを父としたのは、あなたがたの神々です」。23.1 の elidunt は注 b に従い「（子供たちを）殺す」で、「倒す」にしない。23.12 の verum utrobique は注 t に従い verum を形容詞と取り「どちらの側でも、それが本当の種族」。23.22 の a vobis quandoque a Christianis は注 zz に従い「いつかキリスト者となったあなたがた自身によって」。24.5 の in aliquo principe confitetur は注 e に従い、下の者たちに仕えて最高の者をないがしろにする者の罪として訳し、注 e の補い「その下の者たちに」を（）に入れる。25.12 の rebus religio profecerit? は注 p に従い「宗教が国の役に立ったとでもいうのでしょうか」）。ほかの注釈者の取り方は reviews に残し、訳は変えない。
+- 14.4 の praefentur は、Oehler の注 m に従い「（神々が、ある家の災いや迷いの）元となる」と取り、dei を複数の主語とする（「前口上で語る」としない）。Oehler の注は、ほかの注釈者と語義が分かれるところでも、この本の判断の拠り所にする（4.11 の defendunt、10.1 などの semel、13.5 の hastarium と同じ。21.8 の Iovis ista sunt numina vestra も、注 r に従い前の passus est を補って「そうしたユピテルを父としたのは、あなたがたの神々です」。23.1 の elidunt は注 b に従い「（子供たちを）殺す」で、「倒す」にしない。23.12 の verum utrobique は注 t に従い verum を形容詞と取り「どちらの側でも、それが本当の種族」。23.22 の a vobis quandoque a Christianis は注 zz に従い「いつかキリスト者となったあなたがた自身によって」。24.5 の in aliquo principe confitetur は注 e に従い、下の者たちに仕えて最高の者をないがしろにする者の罪として訳し、注 e の補い「その下の者たちに」を（）に入れる。25.12 の rebus religio profecerit? は注 p に従い「宗教が国の役に立ったとでもいうのでしょうか」。34.3 の Tanto abest は注 e に従い比較級 magis の省略と取り「まして…なおさら遠い」。35.10 の alii foris alii intus は注 a（Rigaltius）に従い「外と内とで別の者になって」、35.6 の vernaculam は注 p に従い「口の悪い生え抜きの」。注が異論なしに他の注釈者の言葉を引くところも、Oehler の取り方として扱う（25.17 の注 v と同じ））。ほかの注釈者の取り方は reviews に残し、訳は変えない。
 - 疑問符で終わる non＋比較級（19.13 の non retrosiores reprehenduntur … ?）は、肯定を述べる「〜ではないでしょうか」にし、否定をもう一つ足さない。retrosior は Oehler の注 p に従い retro（＝以前に）からの語で「より前の」、reprehenduntur は retrahuntur で「さかのぼる」（「最後の人でさえ、…より前にさかのぼるのではないでしょうか」）。
 - 強めの ipse・ille が指す人が文中に名で出ていないときは、異読にない語を足さない範囲で、指す人を補う（5:3 の ipsius divinitatis は、前の nomen Christianum を受けて「キリストご自身の神性」）。
 
@@ -236,3 +240,6 @@
 | Tusci | エトルリア人（25.14） |
 | Babylonii／Medi／Pontifices／Quindecimviri／Salii／Luperci／Virgines Vestales／Amazones | バビロン人／メデア人（口語訳）／神祇官／十五人神官団／サリイ／ルペルキ／ウェスタの乙女たち（『オクタウィウス』25:12）／アマゾンたち（26.2） |
 | Cynopaene／Sciapodes | 犬の頭の人々／足で日陰を作る人々（8.5。音を写さず意味で訳す。6.9 の cynocephalus「犬の頭の神」と分ける） |
+| Augustus | アウグストゥス（34.1） |
+| Quirites／Tiberis | クイリテス（ローマ市民）（35.6。名前の後に括弧で補う）／ティベリス川（35.6。何を指すかは補わない） |
+| Cassii／Nigri／Albini／Sigerii／Parthenii | カッシウスやニゲルやアルビヌスのような人々／シゲリウスやパルテニウスのような人々（35.9。複数形なので 21.26 の「プロクルスのような人々」にならう。35.9 の喉を絞める者たち、宮殿に押し入る者たちが襲った皇帝の名は補わない） |
