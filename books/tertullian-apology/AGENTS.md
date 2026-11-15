@@ -118,7 +118,8 @@
 | instrumentum | 書物（聖書や、ユダヤ人の書を言うとき。19.1 の instrumentis istis「これらの書物」、21.1 の Iudaeorum instrumentis も揃える）。18.1 の instrumentum litteraturae は「書き記されたものという備え」（17.1 の instrumentum elementorum「元素の備え」と同じ語）。年代を調べる 19.14 の multis instrumentis は「多くの資料」 |
 | propheta・prophetia／vaticinatio・vaticinari／divinatio | 預言者・預言（18.3、19.1）／預言（19.1 のモーセ、19.11 のシビュラの呼び名）。異教の詩人の vaticinatio は「予言」（19.7 の poeticam vaticinationem「詩の予言」）／予言（20.3〜20.5。divinitas「神性」と並ぶ語で、聖書の予告を言うときも「予言」） |
 | voces／litterae（預言者の） | 声／文字・書物（18.3、19.9、20.4。voces は「言葉」にしない） |
-| iustitia／innocentia | 義（18.2、20.2。「正義」にしない）／潔白（18.2 の iustitiae innocentia「義の潔白」） |
+| iustitia／innocentia | 義（神の前の義と、預言された世の義の衰えを言う 18.2、20.2）。人の徳や功績として並べる iustitia は「正義」（11.10、11.14、11.15）／潔白（18.2 の iustitiae innocentia「義の潔白」） |
+| scilicet | つまり（18.5、19.5、20.3） |
 | censuales（19.14） | 諸民族の起源を伝える書き手たち（Oehler の注 y） |
 | lascivus（3.4〜3.5） | 陽気な、浮かれた（ほめ言葉。「淫らな」にしない） |
 | iniuria（3.5） | 損（「不正」にしない） |
@@ -136,6 +137,7 @@
 - 文と文をつなぐ小辞を、文を分けても落とさない。理由の quia（10.3 の quia tunc demum …「〜からです」）、前の文の中身を言う quod（11.8「〜からです」）、逆接の atquin（11.13「しかし」。「しかも」にしない）。
 - 当然そうあるべきことを言う直説法の未完了過去（12.7 の merebatur、14.4 の oportebat）は、接続法の事実に反する仮定とは分けて、現在の「〜はずです」「〜はずではありませんか」で訳す。
 - 14.4 の praefentur は、Oehler の注 m に従い「（神々が、ある家の災いや迷いの）元となる」と取り、dei を複数の主語とする（「前口上で語る」としない）。Oehler の注は、ほかの注釈者と語義が分かれるところでも、この本の判断の拠り所にする（4.11 の defendunt、10.1 などの semel、13.5 の hastarium と同じ）。
+- 疑問符で終わる non＋比較級（19.13 の non retrosiores reprehenduntur … ?）は、肯定を述べる「〜ではないでしょうか」にし、否定をもう一つ足さない。retrosior は Oehler の注 p に従い retro（＝以前に）からの語で「より前の」、reprehenduntur は retrahuntur で「さかのぼる」（「最後の人でさえ、…より前にさかのぼるのではないでしょうか」）。
 - 強めの ipse・ille が指す人が文中に名で出ていないときは、異読にない語を足さない範囲で、指す人を補う（5:3 の ipsius divinitatis は、前の nomen Christianum を受けて「キリストご自身の神性」）。
 
 ## 名前の表
