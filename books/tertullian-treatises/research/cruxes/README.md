@@ -37,6 +37,19 @@
 
 CSEL 20 の略号（OCR l. 477–500 の INDEX SIGLORUM）は Oehler と文字の割り当てが違う。CSEL の A は同じ Agobardinus（Bal＊、Hild＊ は Baluzius と Hildebrand の照合）、B は Gangneius の版（1545 年）、C は Pamelius が使った Jo. Clemens の写本の読み。Gelenius の版は Gel（表では 1550 年と刷られ、Oehler の表の MDLXII と違う。OCR は「Gei」と読む）、Pamelius の版は Pam、Rigaltius の版は Rig。論点一覧では、CSEL の読みを挙げるときは略号ではなく名前で書く（CSEL の C＝Clemens の写本で、Oehler の C＝Gelenius ではない）。CSEL の序（OCR l. 283–383）によると、Gangneius が使ったと言う古い写本は Agobardinus そのもので、Gangneius はほかにもう一つの写本を使った。Gelenius の Masburensis の写本はその写本と同じか近い親戚、Clemens の写本の読みは伝わるものが少なく、主な拠りどころにはしない、と言う。
 
+## 『祈りについて』の略号
+
+『祈りについて』の校注の略号は、作品の前のページ（p. 552、画像 0582＝`page/n581_w1600.jpg`、OCR l. 66862–66888）の表で確かめた。『見世物について』とも文字の意味が違う。写本は A と B の二つで、C、D、a〜c は刊本。
+
+- A：Agobardinus（アゴバルドゥスの写本）。Aφ は Hildebrand の照合、Aβ は Steph. Baluzius の照合による読み。
+- B：Ambrosianus（ミラノのアンブロジアーナ図書館の写本。もとボッビオにあった）。CSEL の D（Ambrosianus G 58 sup.、もとボッビオ、10〜11 世紀）と同じ写本で、CSEL の序（OCR l. 400–419）によると、さまざまな教会文書の抜き書きの中に『祈りについて』の 9 章から終わりまでを収める。そのため 1〜8 章の Oehler の校注には B が出てこない。同じ序によると、A は 21 章の初め（per ecclesias）で葉が失われて切れ、Gangneius（C）と Gelenius（D）の版は 19 章の終わりまでしかなく、終わりの部分は Muratori（c）が 1713 年にこの写本から初めて刊行した。
+- C：Ioh. Gangneius の初版（editio princeps、1545 年）。
+- D：Sigism. Gelenius の版（1550 年。イングランドの写本 Masburensis を使った、と表は言う）。『見世物について』の表の MDLXII と違い、ここでは MDL と刷られている。
+- a：Iac. Pamelius の版（1579 年）。b：Nic. Rigaltius の版（1634 年）。c：Lud. Ant. Muratorius の版（1713 年）。
+- 校注に名で出る推定・注釈者：Fulv. Ursinus、Franc. Junius、Latinius、Jos. Scaliger、Leopoldus、Semlerus、「vir doctus in Miscell. Observ.」（Miscellaneae Observationes 第 3 巻第 1 冊 p. 220 の匿名の学者）など。注解には Rigaltius、La Cerda、Fr. Junius、Muratorius、Heraldus、Albaspinaeus の注が引かれる。
+
+CSEL 20 の『祈りについて』の略号（目次では ABD）：A は同じ Agobardinus、B は Gangneius の版（Oehler の C）、D は Ambrosianus（Oehler の B、9 章から）。Gelenius の版は Gel（OCR は「Gei」）、Pamelius は Pam、Junius の版（1597 年）は Iun、Rigaltius は Rig、Ursinus は Urs、Latinius は Lat、Scaliger は Scal。「x」は上の匿名の学者（Miscell. Observ.）。論点一覧では、CSEL の読みを挙げるときは略号ではなく名前で書く（CSEL の B＝Gangneius、Oehler の B＝Ambrosianus）。
+
 ## そのほかの資料
 
 - CSEL 20（Reifferscheid & Wissowa 1890）：『見世物について』『祈りについて』『洗礼について』を収め、『殉教者たちへ』は収めない（本の `AGENTS.md`）。略号は上の『見世物について』の節。OCR は本文に印や崩れが多いので、CSEL の読みは校注で裏づけられるものだけを確かなものとして挙げる。
