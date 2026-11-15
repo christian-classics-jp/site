@@ -46,8 +46,8 @@
 17:1 同じように、わたしたちは、あらゆる恥知らずなことを遠ざけるよう命じられているのではありませんか。ですから、わたしたちは劇場からも離れます。劇場は、恥知らずなことの専用の集会所です。よそで認められないことのほかは、何も認められない場所なのです。
 // amandare は Oehler の推定（写本は amare、刊本は amoliri）。底本の問いの形で訳した。
 17.2 Ita summa gratia eius dei spurcitia plurimum concinnata est, quam Atellanus gesticulatur, quam mimus etiam per muliebres repraesentat, sexum pudoris exterminans, ut facilius domi quam scenae erubescant, quam denique pantomimus a pueritia patitur in corpore, ut artifex esse possit.
-17:2 こうして、その神に最も気に入られるものは、たいてい汚らわしさで組み立てられています。アテラナ劇の役者は、それを身ぶりで演じます。笑劇の役者は、女の衣装まで着て、それを演じてみせます。性の恥じらいを追い払うので、舞台でより家でのほうが、たやすく顔を赤らめるほどです。さらに、無言劇の役者は、その芸を身につけるために、子供のころからそれを体に受けるのです。
-// mimus は刷りでは minus。校注に記載がなく、ほかの版も mimus なので刷りの誤りとみた。eius dei（その神の）は底本のまま。ほかの版は de spurcitia（神の語がない）。
+17:2 こうして、劇場の神に最も気に入られるものは、たいてい汚らわしさで組み立てられています。アテラナ劇の役者は、それを身ぶりで演じます。笑劇の役者は、女の衣装まで着て、それを演じてみせます。性の恥じらいを追い払うので、舞台でより家でのほうが、たやすく顔を赤らめるほどです。さらに、無言劇の役者は、その芸を身につけるために、子供のころからそれを体に受けるのです。
+// mimus は刷りでは minus。校注に記載がなく、ほかの版も mimus なので刷りの誤りとみた。eius dei は底本のまま。eius は 17.1 の theatro を受けると取り「劇場の神」とした。ほかの版は de spurcitia（神の語がない）。
 17.3 Ipsa etiam prostibula publicae libidinis hostiae in scena proferuntur, plus miserae in praesentia feminarum, quibus solis latebant, perque omnis aetatis, omnis dignitatis ora transducuntur, locus, stipes, elogium, etiam quibus opus non est, praedicatur, etiam, taceo de reliquis, etiam quae in tenebris et in speluncis suis delitescere decebat, ne diem contaminarent.
 17:3 公の情欲のいけにえである遊女たちまで、舞台に引き出されます。女たちの前に出されるので、なおさらみじめです。女たちにだけは隠れていたのですから。そして、あらゆる年齢、あらゆる身分の人の目の前を引き回されます。その居場所も、値段も、評判も、知る必要のない人々にまで触れ回られます。ほかのことは言いません。闇や自分の洞穴に隠れて、昼を汚さないでいるのがふさわしいことまで触れ回られるのです。
 17.4 Erubescat senatus, erubescant ordines omnes. Ipsae illae pudoris sui interemtrices de gestibus suis ad lucem et populum expavescentes semel anno erubescunt. Quodsi nobis omnis impudicitia exsecranda est, cur liceat audire quae loqui non licet, cum etiam scurrilitatem et omne vanum verbum iudicatum a deo sciamus?
@@ -60,6 +60,7 @@
 17:6 こうして、恥知らずなことが禁じられていることから、劇場が禁じられていることも分かります。わたしたちは、世の文学の教えも、神の前で愚かなものとされているので、退けます（第一コリント三・一九）。そうであれば、ある種類の見世物についても、わたしたちには十分に定めが示されています。世の文学によって、遊びの舞台と競いの舞台とを分ける種類のことです。
 17.7 Quodsi tragoediae et comoediae scelerum et libidinum auctrices cruentae et lascivae, impiae et prodigae, nullius rei aut atrocis aut vilis commemoratio melior est. Quod in facto reicitur, etiam in dicto non est recipiendum.
 17:7 悲劇と喜劇は、罪と情欲を生み出すものです。悲劇は血なまぐさく不敬で、喜劇は淫らで放埒です。そうであれば、むごいことであれ卑しいことであれ、語り出すことが、行うことよりましなはずはありません。行いで退けられることは、言葉でも受け入れてはならないのです。
+// melior の比べる相手は書かれていないので、次の文から「行うことより」と補った。
 // 17.6〜17.7 の lusoria vel agonistica scena は、Oehler の注 l のとおり喜劇と悲劇を指す。形容詞は注 m のとおり、cruentae・impiae を悲劇に、lascivae・prodigae を喜劇に振り分けた。
 
 18.1 Quodsi et stadium contendas in scripturis nominari, sane obtinebis. Sed quae in stadio geruntur, indigna conspectu tuo non negabis, pugnos et calces et colaphos et omnem petulantiam manus, et quamcunque humani oris, id est divinae imaginis depugnationem.

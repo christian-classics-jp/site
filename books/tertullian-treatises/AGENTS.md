@@ -100,7 +100,7 @@
 | ferae（12.3 の ferarum voluptati） | 獣のような見物人（注 d の Rigaltius の解。直後の feris は本物の「獣」） |
 | concilium／consessus（『見世物について』3 章） | 集まり（詩篇一・一 の句と揃える。3.4、3.5、7.3 の conventus、8.5 の daemonum concilium も「集まり」）／会合（3.4）。3.7 の ad consessum は「座るために」。8.8 の conciliabula spectaculorum は「見世物の集会所」 |
 | angelus（『見世物について』2.9、2.14） | 天使（『護教論』どおり）。2.9 の angeli は Oehler の注 h のとおりダイモンを指すが、語を足さず `// ` メモに書く |
-| voluptas／gaudium／fructus（saeculi）／vitae gratia | 快楽（14.2 の voluptatis concupiscentia「快楽への欲」。concupiscentia は「欲」）／喜び（gratia「気に入られること」と分ける。17.2 の summa gratia eius dei「その神に最も気に入られるもの」）／楽しみ（注 b のとおり享受の意味）／生きる甲斐（『見世物について』2.4〜2.5）。periculum voluptatis, quam vitae（2.4）は「命を失う危険より、快楽を失う危険」と、何が危うくなるかを言う |
+| voluptas／gaudium／fructus（saeculi）／vitae gratia | 快楽（14.2 の voluptatis concupiscentia「快楽への欲」。concupiscentia は「欲」）／喜び（gratia「気に入られること」と分ける。17.2 の summa gratia eius dei「劇場の神に最も気に入られるもの」。eius は 17.1 の theatro を受ける）／楽しみ（注 b のとおり享受の意味）／生きる甲斐（『見世物について』2.4〜2.5）。periculum voluptatis, quam vitae（2.4）は「命を失う危険より、快楽を失う危険」と、何が危うくなるかを言う |
 | ferrum／herbae（『見世物について』2.9） | 鉄（材料として言うところ。手段を言う ferro は「鉄の刃」）／草（毒の材料） |
 | virtus／vires | 力（3.3 の virtutum animi et corporis「精神と体の力」、3.4、3.6） |
 | idololatria | 偶像礼拝 |
@@ -141,7 +141,6 @@
 - 同じ名の神々をまとめてあざける複数形（10.8 の Apollines、Minervas、Mercurios、11.3 の Herculum、Mercuriorum）は「アポロたち」のように「たち」で残す。もとから二人の Castores は名前の表どおり「カストルの兄弟」。
 - 散文の節の中で詩を引くところ（9.3 のウェルギリウス 2 行）は、行を分けず『』に入れて文に続ける（節の行が切れるので `<br/>` を使わない。『オクタウィウス』19:2 のウェルギリウスの引用と同じ扱い。『護教論』と『オクタウィウス』の both.md には `<br/>` の先例がない）。
 - 書き手が自分を含めて言う一人称複数の勧め（14.1 の tractemus、19.1 の eamus、delectemur）は「〜しましょう」。「〜するがよいでしょう」にしない。三人称の接続法の命令（17.4 の Erubescat senatus）は「〜がよい」。
-- 比較級で比べる相手が書かれていないところ（17.7 の nullius rei … commemoratio melior est）は、前後の文から相手を補って比較を残す（「語り出すことが、行うことよりましなはずはありません」）。
 - praescribere などの後に、言う中身が対格と不定法で続くところ（10.10 の altius praescripsisse debemus daemonas … inspirasse）は「前もって、次のことを言っておく」と受け、中身を次の文に出す。
 
 ## 名前の表

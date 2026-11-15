@@ -178,6 +178,8 @@ Oehler の画像は `cache/archive.org/quintiseptimiifl0001fanc/page/n72_w1600.j
   Atellanus は「アテッラ劇の役者」、mimus は「ミーモス役者」、pantomimus は「パントマイム役者」の類いで、名前の表に足す（「メインで決めること」）。per muliebres は注 b のとおり「女の衣で」。a pueritia patitur in corpore は、子供のころから体に受ける辱め（性的な虐待）を遠回しに言う。原文の遠回しの言い方をそのまま残すか、意味が分かるようにするかは訳者が決める。
 - 確かめた資料：`page/n76_w1600.jpg` の上半分（本文の初め）、`page/n77_w1600.jpg` の上半分（本文、校注 7〜11）、下半分（注 b）。17.2 の dei は n76 の `pct:0,42,100,5`、minus は n77 の `pct:10,6,90,4` を 2 倍に拡大して確かめた。OCR l. 6771、6890–6893、6906–6908、6930–6934。CSEL l. 1516–1519、1530–1535、1544–1545、1575。Migne l. 59253–59255、59351。ANF l. 7173–7178（どの読みで訳したかだけ）。
 
+- 決定（メイン）：minus は刷りの誤りとみて、底本ファイルに mimus と起こした（`research/sources.md` の n72〜n80 の行）。dei は底本のまま採り、eius を 17.1 の theatro を受けると取って「劇場の神」と訳した。de spurcitia は `// ` メモに書き、訳注は付けない。
+
 ### 17.3 prostibula publicae libidinis hostiae … locus, stipes, elogium, etiam quibus opus non est, praedicatur（遊女の告げ知らせ）
 - 底本（Oehler）：Ipsa etiam prostibula publicae libidinis hostiae in scena proferuntur, plus miserae in praesentia feminarum, quibus solis latebant, perque omnis aetatis, omnis dignitatis ora transducuntur, locus, stipes, elogium, etiam quibus opus non est, praedicatur, etiam, taceo de reliquis, etiam quae in tenebris et in speluncis suis delitescere decebat, ne diem contaminarent.
 - ほかの読み（17 章の校注 12〜16、p. 48）：Aφ は prostribula。A は quibus so solis。B は per quae。Etiam taceo は AB、Taceo は残り。etiam quae は ABE、ea quae は CD、eaque は Fr. Junius。CSEL は perque（Gelenius）を採り、二つ目の etiam を角括弧に入れて削る（ea は Gelenius）。
