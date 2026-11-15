@@ -57,5 +57,6 @@ CSEL 20 の『祈りについて』の略号（目次では ABD）：A は同じ
 - 七十人訳：H. B. Swete, The Old Testament in Greek I（創世記〜列王紀。`cache/archive.org/oldtestamentingr01swetuoft/oldtestamentingr01swetuoft_djvu.txt`）と II（`cache/archive.org/oldtestamentingr02swetuoft/oldtestamentingr02swetuoft_djvu.txt`）、III（イザヤ、エゼキエルなど。`cache/archive.org/theoldtestamenti03swetuoft/theoldtestamenti03swetuoft_djvu.txt`）。
 - 新約のギリシア語：Robinson & Pierpont の Byzantine Textform（`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/<書>.csv`。行は「章,節,本文」で、`{NA … > … }` は NA との違い）。
 - ウェルギリウス：Greenough 版（1881）の Perseus の TEI XML（`cache/raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0690/…`）。『農耕詩』は phi002。
+- アレクサンドリアのクレメンス『ストロマテイス』：Stählin 版 2 巻（GCS 1906。`cache/archive.org/clemensalexandri02clem/clemensalexandri02clem_djvu.txt`）。13-de-oratione-23-29 の 26.1 の、聖書にない言葉に使った。
 - 口語訳：`node tools/bible.js` で引いた 1955 年版の本文。
 - ANF：Ante-Nicene Fathers 第 3 巻の Thelwall の英訳（`cache/ccel.org/anf03.txt`）。レビューの読み比べに使う。英訳の文言はこの一覧に使わない。
