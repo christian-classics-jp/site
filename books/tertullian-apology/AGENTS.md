@@ -53,7 +53,7 @@
 | angelus | 天使 |
 | proconsul | 地方総督（『スキリウムの殉教者行伝』『ペルペトゥアとフェリキタスの殉教録』と同じ） |
 | imperator | 皇帝（5.1 の古い定めの ab imperatore も「皇帝」） |
-| princeps／principalis | 皇帝（4.8 の constantissimus principum「皇帝たちのうちで最も揺るぎない」、5.6）／皇帝の（4.8 の principalium rescriptorum et edictorum「皇帝の勅答と布告」）。皇帝でないかしらを指すときは「頭」とし、だれかを括弧で補う（14.3 の principis sui は詩人たちの頭で「自分たちの頭（ホメロス）」） |
+| princeps／principalis | 皇帝（4.8 の constantissimus principum「皇帝たちのうちで最も揺るぎない」、5.6）／皇帝の（4.8 の principalium rescriptorum et edictorum「皇帝の勅答と布告」）。皇帝でないかしらを指すときは「頭」とし、だれかを括弧で補う（14.3 の principis sui は詩人たちの頭で「自分たちの頭（ホメロス）」）。サタンを言うときは「かしら」（22.2 の principem huius mali generis「この悪い種族のかしら」。口語訳の「悪霊のかしら」に合わせる） |
 | senatus／consul | 元老院／執政官（5.1、5.4、6.8〜6.9） |
 | maiores／patres、paterna／proavi | 先祖（6.1 の maiorum consulta「先祖の決めたこと」、6.5 の maiorum instituta「先祖の定め」）／父祖（6.1 の paternorum institutorum「父祖の定め」、6.8、6.11）／曾祖父たち（6.10） |
 | tutor（legum）／protector／ultor | 守り手（4.3 の「法の守り手」、6.1 の protectores）／保護者（5.7 の皇帝を言う protector）／背く者を罰する人（6.1） |
@@ -92,7 +92,7 @@
 | adseverare／adfirmare | 言い張る（11.1）／断言する（11.11） |
 | notae（11.13、13.6） | 汚点（13.6 の notae captivitatis は「囚われの汚点」） |
 | denotare | 文脈で訳し分ける。数や名を言い立てられるときは「非難される」（1:8）、人の過ちを指摘するときは「とがめる」（1:9、3:4）、名を挙げて責められるときは「名指しされる」（1:14）。「言いとがめる」は使わない |
-| interdum | 「さしあたり」（テルトゥリアヌスの interim の意味。1:3） |
+| interdum | 「さしあたり」（テルトゥリアヌスの interim の意味。1:3）。nonnunquam と並ぶなど「ときには」の意味のとき（22.9）は「ときには」 |
 | crimen／scelus／noxa／nocens／reus | 罪／悪事（『オクタウィウス』と同じ）／罪／罪人／罪人（訴えられた者は「訴えられる」と動詞で） |
 | facinus | 悪事（8:1、9:2。scelus と同じ訳。『オクタウィウス』の「罪」にしない。この本は crimen を「罪」とするため） |
 | homicidium／parricidium／infanticidium | 人殺し／身内殺し（『オクタウィウス』30:2 と同じ）／赤子殺し（9:4〜9:6） |
@@ -149,7 +149,9 @@
 - 奪格の独立句（2.20 の praesumptis, non probatis criminibus）は、理由の「〜のゆえに」にせず、状況を言う別の文に分ける（「悪事は、決めてかかられただけで、証明されてはいません」）。
 - ut＋名詞（ut innocentes、ut nocentes）は「〜であるかのように」と、扱いの名目を言う形にする（2:6）。
 - sequitur ne（8.11）は結果の否定（「〜とは思わないことになる」）で訳し、recogitare＋ne の見込みの形にしない。7.12 の recogitet, ne は見込みの形（「最初のあの口が嘘をまいたのではないか」）。
-- 文と文をつなぐ小辞を、文を分けても落とさない。理由の quia（10.3 の quia tunc demum …「〜からです」）、前の文の中身を言う quod（11.8「〜からです」）、逆接の atquin（11.13「しかし」。「しかも」にしない）。
+- 文と文をつなぐ小辞を、文を分けても落とさない。理由の quia（10.3 の quia tunc demum …「〜からです」）、前の文の中身を言う quod（11.8「〜からです」）、逆接の atquin（11.13、23.18「しかし」。「しかも」にしない）、Nam（23.10「実際、」）、autem（22.10「一方、」）、itaque（23.22「ですから、」）、強める vel（23.22「それどころか」。Oehler の注 zz）。前の文の理由を言う enim は文末を「〜からです」で結ぶ（23:11）。
+- 状態を言う分詞句（23.6 の Christiano mentiri non audentes）は、条件（「〜なければ」）にせず、状況や理由（「〜なくて」）で訳す。si quid ad dedecus facit（23.9）は「さらに恥になることには」の挿入句で、主語の行為の条件にしない。
+- 列挙の中で、同格の列（23.17 の餌の中身 sanguine et fumo et putidis rogis）と、et で並ぶ別の拠り所（et … linguis vatum）を一つの列に混ぜない。
 - 当然そうあるべきことを言う直説法の未完了過去（12.7 の merebatur、14.4 の oportebat）は、接続法の事実に反する仮定とは分けて、現在の「〜はずです」「〜はずではありませんか」で訳す。
 - 14.4 の praefentur は、Oehler の注 m に従い「（神々が、ある家の災いや迷いの）元となる」と取り、dei を複数の主語とする（「前口上で語る」としない）。Oehler の注は、ほかの注釈者と語義が分かれるところでも、この本の判断の拠り所にする（4.11 の defendunt、10.1 などの semel、13.5 の hastarium と同じ。21.8 の Iovis ista sunt numina vestra も、注 r に従い前の passus est を補って「そうしたユピテルを父としたのは、あなたがたの神々です」。23.1 の elidunt は注 b に従い「（子供たちを）殺す」で、「倒す」にしない。23.12 の verum utrobique は注 t に従い verum を形容詞と取り「どちらの側でも、それが本当の種族」。23.22 の a vobis quandoque a Christianis は注 zz に従い「いつかキリスト者となったあなたがた自身によって」）。ほかの注釈者の取り方は reviews に残し、訳は変えない。
 - 疑問符で終わる non＋比較級（19.13 の non retrosiores reprehenduntur … ?）は、肯定を述べる「〜ではないでしょうか」にし、否定をもう一つ足さない。retrosior は Oehler の注 p に従い retro（＝以前に）からの語で「より前の」、reprehenduntur は retrahuntur で「さかのぼる」（「最後の人でさえ、…より前にさかのぼるのではないでしょうか」）。
