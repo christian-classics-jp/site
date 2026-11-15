@@ -41,7 +41,7 @@ CSEL 20 の略号（OCR l. 477–500 の INDEX SIGLORUM）は Oehler と文字�
 
 - CSEL 20（Reifferscheid & Wissowa 1890）：『見世物について』『祈りについて』『洗礼について』を収め、『殉教者たちへ』は収めない（本の `AGENTS.md`）。略号は上の『見世物について』の節。OCR は本文に印や崩れが多いので、CSEL の読みは校注で裏づけられるものだけを確かなものとして挙げる。
 - Migne『ラテン教父全集』1 巻（1844）：テルトゥリアヌスの著作の巻。『見世物について』の本文の下に、異読の一覧（LECTIONES VARIANTES。略号は Rig、Jun、Seml、Fran、Paris、Oberth などで、表の説明は読んでいない）と、Rigaltius・La Cerda・Pamelius などの注（COMMENTARIUS）を置く。『見世物について』14〜19 章（l. 59049–59480、col. 647–652）では、本文は多くのところで Rigaltius の読み（contra Dei、gula）と同じだが、17.1 は amoliri と読み、異読の一覧に Rigaltius の nec … amare を挙げる。OCR（`cache/archive.org/bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1844_1/…_djvu.txt`）は崩れが多いので、Oehler・CSEL と読みを比べるのに使うだけにする。
-- 七十人訳：H. B. Swete, The Old Testament in Greek II（`cache/archive.org/oldtestamentingr02swetuoft/oldtestamentingr02swetuoft_djvu.txt`）。
+- 七十人訳：H. B. Swete, The Old Testament in Greek I（創世記〜列王紀。`cache/archive.org/oldtestamentingr01swetuoft/oldtestamentingr01swetuoft_djvu.txt`）と II（`cache/archive.org/oldtestamentingr02swetuoft/oldtestamentingr02swetuoft_djvu.txt`）。
 - 新約のギリシア語：Robinson & Pierpont の Byzantine Textform（`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/<書>.csv`。行は「章,節,本文」で、`{NA … > … }` は NA との違い）。
 - ウェルギリウス：Greenough 版（1881）の Perseus の TEI XML（`cache/raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0690/…`）。『農耕詩』は phi002。
 - 口語訳：`node tools/bible.js` で引いた 1955 年版の本文。
