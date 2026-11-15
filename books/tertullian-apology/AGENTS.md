@@ -80,7 +80,8 @@
 | pueri（domi） | 奴隷（14.1。家の召使いの意味で、「子供」にしない） |
 | stuprum／adulterium・moechus | 淫らな交わり（『オクタウィウス』と同じ。9:20）／姦淫（2:5、15:7）・姦淫する（者）（11:12、15:1） |
 | iudex／iudicium | 裁き手／裁き。皇帝を立てる神の決定を言う iudicium dei（32.3）は「神の定め」（「裁きを仰ぐ」は判断を求める慣用句に読めるため） |
-| licentia／luxuria（35.3） | 放縦／放蕩（同じ文に並ぶので訳し分ける） |
+| licentia／luxuria（35.3） | 放縦／放蕩（同じ文に並ぶので訳し分ける）。licentia と並ばない 9.18 の luxuriae は「放縦」のまま |
+| specularis（materia）（35.6） | 窓にはめる透き通った石のような（lapis specularis。ad translucendum と並ぶので「鏡のような」にしない） |
 | plausores（35.11） | 加勢する者たち（Oehler の注 b の fautores, auxiliatores。「喝采した者」にしない） |
 | simulacrum | 像 |
 | templum／delubrum／fanum | 神殿／聖所／社（『オクタウィウス』と同じ） |

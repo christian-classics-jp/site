@@ -24,7 +24,7 @@
 28:4 実際、生きている者なら、だれであれ、死んだ者よりまさっているではありませんか。しかし、あなたがたがそうするのも、道理によるのではありません。たちどころに効く力を顧みてのことです。それほど、この点でも、あなたがたは自分の神々に対して不信心だと見破られることになるでしょう。人間の支配に、より多くの恐れをささげているのですから。
 28.5 Citius denique apud vos per omnes deos quam per unum genium Caesaris peieratur.
 28:5 要するに、あなたがたのもとでは、すべての神々にかけて偽りの誓いをするほうが、たやすいのです。カイザルのゲニウス一つにかけるよりもです。
-// genius の訳は、本の AGENTS.md の訳語表で 32 章のページで決めることになっている。ここでは『オクタウィウス』29:5 にならい、仮に「ゲニウス」とした。
+// genius は、本文が 32.3〜32.4 でダイモンと言い換えるので、『オクタウィウス』29:5 にならい「ゲニウス」とした（32 章のページで確定）。
 
 29.1 Constet igitur prius, si isti, quibus sacrificatur, salutem imperatoribus vel cuilibet homini inpertire possunt, et ita nos crimini maiestatis addicite, si angeli aut daemones substantia pessimi spiritus beneficium aliquod operantur, si perditi conservant, si damnati liberant, si denique, quod in conscientia vestra est, mortui vivos tuentur.
 29:1 ですから、まず確かめてください。供え物をささげられている者たちが、皇帝たちや、だれであれ人間に、安寧を分け与えることができるのかどうかをです。そのうえで、わたしたちを大逆の罪に引き渡してください。もし、その実体が最悪の霊である天使やダイモンが、何かの恵みを施すならです。もし、滅びた者が人を守り、罪に定められた者が人を解き放つならです。そして、あなたがた自身が心で知っているとおり、死んだ者が生きている者を守るならです。
