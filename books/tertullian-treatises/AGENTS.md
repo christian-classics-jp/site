@@ -42,7 +42,10 @@
   - 異教の場に入り込んだ汚れた霊の言葉（26.1 の in meo eam inveni）は、『殉教者たちへ』1:6 の悪魔の言葉と同じく「」に入れ、一人称は「おれ」。
   - 書き手が終わりの日に迫害者たちへ言う言い返し（30.6〜30.7 の Hic est ille, dicam …）は「」に入れて常体にし、ユダヤ人の罵りの言葉の中のキリストは尊敬語にしない（2.2 の型）。二人称複数（redemistis）は「おまえたち」。罵りの句には出典を付け（マタイ一三・五五、ヨハネ八・四八 など）、原文の語が口語訳と違うところ（felle et aceto「胆汁と酢」）は 23.4 の型で `// ` メモに書く。28.2 のヨハネ一六・二〇 のように、聖句の句を口語訳と違う順で引くところも、13.1 の型で地の文に言い換え、saeculum は「世」のままにする。
 - 『祈りについて』『洗礼について』：教会の中の読み手に向けた教え。主語が書き手と読み手を含むときは「わたしたち」。『祈りについて』1.6 の呼びかけ benedicti は『殉教者たちへ』と同じ「祝福された人々よ」。
-  - 『祈りについて』の聖句の引き方は『見世物について』の決まり（13.1 と 23.4 の型）に従う。inquit などで直接引き、口語訳の語を使って原文の長さに縮めただけのところ（1.5 のヨハネ三・三一〜三二、3.2 のヨハネ一七・六、4.6 のルカ二二・四二、5.4 の黙示録六・九〜一〇、6.2 のマタイ六・三三、7.5 のマタイ一八・二二）は『』に入れ、除いた語を `// ` メモに書く。原文の語が口語訳と違い、論がその語に立つところ（2.2 のヨハネ一・一二 の「神の子と呼ばれる」、2.3 のイザヤ一・二〜三 の「子らを生んだ」「わたしを認めなかった」、6.3 のヨハネ六・三三 の「生ける神の言葉」、6.5 のマタイ一五・二六 の父を主語にした問い、8.3 のルカ二二・四六 の「試みられないように」）は、コロンや inquit で引いていても地の文で言い換えて出典を付け、メモに書く。cum dicit … Item のように一組で引くところ（6.5〜6.6 のマタイ一五・二六 と七・九）は、扱いを揃える。論が語にかからない小さな違い（10.1 の accipietis と口語訳の「与えられる」）は、口語訳の文言にしてメモに書く。
+  - 『祈りについて』の聖句の引き方は『見世物について』の決まり（13.1 と 23.4 の型）に従う。inquit などで直接引き、口語訳の語を使って原文の長さに縮めただけのところ（1.5 のヨハネ三・三一〜三二、3.2 のヨハネ一七・六、4.6 のルカ二二・四二、5.4 の黙示録六・九〜一〇、6.2 のマタイ六・三三、7.5 のマタイ一八・二二）は『』に入れ、除いた語を `// ` メモに書く。原文の語が口語訳と違い、論がその語に立つところ（2.2 のヨハネ一・一二 の「神の子と呼ばれる」、2.3 のイザヤ一・二〜三 の「子らを生んだ」「わたしを認めなかった」、6.3 のヨハネ六・三三 の「生ける神の言葉」、6.5 のマタイ一五・二六 の父を主語にした問い、8.3 のルカ二二・四六 の「試みられないように」）は、コロンや inquit で引いていても地の文で言い換えて出典を付け、メモに書く。cum dicit … Item のように一組で引くところ（6.5〜6.6 のマタイ一五・二六 と七・九）は、扱いを揃える。論が語にかからない小さな違い（10.1 の accipietis と口語訳の「与えられる」）は、口語訳の文言にしてメモに書く。11.3 の創世記四五・二四 も、論が「道」と「怒る」に立ち、口語訳の「途中で争ってはなりません」では両方が消えるので、地の文で「道で怒ってはならない」と言い換える。
+  - 聖書でない書の直接の引用（16.2 の『ヘルマスの牧者』の Cum adorassem et assedissem super lectum）は、このリポジトリの訳（`books/shepherd-of-hermas`）の文言に揃えて『』に入れ、原文が引かない語（「家で」）は除き、出典は `// ` メモに書く（『見世物について』9.3 の型）。異教の神託の言葉（17.3 の Daemonium oraculi Pythii … inquit）は「」に入れ、一人称の語を出さずに訳し、出典（ヘロドトス）は `// ` メモに書く。
+  - 注釈者が相手の反論と取る、inquit のない文（18.2 の Quaecumque oratio sit … celare。Oehler の注 b）は、『護教論』の言い分の型で「」に入れ、「と、人は言うでしょう」と受ける。続く書き手の言い返し（18.3 の Iam enim …）は「けれども、」で受ける。
+  - 書き手が皮肉で相手の理屈を突き詰めるところ（15.3 の Deus scilicet non audiat、16.3 の Immo contra scripturam fecerit、16.4 の Nisi exprobramus deo）は、文型の訳し方の 23.7 の型で「というのでしょう」「ことになるのでしょう」「なら、話は別ですが」と受ける。
   - 聖句の数を論の要にするところ（7.5 のマタイ一八・二一〜二二 と創世記四・一五、二四 の septies、septuagies septies）は、四か所とも口語訳マタイの「七たび」「七たびを七十倍」に揃え、創世記の口語訳（「七倍」「七十七倍」）との違いをメモに書く。
   - 1 章冒頭の Dei spiritus はキリストを指す（注 a）。「神の霊」と訳し、聖霊と補わない。sermo／ratio は『護教論』の「言葉」「理」。『洗礼について』の論敵（1 章で言うカイン派の異端の者）とその仲間への言い返しも、『護教論』の言い分の型に従う。
 - 人の語りかけの調子は、最初に出たページで決めてここに書く。
@@ -70,9 +73,9 @@
 |---|---|
 | spectaculum | 見世物（作品の題も『見世物について』） |
 | oratio | 祈り |
-| adorare（『祈りについて』） | 祈る（1.4〜1.6、2.3。ルカ一一・一 やマタイ六・六 の「祈る」の意味で orare と同じに使う。『護教論』の「拝む」にしない） |
+| adorare（『祈りについて』） | 祈る（1.4〜1.6、2.3、16.2、17.1、17.5。ルカ一一・一 やマタイ六・六 の「祈る」の意味で orare と同じに使う。『護教論』の「拝む」にしない）。対象を目的語に取って崇めることを言うところ（13.3 の Nos dominum adoramus, non dedimus、16.3 の adoratis sigillaribus suis）は「拝む」 |
 | sophia／disciplina orandi／breviarium（『祈りについて』1 章） | 知恵／祈りの教え／要約 |
-| religio（『祈りについて』） | 礼拝（神にささげるもの。1.6 の religionem suam offerret、9.2 の religio orationis「祈りという礼拝」）。人の側の敬いの心を言う 6.4 の non sine religione は、『護教論』6.10 の「敬虔」の意味で「敬虔な思い」 |
+| religio（『祈りについて』） | 礼拝（神にささげるもの。1.6 の religionem suam offerret、9.2 の religio orationis「祈りという礼拝」、18.4 の ieiunii religio「断食という礼拝」）。人の側の敬いの心を言う 6.4 の non sine religione は、『護教論』6.10 の「敬虔」の意味で「敬虔な思い」。superstitio（迷信）と対にする 15.2 の non religioni, sed superstitioni も「敬虔」 |
 | substantia（『祈りについて』） | 文脈で訳す（1.8 の interpretationis substantia「解き明かしの中身」、4.3 の substantiam … voluntatis「みこころの実質」、4.6 の substantia passionis「受難の実際」）。『護教論』の「実体」にしない |
 | agnoscere／recognoscere（『祈りについて』2 章） | 認める（2.3 の Felices, qui patrem agnoscunt と、イザヤの me non agnoverunt の掛け合いを残す）／見いだす（2.5） |
 | pietas／potestas（『祈りについて』2.4） | 慈しみ／権力（『護教論』34.2 の nomen pietatis quam potestatis に揃える。Oehler の注 b）。4.7 の voluntas et potestas patris は「父のみこころであり、父の力」 |
@@ -82,7 +85,7 @@
 | delictum／peccator／paenitentia | 罪／罪びと／悔い改め（『祈りについて』7 章） |
 | desiderium／petitio（『祈りについて』10.1） | 望み／願い（「あとから加わる望みには、外側に願いを積み上げる権利がある」） |
 | invidia（『祈りについて』5.4 の殉教者の叫び） | 嘆き訴えて（『護教論』40:14 の invidia caelum tundimus と同じ。Oehler の注 c。「ねたみ」にしない） |
-| expungere（『祈りについて』9.1 の expunguntur officia） | 果たす（『護教論』35.4 の vota … expungimus と同じ） |
+| expungere（『祈りについて』9.1 の expunguntur officia） | 果たす（『護教論』35.4 の vota … expungimus と同じ）。怒りについて言う 11.4 の Ne verbo quidem malo permittit expungi は「晴らす」 |
 | sui（神・主の） | ご自分の者たち（『祈りについて』1.7、2.5。「ご自身の」と揺らさない） |
 | bene optare（『祈りについて』3.2、4.5） | よいことを願う（3.2 の bene deo optare「神のためによいことを願う」、4.5 の nobis bene optamus「自分たちのためにもよいことを願う」。4.1 の ei successum … oremus も「神のために」を落とさない） |
 | baptismus／baptisma | 洗礼（作品の題も『洗礼について』。『ペルペトゥアとフェリキタスの殉教録』と同じ）。口語訳の聖句を引くところの「バプテスマ」は口語訳のまま |
@@ -158,7 +161,19 @@
 | strophae（29.4） | 仕掛け（『護教論』15 章の「からかいの仕掛け」。注 c）。fabulae は「作り話」、simplicitates は「素朴さ」 |
 | cavea（30.8 の utraque cavea） | 両方の観客席（闘技場と劇場）（注 o。12.8 の型で補う。『護教論』の cavea「闘技場の観客席」） |
 | societates ecclesiarum／spatia／palmae（29.3 の競走場のたとえ） | 諸教会の交わり／周回／しゅろの枝。spatium hoc（29.1）は「この一生」 |
-| si forte | 先のことの仮定は「もしそういうことがあれば」（1.8）。呼び方をやわらげるところ（2.4 の in custodiarium, si forte）は「いわば」 |
+| si forte | 先のことの仮定は「もしそういうことがあれば」（1.8）。呼び方をやわらげるところ（2.4 の in custodiarium, si forte）は「いわば」。そうした場に居合わせることを言うところ（『祈りについて』18.3 の potes domi, si forte, inter quos …）は「たまたま」 |
+| lavacrum totius corporis（『祈りについて』13.2） | 全身を洗う浴場（体を洗うこと。訳語表の lavacrum「洗い」は洗礼を言うときの語なので分ける）。13.3 の quas cum toto corpore in Christo semel lavimus は洗礼を指すとみられるが、補わない |
+| paenula・paenulati／sarabara／tiara（『祈りについて』15 章） | 上着・上着を着た者（15.3 のパウロの上着と同じ語にして皮肉を残す。第二テモテ四・一三 の口語訳の語）／外套／帽子（ダニエル三・二一 の口語訳の語）。expositis paenulis は「上着を脱いで」（注 c のとおり exponere は「脱ぐ」） |
+| gentiles／nationes（『祈りについて』） | 異教徒／異邦人（5.5、6.5、15.2、16.3〜16.4。15.2 の gentilibus adaequent と sic … adeunt ad idola nationes を訳し分ける） |
+| confiteri（与格を取る。14.2 の orantes confitemur Christo） | ほめたたえる（罪を「言い表す」意味と分ける） |
+| operatio（『祈りについて』18 章） | わざ（注 a のとおり断食のわざ。初出の 18.1 は「断食のわざ」と補う。18.4 の operationem tuam は「自分のわざ」。『護教論』39.8 の「働き」とは意味が違う） |
+| osculum pacis・osculum sanctum／pax／signaculum（『祈りについて』18 章） | 平和の口づけ・聖なる口づけ／平和（11.2 の ad pacem dei … sine pace、18.1 の conferenda … pax、18.2 の impedit pax、sine pace。口づけを延ばすことを言う 18.3 の differre pacem は「平和の口づけを延ばす」）／印（18.1 の signaculum orationis「祈りに押す印」） |
+| dies Paschae（『祈りについて』18.4） | 過越の日（このリポジトリの『トリュフォンとの対話』と同じ語。Oehler の注 d のとおり主の受難の日の断食を指すが、補わず `// ` メモに書く） |
+| statio・stationes militum（『祈りについて』19 章） | 見張り（スタティオ）・兵士の見張り（19.3 で兵士の見張りから名を取ったと言うので、文型の訳し方の名の由来の型で、初出の 19.1 だけ音を添える。19.2 の steteris は「立つ」で掛け合いを残す）。solvere・resolvere は「解く」 |
+| eucharistia／sacrificiorum orationes／ara dei（『祈りについて』19 章） | 聖餐（『ディダケー』『第一弁明』と同じ）／供え物の祈り（注 b）／神の祭壇（11.1 の altare dei と同じ「祭壇」） |
+| obsequium（『祈りについて』9.1、19.1） | 従順（9.1 の oblatio obsequii「従順のささげ物」、19.1 の devotum deo obsequium「神にささげた従順」） |
+| cetus（『祈りについて』17.4） | 大魚（口語訳ヨナ一・一七 の「大いなる魚」に寄せる。続く tantae bestiae は「これほど大きな獣」） |
+| disciplina（『祈りについて』11〜19 章） | 教え（11.3 の disciplina nostra、16.2 の ad instar disciplinae「教えの手本として」、18.4 の disciplinae foris「外では教えに」）。兵士の見張りのたとえの中の 19.3 の administrabit disciplinam は「規律を守る」 |
 
 ## 文型の訳し方
 
@@ -199,3 +214,5 @@
 | Olympia／Capitolina／Nemea／Isthmia／Hercules | オリュンピアの競技／カピトリウムの競技／ネメアの競技／イストミアの競技／ヘルクレス（11.2） |
 | Elias／Saturnus／Isis／Liber | エリヤ（口語訳。底本の綴りは Elian）／サトゥルヌス／イシス／リベル（23.2〜23.3。『護教論』の表） |
 | David／Israëlitae／Aegyptus／Aethiopia | ダビデ／イスラエルの人々／エジプト／エチオピヤ（『見世物について』3.3、3.8〜3.9。口語訳の表記） |
+| Ioseph／Israël／Esaias／Paulus／Carpus／Ionas／publicanus・pharisaeus | ヨセフ／イスラエル／イザヤ／パウロ／カルポ／ヨナ／取税人・パリサイ人（『祈りについて』11〜17 章。口語訳の表記）。14.1 の aliquis Esaias は注 a のとおり強めの言い方で「イザヤのような者」 |
+| Hermas・Pastor／Pythius（oraculum） | ヘルマス・『牧者』（『祈りについて』16.1。このリポジトリの『ヘルマスの牧者』の表記。Hermas ille は注 c のとおりさげすみを込めた言い方で「あのヘルマス」）／ピュトの神託（17.3。『護教論』22.11 の「ピュトの神」に揃える） |

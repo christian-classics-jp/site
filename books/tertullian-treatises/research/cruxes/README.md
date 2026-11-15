@@ -48,7 +48,7 @@ CSEL 20 の略号（OCR l. 477–500 の INDEX SIGLORUM）は Oehler と文字�
 - a：Iac. Pamelius の版（1579 年）。b：Nic. Rigaltius の版（1634 年）。c：Lud. Ant. Muratorius の版（1713 年）。
 - 校注に名で出る推定・注釈者：Fulv. Ursinus、Franc. Junius、Latinius、Jos. Scaliger、Leopoldus、Semlerus、「vir doctus in Miscell. Observ.」（Miscellaneae Observationes 第 3 巻第 1 冊 p. 220 の匿名の学者）など。注解には Rigaltius、La Cerda、Fr. Junius、Muratorius、Heraldus、Albaspinaeus の注が引かれる。
 
-CSEL 20 の『祈りについて』の略号（目次では ABD）：A は同じ Agobardinus、B は Gangneius の版（Oehler の C）、D は Ambrosianus（Oehler の B、9 章から）。Gelenius の版は Gel（OCR は「Gei」）、Pamelius は Pam、Junius の版（1597 年）は Iun、Rigaltius は Rig、Ursinus は Urs、Latinius は Lat、Scaliger は Scal。「x」は上の匿名の学者（Miscell. Observ.）。論点一覧では、CSEL の読みを挙げるときは略号ではなく名前で書く（CSEL の B＝Gangneius、Oehler の B＝Ambrosianus）。
+CSEL 20 の『祈りについて』の略号（目次では ABD）：A は同じ Agobardinus、B は Gangneius の版（Oehler の C）、D は Ambrosianus（Oehler の B、9 章から）。Gelenius の版は Gel（OCR は「Gei」）、Pamelius は Pam、Junius の版（1597 年）は Iun、Rigaltius は Rig、Ursinus は Urs、Latinius は Lat、Scaliger は Scal。「x」は上の匿名の学者（Miscell. Observ.）。論点一覧では、CSEL の読みを挙げるときは略号ではなく名前で書く（CSEL の B＝Gangneius、Oehler の B＝Ambrosianus）。CSEL の OCR の校注は D を B と読むところがあるので、CSEL の校注が挙げる写本は、Oehler の校注と同じ分かれ方のときだけ挙げる。CSEL の校注には、略号の表にない推定者として Hartelius（序の結びに Wissowa と並んで名の出る W. Hartel、OCR l. 470）と H. Kellnerus も名で出る（11-de-oratione-11-19 の 14.2、18.1、18.3）。
 
 ## そのほかの資料
 
