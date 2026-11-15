@@ -41,5 +41,7 @@ CSEL 20 の略号（OCR l. 477–500 の INDEX SIGLORUM）は Oehler と文字�
 
 - CSEL 20（Reifferscheid & Wissowa 1890）：『見世物について』『祈りについて』『洗礼について』を収め、『殉教者たちへ』は収めない（本の `AGENTS.md`）。略号は上の『見世物について』の節。OCR は本文に印や崩れが多いので、CSEL の読みは校注で裏づけられるものだけを確かなものとして挙げる。
 - 七十人訳：H. B. Swete, The Old Testament in Greek II（`cache/archive.org/oldtestamentingr02swetuoft/oldtestamentingr02swetuoft_djvu.txt`）。
+- 新約のギリシア語：Robinson & Pierpont の Byzantine Textform（`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/<書>.csv`。行は「章,節,本文」で、`{NA … > … }` は NA との違い）。
+- ウェルギリウス：Greenough 版（1881）の Perseus の TEI XML（`cache/raw.githubusercontent.com/PerseusDL/canonical-latinLit/master/data/phi0690/…`）。『農耕詩』は phi002。
 - 口語訳：`node tools/bible.js` で引いた 1955 年版の本文。
 - ANF：Ante-Nicene Fathers 第 3 巻の Thelwall の英訳（`cache/ccel.org/anf03.txt`）。レビューの読み比べに使う。英訳の文言はこの一覧に使わない。
