@@ -73,6 +73,9 @@
 | denotare | 文脈で訳し分ける。数や名を言い立てられるときは「非難される」（1:8）、人の過ちを指摘するときは「とがめる」（1:9、3:4）、名を挙げて責められるときは「名指しされる」（1:14）。「言いとがめる」は使わない |
 | interdum | 「さしあたり」（テルトゥリアヌスの interim の意味。1:3） |
 | crimen／scelus／noxa／nocens／reus | 罪／悪事（『オクタウィウス』と同じ）／罪／罪人／罪人（訴えられた者は「訴えられる」と動詞で） |
+| facinus | 悪事（8:1、9:2。scelus と同じ訳。『オクタウィウス』の「罪」にしない。この本は crimen を「罪」とするため） |
+| homicidium／parricidium／infanticidium | 人殺し／身内殺し（『オクタウィウス』30:2 と同じ）／赤子殺し（9:4〜9:6） |
+| error（9.18〜9.21） | 取り違え（身内と知らずに交わること）。9.14 の error vester は「あなたがたの思い違い」 |
 | homicida／sacrilegus／incestus／publicus hostis／reus maiestatis | 人殺し／神聖を汚す者／近親姦の者（『オクタウィウス』と同じ）／国家の敵／大逆の罪人（2:3、2:8） |
 | elogium | 罪状（2:3） |
 | tormenta／quaestio | 拷問／（拷問による）取り調べ（2:9〜2:16。『オクタウィウス』28:3 の法廷の場面と同じ。地獄の苦しみなど法廷の外の tormenta は『オクタウィウス』の「責め苦」） |
@@ -132,4 +135,8 @@
 | Piso／Gabinius／Capitolium | ピソ／ガビニウス／カピトリウム（6.9） |
 | Cyclopes／Sirenes | キュクロプス／セイレン（7.4。キュクロプスは『オクタウィウス』と同じ） |
 | Samothracia／Eleusinia | サモトラケ／エレウシス（7.6） |
+| Saturnus／Mercurius／Bellona／Iupiter quidam | サトゥルヌス／メルクリウス／ベッロナ（『オクタウィウス』30:3〜30:5 と同じ）／あるユピテル（9.4。名を出さないので「ラティアリス」を補わない） |
+| Tiberius（9.1） | ティベリウス（「ティベリウスが地方総督であったとき」。皇帝とは補わない） |
+| Galli／Tauri（fabulae Tauricae）／Aeneadae | ガリア人／タウリ人の作り話／アエネアスの子孫たち（9.4。『オクタウィウス』30:4 と同じ） |
+| Herodotus／Catilina／Scythae／Ctesias／Persae／Macedones／Oedipus | ヘロドトス／カティリナ／スキタイ人／クテシアス／ペルシャ人／マケドニア人／オイディプス（悲劇『オイディプス』）（9.9〜9.17） |
 | Cynopaene／Sciapodes | 犬の頭の人々／足で日陰を作る人々（8.5。音を写さず意味で訳す。6.9 の cynocephalus「犬の頭の神」と分ける） |
