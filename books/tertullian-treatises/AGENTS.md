@@ -33,7 +33,9 @@
   - 言い分の「」の中で、相手がキリスト者一人に語りかける二人称単数（1.2 の tua）は「あなた」。相手の口から神を言うところは尊敬語にしない（2.2 の「神自身が造ったもの」）。言い分の中に書き手が挟む一人称の言葉（2.1 の sicut praedicamus）は、「」を閉じて地の文で「これは、わたしたちも説くとおりです」と受け、次の句で「」を開き直す。
   - 間接話法で紹介するだけの考え（1.3 の Sunt qui existiment …）は「」に入れず、「〜と考える人々もいます」「〜というのです」と地の文で受ける。
   - 3 章の詩篇一・一 は、口語訳を下敷きにし、原文が七十人訳の形で、続く論が concilium を人の集まりとして扱うので、次の句にする：『悪しき者の集まりに行かず、罪びとの道に立たず、疫病のような者の座にすわらなかった人は、さいわいである』。論の中で詩篇の語を引くところ（3.5、3.9 の concilium impiorum）は『悪しき者の集まり』と『』に入れる。見世物の場の名として言う「道」「座」（3.6〜3.7）は「」。詩篇を裏返した書き手の言い方（3.7 の contrario infelix …）は聖句でないので『』に入れない。十戒の言い換え（3.2）は、口語訳の「〜してはならない」の形で、原文の語のまま『』に入れ、書き手が仮に作った禁令（Non ibis in circum …）も『』に入れる（書かれた文字の扱い）。
-  - 本文が名を出さずに ille で指す人は、『護教論』の「強めの ipse・ille」の決まりに従い、本文だけでは読者がだれか分からないときに限って、Oehler の注に従って名を補う（3.4 の iustum illum は、詩篇をだれに当てはめたかが本文から分からないので「あの正しい人、アリマタヤのヨセフ」）。本文がその人の行いを物語っていて、名がなくても話が通るところ（『殉教者たちへ』4.7 のアテナイの遊女、『護教論』50.6）は補わない。
+  - 書き手がキリスト者一人に呼びかけるところ（8.6〜8.7 の Christiane、tibi、inquis）は「キリスト者よ」「あなた」。そのキリスト者の問いは「」に入れて常体にし、「と、あなたは尋ねます」と受ける（言い分の型の「人は」を「あなたは」にする）。
+  - 6.1 と 7.1 の utriusque generis ludi は「両方の種類の遊戯」とし、中身を補わない（Oehler の注 b は戦車競走と劇場とするが、6.3 は聖なる遊戯と葬いの遊戯に分ける）。
+  - 本文が名を出さずに ille で指す人は、『護教論』の「強めの ipse・ille」の決まりに従い、本文だけでは読者がだれか分からないときに限って、Oehler の注に従って名を補う（3.4 の iustum illum は、詩篇をだれに当てはめたかが本文から分からないので「あの正しい人、アリマタヤのヨセフ」）。名を出さない町（7.3 の illius urbis, in qua daemoniorum conventus consedit。注 f のとおりローマ）も同じ扱いで、属州と対比していて分かるので補わない。本文がその人の行いを物語っていて、名がなくても話が通るところ（『殉教者たちへ』4.7 のアテナイの遊女、『護教論』50.6）は補わない。
 - 『祈りについて』『洗礼について』：教会の中の読み手に向けた教え。主語が書き手と読み手を含むときは「わたしたち」。『洗礼について』の論敵（1 章で言うカイン派の異端の者）とその仲間への言い返しも、『護教論』の言い分の型に従う。
 - 人の語りかけの調子は、最初に出たページで決めてここに書く。
 - 『殉教者たちへ』4.2 の女たちへの呼びかけ benedictae は「祝福された女たちよ」（1.1 などの benedicti「祝福された人々よ」と分ける）。霊に向けた三人称の接続法の勧め（4.2 の Colloquatur spiritus、contraponat）は「霊に…させなさい」。
@@ -85,16 +87,31 @@
 | instituere・institutor／convertere・interpolator・aemulus（『見世物について』2 章） | 造る・造り主／ねじ曲げる・ゆがめる者・敵対する者（2.7〜2.8、2.14。aemula vis は「敵対する力」で『護教論』の aemulus に揃える。一人の悪魔を指す同格の並び interpolatoris et aemulatoris angeli は「ゆがめる者、敵対する者である天使」とし、二人に読めないようにする）。corruptela／integritas は「損なわれたもの／損なわれていないもの」、de integritate は「損なわれていない状態から」 |
 | abdicatio（voluptatium、spectaculorum）／abstinentia | 断つこと／控えること（『見世物について』1.3、3.1） |
 | circus／theatrum／agon／munus（『見世物について』3.2） | 戦車競走場／劇場（『護教論』と同じ）／競技／剣闘士の試合（spectaculum の「見世物」と分ける） |
-| concilium／consessus（『見世物について』3 章） | 集まり（詩篇一・一 の句と揃える。3.4、3.5 の conventus も「集まり」）／会合（3.4）。3.7 の ad consessum は「座るために」 |
+| concilium／consessus（『見世物について』3 章） | 集まり（詩篇一・一 の句と揃える。3.4、3.5、7.3 の conventus、8.5 の daemonum concilium も「集まり」）／会合（3.4）。3.7 の ad consessum は「座るために」。8.8 の conciliabula spectaculorum は「見世物の集会所」 |
 | angelus（『見世物について』2.9、2.14） | 天使（『護教論』どおり）。2.9 の angeli は Oehler の注 h のとおりダイモンを指すが、語を足さず `// ` メモに書く |
 | voluptas／gaudium／fructus（saeculi）／vitae gratia | 快楽／喜び／楽しみ（注 b のとおり享受の意味）／生きる甲斐（『見世物について』2.4〜2.5）。periculum voluptatis, quam vitae（2.4）は「命を失う危険より、快楽を失う危険」と、何が危うくなるかを言う |
 | ferrum／herbae（『見世物について』2.9） | 鉄（材料として言うところ。手段を言う ferro は「鉄の刃」）／草（毒の材料） |
 | virtus／vires | 力（3.3 の virtutum animi et corporis「精神と体の力」、3.4、3.6） |
+| idololatria | 偶像礼拝 |
+| pompa | 行列（『オクタウィウス』と同じ）。洗礼で捨てる「悪魔と、その行列と、その天使たち」（4.1〜4.3）と、戦車競走の行列（7.2〜7.4）を同じ語にして、論のつながりを残す。7.2 の pompatior は「行列らしく華やか」 |
+| renuntiare・renuntiatio／eieratio／lavacrum／signaculum | 捨てる・放棄／捨てる誓い（4.5）／洗い（4.3。テトス三・五 の口語訳「再生の洗い」の語）／印（4.1）。洗い・印が洗礼を指すことは補わない |
+| ludi／ludus・lusus／ludii／circenses | 遊戯（agon の「競技」と分ける。5.3 の語源の言葉遊びを残すため）／遊び・戯れ／遊ぶ者たち（5.3。Oehler の推定）／戦車競走（の遊戯） |
+| origo／titulus・nomen／apparatus・paratura／locus／ars（『見世物について』4.4 で挙げ、5〜9 章で論じる項目） | 起源／名（6.4 の sub quo nomine et titulo は「どんな名で、どんな呼び名のもとに」）／装い・しつらえ（4.3）／場所／技。4.4 と 8.11 の dicentur・dicantur は dicare の形と取り「ささげられている」。quibus praesidibus は「どんな守り神に」 |
+| census（『見世物について』7.5、8.5） | 出どころ（『護教論』21.29 と同じ。注 h）。7.5 では locuples、splendida との掛け合いを「その罪の出どころによって、豊かで、きらびやか」で残す |
+| currus／tensa／armamaxa／sedes／exuviae／simulacra／imagines（7.2、7.5） | 車／神々の持ち物を運ぶ車／覆いのある車／玉座／神々の装身具／像／肖像。plaustrum は「荷車」 |
+| metae（primae、Murciae）／euripus／ova／delphines／columnae（8 章） | 折り返しの柱（第一の、ムルキアの）／水路／卵の飾り／イルカの像／柱 |
+| reges（6.2 の solemnibus regum） | 皇帝たち（Oehler の注 c のとおり皇帝の祝い。`// ` メモに原文の語を書く） |
+| argumentari | 理屈をこねる（4.1）。8.2 の circi appellationem argumentantur は「呼び名も…から出たと理屈をつける」 |
+| praescriptio（8.8）／excidere a deo（8.10） | 定め（1.1 の praescriptum disciplinae「教えの定め」とつなげる）／神から離れ落ちる |
 | si forte | 先のことの仮定は「もしそういうことがあれば」（1.8）。呼び方をやわらげるところ（2.4 の in custodiarium, si forte）は「いわば」 |
 
 ## 文型の訳し方
 
 『護教論』の「文型の訳し方」に従う。この本で新たに決めた形は、ページを訳しレビューを適用するたびにここに書く。
+
+- 名の由来を語の音で説くところ（『見世物について』5.3 の ludi と Lydi・ludus・lusus、5.5 の Consus と consilium、8.2 の circus と Circe、8.4 の Sessia と sementatio など）は、『護教論』3.8 の「キリスト者（クリスティアヌス）」の型で、日本語の語のあとに（）で原語の音を片仮名で添える。音が名そのものに出ているところ（キルケ、セッシア）は、名のほうには添えない。
+- ローマ暦の日付は『護教論』の決まりどおり今の暦に直す（5.7 の nonis Iuliis「七月七日」、XII. Kalend. Septembres「八月二十一日」）。
+- 祭りの遊戯の名が神の名から作った形容詞のところ（6.2 の Apollinares、Cereales、Neptunales、Latiares、Florales）は、どの神にささげたかが論の要なので「アポロの遊戯」のように神の名で訳す。神の名がすぐに分からない Megalenses は「メガレンセスの遊戯」。
 
 ## 名前の表
 
@@ -106,4 +123,11 @@
 | Lucretia／Mucius／Heraclitus／Empedocles／Aetnaeus mons／Peregrinus | ルクレティア／ムキウス／ヘラクレイトス／エンペドクレス／アエトナ山／ペレグリヌス（4.3〜4.4。ムキウスからアエトナ山までは『護教論』の表のとおり。ペレグリヌスは『キリスト者のための嘆願』の「プロテウス」と同じ人とみられるが、原文の名で訳す） |
 | Dido／Asdrubalis uxor／Carthago・Carthaginienses／Scipio／Regulus | ディド／ハスドルバルの妻／カルタゴ・カルタゴ人／スキピオ／レグルス（4.4〜4.5。『護教論』50.6 は名を出さないが、ここは原文に Dido の名がある） |
 | Cleopatra／meretrix Atheniensis／tyrannus／Lacedaemonii・διαμαστίγωσις | クレオパトラ／アテナイの遊女（『護教論』50.8 の Attica meretrix「アッティカの遊女」とは原文の語が違う。名は補わない）／僭主／ラケダイモン人・ディアマスティゴーシス、すなわち鞭打ち（4.6〜4.8） |
+| Timaeus／Tyrrhenus／Lydi／Asia／Etruria／Varro／Luperci | ティマイオス／テュレノス／リュディア人／アジア／エトルリア／ウァロ（『護教論』の「キュニコス派ウァロ」とは別人だが、補わない）／ルペルキ（『護教論』の表）（『見世物について』5.2〜5.3） |
+| Liber pater・Liberalia／Consus・Consualia／Neptunus／Equiria／Mars／Romulus／Sabinae virgines | 父リベル・リベラリア祭／コンスス・コンスアリア祭／ネプトゥヌス／エクイリア祭／マルス／ロムルス／サビニの乙女たち（5.4〜5.6。リベル、コンスス、ロムルスは『護教論』『オクタウィウス』の表） |
+| Lares／flamen Quirinalis／Virgines | ラレス／クィリヌスの祭司／ウェスタの乙女たち（5.7。本文は Virgines だけだが、大文字でウェスタの乙女たちを指すので補い、`// ` メモに書く） |
+| Iuppiter Feretrius／Tarpeium／ludi Tarpeii・Capitolini／Piso／Numa Pompilius／Robigo／Tullus Hostilius／Ancus Martius／Suetonius Tranquillus | ユピテル・フェレトリウス／タルペイウスの丘／タルペイウスの遊戯・カピトリウムの遊戯／ピソ／ヌマ・ポンピリウス／ロビゴ（「穀物のさび病」の女神）／トゥッルス・ホスティリウス／アンクス・マルキウス／スエトニウス・トランクィッルス（5.8〜5.9） |
+| Sol／Circe（Circa）／Castores／Iuppiter | 太陽神ソル（8.1。2 度目からは「ソル」）／キルケ／カストルの兄弟／ユピテル（8.1〜8.3） |
+| Sessia／Messia／Tutulina／Magni, Potentes, Valentes／Samothraces | セッシア／メッシア／トゥトゥリナ／大いなる神々、力ある神々、強き神々／サモトラケの神々（8.4〜8.5） |
+| Hermateles／Mater Magna／Murcia／Capitolium／Serapeum／satanas | ヘルマテレス（底本の名。8.5）／大いなる母（キュベレの名は補わない）／ムルキア／カピトリウム／セラピスの神殿（『護教論』の表）／サタン（口語訳）（8.5〜8.10） |
 | David／Israëlitae／Aegyptus／Aethiopia | ダビデ／イスラエルの人々／エジプト／エチオピヤ（『見世物について』3.3、3.8〜3.9。口語訳の表記） |
