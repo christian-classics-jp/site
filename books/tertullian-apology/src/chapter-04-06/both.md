@@ -6,17 +6,17 @@
 4:2 わたしたちは、ひそかに犯していると言われていることの一つ一つに答えます。それは、彼ら自身が公然と犯しているのを、わたしたちが見ていることです。それによって、わたしたちは、罪深い者、愚かな者、罪に定めるべき者、あざけるべき者とみなされているのです。
 // 「罪に定めるべき者」の前の in quibus は、底本では in quibis と刷られている。刷りの誤りとみて quibus と読んだ。
 4.3 Sed quoniam, cum ad omnia occurrit veritas nostra, postremo legum obstruitur auctoritas adversus eam, ut aut nihil dicatur retractandum esse post leges aut ingratis necessitas obsequii praeferatur veritati, de legibus prius concurram vobiscum ut cum tutoribus legum.
-4:3 わたしたちの真理は、どんな非難にも立ち向かいます。すると最後には、法の権威が、真理に対して持ち出されます。法が定めた後では何も考え直すべきではない、と言われるのです。あるいは、心ならずも、従わなければならないことが真理より重んじられるのです。そこで、わたしはまず法について、法の守り手であるあなたがたと渡り合います。
+4:3 しかし、わたしたちの真理は、どんな非難にも立ち向かいます。すると最後には、法の権威が、真理に対して持ち出されます。法が定めた後では何も考え直すべきではない、と言われるのです。あるいは、心ならずも、従わなければならないことが真理より重んじられるのです。そこで、わたしはまず法について、法の守り手であるあなたがたと渡り合います。
 4.4 Iam primum cum dure definitis dicendo: Non licet esse vos! et hoc sine ullo retractatu humaniore praescribitis, vim profitemini et iniquam ex arce dominationem, si ideo negatis licere, quia vultis, non quia debuit non licere.
-4:4 まず、あなたがたは「おまえたちは存在してはならない」と言って、厳しく定めます。しかも、もっと人間らしく考え直すこともなく、それを命じます。そうあるべきだったからではなく、ただ望むから許さないと言うのなら、あなたがたは暴力を公言しているのです。城塞から押しつける、不当な支配を公言しているのです。
+4:4 まず、あなたがたは「おまえたちは存在してはならない」と言って、厳しく定めます。しかも、もっと人間らしく考え直すこともなく、それを命じます。許されないのが当然だったからではなく、ただそう望むから許さないと言うのなら、あなたがたは暴力を公言しているのです。城塞から押しつける、不当な支配を公言しているのです。
 4.5 Quodsi, quia non debet, ideo non vultis licere, sine dubio id non debet licere quod male fit, et utique hoc ipso praeiudicatur licere quod bene fit.
 4:5 しかし、許されるべきでないから許したくないのだ、というのなら、許されるべきでないのは、疑いなく、悪く行われることです。そして、まさにそのことによって、よく行われることは許される、と前もって判断されているのです。
 4.6 Si bonum invenero esse quod lex tua prohibuit, nonne ex illo praeiudicio prohibere me non potest quod, si malum esset, iure prohiberet? Si lex tua erravit, puto, ab homine concepta est; neque enim de caelo ruit.
-4:6 あなたの法が禁じたことが、よいことだと、わたしが見いだしたとしましょう。それなら、あなたの法は、あの前もっての判断によって、それをわたしに禁じることができないのではありませんか。悪いことであれば、正当に禁じることができたはずのことをです。あなたの法が誤ったのなら、思うに、人間が考え出したものだからです。天から落ちてきたものではないのですから。
+4:6 あなたの法が禁じたことが、よいことだと、わたしが見いだしたとしましょう。それなら、あなたの法は、あの前もっての判断によって、それをわたしに禁じることができないのではありませんか。悪いことであれば、正当に禁じるはずのことをです。あなたの法が誤ったのなら、思うに、人間が考え出したものだからです。天から落ちてきたものではないのですから。
 4.7 Miramini hominem aut errare potuisse in lege condenda aut resipuisse in reprobanda? Non enim et ipsius Lycurgi leges a Lacedaemoniis emendatae tantum auctori suo doloris incusserunt, ut in secessu inedia de semetipso iudicarit?
 4:7 人間が、法を作るときに誤ることもあり、法を退けるときに正気に返ることもあると、あなたがたは驚くのですか。実際、リュクルゴスの法でさえ、ラケダイモン人に改められると、作った本人にひどい苦しみを与えたではありませんか。そのため、彼は引きこもって食を断ち、自分で自分を裁いたのです。
 4.8 Nonne et vos cotidie experimentis inluminantibus tenebras antiquitatis totam illam veterem et squalentem silvam legum novis principalium rescriptorum et edictorum securibus truncatis et caeditis? Nonne vanissimas Papias leges, quae ante liberos suscipi cogunt quam Iuliae matrimonium contrahi, post tantae auctoritatis senectutem heri Severus, constantissimus principum, exclusit?
-4:8 あなたがた自身も、毎日、経験によって古い時代の暗がりを照らされています。そして、古く荒れ果てた法の森をまるごと、皇帝の勅答と布告という新しい斧で、刈り込み、切り倒しているではありませんか。パピウス法は、ユリウス法が結婚を結ばせるより先に、子をもうけることを強いる、まったく空しい法です。それほどの権威を帯びて古びていたこの法を、つい昨日、皇帝たちのうちで最も揺るぎないセウェルスが、退けたではありませんか。
+4:8 あなたがた自身も、毎日、経験の光で古い時代の暗がりを照らしています。そして、古く荒れ果てた法の森をまるごと、皇帝の勅答と布告という新しい斧で、刈り込み、切り倒しているではありませんか。パピウス法は、ユリウス法が結婚を結ばせるより先に、子をもうけることを強いる、まったく空しい法です。それほどの権威を帯びて古びていたこの法を、つい昨日、皇帝たちのうちで最も揺るぎないセウェルスが、退けたではありませんか。
 4.9 Sed et iudicatos in partes secari a creditoribus leges erant, consensu tamen publico crudelitas postea erasa est, in pudoris notam capitis poena conversa est. Bonorum adhibita proscriptio suffundere maluit hominis sanguinem quam effundere.
 4:9 また、判決を受けた者を、債権者たちが切り分けてよいとする法もありました。しかし、のちに人々の合意によって、その残酷さは削り取られ、死刑は恥の印に変えられました。財産の公売が用いられるようになり、それは、人の血を流すより、顔に血をのぼらせるほうを選んだのです。
 4.10 Quot adhuc vobis repurgandae latent leges, quas neque annorum numerus neque conditorum dignitas commendat, sed aequitas sola? et ideo cum iniquae recognoscuntur, merito damnantur, licet damnent.
@@ -24,18 +24,18 @@
 4.11 Quomodo iniquas dicimus? Immo, si nomen puniunt, etiam stultas: si vero facta, cur de solo nomine puniunt facta, quae in aliis de admisso, non de nomine probata defendunt?
 4:11 不公正と言うだけで済むでしょうか。いや、法が名を罰するのなら、愚かでもあります。行いを罰するのなら、なぜ名だけを根拠に行いを罰するのでしょうか。ほかの者については、名ではなく犯行によって証明したうえで罰する行いなのにです。
 4.12 Incestus sum, cur non requirunt? Infanticidia cur non extorquent? In deos, in Caesares aliquid committo, cur non audior qui habeo quo purger? Nulla lex vetat discuti quod prohibet admitti, quia neque iudex iuste ulciscitur, nisi cognoscat admissum esse quod non licet, neque civis fideliter legi obsequitur ignorans quale sit quod ulciscitur lex.
-4:12 わたしが近親姦の者だというのなら、なぜ調べないのでしょうか。赤子殺しの者なら、なぜ白状させないのでしょうか。わたしが神々に、カイザルたちに、何かの罪を犯しているというのなら、なぜ言い分を聞かないのでしょうか。わたしには、身の潔白を示す手立てがあるのです。どんな法も、犯すことを禁じている事柄を、詮議することまでは禁じていません。許されないことが犯されたと確かめなければ、裁き手は正しく罰することができないからです。また、法が罰するのがどんなことかを知らなければ、市民は法に忠実に従うことができないからです。
+4:12 わたしが近親姦の者だというのなら、なぜ調べないのでしょうか。赤子殺しについては、なぜ白状させないのでしょうか。わたしが神々に、カイザルたちに、何かの罪を犯しているというのなら、なぜ言い分を聞かないのでしょうか。わたしには、身の潔白を示す手立てがあるのです。どんな法も、犯すことを禁じている事柄を、詮議することまでは禁じていません。許されないことが犯されたと確かめなければ、裁き手は正しく罰することができないからです。また、法が罰するのがどんなことかを知らなければ、市民は法に忠実に従うことができないからです。
 4.13 Nulla lex sibi soli conscientiam iustitiae suae debet, sed eis a quibus obsequium expectat. Ceterum suspecta lex est quae probari se non vult, inproba autem, si non probata dominetur.
-4:13 どんな法も、自分が正しいという自覚を、自分一人に負っているのではありません。従うことを期待する人々に負っているのです。そもそも、吟味されることを望まない法は疑わしいものです。吟味で認められないまま支配するなら、それは邪な法です。
+4:13 どんな法も、自分が正しいことを、自分一人だけが知っていればよいのではありません。従うことを期待する人々にも、それを知らせなければならないのです。そもそも、吟味されることを望まない法は疑わしいものです。吟味で認められないまま支配するなら、それは邪な法です。
 
 5.1 Ut de origine aliquid retractemus eiusmodi legum, vetus erat decretum, ne qui deus ab imperatore consecraretur nisi a senatu probatus. Scit M. Aemilius de deo suo Alburno.
 5:1 このような法の起こりについて、少し振り返ってみましょう。古い定めがありました。どの神も、元老院に認められなければ、皇帝によって祀られてはならない、というものです。マルクス・アエミリウスが、自分の神アルブルヌスのことで、それを身をもって知っています。
 5.2 Facit et hoc ad causam nostram, quod apud vos de humano arbitratu divinitas pensitatur. Nisi homini deus placuerit, deus non erit; homo iam deo propitius esse debebit.
 5:2 このことも、わたしたちの側の言い分に役立ちます。あなたがたのもとでは、神であるかどうかが、人の思惑で量られているのです。神は、人に気に入られなければ、神とはならないでしょう。今では、人のほうが神に恵みを垂れなければならないのです。
 5.3 Tiberius ergo, cuius tempore nomen Christianum in saeculum introivit, adnuntiata sibi ex Syria Palaestina, quae illic veritatem ipsius divinitatis revelaverant, detulit ad senatum cum praerogativa suffragii sui.
-5:3 さて、ティベリウスの時代に、キリスト者という名が世に入ってきました。ティベリウスは、シリア・パレスチナから知らせを受けました。その知らせは、あの地で、神性そのものの真理が現れたことを明らかにしていました。彼はそれを元老院に持ち込み、自分が真っ先に賛成の票を投じました。
+5:3 さて、ティベリウスの時代に、キリスト者という名が世に入ってきました。ティベリウスは、シリア・パレスチナから知らせを受けました。その知らせは、あの地で、キリストご自身の神性の真理が現れたことを明らかにしていました。彼はそれを元老院に持ち込み、自分が真っ先に賛成の票を投じました。
 5.4 Senatus, quia non ipse probaverat, respuit, Caesar in sententia mansit, comminatus periculum accusatoribus Christianorum. Consulite commentarios vestros, illic reperietis primum Neronem in hanc sectam cum maxime Romae orientem Caesariano gladio ferocisse.
-5:4 元老院は、自分で認めたものではなかったので、退けました。カイザルは考えを変えず、キリスト者を訴える者たちを危険な目にあわせると脅しました。あなたがたの記録を調べてください。そこに見いだすでしょう。この一派がちょうどローマで起こりつつあったとき、最初にカイザルの剣を振るって荒れ狂ったのは、ネロだったことを。
+5:4 元老院は、自分で認めたものではなかったので、退けました。カイザルは考えを変えず、キリスト者を訴える者たちを危険な目にあわせると脅しました。あなたがたの記録を調べてください。そこに見いだすでしょう。ちょうどローマで起こりつつあったこの一派に向かって、最初にカイザルの剣を振るって荒れ狂ったのは、ネロだったことを。
 5.5 Sed tali dedicatore damnationis nostrae etiam gloriamur. Qui enim scit illum, intellegere potest non nisi grande aliquod bonum a Nerone damnatum. Temptaverat et Domitianus, portio Neronis de crudelitate, sed qua et homo, facile coeptum repressit, restitutis etiam quos relegaverat.
 5:5 しかし、わたしたちは、自分たちへの断罪をこのような者が始めたことを、むしろ誇りとします。ネロを知る人なら、ネロに罪に定められたのは、何か大きな善にほかならないと分かるからです。ドミティアヌスも、残酷さではネロの片割れで、同じことを試みました。しかし、彼にも人の心があったので、始めたことをたやすくやめ、追放した者たちを呼び戻しさえしました。
 5.6 Tales semper nobis insecutores, iniusti, impii, turpes, quos et ipsi damnare consuestis, a quibus damnatos restituere soliti estis. Ceterum de tot exinde principibus ad hodiernum divinum humanumque sapientibus edite aliquem debellatorem Christianorum!
@@ -71,6 +71,6 @@
 6.10 His vos restitutis summam maiestatem contulistis. Ubi religio, ubi veneratio maioribus debita a vobis? Habitu, victu, instructu, sensu, ipso denique sermone proavis renuntiastis. Laudatis semper antiquitatem, et nove de die vivitis.
 6:10 あなたがたは、これらの神々をもとに戻し、この上ない威光を与えました。あなたがたが先祖に負っている敬虔は、敬意は、どこにあるのでしょうか。身なりでも、食べ物でも、暮らしの調度でも、考え方でも、そして言葉そのものでも、あなたがたは曾祖父たちと縁を切りました。いつも古い時代をほめながら、日ごとに新しく暮らしています。
 6.11 Per quod ostenditur, dum a bonis maiorum institutis deceditis, ea vos retinere et custodire quae non debuistis, cum quae debuistis non custodistis. Ipsum adhuc quod videmini fidelissime tueri a patribus traditum, in quo principaliter reos transgressionis Christianos destinastis, studium dico deorum colendorum, de quo maxime erravit antiquitas, licet Serapidi iam Romano aras restruxeritis, licet Baccho iam Italico furias vestras immoletis, suo loco ostendam proinde despici et neglegi et destrui a vobis adversus maiorum auctoritatem.
-6:11 このことから分かります。あなたがたは、先祖のよい定めから離れていきながら、守るべきでないものを保ち、守り、守るべきものを守らなかったのです。父祖から伝えられたもので、あなたがたが今もこの上なく忠実に守っていると見えるものがあります。そのことでこそ、あなたがたはキリスト者を背いた罪人と決めつけました。神々を拝む熱心のことです。古い時代は、これについてこそ最も大きく誤りました。あなたがたは、すでにローマのものとなったセラピスのために、祭壇を建て直しました。すでにイタリアのものとなったバックスに、自分たちの狂乱をいけにえとしてささげています。それでも、しかるべき所で示しましょう。この熱心さえ、先祖の権威に逆らって、あなたがたに軽んじられ、なおざりにされ、壊されていることを。
+6:11 このことから分かります。あなたがたは、先祖のよい定めから離れていきながら、守るべきでないものを保ち、守っています。守るべきものは、守らなかったのにです。父祖から伝えられたもので、あなたがたが今もこの上なく忠実に守っていると見えるものがあります。そのことでこそ、あなたがたはキリスト者を背いた罪人と決めつけました。神々を拝む熱心のことです。古い時代は、これについてこそ最も大きく誤りました。あなたがたは、すでにローマのものとなったセラピスのために、祭壇を建て直しました。すでにイタリアのものとなったバックス（父リベル）に、自分たちの狂乱をいけにえとしてささげています。それでも、しかるべき所で示しましょう。この熱心さえ、先祖の権威に逆らって、あなたがたに軽んじられ、なおざりにされ、壊されていることを。
 6.12 Nunc enim ad illam occultorum facinorum infamiam respondebo, ut viam mihi ad manifestiora purgem.
 6:12 今は、隠れた悪事についてのあの悪評に答えるつもりだからです。もっと明らかなことへ進む道を、自分のために清めておくためです。

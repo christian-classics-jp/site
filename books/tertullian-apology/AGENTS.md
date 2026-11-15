@@ -12,7 +12,7 @@
 
 ## 底本の扱い
 
-- 本文は、IIIF で切り出した画像（`research/sources.md`）から起こし、OCR と、Oehler の本文を組み直した Mayor 1917 と語ごとに突き合わせる。Mayor の OCR はラテン語の本文と Souter の英訳が交互に並ぶので、訳出の前に Read で読まず、語の突き合わせはスクリプトで行う（u と v、j と i をそろえ、語の列の差分を取る）。ページごとに、page-context を作る前に、そのページの章を起こして `research/oehler-1853.txt` に足す。起こした章は scratchpad に 1 章 1 行（`<章> <本文>`）で書き、`node tools/split-units.js <その file> books/tertullian-apology/research/oehler-1853.txt` で節に切って足す。どの画像をどの範囲で読んだか、OCR や Mayor と違ったところは `research/sources.md` の IIIF の行に書き足す。
+- 本文は、IIIF で切り出した画像（`research/sources.md`）から起こし、OCR と、Oehler の本文を組み直した Mayor 1917 と語ごとに突き合わせる。Mayor の OCR はラテン語の本文と Souter の英訳が交互に並ぶので、訳出の前に Read で読まず、語の突き合わせはスクリプトで行う（u と v、j と i をそろえ、語の列の差分を取る）。Mayor の本文を起こしの下書きにするときも、行範囲を Read で開かない（4〜6 章のときに開いてしまい、Souter の英訳が目に入った）。ページごとに、page-context を作る前に、そのページの章を起こして `research/oehler-1853.txt` に足す。起こした章は scratchpad に 1 章 1 行（`<章> <本文>`）で書き、`node tools/split-units.js <その file> books/tertullian-apology/research/oehler-1853.txt` で節に切って足す。どの画像をどの範囲で読んだか、OCR や Mayor と違ったところは `research/sources.md` の IIIF の行に書き足す。
 - 章の始まりの画像の番号は `research/pages.json` の `images` にある（範囲の最後の画像は次の章の始まりのページ）。本文は各ページの上の数行だけで、下の校注（番号つき）と注解（二段組み）は起こさない。1 ページの本文が 2 行しかないページもあるので、ページの上から校注の始まりまでを切り出して読む。
 - 起こすのは本文だけ。ページの柱、欄外の章番号、本文の語に付いた上付きの校注番号（¹ ² …）と注解の記号（ᵃ ᵇ …、＊）は起こさない。行末で分けられた語はつなぐ。句読点の前の空きは詰める。
 - 綴り（底本は u と v を分け、vobis、civitatis と刷る。conperto、inprudentes、inmusicos などの綴りも）、大文字（底本は文の初めを大文字にする）、句読点は底本のとおり。引用符は刷られたとおりに起こす。
@@ -31,9 +31,9 @@
 - 一文を短く切る。ラテン語の長い文は、主文の動詞を先に見つけ、従属節を「〜ので」「〜とき」「〜ために」でつなぐ。切るときも主文とのつながりを残す。1.1 のように si … si … si … と条件を重ねて主文に至る文は、条件ごとに文を分けてよいが、最後の主文が条件を受けることが分かる形にする。
 - enim は落とさない。前の文の理由を言うときは「〜からです」、話を進めるときは「実際、」。
 - 修辞疑問は「〜でしょうか」「〜ではありませんか」で終え、「？」は使わない。
-- 事実に反する仮定（接続法の未完了過去）は現在の推量で訳す（2:14「もし否んだら、どうするだろうか」）。譲歩・対立の cum は「〜のに」「〜なのにです」「しかも」で論理を残し、前の文と切り離さない（2:1、2:4、2:9）。
+- 事実に反する仮定（接続法の未完了過去）は現在の推量で訳す（2:14「もし否んだら、どうするだろうか」、4:6「悪いことであれば、正当に禁じるはずのこと」）。「できたはず」のように過去や「できる」を足さない。譲歩・対立の cum は「〜のに」「〜なのにです」「しかも」で論理を残し、前の文と切り離さない（2:1、2:4、2:9）。
 - quanto magis …（ましてや）は、逆接の「しかし」でつながず、「それなら、…なおさら」「まして」で受ける（1:9）。
-- 底本の語を、異読と紛れる訳にしない。異読にだけある語を足さず（1:1 の obstruit defensioni に「道」を足さない）、語義も底本の語に寄せる（1:11 の performantur は「形づくられる」で、異読 reformantur の「作り変えられる」にしない）。
+- 底本の語を、異読と紛れる訳にしない。異読にだけある語を足さず（1:1 の obstruit defensioni に「道」を足さない）、語義も底本の語に寄せる（1:11 の performantur は「形づくられる」で、異読 reformantur の「作り変えられる」にしない）。底本が事柄の名詞なのに異読が人を表す語のときは「〜の者」と訳さない（4:12 の Infanticidia は「赤子殺しについては」で、異読 infanticida の「赤子殺しの者」にしない）。
 
 ## 訳語表
 
@@ -43,12 +43,19 @@
 |---|---|
 | nomen（Christianum） | キリスト者という名、名（1.4 の odium erga nomen Christianorum など。罪を問われる「名」） |
 | secta | 一派（『オクタウィウス』と同じ） |
-| religio／superstitio | 宗教／迷信（『オクタウィウス』と同じ） |
+| religio／superstitio | 宗教／迷信（『オクタウィウス』と同じ）。先祖や神々への敬いを言う religio（6.10 の Ubi religio, ubi veneratio）は「敬虔」（veneratio は「敬意」） |
 | sacrilegium | 神聖を汚す行い（『オクタウィウス』と同じ） |
 | daemon | ダイモン（『オクタウィウス』『キリスト者のための嘆願』と同じ） |
 | angelus | 天使 |
 | proconsul | 地方総督（『スキリウムの殉教者行伝』『ペルペトゥアとフェリキタスの殉教録』と同じ） |
-| imperator | 皇帝 |
+| imperator | 皇帝（5.1 の古い定めの ab imperatore も「皇帝」） |
+| princeps／principalis | 皇帝（4.8 の constantissimus principum「皇帝たちのうちで最も揺るぎない」、5.6）／皇帝の（4.8 の principalium rescriptorum et edictorum「皇帝の勅答と布告」） |
+| senatus／consul | 元老院／執政官（5.1、5.4、6.8〜6.9） |
+| maiores／patres、paterna／proavi | 先祖（6.1 の maiorum consulta「先祖の決めたこと」、6.5 の maiorum instituta「先祖の定め」）／父祖（6.1 の paternorum institutorum「父祖の定め」、6.8、6.11）／曾祖父たち（6.10） |
+| tutor（legum）／protector／ultor | 守り手（4.3 の「法の守り手」、6.1 の protectores）／保護者（5.7 の皇帝を言う protector）／背く者を罰する人（6.1） |
+| ulcisci／defendere（4.11） | 罰する（4.12。4.11 の defendunt も Oehler の注に従って「罰する」） |
+| probari（4.13） | 吟味される（「吟味されることを望まない法」「吟味で認められないまま」。3.11 の probare「証明する」と分ける） |
+| debellator | 討ち滅ぼそうとした者（5.6 のキリスト者に対して）／征服した人（5.9 の Iudaeorum debellator） |
 | Caesar | カイザル（『スキリウムの殉教者行伝』『ペルペトゥアとフェリキタスの殉教録』と同じ） |
 | genius（imperatoris） | 未定。『スキリウムの殉教者行伝』は「皇帝の守護霊」、『オクタウィウス』は本文が「つまりダイモン」と言い換えるので「ゲニウス」（29:5）。この本も 32 章で genios daemonas と言い換えるので、32 章のページで決め、それまでに出たところも揃える |
 | martyr／martyrium | 殉教者／殉教 |
@@ -104,3 +111,14 @@
 | Christianus／Chrestianus | キリスト者（クリスティアヌス）／クレスティアヌス（3.8。音の違いを示すところだけ音を写す） |
 | Platonici／Epicurei／Pythagorici／Stoici／Academici | プラトン派／エピクロス派／ピュタゴラス派／ストア派／アカデメイア派（3.10。『トリュフォンとの対話』と同じ） |
 | Erasistratus／Aristarchus／Apicius | エラシストラトス／アリスタルコス／アピキウス（3.10） |
+| Lycurgus／Lacedaemonii | リュクルゴス／ラケダイモン人（4.7、6.4。ラケダイモン人は『キリスト者のための嘆願』と同じ） |
+| leges Papiae／Iuliae | パピウス法／ユリウス法（4.8） |
+| Severus | セウェルス（4.8。在位中の皇帝） |
+| M. Aemilius／Alburnus | マルクス・アエミリウス／アルブルヌス（5.1） |
+| Tiberius／Nero／Domitianus | ティベリウス／ネロ／ドミティアヌス（5.3〜5.5） |
+| M. Aurelius／Hadrianus／Vespasianus／Pius／Verus | マルクス・アウレリウス／ハドリアヌス／ウェスパシアヌス／ピウス／ウェルス（5.7、5.9。ウェルスがどの皇帝かは補わない） |
+| Syria Palaestina／Germanica（sitis） | シリア・パレスチナ／ゲルマニアでの（渇き）（5.3、5.7） |
+| Metennius | メテンニウス（6.5） |
+| Liber Pater／Bacchus | 父リベル／バックス（6.8、6.11。6.11 は「バックス（父リベル）」とつなぐ） |
+| Serapis／Isis／Arpocrates／cynocephalus | セラピス／イシス／ハルポクラテス／犬の頭の神（6.9。『オクタウィウス』の表と同じで、アヌビスの名は補わない） |
+| Piso／Gabinius／Capitolium | ピソ／ガビニウス／カピトリウム（6.9） |
