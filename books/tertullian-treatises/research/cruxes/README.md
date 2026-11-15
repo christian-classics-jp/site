@@ -5,7 +5,7 @@
 略号と資料の所在は次のとおり。資料の URL と取得情報は [../sources.md](../sources.md) にある。「l.」は各資料の OCR テキスト（`_djvu.txt`）の行番号。Oehler の校注と注解は OCR が崩れ、本文・校注・注解を混ぜて並べるので、ページ画像で読み、OCR の行番号はおよその位置として添える。
 
 - 底本（Oehler）：F. Oehler 編、Tertulliani quae supersunt omnia I（1853）。『護教論』と同じ巻。各ページの上の数行が本文、その下に番号つきの校注（異読）、さらにその下に二段組みで文字記号（a、b、c …）つきの注解（Rhenanus、Junius、Rigaltius、La Cerda など先行の刊本の注の抜き書きと Oehler 自身の注）を置く。画像の番号は印刷ページ＋30（p. 3＝0033）。校注の番号と注解の記号は章ごとに 1・a に戻るので、各論点では「1 章の校注 14（p. 4）」「2 章の注 e（p. 7）」のように、章とページを添えて挙げる。画像は IIIF で切り出したもの（`cache/archive.org/quintiseptimiifl0001fanc/pages/`）と、archive.org の幅 1600 のページ画像（`cache/archive.org/quintiseptimiifl0001fanc/page/nN_w1600.jpg`。N＝IIIF の番号−1、n34＝p. 5）。ページ画像は `node tools/image.js crop` で上半分（本文と校注、`pct:0,0,100,50`）と下半分（注解、`pct:0,48,100,52`）に切って読んだ。
-- 校注の「ego」は Oehler 自身の推定、「m. pr.」は写本の最初の手、「m. sec.」は後の手、「om.」は欠くこと、「reliqui」はそこに挙げていない残りの写本・刊本。序文 p. XXIII（OCR l. 1039–1041）によると、読みの出どころが確かでないときは略号を丸括弧に入れる。
+- 校注の「ego」は Oehler 自身の推定、「m. pr.」は写本の最初の手、「m. sec.」は後の手、「om.」は欠くこと、「reliqui」はそこに挙げていない残りの写本・刊本。「inducit」はその語を削ること（4 章の校注 30 の Vocem serpentes inducit Fr. Iunius）。「libri omnes」は文字どおり「すべての本」（4 章の校注 13）。序文 p. XXIII（OCR l. 1039–1041）によると、読みの出どころが確かでないときは略号を丸括弧に入れる。
 
 ## 『殉教者たちへ』の略号
 
