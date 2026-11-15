@@ -7,7 +7,7 @@
 // 43.2 の preces sternant は、Oehler の注 b に従い、地にひれ伏す嘆願者の祈りを言う言い方と取る。
 
 44.1 At enim illud detrimentum reipublicae tam grande quam verum nemo circumspicit, illam iniuriam civitatis nullus expendit, cum tot iusti impendimur, cum tot innocentes erogamur. Vestros enim iam contestamur actus, qui cotidie iudicandis custodiis praesidetis, qui sententiis elogia dispungitis.
-44:1 しかし実際、国のあの損失は、大きくもあり、本当でもあるのに、だれも目を向けません。町のあの損を、だれも量りません。わたしたちが、これほど多くの正しい者として費やされ、これほど多くの潔白な者として使い果たされているのにです。実際、わたしたちは今、あなたがたの審理の記録を証人に呼びます。あなたがたは、毎日、裁かれるのを待つ、牢につながれた者たちの上に立ち、判決によって罪状の決着をつけています。
+44:1 しかし実際、国のあの損失は、大きくもあり、本当でもあるのに、だれも目を向けません。町のあの損を、だれも量りません。わたしたちが、これほど多くの正しい者として費やされ、これほど多くの潔白な者として使い果たされているのにです。実際、わたしたちは今、あなたがたの審理を証人に呼びます。あなたがたは、毎日、裁かれるのを待つ、牢につながれた者たちの上に立ち、判決によって罪状の決着をつけています。
 // 44.1 の impendimur、erogamur は、Oehler の注 a に従い、命を費やされる、つまり殺されることと取る。elogia dispungitis は、注 b（37 章の注 c に送る）に従い、判決で罪状を清算すること。
 44.2 Tot a vobis nocentes variis criminum elogiis recensentur: quis illic sicarius, quis manticularius, quis sacrilegus aut corruptor aut lavantium praedo, quis ex illis etiam Christianus adscribitur?
 44:2 あなたがたは、これほど多くの罪人を、さまざまな罪の罪状とともに数え上げています。そこには、刺客、すり、神聖を汚す者、人を堕落させる者、浴場の泥棒がいます。そのうちのだれが、キリスト者とも書き添えられているでしょうか。

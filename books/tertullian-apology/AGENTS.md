@@ -126,13 +126,13 @@
 | honorare（40.14）／honor | 誉れを受ける（Iupiter honoratur「誉れを受けるのはユピテルなのです」）／誉れ（39.5、46.7 の ob honorem patris eius「その父の誉れのため」、46.18。veneratio の「敬意」にしない） |
 | custodiae（9.16、44.1） | 牢につながれた者たち（44.1 の iudicandis custodiis「裁かれるのを待つ、牢につながれた者たち」） |
 | dispungere／dispector・speculator（神） | 判決で罪状の決着をつける（44.1 の sententiis elogia dispungitis。注 b が送る 37 章の注 c の「清算する」）・吟味される（45.7 の dispungimur。注 h）／見極め手（45.1。注 a）・すべてを見張っておられる方（45.7）。iudex「裁き手」、arbiter「審判者」と分ける |
-| actus（44.1） | 審理の記録（Vestros contestamur actus「あなたがたの審理の記録を証人に呼びます」） |
+| actus（44.1） | 審理（Vestros contestamur actus「あなたがたの審理を証人に呼びます」。続く qui … praesidetis が長官たちの働きを言うので、Mayor が 5 章を並べる「記録」は足さない） |
 | factitator（46.11） | 作り手（21:9〜21:10 の「万物の作り手」に揃える。哲学者の説の神なので「造り主」にしない） |
 | lenones／perductores／aquarioli／sicarii／venenarii／aruspices／arioli／mathematici（43.1） | 取り持ち屋／連れ込み屋／その下働きの水汲み（注 43 章 a）／刺客（44.2 も）／毒を盛る者／腸卜師（35:12 と同じ）／占い師／占星術師（35.12 の astrologos と同じ人々なので同じ訳） |
 | manticularius／lavantium praedo（44.2） | すり（注 c）／浴場の泥棒（注 d） |
 | fides／fidelis（43〜46 章） | 46.1 の fides divinarum litterarum は「神の書物が確かであること」、46.8 の ex fide は注 o に従い「本心から」、46.16 の fides・fidelis は預かり物を返す「誠実」「誠実な者」（「信者」との掛け言葉は `// ` メモに書く） |
 | adfectare／praestare（46.8〜46.9、46.15） | 装う（真理を持たずに得ようとする）・ねらう（46.15 の tyrannidem adfectant「僭主の座をねらう」）／示す（46.8 の ex fide praestat「本心から示す」、46.9 の integre praestant「損なわずに示す」） |
-| spiritales potestates（46.1） | 霊的な力（ダイモン）（注 b。23 章のダイモンの告白を指すので括弧で補う） |
+| spirituales potestates（46.1） | 霊的な力（ダイモン）（注 b。23 章のダイモンの告白を指すので括弧で補う） |
 | facinus | 悪事（8:1、9:2。scelus と同じ訳。『オクタウィウス』の「罪」にしない。この本は crimen を「罪」とするため） |
 | homicidium／parricidium／infanticidium | 人殺し／身内殺し（『オクタウィウス』30:2 と同じ）／赤子殺し（9:4〜9:6）。祖国の父（34.2 の pater patriae）である皇帝に背いた者を言う parricidae（35.11）は「反逆者たち」 |
 | error（9.18〜9.21） | 取り違え（身内と知らずに交わること）。9.14 の error vester は「あなたがたの思い違い」 |
