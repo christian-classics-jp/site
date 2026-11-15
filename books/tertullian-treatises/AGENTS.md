@@ -39,6 +39,8 @@
   - 原文の語が口語訳と違う聖句の言い換え（23.4 のマタイ六・二七 を ad staturam suam「背丈」と取るところ、23.6 の申命記二二・五 の maledictum「のろわれる」）は、論が原文の語に立つので原文の語のまま地の文で言い換え、出典を付け、`// ` メモに口語訳の文言との違いを書く。主の教えをなぞる言い方（23.4 と 25.4 のマタイ五・三九）と、引用でない暗示（23.2 の列王紀下二・一一）にも出典を付ける。
   - 名を出さない詩人の引用（9.3 のウェルギリウス）は、名を補わず「こうも歌われています」と受け、出典は `// ` メモに書く。
   - 本文が名を出さずに ille で指す人は、『護教論』の「強めの ipse・ille」の決まりに従い、本文だけでは読者がだれか分からないときに限って、Oehler の注に従って名を補う（3.4 の iustum illum は、詩篇をだれに当てはめたかが本文から分からないので「あの正しい人、アリマタヤのヨセフ」）。名を出さない町（7.3 の illius urbis, in qua daemoniorum conventus consedit。注 f のとおりローマ）も同じ扱いで、属州と対比していて分かるので補わない。本文がその人の行いを物語っていて、名がなくても話が通るところ（『殉教者たちへ』4.7 のアテナイの遊女、『護教論』50.6）は補わない。
+  - 異教の場に入り込んだ汚れた霊の言葉（26.1 の in meo eam inveni）は、『殉教者たちへ』1:6 の悪魔の言葉と同じく「」に入れ、一人称は「おれ」。
+  - 書き手が終わりの日に迫害者たちへ言う言い返し（30.6〜30.7 の Hic est ille, dicam …）は「」に入れて常体にし、ユダヤ人の罵りの言葉の中のキリストは尊敬語にしない（2.2 の型）。二人称複数（redemistis）は「おまえたち」。罵りの句には出典を付け（マタイ一三・五五、ヨハネ八・四八 など）、原文の語が口語訳と違うところ（felle et aceto「胆汁と酢」）は 23.4 の型で `// ` メモに書く。28.2 のヨハネ一六・二〇 のように、聖句の句を口語訳と違う順で引くところも、13.1 の型で地の文に言い換え、saeculum は「世」のままにする。
 - 『祈りについて』『洗礼について』：教会の中の読み手に向けた教え。主語が書き手と読み手を含むときは「わたしたち」。『洗礼について』の論敵（1 章で言うカイン派の異端の者）とその仲間への言い返しも、『護教論』の言い分の型に従う。
 - 人の語りかけの調子は、最初に出たページで決めてここに書く。
 - 『殉教者たちへ』4.2 の女たちへの呼びかけ benedictae は「祝福された女たちよ」（1.1 などの benedicti「祝福された人々よ」と分ける）。霊に向けた三人称の接続法の勧め（4.2 の Colloquatur spiritus、contraponat）は「霊に…させなさい」。
@@ -97,7 +99,7 @@
 | fluxus（10.8 の corporis fluxu、per fluxum） | なよなよした動き・なよなよしたさま（異読の flexus「くねり」に寄せない） |
 | quaestura／magistratus／flaminium／sacerdotium（12.5） | 財務官の職／政務官の職／フラメンの職／祭司職（7.3 と同じ。5.7 の flamen Quirinalis は神の名を添えて「クィリヌスの祭司」） |
 | purpura／fasces／vittae（12.6） | 紫の衣／権標（『オクタウィウス』37:10 と同じ）／髪帯。pultes pridianae は注 l のとおり「前日の祭りの粥」 |
-| praesides（人を言うとき） | 主宰者（11.2 の sacerdotales praesides「祭司である主宰者たち」）。神々を言うときは 4.4・12.8 の「守り神」 |
+| praesides（人を言うとき） | 主宰者（11.2 の sacerdotales praesides「祭司である主宰者たち」）。迫害した属州の長官（30.4 の praesides persecutores dominici nominis）は『護教論』の「長官」。神々を言うときは 4.4・12.8 の「守り神」 |
 | ferae（12.3 の ferarum voluptati） | 獣のような見物人（注 d の Rigaltius の解。直後の feris は本物の「獣」） |
 | concilium／consessus（『見世物について』3 章） | 集まり（詩篇一・一 の句と揃える。3.4、3.5、7.3 の conventus、8.5 の daemonum concilium も「集まり」）／会合（3.4）。3.7 の ad consessum は「座るために」。8.8 の conciliabula spectaculorum は「見世物の集会所」 |
 | angelus（『見世物について』2.9、2.14） | 天使（『護教論』どおり）。2.9 の angeli は Oehler の注 h のとおりダイモンを指すが、語を足さず `// ` メモに書く |
@@ -126,13 +128,18 @@
 | census（『見世物について』7.5、8.5） | 出どころ（『護教論』21.29 と同じ。注 h）。7.5 では locuples、splendida との掛け合いを「その罪の出どころによって、豊かで、きらびやか」で残す |
 | currus／tensa／armamaxa／sedes／exuviae／simulacra／imagines（7.2、7.5） | 車／神々の持ち物を運ぶ車／覆いのある車／玉座／神々の装身具／像／肖像。plaustrum は「荷車」 |
 | metae（primae、Murciae）／euripus／ova／delphines／columnae（8 章） | 折り返しの柱（第一の、ムルキアの）／水路／卵の飾り／イルカの像／柱 |
-| reges（6.2 の solemnibus regum） | 皇帝たち（Oehler の注 c のとおり皇帝の祝い。`// ` メモに原文の語を書く）。16.7 の principes も『護教論』の princeps どおり「皇帝たち」。軍の文脈の princeps（24.4 の signis et sacramentis principis sui「自分の主君の軍旗と、主君への誓い」）は「主君」 |
+| reges（6.2 の solemnibus regum、30.3 の天に迎えられたと告げられた reges） | 皇帝たち（Oehler の注 c のとおり皇帝の祝い。30.3 は神格化された皇帝たち。`// ` メモに原文の語を書く）。16.7 の principes も『護教論』の princeps どおり「皇帝たち」。軍の文脈の princeps（24.4 の signis et sacramentis principis sui「自分の主君の軍旗と、主君への誓い」）は「主君」 |
 | argumentari | 理屈をこねる（4.1）。8.2 の circi appellationem argumentantur は「呼び名も…から出たと理屈をつける」 |
 | praescriptio（8.8）／causa simplex（8.8）／excidere a deo（8.10） | 定め（1.1 の praescriptum disciplinae「教えの定め」とつなげる）／ほかに意図のない用件／神から離れ落ちる |
 | sacrificium・sacrificare・sacrificator | 供え物・供え物をささげる・供え物をささげる者（『護教論』と同じ。hostia の「いけにえ」と分ける） |
 | religio | 宗教（『護教論』と同じ）。崇拝の場を指すところ（8.7 の Aliena est tibi religio, quam tot diaboli spiritus occupaverunt。注 r のイシドルスは locus と写す）は「崇拝の場」 |
 | lex（4.1 の in legis suae verba） | 掟（信仰の定まった文句。モーセの律法と紛れる「律法」にしない） |
 | ut volunt（5.5、8.2） | 「〜とされる」と残し、落とさない。原文にない伝聞（「というのですから」）は足さない |
+| daemonium（『見世物について』26〜30 章）／exorcismus／immundus spiritus | ダイモン（26.1 の daemoniis、cum daemonio、29.3 の daemonia expellis「ダイモンを追い出す」、30.6 の daemonium habens「ダイモンに取りつかれた者」。福音書の言い方に寄せて「悪霊」にしない）／霊を追い出すとき（26.1 の in exorcismo）／汚れた霊（口語訳） |
+| arena／pulvis／scenae（28.4） | 闘技場の砂／砂ぼこり／舞台 |
+| strophae（29.4） | 仕掛け（『護教論』15 章の「からかいの仕掛け」。注 c）。fabulae は「作り話」、simplicitates は「素朴さ」 |
+| cavea（30.8 の utraque cavea） | 両方の観客席（闘技場と劇場）（注 o。12.8 の型で補う。『護教論』の cavea「闘技場の観客席」） |
+| societates ecclesiarum／spatia／palmae（29.3 の競走場のたとえ） | 諸教会の交わり／周回／しゅろの枝。spatium hoc（29.1）は「この一生」 |
 | si forte | 先のことの仮定は「もしそういうことがあれば」（1.8）。呼び方をやわらげるところ（2.4 の in custodiarium, si forte）は「いわば」 |
 
 ## 文型の訳し方
