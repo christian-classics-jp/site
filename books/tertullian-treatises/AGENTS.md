@@ -36,6 +36,7 @@
   - 書き手がキリスト者一人に呼びかけるところ（8.6〜8.7 の Christiane、tibi、inquis、18 章の contendas、tuo、tibi、oderis）は「キリスト者よ」「あなた」。そのキリスト者の問いは「」に入れて常体にし、「と、あなたは尋ねます」と受ける（言い分の型の「人は」を「あなたは」にする）。
   - 6.1 と 7.1 の utriusque generis ludi は「両方の種類の遊戯」とし、中身を補わない（Oehler の注 b は戦車競走と劇場とするが、6.3 は聖なる遊戯と葬いの遊戯に分ける）。12.8 の utriusque ludi は闘技場の剣闘と獣狩り（注 p）で、6.1 と別のものなので「両方の遊戯（剣闘と獣狩り）」と補う。
   - 使徒の言葉として新約を言い換えて引き、文言が口語訳から離れるところ（13.1 の Non quod idolum sit aliquid, apostolus ait, sed quod quae faciunt daemoniis faciunt、13.2 の第一コリント一〇・二一。主の言葉や使徒の勧めを地の文に溶かしたところ、15.2 のエペソ四・三〇〜三一、16.7 のマタイ五・四四 とルカ六・二八、17.4〜17.6 のエペソ五・四、マタイ一二・三六、一五・一一、第一コリント三・一九 も同じ）は、底本がコロンと大文字で刷っていても『』に入れず、口語訳を参考にして地の文で言い換え、出典を付ける。口語訳の「悪霊」に当たる daemonia は、続く論（consistentibus … in consecrationibus）とつながるよう訳語表の「ダイモン」で訳す。これは『』に入れると口語訳の文言と読まれるためで、3.2 の十戒の言い換えのように、口語訳の「〜してはならない」の形をそのまま保てる短い句は、3.2 の決まりどおり『』に入れる。
+  - 原文の語が口語訳と違う聖句の言い換え（23.4 のマタイ六・二七 を ad staturam suam「背丈」と取るところ、23.6 の申命記二二・五 の maledictum「のろわれる」）は、論が原文の語に立つので原文の語のまま地の文で言い換え、出典を付け、`// ` メモに口語訳の文言との違いを書く。主の教えをなぞる言い方（23.4 と 25.4 のマタイ五・三九）と、引用でない暗示（23.2 の列王紀下二・一一）にも出典を付ける。
   - 名を出さない詩人の引用（9.3 のウェルギリウス）は、名を補わず「こうも歌われています」と受け、出典は `// ` メモに書く。
   - 本文が名を出さずに ille で指す人は、『護教論』の「強めの ipse・ille」の決まりに従い、本文だけでは読者がだれか分からないときに限って、Oehler の注に従って名を補う（3.4 の iustum illum は、詩篇をだれに当てはめたかが本文から分からないので「あの正しい人、アリマタヤのヨセフ」）。名を出さない町（7.3 の illius urbis, in qua daemoniorum conventus consedit。注 f のとおりローマ）も同じ扱いで、属州と対比していて分かるので補わない。本文がその人の行いを物語っていて、名がなくても話が通るところ（『殉教者たちへ』4.7 のアテナイの遊女、『護教論』50.6）は補わない。
 - 『祈りについて』『洗礼について』：教会の中の読み手に向けた教え。主語が書き手と読み手を含むときは「わたしたち」。『洗礼について』の論敵（1 章で言うカイン派の異端の者）とその仲間への言い返しも、『護教論』の言い分の型に従う。
@@ -106,7 +107,7 @@
 | idololatria | 偶像礼拝 |
 | impudicitia | 恥知らずなこと（『護教論』38.3 の「劇場の恥知らず」に揃える。17 章） |
 | furor／furiae／animi／bilis／ira／dolor | 熱狂／狂乱／激情／いら立ち／怒り／悲しみ（15.2、15.4、16.1、16.4。『護教論』38.3 の insania circi「戦車競走場の狂乱」とは原語が違う） |
-| studium／aemulatio（観客の） | 肩入れ／張り合い（15.3〜15.4。affectatio の「熱中」、『護教論』の aemulatio「敵意」「ねたみ」と分ける） |
+| studium／aemulatio（観客の） | 肩入れ／張り合い（15.3〜15.4。affectatio の「熱中」、『護教論』の aemulatio「敵意」「ねたみ」と分ける）。25.2 の dissensio は「対立」で、「張り合い」と重ねない |
 | affectus／casus／passio（15.4〜15.5） | 心の動き／出来事／揺らぎ。vanitas は「むなしさ」（15.5〜15.6、16.2） |
 | saeculum／saecularia（15.7） | 世／世の事柄（「この世」にせず、対を残す） |
 | caecus／caecitas | 目が見えない・目が見えないこと（16.1 と 16.3 を揃える） |
@@ -114,15 +115,17 @@
 | Atellanus／mimus／pantomimus | アテラナ劇の役者／笑劇の役者（『護教論』の mimi）／無言劇の役者（17.2） |
 | sancti（16.8） | 聖徒（口語訳） |
 | hostiae（17.3、19.4） | いけにえ（訳語表の hostia。publicae libidinis hostiae、publicae voluptatis hostiae） |
+| reus／iudex（20.4） | 罪ある者／裁き手（2.14 と同じ。19 章の nocens「罪ある者」と揃える。「被告」にしない） |
+| pudicitia／modestia／libido／leno | 貞潔／慎み／情欲／取り持ち屋（『護教論』の訳語表どおり。25.1、25.2、23.2） |
 | quaestio（19.3） | 拷問による取り調べ（『護教論』と同じ） |
 | pompa | 行列（『オクタウィウス』と同じ）。洗礼で捨てる「悪魔と、その行列と、その天使たち」（4.1〜4.3）と、戦車競走の行列（7.2〜7.4）を同じ語にして、論のつながりを残す。7.2 の pompatior は「行列らしく華やか」 |
-| renuntiare・renuntiatio／eieratio／lavacrum／signaculum | 捨てる・放棄／捨てる誓い（4.5）／洗い（4.3。テトス三・五 の口語訳「再生の洗い」の語）／印（4.1）。洗い・印が洗礼を指すことは補わない |
+| renuntiare・renuntiatio／eieratio／lavacrum／signaculum | 捨てる・放棄／捨てる誓い（4.5）／洗い（4.3。テトス三・五 の口語訳「再生の洗い」の語）／印（4.1）。洗い・印が洗礼を指すことは補わない。25.6 の in Sanctum（注 d のとおり聖餐）も「聖なるもの」とだけ訳して補わない。eierare は「捨てると誓う」（24.1〜24.2）。24.2 の nonne eieramus et rescindimus signaculum は誓いを裏返して言うので「印そのものを捨て去り、破る」。24.3 の renuntient は「告げる」の意味なので「捨てる」と訳し分ける |
 | ludi／ludus・lusus／ludii／circenses | 遊戯（agon の「競技」と分ける。5.3 の語源の言葉遊びを残すため）／遊び・戯れ／遊ぶ者たち（5.3。Oehler の推定）／戦車競走（の遊戯）。剣闘士の ludus（19.4〜19.5 の in ludum veneunt、damnantur in ludum）は「剣闘士の養成所」「養成所」 |
 | origo／titulus・nomen／apparatus・paratura／locus／ars（『見世物について』4.4 で挙げ、5〜9 章で論じる項目） | 起源／名（6.4 の sub quo nomine et titulo は「どんな名で、どんな呼び名のもとに」）／装い・しつらえ（4.3）／場所／技。4.4 と 8.11 の dicentur・dicantur は dicare の形と取り「ささげられている」。quibus praesidibus は「どんな守り神に」。15.2 の principalis titulus idololatriae は論の項目を言うので「偶像礼拝という主な項目」 |
 | census（『見世物について』7.5、8.5） | 出どころ（『護教論』21.29 と同じ。注 h）。7.5 では locuples、splendida との掛け合いを「その罪の出どころによって、豊かで、きらびやか」で残す |
 | currus／tensa／armamaxa／sedes／exuviae／simulacra／imagines（7.2、7.5） | 車／神々の持ち物を運ぶ車／覆いのある車／玉座／神々の装身具／像／肖像。plaustrum は「荷車」 |
 | metae（primae、Murciae）／euripus／ova／delphines／columnae（8 章） | 折り返しの柱（第一の、ムルキアの）／水路／卵の飾り／イルカの像／柱 |
-| reges（6.2 の solemnibus regum） | 皇帝たち（Oehler の注 c のとおり皇帝の祝い。`// ` メモに原文の語を書く）。16.7 の principes も『護教論』の princeps どおり「皇帝たち」 |
+| reges（6.2 の solemnibus regum） | 皇帝たち（Oehler の注 c のとおり皇帝の祝い。`// ` メモに原文の語を書く）。16.7 の principes も『護教論』の princeps どおり「皇帝たち」。軍の文脈の princeps（24.4 の signis et sacramentis principis sui「自分の主君の軍旗と、主君への誓い」）は「主君」 |
 | argumentari | 理屈をこねる（4.1）。8.2 の circi appellationem argumentantur は「呼び名も…から出たと理屈をつける」 |
 | praescriptio（8.8）／causa simplex（8.8）／excidere a deo（8.10） | 定め（1.1 の praescriptum disciplinae「教えの定め」とつなげる）／ほかに意図のない用件／神から離れ落ちる |
 | sacrificium・sacrificare・sacrificator | 供え物・供え物をささげる・供え物をささげる者（『護教論』と同じ。hostia の「いけにえ」と分ける） |
@@ -141,6 +144,8 @@
 - 同じ名の神々をまとめてあざける複数形（10.8 の Apollines、Minervas、Mercurios、11.3 の Herculum、Mercuriorum）は「アポロたち」のように「たち」で残す。もとから二人の Castores は名前の表どおり「カストルの兄弟」。
 - 散文の節の中で詩を引くところ（9.3 のウェルギリウス 2 行）は、行を分けず『』に入れて文に続ける（節の行が切れるので `<br/>` を使わない。『オクタウィウス』19:2 のウェルギリウスの引用と同じ扱い。『護教論』と『オクタウィウス』の both.md には `<br/>` の先例がない）。
 - 書き手が自分を含めて言う一人称複数の勧め（14.1 の tractemus、19.1 の eamus、delectemur）は「〜しましょう」。「〜するがよいでしょう」にしない。三人称の接続法の命令（17.4 の Erubescat senatus）は「〜がよい」。
+- 書き手が皮肉で、ありえないことを神の働きとして言うところ（23.7 の a deo, cum plasmaretur accepit、illi oculos deus commendavit）は「とでもいうのでしょう」「というのでしょう」と受け、書き手の主張と読まれないようにする。
+- ギリシア語の発話や歓呼（25.6 の ἀπ᾽ αἰῶνος）は、音を片仮名にして「」に入れ、「、すなわち「とこしえに」」と意味を添える（『殉教者たちへ』4.8 の διαμαστίγωσις と同じ形）。
 - praescribere などの後に、言う中身が対格と不定法で続くところ（10.10 の altius praescripsisse debemus daemonas … inspirasse）は「前もって、次のことを言っておく」と受け、中身を次の文に出す。
 
 ## 名前の表
@@ -164,4 +169,5 @@
 | Zephyri／Terra Mater／Caelum／Mare | ゼピュロスたち（西風）／母なる大地／天／海（9.6） |
 | Pompeius Magnus／Venus／Dionysia／Apollo／Musae／Mercurius／Diana | 大ポンペイウス／ウェヌス／ディオニュシア祭（『護教論』39.15）／アポロ／ムーサ／メルクリウス／ディアナ（10.5〜10.8、12.8。『護教論』の表） |
 | Olympia／Capitolina／Nemea／Isthmia／Hercules | オリュンピアの競技／カピトリウムの競技／ネメアの競技／イストミアの競技／ヘルクレス（11.2） |
+| Elias／Saturnus／Isis／Liber | エリヤ（口語訳。底本の綴りは Elian）／サトゥルヌス／イシス／リベル（23.2〜23.3。『護教論』の表） |
 | David／Israëlitae／Aegyptus／Aethiopia | ダビデ／イスラエルの人々／エジプト／エチオピヤ（『見世物について』3.3、3.8〜3.9。口語訳の表記） |
