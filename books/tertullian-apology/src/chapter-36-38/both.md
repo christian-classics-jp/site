@@ -26,7 +26,7 @@
 37.7 Si enim tanta vis hominum in aliquem orbis remoti sinum abrupissemus a vobis, suffudisset utique dominationem vestram tot qualiumcumque civium amissio, immo etiam et ipsa destitutione punisset.
 37:7 実際、これほど大勢の人間であるわたしたちが、あなたがたから離れて、遠い世界のどこかの片隅へ去っていたとします。そうしたら、きっと、どのような者たちであれ、あれほど多くの市民を失ったことが、あなたがたの支配を恥じ入らせたでしょう。それどころか、見捨てられたことそのもので、あなたがたの支配を罰しもしたでしょう。
 37.8 Procul dubio expavissetis ad solitudinem vestram, ad silentium rerum et stuporem quendam quasi mortui orbis. Quaesissetis quibus imperaretis. Plures hostes quam cives vobis remansissent. Nunc enim pauciores hostes habetis prae multitudine Christianorum, paene omnium civitatium paene omnes cives Christianos habendo.
-37:8 間違いなく、あなたがたは、自分たちの孤独におびえたでしょう。物事の静まり返りと、世界が死んだかのような茫然とした有様におびえたでしょう。だれを支配すればよいのかと、探し回ったでしょう。あなたがたには、市民より多くの敵が残ったでしょう。いまは、あなたがたの敵は、キリスト者の多さに比べて少ないからです。あなたがたは、ほとんどすべての町で、ほとんどすべての市民をキリスト者として持っているのです。
+37:8 間違いなく、あなたがたは、自分たちの孤独におびえたでしょう。物事の静まり返りと、世界が死んだかのような茫然とした有様におびえたでしょう。だれを支配すればよいのかと、探し回ったでしょう。あなたがたには、市民より多くの敵が残ったでしょう。いまは、キリスト者が大勢いるので、あなたがたの敵は少ないからです。あなたがたは、ほとんどすべての町で、ほとんどすべての市民をキリスト者として持っているのです。
 // civitatium は Oehler 自身の推定（校注 32 に ego）。写本は、この前後を欠く f のほかは civium。
 37.9 Sed hostes maluistis vocare generis humani potius quam erroris humani. Quis autem vos ab illis occultis et usquequaque vastantibus mentes et valitudines vestras hostibus raperet, a daemoniorum incursibus dico, quae de vobis sine praemio, sine mercede depellimus?
 37:9 それなのに、あなたがたは、わたしたちを、人間の迷いの敵と呼ぶより、むしろ人類の敵と呼ぶほうを選びました。しかし、だれが、あの隠れた、いたるところで心と健康を荒らす敵どもから、あなたがたを奪い返すでしょうか。ダイモンの襲撃のことを言っているのです。わたしたちは、それを、報いもなく、代価もなく、あなたがたから追い払っています。

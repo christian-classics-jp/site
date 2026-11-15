@@ -72,7 +72,7 @@
 | genius（imperatoris） | ゲニウス（28:5、32:2〜32:4、35:10）。本文が genios daemonas dici、daemonas, id est genios と言い換える（32.3〜32.4）ので、『オクタウィウス』29:5 と同じく音を写し、『スキリウムの殉教者行伝』の「守護霊」にしない |
 | adiurare／deierare（32.4） | 命じて退ける（ダイモンを人から追い出すとき。『オクタウィウス』27:7 の adiurati「かけて命じられる」と同じ働き）／かけて誓う（14:5 の deierabat、35:10 の genium deierabant と同じ） |
 | dominus | 主（神と、皇帝を呼ぶ呼び名。34.1〜34.2 は神と皇帝に同じ語を使う論なので、どちらも「主」）。家や奴隷の主人を言うときは「主人」（34.3 の familiae domini、35.13 の de dominis） |
-| pietas／religio・religiosus／fides（皇帝に対して） | 忠誠／敬虔・敬虔な／誠実（33.1、35.3、35.5、35.8。36.1 の pietas et religio et fides imperatoribus debita もこの三つで訳す）。神に対する religiosus は訳語表どおり「信心深い」（34.4）、まことの宗教は「宗教」（35.1 の verae religionis）。父の情愛を言う pietas は「慈しみ」（34.2 の nomen pietatis quam potestatis「権力の名より、慈しみの名」）。impietas（35.10）は「不忠」 |
+| pietas／religio・religiosus／fides（皇帝に対して） | 忠誠／敬虔・敬虔な／誠実（33.1、35.3、35.5、35.8。36.2 の pietas et religio et fides imperatoribus debita もこの三つで訳す）。神に対する religiosus は訳語表どおり「信心深い」（34.4）、まことの宗教は「宗教」（35.1 の verae religionis）。父の情愛を言う pietas は「慈しみ」（34.2 の nomen pietatis quam potestatis「権力の名より、慈しみの名」）。impietas（35.10）は「不忠」 |
 | salus（imperatoris） | 安寧（28〜35 章。32.2 の per salutem eorum「彼らの安寧にかけて」） |
 | martyr／martyrium | 殉教者／殉教 |
 | confiteri／negare | 告白する／否む（『オクタウィウス』と同じ。事実を否定する意味でも「否む」で通し、「否定する」にしない。11:12、16:4） |
