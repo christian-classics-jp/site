@@ -1,7 +1,7 @@
 # 21 章　キリストについて
 
 21.1 Sed quoniam edidimus antiquissimis Iudaeorum instrumentis sectam istam esse suffultam quam aliquanto novellam, ut Tiberiani temporis, plerique sciunt, profitentibus nobis quoque, fortassean hoc nomine de statu eius retractetur, quasi sub umbraculo insignissimae religionis, certe licitae, aliquid propriae praesumptionis abscondat, vel quia praeter aetatem neque de victus exceptionibus neque de solemnitatibus dierum neque de ipso signaculo corporis neque de consortio nominis cum Iudaeis agimus, quod utique oporteret si eidem deo manciparemur?
-21:1 しかし、わたしたちは、この一派がユダヤ人のきわめて古い書物に支えられていると述べました。ところが、多くの人は、この一派がかなり新しく、ティベリウスの時代のものだと知っています。わたしたちも、そう公言しています。ですから、ひょっとすると、そのことを理由に、一派の立場が問い直されるかもしれません。最も名高い宗教、少なくとも許された宗教の陰に隠れて、自分の勝手な思い込みを何か隠しているかのように見られるのです。あるいは、こういう理由からかもしれません。わたしたちは、年代が違うだけではありません。食物の除き方でも、祭りの日々でも、体のしるし（割礼）そのものでも、ユダヤ人と同じことをしていません。名を共にすることもありません。同じ神に仕える身であるなら、当然そうしなければならないはずではないか、というのです。
+21:1 しかし、わたしたちは、この一派がユダヤ人のきわめて古い書物に支えられていると述べました。ところが、多くの人は、この一派がかなり新しく、ティベリウスの時代のものだと知っています。わたしたちも、そう公言しています。ですから、ひょっとすると、そのことを理由に、一派の立場が問い直されるかもしれません。最も名高い宗教、少なくとも許された宗教の陰に隠れて、自分の勝手な思い込みを何か隠しているかのように見られるのです。あるいは、こういう理由からかもしれません。わたしたちは、年代が違うだけではありません。食物を除く定めでも、祭りの日々でも、体のしるし（割礼）そのものでも、ユダヤ人と同じことをしていません。名を共にすることもありません。同じ神に仕える身であるなら、当然そうしなければならないはずではないか、というのです。
 21.2 Sed et vulgus iam scit Christum ut hominum aliquem, qualem Iudaei iudicaverunt, quo facilius quis nos hominis cultores existimaverit. Verum neque de Christo erubescimus, cum sub nomine eius deputari et damnari iuvat, neque de deo aliter praesumimus.
 21:2 また、民衆もすでに、キリストを人間の一人として知っています。ユダヤ人が判断したような人間としてです。そのため、わたしたちを人間を拝む者だと考える人が出てくるのも、たやすいことでしょう。しかし、わたしたちは、キリストを恥じてはいません。その名のもとに数えられ、罪に定められることを喜んでいるのですから。また、神についても、違った考えを抱いてはいません。
 21.3 Necesse est igitur pauca de Christo ut deo. Dudum Iudaeis erat apud deum gratia ubi et insignis iustitia et fides originalium auctorum; unde illis et generis magnitudo et regni sublimitas floruit et tanta felicitas, ut de dei vocibus, quibus edocebantur, de promerendo deo et non offendendo praemonerentur.
@@ -12,24 +12,24 @@
 21.5 Cum haec illis sanctae voces praeminarentur, eadem semper omnes ingerebant fore uti sub extimis curriculis saeculi ex omni iam gente et populo et loco cultores sibi adlegeret deus multo fideliores in quos gratiam transferret, pleniorem quidem ob disciplinae auctioris capacitatem.
 21:5 聖なる声は、彼らにこうした警告をしていました。それと同時に、すべての声が、いつも同じように告げていました。世の終わりの時期に、神は、すべての民族と民と場所から、ご自分を拝む者たちを選び出される。その人々ははるかに忠実で、神は恵みを彼らに移される。しかも、より豊かな教えを受け入れることができるので、いっそう満ちた恵みを移される、ということです。
 21.6 Venit igitur qui ad reformandam et inluminandam eam venturus a deo praenuntiabatur, Christus ille filius dei. Huius igitur gratiae disciplinaeque arbiter et magister, inluminator atque deductor generis humani filius dei adnuntiabatur: non quidem ita genitus, ut erubescat in filii nomine aut de patris semine.
-21:6 そこで、来られたのです。その恵みを新しくし、照らすために、神から来ると予告されていた方、あの神の子キリストです。この恵みと教えを取り仕切る方、その教師、人類を照らし導く方として、神の子が告げられていました。ただし、子という名や父の種を恥じなければならないような生まれ方をされたのではありません。
+21:6 そこで、来られたのです。その恵みを新しくし、照らすために、神によって、来ると予告されていた方、あの神の子キリストです。この恵みと教えを取り仕切る方、その教師、人類を照らし導く方として、神の子が告げられていました。ただし、子という名や父の種を恥じなければならないような生まれ方をされたのではありません。
 21.7 Non de sororis incesto nec de stupro filiae aut coniugis alienae deum patrem passus est squamatum aut cornutum aut plumatum, amatorem in auro conversum Danaidis.
-21:7 神の子は、姉妹との近親姦から生まれたのでも、娘や他人の妻との淫らな交わりから生まれたのでもありません。うろこや角や羽をまとった神を、父とされたのでもありません。ダナエに恋をして黄金に姿を変えた者を、父とされたのでもありません。
+21:7 神の子は、姉妹との近親姦からお生まれになったのでも、娘や他人の妻との淫らな交わりからお生まれになったのでもありません。うろこや角や羽をまとった神を、父とされたのでもありません。ダナエの黄金に姿を変えた恋する者を、父とされたのでもありません。
 21.8 Iovis ista sunt numina vestra. Ceterum dei filius nullam de impudicitia habet matrem; etiam quam videtur habere, non nupserat. Sed prius substantiam edisseram, et ita nativitatis qualitas intellegetur.
-21:8 そうしたユピテルを父としたのは、あなたがたの神々です。それに対して、神の子には、淫らな行いから生まれたような母はいません。母と見える方でさえ、結婚していなかったのです。しかし、まずその実体を詳しく述べましょう。そうすれば、その生まれのありさまも分かるでしょう。
+21:8 そうしたユピテルを父としたのは、あなたがたの神々です。それに対して、神の子には、淫らな行いによって母となった方はいません。母と見える方でさえ、結婚していなかったのです。しかし、まずその実体を詳しく述べましょう。そうすれば、その生まれのありさまも分かるでしょう。
 // Iovis ista sunt numina vestra は、Oehler の注 r に従い、前の文の passus est を補って「（そのような）ユピテルを（父として）持ったのは、あなたがたの神々だ」と取った。
 21.9 Iam ediximus deum universitatem hanc mundi verbo et ratione et virtute molitum. Apud vestros quoque sapientes ΛΟΓΟΝ, id est sermonem atque rationem, constat artificem videri universitatis.
 21:9 神がこの世界全体を、言葉と理と力によって造られたことは、すでに述べました。あなたがたの賢者たちのもとでも、ロゴス、つまり言葉と理が、万物の作り手と見なされていることは明らかです。
 21.10 Hunc enim Zeno determinat factitatorem, qui cuncta in dispositione formaverit; eundem et fatum vocari et deum et animum Iovis et necessitatem omnium rerum. Haec Cleanthes in spiritum congerit, quem permeatorem universitatis adfirmat.
 21:10 実際、ゼノンは、これを、すべてを整然と配置して形づくった作り手と定めます。そして、それは運命とも、神とも、ユピテルの心とも、万物の必然とも呼ばれる、としています。クレアンテスは、これらを霊にまとめ、その霊が万物に行き渡っている、と断言しています。
 21.11 Et nos autem sermoni atque rationi itemque virtuti, per quae omnia molitum deum ediximus, propriam substantiam spiritum inscribimus, cui et sermo insit pronuntianti et ratio adsit disponenti et virtus praesit perficienti.
-21:11 わたしたちもまた、言葉と理と力に、固有の実体として霊を書き添えます。神がそれらによってすべてを造られたことは、すでに述べました。その霊の内には、語られるときには言葉が宿り、配置されるときには理が伴い、仕上げられるときには力が統べるのです。
+21:11 わたしたちもまた、言葉と理と力に、固有の実体として霊を書き添えます。神がそれらによってすべてを造られたことは、すでに述べました。その霊が語られるときには、その内に言葉が宿り、配置されるときには理が伴い、仕上げられるときには力が統べるのです。
 21.12 Hunc ex deo prolatum didicimus et prolatione generatum et idcirco filium dei et deum dictum ex unitate substantiae. Nam et deus spiritus. Et cum radius ex sole porrigitur, portio ex summa; sed sol erit in radio, quia solis est radius nec separatur substantia sed extenditur.
 21:12 わたしたちは、この方が神から発せられ、発せられることによって生まれたと学びました。そのため、実体が一つであることから、神の子、また神と呼ばれるのです。神も霊だからです。光線が太陽から伸びるとき、それは全体からの一部です。しかし、光線の中にも太陽があることになります。光線は太陽の光線であり、実体は切り離されるのではなく、広げられるからです。
 21.13 Ita de spiritu spiritus et de deo deus ut lumen de lumine accensum. Manet integra et indefecta materiae matrix, etsi plures inde traduces qualitatis mutueris: ita et quod de deo profectum est, deus est et dei filius et unus ambo.
 21:13 こうして、霊から霊が、神から神が出るのです。光から光がともされるようにです。そこから同じ性質の分け火をいくつ取っても、元の火は損なわれず、欠けることなく残ります。同じように、神から出たものも神であり、神の子です。そして、二者は一つです。
 21.14 Ita et de spiritu spiritus et de deo deus modulo alternum numerum, gradu non statu fecit, et a matrice non recessit sed excessit. Iste igitur dei radius, ut retro semper praedicabatur, delapsus in virginem quandam et in utero eius caro figuratus nascitur homo deo mixtus.
-21:14 こうして、霊からの霊、神からの神は、在り方において、もう一つの数を成されました^[古い版には『数ではなく在り方で別のものにした』と読むものがある。]。状態においてではなく、順位においてです。そして、元のものから離れたのではなく、そこから出て来られたのです。そこで、神のこの光線は、以前からいつも告げ知らされていたとおり、ある乙女の中に降られました。その胎の中で肉として形づくられ、神と混ざり合った人として生まれるのです。
+21:14 こうして、霊からの霊、神からの神は、在り方において、もう一つの数を成されました^[古い版には『数ではなく在り方で別のものにした』と読むものがある。]。状態においてではなく、順位においてです。そして、元のものから離れたのではなく、そこから出て来られたのです。そこで、神のこの光線は、以前からいつも告げ知らされていたとおり、ある乙女の中に降られました。その胎の中で肉として形づくられ、神と混ざり合った人としてお生まれになるのです。
 // modulo alternum numerum の alternum は底本の読み。λ は alter、f と Havercamp は Fulvius Ursinus の推定で modulo alterum, non numero（校注 p. 199 の 70〜71）。
 21.15 Caro spiritu instructa nutritur, adolescit, adfatur, docet, operatur et Christus est. Recipite interim hanc fabulam, similis est vestris, dum ostendimus quomodo Christus probetur et qui penes vos eiusmodi fabulas aemulas ad destructionem veritatis istiusmodi praeministraverint.
 21:15 肉は霊に備えられて、養われ、成長し、語りかけ、教え、働かれます。そして、それがキリストなのです。さしあたり、この作り話を受け入れてください。あなたがたの作り話に似ていますから。そのあいだに、わたしたちは二つのことを示します。キリストがどのように証明されるか。また、あなたがたのもとで、同じような作り話を前もって用意したのはだれか、ということです。その作り話は、こうした真理に敵対し、それを打ち壊すためのものでした。
@@ -42,12 +42,12 @@
 21.19 Quem igitur hominem solummodo praesumpserant de humilitate, sequebatur uti magum aestimarent de potestate, cum ille verbo daemonia de hominibus excuteret, caecos reluminaret, leprosos purgaret, paralyticos restringeret, mortuos denique verbo redderet vitae, elementa ipsa famularet compescens procellas et freta ingrediens, ostendens se esse verbum dei, id est ΛΟΓΟΝ, illud primordiale, primogenitum, virtute et ratione comitatum et spiritu fultum, eundem qui verbo omnia et faceret et fecisset.
 21:19 こうして、彼らはキリストを、その低さから、ただの人間だと決めてかかっていました。そのため、その力を見て、魔術師だと考えることになったのです。キリストは、言葉ひとつでダイモンを人々から追い出し、盲人の目を再び開き、らい病人を清め、中風の者を立たせられました。ついには、死人をも言葉ひとつでいのちに戻されました。元素そのものさえ従わせ、嵐を静め、海の上を歩かれました。こうして、ご自分が神の言葉、つまり、あのロゴスであることを示されたのです。初めからあり、最初に生まれ、力と理を伴い、霊に支えられた方です。言葉によってすべてを造っておられ、また造られた、その同じ方です。
 21.20 Ad doctrinam vero eius, qua revincebantur magistri primoresque Iudaeorum, ita exasperabantur, maxime quod ingens ad eum multitudo deflecteret, ut postremo oblatum Pontio Pilato, Syriam tunc ex parte Romana procuranti, violentia suffragiorum in crucem Iesum dedi sibi extorserint.
-21:20 その教えによって、ユダヤ人の教師たちや指導者たちは論駁されました。そのため、彼らはひどくいら立ちました。とりわけ、大勢の群衆がキリストのほうへなびいたからです。ついに、キリストはポンテオ・ピラトに訴え出されました。ピラトは当時、ローマの側からシリアを治めていた人です。彼らは、票の力ずくで、イエスを十字架につけるために自分たちに引き渡させたのです。
+21:20 その教えによって、ユダヤ人の教師たちや指導者たちは論駁されました。そのため、彼らはひどくいら立ちました。とりわけ、大勢の群衆がキリストのほうへなびいたからです。ついに、キリストはポンテオ・ピラトに訴え出られました。ピラトは当時、ローマの側からシリアを治めていた人です。彼らは、叫び立てる声の力ずくで、イエスを十字架につけるために自分たちに引き渡させたのです。
 // Syriam は底本どおり。福音書でピラトはユダヤの総督。
 21.21 Praedixerat et ipse ita facturos; parum si non et prophetae retro. Et tamen suffixus multa mortis illius propria ostendit insignia. Nam spiritum cum verbo sponte dimisit, praevento carnificis officio.
 21:21 キリストご自身も、彼らがそうすることを予告しておられました。以前に預言者たちも予告していたのでなければ、それだけでは小さなことでしょう。それでも、キリストは十字架につけられて、その死に固有のしるしを数多く示されました。実際、刑吏の務めに先んじて、ひと言とともに、自ら霊を手放されたのです。
 21.22 Eodem momento dies medium orbem signante sole subducta est. Deliquium utique putaverunt qui id quoque super Christo praedicatum non scierunt. Et tamen eum mundi casum relatum in arcanis vestris habetis.
-21:22 同じその時、太陽が軌道の真ん中を指していたのに、昼の光が取り去られました。それもキリストについて告げ知らされていたことを知らなかった人々は、もちろん日食だと思いました。それでも、あなたがたは、その世界の異変を、あなたがたの秘められた記録の中に記されたものとして持っています。
+21:22 同じその時、太陽が軌道の真ん中を指していたのに、昼の光が取り去られました。このこともキリストについて告げ知らされていたと知らなかった人々は、もちろん日食だと思いました。それでも、あなたがたは、その世界の異変を、あなたがたの秘められた記録の中に記されたものとして持っています。
 21.23 Tunc Iudaei detractum et sepulchro conditum magna etiam militari manu custodiae diligentia circumsederunt, ne, quia praedixerat tertia die resurrecturum se a morte, discipuli furto amoliti cadaver fallerent suspectos.
 21:23 そのとき、キリストは十字架から降ろされ、墓に納められました。ユダヤ人は、兵士の大きな手勢まで使って、念入りな見張りでその墓を取り囲みました。キリストは、三日目に死からよみがえると予告しておられました。そこで、弟子たちが遺体を盗み出し、疑っている者たちを欺くことのないようにしたのです。
 21.24 Sed ecce tertia die concussa repente terra, et mole revoluta quae obstruxerat sepulchrum, et custodia pavore disiecta, nullis apparentibus discipulis nihil in sepulchro repertum est praeterquam exuviae sepulti.
@@ -55,15 +55,15 @@
 21.25 Nihilominus tamen primores, quorum intererat et scelus divulgare et populum vectigalem et famularem sibi a fide revocare, subreptum a discipulis iactitaverunt. Nam nec ille se in vulgus eduxit, ne impii errore liberarentur, ut et fides, non mediocri praemio destinata, difficultate constaret.
 21:25 それでも、指導者たちは、弟子たちが盗み去ったのだと言いふらしました。彼らにとっては、その悪事を言い広めることと、自分たちに貢ぎを納めて仕える民を信仰から呼び戻すことが、大事だったからです。実際、キリストは、民衆の前には姿を現されませんでした。不敬な者たちが思い違いから解き放たれないためです。また、少なからぬ報いを定められた信仰が、困難によって成り立つためでもありました。
 21.26 Cum discipulis autem quibusdam apud Galilaeam, Iudaeae regionem, ad quadraginta dies egit docens eos quae docerent. Dehinc ordinatis eis ad officium praedicandi per orbem circumfusa nube in caelum est receptus, multo verius quam apud vos adseverare de Romulo Proculi solent.
-21:26 キリストは、ユダヤの地方ガリラヤで、何人かの弟子たちと四十日ほど過ごされ、彼らが教えるべきことを教えられました。それから、彼らを世界中に宣べ伝える務めに任じると、雲に包まれて天に迎え入れられました。それは、あなたがたのもとでプロクルスのような人々がロムルスについて言い張るのよりも、はるかに真実なことです。
+21:26 キリストは、ユダヤの地方ガリラヤで、何人かの弟子たちと四十日ほど過ごされ、彼らが教えるべきことを教えられました。それから、彼らを世界中に宣べ伝える務めに任じると、雲に包まれて天に迎え入れられました。それは、あなたがたのもとでプロクルスのような人々がロムルスについていつも言い張るのよりも、はるかに真実なことです。
 21.27 Ea omnia super Christo Pilatus, et ipse iam pro sua conscientia Christianus, Caesari tunc Tiberio nuntiavit. Sed et Caesares credidissent super Christo, si aut Caesares non essent necessarii saeculo, aut si et Christiani potuissent esse Caesares.
 21:27 ピラトも、自分の良心においては、もうキリスト者でした。キリストについてのこれらすべてのことを、ピラトは当時のカイザル、ティベリウスに知らせました。それどころか、カイザルたちも、キリストを信じたでしょう。もしカイザルたちが世に必要でなかったなら、あるいは、キリスト者でありながらカイザルでいることができたならです。
 21.28 Discipuli quoque diffusi per orbem ex praecepto magistri dei paruerunt, qui et ipsi a Iudaeis insequentibus multa perpessi utique pro fiducia veritatis libenter Romae postremo per Neronis saevitiam sanguinem Christianum seminaverunt.
-21:28 弟子たちも、世界中に散らばり、神である師の命令に従いました。彼らもまた、追い迫るユダヤ人から多くの苦しみを受けました。真理への確信のゆえに、喜んでそうしたのです。そしてついに、ローマで、ネロの残忍さによって、キリスト者の血を蒔いたのです。
+21:28 弟子たちも、世界中に散らばり、神である師の命令に従いました。彼らもまた、追い迫るユダヤ人から多くの苦しみを受けました。そしてついに、ローマで、ネロの残忍さによって、キリスト者の血を蒔いたのです。まさに真理への確信のゆえに、喜んでそうしたのです。
 21.29 Sed monstrabimus vobis idoneos testes Christi ipsos illos quos adoratis. Multum est si eos adhibeam ut credatis Christianis propter quos non creditis Christianis. Interim hic est ordo nostrae institutionis, hunc edidimus et sectae et nominis censum cum suo auctore.
 21:29 しかし、キリストのふさわしい証人として、あなたがたが拝んでいるあの者たち自身を示しましょう。あなたがたがキリスト者を信じないのは、その者たちのせいです。その者たちを、わたしが引き合いに出して、あなたがたにキリスト者を信じさせるとしたら、たいしたことです。さしあたり、これがわたしたちの教えの筋道です。わたしたちは、一派と名の出どころを、その創始者とともに示しました。
 21.30 Nemo iam infamiam incutiat, nemo aliud existimet, quia nec fas est ulli de sua religione mentiri. Ex eo enim quod aliud a se coli dicit quam colit, negat quod colit, et culturam et honorem in alterum transfert, et transferendo iam non colit quod negavit.
-21:30 もうだれも、悪評を投げつけてはなりません。だれも、別のことを考えてはなりません。だれにとっても、自分の宗教について偽ることは許されないからです。人が、自分が拝んでいるのとは別のものを拝んでいると言うなら、そのことによって、自分が拝んでいるものを否みます。拝むことと誉れを、別のものに移します。そして、移すことによって、もはや、否んだものを拝んではいないのです。
+21:30 もうだれも、悪評を投げつけてはなりません。だれも、別のことを考えてはなりません。だれにとっても、自分の宗教について偽ることは許されないからです。実際、人が、自分が拝んでいるのとは別のものを拝んでいると言うなら、そのことによって、自分が拝んでいるものを否みます。拝むことと誉れを、別のものに移します。そして、移すことによって、もはや、否んだものを拝んではいないのです。
 21.31 Dicimus, et palam dicimus, et vobis torquentibus lacerati et cruenti vociferamur: Deum colimus per Christum. Illum hominem putate, per eum et in eo se cognosci et coli deus vult.
 21:31 わたしたちは言います。公に言います。あなたがたに拷問されて、引き裂かれ、血にまみれながら叫びます。「わたしたちは、キリストによって神を拝む」と。あの方を人間だと思うなら、そう思ってください。神は、その方によって、その方のうちに、ご自分が知られ、拝まれることを望んでおられるのです。
 21.32 Ut Iudaeis respondeamus, et ipsi dominum per hominem Moysen colere didicerunt: ut Graecis occurram, Orpheus Pieriae, Musaeus Athenis, Melampus Argis, Trophonius Boeotiae initiationibus homines obligaverunt: ut ad vos quoque dominatores gentium adspiciam, homo fuit Pompilius Numa, qui Romanos operosissimis superstitionibus oneravit.
