@@ -34,7 +34,9 @@
   - 間接話法で紹介するだけの考え（1.3 の Sunt qui existiment …）は「」に入れず、「〜と考える人々もいます」「〜というのです」と地の文で受ける。
   - 3 章の詩篇一・一 は、口語訳を下敷きにし、原文が七十人訳の形で、続く論が concilium を人の集まりとして扱うので、次の句にする：『悪しき者の集まりに行かず、罪びとの道に立たず、疫病のような者の座にすわらなかった人は、さいわいである』。論の中で詩篇の語を引くところ（3.5、3.9 の concilium impiorum）は『悪しき者の集まり』と『』に入れる。見世物の場の名として言う「道」「座」（3.6〜3.7）は「」。詩篇を裏返した書き手の言い方（3.7 の contrario infelix …）は聖句でないので『』に入れない。十戒の言い換え（3.2）は、口語訳の「〜してはならない」の形で、原文の語のまま『』に入れ、書き手が仮に作った禁令（Non ibis in circum …）も『』に入れる（書かれた文字の扱い）。
   - 書き手がキリスト者一人に呼びかけるところ（8.6〜8.7 の Christiane、tibi、inquis）は「キリスト者よ」「あなた」。そのキリスト者の問いは「」に入れて常体にし、「と、あなたは尋ねます」と受ける（言い分の型の「人は」を「あなたは」にする）。
-  - 6.1 と 7.1 の utriusque generis ludi は「両方の種類の遊戯」とし、中身を補わない（Oehler の注 b は戦車競走と劇場とするが、6.3 は聖なる遊戯と葬いの遊戯に分ける）。
+  - 6.1 と 7.1 の utriusque generis ludi は「両方の種類の遊戯」とし、中身を補わない（Oehler の注 b は戦車競走と劇場とするが、6.3 は聖なる遊戯と葬いの遊戯に分ける）。12.8 の utriusque ludi は闘技場の剣闘と獣狩り（注 p）で、6.1 と別のものなので「両方の遊戯（剣闘と獣狩り）」と補う。
+  - 第一コリントの言い換え（13.1〜13.2）のように、原文が聖句を言い換えて引くところは『』に入れず、口語訳を参考にして地の文で言い換える。口語訳の「悪霊」に当たる daemonia も、訳語表の「ダイモン」で訳す。
+  - 名を出さない詩人の引用（9.3 のウェルギリウス）は、名を補わず「こうも歌われています」と受け、出典は `// ` メモに書く。
   - 本文が名を出さずに ille で指す人は、『護教論』の「強めの ipse・ille」の決まりに従い、本文だけでは読者がだれか分からないときに限って、Oehler の注に従って名を補う（3.4 の iustum illum は、詩篇をだれに当てはめたかが本文から分からないので「あの正しい人、アリマタヤのヨセフ」）。名を出さない町（7.3 の illius urbis, in qua daemoniorum conventus consedit。注 f のとおりローマ）も同じ扱いで、属州と対比していて分かるので補わない。本文がその人の行いを物語っていて、名がなくても話が通るところ（『殉教者たちへ』4.7 のアテナイの遊女、『護教論』50.6）は補わない。
 - 『祈りについて』『洗礼について』：教会の中の読み手に向けた教え。主語が書き手と読み手を含むときは「わたしたち」。『洗礼について』の論敵（1 章で言うカイン派の異端の者）とその仲間への言い返しも、『護教論』の言い分の型に従う。
 - 人の語りかけの調子は、最初に出たページで決めてここに書く。
@@ -82,11 +84,20 @@
 | agonothetes／xystarches／epistates | 競技の主催者／練習場の長／監督（3.3〜3.4。注 i）。剣闘士の magistri et praepositi（1.3）は「師範や親方」で、「監督」と重ねない |
 | agon／brabium／scamma／palaestra／stadium | 競技／賞／競技の場／練習場／競技場（3.3〜3.6。stadium tribunalis は「裁きの座という競技場」） |
 | athletae／gladiatores | 運動選手／剣闘士 |
-| disciplina（運動選手の） | 規律（『殉教者たちへ』3.5。『護教論』の教えの意味の「教え」と分ける）。キリスト者の disciplina は『護教論』どおり「教え」（『見世物について』1.1 の praescriptum disciplinae「教えの定め」、1.4、3.4、3.8 の admonet disciplinae「教えを守るよう勧める」） |
+| disciplina（運動選手の） | 規律（『殉教者たちへ』3.5。『護教論』の教えの意味の「教え」と分ける）。キリスト者の disciplina は『護教論』どおり「教え」（『見世物について』1.1 の praescriptum disciplinae「教えの定め」、1.4、3.4、3.8 の admonet disciplinae「教えを守るよう勧める」、10.4 の in exaggerationem disciplinae「教えを強める」）。異教の側の世の規律（10.6 の監察官の disciplina）は「規律」、異教の神々が伝えた流儀（11.3 の Castorum … disciplinae）は「教え」 |
 | conditio・condere／conditi（『見世物について』） | 造られたもの・造る／造られた者（2.2、2.6、2.13 の perversa administratio conditionis a conditis「造られた者が、造られたものをゆがめて扱うこと」。『護教論』の「ありさま」「定め」「条件」とは意味が違う） |
 | instituere・institutor／convertere・interpolator・aemulus（『見世物について』2 章） | 造る・造り主／ねじ曲げる・ゆがめる者・敵対する者（2.7〜2.8、2.14。aemula vis は「敵対する力」で『護教論』の aemulus に揃える。一人の悪魔を指す同格の並び interpolatoris et aemulatoris angeli は「ゆがめる者、敵対する者である天使」とし、二人に読めないようにする）。corruptela／integritas は「損なわれたもの／損なわれていないもの」、de integritate は「損なわれていない状態から」 |
 | abdicatio（voluptatium、spectaculorum）／abstinentia | 断つこと／控えること（『見世物について』1.3、3.1） |
-| circus／theatrum／agon／munus（『見世物について』3.2） | 戦車競走場／劇場（『護教論』と同じ）／競技／剣闘士の試合（spectaculum の「見世物」と分ける） |
+| circus／theatrum／agon／munus（『見世物について』3.2） | 戦車競走場／劇場（『護教論』と同じ）／競技／剣闘士の試合（spectaculum の「見世物」と分ける）。amphitheatrum は「闘技場」 |
+| munus／officium（9.1、12.1） | 賜物（9.1 の dei munere）・剣闘士の試合／務め（9.1 の daemoniorum officia「ダイモンへの務め」）。12.1 の名の由来は、文型の訳し方の型で「剣闘士の試合（ムヌス）」「務め（オフィキウム）」 |
+| parentatio・parentare／litare | 死者を祭ること・死者を祭る（6.3、12.4、13.2。13.2 の parentatum は「死者を祭るのに使われたもの」）／なだめの供え物とする（12.4） |
+| idolothyta／necrothyta（13.3） | 偶像への供え物（第一コリント八・四 の口語訳の語）／死者への供え物 |
+| auctor／institutor（技と見世物の） | 創始者（4.4、9.5、10.9〜10.10）／設けた者（10.10）。物を作った人（9.4 の auctor currus primi）は「作り手」 |
+| fluxus（10.8 の corporis fluxu、per fluxum） | なよなよした動き・なよなよしたさま（異読の flexus「くねり」に寄せない） |
+| quaestura／magistratus／flaminium／sacerdotium（12.5） | 財務官の職／政務官の職／フラメンの職／祭司職（7.3 と同じ。5.7 の flamen Quirinalis は神の名を添えて「クィリヌスの祭司」） |
+| purpura／fasces／vittae（12.6） | 紫の衣／権標（『オクタウィウス』37:10 と同じ）／髪帯。pultes pridianae は注 l のとおり「前日の祭りの粥」 |
+| praesides（人を言うとき） | 主宰者（11.2 の sacerdotales praesides「祭司である主宰者たち」）。神々を言うときは 4.4・12.8 の「守り神」 |
+| ferae（12.3 の ferarum voluptati） | 獣のような見物人（注 d の Rigaltius の解。直後の feris は本物の「獣」） |
 | concilium／consessus（『見世物について』3 章） | 集まり（詩篇一・一 の句と揃える。3.4、3.5、7.3 の conventus、8.5 の daemonum concilium も「集まり」）／会合（3.4）。3.7 の ad consessum は「座るために」。8.8 の conciliabula spectaculorum は「見世物の集会所」 |
 | angelus（『見世物について』2.9、2.14） | 天使（『護教論』どおり）。2.9 の angeli は Oehler の注 h のとおりダイモンを指すが、語を足さず `// ` メモに書く |
 | voluptas／gaudium／fructus（saeculi）／vitae gratia | 快楽／喜び／楽しみ（注 b のとおり享受の意味）／生きる甲斐（『見世物について』2.4〜2.5）。periculum voluptatis, quam vitae（2.4）は「命を失う危険より、快楽を失う危険」と、何が危うくなるかを言う |
@@ -115,7 +126,10 @@
 
 - 名の由来を語の音で説くところ（『見世物について』5.3 の ludi と Lydi・ludus・lusus、5.5 の Consus と consilium、8.2 の circus と Circe、8.4 の Sessia と sementatio など）は、『護教論』3.8 の「キリスト者（クリスティアヌス）」の型で、日本語の語のあとに（）で原語の音を片仮名で添える。音が名そのものに出ているところ（キルケ、セッシア）は、名のほうには添えない。
 - ローマ暦の日付は『護教論』の決まりどおり今の暦に直す（5.7 の nonis Iuliis「七月七日」、XII. Kalend. Septembres「八月二十一日」）。
-- 祭りの遊戯の名が神の名から作った形容詞のところ（6.2 の Apollinares、Cereales、Neptunales、Latiares、Florales）は、どの神にささげたかが論の要なので「アポロの遊戯」のように神の名で訳す。神と分かる形にする（Latiares は『オクタウィウス』30:4 の「ラティアリスのユピテル」）。神の名がすぐに分からない Megalenses は「メガレンセスの遊戯」。
+- 祭りの遊戯の名が神の名から作った形容詞のところ（6.2 の Apollinares、Cereales、Neptunales、Latiares、Florales）は、どの神にささげたかが論の要なので「アポロの遊戯」のように神の名で訳す。神と分かる形にする（Latiares は『オクタウィウス』30:4 の「ラティアリスのユピテル」）。神の名がすぐに分からない Megalenses は「メガレンセスの遊戯」。技の組合の名（11.3 の artium Musicarum et Minervalium et Apollinarium, etiam Martialium）も同じく「ムーサたちの技、ミネルウァの技、アポロの技…マルスの技」。
+- 同じ名の神々をまとめてあざける複数形（10.8 の Apollines、Minervas、Mercurios、11.3 の Herculum、Mercuriorum）は「アポロたち」のように「たち」で残す。もとから二人の Castores は名前の表どおり「カストルの兄弟」。
+- 散文の節の中で詩を引くところ（9.3 のウェルギリウス 2 行）は、行を分けず『』に入れて文に続ける（節の行が切れるので `<br/>` を使わない）。
+- praescribere などの後に、言う中身が対格と不定法で続くところ（10.10 の altius praescripsisse debemus daemonas … inspirasse）は「前もって、次のことを言っておく」と受け、中身を次の文に出す。
 
 ## 名前の表
 
@@ -134,4 +148,8 @@
 | Sol／Circe（Circa）／Castores／Iuppiter | 太陽神ソル（8.1。2 度目からは「ソル」）／キルケ／カストルの兄弟／ユピテル（8.1〜8.3） |
 | Sessia／Messia／Tutulina／Magni, Potentes, Valentes／Samothraces | セッシア／メッシア／トゥトゥリナ／大いなる神々、力ある神々、強き神々／サモトラケの神々（8.4〜8.5） |
 | Hermateles／Mater Magna／Murcia／Capitolium／Serapeum／satanas | ヘルマテレス（底本の名。8.5）／大いなる母（キュベレの名は補わない）／ムルキア／カピトリウム／セラピスの神殿（『護教論』の表）／サタン（口語訳）（8.5〜8.10） |
+| Castor・Pollux／Stesichorus／Ἵππιος／Erichthonius／Vulcanus／Minerva／Trochilus Argivus／Iuno／Quirinus | カストル・ポルクス（9.2。名が別々に出るところ）／ステシコロス／ヒッピオス（馬の神）／エリクトニオス／ウルカヌス／ミネルウァ／アルゴスのトロキロス（底本の名）／ユノ／クィリヌス（9.2〜9.4。ウルカヌス、ミネルウァ、ユノは『オクタウィウス』の表） |
+| Zephyri／Terra Mater／Caelum／Mare | ゼピュロスたち（西風）／母なる大地／天／海（9.6） |
+| Pompeius Magnus／Venus／Dionysia／Apollo／Musae／Mercurius／Diana | 大ポンペイウス／ウェヌス／ディオニュシア祭（『護教論』39.15）／アポロ／ムーサ／メルクリウス／ディアナ（10.5〜10.8、12.8。『護教論』の表） |
+| Olympia／Capitolina／Nemea／Isthmia／Hercules | オリュンピアの競技／カピトリウムの競技／ネメアの競技／イストミアの競技／ヘルクレス（11.2） |
 | David／Israëlitae／Aegyptus／Aethiopia | ダビデ／イスラエルの人々／エジプト／エチオピヤ（『見世物について』3.3、3.8〜3.9。口語訳の表記） |
