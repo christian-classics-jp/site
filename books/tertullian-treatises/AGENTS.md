@@ -33,7 +33,7 @@
   - 言い分の「」の中で、相手がキリスト者一人に語りかける二人称単数（1.2 の tua）は「あなた」。相手の口から神を言うところは尊敬語にしない（2.2 の「神自身が造ったもの」）。言い分の中に書き手が挟む一人称の言葉（2.1 の sicut praedicamus）は、「」を閉じて地の文で「これは、わたしたちも説くとおりです」と受け、次の句で「」を開き直す。
   - 間接話法で紹介するだけの考え（1.3 の Sunt qui existiment …）は「」に入れず、「〜と考える人々もいます」「〜というのです」と地の文で受ける。
   - 3 章の詩篇一・一 は、口語訳を下敷きにし、原文が七十人訳の形で、続く論が concilium を人の集まりとして扱うので、次の句にする：『悪しき者の集まりに行かず、罪びとの道に立たず、疫病のような者の座にすわらなかった人は、さいわいである』。論の中で詩篇の語を引くところ（3.5、3.9 の concilium impiorum）は『悪しき者の集まり』と『』に入れる。見世物の場の名として言う「道」「座」（3.6〜3.7）は「」。詩篇を裏返した書き手の言い方（3.7 の contrario infelix …）は聖句でないので『』に入れない。十戒の言い換え（3.2）は、口語訳の「〜してはならない」の形で、原文の語のまま『』に入れ、書き手が仮に作った禁令（Non ibis in circum …）も『』に入れる（書かれた文字の扱い）。
-  - 本文が名を出さずに「あの正しい人」と指す人（3.4 の iustum illum）は、Oehler の注に従って名を補う（「あの正しい人、アリマタヤのヨセフ」）。
+  - 本文が名を出さずに ille で指す人は、『護教論』の「強めの ipse・ille」の決まりに従い、本文だけでは読者がだれか分からないときに限って、Oehler の注に従って名を補う（3.4 の iustum illum は、詩篇をだれに当てはめたかが本文から分からないので「あの正しい人、アリマタヤのヨセフ」）。本文がその人の行いを物語っていて、名がなくても話が通るところ（『殉教者たちへ』4.7 のアテナイの遊女、『護教論』50.6）は補わない。
 - 『祈りについて』『洗礼について』：教会の中の読み手に向けた教え。主語が書き手と読み手を含むときは「わたしたち」。『洗礼について』の論敵（1 章で言うカイン派の異端の者）とその仲間への言い返しも、『護教論』の言い分の型に従う。
 - 人の語りかけの調子は、最初に出たページで決めてここに書く。
 - 『殉教者たちへ』4.2 の女たちへの呼びかけ benedictae は「祝福された女たちよ」（1.1 などの benedicti「祝福された人々よ」と分ける）。霊に向けた三人称の接続法の勧め（4.2 の Colloquatur spiritus、contraponat）は「霊に…させなさい」。
@@ -82,12 +82,13 @@
 | athletae／gladiatores | 運動選手／剣闘士 |
 | disciplina（運動選手の） | 規律（『殉教者たちへ』3.5。『護教論』の教えの意味の「教え」と分ける）。キリスト者の disciplina は『護教論』どおり「教え」（『見世物について』1.1 の praescriptum disciplinae「教えの定め」、1.4、3.4、3.8 の admonet disciplinae「教えを守るよう勧める」） |
 | conditio・condere／conditi（『見世物について』） | 造られたもの・造る／造られた者（2.2、2.6、2.13 の perversa administratio conditionis a conditis「造られた者が、造られたものをゆがめて扱うこと」。『護教論』の「ありさま」「定め」「条件」とは意味が違う） |
-| instituere・institutor／convertere・interpolator・aemulus（『見世物について』2 章） | 造る・造り主／ねじ曲げる・ゆがめる者・敵対する者（2.7〜2.8、2.14。aemula vis は「敵対する力」で『護教論』の aemulus に揃える）。corruptela／integritas は「損なわれたもの／損なわれていないもの」、de integritate は「損なわれていない状態から」 |
+| instituere・institutor／convertere・interpolator・aemulus（『見世物について』2 章） | 造る・造り主／ねじ曲げる・ゆがめる者・敵対する者（2.7〜2.8、2.14。aemula vis は「敵対する力」で『護教論』の aemulus に揃える。一人の悪魔を指す同格の並び interpolatoris et aemulatoris angeli は「ゆがめる者、敵対する者である天使」とし、二人に読めないようにする）。corruptela／integritas は「損なわれたもの／損なわれていないもの」、de integritate は「損なわれていない状態から」 |
 | abdicatio（voluptatium、spectaculorum）／abstinentia | 断つこと／控えること（『見世物について』1.3、3.1） |
 | circus／theatrum／agon／munus（『見世物について』3.2） | 戦車競走場／劇場（『護教論』と同じ）／競技／剣闘士の試合（spectaculum の「見世物」と分ける） |
 | concilium／consessus（『見世物について』3 章） | 集まり（詩篇一・一 の句と揃える。3.4、3.5 の conventus も「集まり」）／会合（3.4）。3.7 の ad consessum は「座るために」 |
 | angelus（『見世物について』2.9、2.14） | 天使（『護教論』どおり）。2.9 の angeli は Oehler の注 h のとおりダイモンを指すが、語を足さず `// ` メモに書く |
-| voluptas／gaudium／fructus（saeculi）／vitae gratia | 快楽／喜び／楽しみ（注 b のとおり享受の意味）／生きる甲斐（『見世物について』2.4〜2.5） |
+| voluptas／gaudium／fructus（saeculi）／vitae gratia | 快楽／喜び／楽しみ（注 b のとおり享受の意味）／生きる甲斐（『見世物について』2.4〜2.5）。periculum voluptatis, quam vitae（2.4）は「命を失う危険より、快楽を失う危険」と、何が危うくなるかを言う |
+| ferrum／herbae（『見世物について』2.9） | 鉄（材料として言うところ。手段を言う ferro は「鉄の刃」）／草（毒の材料） |
 | virtus／vires | 力（3.3 の virtutum animi et corporis「精神と体の力」、3.4、3.6） |
 | si forte | 先のことの仮定は「もしそういうことがあれば」（1.8）。呼び方をやわらげるところ（2.4 の in custodiarium, si forte）は「いわば」 |
 
