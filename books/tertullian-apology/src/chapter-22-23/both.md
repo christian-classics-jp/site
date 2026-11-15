@@ -42,8 +42,8 @@
 23:5 どのキリスト者でもよいのです。キリスト者に語れと命じられると、その霊は、自分はダイモンだと、本当のこととして告白するでしょう。よそで偽って、自分は主だと言うのと同じようにです。同じように、神によって苦しむと思われている者のだれかを、連れて来てください。祭壇で息を吸い込み、脂の煙から神を宿す者、げっぷをして楽になる者、喘ぎながら前もって語る者です。
 // dominum は底本の読み（A・B・G）。D・E・F などは deum（校注 p. 212 の 25）。
 23.6 Ista ipsa Virgo Caelestis pluviarum pollicitatrix, ipse iste Aesculapius medicinarum demonstrator, aliam diem morituris Socordio et Tenatio et Asclepiodoto sumministraturi, nisi se daemones confessi fuerint Christiano mentiri non audentes, ibidem illius Christiani procacissimi sanguinem fundite!
-23:6 雨を約束するおとめカエレスティスよ。薬を教えるアエスクラピウスよ。死にかけていたソコルディウスとテナティウスとアスクレピオドトスに、あと一日を与えてやろうとした者たちよ^[この節は写本の読みが乱れていて、読み方が定まらない。]。キリスト者に偽る勇気がなくて、ダイモンだと告白したのでしょうか。そうでないなら、その場で、あの最も厚かましいキリスト者の血を流してみなさい。
-// aliam diem morituris と sumministraturi は Oehler の推定（校注 p. 213 の 35・39 に ego）。写本は alia die morituris（λ は moriturus）と sumministratur・subministrator などで、それなら「別の日に死ぬ者たちに薬を与える」の意味になる。fundite は、Oehler の注 p に従い、カエレスティスとアエスクラピウスへの呼びかけと取った。長官たちへの命令とも読める。
+23:6 雨を約束するおとめカエレスティスよ。薬を教えるアエスクラピウスよ。死にかけていたソコルディウスとテナティウスとアスクレピオドトスに、あと一日を与えてやるはずだった者たちよ^[この節は写本の読みが乱れていて、読み方が定まらない。]。ただし、自分はダイモンだと告白しないならばです。ところが、キリスト者に偽る勇気はありませんでした。その場で、あの最も厚かましいキリスト者の血を流してみなさい。
+// aliam diem morituris と sumministraturi は Oehler の推定（校注 p. 213 の 35・39 に ego）。写本は alia die morituris（λ は moriturus）と sumministratur・subministrator などで、それなら「別の日に死ぬ者たちに薬を与える」の意味になる。Oehler の注 p に従い、nisi se daemones confessi fuerint を sumministraturi の条件（ダイモンだと告白しないなら、一日を与えると約束した）、mentiri non audentes をその後の事実（偽る勇気がなく告白した）と取り、fundite は告白したカエレスティスとアエスクラピウスへの、条件のない挑発と取った。nisi 節を fundite の条件とし、長官たちへの命令と取る読み方もある。
 23.7 Quid isto opere manifestius? Quid hac probatione fidelius? Simplicitas veritatis in medio est. Virtus illi sua adsistit; nihil suspicari licebit. Magia aut aliqua eiusmodi fallacia fieri dicitis?
 23:7 この働きより明らかなものがあるでしょうか。この証明より確かなものがあるでしょうか。真理の素朴さが、皆の前に置かれています。真理には、それ自身の力が付き添っています。何も疑うことはできないでしょう。「魔術か、何かそういう欺きで起きているのだ」と、あなたがたは言うのでしょうか。
 // 23.7〜23.8 の dicitis? Non dicetis, si は Oehler の推定（校注 p. 213 の 45 に ego）。A・B・D・E・F などは dictis non dicetis si、λ・f と Havercamp は dicetis si、a〜e は Dictis non stetis si。
