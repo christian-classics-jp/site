@@ -47,7 +47,7 @@
 ### 1.1 nimis operata … sectae huius … obstruit defensioni（小さな異読）
 - 底本（Oehler）：nimis operata infestatio sectae huius obstruit defensioni。
 - ほかの読み：λ は animis operata、a・c は nimis onerata（校注 6）。(λ) と a〜e は sectae huius infestatio の語順（校注 7）。obstruit を、E と a〜d は obstruit viam（道をふさぐ）、D は viam obstruit、λ は obstruit os（口をふさぐ）、F は obstat と読む（校注 8）。
-- 採る校訂者：Bindley の本文は sectae hujus infestatio obstruit viam defensioni（OCR l. 1317）。
+- 採る校訂者：Bindley の本文は sectae hujus infestatio obstruit viam defensioni（OCR l. 1317）。Mayor も、Oehler と違う読みの一覧（画像 `cache/archive.org/apologeticustext00tertuoft/pages/` の 0172、印刷 p. 148）で「p. 2 l. 7 obstruit] add. uiam」とし、viam を足す読みを好む（2〜3 章の論点一覧で確かめた）。
 - 読者への影響：小 — 「弁明を妨げる」という意味は変わらない。
 - 訳での扱い：訳注は付けない。
 - 確かめた資料：Oehler 画像 0143（校注 6〜8）。OCR l. 14130–14132。Bindley 画像なし（OCR l. 1316–1318）。
@@ -249,7 +249,6 @@
 ## 未確認
 
 - 校注の略号を丸括弧に入れた形（1 章では (λ)、(D)、(AφBC)）の意味。略号表（画像 0140）にはなく、序文はフルダ写本の異読についての箇所（OCR l. 805–855）しか読んでいない。フルダ写本の異読は 1580 年の刊本と照らして書き留められたものなので、(λ) は「異読の記録がないことから推した読み」かもしれないが、資料で確かめていない。(D) にも括弧があるので、λ だけの印ではない。
-- Mayor の「Oehler と違う読みを好んだとみられる箇所」の一覧（OCR l. 8567〜）の最初の項「obstruit] add. uiam」は、1.1 の obstruit defensioni にあたるとみられるが、OCR ではページと行の番号が崩れて読めない。画像（Mayor の IIIF、印刷 p. 148 前後）は取得が二度とも時間切れになり、見ていない。同じ一覧の「et pr.] ut」が 1.7 の simul ut にあたるかどうかも確かめていない。
 - 1.1 in ipso fere vertice civitatis が、カルタゴの町のどの場所（丘の上の総督の法廷など）を指すか。Oehler・Bindley・Mayor の注には場所の特定がない。
 - 1.2 quia nec de condicione miratur と、第一ヨハネ三・一三（口語訳「世があなたがたを憎んでも、驚くには及ばない」）との近さ。口語訳の本文は `node tools/bible.js 1John.3.13` で確かめたが、この箇所に第一ヨハネを挙げる資料は見ていない（Bindley はマタイ一〇・二二とヨハネ一五・一八を挙げる）。
 - 1.9 のアナカルシスの言葉の、ディオゲネス・ラエルティオスの箇所の表示。Oehler は「II, 8, 5」と刷っていると読めるが、Bindley は 1 巻 103 節とする。ディオゲネス・ラエルティオスの本文そのものは見ていない。Bindley が引くギリシア語は OCR（l. 1524–1525）で読み、画像では確かめていない。

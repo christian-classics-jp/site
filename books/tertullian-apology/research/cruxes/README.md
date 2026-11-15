@@ -14,7 +14,9 @@
   - 校注で略号を丸括弧に入れたもの（「(λ)abcde」「(D)abce」「(AφBC)abd」など）がある。略号表（画像 0140）にも、この作品の範囲で読んだ序文にも、括弧の意味は書かれていない。この一覧では、刷られたとおりに括弧ごと写す（各ページの「未確認」）。
   - 校注の「m. pr.」は写本の最初の手、「m. sec.」は後の手、「om.」は欠くこと。
 - Bindley：T. H. Bindley 編、Tertulliani Apologeticus（1889）。序文によると、Migne の『ラテン教父全集』1 巻（1844）の本文をもとに、重要な異読を注で取り上げ、そのいくつかを本文に採った（OCR l. 74–78）。章ごとに本文と英語の注を置く。Oehler と違う本文を刷るところは、各論点で「Bindley の本文」として挙げる。画像（`cache/archive.org/apologeticusadve00tertuoft/pages/`）の番号は印刷ページ＋38（p. 2＝0040、p. 6＝0044）。
-- Mayor：J. E. B. Mayor 注、Tertullianus Apologeticus（1917）。本文は Oehler のもの。注（l. 8700〜）は主に並行箇所と用例を挙げる。注の見出しの「p. 2 l. 18」などは Mayor の本文のページと行。注の前（l. 8567〜）に「Mayor が Oehler と違う読みを好んだとみられる箇所」の一覧があるが、OCR ではページと行の番号が崩れて読めない。Souter の英訳は使わない（`../sources.md`）。
+- Mayor：J. E. B. Mayor 注、Tertullianus Apologeticus（1917）。本文は Oehler のもの。注（l. 8700〜）は主に並行箇所と用例を挙げる。注の見出しの「p. 2 l. 18」などは Mayor の本文のページと行。注の前（l. 8567〜）に「Mayor が Oehler と違う読みを好んだとみられる箇所」の一覧がある。OCR ではページと行の番号が崩れるので、画像 `cache/archive.org/apologeticustext00tertuoft/pages/0172_pct:0,0,100,55.jpg`（p. 148）で読む。番号は Mayor の本文のページと行（本文の OCR の行末の数字で照らせる）。Souter の英訳は使わない（`../sources.md`）。
 - 『諸国民へ』（Ad nationes）：同じ著者が先に書いた、同じ論じ方の書。1 巻 1 章などに『護教論』1 章と同じ文が多く、Oehler・Mayor・Bindley がこれを並行箇所として引く。この一覧ではその引用で読んだ。
+- エウセビオス『教会史』3 巻 33 章のギリシア語訳とヒエロニムス『年代記』：2 章のプリニウスとトラヤヌスの箇所を訳し、また言い換えたもの。Oehler の注（p. 118 の h・i）の引用で読んだ。
+- プリニウスの書簡とトラヤヌスの返書：Bindley の付録 II（OCR l. 9560–9632）の本文で読んだ。書簡の番号は Bindley が 10 巻 96、Oehler が 10 巻 97 と付ける。
 - 口語訳：`node tools/bible.js` で引いた 1955 年版の本文。
 - ANF：Ante-Nicene Fathers 第 3 巻の Thelwall の英訳（`cache/ccel.org/anf03.txt`）。レビューの読み比べに使う。英訳の文言はこの一覧に使わない。
