@@ -26,7 +26,7 @@
 - 属州を治める長官たち（1.1 の Romani imperii antistites、praesides）に宛てた弁明なので、地の文は敬体（「〜です」「〜ます」）。書き手のテルトゥリアヌスは「わたし」、キリスト者全体は「わたしたち」。
 - 読み手の長官たち（vos）は「あなたがた」。長官や皇帝の動作に尊敬語は使わない（『第一弁明』『キリスト者のための嘆願』と同じ。「ご覧ください」も使わず「見てください」。8:1）。二人称単数は「あなた」とし、「あなたがた」と分ける。言い分を持ち出した相手に言い返すところ（1.15 の potes、revinceris）、一人の裁き手に向けた tu、existimas、cogis（2.13、2.17〜2.18）がこれに当たる。擬人化した判決（2.7 の censura）への呼びかけは「判決よ、…あなたは」。噂を信じる一人に向けて、入信の手順を皮肉に命じるところ（8.2〜8.3 の Veni, demerge …）は「さあ、来なさい」「〜なさい」。
 - キリスト者の神とキリストの動作は尊敬語にする。異教の神々、ダイモン、哲学者や詩人の説として述べる神には使わない（『オクタウィウス』と同じ）。異教の側の理屈を受けて仮に立てる、人間を神々にした「もっと高い神」（11.1 の sublimior deus、11.3 の ille magnus deus、11.10 の deus deificus、11.16〜11.17 の ille）にも使わず、「あの神」と呼ぶ。
-- 相手の言い分を先に持ち出して反論するところ（inquit、inquitis、inquis、dicitis）は、その言い分を「」に入れ、「と、あなたがたは言います」「と、人は言います」と受ける（地の文なので結びは敬体。1:11、9:5）。「」の中は常体（『オクタウィウス』25:1 と同じ）。inquit のない at enim で反論を持ち出すところも同じにし、「と、人は言うでしょう」と受ける（3:9。『オクタウィウス』32:4 と同じ）。at enim もなく地の文の形で相手の反論を置くところ（8.6 の Sed ignorantibus subicitur et inponitur）も、注釈者が反論と取るなら同じにする。
+- 相手の言い分を先に持ち出して反論するところ（inquit、inquitis、inquis、dicitis）は、その言い分を「」に入れ、「と、あなたがたは言います」「と、人は言います」と受ける（地の文なので結びは敬体。1:11、9:5）。「」の中は常体（『オクタウィウス』25:1 と同じ）。inquit のない at enim で反論を持ち出すところも同じにし、「と、人は言うでしょう」と受ける（3:9。『オクタウィウス』32:4 と同じ）。at enim もなく地の文の形で相手の反論を置くところ（8.6 の Sed ignorantibus subicitur et inponitur、14.5 の Sed propterea damnatus est Socrates）も、注釈者が反論と取るなら同じにする。相手の叫びを先取りするところ（12.6 の O impiae voces, o sacrilega convicia!）は「と、あなたがたは言うでしょう」。言い分の頭の Sed は「」の中で「しかし、」と残す（13:1、14:5）。言い分を持ち出す相手が単数の inquis（13.1）は「と、あなたは言います」とし、言い分の文言は複数の inquitis（10.4）と揃える。
 - 訴えられたキリスト者や、名をそしる人々の言葉（2.13〜2.14、3.1〜3.5）も「」に入れ、常体にする。祭儀の父が入信を望む者に言う言葉（8.8）も「」に入れて常体にし、相手は「おまえ」。Christianus sum は「わたしはキリスト者だ」（『スキリウムの殉教者行伝』『ペルペトゥアとフェリキタスの殉教録』と同じ）。1 節 1 行なので、言葉が節をまたぐときは節ごとに「」を閉じ、次の節で開き直す（2:13〜2:14、3:4〜3:5）。
 - 一文を短く切る。ラテン語の長い文は、主文の動詞を先に見つけ、従属節を「〜ので」「〜とき」「〜ために」でつなぐ。切るときも主文とのつながりを残す。1.1 のように si … si … si … と条件を重ねて主文に至る文は、条件ごとに文を分けてよいが、最後の主文が条件を受けることが分かる形にする。
 - enim は落とさない。前の文の理由を言うときは「〜からです」、話を進めるときは「実際、」。
@@ -49,7 +49,7 @@
 | angelus | 天使 |
 | proconsul | 地方総督（『スキリウムの殉教者行伝』『ペルペトゥアとフェリキタスの殉教録』と同じ） |
 | imperator | 皇帝（5.1 の古い定めの ab imperatore も「皇帝」） |
-| princeps／principalis | 皇帝（4.8 の constantissimus principum「皇帝たちのうちで最も揺るぎない」、5.6）／皇帝の（4.8 の principalium rescriptorum et edictorum「皇帝の勅答と布告」） |
+| princeps／principalis | 皇帝（4.8 の constantissimus principum「皇帝たちのうちで最も揺るぎない」、5.6）／皇帝の（4.8 の principalium rescriptorum et edictorum「皇帝の勅答と布告」）。皇帝でないかしらを指すときは「頭」とし、だれかを括弧で補う（14.3 の principis sui は詩人たちの頭で「自分たちの頭（ホメロス）」） |
 | senatus／consul | 元老院／執政官（5.1、5.4、6.8〜6.9） |
 | maiores／patres、paterna／proavi | 先祖（6.1 の maiorum consulta「先祖の決めたこと」、6.5 の maiorum instituta「先祖の定め」）／父祖（6.1 の paternorum institutorum「父祖の定め」、6.8、6.11）／曾祖父たち（6.10） |
 | tutor（legum）／protector／ultor | 守り手（4.3 の「法の守り手」、6.1 の protectores）／保護者（5.7 の皇帝を言う protector）／背く者を罰する人（6.1） |
@@ -67,8 +67,16 @@
 | templum／delubrum／fanum | 神殿／聖所／社（『オクタウィウス』と同じ） |
 | sacra／caerimoniae | 祭儀／儀式（『オクタウィウス』と同じ） |
 | foculus／acerra | 小さな火鉢／香箱（9:16。キリスト者を試す道具。据え付けの「祭壇」「火壇」にしない） |
-| colere／adorare／venerari | 拝む／（colere と並ぶとき）伏し拝む／あがめる（『オクタウィウス』と同じ） |
-| hostia／victima／sacrificium | いけにえ／犠牲／供え物（『オクタウィウス』と同じ） |
+| colere／adorare／venerari | 拝む／（colere と並ぶとき）伏し拝む／あがめる（『オクタウィウス』と同じ）。adorare が単独で出るときは「拝む」（12.7、13.10） |
+| hostia／victima／sacrificium | いけにえ／犠牲／供え物（『オクタウィウス』と同じ）。sacrificare は「供え物をささげる」（10:1、14:1） |
+| consecrare／consecratio・dedicare・inaugurare | 神として祀る（10:12、12:5。人や像を神にするとき）／奉献（12:1 の consecratione「奉献によって」、12:2 の dedicatur「奉献される」、13:10 の inauguratis「神として奉献する」） |
+| contumelia | 侮辱（12.1、12.6、13.2、13.10、14.5。iniuria と並ぶ 12.6 は「非道や侮辱」） |
+| destruere | 打ち壊す（13.1 の神々の像、14.5 のソクラテスへの非難） |
+| addicere | 引き渡す（13.5 の競売、13.9 の神性の誉れ、14.3 のアポロ） |
+| hastarium／praeco／hasta／quaestor | 競売場（13.5。Oehler の注 e に従い「台帳」にしない）／触れ役／競売の槍／財務官 |
+| tributum／stipendium | 地租／人頭税（13.6） |
+| patibulum | 十字の横木（12.2。像の芯の骨組み。「さらし柱」にしない） |
+| Lares | ラレス（13.4「家の神々を、あなたがたはラレスと呼びます」） |
 | poena／supplicium | 刑罰／罰（『オクタウィウス』と同じ） |
 | veritas | 真理（1.1 の擬人化された veritas も「真理」） |
 | causa | 被告側の件・訴訟のときは「キリスト者をめぐる訴え」のように、キリスト者が訴え出たと読まれない形にする（1:1）。causam apud vos collocare の causa は「理由」（1:4） |
@@ -77,7 +85,7 @@
 | deos facere／dei facti | 神々にする・神々を作る／神々にされた・作られた（作り手の有無が論点なので、作り手が見える形にし、「神々になった」としない。11.1・11.13 は「神々にされた」、11.1〜11.3 の deos facere・factor は「神々を作る」「作り手」） |
 | semel（10.1、11.5、11.17） | きっぱりと、一度かぎりで（Oehler の注。「ひとたび〜すると」の条件にしない） |
 | adseverare／adfirmare | 言い張る（11.1）／断言する（11.11） |
-| notae（11.13） | 汚点 |
+| notae（11.13、13.6） | 汚点（13.6 の notae captivitatis は「囚われの汚点」） |
 | denotare | 文脈で訳し分ける。数や名を言い立てられるときは「非難される」（1:8）、人の過ちを指摘するときは「とがめる」（1:9、3:4）、名を挙げて責められるときは「名指しされる」（1:14）。「言いとがめる」は使わない |
 | interdum | 「さしあたり」（テルトゥリアヌスの interim の意味。1:3） |
 | crimen／scelus／noxa／nocens／reus | 罪／悪事（『オクタウィウス』と同じ）／罪／罪人／罪人（訴えられた者は「訴えられる」と動詞で） |
@@ -116,6 +124,8 @@
 - ut＋名詞（ut innocentes、ut nocentes）は「〜であるかのように」と、扱いの名目を言う形にする（2:6）。
 - sequitur ne（8.11）は結果の否定（「〜とは思わないことになる」）で訳し、recogitare＋ne の見込みの形にしない。7.12 の recogitet, ne は見込みの形（「最初のあの口が嘘をまいたのではないか」）。
 - 文と文をつなぐ小辞を、文を分けても落とさない。理由の quia（10.3 の quia tunc demum …「〜からです」）、前の文の中身を言う quod（11.8「〜からです」）、逆接の atquin（11.13「しかし」。「しかも」にしない）。
+- 当然そうあるべきことを言う直説法の未完了過去（12.7 の merebatur、14.4 の oportebat）は、接続法の事実に反する仮定とは分けて、現在の「〜はずです」「〜はずではありませんか」で訳す。
+- 14.4 の praefentur は、Oehler の注 m に従い「（神々が、ある家の災いや迷いの）元となる」と取り、dei を複数の主語とする（「前口上で語る」としない）。Oehler の注は、ほかの注釈者と語義が分かれるところでも、この本の判断の拠り所にする（4.11 の defendunt、10.1 などの semel、13.5 の hastarium と同じ）。
 - 強めの ipse・ille が指す人が文中に名で出ていないときは、異読にない語を足さない範囲で、指す人を補う（5:3 の ipsius divinitatis は、前の nomen Christianum を受けて「キリストご自身の神性」）。
 
 ## 名前の表
@@ -156,4 +166,11 @@
 | tartarus／inferi | タルタロス／冥府（11.11、11.15。冥府は『オクタウィウス』11:8 と同じ） |
 | Socrates／Aristides／Themistocles／Alexander／Polycrates／Croesus／Demosthenes | ソクラテス／アリステイデス／テミストクレス／アレクサンドロス／ポリュクラテス／クロイソス／デモステネス（11.15） |
 | Cato／Scipio／Pompeius／Sylla／Crassus／Tullius | カトー／スキピオ／ポンペイウス／スッラ／クラッスス／トゥッリウス（キケロ）（11.16。「バックス（父リベル）」と同じく、なじみのある名を括弧で補う。どのカトー・スキピオかは補わない） |
+| Liber／Cybele／Caelestis | リベル（12.4。単独で出るので「父リベル」にしない）／キュベレ（『オクタウィウス』と同じ）／カエレスティス（カルタゴの天の女神） |
+| Seneca | セネカ（12.6。Senecam aliquem は 11.15 の aliquem … Socratem と同じく「セネカのような人」） |
+| Capitolium／forum olitorium | カピトリウム／青物市場（13.5） |
+| Larentina／Lais／Phryne／Simon Magus | ラレンティナ（13.10。底本の形。Larentiam は異読なので『オクタウィウス』25:8 の「アッカ・ラレンティア」に寄せない）／ライス／フリュネ／魔術師シモン（口語訳の使徒八章に合わせる。『第一弁明』の Σίμων Σαμαρεύς「サマリヤ人シモン」とは原語が違う） |
+| Troiani／Achivi／Venus／Aeneas／Diomedes／Mars／Sarpedon | トロイア人／アカイア人／ウェヌス／アエネアス／ディオメデス／マルス／サルペドン（14.2。『オクタウィウス』23:3〜23:4 と同じ。14.2 の cuiusdam monstri は「ある怪物」で、ブリアレオスの名は補わない） |
+| Apollo／Admetus／Neptunus／Laomedon／Pindarus／Aescolapius／Hercules | アポロ／アドメトス／ネプトゥヌス／ラオメドン（『オクタウィウス』23:5 と同じ）／ピンダロス／アエスクラピウス（底本の綴り Aescolapium でも同じ表記）／ヘルクレス（『オクタウィウス』と同じ。14.1、14.6） |
+| Athenienses／Diogenes／Varro Cynicus | アテナイ人／ディオゲネス（どのディオゲネスかは補わない）／キュニコス派ウァロ（14.6） |
 | Cynopaene／Sciapodes | 犬の頭の人々／足で日陰を作る人々（8.5。音を写さず意味で訳す。6.9 の cynocephalus「犬の頭の神」と分ける） |
