@@ -54,7 +54,7 @@
 22.16 Sed aliqua se deo vovit. Iam et crinem exinde transfigurat, et omnem habitum ad mulieris convertit. Totum ergo asseveret, et totum virginis praestet: quod propter deum abscondit, plane obumbret.
 22:16 しかし、神に身をささげたおとめもいます。その人は、それ以来、髪の形も変え、身なりもすべて婦人のものに改めています。それなら、そのことを最後まで貫き、おとめとしての務めもすべて果たすがよいのです。神のために隠しているものは、すっかりおおうがよいのです。
 22.17 Interest nostra quod dei gratia exerceat solius dei conscientiae commendare, ne, quod a deo speramus, ab homine compensemus. Quid denudas ante deum quod ante homines tegis?
-22:17 神の恵みが行わせることは、神おひとりの知るところにだけゆだねるのが、わたしたちのためです。神から望むものを、人から受けて埋め合わせることのないためです。あなたは、人の前では隠しているものを、なぜ神の前ではあらわにするのですか。
+22:17 神の恵みが行わせることは、神おひとりの知るところにだけゆだねるのが、わたしたちのためです。神から望むものを、人から受けて埋め合わせることのないためです。あなたは、人の前ではおおっているものを、なぜ神の前ではあらわにするのですか。
 22.18 Verecundior eris in publico quam in ecclesia? Si dei gratia est, et accepisti, quid gloriaris, inquit, quasi non acceperis? Quid alias ostensione tui iudicas? An alias gloria tua ad bonum invitas?
 22:18 教会の中より、人前でのほうが慎み深くするのですか。それが神の恵みであって、あなたがそれをもらっているのなら、『なぜもらっていないもののように誇るのか』と使徒は言います（第一コリント四・七）。自分を見せることで、なぜほかの人たちを裁くのですか。それとも、自分の誇りによって、ほかの人たちを善へ誘っているのですか。
 // quid gloriaris … quasi non acceperis を口語訳の文言にし、使徒が前に置く Si dei gratia est, et accepisti は地の文にした。iudicas は、Oehler の注 t のとおり、おおいをかけないことで自分が神にささげたおとめであると見せ、ほかの女たちを裁いているように見えること。
@@ -71,7 +71,7 @@
 22.23 De illis tamen, quae sponsis dicantur, constanter super meum modulum pronuntiare contestarique possum velandas ex ea die esse qua ad primum viri corpus osculo et dextera expaverint.
 22:23 けれども、婚約者にささげられたおとめたちについては、わたしの規則を別にしても、きっぱりと宣言し、証言することができます。口づけと右手を交わして、初めて男の体に触れておののいたその日から、おおいをかけるべきです。
 22.24 Omnia enim in his praenupserunt, et aetas per maturitatem, et caro per aetatem, et spiritus per conscientiam, et pudor per osculi experimentum, et spes per exspectationem, et mens per voluntatem.
-22:24 そのような者たちのうちでは、すべてが前もって嫁いでいるのです。年は成熟によって、肉は年によって、霊は自覚によって嫁いでいます。恥じらいは口づけの経験によって、望みは待つことによって、心は意志によって嫁いでいます。
+22:24 そのような者たちのうちでは、すべてが前もって嫁いでいるのです。年は成熟によって、肉は年によって、霊は自覚によって嫁いでいます。恥じらいは口づけの経験によって、望みは待つことによって、思いは意志によって嫁いでいます。
 22.25 Satisque nobis exemplo Rebecca est, quae sponso demonstrato tantum notitia eius nubendo velata est.
 22:25 リベカが、わたしたちには十分な手本です。リベカは、花婿を示されて、ただその人を知っただけで、嫁ぐためにおおいをかけたのです（創世記二四・六五）。
 // 底本の欄外は Gen. XXXIV, 65. と刷るが、三四章に六五節はなく、リベカが被衣で身をおおうのは二四・六五。nubendo は、Oehler の p. 579 の注 b のとおり「嫁ぐために」の意味に取った。

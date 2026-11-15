@@ -127,7 +127,7 @@
 | ferae（12.3 の ferarum voluptati） | 獣のような見物人（注 d の Rigaltius の解。直後の feris は本物の「獣」） |
 | concilium／consessus（『見世物について』3 章） | 集まり（詩篇一・一 の句と揃える。3.4、3.5、7.3 の conventus、8.5 の daemonum concilium も「集まり」）／会合（3.4）。3.7 の ad consessum は「座るために」。8.8 の conciliabula spectaculorum は「見世物の集会所」 |
 | angelus（『見世物について』2.9、2.14） | 天使（『護教論』どおり）。2.9 の angeli は Oehler の注 h のとおりダイモンを指すが、語を足さず `// ` メモに書く |
-| voluptas／gaudium／fructus（saeculi）／vitae gratia | 快楽（14.2 の voluptatis concupiscentia「快楽への欲」。concupiscentia は「欲」）／喜び（gratia「気に入られること」と分ける。17.2 の summa gratia eius dei「劇場の神に最も気に入られるもの」。eius は 17.1 の theatro を受ける）／楽しみ（注 b のとおり享受の意味）／生きる甲斐（『見世物について』2.4〜2.5）。periculum voluptatis, quam vitae（2.4）は「命を失う危険より、快楽を失う危険」と、何が危うくなるかを言う |
+| voluptas／gaudium／fructus（saeculi）／vitae gratia | 快楽（14.2 の voluptatis concupiscentia「快楽への欲」。concupiscentia は「欲」。性の欲の的になることを言う『祈りについて』22.9 の concupiscentiae は、注 h のとおり「情欲をかき立てる」）／喜び（gratia「気に入られること」と分ける。17.2 の summa gratia eius dei「劇場の神に最も気に入られるもの」。eius は 17.1 の theatro を受ける）／楽しみ（注 b のとおり享受の意味）／生きる甲斐（『見世物について』2.4〜2.5）。periculum voluptatis, quam vitae（2.4）は「命を失う危険より、快楽を失う危険」と、何が危うくなるかを言う |
 | ferrum／herbae（『見世物について』2.9） | 鉄（材料として言うところ。手段を言う ferro は「鉄の刃」）／草（毒の材料） |
 | virtus／vires | 力（3.3 の virtutum animi et corporis「精神と体の力」、3.4、3.6） |
 | idololatria | 偶像礼拝 |
@@ -174,9 +174,10 @@
 | scriptura | 聖書（聖書を指すとき）。ほかの書き物を受けるところ（『祈りについて』16.1 の cuius scriptura … Pastor を受ける 16.3 の contra scripturam）は「あの書」 |
 | audere（否定の nec … audent など） | あえて〜する・あえて〜しない（『祈りについて』14.1。「できない」にしない） |
 | obsequium（『祈りについて』9.1、19.1） | 従順（9.1 の oblatio obsequii「従順のささげ物」、19.1 の devotum deo obsequium「神にささげた従順」） |
-| mulier／femina／virgo（『祈りについて』20〜22 章） | 婦人／女性／おとめ。21〜22 章の論は、femina が性そのものの名、mulier が性の中の一つの段階（嫁いだ者）の名かどうかに立つので、口語訳の第一コリント一一章の「女」にせず訳し分ける（口語訳の第一コリント七・三四 も「婦人」「おとめ」）。初出の 21.1 だけ、文型の訳し方の名の由来の型で「婦人（ムリエル）」「女性（フェミナ）」と音を添える。gradus sexus は「性の中の一つの段階」。性を言う形容の feminae・feminino（22.8 の virgines feminae、22.7 の in feminino sexu）は「女の」、男の側の virgines masculi・investis は「男のおとめたち」「まだ大人にならない少年」。『見世物について』『殉教者たちへ』の「女たち」はそのまま |
-| velare・velamentum・velari（『祈りについて』21〜22 章） | おおいをかける・おおい（口語訳の第一コリント一一章の語）。capitis immunitas は「頭のおおいを免じる」。22.25 のリベカの velata est も「おおいをかけた」。tegere・obumbrare・tegumentum も「おおう」「おおい」とひらく（22.14 の texerunt「おおった」、22.16 の obumbret）。22.10 の accipere in uxores は、引用の『妻にめとった』を受ける論でも「妻にめとる」 |
+| mulier／femina／virgo（『祈りについて』20〜22 章） | 婦人／女性／おとめ。21〜22 章の論は、femina が性そのものの名、mulier が性の中の一つの段階（嫁いだ者）の名かどうかに立つので、口語訳の第一コリント一一章の「女」にせず訳し分ける（口語訳の第一コリント七・三四 も「婦人」「おとめ」）。二語を対にして論じ始める 21.1 でだけ、文型の訳し方の名の由来の型で「婦人（ムリエル）」「女性（フェミナ）」と音を添える。gradus sexus は「性の中の一つの段階」。性を言う形容の feminae・feminino（22.8 の virgines feminae、22.7 の in feminino sexu）は「女の」、男の側の virgines masculi・investis は「男のおとめたち」「まだ大人にならない少年」。『見世物について』『殉教者たちへ』の「女たち」はそのまま |
+| velare・velamentum・velari（『祈りについて』21〜22 章） | おおいをかける・おおい（口語訳の第一コリント一一章の語）。capitis immunitas は「頭のおおいを免じる」。22.25 のリベカの velata est も「おおいをかけた」。tegere・obumbrare・tegumentum も「おおう」「おおい」とひらく（22.14 の texerunt「おおった」、22.16 の obumbret、22.17 の tegis）。abscondere は「隠す」（22.16）。22.10 の accipere in uxores は、引用の『妻にめとった』を受ける論でも「妻にめとる」 |
 | habitus／cultus・ornatus／gloria・gloriari（『祈りについて』20〜22 章） | 身なり（15.3 と同じ）／装い・飾り／誇り・誇る（20.2 の vestium gloria「衣の誇り」、22.18 の gloria tua、22.19 の affectione gloriae「誇りたい思い」） |
+| mens（『祈りについて』22.24） | 思い（cor の「心」と分ける） |
 | nubere・nupta・innupta／vacare（『祈りについて』22 章） | 嫁ぐ・嫁いだ者・嫁いでいない（22.15 の年が「時という自分の夫に嫁いだ」、22.20 の nupsisti Christo、22.24 の praenupserunt「前もって嫁いでいる」をつなげる）／夫のない（22.10〜22.11） |
 | institutio／consuetudo（『祈りについて』22.21〜22.22） | 定め／習わし（18 章の consuetudo と同じ）。antecessor は「先人」 |
 | conscientia（『祈りについて』22 章） | 文脈で訳す（22.17 の solius dei conscientiae「神おひとりの知るところ」、22.22 の conscientiae apud deum securitate「神の前の良心の安らかさ」、22.24 の spiritus per conscientiam「霊は自覚によって」） |
