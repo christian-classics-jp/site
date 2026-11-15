@@ -96,6 +96,7 @@
 - recogitare・retractare などに続く ne（「〜ではないか」。Oehler の注が言う直説法の μή の用法）は、ne の節の中の後半（et … も）まで「〜のではないでしょうか」の見込みの形で訳し、事実として言い切らない（2:19、3:2）。
 - 奪格の独立句（2.20 の praesumptis, non probatis criminibus）は、理由の「〜のゆえに」にせず、状況を言う別の文に分ける（「悪事は、決めてかかられただけで、証明されてはいません」）。
 - ut＋名詞（ut innocentes、ut nocentes）は「〜であるかのように」と、扱いの名目を言う形にする（2:6）。
+- 強めの ipse・ille が指す人が文中に名で出ていないときは、異読にない語を足さない範囲で、指す人を補う（5:3 の ipsius divinitatis は、前の nomen Christianum を受けて「キリストご自身の神性」）。
 
 ## 名前の表
 
