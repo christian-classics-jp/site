@@ -18,7 +18,8 @@
 - 綴り（底本は u と v を分け、vobis、civitatis と刷る。conperto、inprudentes、inmusicos などの綴りも）、大文字（底本は文の初めを大文字にする）、句読点は底本のとおり。引用符は刷られたとおりに起こす。
 - 底本の明らかな刷りの誤り（p. 114 の cur nun liceat の nun など）は、正しい形で起こし、訳の `// ` メモに刷られた形を書く（1:6）。
 - 底本の角括弧・イタリック・短剣符・脱落の印などが出てきたら、`books/octavius/AGENTS.md` の「底本の扱い」の扱い（角括弧は残して訳さない、補いは ⟨ ⟩、短剣符と脱落の印は残す）に従い、最初に出たページでここに書き足す。
-- 底本のイタリック（編者が補った語。16.1 の dei、校注に ego とある）は、底本テキストで ⟨ ⟩ に入れて起こす。訳では補いに従い、`// ` メモに補いであることを書く（16:1）。小型の大文字（16.11 の DEUS CHRISTIANORUM）は大文字で、ギリシア文字の語（16.11 の ΟΝΟΚΟΙΗΤΗΣ、17.1 の κόσμον）はギリシア文字で起こす。
+- 底本の角括弧は、意味を校注で確かめてから扱う。後代の書き込みとして削る語句の印なら、『オクタウィウス』と同じく底本テキストに残して訳さない。フルダ写本だけが伝える一節の印（19.1〜19.11 の [Auctoritatem litteris … dei vestri.]。校注 p. 188 の Cap. XIX. 2）は、Oehler が本文として刷るので訳し、訳でも全角の［］で囲む。括弧の始まりの文の句点の前に、訳注「括弧の中は、失われた一つの写本にだけ伝わる文。」を付け、括弧の範囲と、ほかの写本がどこからどこへ続くかを `// ` メモに書く（19:1）。
+- 底本のイタリック（編者が補った語。16.1 の dei は Oehler 自身の補いで、校注に ego とある。19.10 の probata は先行の刊本の補い）は、底本テキストで ⟨ ⟩ に入れて起こす。訳では補いに従い、`// ` メモに補いであることと写本の読みを書く（16:1、19:10）。小型の大文字（16.11 の DEUS CHRISTIANORUM）は大文字で、ギリシア文字の語（16.11 の ΟΝΟΚΟΙΗΤΗΣ、17.1 の κόσμον）はギリシア文字で起こす。
 - 底本の校注の略号は `research/sources.md` の底本の行にある。『護教論』には、失われたフルダ写本（λ）の異読が多く伝わり、ほかの写本と大きく違う本文を示す箇所がある。底本はおおむね写本の大勢の読みを本文に置くが、フルダ写本や少数の写本の読みを採る箇所もある（3.2 の Lucium Titium、3.5 の quam lascivus、3.6 の filium iam）。どちらの場合も訳は底本の読みで行い、ほかの読みは論点一覧に残す。読者の理解が変わる箇所にだけ訳注を付ける。
 - 底本の丸括弧は、訳でも（）に入れてよいが、括弧ごとで一文が 60 字を超えるときは文を分けて括弧を外す。
 
@@ -113,7 +114,12 @@
 | carnifex | 刑吏（7:2） |
 | vitium（mendacii、seminis） | 欠陥（7:9、7:12。7.8 の Fama malum の「悪」と分ける） |
 | aemulatio／aemulus（operatio、ratio） | 敵意（2:19 の裁き手の vestra aemulatio）。悪評や敵対の動機として、張り合う相手へのねたみを挙げるところは「ねたみ」（7:3 の ex aemulatione Iudaei、7:12 の ingenio aemulationis「ねたむ心のたくらみ」）／敵対する（2:19〜2:20 の aemula operatio「敵対する働き」、aemula ratio「敵対する企み」。神に張り合うダイモンの働きを指す。27 章以下の aemulus もこれに揃える） |
-| revincere | 暴く（1:15、3:12） |
+| revincere | 暴く（1:15、3:12）。probare（裏づける）と対になって、書き手の記述を退けるところは「論駁する」（19.14 の aut probat aut revincit） |
+| instrumentum | 書物（聖書や、ユダヤ人の書を言うとき。19.1 の instrumentis istis「これらの書物」、21.1 の Iudaeorum instrumentis も揃える）。18.1 の instrumentum litteraturae は「書き記されたものという備え」（17.1 の instrumentum elementorum「元素の備え」と同じ語）。年代を調べる 19.14 の multis instrumentis は「多くの資料」 |
+| propheta・prophetia／vaticinatio・vaticinari／divinatio | 預言者・預言（18.3、19.1）／預言（19.1 のモーセ、19.11 のシビュラの呼び名）。異教の詩人の vaticinatio は「予言」（19.7 の poeticam vaticinationem「詩の予言」）／予言（20.3〜20.5。divinitas「神性」と並ぶ語で、聖書の予告を言うときも「予言」） |
+| voces／litterae（預言者の） | 声／文字・書物（18.3、19.9、20.4。voces は「言葉」にしない） |
+| iustitia／innocentia | 義（18.2、20.2。「正義」にしない）／潔白（18.2 の iustitiae innocentia「義の潔白」） |
+| censuales（19.14） | 諸民族の起源を伝える書き手たち（Oehler の注 y） |
 | lascivus（3.4〜3.5） | 陽気な、浮かれた（ほめ言葉。「淫らな」にしない） |
 | iniuria（3.5） | 損（「不正」にしない） |
 | probare（3.11） | 証明する（「よしとする」にしない） |
@@ -182,4 +188,11 @@
 | Cornelius Tacitus／Gneus Pompeius／Hierusalem | コルネリウス・タキトゥス（16.1。in quinta historiarum suarum は「その歴史書の第五巻」で、書名を補わない）／グナエウス・ポンペイウス／エルサレム（16.2） |
 | Epona／Pallas Attica／Ceres Pharia／Victoriae | エポナ（『オクタウィウス』28:7 と同じ）／アッティカのパラス／ファロスのケレス（16.6。『オクタウィウス』21:1 のファロスのイシスに揃え、イシスとは補わない）／ウィクトリア（勝利の女神）たち（16.7） |
 | dies solis／dies Saturni | 太陽の日（日曜日）／サトゥルヌスの日（土曜日）（16.10） |
+| Ptolemaeus Philadelphus／Pisistratus／Demetrius Phalereus／Menedemus／Aristaeus／Serapeum | プトレマイオス家の、フィラデルフォスとあだ名される王／ペイシストラトス／ファレロンのデメトリオス／メネデモス／アリステアス／セラピスの神殿（18.4〜18.7） |
+| Hebraei／Iudaei | ヘブル人（口語訳。Hebraeae litterae は「ヘブルの文字」、Hebraicae litterae は「ヘブル語の書」）／ユダヤ人（18.5、18.7） |
+| Prometheus | プロメテウス（18.2。『ギリシア人への演説』と同じ） |
+| Moyses／Danaus／Argos／Inachus Argivus／Priamus／Homerus／Titani／Assyrii | モーセ／ダナオス／アルゴス／アルゴスのイナコス（『ギリシア人への演説』と同じ）／プリアモス／ホメロス／ティタンたち／アッスリヤ人（口語訳）（19.1〜19.3、19.12）。Troianum proelium は「トロイア戦争」、Iliacus exitus は「トロイアの滅び」 |
+| Zacharias／Cyrus／Darius／Thales／Solon／Sibylla | ゼカリヤ／クロス／ダリヨス（口語訳）／タレス／ソロン／シビュラ（19.5、19.11。シビュラは『第一弁明』と同じ） |
+| Aegyptii／Chaldaei／Phoenices／Tyrus | エジプト人／カルデヤ人／ピニケ人／ツロ（口語訳。ピニケは『ギリシア人への演説』と同じ）（19.14） |
+| Manethon／Berosus／Hieromus／Mendesius Ptolemaeus／Menander Ephesius／Iuba／Apion／Iosephus | マネト／ベロッソス／ヒラム（Oehler の推定 Hieromus。口語訳の名）／メンデスのプトレマイオス／エペソのメナンドロス／ユバ王／アピオン（『ギリシア人への演説』と同じ）／ヨセフス（19.14） |
 | Cynopaene／Sciapodes | 犬の頭の人々／足で日陰を作る人々（8.5。音を写さず意味で訳す。6.9 の cynocephalus「犬の頭の神」と分ける） |
