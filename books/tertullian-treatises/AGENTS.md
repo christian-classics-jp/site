@@ -57,6 +57,13 @@
   - 反論を Nemo dicat で退けるところ（4.3）は、反論を「」に入れて常体にし、「と、だれも言ってはなりません」と受ける（『殉教者たちへ』の三人称の接続法の型。推量にしない）。
   - 3.2〜3.3 の創世記一・一〜二 は inquit で引くので、一組で『』に入れる。一・一 は口語訳のまま、一・二 は原文が七十人訳の形（invisibilis et incomposita、ferebatur）で、3.4〜4.2 の論が「運ばれる」の語に立つので、『見世物について』3 章の詩篇一・一 の型で口語訳を下敷きにして原文の語に合わせる。spiritus domini は底本の読みで「主の霊」、4.1 の dei spiritum は「神の霊」。a primordio・In primordio・tunc in primordio は「はじめ」で揃える。
   - 2.5 の第一コリント一・二七 と、人と神のもとの難しさの句は、原文の語（sapientiam eius）に論が立つので、23.4 の型で一組として地の文で言い換える。二つ目の句の出典は底本の欄外のマタイ一九・二六（ルカ一八・二七 はメモ）。
+  - 原文の語が口語訳と違い、論がその語に立つ聖句は、直接引く（sicut in Actis、inquit）なら『』に入れて口語訳を下敷きに原文の語に替え（7.1 の使徒四・二七 の filium「子」。続く論が「父なる神」が子に油を注いだことに立つ。除いた語と口語訳の「僕」をメモに書く）、引かずに論の中で言う（6.2 のマタイ一八・一六 の「三人の証人」）なら、23.4 の型で地の文で言い換える。口語訳の語のまま縮めただけの引用（8.4 のマタイ一〇・一六 の『はとのように素直であれ』）は『』に入れ、除いた前半をメモに書く。引用でない暗示（6.1 のルカ一・七六、6.2 のマタイ二八・一九、7.1 のレビ八・一二、8.3 のマタイ三・一六、8.4 の創世記八・八〜一一、8.5 の第二ペテロ三・七、5.11〜5.12 の創世記一・二六、二・七）には 23.2 の型で出典を付ける。
+  - 5.8 のベトサイダの池（Bethsaida）は、ヨハネ五・二 の池なので口語訳の「ベテスダの池」とし、原文の名をメモに書く。天使の節（ヨハネ五・三 後半〜四）は口語訳が〔 〕で示すので訳注を付けない。5.10 の unum semel anno は原文どおり「一年に一度、一人を」とし、口語訳の「時々」をメモに書く。
+  - 5.11 の imago／similitudo（創世記一・二六）は「かたち」「似る（似ること）」と訳し分ける。口語訳の「かたどって」では名詞の対が出ないため。adflatus（創世記二・七）は「息」。
+  - 7.1 の unde Christus dicitur a chrismate の主語は直前のアロンで、七十人訳レビ四・五 の「油注がれた祭司」（ὁ χριστός）の呼び名。文型の訳し方の名の由来の型で「油注ぎ（クリスマ）にちなんで、油注がれた者（クリストゥス）と呼ばれます」とし、続く quae domino nomen accommodavit は「主にキリストという名を与えた」。
+  - たとえと分からないと文が読めないところ（8.1 の水オルガン。Oehler の注 a）は、注に従って訳文で短く補う（「水オルガンでは」）。spiritus がオルガンの空気と霊に掛けられているので、空気は「息」、神の側は「霊」と訳し分ける。8.2 の Christum deformantes は「キリストをかたどって」とし、X の字か十字架か（注 d）は補わない。
+  - 8.4 の ubi ecclesia est arca figurata は「このひな型では、教会が、前もって示された箱舟なのです」。8.5 の quo male comparetur baptismus diluvio は「この点では、洗礼を洪水にたとえるのはふさわしくない」と取る。
+  - 5.7 の Nympholeptos（Oehler の推定）は訳注を付けず、刊本の読みと CSEL の十字をメモに書く（呼び名の並びの要点は変わらないため）。
   - 1.3 の ΙΧΘΥΝ は、文型の訳し方の 22.5・25.6 の型で「イクテュス」、すなわち「魚」とし、頭字語の説明は補わない（読みの違いではないので訳注も付けない）。1.3 の Itaque illa には、底本より前の版の Ita Quintilla を知らせる訳注を付けた。
 - 人の語りかけの調子は、最初に出たページで決めてここに書く。
 - 『殉教者たちへ』4.2 の女たちへの呼びかけ benedictae は「祝福された女たちよ」（1.1 などの benedicti「祝福された人々よ」と分ける）。霊に向けた三人称の接続法の勧め（4.2 の Colloquatur spiritus、contraponat）は「霊に…させなさい」。
@@ -107,6 +114,12 @@
 | ferri・superferri・supervehi／vectaculum（『洗礼について』3〜4 章） | 運ばれる（創世記一・二 の ferebatur から 4.1〜4.2 まで揃え、運ばれる霊と運ぶ水の対を残す。神の霊について言うが、受け身と読めるよう尊敬語にしない）／乗り物 |
 | genus／species（『洗礼について』4.3〜4.4） | 類／種 |
 | vipera／aspis／regulus（『洗礼について』1.2〜1.3） | 毒蛇／まむし（口語訳ローマ三・一三）／バシリスク。5 章以降に蛇の比喩が戻っても揃える |
+| figura（『洗礼について』） | ひな型（4.1、5.9、6.1、8.4。「ひな形」と書かない）。姿を言うところ（8.3 の columbae figura）は「姿」 |
+| adfectatio・adfectare（『洗礼について』5.5〜5.6） | まねごと・まねる（注 h のとおり神のわざをまねた偽りの似姿。『殉教者たちへ』の「熱中」と意味が違う）。aemulari（5.4 の res dei aemulantis）は「張り合う」、aemulus は「敵対する者」 |
+| intervenire・interventus／arbiter／sponsor・sponsio／testatio（『洗礼について』4〜6 章） | 仲立ちする・仲立ち（4.8、5.8）／立会人（6.2。天使についても、三つの御名の arbitros fidei についても）／保証人・保証（6.2〜6.3 の sponsores salutis、sponsio salutis）／証言。angelus baptismi は『祈りについて』16.4 の「祈りの天使」に揃えて「洗礼の天使」 |
+| unctio・ungere・perungi／chrisma（『洗礼について』7 章） | 油注ぎ・油を注ぐ・油を塗られる／クリスマ（名の由来の型で「油注ぎ（クリスマ）」） |
+| carnalis・carnaliter／spiritalis・spiritaliter（『洗礼について』5.9、7.2） | 肉の・肉において／霊の・霊において（対で通す）。corporaliter は「体として」「体のつくりで」（4.8、8.3） |
+| simplicitas／innocentia（『洗礼について』8.3） | 素直さ（マタイ一〇・一六 の口語訳「素直」とつなぐ。2.1〜2.4 の神のわざの simplicitas「単純さ」とは文脈で分ける）／潔白 |
 | primordium・initium／pristinus（『洗礼について』） | はじめ（3.2、4.1、4.3）／かつての・古い（1.1 の pristinae caecitatis「かつての盲目」、4.5 の de pristina originis praerogativa「起源のときからの古い特権」。「はじめ」と重ねない） |
 | martyr／martyrium | 殉教者／殉教（『護教論』と同じ）。martyres designati は「殉教者となるべき人々」 |
 | carcer／custodiarium | 牢／守りの場所（2.4。注 e のとおり命を守るために預かられている場所） |
@@ -127,7 +140,7 @@
 | agonothetes／xystarches／epistates | 競技の主催者／練習場の長／監督（3.3〜3.4。注 i）。剣闘士の magistri et praepositi（1.3）は「師範や親方」で、「監督」と重ねない |
 | agon／brabium／scamma／palaestra／stadium | 競技／賞／競技の場／練習場／競技場（3.3〜3.6。stadium tribunalis は「裁きの座という競技場」） |
 | athletae／gladiatores | 運動選手／剣闘士 |
-| disciplina（運動選手の） | 規律（『殉教者たちへ』3.5。『護教論』の教えの意味の「教え」と分ける）。キリスト者の disciplina は『護教論』どおり「教え」（『見世物について』1.1 の praescriptum disciplinae「教えの定め」、1.4、3.4、3.8 の admonet disciplinae「教えを守るよう勧める」）。異教の側の世の規律（10.4 の disciplinae etiam humanae「人間の規律さえ」、10.6 の監察官の disciplina）は「規律」、異教の神々が伝えた流儀（11.3 の Castorum … disciplinae）は「教え」。『祈りについて』のキリスト者の disciplina も「教え」（11.3 の disciplina nostra、16.2 の ad instar disciplinae「教えの手本として」、18.4 の disciplinae foris「外では教えに」）。兵士の見張りのたとえの中の 19.3 の administrabit disciplinam は「規律を守る」 |
+| disciplina（運動選手の） | 規律（『殉教者たちへ』3.5。『護教論』の教えの意味の「教え」と分ける）。キリスト者の disciplina は『護教論』どおり「教え」（『見世物について』1.1 の praescriptum disciplinae「教えの定め」、1.4、3.4、3.8 の admonet disciplinae「教えを守るよう勧める」）。異教の側の世の規律（10.4 の disciplinae etiam humanae「人間の規律さえ」、10.6 の監察官の disciplina）は「規律」、異教の神々が伝えた流儀（11.3 の Castorum … disciplinae）は「教え」。『祈りについて』のキリスト者の disciplina も「教え」（11.3 の disciplina nostra、16.2 の ad instar disciplinae「教えの手本として」、18.4 の disciplinae foris「外では教えに」）。兵士の見張りのたとえの中の 19.3 の administrabit disciplinam は「規律を守る」。『洗礼について』7.1 の de pristina disciplina（注 b のとおりユダヤの教え）も「古い教え」で、3.1 の praescriptio「定め」と重ねない |
 | conditio・condere／conditi（『見世物について』） | 造られたもの・造る／造られた者（2.2、2.6、2.13 の perversa administratio conditionis a conditis「造られた者が、造られたものをゆがめて扱うこと」。『護教論』の「ありさま」「定め」「条件」とは意味が違う） |
 | instituere・institutor／convertere・interpolator・aemulus（『見世物について』2 章） | 造る・造り主／ねじ曲げる・ゆがめる者・敵対する者（2.7〜2.8、2.14。aemula vis は「敵対する力」で『護教論』の aemulus に揃える。一人の悪魔を指す同格の並び interpolatoris et aemulatoris angeli は「ゆがめる者、敵対する者である天使」とし、二人に読めないようにする）。corruptela／integritas は「損なわれたもの／損なわれていないもの」、de integritate は「損なわれていない状態から」 |
 | abdicatio（voluptatium、spectaculorum）／abstinentia | 断つこと／控えること（『見世物について』1.3、3.1） |
@@ -255,6 +268,8 @@
 | David／Israëlitae／Aegyptus／Aethiopia | ダビデ／イスラエルの人々／エジプト／エチオピヤ（『見世物について』3.3、3.8〜3.9。口語訳の表記） |
 | Ioseph／Israël／Esaias／Paulus／Carpus／Ionas／publicanus・pharisaeus | ヨセフ／イスラエル／イザヤ／パウロ／カルポ／ヨナ／取税人・パリサイ人（『祈りについて』11〜17 章。口語訳の表記）。14.1 の aliquis Esaias は注 a のとおり強めの言い方で「イザヤのような者」 |
 | Gaiana haeresis／Quintilla（『洗礼について』1 章） | ガイアナ派の異端（底本の名。国の名と紛れないよう「派」を付ける。Pamelius・Rigaltius の Caiana に寄せて「カイン派」にしない）／クィンティラ（1.3 の訳注だけに出る、底本より前の版の読み） |
+| Isis／Mithras（『洗礼について』5.1） | イシス／ミトラス（Isidis alicuius aut Mithrae はさげすみを込めて「イシスだの、ミトラスだのの」） |
+| Bethsaida（piscina）／Aaron／Moyses／Ioseph／Ephrem・Manasses／Iacob（『洗礼について』5〜8 章） | ベテスダの池（口語訳ヨハネ五・二。原文の名はメモ）／アロン／モーセ／ヨセフ／エフライム・マナセ／ヤコブ（口語訳の表記） |
 | Ioannes／Iordanes／Petrus／Tiberis／Philippus・spado | ヨハネ／ヨルダン川／ペテロ／ティベリス川（『護教論』の表）／ピリポ・宦官（口語訳の使徒八章）（『洗礼について』4.4〜4.5） |
 | Petrus／Eva／Adam／Rebecca | ペテロ／エバ／アダム／リベカ（『祈りについて』20〜22 章。口語訳の表記） |
 | Hermas・Pastor／Pythius（oraculum） | ヘルマス・『牧者』（『祈りについて』16.1。このリポジトリの『ヘルマスの牧者』の表記。Hermas ille は注 c のとおりさげすみを込めた言い方で「あのヘルマス」）／ピュトの神託（17.3。『護教論』22.11 の「ピュトの神」に揃える） |
