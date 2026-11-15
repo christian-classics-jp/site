@@ -32,6 +32,7 @@
 - 『見世物について』：「神のしもべたち」（dei servi）、すなわち信仰に近づいている人々と、すでに信仰を告白した人々に向けた論。読み手は「あなたがた」。異教徒や、見世物を擁護する人の言い分は、『護教論』の型（言い分を「」に入れて常体にし、「と、人は言います」と受ける）に従う。
 - 『祈りについて』『洗礼について』：教会の中の読み手に向けた教え。主語が書き手と読み手を含むときは「わたしたち」。『洗礼について』の論敵（1 章で言うカイン派の異端の者）とその仲間への言い返しも、『護教論』の言い分の型に従う。
 - 人の語りかけの調子は、最初に出たページで決めてここに書く。
+- 『殉教者たちへ』4.2 の女たちへの呼びかけ benedictae は「祝福された女たちよ」（1.1 などの benedicti「祝福された人々よ」と分ける）。霊に向けた三人称の接続法の勧め（4.2 の Colloquatur spiritus、contraponat）は「霊に…させなさい」。
 
 ## 主の祈り
 
@@ -59,11 +60,19 @@
 | martyr／martyrium | 殉教者／殉教（『護教論』と同じ）。martyres designati は「殉教者となるべき人々」 |
 | carcer／custodiarium | 牢／守りの場所（2.4。注 e のとおり命を守るために預かられている場所） |
 | mundus／saeculum | 世界／世（2.1 の segregati estis ab ipso mundo, quanto magis a saeculo「世界そのものから切り離された。まして世からは」。saeculo renuntiare は「世を捨てる」） |
-| animus／spiritus／cor | 精神／霊／心（2.11〜2.12、3.2〜3.3。anima は「魂」） |
+| animus／spiritus／cor | 精神／霊／心（2.11〜2.12、3.2〜3.3。aequo animo は成句で「平然と」（4.2）） |
+| anima | 魂。体と並べて死を言うところは「命」（4.9 の si anima potius cesserit plagis, quam corpus「体が屈するより、むしろ命が鞭に負けて尽きるなら」） |
+| caro／spiritus（4.1） | 肉／霊。マタイ二六・四一 の言い換え（caro infirma, spiritus promptus）は、口語訳の「心」「肉体」を「霊」「肉」に替えて地の文に溶かし、promptus は口語訳の「熱している」 |
 | secessus | 隠れ場（2.9〜2.10） |
 | pax（1.7〜1.8） | 平和（教会の中の和解とも、殉教者に請う教会への受け入れとも取れるので、どちらにも寄せない） |
 | sacramentum（3.1） | 誓い（兵士の入隊の誓い。『護教論』の「秘儀」にしない） |
 | militia／miles | 兵役／兵士 |
+| incommoda／durus・acerbus | 不便（3.2、3.6、4.2）／つらい |
+| tormenta／cruciatus・torqueri | 拷問（刑吏や僭主による拷問と刑罰。4.2、4.6、4.7、4.9。『護教論』と同じ）／責め苦・責めさいなむ（5.1、4.7、6.2） |
+| affectatio／affectare | 熱中／熱中して求める（5.1〜6.1。5.3 の quae alii affectaverunt pro vanitate とつなげる） |
+| constantia／constanter | 不屈／不屈の心で（6.1） |
+| venatores／taureae | 獣闘士（『ペルペトゥアとフェリキタスの殉教録』と同じ）／鞭（5.3） |
+| locare ad gladium／se auctorare | 剣の勝負に身売りさせる／身を売る（5.1〜5.2。剣闘士として雇われること） |
 | agonothetes／xystarches／epistates | 競技の主催者／練習場の長／監督（3.3〜3.4。注 i）。剣闘士の magistri et praepositi（1.3）は「師範や親方」で、「監督」と重ねない |
 | agon／brabium／scamma／palaestra／stadium | 競技／賞／競技の場／練習場／競技場（3.3〜3.6。stadium tribunalis は「裁きの座という競技場」） |
 | athletae／gladiatores | 運動選手／剣闘士 |
@@ -82,3 +91,6 @@
 | 原語 | 訳 |
 |---|---|
 | Tertullianus | テルトゥリアヌス |
+| Lucretia／Mucius／Heraclitus／Empedocles／Aetnaeus mons／Peregrinus | ルクレティア／ムキウス／ヘラクレイトス／エンペドクレス／アエトナ山／ペレグリヌス（4.3〜4.4。ムキウスからアエトナ山までは『護教論』の表のとおり。ペレグリヌスは『キリスト者のための嘆願』の「プロテウス」と同じ人とみられるが、原文の名で訳す） |
+| Dido／Asdrubalis uxor／Carthago・Carthaginienses／Scipio／Regulus | ディド／ハスドルバルの妻／カルタゴ・カルタゴ人／スキピオ／レグルス（4.4〜4.5。『護教論』50.6 は名を出さないが、ここは原文に Dido の名がある） |
+| Cleopatra／meretrix Atheniensis／tyrannus／Lacedaemonii・διαμαστίγωσις | クレオパトラ／アテナイの遊女（『護教論』50.8 の Attica meretrix「アッティカの遊女」とは原文の語が違う。名は補わない）／僭主／ラケダイモン人・ディアマスティゴーシス、すなわち鞭打ち（4.6〜4.8） |
