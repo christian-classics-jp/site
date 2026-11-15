@@ -122,6 +122,7 @@
 | exactor（40.10） | （罪の）償いを取り立てる方（nocentiae iudicem et exactorem「罪の裁き手であり、その償いを取り立てる方」） |
 | denique | 1.12 は「現に」。一つ例を挙げる意味の Denique（40.14。注 40 章 t）は「たとえば」、前を受けて促す Denique（42.8。注 42 章 m）は「それなら」 |
 | vectigalia（42.7、42.9） | 神殿の収入（templorum vectigalia）／税（cetera vectigalia「ほかの税」） |
+| profligari（42.7） | 求められる（注 42 章 k。「費やされる」にしない） |
 | honorare（40.14） | 誉れを受ける（Iupiter honoratur「誉れを受けるのはユピテルなのです」。39.5 の honor「誉れ」と揃える） |
 | facinus | 悪事（8:1、9:2。scelus と同じ訳。『オクタウィウス』の「罪」にしない。この本は crimen を「罪」とするため） |
 | homicidium／parricidium／infanticidium | 人殺し／身内殺し（『オクタウィウス』30:2 と同じ）／赤子殺し（9:4〜9:6）。祖国の父（34.2 の pater patriae）である皇帝に背いた者を言う parricidae（35.11）は「反逆者たち」 |
