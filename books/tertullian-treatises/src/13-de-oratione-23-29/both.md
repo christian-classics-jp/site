@@ -42,6 +42,7 @@
 28:2 だれが、あなたがたの手から、これらを求めたのか、とも言われます（イザヤ一・一二）。では、神が何を求められたのかは、福音が教えています。主は、『まことの礼拝をする者たちが、霊とまこととをもって父を礼拝する時が来る』と言われます（ヨハネ四・二三）。
 28.3 Deus enim spiritus est, et adoratores itaque tales requirit. Nos sumus veri adoratores et veri sacerdotes, qui spiritu orantes spiritu sacrificamus orationem hostiam dei propriam et acceptabilem, quam scilicet requisivit, quam sibi prospexit.
 28:3 神は霊だからです。それで、そのような礼拝をする者たちを求めておられるのです（ヨハネ四・二三〜二四）。わたしたちこそ、まことの礼拝をする者、まことの祭司です。霊によって祈り、霊によって、祈りをいけにえとしてささげるのです。祈りこそ、神ご自身のものである、受け入れられるいけにえです。神が求められ、ご自分のために備えられたいけにえなのです。
+// 28.2 のヨハネ四・二三 は、口語訳の初めの「しかし」と、後の「そうだ、今きている」以下を除いた。
 // 底本の欄外は 28.3 の Deus enim spiritus est に「2 Cor. III, 17」を刷る（CSEL も同じ）が、文言はヨハネ四・二四 の「神は霊である」なので、ヨハネ四・二三〜二四 を示した。原文は四・二四 の前半と四・二三 の後半をつなぐので、地の文で言い換えた。
 // adoratores・adorare は、ヨハネ四・二三 を引くので口語訳の「礼拝をする者」「礼拝する」に揃えた。
 28.4 Hanc de toto corde devotam, fide pastam, veritate curatam, innocentia integram, castitate mundam, agape coronatam cum pompa operum bonorum inter psalmos et hymnos deducere ad dei altare debemus, omnia nobis a deo impetraturam.
@@ -51,9 +52,9 @@
 29.1 Quid enim orationi de spiritu et veritate venienti negavit deus, qui eam exigit? Legimus et audimus et credimus quanta documenta efficaciae eius. Vetus quidem oratio et ab ignibus et a bestiis et ab inedia liberabat, et tamen non a Christo acceperat formam.
 29:1 霊とまこととから来る祈りに、それを求めておられる神が、何を拒まれたことがあるでしょうか。わたしたちは、その効き目の証しがどれほど多いかを読み、聞き、信じています。昔の祈りも、火から、獣から、飢えから救い出していました。しかも、まだキリストから形を受けていなかったのです。
 29.2 Ceterum quanto amplius operatur oratio Christiana! Non roris angelum in mediis ignibus sistit, nec ora leonibus obstruit, nec esurientibus rusticorum prandium transfert, nullum sensum passionis delegata gratia avertit, sed patientes et sentientes et dolentes sufferentia instruit, virtute ampliat gratiam, ut sciat fides quid a domino consequatur, intelligens quid pro dei nomine patiatur.
-29:2 まして、キリスト者の祈りは、どれほど大きな働きをすることでしょう。キリスト者の祈りは、火のただ中に露の天使を立たせることはしません^[ダニエル書のギリシア語訳にある、炉の中の話。]。獅子の口をふさぐことも（ダニエル六・二二）、農夫たちの昼食を飢えた者のもとへ運ぶこともしません^[ダニエル書のギリシア語訳にある、ハバククの話とみられる。]。ゆだねられた恵みによって、苦しみの感覚を取り去ることもしません。そうではなく、苦しむ者、感じる者、痛む者を、忍耐によって備えさせ、力によって恵みを増し加えるのです。それは、信仰が主から何を得るのかを知り、神の名のために何を苦しむのかを悟るためです。
-// 露の天使は、七十人訳とテオドティオン訳のダニエル三・四九〜五〇（口語訳にない部分）で、主の天使が炉の中を露を含んだ風が吹くようにした話。底本の欄外は Dan. III, 25 sqq.（付加を含めて数える番号）。
-// 農夫たちの昼食は、底本の欄外は列王紀下四・三八以下を挙げるが、「ベルと竜」三三〜三九 で、ハバククが刈り入れ人たちに運ぶはずの昼食を、天使が獅子の穴のダニエルのもとへ運ばせた話が、語（昼食、刈り入れ人、運ぶ）も、火・獣・飢えの三つの並びもよく合う。
+29:2 まして、キリスト者の祈りは、どれほど大きな働きをすることでしょう。キリスト者の祈りは、火のただ中に露の天使を立たせることはしません^[ダニエル書のギリシア語訳にだけある部分の話。]。獅子の口をふさぐことも（ダニエル六・二二）、農夫たちの昼食を飢えた者のもとへ運ぶこともしません。ゆだねられた恵みによって、苦しみの感覚を取り去ることもしません。そうではなく、苦しむ者、感じる者、痛む者を、忍耐によって備えさせ、力によって恵みを増し加えるのです。それは、信仰が主から何を得るのかを知り、神の名のために何を苦しむのかを悟るためです。
+// 露の天使は、七十人訳とテオドティオン訳のダニエル三・四九〜五〇（口語訳にない部分）で、主の天使が炉の中を露を含んだ風が吹くようにした話。底本の欄外は Dan. III, 25 sqq.（付加を含めて数える番号）。訳注は origen-on-prayer 13:2 の訳注と同じ扱い。
+// 農夫たちの昼食は、底本の欄外は列王紀下四・三八以下（初穂のパンで百人を養う話）を挙げる。一方、「ベルと竜」三三〜三九 の、ハバククが刈り入れ人たちに運ぶはずの昼食を、天使が獅子の穴のダニエルのもとへ運ばせた話も、語（昼食、刈り入れ人、運ぶ）と火・獣・飢えの三つの並びがよく合う。どちらとも決めきれないので、出典も訳注も付けない。
 29.3 Sed et retro oratio plagas irrogabat, fundebat hostium exercitus, imbrium utilia prohibebat. Nunc vero oratio iustitiae omnem iram dei avertit, pro inimicis excubat, pro persequentibus supplicat.
 29:3 昔の祈りは、災いをくだし、敵の軍勢を打ち破り、雨の恵みを止めることさえしました。けれども今、義の祈りは、神の怒りをすべてそらし、敵のために寝ずの番をし、迫害する者のために願うのです（マタイ五・四四）。
 29.4 Mirum si aquas caelestes extorquere novit, quae potuit et ignes impetrare? Sola est oratio quae deum vincit; sed Christus eam nihil mali voluit operari. Omnem illi virtutem de bono contulit.
