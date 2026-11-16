@@ -12,7 +12,8 @@ chapters.txt: one chapter per line, \`<chapter> <text>\` (e.g. \`2 Si certum est
 Each chapter is cut at sentence ends (. ? ! and a closing quote after them; not at ; or :) into
 units of at least 25 words, numbered 1, 2, …; a last piece under 12 words joins the unit before it.
 A period after a praenomen abbreviation (M. Aemilius, Cn., Ti., Sex.), after Kal./Kalend., or after
-a Roman numeral before a date word (XII. Kalend., III. Non., IV. Id.) is not a sentence end.
+a Roman numeral before a date word (XII. Kalend., III. Non., IV. Id.) is not a sentence end, nor is
+an end followed by a dash (an exclamation inside — … ! — that the sentence goes on after).
 The same word counts as tools/tei2labeled.js --split.
 The lines \`<chapter>.<n> <unit>\` are appended to base.txt (created if missing). A chapter that is
 already in base.txt, or one not after the last chapter there, is refused.
@@ -25,7 +26,7 @@ const [src, base] = args
 const ABBR = /(?:^|\s)(?:[A-Z]|Cn|Ti|Sex|Sp|Ap|Kal|Kalend)\.$/
 const DATE_NUM = /(?:^|\s)[IVXL]+\.$/
 const DATE_WORD = /^(?:Kal|Non(?:as|is|ae)\b|Id(?:us|ibus)\b)/
-const joins = (prev, next) => ABBR.test(prev) || (DATE_NUM.test(prev) && DATE_WORD.test(next))
+const joins = (prev, next) => /^[—–]/.test(next) || ABBR.test(prev) || (DATE_NUM.test(prev) && DATE_WORD.test(next))
 const words = (a) => a.join(' ').split(/\s+/).filter(Boolean).length
 
 function units (text) {
