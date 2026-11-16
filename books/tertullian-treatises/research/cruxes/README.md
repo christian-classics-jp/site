@@ -57,7 +57,7 @@ CSEL 20 の『祈りについて』の略号（目次では ABD）：A は同じ
 - A：Ioh. Gangneius の初版（editio princeps、1545 年）。Amg はその版の余白の読み（表の「Signum mg.」）。
 - B：Sigism. Gelenius の版（1550 年。表は、Gelenius がこの書を直すのに、Io. Lelandus から借りた、マスベリの修道院で見つかったブリタニアの写本を使ったと言う、と記す）。
 - a：Iac. Pamelius の版（1579 年）。b：Nic. Rigaltius の版（1634 年）。
-- 校注に名で出る推定・注釈者：Fulv. Ursinus、Fr. Junius、Latinius、Semlerus、Io. Wouwerius。Harrisius、Gasp. Scioppius（15 章の校注 2・3）、Jos. Scaliger（12 章の校注 16・18、17 章の校注 4）も出る。注解には Rigaltius の注と Corbinianus Thomas の解が引かれ、La Cerda の注も引かれる（15 章の注 b など）。
+- 校注に名で出る推定・注釈者：Fulv. Ursinus、Fr. Junius、Latinius、Semlerus、Io. Wouwerius。Harrisius、Gasp. Scioppius（15 章の校注 2・3）、Jos. Scaliger（12 章の校注 16・18、17 章の校注 4、20 章の校注 5）、Desid. Heraldus（20 章の校注 1。アルノビウスへの注で示した推定）も出る。注解には Rigaltius の注と Corbinianus Thomas の解が引かれ、La Cerda の注も引かれる（15 章の注 b など）。
 
 CSEL 20 の『洗礼について』の略号（目次 l. 541 では B だけ）：B は Gangneius の版（Oehler の A）、Bmg はその余白（Oehler の Amg）、Gel は Gelenius（Oehler の B。OCR は「Gei」と読む）、Pam、Iun、Rig、Urs、Lat は刊本と推定者。CSEL の校注には、Wouwerius（OCR は「Wouweruis」）、Hartelius、Oehlerus も名で出る。Harnackius も出る（10.3、13.2、14.2、15.4）。論点一覧では、CSEL の読みを挙げるときは略号ではなく名前で書く（CSEL の B＝Gangneius、Oehler の B＝Gelenius）。CSEL の序（OCR l. 308–312）によると、『洗礼について』は Agobardinus にはなく、今に残るどの写本にも伝わらず、Gangneius の版で初めて世に出た（Gangneius が Agobardinus のほかに使ったもう一つの写本による）。Oehler の序文（p. XVI、OCR l. 653–686）によると、Gelenius はマスベリの写本でこの書を直し補ったが、どこが写本によりどこが推定によるかを示さなかったので、Oehler は理由がなければ Gangneius の版から離れないことにした（その例が 1.3 の「クィンティラ」）。
 
