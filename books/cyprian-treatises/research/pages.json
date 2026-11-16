@@ -4,7 +4,7 @@
   "base": "books/cyprian-treatises/research/hartel-1868-ad-donatum.txt",
   "digitized": false,
   "english_name": "ANF 第 5 巻の英訳（4 作とも R. E. Wallis 訳。『ドナトゥスへ』は Epistle I として載る）。章の番号は 4 作とも底本と同じで、節の番号はない。脚注は [番号] で示され、作品の終わり（横線の後）にまとめてある",
-  "print_name": "Hartel 1868 の印刷版（各ページの上が本文、その下に聖書の箇所と校注。OCR はそれらを混ぜて並べ、斜体の多いページは崩れる。範囲は柱の章の範囲から割り出したので、前後のページと重なる）",
+  "print_name": "Hartel 1868 の印刷版（各ページの上が本文、その下に聖書の箇所と校注。OCR はそれらを混ぜて並べ、ページによっては大きく崩れる。範囲は柱の章の範囲から割り出したので、前後のページと重なる）",
   "pages": [
     {
       "id": "01-ad-donatum-01-05",
@@ -24,7 +24,7 @@
       "id": "03-ad-donatum-11-16",
       "spec": "11-16",
       "english": "cache/ccel.org/anf05.txt:28047-28188",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:607-845",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:607-836",
       "images": "sthascicaecilic00hartgoog:0022-0026"
     },
     {
@@ -32,7 +32,7 @@
       "spec": "1-6",
       "base": "books/cyprian-treatises/research/hartel-1868-de-unitate.txt",
       "english": "cache/ccel.org/anf05.txt:41967-42135",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:9900-10290",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:9900-10245",
       "images": "sthascicaecilic00hartgoog:0218-0225"
     },
     {
@@ -40,7 +40,7 @@
       "spec": "7-11",
       "base": "books/cyprian-treatises/research/hartel-1868-de-unitate.txt",
       "english": "cache/ccel.org/anf05.txt:42136-42266",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:10197-10582",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:10152-10532",
       "images": "sthascicaecilic00hartgoog:0224-0231"
     },
     {
@@ -48,7 +48,7 @@
       "spec": "12-16",
       "base": "books/cyprian-treatises/research/hartel-1868-de-unitate.txt",
       "english": "cache/ccel.org/anf05.txt:42267-42410",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:10479-10777",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:10434-10731",
       "images": "sthascicaecilic00hartgoog:0230-0235"
     },
     {
@@ -80,7 +80,7 @@
       "spec": "7-12",
       "base": "books/cyprian-treatises/research/hartel-1868-de-lapsis.txt",
       "english": "cache/ccel.org/anf05.txt:43655-43799",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:11298-11691",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:11252-11646",
       "images": "sthascicaecilic00hartgoog:0250-0257"
     },
     {
@@ -88,7 +88,7 @@
       "spec": "13-18",
       "base": "books/cyprian-treatises/research/hartel-1868-de-lapsis.txt",
       "english": "cache/ccel.org/anf05.txt:43800-43942",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:11597-11885",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:11550-11840",
       "images": "sthascicaecilic00hartgoog:0256-0261"
     },
     {
@@ -96,7 +96,7 @@
       "spec": "19-24",
       "base": "books/cyprian-treatises/research/hartel-1868-de-lapsis.txt",
       "english": "cache/ccel.org/anf05.txt:43943-44059",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:11791-12077",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:11744-12033",
       "images": "sthascicaecilic00hartgoog:0260-0265"
     },
     {
@@ -104,7 +104,7 @@
       "spec": "25-30",
       "base": "books/cyprian-treatises/research/hartel-1868-de-lapsis.txt",
       "english": "cache/ccel.org/anf05.txt:44060-44218",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:11985-12370",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:11936-12323",
       "images": "sthascicaecilic00hartgoog:0264-0271"
     },
     {
@@ -112,7 +112,7 @@
       "spec": "31-36",
       "base": "books/cyprian-treatises/research/hartel-1868-de-lapsis.txt",
       "english": "cache/ccel.org/anf05.txt:44219-44345",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:12273-12449",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:12226-12444",
       "images": "sthascicaecilic00hartgoog:0270-0274"
     },
     {
@@ -120,7 +120,7 @@
       "spec": "1-7",
       "base": "books/cyprian-treatises/research/hartel-1868-de-dominica-oratione.txt",
       "english": "cache/ccel.org/anf05.txt:44568-44698",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:12450-12732",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:12450-12688",
       "images": "sthascicaecilic00hartgoog:0276-0281"
     },
     {
@@ -128,7 +128,7 @@
       "spec": "8-12",
       "base": "books/cyprian-treatises/research/hartel-1868-de-dominica-oratione.txt",
       "english": "cache/ccel.org/anf05.txt:44699-44822",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:12640-12981",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:12595-12885",
       "images": "sthascicaecilic00hartgoog:0280-0285"
     },
     {
@@ -136,7 +136,7 @@
       "spec": "13-17",
       "base": "books/cyprian-treatises/research/hartel-1868-de-dominica-oratione.txt",
       "english": "cache/ccel.org/anf05.txt:44823-44943",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:12886-13218",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:12786-13173",
       "images": "sthascicaecilic00hartgoog:0284-0291"
     },
     {
@@ -144,7 +144,7 @@
       "spec": "18-21",
       "base": "books/cyprian-treatises/research/hartel-1868-de-dominica-oratione.txt",
       "english": "cache/ccel.org/anf05.txt:44944-45035",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:13174-13367",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:13080-13268",
       "images": "sthascicaecilic00hartgoog:0290-0293"
     },
     {
@@ -152,7 +152,7 @@
       "spec": "22-27",
       "base": "books/cyprian-treatises/research/hartel-1868-de-dominica-oratione.txt",
       "english": "cache/ccel.org/anf05.txt:45036-45156",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:13269-13563",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:13174-13463",
       "images": "sthascicaecilic00hartgoog:0292-0297"
     },
     {
@@ -160,7 +160,7 @@
       "spec": "28-31",
       "base": "books/cyprian-treatises/research/hartel-1868-de-dominica-oratione.txt",
       "english": "cache/ccel.org/anf05.txt:45157-45242",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:13464-13760",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:13368-13663",
       "images": "sthascicaecilic00hartgoog:0296-0301"
     },
     {
@@ -168,7 +168,7 @@
       "spec": "32-36",
       "base": "books/cyprian-treatises/research/hartel-1868-de-dominica-oratione.txt",
       "english": "cache/ccel.org/anf05.txt:45243-45365",
-      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:13664-13797",
+      "print": "cache/archive.org/sthascicaecilic00hartgoog/sthascicaecilic00hartgoog_djvu.txt:13564-13792",
       "images": "sthascicaecilic00hartgoog:0300-0304"
     }
   ]
