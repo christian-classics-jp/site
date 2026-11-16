@@ -19,8 +19,8 @@
 - B：バンベルク写本 476、11 世紀。
 - V：ヴェローナの写本、7 世紀（？）。失われた写本で、Hartel は、Manutius の版の一冊に書き込まれたゲッティンゲンの照合と、刊本の編者の注からその読みを写した。
 - v：刊本（全部あるいはいくつか）。r：ローマの初版（1471 年）。Oxon.：オックスフォード版（1682 年）。
-- Hartel は、SWPMB の異読はすべて校注に載せたが、V は資料に記されたものしか載せられず、M と B は 1〜7 章の校訂にだけ使った、と言う（p. 2）。
-- 校注に名で出る推定・注釈者：Latinius、Rigaltius、Pamelius、Baluzius、Goulartius、Gronovius（『考察』4 巻）、N. Faber、Morellius、Erasmus。Augustinus の『説教』312 は 3〜4 章を引用しており、Hartel はその読みも挙げる（p. 5・6 の校注）。
+- Hartel は、SWPMB の異読はすべて校注に載せたが、V は資料に記されたものしか載せられず、M と B は 1〜7 章の校訂にだけ使った、と言う（p. 2）。ただし校注は 8.4 まで M と B を挙げる（最後は p. 10 の校注 9、8.4 の iusque への legem M）。それより後は S、W、P と刊本だけで、M・B の読みが記されていないことは底本との一致を意味しない。
+- 校注に名で出る推定・注釈者：Latinius、Rigaltius、Pamelius、Baluzius、Goulartius、Gronovius（『考察』4 巻）、N. Faber、Morellius、Erasmus。Augustinus の『説教』312 は 3〜4 章を引用しており、Hartel はその読みも挙げる（p. 5・6 の校注）。6〜10 章の校注には、Felix Oefelius（Krabinger の報告による推定。8.2）、Gronovius の『スタティウス「シルウァエ」についての論考』（Hand の版、7.1）、Halm の『オクタウィウス』への注（8.4）、Baluzius（10.1）が出る。10.6 に出るベネヴェントの写本（cod. Beneuentanus）は p. 2 の略号の表にない。
 
 ## そのほかの資料
 
