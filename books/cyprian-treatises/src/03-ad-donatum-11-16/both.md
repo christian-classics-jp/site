@@ -5,29 +5,29 @@
 11.2 illic etiam fugienda conspicies. quos honores putas esse, quos fasces, quam afluentiam in diuitiis, quam potentiam in castris, in magistratus purpura speciem, in principatus licentia potestatem: malorum blandientium uirus occultum est, et adridentis nequitiae facies quidem laeta, sed calamitatis abstrusae inlecebrosa fallacia.
 11:2 そこにも、逃れるべきものが見えるでしょう。あなたは栄誉や権標を、富のあり余る豊かさや陣営での権勢を、良いものと思っています。政務官の紫の衣のきらびやかさや、支配の座のほしいままな権力もそうです。そこには、甘く誘う悪の毒が隠れています。ほほえみかける邪悪の顔は、なるほど晴れやかです。しかしそれは、ひそんだ災いの、心を誘う欺きなのです。
 11.3 instar quoddam ueneni, ubi in letales sucos dulcedine aspersa calliditate fallendi sapore medicato poculum uidetur esse, quod sumitur: ubi epota res est, pernicies hausta grassatur.
-11:3 それは毒のようなものです。死をもたらす汁に、欺くための巧みさで甘みを振りかけ、薬を盛った味をつけると、口にするものは、ただの飲み物に見えます。けれども飲み干してしまうと、飲み込んだ破滅が体じゅうを荒らし回るのです。
+11:3 それは毒のようなものです。死をもたらす汁に、欺くための巧みさで甘みを振りかけ、味に細工をすると、口にするものは、ただの飲み物に見えます。けれども飲み干してしまうと、飲み込んだ破滅が体じゅうを荒らし回るのです。
 11.4 quippe illum uides, qui amictu clariore conspicuus fulgere sibi uidetur in purpura: quibus hoc sordibus emit, ut fulgeat, quos adrogantium fastus prius pertulit, quas superbas fores matutinus salutator obsedit, quot tumentium contumeliosa uestigia stipatus in clientium cuneos ante praecessit, ut ipsum etiam salutatum comes postmodum pompa praecederet, obnoxia non homini sed potestati.
-11:4 たとえば、あの人を見てください。ひときわ目立つ衣で人目を引き、紫の衣を着て輝いているつもりでいます。しかし、輝くために、どれほど卑しい思いをしてそれを買ったことでしょう。それより前に、どれほど多くの高慢な者たちの尊大さを耐え忍んだことでしょう。朝のあいさつ回りの客として、どれほど多くの横柄な門の前に詰めかけたことでしょう。依頼人の群れにもまれながら、どれほど多くの思い上がった者たちの、人を見下す足取りの先に立って歩いたことでしょう。それは後に、自分もあいさつを受け、供の行列に先導してもらうためでした。その行列が仕えるのは、人ではなく権力なのです。
+11:4 たとえば、あの人を見てください。ひときわ目立つ衣で人目を引き、紫の衣を着て輝いているつもりでいます。しかし、輝くために、どれほど卑しい思いをしてそれを買ったことでしょう。それより前に、どれほど多くの高慢な者たちの尊大さを耐え忍んだことでしょう。朝のあいさつ回りの客として、どれほど多くの横柄な門の前に詰めかけたことでしょう。取り巻きの群れにもまれながら、どれほど多くの思い上がった者たちの、人を見下す足取りの先に立って歩いたことでしょう。それは後に、自分もあいさつを受け、供の行列に先導してもらうためでした。その行列が仕えるのは、人ではなく権力なのです。
 11.5 neque enim coli moribus meruit ille sed fascibus. horum denique uideas exitus turpes. cum auceps temporum palpator abscessit, cum priuati latus nudum desertor adsecla foedauit: tunc laceratae domus plagae conscientiam feriunt, tunc rei familiaris exhaustae damna noscuntur, quibus redemptus fauor uulgi et caducis adque inanibus uotis popularis aura quaesita est.
-11:5 その人が敬われたのは、人柄のためではなく、権標のためだったのです。ついには、こういう人々のみじめな末路を見ることになるでしょう。時勢をうかがってこびへつらう者が、去って行きます。取り巻きは見捨てて、ただの人となった者の無防備な脇腹を辱めます。そのときになって、引き裂かれた家の傷が、良心を打ちます。そのときになって、使い果たした家の財産の損失が知れるのです。その財産で群衆の好意が買われ、移ろいやすくむなしい願いをかけて、民衆の人気が求められたのでした。
+11:5 その人が敬われたのは、人柄のためではなく、権標のためだったのです。ついには、こういう人々の恥ずべき末路を見ることになるでしょう。時勢をうかがってこびへつらう者が、去って行きます。付き従っていた者は見捨てて、ただの人となった者の無防備な脇腹を辱めます。そのときになって、引き裂かれた家の傷が、良心を打ちます。そのときになって、使い果たした家の財産の損失が知れるのです。その財産で群衆の好意が買われ、移ろいやすくむなしい願いをかけて、民衆の人気が求められたのでした。
 11.6 stulta prorsus et uana iactura, frustrantis spectaculi uoluptate id parare uoluisse, quod nec populus acciperet et perderet magistratus.
-11:6 まったく愚かで、むなしい浪費です。期待を裏切る見世物の楽しみによって、手に入れようとしたのですから。民衆は受け取りもせず、政務官は失うだけのものをです。
+11:6 まったく愚かで、むなしい浪費です。民衆は受け取りもせず、政務官は失うだけのものを、期待を裏切る見世物の楽しみで手に入れようとしたのですから。
 
 12.1 Sed et quos diuites opinaris continuantes saltibus saltus et de confinio pauperibus exclusis infinita ac sine terminis rura latius porrigentes, quibus argenti et auri maximum pondus et pecuniarum ingentium uel exstructi aggeres uel defossae strues, hos etiam inter diuitias suas trepidos cogitationis incertae sollicitudo discruciat, ne praedo uastet, ne percussor infestet, ne inimica cuiusque locupletioris inuidia calumniosis litibus inquietet.
-12:1 また、あなたが金持ちと思っている人々もそうです。彼らは牧地に牧地をつなげ、境から貧しい人々を締め出して、果てしなく境のない畑をさらに広げます。銀と金をおびただしい重さで持ち、莫大な金を山と積み上げ、あるいは地に埋めて蓄えています。そういう人々もまた、自分の富のただ中でおびえ、定まらない思いの気苦労にさいなまれています。盗賊が荒らしはしないか。刺客が襲いはしないか。自分より富む誰かの敵意あるねたみが、言いがかりの訴訟で騒ぎを起こしはしないか。
+12:1 また、あなたが金持ちと思っている人々もそうです。彼らは牧地に牧地をつなげ、隣り合う土地から貧しい人々を締め出して、果てしなく境のない畑をさらに広げます。銀と金をおびただしい重さで持ち、莫大な金銭を山と積み上げ、あるいは地に埋めて蓄えています。そういう人々もまた、自分の富のただ中でおびえ、定まらない思いの気苦労にさいなまれています。盗賊が荒らしはしないか。刺客が襲いはしないか。自分より富む誰かの敵意あるねたみが、言いがかりの訴訟で騒ぎを起こしはしないか。
 12.2 non cibus securo somnusue contingit, suspirat ille in conuiuio, bibat licet gemma, et cum epulis marcidum corpus torus mollior alto sinu condidit, uigilat in pluma nec intellegit miser, speciosa sibi esse supplicia, auro se alligatum teneri et possideri magis, quam possidere [diuitias], adque — o detestabilis caecitas mentium et cupiditatis insanae profunda caligo! — cum exonerare se possit et leuare ponderibus, pergit magis fortunis angentibus incubare, porgit poenalibus cumulis pertinaciter adhaerere.
-12:2 その人は、安心して食べることも、眠ることもできません。宴席でも、ため息をつきます。たとえ宝石の杯で飲んでもです。ごちそうでぐったりした体を、柔らかな寝台が深いくぼみに沈めても、羽ぶとんの上で眠れずにいます。みじめな人は気づかないのです。自分の受けている責め苦は、きらびやかなだけだということに。自分は黄金に縛られて捕らえられ、持つよりもむしろ持たれているということに。そして、ああ、なんと忌まわしい思いの盲目、狂った欲のなんと深い闇でしょう。その人は、自分の荷を下ろし、重荷から身を軽くすることができます。それなのに、悩みの種の財産の上に、なおも覆いかぶさり続けます。罰となる積み荷に、なおも頑固にしがみつき続けるのです。
+12:2 その人は、安心して食べることも、眠ることもできません。宴席でも、ため息をつきます。たとえ宝石の杯で飲んでもです。ごちそうでぐったりした体を、柔らかな寝台が深いくぼみに沈めても、羽ぶとんの上で眠れずにいます。みじめな人は気づかないのです。それらが自分にとって、きらびやかな責め苦にすぎないということに。自分は黄金に縛られて捕らえられ、持つよりもむしろ持たれているということに。そして、ああ、なんと忌まわしい思いの盲目、狂った欲のなんと深い闇でしょう。その人は、自分の荷を下ろし、重荷から身を軽くすることができます。それなのに、悩みの種の財産の上に、なおも覆いかぶさり続けます。罰となる積み荷に、なおも頑固にしがみつき続けるのです。
 // 底本は possidere の後に [diuitias]（富を）を刷る。校注によると、編者が取り除くべきとみて角括弧に入れた語なので、訳さない。
 // 底本は二つ目の pergit を porgit と刷る（校注に異同はない）。直前の pergit magis と対になる pergit の誤植とみて、pergit で訳した。
 12.3 nulla in clientes inde largitio est, cum indigentibus nulla partitio est, et pecuniam suam dicunt, quam uelut alienam domi clausam sollicito labore custodiunt, ex qua non amicis, non liberis quicquam, non sibi denique impertiunt, possident ad hoc tantum, ne possidere alteri liceat, et — o nominum quanta diuersitas! — bona appellant, ex quibus nullus illis nisi ad res malas usus est.
-12:3 そこから依頼人にふるまいが配られることはなく、乏しい人々に分け与えられることもありません。彼らはそれを自分の金と呼びます。ところが、他人の金のように家に閉じ込めて、気苦労を重ねて番をしているのです。そこから友にも子供にも、何一つ分けません。ついには、自分自身にさえ分けません。彼らが持つのは、ただ他人に持たせないためだけです。そして、ああ、名と中身がなんと食い違っていることでしょう。彼らはそれを「良いもの」と呼ぶのです。そこから悪いことのほかには、何の役にも立てないというのに。
+12:3 そこから取り巻きにふるまいが配られることはなく、乏しい人々に分け与えられることもありません。彼らはそれを自分の金と呼びます。ところが、他人の金のように家に閉じ込めて、気苦労を重ねて番をしているのです。そこから友にも子供にも、何一つ分けません。ついには、自分自身にさえ分けません。彼らが持つのは、ただ他人に持たせないためだけです。そして、ああ、名と中身がなんと食い違っていることでしょう。彼らはそれを「良いもの」と呼ぶのです。そこから悪いことのほかには、何の役にも立てないというのに。
 
 13.1 An tu uel illos putas tutos, illos saltim inter honorum infulas et opes largas stabili firmitate securos, quos regalis aulae splendore fulgentes armorum excubantium tutela circumstat?
-13:1 それとも、あの人々なら安全だと思いますか。栄誉のしるしの帯と豊かな富に囲まれて、揺るがない堅固さで安心していられると思いますか。王の宮廷の輝きに照らされて光り、寝ずの番をする武器の警護が取り巻いている人々です。
+13:1 それとも、あの人々なら安全だと思いますか。少なくともあの人々は、栄誉のしるしの帯と豊かな富に囲まれて、揺るがない堅固さで安心していられると思いますか。王の宮廷の輝きに照らされて光り、寝ずの番をする武器の警護が取り巻いている人々です。
 13.2 maior illis quam ceteris metus est. tam ille timere cogitur quam timetur. exigit poenas pariter de potentiore sublimitas, sit licet satellitum manu saeptus et clausum ac protectum latus numeroso stipatore tueatur.
 13:2 彼らの恐れは、ほかの人々より大きいのです。その人は、恐れられるのと同じだけ、恐れずにはいられません。高い地位は、権力のある者からも、同じように罰を取り立てます。たとえ護衛の一団に囲まれ、大勢の供で脇を固めて守っていても、そうなのです。
 13.3 quam securos non sinit esse subiectos, tam necesse est non sit et ille securus: ante ipsos terret potestas sua quos facit esse terribiles: adridet, ut saeuiat, blanditur, ut fallat, extollit, ut deprimat.
-13:3 その人は、下にいる者たちを安心させておきません。だから、その人もまた安心していられないのは当然です。権力は、自分が恐ろしい者に仕立てた当の人々を、まず脅かすのです。権力がほほえむのは荒れ狂うため、こびるのは欺くため、持ち上げるのは突き落とすためです。
+13:3 その人は、下にいる者たちを安心させておきません。それと同じだけ、その人自身も、安心していられないのが道理です。権力は、自分が恐ろしい者に仕立てた当の人々を、まず脅かすのです。権力がほほえむのは荒れ狂うため、こびるのは欺くため、持ち上げるのは突き落とすためです。
 13.4 faenore quodam nocendi quam fuerit amplior summa dignitatis et honorum, tam maior exigitur usura poenarum.
 13:4 それは、害を生む利息のようなものです。位と栄誉の元金が大きかったほど、取り立てられる罰の利子も大きくなるのです。
 
@@ -43,7 +43,7 @@
 14:5 太陽がおのずから輝き、昼が照らし、泉がうるおし、雨が露のように降り注ぎます。それと同じように、天の霊はみずからを注ぎ込むのです。魂は天を仰いで自分の造り主を知ると、太陽より高く、この地上のあらゆる権力より高くなります。そして、自分がそうだと信じるとおりの者となり始めるのです。
 
 15.1 Tu tantum, quem iam spiritalibus castris caelestis militia signauit, tene incorruptam, tene sobriam religiosis uirtutibus disciplinam. sit tibi uel oratio adsidua uel lectio. nunc cum Deo loquere, nunc Deus tecum.
-15:1 ただ、あなたは、天の兵役によって霊の陣営に、すでにしるしを付けられた人です。教えを損なわずに保ってください。信心深い徳によって、教えを慎み深く保ってください。絶えず祈るか、さもなければ読むことです。あるときはあなたが神と語り、あるときは神があなたと語られます。
+15:1 ただ、あなたは、天の兵役によって霊の陣営に、すでにしるしを付けられた人です。教えを損なわずに保ってください。信心深い徳によって、教えを慎み深く保ってください。祈りにも、読むことにも、絶えず励んでください。あるときはあなたが神と語り、あるときは神があなたと語られます。
 15.2 ille te praeceptis suis instruat, ille disponat. quem ille diuitem fecerit, nemo pauperem faciet. penuria esse nulla iam poterit, cum semel pectus caelestis sagina saturauerit.
 15:2 神が戒めをもってあなたを教え、整えてくださいますように。神が富ませた人を、誰も貧しくすることはできません。天の糧がひとたび胸を満たしたなら、もう乏しさなどありえません。
 15.3 iam tibi auro distincta laquearia et pretiosi marmoris crustis uestita domicilia sordebunt, cum scieris te excolendum magis, te potius ornandum, domum tibi hanc esse potiorem, quam Dominus insedit templi uice, in qua Spiritus sanctus coepit habitare.
@@ -54,6 +54,6 @@
 15:5 この家は、いつまでも生き生きとした装いと、損なわれない誉れと、長く続く輝きをもってとどまります。消し去られることも、消えることもありえません。ただ、体が再び帰って来るとき、さらにすぐれたものへと形づくられるだけです。
 
 16.1 Haec interim breuibus, Donate carissime. nam etsi facilem de bonitate patientiam, mentem in domino solidam, fidem tutam salutaris auditus oblectat, nihilque tam tuis auribus gratum est, quam quod in Dominum gratum est, moderari tamen dicenda debemus simul iuncti et saepius locuturi, et quoniam feriata nunc quies ac tempus est otiosum, quidquid inclinante iam sole in uesperam dies superest, ducamus hunc diem laeti nec sit uel hora conuiuii gratiae caelestis inmunis.
-16:1 親愛なるドナトゥスよ、ひとまずは手短に、ここまでにしておきます。救いになる話を聞くことは、たしかにあなたを喜ばせます。善良さから出る気安い忍耐、主にあって揺るがない思い、確かな信仰を持つあなたですから。主にあって喜ばしいことほど、あなたの耳に喜ばしいものはありません。それでも、話すことは控えめにしなければなりません。わたしたちはこうして一緒にいて、これからもたびたび語り合うのですから。今は祭りの休みで、ひまな時です。日はもう夕べに傾いていますが、この日の残りを、喜んで過ごしましょう。食事の時さえ、天の恵みと無縁にならないようにしましょう。
+16:1 親愛なるドナトゥスよ、ひとまずは手短に、ここまでにしておきます。救いになる話を聞くことは、たしかにあなたを喜ばせます。善良さから出る気安い忍耐、主にあって揺るがない思い、確かな信仰を持つあなたですから。主に喜ばれることほど、あなたの耳に喜ばしいものはありません。それでも、話すことは控えめにしなければなりません。わたしたちはこうして一緒にいて、これからもたびたび語り合うのですから。今は休みで、くつろいでいられる時です。日はもう夕べに傾いていますが、この日の残りを、喜んで過ごしましょう。食事の時さえ、天の恵みと無縁にならないようにしましょう。
 16.2 sonet psalmos conuiuium sobrium: ut tibi tenax memoria est, uox canora, adgredere hoc munus ex more. magis carissimos pascis, si sit nobis spiritalis auditio, prolectet aures religiosa mulcedo.
-16:2 しらふの宴に、詩篇の歌を響かせましょう。あなたは記憶が確かで、声もよく通ります。いつものように、この務めを引き受けてください。わたしたちが霊的なものを聞き、信仰の甘い調べが耳を引きつけるなら、そのほうが、あなたは親しい友たちをいっそうよくもてなすことになるのです。
+16:2 しらふの宴に、詩篇の歌を響かせましょう。あなたは記憶が確かで、声もよく通ります。いつものように、この務めを引き受けてください。あなたは親しい友たちを、いっそうよくもてなせるでしょう。わたしたちが霊的なものを聞き、信仰の甘い調べが耳を引きつけるならです。
