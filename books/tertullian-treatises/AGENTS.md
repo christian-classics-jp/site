@@ -167,7 +167,7 @@
 | disciplina（運動選手の） | 規律（『殉教者たちへ』3.5。『護教論』の教えの意味の「教え」と分ける）。キリスト者の disciplina は『護教論』どおり「教え」（『見世物について』1.1 の praescriptum disciplinae「教えの定め」、1.4、3.4、3.8 の admonet disciplinae「教えを守るよう勧める」）。異教の側の世の規律（10.4 の disciplinae etiam humanae「人間の規律さえ」、10.6 の監察官の disciplina）は「規律」、異教の神々が伝えた流儀（11.3 の Castorum … disciplinae）は「教え」。『祈りについて』のキリスト者の disciplina も「教え」（11.3 の disciplina nostra、16.2 の ad instar disciplinae「教えの手本として」、18.4 の disciplinae foris「外では教えに」）。兵士の見張りのたとえの中の 19.3 の administrabit disciplinam は「規律を守る」。『洗礼について』7.1 の de pristina disciplina（注 b のとおりユダヤの教え）も「古い教え」で、3.1 の praescriptio「定め」と重ねない |
 | conditio・condere／conditi（『見世物について』） | 造られたもの・造る／造られた者（2.2、2.6、2.13 の perversa administratio conditionis a conditis「造られた者が、造られたものをゆがめて扱うこと」。『護教論』の「ありさま」「定め」「条件」とは意味が違う） |
 | instituere・institutor／convertere・interpolator・aemulus（『見世物について』2 章） | 造る・造り主／ねじ曲げる・ゆがめる者・敵対する者（2.7〜2.8、2.14。aemula vis は「敵対する力」で『護教論』の aemulus に揃える。一人の悪魔を指す同格の並び interpolatoris et aemulatoris angeli は「ゆがめる者、敵対する者である天使」とし、二人に読めないようにする）。corruptela／integritas は「損なわれたもの／損なわれていないもの」、de integritate は「損なわれていない状態から」 |
-| abdicatio（voluptatium、spectaculorum）／abstinentia | 断つこと／控えること（『見世物について』1.3、3.1） |
+| abdicatio（voluptatium、spectaculorum）／abstinentia | 断つこと／控えること（『見世物について』1.3、3.1。断食を言う『洗礼について』20.6 は「食を控えること」とし、18.7 の continentia「節制」と分ける） |
 | circus／theatrum／agon／munus（『見世物について』3.2） | 戦車競走場／劇場（『護教論』と同じ）／競技／剣闘士の試合（spectaculum の「見世物」と分ける）。amphitheatrum は「闘技場」 |
 | munus／officium（9.1、12.1） | 賜物（9.1 の dei munere）・剣闘士の試合／務め（9.1 の daemoniorum officia「ダイモンへの務め」）。12.1 の名の由来は、文型の訳し方の型で「剣闘士の試合（ムヌス）」「務め（オフィキウム）」 |
 | parentatio・parentare／litare | 死者を祭ること・死者を祭る（6.3、12.4、13.2。13.2 の parentatum は「死者を祭るのに使われたもの」）／なだめの供え物とする（12.4） |
@@ -231,7 +231,7 @@
 | velare・velamentum・velari（『祈りについて』21〜22 章） | おおいをかける・おおい（口語訳の第一コリント一一章の語）。capitis immunitas は「頭のおおいを免じる」。22.25 のリベカの velata est も「おおいをかけた」。tegere・obumbrare・tegumentum も「おおう」「おおい」とひらく（22.14 の texerunt「おおった」、22.16 の obumbret、22.17 の tegis）。abscondere は「隠す」（22.16）。22.10 の accipere in uxores は、引用の『妻にめとった』を受ける論でも「妻にめとる」 |
 | habitus／cultus・ornatus／gloria・gloriari（『祈りについて』20〜22 章） | 身なり（15.3 と同じ。体の構えや所作を言う 23.2 の anxietatis habitus は「憂いを表す姿勢」）／装い・飾り／誇り・誇る（20.2 の vestium gloria「衣の誇り」、22.18 の gloria tua、22.19 の affectione gloriae「誇りたい思い」） |
 | mens（『祈りについて』22.24） | 思い（cor の「心」と分ける） |
-| nubere・nupta・innupta／vacare（『祈りについて』22 章） | 嫁ぐ・嫁いだ者・嫁いでいない（22.15 の年が「時という自分の夫に嫁いだ」、22.20 の nupsisti Christo、22.24 の praenupserunt「前もって嫁いでいる」をつなげる）／夫のない（22.10〜22.11） |
+| nubere・nupta・innupta／vacare（『祈りについて』22 章） | 嫁ぐ・嫁いだ者・嫁いでいない（男も含む総称の男性形（『洗礼について』18.7 の innupti、nubant）は「結婚していない人々」「結婚する」。22.15 の年が「時という自分の夫に嫁いだ」、22.20 の nupsisti Christo、22.24 の praenupserunt「前もって嫁いでいる」をつなげる）／夫のない（22.10〜22.11） |
 | institutio／consuetudo（『祈りについて』22.21〜22.22） | 定め／習わし（18 章の consuetudo と同じ）。antecessor は「先人」 |
 | conscientia（『祈りについて』22 章） | 文脈で訳す（22.17 の solius dei conscientiae「神おひとりの知るところ」、22.22 の conscientiae apud deum securitate「神の前の良心の安らかさ」、22.24 の spiritus per conscientiam「霊は自覚によって」） |
 | lex（『祈りについて』22.13 の nostra lex ampliata atque suppleta） | 掟（イスラエルの習わしと対にするキリスト者の掟。動詞は 11.4 の「律法を押し広げ」、1.2 の「補われた」と揃えて「押し広げられ、補われた」） |
@@ -255,7 +255,7 @@
 - 祭りの遊戯の名が神の名から作った形容詞のところ（6.2 の Apollinares、Cereales、Neptunales、Latiares、Florales）は、どの神にささげたかが論の要なので「アポロの遊戯」のように神の名で訳す。神と分かる形にする（Latiares は『オクタウィウス』30:4 の「ラティアリスのユピテル」）。神の名がすぐに分からない Megalenses は「メガレンセスの遊戯」。技の組合の名（11.3 の artium Musicarum et Minervalium et Apollinarium, etiam Martialium）も同じく「ムーサたちの技、ミネルウァの技、アポロの技…マルスの技」。
 - 同じ名の神々をまとめてあざける複数形（10.8 の Apollines、Minervas、Mercurios、11.3 の Herculum、Mercuriorum）は「アポロたち」のように「たち」で残す。もとから二人の Castores は名前の表どおり「カストルの兄弟」。
 - 散文の節の中で詩を引くところ（9.3 のウェルギリウス 2 行）は、行を分けず『』に入れて文に続ける（節の行が切れるので `<br/>` を使わない。『オクタウィウス』19:2 のウェルギリウスの引用と同じ扱い。『護教論』と『オクタウィウス』の both.md には `<br/>` の先例がない）。
-- 書き手が自分を含めて言う一人称複数の勧め（14.1 の tractemus、19.1 の eamus、delectemur）は「〜しましょう」。「〜するがよいでしょう」にしない。三人称の接続法の命令（17.4 の Erubescat senatus）は「〜がよい」。
+- 書き手が自分を含めて言う一人称複数の勧め（14.1 の tractemus、19.1 の eamus、delectemur）は「〜しましょう」。「〜するがよいでしょう」にしない。三人称の接続法の命令（17.4 の Erubescat senatus、『洗礼について』18.5 の Veniant、fiant Christiani、18.6 の Norint）は「〜がよい」。使役の命令（「来させなさい」）にしたり、原文にない「待ちなさい」を補ったりしない。
 - 書き手が皮肉で、ありえないことを神の働きとして言うところ（23.7 の a deo, cum plasmaretur accepit、illi oculos deus commendavit）は「とでもいうのでしょう」「というのでしょう」と受け、書き手の主張と読まれないようにする。
 - 語として取り上げるギリシア語（『祈りについて』22.5 の γυναῖκας、θηλείας、γυναῖκα）は、格の形にかかわらず辞書の形の音で「ギュネー」「テーレイア」と「」に入れ、どの訳語に当たるかを訳文で示す。
 - ギリシア語の発話や歓呼（25.6 の ἀπ᾽ αἰῶνος）は、音を片仮名にして「」に入れ、「、すなわち「永遠の昔から」」と意味を添える（『殉教者たちへ』4.8 の διαμαστίγωσις と同じ形）。
@@ -267,6 +267,8 @@
 - 理由の奪格（『洗礼について』10.8 の sola se paenitentia tinguere。Oehler の注 f）は「〜のために」と訳し、手段の「〜によって」にしない。
 - 比べる形の plus … aut minus（『洗礼について』4.5）は、比べる相手を「ほかの人より」と補って比較を見せる。
 - 受け身の動詞に付く ab ＋人の奪格（『洗礼について』17.2 の abscondi ab ullo）は、前後に並ぶ句（17.3 の ab omnibus exerceri potest）とつながるなら行為者で取り、「だれも隠してはならない」とする。「だれからも隠されてはならない」（だれに対しても）にしない。
+- 予告の副詞と理由の組（『洗礼について』20.3 の Et ideo … tentati sunt, quoniam obdormierunt）は、「試みられたのは、眠り込んだからです」と一つの因果にまとめ、「ですから」と「ので」を重ねない。
+- 神やキリストが主語の受け身（『洗礼について』18.2 の dominus ostenditur）は、尊敬語の「主が示され」と紛れないよう、「主のことが示され」とする。
 - 制限の勧めの接続法 Sufficiat（『洗礼について』17.4）は「〜だけで、十分としなさい」とし、平叙の「十分なのです」にしない。
 - 指示の代名詞の is・ille がすぐ前の文の主語と別の人を指すところ（『洗礼について』17.7 の is … qui はパウロで、直前の文の主語はアジアの長老）は、名を出す（「パウロは」）。
 - praescribere などの後に、言う中身が対格と不定法で続くところ（10.10 の altius praescripsisse debemus daemonas … inspirasse）は「前もって、次のことを言っておく」と受け、中身を次の文に出す。
