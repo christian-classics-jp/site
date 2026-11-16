@@ -68,6 +68,8 @@
   - たとえと分からないと文が読めないところ（8.1 の水オルガン。Oehler の注 a）は、注に従って訳文で短く補う（「水オルガンでは」）。spiritus がオルガンの空気と霊に掛けられているので、空気は「息」、神の側は「霊」と訳し分ける。8.2 の Christum deformantes は「キリストをかたどって」とし、X の字か十字架か（注 d）は補わない。
   - 8.4 の ubi ecclesia est arca figurata は「このひな型では、教会が、前もって示された箱舟なのです」。8.5 の quo male comparetur baptismus diluvio は「この点では、洗礼を洪水にたとえるのはふさわしくない」と取る。
   - 5.7 の Nympholeptos（Oehler の推定）は訳注を付けず、刊本の読みと CSEL の十字をメモに書く（呼び名の並びの要点は変わらないため）。
+  - 13〜17 章の聖句：直接引き、論が原文の語に立つもの（13.3 のマタイ二八・一九 の docete と tinguentes。14.3 と 17.7 が「宣べ伝える・教える」と「浸す」の組に立つ）は 7.1 の型で『行って、国民を教え、父と子と聖霊との名によって、彼らを浸しなさい』とし、論が語にかからない in nomen は口語訳の「名によって」。13.3 のヨハネ三・五 は、論が水による洗礼の必要に立つので口語訳の文言（『神の国』）にし、renatus・regnum caelorum をメモに書く（12.1 と扱いが違う）。13.4 の使徒九・六 は「町」を原文の「ダマスコ」に替え、その語を持つ二二・一〇 を並べて出典にする。14.1 の第一コリント一・一七 と 16.1 のルカ一二・五〇 は tinguere を「浸す」に替え、16.1 の baptismus は口語訳の「バプテスマ」のまま。17.7 の第一コリント一四・三四〜三五 は『祈りについて』1.5 の型で縮め、『黙っていなければならない』、また『家で自分の夫に尋ねるがよい』とする。間接に言うもの（14.3 の一・一七、16.1 の第一ヨハネ五・六、17.4 の第一コリント六・一二、一〇・二三）は地の文。暗示（13.4 の使徒九・一八、二二・八、14.1 の一・一四、一六、14.2 の一・一二、15.1 のエペソ四・四〜六 と、注 c による ex domini evangelio のヨハネ一三・一〇、16.2 のヨハネ一九・三四）には出典を付け、箇所が一つに決まらない暗示（13.1 のアブラハム、16.1 の vocatos・electos）には付けない。
+  - 17.6 のパウロの名の偽りの書（『パウロ行伝』）とテクラは、本文が話を物語っているので『殉教者たちへ』4.7 の型で補わず、書の名は `// ` メモに書く。訳注も付けない（別の読みでも後代の挿入でもないため）。17.5 の nova bestia … similis pristinae、illa は 1.2〜1.3 の女を指すが、1.3 に訳注があるので補わない。
   - 1.3 の ΙΧΘΥΝ は、文型の訳し方の 22.5・25.6 の型で「イクテュス」、すなわち「魚」とし、頭字語の説明は補わない（読みの違いではないので訳注も付けない）。1.3 の Itaque illa には、底本より前の版の Ita Quintilla を知らせる訳注を付けた。
 - 人の語りかけの調子は、最初に出たページで決めてここに書く。
 - 『殉教者たちへ』4.2 の女たちへの呼びかけ benedictae は「祝福された女たちよ」（1.1 などの benedicti「祝福された人々よ」と分ける）。霊に向けた三人称の接続法の勧め（4.2 の Colloquatur spiritus、contraponat）は「霊に…させなさい」。
@@ -122,6 +124,8 @@
 | praeministrare（『洗礼について』10.3、11.3） | 仕える（10.3 の caelestibus praeministrabat「天のもののために先立って仕えていた」、11.3 の cui praeministratur「人がその下で仕えている、その人」） |
 | vita（『洗礼について』） | いのち（1.1 の「永遠のいのち」、11.5、12.1 のヨハネ三・五 の「いのちを持たない」。『護教論』の「永遠のいのち」と同じ。同じページの「命令」の「命」と紛れないよう、mandatum は「命令」） |
 | sanctificatio（『洗礼について』） | 聖とする・聖とされること（4.5、10.7。「清め」と同じ音の「聖め」と書かない） |
+| episcopus／presbyter／diaconus／summus sacerdos／laici・discentes（『洗礼について』17 章） | 監督／長老／執事（このリポジトリの『イグナティオスの手紙』『第一クレメンス』『ディダケー』と同じ）／最高の祭司（口語訳の「大祭司」はユダヤの大祭司やキリストの呼び名と重なるので使わない）／信徒・弟子である信徒たち（discentes は注 b のとおり直前の laici を言う）。episcopatus は「監督の職」、officium は「務め」、schismata は「分裂」（14.2 と 17.4） |
+| fides（fidei proximum。『洗礼について』17.7） | 本当らしさ（「どうして本当らしく思われるでしょうか」。成句で「信仰」の意味でないところは「本当らしい」「信じられる」と訳す） |
 | candidatus（『洗礼について』10.7） | 候補者（まだ得ていないものを待ち望む者。Oehler の注 e） |
 | figura（『洗礼について』） | ひな型（4.1、5.9、6.1、8.4。「ひな形」と書かない）。姿を言うところ（8.3 の columbae figura）は「姿」 |
 | adfectatio・adfectare（『洗礼について』5.5〜5.6） | まねごと・まねる（注 h のとおり神のわざをまねた偽りの似姿。『殉教者たちへ』の「熱中」と意味が違う）。aemulari（5.4 の res dei aemulantis）は「張り合う」、aemulus は「敵対する者」 |
@@ -143,7 +147,7 @@
 | incommoda／durus・acerbus | 不便（3.2、3.6、4.2）／つらい |
 | tormenta／cruciatus・torqueri | 拷問（刑吏や僭主による拷問と刑罰。4.2、4.6、4.7、4.9。『護教論』と同じ）／責め苦・責めさいなむ（5.1、4.7、6.2） |
 | affectatio／affectare | 熱中／熱中して求める（5.1〜6.1。5.3 の quae alii affectaverunt pro vanitate とつなげる） |
-| constantia／constanter | 不屈／不屈の心で（6.1） |
+| constantia／constanter | 不屈／不屈の心で（『殉教者たちへ』6.1）。『洗礼について』17.5 の constantia succurrentis と 17.7 の ne discere quidem constanter は、Oehler の注 f・注 m のとおり、ためらわない大胆さの意味なので「臆せず」で揃える（「助ける者が臆せず手を出すこと」「臆せずに学ぶこと」） |
 | venatores／taureae | 獣闘士（『ペルペトゥアとフェリキタスの殉教録』と同じ）／鞭（5.3） |
 | locare ad gladium／se auctorare | 剣の勝負に身売りさせる／身を売る（5.1〜5.2。剣闘士として雇われること） |
 | agonothetes／xystarches／epistates | 競技の主催者／練習場の長／監督（3.3〜3.4。注 i）。剣闘士の magistri et praepositi（1.3）は「師範や親方」で、「監督」と重ねない |
@@ -187,7 +191,7 @@
 | renuntiare・renuntiatio／eieratio／lavacrum／signaculum | 捨てる・放棄／捨てる誓い（4.5）／洗い（4.3。テトス三・五 の口語訳「再生の洗い」の語）／印（4.1）。洗い・印が洗礼を指すことは補わない。25.6 の in Sanctum（注 d のとおり聖餐）も「聖なるもの」とだけ訳して補わない。eierare は「捨てると誓う」（24.1〜24.2）。24.2 の nonne eieramus et rescindimus signaculum は誓いを裏返して言うので「印そのものを捨て去り、破る」。24.3 の renuntient は「告げる」の意味なので「捨てる」と訳し分ける。『祈りについて』13.2 の lavacrum totius corporis は体を洗うことなので「全身を洗う浴場」とし、洗礼の「洗い」と分ける（13.3 の quas cum toto corpore in Christo semel lavimus は洗礼を指すとみられるが、補わない）。18.1 の signaculum orationis は「祈りに押す印」 |
 | ludi／ludus・lusus／ludii／circenses | 遊戯（agon の「競技」と分ける。5.3 の語源の言葉遊びを残すため）／遊び・戯れ／遊ぶ者たち（5.3。Oehler の推定）／戦車競走（の遊戯）。剣闘士の ludus（19.4〜19.5 の in ludum veneunt、damnantur in ludum）は「剣闘士の養成所」「養成所」 |
 | origo／titulus・nomen／apparatus・paratura／locus／ars（『見世物について』4.4 で挙げ、5〜9 章で論じる項目） | 起源／名（6.4 の sub quo nomine et titulo は「どんな名で、どんな呼び名のもとに」）／装い・しつらえ（4.3）／場所／技。4.4 と 8.11 の dicentur・dicantur は dicare の形と取り「ささげられている」。quibus praesidibus は「どんな守り神に」。15.2 の principalis titulus idololatriae は論の項目を言うので「偶像礼拝という主な項目」 |
-| census（『見世物について』7.5、8.5） | 出どころ（『護教論』21.29 と同じ。注 h）。7.5 では locuples、splendida との掛け合いを「その罪の出どころによって、豊かで、きらびやか」で残す |
+| census（『見世物について』7.5、8.5） | 出どころ（『護教論』21.29 と同じ。注 h）。7.5 では locuples、splendida との掛け合いを「その罪の出どころによって、豊かで、きらびやか」で残す。『洗礼について』17.3 の aeque dei census は注 c のとおり「神の財」 |
 | currus／tensa／armamaxa／sedes／exuviae／simulacra／imagines（7.2、7.5） | 車／神々の持ち物を運ぶ車／覆いのある車／玉座／神々の装身具／像／肖像。plaustrum は「荷車」 |
 | metae（primae、Murciae）／euripus／ova／delphines／columnae（8 章） | 折り返しの柱（第一の、ムルキアの）／水路／卵の飾り／イルカの像／柱 |
 | reges（6.2 の solemnibus regum、30.3 の天に迎えられたと告げられた reges） | 皇帝たち（Oehler の注 c のとおり皇帝の祝い。30.3 は神格化された皇帝たち。`// ` メモに原文の語を書く）。16.7 の principes も『護教論』の princeps どおり「皇帝たち」。軍の文脈の princeps（24.4 の signis et sacramentis principis sui「自分の主君の軍旗と、主君への誓い」）は「主君」 |
@@ -251,6 +255,9 @@
 - 何が先かを言う述語の primus（『洗礼について』3.6 の primis aquis praeceptum est、Primus liquor quod viveret edidit）は、「最初の水」とせず、「まず水に」「最初に生み出したのは、水なのです」と訳す。「原初の水」の意味に読まれないようにするため。
 - 理由の奪格（『洗礼について』10.8 の sola se paenitentia tinguere。Oehler の注 f）は「〜のために」と訳し、手段の「〜によって」にしない。
 - 比べる形の plus … aut minus（『洗礼について』4.5）は、比べる相手を「ほかの人より」と補って比較を見せる。
+- 受け身の動詞に付く ab ＋人の奪格（『洗礼について』17.2 の abscondi ab ullo）は、前後に並ぶ句（17.3 の ab omnibus exerceri potest）とつながるなら行為者で取り、「だれも隠してはならない」とする。「だれからも隠されてはならない」（だれに対しても）にしない。
+- 制限の勧めの接続法 Sufficiat（『洗礼について』17.4）は「〜だけで、十分としなさい」とし、平叙の「十分なのです」にしない。
+- 指示の代名詞の is・ille がすぐ前の文の主語と別の人を指すところ（『洗礼について』17.7 の is … qui はパウロで、直前の文の主語はアジアの長老）は、名を出す（「パウロは」）。
 - praescribere などの後に、言う中身が対格と不定法で続くところ（10.10 の altius praescripsisse debemus daemonas … inspirasse）は「前もって、次のことを言っておく」と受け、中身を次の文に出す。
 
 ## 名前の表
@@ -281,5 +288,6 @@
 | Isis／Mithras（『洗礼について』5.1） | イシス／ミトラス（Isidis alicuius aut Mithrae はさげすみを込めて「イシスだの、ミトラスだのの」） |
 | Bethsaida（piscina）／Aaron／Moyses／Ioseph／Ephrem・Manasses／Iacob（『洗礼について』5〜8 章） | ベテスダの池（口語訳ヨハネ五・二。原文の名はメモ）／アロン／モーセ／ヨセフ／エフライム・マナセ／ヤコブ（口語訳の表記） |
 | Ioannes／Iordanes／Petrus／Tiberis／Philippus・spado | ヨハネ／ヨルダン川／ペテロ／ティベリス川（『護教論』の表）／ピリポ・宦官（口語訳の使徒八章）（『洗礼について』4.4〜4.5） |
+| Abraham／Paulus／Damascus／Nazarenus／Gaius／Crispus／Stephanas／Apollo（人）／Thecla／Asia（『洗礼について』13〜17 章） | アブラハム／パウロ／ダマスコ／ナザレ人／ガイオ／クリスポ／ステパナ（「ステパナの家の者たち」）／アポロ（口語訳の表記。神のアポロと同じ表記だが文脈で紛れない）／テクラ／アジア（口語訳の表記。テクラは口語訳にない） |
 | Petrus／Eva／Adam／Rebecca | ペテロ／エバ／アダム／リベカ（『祈りについて』20〜22 章。口語訳の表記） |
 | Hermas・Pastor／Pythius（oraculum） | ヘルマス・『牧者』（『祈りについて』16.1。このリポジトリの『ヘルマスの牧者』の表記。Hermas ille は注 c のとおりさげすみを込めた言い方で「あのヘルマス」）／ピュトの神託（17.3。『護教論』22.11 の「ピュトの神」に揃える） |
