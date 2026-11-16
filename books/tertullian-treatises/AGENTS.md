@@ -118,7 +118,7 @@
 | ferri・superferri・supervehi／vectaculum（『洗礼について』3〜4 章） | 運ばれる（創世記一・二 の ferebatur から 4.1〜4.2 まで揃え、運ばれる霊と運ぶ水の対を残す。神の霊について言うが、受け身と読めるよう尊敬語にしない）／乗り物 |
 | genus／species（『洗礼について』4.3〜4.4） | 類／種 |
 | vipera／aspis／regulus（『洗礼について』1.2〜1.3） | 毒蛇／まむし（口語訳ローマ三・一三）／バシリスク。5 章以降に蛇の比喩が戻っても揃える |
-| caelestis／terrenus／humanus（『洗礼について』10 章） | 天のもの／地のもの／人間のもの（10.1 の問いから 10.6 まで揃える）。10.2 の mandatu, non et potestate は「神の命によるのであって、神の力によるのではない」とし、10.3 の in hominis potestate「人の力のうちに」と potestas を「力」で揃える |
+| caelestis／terrenus／humanus（『洗礼について』10 章） | 天のもの／地のもの／人間のもの（10.1 の問いから 10.6 まで揃える）。10.2 の mandatu, non et potestate は「神の命令によるのであって、神の力によるのではない」とし、10.3 の in hominis potestate「人の力のうちに」と potestas を「力」で揃える |
 | praeministrare（『洗礼について』10.3、11.3） | 仕える（10.3 の caelestibus praeministrabat「天のもののために先立って仕えていた」、11.3 の cui praeministratur「人がその下で仕えている、その人」） |
 | vita（『洗礼について』） | いのち（1.1 の「永遠のいのち」、11.5、12.1 のヨハネ三・五 の「いのちを持たない」。『護教論』の「永遠のいのち」と同じ。同じページの「命令」の「命」と紛れないよう、mandatum は「命令」） |
 | sanctificatio（『洗礼について』） | 聖とする・聖とされること（4.5、10.7。「清め」と同じ音の「聖め」と書かない） |

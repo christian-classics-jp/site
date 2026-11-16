@@ -47,7 +47,7 @@
 11.2 Non utique sic intelligendum est, sed simpliciter dictum more communi. Sicut est verbi gratia: Imperator proposuit edictum, aut Praefectus fustibus cecidit: numquid ipse proponit, aut numquid ipse caedit?
 11:2 もちろん、そう理解すべきではありません。これは、ただ世の常の言い方で言われたのです。たとえば、「皇帝が布告を掲げた」とか、「長官が棒で打った」とか言います。では、皇帝が自分で布告を掲げるのでしょうか。長官が自分で打つのでしょうか。
 11.3 Semper is dicitur facere cui praeministratur. Ita erit accipiendum, Ipse vos tinguet, pro eo quod est, Per ipsum tinguemini, vel in ipsum. Sed ne moveat quosdam quod non ipse tinguebat.
-11:3 いつも、行う者と言われるのは、人がその下で仕えている、その人のほうです。ですから、『このかたは、おまえたちをお浸しになる』という言葉も（マタイ三・一一）、そう受け取るべきでしょう。このかたによって浸される、あるいはこのかたへと浸される、という意味です。けれども、主がご自身では浸すことをなさらなかったことに、だれもつまずいてはなりません。
+11:3 いつも、行う者と言われるのは、人がその下で仕えている、その人のほうです。ですから、『このかたは、おまえたちをお浸しになるであろう』という言葉も（マタイ三・一一）、そう受け取るべきでしょう。このかたによって浸される、あるいはこのかたへと浸される、という意味です。けれども、主がご自身では浸すことをなさらなかったことに、だれもつまずいてはなりません。
 // マタイ三・一一 は口語訳を下敷きにし、原文が引かない「聖霊と火とによって」を除き、「バプテスマをお授けになるであろう」を原文の tinguet の語で替えた。cui praeministratur は 10:3 の praeministrabat と揃えて「仕える」。
 11.4 In quem enim tingueret? In paenitentiam? quo ergo illi praecursorem? In peccatorum remissionem, quam verbo dabat? in semetipsum, quem humilitate celabat? in spiritum sanctum, qui nondum a patre descenderat?
 11:4 というのも、主は、何へとお浸しになればよかったのでしょうか。悔い改めへでしょうか。それなら、何のために先駆けが要ったでしょう。罪のゆるしへでしょうか。主は、それを言葉によって与えておられました（マタイ九・二）。ご自身へでしょうか。主は、へりくだりによって、ご自身を隠しておられました。聖霊へでしょうか。聖霊は、まだ父のもとから降っていませんでした（ヨハネ七・三九）。
