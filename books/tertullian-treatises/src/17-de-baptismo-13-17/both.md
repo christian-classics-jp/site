@@ -1,7 +1,7 @@
 # 洗礼について　13〜17 章　信仰と洗礼、一つの洗礼、血の洗い、洗礼を授ける者
 
 13.1 Hic ergo scelestissimi illi provocant quaestiones. Adeo dicunt: Baptismus non est necessarius quibus fides satis est; nam et Abraham nullius aquae nisi fidei sacramento deo placuit.
-13:1 そこで、あの極悪の者たちは、問いを持ち出します。彼らは、こうまで言うのです。「信仰で足りる者には、洗礼は必要ではない。アブラハムも、水の秘儀によらず、ただ信仰の秘儀によって、神に喜ばれたのだから」。
+13:1 そこで、あの極悪の者たちは、問いを持ち出します。「信仰で足りる者には、洗礼は必要ではない。アブラハムも、水の秘儀によらず、ただ信仰の秘儀によって、神に喜ばれたのだから」と、彼らはこうまで言うのです。
 13.2 Sed in omnibus posteriora concludunt, et sequentia antecedentibus praevalent. Fuerit salus retro per fidem nudam ante domini passionem et resurrectionem. At ubi fides aucta est credendi in nativitatem, passionem resurrectionemque eius, addita est ampliatio sacramento, obsignatio baptismi, vestimentum quodammodo fidei, quae retro erat nuda, nec potest iam sine sua lege.
 13:2 しかし、どんなことでも、後のものが締めくくり、続くものが先立つものにまさるのです。以前、主の受難と復活の前には、裸の信仰によって救いがあったとしましょう。けれども、信仰が増し加わって、主の誕生と受難と復活を信じるようになると、秘儀に広がりが加えられました。洗礼による封印です。それは、いわば信仰の衣です。信仰は、以前は裸でしたが、今では自分の掟なしには何もできません。
 13.3 Lex enim tinguendi imposita est et forma praescripta. Ite, inquit, docete nationes, tinguentes eas in nomen Patris et Filii et Spiritus Sancti. Huic legi collata definitio illa, Nisi quis renatus fuerit ex aqua et spiritu, non intrabit in regnum caelorum, obstrinxit fidem ad baptismi necessitatem.
@@ -19,7 +19,7 @@
 14:2 もっとも、たとえキリストが、浸すためにパウロをお遣わしにならなかったとしても、です。それでも、ほかの使徒たちには、浸すようお命じになっていました。けれども、これは、そのときのありさまに応じて、コリント人に書き送られたことです。彼らのあいだに、分裂と争いが起きていたからです。ある者はパウロに、ある者はアポロに、すべてを帰していたのです（第一コリント一・一二）。
 14.3 Propter quod pacificus apostolus, ne sibi omnia defendere videretur, non ad tinguendum ait se missum, sed ad praedicandum. Nam et prius est praedicare, posterius tinguere. Sic prius praedicatum. Puto autem, licuit et tinguere cui licuit praedicare.
 14:3 そのために、平和を重んじる使徒は、浸すためではなく、宣べ伝えるために遣わされたと言ったのです。すべてを自分のものとして言い張っていると、見られないためでした。というのも、宣べ伝えるのが先で、浸すのは後だからです。だから、まず宣べ伝えられたのです。けれども、わたしの考えでは、宣べ伝えることを許された者には、浸すことも許されていたのです。
-// Sic prius praedicatum の Sic は Oehler の推定。刊本は Sed、Si、Sed sit。
+// Sic prius praedicatum の Sic は Oehler の推定。刊本は Sed、Si、Sed sit。posterius tinguere の tinguere は、刷りでは n の活字が欠けて tirguere のように見える。
 
 15.1 Nescio si quid amplius ad controversiam baptismi ventilatur. Sane retexam quod supra omisi, ne imminentes sensus videar intercidere. Unus omnino baptismus est nobis, tam ex domini evangelio quam ex apostoli litteris, quoniam unus deus et unum baptismum et una ecclesia in caelis.
 15:1 洗礼の論争について、ほかに何か取りざたされていることがあるかどうか、わたしは知りません。ただ、先に省いたことを、ここで改めて取り上げましょう。省いたのは、差し迫った考えの筋を、途中で断ち切ると思われないためでした。わたしたちにとって、洗礼はまったく一つです。主の福音からも（ヨハネ一三・一〇）、使徒の手紙からも、そう言えます。神は一つ、洗礼は一つ、天にある教会も一つだからです（エペソ四・四〜六）。
