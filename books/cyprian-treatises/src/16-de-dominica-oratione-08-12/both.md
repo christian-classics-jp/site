@@ -1,7 +1,7 @@
 # 主の祈りについて　8〜12 章　わたしたちの父と御名
 
 8.1 Ante omnia pacis doctor adque unitatis magister singillatim noluit et priuatim precem fieri, ut quis cum precatur pro se tantum precetur. non dicimus: pater meus, qui es in caelis nec: panem meum da mihi hodie, nec dimitti sibi tantum unusquisque debitum postulat aut ut in temptationem non inducatur adque a malo liberetur pro se solo rogat.
-8:1 平和の教師であり一致の師である方は、何よりもまず、一人一人ばらばらの祈りを望まれませんでした。祈る人が自分のためだけに祈るような、自分だけの祈りを望まれなかったのです。わたしたちは、『天にいますわたしの父よ』とも、『わたしのパンを、きょうわたしにお与えください』とも言いません。また、一人一人が、自分の負債だけをゆるしてくださいと願うのでもありません。自分ひとりのために、試みに引き入れられず、悪から救われるようにと求めるのでもありません。
+8:1 平和の教師であり一致の師である方は、何よりもまず、一人一人ばらばらの祈りをお望みになりませんでした。祈る人が自分のためだけに祈るような、自分だけの祈りをお望みにならなかったのです。わたしたちは、『天にいますわたしの父よ』とも、『わたしのパンを、きょうわたしにお与えください』とも言いません。また、一人一人が、自分の負債だけをゆるしてくださいと願うのでもありません。自分ひとりのために、試みに引き入れられず、悪から救われるようにと求めるのでもありません。
 // 二つの句は 7.1 の訳を一人称単数に直して『』に入れた（底本は隔字体）。残りの三つの願いは底本が普通の文字で言い換えるので、7.1 の訳の語（負債、試みに引き入れられる、悪から救われる）で地の文に置いた。
 8.2 publica est nobis et communis oratio, et quando oramus, non pro uno sed pro populo toto oramus, quia totus populus unum sumus. Deus pacis et concordiae magister qui docuit unitatem, sic orare unum pro omnibus uoluit, quomodo in uno omnes ipse portauit.
 8:2 わたしたちの祈りは、公の、共同の祈りです。わたしたちは祈るとき、一人のためではなく、民全体のために祈ります。民全体であるわたしたちは、一つだからです。平和と和合の師である神は、一致をお教えになりました。この方は、ご自身が、一人のうちにすべての者をお担いになりました。それと同じように、一人がすべての者のために祈ることをお望みになったのです。
@@ -57,7 +57,7 @@
 // 原文にない「しかし」を除いた。
 
 11.1 Quanta autem Domini indulgentia, quanta circa nos dignationis eius et bonitatis ubertas, ut sic nos uoluerit orationem celebrare in conspectu Dei, ut Dominum patrem uocemus et ut est Christus Dei filius sic et nos Dei filii nuncupemur: quod nomen nemo nostrum in oratione auderet adtingere, nisi ipse nobis sic permisisset orare.
-11:1 主のいつくしみは、なんと大きいことでしょう。わたしたちに示されるへりくだりと優しさは、なんと豊かなことでしょう。わたしたちが神の御前で祈りをささげるとき、主を父と呼ぶようにと望んでくださったのです。キリストが神の子であるように、わたしたちも神の子と呼ばれるようにと望まれたのです。主ご自身がこう祈ることを許してくださらなかったとしたら、だれも祈りの中でこの名にあえて触れはしないはずです。
+11:1 主のいつくしみは、なんと大きいことでしょう。わたしたちに示されるへりくだりと優しさは、なんと豊かなことでしょう。わたしたちが神の御前で祈りをささげるとき、主を父と呼ぶようにと望んでくださったのです。キリストが神の子であるように、わたしたちも神の子と呼ばれるようにとお望みになったのです。主ご自身がこう祈ることを許してくださらなかったとしたら、だれも祈りの中でこの名にあえて触れはしないはずです。
 11.2 meminisse itaque, fratres dilectissimi, et scire debemus quia quando patrem Deum dicimus quasi filii Dei agere debemus, ut quomodo nos nobis placemus de Deo patre, sic sibi placeat et ille de nobis.
 11:2 ですから、愛する兄弟たちよ、わたしたちは覚えておき、知っておかなければなりません。神を父と呼ぶからには、神の子らしくふるまわなければならないということです。わたしたちが父である神を喜んでいるのと同じように、神もわたしたちを喜んでくださるためです。
 11.3 conuersemur quasi Dei templa, ut Dominum in nobis constet habitare. nec sit degener actus noster ab spiritu, ut qui spiritales et caelestes esse coepimus non nisi spiritalia et caelestia cogitemus et agamus, quia et ipse Dominus Deus dixit: eos qui clarificant me clarificabo: et qui me spernent spernentur, beatus quoque apostolus in epistula sua posuit: non estis uestri, empti enim estis pretio magno. clarificate et portate Deum in corpore uestro.
@@ -76,5 +76,5 @@
 12:4 『あなたがたは、たしかにそのような者であった。しかし、主イエス・キリストの名によって、またわたしたちの神の霊によって、洗われ、義とされ、聖とされたのである』（第一コリント六・一一）。使徒は、わたしたちが主イエス・キリストの名によって、またわたしたちの神の霊によって聖とされたと言っているのです。
 // 口語訳は「あなたがたの中には、以前はそんな人もいた。しかし、あなたがたは、主イエス・キリストの名によって、またわたしたちの神の霊によって、洗われ、きよめられ、義とされたのである」。底本の quidem「たしかに」に従い（写本の W・V は quidam「ある者たちは」）、動詞は原文の順にし、sanctificati は続く地の文と 12 章の論に合わせて「聖とされ」とした。
 12.5 haec sanctificatio ut in nobis permaneat oramus, et quia Dominus et iudex noster sanato a se et uiuificato comminatur iam non delinquere, ne quid ei deterius fiat, hanc continuis orationibus precem facimus, hoc diebus ac noctibus postulamus ut sanctificatio et uiuificatio quae de Dei gratia sumitur ipsius protectione seruetur.
-12:5 わたしたちは、この聖とされることが、わたしたちのうちにとどまるようにと祈ります。わたしたちの主であり審き主である方は、ご自分がいやし、生かした人を戒めておられます。もう罪を犯してはならない、何かもっと悪いことが起こらないために、と言われるのです（ヨハネ五・一四）。それで、わたしたちは、絶え間ない祈りの中でこの願いをささげます。神の恵みから受けた、聖とされることと生かされることが、神の守りによって保たれるようにと、昼も夜も求めるのです。
+12:5 わたしたちは、この聖とされることが、わたしたちのうちにとどまるようにと祈ります。わたしたちの主であり審き主である方は、ご自分がいやし、生かしてくださった人を戒めておられます。もう罪を犯してはならない、何かもっと悪いことが起こらないために、と言われるのです（ヨハネ五・一四）。それで、わたしたちは、絶え間ない祈りの中でこの願いをささげます。神の恵みから受けた、聖とされることと生かされることが、神の守りによって保たれるようにと、昼も夜も求めるのです。
 // 主の言葉を名指しで言い換えるところ（底本は普通の文字）なので、地の文に置いて出典を付け、口語訳の言い方を使った。
