@@ -10,7 +10,7 @@
 - 底本にも英訳にも節の番号がないので、節の番号はこの訳で付けたもの。章の本文を文の切れ目で 25 語以上のまとまりに切って番号を付ける。切るのは `node tools/split-units.js` で、手で切り直さない。底本は文の初めを小文字で刷るが、split-units は句点・疑問符・感嘆符で切るので、そのまま使える。レビューで英訳と照らすときは、章の中の位置で照らす。
 - 底本の 1 節ごとに、ラテン語の行、続けて訳の行を置く。訳の行は `1:1 ` のように章と節の番号で始める（作品の名は付けない）。
 - 章の中では空行を入れない。章と章のあいだに空行を一つ入れる。
-- 見出しは `# ドナトゥスへ　1〜5 章　…` の形（作品の名、章の範囲、中身）。作品の名は『』を付けずに書く。『カトリック教会の一致について』は見出しでは「教会の一致について」と縮めてよい（最初のページで決める）。
+- 見出しは `# ドナトゥスへ　1〜5 章　…` の形（作品の名、章の範囲、中身）。作品の名は『』を付けずに書く。『カトリック教会の一致について』は見出しでは「教会の一致について」と縮める（`# 教会の一致について　1〜6 章　ただ一つの教会`）。
 
 ## 底本の起こし方
 
@@ -26,10 +26,10 @@
 
 ## 『カトリック教会の一致について』4 章の二つの本文
 
-- 4〜5 章には、いわゆる「首位権の本文」（Primacy Text）と、いわゆる「公認の本文」（Textus Receptus）の二つの形が伝わる。底本は本文に公認の本文を刷り（super unum aedificat ecclesiam, et quamuis apostolis omnibus …、hoc erant utique et ceteri apostoli quod fuit Petrus, pari consortio praediti et honoris et potestatis …）、首位権の本文の句（et idem post resurrectionem suam dicit: pasce oues meas、et primatus Petro datur、qui cathedram Petri … deserit など）は、写本 M などと刊本の読みとして校注に載せる（djvu l. 10078〜10098、10128〜10144 の校注。p. 212〜213、画像 0222〜0223）。
+- 4〜5 章には、いわゆる「首位権の本文」（Primacy Text）と、いわゆる「公認の本文」（Textus Receptus）の二つの形が伝わる。底本は本文に公認の本文を刷り（super unum aedificat ecclesiam, et quamuis apostolis omnibus …、hoc erant utique et ceteri apostoli quod fuit Petrus, pari consortio praediti et honoris et potestatis …）、首位権の本文の句（et idem post resurrectionem suam dicit: pasce oues meas、et primatus Petro datur、qui cathedram Petri … deserit など）は、校注に読みとして載せる（djvu l. 10078〜10098、10128〜10144 の校注。p. 212〜213、画像 0222〜0223）。首位権の形の一節を持つ写本は M だけで、M は公認の本文も続けて持つ。4.4 の後の et primatus Petro datur … と 4.6 の後の qui cathedram Petri … deserit は、写本にない刊本の差し込み（4.4 には校注が「SWGMVR に反して」と書く）。詳しくは `research/cruxes/04-de-unitate-01-06.md`。
 - 訳は底本の本文に従う。校注の句は訳に入れない。
-- 首位権の本文を知っていると、ペテロの立場について読者の理解が変わりうるので、訳注を付けることを勧める（40 字以内。写本や校訂者の名は出さない）。付けるか、どこに付けるかは、04-de-unitate-01-06 のページで論点一覧を見て決め、ここに書き足す。論点一覧には、二つの本文の文言、支持する写本と刊本、底本の扱いを記録する。
-- ANF の英訳の 4 章は、首位権の本文の句の一部（"And again to the same He says, after His resurrection, 'Feed my sheep.'"、anf05.txt l. 42069〜42070）を本文に入れている。レビュアーには、英訳のその句は底本にないことを伝える。
+- 訳注は一つだけ、4.4 の終わり（ut ecclesia Christi una monstretur。刊本が primatus Petro datur を差し込んだ位置）に付ける：「この章には、ペテロの首位をはっきり言う別の形の本文も伝わる。」。4.2 の後と 4.6 には注を重ねず、`// ` メモに訳さない句を挙げる。
+- ANF の英訳の 4 章は、首位権の本文の句の一部（"And again to the same He says, after His resurrection, 'Feed my sheep.'"、anf05.txt l. 42069〜42070）を本文に入れている。レビュアーには、英訳のその句は底本にないことを伝える。3 章の終わりの英訳の "heavenly Master"（l. 42059〜42060）も、底本の magisterii でなく magistri の読みによる。
 
 ## 照らし合わせる版
 
@@ -40,8 +40,11 @@
 - 4 作とも地の文は敬体（「〜です」「〜ます」）。書き手のキプリアヌスは「わたし」、書き手と読み手を含むキリスト者は「わたしたち」。神とキリストの動作は尊敬語にする（『テルトゥリアヌス小品集』と同じ）。
 - 『ドナトゥスへ』：友人ドナトゥスに宛てた語りかけ。読み手は「あなた」。呼びかけの Donate carissime は「親愛なるドナトゥスよ」。ぶどうの取り入れの休みに、庭のあずまやで語り合うという設定なので、ほかの 3 作より打ち解けた調子にする。1.1 の indulgente uindemia は『オクタウィウス』2:3 の「ぶどうの取り入れのための休み」と同じことを言い、取り入れを主語にして「ぶどうの取り入れが休みを許してくれて」とする。3.2〜3.5 のように、回心の前に自分が言っていたこと（aiebam）を続けて述べるところは、「」に入れず、「わたしはこう言っていました」で受けて敬体の問いで続ける。
 - 霊の語：底本が大文字で刷る Spiritus sanctus は「聖霊」で、動作は尊敬語（4.2 の「聖霊が生かしておられる」）。洗礼で受ける霊を小文字で言う spiritus（4.2 の caelitus spiritu hausto、5.2 の profluens largiter spiritus、5.4 の acceptus spiritus）は「霊」とし、「御霊」にせず尊敬語も付けない（『護教論』30.5 と同じ）。汚れた霊は「汚れた霊」。
-- 洗礼の言い方の暗示（3.1 の renasci denuo、4.2 の nouum hominem、3.1 の lauacro aquae salutaris）は、底本が聖書の箇所を挙げず隔字体でもないので、『』も出典も付けず、口語訳の言い方（「新しく生まれる」「新しい人」）を地の文に使う。
-- 『一致について』『背教者について』『主の祈りについて』：監督として教会の人々に語りかける。読み手は「あなたがた」。呼びかけの fratres dilectissimi・dilectissimi fratres は「愛する兄弟たちよ」（口語訳の第一コリント一五・五八 などの言い方。仮。最初に出るページで確定する。このリポジトリの『第一クレメンス』の ἀγαπητοί は「愛する者たちよ」で、原語が違う）。
+- 洗礼の言い方の暗示（3.1 の renasci denuo、4.2 の nouum hominem、3.1 の lauacro aquae salutaris）は、底本が聖書の箇所を挙げず隔字体でもないので、『』も出典も付けず、口語訳の言い方（「新しく生まれる」「新しい人」）を地の文に使う。名指しのない暗示はみな同じ（『一致について』1.1 の Christum sapientiam Dei、2.6 の puluis quem uentus excutit、3.1 の lux gentibus、2.1 の「古い人」）。
+- 主や使徒の言葉として名指しで言い換えるところ（『一致について』1.1 の iubeat … simplices … prudentes のマタイ一〇・一六、3.3 の secundum apostoli uocem の第二コリント一一・一四〜一五）は、底本が箇所を挙げなくても、『テルトゥリアヌス小品集』の『見世物について』13.1 の型で、地の文で言い換えて出典を付け、`// ` メモに書く。
+- 底本の箇所の行が口語訳の節の数え方と違うところは、数え方の違い（雅歌六・八 → 口語訳の六・九）なら口語訳の箇所に直してメモに書く。『一致について』6.5 の et tres unum sunt は、底本の箇所の行（I Io. 5, 7）のまま（第一ヨハネ五・七）とし、句は直前のヨハネ一〇・三〇 と揃えて『この三つは一つである』、訳注は「今の聖書の五章七節にはなく、八節の終わりの句に近い。」。キプリアヌスがどちらの節を読んでいたかには触れない。
+- 障がいを言う語は、口語訳の古い言い方（「耳しい」「目しい」「足なえ」「おし」）を使わず、「耳の聞こえない人」「目の見えない人」「足の不自由な人」「口のきけない人」とする（『一致について』3.1。『オクタウィウス』『護教論』の言い方と同じ）。
+- 『一致について』『背教者について』『主の祈りについて』：監督として教会の人々に語りかける。読み手は「あなたがた」。呼びかけの fratres dilectissimi・dilectissimi fratres は「愛する兄弟たちよ」（口語訳の第一コリント一五・五八 などの言い方。『一致について』1.1 で確定。このリポジトリの『第一クレメンス』の ἀγαπητοί は「愛する者たちよ」で、原語が違う）。監督たちを含めて言う一人称複数（5.1 の episcopi qui … praesidemus）は「わたしたち監督」。
 - 人の語りかけの調子は、最初に出たページで決めてここに書く。
 
 ## 主の祈り
@@ -82,7 +85,13 @@
 | aurum／pecunia | 金・黄金／金銭（『ドナトゥスへ』12.1。同じ文に並ぶときは必ず分ける） |
 | sagina | 糧（『ドナトゥスへ』15.2 の caelestis sagina「天の糧」。7.1 の saginatus「肥やされた」の響きは訳に残さない） |
 | oratio dominica | 主の祈り（作品の題も『主の祈りについて』） |
-| unitas／ecclesia catholica | 一致／カトリック教会（作品の題は『カトリック教会の一致について』。catholica の訳し方は最初のページで確かめる） |
+| hostis／inimicus／aduersarius | 敵／敵／敵対者（『ドナトゥスへ』5.5、『一致について』1.1〜1.3、3.3、6.2） |
+| haereses／schismata | 異端／分裂（『一致について』3.2。『テルトゥリアヌス小品集』の schismata と同じ） |
+| sacramentum（『一致について』） | 秘儀（4.6 の sacramentum unitatis「一致の秘儀」、6.5 の sacramentis caelestibus「天の秘儀」。『テルトゥリアヌス小品集』の『洗礼について』と同じ） |
+| episcopatus／episcopi | 監督の職／監督（5.1〜5.2。5.2 の cuius a singulis in solidum pars tenetur は「一人一人がその一部を担いますが、それは分けられない全体として担われている」） |
+| origo／caput／exordium | 源／かしら／始まり（3.4、4.3〜4.4、5.4） |
+| mandata（キリストの） | いましめ（『一致について』2.2、2.5。口語訳マタイ一九・一七 の「いましめ」に揃える） |
+| unitas／ecclesia catholica | 一致／カトリック教会（作品の題は『カトリック教会の一致について』。本文の 1〜6 章に catholica は出ない） |
 | lapsi | 背教者（作品の題は『背教者について』。迫害で信仰を捨てた人々。本文での訳し分けは最初のページで決める） |
 | confessores | 告白者（このリポジトリの『リヨンの殉教者たち』の ὁμολογητής と同じ。迫害で信仰を言い表し、まだ死んでいない人。死んだ「殉教者」と分ける。『背教者について』2 章で確かめる） |
 
