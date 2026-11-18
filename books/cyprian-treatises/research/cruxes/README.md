@@ -6,7 +6,7 @@
 
 - 底本（Hartel）：W. Hartel 編、CSEL 3.1（1868）。各ページの上が本文（左に 5 行ごとの行番号、右の欄外に章番号）、その下に聖書の箇所の行、その下に校注。校注の数字はそのページの本文の行番号で、ページごとに 1 に戻る。各論点では「p. 4 の校注 10」のように、ページと行番号で挙げる。
 - 画像：IIIF の番号＝印刷ページ＋10。archive.org の幅 1600 のページ画像（`cache/archive.org/sthascicaecilic00hartgoog/page/nN_w1600.jpg`。N は IIIF の番号と同じ）と、IIIF で切り出したもの（`cache/archive.org/sthascicaecilic00hartgoog/pages/`）。
-- 校注の言い回し：「om.」は欠くこと、「add.」は加えること、「m. 2」は後の手（写本の訂正者）、「s. l.」は行の上に書かれていること、「ex corr.」「ex … m. 2」は訂正の結果、「eras.」「in ras.」は削った跡、「coni.」「coniecit」は推定、「scripsi」は Hartel 自身の推定（本文では斜体で刷る。『ドナトゥスへ』5.2 の de Deo）、「uocem uncis inclusi」は、その語を角括弧に入れたこと（削るべき語とみたこと。2.2 の [contione]）。P¹・P² のような肩の数字は、写本の最初の手と後の手を分けるものとみられる（序文で確かめていない）。
+- 校注の言い回し：「om.」は欠くこと、「add.」は加えること、「m. 2」は後の手（写本の訂正者）、「s. l.」は行の上に書かれていること、「ex corr.」「ex … m. 2」は訂正の結果、「eras.」「in ras.」は削った跡、「coni.」「coniecit」は推定、「scripsi」は Hartel 自身の推定（本文では斜体で刷る。『ドナトゥスへ』5.2 の de Deo）、「uocem uncis inclusi」は、その語を角括弧に入れたこと（削るべき語とみたこと。2.2 の [contione]）。「sup. scr.」は上に書き足されていること、「super … : …」は、その語の上に後の手が別の語を書いていること、「fort. recte」は Hartel が「おそらく正しい」とみる読み（本文には採らない。『一致について』9.4 の incussione）、「cf. p. …」は Hartel が比べる箇所。P¹・P² のような肩の数字は、写本の最初の手と後の手を分けるものとみられる（序文で確かめていない）。
 
 ## 『ドナトゥスへ』の略号
 
@@ -40,5 +40,6 @@
 
 - 口語訳：`node tools/bible.js` で引いた 1955 年版の本文。
 - ANF：Ante-Nicene Fathers 第 5 巻の Wallis の英訳（`cache/ccel.org/anf05.txt`）。レビューの読み比べに使う。英訳の文言はこの一覧に使わない。
-- Swete：H. B. Swete 編の七十人訳 II（`cache/archive.org/oldtestamentingr02swetuoft/oldtestamentingr02swetuoft_djvu.txt`）。『一致について』4.5 の雅歌六・八（l. 44751–44753）と 2.6 の詩篇一・四（l. 19177）の文言を見るのに使った。
+- Swete：H. B. Swete 編の七十人訳 II（`cache/archive.org/oldtestamentingr02swetuoft/oldtestamentingr02swetuoft_djvu.txt`）。『一致について』4.5 の雅歌六・八（l. 44751–44753）、2.6 の詩篇一・四（l. 19177）、8.7 の詩篇六七・七（l. 26140）、10.3 の詩篇一・一（l. 19156）の文言を見るのに使った。同 I（`cache/archive.org/oldtestamentingr01swetuoft/oldtestamentingr01swetuoft_djvu.txt`）は 7.4 の三列王記一一・三〇〜三二、三六、8.5 のヨシュア二・一八〜一九、8.6 の出エジプト一二・四六 に、同 III（`cache/archive.org/theoldtestamenti03swetuoft/theoldtestamenti03swetuoft_djvu.txt`）は 11.1〜11.4 のエレミヤ二三・一六〜一七、二一〜二二、二・一三 に使った（行番号は 05-de-unitate-07-11.md の各項）。
+- 『テルトゥリアヌス小品集』：同じ聖句（詩篇一・一 の七十人訳の形）や通じるたとえ（はとに胆汁がないこと）の訳を揃えるために、`books/tertullian-treatises/` の AGENTS.md、底本テキスト、訳を見た。
 - 『オクタウィウス』：このリポジトリの底本テキスト（`books/octavius/research/halm-1867.txt`）。Hartel が『ドナトゥスへ』1 章の校注で比べる箇所（3.4）を見るのに使った。
