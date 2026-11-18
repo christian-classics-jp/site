@@ -78,7 +78,7 @@
 | 原語 | 訳 |
 |---|---|
 | animus／anima／mens／cor／pectus／conscientia | 精神／魂／思い／心／胸／文脈で訳す（『テルトゥリアヌス小品集』の表どおり。『ドナトゥスへ』1.1、1.4、3.1、4.4、5.3、5.5。1.2 の conscientiam pectoris は「胸のうちの良心」） |
-| indulgentia（diuina、caelestis）／gratia／munus | いつくしみ（2.3、3.1、4.4）／恵み（2.3、5.1、5.3）／賜物（4.3、5.2）。beneficia は「施し」、clementer は「あわれみ深く」（4.4）とし、gratia の「恵み」と重ねない |
+| indulgentia（diuina、caelestis）・indulgens（神）／gratia／munus | いつくしみ（2.3、3.1、4.4）・いつくしみ深い（『背教者について』35.2。人の indulgentia の「寛大さ」と分ける）／恵み（2.3、5.1、5.3）／賜物（4.3、5.2）。beneficia は「施し」、clementer は「あわれみ深く」（4.4）とし、gratia の「恵み」と重ねない |
 | castitas／innocentia | 純潔／潔白（『テルトゥリアヌス小品集』『祈りについて』28.4 と同じ。『ドナトゥスへ』4.4、5.1、5.3） |
 | licentia（良い意味）／licentia（権力の） | 自由（『ドナトゥスへ』5.1、5.4）／ほしいまま（11.2 の in principatus licentia potestatem「支配の座のほしいままな権力」。『護教論』の「放縦」は放蕩と並ぶところの語） |
 | mundus／saeculum | 世界／世（『ドナトゥスへ』3.1、5.4、5.5。『一致について』1.4 の ab initio mundi「世界の初めに」、2.3 の turbines saeculi「世のつむじ風」） |
@@ -138,6 +138,7 @@
 | fletus・flere・deflere／planctus・plangere／ingemescere／lamentari・lamentatio／maestitia | 涙・泣く／嘆き・嘆く（4.5、29.3〜30.6）／うめく（30.3〜30.6）／悲しみ嘆く（30.1、30.6）／悲しみ（29.2） |
 | lauacra（30.1）／sagina（30.1） | 浴場（24.2 の balneae と同じ。洗礼の「洗い」と分ける）／たっぷり食べて（sagina largiore distentus「たっぷり食べて腹をふくらませ」。『ドナトゥスへ』15.2 の「糧」と意味が違う） |
 | pietas・pius（神の）／promereri／martyria（31.1） | 慈愛・慈愛に満ちた（『背教者について』35.2 の patris pietate「父としての慈愛」、36.2 の pietatem Domini とヨエルの引用の pius。『テルトゥリアヌス小品集』の「慈しみ」にすると、indulgens・indulgentia「いつくしみ」と耳で紛れる。16.3 の人の側の pietas は「敬虔」）／喜ばれる（31.1〜32.1。『一致について』15.3、18.2 と同じ）／証し（炉の三人は死んでいないので「殉教」にしない） |
+| scriptura diuina／pronus／pacem sumere | 聖書（『一致について』7.2、『背教者について』7.3、15.3、21.1、31.2）／すぐに起こる（35.1 の timor Domini pronus「主を恐れる心がすぐに起こり」。「素直」は simplex だけに使う）／平和を取る（33.4。与えられていない平和を勝手に取ることなので「手に入れる」にしない） |
 | transpunctio・transpunctus／stupor（『背教者について』33 章）／apostatae | 鈍い・鈍くされた（33.2 の spiritum transpunctionis「鈍い霊」、33.3 の transpunctae mentis「鈍くされた思い」。口語訳ローマ一一・八 の「鈍い心」）／鈍さ（33.1 の stupor uanus「むなしい鈍さ」。『一致について』16.5 の高ぶらせる stupor は「愚かさ」）／教会を離れた者たち（33.4。題の lapsi「背教者」と紛れないようにする） |
 | eleemosynae／operatio・operari／iusta opera／uirtus（『背教者について』31 章、36 章） | 施し（35.4）／施しのわざ・施しのわざを行う（35.6、36.3。キプリアヌスが施しを言う語）／正しいわざ（35.4、36.1）／勇気（31.1、31.2、36.5。上の uirtus の行の 14.7 と同じ） |
 | remittere・donare（peccata）／indulgentia（人の）／oppressus／eculeus／ungula | ゆるす・免じる（『背教者について』17.2、18.3）／自分の寛大さ（17.2 の indulgentia sua。神の「いつくしみ」と分ける）／押し切られた者（14.1）／拷問台／鉄の爪（13.3。『ドナトゥスへ』10.3 と同じ） |
