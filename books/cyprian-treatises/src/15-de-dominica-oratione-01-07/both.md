@@ -2,7 +2,7 @@
 
 1.1 Euangelica praecepta, fratres dilectissimi, nihil sunt aliud quam magisteria diuina, fundamenta aedificandae spei, firmamenta conroborandae fidei, nutrimenta fouendi cordis, gubernacula dirigendi itineris, praesidia obtinendae salutis, quae dum docibiles credentium mentes in terris instruunt, ad caelestia regna perducunt.
 1:1 愛する兄弟たちよ、福音のおきては、神の教えにほかなりません。それは、望みを築き上げる土台、信仰を強める支え、心を温める糧、旅路を導く舵、救いを得させる守りです。これらのおきては、地上で、信じる者たちの教えを受けやすい思いを教えながら、天の御国へと導いていきます。
-// praecepta は「おきて」とし、2.5 と 3.1 以降の mandatum「いましめ」と分けた。
+// praecepta は「おきて」とし、2.5 の mandatum「いましめ」と分けた。
 1.2 multa et per prophetas seruos suos dici Deus uoluit et audiri: sed quanto maiora sunt quae filius loquitur, quae Dei sermo qui in prophetis fuit propria uoce testatur non iam mandans ut paretur uenienti uia sed ipse ueniens et uiam nobis aperiens et ostendens, ut qui in tenebris mortis errantes inprouidi et caeci prius fuimus luce gratiae luminati iter uitae duce et rectore Domino teneremus.
 1:2 神は、ご自分のしもべである預言者たちを通しても、多くのことを語らせ、聞かせようとなさいました。しかし、御子がお語りになることは、どれほどまさっていることでしょうか。それは、かつて預言者たちの中にいた神の言葉が、今はご自分の声で証しなさることです。この方は、もはや、来られる方のために道を備えよとお命じになるのではありません。ご自身が来られて、わたしたちに道を開き、示してくださるのです。わたしたちは、以前は死の暗やみの中をさまよい、先を見ず、目も見えない者でした。そのわたしたちが、恵みの光に照らされ、主を導き手とし、舵取りとして、いのちの道を保つためです。
 // 二つの quae（quae filius loquitur, quae Dei sermo … testatur）は同じものを指すと取り、御子と神の言葉を同じ方として訳した。道を備えよという命令はイザヤ四〇・三、死の暗やみはルカ一・七九 の言い方に近いが、底本は箇所を挙げないので出典を付けない。
