@@ -34,4 +34,4 @@
 | 18-de-dominica-oratione-18-21 | 主の祈りについて 18〜21 章 | [x] |
 | 19-de-dominica-oratione-22-27 | 主の祈りについて 22〜27 章 | [x] |
 | 20-de-dominica-oratione-28-31 | 主の祈りについて 28〜31 章 | [x] |
-| 21-de-dominica-oratione-32-36 | 主の祈りについて 32〜36 章 | [ ] |
+| 21-de-dominica-oratione-32-36 | 主の祈りについて 32〜36 章 | [x] |
