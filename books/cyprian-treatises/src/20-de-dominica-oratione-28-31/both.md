@@ -2,7 +2,7 @@
 
 28.1 Quid mirum, fratres dilectissimi, si oratio talis est quam Deus docuit, qui magisterio suo omnem precem nostram salutari sermone breuiauit? hoc iam per Esaiam prophetam fuerat ante praedictum, cum plenus Spiritu sancto de Dei maiestate ac pietate loqueretur.
 28:1 愛する兄弟たちよ、神がお教えになった祈りがこのようなものであっても、何の不思議があるでしょうか。神は、ご自分の教えによって、わたしたちの願いのすべてを、救いの言葉のうちに短くまとめてくださったのです。このことは、すでに預言者イザヤを通して、前もって告げられていました。イザヤが聖霊に満たされて、神の威光と慈愛について語ったときのことです。
-// Deus はここでも、29.1、30.3 でもキリストを指す（3.1 の「師である神」と同じ）。W・G・v の dominus・domini は訳に入れない。
+// Deus はここでも、29.1、30.3 でもキリストを指す（3.1 の「師である神」と同じ）。29.1、30.3 の W・G・v の dominus・domini は訳に入れない。
 28.2 uerbum consummans, inquit, et breuians in iustitia, quoniam sermonem breuiatum faciet Deus in toto orbe terrae. nam cum Dei sermo Dominus noster Iesus Christus omnibus uenerit et colligens doctos pariter et indoctos omni sexu adque aetati praecepta salutis ediderit, praeceptorum suorum fecit grande conpendium, ut in disciplina caelesti discentium memoria non laboraret, sed quod esset simplici fidei necessarium uelociter disceret.
 28:2 『言葉を成し遂げ、義のうちに短くする。神は、短くされた言葉を全地に行われるからである』^[今の聖書では、言葉でなく、定められた滅びを全地に行うと読む。]（イザヤ一〇・二二〜二三）。というのも、神の言葉であるわたしたちの主イエス・キリストは、すべての人のもとに来られました。学ある者も学のない者も等しく集め、男にも女にも、どの年齢の者にも、救いのおきてをお授けになりました。そのとき、主はご自分のおきてを、一つの大きな要約になさったからです。天の教えを学ぶ者の記憶が、骨折らずに済むためです。素直な信仰に必要なことを、すばやく学べるためです。
 // イザヤ一〇・二二〜二三 は七十人訳の形で、口語訳に合う文言がない（口語訳「滅びはすでに定まり、義であふれている。主、万軍の主は定められた滅びを全地に行われる」）。原文から訳し、『背教者について』36.1 の型で訳注を付けた。ローマ九・二八 は文言が「地上に」で原文の in toto orbe terrae と違い、キプリアヌスはイザヤの名を挙げるので、出典に並べない（口語訳ローマ「主は、御言をきびしくまたすみやかに、地上になしとげられるであろう」）。
