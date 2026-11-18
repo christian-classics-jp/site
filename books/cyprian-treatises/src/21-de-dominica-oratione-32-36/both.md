@@ -28,8 +28,9 @@
 33:7 というのも、貧しい者をあわれむ人は神に貸すのであり、最も小さい者に与える人は神に贈るのです。そうであれば、その人は、霊において、かんばしいかおりを神にささげていることになるからです。
 // 箴言一九・一七（口語訳「貧しい者をあわれむ者は主に貸すのだ」）とマタイ二五・四〇 の暗示。名指しがないので出典を付けない。原文の Deo で「神に貸す」。
 
-34.1 In orationibus uero celebrandis inuenimus obseruasse cum Daniele tres pueros in fide fortes et in captiuitate uictores horam tertiam sextam nonam sacramento scilicet trinitatis quae in nouissimis temporibus manifestari habebat.
+34.1 In orationibus uero celebrandis inuenimus obseruasse cum Daniele tres pueros iu fide fortes et in captiuitate uictores horam tertiam sextam nonam sacramento scilicet trinitatis quae in nouissimis temporibus manifestari habebat.
 34:1 祈りを行うことについては、ダニエルと共に三人の若者が、祈りの時を守っていたことがわかります。第三時、第六時、第九時、すなわち今の午前九時、正午、午後三時です。三人は、信仰に強く、捕囚の中で勝利を得た人々でした。そうしたのは、終わりの時に明らかにされることになっていた三位一体の奥義のためでした。
+// 底本の iu fide は誤植（n を逆さに組んだ u の形で刷られていることを拡大で確かめた）。in fide で訳した。
 34.2 nam et prima hora in tertiam ueniens consummatum numerum trinitatis ostendit, itemque ad sextam quarta procedens declarat alteram trinitatem, et quando a septima nona conpletur, per ternas horas trinitas perfecta numeratur.
 34:2 というのも、第一時から第三時に至ると、三位一体の完全な数が示されます。また、第四時から第六時へ進むと、もう一つの三が示されます。そして、第七時から第九時までが満ちると、三時間ずつで、完全な三位一体が数えられるのです。
 // trinitas には三位一体と、三時間のまとまりの意味が掛けてある。34.1 と 34.2 の初めと終わりは「三位一体」とし、alteram trinitatem だけ「もう一つの三」とした。

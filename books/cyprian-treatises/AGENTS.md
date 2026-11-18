@@ -23,7 +23,7 @@
 - 綴り、大文字・小文字、句読点は刷られたとおり。底本は u と v を分けずに u と刷り（uindemia、uoluptariae）、大文字は文の初めではなく固有名と Deus、Dominus、Christus、Spiritus などに使い、conpendio、adque、inlecebris などの綴りも持つ。そのまま起こす。
 - 聖句の直接の引用は、引用符を使わず、字間を空けた組み（隔字体）で刷られている（『一致について』1 章の uos estis sal terrae）。底本テキストには隔字体を写さず、普通の文字で起こす。訳ではルートの AGENTS.md と『テルトゥリアヌス小品集』の聖句の扱い（『』に入れるか、地の文で言い換えるか）に従い、隔字体の範囲を手がかりにする。聖書の箇所は、本文の下の箇所の行を使い、訳の出典はルートの書き方に直す。
 - 底本の角括弧は、『護教論』の「底本の扱い」と `books/octavius/AGENTS.md` の扱いに従い、意味を校注で確かめてから扱う。『ドナトゥスへ』2 章の `[contione]` と『背教者について』23.2 の `[poenae]`（校注に uncis inclusi）と 29.1 の `[facta]`（校注は facta om. S とだけ書く）と 31.1 の `[licet]`（校注に uncis inclusi）は、編者が取り除くべきとみた語なので、底本テキストに残して訳さず、`// ` メモに書く。ほかの記号（補いの印など）は、最初に出たページでここに書き足す。
-- 底本の誤植とみられる語（『ドナトゥスへ』12 章の二つ目の porgit、『背教者について』6.4 の quaetuosae、6.5 の隔字体の nou、30.5 の uulto nubilo、『主の祈りについて』6.1 の bic、18.2 の一つ目の Cbristus、25.3 の recedeute、26.2 の uisi と uostrae。n を逆さに組んだ u の形で刷られていることを画像の拡大で確かめた。31.5 の Cantico cantiorum。校注に異同はない）は、刷られたとおり起こし、訳は意図された形（pergit、quaestuosae、non、uultu、hic、Christus、recedente、nisi、nostrae、canticorum）で行って `// ` メモに書く。
+- 底本の誤植とみられる語（『ドナトゥスへ』12 章の二つ目の porgit、『背教者について』6.4 の quaetuosae、6.5 の隔字体の nou、30.5 の uulto nubilo、『主の祈りについて』6.1 の bic、18.2 の一つ目の Cbristus、25.3 の recedeute、26.2 の uisi と uostrae、34.1 の iu。n を逆さに組んだ u の形で刷られていることを画像の拡大で確かめた。31.5 の Cantico cantiorum。校注に異同はない）は、刷られたとおり起こし、訳は意図された形（pergit、quaestuosae、non、uultu、hic、Christus、recedente、nisi、nostrae、in、canticorum）で行って `// ` メモに書く。
 - 斜体の語は、写本にない編者の推定（校注に scripsi）。『ドナトゥスへ』5.2 の de Deo munere の de Deo（校注は p. 15 の de deo munus を比べる）。底本テキストには普通の文字で起こし、訳は底本の読みで行い、メモは付けない（論点一覧に記録する）。ただし、写本の読みでは意味が逆になる推定（『主の祈りについて』17.2 の credere nolentibus。写本は credentibus）は、`// ` メモに書き、訳注「伝わる写本はみな『信じる者たち』と読む。」の形で写本の読みを示す（『テルトゥリアヌス小品集』の『洗礼について』20.2 と同じ考え方）。
 
 ## 『カトリック教会の一致について』4 章の二つの本文
