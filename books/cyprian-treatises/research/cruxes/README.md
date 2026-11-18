@@ -6,7 +6,7 @@
 
 - 底本（Hartel）：W. Hartel 編、CSEL 3.1（1868）。各ページの上が本文（左に 5 行ごとの行番号、右の欄外に章番号）、その下に聖書の箇所の行、その下に校注。校注の数字はそのページの本文の行番号で、ページごとに 1 に戻る。各論点では「p. 4 の校注 10」のように、ページと行番号で挙げる。
 - 画像：IIIF の番号＝印刷ページ＋10。archive.org の幅 1600 のページ画像（`cache/archive.org/sthascicaecilic00hartgoog/page/nN_w1600.jpg`。N は IIIF の番号と同じ）と、IIIF で切り出したもの（`cache/archive.org/sthascicaecilic00hartgoog/pages/`）。
-- 校注の言い回し：「om.」は欠くこと、「add.」は加えること、「m. 2」は後の手（写本の訂正者）、「s. l.」は行の上に書かれていること、「ex corr.」「ex … m. 2」は訂正の結果、「eras.」「in ras.」は削った跡、「coni.」「coniecit」は推定、「scripsi」は Hartel 自身の推定（本文では斜体で刷る。『ドナトゥスへ』5.2 の de Deo）、「uocem uncis inclusi」は、その語を角括弧に入れたこと（削るべき語とみたこと。2.2 の [contione]）。「sup. scr.」は上に書き足されていること、「super … : …」は、その語の上に後の手が別の語を書いていること、「fort. recte」は Hartel が「おそらく正しい」とみる読み（本文には採らない。『一致について』9.4 の incussione）、「cf. p. …」は Hartel が比べる箇所。P¹・P² のような肩の数字は、写本の最初の手と後の手を分けるものとみられる（序文で確かめていない）。
+- 校注の言い回し：「om.」は欠くこと、「add.」は加えること、「m. 2」は後の手（写本の訂正者）、「s. l.」は行の上に書かれていること、「ex corr.」「ex … m. 2」は訂正の結果、「eras.」「in ras.」は削った跡、「coni.」「coniecit」は推定、「scripsi」は Hartel 自身の推定（本文では斜体で刷る。『ドナトゥスへ』5.2 の de Deo）、「uocem uncis inclusi」は、その語を角括弧に入れたこと（削るべき語とみたこと。2.2 の [contione]）。「sup. scr.」は上に書き足されていること、「super … : …」は、その語の上に後の手が別の語を書いていること、「fort. recte」は Hartel が「おそらく正しい」とみる読み（本文には採らない。『一致について』9.4 の incussione）、「fortasse」は Hartel の推定（『背教者について』20.5 の diuino fauore）、「malim」は Hartel が好むが本文に採らない読み（『背教者について』24.3 の cruciatu）、「cf. p. …」は Hartel が比べる箇所。P¹・P² のような肩の数字は、写本の最初の手と後の手を分けるものとみられる（序文で確かめていない）。
 
 ## 『ドナトゥスへ』の略号
 
@@ -44,7 +44,7 @@
 - W：ヴュルツブルクの写本。
 - R：レギナの写本（codex Reginensis）。
 - V：ヴェローナの写本。1〜6 章では 1.2 の Deum と 6.5 の obseruauerint にだけ名が出る。
-- v：刊本。表にはないが、校注は『ドナトゥスへ』『一致について』と同じく v を使う。名で出る推定・注釈者は、1〜6 章では Erasmus（2.6 の damna、5.2 の pati）、Krabinger（2.6 の ablatio）、Baluzius（5.2 の paene ut ita）、Pamelius（6.4 の non subuenire）、Gronovius（6.1）。アウグスティヌス『クレスコニウス反駁』3 巻 36 章が 6.4 を引く。13〜18 章の校注には、刊本の Oxon.（オックスフォード版、18.1 の cuiquam）と r（ローマの初版、15.3 の comminatur et denuntiat と 16.1 の語順。p. 248 の校注で、v と字形が違う斜体の r を拡大して確かめた）、Rigaltius（17.2 の V の報告と、18.4 の句読）が出る。
+- v：刊本。表にはないが、校注は『ドナトゥスへ』『一致について』と同じく v を使う。名で出る推定・注釈者は、1〜6 章では Erasmus（2.6 の damna、5.2 の pati）、Krabinger（2.6 の ablatio）、Baluzius（5.2 の paene ut ita）、Pamelius（6.4 の non subuenire）、Gronovius（6.1）。アウグスティヌス『クレスコニウス反駁』3 巻 36 章が 6.4 を引く。13〜18 章の校注には、刊本の Oxon.（オックスフォード版、18.1 の cuiquam）と r（ローマの初版、15.3 の comminatur et denuntiat と 16.1 の語順。p. 248 の校注で、v と字形が違う斜体の r を拡大して確かめた）、Rigaltius（17.2 の V の報告と、18.4 の句読）が出る。19〜24 章の校注には、Oxon.（22.3 の irasceris）、Gronovius（『考察』p. 570。22.1 の erecta）、Erasmus（24.2 の cecidit）が出る。Hartel 自身の判断として、20.5 の fortasse diuino fauore（S の削られた読みの推定）と、24.3 の cruciatu malim（本文に採らないが好む読み）がある。Hartel はキプリアヌス自身の同じ聖句の引用も比べる（21.3 の『証言集』3 巻 47 章、p. 152）。p. 251 の箇所の行の「Ex. 14, 13 sq.」は Ez.（エゼキエル）の誤植（12-de-lapsis-19-24 の 19.6〜19.7 の項）。
 - 肩の数字（S¹・S²、W¹・W²、R¹）は、『一致について』と同じく写本の最初の手と後の手を分けるものとみられる（序文で確かめていない）。
 - OCR は R を B・E・72 などと、S を 8・5・iS などと読む。略号は必ず画像で読む。
 
