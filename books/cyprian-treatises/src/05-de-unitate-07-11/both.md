@@ -7,16 +7,16 @@
 7:2 聖書はこう語り、また言います。その下着には縫い目がなく、上の方から全部一つに織ったものであったので、彼らは互に言いました。『それを裂かないで、だれのものになるか、くじを引こう』（ヨハネ一九・二三〜二四）。
 // 底本は de tunica autem から cuius sit までを隔字体で刷る。引用の中の言葉を『』に入れ、地の文の部分は口語訳の文言で言い換えた。
 7.3 unitatem ille portabat de superiore parte uenientem id est de caelo et a patre uenientem quae ab accipiente ac possidente scindi omnino non poterat, sed totam semel et solidam firmitatem inseparabiliter obtinebat.
-7:3 キリストは、上の方から来る一致を、すなわち天から、父から来る一致を帯びておられました。この一致は、それを受け取り、持つ者によっても、決して裂かれることがありませんでした。それは、ひとたびに、すべてを、まったき堅固さで、離れがたく保っていたのです。
+7:3 キリストは、上の方から来る一致を、すなわち天から、父から来る一致を帯びておられました。この一致は、それを受け取り、持つ者によっても、決して裂かれえないものでした。かえって、全体で一つの、欠けのない堅固さを、離れがたく保っていたのです。
 // 底本は ille（男性形）で、主語をキリストと取った。illa（下着）と読む刊本もある。a patre は底本の小文字だが、父なる神。
 7.4 possidere non potest indumentum Christi qui scindit et diuidit ecclesiam Christi. contra denique cum Salomone moriente regnum eius et populus scinderetur, Achias propheta Hieroboam regi obuius factus in campo in duodecim scissuras uestimentum suum discidit dicens: sume tibi decem scissuras, quia haec dicit Dominus: ecce scindo regnum de manu Salomonis et dabo tibi decem sceptra, et duo sceptra erunt ei propter seruum meum Dauid et propter Hierusalem ciuitatem quam elegi, ut ponam nomen meum illic.
-7:4 キリストの教会を裂き、分ける者は、キリストの衣を持つことはできません。反対に、ソロモンが死んで、その国と民が裂かれようとしていたときのことです。預言者アヒヤは野でヤラベアム王に出会い、自分の着物を十二切れに裂いて言いました。『あなたは十切れを取りなさい』。主がこう言われるからです。『見よ、わたしは国をソロモンの手から裂き離して、あなたに十部族を与えよう。二つの部族は、わたしのしもべダビデのため、またわたしが選んだ町エルサレムのために、彼のものとなる。わたしの名をそこに置くためである』（列王紀上一一・三一〜三二、三六）。
+7:4 キリストの教会を裂き、分ける者は、キリストの衣を持つことはできません。反対に、ソロモンの死に際して、その国と民が裂かれようとしていたときのことです。預言者アヒヤは野でヤラベアム王に出会い、自分の着物を十二切れに裂いて言いました。『あなたは十切れを取りなさい』。主がこう言われるからです。『見よ、わたしは国をソロモンの手から裂き離して、あなたに十部族を与えよう。二つの部族は、わたしのしもべダビデのため、またわたしが選んだ町エルサレムのために、彼のものとなる。わたしの名をそこに置くためである』（列王紀上一一・三一〜三二、三六）。
 // sceptra は口語訳の「部族」とした（7:5 の tribus と同じ語）。原文は「二つの部族」で、口語訳の一一・三二、三六 は「一つの部族」。
 7.5 cum duodecim tribus Israel scinderentur, uestimentum suum propheta Achias discidit. at uero quia Christi populus non potest scindi, tunica eius per totum textilis et cohaerens diuisa a possidentibus non est: indiuidua, copulata, conexa ostendit populi nostri qui Christum induimus concordiam cohaerentem. sacramento uestis et signo declarauit ecclesiae unitatem.
-7:5 イスラエルの十二の部族が裂かれたので、預言者アヒヤは自分の着物を裂いたのです。しかし、キリストの民は裂かれることができません。ですから、全体が一つに織られ、つながっているキリストの下着は、それを手にした者たちにも分けられませんでした。分けられず、結び合い、つながったその下着は、キリストを着たわたしたちの民の、結び合った和合を示しています。キリストは、衣という秘儀としるしによって、教会の一致を明らかになさったのです。
+7:5 イスラエルの十二の部族が裂かれたので、預言者アヒヤは自分の着物を裂いたのです。しかし、キリストの民は裂かれることができません。ですから、全体が一つに織られ、つながっているキリストの下着は、それを持つ者たちによっても分けられませんでした。分けられず、結び合い、つながったその下着は、キリストを着たわたしたちの民の、結び合った和合を示しています。キリストは、衣という秘儀としるしによって、教会の一致を明らかになさったのです。
 
 8.1 Quis ergo sic sceleratus et perfidus, quis sic discordiae furore uesanus, ut aut credat scindi posse aut audeat scindere unitatem Dei, uestem Domini, ecclesiam Christi?
-8:1 それでは、神の一致を、主の衣を、キリストの教会を、裂かれうると信じる者がいるでしょうか。あえて裂こうとする者がいるでしょうか。それほど邪悪で不信の者、それほど不和の狂気に駆られた者が、いったいだれでしょうか。
+8:1 それでは、神の一致を、主の衣を、キリストの教会を、裂かれうると信じる者がいるでしょうか。あえて裂こうとする者がいるでしょうか。それほど邪悪で不信の者、それほど不和の狂気に駆られた者とは、いったいだれでしょうか。
 8.2 monet ipse in euangelio suo et docet dicens: et erunt unus grex et unus pastor. et esse posse uno in loco aliquis existimat aut multos pastores aut greges plures?
 8:2 主ご自身が、ご自分の福音書の中で、こう勧め、教えて言われます。『そして、ついに一つの群れ、ひとりの羊飼となるであろう』（ヨハネ一〇・一六）。それなのに、一つの所に多くの羊飼や、いくつもの群れがありうると考える者がいるでしょうか。
 8.3 apostolus item Paulus hanc eandem nobis insinuans unitatem obsecrat et hortatur et dicit: obsecro, inquit, uos, fratres, per nomen Domini nostri Iesu Christi, ut id ipsum dicatis omnes et non sint in uobis schismata: sitis autem compositi in eodem sensu et in eadem sententia.
@@ -35,7 +35,7 @@
 // 底本の箇所の行は Ps. 67, 7（七十人訳の数え方）。原文は七十人訳の形（μονοτρόπους）で、論が unanimes に立つので、原文の語で訳した。口語訳は『神は寄るべなき者に住むべき家を与え』。
 
 9.1 Idcirco et in columba uenit Spiritus sanctus: simplex animal et laetum est, non felle amarum, non morsibus saeuum, non unguium laceratione uiolentum, hospitia humana diligere, unius domus consortium nosse, cum generant simul filios edere, cum commeant uolatibus inuicem cohaerere, communi conuersatione uitam suam degere, oris osculo concordiam pacis agnoscere, legem circa omnia unanimitatis inplere.
-9:1 だからこそ、聖霊も鳩の姿で来られたのです。鳩は素直で、喜ばしい生き物です。胆汁の苦さもなく、かみつく残忍さもなく、爪で引き裂く荒々しさもありません。人の住まいを好み、一つの家に共に住むことを知っています。ひなをかえすときは共に子を産み、飛び回るときは互いに離れません。共に暮らして生涯を送り、くちばしの口づけで平和の和合を確かめ合います。そして何事においても、心を一つにする掟を果たすのです。
+9:1 だからこそ、聖霊も鳩の姿で来られたのです。鳩は素直で、喜ばしい生き物です。胆汁の苦さもなく、かみつく残忍さもなく、爪で引き裂く荒々しさもありません。人の住まいを好み、一つの家に共に住むことを知っています。子をもうけるときは共にひなをかえし、飛び回るときは互いに離れません。共に暮らして生涯を送り、くちばしの口づけで平和の和合を確かめ合います。そして何事においても、心を一つにする掟を果たすのです。
 9.2 haec est in ecclesia noscenda simplicitas, haec caritas obtinenda, ut columbas dilectio fraternitatis imitetur, ut mansuetudo et lenitas agnis et ouibus aequetur. quid facit in pectore christiano luporum feritas et canum rabies et uenenum letale serpentum et cruenta saeuitia bestiarum?
 9:2 教会で知るべき素直さとは、これです。保つべき愛とは、これです。兄弟の愛が鳩にならい、柔和と穏やかさが小羊や羊に等しくなることです。キリスト者の胸に、狼の凶暴さ、犬の狂暴さ、蛇の死に至る毒、獣の血なまぐさい残忍さが、何の用があるでしょうか。
 9.3 gratulandum est, cum tales de ecclesia separantur, ne columbas, ne oues Christi saeua sua et uenenata contagione praedentur. cohaerere et coniungi non potest amaritudo cum dulcedine, caligo cum lumine, pluuia cum serenitate, pugna cum pace, cum fecunditate sterilitas, cum fontibus siccitas, cum tranquillitate tempestas.
@@ -46,12 +46,12 @@
 9:5 使徒ヨハネは、こういう者たちを忌み嫌い、打ちすえて言います。『彼らはわたしたちから出て行った。しかし、彼らはわたしたちに属する者ではなかったのである。もし属する者であったなら、わたしたちと一緒にとどまっていたであろう』（第一ヨハネ二・一九）。
 
 10.1 Hinc haereses et factae sunt frequenter et fiunt, dum peruersa mens non habet pacem, dum perfidia discordans non tenet unitatem. fieri uero haec Dominus permittit et patitur manente propriae libertatis arbitrio, ut dum corda et mentes nostras ueritatis discrimen examinat, probatorum fides integra manifesta luce clarescat.
-10:1 ここから、異端が、これまでもたびたび生じ、今も生じています。ゆがんだ思いが平和を持たず、不和をなす不信仰が一致を保たないからです。しかし主は、これが起こるのを許し、忍んでおられます。人が自分で選ぶ自由は、残されたままです。それは、試された者たちの完全な信仰が、はっきりした光のもとに輝き出るためです。真理による選り分けが、わたしたちの心と思いを調べるうちに、そうなるのです。
+10:1 ここから、異端が、これまでもたびたび生じ、今も生じています。ゆがんだ思いが平和を持たず、不和をなす不信仰が一致を保たないからです。しかし主は、人が自分で選ぶ自由を残したまま、これが起こるのを許し、忍んでおられます。それは、試された者たちの完全な信仰が、はっきりした光のもとに輝き出るためです。真理による選り分けが、わたしたちの心と思いを調べるうちに、そうなるのです。
 10.2 per apostolum praemonet Spiritus sanctus et dicit: oportet et haereses esse, ut probati manifesti sint in uobis. sic probantur fideles, sic perfidi deteguntur, sic et ante iudicii diem hic quoque iam iustorum adque iniustorum animae diuiduntur et a frumento paleae separantur.
 10:2 聖霊は使徒を通して、前もって警告して言われます。『あなたがたの中で試された者が明らかにされるためには、異端もなければなるまい』（第一コリント一一・一九）。こうして、信仰ある者は試され、不信の者はあばかれます。こうして、裁きの日の前に、すでにこの世で、正しい者と正しくない者の魂が分けられ、もみがらが麦から選り分けられるのです。
 // haereses は 10:1 の「異端」とつながるので、訳語表の「異端」にした。probati は前後の probatorum・probantur とつなげて「試された者」。口語訳は「ほんとうの者」「分派」。
 10.3 hinc sunt qui se ultro aput temerarios conuenas sine diuina dispositione praeficiunt, qui se praepositos sine ulla ordinationis lege constituunt, qui nemine episcopatum dante episcopi sibi nomen adsumunt: quos designat in psalmis Spiritus sanctus sedentes in pestilentiae cathedra, pestes et lues fidei, serpentis ore fallentes et corrumpendae ueritatis artifices, uenena letalia linguis pestiferis euomentes: quorum sermo ut cancer serpit, quorum tractatus pectoribus et cordibus singulorum mortale uirus infundit.
-10:3 ここから、こういう者たちが出てきます。神の定めによらず、向こう見ずな寄せ集めの者たちのもとで、自分から進んでかしらに収まる者たちです。任命の決まりによらず、自分を指導者に立てる者たちです。だれも監督の職を授けていないのに、監督の名を名乗る者たちです。聖霊は詩篇の中で、こういう者たちを、疫病のような者の座にすわる者として指し示しておられます（詩篇一・一）。彼らは信仰をむしばむ疫病であり、伝染病です。蛇の口で欺き、真理を損なう巧みな職人です。疫病をもたらす舌で、死の毒を吐き出す者たちです。その言葉はがんのように広がり、その説き明かしは一人一人の胸と心に、死をもたらす毒を注ぎ込みます。
+10:3 ここから、こういう者たちが出てきます。神の定めによらず、向こう見ずな寄せ集めの者たちのもとで、自分から進んで人々の長に収まる者たちです。任命の決まりによらず、自分を指導者に立てる者たちです。だれも監督の職を授けていないのに、監督の名を名乗る者たちです。聖霊は詩篇の中で、こういう者たちを、疫病のような者の座にすわる者として指し示しておられます（詩篇一・一）。彼らは信仰をむしばむ疫病であり、伝染病です。蛇の口で欺き、真理を損なう巧みな職人です。疫病をもたらす舌で、死に至る毒を吐き出す者たちです。その言葉はがんのように広がり、その説き明かしは一人一人の胸と心に、死をもたらす毒を注ぎ込みます。
 // sedentes in pestilentiae cathedra は詩篇一・一 の七十人訳の形の言い換え。底本に箇所の行はないが、「詩篇の中で」と名指すので出典を付け、『テルトゥリアヌス小品集』の『見世物について』3:3 の「疫病のような者の座」に揃えた。口語訳は「あざける者の座」。
 
 11.1 Contra eiusmodi clamat Dominus, ab his refrenat et reuocat errantem plebem suam dicens: nolite audire sermones pseudoprophetarum, quoniam uisiones cordis eorum frustrantur eos. locuntur sed non ab ore Domini.

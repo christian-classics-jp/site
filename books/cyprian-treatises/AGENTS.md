@@ -93,7 +93,8 @@
 | haereses／schismata | 異端／分裂（『一致について』3.2。『テルトゥリアヌス小品集』の schismata と同じ） |
 | sacramentum（『一致について』） | 秘儀（4.6 の sacramentum unitatis「一致の秘儀」、6.5 の sacramentis caelestibus「天の秘儀」。『テルトゥリアヌス小品集』の『洗礼について』と同じ） |
 | episcopatus／episcopi | 監督の職／監督（5.1〜5.2。5.2 の cuius a singulis in solidum pars tenetur は「一人一人がその一部を担いますが、それは分けられない全体として担われている」） |
-| origo／caput／exordium | 源／かしら／始まり（3.4、4.3〜4.4、5.4） |
+| origo／caput／exordium | 源／かしら／始まり（3.4、4.3〜4.4、5.4）。「かしら」は caput だけに使い、人が自分を上に立てる語（10.3 の se praeficiunt「人々の長に収まる」）には使わない |
+| possidere（『一致について』7 章）／letalis／mortalis | 持つ（7.1、7.3〜7.5。論が持つことと裂くことの対比に立つので通す）／死に至る（9.2 の uenenum letale、10.3 の uenena letalia）／死をもたらす（10.3 の mortale uirus） |
 | mandata（キリストの） | いましめ（『一致について』2.2、2.5。口語訳マタイ一九・一七 の「いましめ」に揃える） |
 | unitas／ecclesia catholica | 一致／カトリック教会（作品の題は『カトリック教会の一致について』。本文の 1〜6 章に catholica は出ない）。unitas は論の文では「一致」で通す（『一致について』4.3〜4.4 の「一致の源」「始まりは一致から出ます」）。たとえの中で一つであることを言うところ（5.2 の unitas tamen seruatur in origine「源では一つであることが保たれています」、5.3 の diuisionem lucis unitas non capit）だけ「一つであること」「一つなので」とする |
 | lapsi | 背教者（作品の題は『背教者について』。迫害で信仰を捨てた人々。本文での訳し分けは最初のページで決める） |
@@ -119,7 +120,8 @@
 - in Domino（奪格）は「主にあって」、in Dominum（対格）は「主に向かって」「主に喜ばれる」などとし、訳し分ける（『ドナトゥスへ』16.1）。底本は 16.1 の in domino を小文字で刷るが、訳は同じ「主」。
 - 比べることを示す quomodo・sicut は、文を分けても「〜のと同じです」「ちょうど〜ように」で残す（『一致について』5.2 の quomodo solis multi radii「それは、太陽の光線は多くても、光は一つであるのと同じです」）。
 - 聖句の中の受け身の分詞は受け身で訳す（『一致について』4.5 の electa genetrici suae「彼女を産んだ者に選ばれた者」）。
-- 理由や手段を言う奪格（4.1 の desperatione meliorum、3.5 の tenacibus inlecebris）は、文を分けても「〜ので」「〜によって」で因果を残す。
+- 理由や手段を言う奪格（4.1 の desperatione meliorum、3.5 の tenacibus inlecebris）は、文を分けても「〜ので」「〜によって」で因果を残す。付帯の状況を言う奪格独立句（『一致について』10.1 の manente propriae libertatis arbitrio「人が自分で選ぶ自由を残したまま」）は、主文から切り離さず「〜したまま」「〜して」で添える。
+- non posse＋受け身の不定詞は「〜されえない」「〜ことができない」とし、できるかどうかを落とさない（『一致について』7.3 の scindi omnino non poterat「決して裂かれえないものでした」）。
 
 ## 名前の表
 
