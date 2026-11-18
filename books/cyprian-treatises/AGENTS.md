@@ -86,6 +86,7 @@
 | sagina | 糧（『ドナトゥスへ』15.2 の caelestis sagina「天の糧」。7.1 の saginatus「肥やされた」の響きは訳に残さない） |
 | oratio dominica | 主の祈り（作品の題も『主の祈りについて』） |
 | hostis／inimicus／aduersarius | 敵／敵／敵対者（『ドナトゥスへ』5.5、『一致について』1.1〜1.3、3.3、6.2） |
+| profanus（『一致について』）／beatus apostolus／castus pudor | 聖なるものの外にいる者（6.2。教会を離れた者を言う。『ドナトゥスへ』1.3 の arbiter profanus「信仰を知らない者」は異教の者で、意味が違う）／祝福された使徒（4.6 の beatus apostolus Paulus）／純潔な恥じらい（6.1。castitas「純潔」に揃え、pudica「貞潔」と分ける） |
 | haereses／schismata | 異端／分裂（『一致について』3.2。『テルトゥリアヌス小品集』の schismata と同じ） |
 | sacramentum（『一致について』） | 秘儀（4.6 の sacramentum unitatis「一致の秘儀」、6.5 の sacramentis caelestibus「天の秘儀」。『テルトゥリアヌス小品集』の『洗礼について』と同じ） |
 | episcopatus／episcopi | 監督の職／監督（5.1〜5.2。5.2 の cuius a singulis in solidum pars tenetur は「一人一人がその一部を担いますが、それは分けられない全体として担われている」） |

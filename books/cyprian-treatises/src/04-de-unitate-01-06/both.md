@@ -31,7 +31,7 @@
 3.2 haereses inuenit et schismata, quibus subuerteret fidem, ueritatem corrumperet, scinderet unitatem. quos detinere non potest in uiae ueteris caecitate circumscribit et decipit noui itineris errore.
 3:2 敵は異端と分裂を編み出しました。それによって信仰を覆し、真理を損ない、一致を引き裂こうとしたのです。古い道の盲目のうちに引き止めておけない者たちを、敵は新しい道の迷いによってわなにかけ、欺きます。
 3.3 rapit de ipsa ecclesia homines et, dum sibi adpropinquasse iam lumini adque euasisse saeculi noctem uidentur, alias nescientibus tenebras rursus infundit, ut cum euangelio Christi et cum obseruatione eius et lege non stantes christianos se uocent et ambulantes in tenebris habere se lumen existiment blandiente aduersario adque fallente, qui secundum apostoli uocem transfigurat se uelut angelum lucis et ministros subornat suos uelut ministros iustitiae adserentes noctem pro die, interitum pro salute, desperationem sub obtentu spei, perfidiam sub praetexto fidei, antichristum sub uocabulo Christi, ut dum uerisimilia mentiuntur, ueritatem subtilitate frustrentur.
-3:3 敵は、教会そのものから人々をさらっていきます。彼らは、すでに光に近づき、世の夜を逃れたと自分では思っています。ところが敵は、知らないうちに、彼らに別の闇を再び注ぎ込むのです。こうして彼らは、キリストの福音にも、その教えを守ることにも、その律法にも立たないまま、自分をキリスト者と呼びます。闇の中を歩きながら、自分は光を持っていると思い込みます。敵対者がへつらい、欺くからです。使徒の言葉のとおり、敵は光の天使のように装い、自分の手下たちを、義の奉仕者のように装わせて送り込みます（第二コリント一一・一四〜一五）。手下たちは、夜を昼と言い、滅びを救いと言い張ります。望みを装って絶望を、信仰を口実に不信仰を、キリストの名のもとに反キリストを持ち込みます。こうして、もっともらしい偽りを語って、巧妙さによって真理を無にするのです。
+3:3 敵は、教会そのものから人々をさらっていきます。彼らは、すでに光に近づき、世の夜を逃れたと自分では思っています。ところが敵は、知らないうちに、彼らに別の闇を再び注ぎ込むのです。こうして彼らは、キリストの福音にも、その教えを守ることにも、その律法にも立たないまま、自分をキリスト者と呼びます。闇の中を歩きながら、自分は光を持っていると思い込みます。敵対者がへつらい、欺くからです。使徒の言葉のとおり、敵対者は光の天使のように装い、自分の手下たちを、義の奉仕者のように装わせて送り込みます（第二コリント一一・一四〜一五）。手下たちは、夜を昼と言い、滅びを救いと言い張ります。望みを装って絶望を、信仰を口実に不信仰を、キリストの名のもとに反キリストを持ち込みます。こうして、もっともらしい偽りを語って、巧妙さによって真理を無にするのです。
 // 底本は箇所を挙げないが、「使徒の言葉のとおり」と名指しで言い換えるので、出典を付けた。
 3.4 hoc eo fit, fratres dilectissimi, dum ad ueritatis originem non reditur nec caput quaeritur nec magisterii caelestis doctrina seruatur.
 3:4 愛する兄弟たちよ、こういうことが起こるのは、人々が真理の源に立ち返らないからです。かしらを求めず、天から授けられた教えを守らないからです。
@@ -65,9 +65,9 @@
 5:4 教会は、あふれる実りによって、全地に枝を広げます。豊かに流れ出る流れを、広く押し広げます。それでも、かしらは一つ、源も一つです。実りを重ねて豊かな母は、ただ一人です。わたしたちはこの母から生まれ、この母の乳で養われ、この母の霊によって生かされているのです。
 
 6.1 Adulterari non potest sponsa Christi, incorrupta est et pudica. unam domum nouit, unius cubiculi sanctitatem casto pudore custodit. haec nos Deo seruat, haec filios regno quos generauit adsignat.
-6:1 キリストの花嫁は、姦淫に汚されることがありえません。花嫁は汚れがなく、貞潔です。一つの家だけを知り、一つの寝室の聖さを、清い恥じらいをもって守ります。この花嫁がわたしたちを神のために守り、自分が生んだ子らを御国にゆだねるのです。
+6:1 キリストの花嫁は、姦淫に汚されることがありえません。花嫁は汚れがなく、貞潔です。一つの家だけを知り、一つの寝室の聖さを、純潔な恥じらいをもって守ります。この花嫁がわたしたちを神のために守り、自分が生んだ子らを御国にゆだねるのです。
 6.2 quisque ab ecclesia segregatus adulterae iungitur a promissis ecclesiae separatur, nec perueniet ad Christi praemia qui reliquit ecclesiam Christi. alienus est, profanus est, hostis est.
-6:2 教会から離れて姦婦と結びつく者は、だれであれ、教会に与えられた約束から切り離されます。キリストの教会を捨てた者は、キリストの報いにたどり着くことはありません。その人はよそ者です。汚れた者です。敵です。
+6:2 教会から離れて姦婦と結びつく者は、だれであれ、教会に与えられた約束から切り離されます。キリストの教会を捨てた者は、キリストの報いにたどり着くことはありません。その人はよそ者です。聖なるものの外にいる者です。敵です。
 6.3 habere non potest Deum patrem qui ecclesiam non habet matrem. si potuit euadere quisque extra arcam Noe fuit, et qui extra ecclesiam foris fuerit euadit.
 6:3 教会を母として持たない者は、神を父として持つことはできません。ノアの箱舟の外にいた者のだれかが逃れることができたというのなら、教会の外にいる者も逃れられるでしょう。
 6.4 monet Dominus et dicit: qui non est mecum aduersus me est, et qui non mecum colligit spargit. qui pacem Christi et concordiam rumpit aduersus Christum facit: qui alibi praeter ecclesiam colligit Christi ecclesiam spargit.
