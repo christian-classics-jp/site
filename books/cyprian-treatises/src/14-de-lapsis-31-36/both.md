@@ -46,7 +46,7 @@
 35:6 残ったものは、ただ一つのことに役立てばよいのです。それによって、罪と咎があがなわれることです。ためらわず、惜しみなく、施しのわざを行いましょう。傷の手当てのために、財をすべて使いましょう。わたしたちを裁こうとしておられる主に、わたしたちの資産と富を貸しましょう。
 // Dominus faeneretur は、箴言一九・一七（口語訳「貧しい者をあわれむ者は主に貸すのだ」）の言い方で、施しによって主に貸すことを言う。直訳では主が貸す向きに読めるので、主に貸す形にした。operatio は、キプリアヌスが施しを言う語なので「施しのわざ」とした。
 35.7 sic sub apostolis fides uiguit, sic primus credentium populus Christi mandata seruauit: prompti erant, largi erant. distribuendum per apostolos totum dabant et non talia delicta redimebant.
-35:7 使徒たちのもとで、信仰はこのように力を持っていました。最初の信じる民は、このようにキリストのいましめを守りました。彼らは進んで、惜しみなく与えたのです。使徒たちを通して分け与えてもらうために、すべてを差し出しました。しかも、これほどの罪をあがなっていたのではなかったのです。
+35:7 使徒たちのもとで、信仰はこのように力を持っていました。最初の信じる民は、このようにキリストのいましめを守りました。彼らは進んで、惜しみなく与えたのです。使徒たちを通して分け与えてもらうために、すべてを差し出しました。しかも、これほどの過ちをあがなっていたのではなかったのです。
 // 使徒行伝四・三四〜三五、二・四四〜四五 の話。底本は箇所を挙げないので、出典を付けない。
 
 36.1 Si precem toto corde quis faciat, si ueris paenitentiae lamentis et lacrimis ingemescat, si ad ueniam delicti sui Dominum iustis et continuis operibus inflectat, misereri talium potest qui et misericordiam suam protulit dicens: cum conuersus fueris et gemueris, tunc saluaberis et scies ubi fueris, et iterum: nolo mortem morientis, dicit Dominus, quantum ut reuertatur et uiuat.
