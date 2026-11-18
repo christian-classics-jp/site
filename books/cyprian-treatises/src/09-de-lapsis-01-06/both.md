@@ -11,20 +11,20 @@
 2.1 Confessores praeconio boni nominis claros et uirtutis ac fidei laudibus gloriosos laetis conspectibus intuemur, sanctis osculis adhaerentes desideratos diuina et inexplebili cupiditate conplectimur. adest militum Christi cors candida, qui persecutionis urgentis ferociam turbulentam stabili congressione fregerunt, parati ad patientiam carceris, armati ad tolerantiam mortis.
 2:1 わたしたちは、告白者たちを喜びの目で見つめます。彼らは良い名がたたえられて名高く、勇気と信仰をほめられて栄光に輝いています。わたしたちは聖なる口づけをもって彼らにすがりつきます。待ち望んでいた人々を、神から来る、尽きることのない切なる思いで抱きしめるのです。ここに、キリストの兵士たちの白く輝く一隊がいます。彼らは、迫りくる迫害の荒々しい猛威を、揺るがない戦いぶりで打ち砕きました。牢を忍ぶ備えができており、死に耐えるための武具を身に着けていたのです。
 2.2 repugnastis fortiter saeculo, spectaculum gloriosum praebuistis Deo, secuturis fratribus fuistis exemplo. religiosa uox Christum locuta est, in quem se semel credidisse confessa est: inlustres manus quae non nisi diuinis operibus adsueuerant sacrificiis sacrilegis restiterunt: sanctificata ora caelestibus cibis post corpus et sanguinem Domini profana contagia et idolorum reliquias respuerunt: ab inpio sceleratoque uelamine quo illic uelabantur sacrificantium capita captiua caput uestrum liberum mansit: frons cum signo Dei pura diaboli coronam ferre non potuit, coronae se Domini reseruauit.
-2:2 あなたがたは世に雄々しく立ち向かいました。神に栄光ある見ものをお見せし、後に続く兄弟たちの模範となりました。敬虔な声は、ひとたび信じると告白したキリストを、言い表しました。神のわざにしか慣れていなかった誉れある手は、神を汚す供え物に逆らいました。口は天の食物によって聖とされ、主のからだと血をいただいていました。その口は、汚れたものに触れることも、偶像に供えた残り物も吐き捨てました。あの場所では、供え物をささげる者たちの頭が、不敬虔で罪深い覆いをかぶせられて、捕らわれていました。けれども、あなたがたの頭は自由なままでした。神の印を帯びた清い額は、悪魔の冠をかぶることができず、主の冠のために自分をとっておいたのです。
+2:2 あなたがたは世に雄々しく立ち向かいました。神に栄光ある見ものをお見せし、後に続く兄弟たちの模範となりました。敬虔な声は、ひとたび信じたと告白したキリストを、言い表しました。神のわざにしか慣れていなかった誉れある手は、神を汚す供え物に逆らいました。口は天の食物によって聖とされ、主のからだと血をいただいていました。その口は、汚れをうつすものも、偶像に供えた残り物も吐き捨てました。あの場所では、供え物をささげる者たちの頭が、不敬虔で罪深い覆いをかぶせられて、捕らわれていました。けれども、あなたがたの頭は自由なままでした。神の印を帯びた清い額は、悪魔の冠をかぶることができず、主の冠のために自分をとっておいたのです。
 2.3 quam uos laeto sinu excipit mater ecclesia de proelio reuertentes! quam beata, quam gaudens portas suas aperit, ut adunatis agminibus intretis de hoste prostrato tropaea referentes!
 2:3 母なる教会は、戦いから帰ってくるあなたがたを、なんと喜ばしい胸に迎えることでしょう！　なんと幸いに、なんと喜んで、門を開くことでしょう！　あなたがたが隊を組んで入り、打ち倒された敵から戦利品を携えてくるためです。
 2.4 cum triumphantibus uiris et feminae ueniunt quae cum saeculo sexum quoque uicerunt. ueniunt et geminata militiae suae gloria uirgines et pueri annos suos uirtutibus transeuntes.
-2:4 勝利した男たちと共に、女たちも来ます。彼女たちは世に打ち勝つとともに、女という性にも打ち勝ったのです。戦いの栄光を二重にした処女たちも来ます。勇気によって自分の年を越えた子供たちも来ます。
+2:4 勝利した男たちと共に、女たちも来ます。彼女たちは世に打ち勝つとともに、女という性にも打ち勝ったのです。戦いの栄光を二重にした処女たちも来ます。勇気において自分の年に勝る子供たちも来ます。
 2.5 nec non et cetera stantium multitudo uestram gloriam sequitur, proximis et paene coniunctis laudis insignibus uestigia uestra comitatur. eadem et in illis sinceritas cordis, eadem fidei tenacis integritas.
-2:5 さらに、立ち続けたほかの大勢の人々も、あなたがたの栄光に続いています。彼らは、あなたがたのすぐそばの、ほとんど同じ誉れのしるしを帯びて、あなたがたの足跡についていくのです。彼らのうちにも、同じ心の真実があり、固く保たれた信仰の、同じ全さがあります。
+2:5 さらに、立ち続けたほかの大勢の人々も、あなたがたの栄光に続いています。彼らは、あなたがたの誉れのしるしにごく近く、ほとんど並ぶほどのしるしを帯びて、あなたがたの足跡についていくのです。彼らのうちにも、同じ心の真実があり、固く保たれた信仰の、同じ全さがあります。
 2.6 inconcussis praeceptorum caelestium radicibus nixos et euangelicis traditionibus roboratos non praescripta exsilia, non destinata tormenta, non rei familiaris et corporis supplicia terruerunt. explorandae fidei praefiniebantur dies: sed qui saeculo renuntiasse se meminit nullum saeculi diem nouit, nec tempora terrena iam conputat qui aeternitatem de Deo sperat.
 2:6 彼らは、天のいましめの揺るがない根に支えられ、福音の伝えによって強められていました。だから、言い渡された追放も、用意された責め苦も、財産と体への罰も、彼らを恐れさせることはありませんでした。信仰を吟味する日々が、前もって定められていました。けれども、世を捨てたことを覚えている者は、世の日などは知りません。神から永遠を望む者は、もう地上の時を数えないのです。
 
 3.1 Nemo, fratres, nemo hanc gloriam mutilet, nemo incorruptam stantium firmitatem maligna obtrectatione debilitet. cum dies negantibus praestitutus excessit, quisque professus intra diem non est Christianum se esse confessus est.
-3:1 兄弟たちよ、だれも、だれもこの栄光をそこなってはなりません。だれも、立ち続けた人々の損なわれない堅さを、悪意あるそしりで弱めてはなりません。否む者たちのために定められた期日は、もう過ぎました。期日のうちに出頭して申し出なかった者はだれでも、自分がキリスト者であると告白したのです。
+3:1 兄弟たちよ、だれも、だれもこの栄光を欠けさせてはなりません。だれも、立ち続けた人々の損なわれない堅さを、悪意あるそしりで弱めてはなりません。否む者たちのために定められた期日は、もう過ぎました。期日のうちに出頭して申し出なかった者はだれでも、自分がキリスト者であると告白したのです。
 3.2 primus est uictoriae titulus gentilium manibus adprehensum Dominum confiteri: secundus ad gloriam gradus est cauta secessione subtractum iam Deo reseruari. illa publica, haec priuata confessio est: ille iudicem saeculi uincit, hic contentus Deo suo iudice conscientiam puram cordis integritate custodit: illic fortitudo promptior, hic sollicitudo securior.
-3:2 勝利の第一の誉れは、異邦人の手に捕らえられて、主を告白することです。栄光への第二の段階は、用心深く身を退いて隠れ、神のために自分をとっておくことです。前者は公の告白で、後者はひそかな告白です。前者は世の裁き人に打ち勝ちます。後者は、自分の神を裁き人として満ち足り、心の全さによって清い良心を守ります。前者には、より進んで立ち向かう強さがあり、後者には、より安全な用心があります。
+3:2 勝利の第一の誉れは、異邦人の手に捕らえられて、主を告白することです。栄光への第二の段階は、用心深く身を退いて隠れ、神のために自分をとっておくことです。前者は公の告白で、後者はひそかな告白です。前者は世の裁き人に打ち勝ちます。後者は、自分の神が裁き人であることに満ち足りて、心の全さによって清い良心を守ります。前者には、より進んで立ち向かう強さがあり、後者には、より安全な用心があります。
 3.3 ille adpropinquante hora sua iam maturus inuentus est, hic fortasse dilatus est qui patrimonio derelicto idcirco secesserit, quia non erat negaturus: confiteretur utique, si fuisset et ipse detentus.
 3:3 前者は、自分の時が近づいたときに、すでに熟した者と見いだされました。後者は、もしかすると先へ延ばされたのかもしれません。彼は財産を捨てて身を退きましたが、それは否むつもりがなかったからです。もし彼も捕らえられていたなら、きっと告白したはずです。
 
@@ -39,12 +39,12 @@
 4.5 cum plangentibus plango, cum deflentibus defleo, cum iacentibus iacere me credo. iaculis illis grassantis inimici mea simul membra percussa sunt, saeuientes gladii per mea uiscera transierunt.
 4:5 わたしは嘆く者と共に嘆き、泣く者と共に泣き、倒れている者と共に、自分も倒れていると思います。荒れ狂う敵のあの投げ槍に、わたしの手足も共に打たれました。猛り立つ剣は、わたしの身をも貫きました。
 4.6 inmunis et liber a persecutionis incursu fuisse non potest animus: in prostratis fratribus et me prostrauit adfectus.
-4:6 迫害の襲いかかる中で、わたしの精神が無傷で自由でいることはできませんでした。兄弟たちが打ち倒されたとき、彼らを思う心の動きが、わたしをも打ち倒したのです。
+4:6 わたしの精神が、迫害の襲撃を受けずに、無傷で自由でいることはできませんでした。兄弟たちが打ち倒されたとき、彼らを思う心の動きが、わたしをも打ち倒したのです。
 
 5.1 Habenda tamen est, fratres dilectissimi, ratio ueritatis nec sic mentem debet et sensum persecutionis infestae tenebrosa caligo caecasse, ut nihil remanserit luminis et lucis, unde diuina praecepta perspici possint.
-5:1 しかし、愛する兄弟たちよ、真実を見きわめなければなりません。迫害の暗いやみが、思いと感覚を、すっかり見えなくしてしまってはなりません。神のいましめを見分ける光と明かりが、少しも残らないほどにしてはならないのです。
+5:1 しかし、愛する兄弟たちよ、真実を見きわめなければなりません。敵意に満ちた迫害の暗いやみが、思いと感覚を、すっかり見えなくしてしまってはなりません。神のいましめを見分ける光と明かりが、少しも残らないほどにしてはならないのです。
 5.2 si cladis causa cognoscitur, et medella uulneris inuenitur. Dominus probari familiam suam uoluit et quia traditam nobis diuinitus disciplinam pax longa corruperat, iacentem fidem et paene dixerim dormientem censura caelestis erexit, cumque nos peccatis nostris amplius mereremur, clementissimus Dominus sic cuncta moderatus est, ut hoc omne quod gestum est exploratio potius quam persecutio uideretur.
-5:2 災いの原因がわかれば、傷の手当ても見つかります。主は、ご自分の家族を試そうとなさいました。神から伝えられた教えを、長い平和が損なっていたからです。それで、天の懲らしめが、倒れていた信仰を、いや、眠っていたと言ってもよい信仰を、起こしたのです。わたしたちは、罪のために、もっと多くを受けて当然でした。けれども、このうえなくあわれみ深い主は、すべてを加減なさいました。こうして、起こったことのすべてが、迫害というより吟味と見えるようになさったのです。
+5:2 災いの原因がわかれば、傷の手当ても見つかります。主は、ご自分の家族を試そうとなさいました。長い平和が、神から伝えられた教えを損なっていました。そのため、天の懲らしめが、倒れていた信仰を、いや、眠っていたと言ってもよい信仰を、起こしたのです。わたしたちは、罪のために、もっと多くを受けて当然でした。けれども、このうえなくあわれみ深い主は、すべてを加減なさいました。こうして、起こったことのすべてが、迫害というより吟味と見えるようになさったのです。
 
 6.1 Studebant augendo patrimonio singuli et obliti quid credentes aut sub apostolis ante fecissent aut semper facere deberent insatiabili cupiditatis ardore ampliandis facultatibus incubabant. non in sacerdotibus religio deuota, non in ministeriis fides integra, non in operibus misericordia, non in moribus disciplina.
 6:1 人々は、めいめい財産を増やすことに熱心でした。信じる者たちが、かつて使徒たちのもとで何をしたか、またいつも何をすべきかを忘れていました。そして、飽くことのない欲の炎に燃えて、富を広げることに夢中になっていたのです。祭司たちには、ささげ尽くした敬虔がありませんでした。奉仕の務めには欠けのない信仰がなく、わざにはあわれみがなく、生き方には教えを守る姿がありませんでした。
@@ -57,4 +57,4 @@
 // 底本は quaetuosae と刷る。s が落ちた誤植とみて、quaestuosae（もうけになる）で訳した。
 6.5 quid non perpeti tales pro peccatis eiusmodi mereremur, cum iam pridem praemonuerit ac dixerit censura diuina: si dereliquerint legem meam et in iudiciis meis nou ambulauerint, si iustificationes meas profanauerint et praecepta mea non obseruauerint, uisitabo in uirga facinora eorum et in flagellis delicta eorum.
 6:5 このようなわたしたちが、このような罪のために、受けて当然でない苦しみなど、あったでしょうか。神の懲らしめは、とうの昔に前もってこう警告していたのです。『もしわがおきてを捨て、わがさばきに従って歩まないならば、もしわが定めを犯し、わが戒めを守らないならば、わたしはつえをもって彼らのとがを罰し、むちをもって彼らの不義を罰する』（詩篇八九・三〇〜三二）。
-// 底本の箇所の行は Ps. 88, 31 sq.（七十人訳の数え方）。口語訳の詩篇八九・三〇〜三二 に直した。口語訳は「もしその子孫が」で始まるが、原文に主語がないので入れない。底本は nou と刷る。n が逆さに組まれた誤植とみて、non で訳した。
+// 底本の箇所の行は Ps. 88, 31 sq.（七十人訳の数え方）。口語訳の詩篇八九・三〇〜三二 に直した。口語訳は「もしその子孫が」で始まり、三一節も「もし彼らが」で始まるが、原文に主語がないので、どちらも入れない。底本は nou と刷る。n が逆さに組まれた誤植とみて、non で訳した。

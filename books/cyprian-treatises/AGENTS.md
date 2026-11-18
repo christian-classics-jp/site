@@ -119,6 +119,7 @@
 | hereditas／heredes | 遺産／相続人（24.3〜24.4。heredes Christi は「キリストの相続人」で、ローマ八・一七 の「共同の相続人」に寄せない） |
 | confessores・confessio | 告白者・告白（『一致について』20.1〜21.6。21.4 の「キリストを告白する者がキリストに倣う」のつながりが見えるように同じ語族で通す。このリポジトリの『リヨンの殉教者たち』の ὁμολογητής と同じ。迫害で信仰を言い表し、まだ死んでいない人。死んだ「殉教者」と分ける。『背教者について』2.1、4.1 も同じ。3.2 では、捕らえられて主を告白する publica confessio「公の告白」に、身を隠して神のために自分をとっておく priuata confessio を並べるので、これも「ひそかな告白」と同じ語で通す） |
 | stantes／iacentes・prostrati／iacens fides | 立ち続けた人々・立ち続けた兄弟たち（『背教者について』2.5、3.1、4.1。迫害の中で信仰を捨てず、告白者とも殉教者とも別に挙げられる信徒）／倒れている者・打ち倒された兄弟たち（4.5、4.6）／倒れていた信仰（5.2）。「立つ・倒れる」の対が題の lapsi（倒れた者）につながるので、立つ像と倒れる像を訳で残す |
+| corrumpere・incorruptus／mutilare／uiscera／membra | 損なう・損なわれない（『背教者について』3.1、5.2、6.2）／欠けさせる（3.1 の nemo hanc gloriam mutilet。「損なう」「そこなう」と重ねない）／身（4.1 の nostrorum uiscerum partem「わたしたちの身…その一部」、4.5 の per mea uiscera「わたしの身をも」）／手足（人の体。4.5）・肢体（キリストのからだ。6.3 の membra Christi） |
 | professus（『背教者について』3.1）／negare | 出頭して申し出る（期日のうちに出頭して否むと届け出ること。confessus「告白する」と別の語にして、文が矛盾して見えないようにする）／否む |
 | explorare・exploratio／probare／censura（神の） | 吟味する・吟味（『背教者について』2.6 の explorandae fidei「信仰を吟味する日々」、5.2 の exploratio potius quam persecutio「迫害というより吟味」）／試す（5.2 の probari familiam suam。上の probare の行と同じ）／懲らしめ（5.2 の censura caelestis「天の懲らしめ」、6.5 の censura diuina「神の懲らしめ」） |
 | sacerdotes／ministeria／religio（祭司の）／disciplina（キリスト者の） | 祭司たち／奉仕の務め（『背教者について』6.1。底本の ministeriis は人でなく務めなので、人を言う「祭司たち」と並べて「祭司たちには…、奉仕の務めには…」とする）／敬虔（6.1 の religio deuota「ささげ尽くした敬虔」。『護教論』の人の側の敬いの「敬虔」）／教え（『護教論』の表どおり。5.2 の traditam nobis diuinitus disciplinam「神から伝えられた教え」。6.1 の non in moribus disciplina は「生き方には教えを守る姿がなく」） |
@@ -144,6 +145,7 @@
 - 指示語が後ろの節を指す hoc ipso … quod（22.3）は、「まさに〜ことによってです」と、指す中身に結びつけて訳す。前の文を指す「そのこと」にしない。
 - 主語に付く現在分詞が主動詞と同時のことや手段を言うところ（26.1 の thesauros … reponentes … offerebant）は、別の行いとして先に並べず、「こうして」「〜しながら」で主動詞に結びつける。
 - 状況を並べる uel … uel … uel（23.2）は、推量の「〜かもしれません」を重ねず、「〜した人も、〜した人も」と並べる。
+- 完了不定詞は「〜した」と過去で訳し、「〜すると」にしない（『背教者について』2.2 の in quem se semel credidisse confessa est「ひとたび信じたと告白したキリスト」）。
 - non posse＋受け身の不定詞は「〜されえない」「〜ことができない」とし、できるかどうかを落とさない（『一致について』7.3 の scindi omnino non poterat「決して裂かれえないものでした」）。
 
 ## 名前の表
