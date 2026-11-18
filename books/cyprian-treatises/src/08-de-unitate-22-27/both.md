@@ -6,13 +6,13 @@
 22:2 ここでも同じです。ある人々の信仰が砕けたからといって、告白者たちの聖さと誉れが、すぐに損なわれたわけではありません。祝福された使徒は、その手紙の中でこう言っています。『すると、どうなるのか。もし、彼らのうちのある者が信仰から落ちたとしたら、その不信仰によって、神の真実は無になるであろうか』（ローマ三・三）。
 // ローマ三・三 は、論が fides（信仰）の語に立つので、口語訳の「彼らのうちに不真実の者があったとしたら、その不真実によって」を、原文の exciderunt a fide「信仰から落ちた」と infidelitas「不信仰」に替えた。fidem Dei は口語訳の「神の真実」のまま。
 22.3 absit: est enim Deus uerax, omnis autem homo mendax. stat confessorum pars maior et melior in fidei suae robore et in legis ac disciplinae dominicae ueritate, nec ab ecclesiae pace discedunt qui se in ecclesia gratiam consecutos de Dei dignatione meminerunt, adque hoc ipso ampliorem consecuntur fidei suae laudem, quod ab eorum perfidia segregati qui iuncti confessionis consortio fuerunt a contagio criminis recesserunt: uero inluminati euangelii lumine, pura et candida Domini luce radiati tam sunt in conseruanda Christi pace laudabiles quam fuerunt in diaboli congressione uictores.
-22:3 『断じてそうではない。神は真実であり、人はすべて偽り者である』（ローマ三・四）。告白者たちのうち、より多く、よりすぐれた人々は、しっかり立っています。自分の信仰の力強さのうちに、主の律法と教えの真理のうちに立っているのです。彼らは、神のお計らいによって、教会の中で恵みを得たことを覚えています。それで、教会の平和から離れないのです。そして、まさにそのことによって、自分の信仰にいっそう大きな称賛を得ています。告白の交わりで結ばれていた者たちの不信仰から離れ、罪の汚れがうつらないように身を引いたからです。彼らは福音のまことの光に照らされ、主の清く白い光に輝いています。そして、悪魔との戦いで勝利者であったのと同じだけ、キリストの平和を守ることにおいても、ほめられるべき者なのです。
+22:3 『断じてそうではない。神は真実であり、人はすべて偽り者だからである』（ローマ三・四）。告白者たちのうち、より多く、よりすぐれた人々は、しっかり立っています。自分の信仰の力強さのうちに、主の律法と教えの真理のうちに立っているのです。彼らは、神のお計らいによって、教会の中で恵みを得たことを覚えています。それで、教会の平和から離れないのです。そして、自分の信仰にいっそう大きな称賛を得ています。まさに、告白の交わりで結ばれていた者たちの不信仰から離れ、罪の汚れがうつらないように身を引いたことによってです。彼らは福音のまことの光に照らされ、主の清く白い光に輝いています。そして、悪魔との戦いで勝利者であったのと同じだけ、キリストの平和を守ることにおいても、ほめられるべき者なのです。
 // ローマ三・四 は、原文の est enim Deus uerax, omnis autem homo mendax が平叙の文なので、口語訳の「あらゆる人を偽り者としても、神を真実なものとすべきである」を、原文の形に直した。
 
 23.1 Opto equidem, dilectissimi fratres, et consulo pariter et suadeo, ut si fieri potest nemo de fratribus pereat et consentientis populi corpus unum gremio suo gaudens mater includat.
 23:1 愛する兄弟たちよ、わたしは心から願い、また忠告し、勧めます。できることなら、兄弟たちのうちのだれ一人も滅びることがありませんように。母が、思いを同じくする民の一つのからだを、喜んでそのふところに抱きますように。
 23.2 si tamen quosdam schismatum duces et dissensionis auctores in caeca et obstinata dementia permanentes non potuerit ad salutis uiam consilium salubre reuocare, ceteri tamen uel simplicitate capti uel errore inducti uel aliqua fallentis astutiae calliditate decepti a fallaciae uos laqueis soluite, uagantes gressus ab erroribus liberate, iter rectum uiae caelestis adgnoscite.
-23:2 しかし、分裂の首謀者や不和を起こす者たちの中には、盲目で頑なな狂気にとどまり続ける者たちがいます。救いのための忠告も、彼らを救いの道へ呼び戻すことができないかもしれません。それでも、ほかの人々よ、あなたがたは素直さにつけこまれて捕らえられたのかもしれません。迷いに引き込まれたのかもしれません。欺く者の狡猾な抜け目なさにだまされたのかもしれません。そのあなたがたは、欺きのわなから自分を解き放ちなさい。さまよう足取りを迷いから救い出し、天の道のまっすぐな道筋を見分けなさい。
+23:2 しかし、分裂の首謀者や不和を起こす者たちの中には、盲目で頑なな狂気にとどまり続ける者たちがいます。救いのための忠告も、彼らを救いの道へ呼び戻すことができないかもしれません。それでも、ほかの人々よ、あなたがたの中には、素直さにつけこまれて捕らえられた人も、迷いに引き込まれた人もいます。人を欺く何らかの狡猾な抜け目なさに、だまされた人もいます。そのあなたがたは、欺きのわなから自分を解き放ちなさい。さまよう足取りを迷いから救い出し、天の道のまっすぐな道筋を見分けなさい。
 23.3 contestantis apostoli uox est: praecipimus uobis in nomine Domini Iesu Christi ut recedatis ab omnibus fratribus ambulantibus inordinate et non secundum traditionem quam acceperunt a nobis.
 23:3 使徒は、はっきりと証しして、こう言います。『主イエス・キリストの名によってあなたがたに命じる。秩序を乱して歩み、わたしたちから受けた伝えに従わないすべての兄弟たちから、遠ざかりなさい』（第二テサロニケ三・六）。
 // 論が「歩む」ことと inordinate（秩序なく）に立つので、口語訳の「怠惰な生活をして」を「秩序を乱して歩み」に、「言伝え」を 19.1 と同じ「伝え」に替えた。口語訳の呼びかけ「兄弟たちよ」は原文にないので入れない。
@@ -31,27 +31,27 @@
 24:2 『悪を離れて善をおこない、平和を求めて、これを追え』（詩篇三四・一四）。平和の子は、平和を求め、平和を追わなければなりません。愛のきずなを知り、それを愛する者は、不和という悪から自分の舌をおさえなければなりません。
 // 論が pax（平和）の語に立つので、口語訳の「やわらぎを求めて、これを努めよ」を「平和を求めて、これを追え」に替えた（口語訳の第一ペテロ三・一一 と同じ言い方）。
 24.3 inter sua diuina mandata et magisteria salutaria passioni iam proximus Dominus addidit dicens: pacem uobis dimitto, pacem meam do uobis. hanc nobis hereditatem dedit, dona omnia suae pollicitationis et praemia in pacis conseruatione promisit.
-24:3 主は、受難を間近にして、ご自分の神聖ないましめと救いに導く教えに、さらにこの言葉をお加えになりました。『わたしは平和をあなたがたに残して行く。わたしの平和をあなたがたに与える』（ヨハネ一四・二七）。主は、これをわたしたちへの遺産としてお与えになりました。ご自分の約束の賜物と報いのすべてを、平和を守ることにかけて約束なさったのです。
+24:3 主は、受難を間近にして、ご自分の神聖ないましめと救いに導く教えに、さらにこの言葉をお加えになりました。『わたしは平和をあなたがたに残して行く。わたしの平和をあなたがたに与える』（ヨハネ一四・二七）。主は、これをわたしたちへの遺産としてお与えになりました。ご自分の約束の賜物と報いのすべてを、平和を守ることに結びつけて約束なさったのです。
 // ヨハネ一四・二七 は、論が pax の語に立つので、口語訳の「平安」を「平和」に替えた。
 24.4 si heredes Christi sumus, in Christi pace maneamus: si filii Dei sumus, pacifici esse debemus. beati, inquit, pacifici, quoniam ipsi filii Dei uocabuntur. pacificos esse oportet Dei filios, corde mites, sermone simplices, adfectione concordes, fideliter sibi unanimitatis nexibus cohaerentes.
 24:4 わたしたちがキリストの相続人であるなら、キリストの平和のうちにとどまりましょう。神の子であるなら、平和をつくり出す者でなければなりません。主は言われます。『平和をつくり出す人たちは、さいわいである、彼らは神の子と呼ばれるであろう』（マタイ五・九）。神の子らは、平和をつくり出す者でなければなりません。心は柔和で、言葉は素直で、心の動きにおいて和合し、心を一つにするきずなで互いに忠実に結ばれていなければならないのです。
 
 25.1 Haec unanimitas sub apostolis olim fuit: sic nouus credentium populus Domini mandata custodiens caritatem suam tenuit. probat scriptura quae dicit: turba autem eorum qui crediderant anima ac mente una agebant.
-25:1 この心を一つにすることが、かつて使徒たちのもとにありました。こうして、信じる者たちの新しい民は、主のいましめを守り、愛を保ったのです。聖書がそれを証ししています。『信じた者の群れは、魂を一つにし思いを一つにして、事を行っていた』（使徒四・三二）。
+25:1 このように心を一つにすることが、かつて使徒たちのもとにありました。こうして、信じる者たちの新しい民は、主のいましめを守り、愛を保ったのです。聖書がそれを証ししています。『信じた者の群れは、魂を一つにし思いを一つにして、事を行っていた』（使徒四・三二）。
 // 口語訳は「心を一つにし思いを一つにして」。原文の anima ac mente una agebant に合わせ、anima を本の訳語の「魂」にし、agebant を補った。
 25.2 et iterum: et erant perseuerantes omnes unanimes in oratione cum mulieribus et Maria quae fuerat mater Iesu et fratribus eius. et ideo efficacibus precibus orabant, ideo impetrare cum fiducia poterant quodcumque de Dei misericordia postulabant.
 25:2 また、こうもあります。『彼らはみな、婦人たち、またイエスの母であったマリヤ、およびイエスの兄弟たちと共に、心を一つにして、ひたすら祈をしていた』（使徒一・一四）。だから、彼らの祈りには力がありました。だから、神のあわれみに願い求めたものは何でも、確信をもって得ることができたのです。
 // 論が unanimes（心を一つにする）の語に立つので、口語訳の「心を合わせて」を「心を一つにして」に替えた。口語訳の「特にイエスの母マリヤ」は、原文の quae fuerat mater Iesu に合わせて言い換えた。
 
 26.1 In nobis uero sic unanimitas deminuta est, ut et largitas operationis infracta est. domos tunc et fundos uenundabant et thesauros sibi in caelo reponentes distribuenda in usus indigentium pretia apostolis offerebant.
-26:1 ところが、わたしたちのうちでは、心を一つにすることが衰えました。それと同じだけ、施しのわざの気前よさも砕かれてしまいました。当時の人々は、家や地所を売り、天に自分の宝をたくわえていました。そして、その代金を、乏しい人々の必要のために分け与えてもらおうと、使徒たちのもとに持ってきたのです。
+26:1 ところが、わたしたちのうちでは、心を一つにすることが衰えました。それと同じだけ、施しのわざの気前よさも砕かれてしまいました。当時の人々は、家や地所を売りました。そして、その代金を、乏しい人々の必要のために分け与えてもらおうと、使徒たちのもとに持ってきたのです。こうして、天に自分の宝をたくわえていました。
 26.2 at nunc de patrimonio nec decimas damus et cum uendere iubeat Dominus, emimus potius et augemus. sic in nobis emarcuit uigor fidei, sic credentium robur elanguit.
 26:2 ところが今、わたしたちは自分の財産から十分の一さえささげません。主は、売るようにとお命じになります（ルカ一二・三三）。それなのに、わたしたちはむしろ買い、財産を増やしているのです。こうして、わたしたちのうちで信仰の勢いはしおれ、信じる者たちの強さは衰えてしまいました。
 // 底本は箇所を挙げないが、主の命令として言い換えているので、出典を付けた。
 26.3 et idcirco Dominus tempora nostra respiciens in euangelio suo dicit: filius hominis cum uenerit, putas inueniet fidem in terra? uidemus fieri quod ille praedixit. in Dei timore, in lege iustitiae, in dilectione, in opere fides nulla est.
 26:3 だから主は、わたしたちの時代を見通して、福音書の中でこう言われます。『人の子が来るとき、地上に信仰が見られるであろうか』（ルカ一八・八）。主が前もって言われたことが起こっているのを、わたしたちは見ています。神を恐れることにおいても、義の律法においても、愛においても、わざにおいても、信仰はまったくありません。
 26.4 nemo futurorum metum cogitat, diem Domini et iram Dei et incredulis uentura supplicia et statuta perfidis aeterna tormenta nemo considerat. quicquid metueret conscientia nostra, si crederet, quia non credit, omnino nec metuit. si autem crederet, et caueret: si caueret, et euaderet.
-26:4 来たるべきことへの恐れを、だれも心に留めません。主の日も、神の怒りも、信じない者たちに来る罰も、不信の者たちに定められた永遠の責め苦も、だれも考えません。わたしたちの良心は、もし信じていたなら恐れたはずのことを、信じていないので、まったく恐れもしないのです。もし信じていたなら、用心もしたでしょう。用心していたなら、逃れもしたでしょう。
+26:4 来たるべきことへの恐れを、だれも心に留めません。主の日も、神の怒りも、信じない者たちに来る罰も、不信の者たちに定められた永遠の責め苦も、だれも考えません。わたしたちの良心は、もし信じていれば恐れるはずのことを、信じていないので、まったく恐れもしないのです。もし信じていれば、用心もするはずです。用心すれば、逃れもするはずです。
 
 27.1 Excitemus nos quantum possumus, dilectissimi fratres, et somno inertiae ueteris abrupto ad obseruanda et gerenda Domini praecepta uigilemus. simus tales quales esse nos ipse praecepit dicens: sint lumbi uestri adcincti et lucernae ardentes et uos similes hominibus expectantibus dominum suum, quando ueniat a nuptiis, ut cum uenerit et pulsauerit, aperiant ei.
 27:1 愛する兄弟たちよ、できるかぎり自分を奮い立たせましょう。昔からの怠惰の眠りを破り、主の命令を守り行うために、目を覚ましていましょう。主ご自身がわたしたちにお命じになったとおりの者になりましょう。主は言われます。『腰に帯をしめ、あかりをともしていなさい。主人が婚宴から帰ってきて戸をたたくとき、あけてあげようと待っている人のようにしていなさい』（ルカ一二・三五〜三六）。
@@ -60,4 +60,4 @@
 27:2 『主人が帰ってきたとき、目を覚しているのを見られる僕たちは、さいわいである』（ルカ一二・三七）。わたしたちは帯をしめていなければなりません。出立の日が来たときに、身動きがとれず、からまったままの姿で捕らえられないためです。わたしたちの光が、良いわざのうちに照り輝きますように。その光が、わたしたちをこの世の夜から、永遠の輝きの光へと導くためです。
 // 底本は一二・三七 の Dominus を大文字で刷るが、たとえの中の dominum suum と同じ人なので、口語訳の「主人」のままにした。
 27.3 expectemus solliciti semper et cauti aduentum Domini repentinum, ut quando ille pulsauerit, euigilet fides nostra uigilantiae praemium de Domino receptura. si haec mandata seruentur, si haec monita et praecepta teneantur, opprimi dormientes diabolo fallente non possumus, serui uigiles Christo dominante regnabimus.
-27:3 いつも気を配り、用心して、主が突然来られるのを待ちましょう。主が戸をたたかれるとき、わたしたちの信仰が目を覚ましていて、目を覚ましていたことの報いを主から受けるためです。これらのいましめが守られ、これらの勧めと命令が保たれるとします。そうすれば、悪魔に欺かれて、眠っているところを襲われることはありえません。目を覚ましている僕として、キリストが治めておられるもとで、王として治めるでしょう。
+27:3 いつも気を配り、用心して、主が突然来られるのを待ちましょう。主が戸をおたたきになるとき、わたしたちの信仰が目を覚ましていて、目を覚ましていたことの報いを主から受けるためです。これらのいましめが守られ、これらの勧めと命令が保たれるとします。そうすれば、悪魔に欺かれて、眠っているところを襲われることはありえません。わたしたちは、目を覚ましている僕として、キリストが治めておられるもとで、王として治めるのです。
