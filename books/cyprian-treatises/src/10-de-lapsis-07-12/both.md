@@ -40,7 +40,7 @@
 10:2 キリストを捨ててはなりません。救いと永遠の住まいを失うことをこそ、恐れなければなりません。見なさい、聖霊が預言者によって叫んでおられます。『去れよ、去れよ、そこを出て、汚れた物にさわるな。その中を出よ、主の器をになう者よ、離れよ』（イザヤ五二・一一）。
 // 口語訳の終わりは「おのれを清く保て」。原文の separamini は「離れよ」で、論が出ることと身を退くことに立つので、原文に合わせる（論点一覧 10.2〜10.3）。
 10.3 et qui uasa sunt Domini ac templum Dei ne inmundum tangere et feralibus cibis pollui uiolarique cogantur, non exeunt de medio nec recedunt? alibi quoque uox auditur e caelo praemonens quid Dei seruos facere oporteret et dicens: exi de ea, populus meus, ne particeps sis delictorum eius et ne perstringaris plagis eius.
-10:3 主の器であり、神の宮である者たちは、汚れた物にさわることも、葬りの食物で汚され損なわれることも、強いられてはなりません。そのために、その中を出て、身を退くはずではありませんか。ほかの所でも、天から声が聞こえます。その声は、神のしもべたちが何をしなければならないかを前もって警告して、こう言います。『わたしの民よ。彼女から出て、その罪にあずからないようにし、その災害に巻き込まれないようにせよ』（黙示録一八・四）。
+10:3 主の器であり、神の宮である者たちは、その中を出て身を退くはずではありませんか。汚れた物にさわることも、葬りの食物で汚され損なわれることも、強いられないためです。ほかの所でも、天から声が聞こえます。その声は、神のしもべたちが何をしなければならないかを前もって警告して、こう言います。『わたしの民よ。彼女から出て、その罪にあずからないようにし、その災害に巻き込まれないようにせよ』（黙示録一八・四）。
 // 口語訳は「彼女から離れ去って」。原文の exi は「出よ」で、続く 10.4 の qui exit がこの語で受けるので、原文に合わせる（論点一覧 10.3〜10.4）。
 10.4 qui exit et cedit delicti particeps non fit, plagis uero et ipse perstringitur qui socius criminis inuenitur. et ideo Dominus in persecutione secedere et fugere mandauit adque ut id fieret et docuit et fecit.
 10:4 出て身を退く者は、罪にあずかる者になりません。けれども、罪の仲間と見いだされる者は、自分も災害に巻き込まれます。だから主は、迫害の中では身を退いて逃げるようにとお命じになりました（マタイ一〇・二三）。そして、そうするようにお教えになり、またなさったのです。
