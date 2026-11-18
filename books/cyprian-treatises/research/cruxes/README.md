@@ -22,8 +22,23 @@
 - Hartel は、SWPMB の異読はすべて校注に載せたが、V は資料に記されたものしか載せられず、M と B は 1〜7 章の校訂にだけ使った、と言う（p. 2）。ただし校注は 8.4 まで M と B を挙げる（最後は p. 10 の校注 9、8.4 の iusque への legem M）。それより後は S、W、P と刊本だけで、M・B の読みが記されていないことは底本との一致を意味しない。
 - 校注に名で出る推定・注釈者：Latinius、Rigaltius、Pamelius、Baluzius、Goulartius、Gronovius（『考察』4 巻）、N. Faber、Morellius、Erasmus。Augustinus の『説教』312 は 3〜4 章を引用しており、Hartel はその読みも挙げる（p. 5・6 の校注）。6〜10 章の校注には、Felix Oefelius（Krabinger の報告による推定。8.2）、Gronovius の『スタティウス「シルウァエ」についての論考』（Hand の版、7.1）、Halm の『オクタウィウス』への注（8.4）、Baluzius（10.1）が出る。10.6 に出るベネヴェントの写本（cod. Beneuentanus）は p. 2 の略号の表にない。11〜16 章の校注には、Gronovius（「l. c.」で pp. 264、321、579。7.1 と同じ『スタティウス「シルウァエ」についての論考』p. 513 も 16.2 に）、Krabinger（11.4）、Erasmus（11.4）、Rigaltius（12.2）、Morellius（14.3）、N. Faber（16.1）が出る。Hartel は古典とキプリアヌス自身の並行も挙げる（12.2 のウェルギリウス『農耕詩』2.506、プリニウス『博物誌』33.5・『書簡』9.30、『背教者について』12 章。13.3 の『処女の装いについて』21 章。14.1 の『デメトリアヌスへ』1 章。14.3 のテルトゥリアヌス『ヘルモゲネス反駁』1 章など）。V は 15.4 に一度だけ出る。
 
+## 『カトリック教会の一致について』の略号
+
+作品の前のページ（p. 208、画像 `page/n218_w1600.jpg`、OCR l. 9900–9910）の表で確かめた。『ドナトゥスへ』と略号が違い、P と B はない。表が年代を記すのは R と G だけ。
+
+- S：セギエの写本（codex Seguierianus）。表には「1〜5 章と 17 章の断片を持つ」とある。p. 214 の校注 12 によれば、5.3 の separatur で終わり（fol. 34 b）、損なわれた fol. 35 に 17 章の断片だけが残る。したがって 5.3 の nec unitas corporis separatur より後の校注には出ない。
+- W：ヴュルツブルクの写本。
+- R：レギナ写本 lat. 116、9 世紀。
+- G：ザンクト・ガレン写本 89、9 世紀。
+- M：ミュンヘンの写本。4 章で、首位権の本文の長い一節を、公認の本文の前に重ねて持つ（04-de-unitate-01-06 の 4.3〜4.6 の項）。
+- V：ヴェローナの写本。校注は「V teste Rigaltio」（Rigaltius の報告による V）のように、刊本の編者の報告で読みを挙げることがある。
+- v：刊本。この作品の表には刊本の略号がないが、校注は『ドナトゥスへ』と同じく v を使い、名を挙げるときは Manutius（4.3 の unam cathedram constituit）、Pamelius（4.6 の付加）、Baluzius（2.1 の uiuentis、3.4 の unitatis、4.6 の quem）と書く。
+- 肩の数字（M¹・M²、R¹・R²、G¹・G²、W¹・W²）は、『ドナトゥスへ』の M₁・M₂（二つの写し）と違い、すべて肩に刷られている。写本の最初の手と後の手を分けるものとみられる（序文で確かめていない）。
+- OCR は R を B、G を O や 0 と読むことが多い（l. 10088 の `SW0VB` は画像では SWGVR）。略号は必ず画像で読む。
+
 ## そのほかの資料
 
 - 口語訳：`node tools/bible.js` で引いた 1955 年版の本文。
 - ANF：Ante-Nicene Fathers 第 5 巻の Wallis の英訳（`cache/ccel.org/anf05.txt`）。レビューの読み比べに使う。英訳の文言はこの一覧に使わない。
+- Swete：H. B. Swete 編の七十人訳 II（`cache/archive.org/oldtestamentingr02swetuoft/oldtestamentingr02swetuoft_djvu.txt`）。『一致について』4.5 の雅歌六・八（l. 44751–44753）と 2.6 の詩篇一・四（l. 19177）の文言を見るのに使った。
 - 『オクタウィウス』：このリポジトリの底本テキスト（`books/octavius/research/halm-1867.txt`）。Hartel が『ドナトゥスへ』1 章の校注で比べる箇所（3.4）を見るのに使った。
