@@ -31,7 +31,7 @@
 | 15-de-dominica-oratione-01-07 | 主の祈りについて 1〜7 章 | [x] |
 | 16-de-dominica-oratione-08-12 | 主の祈りについて 8〜12 章 | [x] |
 | 17-de-dominica-oratione-13-17 | 主の祈りについて 13〜17 章 | [x] |
-| 18-de-dominica-oratione-18-21 | 主の祈りについて 18〜21 章 | [ ] |
+| 18-de-dominica-oratione-18-21 | 主の祈りについて 18〜21 章 | [x] |
 | 19-de-dominica-oratione-22-27 | 主の祈りについて 22〜27 章 | [ ] |
 | 20-de-dominica-oratione-28-31 | 主の祈りについて 28〜31 章 | [ ] |
 | 21-de-dominica-oratione-32-36 | 主の祈りについて 32〜36 章 | [ ] |
