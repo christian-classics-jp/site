@@ -36,11 +36,23 @@
 - 肩の数字（M¹・M²、R¹・R²、G¹・G²、W¹・W²）は、『ドナトゥスへ』の M₁・M₂（二つの写し）と違い、すべて肩に刷られている。写本の最初の手と後の手を分けるものとみられる（序文で確かめていない）。
 - OCR は R を B、G を O や 0 と読むことが多い（l. 10088 の `SW0VB` は画像では SWGVR）。略号は必ず画像で読む。
 
+## 『背教者について』の略号
+
+作品の前のページ（p. 236、画像 `page/n246_w1600.jpg`、OCR l. 11112–11115）の表で確かめた。表は S・W・R・V の四つの名だけを挙げ、所蔵、年代、S の持つ範囲を記さない。
+
+- S：セギエの写本（codex Seguierianus）。1〜6 章の校注のどのページにも出る（09-de-lapsis-01-06）。
+- W：ヴュルツブルクの写本。
+- R：レギナの写本（codex Reginensis）。
+- V：ヴェローナの写本。1〜6 章では 1.2 の Deum と 6.5 の obseruauerint にだけ名が出る。
+- v：刊本。表にはないが、校注は『ドナトゥスへ』『一致について』と同じく v を使う。名で出る推定・注釈者は、1〜6 章では Erasmus（2.6 の damna、5.2 の pati）、Krabinger（2.6 の ablatio）、Baluzius（5.2 の paene ut ita）、Pamelius（6.4 の non subuenire）、Gronovius（6.1）。アウグスティヌス『クレスコニウス反駁』3 巻 36 章が 6.4 を引く。
+- 肩の数字（S¹・S²、W¹・W²、R¹）は、『一致について』と同じく写本の最初の手と後の手を分けるものとみられる（序文で確かめていない）。
+- OCR は R を B・E・72 などと、S を 8・5・iS などと読む。略号は必ず画像で読む。
+
 ## そのほかの資料
 
 - 口語訳：`node tools/bible.js` で引いた 1955 年版の本文。
 - ANF：Ante-Nicene Fathers 第 5 巻の Wallis の英訳（`cache/ccel.org/anf05.txt`）。レビューの読み比べに使う。英訳の文言はこの一覧に使わない。
-- Swete：H. B. Swete 編の七十人訳 II（`cache/archive.org/oldtestamentingr02swetuoft/oldtestamentingr02swetuoft_djvu.txt`）。『一致について』4.5 の雅歌六・八（l. 44751–44753）、2.6 の詩篇一・四（l. 19177）、8.7 の詩篇六七・七（l. 26140）、10.3 の詩篇一・一（l. 19156）の文言を見るのに使った。同 I（`cache/archive.org/oldtestamentingr01swetuoft/oldtestamentingr01swetuoft_djvu.txt`）は 7.4 の三列王記一一・三〇〜三二、三六、8.5 のヨシュア二・一八〜一九、8.6 の出エジプト一二・四六 に、同 III（`cache/archive.org/theoldtestamenti03swetuoft/theoldtestamenti03swetuoft_djvu.txt`）は 11.1〜11.4 のエレミヤ二三・一六〜一七、二一〜二二、二・一三 に使った（行番号は 05-de-unitate-07-11.md の各項）。同 III は 12.7 のダニエル三・四九〜五〇 のギリシア語の付加部分にも使った（06-de-unitate-12-16.md）。同 II は 17.2 のシラ書二八・二四（l. 61070–61071）にも使った（07-de-unitate-17-21.md）。同 II は 24.1〜24.2 の詩篇三三・一三〜一五（l. 22517–22527）にも使った（08-de-unitate-22-27.md）。
+- Swete：H. B. Swete 編の七十人訳 II（`cache/archive.org/oldtestamentingr02swetuoft/oldtestamentingr02swetuoft_djvu.txt`）。『一致について』4.5 の雅歌六・八（l. 44751–44753）、2.6 の詩篇一・四（l. 19177）、8.7 の詩篇六七・七（l. 26140）、10.3 の詩篇一・一（l. 19156）の文言を見るのに使った。同 I（`cache/archive.org/oldtestamentingr01swetuoft/oldtestamentingr01swetuoft_djvu.txt`）は 7.4 の三列王記一一・三〇〜三二、三六、8.5 のヨシュア二・一八〜一九、8.6 の出エジプト一二・四六 に、同 III（`cache/archive.org/theoldtestamenti03swetuoft/theoldtestamenti03swetuoft_djvu.txt`）は 11.1〜11.4 のエレミヤ二三・一六〜一七、二一〜二二、二・一三 に使った（行番号は 05-de-unitate-07-11.md の各項）。同 III は 12.7 のダニエル三・四九〜五〇 のギリシア語の付加部分にも使った（06-de-unitate-12-16.md）。同 II は 17.2 のシラ書二八・二四（l. 61070–61071）にも使った（07-de-unitate-17-21.md）。同 II は 24.1〜24.2 の詩篇三三・一三〜一五（l. 22517–22527）にも使った（08-de-unitate-22-27.md）。同 II は『背教者について』6.5 の詩篇八八・三一〜三三（l. 29285–29296）にも使った（09-de-lapsis-01-06.md）。
 - ビザンティン本文：Robinson & Pierpont のギリシア語新約の電子テキスト（`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/` の書ごとの CSV。第二テモテだけ `master/csv-unicode/ccat/with-variants/2TI.csv`）。Nestle-Aland との違いが `{NA … > …}` で添えてある。06-de-unitate-12-16 から、新約の引用の語や順を照らすのに使う（行番号は各項）。07-de-unitate-17-21 では LUK.csv、REV.csv、TIT.csv、ROM.csv、1TI.csv も使った（どれも cache 済みのもの）。08-de-unitate-22-27 では 2TH.csv、EPH.csv、ACT.csv、1PE.csv も使った（cache 済みのもの）。
 - 『テルトゥリアヌス小品集』：同じ聖句（詩篇一・一 の七十人訳の形）や通じるたとえ（はとに胆汁がないこと）の訳を揃えるために、`books/tertullian-treatises/` の AGENTS.md、底本テキスト、訳を見た。
 - 『オクタウィウス』：このリポジトリの底本テキスト（`books/octavius/research/halm-1867.txt`）。Hartel が『ドナトゥスへ』1 章の校注で比べる箇所（3.4）を見るのに使った。
