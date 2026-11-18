@@ -4,18 +4,18 @@
 1:1 愛する兄弟たちよ、福音のおきては、神の教えにほかなりません。それは、望みを築き上げる土台、信仰を強める支え、心を温める糧、旅路を導く舵、救いを得させる守りです。これらのおきては、地上で、信じる者たちの教えを受けやすい思いを教えながら、天の御国へと導いていきます。
 // praecepta は「おきて」とし、2.5 と 3.1 以降の mandatum「いましめ」と分けた。
 1.2 multa et per prophetas seruos suos dici Deus uoluit et audiri: sed quanto maiora sunt quae filius loquitur, quae Dei sermo qui in prophetis fuit propria uoce testatur non iam mandans ut paretur uenienti uia sed ipse ueniens et uiam nobis aperiens et ostendens, ut qui in tenebris mortis errantes inprouidi et caeci prius fuimus luce gratiae luminati iter uitae duce et rectore Domino teneremus.
-1:2 神は、ご自分のしもべである預言者たちを通しても、多くのことを語らせ、聞かせようとなさいました。しかし、御子がお語りになることは、どれほど大きいことでしょうか。それは、かつて預言者たちの中にいた神の言葉が、今はご自分の声で証しなさることです。この方は、もはや、来られる方のために道を備えよと命じるのではありません。ご自身が来られて、わたしたちに道を開き、示してくださるのです。それは、わたしたちのためでした。わたしたちは、以前は死の暗やみの中をさまよい、先を見ず、目も見えない者でした。そのわたしたちが、恵みの光に照らされ、主を導き手とし、舵取りとして、いのちの道を保つためです。
+1:2 神は、ご自分のしもべである預言者たちを通しても、多くのことを語らせ、聞かせようとなさいました。しかし、御子がお語りになることは、どれほどまさっていることでしょうか。それは、かつて預言者たちの中にいた神の言葉が、今はご自分の声で証しなさることです。この方は、もはや、来られる方のために道を備えよとお命じになるのではありません。ご自身が来られて、わたしたちに道を開き、示してくださるのです。わたしたちは、以前は死の暗やみの中をさまよい、先を見ず、目も見えない者でした。そのわたしたちが、恵みの光に照らされ、主を導き手とし、舵取りとして、いのちの道を保つためです。
 // 二つの quae（quae filius loquitur, quae Dei sermo … testatur）は同じものを指すと取り、御子と神の言葉を同じ方として訳した。道を備えよという命令はイザヤ四〇・三、死の暗やみはルカ一・七九 の言い方に近いが、底本は箇所を挙げないので出典を付けない。
 
 2.1 Qui inter cetera salutaria sua monita et praecepta diuina quibus populo suo consulit ad salutem etiam orandi ipse formam dedit, ipse quid precaremur monuit et instruxit.
 2:1 この主は、ご自分の民の救いを図って、救いに役立つ勧めと神のおきてを数多くお与えになりました。その中で、祈りの形もご自身でお与えになったのです。何を願うべきかを、ご自身で勧め、教えてくださいました。
 2.2 qui fecit uiuere docuit et orare, benignitate ea scilicet qua et cetera dare et conferre dignatus est, ut dum prece et oratione quam filius docuit aput patrem loquimur, facilius audiamur.
-2:2 わたしたちを生かしてくださった方が、祈ることもお教えになりました。ほかのものを与え、授けてくださったのと同じ恵み深さによって、そうしてくださったのです。それは、わたしたちが、御子がお教えになった願いと祈りで父に語りかけ、いっそう聞き入れていただくためです。
+2:2 わたしたちを生かしてくださった方が、祈ることもお教えになりました。ほかのものを与え、授けてくださったのと同じ恵み深さによって、そうしてくださったのです。それは、わたしたちが、御子がお教えになった願いと祈りで父に語りかけるとき、いっそうたやすく聞き入れていただくためです。
 2.3 iam praedixerat horam uenire, quando ueri adoratores adorarent patrem in spiritu et ueritate, et inpleuit quod ante promisit, ut qui spiritum et ueritatem de eius sanctificatione percepimus de traditione quoque eius uere et spiritaliter adoremus.
 2:3 主は、まことの礼拝をする者たちが霊とまこととをもって父を礼拝する時が来る、とすでに予告しておられました（ヨハネ四・二三）。そして、前に約束なさったことをお果たしになりました。わたしたちは、主が聖としてくださったことによって、霊とまことを受けました。そのわたしたちが、主の伝えによっても、まことに、霊的に礼拝するためです。
 // 主の言葉を名指しで言い換えるところ（底本は隔字体で刷らず、箇所の行もない）なので、地の文に置いて出典を付けた。adoratores・adorare は『テルトゥリアヌス小品集』の『祈りについて』28.2 と同じく口語訳の「礼拝をする者」「礼拝する」。2.3〜2.4 の論は spiritus・ueritas の語の連なり（霊とまこと → 霊的に、まことに → 霊的な祈り、まことの願い、まことそのものである御子）に立つので、ueritas・uerus・uere を「まこと」で通した。traditio は 2.5 の引用の「伝え」と対になるので同じ語にした。
 2.4 quae enim potest esse spiritalis oratio quam quae a Christo nobis data est, a quo nobis et Spiritus sanctus missus est, quae uera aput patrem precatio quam quae a filio qui est ueritas de eius ore prolata est?
-2:4 というのも、キリストがわたしたちにお与えになった祈りよりも霊的な祈りが、どこにあるでしょうか。キリストは、わたしたちに聖霊をも遣わしてくださった方です。父のみもとで、まことそのものである御子がご自分の口から語り出された祈りよりも、まことの願いがあるでしょうか。
+2:4 というのも、キリストがわたしたちにお与えになった祈りよりも霊的な祈りが、どこにあるでしょうか。キリストは、わたしたちに聖霊をも遣わしてくださった方です。まことそのものである御子が、ご自分の口から語り出された祈りよりも、父のみもとでまことの願いがあるでしょうか。
 // qui est ueritas はヨハネ一四・六 の言い方（口語訳は「わたしは道であり、真理であり、命である」）。2.3 からの「まこと」の連なりを残すため、「真理」とせず「まことそのもの」とした。
 2.5 ut aliter orare quam docuit non ignorantia sola sit sed et culpa, quando ipse posuerit et dixerit: reicitis mandatum Dei, ut traditionem uestram statuatis.
 2:5 ですから、主がお教えになったのと違うふうに祈るのは、知らないというだけでなく、とがにもなります。主ご自身が、こう言い渡しておられるからです。『あなたがたは、自分たちの伝えを立てるために、神のいましめを捨てている』（マルコ七・九）。
@@ -25,7 +25,7 @@
 3:1 ですから、愛する兄弟たちよ、師である神がお教えになったとおりに祈りましょう。神ご自身のものによって神に願い、キリストの祈りを神の耳にまで上らせること。それが、親しく打ち解けた祈りです。わたしたちが願いをささげるとき、父が、御子の言葉だとお認めになりますように。胸のうちに住んでおられる方が、声の中にもおられますように。わたしたちには、父のみもとに、わたしたちの罪のための助け主として、この方がおられます。ですから、罪人であるわたしたちが過ちのために願うときには、わたしたちの助け主の言葉を差し出しましょう。
 // aduocatus は第一ヨハネ二・一 の口語訳「父のみもとには、わたしたちのために助け主…がおられる」の言い方。名指しのない暗示なので出典を付けない。二つの aduocatus を同じ「助け主」にして、助け主の言葉で願うという論のつながりを残した。
 3.2 nam cum dicat: quia quodcumque petierimus a patre in nomine eius dabit nobis, quanto efficacius impetramus quod petimus Christi nomine, si petamus ipsius oratione?
-3:2 というのも、主は、わたしたちがキリストの名によって父に求めるものはなんでも、父は与えてくださると言われます（ヨハネ一六・二三）。それなら、キリストの名によって願うことを、キリストご自身の祈りで願うとしましょう。どれほど力強く聞き入れていただけることでしょうか。
+3:2 というのも、主は、わたしたちがキリストの名によって父に求めるものはなんでも、父が与えてくださると言われます（ヨハネ一六・二三）。それなら、キリストの名による願いを、キリストご自身の祈りで願うなら、どれほど確かに聞き入れていただけることでしょうか。
 // 底本は隔字体で刷るが、原文は「わたしたちが」「彼の名によって」「わたしたちに」と人称を変えて引くので、地の文で受けて出典を付けた。口語訳は「あなたがたが父に求めるものはなんでも、わたしの名によって下さるであろう」。
 
 4.1 Sit autem orantibus sermo et precatio cum disciplina quietem continens et pudorem. cogitemus nos sub conspectu Dei stare. placendum est diuinis oculis et habitu corporis et modo uocis.
@@ -37,7 +37,7 @@
 4:3 『人がひそかな所に身を隠しても、わたしは彼を見ないであろうか。わたしは天と地とに満ちているではないか』（エレミヤ二三・二四）。また、『神の目はどこにでもあって、善人と悪人とを見張っている』とも書いてあります（箴言一五・三）。
 // エレミヤ二三・二四 の前半は『背教者について』27.4 の訳に揃えた。口語訳は「主は言われる、人は、ひそかな所に身を隠して、わたしに見られないようにすることができようか。主は言われる、わたしは天と地とに満ちているではないか」。箴言一五・三 は原文の Dei と語順に合わせた。口語訳は「主の目はどこにでもあって、悪人と善人とを見張っている」。
 4.4 et quando in unum cum fratribus conuenimus et sacrificia diuina cum Dei sacerdote celebramus, uerecundiae et disciplinae memores esse debemus, non passim uentilare preces nostras inconditis uocibus nec petitionem commendandam modeste Deo tumultuosa loquacitate iactare, quia Deus non uocis sed cordis auditor est, nec admonendus est clamoribus qui cogitationes uidet probante Domino et dicente: quid cogitatis nequam in cordibus uestris?
-4:4 また、兄弟たちと一つ所に集まり、神の祭司と共に神の供え物をささげるときには、慎みと節度を忘れてはなりません。祈りを、ところかまわず、乱れた声でまき散らしてはなりません。控えめに神にゆだねるべき願いを、騒がしい多弁で投げつけてもなりません。神は、声ではなく心を聞かれる方だからです。人の考えを見ておられる方に、叫び声で知らせる必要はありません。主ご自身も、それを裏づけて、こう言われます。『なぜ、あなたがたは心の中で悪いことを考えているのか』（マタイ九・四）。
+4:4 また、兄弟たちと一つ所に集まり、神の祭司と共に神の供え物をささげるときには、慎みと節度を忘れてはなりません。わたしたちの願いを、ところかまわず、乱れた声でまき散らしてはなりません。控えめに神にゆだねるべき願いを、騒がしい多弁で投げつけてもなりません。神は、声ではなく心を聞かれる方だからです。考えを見ておられる方に、叫び声で知らせる必要はありません。主ご自身も、それを裏づけて、こう言われます。『なぜ、あなたがたは心の中で悪いことを考えているのか』（マタイ九・四）。
 // quia Deus non uocis sed cordis auditor est は、テルトゥリアヌス『祈りについて』17.3 と同じ句なので、その訳に揃えた。sacrificia diuina cum Dei sacerdote celebramus は、監督と共に聖餐を守ること。
 4.5 et alio loco: et scient omnes ecclesiae quia ego sum scrutator renis et cordis.
 4:5 また、ほかの所でも、『すべての教会は、わたしが人の心の奥底までも探り知る者であることを悟るであろう』と言われます（黙示録二・二三）。
@@ -55,7 +55,7 @@
 // エレミヤの手紙は口語訳にない書（ラテン語訳ではバルク書六章）。原文から訳した。節の番号は底本の箇所の行（Hierm. Ep. 5）による。ギリシア語の本文は、偶像を拝む群衆を見たら、心の中でこう言え、と続く。原文の autem は、その対比を受けて「こそ」とした。adorari は神を目的にして拝むことなので「拝む」。神が主語の受け身を避け、人を主語にして訳した。
 
 6.1 Adorans autem, fratres dilectissimi, nec illud ignoret, quemadmodum in templo cum pharisaeo publicanus orauerit. non adleuatis in caelum inpudenter oculis nec manibus insolenter erectis, pectus suum pulsans et peccata intus inclusa contestans diuinae misericordiae inplorabat auxilium, et cum sibi pharisaeus placeret, sanctificari bic magis meruit qui sic rogauit, qui spem salutis non in fiducia innocentiae suae posuit, cum innocens nemo sit, sed peccata confessus humiliter orauit, et exaudiuit orantem qui humilibus ignoscit.
-6:1 愛する兄弟たちよ、祈る人は、取税人がパリサイ人と共に宮で、どのように祈ったかも、知らずにいてはなりません。取税人は、目をあつかましく天に上げず、手を横柄に上げもせず、胸を打ちました。そして、内に閉じこめていた罪を明かして、神のあわれみの助けを求めました。パリサイ人は自分に満足していましたが、このように願った取税人のほうが、聖とされるにふさわしかったのです。彼は、救いの望みを自分の潔白への頼みに置きませんでした。潔白な者は、だれもいないからです。かえって、罪を言い表して、へりくだって祈りました。そして、へりくだる者をゆるしてくださる方が、その祈りを聞き入れてくださったのです。
+6:1 愛する兄弟たちよ、祈る人は、取税人がパリサイ人と共に宮で、どのように祈ったかも、知らずにいてはなりません。取税人は、目をあつかましく天に上げず、手を横柄に上げもせず、胸を打ちました。こうして、内に閉じこめていた罪を明かしながら、神のあわれみの助けを求めたのです。パリサイ人は自分に満足していましたが、このように願った取税人のほうが、聖とされるにふさわしかったのです。彼は、救いの望みを自分の潔白への頼みに置きませんでした。潔白な者は、だれもいないからです。かえって、罪を言い表して、へりくだって祈りました。そして、へりくだる者をゆるしてくださる方が、その祈りを聞き入れてくださったのです。
 // 底本は hic を bic と刷る（誤植とみられる。校注に異同はない）。訳は hic で行った。Adorans は祈る人を言うので、『テルトゥリアヌス小品集』の『祈りについて』と同じく「祈る」。sanctificari は、6.4 の引用の iustificatus「義とされて」と語が違うので、「聖とされる」として分けた。
 6.2 quae Dominus in euangelio suo ponit et dicit: homines duo ascenderunt in templum adorare, unus pharisaeus et unus publicanus. pharisaeus cum stetisset, talia aput se precabatur: Deus, gratias tibi ago, quia non sum sicut ceteri homines iniusti, raptores, adulteri, quomodo et publicanus iste.
 6:2 主は、福音書の中で、このことを述べておられます。ふたりの人が祈るために宮に上りました。ひとりはパリサイ人、ひとりは取税人でした。パリサイ人は立って、ひとりでこう祈りました。『神よ、わたしは、ほかの人たちのような不正な者、貪欲な者、姦淫をする者ではありません。また、この取税人のような人間でもありません。そのことを感謝します』（ルカ一八・一〇〜一一）。

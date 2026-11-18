@@ -141,6 +141,7 @@
 | praecepta／monita／magisteria・magisterium／benignitas（神の） | おきて（『主の祈りについて』1.1、2.1。mandata「いましめ」と分ける）／勧め（2.1）／教え（1.1、4.2）／恵み深さ（2.2。indulgentia「いつくしみ」、bonitas「優しさ」、pietas「慈愛」と分ける） |
 | adorare・adoratores（『主の祈りについて』） | 祈る（6.1 の Adorans。『テルトゥリアヌス小品集』の訳語表どおり）／ヨハネ四・二三 を受けるところ（2.3 の adoratores、adorarent、adoremus）は「礼拝をする者」「礼拝する」／神を目的にするところ（5.3 のエレミヤの手紙の adorari）は「拝む」 |
 | disciplina・uerecundia・pudor（祈りの姿） | 節度・慎み・恥じらい（『主の祈りについて』4.1、4.4。キリスト者の disciplina「教え」と分ける）。uerecundus は「慎み深い者」、modestus・modeste は「控えめな」「控えめに」（4.2、4.4、5.1） |
+| prex・precatio・petitio／oratio／impetrare／efficaciter・efficacius／exaudire（『主の祈りについて』） | 願い（2.2、4.4、5.1〜5.2。preces を「祈り」に混ぜない）／祈り／聞き入れていただく・かなえていただく（3.2、5.2）／確かに（5.2、3.2）／聞き入れる（5.2、6.1） |
 | typus／culpa／traditio（キリストの） | ひな型（『主の祈りについて』5.1。figura と同じ）／とが（2.5。peccatum「罪」、delictum「過ち」と分ける）／伝え（2.3。2.5 の聖句の traditionem uestram と対にする） |
 | sanctificari／iustificari（『主の祈りについて』6 章） | 聖とされる（6.1。7.1 の sanctificetur、2.3 の sanctificatio と同じ語族）／義とされる（6.4 の聖句）。語が違うので分ける |
 | pietas・pius（神の）／promereri／martyria（31.1） | 慈愛・慈愛に満ちた（『背教者について』35.2 の patris pietate「父としての慈愛」、36.2 の pietatem Domini とヨエルの引用の pius。『テルトゥリアヌス小品集』の「慈しみ」にすると、indulgens・indulgentia「いつくしみ」と耳で紛れる。16.3 の人の側の pietas は「敬虔」）／喜ばれる（31.1〜32.1。『一致について』15.3、18.2 と同じ）／証し（炉の三人は死んでいないので「殉教」にしない） |

@@ -28,7 +28,7 @@
 | 12-de-lapsis-19-24 | 背教者について 19〜24 章 | [x] |
 | 13-de-lapsis-25-30 | 背教者について 25〜30 章 | [x] |
 | 14-de-lapsis-31-36 | 背教者について 31〜36 章 | [x] |
-| 15-de-dominica-oratione-01-07 | 主の祈りについて 1〜7 章 | [ ] |
+| 15-de-dominica-oratione-01-07 | 主の祈りについて 1〜7 章 | [x] |
 | 16-de-dominica-oratione-08-12 | 主の祈りについて 8〜12 章 | [ ] |
 | 17-de-dominica-oratione-13-17 | 主の祈りについて 13〜17 章 | [ ] |
 | 18-de-dominica-oratione-18-21 | 主の祈りについて 18〜21 章 | [ ] |
