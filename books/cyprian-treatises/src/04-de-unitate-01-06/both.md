@@ -1,14 +1,14 @@
 # 教会の一致について　1〜6 章　ただ一つの教会
 
 1.1 Cum moneat Dominus et dicat: uos estis sal terrae cumque esse nos iubeat ad innocentiam simplices et tamen cum, simplicitate prudentes, quid aliud, fratres dilectissimi, quam prouidere nos conuenit et sollicito corde uigilantes subdoli hostis insidias intellegere pariter et cauere, ne qui Christum sapientiam Dei patris induimus minus sapere in tuenda salute uideamur?
-1:1 主は『あなたがたは、地の塩である』と勧めて言われます（マタイ五・一三）。また主は、潔白においては素直でありながら、その素直さのうちにも賢くあるようにと命じておられます（マタイ一〇・一六）。愛する兄弟たちよ、そうであれば、わたしたちのなすべきことは、ほかに何があるでしょうか。先を見通し、心を配って目を覚まし、陰険な敵のわなを見抜き、同時にそれに用心することではないでしょうか。わたしたちは、父なる神の知恵であるキリストを身にまとった者です。その者が、救いを守ることにおいて知恵が足りないと見られないためです。
+1:1 主は『あなたがたは、地の塩である』と勧めて言われます（マタイ五・一三）。また主は、潔白においては素直でありながら、その素直さのうちにも賢くあるようにと命じておられます（マタイ一〇・一六）。愛する兄弟たちよ、そうであれば、わたしたちのなすべきことは、ほかに何があるでしょうか。先を見通し、心を配って目を覚まし、陰険な敵のわなを見抜き、同時にそれに用心することではないでしょうか。父なる神の知恵であるキリストを身にまとったわたしたちが、救いを守ることにおいて知恵が足りないと見られないためです。
 // 底本の箇所の行は 1 章ではマタイ五・一三 だけ。simplices … prudentes はマタイ一〇・一六 の言い換えで、主の命令として言うので、出典を付けた（3:3 と同じ扱い）。
 1.2 neque enim persecutio sola metuenda est et ea quae subruendis ac deiciendis seruis Dei aperta inpugnatione grassantur. facilior cautio est ubi manifesta formido est, et ad certamen animus ante praestruitur, quando se aduersarius confitetur.
 1:2 恐れなければならないのは、迫害だけではありません。神の僕たちを覆し、打ち倒そうと、公然と攻めかかって荒れ狂うものだけでもありません。恐れるものがはっきりしているところでは、用心するのはたやすいのです。敵対者が自分から名乗り出るときには、精神も前もって戦いに備えられます。
 1.3 plus timendus est et cauendus inimicus, cum latenter obrepit, cum per pacis imaginem fallens occultis accessibus serpit, unde et nomen serpentis accepit. ea est eius semper astutia, ea est circumueniendi hominis caeca et latebrosa fallacia.
 1:3 敵がいっそう恐ろしく、いっそう用心すべき者となるのは、ひそかに忍び寄るときです。平和の見せかけで欺き、隠れた近づき方で這い寄るときです。そこから敵は、「這うもの」、つまり蛇という名も受けたのです。これがいつも変わらない敵の狡猾さです。人を陥れるための、目に見えない、隠れひそんだ欺きです。
 1.4 sic ab initio statim mundi fefellit et uerbis mendacibus blandiens rudem animam incauta credulitate decepit: sic dominum ipsum temptare conatus, quasi obreperet rursus et falleret, latenter accessit: intellectus tamen est et retusus et ideo prostratus quia agnitus adque detectus.
-1:4 こうして敵は、世の初めに、すぐさま欺きました。偽りの言葉でへつらい、まだ何も知らない魂を、その用心のない信じやすさにつけ込んでだましたのです。こうして敵は、主ご自身をも試みようとしました。もう一度忍び寄って欺こうとするかのように、ひそかに近づいたのです。しかし敵は見破られ、はね返されました。見抜かれ、正体を暴かれたからこそ、打ち倒されたのです。
+1:4 こうして敵は、世界の初めに、すぐさま欺きました。偽りの言葉でへつらい、まだ何も知らない魂を、その用心のない信じやすさにつけ込んでだましたのです。こうして敵は、主ご自身をも試みようとしました。もう一度忍び寄って欺こうとするかのように、ひそかに近づいたのです。しかし敵は見破られ、はね返されました。見抜かれ、正体を暴かれたからこそ、打ち倒されたのです。
 
 2.1 Vnde nobis exemplum datum est ueteris hominis uiam fugere, uestigiis Christi uincentis insistere, ne denuo incauti in mortis laqueum reuoluamur sed ad periculum prouidi accepta inmortalitate potiamur.
 2:1 ですから、わたしたちには手本が与えられています。古い人の道を逃れ、勝利なさったキリストの足跡に従うことです。それは、用心を欠いて、再び死のわなに転げ落ちることがないためです。むしろ、危険に備えて先を見通し、受けた不死にあずかるためです。
@@ -19,10 +19,10 @@
 2:3 キリストは、そのような人々こそ強く、揺るがない者だと言われます。岩の上に力強い重みで据えられ、世のあらゆる嵐とつむじ風に対して、動かず揺るがない堅固さで固められた者だと言われます。キリストはこう言われます。『わたしの言葉を聞いて行う者を、岩の上に自分の家を建てた賢い人に比べよう』（マタイ七・二四）。
 // 口語訳の「これらの言葉」「比べることができよう」を、原文（uerba mea、similabo）に合わせて「わたしの言葉」「比べよう」とした。
 2.4 descendit pluuia, aduenerunt flumina, uenerunt uenti et inpegerunt in domum illam: et non cecidit. fundata enim fuit super petram. uerbis igitur eius insistere, quaecumque et docuit et fecit discere et facere debemus.
-2:4 『雨が降り、洪水が押し寄せ、風が吹いてその家に打ちつけた。しかし、倒れなかった。岩を土台としていたからである』（マタイ七・二五）。ですから、わたしたちはキリストの言葉に従わなければなりません。キリストが教え、また行われたことは何であれ、学び、行わなければならないのです。
+2:4 『雨が降り、洪水が押し寄せ、風が吹いてその家に打ちつけた。しかし、倒れなかった。岩を土台としていたからである』（マタイ七・二五）。ですから、わたしたちはキリストの言葉に従わなければなりません。キリストがお教えになり、またなさったことは何であれ、学び、行わなければならないのです。
 // 原文（non cecidit. fundata enim fuit）に合わせ、口語訳の「倒れることはない。岩を土台としているからである」を過去にした。
 2.5 ceterum credere se in Christo quomodo dicit, qui non facit quod Christus facere praecepit? aut unde perueniet ad praemium fidei qui fidem non uult seruare mandati?
-2:5 それにしても、キリストが行うようにと命じられたことを行わない者が、どうして自分はキリストを信じていると言えるでしょうか。いましめに忠実であろうとしない者が、どこから信仰の報いにたどり着くというのでしょうか。
+2:5 それにしても、キリストがお命じになったことを行わない者が、どうして自分はキリストを信じていると言えるでしょうか。いましめに忠実であろうとしない者が、どこから信仰の報いにたどり着くというのでしょうか。
 2.6 nutet necesse est et uagetur et spiritu erroris abreptus uelut puluis quem uentus excutit uentiletur nec ambulando proficiet ad salutem qui salutaris uiae non tenet ueritatem.
 2:6 そういう者は、ぐらつき、さまよわずにはいられません。迷いの霊にさらわれ、風に吹き払われるちりのように、吹き散らされずにはいられません。救いに至る道の真理を保たない者は、どれほど歩いても、救いへは進めないのです。
 
@@ -45,11 +45,11 @@
 4.3 super unum aedificat ecclesiam, et quamuis apostolis omnibus post resurrectionem suam parem potestatem tribuat et dicat: sicut misit me pater et ego mitto uos. accipite Spiritum sanctum: si cuius remiseritis peccata, remittentur illi: si cuius tenueritis, tenebuntur, tamen ut unitatem manifestaret, unitatis eiusdem originem ab uno incipientem sua auctoritate disposuit.
 4:3 主は、一人の上に教会をお建てになります。たしかに主は、復活の後、使徒たち皆に等しい権能をお与えになり、こう言われます。『父がわたしをおつかわしになったように、わたしもまたあなたがたをつかわす。聖霊を受けよ。あなたがたがゆるす罪は、だれの罪でもゆるされ、あなたがたがゆるさずにおく罪は、そのまま残るであろう』（ヨハネ二〇・二一〜二三）。それでも主は、一致を明らかにするために、その一致の源が一人から始まるよう、ご自分の権威によってお定めになったのです。
 4.4 hoc erant utique et ceteri apostoli quod fuit Petrus, pari consortio praediti et honoris et potestatis, sed exordium ab unitate proficiscitur, ut ecclesia Christi una monstretur.
-4:4 もちろん、ほかの使徒たちも、ペテロと同じものでした。栄誉においても権能においても、等しく分かち合っていたのです。しかし、始まりは一つであることから出ます。キリストの教会が一つであると示されるためです^[この章には、ペテロの首位をはっきり言う別の形の本文も伝わる。]。
+4:4 もちろん、ほかの使徒たちも、ペテロと同じものでした。栄誉においても権能においても、等しく分かち合っていたのです。しかし、始まりは一致から出ます。キリストの教会が一つであると示されるためです^[この章には、ペテロの首位をはっきり言う別の形の本文も伝わる。]。
 // 首位権の本文の句（4:2 の後の pasce oues meas、この節の後の et primatus Petro datur …、4:6 の qui cathedram Petri … deserit など）は、底本では校注にあり、訳さない。
 4.5 quam unam ecclesiam etiam in cantico canticorum Spiritus sanctus ex persona Domini designat et dicit: una est columba mea, perfecta mea, una est matri suae, electa genetrici suae.
-4:5 雅歌でも、聖霊が主になり代わって、この一つの教会を指し示して言われます。『わがはと、わが全き者はただひとり、彼女は母のひとり子、彼女を産んだ者の選んだ者だ』（雅歌六・九）。
-// 底本の箇所の行は Cant. 6, 8（ラテン語訳の数え方）。原文の electa に合わせて、口語訳の「最愛の者」を「選んだ者」とした。
+4:5 雅歌でも、聖霊が主になり代わって、この一つの教会を指し示して言われます。『わがはと、わが全き者はただひとり、彼女は母のひとり子、彼女を産んだ者に選ばれた者だ』（雅歌六・九）。
+// 底本の箇所の行は Cant. 6, 8（ラテン語訳の数え方）。原文の electa に合わせて、口語訳の「最愛の者」を「選ばれた者」とした。
 4.6 hanc ecclesiae unitatem qui non tenet tenere se fidem credit? qui ecclesiae renititur et resistit in ecclesia se esse confidit? quando et beatus apostolus Paulus hoc idem doceat et sacramentum unitatis ostendat dicens: unum corpus et unus spiritus, una spes uocationis uestrae, unus Dominus, una fides, unum baptisma, unus Deus.
 4:6 この教会の一致を保たない者が、それでも信仰を保っていると思うのでしょうか。教会に逆らい、手向かう者が、自分は教会の中にいると信じているのでしょうか。祝福された使徒パウロも、同じことを教え、一致の秘儀を示して言っています。『からだは一つ、御霊も一つ、あなたがたが召された望みも一つ、主は一つ、信仰は一つ、バプテスマは一つ、神は一つである』（エペソ四・四〜六）。
 // エペソ四・四〜六 を縮めた引用。口語訳の語を使い、原文の並べ方に合わせた。
@@ -57,7 +57,7 @@
 5.1 Quam unitatem tenere firmiter et uindicare debemus, maxime episcopi qui in ecclesia praesidemus, ut episcopatum quoque ipsum unum adque indiuisum probemus. nemo fraternitatem mendacio fallat, nemo fidem ueritatis perfida praeuaricatione corrumpat.
 5:1 わたしたちは、この一致を堅く保ち、守らなければなりません。とりわけ、教会で上に立つわたしたち監督はそうです。監督の職そのものもまた、一つで分かたれないことを示すためです。だれも、偽りによって兄弟たちを欺いてはなりません。だれも、不信の背きによって、真理の信仰を損なってはなりません。
 5.2 episcopatus unus est, cuius a singulis in solidum pars tenetur. ecclesia una est quae in multitudinem latius incremento fecunditatis extenditur, quomodo solis multi radii sed lumen unum, et rami arboris multi sed robur unum tenaci radice fundatum, et cum de fonte uno riui plurimi defluunt, numerositas licet diffusa uideatur exundantis copiae largitate, unitas tamen seruatur in origine.
-5:2 監督の職は一つです。一人一人がその一部を担いますが、それは分けられない全体として担われているのです。教会は一つです。実り豊かに増えて、多くの人々へと広く行き渡っても、一つです。太陽の光線は多くても、光は一つです。木の枝は多くても、しっかりした根に据えられた幹は一つです。一つの泉からは、多くの流れが流れ出ます。あふれ出る豊かさのために、その数は散らばって見えます。それでも、源では一つであることが保たれています。
+5:2 監督の職は一つです。一人一人がその一部を担いますが、それは分けられない全体として担われているのです。教会は一つです。実り豊かに増えて、多くの人々へと広く行き渡っても、一つです。それは、太陽の光線は多くても、光は一つであるのと同じです。木の枝は多くても、しっかりした根に据えられた幹は一つです。一つの泉からは、多くの流れが流れ出ます。あふれ出る豊かさのために、その数は散らばって見えます。それでも、源では一つであることが保たれています。
 // in solidum は「全体として、分けずに」の意味の言い方と取った。直後のたとえ（光、幹、源は一つ）と合う向き。
 5.3 auelle radium solis a corpore, diuisionem lucis unitas non capit: ab arbore frange ramum, fractus germinare non poterit: a fonte praecide riuum, praecisus arescit. sic et ecclesia Domini luce perfusa per orbem totum radios suos porrigit: unum tamen lumen est quod ubique diffunditur, nec unitas corporis separatur.
 5:3 太陽の光線を本体から引き離してみなさい。光は一つなので、分かたれることを受け入れません。木から枝を折ってみなさい。折れた枝は、芽を出すことができません。泉から流れを断ち切ってみなさい。断ち切られた流れは、干上がります。主の教会も同じです。光を浴びて、全世界にその光線を伸ばしています。それでも、どこにでも行き渡っている光は一つで、からだの一致は分かれていません。
