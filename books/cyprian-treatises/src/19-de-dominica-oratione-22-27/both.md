@@ -11,12 +11,12 @@
 22:4 『もし、わたしたちが自分の罪を言い表すならば、主は真実で正しく、わたしたちの罪をゆるしてくださるかたである』（第一ヨハネ一・九）。ヨハネは手紙の中で、その両方をまとめて述べました。わたしたちは罪のために願わなければならないこと、そして、願うときにはいつくしみをいただけることです。
 // 第一ヨハネ一・九：口語訳は「もし、わたしたちが自分の罪を告白するならば、神は真実で正しいかたであるから、その罪をゆるし、すべての不義からわたしたちをきよめて下さる」。原文の confessi（罪を言い表す）と Dominus で「言い表す」「主」とし、原文にない終わりの句を除いた。
 22.5 ideo et fidelem dixit Dominum ad dimittenda peccata fidem pollicitationis suae reseruantem, quia qui orare nos pro debitis et peccatis docuit paternam misericordiam promisit et ueniam secuturam.
-22:5 ですから、ヨハネは主を真実なかたと呼びました。罪をゆるすために、ご自分の約束に対する真実を守られる方だというのです。わたしたちに負債と罪のために祈るよう教えてくださった方が、父のあわれみをも約束してくださったからです。ゆるしがそれに続くことも約束してくださいました。
+22:5 ですから、ヨハネは主を真実な方と呼びました。罪をゆるすために、ご自分の約束に対する真実をお守りになる方だというのです。主は、わたしたちに負債と罪のために祈るよう教えてくださいました。その方が、父のあわれみと、祈りに続くゆるしとを約束してくださったからです。
 
 23.1 Adiunxit plane et addidit legem certa nos condicione et sponsione constringens, ut sic nobis dimitti debita postulemus secundum quod et ipsi debitoribus nostris dimittimus, scientes inpetrari non posse quod pro peccatis petimus, nisi et ipsi circa peccatores nostros paria fecerimus.
-23:1 さらに主は、決まりをお付け加えになりました。確かな条件と誓約によって、わたしたちをつなぎとめておられるのです。わたしたちは、自分も負債のある者をゆるすのに応じて、自分の負債をゆるしていただくように願う、というのです。わたしたちは知っています。わたしたち自身も、自分に罪を犯した者たちに同じようにしたのでなければ、罪のために願うことは聞き入れていただけないのです。
+23:1 さらに主は、はっきりと決まりをお付け加えになりました。確かな条件と誓約によって、わたしたちをつなぎとめておられるのです。わたしたちは、自分も負債のある者をゆるすのに応じて、自分の負債をゆるしていただくように願う、というのです。わたしたちは知っています。わたしたち自身も、自分に罪を犯した者たちに同じようにしたのでなければ、罪のために願うことは聞き入れていただけないのです。
 23.2 idcirco et alio in loco dicit: in qua mensura mensi fueritis, in ea remetietur uobis. et qui seruus post dimissum sibi a domino omne debitum conseruo suo noluit ipse dimittere in carcerem religatur.
-23:2 そのため、主はほかのところでも、こう言われます。『あなたがたの量るそのはかりで、自分にも量り与えられるであろう』（マタイ七・二）。また、主人に負債を全部免じてもらったのに、自分は仲間をゆるそうとしなかったしもべは、獄に入れられます。
+23:2 そのため、主はほかのところでも、こう言われます。『あなたがたの量るそのはかりで、自分にも量り与えられるであろう』（マタイ七・二）。また、主人に負債を全部ゆるしてもらったのに、自分は仲間をゆるそうとしなかったしもべは、獄に入れられます。
 23.3 quia indulgere conseruo noluit, quod sibi a Domino indultum fuerat amisit. quae adhuc fortius Christus in praeceptis suis maiore censurae suae uigore proponit. cum steteritis, inquit, ad orationem, remittite si quid habetis aduersus aliquem, ut et pater uester qui in caelis est remittat peccata uobis.
 23:3 仲間をゆるそうとしなかったので、主人から自分にゆるされていたものを失ったのです。キリストは、ご自分のおきての中で、このことをさらに強くお示しになります。ご自分の懲らしめの、いっそう大きな厳しさをもってです。こう言われるのです。『また立って祈るとき、だれかに対して、何か恨み事があるならば、ゆるしてやりなさい。そうすれば、天にいますあなたがたの父も、あなたがたの罪をゆるしてくださるであろう』（マルコ一一・二五）。
 // 23.3 の a Domino は大文字で刷られているが、23.2 の a domino と同じたとえの主人なので「主人」とした（本の AGENTS.md の、たとえの中の人を言う語の決まり）。
@@ -25,9 +25,9 @@
 23:4 『もしあなたがたがゆるさないならば、天にいますあなたがたの父も、あなたがたの罪をゆるしてくださらないであろう』（マルコ一一・二六）。裁きの日には、あなたに言い逃れは何も残りません。あなたは自分の下した判決によって裁かれ、自分がしたことを、自分も受けることになるからです。
 // マルコ一一・二六：口語訳は「もしゆるさないならば、天にいますあなたがたの父も、あなたがたのあやまちを、ゆるしてくださらないであろう」。原文の uos で「あなたがたが」を足し、peccata を「罪」とした。
 23.5 pacificos enim et concordes adque unanimes esse in domo sua Deus praecepit et quales nos fecit secunda natiuitate tales uult renatos perseuerare, ut qui filii Dei sumus in Dei pace maneamus, et quibus spiritus unus est unus sit et animus et sensus.
-23:5 というのも、神はお命じになったからです。ご自分の家で、わたしたちが平和をつくり出す者、和合する者、心を一つにする者であるようにと。神は、第二の誕生によってわたしたちをお造りになりました。新しく生まれた者たちが、そのとおりの者としてとどまり続けることを、お望みになるのです。神の子であるわたしたちが、神の平和のうちにとどまるためです。また、霊が一つである者たちには、精神も考えも一つであるためです。
+23:5 というのも、神はお命じになったからです。ご自分の家で、わたしたちが平和をつくり出す者、和合する者、心を一つにする者であるようにと。神は、第二の誕生によって、わたしたちをそのような者にしてくださいました。新しく生まれたわたしたちが、そのままの者としてとどまり続けることを、お望みになるのです。神の子であるわたしたちが、神の平和のうちにとどまるためです。また、霊が一つである者たちには、精神も考えも一つであるためです。
 23.6 sic nec sacrificium Deus recipit dissidentis et ab altari reuertentem prius fratri reconciliari iubet, ut pacificis precibus et Deus possit esse pacatus. sacrificium Deo maius est pax nostra et fraterna concordia et de unitate Patris et Filii et Spiritus sancti plebs adunata.
-23:6 同じように、神は、争っている者の供え物をお受けになりません。祭壇から引き返す者に、まず兄弟と和解するようにお命じになるのです（マタイ五・二三〜二四）。平和を求める願いによって、神もまた和らいでくださるためです。神へのより大きな供え物は、わたしたちの平和と兄弟の和合です。父と子と聖霊の一致によって一つに集められた民です。
+23:6 同じように、神は、争っている者の供え物をお受けになりません。祭壇から引き返す者に、まず兄弟と和解するようにお命じになるのです（マタイ五・二三〜二四）。平和をつくり出す者の願いによって、神もまた和らいでくださるためです。神へのより大きな供え物は、わたしたちの平和と兄弟の和合、そして、父と子と聖霊の一致によって一つに集められた民です。
 // 23.6：マタイ五・二三〜二四 の命令の言い換え。底本は箇所を挙げないが、『一致について』13.2 と同じく地の文に置いて出典を付けた。
 
 24.1 Neque enim in sacrificiis quae Abel et Cain primi optulerunt munera eorum Deus, sed corda intuebatur, ut ille placeret in munere qui placebat in corde.
@@ -45,7 +45,7 @@
 24:5 キリストに倣う者であるよりも、ユダに倣う者であることを選んだ者は、キリストと共にいることはできません。血の洗礼によってさえ洗い落とせない過ちとは、なんという過ちでしょう。殉教によってさえ償えない罪とは、なんという罪でしょう！
 
 25.1 Illud quoque necessarie monet Dominus ut in oratione dicamus: et ne patiaris nos induci in temptationem. qua in parte ostenditur nihil contra nos aduersarium posse, nisi Deus ante permiserit, ut omnis timor noster et deuotio adque obseruatio ad Deum conuertatur, quando in temptationibus nihil malo liceat, nisi potestas inde tribuatur.
-25:1 主は、これも必要なこととして、祈りの中でこう言うようにお勧めになります。『わたしたちが試みに引き入れられることを許さないで』。この句では、神が先にお許しにならなければ、敵対者はわたしたちに対して何もできないことが示されています。わたしたちの恐れも、献身も、従順も、すべて神に向けられるためです。試みの中では、そこから力が与えられなければ、悪には何も許されないからです。
+25:1 主は、これも必要なこととして、祈りの中でこう言うようにお勧めになります。『わたしたちが試みに引き入れられることを許さないで』。この句では、神が先にお許しにならなければ、敵対者はわたしたちに対して何もできないことが示されています。わたしたちの恐れも、献身も、従順も、すべて神に向けられるためです。試みの中では、神から力が与えられなければ、悪には何も許されないからです。
 25.2 probat scriptura quae dicit: uenit Nabuchodonosor rex Babyloniae in Hierusalem et expugnabat eam, et dedit eam Dominus in manu eius. datur autem potestas aduersum nos malo secundum nostra peccata, sicut scriptum est: quis dedit in direptionem Iacob et Israel eis qui praedabantur illum?
 25:2 聖書は、こう言ってそのことを証明しています。『バビロンの王ネブカデネザルはエルサレムにきて、これを攻め囲んだ。主はこれを彼の手にわたされた』（列王紀下二四・一一、ダニエル一・一〜二）。わたしたちに対する力が悪に与えられるのは、わたしたちの罪に応じてです。こう書いてあるとおりです。『ヤコブを奪わせ、かすめる者にイスラエルをわたした者はだれか』（イザヤ四二・二四）。
 // 列王紀下二四・一一、ダニエル一・一〜二：底本の箇所の行は II Reg. 24, 11 (= Dan. 1, 1 sq.)。列王紀下には論の立つ「主が…わたした」の句がないので、文言の合うダニエルを並べた。口語訳のダニエルは「ユダの王エホヤキムの治世の第三年にバビロンの王ネブカデネザルはエルサレムにきて、これを攻め囲んだ」「主はユダの王エホヤキムと、神の宮の器具の一部とを、彼の手にわたされたので」。原文にない句を除き、原文の eam で「これを」とした。
@@ -59,15 +59,15 @@
 26:1 わたしたちに対する力は、二つの仕方で与えられます。わたしたちが過ちを犯すときには罰のために、試されるときには栄光のためにです。ヨブのことでそうなったのを、わたしたちは見ています。神ご自身がそれを明らかにして、こう言われました。『見よ、彼のすべての所有物をあなたの手にわたす。ただ彼の身に手をつけてはならない』（ヨブ記一・一二）。
 // ヨブ記一・一二：口語訳の「まかせる」を、25〜26 章の論が「力が与えられる」に立つので、原文の do で「わたす」とした（25.2 のダニエルとイザヤの「わたす」と揃える）。
 26.2 et Dominus in euangelio loquitur tempore passionis: nullam haberes potestatem aduersum me, uisi data esset tibi desuper. quando autem rogamus ne in temptationem ueniamus, admonemur infirmitatis et inbecillitatis uostrae dum sic rogamus, ne quis se insolenter extollat, ne quis sibi superbe adque adroganter aliquid adsumat, ne quis aut confessionis aut passionis gloriam suam ducat, cum Dominus ipse humilitatem docens dixerit: uigilate et orate, ne ueniatis in temptationem: spiritus quidem promptus est, caro autem infirma, ut dum praecedit humilis et summissa confessio et datur totum Deo quidquid suppliciter cum timore et honore Dei petitur ipsius pietate praestetur.
-26:2 また主も、受難のときに、福音の中でこう言われます。『あなたは、上から賜わるのでなければ、わたしに対してなんの力もない』（ヨハネ一九・一一）。わたしたちは、試みに陥らないようにと願います。こう願うとき、わたしたちは自分の弱さともろさを思い起こさせられるのです。だれも思い上がって自分を高くしないためです。だれも高ぶり、おごって、何かを自分のものとしないためです。だれも、告白や殉教の栄光を、自分のものとみなさないためです。主ご自身も、へりくだりを教えて、こう言われたからです。『試みに陥らないように、目をさまして祈っていなさい。心は熱しているが、肉体が弱いのである』（マタイ二六・四一）。それは、へりくだり身を低くした言い表しが先に立ち、すべてが神に帰されるためです。そうすれば、恐れと神への敬いをもってひれ伏して願い求めることはみな、神ご自身の慈愛によってかなえられます。
+26:2 また主も、受難のときに、福音の中でこう言われます。『あなたは、上から賜わるのでなければ、わたしに対してなんの力もない』（ヨハネ一九・一一）。わたしたちは、試みに陥らないようにと願います。こう願うとき、わたしたちは自分の弱さともろさを思い起こさせられるのです。だれも思い上がって自分を高くしないためです。だれも高ぶり、おごって、何かを自分のものとしないためです。だれも、告白や殉教の栄光を、自分のものとみなさないためです。主ご自身も、へりくだりを教えて、こう言われたからです。『試みに陥らないように、目をさまして祈っていなさい。心は熱しているが、肉体が弱いのである』（マタイ二六・四一）。それは、恐れと神への敬いをもってひれ伏して願い求めることがみな、神ご自身の慈愛によってかなえられるためです。へりくだり身を低くした言い表しが先に立ち、すべてが神に帰されるとき、そうなるのです。
 // uisi（ヨハネ一九・一一 の引用の中）と uostrae は刷られたとおり（nisi、nostrae の誤植）。
 // ヨハネ一九・一一：口語訳の「権威」を、25〜26 章の potestas の訳に揃えて「力」とした。
 // マタイ二六・四一：口語訳の「誘惑」を、主の祈りの句と前の文の temptatio に揃えて「試み」とした（『テルトゥリアヌス小品集』の『洗礼について』20.3 と同じ）。
 // humilis et summissa confessio は、弱さを認めてすべてを神に帰することを言うので、迫害の中の「告白」でなく、罪を言い表す confessio と同じ「言い表し」とした。
 
 27.1 Post ista omnia in consummatione orationis uenit clausula uniuersas petitiones et preces nostras collecta breuitate concludens. in nouissimo enim ponimus: sed libera nos a malo, conprehendentes aduersa cuncta quae contra nos in hoc mundo molitur inimicus, a quibus potest esse firma et fida tutela, si nos Deus liberet, si deprecantibus adque inplorantibus opem suam praestet.
-27:1 これらすべての後、祈りの終わりに、結びの句が来ます。それは、わたしたちのすべての求めと願いを、短くまとめて締めくくるものです。わたしたちは最後にこう唱えます。『悪からお救いください』。こう言って、敵がこの世でわたしたちに対して企てる、あらゆる災いを含めるのです。神がわたしたちをお救いくださるなら、それらに対して、堅く頼もしい守りがありえます。願い求め、すがるわたしたちに、神が助けをお与えくださるなら、そうなのです。
+27:1 これらすべての後、祈りの終わりに、結びの句が来ます。それは、わたしたちのすべての求めと願いを、短くまとめて締めくくるものです。というのも、わたしたちは最後にこう唱えるからです。『悪からお救いください』。こう言って、敵がこの世界でわたしたちに対して企てる、あらゆる災いを含めるのです。神がわたしたちをお救いくださるなら、それらに対して、堅く頼もしい守りがありえます。願い求め、すがるわたしたちに、神が助けをお与えくださるなら、そうなのです。
 27.2 quando autem dicimus libera nos a malo, nihil remanet quod ultra adhuc debeat postulari, quando semel protectionem Dei aduersus malum petamus, qua inpetrata contra omnia quae diabolus et mundus operantur securi stamus et tuti.
-27:2 わたしたちが『悪からお救いください』と言うとき、そのうえさらに願い求めるべきものは、何も残っていません。悪に対する神の守りを、ひとたび願い求めたからです。それを聞き入れていただけば、わたしたちは、悪魔と世が働かせるすべてのものに対して、安らかに、守られて立つのです。
+27:2 わたしたちが『悪からお救いください』と言うとき、そのうえさらに願い求めるべきものは、何も残っていません。悪に対する神の守りを、ひとたび願い求めたからです。それを聞き入れていただけば、わたしたちは、悪魔と世界が引き起こすすべてのものに対して、安らかに、守られて立つのです。
 27.3 quis enim uel de saeculo metus est cui in saeculo Deus tutor est?
 27:3 世の中で神を守り手としている者に、世からの恐れさえ、どこにあるでしょうか。
