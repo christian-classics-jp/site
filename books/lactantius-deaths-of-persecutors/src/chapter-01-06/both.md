@@ -19,8 +19,8 @@
 // eorum tes(tificari)（「彼らの…について証しする」）、p(ostea fu)turi（「のちに生まれる」）、ta(men non)（「とはいえ…的外れではない」）は、写本の欠けを底本が補った読み。底本は est の後を句点で刷るが、si a principio … exponam（初めから述べるなら）は ab re non est の条件の文なので、つなげて訳した。
 
 2.1 Extremis temporibus Tiberii Caesaris, ut scriptum legimus, dominus noster Iesus Christus a Iudaeis cruciatus est post diem decimum Kalendas Apriles duobus Geminis consulibus.
-2:1 ティベリウス・カエサルの治世の終わりのことです。書物で読むとおり、わたしたちの主イエス・キリストは、ユダヤ人によって十字架につけられました。二人のゲミヌスが執政官であった年の、三月二十三日の後のことです^[著者の別の書では、三月二十三日とする。]。
-// post diem decimum Kalendas Apriles（四月のカレンダエの十日の後）を、『護教論』25:5 にならって今の暦に直した。底本の校注は、post は ante と書くべきだろうと言い、著者の『神の教え』4.10.18 の ante diem decimum（三月二十三日）を挙げる。訳は底本の post に従い、注で『神の教え』の日付を示した。二人のゲミヌスは、テルトゥリアヌスの『ユダヤ人反駁』8 章ではルベリウス・ゲミヌスとフフィウス・ゲミヌス。『神の教え』はこの年をティベリウスの第十五年とする。
+2:1 ティベリウス・カエサルの治世の終わりのことです。書物で読むとおり、わたしたちの主イエス・キリストは、ユダヤ人によって十字架につけられました。二人のゲミヌスが執政官であった年の、三月二十三日の後のことです^[「後」は書き誤りで、三月二十三日のこととも考えられる。]。
+// post diem decimum Kalendas Apriles（四月のカレンダエの十日の後）を、『護教論』25:5 にならって今の暦に直した。底本の校注は、post は ante と書くべきだろうと言い、著者の『神の教え』4.10.18 の ante diem decimum（三月二十三日）を挙げる。訳は底本の post に従い、注で ante なら三月二十三日になることを示した。『神の教え』4.10.18 の日付は刊本によって ante diem decimum（三月二十三日）と ante diem septimum（三月二十六日）に分かれる（ANF の Elucidation）ので、注には『神の教え』を出さない。二人のゲミヌスは、テルトゥリアヌスの『ユダヤ人反駁』8 章ではルベリウス・ゲミヌスとフフィウス・ゲミヌス。『神の教え』はこの年をティベリウスの第十五年とする。
 2.2 cum resurrexisset die tertio, congregauit discipulos, quos metus comprehensionis eius in fugam uerterat, et diebus XL cum his commoratus aperuit corda eorum et scripturas interpretatus est, quae usque ad id tempus obscurae atque inuolutae fuerant, ordinauitque eos et instruxit ad praedicationem dogmatis ac doctrinae suae disponens testamenti noui sollemnem disciplinam.
 2:2 主は三日目によみがえると、弟子たちをお集めになりました。弟子たちは、主が捕らえられたことを恐れて、逃げ散っていたのです。主は四十日のあいだ彼らと共にとどまり、彼らの心を開いて、聖書を解き明かしてくださいました。聖書は、そのときまで暗く閉ざされていたのです。そして主は彼らを任じて、ご自分の教えと教理を宣べ伝えるために整えてくださいました。こうして、新しい契約の厳かな定めをお整えになったのです。
 // 四十日は使徒行伝一・三、心を開いて聖書を悟らせたのはルカ二四・四五 の言い換え。
@@ -46,7 +46,7 @@
 3.2 postquam uero ad persequendum iustum populum instinctu daemonum incitatus est, tunc traditus in manus inimicorum luit poenas. nec satis ad ultionem fuit quod est interfectus domi: etiam memoria nominis eius erasa est.
 3:2 しかし、ダイモンたちにそそのかされて正しい民を迫害し始めると、彼は敵の手に渡されて罰を受けました。家で殺されたことだけでは、報いとして十分ではありませんでした。その名の記憶までも消し去られたのです。
 3.3 nam cum multa mirabilia opera fabricasset, cum Capitolium aliaque nobilia monumenta fecisset, senatus ita nomen eius persecutus est, ut neque imaginum neque titulorum eius relinqueret ulla uestigia, grauissime decretis etiam mortuo notam inureret ad ignominiam sempiternam.
-3:3 彼は多くの驚くべき建物を造り、カピトリウムやほかの名高い記念の建物を建てていました。けれども元老院は、彼の名をどこまでも追い立てました。彼の像も碑文も、跡を一つも残さなかったのです。そして死んだ彼にさえ、最も厳しい決議によって、永遠の恥となる烙印を押しました。
+3:3 彼は多くの驚くべき建物を造り、カピトリウムやほかの名高い記念の建物を建てていました。けれども元老院は、彼の名をどこまでも追い立てました。彼の像も碑文も、跡を一つも残さなかったのです。そして死んだ彼にさえ、決議によって、永遠の恥となる烙印をきわめて重く押しました。
 3.4 rescissis igitur actis tyranni non modo in statum pristinum ecclesia restituta est, sed etiam multo clarius ac floridius enituit, secutisque temporibus, quibus multi ac boni principes Romani imperii clauum regimenque tenuerunt, nullos inimicorum impetus passa manus suas in orientem occidentemque porrexit,
 3:4 こうして暴君の定めたことが取り消されると、教会はもとの状態に戻されただけではありませんでした。前よりもはるかに輝かしく、華やかに栄えたのです。その後の時代には、多くの良い皇帝たちが、ローマ帝国の舵を取り、治めました。教会は敵の攻撃を一度も受けることなく、東と西に手を伸ばしました。
 3.5 ut iam nullus esset terrarum angulus tam remotus quo non religio dei penetrasset, nulla denique [dei] natio tam feris moribus uiuens, ut non suscepto dei cultu ad iustitiae opera mitesceret. sed enim postea longa pax rupta est.
