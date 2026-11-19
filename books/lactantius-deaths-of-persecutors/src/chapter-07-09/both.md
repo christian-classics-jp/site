@@ -20,7 +20,7 @@
 7.8 huc accedebat infinita quaedam cupiditas aedificandi, non minor prouinciarum exactio in exhibendis operariis et artificibus et plaustris omnibus⟨que⟩ quaecumque sint fabricandis operibus necessaria.
 7:8 そのうえ、建てることへの果てしない欲がありました。それに劣らず大きかったのが、属州からの取り立てです。働き手や職人、荷車をはじめ、建物を造るのに要るものを、何でも差し出させたのです。
 7.9 hic basilicae, hic circus, hic moneta, hic armorum fabrica, hic uxori domus, hic filiae. repente magna pars ciuitatis exciditur. migrabant omnes cum coniugibus ac liberis quasi urbe ab hostibus capta.
-7:9 ここには公会堂、ここには競技場、ここには造幣所、ここには武器の工房、ここには妻の館、ここには娘の館というふうでした。突然、町の大部分が取り壊されます。人々はみな、妻や子供を連れて移っていきました。まるで町が敵に攻め落とされたかのようでした。
+7:9 ここには公会堂、ここには戦車競走場、ここには造幣所、ここには武器の工房、ここには妻の館、ここには娘の館というふうでした。突然、町の大部分が取り壊されます。人々はみな、妻や子供を連れて移っていきました。まるで町が敵に攻め落とされたかのようでした。
 // exciditur（取り壊される）は後の学者の推定。写本は exceditur で、「（町の大部分が）去られる」に近い字。
 7.10 et cum perfecta haec fuerant cum interitu prouinciarum, ‘non recte facta sunt’ aiebat, ‘alio modo fiant’. rursus dirui ac mutari necesse erat iterum fortasse casura. ita semper dementabat Nicomediam studens urbi Romae coaequare.
 7:10 そして、属州を滅ぼすほどの犠牲を払ってこれらが仕上がると、彼は「うまくできていない。別のやり方で造れ」と言うのでした。そこで、また取り壊して造り変えなければなりませんでした。それもまた、いずれ壊されるかもしれないものでした。こうして彼は、ニコメディアをローマの都と肩を並べさせようとして、いつも正気を失っていました。
@@ -37,10 +37,10 @@
 // 写本のこの文は崩れていて、底本は後の学者の再建に従う。原文は「一方は…、もう一方は…」で、7.2（貪欲と臆病）と次の 8.3（イタリアを押さえた）から二人を割り振った。
 8.3 nam cum ipsam imperii sedem teneret Italiam subiacerentque opulentissimae prouinciae, uel Africa uel Hispania, non erat in custodiendis opibus tam diligens, quarum illi copia suppetebat.
 8:3 彼は帝国の本拠そのものであるイタリアを押さえ、アフリカやヒスパニアのような、きわめて豊かな属州も従えていました。そのため、有り余るほどの富を、それほど気を配って守ろうとはしませんでした。
-8.4 et cum opus esset, non deerant locupletissimi senatores qui subornatis indiciis affectasse imperium dicerentur, ita ut effoderentur assidue lumina senatus.
-8:4 そして必要があれば、きわめて裕福な元老院議員たちには事欠きませんでした。仕組んだ密告によって、帝位をねらったと言い立てられる者たちです。こうして、元老院の目とも言うべき人々が、次々にえぐり取られていきました。
-8.5 cruentissimus fiscus male partis opibus affluebat. iam libido in homine pestifero non modo ad corrumpendos mares, quod est odiosum ac detestabile, uerum etiam ad uiolandas primorum filias. nam quacumque iter fecerat, auulsae a complexu parentum uirgines statim praesto.
-8:5 血にまみれた国庫は、不正に手に入れた富であふれていました。さらに、この疫病のような男の情欲は、男たちを汚すことに向かいました^[写本の字のままでは『男たちを』ではなく『風紀を』となる。]。それは憎むべき、忌まわしいことです。そればかりか、名士たちの娘を辱めることにも向かったのです。彼がどこを旅しても、娘たちが親の腕から引き離されて、すぐさま差し出されました。
+8.4 et cum opus esset, non deerant locupletissimi senatores qui subornatis indiciis affectasse imperium dicerentur, ita ut effoderentur assidue lumina senatus. cruentissimus fiscus male partis opibus affluebat.
+8:4 そして必要があれば、きわめて裕福な元老院議員たちには事欠きませんでした。仕組んだ密告によって、帝位をねらったと言い立てられる者たちです。こうして、元老院の目とも言うべき人々が、次々にえぐり取られていきました。血にまみれた国庫は、不正に手に入れた富であふれていました。
+8.5 iam libido in homine pestifero non modo ad corrumpendos mares, quod est odiosum ac detestabile, uerum etiam ad uiolandas primorum filias. nam quacumque iter fecerat, auulsae a complexu parentum uirgines statim praesto.
+8:5 さらに、この疫病のような男の情欲は、男たちを汚すことに向かいました^[写本の字のままでは『男たちを』ではなく『風紀を』となる。]。それは憎むべき、忌まわしいことです。そればかりか、名士たちの娘を辱めることにも向かったのです。彼がどこを旅しても、娘たちが親の腕から引き離されて、すぐさま差し出されました。
 // mares（男たちを）は後の学者の推定で、写本は mores（風紀を）。
 8.6 his rebus beatum se iudicabat, his constare felicitatem imperii sui putabat, si libidini et cupiditati malae nihil denegaret.
 8:6 こうしたことで、彼は自分を幸せだと思っていました。情欲と悪い欲望に何一つ拒まなければ、それで自分の支配の幸いは保たれると考えていたのです。
@@ -63,9 +63,9 @@
 9.7 ille insidiis usus barbaros, quibus mos est cum omnibus suis ad bellum pergere, multitudine impeditos et sarcinis occupatos non difficiliter oppressit fugatoque Narseo rege reuersus cum praeda et manubiis ingentibus sibi attulit superbiam, Diocletiano timorem.
 9:7 婿は待ち伏せを使いました。蛮族には、身内をみな連れて戦に出る習わしがあります。そのため彼らは、人の多さに足を取られ、荷物にふさがれていました。婿は、そうした彼らをたやすく打ち破りました。そして王ナルセウスを敗走させると、おびただしい略奪品と戦利品を携えて戻りました。こうして、自分にはおごりを、ディオクレティアヌスには恐れをもたらしたのです。
 9.8 in tantos namque fastus post hanc uictoriam eleuatus est, ut iam detrectaret Caesaris nomen. quod cum in litteris ad se datis audisset, truci uultu ac uoce terribili exclamabat ‘quousque Caesar?’
-9:8 この勝利の後、彼はたいへん思い上がって、もう副帝という名を拒むようになりました。自分にあてた手紙でその名を聞くと、彼は恐ろしい顔つきと声で、「いつまで副帝だというのだ」と叫ぶのでした。
+9:8 この勝利の後、彼はたいへん思い上がって、もう副帝という名を拒むようになりました。自分にあてた手紙でその名を聞くと、彼は恐ろしい顔つきと声で、「いつまで副帝でいろというのか」と叫ぶのでした。
 9.9 exinde insolentissime agere coepit, ut ex Marte se procreatum et uideri et dici uellet tamquam alterum Romulum maluitque Romulam matrem stupro infamare, ut ipse diis oriundus uideretur.
-9:9 それからは、ひどく傲慢にふるまい始めました。まるで第二のロムルスのように、自分はマルスから生まれたと人に思わせ、そう呼ばせようとしたのです。そして、自分が神々の血を引くと見せるために、母ロムラを姦淫の汚名で辱めることさえ選びました。
+9:9 それからは、ひどく傲慢にふるまい始めました。まるで第二のロムルスのように、自分はマルスから生まれたと人に思わせ、そう呼ばせようとしたのです。そして、自分が神々の血を引くと見せるために、母ロムラを、淫らな交わりをしたとそしって辱めることさえ選びました。
 // ロムルスはローマを建てたとされる人で、マルスの子と伝えられる。ロムラは母の名で、ロムルスと響き合う。
 9.10 sed differo de factis eius dicere, ne confundam tempora. postea enim quam nomen imperatoris accepit, exuto socero, tum demum furere coepit et contemnere omnia.
 9:10 しかし、彼の行いについて語るのは後に回します。時の順序を乱さないためです。義父が位をはがれ、彼が皇帝の名を受けてから、いよいよ荒れ狂い、すべてを侮るようになったのです。

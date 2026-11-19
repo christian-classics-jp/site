@@ -108,7 +108,7 @@ ANF（`cache/ccel.org/anf07.txt`）の 7〜9 章は l. 29489–29625。ANF が�
 - 訳での扱い：訳注・メモとも付けない。地名は本の名前の表に足す（メインで決める）。
 - 確かめた資料：`n54_w1600.jpg`（校注 1〜4）。OCR l. 2181–2185、2218–2219。
 
-### 8.5 cruentissimus fiscus … affluebat
+### 8.4 cruentissimus fiscus … affluebat
 - 底本（Brandt）：cruentissimus fiscus male partis opibus affluebat。
 - ほかの読み：Brandt は afluebat と書くべきかと問う（綴りだけの違い）（p. 182 校注 7）。
 - 読者への影響：小。
