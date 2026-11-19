@@ -14,7 +14,7 @@
 
 | 作品 | 原語 | 備考 |
 |---|---|---|
-| オリゲネス『殉教の勧め』 | ギリシア語 | 電子テキスト：Koetschau 編 GCS 第 1 巻（1899）、`tlg2042.tlg007.perseus-grc1`。約 12,000 語。権利の切れた英訳は見つからない |
+| オリゲネス『殉教の勧め』 | ギリシア語 | 翻訳中（`books/origen-exhortation-to-martyrdom/`）。電子テキスト：Koetschau 編 GCS 第 1 巻（1899）、`tlg2042.tlg007.perseus-grc1`。約 12,000 語。権利の切れた英訳は見つからない |
 | ヒッポリュトス『キリストと反キリストについて』 | ギリシア語 | スキャン：Achelis 編 GCS『ヒッポリュトス著作集』第 1 巻第 2 分冊（1897）。`cache/archive.org/hippolytuswerke01hipp/` に OCR がある。英訳は ANF 第 5 巻 |
 
 ## 4 世紀以降

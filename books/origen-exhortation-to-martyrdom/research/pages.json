@@ -1,0 +1,101 @@
+{
+  "title": "オリゲネス『殉教の勧め』",
+  "language": "ギリシア語",
+  "base": "books/origen-exhortation-to-martyrdom/research/koetschau-1899.txt",
+  "digitized": true,
+  "english_name": "P. Koetschau のドイツ語訳（Bibliothek der Kirchenväter 1. Reihe 48、München, 1926）。英訳ではない（権利の切れた英訳がない）。BKV の EPUB を tools/epub2txt.js でテキストにした。章の番号は底本と同じだが、節の番号はない（この訳の節番号は底本の章を文の切れ目で分けて付けたもので、ドイツ語訳とは照らせない）。本文の行範囲の後ろに、そのページの注の行範囲を付けた。訳者は 1899 年の後に採った改めに従うところがあり、訳は底本（1899）に従う",
+  "print_name": "Koetschau 1899（GCS 2）の印刷版",
+  "pages": [
+    {
+      "id": "01-chapter-01-05",
+      "spec": "1-5",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:3-12; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:134-173",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:5361-5682",
+      "images": "origeneswerke01orig:0099-0103"
+    },
+    {
+      "id": "02-chapter-06-10",
+      "spec": "6-10",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:13-24; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:174-211",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:5639-5950",
+      "images": "origeneswerke01orig:0103-0107"
+    },
+    {
+      "id": "03-chapter-11-13",
+      "spec": "11-13",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:25-32; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:212-237",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:5883-6132",
+      "images": "origeneswerke01orig:0107-0112"
+    },
+    {
+      "id": "04-chapter-14-17",
+      "spec": "14-17",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:33-42; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:238-258",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:6084-6244",
+      "images": "origeneswerke01orig:0112-0114"
+    },
+    {
+      "id": "05-chapter-18-21",
+      "spec": "18-21",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:43-51; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:259-285",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:6218-6437",
+      "images": "origeneswerke01orig:0114-0117"
+    },
+    {
+      "id": "06-chapter-22-27",
+      "spec": "22-27",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:52-67; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:286-322",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:6401-6746",
+      "images": "origeneswerke01orig:0117-0122"
+    },
+    {
+      "id": "07-chapter-28-29",
+      "spec": "28-29",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:68-72; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:323-341",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:6706-6886",
+      "images": "origeneswerke01orig:0122-0124"
+    },
+    {
+      "id": "08-chapter-30-33",
+      "spec": "30-33",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:73-80; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:342-375",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:6842-7087",
+      "images": "origeneswerke01orig:0124-0127"
+    },
+    {
+      "id": "09-chapter-34",
+      "spec": "34",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:81-86; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:376-399",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:7029-7293",
+      "images": "origeneswerke01orig:0127-0130"
+    },
+    {
+      "id": "10-chapter-35-37",
+      "spec": "35-37",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:87-96; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:400-442",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:7239-7489",
+      "images": "origeneswerke01orig:0130-0133"
+    },
+    {
+      "id": "11-chapter-38-40",
+      "spec": "38-40",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:97-104; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:443-467",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:7454-7689",
+      "images": "origeneswerke01orig:0133-0136"
+    },
+    {
+      "id": "12-chapter-41-46",
+      "spec": "41-46",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:105-118; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:468-505",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:7645-7930",
+      "images": "origeneswerke01orig:0136-0140"
+    },
+    {
+      "id": "13-chapter-47-51",
+      "spec": "47-51",
+      "english": "cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:119-132; cache/bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/ermahnung-zum-martyrium-bkv_deutsch_146.txt:506-561",
+      "print": "cache/archive.org/origeneswerke01orig/origeneswerke01orig_djvu.txt:7906-8205",
+      "images": "origeneswerke01orig:0140-0145"
+    }
+  ]
+}
