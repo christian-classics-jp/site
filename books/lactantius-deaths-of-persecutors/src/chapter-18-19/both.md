@@ -11,7 +11,7 @@
 18:4 ネルウァのほうは、たった一年治めただけだった。これほどの大事の重さと心労を、年のせいか、慣れないためか、担いきれなかった。それで国の舵を投げ出し、私人の暮らしに戻ったのだ。もともと、その暮らしの中で年老いた人だった。しかし、副帝が皇帝の名を得たいというのなら、皆が正帝と呼ばれればよい。それを妨げるものは何もない、というのです。
 // ネルウァは実際には位を退かず、在位のまま死んだ（エウトロピウス『略史』8.1）。ここはディオクレティアヌスの言い分。
 // 皇帝の名（nomen imperatoris）は、9.10 と同じく正帝の位を言う。
-18.5 at ille, qui orbem totum iam spe inuaserat, quoniam sibi aut nihil praeter nomen aut ⟨non⟩ multum uidebat accedere, respondit debere ipsius dispositionem in perpetuum conseruari, ut duo sint in re publica maiores, qui summam rerum teneant, item duo minores, qui sint adiumento: inter duos facile posse concordiam seruari, inter quattuor pares nullo modo.
+18.5 at ille, qui orbem totum iam spe inuaserat, quoniam sibi aut nihil praeter nomen aut ⟨non⟩ multum uidebat accedere, respondit debere ipsius dispositionem in perpetuum conseruari, ut duo sint in re publica maiores, qui summam rerum teneant. item duo minores, qui sint adiumento: inter duos facile posse concordiam seruari, inter quattuor pares nullo modo.
 18:5 しかし副帝は、すでに望みの中で全世界をわがものにしていました。これでは自分には名のほかに何も加わらないか、加わっても大したものではないと見て、こう答えました。あなた自身が定めた仕組みは、いつまでも守られるべきだ。国には上位の者が二人いて全権を握り、また下位の者が二人いて、それを助ける。二人のあいだなら和合はたやすく保てるが、対等の四人のあいだでは決して保てない、というのです。
 // 「大したものは」の否定（⟨non⟩）は底本の補い。spe inuaserat（望みの中でわがものにしていた）も二語とも推定の読み（写本は ipse inuenerat）。
 18.6 si ipse cedere noluisset, se sibi consulturum, ne amplius minor et extremus esset. iam fluxisse annos quindecim ⟨quibus⟩ in Illyricum id est ad ripam Danuuii relegatus cum gentibus barbaris luctaretur, cum alii intra laxiores et quietiores terras delicate imperarent.
@@ -43,11 +43,11 @@
 19.1 Cum haec essent constituta, proceditur Kalendis Mais. Constantinum omnes intuebantur, nulla erat dubitatio: milites qui aderant et primores militum electi et acciti ex legionibus in hunc unum intenti gaudebant, optabant et uota faciebant.
 19:1 こうして事が決まると、五月一日に、一同は進み出ました。皆がコンスタンティヌスを見つめていました。だれも疑っていませんでした。居合わせた兵士たちも、軍団から選ばれて呼び寄せられた兵士の主だった者たちも、この一人だけに目を注いでいました。そして喜び、望み、願いをかけていました。
 // 五月一日：ローマ暦の Kalendis Mais。年は 305 年。
-19.2 erat locus altus extra ciuitatem ad milia fere tria, in cuius summo Maximianus ipse purpuram sumpserat, et ibi columna fuerat erecta cum Iouis signo.
-19:2 町の外、三マイルほどのところに高い場所がありました。その頂で、マクシミアヌス（ガレリウス）自身もかつて紫の衣をまとったのです。そこには、ユピテルの像を載せた柱が立てられていました。
+19.2 erat locus altus extra ciuitatem ad milia fere tria, in cuius summo Maximianus ipse purpuram sumpserat, et ibi columna fuerat erecta cum Iouis signo. eo pergitur.
+19:2 町の外、三マイルほどのところに高い場所がありました。その頂で、マクシミアヌス（ガレリウス）自身もかつて紫の衣をまとったのです。そこには、ユピテルの像を載せた柱が立てられていました。一同はそこへ向かいました。
 // 町はニコメディア（本文は名を出さない）。
-19.3 eo pergitur. contio militum conuocatur. incipit senex cum lacrimis, alloquitur milites: se inualidum esse, requiem post labores petere, imperium ualidioribus tradere, alios Caesares subrogare. summa omnium expectatio, quid afferret.
-19:3 一同はそこへ向かいました。兵士たちが集会に呼び集められました。老人は涙ながらに口を開き、兵士たちに語りかけました。自分はもう弱った。苦労の後の休みを求め、支配をもっと強い者たちに譲る。代わりにほかの者たちを副帝に立てる、というのです。皆が、彼が何を告げるのかと、息をこらして待ちました。
+19.3 contio militum conuocatur. incipit senex cum lacrimis, alloquitur milites: se inualidum esse, requiem post labores petere, imperium ualidioribus tradere, alios Caesares subrogare. summa omnium expectatio, quid afferret.
+19:3 兵士たちが集会に呼び集められました。老人は涙ながらに口を開き、兵士たちに語りかけました。自分はもう弱った。苦労の後の休みを求め、支配をもっと強い者たちに譲る。代わりにほかの者たちを副帝に立てる、というのです。皆が、彼が何を告げるのかと、息をこらして待ちました。
 19.4 tunc repente pronuntiat Seuerum et Maximinum Caesares. obstupefiunt omnes. in tribunali Constantinus adstabat susum. haesitare inter se num Constantini immutatum nomen esset, cum in conspectu omnium Maximianus manum retrorsum extendens protraxit a tergo Daiam Constantino repulso et exutum uestem priuatam constituit in medium.
 19:4 すると彼は、いきなり、セウェルスとマクシミヌスを副帝とすると告げました。皆は呆然としました。壇の上には、コンスタンティヌスが立っていました。人々は、コンスタンティヌスの名が変えられたのかと、いぶかり合いました。そのとき、皆の見ている前で、マクシミアヌス（ガレリウス）が手を後ろに伸ばしました。そしてコンスタンティヌスを押しのけ、背後からダイアを引き出しました。ダイアの私人の服を脱がせ、真ん中に立たせたのです。
 // 名が変えられたのか：新しい副帝マクシミヌスとはコンスタンティヌスのことかといぶかった（18.13 でダイアがマクシミヌスと呼ばれた）。

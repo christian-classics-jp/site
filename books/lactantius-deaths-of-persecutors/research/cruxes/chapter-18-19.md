@@ -114,7 +114,7 @@ ANF（`cache/ccel.org/anf07.txt`）の 18 章は l. 29929–30014、19 章は l.
 - 確かめた資料：`n66_w1600.jpg`（本文 19〜22 行目、校注 19〜22）。OCR l. 2820–2823、2836–2838。序 l. 273–281。`cache/ccel.org/npnf201.txt` l. 42768–42769、44232–44246。
 
 ### 19.2 locus altus extra ciuitatem ad milia fere tria／Maximianus ipse purpuram sumpserat／columna … cum Iouis signo
-- 底本（Brandt）：erat locus altus extra ciuitatem ad milia fere tria, in cuius summo Maximianus ipse purpuram sumpserat, et ibi columna fuerat erecta cum Iouis signo。Maximianus は C の直し。
+- 底本（Brandt）：erat locus altus extra ciuitatem ad milia fere tria, in cuius summo Maximianus ipse purpuram sumpserat, et ibi columna fuerat erecta cum Iouis signo. eo pergitur。Maximianus は C の直し。
 - ほかの読み：C は Maximius と書き、一部を行の上に足して Maximianus と直している（p. 194 校注 24）。sumpserat を sumserat と書く（同 24）。
 - 人物と場所：底本の固有名の索引は、Maximianus（Galerius）の項に「（副帝の）紫をニコメディアの近くのある場所でまとった」としてこの箇所（194, 24）を挙げる（l. 14320–14322）。ciuitas はニコメディア（本文は名を出さない）。ANF は「ニコメディアから三マイルほど」「ガレリウスがかつて紫を受けた」と名を補う（anf07 l. 30028–30031）。
 - 読者への影響：中 — Maximianus ipse はガレリウスで、本文に名の手がかりは ipse だけ（「まさにその人が」。このとき副帝に選ばれる場で、ガレリウス自身もかつてここで紫を受けた）。milia fere tria はローマのマイル（mille passuum）で三マイルほど。signum は「像」で、訳語表の signum inmortale「不死の印」（10.2）とは意味が違う。
@@ -122,7 +122,7 @@ ANF（`cache/ccel.org/anf07.txt`）の 18 章は l. 29929–30014、19 章は l.
 - 確かめた資料：`n66_w1600.jpg`（本文 23〜25 行目、校注 24）。OCR l. 2825–2828、2838。固有名の索引 l. 14320–14322。
 
 ### 19.3 incipit senex cum lacrimis, alloquitur milites（C は inquit）
-- 底本（Brandt）：eo pergitur. contio militum conuocatur. incipit senex cum lacrimis, alloquitur milites: se inualidum esse, requiem post labores petere, imperium ualidioribus tradere, alios Caesares subrogare. summa omnium expectatio, quid afferret。incipit は Brandt の推定。
+- 底本（Brandt）：contio militum conuocatur. incipit senex cum lacrimis, alloquitur milites: se inualidum esse, requiem post labores petere, imperium ualidioribus tradere, alios Caesares subrogare. summa omnium expectatio, quid afferret。incipit は Brandt の推定。
 - ほかの読み：C は inquit で、Bal はそれを残す。Columbus と Bentley は in qua（contio … in qua senex cum lacrimis alloquitur「その集会で老人は涙ながらに語りかける」）、Gale は 'concio — conuocetur' inquit（前を台詞にする）、Tollius は consurgit（「立ち上がる」）、alter anonymus（p. 70）は infit（「語り始める」）、Heumann は inquit を消す（p. 194 校注 26 から p. 195 の校注の頭）。Brandt は、senex, cum lacrimis alloquitur と句切るべきかとも問う（同 26）。C は contio を concio と書く（校注 25）。summa omnium の omnium は、C が余白にはっきりした字でもう一度書いている（p. 195 校注 2）。
 - 読者への影響：中 — 底本では「老人は涙ながらに始め、兵士たちに語りかける」。Brandt が問う句切りでは「老人が始める。涙ながらに兵士たちに語りかける」。どの推定でも、ディオクレティアヌスが涙ながらに兵士に語ったという筋は同じ。senex はディオクレティアヌス。se inualidum esse 以下は間接話法で、18.2 のガレリウスの言い分（iam minus ualidum、requiescere post labores）をディオクレティアヌスが自分の口で繰り返す形。ANF は incipit を訳さず「ディオクレティアヌスは涙ながらに演説した」とする（anf07 l. 30032–30035）。
 - 訳での扱い：訳注・メモとも付けない。底本の incipit で訳す。se inualidum esse 以下の間接話法は、本の AGENTS.md の決まり（長い言い分の間接話法は「」に入れず「〜というのです」で受ける）で扱うか、メインで決める。requiem post labores は 18.2 の requiescere post labores と同じ訳語で受ける（上の項）。
