@@ -4,7 +4,7 @@
 
 制作：藤遥。全文を Claude Code（Anthropic の Claude）を使って訳した。
 
-底本は S. Brandt と G. Laubmann 編、*L. Caeli Firmiani Lactanti opera omnia* II, 2（Corpus Scriptorum Ecclesiasticorum Latinorum 27.2、Wien: F. Tempsky, 1897）の pp. 171〜238。パブリックドメイン。底本は題に著者を「ルキウス・カエキリウス」と記し、ラクタンティウスの作とすることを疑うが、この訳は一般の見方に従ってラクタンティウスの作とする。archive.org のスキャン（[operaomniaacced01laubgoog](https://archive.org/details/operaomniaacced01laubgoog)）の画像から本文を起こし、[research/brandt-1897.txt](research/brandt-1897.txt) に置いた。この書を伝える写本は一つだけで、傷んで読めないところを底本の編者たちが補っている。
+底本は S. Brandt と G. Laubmann 編、*L. Caeli Firmiani Lactanti opera omnia* II, 2（Corpus Scriptorum Ecclesiasticorum Latinorum 27.2、Wien: F. Tempsky, 1897）の pp. 171〜238。パブリックドメイン。底本は題に著者を「ルキウス・カエキリウス」と記し、扉に「一般にラクタンティウスの作とされる」と書く。この訳は一般の見方に従ってラクタンティウスの作とする。archive.org のスキャン（[operaomniaacced01laubgoog](https://archive.org/details/operaomniaacced01laubgoog)）の画像から本文を起こし、[research/brandt-1897.txt](research/brandt-1897.txt) に置いた。この書を伝える写本は一つだけで、傷んで読めないところを底本の編者たちが補っている。
 
 章と節の番号は底本に従う。
 
