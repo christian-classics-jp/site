@@ -25,7 +25,7 @@ node tools/split-units.js <起こした章のファイル> books/hippolytus-on-a
 | chapter-26-33 | 26〜33 章 | [x] |
 | chapter-34-40 | 34〜40 章 | [x] |
 | chapter-41-46 | 41〜46 章 | [x] |
-| chapter-47-50 | 47〜50 章 | [ ] |
+| chapter-47-50 | 47〜50 章 | [x] |
 | chapter-51-57 | 51〜57 章 | [ ] |
 | chapter-58-62 | 58〜62 章 | [ ] |
 | chapter-63-67 | 63〜67 章 | [ ] |
