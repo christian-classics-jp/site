@@ -28,6 +28,8 @@
 - S：古スラヴ語訳（Bonwetsch, Die altslavische Übersetzung der Schrift Hippolyt's „Vom Antichristen", Göttingen 1895 による）。写本 Sa（モスクワ神学アカデミー 131、1519 年）、Sb（チュードフ修道院 12/22、12〜13 世紀）、Sl（トロイツェ・セルギエフ大修道院 782、16 世紀）、Sn（Nevostruev の報告による Hilarion Georgievič の写本）。
 - Srezn.：Sreznevskij 1874（S の写本についての報告）。Bonwetsch：S の訳者・編者の推定。
 - 刊本：Combefis（1672）、Gudius（初版、1661。「二つの写本から」）、Lagarde（1858）。
+- Berolinensis Phillippicus 1450（Rupefucaldinus）：ベルリンのフィリップス写本 1450（もとラ・ロシュフコーの写本）。12 世紀（第 1 分冊の略号表 l. 1740 の Phill）。ヒッポリュトスの著作の抜粋を収め、この作品の略号表にはないが、異読の欄が 6.4 の τῶν Ἰουδαίων の証人として 183 葉表を挙げる（l. 25789〜25790）。
+- 『創世記』断片：同じ巻の第 2 分冊に収めるヒッポリュトスの『創世記』注解の断片（四九・一〇〜一一 は l. 29137〜29202 ごろ）。異読の欄は 7.3・10.1 の τὴν ὄνον について、この断片の XXII・XXIII を引く。
 - 英訳（ANF）：Salmond の英訳（Ante-Nicene Fathers 第 5 巻、`cache/ccel.org/anf05.txt` l. 20545〜21713、脚注 l. 21720〜）は Gallandi の本文から訳したもので、E・R の系統の読みと、Combefis などの改めに従うところが多い。各ページの論点に、英訳が底本と違う読みに従うところを、ギリシア語の読みと行番号だけで記す（英訳の文は写さない）。
 
 ## 読み比べに使う資料
@@ -35,3 +37,4 @@
 - 新約の本文：Robinson & Pierpont のビザンティン本文の電子テキスト（Nestle-Aland との違いを `{NA … > …}` で添える。`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/<書>.csv`。第二テモテは `master/csv-unicode/ccat/with-variants/2TI.csv`）。
 - 七十人訳：Swete, The Old Testament in Greek I〜III の OCR（`cache/archive.org/oldtestamentingr01swetuoft/`、`oldtestamentingr02swetuoft/`、`theoldtestamenti03swetuoft/`）。Swete I・II・III と呼ぶ。
 - 口語訳：`node tools/bible.js`（bible-api）。
+- ユスティノス：『トリュフォンとの対話』は books/dialogue-with-trypho/research/archambault-1909.txt（Archambault 1909 の起こし。節のラベル付き）、『第一弁明』は Rauschen 1911 の OCR（`cache/archive.org/siustiniapologia00just/siustiniapologia00just_djvu.txt`）。創世記四九・一〇 の ᾧ ἀπόκειται の証言に使う。
