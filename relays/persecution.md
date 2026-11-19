@@ -14,6 +14,8 @@
 - 底本：H. Achelis 編、Hippolytus Werke I, 2: Kleinere exegetische und homiletische Schriften（GCS 1、Leipzig, 1897）。archive.org `hippolytuswerke01hipp`（第 1 分冊の Bonwetsch『ダニエル書注解』と合本）。OCR は cache にある（`cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt`、papias-quadratus の `research/sources.md` に記録済み）。本文は l. 25416（1 章 Βουληθέντι σοι κατ᾽ ἀκρίβειαν）から、結びの章（l. 28381 の LXVI. Ταῦτά σοι）の終わりまで。各ページの下に校注と聖書の出典がある。ギリシア語の OCR は読めるが κ を χ、θ を ϑ と読むので、本文は画像から起こして OCR と突き合わせる。
 - 英訳：ANF 第 5 巻「Treatise on Christ and Antichrist」（`cache/ccel.org/anf05.txt`）。
 - 揃える本：ダニエル書と黙示録の長い引用が多い。反キリストと 666 の論じ方はエイレナイオスに拠るので、irenaeus-against-heresies に該当箇所があれば訳語を揃える。献呈先テオフィロスへの呼びかけの口調は本の AGENTS.md で決める。
+- 章は 67 章（l. 28382 の「LXVI」は LXVII の OCR の崩れ）。章の番号は ANF と同じ。
+- 底本テキスト（`research/achelis-1897.txt`）は、本を始めたときに 1〜5 章だけ起こした。各ページのセッションは、page-context を作る前に、そのページの章を画像から起こして足す（本の AGENTS.md の「底本の扱い」）。起こさないと page-context は空の抜粋を書き出す。
 
 ## lactantius-deaths-of-persecutors　ラクタンティウス『迫害者たちの死について』（ラテン語）
 

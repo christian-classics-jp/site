@@ -14,7 +14,7 @@
 
 | 作品 | 原語 | 備考 |
 |---|---|---|
-| ヒッポリュトス『キリストと反キリストについて』 | ギリシア語 | スキャン：Achelis 編 GCS『ヒッポリュトス著作集』第 1 巻第 2 分冊（1897）。`cache/archive.org/hippolytuswerke01hipp/` に OCR がある。英訳は ANF 第 5 巻 |
+| ヒッポリュトス『キリストと反キリストについて』 | ギリシア語 | 翻訳中（`books/hippolytus-on-antichrist/`）。スキャン：Achelis 編 GCS『ヒッポリュトス著作集』第 1 巻第 2 分冊（1897）。`cache/archive.org/hippolytuswerke01hipp/` に OCR がある。英訳は ANF 第 5 巻 |
 
 ## 4 世紀以降
 

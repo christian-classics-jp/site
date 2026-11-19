@@ -1,0 +1,87 @@
+{
+  "title": "ヒッポリュトス『キリストと反キリストについて』",
+  "language": "ギリシア語",
+  "base": "books/hippolytus-on-antichrist/research/achelis-1897.txt",
+  "digitized": false,
+  "english_name": "ANF 第 5 巻の英訳（S. D. F. Salmond 訳）。章の番号（1〜67）は底本と同じで、節の番号はない。Gallandi の本文から訳したもので、1 章の τῶν ὄντων（英訳の注 1395）のように、底本が採らない写本 E・R の読みに従うところがある。英訳と底本の読みの違いは、訳の誤りとは限らない",
+  "print_name": "Achelis 1897 の印刷版（第 2 分冊 pp. 3〜47。画像の番号＝印刷ページ＋428）",
+  "pages": [
+    {
+      "id": "chapter-01-05",
+      "spec": "1-5",
+      "english": "cache/ccel.org/anf05.txt:20547-20664",
+      "print": "cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt:25416-25706",
+      "images": "hippolytuswerke01hipp:0431-0435"
+    },
+    {
+      "id": "chapter-06-14",
+      "spec": "6-14",
+      "english": "cache/ccel.org/anf05.txt:20665-20766",
+      "print": "cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt:25707-25971",
+      "images": "hippolytuswerke01hipp:0435-0439"
+    },
+    {
+      "id": "chapter-15-18",
+      "spec": "15-18",
+      "english": "cache/ccel.org/anf05.txt:20767-20853",
+      "print": "cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt:25971-26184",
+      "images": "hippolytuswerke01hipp:0439-0442"
+    },
+    {
+      "id": "chapter-19-25",
+      "spec": "19-25",
+      "english": "cache/ccel.org/anf05.txt:20854-20958",
+      "print": "cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt:26185-26462",
+      "images": "hippolytuswerke01hipp:0442-0446"
+    },
+    {
+      "id": "chapter-26-33",
+      "spec": "26-33",
+      "english": "cache/ccel.org/anf05.txt:20959-21062",
+      "print": "cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt:26462-26688",
+      "images": "hippolytuswerke01hipp:0446-0449"
+    },
+    {
+      "id": "chapter-34-40",
+      "spec": "34-40",
+      "english": "cache/ccel.org/anf05.txt:21063-21168",
+      "print": "cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt:26688-26964",
+      "images": "hippolytuswerke01hipp:0449-0453"
+    },
+    {
+      "id": "chapter-41-46",
+      "spec": "41-46",
+      "english": "cache/ccel.org/anf05.txt:21169-21290",
+      "print": "cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt:26964-27289",
+      "images": "hippolytuswerke01hipp:0453-0458"
+    },
+    {
+      "id": "chapter-47-50",
+      "spec": "47-50",
+      "english": "cache/ccel.org/anf05.txt:21291-21404",
+      "print": "cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt:27289-27551",
+      "images": "hippolytuswerke01hipp:0458-0462"
+    },
+    {
+      "id": "chapter-51-57",
+      "spec": "51-57",
+      "english": "cache/ccel.org/anf05.txt:21405-21500",
+      "print": "cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt:27551-27868",
+      "images": "hippolytuswerke01hipp:0462-0466"
+    },
+    {
+      "id": "chapter-58-62",
+      "spec": "58-62",
+      "english": "cache/ccel.org/anf05.txt:21501-21615",
+      "print": "cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt:27868-28165",
+      "images": "hippolytuswerke01hipp:0466-0471"
+    },
+    {
+      "id": "chapter-63-67",
+      "spec": "63-67",
+      "english": "cache/ccel.org/anf05.txt:21616-21713",
+      "print": "cache/archive.org/hippolytuswerke01hipp/hippolytuswerke01hipp_djvu.txt:28165-28436",
+      "images": "hippolytuswerke01hipp:0471-0475"
+    }
+  ]
+}
