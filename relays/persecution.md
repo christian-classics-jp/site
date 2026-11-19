@@ -4,9 +4,9 @@
 
 ## origen-exhortation-to-martyrdom　オリゲネス『殉教の勧め』（ギリシア語）
 
-- 底本：P. Koetschau 編、Origenes Werke I（GCS 2、Leipzig, 1899）。First1KGreek のコミット ed91552c52530c8f5a3ddf2dd767e899372a804c の `data/tlg2042/tlg007/tlg2042.tlg007.perseus-grc1.xml`（CC BY-SA 4.0、約 12,000 語）。cache にはまだないので取得する。
+- 底本：P. Koetschau 編、Origenes Werke I（GCS 2、Leipzig, 1899）。First1KGreek のコミット ed91552c52530c8f5a3ddf2dd767e899372a804c の `data/tlg2042/tlg007/tlg2042.tlg007.perseus-grc1.xml`（CC BY-SA 4.0、約 12,000 語）。cache に取得済み。節の区分がないので、底本テキストは `--split` でこの訳が節を付けた。
 - 印刷版（照合用）：archive.org `origeneswerke01orig`（GCS 2、1899）。OCR とページ番号の対応表は cache にある（`cache/archive.org/origeneswerke01orig/`）。本文は OCR の l. 5370 ごろから。
-- 読み比べる訳：権利の切れた英訳はない。origen-on-prayer と同じく、P. Koetschau のドイツ語訳（BKV 1. Reihe 48、München, 1926。訳者は 1939 年没）を使う。BKV の EPUB は https://bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/related_files/Ermahnung%20zum%20Martyrium%20(BKV)_deutsch_146.epub 。`tools/epub2txt.js` で 1 行 1 節にする（origen-on-prayer の `research/sources.md` と同じ作り方）。
+- 読み比べる訳：権利の切れた英訳はない。origen-on-prayer と同じく、P. Koetschau のドイツ語訳（BKV 1. Reihe 48、München, 1926。訳者は 1939 年没）を使う。BKV の EPUB は https://bkv.unifr.ch/files/ermahnung-zum-martyrium-bkv/related_files/Ermahnung%20zum%20Martyrium%20(BKV)_deutsch_146.epub 。cache に取得済みで、`tools/epub2txt.js` でテキストにした（節の番号はなく、章の見出しと段落の行。pages.json の `english`）。
 - 揃える本：origen-on-prayer（同じ著者・校訂者・ドイツ語訳者。訳語、底本テキストと pages.json の作り方をそこから引き継ぐ）。殉教の語彙は martyrdom-of-polycarp、martyrs-of-lyons、tertullian-treatises の『殉教者たちへ』、cyprian-treatises の『背教者について』に合わせる。
 
 ## hippolytus-on-antichrist　ヒッポリュトス『キリストと反キリストについて』（ギリシア語）
