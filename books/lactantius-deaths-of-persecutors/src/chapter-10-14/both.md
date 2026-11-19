@@ -13,7 +13,7 @@
 10.5 hactenus furor eius et ira processit nec amplius quicquam contra legem aut religionem dei fecit.
 10:5 彼の狂気と怒りは、ここまででとどまりました。それ以上は、神の律法にも宗教にも、何一つ逆らうことをしませんでした。
 10.6 deinde interiecto aliquanto tempore in Bithyniam uenit hiematum eodemque tum Maximianus quoque Caesar inflammatus scelere aduenit, ut ad persequendos Christianos instigaret senem uanum, qui iam principium fecerat. cuius furoris hanc causam fuisse cognoui.
-10:6 それからしばらくして、彼は冬を過ごすためにビテニヤに来ました。そこへ、副帝マクシミアヌス（ガレリウス）も、悪意に燃えてやって来ました。すでに迫害に手を付けていた愚かな老人を、キリスト者の迫害へとけしかけるためです。わたしの知るところでは、その狂気のわけは次のようなものでした。
+10:6 それからしばらくして、彼は冬を過ごすためにビテニヤに来ました。そこへ、副帝マクシミアヌス（ガレリウス）も、悪意に燃えてやって来ました。すでに迫害に手を付けていた愚かな老人を、キリスト者の迫害へとけしかけるためです。わたしの知るところでは、副帝のこの狂気のわけは次のようなものでした。
 
 11.1 Erat mater eius deorum montium cultrix. quae cum esset mulier admodum superstitiosa, dapibus sacrificabat paene cotidie ac uicanis suis epulas exhibebat. Christiani abstinebant, et illa cum gentibus epulante ieiuniis hi et orationibus insistebant.
 11:1 この副帝の母は、山の神々を拝む人でした。たいへん迷信深い女で、ほとんど毎日、ごちそうを並べて供え物をささげ、村の人々に宴をふるまっていました。キリスト者たちは加わりませんでした。母が異邦人たちと宴を楽しむあいだ、彼らは断食と祈りにはげんでいたのです。
@@ -21,7 +21,7 @@
 11.2 hinc concepit odium aduersus eos ac filium suum non minus superstitiosum querelis muliebribus ad tollendos homines incitauit.
 11:2 そのため、母はキリスト者を憎むようになりました。そして、自分に劣らず迷信深い息子を、女の愚痴でけしかけ、この人々を除かせようとしたのです。
 11.3 ergo habito inter se per totam hiemem consilio cum nemo admitteretur et omnes de summo statu rei publicae tractari arbitrarentur, diu senex furori eius repugnauit, ostendens quam perniciosum esset inquietari orbem terrae. fundi sanguinem multorum; illos libenter mori solere; satis esse si palatinos tantum ac milites ab ea religione prohiberet.
-11:3 こうして二人は、冬のあいだずっと相談を重ねました。だれも入れられなかったので、だれもが国の一大事が話し合われていると思いました。老人は長いあいだ、副帝の狂気に逆らいました。世界を騒がせることがどれほど害になるかを説き、多くの血が流されることになると言いました。キリスト者たちは喜んで死ぬのが常だ、宮殿の者と兵士にだけこの宗教を禁じれば十分だ、というのです。
+11:3 こうして二人は、冬のあいだずっと相談を重ねました。だれも入れられなかったので、だれもが国の一大事が話し合われていると思いました。老人は長いあいだ、副帝の狂気に逆らいました。世界を騒がせることがどれほど害になるかを説き、多くの人の血が流されることになると言いました。キリスト者たちは喜んで死ぬのが常だ、宮殿の者と兵士にだけこの宗教を禁じれば十分だ、というのです。
 // 底本は orbem terrae（世界を）の後を句点で刷るが、続く fundi sanguinem multorum（多くの血が流される）も ostendens（説く）に続く言い分として訳した。
 11.4 nec tamen deflectere potuit praecipitis hominis insaniam. placuit ergo amicorum sententiam experiri.
 11:4 それでも、向こう見ずな男の狂気をそらすことはできませんでした。そこで、側近たちの意見を聞いてみることになりました。
@@ -36,26 +36,26 @@
 11:8 こうして皇帝は、もとの考えから引き離されました。側近にも、副帝にも、アポロにも逆らえなかったので、せめてもの手加減を守ろうとしました。この事を、血を流さずに行うよう命じたのです。副帝のほうは、供え物を拒む者たちを生きたまま焼こうとしていました。
 
 12.1 Inquiritur peragendae rei dies aptus et felix ac potissimum Terminalia deliguntur, quae sunt a. d. septimum Kalendas Martias, ut quasi terminus imponeretur huic religioni. ille dies primus leti primusque malorum causa fuit: quae et ipsis et orbi terrarum acciderunt.
-12:1 事を行うのにふさわしい、縁起のよい日が探されました。そして、とりわけ選ばれたのが、境の神テルミヌスの祭りでした。二月二十三日です。この宗教に、いわば終わりの境を置こうというのです。『その日こそ、死の初め、災いの初めのもととなった』。その災いは、彼ら自身にも、全世界にも降りかかりました。
+12:1 事を行うのにふさわしい、縁起のよい日が探されました。そして、とりわけ選ばれたのが、境の神テルミヌスの祭りでした。二月二十三日です。この宗教に、いわば終わりの境を置こうというのです。『その日こそ、死の初め、災いの初めのもととなった』。その災いは、迫害を企てた者たち自身にも、全世界にも降りかかりました。
 // 祭りの日はローマ暦で a. d. septimum Kalendas Martias（三月一日の七日前）。terminus は「境」と「終わり」の両方を言う。
-// 『』の句はウェルギリウス『アエネーイス』4.169〜170。「彼ら自身」は迫害を企てた皇帝たちと取った。
+// 『』の句はウェルギリウス『アエネーイス』4.169〜170。原文は ipsis（彼ら自身）だけで、迫害を企てた皇帝たちと取った。
 12.2 qui dies cum illuxisset agentibus consulatum senibus ambobus octauum et septimum, repente adhuc dubia luce ad ecclesiam praefectus cum ducibus et tribunis et rationalibus uenit et reuulsis foribus simulacrum dei quaeritur: scripturae repertae incenduntur, datur omnibus praeda, rapitur, trepidatur, discurritur.
 12:2 その日が明けました。二人の老帝が、それぞれ八度目と七度目の執政官を務める年のことです。まだ薄暗いうちに、突然、道長官が、将軍や大隊長や会計官たちを連れて教会に来ました。扉をこじ開けると、神の像が探されました。見つかった聖書は焼かれ、すべての者に略奪が許されました。奪い合い、うろたえ、駆け回る騒ぎになりました。
 // 二人の老帝は、ディオクレティアヌスとマクシミアヌス（ヘルクリウス）。303 年に当たる。道長官（praefectus）は後の学者の推定で、写本は profectus（出かけて）。
 12.3 ipsi uero in speculis — in alto enim constituta ecclesia ex palatio uidebatur — diu inter se concertabant, utrum ignem potius supponi oporteret.
-12:3 皇帝たちは、物見の場所から見ていました。教会は高いところに建っていて、宮殿から見えたのです。二人は、いっそ火をつけるべきかどうかを、長いあいだ言い争いました。
+12:3 ディオクレティアヌスと副帝は、物見の場所から見ていました。教会は高いところに建っていて、宮殿から見えたのです。二人は、いっそ火をつけるべきかどうかを、長いあいだ言い争いました。
 12.4 uicit sententia Diocletianus cauens, ne magno incendio facto pars aliqua ciuitatis arderet. nam multae ac magnae domus ab omni parte cingebant.
 12:4 勝ったのは、ディオクレティアヌスの意見でした。大きな火事になれば、町のどこかが燃えてしまうと用心したのです。多くの大きな家が、四方から教会を取り囲んでいたからです。
 12.5 ueniebant igitur praetoriani acie structa cum securibus et aliis ferramentis et immissi undique fanum illud editissimum paucis horis solo adaequarunt.
-12:5 そこで近衛兵たちが、隊列を組み、斧やほかの鉄の道具を手にやって来ました。彼らは四方から押し入り、あの高くそびえる聖堂を、数時間で地面と同じ高さにしてしまいました。
+12:5 そこで近衛兵たちが、隊列を組み、斧やほかの鉄の道具を手にやって来ました。彼らは四方から送り込まれ、あの高くそびえる聖堂を、数時間で地面と同じ高さにしてしまいました。
 // 「聖堂」（fanum）は後の学者の推定で、写本はこの所に名詞を欠く。
 
 13.1 Postridie propositum est edictum quo cauebatur, ut religionis illius homines carerent omni honore ac dignitate, tormentis subiecti essent, ex quocumque ordine aut gradu uenirent, aduersus eos omnis actio ualeret, ipsi non de iniuria, non de adulterio, non de rebus ablatis agere possent, libertatem denique ac uocem non haberent.
-13:1 翌日、勅令が掲げられました。中身は次のとおりです。この宗教の人々は、どの身分、どの位の出であっても、すべての名誉と地位を失い、拷問を受けるものとする。彼らに対しては、どんな訴えも成り立つ。しかし彼ら自身は、危害を受けても、姦淫されても、物を奪われても、訴えることはできない。要するに、自由も発言の権利も持たない、というのです。
+13:1 翌日、勅令が掲げられました。中身は次のとおりです。この宗教の人々は、どの身分、どの位の出であっても、すべての名誉と地位を失い、拷問を受けるものとする。彼らに対しては、どんな訴えも成り立つ。しかし彼ら自身は、危害についても、姦淫についても、奪われた物についても、訴えを起こすことはできない。要するに、自由も発言の権利も持たない、というのです。
 13.2 quod edictum quidam etsi non recte, magno tamen animo deripuit et conscidit, cum irridens diceret uictorias Gothorum et Sarmatarum propositas.
-13:2 ある人が、その勅令を引きはがし、ずたずたに裂きました。正しいこととは言えませんが、勇気のある行いでした。彼はあざけって、「ゴート人とサルマティア人に勝った知らせが張り出されたぞ」と言ったのです。
+13:2 ある人が、その勅令を引きはがし、ずたずたに裂きました。正しいこととは言えませんが、勇気のある行いでした。彼はあざけって、「ゴート人とサルマティア人に勝った知らせが掲げられたぞ」と言ったのです。
 13.3 statimque perductus non modo extortus, sed etiam legitime coctus cum admirabili patientia postremo exustus est.
-13:3 彼はすぐに引き立てられ、拷問台でねじられただけでなく、型どおりに火であぶられました。そして驚くほどの忍耐を保ったまま、最後には焼き尽くされました。
+13:3 彼はすぐに引き立てられ、拷問台でねじられただけでなく、型どおりに火であぶられもしました。そして驚くほどの忍耐を保ったまま、最後には焼き尽くされました。
 // legitime coctus（型どおりにあぶられ）は、料理の言い方を拷問に当てた皮肉。
 
 14.1 Sed Caesar non contentus est edicti legibus: aliter Diocletianum aggredi parat.
