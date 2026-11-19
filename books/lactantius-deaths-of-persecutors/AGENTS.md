@@ -131,8 +131,11 @@
 - 原文が同じ語を近くで繰り返して響かせるところは、同じ訳語で受ける（13.1 の propositum est edictum と 13.2 の uictorias … propositas は、どちらも「掲げられた」）。
 - non modo A, sed etiam B は「A だけでなく B も」。A が重く B が軽い「〜どころか〜さえ」の形（5.7 の non modo facere, sed etiam cogitare）は「A はもちろん、B さえ」とし、「A どころか」は使わない（「A はしないで、かえって B」と読まれる）。
 - quam ＋最上級（3.1 の quam diutissime）は、文脈が本人の意図を言っていなければ「きわめて〜」。「できるかぎり」にしない。
-- 別の人々が間に出たあとで主語や持ち主を代名詞で受けるときは、名詞で言い直す（2.8 の putant の主語 quidam deliri は、間に quidam sanctorum が入るので「正気でない人々は」）。suus も、だれのものかを決めて訳す（5.6 の apud deos suos は蛮族の神々で、主語のローマ人のものではないので「その神々」）。人を「それ」で受けない（3.1 の non minor は「彼に劣らない」）。
-- iusti・iustus populus は「正しい人々」「正しい民」、impii は「不敬虔な者」、exempla は「見せしめ」、iudex（神）は「審判者」、subiecti は「支配下の人々」。
+- 別の人々が間に出たあとで主語や持ち主を代名詞で受けるときは、名詞で言い直す（2.8 の putant の主語 quidam deliri は、間に quidam sanctorum が入るので「正気でない人々は」）。suus も、だれのものかを決めて訳す（5.6 の apud deos suos は蛮族の神々で、主語のローマ人のものではないので「その神々」）。人を「それ」「これ」で受けない（3.1 の non minor は「彼に劣らない」、20.1 の contemnebat は「この人を侮っていました」）。
+- 同格の属格（20.4 の secundum Caesarum nomen）は「副帝という第二の名」の形にし、「副帝の第二の名」と持ち主の属格に読ませない。
+- audeo（23.5 の facere ausus est）は「あえて〜した」とし、「〜しようとした」にしない。中性の omnia（23.3 の si omnia defecerant）は「すべて（の手立て）」とし、人に取り違えない。
+- 主語が文脈で明らかな受け身の本動詞（22.5 の licentia … adsumpta et iudicibus data）は、語の意味（取る、与える）を保ち、主語を補って能動に訳してよい（「彼は…勝手を自分のものとし、裁判官たちにも与えました」）。独立奪格の決まり（9.10）とは別。
+- iusti・iustus populus は「正しい人々」「正しい民」、impii は「不敬虔な者」（ガレリウスを皮肉って言う pius は「敬虔な」で、misericors「あわれみ深い」と言い分ける。23.8）、exempla は「見せしめ」、iudex（神）は「審判者」、subiecti は「支配下の人々」。
 
 ## 名前の表
 
