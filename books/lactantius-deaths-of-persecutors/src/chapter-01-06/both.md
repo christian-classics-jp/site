@@ -19,7 +19,7 @@
 // eorum tes(tificari)（「彼らの…について証しする」）、p(ostea fu)turi（「のちに生まれる」）、ta(men non)（「とはいえ…的外れではない」）は、写本の欠けを底本が補った読み。底本は est の後を句点で刷るが、si a principio … exponam（初めから述べるなら）は ab re non est の条件の文なので、つなげて訳した。
 
 2.1 Extremis temporibus Tiberii Caesaris, ut scriptum legimus, dominus noster Iesus Christus a Iudaeis cruciatus est post diem decimum Kalendas Apriles duobus Geminis consulibus.
-2:1 ティベリウス・カエサルの治世の終わりのことです。書物で読むとおり、わたしたちの主イエス・キリストは、ユダヤ人によって十字架につけられました。二人のゲミヌスが執政官であった年の、三月二十三日の後のことです^[「後」は書き誤りで、三月二十三日のこととも考えられる。]。
+2:1 ティベリウス・カエサルの治世の終わりのことです。書物で読むとおり、わたしたちの主イエス・キリストは、ユダヤ人によって十字架につけられました。二人のゲミヌスが執政官であった年の、三月二十三日の後のことです^[『後』は書き誤りで、三月二十三日のこととも考えられる。]。
 // post diem decimum Kalendas Apriles（四月のカレンダエの十日の後）を、『護教論』25:5 にならって今の暦に直した。底本の校注は、post は ante と書くべきだろうと言い、著者の『神の教え』4.10.18 の ante diem decimum（三月二十三日）を挙げる。訳は底本の post に従い、注で ante なら三月二十三日になることを示した。『神の教え』4.10.18 の日付は刊本によって ante diem decimum（三月二十三日）と ante diem septimum（三月二十六日）に分かれる（ANF の Elucidation）ので、注には『神の教え』を出さない。二人のゲミヌスは、テルトゥリアヌスの『ユダヤ人反駁』8 章ではルベリウス・ゲミヌスとフフィウス・ゲミヌス。『神の教え』はこの年をティベリウスの第十五年とする。
 2.2 cum resurrexisset die tertio, congregauit discipulos, quos metus comprehensionis eius in fugam uerterat, et diebus XL cum his commoratus aperuit corda eorum et scripturas interpretatus est, quae usque ad id tempus obscurae atque inuolutae fuerant, ordinauitque eos et instruxit ad praedicationem dogmatis ac doctrinae suae disponens testamenti noui sollemnem disciplinam.
 2:2 主は三日目によみがえると、弟子たちをお集めになりました。弟子たちは、主が捕らえられたことを恐れて、逃げ散っていたのです。主は四十日のあいだ彼らと共にとどまり、彼らの心を開いて、聖書を解き明かしてくださいました。聖書は、そのときまで暗く閉ざされていたのです。そして主は彼らを任じて、ご自分の教えと教理を宣べ伝えるために整えてくださいました。こうして、新しい契約の厳かな定めをお整えになったのです。
