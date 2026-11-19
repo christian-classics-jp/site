@@ -41,4 +41,5 @@
 - 新約の本文：Robinson & Pierpont のビザンティン本文の電子テキスト（Nestle-Aland との違いを `{NA … > …}` で添える。`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/<書>.csv`。第二テモテは `master/csv-unicode/ccat/with-variants/2TI.csv`）。
 - 七十人訳：Swete, The Old Testament in Greek I〜III の OCR（`cache/archive.org/oldtestamentingr01swetuoft/`、`oldtestamentingr02swetuoft/`、`theoldtestamenti03swetuoft/`）。Swete I・II・III と呼ぶ。ダニエル書は、Swete III がページごとに交互に刷る二つのギリシア語訳を、テオドティオン訳を「Θ」、古いギリシア語訳を「ο′」と呼ぶ（Swete の柱の略号）。
 - 口語訳：`node tools/bible.js`（bible-api）。
-- ユスティノス：『トリュフォンとの対話』は books/dialogue-with-trypho/research/archambault-1909.txt（Archambault 1909 の起こし。節のラベル付き）、『第一弁明』は Rauschen 1911 の OCR（`cache/archive.org/siustiniapologia00just/siustiniapologia00just_djvu.txt`）。創世記四九・一〇 の ᾧ ἀπόκειται の証言に使う。
+- ユスティノス：『トリュフォンとの対話』は books/dialogue-with-trypho/research/archambault-1909.txt（Archambault 1909 の起こし。節のラベル付き）、『第一弁明』は Rauschen 1911 の OCR（`cache/archive.org/siustiniapologia00just/siustiniapologia00just_djvu.txt`）。創世記四九・一〇 の ᾧ ἀπόκειται の証言に使う。65.6 のマタイ二五・四一 の ὃ ἡτοίμασεν ὁ πατήρ と同じ形は『トリュフォンとの対話』76.5（Archambault 第 2 巻の OCR `cache/archive.org/dialogueavectryp02just/dialogueavectryp02just_djvu.txt` l. 738〜739）。
+- ヒッポリュトスのほかの著作（底本と同じ巻の OCR）：『ダニエル書注解』（第 1 分冊）の LVI 章のダニエル一二・二 は l. 21816〜21818。『世の終わりについて』は 64〜65 章とほぼ同じ文と引用の並びを持つ（l. 44240〜44270。65.1〜65.3 の項）。
