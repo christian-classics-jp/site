@@ -1,0 +1,101 @@
+{
+  "title": "ラクタンティウス『迫害者たちの死について』",
+  "language": "ラテン語",
+  "base": "books/lactantius-deaths-of-persecutors/research/brandt-1897.txt",
+  "digitized": false,
+  "english_name": "ANF 第 7 巻の英訳（Lord Hailes 訳。ANF の巻の序の注 [14] による）。章の番号（1〜52）は底本と同じで、節の番号はない。底本より古い刊本の本文から訳したもので、写本の欠けを補った語や推定の読みが底本と違うところがある。英訳と底本の読みの違いは、訳の誤りとは限らない。各章の脚注は章の後にあり、題の脚注 [1957]〜[1958] は本文の後の Elucidation の下（l. 31316〜）にある",
+  "print_name": "Brandt–Laubmann 1897 の印刷版（CSEL 27.2 の pp. 171〜238。画像の番号＝印刷ページ−127）",
+  "pages": [
+    {
+      "id": "chapter-01-06",
+      "spec": "1-6",
+      "english": "cache/ccel.org/anf07.txt:29278-29488",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:1608-2059",
+      "images": "operaomniaacced01laubgoog:0044-0052"
+    },
+    {
+      "id": "chapter-07-09",
+      "spec": "7-9",
+      "english": "cache/ccel.org/anf07.txt:29489-29626",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:2060-2288",
+      "images": "operaomniaacced01laubgoog:0052-0057"
+    },
+    {
+      "id": "chapter-10-14",
+      "spec": "10-14",
+      "english": "cache/ccel.org/anf07.txt:29627-29793",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:2289-2504",
+      "images": "operaomniaacced01laubgoog:0057-0061"
+    },
+    {
+      "id": "chapter-15-17",
+      "spec": "15-17",
+      "english": "cache/ccel.org/anf07.txt:29794-29928",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:2505-2693",
+      "images": "operaomniaacced01laubgoog:0061-0065"
+    },
+    {
+      "id": "chapter-18-19",
+      "spec": "18-19",
+      "english": "cache/ccel.org/anf07.txt:29929-30056",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:2694-2866",
+      "images": "operaomniaacced01laubgoog:0065-0068"
+    },
+    {
+      "id": "chapter-20-23",
+      "spec": "20-23",
+      "english": "cache/ccel.org/anf07.txt:30057-30200",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:2867-3093",
+      "images": "operaomniaacced01laubgoog:0068-0073"
+    },
+    {
+      "id": "chapter-24-26",
+      "spec": "24-26",
+      "english": "cache/ccel.org/anf07.txt:30201-30317",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:3094-3256",
+      "images": "operaomniaacced01laubgoog:0073-0076"
+    },
+    {
+      "id": "chapter-27-30",
+      "spec": "27-30",
+      "english": "cache/ccel.org/anf07.txt:30318-30473",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:3257-3513",
+      "images": "operaomniaacced01laubgoog:0076-0081"
+    },
+    {
+      "id": "chapter-31-35",
+      "spec": "31-35",
+      "english": "cache/ccel.org/anf07.txt:30474-30658",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:3514-3822",
+      "images": "operaomniaacced01laubgoog:0081-0087"
+    },
+    {
+      "id": "chapter-36-41",
+      "spec": "36-41",
+      "english": "cache/ccel.org/anf07.txt:30659-30849",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:3823-4187",
+      "images": "operaomniaacced01laubgoog:0087-0094"
+    },
+    {
+      "id": "chapter-42-44",
+      "spec": "42-44",
+      "english": "cache/ccel.org/anf07.txt:30850-30952",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:4188-4372",
+      "images": "operaomniaacced01laubgoog:0094-0098"
+    },
+    {
+      "id": "chapter-45-47",
+      "spec": "45-47",
+      "english": "cache/ccel.org/anf07.txt:30953-31072",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:4373-4538",
+      "images": "operaomniaacced01laubgoog:0098-0101"
+    },
+    {
+      "id": "chapter-48-52",
+      "spec": "48-52",
+      "english": "cache/ccel.org/anf07.txt:31073-31252",
+      "print": "cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt:4539-5037",
+      "images": "operaomniaacced01laubgoog:0101-0111"
+    }
+  ]
+}

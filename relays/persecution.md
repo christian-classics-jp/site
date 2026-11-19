@@ -19,6 +19,8 @@
 
 ## lactantius-deaths-of-persecutors　ラクタンティウス『迫害者たちの死について』（ラテン語）
 
-- 底本：S. Brandt と G. Laubmann 編、L. Caeli Firmiani Lactanti opera omnia II, 2（CSEL 27、Wien, 1897）。archive.org `operaomniaacced01laubgoog`（Google のスキャン）。OCR は `cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt` に取得済み（2026-11-19、sources.md への記録はまだ）。本文は l. 1608（1 章 Audiuit dominus orationes tuas, Donate carissime）から。写本は一つだけで、校注に推測による改めが多い。OCR は読めるが、本文は画像から起こす。約 11,000 語、52 章。
+- 底本：S. Brandt と G. Laubmann 編、L. Caeli Firmiani Lactanti opera omnia II, 2（CSEL 27、Wien, 1897）。archive.org `operaomniaacced01laubgoog`（Google のスキャン）。OCR は `cache/archive.org/operaomniaacced01laubgoog/operaomniaacced01laubgoog_djvu.txt` に取得済み（本の `research/sources.md` に記録済み）。本文は l. 1608（1 章 Audiuit dominus orationes tuas, Donate carissime）から。写本は一つだけで、校注に推測による改めが多い。OCR は読めるが、本文は画像から起こす。約 11,000 語、52 章。
 - 英訳：ANF 第 7 巻「Of the Manner in Which the Persecutors Died」（`cache/ccel.org/anf07.txt` の l. 29273 ごろから）。
 - 揃える本：ローマの皇帝・官職・制度の語彙は tertullian-apology と octavius、迫害と信仰告白者の語彙は cyprian-treatises に合わせる。皇帝名（ディオクレティアヌス、ガレリウス、マクシミアヌス、コンスタンティヌス、リキニウス、マクシミヌス・ダイア、マクセンティウスなど）の表記は本の AGENTS.md で決める。
+- 底本には欄外に節の番号があるので、節は底本の番号どおりに切る（split-units は使わない）。画像の番号＝印刷ページ−127（pp. 171〜238 ＝ 0044〜0111）。IIIF は応答しないことが多く、archive.org のページ画像 `page/nN_w1600.jpg`（N＝IIIF の番号−1）で代わりに取れる。
+- 底本テキスト（`research/brandt-1897.txt`）は、本を始めたときに 1 章だけ起こした。各ページのセッションは、page-context を作る前に、そのページの章を画像から起こして足す（本の AGENTS.md の「底本の扱い」）。起こさないと page-context は空の抜粋を書き出す。
