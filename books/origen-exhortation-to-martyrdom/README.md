@@ -31,5 +31,5 @@ First1KGreek の本文は CC BY-SA 4.0 で、`research/koetschau-1899.txt` と�
 | 09-chapter-34 | 34 章 | [x] |
 | 10-chapter-35-37 | 35〜37 章 | [x] |
 | 11-chapter-38-40 | 38〜40 章 | [x] |
-| 12-chapter-41-46 | 41〜46 章 | [ ] |
+| 12-chapter-41-46 | 41〜46 章 | [x] |
 | 13-chapter-47-51 | 47〜51 章 | [ ] |
