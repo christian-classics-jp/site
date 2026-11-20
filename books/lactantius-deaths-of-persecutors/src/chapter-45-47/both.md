@@ -50,7 +50,7 @@
 46.11 illi oratione ter dicta uirtute iam pleni reponunt capitibus galeas, scuta tollunt. procedunt imperatores ad conloquium.
 46:11 リキニウスの兵たちは、祈りを三度唱えると、もう勇気に満たされていました。そしてかぶとを頭に戻し、盾を取り上げました。二人の皇帝は、話し合いのために進み出ました。
 46.12 ferri non potuit Maximinus ad pacem: contemnebat enim Licinium ac desertum iri a militibus existimabat, quod ille esset in largiendo tenax, ipse autem profusus, eoque proposito mouerat bellum, ut exercitu Licinii sine certamine accepto ad Constantinum duplicatis uiribus statim pergeret.
-46:12 しかしマクシミヌスを、和睦へ動かすことはできませんでした。マクシミヌスはリキニウスを侮っていたのです。リキニウスは兵に与えるのを惜しみ、マクシミヌスのほうは気前がよいので、リキニウスは兵たちに見捨てられるだろうと考えていました。もともとマクシミヌスは、このもくろみで戦いを起こしていました。戦わずにリキニウスの軍を手に入れ、二倍になった力で、すぐにコンスタンティヌスに向かうつもりだったのです。
+46:12 しかしマクシミヌスを、和睦へ動かすことはできませんでした。マクシミヌスはリキニウスを侮っていたのです。リキニウスは兵に与えるのを惜しみ、マクシミヌスのほうは気前がよい。だから、リキニウスは兵たちに見捨てられるだろうと考えていました。もともとマクシミヌスは、このもくろみで戦いを起こしていました。戦わずにリキニウスの軍を手に入れ、二倍になった力で、すぐにコンスタンティヌスに向かうつもりだったのです。
 
 47.1 Ergo propius acceditur, tubae canunt, signa procedunt. Liciniani impetu facto aduersarios inuadunt. illi uero perterriti nec gladios expedire nec tela iacere quiuerunt.
 47:1 こうして両軍はさらに近づき、ラッパが鳴り、軍旗が進みました。リキニウスの兵たちは突き進んで、敵に襲いかかりました。敵の兵たちはおびえきって、剣を抜くことも、投げ槍を投げることもできませんでした。
