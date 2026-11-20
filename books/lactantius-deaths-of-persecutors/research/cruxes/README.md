@@ -21,6 +21,11 @@
 - 「Euseb. H. E.」「Vit. Const.」（LOCI の略号）：エウセビオス『教会史』と『コンスタンティヌスの生涯』。ギリシア語の本文は cache になく、NPNF（McGiffert ほか訳、1890、`cache/ccel.org/npnf201.txt`）の英訳と注で読んだ。34 章の勅令のギリシア語訳（『教会史』8.17.3〜10）の語は、底本の校注が並べるものを使う。
 - 「II Machab.」（LOCI の略号）：第二マカバイ記。七十人訳の本文は Swete III（`cache/archive.org/theoldtestamenti03swetuoft/`）。
 - 「Vergil. Georg.」：ウェルギリウス『農耕詩』（The Latin Library の本文、`cache/www.thelatinlibrary.com/vergil/geo3.shtml`）。
+- 「Vergil. Aen.」：ウェルギリウス『アエネーイス』（The Latin Library の本文。巻ごとのファイルで、2 巻と 5 巻は `cache/thelatinlibrary.com/vergil/`、ほかの巻は `cache/www.thelatinlibrary.com/vergil/`）。
+- 「Gell.」：ゲッリウス『アッティカの夜』（The Latin Library の本文、`cache/www.thelatinlibrary.com/gellius/gellius1.shtml`。44.9 の校注）。
+- 「Pagius」は 44.7 の校注（p. 224 校注 5）で Allix と並んで語の欠けを指摘する学者（だれかは序で確かめていない）。「Heinsius」は p. 224 校注 6 にこの形で出る（同じ校注 5 の「Nic. Heinsius」と同じ人かは確かめていない）。
+- 「Bal secund. curis」は Baluze の後の手直し（secundae curae。p. 222 校注 20 で、1679 年の初版の読みと並べて挙げる）。ほかのページの校注が「第二版（Bauldri が伝える）」と言うものと同じとみられるが、校注の書き方からは確かめていない。「Bal in Erratis ed. 1679」は「Bal (in Erratis)」と同じく初版の正誤表。
+- 固有名の索引・事項の索引：底本の巻末の索引（OCR の l. 9000 から後）。「II M 223, 15」は『迫害者たちの死について』の p. 223 の 15 行目。
 - 底本の短剣符 † は、直しようのない崩れた読みを本文に残す印（40.1 の † Eratineo が初出）。底本の正誤（Addenda et Corrigenda、p. XXXV、OCR l. 1495–1507）が、40.5 について「崩れた語を、前に十字を置いて本文に入れることはせず」と言うことから分かる。
 - 底本の正誤（Addenda et Corrigenda）：序の後の pp. XXXI〜XXXVI（OCR l. 1162–1537）。校注が「cf. Addenda」と言うところ（40.5）の説明がある。OCR だけで読んだ。
 - 「Maucroix」は François de Maucroix の 1680 年の仏訳（序 l. 1034–1040。Burnet の英訳と同じく、訳の中で C の傷んだ箇所を補っているので、読みの出どころとして扱われる）。「Domaszewski」は Alfred von Domaszewski、「Weyman」は Carl Weyman で、どちらも底本の校正を手伝い、推定を寄せた学者（序 l. 1146–1151）。「de Rooy」は校注にページ番号付きで出る（p. 217 校注 9、p. 221 校注 6）が、書名は確かめていない。「Ebert」は Berichte d. sächs. Gesellsch. d. Wissensch. 22（1870）の論文（p. 217 校注 7）。
