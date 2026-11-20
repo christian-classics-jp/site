@@ -34,10 +34,10 @@
 
 - 40.1 の `†` は、このページが初出の短剣符（直しようのない崩れた読みの印。底本の正誤 p. XXXV）。底本テキストに残し、訳は刷られた Eratineo を長官の名「エラティネウス」として訳し、訳注で本文が崩れていることと「ビテニヤの長官」と読む説を示した。扱いは本の `AGENTS.md` の「底本の扱い」に書いた。
 - 37.6 の dabat. は、画像を拡大して尾のない点と確かめた（論点一覧は見分けにくいとした）。刷られたとおり起こし、1.7 の型で、つながりで訳してメモに書いた。
-- 38.2 は、番号の行の omnia. の後が広く空くので ubicumque から始めた（`research/sources.md` に記録）。
+- 38.2 は、番号の行の omnia. の後が広く空いていないので、21.7 と同じく行の初めの eunuchi から始めた（`research/sources.md` に記録）。
 - Augusta（ウァレリア）は「皇后」とし、39.1 で称号であることをメモに書いた。36.4 の sacerdotes maximi は「大祭司」、36.5 の quasi pontifices は『護教論』『オクタウィウス』に揃えて「いわば神祇官のような者」。
 - 37.3 の magistri sui は「師」とし、ガレリウスとみることと、Maximianus をガレリウスとして補ったことをメモに書いた。
-- 38.6 の malo generis humani は Maximiano の同格とした。tempore uicennalium はディオクレティアヌスの祝いとメモに書いた。
+- 38.6 の malo generis humani は、身をゆだねたことが人類の災いになったと言う語とし（後の ut 節がその中身を言う）、Maximiano の同格とも読めることをメモに書いた。Syria は口語訳の「シリヤ」。tempore uicennalium はディオクレティアヌスの祝いとメモに書いた。
 - 40.2 の non nimis は底本どおり「それほど親しくはなかった」とし、non minus と直す刊本があることをメモに書いた（ANF は逆の向き）。
 - 36.1 は、ページの初めの quo nuntio に「マクシミアヌス（ガレリウス）の死の」を補い、メモに書いた。39.4 のウァレリアの言い分は、三つの理由を並べる長い間接話法なので「」に入れず「〜というのです」で受けた。
 - 補いが文意を決めるところ（36.4 の ⟨conuenticula⟩、37.1 の ⟨in manus eius⟩、38.5 の s⟨tupra et hospit⟩um、40.3 の ⟨eum⟩、40.4 の ⟨fuerat: illae ne obl⟩）と推定の読み（36.3 の communi titulo、40.2 の filiam uirginem Vestalem、40.5 の instructi, clibanarii）はメモに書いた。40.6 の [inquit] は訳さずメモに書いた。訳語と名前の新しい決まりは本の `AGENTS.md` に足した。

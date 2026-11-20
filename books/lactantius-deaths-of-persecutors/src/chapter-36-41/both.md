@@ -6,7 +6,7 @@
 36.2 discordia inter ambos imperatores ac paene bellum. diuersas ripas armati tenebant, sed condicionibus certis pax et amicitia componitur et in ipso freto foedus fit ac dexterae copulantur.
 36:2 二人の皇帝のあいだに争いが起こり、戦いになりかけました。彼らは武器を取って、海峡の両岸に陣を構えました。しかし、取り決めた条件のもとで平和と友好が結ばれ、海峡の上で盟約が交わされて、二人は右手を握り合いました。
 36.3 redit ille securus et fit qualis in Syria et in Aegypto fuit. inprimis indulgentiam Christianis communi titulo datam tollit subornatis legationibus ciuitatum quae peterent, ne intra ciuitates suas Christianis conuenticula extruere liceret, ut suasu coactus et impulsus facere uideretur quod erat sponte facturus.
-36:3 マクシミヌスは安心して戻ると、シリアとエジプトにいたころと同じ男になりました。何よりもまず、皇帝たちが連名でキリスト者に与えた恩恵を取り消しました。裏で手を回して町々に使節を送らせ、町の中にキリスト者が集会所を建てることを許さないよう、願い出させたのです。説かれ、強いられ、押されてするように見せかけるためでした。もともと自分から進んでするつもりだったのです。
+36:3 マクシミヌスは安心して戻ると、シリヤとエジプトにいたころと同じ男になりました。何よりもまず、皇帝たちが連名でキリスト者に与えた恩恵を取り消しました。裏で手を回して町々に使節を送らせ、町の中にキリスト者が集会所を建てることを許さないよう、願い出させたのです。説かれ、強いられ、押されてするように見せかけるためでした。もともと自分から進んでするつもりだったのです。
 // communi titulo（連名で）は推定の読み。写本は tutelo で、「共同の保護として」と読む刊本もある。34 章の勅令を、皇帝たちが連名で出したものとして言うとみて訳した（34 章の本文には皇帝たちの名は出ない）。
 36.4 quibus annuens nouo more sacerdotes maximos per singulas ciuitates singulos ex primoribus fecit, qui et sacrificia per omnes deos suos cotidie facerent et ueterum sacerdotum ministerio subnixi darent operam, ⟨ut⟩ Christiani neque ⟨conuenticula⟩ fabricarent neque publice aut priuatim coirent, sed comprehensos suo iure ad sacrificia cogerent uel iudicibus offerrent.
 36:4 彼はその願いを聞き入れ、新しいやり方で、町ごとに主だった人々から一人ずつ大祭司を立てました。彼らは毎日すべての神々に供え物をささげ、昔からの祭司たちの務めに支えられて、手を尽くすことになっていました。キリスト者が集会所を建てることも、公にも私にも集まることもないようにするためです。そして、捕らえた者を、自分の権限で供え物に強いるか、裁判官に引き渡すことになっていました。
@@ -35,10 +35,10 @@
 37:6 彼は、生きている人々の財産を奪ったり、それを贈り物として自分の者たちに与えたりしました。だれかが他人のものを求めれば、そのとおりにしたのです。このことでは、彼にはむしろ礼を言うべきだったのかもしれません。情け深い盗賊のように、血を流さずに分捕り物をはいだのですから。
 // 底本は dabat の後に句点を刷るが、nam quod … dabat は nescio an … putem の前置きの文なので、つながりで訳した。
 
-38.1 Illud uero capitale et supra omnes qui fuerunt, corrumpendi cupiditas! quid dicam nescio nisi caecam et effrenatam, et tamen his uerbis exprimi res pro indignatione sua non potest: uicit officium linguae sceleris magnitudo. eunuchi, lenones scrutabantur omnia.
-38:1 しかし、これまでのどの皇帝にもまさる、あの何より重い悪は、女を汚す欲でした。盲目で抑えのきかない欲、としか言いようがありません。それでも、事が呼び起こす憤りに見合うほど、この言葉で言い表すことはできません。罪の大きさが、舌の務めに勝ってしまったのです。宦官や女衒たちが、あらゆるところを探し回りました。
-38.2 ubicumque liberalior facies erat, secedendum patribus ac maritis fuit. detrahebantur nobilibus feminis uestes itemque uirginibus et per singulos artus inspiciebantur, ne qua pars corporis regio cubili esset indigna. si qua detrectauerat, in aqua necabatur, tamquam maiestatis crimen esset sub illo adultero pudicitia.
-38:2 顔立ちの美しい女がいれば、どこでも、父も夫も身を引かなければなりませんでした。身分の高い女たちも、乙女たちも、衣をはがれ、手足を一つ一つ調べられました。体のどこにも、皇帝の寝床にふさわしくないところがないようにするためです。拒んだ女は、水に沈めて殺されました。あの姦夫のもとでは、貞潔が大逆罪であるかのようでした。
+38.1 Illud uero capitale et supra omnes qui fuerunt, corrumpendi cupiditas! quid dicam nescio nisi caecam et effrenatam, et tamen his uerbis exprimi res pro indignatione sua non potest: uicit officium linguae sceleris magnitudo.
+38:1 しかし、これまでのどの皇帝にもまさる、あの何より重い悪は、女を汚す欲でした。盲目で抑えのきかない欲、としか言いようがありません。それでも、事が呼び起こす憤りに見合うほど、この言葉で言い表すことはできません。罪の大きさが、舌の務めに勝ってしまったのです。
+38.2 eunuchi, lenones scrutabantur omnia. ubicumque liberalior facies erat, secedendum patribus ac maritis fuit. detrahebantur nobilibus feminis uestes itemque uirginibus et per singulos artus inspiciebantur, ne qua pars corporis regio cubili esset indigna. si qua detrectauerat, in aqua necabatur, tamquam maiestatis crimen esset sub illo adultero pudicitia.
+38:2 宦官や女衒たちが、あらゆるところを探し回りました。顔立ちの美しい女がいれば、どこでも、父も夫も身を引かなければなりませんでした。身分の高い女たちも、乙女たちも、衣をはがれ、手足を一つ一つ調べられました。体のどこにも、皇帝の寝床にふさわしくないところがないようにするためです。拒んだ女は、水に沈めて殺されました。あの姦夫のもとでは、貞潔が大逆罪であるかのようでした。
 38.3 aliqui constupratis uxoribus, quas ob castitatem ac fidem carissimas habebant, cum dolorem ferre non possent, se ipsos etiam necauerunt. sub hoc monstro pudicitiae integritas nulla, nisi ubi barbaram libidinem deformitas insignis arcebat.
 38:3 妻を辱められた人々の中には、自ら命を絶った者もいました。妻の貞潔と誠実のゆえに、彼らは妻を何よりいとしく思っていたので、その痛みに耐えられなかったのです。この怪物のもとでは、貞潔を守り通せた女はどこにもいませんでした。ただ、ひどく醜い顔立ちが、野蛮な欲を退けたところだけは別でした。
 38.4 postremo hunc iam induxerat morem, ut nemo uxorem sine permissu eius duceret, ut ipse in omnibus nuptiis praegustator esset.
@@ -48,8 +48,8 @@
 38:5 生まれの自由な乙女たちを汚しては、自分の奴隷たちに妻として与えました。側近たちも、このような皇帝のもとで、その淫らな交わりをまね、自分を泊めてくれた主人たちの寝床を、罰も受けずに汚しました。だれが報いを加えられたでしょうか。中ほどの身分の人々の娘は、それぞれが気の向くままにさらっていきました。さらうことのできない身分の高い家の娘は、恩賞として願い出て手に入れました。皇帝が署名した以上、拒むことは許されませんでした。死ぬか、どこかの蛮人を婿に迎えるか、二つに一つしかなかったのです。
 // s⟨tupra et hospit⟩um（淫らな交わりを、主人たちの）は、写本の葉の上の端が切り取られて欠けたところを、底本が補った読み。rapiebat は単数で、皇帝とも、側近の一人一人とも読める。ut cuique libuerat（それぞれが望むままに）を受けて、側近たちとして訳した。
 38.6 nam fere nullus stipator in latere ei nisi ex gente eorum qui a Gothis tempore uicennalium terris suis pulsi Maximiano se tradiderant malo generis humani, ut illi barbarorum seruitutem fugientes in Romanos dominarentur.
-38:6 というのも、彼のそば近くに仕える供回りは、ほとんどみな、ある民族の者たちだったからです。即位二十年の祝いのころ、ゴート人に自分の土地を追われた人々です。彼らは、人類の災いであるマクシミアヌス（ガレリウス）に身をゆだねていました。蛮族の奴隷となることから逃げてきた者たちが、ローマ人の上に立って支配するようになったのです。
-// tempore uicennalium（即位二十年の祝いのころ）は、17 章のディオクレティアヌスの即位二十年の祝い。malo generis humani（人類の災い）は Maximiano と同じものを言う語とみて訳した。
+38:6 というのも、彼のそば近くに仕える供回りは、ほとんどみな、ある民族の者たちだったからです。即位二十年の祝いのころ、ゴート人に自分の土地を追われた人々です。彼らはマクシミアヌス（ガレリウス）に身をゆだねていました。それが人類の災いとなりました。蛮族の奴隷となることから逃げてきた者たちが、ローマ人の上に立って支配するようになったのです。
+// tempore uicennalium（即位二十年の祝いのころ）は、17 章のディオクレティアヌスの即位二十年の祝い。malo generis humani（人類の災いとして）は、身をゆだねたことが災いになったと言う語とみて訳した（Maximiano と同じものを言う語とも読める）。
 38.7 his satellitibus et protectoribus cinctus Orientem ludibrio habuit.
 38:7 こうした護衛と親衛兵に囲まれて、彼は東方をもてあそびました。
 
@@ -87,7 +87,7 @@
 // adultero（姦夫に）は 40.3 のユダヤ人で、女たちと姦淫したと偽って証言した者。[inquit]（彼は言った）は、底本が取り除くべき語とみて角括弧に入れたもので、訳していない。
 
 41.1 Augusta uero in desertas quasdam Syriae solitudines relegata patrem suum Diocletianum per occultos nuntios gnarum calamitatis suae fecit.
-41:1 皇后は、シリアのある荒れ野に追放されました。彼女は、ひそかな使いによって、父ディオクレティアヌスに自分の災いを知らせました。
+41:1 皇后は、シリヤのある荒れ野に追放されました。彼女は、ひそかな使いによって、父ディオクレティアヌスに自分の災いを知らせました。
 41.2 mittit ille legatos et rogat, ut ad se filiam remittat: nihil proficit. iterum ac saepius obsecrat: non remittitur.
 41:2 ディオクレティアヌスは使者を送り、娘を自分のもとに返すよう、マクシミヌスに頼みました。しかし、何の役にも立ちませんでした。何度も繰り返し願いましたが、娘は返されませんでした。
 41.3 postremo cognatum suum quendam, militarem ac potentem uirum, legat, qui eum beneficiorum suorum admonitum deprecetur. is quoque imperfecta legatione irritas preces renuntiat.

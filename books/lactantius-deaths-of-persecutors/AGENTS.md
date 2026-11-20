@@ -109,7 +109,7 @@
 | domestici et administratores／lancea emendari | 家の者や、仕事を任された者たち／槍で罰せられる（22.3） |
 | eloquentia／causidici／iure consulti／litterae／malae artes | 弁論／弁護人／法律家／学問／悪い術（22.4。ローマの法で魔術を言う語であることはメモに書く） |
 | iudices militares／adsessores | 軍人の裁判官（22.5。11.6 の「武官」と紛れないよう「軍人の」とする）／法の補佐役 |
-| census／censitores | 課税の調査（23.1。後は「調査」と受けてよい）／調査官（23.1、23.6） |
+| census／censitores | 課税の調査（23.1、36.1。後は「調査」と受けてよい）／調査官（23.1、23.6） |
 | parentes（23.5。トラヤヌスの時代の人々） | 先祖 |
 | captiuitas（課税の調査を言う） | 捕囚（23.1、26.2） |
 | sigillum／equi publici／mansiones／cursus publicus | 通行の許しの印／駅伝の馬／宿駅／駅伝（24.5〜24.7） |
@@ -129,8 +129,8 @@
 | scripturae | 聖書（12.2。『キプリアヌス小品集』と同じ） |
 | hostes publici | 国家の敵（14.2。『護教論』と同じ） |
 | gentes（キリスト者に対して） | 異邦人（11.1） |
-| eunuchi | 宦官（14.2） |
-| tribunus ordinis primi／scutarius／protector | 第一級の大隊長（18.10。tribuni は 12.2 の「大隊長」）／盾兵／親衛兵（19.6。どういう位かは底本に説明がないことをメモに書く） |
+| eunuchi・spadones／lenones | 宦官（14.2、38.1、39.5。語は違うが同じ訳）／女衒（38.1） |
+| tribunus ordinis primi／scutarius／protector | 第一級の大隊長（18.10。tribuni は 12.2 の「大隊長」）／盾兵／親衛兵（19.6、38.7。どういう位かは底本に説明がないことをメモに書く） |
 | maiores／minores（四帝統治の二組） | 上位の者／下位の者（18.5〜18.6。正帝・副帝と言い換えない） |
 | requiescere・requies post labores | 苦労の後には休む／苦労の後の休み（18.2、19.3。同じ言い回しなので揃える） |
 | purpura | 紫の衣（18.12 の induatur にも補う。19.2、19.5） |
@@ -151,14 +151,13 @@
 | sedes（体の） | 尻（33.6、33.9） |
 | bestia（ガレリウス） | 獣（32.4。25.1 と同じ。メモに書く） |
 | Augusta（ウァレリア） | 皇后（39.1、40.2、41.1。正帝の妻の称号であることは最初に出たところでメモに書く） |
-| census（36.1）／annona（兵の） | 課税の調査（23.1 と同じ）／配給の糧食（37.5。31.3 の res annonaria「穀物」は取り立てる穀物で、別） |
+| annona（兵の） | 配給の糧食（37.5。31.3 の res annonaria「穀物」は取り立てる穀物で、別） |
 | sacerdotes maximi／quasi pontifices（36.4〜36.5） | 大祭司（町ごとの）／いわば神祇官のような者（属州ごとの。pontifices は『護教論』『オクタウィウス』の「神祇官」） |
-| satellites／stipator／protectores | 護衛（37.5、38.7）／供回り（38.6）／親衛兵（38.7。19.6 と同じ） |
-| eunuchi・spadones／lenones | 宦官（38.1、39.5。語は違うが同じ訳）／女衒（38.1） |
+| satellites／stipator | 護衛（37.5、38.7）／供回り（38.6） |
 | adulter（マクシミヌス、40.6 の偽りの証人） | 姦夫（38.2）。40.6 の偽りの証人は「姦夫と偽った男」とし、40.3 のユダヤ人であることはメモに書く |
 | maiestatis crimen／monstrum／animal nefarium | 大逆罪（38.2）／怪物（38.3）／忌まわしい生き物（39.3。bestia「獣」と分ける） |
 | praegustator | 真っ先に味わう者（38.4。毒見役の語の比喩であることはメモに書く） |
-| cum dedecore／constuprare | 汚名を着せて（40.1）／辱める（38.3）。「辱める」は性的に汚す意味にだけ使う（27.6 と同じ） |
+| cum dedecore／constuprare | 汚名を着せて（40.1）／辱める（38.3）。「辱める」は性的に汚す意味にだけ使う（8.5、27.6 と同じ） |
 | in beneficiis petere | 恩賞として願い出る（38.5） |
 | tortores／carnifices | 拷問吏（40.4）／死刑執行人（40.5。31.3 と同じ） |
 | promoti／clibanarii／sagittarii／cunei armatorum | 選り抜きの騎兵／重装の騎兵／弓兵／武装した兵の隊（40.5。clibanarii が推定であることはメモに書く） |
@@ -210,7 +209,7 @@
 | Daciscum（imperium） | ダキアの帝国（27.8。メモに書く） |
 | Marpesia cautes | マルペッソスの岩（30.5。ウェルギリウスの句） |
 | Licinius／Maxentius／Seuerus | リキニウス／マクセンティウス／セウェルス |
-| fretum Chalcedonium／Syria／Aegyptus／Nicaea | カルケドンの海峡（36.1）／シリア（『護教論』の「シリア・パレスチナ」と同じ）／エジプト（36.3）／ニカイア（40.3） |
+| fretum Chalcedonium／Syria／Aegyptus／Nicaea | カルケドンの海峡（36.1）／シリヤ（口語訳）／エジプト（36.3）／ニカイア（40.3） |
 | uirgo Vestalis | ウェスタの乙女（40.2。『オクタウィウス』『護教論』と同じ） |
 | Eratineus（† Eratineo） | エラティネウス（40.1。本文が崩れていることは訳注に書く） |
 | Candidianus | カンディディアヌス（20.4。ガレリウスの息子であることはメモに書く） |
