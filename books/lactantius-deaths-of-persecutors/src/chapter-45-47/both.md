@@ -42,7 +42,7 @@
 46:8 皇帝リキニウスは、五月一日に戦いを交えると決めました。その日で、マクシミヌスが立てられてから八年が満ちるのです。マクシミヌスがほかでもない自分の即位の記念日に負けるためでした。マクセンティウスがローマでそのように負けたのと同じです。
 // Kalendae Maiae（五月一日）。nuncupationis eius（彼が立てられてから）と suo natali（自分の即位の記念日）はマクシミヌスで、305 年の五月一日に副帝に立てられた（19.1）。ille … Romae（その者がローマで）はマクセンティウスで、44.4 と 44.7 の即位の記念日の敗北。
 46.9 Maximinus uoluit praeire maturius: pridie mane aciem composuit, ut natalem suum postridie uictor celebraret. nuntiatur in castra mouisse Maximinum. capiunt milites arma obuiamque procedunt. campus intererat sterilis ac nudus, quem uocant Serenum.
-46:9 マクシミヌスは、それより早く先手を打とうとしました。その前日の朝に陣を敷いたのです。翌日の自分の即位の記念日を、勝者として祝うためでした。マクシミヌスが動いたと、リキニウスの陣営に知らせが届きました。兵士たちは武器を取り、迎え撃ちに出ました。あいだには、セレヌスの野と呼ばれる、草木のない荒れた野が広がっていました。
+46:9 マクシミヌスは、それより早く先手を打とうとしました。その前日の朝に戦列を整えたのです。翌日の自分の即位の記念日を、勝者として祝うためでした。マクシミヌスが動いたと、リキニウスの陣営に知らせが届きました。兵士たちは武器を取り、迎え撃ちに出ました。あいだには、セレヌスの野と呼ばれる、草木のない荒れた野が広がっていました。
 // pridie（前日）は、五月一日の前日の四月三十日。
 46.10 erat iam utraque acies in conspectu. Liciniani scuta deponunt, galeas resoluunt, ad caelum manus tendunt praeeuntibus praepositis et pro imperatore precem dicunt. audit acies peritura precantium murmur.
 46:10 すでに両軍の戦列は、互いに見えるところにありました。リキニウスの兵たちは盾を下ろし、かぶとを脱いで、天に手を差し伸べました。指揮官たちが先に唱え、兵たちはそれに続いて、皇帝のために祈りを唱えました。滅びに向かう敵の戦列は、祈る者たちのつぶやきを耳にしました。
@@ -50,7 +50,7 @@
 46.11 illi oratione ter dicta uirtute iam pleni reponunt capitibus galeas, scuta tollunt. procedunt imperatores ad conloquium.
 46:11 リキニウスの兵たちは、祈りを三度唱えると、もう勇気に満たされていました。そしてかぶとを頭に戻し、盾を取り上げました。二人の皇帝は、話し合いのために進み出ました。
 46.12 ferri non potuit Maximinus ad pacem: contemnebat enim Licinium ac desertum iri a militibus existimabat, quod ille esset in largiendo tenax, ipse autem profusus, eoque proposito mouerat bellum, ut exercitu Licinii sine certamine accepto ad Constantinum duplicatis uiribus statim pergeret.
-46:12 しかしマクシミヌスを、和睦へ動かすことはできませんでした。リキニウスを侮っていたからです。リキニウスは兵に与えるのを惜しみ、自分は気前がよいので、リキニウスは兵たちに見捨てられるだろうと考えていたのです。もともとマクシミヌスは、このもくろみで戦いを起こしていました。戦わずにリキニウスの軍を手に入れ、二倍になった力で、すぐにコンスタンティヌスに向かうつもりだったのです。
+46:12 しかしマクシミヌスを、和睦へ動かすことはできませんでした。マクシミヌスはリキニウスを侮っていたのです。リキニウスは兵に与えるのを惜しみ、マクシミヌスのほうは気前がよいので、リキニウスは兵たちに見捨てられるだろうと考えていました。もともとマクシミヌスは、このもくろみで戦いを起こしていました。戦わずにリキニウスの軍を手に入れ、二倍になった力で、すぐにコンスタンティヌスに向かうつもりだったのです。
 
 47.1 Ergo propius acceditur, tubae canunt, signa procedunt. Liciniani impetu facto aduersarios inuadunt. illi uero perterriti nec gladios expedire nec tela iacere quiuerunt.
 47:1 こうして両軍はさらに近づき、ラッパが鳴り、軍旗が進みました。リキニウスの兵たちは突き進んで、敵に襲いかかりました。敵の兵たちはおびえきって、剣を抜くことも、投げ槍を投げることもできませんでした。
