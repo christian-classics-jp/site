@@ -75,7 +75,7 @@
 34:5 裁判官たちには、守るべきことを、別の書簡で知らせるつもりである。それゆえキリスト者たちは、われわれのこの恩恵にかなって、自分たちの神に祈らなければならない。われわれの安全と、国の安全と、自分たちの安全のためにである。こうして、国がどこからも損なわれずに保たれ、彼らも自分の住まいで安心して暮らせるようにするためである。
 
 35.1 Hoc edictum proponitur Nicomediae pridie Kalendas Maias ipso octies et Maximino iterum consulibus.
-35:1 この勅令は、四月三十日、マクシミアヌス（ガレリウス）自身が八度目、マクシミヌスが二度目の執政官を務める年に、ニコメディアで掲げられました。
+35:1 この勅令は、ニコメディアで四月三十日に掲げられました。マクシミアヌス（ガレリウス）自身が八度目、マクシミヌスが二度目の執政官を務める年です。
 // pridie Kalendas Maias（五月一日の前日）。執政官の年は 311 年。
 35.2 tunc apertis carceribus, Donate carissime, cum ceteris confessoribus e custodia liberatus es, cum tibi carcer sex annis pro domicilio fuerit.
 35:2 そのとき牢獄が開かれ、親愛なるドナトゥスよ、あなたもほかの告白者たちとともに、獄から解き放たれました。牢獄が六年のあいだ、あなたの住まいだったのです。
