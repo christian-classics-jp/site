@@ -17,6 +17,7 @@
 - 序の脚注で、校注が「Proleg. adn. 6」と呼ぶものとみられる脚注（OCR l. 725–744、772–787。序 l. 337–338 の「C の誤りのほかの種類は後の脚注 6 を見よ」が指すものと内容が合う。脚注の番号は画像で確かめていない）：C は語末の m を落とし、また語尾の um と o を取り違えることが多い。Brandt はそれを書き手ではなく写字生の誤りとみて、例を並べ（193, 1 summa、192, 4 imperium、195, 8 exuto など）、18.4 の Neruam … imperantem（C は奪格）を対格に直し、19.4 は in medium より in medio を採りたいと言う。
 - 序（Prolegomena）p. XI–XII の脚注（OCR l. 340–398）：Brandt は、Baluze が C の傷んだ箇所で写本を見ずに自分の推定を刷ったところがあるとみる（1.3 transacti、1.4 tantae、1.6 mortem digna ultione superbis et impiis、1.7 auctores、1.1 tota die fundis）。
 - 並行の箇所：ラクタンティウス自身の『神の教え』（Inst.）と『要約』（Epit.）、コンスタンティヌスの『聖徒の集いへの演説』（4〜6 章に並行。p. 178・179 の LOCI）。『神の教え』の本文は 1844 年の Lactantius 全集（`cache/archive.org/luciicciliifirm00miltgoog/`）で読んだ。この巻の OCR には『迫害者たちの死について』の題が見つからなかった。
+- 「Panegyr. VII」（LOCI の略号）：E. Baehrens 編 XII Panegyrici Latini（1874）の 7 番目の頌詞（柱は VII. INCERTI PAN. と CONSTANTINO AUGUSTO。作者不明のコンスタンティヌスへの頌詞。年は確かめていない）。ページと行は Baehrens の版のもの（`cache/archive.org/xiiieduodecimpa00baeh/`）。
 - 『シビュラの託宣』：Geffcken 1902 の本文（`cache/archive.org/dieoraculasibyll00geffuoft/`）。
 - 口語訳：`node tools/bible.js` で引いた 1955 年版の本文。
 - ANF：Ante-Nicene Fathers 第 7 巻の英訳（`cache/ccel.org/anf07.txt`、1〜6 章は l. 29278–29488）。底本より古い刊本の本文から訳したもので、Baluze などの補いに従うところがある。レビューの読み比べに使う。英訳の文言はこの一覧に使わない。
