@@ -37,7 +37,7 @@
 // 底本は、「話し合う」の前の et を角括弧に入れる。写本の誤りを直すための書き添えが本文に紛れ込んだものとみて除いた語なので、訳さない。「自分の領分からは…締め出されていた」と訳した exclusus a suo は、直前の regnum eius（その領分）に合わせて suo に regno を補って取り、quocumque uenisset はこの締め出しに係るとみた。a suo を「自分の者（息子）に」と取る読み方もある。
 29.2 aderat ibi Diocles a genero nuper accitus, ut quod ante non fecerat, praesente illo imperium Licinio daret substituto in Seueri locum. itaque fit utroque praesente. sic uno tempore sex fuerunt.
 29:2 そこには、少し前に婿に呼ばれたディオクレス（ディオクレティアヌス）も来ていました。婿は、前にはしなかったことを、彼の立ち会いのもとで行おうとしたのです。つまり、リキニウスをセウェルスの後に据えて、支配を与えることです。こうして、二人が立ち会うなかで、それは行われました。このようにして、同じ時に六人の皇帝がいることになりました。
-// ディオクレスはディオクレティアヌスの即位前の名（9.11）。位を退いた後なので、この名で呼ぶ（19.5）。「前にはしなかったこと」は、20.3 と 25.4 でガレリウスがリキニウスを立てようとしていたことを受ける。「二人」は、ディオクレスとマクシミアヌス（ヘルクリウス）と取った。「皇帝」は補った語。六人は、ガレリウス、リキニウス、マクシミヌス、コンスタンティヌス、マクセンティウス、ヘルクリウスとみられる。
+// ディオクレスはディオクレティアヌスの即位前の名（9.11）。位を退いた後なので、この名で呼ぶ（19.5）。「前にはしなかったこと」は、20.3 と 25.4 でガレリウスがリキニウスを立てようとしていたことを受ける。「二人」は、ディオクレスとマクシミアヌス（ヘルクリウス）と取った。「皇帝」は補った語。六人は、ガレリウス、リキニウス、マクシミヌス、コンスタンティヌス、マクセンティウス、ヘルクリウスとみられる（資料では未確認）。
 29.3 qua re impeditis consiliis senex Maximianus tertiam quoque fugam moliebatur: redit in Galliam plenus malae cogitationis ac sceleris, ut Constantinum imperatorem, generum suum, generi filium, dolo malo circumueniret, et ut posset fallere, deponit regiam uestem. Francorum gens in armis erat.
 29:3 このことで企てをくじかれた老いたマクシミアヌス（ヘルクリウス）は、これで三度目の逃亡をくわだてました。悪だくみと罪に満ちて、ガリアに戻ったのです。皇帝コンスタンティヌスを、策略にかけて陥れるためでした。コンスタンティヌスは、彼の婿であり、婿の息子でもありました。そして、欺きやすくするため、王の衣を脱ぎました。そのころ、フランク人が武器を取っていました。
 // 「三度目の逃亡」の「逃亡」（fugam）は、写本では pugnam（戦い）と書かれている語を、底本が初版に従って直したもの。「婿の息子」は、コンスタンティヌスの父コンスタンティウスも、マクシミアヌス（ヘルクリウス）の婿だったことを言う。
