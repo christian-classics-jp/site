@@ -9,15 +9,15 @@
 24:3 コンスタンティウスは重い病にかかると、手紙を送りました。自分の息子コンスタンティヌスに会いたいので、帰してほしいというのです。この息子のことは、もうずっと前から返すよう求めていましたが、かなわずにいました。
 // 「かなわずにいました」と訳した frustra repetierat（むだに求め返していた）は、写本に欠けのない箇所に底本が足した語。24.5 の「何度も頼まれて」（rogatus）も同じく底本が足した語で、何度も頼んだという筋はこの二つの補いによる。
 24.4 ille uero nihil minus uolebat. nam et in insidiis saepe iuuenem adpetiuerat, quia palam nihil audebat, ne contra se arma ciuilia et, quod maxime uerebatur, odia militum concitaret, ⟨et⟩ sub obtentu exercitii ac lusus feris illum obiecerat,
-24:4 しかし彼は、何よりもそれを望みませんでした。彼はこの若者を、たびたび陰謀でねらっていました。公然とは何もできなかったからです。内乱の武器が自分に向けられ、何より恐れていた兵士たちの憎しみをかき立てることになるからです。そこで、訓練と遊びにかこつけて、若者を獣の前に投げ出したこともありました。
+24:4 しかし彼は、何よりもそれを望みませんでした。というのも、彼はこの若者を、たびたび陰謀でねらっていたのです。公然とは、あえて何もしなかったからです。内乱の武器が自分に向けられ、何より恐れていた兵士たちの憎しみをかき立てることになるからです。また、訓練と遊びにかこつけて、若者を獣の前に投げ出したこともありました。
 24.5 sed frustra, quoniam dei manus hominem protegebat. qui illum de manibus eius liberauit in ipso cardine. namque saepius ⟨rogatus⟩ cum iam diu negare non posset, dedit illi sigillum inclinante iam die praecepitque, ut postridie mane acceptis mandatis proficisceretur, uel ipse illum occasione aliqua retentaturus uel praemissurus litteras, ut a Seuero teneretur.
 24:5 しかし、むだでした。神が御手でこの人を守っていてくださったからです。神は、まさに瀬戸際で、若者を彼の手から救い出してくださいました。彼は何度も頼まれて、もう長く断り続けることができなくなりました。そこで、日の傾くころに、若者に通行の許しの印を与えました。そして、翌朝に指図を受けてから出発するよう命じました。何かの口実で自分が引き留めるか、先に手紙を送ってセウェルスに捕らえさせるつもりだったのです。
 24.6 quae cum ille prospiceret, quiescente iam imperatore post cenam properauit exire sublatisque per mansiones multas omnibus equis publicis euolauit.
-24:6 若者はそれを見抜きました。皇帝が夕食の後もう休んでいるあいだに、急いで出て行きました。そして、多くの宿駅で駅伝の馬をみな連れ去りながら、飛ぶように去りました。
+24:6 若者はそれを見抜きました。夕食の後、皇帝がもう休んでいるあいだに、急いで出て行きました。そして、多くの宿駅で駅伝の馬をみな連れ去りながら、飛ぶように去りました。
 24.7 postridie imperator cum consulto ad medium diem usque dormisset, uocari eum iubet. dicitur ei post cenam statim profectus. indignari ac fremere coepit. poscebat equos publicos, ut eum retrahi faceret. nudatus ei cursus publicus nuntiatur. uix lacrimas tenebat.
 24:7 翌日、皇帝は、わざと昼まで眠ってから、若者を呼ぶよう命じました。若者は夕食の後すぐに発ったと告げられました。皇帝は憤り、怒りにうめき始めました。若者を連れ戻させるために、駅伝の馬を求めました。しかし、駅伝には馬が残っていないと知らされました。皇帝は涙をこらえるのがやっとでした。
 24.8 at ille incredibili celeritate usus peruenit ad patrem iam deficientem, qui ei militibus commendato imperium per manus tradidit. atque ita in lecto suo requiem uitae, sicut optabat, accepit.
-24:8 一方、コンスタンティヌスは信じられないほどの速さで、もう衰えきった父のもとにたどり着きました。父は息子を兵士たちに託し、自分の手から支配を渡しました。こうして父は、望んでいたとおり、自分の床の上で生涯の休みを得ました。
+24:8 一方、コンスタンティヌスは信じられないほどの速さで、もう衰えきった父のもとにたどり着きました。父は息子を兵士たちに託し、自分の手から支配を渡しました。こうして父は、望んでいたとおり、自分の床の上で、生涯を終えて休みを得ました。
 24.9 suscepto imperio Constantinus Augustus nihil egit prius quam Christianos cultui ac deo suo reddere. haec fuit prima eius sanctio sanctae religionis restitutae.
 24:9 支配を受け継ぐと、正帝コンスタンティヌスは、何よりも先に、キリスト者を彼らの礼拝と神のもとに返しました。これが、聖なる宗教を立て直す、彼の最初の定めでした。
 
@@ -30,10 +30,10 @@
 25.3 suscepit itaque imaginem admodum inuitus atque ipsi purpuram misit, ut ultro asciuisse illum in societatem uideretur.
 25:3 そこで彼は、ひどく不本意ながら肖像を受け入れ、コンスタンティヌスに紫の衣を送りました。自分から進んで、仲間に加えたように見せるためです。
 25.4 iam turbatae rationes eius fuerant nec poterat alterum extra numerum nuncupare, ut uoluerat.
-25:4 彼のもくろみは、もう乱されていました。思っていたとおりに、もう一人を数の外で名指すことはできなくなったのです。
-// 「もう一人」は、20.3 でガレリウスが正帝にしようとしていたリキニウスのこと。「数の外で」は、正帝二人と副帝二人の四人の数に入らない者を加えることを言う。
+25:4 彼のもくろみは、もう乱されていました。思っていたとおりに、数を超えてもう一人を立てることは、できなくなったのです。
+// 「もう一人」は、20.3 でガレリウスが正帝にしようとしていたリキニウスのこと。「数を超えて」は、正帝二人と副帝二人の四人の数を超えて、もう一人を加えることを言う。
 25.5 sed illud excogitauit, ut Seuerum, qui erat aetate maturior, Augustum nuncuparet, Constantinum uero non imperatorem, sicut erat factus, sed Caesarem cum Maximino appellari iuberet, ut eum de secundo loco reiceret in quartum.
-25:5 そこで、彼は次のことを考え出しました。年の進んだセウェルスを正帝と呼ばせることにしました。そしてコンスタンティヌスは、立てられたとおりの皇帝ではなく、マクシミヌスと並ぶ副帝と呼ばせました。彼を第二の位から第四の位へ押し下げるためです。
+25:5 そこで、彼は次のことを考え出しました。年の進んだセウェルスを正帝と呼ぶことにしました。そしてコンスタンティヌスは、立てられたとおりの皇帝ではなく、マクシミヌスと並ぶ副帝と呼ばせました。彼を第二の位から第四の位へ押し下げるためです。
 // 「皇帝」と訳した imperatorem は、副帝（Caesar）と対になり、正帝の位を言う（9.10 の nomen imperatoris と同じ）。四人の順は、ガレリウス、セウェルス、マクシミヌス、コンスタンティヌスになる。
 
 26.1 Compositae ei res quodam modo iam uidebantur, cum subito illi alius terror adlatus est, generum ipsius Maxentium Romae factum imperatorem. cuius motus haec fuit causa.
@@ -46,10 +46,10 @@
 26:4 この知らせが届くと、彼は事の思いがけなさにいくらかうろたえました。しかし、それほど恐れはしませんでした。彼はマクセンティウスを憎んでいましたし、副帝を三人にすることもできませんでした。望まないことを一度したので、もう十分だと思われたのです。
 // 「一度した」ことは、25.3 でコンスタンティヌスを受け入れたこと。
 26.5 Seuerum arcessit, hortatur ad recipiendum imperium, mittit eum cum exercitu Maximiani ad expugnandum Maxentium, et mittit Romam, in qua milites illi summis deliciis saepissime excepti non modo saluam esse illam urbem, sed ibi uiuere optarent.
-26:5 彼はセウェルスを呼び寄せ、支配を引き受けるよう励ましました。そして、マクシミアヌス（ヘルクリウス）の軍を付けて、マクセンティウスを攻め落とすために、ローマへ送り出しました。その兵士たちは、それまでたびたびローマでこの上なくぜいたくにもてなされていました。そのため、この都が無事であることを願っていただけでなく、そこで暮らしたいとさえ願っていました。
-// 「支配を引き受ける」と訳した ad recipiendum imperium が、正帝の位を受けることか、軍の指揮を受けることかは、本文からは決めきれない。「マクシミアヌス（ヘルクリウス）の軍」は、退位したヘルクリウスが率いていた軍で、マクセンティウスの父の兵士たち（26.6）。
+26:5 彼はセウェルスを呼び寄せ、支配を取り戻すよう励ましました。そして、マクシミアヌス（ヘルクリウス）の軍を付けて、マクセンティウスを攻め落とすために送り出しました。しかも、ローマへ送り出したのです。その兵士たちは、それまでたびたびローマでこの上なくぜいたくにもてなされていました。そのため、この都が無事であることを願っていただけでなく、そこで暮らしたいとさえ願っていました。
+// 「支配を取り戻す」と訳した ad recipiendum imperium は、マクセンティウスに奪われたローマとイタリアの支配を取り戻すことと取った。セウェルスは 25.5 ですでに正帝と呼ばれている。recipere は「受ける」とも読める。「マクシミアヌス（ヘルクリウス）の軍」は、退位したヘルクリウスが率いていた軍で、マクセンティウスの父の兵士たち（26.6）。
 26.6 Maxentius tanti facinoris sibi conscius, licet iure hereditatis paternos milites traducere ad se posset, cogitans tamen fieri posse ut Maximianus socer id ipsum metuens Seuerum in Illyrico relinqueret atque ipse cum suo exercitu ad se oppugnandum ueniret, quaerebat quatenus se a periculo impendente muniret.
-26:6 マクセンティウスは、自分がどれほどの大罪を犯したかを知っていました。父の兵士たちを、相続の権利によって自分の側に引き入れることもできました。それでも、義父のマクシミアヌス（ガレリウス）がまさにそれを恐れるかもしれないと考えました。そうなれば、セウェルスをイリュリクムに残して、自分の軍を率いて攻めて来るだろうというのです。そこで彼は、迫っている危険から身を守る手立てを探しました。
+26:6 マクセンティウスは、自分がどれほどの大罪を犯したかを知っていました。父の兵士たちを、相続の権利によって自分の側に引き入れることもできました。それでも、こう考えました。義父のマクシミアヌス（ガレリウス）は、まさにそれを恐れるだろう。そして、セウェルスをイリュリクムに残し、みずから自分の軍を率いて攻めて来ることもありうる。そこで彼は、迫っている危険から身を守る手立てを探しました。
 26.7 patri suo post depositum imperium in Campania moranti purpuram mittit et bis Augustum nominat. ille uero et rerum nouarum cupidus et qui deposuerat inuitus, libenter arripuit.
 26:7 彼は、支配を退いた後カンパニアに住んでいた自分の父に紫の衣を送り、再び正帝と呼びました。父は、もともと新しい事を好み、しかも不本意ながら支配を退いた人でしたから、喜んでそれに飛びつきました。
 // 「再び」と訳した bis は、底本の索引で iterum（再び）の意とされる。
@@ -58,8 +58,8 @@
 26.9 quid restabat deserto nisi fuga? sed occurrebat iam resumpto imperio Maximianus, cuius aduentu Rauennam confugit ibique se cum paucis militibus inclusit.
 26:9 見捨てられた者に、逃げるほかに何が残っていたでしょうか。しかし、すでに支配を取り戻したマクシミアヌス（ヘルクリウス）が、迎え撃とうと向かって来ました。セウェルスは、彼がやって来るとラウェンナに逃げ込み、わずかな兵士とともに立てこもりました。
 26.10 qui cum uideret futurum ut Maximiano traderetur, dedidit se ipse uestemque purpuream eidem a quo acceperat, reddidit.
-26:10 セウェルスは、マクシミアヌスに引き渡されることになると見て取ると、自分から降伏しました。そして、紫の衣を、それを受けた当人に返しました。
-// 「それを受けた当人」は、18.12 でセウェルスに紫の衣を着せたマクシミアヌス（ヘルクリウス）。
+26:10 セウェルスは、マクシミアヌスに引き渡されることになると見て取ると、自分から降伏しました。そして、紫の衣を、かつて自分にそれを授けた当人に返しました。
+// 「それを授けた当人」は、18.12 でセウェルスに紫の衣を着せたマクシミアヌス（ヘルクリウス）。
 26.11 quo facto nihil aliud impetrauit nisi bonam mortem. nam uenis eius incisis leniter mori coactus est. [ab hoc capite suos persequi.]
 26:11 そうしても、彼が得たのは良い死に方だけでした。血管を切られ、穏やかに死ぬよう強いられたのです。
 // 底本は「この章から身内を迫害する」（ab hoc capite suos persequi）の句を角括弧に入れる。余白の書き込みが本文に紛れ込んだものとみて除いた句なので、訳さない。

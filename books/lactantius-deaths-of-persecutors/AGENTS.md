@@ -85,6 +85,7 @@
 | praepositi（兵士の）／militia | 指揮官たち／軍（10.4） |
 | amici（皇帝の）／iudices・militares | 側近たち（11.4、11.8。6.2 と同じ）／文官・武官（11.6。皇帝が意見を聞く高官。14.4 の iudices uniuersi、17.5〜17.6 の宮殿の iudices も「文官たち」） |
 | iudices（属州で裁く役人） | 裁判官（15.4〜15.5、16.2。『キプリアヌス小品集』の人の iudex と同じ。宮殿の高官の「文官」と場面で訳し分ける） |
+| iudices（宮殿でも属州でもない場の役人） | 役人（26.3 でローマの兵士に殺された人々） |
 | domestici／sui（捕らえられた人の） | 家の者（15.1、15.3、17.6。14.3 の omnes suos と同じ。前後に群衆が出て紛れるところは「皇帝の家の者」）／身内の者（15.2 の cum omnibus suis） |
 | presbyteri ac ministri／confessio（裁判の） | 長老たちと奉仕者たち（15.2。presbyter は『キプリアヌス小品集』の「長老」。ministri は執事を言うとみられることはメモに書く）／自白（15.2。証拠と並ぶ裁判の語。信仰の confessio は「告白」） |
 | conuenticula／secretarium／tribunal／litigatores | 集会所（15.7）／奥の間／法廷の壇／訴えごとのある人々（15.5） |
@@ -101,6 +102,16 @@
 | iudices militares／adsessores | 軍人の裁判官（22.5。11.6 の「武官」と紛れないよう「軍人の」とする）／法の補佐役 |
 | census／censitores | 課税の調査（23.1。後は「調査」と受けてよい）／調査官（23.1、23.6） |
 | parentes（23.5。トラヤヌスの時代の人々） | 先祖 |
+| captiuitas（課税の調査を言う） | 捕囚（23.1、26.2） |
+| sigillum／equi publici／mansiones／cursus publicus | 通行の許しの印／駅伝の馬／宿駅／駅伝（24.5〜24.7） |
+| requies uitae | 生涯を終えて休みを得る（24.8。「生涯の休み」は休暇と読まれるので使わない） |
+| sanctio | 定め（24.9。48 章でも同じ語で受ける） |
+| laureata imago | 月桂冠をかぶった肖像（25.1） |
+| mala bestia（ガレリウス） | 悪い獣（25.1。2.7 のネロと同じ言い方。だれを言うかはメモに書く） |
+| castra praetoria | 近衛兵の陣営（26.3） |
+| recipere imperium（26.5） | 支配を取り戻す（「受ける」とも読めることはメモに書く） |
+| bona mors | 良い死に方（22.3、26.11） |
+| bis（26.7 の bis Augustum） | 再び（底本の索引で iterum） |
 | clemens | 情け深い（15.6） |
 | palatium／palatini | 宮殿／宮殿の者（10.4、11.3、14.2） |
 | praefectus／duces／tribuni／rationales／praetoriani | 道長官（12.2。7.4 の praefecti と同じ）／将軍／大隊長／会計官／近衛兵（12.2、12.5） |
@@ -132,8 +143,10 @@
 - non modo A, sed etiam B は「A だけでなく B も」。A が重く B が軽い「〜どころか〜さえ」の形（5.7 の non modo facere, sed etiam cogitare）は「A はもちろん、B さえ」とし、「A どころか」は使わない（「A はしないで、かえって B」と読まれる）。
 - quam ＋最上級（3.1 の quam diutissime）は、文脈が本人の意図を言っていなければ「きわめて〜」。「できるかぎり」にしない。
 - 別の人々が間に出たあとで主語や持ち主を代名詞で受けるときは、名詞で言い直す（2.8 の putant の主語 quidam deliri は、間に quidam sanctorum が入るので「正気でない人々は」）。suus も、だれのものかを決めて訳す（5.6 の apud deos suos は蛮族の神々で、主語のローマ人のものではないので「その神々」）。人を「それ」「これ」で受けない（3.1 の non minor は「彼に劣らない」、20.1 の contemnebat は「この人を侮っていました」）。
+- nuncupare は、叙述の語があれば「呼ぶ」（20.3、25.5 の Augustum nuncuparet「正帝と呼ぶ」）、なければ「立てる」（25.4）。「名指す」は使わない。nuncupare（能動）と appellari iubere（使役）を訳し分ける。
+- a quo の関係文（26.10 の eidem a quo acceperat）は、与え手と受け手を取り違えないよう「自分にそれを授けた当人」の形にする。「それを受けた当人」は受け取った人と読まれる。
 - 同格の属格（20.4 の secundum Caesarum nomen）は「副帝という第二の名」の形にし、「副帝の第二の名」と持ち主の属格に読ませない。
-- audeo（23.5 の facere ausus est）は「あえて〜した」とし、「〜しようとした」にしない。中性の omnia（23.3 の si omnia defecerant）は「すべて（の手立て）」とし、人に取り違えない。
+- audeo（23.5 の facere ausus est）は「あえて〜した」とし、「〜しようとした」にしない。否定の nihil audebat（24.4）も「あえて何もしなかった」とし、「できなかった」にしない。中性の omnia（23.3 の si omnia defecerant）は「すべて（の手立て）」とし、人に取り違えない。
 - 主語が文脈で明らかな受け身の本動詞（22.5 の licentia … adsumpta et iudicibus data）は、語の意味（取る、与える）を保ち、主語を補って能動に訳してよい（「彼は…勝手を自分のものとし、裁判官たちにも与えました」）。独立奪格の決まり（9.10）とは別。
 - iusti・iustus populus は「正しい人々」「正しい民」、impii は「不敬虔な者」（ガレリウスを皮肉って言う pius は「敬虔な」で、misericors「あわれみ深い」と言い分ける。23.8）、exempla は「見せしめ」、iudex（神）は「審判者」、subiecti は「支配下の人々」。
 
@@ -144,8 +157,8 @@
 | 原語 | 訳 |
 |---|---|
 | Diocletianus／Diocles | ディオクレティアヌス／ディオクレス（52.3 など。即位前の名で、蔑んで呼ぶところがある。初めに出たところで `// ` メモに書く） |
-| Maximianus（8 章の Herculius と呼ばれる人） | マクシミアヌス。底本が Herculius と呼ぶところは「ヘルクリウス」。だれを言うか分かりにくいところは「マクシミアヌス（ヘルクリウス）」 |
-| Maximianus（9 章から。ディオクレティアヌスの婿） | マクシミアヌス（ガレリウス）。底本の本文に Galerius の名は出ず（OCR の本文の範囲で確かめた。Galerius は校注にだけ出る）、ガレリウスを Maximianus と呼ぶ。各ページの最初に出たところと、二人のマクシミアヌスが近くに並ぶところで「（ガレリウス）」を補う |
+| Maximianus（8 章の Herculius と呼ばれる人） | マクシミアヌス。底本が Herculius と呼ぶところは「ヘルクリウス」。だれを言うか分かりにくいところは「マクシミアヌス（ヘルクリウス）」。9 章から Maximianus はふつうガレリウスを言うので、名だけでヘルクリウスを言うところ（26.5 の exercitu Maximiani、26.9）は必ず「（ヘルクリウス）」を補う |
+| Maximianus（9 章から。ディオクレティアヌスの婿） | マクシミアヌス（ガレリウス）。底本の本文に Galerius の名は出ず（OCR の本文の範囲で確かめた。Galerius は校注にだけ出る）、ガレリウスを Maximianus と呼ぶ。各ページの最初に出たところと、二人のマクシミアヌスが近くに並ぶところで「（ガレリウス）」を補う。ページの初めに名が出ず代名詞で受けるところ（24.1 の illi）は、最初に名を補ってメモに書く |
 | Maximinus（Daia） | マクシミヌス（18〜19 章の Daia は「ダイア」）。18.13 でガレリウスが自分の名にちなんで名づけた |
 | Constantius／Constantinus | コンスタンティウス／コンスタンティヌス |
 | Licinius／Maxentius／Seuerus | リキニウス／マクセンティウス／セウェルス |
@@ -171,7 +184,8 @@
 | Tagis／Apollo Milesius | タギス（10.3。底本の形。腸卜師の長）／ミレトスのアポロ（11.7。『オクタウィウス』の「デルポイのアポロ」の型） |
 | Bithynia | ビテニヤ（10.6。口語訳） |
 | Valeria／Prisca | ウァレリア（ディオクレティアヌスの娘で、ガレリウスの妻）／プリスカ（ディオクレティアヌスの妻）（15.1） |
-| Galliae／Rauenna | ガリア（16.1）／ラウェンナ（17.3） |
+| Galliae／Rauenna | ガリア（16.1）／ラウェンナ（17.3、26.9） |
+| Campania | カンパニア（26.7） |
 | Flaccinus／Hierocles／Priscillianus | フラッキヌス／ヒエロクレス／プリスキッリアヌス（16.4） |
 | ripa Istrica | イステル川（ドナウ川）の岸（17.4。本文に川の名があるので 9.2 とは別に、今の通称を括弧で補う。Istricae が推定であることはメモに書く） |
 | Terminalia | 境の神テルミヌスの祭り（12.1。terminus「境・終わり」との掛け言葉を訳に出し、メモに書く） |
