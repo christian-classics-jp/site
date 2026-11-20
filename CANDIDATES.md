@@ -21,7 +21,6 @@
 |---|---|---|
 | アタナシオス『アントニオス伝』 | ギリシア語 | スキャン：PG 26（archive.org `patrologiae_cursus_completus_gr_vol_026`）。ギリシア語の OCR は使えるが κ を χ と読む崩れが多い。約 20,000 語。英訳は NPNF 第 2 集第 4 巻。既訳の『神のことばの受肉』と同じ著者 |
 | エルサレムのキュリロス『秘義教話』 | ギリシア語 | 5 講と短い。スキャン：PG 33（archive.org `patrologiae_cursus_completus_gr_vol_033`）。OCR の崩れは『アントニオス伝』と同じ。英訳は NPNF 第 2 集第 7 巻 |
-| ラクタンティウス『迫害者たちの死について』 | ラテン語 | 翻訳中（`books/lactantius-deaths-of-persecutors/`）。スキャン：Brandt & Laubmann 編 CSEL 27.2（1897、archive.org `operaomniaacced01laubgoog`）。約 11,000 語。英訳は ANF 第 7 巻 |
 
 ## 取得済みの原文（2 世紀）
 
