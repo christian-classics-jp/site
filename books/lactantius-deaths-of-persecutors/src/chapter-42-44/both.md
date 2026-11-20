@@ -1,10 +1,10 @@
 # 42〜44 章　ディオクレティアヌスの死とムルウィウス橋の戦い
 
 42.1 Eodemque tempore senis Maximiani statuae Constantini iussu reuellebantur et imagines ubicumque pictus esset, detrahebantur. et quia senes ambo simul plerumque picti erant, et imagines simul deponebantur amborum.
-42:1 同じころ、コンスタンティヌスの命令で、老いたマクシミアヌス（ヘルクリウス）の像が引き倒されました。彼が描かれているところでは、どこでも肖像が取り外されました。二人の老帝はたいてい一緒に描かれていたので、二人の肖像が一緒に下ろされることになりました。
+42:1 同じころ、コンスタンティヌスの命令で、老いたマクシミアヌス（ヘルクリウス）の像が引き倒されました。ヘルクリウスが描かれているところでは、どこでも肖像が取り外されました。二人の老帝はたいてい一緒に描かれていたので、二人の肖像が一緒に下ろされることになりました。
 // senes ambo（二人の老帝）は、ディオクレティアヌスとマクシミアヌス（ヘルクリウス）。
 42.2 itaque ⟨Diocletianus⟩ cum uideret uiuus quod nulli umquam imperatorum acciderat, duplici aegritudine adfectus moriendum sibi esse decreuit. iactabat se huc atque illuc aestuante anima per dolorem nec somnum nec cibum capiens. suspiria et gemitus, crebrae lacrimae, iugis uolutatio corporis, nunc in lecto, nunc humi.
-42:2 こうしてディオクレティアヌスは、これまでどの皇帝の身にも起こらなかったことを、生きているうちに見ることになりました。心と体の二重の病に冒されて、彼は死のうと心に決めました。苦しみに心が煮えたぎり、眠りも食べ物も取らずに、あちらこちらへ身を投げ出しました。ため息をつき、うめき、しきりに涙を流しました。体は休みなく転げ回り、あるときは寝床の上、あるときは地べたにありました。
+42:2 こうしてディオクレティアヌスは、これまでどの皇帝の身にも起こらなかったことを、生きているうちに見ることになりました。心と体の二重の病に冒されて、彼は死のうと心に決めました。苦しみに心が煮えたぎり、眠りも食べ物も取らずに、右へ左へと身をよじりました。ため息をつき、うめき、しきりに涙を流しました。体は休みなく、あるときは寝床の上で、あるときは地べたで転げ回りました。
 // ⟨Diocletianus⟩ は、写本が名を出さないところに底本が足した名。duplici aegritudine（二重の病）は、底本の索引の説明に従って心と体の病とした。
 42.3 ita uiginti annorum felicissimus imperator ad humilem uitam deiectus a deo et proculcatus iniuriis atque in odium uitae deductus postremo fame atque angore confectus est.
 42:3 こうして、二十年のあいだこの上なく幸いな皇帝だった人は、神によって低い暮らしに落とされました。辱めに踏みにじられ、生きることを憎むまでに追いやられて、ついに飢えと苦しみのうちに息絶えたのです。
@@ -14,12 +14,12 @@
 43:1 神の敵のうち、残っていたのはもうマクシミヌスただ一人でした。今から、その最期と没落を書き添えましょう。
 // ⟨Maximinus⟩ は、写本が名を出さないところに底本が足した名。
 43.2 cum haberet aemulationem aduersus Licinium, quia praelatus ei a Maximiano fuerat, licet nuper cum eo amicitiam confirmasset, tamen ut audiuit Constantini sororem Licinio esse desponsam, existimauit affinitatem illam duorum imperatorum contra se copulari.
-43:2 マクシミヌスは、リキニウスに張り合う心を抱いていました。リキニウスが、マクシミアヌス（ガレリウス）によって自分より上に立てられたからです。ついこのあいだ、彼と友好を固めたばかりでした。それでも、コンスタンティヌスの妹がリキニウスと婚約したと聞くと、彼は考えました。二人の皇帝のこの縁組みは、自分に向けて結ばれたのだ、と。
+43:2 マクシミヌスは、リキニウスに張り合う心を抱いていました。リキニウスのほうが、マクシミアヌス（ガレリウス）によって上に立てられたからです。ついこのあいだ、リキニウスと友好を固めたばかりでした。それでも、コンスタンティヌスの妹がリキニウスと婚約したと聞くと、彼は考えました。二人の皇帝のこの縁組みは、自分に対抗して結ばれたのだ、と。
 // リキニウスは副帝を経ずに正帝に立てられた（20.3、32 章）。友好を固めたのは 36.2 の盟約。コンスタンティヌスの妹はコンスタンティアだが、本文に名は出ない。
 43.3 et ipse legatos ad urbem misit occulte societatem Maxentii atque amicitiam postulatum. scribit etiam familiariter. recipiuntur legati benigne: fit amicitia, utriusque imagines simul locantur.
 43:3 そこで彼も、ひそかにローマへ使節を送り、マクセンティウスとの同盟と友好を求めました。親しげな手紙も書き送りました。使節は手厚く迎えられ、友好が結ばれて、二人の肖像が並べて置かれました。
 43.4 Maxentius tamquam diuinum auxilium libenter amplectitur: iam enim bellum Constantino indixerat quasi necem patris sui uindicaturus.
-43:4 マクセンティウスは、これを神の助けのように喜んで受け入れました。彼はすでに、父の死に報いるかのようにして、コンスタンティヌスに戦いを宣していたからです。
+43:4 マクセンティウスは、これを神の助けのように喜んで受け入れました。彼はすでに、父の死の仇を討つかのようにして、コンスタンティヌスに戦いを宣していたからです。
 // patris sui（父の）は、30 章で死んだマクシミアヌス（ヘルクリウス）。
 43.5 unde suspicio inciderat senem illum exitiabilem finxisse discordiam cum filio, ut ad alios succidendos uiam sibi faceret, quibus omnibus sublatis sibi ac filio totius orbis imperium uindicaret.
 43:5 そのため、こんな疑いが生まれていました。あの破滅をもたらす老人は、息子との不和を装っていたのではないか。それは、ほかの者たちを切り倒す道を開くためだった。皆を除いたうえで、自分と息子のために全世界の支配を手に入れようとしたのだ、というのです。
@@ -51,10 +51,10 @@
 44.8 qua uoce consternatus proripit se ac uocatis quibusdam senatoribus libros Sibyllinos inspici iubet: in quibus repertum est illo die hostem Romanorum esse periturum.
 44:8 マクセンティウスはこの声にうろたえて飛び出し、元老院議員を何人か呼び集めて、シビュラの書を調べるよう命じました。すると、その書の中に『その日、ローマ人の敵が滅びる』という言葉が見つかりました。
 44.9 quo responso in spem uictoriae inductus procedit, in aciem uenit. pons a tergo eius scinditur. eo uiso pugna crudescit et manus dei supererat aciei. Maxentianus proterretur, ipse in fugam uersus properat ad pontem, qui interruptus erat, ac multitudine fugientium pressus in Tiberim deturbatur.
-44:9 この答えで勝利を望むようになった彼は、出陣して戦場に来ました。彼の背後で、橋が断ち切られました。それを見て、戦いはいっそう激しくなりました。神の御手が、戦列を守っておられました。マクセンティウスの兵はおびえて浮き足立ちました。彼自身も逃げ出して、断ち切られていた橋へ急ぎました。しかし、逃げる者たちの群れに押されて、ティベリス川に突き落とされたのです。
+44:9 この託宣で勝利を望むようになった彼は、出陣して戦場に来ました。彼の背後で、橋が断ち切られました。それを見て、戦いはいっそう激しくなりました。神の御手が、戦列を守っておられました。マクセンティウスの兵はおびえて浮き足立ちました。彼自身も逃げ出して、断ち切られていた橋へ急ぎました。しかし、逃げる者たちの群れに押されて、ティベリス川に突き落とされたのです。
 // pons a tergo eius scinditur（彼の背後で橋が断ち切られた）は、だれが断ったかを本文は言わない。pugna crudescit（戦いが激しくなった）は、ウェルギリウス『アエネーイス』11.833 の句。supererat（守っていた）は、底本の校注が defendebat の意味と説明するのに従った。Maxentianus（マクセンティウスの兵）は単数で、兵の集まりを言う。
 44.10 confecto tandem acerbissimo bello cum magna senatus populique Romani laetitia susceptus imperator Constantinus Maximini perfidiam cognoscit, litteras deprehendit, statuas et imagines inuenit.
-44:10 こうして、このうえなく激しい戦いがついに終わりました。コンスタンティヌスは皇帝として、ローマの元老院と民の大きな喜びのうちに迎えられました。そして彼は、マクシミヌスの裏切りを知りました。手紙を押さえ、像と肖像を見つけたのです。
+44:10 こうして、この上なく激しい戦いがついに終わりました。コンスタンティヌスは皇帝として、ローマの元老院と民の大きな喜びのうちに迎えられました。そして彼は、マクシミヌスの裏切りを知りました。手紙を押さえ、像と肖像を見つけたのです。
 // litteras（手紙）と statuas et imagines（像と肖像）は、43.3 でマクシミヌスがマクセンティウスに送った手紙と、並べて置かれた二人の肖像。
 44.11 senatus Constantino uirtutis gratia primi nominis titulum decreuit, quem sibi Maximinus uindicabat: ad quem uictoria liberatae urbis cum fuisset adlata, non aliter accepit. quam si ipse uictus esset.
 44:11 元老院は、コンスタンティヌスの武勇をたたえて、第一の名の称号を贈ることを決めました。それは、マクシミヌスが自分のものだと言い張っていた称号でした。都が解き放たれた勝利の知らせがマクシミヌスに届くと、彼はまるで自分が負けたかのように受け取りました。
