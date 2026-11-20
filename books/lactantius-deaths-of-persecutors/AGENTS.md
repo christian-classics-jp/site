@@ -134,6 +134,7 @@
 | purpura | 紫の衣（18.12 の induatur にも補う。19.2、19.5） |
 | affinis／adorare | 身内（18.14。甥とは補わない）／拝礼する（18.9。皇帝の前の礼） |
 | ueteranus rex | 退役した王（19.6。兵役を終えた古参兵を王と呼ぶ皮肉はメモに書く） |
+| uindex（31.1 の神） | 報いる方（「宗教とご自分の民のために報いる神」。1.7 の uindicauerit「報いた」と揃える） |
 | uotum（祝いの誓い） | 即位二十年の祝い（31.6。30.6 と同じく uicennalia の祝いとして訳し、uotum の語はメモに書く） |
 | officiorum milites／exactio／res annonaria | 役所の兵士たち／取り立て／穀物（31.3） |
 | uenia／indulgentia／clementia | 許し（31.3、34.4、35.3。勅令の皇帝の許しと、神の罪の許しを同じ語で受ける）／恩恵（34.4〜34.5）／情け深さ（34.4。clemens「情け深い」と同じ） |

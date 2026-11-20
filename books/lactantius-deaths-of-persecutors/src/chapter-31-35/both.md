@@ -1,7 +1,7 @@
 # 31〜35 章　ガレリウスの病と寛容の勅令
 
 31.1 Ab hoc deus religionis ac populi sui uindex oculos ad Maximianum alterum transtulit, nefandae persecutionis auctorem, ut in eo et⟨iam suae u⟩im maiestatis ostenderet.
-31:1 宗教とご自分の民の擁護者である神は、ヘルクリウスから、もう一人のマクシミアヌス（ガレリウス）へと目をお移しになりました。忌まわしい迫害を始めた張本人です。神は、彼の上にもご自分の威光の力をお示しになろうとしたのです。
+31:1 宗教とご自分の民のために報いる神は、ヘルクリウスから、もう一人のマクシミアヌス（ガレリウス）へと目をお移しになりました。忌まわしい迫害を始めた張本人です。神は、彼の上にもご自分の威光の力をお示しになろうとしたのです。
 // ab hoc（この人から）は 30 章のヘルクリウスで、名を補った。Maximianum alterum：28.1 では同じ言い方がヘルクリウスを指すが、ここではガレリウス。et⟨iam suae u⟩im（「も」「ご自分の」「力」）は、写本の欠けを底本が補った読み。
 31.2 iam de agendis et ipse uicennalibus cogitabat. ⟨et ut⟩, qui iam dudum prouincias afflixerat auri argentique indictionibus factis, quae promiserat redderet, etiam in nomine uicennalium securem alteram ⟨iis⟩ inflixit.
 31:2 彼もまた、即位二十年の祝いを行うことを、もう考えていました。彼はずっと前から、金と銀の課税で属州を苦しめていました。そして、約束したものを果たすため、祝いの名目でも、属州に第二の斧を振り下ろしたのです。
@@ -34,7 +34,7 @@
 // 正帝たちの息子（filii Augustorum）は、副帝に代えた呼び名（20.3 の filius と同じ考え方）。in campo Martio は兵を集める野のことで、ローマのマルスの野ではない。
 
 33.1 Iam decimus et octauus annus agebatur, cum percussit eum deus insanabili plaga. nascitur ei ulcus malum in inferiori parte genitalium serpitque latius.
-33:1 彼の支配は、もう十八年目に入っていました。そのとき、神は彼を、癒えることのない一撃でお打ちになりました。陰部の下のほうに悪いできものが生じ、だんだん広がっていきました。
+33:1 マクシミアヌスの支配は、もう十八年目に入っていました。そのとき、神は彼を、癒えることのない一撃でお打ちになりました。陰部の下のほうに悪いできものが生じ、だんだん広がっていきました。
 // 「支配の」は補った。293 年に副帝となってから十八年目で、310 年。
 33.2 medici secant curant. sed inducta iam cicatrice scinditur uulnus et rupta uena fluit sanguis usque ad periculum mortis. uix tamen cruor sistitur. noua ex integro cura. tandem perducitur ad cicatricem.
 33:2 医者たちは切開し、手当てをしました。しかし、傷がもうふさがったところで、傷口が裂け、血管が破れて、死ぬかと思われるほど血が流れました。それでも、血はやっと止まりました。手当ては、また初めからやり直されました。そしてついに、傷はふさがりました。
@@ -42,7 +42,7 @@
 33:3 ところが、体を少し動かしただけで、また傷が開き、前よりも多くの血が流れ出ました。彼は血の気を失って白くなり、力が尽きてやせ衰えました。そのときは、どうにか血の流れは止まりました。
 // m⟨otu u⟩ulneratur の「動き」（motu）は、写本の欠けを底本が補った読み。
 33.4 incipit uulnus non sentire medicinam: proxima quaeque cancer inuadit et quanto magis circumsecatur, latius saeuit, quanto curatur, increscit. cessere magistri, Phillyrides Chiron Amythaoniusque Melampus. undique medici nobiles trahuntur: nihil humanae manus promouent.
-33:4 傷には、薬が効かなくなり始めました。腐れが近くのところを次々に冒し、切り取れば切り取るほど、いっそう広がり、手当てをすればするほど、大きくなりました。『名医たちも手を引いた。ピリュラの子ケイロンも、アミュタオンの子メランプスも』。名高い医者たちが、あちこちから連れて来られました。しかし、人の手では何もできませんでした。
+33:4 傷には、薬が効かなくなり始めました。腐れが近くのところを次々に冒し、切り取れば切り取るほど、いっそう広がり、手当てをすればするほど、大きくなりました。『名医たちも手を引いた。ピリュラの子ケイロンも、アミュタオンの子メランプスも』というありさまでした。名高い医者たちが、あちこちから連れて来られました。しかし、人の手では何もできませんでした。
 // ウェルギリウス『農耕詩』3.549〜550 の句。家畜の疫病に名医も手の施しようがなかったという場面。ケイロンとメランプスは神話の名医。cancer は今の「がん」ではなく、周りを冒していく腐れ。
 33.5 confugitur ad idola: Apollo et Asclepius orantur, remedium flagitatur. dat Apollo curam: malum multo peius augetur.
 33:5 人々は偶像に頼りました。アポロとアスクレピオスに祈り、治す手立てを求めました。アポロが治療を授けました。すると、病はずっとひどくなりました。
@@ -75,7 +75,7 @@
 34:5 裁判官たちには、守るべきことを、別の書簡で知らせるつもりである。それゆえキリスト者たちは、われわれのこの恩恵にかなって、自分たちの神に祈らなければならない。われわれの安全と、国の安全と、自分たちの安全のためにである。こうして、国がどこからも損なわれずに保たれ、彼らも自分の住まいで安心して暮らせるようにするためである。
 
 35.1 Hoc edictum proponitur Nicomediae pridie Kalendas Maias ipso octies et Maximino iterum consulibus.
-35:1 この勅令は、四月三十日、彼自身が八度目、マクシミヌスが二度目の執政官を務める年に、ニコメディアで掲げられました。
+35:1 この勅令は、四月三十日、マクシミアヌス（ガレリウス）自身が八度目、マクシミヌスが二度目の執政官を務める年に、ニコメディアで掲げられました。
 // pridie Kalendas Maias（五月一日の前日）。執政官の年は 311 年。
 35.2 tunc apertis carceribus, Donate carissime, cum ceteris confessoribus e custodia liberatus es, cum tibi carcer sex annis pro domicilio fuerit.
 35:2 そのとき牢獄が開かれ、親愛なるドナトゥスよ、あなたもほかの告白者たちとともに、獄から解き放たれました。牢獄が六年のあいだ、あなたの住まいだったのです。
@@ -84,4 +84,4 @@
 // 妻はディオクレティアヌスの娘ウァレリア、息子はカンディディアヌス（20.4）。
 35.4 idque cognitum Nicomediae *** mensis eiusdem, cum futura essent uicennalia Kalendis Martiis impendentibus.
 35:4 このことがニコメディアに知らされたのは、五月の某日^[原文は日付の語を欠く。『半ば』『終わり』などと補う説がある。]でした。即位二十年の祝いを、来たる三月一日に控えていたときのことです。
-// mensis eiusdem（同じ月）は、35.1 の日付の月（Kalendas Maias の五月）。35.1 を今の暦の四月三十日に直したので、「五月」とした。底本の *** は脱落の印で、日付の語が欠けている。Kalendis Martiis（三月一日）は 312 年の三月一日。
+// mensis eiusdem（同じ月）は、35.1 の日付の月（Kalendas Maias の五月）。35.1 を今の暦の四月三十日に直したので、「五月」とした。底本の *** は脱落の印で、日付の語が欠けている。Kalendis Martiis（三月一日）。
