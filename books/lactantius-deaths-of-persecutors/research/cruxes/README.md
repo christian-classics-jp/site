@@ -32,5 +32,7 @@
 - 「Notit. dignitat. Or.」：『官職表』（Notitia dignitatum）の東方の部。Seeck 版のページと行で挙げる（40.5）。資料は cache にない。
 - 底本の *** は脱落の印（35.4 が初出）。写本に欠けの跡がなく、伝わる途中で語が抜け落ちたと編者がみるところ（p. 214 校注 9）。写本の傷みによる欠けは山括弧の補いで示す。
 - 『シビュラの託宣』：Geffcken 1902 の本文（`cache/archive.org/dieoraculasibyll00geffuoft/`）。
+- 48 章の書簡（ミラノの勅令）の校注に出る名前（p. 229〜233）：「Euseb.」の後のギリシア語は、エウセビオス『教会史』10.5.2〜14 のギリシア語訳（校注が節ごとに引く）。「Toinard」は、底本が 48.2 と 48.4 で読みに従う刊本の編者（48.4 の補いは Toinard の形を直したもの）。「Valesius interpres Eusebii」はエウセビオスのラテン語訳者 Valesius。「Diazius」は 48.8 の uicarium を「代わりの物」と取った学者で、Bauldri の刊本 II p. 111 と Lenglet の刊本 II p. 347 が伝える（Baluze の Diazius への手紙も同じ所）。「Heinichen」はエウセビオスの刊本（第 2 版）の編者で、48.4 と 48.8 の注が挙げられる。48.4 の議論には Keim（Theolog. Jahrbb. XI）、Crivellucci（Della fede storica di Eusebio）、Seeck（Zeitschr. f. Kirchengesch. XII）、Goerres（Zeitschr. f. wissenschaftl. Theol. XXXV）が挙げられる。「Hurter」は 48.6 で Duebner と並ぶ。「Pagi」は Baronius の年代記への注（313 年、50.2）。「Arntzenius」は Panegyrici ueteres の刊本 I p. 197（51.2）。「Ebert」の p. 124 注 19 は 51 章を偽作とみる（p. 217 校注 7 と同じ論文とみられる）。「uir reu.」「uir reuer.」は ed. Oxon. 1680 の推定の出どころとして刷られる（50.2、50.6。だれかは確かめていない）。「Hieronym. Commentar. in Zachar.」はヒエロニュムス『ゼカリヤ書注解』（Vallarsi 版。50.7 の LOCI）。どれも資料は cache になく、校注の記述だけで扱う。
+- 「Nicephorus H. E.」は 48 章の書簡をエウセビオスから写したニケフォロスの『教会史』（p. 228 の LOCI）。
 - 口語訳：`node tools/bible.js` で引いた 1955 年版の本文。
 - ANF：Ante-Nicene Fathers 第 7 巻の英訳（`cache/ccel.org/anf07.txt`、1〜6 章は l. 29278–29488）。底本より古い刊本の本文から訳したもので、Baluze などの補いに従うところがある。レビューの読み比べに使う。英訳の文言はこの一覧に使わない。
