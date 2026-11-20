@@ -38,7 +38,7 @@
 // 教会が倒されたのは、12 章の境の神テルミヌスの祭り（二月二十三日）の日。そこから 48.1 の六月十三日までを言う。
 
 49.1 Sequenti autem Licinio cum exercitu tyrannum profugus concessit et rursus Tauri montis angustias petiit. munimentis ibidem ac turribus fabricatis iter obstruere conatus est et inde detrusus perrumpentibus omnia uictoribus Tarsum postremo confugit.
-49:1 リキニウスが軍を率いて暴君を追うと、マクシミヌスは逃亡者となって退き、再びタウルス山の狭い道を目指しました。そこに防壁と櫓を築いて、道をふさごうとしました。しかし、勝者たちがすべてを打ち破って進んでくると、そこからも追い落とされ、ついにタルソへ逃げ込みました。
+49:1 リキニウスが軍を率いて、暴君マクシミヌスを追いました。暴君は逃亡者となって退き、再びタウルス山の狭い道を目指しました。そこに防壁と櫓を築いて、道をふさごうとしました。しかし、勝者たちがすべてを打ち破って進んでくると、そこからも追い落とされ、ついにタルソへ逃げ込みました。
 // 主語のマクシミヌスを補った。detrusus（追い落とされ）は推定で、写本は detorsum、初版は dextrorsum（右へ）。
 49.2 ibi cum iam terra marique premeretur nec ullum speraret refugium, angore animi ac metu confugit ad mortem quasi ad remedium malorum, quae deus in caput eius ingessit.
 49:2 そこで、もう陸からも海からも攻め立てられ、どこにも逃げ場を望めなくなると、彼は心の苦しみと恐れから、死に逃げ込みました。神が彼の頭上にお下しになった災いを逃れる手立てであるかのように、死を選んだのです。
@@ -78,7 +78,7 @@
 51:2 そこで二人の女は、刑場へ引かれていきました。大勢の者が見物し、これほどの転落をあわれみました。そして首を斬られ、その体は海に投げ捨てられました。こうして、二人には、貞潔と身分とが破滅のもとになったのです。
 
 52.1 Quae omnia secundum fidem — scienti enim loquor — ita ut gesta sunt mandanda litteris credidi, ne aut memoria tantarum rerum interiret aut si quis historiam scribere uoluisset, [non] corrumperet ueritatem uel peccata illorum aduersus deum uel iudicium dei aduersus illos reticendo.
-52:1 これらのことはすべて、事実に忠実に、起こったとおりに書き記すべきだと、わたしは考えました。知っている人に向けて語っているのですから。これほど大きな出来事の記憶が消えてしまわないようにするためです。また、だれかが歴史を書こうとしたときに、真実をゆがめないようにするためです。神に対する彼らの罪や、彼らに対する神の裁きを、黙って書かずにおくことによってです。
+52:1 これらのことはすべて、事実に忠実に、起こったとおりに書き記すべきだと、わたしは考えました。知っている人に向けて語っているのですから。これほど大きな出来事の記憶が消えてしまわないようにするためです。また、だれかが歴史を書こうとしたときに、真実をゆがめることのないようにするためです。神に対する彼らの罪や、彼らに対する神の裁きを、黙って書かずにおけば、真実はゆがめられてしまいます。
 // [non] は底本が取り除くべきとみた語で、訳さない。scienti enim loquor（知っている人に向けて語っている）を、初版は scientium（知る人々の）と読む。
 52.2 cuius aeternae pietati gratias agere debemus, qui tandem respexit in terram, quod gregem suum partim uastatum a lupis rapacibus partim uero dispersum reficere ac recolligere dignatus est et bestias malas extirpare, quae diuini gregis pascua protriuerant, cubilia dissipauerant.
 52:2 わたしたちは、神のとこしえの慈愛に感謝しなければなりません。神はついに地を顧みてくださいました。ご自分の羊の群れは、一部は強欲なおおかみに荒らされ、一部は散らされていました。神はその群れを立て直し、集め直してくださいました。そして悪い獣どもを根絶やしにしてくださいました。神の群れの牧場を踏み荒らし、そのねぐらを壊した獣どもです。
