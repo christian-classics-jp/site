@@ -28,7 +28,7 @@
 - 固有名の索引・事項の索引：底本の巻末の索引（OCR の l. 9000 から後）。「II M 223, 15」は『迫害者たちの死について』の p. 223 の 15 行目。
 - 底本の短剣符 † は、直しようのない崩れた読みを本文に残す印（40.1 の † Eratineo が初出）。底本の正誤（Addenda et Corrigenda、p. XXXV、OCR l. 1495–1507）が、40.5 について「崩れた語を、前に十字を置いて本文に入れることはせず」と言うことから分かる。
 - 底本の正誤（Addenda et Corrigenda）：序の後の pp. XXXI〜XXXVI（OCR l. 1162–1537）。校注が「cf. Addenda」と言うところ（40.5）の説明がある。OCR だけで読んだ。
-- 「Maucroix」は François de Maucroix の 1680 年の仏訳（序 l. 1034–1040。Burnet の英訳と同じく、訳の中で C の傷んだ箇所を補っているので、読みの出どころとして扱われる）。「Domaszewski」は Alfred von Domaszewski、「Weyman」は Carl Weyman で、どちらも底本の校正を手伝い、推定を寄せた学者（序 l. 1146–1151）。「de Rooy」は校注にページ番号付きで出る（p. 217 校注 9、p. 221 校注 6）が、書名は確かめていない。「Ebert」は Berichte d. sächs. Gesellsch. d. Wissensch. 22（1870）の論文（p. 217 校注 7）。
+- 「Maucroix」は François de Maucroix の 1680 年の仏訳（序 l. 1034–1040。Burnet の英訳と同じく、訳の中で C の傷んだ箇所を補っているので、読みの出どころとして扱われる）。「Domaszewski」は Alfred von Domaszewski、「Weyman」は Carl Weyman で、どちらも底本の校正を手伝い、推定を寄せた学者（序 l. 1146–1151）。「Schoell」は Fridericus Schoell で、同じく校正を手伝った学者（序 l. 1146。46.9 の in castra の in を除く推定）。「de Rooy」は校注にページ番号付きで出る（p. 217 校注 9、p. 221 校注 6）が、書名は確かめていない。「Ebert」は Berichte d. sächs. Gesellsch. d. Wissensch. 22（1870）の論文（p. 217 校注 7）。
 - 「Notit. dignitat. Or.」：『官職表』（Notitia dignitatum）の東方の部。Seeck 版のページと行で挙げる（40.5）。資料は cache にない。
 - 底本の *** は脱落の印（35.4 が初出）。写本に欠けの跡がなく、伝わる途中で語が抜け落ちたと編者がみるところ（p. 214 校注 9）。写本の傷みによる欠けは山括弧の補いで示す。
 - 『シビュラの託宣』：Geffcken 1902 の本文（`cache/archive.org/dieoraculasibyll00geffuoft/`）。
