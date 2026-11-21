@@ -21,7 +21,7 @@ PG（Migne のギリシア教父全集）を底本にする本の共通の注意
 - 底本：P. Geyer 編、Itinera Hierosolymitana saeculi IIII–VIII（CSEL 39、Wien, 1898）。archive.org `itinerahierosoly00geye`。OCR は `cache/archive.org/itinerahierosoly00geye/itinerahierosoly00geye_djvu.txt`（45d4f2dbf2e85dd7）。本文は冒頭が欠けていて、l. 4790（ostendebantur iuxta scripturas）から。編者 Geyer は図書館の書誌で 1852 年生まれ（没年は見つからないが、生年から日本でも権利は切れている）。
 - 英訳：J. H. Bernard の訳（Palestine Pilgrims' Text Society、1891。叢書第 1 巻、1896）。archive.org `libraryofpalesti01paleuoft`、OCR は `cache/archive.org/libraryofpalesti01paleuoft/libraryofpalesti01paleuoft_djvu.txt`（c94bfb01de6d880b）の l. 8034〜11166。Bernard は 1927 年没。M. L. McClure と C. L. Feltoe の訳（1919）は、序によれば訳文の大半が George Herbert の訳で、Herbert の没年が確かめられないので使わない（本の `research/sources.md`）。
 - 揃える本：cyril-mystagogical-catecheses（典礼の語彙）。後期ラテン語の口語的な文で、文体は手紙の語りかけ（dominae sorores への呼びかけ）を保つ。地名はシナイ、エジプト、エデッサなど多いので、表記を本の AGENTS.md に表で決める。
-- 底本には欄外に章（太字）と節の番号があるので、節は底本の番号どおりに切る（split-units は使わない）。17 ページ。各章の始まりの OCR の行は本の `research/sources.md` の表にある。画像の番号：IIIF＝印刷ページ＋56、archive.org の `page/nN_w1600.jpg` は N＝印刷ページ＋55。
+- 底本には欄外に章（太字）と節の番号があるので、節は底本の番号どおりに切る（split-units は使わない）。17 ページ。各章の始まりの OCR の行は本の `research/sources.md` の表にある。画像の番号：IIIF＝印刷ページ＋56（推定。IIIF は応答せず未確認）、archive.org の `page/nN_w1600.jpg` は N＝印刷ページ＋55。
 - 底本テキスト（`research/geyer-1898.txt`）は、本を始めたときに最初のページの 1〜3 章を起こした。次のページからは、各ページのセッションが page-context を作る前に、そのページの章を画像から起こして足す（本の AGENTS.md の「底本の扱い」）。
 
 ## gregory-nazianzen-theological-orations　ナジアンゾスのグレゴリオス『神学講話』（第 27〜31 講話、ギリシア語）
