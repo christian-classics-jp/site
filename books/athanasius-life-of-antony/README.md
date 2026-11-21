@@ -34,7 +34,7 @@ node tools/split-units.js <起こした章のファイル> books/athanasius-life
 | chapter-58-62 | 58〜62 章 | [x] |
 | chapter-63-66 | 63〜66 章 | [x] |
 | chapter-67-71 | 67〜71 章 | [x] |
-| chapter-72-75 | 72〜75 章 | [ ] |
+| chapter-72-75 | 72〜75 章 | [x] |
 | chapter-76-80 | 76〜80 章 | [ ] |
 | chapter-81-84 | 81〜84 章 | [ ] |
 | chapter-85-88 | 85〜88 章 | [ ] |
