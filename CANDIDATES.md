@@ -39,14 +39,14 @@
 |---|---|---|---|---|
 | アタナシオス『アントニオス伝』 | ギリシア語 | PG 26（archive.org `patrologiae_cursus_completus_gr_vol_026`）。本文は OCR の l. 68406（序 Ἀγαθὴν ἅμιλλαν）から l. 78435 ごろ（94 章の結び）まで。約 20,000 語 | NPNF 2-4（l. 26842） | 既訳の『神のことばの受肉』と同じ著者 |
 | エルサレムのキュリロス『秘義教話』 | ギリシア語 | PG 33（archive.org `patrologiae_cursus_completus_gr_vol_033`）。第 1 講は OCR の l. 82263 ごろ、第 2〜5 講の題は l. 83136、83816、84534、85398 | NPNF 2-7（l. 20557） | 5 講と短い |
-| エゲリア『巡礼記』 | ラテン語 | Geyer 編、Itinera Hierosolymitana（CSEL 39、1898。archive.org `itinerahierosoly00geye`）。冒頭の欠けた本文は OCR の l. 4790（ostendebantur iuxta scripturas）から | M. L. McClure と C. L. Feltoe の英訳（1919。archive.org `pilgrimageofethe00mccliala`。McClure は 1918 年没、Feltoe は没年未確認） | 編者 Geyer の没年未確認。4 世紀末のエルサレムの典礼の記録。『秘義教話』と同じ町、同じころ |
+| エゲリア『巡礼記』 | ラテン語 | Geyer 編、Itinera Hierosolymitana（CSEL 39、1898。archive.org `itinerahierosoly00geye`）。冒頭の欠けた本文は OCR の l. 4790（ostendebantur iuxta scripturas）から | M. L. McClure と C. L. Feltoe の英訳（1919。archive.org `pilgrimageofethe00mccliala`。McClure は 1918 年没、Feltoe は 1926 年没（CCEL の著者ページ）） | 編者 Geyer は図書館の書誌で 1852 年生まれ（没年は見つからないが、生年から日本でも権利は切れている）。4 世紀末のエルサレムの典礼の記録。『秘義教話』と同じ町、同じころ |
 | キプリアヌス小品集 II（『死を免れぬことについて』『デメトリアヌスへ』『善行と施しについて』『忍耐の益について』『ねたみと嫉妬について』『処女の身なりについて』） | ラテン語 | Hartel 編（CSEL 3.1、1868。`sthascicaecilic00hartgoog`、cache にある）。題は OCR の l. 13794、16171、17164、18257、19177、8998 | ANF 5（l. 46680、45596、47359、48156、48876、42841） | 既訳の小品集の続き。『忍耐の益について』はテルトゥリアヌス『忍耐について』を下敷きにする |
 | テルトゥリアヌス小品集 II（『魂の証言について』『スカプラへ』『忍耐について』『悔い改めについて』） | ラテン語 | Oehler 編 I（1853。`quintiseptimiifl0001fanc`、cache にある）。柱の見出しは OCR の l. 49619、65357、71590、78381 ごろから | ANF 3（l. 15845、8665、69862、65143） | 既訳の小品集と同じ底本の巻。キプリアヌス小品集 II の前に訳すと訳語を引き継げる |
 | ノウァティアヌス『三位一体について』 | ラテン語 | Fausset 編（Cambridge, 1909。archive.org `novatianiromanae00novauoft`）。本文は OCR の l. 2541 から | ANF 5（l. 61065） | 編者の没年未確認 |
 | スルピキウス・セウェルス『マルティヌス伝』 | ラテン語 | Halm 編（CSEL 1、1866。archive.org `sulpiciiseveril00halmgoog`）。OCR の l. 6037 から | NPNF 2-11（l. 212） | 編者 Halm の没年は書誌になく未確認。西方の最初の聖人伝の一つ |
-| レランスのウィンケンティウス『備忘録』 | ラテン語 | Moxon 編（Cambridge, 1915。archive.org `commonitoriumofv00vinc`）。本文は OCR の l. 3599 から | NPNF 2-11（l. 11036） | 編者 Moxon の没年未確認。「どこでも、いつも、すべての人に信じられてきたこと」の出典 |
+| レランスのウィンケンティウス『備忘録』 | ラテン語 | Jülicher 編（Freiburg, 1895。archive.org `vincenzvonlerin00jlgoog`。編者は 1938 年没）。本文は OCR の l. 794 から | NPNF 2-11（l. 11036） | Moxon 編（Cambridge, 1915。`commonitoriumofv00vinc`）は編者の没年未確認なので使わない。「どこでも、いつも、すべての人に信じられてきたこと」の出典 |
 | ニュッサのグレゴリオス『教理大講話』 | ギリシア語 | Srawley 編（Cambridge, 1903。archive.org `TheCatecheticalOrationOf`） | NPNF 2-5（l. 42016） | 編者 Srawley は 1954 年没。同じ版の別のスキャン `thecatecheticalo00greguoft` は、ギリシア語がラテン文字に化けていて使えない |
-| ヨアンネス・クリュソストモス『司祭職について』 | ギリシア語 | Nairn 編（Cambridge, 1906。archive.org `desacerdotioofst00john`） | NPNF 1-9（第 1 巻の見出し l. 1866） | 編者 Nairn の没年未確認。OCR はアクセントの抜けが多い。画像から起こす |
+| ヨアンネス・クリュソストモス『司祭職について』 | ギリシア語 | PG 48（archive.org `patrologiae_cursus_completus_gr_vol_048`）。題は OCR の l. 13294 | NPNF 1-9（第 1 巻の見出し l. 1866） | Nairn 編（Cambridge, 1906。`desacerdotioofst00john`）は編者の没年未確認（書誌は 1874 年生まれとだけ）なので底本にしない。PG 48 のスキャンはギリシア語だけのページが続き、画像は読める |
 | アレクサンドリアのディオニュシオスの手紙 | ギリシア語 | Feltoe 編（Cambridge, 1904。archive.org `lettersandother00diongoog`） | ANF 6（l. 7067） | 編者 Feltoe の没年未確認。エウセビオスに引かれた手紙が中心で、断片が多い |
 | パトリキウス『告白』 | ラテン語 | White 編（1918。archive.org `librisanctipatr00patr`）。本文は OCR の l. 178 から。編者 White は 1936 年没 | 確かめていない | 保留。権利の切れた英訳を確かめるまで |
 
@@ -92,6 +92,8 @@ PG の 2 冊は、前は「OCR が崩れていて別の底本が要る」とし�
 | Fausset『三位一体について』の OCR | `cache/archive.org/novatianiromanae00novauoft/…_djvu.txt` | 1755326f9199f246 |
 | Hill『ポルフュリオス伝』英訳の OCR | `cache/archive.org/lifeofporphyrybi00marcuoft/…_djvu.txt` | e8bbdf93efedc2de |
 | McClure と Feltoe『エゲリアの巡礼』英訳の OCR | `cache/archive.org/pilgrimageofethe00mccliala/…_djvu.txt` | 81386cbed0938819 |
+| PG 48 の OCR | `cache/archive.org/patrologiae_cursus_completus_gr_vol_048/…_djvu.txt` | a8f68c950d55b132 |
+| Jülicher『備忘録』の OCR | `cache/archive.org/vincenzvonlerin00jlgoog/…_djvu.txt` | 65af01b501db6ca7 |
 
 ## 取得済みの原文（2 世紀）
 
