@@ -24,10 +24,10 @@
 
 - 本を始めたときに起こしたのは、最初のページの 1〜3 章（1.1〜3.8）。各ページのセッションは、page-context を作る前に、そのページの章を画像（`pages.json` の `images`）から起こし、`<章>.<節> <本文>` の行にして `research/geyer-1898.txt` の末尾に足す。起こさないと page-context は空の抜粋を書き出す。
 - 手順：`node tools/ocr-lines.js` で pages.json の `print` の行から本文の行（柱、聖書の箇所、校注を除いた範囲）を拾って下書きにし、節の始まりで行に分け、画像を見ながら `node tools/replace.js` の短い組で直す（本文を一度に書き出さない）。直し終えたら、語の列を OCR と比べ、違いがみな OCR の読み誤りか行番号・写本のページの印の混入であることを確かめる。どの画像をどの範囲で読んだか、OCR と違ったところは `research/sources.md` の画像の行に書き足す。
-- 画像の番号：IIIF の番号＝印刷ページ＋56（0093＝p. 37）。archive.org のページ画像 `https://archive.org/download/itinerahierosoly00geye/page/nN_w1600.jpg` は N＝印刷ページ＋55（n92＝p. 37）で、`node tools/fetch.js` で `cache/archive.org/itinerahierosoly00geye/page/` に取る。1 ページの本文は 30 行ほどで、`node tools/image.js crop <画像> pct:0,y,100,h <出力先>` で縦に 3 回ほどに分けて切ると読める。小さい句読点は `--scale 1.3` ほどで拡大して確かめる（コンマとピリオドを OCR はよく取り違える）。
+- 画像の番号：IIIF の番号＝印刷ページ＋56（0093＝p. 37）は、ページ番号の対応表の leafNum と lactantius の例からの推定で、IIIF の画像では確かめていない（本を始めた日、IIIF は 3 分たっても応答しなかった）。確かめたのは次のページ画像の式。archive.org のページ画像 `https://archive.org/download/itinerahierosoly00geye/page/nN_w1600.jpg` は N＝印刷ページ＋55（n92＝p. 37）で、`node tools/fetch.js` で `cache/archive.org/itinerahierosoly00geye/page/` に取る。1 ページの本文は 30 行ほどで、`node tools/image.js crop <画像> pct:0,y,100,h <出力先>` で縦に 3 回ほどに分けて切ると読める。小さい句読点は `--scale 1.3` ほどで拡大して確かめる（コンマとピリオドを OCR はよく取り違える）。
 - ページの組み：上が本文、その下に聖書の箇所（8 cf. Num. 11, 34 のように、行番号と箇所）、その下に校注。OCR は本文の行に行番号（5、10 … を io、lo、ao、i5 などと読む）、節の番号、写本のページの印を混ぜる。
 - 起こすのは本文だけ。章と節の番号、行番号、柱、聖書の箇所、校注は起こさない。本文の中の縦線 `|`（2.5 の illorum | omnium、3.4 の ueniens | de）と、欄外の角括弧の数字（[31]、[33] など。行の途中の縦線に対応する）も起こさない。写本のページの境の印で、底本の校注 l. 4823 が、欄外の角括弧の数字は写本のページを示すと言う。行末で分けられた語はつなぐ。
-- 綴り、大文字・小文字、句読点は刷られたとおり。底本は写本の後期ラテン語の綴りと語形をそのまま刷る（1.1 の uallem infinitam ingens、1.2 の per ualle illa、2.5 の per giro、2.4 の plecaremus、3.4 の ascitis）。古典ラテン語の形に直さない。底本は u と v を分けずに u と刷り（uallem、uidetur）、大文字は文の初めと固有名と Deus、Dominus などに使う。文の初めでも小文字で刷るところ（2.5 の sed totum、2.7 の tamen uideri）はそのまま起こす。
+- 綴り、大文字・小文字、句読点は刷られたとおり。底本は写本の後期ラテン語の綴りと語形をそのまま刷る（1.1 の uallem infinitam ingens、1.2 の per ualle illa、2.5 の per giro、2.4 の plecaremus、3.4 の ascitis）。古典ラテン語の形に直さない。底本は u と v を分けずに u と刷り（uallem、uidetur）、大文字は文の初めと固有名と Deus、Dominus などに使う。OCR がピリオドと読んで小文字が続くところ（2.5 の sunt. sed、2.7 の Domini. tamen）は、ほぼコンマの読み誤りなので、画像で確かめる。
 - 底本の山括弧（2.3 の ⟨quia⟩。校注 l. 4869 に quia ipse addidi）は、編者が写本にない語を補ったもの。底本テキストでは `⟨ ⟩`（U+27E8、U+27E9）にして起こし（『迫害者たちの死について』と同じ）、訳は補いに従う。補いが訳の意味を決めるところは `// ` メモに補いであることを書く。
 - 底本の角括弧（20 章の終わり、p. 68 の 2 行目の monachorum aliquando [aliquando]。校注 l. 6315 に aliquando aliquando dittographia A）は、編者が取り除くべきとみた語なので、底本テキストに残して訳さず、`// ` メモに書く。
 - 底本の点線（29.1 の septimanarum .... uigiliae）は、編者が示した脱落の印。底本テキストには刷られた数のまま残す。訳は欠けた語を補わず、読者の理解が変わるところは訳注で語が欠けていることを示す。
@@ -55,7 +55,7 @@
 | clerici | 聖職者たち |
 | monachus / monasterium | 修道士／修道の住まい（『アントニオス伝』と同じ。この時代のものは独りか少人数で住む庵で、後の大きな修道院と分ける） |
 | ascitis（ἀσκητής） | 修行者（3.4 の ut hic dicunt ascitis は「ここで言う修行者」） |
-| sanctus（人の） | 聖なる（3.4 の deductores sancti illi「あの聖なる案内人たち」）。人名に付くとき（sanctus Moyses）は「聖なるモーセ」。「聖〜」と称号にしない |
+| sanctus（人の） | 聖なる（1.2 の deductores sancti illi「あの聖なる案内人たち」）。人名に付くとき（2.2 の sanctus Moyses）は「聖なるモーセ」。「聖〜」と称号にしない |
 | ecclesia | 教会（建物も） |
 | oblatio / oblationem facere / offero | ささげ物／ささげ物をささげる／ささげる（『秘義教話』の θυσία「ささげ物」、προσφέρω「ささげる」に合わせる） |
 | communico | 聖餐にあずかる（3.6 の communicantibus nobis、3.7 の communicaueramus。『秘義教話』の κοινωνέω「あずかる」） |
@@ -82,7 +82,7 @@
 
 ## 名前の表
 
-口語訳にある名前は口語訳の表記にする（`node tools/bible.js` で確かめた）。ほかの名前は初めて出るページで決めて足す。
+口語訳にある名前は口語訳の表記にする（`node tools/bible.js` で確かめた）。原語の欄の綴りは底本の OCR（l. 4790〜7852）で見つかったもの。OCR で見つからなかった地名（タニス、アイノンなど。Bernard の英訳はタニスに当たる町を Taphnis と読む）と、ほかの名前は、初めて出るページで画像から綴りを確かめて足す。
 
 | 原語 | 訳 |
 |---|---|
@@ -100,23 +100,21 @@
 | Saraceni | サラセン人 |
 | Alexandria | アレキサンドリヤ（口語訳） |
 | terra Gesse | ゴセンの地（口語訳創世記四五・一〇） |
-| Ramesses | ラメセス（口語訳民数記三三・五） |
+| Ramesse / Ramessen（OCR では Kamesse、Kamessen と崩れる） | ラメセス（口語訳民数記三三・五） |
 | Pithona / Socchoth / Oton | ピトム（口語訳出エジプト一・一一）／スコテ／エタム（口語訳民数記三三・五〜六） |
-| Magdalum / Epauleum（Pi-hahiroth） / Beelsefon | ミグドル／ピハヒロテ／バアル・ゼポン（口語訳民数記三三・七。底本の形がどの地名に当たるかは、ページを訳すときに確かめる） |
-| Tanis | ゾアン（口語訳詩篇七八・一二） |
+| Magdalum / Epauleum / Belsefon | ミグドル／ピハヒロテ（Epauleum が当たるかは未確認）／バアル・ゼポン（口語訳民数記三三・七。底本の綴りは Belsefon のほか Belsepbon、Belsephon と OCR に出る。どの形をどの地名に当てるかは、ページを訳すときに画像と校注で確かめる） |
 | Nabau / Arabot | ネボ山（口語訳申命記三四・一）／（ページを訳すときに決める） |
 | Iericho / Iordanis | エリコ／ヨルダン |
 | Fogor | ペオル（口語訳民数記二三・二八） |
 | Segor | ゾアル（口語訳創世記一九・二二） |
-| Ausitis / Iob | ウヅの地（口語訳ヨブ記一・一）／ヨブ |
+| Ausitis（底本は Ausitidem、Ausitidi） / Iob | ウヅの地（口語訳ヨブ記一・一）／ヨブ |
 | Melchisedech / Salem | メルキゼデク／サレム（口語訳創世記一四・一八） |
-| Aenon | アイノン（口語訳ヨハネ三・二三） |
 | Helias Thesbites / Corra（Cherith） | テシベびとエリヤ（口語訳列王紀上一七・一）／ケリテ（口語訳列王紀上一七・三。底本の綴りはページを訳すときに確かめる） |
 | Edessa / Aggarus | エデッサ／アブガル（エデッサの王。底本の綴りは Aggarus） |
 | Mesopotamia / Syria | メソポタミヤ／スリヤ（口語訳） |
 | Eufrates | ユフラテ（口語訳創世記一五・一八） |
-| Charrae（Charra） | ハラン（口語訳創世記一一・三一。底本の Charrae は当時の名。訳では「カラエ（ハラン）」とするかを、ページを訳すときに決める） |
-| Abraham / Nachor / Bathuhel / Rebecca / Laban / Iacob / Rachel | アブラハム／ナホル／ベトエル／リベカ／ラバン／ヤコブ／ラケル（口語訳） |
+| Charra（Charram、Charris） | ハラン（口語訳創世記一一・三一。底本の Charra は当時の名。訳では「カラエ（ハラン）」とするかを、ページを訳すときに決める） |
+| Abraham / Naor（Nachor） / Bathuhel（Bathuhelem、Bathuhelis） / Laban / Iacob / Rachel | アブラハム／ナホル／ベトエル／ラバン／ヤコブ／ラケル（口語訳。リベカの綴りは OCR で見つかっていないので、ページを訳すときに確かめる） |
 | Antiochia / Tharsus / Cilicia | アンテオケ／タルソ／キリキヤ（口語訳） |
 | Efesus | エペソ（口語訳） |
 | Ierusolima | エルサレム |
