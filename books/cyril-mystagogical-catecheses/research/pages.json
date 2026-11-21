@@ -37,7 +37,7 @@
     {
       "id": "05-catechesis-5-1",
       "spec": "5.0-5.10",
-      "english": "cache/ccel.org/npnf207.txt:21590-21699",
+      "english": "cache/ccel.org/npnf207.txt:21590-21699; cache/ccel.org/npnf207.txt:21829-22096",
       "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_033/patrologiae_cursus_completus_gr_vol_033_djvu.txt:85395-86390",
       "images": "patrologiae_cursus_completus_gr_vol_033:0561-0567"
     },
