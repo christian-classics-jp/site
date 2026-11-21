@@ -15,7 +15,7 @@
 | 節 | 範囲 | 訳 |
 |---|---|---|
 | 01-catechesis-1 | 第 1 講 | [x] |
-| 02-catechesis-2 | 第 2 講 | [ ] |
+| 02-catechesis-2 | 第 2 講 | [x] |
 | 03-catechesis-3 | 第 3 講 | [ ] |
 | 04-catechesis-4 | 第 4 講 | [ ] |
 | 05-catechesis-5-1 | 第 5 講 0〜10 節 | [ ] |
