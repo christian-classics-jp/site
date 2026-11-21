@@ -14,21 +14,24 @@
 
 - 「電子テキスト」：First1KGreek の TEI（CC BY-SA 4.0）から底本テキストを作れる本。語数は TEI の本文のギリシア語の語を数えたもの（注を除く）。訳のライセンスは `CC BY-SA` になる。
 - 「スキャン」：印刷版の画像から起こす本。行番号は archive.org の OCR（`_djvu.txt`）のもの。
-- 英訳の巻は、すべて `cache/ccel.org/` にあり、作品の見出しの行を確かめた。
+- ANF・NPNF の巻はすべて `cache/ccel.org/` にある。表の行番号は、その巻で作品の見出しが出る行。
+- 権利は、この本の決まりどおり訳者・編者の没年で判断する。没年は archive.org の書誌（creator の欄）で確かめたものだけを書き、書誌にないものは「没年未確認」とした。
 
 ### 電子テキストのある本（ギリシア語）
 
 | 作品 | 底本 | 語数 | 英訳 | 備考 |
 |---|---|---|---|---|
-| アテナゴラス『死者の復活について』 | Otto 編（Jena, 1857）。`tlg1205.tlg002.perseus-grc1` | 約 8,800 | ANF 2（l. 13607） | 既訳の『キリスト教徒のための嘆願』と同じ著者、同じ底本の版。最も手間が少ない |
+| アテナゴラス『死者の復活について』 | Otto 編（Jena, 1857）。`tlg1205.tlg002.perseus-grc1` | 約 8,800 | ANF 2（l. 13607） | 既訳の『キリスト者のための弁明』と同じ著者。Otto 1857 は、その本で読み比べに使った版（弁明の底本は March & Owen 1876）。TEI の本文はきれいで、最も手間が少ない |
 | エウセビオス『パレスティナの殉教者』（短い形） | Dindorf 編（Teubner, 1871）。`tlg2018.tlg003.1st1K-grc1` | 約 7,900 | NPNF 2-1（l. 43605） | ディオクレティアヌスの迫害の目撃記。『迫害者たちの死について』と同じ時代 |
-| オリュンポスのメトディオス『饗宴（十人の乙女）』 | Bonwetsch 編（GCS 27、1917）。`tlg2959.tlg001.opp-grc1` | 約 28,400 | ANF 6（l. 28899） | 対話篇。同じ版の『自由意志について』（`tlg2959.tlg002`、約 7,300 語、ANF 6 l. 33809）もある |
+| オリュンポスのメトディオス『饗宴（十人の乙女）』 | Bonwetsch 編（GCS 27、1917）。`tlg2959.tlg001.opp-grc1` | 約 28,400 | ANF 6（l. 28899） | 対話篇。TEI にはアクセントや文字の読み誤りが残る（印刷版との照合で直す）。同じ版の『自由意志について』（`tlg2959.tlg002`、約 7,300 語、ANF 6 l. 33809）もある |
 | ナジアンゾスのグレゴリオス『神学講話』（第 27〜31 講話） | Mason 編（Cambridge, 1899）。`tlg2022.tlg007`〜`tlg011` | 計約 25,300 | NPNF 2-7（l. 31377 から） | 4 世紀の三位一体論の古典。5 講で区切りやすい |
 | 助祭マルコス『ガザのポルフュリオス伝』 | ボン大学の文献学会編（Teubner, 1895）。`tlg2806.tlg001.1st1K-grc1` | 約 22,200 | G. F. Hill の英訳（Oxford, 1913、訳者は 1948 年没。archive.org `lifeofporphyrybi00marcuoft`） | 5 世紀初めの聖人伝。TEI は月形のシグマ（ϲ）で書かれ、行末の分綴が残る |
 | 『トマス行伝』 | Bonnet 編（1903）。`tlg2038.tlg001.1st1K-grc1` | 約 28,900 | ANF 8（l. 48911、一部の訳） | 外典の使徒行伝。ANF の訳が全体を覆うかは確かめていない。同じ版の『ピリポ行伝』（約 16,200 語）もある |
-| アレクサンドリアのクレメンス『教育者』 | Stählin 編（GCS 12、1905）。`tlg0555.tlg002.1st1K-grc1` | 約 57,300 | ANF 2 | 既訳の『ギリシア人への勧め』と同じ巻。長い |
+| アレクサンドリアのクレメンス『教育者』 | Stählin 編（GCS 12、1905）。`tlg0555.tlg002.1st1K-grc1` | 約 57,300 | ANF 2（第 1 巻の見出し l. 7639） | 既訳の『ギリシア人への勧め』と同じ巻。長い |
 
-『ヨハネ行伝』（`tlg0317.tlg001`、Bonnet 1898、約 12,400 語）は、本文がドミティアヌス帝の話から始まる後代の形で、ANF 8 の訳（l. 51095）もこの形である。古い行伝の部分をどこまで含むかは確かめていないので、候補には入れていない。First1KGreek の『ニカイア公会議の決定について』（`tlg2035.tlg003`）は、ゲラシオスの教会史に引かれた抜粋だけ（約 1,200 語）で、全文ではない。
+『ヨハネ行伝』（`tlg0317.tlg001`、Bonnet 1898、約 12,400 語）は、本文がドミティアヌス帝の話から始まる後代の形で、ANF 8 の「Acts of the Holy Apostle and Evangelist John the Theologian」（l. 51095）が同じ部分かは確かめていない。古い行伝の部分をどこまで含むかは確かめていないので、候補には入れていない。First1KGreek の『ニカイア公会議の決定について』（`tlg2035.tlg003`）は、ゲラシオスの教会史に引かれた抜粋だけ（約 1,200 語）で、全文ではない。
+
+目録にはあるが、長いので今回は開いていないもの：エウセビオス『教会史』『コンスタンティヌスの生涯』（英訳は NPNF 2-1）、アタナシオス『アレイオス派駁論』I〜III、偽クレメンス『講話集』、ヒッポリュトス『全異端反駁』。
 
 ### スキャンから起こす本
 
@@ -36,22 +39,22 @@
 |---|---|---|---|---|
 | アタナシオス『アントニオス伝』 | ギリシア語 | PG 26（archive.org `patrologiae_cursus_completus_gr_vol_026`）。本文は OCR の l. 68406（序 Ἀγαθὴν ἅμιλλαν）から l. 78435 ごろ（94 章の結び）まで。約 20,000 語 | NPNF 2-4（l. 26842） | 既訳の『神のことばの受肉』と同じ著者 |
 | エルサレムのキュリロス『秘義教話』 | ギリシア語 | PG 33（archive.org `patrologiae_cursus_completus_gr_vol_033`）。第 1 講は OCR の l. 82263 ごろ、第 2〜5 講の題は l. 83136、83816、84534、85398 | NPNF 2-7（l. 20557） | 5 講と短い |
-| エゲリア『巡礼記』 | ラテン語 | Geyer 編、Itinera Hierosolymitana（CSEL 39、1898。archive.org `itinerahierosoly00geye`）。冒頭の欠けた本文は OCR の l. 4790（ostendebantur iuxta scripturas）から | M. L. McClure と C. L. Feltoe の英訳（1919。archive.org `pilgrimageofethe00mccliala`。McClure は 1918 年、Feltoe は 1926 年没） | 4 世紀末のエルサレムの典礼の記録。『秘義教話』と同じ町、同じころ |
-| キプリアヌス小品集 II（『死を免れぬことについて』『デメトリアヌスへ』『善行と施しについて』『忍耐の益について』『ねたみと嫉妬について』『処女の身なりについて』） | ラテン語 | Hartel 編（CSEL 3.1、1868。`sthascicaecilic00hartgoog`、cache にある）。題は OCR の l. 13794、16171、17164、18257、19177、8998 | ANF 5 | 既訳の小品集の続き。『忍耐の益について』はテルトゥリアヌス『忍耐について』を下敷きにする |
-| テルトゥリアヌス小品集 II（『魂の証言について』『スカプラへ』『忍耐について』『悔い改めについて』） | ラテン語 | Oehler 編 I（1853。`quintiseptimiifl0001fanc`、cache にある）。柱の見出しは OCR の l. 49619、65357、71590、78381 ごろから | ANF 3 | 既訳の小品集と同じ底本の巻。キプリアヌス小品集 II の前に訳すと訳語を引き継げる |
-| ノウァティアヌス『三位一体について』 | ラテン語 | Fausset 編（Cambridge, 1909。archive.org `novatianiromanae00novauoft`）。本文は OCR の l. 2541 から | ANF 5 | 編者の没年は確かめていない |
-| スルピキウス・セウェルス『マルティヌス伝』 | ラテン語 | Halm 編（CSEL 1、1866。archive.org `sulpiciiseveril00halmgoog`）。OCR の l. 6037 から | NPNF 2-11 | 西方の最初の聖人伝の一つ |
-| レランスのウィンケンティウス『備忘録』 | ラテン語 | Moxon 編（Cambridge, 1915。archive.org `commonitoriumofv00vinc`）。本文は OCR の l. 3599 から | NPNF 2-11 | 「どこでも、いつも、すべての人に信じられてきたこと」の出典 |
-| ニュッサのグレゴリオス『教理大講話』 | ギリシア語 | Srawley 編（Cambridge, 1903。archive.org `TheCatecheticalOrationOf`） | NPNF 2-5 | 同じ版の別のスキャン `thecatecheticalo00greguoft` は、ギリシア語がラテン文字に化けていて使えない |
-| ヨアンネス・クリュソストモス『司祭職について』 | ギリシア語 | Nairn 編（Cambridge, 1906。archive.org `desacerdotioofst00john`） | NPNF 1-9 | OCR はアクセントの抜けが多い。画像から起こす |
-| アレクサンドリアのディオニュシオスの手紙 | ギリシア語 | Feltoe 編（Cambridge, 1904。archive.org `lettersandother00diongoog`） | ANF 6 | エウセビオスに引かれた手紙が中心で、断片が多い |
-| パトリキウス『告白』 | ラテン語 | White 編（1918。archive.org `librisanctipatr00patr`）。本文は OCR の l. 178 から | 確かめていない | 保留。権利の切れた英訳を確かめるまで |
+| エゲリア『巡礼記』 | ラテン語 | Geyer 編、Itinera Hierosolymitana（CSEL 39、1898。archive.org `itinerahierosoly00geye`）。冒頭の欠けた本文は OCR の l. 4790（ostendebantur iuxta scripturas）から | M. L. McClure と C. L. Feltoe の英訳（1919。archive.org `pilgrimageofethe00mccliala`。McClure は 1918 年没、Feltoe は没年未確認） | 編者 Geyer の没年未確認。4 世紀末のエルサレムの典礼の記録。『秘義教話』と同じ町、同じころ |
+| キプリアヌス小品集 II（『死を免れぬことについて』『デメトリアヌスへ』『善行と施しについて』『忍耐の益について』『ねたみと嫉妬について』『処女の身なりについて』） | ラテン語 | Hartel 編（CSEL 3.1、1868。`sthascicaecilic00hartgoog`、cache にある）。題は OCR の l. 13794、16171、17164、18257、19177、8998 | ANF 5（l. 46680、45596、47359、48156、48876、42841） | 既訳の小品集の続き。『忍耐の益について』はテルトゥリアヌス『忍耐について』を下敷きにする |
+| テルトゥリアヌス小品集 II（『魂の証言について』『スカプラへ』『忍耐について』『悔い改めについて』） | ラテン語 | Oehler 編 I（1853。`quintiseptimiifl0001fanc`、cache にある）。柱の見出しは OCR の l. 49619、65357、71590、78381 ごろから | ANF 3（l. 15845、8665、69862、65143） | 既訳の小品集と同じ底本の巻。キプリアヌス小品集 II の前に訳すと訳語を引き継げる |
+| ノウァティアヌス『三位一体について』 | ラテン語 | Fausset 編（Cambridge, 1909。archive.org `novatianiromanae00novauoft`）。本文は OCR の l. 2541 から | ANF 5（l. 61065） | 編者の没年未確認 |
+| スルピキウス・セウェルス『マルティヌス伝』 | ラテン語 | Halm 編（CSEL 1、1866。archive.org `sulpiciiseveril00halmgoog`）。OCR の l. 6037 から | NPNF 2-11（l. 212） | 編者 Halm の没年は書誌になく未確認。西方の最初の聖人伝の一つ |
+| レランスのウィンケンティウス『備忘録』 | ラテン語 | Moxon 編（Cambridge, 1915。archive.org `commonitoriumofv00vinc`）。本文は OCR の l. 3599 から | NPNF 2-11（l. 11036） | 編者 Moxon の没年未確認。「どこでも、いつも、すべての人に信じられてきたこと」の出典 |
+| ニュッサのグレゴリオス『教理大講話』 | ギリシア語 | Srawley 編（Cambridge, 1903。archive.org `TheCatecheticalOrationOf`） | NPNF 2-5（l. 42016） | 編者 Srawley は 1954 年没。同じ版の別のスキャン `thecatecheticalo00greguoft` は、ギリシア語がラテン文字に化けていて使えない |
+| ヨアンネス・クリュソストモス『司祭職について』 | ギリシア語 | Nairn 編（Cambridge, 1906。archive.org `desacerdotioofst00john`） | NPNF 1-9（第 1 巻の見出し l. 1866） | 編者 Nairn の没年未確認。OCR はアクセントの抜けが多い。画像から起こす |
+| アレクサンドリアのディオニュシオスの手紙 | ギリシア語 | Feltoe 編（Cambridge, 1904。archive.org `lettersandother00diongoog`） | ANF 6（l. 7067） | 編者 Feltoe の没年未確認。エウセビオスに引かれた手紙が中心で、断片が多い |
+| パトリキウス『告白』 | ラテン語 | White 編（1918。archive.org `librisanctipatr00patr`）。本文は OCR の l. 178 から。編者 White は 1936 年没 | 確かめていない | 保留。権利の切れた英訳を確かめるまで |
 
-PG の 2 冊は、前は「OCR が崩れていて別の底本が要る」としていた。確かめ直したところ、ギリシア語の欄の OCR は、訳し終えたヒッポリュトスの本の底本と同じくらい読める。κ を χ、β を δ と読む崩れはあるが、章や節の番号も拾える。ラテン語訳の欄は崩れているが、使わない。PG 26 のページ画像は IIIF で取れた（leaf 0430）。底本の文は、ヒッポリュトスと同じく画像から起こせばよい。エルサレムのキュリロスの Reischl と Rupp の版（1848〜1860）は、archive.org では見つからなかった。
+PG の 2 冊は、前は「OCR が崩れていて別の底本が要る」としていた。確かめ直したところ、ギリシア語の欄の OCR は、訳し終えたヒッポリュトスの本の底本と同じくらい読める。κ を χ、β を δ と読む崩れはあるが、章や節の番号も拾える。ラテン語訳の欄は崩れているが、使わない。PG 26 と PG 33 のページ画像は IIIF で取れた（leaf 0430、0550）。底本の文は、ヒッポリュトスと同じく画像から起こせばよい。エルサレムのキュリロスの Reischl と Rupp の版（1848〜1860）は、archive.org では見つからなかった。
 
 ## 取得済みの資料（2026-11-21）
 
-上の表のために取得したもの。訳し始めるときに、使うものをその本の `research/sources.md` に移す。First1KGreek は `https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/<パス>` から取った（権利は CC BY-SA 4.0、パスは下の表で `F1K/` と略す）。archive.org の OCR は `https://archive.org/download/<識別子>/<識別子>_djvu.txt` から、CCEL は `https://ccel.org/ccel/schaff/<巻>/cache/<巻>.txt` から取った。archive.org と CCEL のものは、どれも 1930 年より前に刊行された本で、パブリックドメインである。取得日はすべて 2026-11-21。
+上の表のために取得したもの。訳し始めるときに、使うものをその本の `research/sources.md` に移す。First1KGreek は `https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/<パス>` から取った（権利は CC BY-SA 4.0、パスは下の表で `F1K/` と略す）。archive.org の OCR は `https://archive.org/download/<識別子>/<識別子>_djvu.txt` から、CCEL は `https://ccel.org/ccel/schaff/<巻>/cache/<巻>.txt` から取った。archive.org と CCEL のものは、どれも 1930 年より前の刊行で、米国ではパブリックドメインである。日本での権利は、上の表の没年で判断する。取得日はすべて 2026-11-21。
 
 | 資料 | `cache/` のパス | SHA-256 先頭 16 桁 |
 |---|---|---|
