@@ -37,7 +37,6 @@
 
 | 作品 | 原語 | 底本 | 英訳 | 備考 |
 |---|---|---|---|---|
-| アタナシオス『アントニオス伝』 | ギリシア語 | 翻訳中（`books/athanasius-life-of-antony/`）。PG 26（archive.org `patrologiae_cursus_completus_gr_vol_026`）。本文は OCR の l. 68406（序 Ἀγαθὴν ἅμιλλαν）から l. 78435 ごろ（94 章の結び）まで。約 20,000 語 | NPNF 2-4（l. 26842） | 既訳の『神のことばの受肉』と同じ著者 |
 | エルサレムのキュリロス『秘義教話』 | ギリシア語 | PG 33（archive.org `patrologiae_cursus_completus_gr_vol_033`）。第 1 講は OCR の l. 82263 ごろ、第 2〜5 講の題は l. 83136、83816、84534、85398 | NPNF 2-7（l. 20557） | 5 講と短い |
 | エゲリア『巡礼記』 | ラテン語 | Geyer 編、Itinera Hierosolymitana（CSEL 39、1898。archive.org `itinerahierosoly00geye`）。冒頭の欠けた本文は OCR の l. 4790（ostendebantur iuxta scripturas）から | M. L. McClure と C. L. Feltoe の英訳（1919。archive.org `pilgrimageofethe00mccliala`。McClure は 1918 年没、Feltoe は 1926 年没（CCEL の著者ページ）） | 編者 Geyer は図書館の書誌で 1852 年生まれ（没年は見つからないが、生年から日本でも権利は切れている）。4 世紀末のエルサレムの典礼の記録。『秘義教話』と同じ町、同じころ |
 | キプリアヌス小品集 II（『死を免れぬことについて』『デメトリアヌスへ』『善行と施しについて』『忍耐の益について』『ねたみと嫉妬について』『処女の身なりについて』） | ラテン語 | Hartel 編（CSEL 3.1、1868。`sthascicaecilic00hartgoog`、cache にある）。題は OCR の l. 13794、16171、17164、18257、19177、8998 | ANF 5（l. 46680、45596、47359、48156、48876、42841） | 既訳の小品集の続き。『忍耐の益について』はテルトゥリアヌス『忍耐について』を下敷きにする |
