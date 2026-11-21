@@ -18,7 +18,7 @@ node tools/split-units.js <起こした章のファイル> books/athanasius-life
 
 | 節 | 範囲 | 訳 |
 |---|---|---|
-| chapter-00-04 | 序、1〜4 章 | [ ] |
+| chapter-00-04 | 序、1〜4 章 | [x] |
 | chapter-05-07 | 5〜7 章 | [ ] |
 | chapter-08-11 | 8〜11 章 | [ ] |
 | chapter-12-15 | 12〜15 章 | [ ] |
