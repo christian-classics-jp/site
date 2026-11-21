@@ -18,5 +18,5 @@
 | 02-catechesis-2 | 第 2 講 | [x] |
 | 03-catechesis-3 | 第 3 講 | [x] |
 | 04-catechesis-4 | 第 4 講 | [x] |
-| 05-catechesis-5-1 | 第 5 講 0〜10 節 | [ ] |
+| 05-catechesis-5-1 | 第 5 講 0〜10 節 | [x] |
 | 06-catechesis-5-2 | 第 5 講 11〜23 節 | [ ] |
