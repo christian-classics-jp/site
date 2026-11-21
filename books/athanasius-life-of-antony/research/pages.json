@@ -1,0 +1,157 @@
+{
+  "title": "アタナシオス『アントニオス伝』",
+  "language": "ギリシア語",
+  "base": "books/athanasius-life-of-antony/research/pg26.txt",
+  "digitized": false,
+  "english_name": "NPNF 第 2 集第 4 巻の英訳（H. Ellershaw 訳、1892）。章の番号（1〜94）は底本と同じ。序には番号がなく、この訳の 0 章にあたる。節の番号はない。英訳の本文は章ごとに脚注（[985] など）を挟む",
+  "print_name": "PG 26 の印刷版（欄 837〜976。ギリシア語の欄とラテン語訳の欄が並び、下にエウァグリオスのラテン語訳と校注がある。OCR はギリシア語の行のあいだにラテン語の行を挟む）",
+  "pages": [
+    {
+      "id": "chapter-00-04",
+      "spec": "0-4",
+      "english": "cache/ccel.org/npnf204.txt:26975-27153",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:68406-69018",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0435-0439"
+    },
+    {
+      "id": "chapter-05-07",
+      "spec": "5-7",
+      "english": "cache/ccel.org/npnf204.txt:27154-27292",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:69019-69609",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0439-0443"
+    },
+    {
+      "id": "chapter-08-11",
+      "spec": "8-11",
+      "english": "cache/ccel.org/npnf204.txt:27293-27387",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:69610-70190",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0443-0447"
+    },
+    {
+      "id": "chapter-12-15",
+      "spec": "12-15",
+      "english": "cache/ccel.org/npnf204.txt:27388-27483",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:70191-70551",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0447-0449"
+    },
+    {
+      "id": "chapter-16-20",
+      "spec": "16-20",
+      "english": "cache/ccel.org/npnf204.txt:27484-27597",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:70552-71102",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0449-0453"
+    },
+    {
+      "id": "chapter-21-24",
+      "spec": "21-24",
+      "english": "cache/ccel.org/npnf204.txt:27598-27690",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:71103-71642",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0453-0457"
+    },
+    {
+      "id": "chapter-25-28",
+      "spec": "25-28",
+      "english": "cache/ccel.org/npnf204.txt:27691-27784",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:71643-72111",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0457-0460"
+    },
+    {
+      "id": "chapter-29-34",
+      "spec": "29-34",
+      "english": "cache/ccel.org/npnf204.txt:27785-27890",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:72112-72458",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0460-0463"
+    },
+    {
+      "id": "chapter-35-38",
+      "spec": "35-38",
+      "english": "cache/ccel.org/npnf204.txt:27891-27969",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:72459-72938",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0463-0466"
+    },
+    {
+      "id": "chapter-39-43",
+      "spec": "39-43",
+      "english": "cache/ccel.org/npnf204.txt:27970-28229",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:72939-73547",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0466-0470"
+    },
+    {
+      "id": "chapter-44-48",
+      "spec": "44-48",
+      "english": "cache/ccel.org/npnf204.txt:28230-28346",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:73548-73952",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0470-0473"
+    },
+    {
+      "id": "chapter-49-53",
+      "spec": "49-53",
+      "english": "cache/ccel.org/npnf204.txt:28347-28464",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:73953-74430",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0473-0476"
+    },
+    {
+      "id": "chapter-54-57",
+      "spec": "54-57",
+      "english": "cache/ccel.org/npnf204.txt:28465-28570",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:74431-74850",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0476-0479"
+    },
+    {
+      "id": "chapter-58-62",
+      "spec": "58-62",
+      "english": "cache/ccel.org/npnf204.txt:28571-28688",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:74851-75446",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0479-0483"
+    },
+    {
+      "id": "chapter-63-66",
+      "spec": "63-66",
+      "english": "cache/ccel.org/npnf204.txt:28689-28790",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:75447-75755",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0483-0485"
+    },
+    {
+      "id": "chapter-67-71",
+      "spec": "67-71",
+      "english": "cache/ccel.org/npnf204.txt:28791-28900",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:75756-76241",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0485-0488"
+    },
+    {
+      "id": "chapter-72-75",
+      "spec": "72-75",
+      "english": "cache/ccel.org/npnf204.txt:28901-28976",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:76242-76591",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0488-0491"
+    },
+    {
+      "id": "chapter-76-80",
+      "spec": "76-80",
+      "english": "cache/ccel.org/npnf204.txt:28977-29108",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:76592-77087",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0491-0494"
+    },
+    {
+      "id": "chapter-81-84",
+      "spec": "81-84",
+      "english": "cache/ccel.org/npnf204.txt:29109-29266",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:77088-77505",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0494-0497"
+    },
+    {
+      "id": "chapter-85-88",
+      "spec": "85-88",
+      "english": "cache/ccel.org/npnf204.txt:29267-29353",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:77506-77866",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0497-0500"
+    },
+    {
+      "id": "chapter-89-94",
+      "spec": "89-94",
+      "english": "cache/ccel.org/npnf204.txt:29354-29509",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_026/patrologiae_cursus_completus_gr_vol_026_djvu.txt:77867-78446",
+      "images": "patrologiae_cursus_completus_gr_vol_026:0500-0504"
+    }
+  ]
+}

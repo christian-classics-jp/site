@@ -53,7 +53,7 @@ function units (text) {
 
 const existing = fs.existsSync(base) ? fs.readFileSync(base, 'utf8').split('\n').filter(Boolean) : []
 const have = new Set(existing.map((l) => l.split('.', 1)[0]))
-let last = existing.length ? parseInt(existing[existing.length - 1].split('.', 1)[0], 10) : 0
+let last = existing.length ? parseInt(existing[existing.length - 1].split('.', 1)[0], 10) : -1
 
 const out = []
 for (const line of fs.readFileSync(src, 'utf8').split('\n')) {
