@@ -1,0 +1,52 @@
+{
+  "title": "エルサレムのキュリロス『秘義教話』",
+  "language": "ギリシア語",
+  "base": "books/cyril-mystagogical-catecheses/research/pg33.txt",
+  "digitized": false,
+  "english_name": "NPNF 第 2 集第 7 巻の英訳（E. H. Gifford が R. W. Church の旧訳（1838）を改めたもの、1894）。英訳では一連の教話の第 19〜23 講（Lecture XIX〜XXIII）にあたる。節の番号は底本と同じ。講の題と朗読の箇所の指示（この訳の 0 節）には番号がない。行の範囲は講の脚注まで含む。第 5 講の題（On the Sacred Liturgy and Communion）は Benedictine 版の編者が補ったもので、底本のギリシア語にはない",
+  "print_name": "PG 33 の印刷版（欄 1065〜1126。ギリシア語の欄とラテン語訳の欄が並び、下に聖書の箇所と校注がある。OCR はギリシア語の行のあいだにラテン語の行を挟む）",
+  "pages": [
+    {
+      "id": "01-catechesis-1",
+      "spec": "1",
+      "english": "cache/ccel.org/npnf207.txt:20555-20894",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_033/patrologiae_cursus_completus_gr_vol_033_djvu.txt:82205-83132",
+      "images": "patrologiae_cursus_completus_gr_vol_033:0539-0544"
+    },
+    {
+      "id": "02-catechesis-2",
+      "spec": "2",
+      "english": "cache/ccel.org/npnf207.txt:20895-21114",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_033/patrologiae_cursus_completus_gr_vol_033_djvu.txt:83133-83812",
+      "images": "patrologiae_cursus_completus_gr_vol_033:0545-0550"
+    },
+    {
+      "id": "03-catechesis-3",
+      "spec": "3",
+      "english": "cache/ccel.org/npnf207.txt:21115-21363",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_033/patrologiae_cursus_completus_gr_vol_033_djvu.txt:83813-84530",
+      "images": "patrologiae_cursus_completus_gr_vol_033:0550-0555"
+    },
+    {
+      "id": "04-catechesis-4",
+      "spec": "4",
+      "english": "cache/ccel.org/npnf207.txt:21364-21589",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_033/patrologiae_cursus_completus_gr_vol_033_djvu.txt:84531-85394",
+      "images": "patrologiae_cursus_completus_gr_vol_033:0555-0561"
+    },
+    {
+      "id": "05-catechesis-5-1",
+      "spec": "5.0-5.10",
+      "english": "cache/ccel.org/npnf207.txt:21590-21699",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_033/patrologiae_cursus_completus_gr_vol_033_djvu.txt:85395-86390",
+      "images": "patrologiae_cursus_completus_gr_vol_033:0561-0567"
+    },
+    {
+      "id": "06-catechesis-5-2",
+      "spec": "5.11-5.23",
+      "english": "cache/ccel.org/npnf207.txt:21700-22096",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_033/patrologiae_cursus_completus_gr_vol_033_djvu.txt:86391-87222",
+      "images": "patrologiae_cursus_completus_gr_vol_033:0567-0571"
+    }
+  ]
+}

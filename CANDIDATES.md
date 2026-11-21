@@ -37,7 +37,7 @@
 
 | 作品 | 原語 | 底本 | 英訳 | 備考 |
 |---|---|---|---|---|
-| エルサレムのキュリロス『秘義教話』 | ギリシア語 | PG 33（archive.org `patrologiae_cursus_completus_gr_vol_033`）。第 1 講は OCR の l. 82263 ごろ、第 2〜5 講の題は l. 83136、83816、84534、85398 | NPNF 2-7（l. 20557） | 5 講と短い |
+| エルサレムのキュリロス『秘義教話』 | ギリシア語 | 翻訳中（`books/cyril-mystagogical-catecheses/`）。PG 33（archive.org `patrologiae_cursus_completus_gr_vol_033`）。第 1 講は OCR の l. 82263 ごろ、第 2〜5 講の題は l. 83136、83816、84534、85398 | NPNF 2-7（l. 20557） | 5 講と短い |
 | エゲリア『巡礼記』 | ラテン語 | Geyer 編、Itinera Hierosolymitana（CSEL 39、1898。archive.org `itinerahierosoly00geye`）。冒頭の欠けた本文は OCR の l. 4790（ostendebantur iuxta scripturas）から | M. L. McClure と C. L. Feltoe の英訳（1919。archive.org `pilgrimageofethe00mccliala`。McClure は 1918 年没、Feltoe は 1926 年没（CCEL の著者ページ）） | 編者 Geyer は図書館の書誌で 1852 年生まれ（没年は見つからないが、生年から日本でも権利は切れている）。4 世紀末のエルサレムの典礼の記録。『秘義教話』と同じ町、同じころ |
 | キプリアヌス小品集 II（『死を免れぬことについて』『デメトリアヌスへ』『善行と施しについて』『忍耐の益について』『ねたみと嫉妬について』『処女の身なりについて』） | ラテン語 | Hartel 編（CSEL 3.1、1868。`sthascicaecilic00hartgoog`、cache にある）。題は OCR の l. 13794、16171、17164、18257、19177、8998 | ANF 5（l. 46680、45596、47359、48156、48876、42841） | 既訳の小品集の続き。『忍耐の益について』はテルトゥリアヌス『忍耐について』を下敷きにする |
 | テルトゥリアヌス小品集 II（『魂の証言について』『スカプラへ』『忍耐について』『悔い改めについて』） | ラテン語 | Oehler 編 I（1853。`quintiseptimiifl0001fanc`、cache にある）。柱の見出しは OCR の l. 49619、65357、71590、78381 ごろから | ANF 3（l. 15845、8665、69862、65143） | 既訳の小品集と同じ底本の巻。キプリアヌス小品集 II の前に訳すと訳語を引き継げる |
@@ -78,7 +78,6 @@ PG の 2 冊は、前は「OCR が崩れていて別の底本が要る」とし�
 | NPNF 2-7 | `cache/ccel.org/npnf207.txt` | 56d84cfa94dee313 |
 | NPNF 2-11 | `cache/ccel.org/npnf211.txt` | 8b1206d4e7488c65 |
 | NPNF 1-9 | `cache/ccel.org/npnf109.txt` | d6a51d22d996e02c |
-| PG 33 の OCR | `cache/archive.org/patrologiae_cursus_completus_gr_vol_033/…_djvu.txt` | b6112b39d1bb8870 |
 | Srawley『教理大講話』の OCR | `cache/archive.org/TheCatecheticalOrationOf/…_djvu.txt` | 9d8f5af77425624f |
 | Nairn『司祭職について』の OCR | `cache/archive.org/desacerdotioofst00john/…_djvu.txt` | fa324c04c2be8d5b |
 | Feltoe『ディオニュシオスの手紙』の OCR | `cache/archive.org/lettersandother00diongoog/…_djvu.txt` | f9d11760f02965cd |
