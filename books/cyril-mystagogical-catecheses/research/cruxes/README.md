@@ -1,0 +1,36 @@
+# 校訂上の論点
+
+エルサレムのキュリロス『秘義教話』の本文で、写本・刊本の読みが分かれる箇所と、聖書の引用と暗示の形が訳に影響する箇所の一覧。ページ（`src/<節>/`）ごとに `<節>.md` を置く。訳は底本（PG 33、`../pg33.txt`）の読みのとおりに行い、ほかの読みは記録にとどめる。訳注は、ほかの読みを知ると一般の読者の理解が変わる箇所にだけ付ける。底本テキストと印刷版の食い違い（電子化の誤り）と、印刷版の誤植は照合で扱い、ここには書かない。
+
+略号と資料の所在は次のとおり。資料の URL と取得情報は [../sources.md](../sources.md) にある。「l.」は、ことわりがなければ印刷版の OCR（`cache/archive.org/patrologiae_cursus_completus_gr_vol_033/patrologiae_cursus_completus_gr_vol_033_djvu.txt`）の行番号。OCR は校注のラテン語をギリシア文字に化けさせ、写本の略号もよく崩すので、校注はページ画像（`cache/archive.org/patrologiae_cursus_completus_gr_vol_033/page/nN_w1600.jpg`）で読む。画像の切り出しは `node tools/image.js crop <画像> pct:x,y,w,h <出力先>` で行い、`/tmp` に置いただけ。各項には、元の画像と切り出した領域を書く。
+
+## 底本の印刷版の形
+
+- 底本：J.-P. Migne 編、Patrologia Graeca 33 の欄 1065〜1126（本文はベネディクト会版〔Touttée 編、1720〕と同じ。本の AGENTS.md による）。各ページの上半分にギリシア語の本文とラテン語訳の欄が並び、その下に聖書の箇所の行、校注が続く。
+- 本文の中の `(2)` のような番号が校注の番号。番号はページ（画像 1 枚、欄 2 つ）ごとに (1) から振り直す。そのため、論点では校注を「n540 の注 (3)」のように画像の番号と合わせて呼ぶ。
+- 校注の番号は、ギリシア語の本文だけでなく、ラテン語訳の欄や題にも付く。n539 の注 (3)（ラテン語の題 CATECHETICAE ORATIONES QUINQUE）、n540 の注 (1)（1.3 のラテン語訳 Jesu Christi sanguis）、n542 の注 (1)（1.7 のラテン語訳 Quemadmodum panis et vinum）は、写本の読みではなく本文の解釈についての注。
+- 聖書の箇所は、ラテン語訳の欄に付けた上付きの番号（¹⁸ など）で示し、ギリシア語とラテン語の欄の下の 1〜2 行に並べる。番号は第 1 講で ¹⁸ から ³⁸ まで続く（ページで振り直さない）。聖句の直接の引用と儀式の定式はイタリックで刷る（本の AGENTS.md）。
+- 下の行の箇所には誤りがある。n543 の ²⁷ Gen. xiv, 15 seqq. は、ロトの話なので創世記一九・一五以下。n543 の ²⁸ Tob. iv, 13 は、Swete の節の番号ではトビト四・一二。詩篇は七十人訳の番号（n541 の ²³ Psal. cxviii, 37 は口語訳の詩篇一一九・三七）。
+- 校注は、写本の読みのほか、刊本の読み、校訂者の推測（n540 の注 (4) の ὁμόσε など）、本文の解釈、教父の並行箇所にも触れる。
+
+## 写本・刊本の略号（校注の書き方のまま）
+
+校注に略号表はない。ここでは校注に出る名前を、校注が言うことと、英訳の序が言うことだけで説明する。
+
+- Coisl.（Coislin.、Coislinianus）：Coislin の写本。n540 の注 (5) は「ambobus Coisl.」（二つの Coislin の写本）と書く。ほかの注は番号を付けずに Coisl. とだけ書く。
+- Ottob.（Ottobonianus）：Ottoboni の写本。2 本ある。n539 の注 (4) は「Ottob. duobus」と書き、そのうち「primo」（1 本目）に語がないと言う。Ottob. 2 と番号を付ける注もある（n539 の注 (5)、n542 の注 (5)）。
+- Roe：Roe の写本（本の AGENTS.md ではボドリアン図書館の写本）。
+- Casaub.（Casaubon.）：Casaubon が異読を書き留めた写本。
+- Genovef.（Genov.）：サント＝ジュヌヴィエーヴ図書館の本。英訳の序（`cache/ccel.org/npnf207.txt` l. 4648〜4650）によれば、Morel の刊本の一冊で、欄外にほかの二つの写本の異読を書き込んだもの。n542 の注 (6) は「Vetus Genov.」と書く。本の AGENTS.md の写本の一覧にはない。
+- Grod.（Grodecius）：Grodecius のラテン語訳。校注はこれを一つの証人として写本と並べる（「quod legit vel supposuit Grod.」n540 の注 (2)）。
+- Morel、Milles（Millesius）、editi：刊本。editi はそれまでの刊本。n539 の注 (4) によれば、Milles は Roe の写本から ἐπιστάμην を採った。
+- Anastasius Sinaita：シナイのアナスタシオス（またはその名で伝わる『問答』の著者）。n543 の注 (1)、(3) は、1.8 の一部を引用する証人として挙げる。
+- 英訳の脚注は、ここにない「Cod. Mon. 1」の読みを挙げる（1.8 の πειρασθήσῃ）。英訳の序（l. 4714〜4734）は、Reischl と Rupp のミュンヘン版（1848、1860）を最良の校訂版と呼ぶ。英訳の脚注の読みが PG の本文と校注にないときは、この版から来ている可能性がある（確かめていない）。
+
+## 読み比べに使う資料
+
+- 英訳（NPNF 第 2 集第 7 巻、`cache/ccel.org/npnf207.txt`）：論点には、英訳の脚注が挙げる事実（箇所や読みの有無）だけを書く。英訳の文は写さない。
+- 新約：Robinson & Pierpont の電子テキスト（`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/`。Nestle-Aland と違う箇所を `{NA … > …}` で添える）。
+- 七十人訳：Swete（`cache/archive.org/oldtestamentingr01swetuoft/`、`…02swetuoft/`、`cache/archive.org/theoldtestamenti03swetuoft/`）。ダニエル書は見開きの左に七十人訳（古ギリシア語訳）、右にテオドティオン訳を刷る。ページの柱に ΔΑΝΙΗΛ (Ο΄)・ΔΑΝΙΗΛ (Θ.) とある。
+- 口語訳：`node tools/bible.js`。
+- 古典：Perseus Digital Library の canonical-greekLit（ヘロドトス）。
