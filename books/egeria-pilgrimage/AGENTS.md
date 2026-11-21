@@ -64,15 +64,22 @@
 | baptismus / baptizo | 洗礼／洗礼を授ける・洗礼を受ける（『秘義教話』と同じ。聖句の中は口語訳の「バプテスマ」） |
 | deductores | 案内人たち（1.2） |
 | mansio | 宿駅（ローマの街道の泊まり場。旅の一日の行程の単位にも使う） |
-| memoria（場所の） | 記念の場所、墓（1.1 の memoriae concupiscentiae は民数記一一・三四 のキブロテ・ハッタワ「欲心の墓」を指す） |
+| memoria（場所の） | 記念の場所、墓（1.1 の memoriae concupiscentiae は「欲心の墓」。七十人訳が民数記一一・三四 の地名を訳した形と同じなので、口語訳の音の「キブロテ・ハッタワ」にせず、口語訳の説明の「欲心」で訳し、出典を付ける） |
+| rubus | しば（口語訳出エジプト三・二。2.2 の de rubo in igne は「燃えるしばの中から」） |
+| orationes（3.6 の pomariola instituunt uel orationes） | 祈りの場所（底本と索引に従う。uel はここでは「と」） |
 | mons Dei / mons sanctus Dei | 神の山／神の聖なる山（口語訳出エジプト三・一「神の山ホレブ」） |
-| maiestas Dei（Domini） | 神の（主の）栄光（2.5 の ubi descendit maiestas Dei。出エジプト一九・一八、二〇 の主が山に下られたことを指す） |
+| maiestas Dei（Domini） | 神の（主の）栄光（2.5 の ubi descendit maiestas Dei。出エジプト一九・一八、二〇 の主が山に下られたことを指す）。栄光が主語の動詞は尊敬語にしない（「神の栄光が下った場所」。口語訳出エジプト二四・一六 の「主の栄光がシナイ山の上にとどまり」と同じ） |
 | milia（passuum） | マイル（ローマ・マイル。メートルに直さない。ルートの AGENTS.md の「マイルはそのまま使う」） |
 | hora prima … hora decima | 第一時……第十時（日の出から数える時刻。訳注は付けない） |
 | iubente Deo / iubente Christo Deo nostro | 神のお導きで／わたしたちの神キリストのお導きで（神が命じる、の意だが、旅の行程を神が備えたことを言う決まった言い方なので） |
 | dies dominica / sabbatum | 主の日／土曜日（3.1 の sabbato sera「土曜日の夕方」。安息日の意味で論じるところだけ「安息日」） |
 
 典礼の語（Anastasis、Martyrium、Crux、missa、lucernare、ymni、antiphonae、cathecisis など）は、24 章以降を訳すページで、『秘義教話』の訳語表と照らして決め、ここに足す。
+
+## 聖書
+
+- 底本は聖書の箇所を、本文の下の欄に `8 cf. Num. 11, 34` の形で挙げる（行番号と箇所）。エゲリアは聖書の話を要約して場所を示すので、ほとんどが暗示。底本の欄が箇所を挙げる暗示や要約は、『』に入れずに出典だけを付ける（『アントニオス伝』と同じ）。出典は底本の欄の箇所に従い、欄が章だけを挙げるときは `（出エジプト三二章）`。底本の欄に箇所のないもの（2.5 の sicut scriptum est）は出典を付けない。
+- 聖書の話に出る語は口語訳に寄せる（2.2 の「四十日四十夜」「妻の父の羊の群れ」、3.2 の「山が煙った」）。その土地で示された場所の言い方は、口語訳に合わせて言い換えない（3.5 の spelunca は「ほら穴」とし、出エジプト三三・二二 の「岩の裂け目」にしない）。
 
 ## 文型の訳し方
 
@@ -99,6 +106,7 @@
 | mare rubrum | 紅海 |
 | Saraceni | サラセン人 |
 | Alexandria | アレキサンドリヤ（口語訳） |
+| mare Parthenicum | パルテニクムの海（3.8。地中海の東の部分。訳注は付けず `// ` メモに書く） |
 | terra Gesse | ゴセンの地（口語訳創世記四五・一〇） |
 | Ramesse / Ramessen（OCR では Kamesse、Kamessen と崩れる） | ラメセス（口語訳民数記三三・五） |
 | Pithona / Socchoth / Oton | ピトム（口語訳出エジプト一・一一）／スコテ／エタム（口語訳民数記三三・五〜六） |
