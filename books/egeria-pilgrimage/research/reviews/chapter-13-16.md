@@ -2,9 +2,9 @@
 
 - 日付：2026-11-22
 - レビューした者：新しいサブエージェント（訳者の判断理由は渡していない）
-- 渡したもの：`both.md`、リポジトリと本の `AGENTS.md`、論点一覧 `research/cruxes/chapter-13-16.md`（略号は `research/cruxes/README.md`。冒頭に英訳と底本の読みの違いの一覧がある）、前のページの `src/chapter-10-12/jp.md`、底本の抜粋と印刷版の OCR（`itinerahierosoly00geye_djvu.txt` l. 5663〜5888）、Bernard の英訳 `cache/archive.org/libraryofpalesti01paleuoft/libraryofpalesti01paleuoft_djvu.txt` l. 8882〜9083。
+- 渡したもの：`both.md`、リポジトリと本の `AGENTS.md`、論点一覧 `research/cruxes/chapter-13-16.md`（略号は `research/cruxes/README.md`。冒頭に英訳と底本の読みの違いの一覧がある）、前のページの `src/chapter-10-12/jp.md`、Bernard の英訳 `cache/archive.org/libraryofpalesti01paleuoft/libraryofpalesti01paleuoft_djvu.txt` l. 8882〜9083。
 - 結果：5 件（必須 1、提案 4）。4 件を採り、1 件（節をまたぐ「」）は直さずに扱いを本の `AGENTS.md` に決めた。英訳と読みの違う箇所（13.3 turbae、16.2 nunc、16.3 coruus ei、16.6 fuit）は底本どおりと確かめられ、聖句の出典にも指摘はなかった。
-- 訳注：13.2（デナバをヨブの町とするのは七十人訳ヨブ記の付記による）、13.4（ギリシア語の名の崩れ）、16.1（ゲタはエフタを指すとみられる）、16.5（写本の一葉の欠け）。13.4 の短剣符と校注 20 は p. 56 の画像（n111）で、16 章の欠けの印は p. 59 の画像（n114）で確かめた。16.1 は底本の欄（Iud. 12, 7）と索引の Getha（Iephtha?）による。13.2 は論点一覧が挙げる七十人訳ヨブ記の付記の句（in terra Ausitidi, in finibus Idumeae et Arabiae）が原文と同じ並びであることによる。
+- 訳注：13.2（デナバをヨブの町とするのは七十人訳ヨブ記の付記による）、13.4（ギリシア語の名の崩れ）、16.1（ゲタはエフタを指すとみられる）、16.5（写本の一葉の欠け）。メインが資料で確かめ直した。13.4 は p. 56 の画像（n111）で本文の短剣符と校注 20（opu corruptum est ὅρος coni. Gamurrini）を見た。16.5 は p. 59 の画像（n114）の Unum folium excisum est。16.1 は底本の欄（OCR l. 5817 の Iud. 12, 7）と索引の Getha (Iephtha?): ibi (in Thesbe) est memoria eius 58, 25（OCR l. 21659〜21660）。13.2 は Swete II の OCR l. 52564〜52599 で、七十人訳ヨブ記の付記に ἐν μὲν γῇ κατοικῶν τῇ Αὐσίτιδι ἐπὶ τοῖς ὁρίοις τῆς Ἰδουμαίας καὶ Ἀραβίας、προυπῆρχεν δὲ αὐτῷ ὄνομα Ἰωβάβ、πρῶτος Βαλὰκ ὁ τοῦ Βεώρ, καὶ ὄνομα τῇ πόλει αὐτοῦ Δεννάβα、μετὰ δὲ Βαλὰκ Ἰωβὰβ ὁ καλούμενος Ἰώβ があることを見た。
 
 | 節 | 指摘 | 採否 | 理由・直した訳 |
 |---|---|---|---|
