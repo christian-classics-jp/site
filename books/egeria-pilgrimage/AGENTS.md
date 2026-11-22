@@ -108,7 +108,7 @@
 | passus（mille passus） | 歩（20.8 の forte ad mille passus「千歩ほど」。6.1 の「百歩、二百歩」と同じ。マイルに直さない） |
 | 暦の日付（20.5 の nono k. maias） | 今の日付に直す（「四月二十三日」）。原文の言い方と換算はメモに書く |
 | orientalis（20.12 の Haec … specialiter orientalis appellatur） | 『東方』（地方の呼び名として『』に入れる）。23.3 の in oriente は呼び名ではないので『』に入れず「東方では」 |
-| aputactitae（底本の綴りは aputactitum、aputactitis） | 世を捨てた人たち（23.3、23.6。ギリシア語の ἀποτακτῖται。修行の暮らしをする人々の呼び名で、24 章以降も同じ。23.3 の aputactitum seu uirginum は「世を捨てた人たち、つまりおとめたち」） |
+| aputactitae（底本の綴りは aputactitum、aputactitis） | 世を捨てた人たち（23.3、23.6。ギリシア語の ἀποτακτῖται。修行の暮らしをする人々の呼び名で、24 章以降も同じ。23.3 の aputactitum seu uirginum は seu を「と」に取り「世を捨てた人たちやおとめたち」。23.6 では男も女も含む） |
 | diaconissa | 女性の執事（23.3。diaconus「執事」に揃え、口語訳ローマ一六・一 のフィベの「教会の執事」とも合う） |
 | metropolis | 州都（22.1 の ciuitatem metropolim Tharso） |
 | actus sanctae Teclae | 聖なるテクラの行伝（23.5。書の名） |
@@ -234,7 +234,7 @@
 | Helpidius | ヘルピディウス（20.5。ハランの殉教者の記念堂の修道士） |
 | Chaldaei / Hur / Nisibis | カルデヤ人／ウル（口語訳創世記一一・二八 の「カルデヤのウル」）／ニシビス（20.12） |
 | Romani | ローマ人 |
-| Antiochia / Tharsus / Cilicia | アンテオケ／タルソ／キリキヤ（口語訳） |
+| Antiochia / Tharsus（Tharso） / Cilicia | アンテオケ／タルソ／キリキヤ（口語訳） |
 | Efesus | エペソ（口語訳） |
 | Ierusolima | エルサレム |
 | Syon | シオン |
@@ -242,7 +242,6 @@
 | Bethleem / Bethania | ベツレヘム／ベタニヤ |
 | Golgotha | ゴルゴタ |
 | Fadana | ファダナ（21.4。ラバンの屋敷だった村。底本の綴りの音で写し、「創世記のパダンアラムに当たる名とみられる。」と訳注を付ける） |
-| Cilicia / Tharsus（Tharso） | キリキヤ／タルソ（口語訳） |
 | Hisauria / Hisauri | イサウリア／イサウリア人（『タティアノス』の「イサウリア人」と同じ） |
 | Thecla（底本は Tecla） | テクラ（『テルトゥリアヌス小品集』と同じ。口語訳にない） |
 | Ponpeiopolis / Corycus（Corico） / Seleucia Hisauriae | ポンペイオポリス／コリュコス／イサウリアのセレウキア（使徒一三・四 の「セルキヤ」〔スリヤのセレウキア〕とは別の町なので、音で写してメモに書く） |
