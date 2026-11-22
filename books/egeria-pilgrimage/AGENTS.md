@@ -127,7 +127,7 @@
 | missa / fit missa | 散会／散会となる（底本の索引の missa＝dimissio。祝福の後に人々を帰すこと。「ミサ」としない。24.6 の missa Anastasi は「アナスタシスでの散会」、後の missa ecclesiae は「教会の散会」の形。底本の索引が oblatio の意味に分ける 80, 5 の missa は、そのページで決める） |
 | operatio | 務め（24.1、24.7。索引の Gottesdienst） |
 | ymni / matutini ymni / antiphonae | 賛歌／朝の賛歌／交唱（15.5 と同じ）。psalmi responduntur（24.1）は「詩篇が応唱される」。cata singulos ymnos uel antiphonas は「賛歌と交唱のたびに」 |
-| hora decima, quod appellant hic licinicon, nam nos dicimus lucernare | 「リュクニコン」、わたしたちの言う「ともしびの祈り」（licinicon は索引の見出しの lychnicon〔λυχνικόν〕の音で写す。lucernare、lucernarium は「ともしびの祈り」、psalmi lucernares は「ともしびの祈りの詩篇」で受ける） |
+| hora decima, quod appellant hic licinicon, nam nos dicimus lucernare | 第十時の務めは、ここでは「リュクニコン」と呼ばれます。わたしたちの言う「ともしびの祈り」です（中性の quod は時刻ではなく、その時の務めを受けるので「第十時の務め」とする。時刻そのものを務めの名で呼ばない。licinicon は索引の見出しの lychnicon〔λυχνικόν〕の音で写す。lucernare、lucernarium は「ともしびの祈り」、psalmi lucernares は「ともしびの祈りの詩篇」で受ける） |
 | candelae / cerei / lucerna / lumen / luminaria / cereofala | ともしび（15.5 と同じ。24.7 の candelae uitreae は吊るすガラスの器で「ガラスのともしび」）／ろうそく／灯火（とうか。ほら穴の中で夜も昼もともる火。candelae の「ともしび」と字で見分けられるようにする）／光、火（24.4 の lumen de foris は「その火」）／明かり／燭台（語義は未確認。校注はデュ・カンジュの辞書を指すだけ） |
 | monazontes / parthenae | 修道士たち／おとめたち（24.1 の ut hic dicunt は「ここで言う」。3.4 の ascitis と同じく意味で訳す。索引は monazontes＝monachi, monachae とし、後の章で monachi と同じ人々を指すので、monachus の「修道士」と訳し分けない） |
 | fideles / laici | 信徒たち（洗礼を受けた人。cathecumini「洗礼志願者」と対になる）／一般の人たち（聖職者や修道士でない人。24.1 の laici … uiri aut mulieres は「一般の人たちも、男も女も」。fideles とぶつかる「信徒」にしない） |
@@ -138,6 +138,8 @@
 | thymiataria | 香炉（24.10） |
 | commonetur episcopus / sedet susum | 監督が呼ばれる／上の席に座る（24.3、24.4） |
 | uigilare（uicibus …） / ad uigilias | 夜を明かす／徹夜の祈りに（24.8、24.12） |
+| consuetudo / iuxta consuetudinem | ならわし／ならわしどおり（1〜23 章の訳と同じくひらく。「慣わし」としない） |
+| rugitus et mugitus | うめき声とうなり声（24.10。後の章の同じ組も同じ訳で受ける） |
 
 ## 聖書
 
