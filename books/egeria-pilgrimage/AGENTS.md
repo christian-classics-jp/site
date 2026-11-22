@@ -159,8 +159,9 @@
 | quadragesimae de epiphania | 公現祭から四十日目の祭り（26.1。複数でも一つの祭り。初出に訳注「当時のエルサレムでは公現祭に主の降誕を祝った。」） |
 | dies paschales / quadragesimae（複数） / eortae | 復活祭の時期（27.1。前の八週を含む季節）／四旬節（27.1 の sicut apud nos quadragesimae も「四旬節」）／「ヘオルタイ」（27.1 の quod hic appellant eortae, id est quadragesimas は、licinicon と同じ型で「ここでは「ヘオルタイ」と呼びます。つまり「四旬節」です」。ἑορταί の音。訳注は付けない） |
 | octo dies paschales / octauae（paschae） / usque ad octauas | 復活祭の八日間（39.1〜39.3。復活祭の当日からの八日。27.1 の dies paschales「復活祭の時期」と範囲が違う）／（復活祭の）八日目（39.2 の id est octauis は「つまり八日目」、40.1 の octauis paschae は「復活祭の八日目」）／八日目まで |
+| ordine suo（26.1、39.1、41.1） | 定めの順序どおりに |
 | quinquagesima, id est pentecosten（41.1） | 復活祭から五十日目、つまり五旬節（A pascha … usque ad … の形。25.6 の「五旬節の五十日目」と同じ語） |
-| infantes（38.1、39.3。洗礼を受けたばかりの人） / fons | 幼子たち（初出の 38.1 にだけ訳注「洗礼を受けたばかりの人たちを言う。」。39.3 は原文の id est qui baptidiati fuerint を「つまり洗礼を受けた人たち」で受ける。31.3、36.2 の年の幼い infantes は「子供たち」と訳し分ける）／洗礼盤（「泉」としない） |
+| infantes（38.1、39.3。洗礼を受けたばかりの人） / fons | 幼子たち（初出の 38.1 にだけ訳注「洗礼を受けたばかりの人たちを言う。」。39.3 は原文の id est qui baptidiati fuerint を「つまり洗礼を受けた人たち」で受ける。31.3 の年の幼い infantes は「子供たち」と訳し分ける。底本の索引は infantes を liberi の一項にまとめ、意味を分けない）／洗礼盤（「泉」としない） |
 | secunda feria … sexta feria | 月曜日……金曜日（土曜日の「土曜日」に合わせ、今の曜日で訳す。in medio quinta feria は「週の中ほどの木曜日」） |
 | martyrorum dies | 殉教者の記念の日（27.5） |
 | ebdomadarii / qui faciunt septimanas (ebdomadas) / facere integras septimanas ieiuniorum | 「週の人たち」（27.9。ここでの呼び名として「」に入れる）／週を通して断食する人たち（27.9、28.1。呼び名の説明の id est で受ける）／断食の週をまるごと通す（28.3） |
