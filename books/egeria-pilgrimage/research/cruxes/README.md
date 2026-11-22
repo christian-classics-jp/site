@@ -9,14 +9,16 @@
   - A：アレッツォの写本（cod. Arretinus、11 世紀。OCR l. 4783）。この書を伝える唯一の写本。
   - 「ipse scripsi」「ipse addidi」は Geyer 自身が改めた・補ったもの。「scripsi cum Cholodniak」は Cholodniak の推定に従って改めたもの。「om.」は欠くこと（「et om. Bernard」は Bernard が et を除いたこと）。「transposuit」は語の位置を移したこと。「fortasse」は Geyer が本文に入れずに示す「〜かもしれない」という案。「suspicor emendandum esse」は、Geyer が改めるべきだと疑いながら本文に入れなかった案。「nihil mutandum est」は改める必要がないという判断。「sic semper A」は A がいつもその綴りで書くこと。「e. q. s.」は以下同じ。
   - 画像 n96〜n100 の校注で確かめたもの：「locum aperte corruptum」は明らかに崩れた箇所（本文には † を刷る。4.3）。「emendare conatus est」は改めを試みたこと、「ipse tentaui」は Geyer が本文に入れずに試みた改め。「emendauit」「coni.」は改めたこと・推定したこと。「probante Bernardo」は Bernard も同じ読みを採ること。「corr. ex」は A で別の字から直されていること（「filios corr. ex filiis A」）。「littera h erasa est」は A で字が削られていること。「lineola perducta (ducta) est」は A で字や語に線が引かれていること。「an erat?」は「erat ではないか」という Geyer の問い。「cf. Krit. Beitr.」は Geyer の Kritische Bemerkungen（cache にない）を参照させるもの。
-  - 底本の山括弧（底本テキストでは ⟨ ⟩）は Geyer が写本にない語を補ったもの（2.3 の ⟨quia⟩。p. 38 校注 4 の quia ipse addidi）。山括弧なしで補った語もある（4.7 の est。p. 42 校注 17 の est ipse addidi）。
+  - 画像 n100〜n105 の校注で確かめたもの：「transposui」は Geyer が語の位置を移したこと（6.4）。「falso」は他の刊本が誤って刷ったこと（「grandis falso Pomialowsky」）。「emendaui Krit. Beitr. p. 22」は Geyer が前著で改めたこと。「uerba: … a librario omissa in infima pagina minoribus litterulis scripta exstant」は、写字生が落とした語がページの下に小さな字で書かれて残っていること（6.3）。「in margine codicis exstat」は A の欄外に書かれていること（8.4）。「quod idem … ueri simile uidetur」は、ほかの学者も同じ読みを本当らしいとしたこと。「in editione Bernardiana」「in ed. Bernard.」は Bernard の刊本に載った推定（Purser の推定はこの形で出る）。聖書の欄の「(Sept.)」は七十人訳によること（「cf. Exod. 14, 2 (Sept.)」）。
+  - 底本の山括弧（底本テキストでは ⟨ ⟩）は Geyer が写本にない語を補ったもの（2.3 の ⟨quia⟩。p. 38 校注 4 の quia ipse addidi）。山括弧なしで補った語もある（4.7 の est。p. 42 校注 17 の est ipse addidi）。6.4 の ⟨denuo,⟩ は補いではなく、A にある語を Geyer が別の位置へ移した印（p. 46 校注 20 の transposui）。
 - 校注に出る人名（推定を出した刊本の編者や学者。Geyer の序 OCR l. 520–545）：
   - Gamurrini：A を見つけて初版を出した人（l. 520–522、649）。「Gamurrini (2)」はその第二版（l. 120–121、524）。
   - Cholodniak：Pomialowsky のロシア語版（Petersburg 1889）のために A を写し、その p. 257 以下で崩れた箇所を多く改めた人（l. 524–528）。
   - Bernard：J. H. Bernard の英訳（London 1891）。巻末の pp. 79–136 にラテン語本文を載せる（l. 529–534）。英訳とラテン語本文は Gamurrini の本文によるので、Bernard の本文は Geyer と読みが違うところがある。
   - Sittl（J. v. Müllers Jahresberichte 1889）、Woelfflin（Archiv f. lat. Lexik. IV）：本文に推定を出した学者（l. 544–546）。
+  - Purser（Bernard の刊本に推定が載る。p. 45 校注 27、p. 47 校注 19）、Mommsen（Berliner Sitzungsberichte 1887, p. 361。p. 47 校注 19）、I. v. d. Vliet（Archiv f. lat. Lex. X。p. 49 校注 1）：校注に推定が引かれる学者。
   - Geyer はこの刊本より前に Kritische Bemerkungen（Augsburg 1890）で本文の改めを論じた（l. 534–543）。cache にはない。
-- P.D.：ペトルス・ディアコヌス（モンテ・カッシーノの修道院の司書）が 1137 年に諸書から編んだ『聖地について』（Liber de locis sanctis）。底本の同じ巻の後半に刷られている（本文は OCR l. 7859 から）。Geyer の序は、ペトルスがこの『巡礼記』からも抜き書きし、A に残っていない部分からも多くを取ったので、A から失われたところの一部はペトルスから補えると言う（序 l. 113–118、621–636）。抜き書きは言い換えや縮めを含むので、A の読みの直接の証人ではない。各論点では「P.D. p. 119, 16」のように底本のページと行で挙げる。画像は `n174_w1600.jpg`（p. 119）、`n175_w1600.jpg`（p. 120）。
+- P.D.：ペトルス・ディアコヌス（モンテ・カッシーノの修道院の司書）が 1137 年に諸書から編んだ『聖地について』（Liber de locis sanctis）。底本の同じ巻の後半に刷られている（本文は OCR l. 7859 から）。Geyer の序は、ペトルスがこの『巡礼記』からも抜き書きし、A に残っていない部分からも多くを取ったので、A から失われたところの一部はペトルスから補えると言う（序 l. 113–118、621–636）。抜き書きは言い換えや縮めを含むので、A の読みの直接の証人ではない。各論点では「P.D. p. 119, 16」のように底本のページと行で挙げる。画像は `n169_w1600.jpg`（p. 114）、`n174_w1600.jpg`（p. 119）、`n175_w1600.jpg`（p. 120）、`n176_w1600.jpg`（p. 121）。
 - 底本の語の索引（Index uerborum et locutionum。この作品の部分は「ad Siluiam」の柱のページ、OCR のおよそ l. 26600–29700）：Geyer が語の意味や語法を短く示す（「memoria = monumentum」など）。索引の「38, 4」は底本の p. 38 の 4 行目。OCR だけで読んだ。
 - Bernard（英訳）：`cache/archive.org/libraryofpalesti01paleuoft/` の OCR。英訳の本文は l. 8034 から、ラテン語本文と脚注は l. 11170 から。英訳の文言はこの一覧に使わない。脚注に書かれた事実（A の読み、地名の比定）だけを使う。
 - 七十人訳：Swete 1 巻（`cache/archive.org/oldtestamentingr01swetuoft/`）。
