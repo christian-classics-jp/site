@@ -137,6 +137,7 @@
 | pisinni | 子供たち（24.5。底本の索引の pisinnus「小さい」。「聖歌隊の少年」と足さない） |
 | thymiataria | 香炉（24.10） |
 | commonetur episcopus / sedet susum | 監督が呼ばれる／上の席に座る（24.3、24.4） |
+| descendere（監督や人々がアナスタシスなどへ） / exiens, exeunte episcopo | 下りて来る（24.1、24.3、24.4、24.9）／（仕切りの内から）出て来ると、出て行きながら（24.2、24.3、24.12） |
 | uigilare（uicibus …） / ad uigilias | 夜を明かす／徹夜の祈りに（24.8、24.12） |
 | consuetudo / iuxta consuetudinem | ならわし／ならわしどおり（1〜23 章の訳と同じくひらく。「慣わし」としない） |
 | rugitus et mugitus | うめき声とうなり声（24.10。後の章の同じ組も同じ訳で受ける） |
