@@ -31,3 +31,5 @@
 - appellatur で示す行事や期間の呼び名は「」に入れる。
 - non solum … sed et は対比の中身を原文の並びで確かめ、「だけでなく」を一度だけ置く。
 - accedere ad baptismum は「洗礼に進む」。
+
+レビューの後、自分で見直して直したこと（本の `AGENTS.md` の id est と enim の決まり）：46.1 の Consuetudo est enim を「というのも、ここのならわしは次のとおりなのです」、46.3 の id est ab hora prima を「つまり第一時から第三時まで」、47.2 の Illa enim hora を「その時刻には、洗礼志願者はだれもアナスタシスに近づかないからです」とした。
