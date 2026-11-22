@@ -8,7 +8,8 @@
 - 校注の略号（画像 n92〜n96 の校注で確かめたもの）：
   - A：アレッツォの写本（cod. Arretinus、11 世紀。OCR l. 4783）。この書を伝える唯一の写本。
   - 「ipse scripsi」「ipse addidi」は Geyer 自身が改めた・補ったもの。「scripsi cum Cholodniak」は Cholodniak の推定に従って改めたもの。「om.」は欠くこと（「et om. Bernard」は Bernard が et を除いたこと）。「transposuit」は語の位置を移したこと。「fortasse」は Geyer が本文に入れずに示す「〜かもしれない」という案。「suspicor emendandum esse」は、Geyer が改めるべきだと疑いながら本文に入れなかった案。「nihil mutandum est」は改める必要がないという判断。「sic semper A」は A がいつもその綴りで書くこと。「e. q. s.」は以下同じ。
-  - 底本の山括弧（底本テキストでは ⟨ ⟩）は Geyer が写本にない語を補ったもの（2.3 の ⟨quia⟩。p. 38 校注 4 の quia ipse addidi）。
+  - 画像 n96〜n100 の校注で確かめたもの：「locum aperte corruptum」は明らかに崩れた箇所（本文には † を刷る。4.3）。「emendare conatus est」は改めを試みたこと、「ipse tentaui」は Geyer が本文に入れずに試みた改め。「emendauit」「coni.」は改めたこと・推定したこと。「probante Bernardo」は Bernard も同じ読みを採ること。「corr. ex」は A で別の字から直されていること（「filios corr. ex filiis A」）。「littera h erasa est」は A で字が削られていること。「lineola perducta (ducta) est」は A で字や語に線が引かれていること。「an erat?」は「erat ではないか」という Geyer の問い。「cf. Krit. Beitr.」は Geyer の Kritische Bemerkungen（cache にない）を参照させるもの。
+  - 底本の山括弧（底本テキストでは ⟨ ⟩）は Geyer が写本にない語を補ったもの（2.3 の ⟨quia⟩。p. 38 校注 4 の quia ipse addidi）。山括弧なしで補った語もある（4.7 の est。p. 42 校注 17 の est ipse addidi）。
 - 校注に出る人名（推定を出した刊本の編者や学者。Geyer の序 OCR l. 520–545）：
   - Gamurrini：A を見つけて初版を出した人（l. 520–522、649）。「Gamurrini (2)」はその第二版（l. 120–121、524）。
   - Cholodniak：Pomialowsky のロシア語版（Petersburg 1889）のために A を写し、その p. 257 以下で崩れた箇所を多く改めた人（l. 524–528）。
