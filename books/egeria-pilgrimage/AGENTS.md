@@ -129,7 +129,7 @@
 | spelunca（Anastasis の） / cancelli（cancellus） | ほら穴（主の墓。3.5 と同じ語）／仕切り（ほら穴の前の仕切り。intro cancellos は「仕切りの内」） |
 | basilica / ecclesia | 聖堂／教会（底本の索引が、エゲリアは二つを区別すると言う。24.10 の tota basilica Anastasis は「アナスタシスの聖堂全体」） |
 | Crux / ad Crucem / ante Crucem / post Crucem | 十字架／十字架の所（ゴルゴタ。初出の 24.7 に訳注「主が十字架にかけられたゴルゴタの場所。」。エウケリウスの Golgotha … locus est dominicae passionis による）／十字架の前（十字架とアナスタシスのあいだの中庭。索引の 89, 3）／十字架の後ろ（コンスタンティヌスの大きな教会。25.1 で原文が説明する。35.2 でマルテュリウムの散会の後に行き、一年でこの日だけささげ物がささげられると言う post Crucem も、字どおり「十字架の後ろ」とし、訳注は付けない。どこを指すかは原文から決まらず、メモに書く）。場所の名として字どおり訳し、『』に入れない |
-| missa / fit missa | 散会／散会となる（底本の索引の missa＝dimissio。祝福の後に人々を帰すこと。「ミサ」としない。24.6 の missa Anastasi は「アナスタシスでの散会」、後の missa ecclesiae は「教会の散会」の形。底本の索引が oblatio の意味に分ける 80, 5〔27.8〕の Missa autem, quae fit sabbato …, hoc est oblatio だけは「務め」と訳し、「土曜日にアナスタシスで行われる務め、つまりささげ物」とする。27.7、27.9 の土曜日の朝の missa は「散会」） |
+| missa / fit missa | 散会／散会となる（底本の索引の missa＝dimissio。祝福の後に人々を帰すこと。「ミサ」としない。24.6 の missa Anastasi は「アナスタシスでの散会」、後の missa ecclesiae は「教会の散会」の形。底本の索引は missa の項で、散会の用例の後にダッシュで区切って 80, 5〔27.8〕の Missa autem, quae fit sabbato …, hoc est oblatio、93, 13〔42.1〕の celebratur missa ordine suo、94, 7〔43.3〕の fit ordine suo missa, offertur et ibi を別に挙げる。この三つは「務め」と訳し、27.8 は「土曜日にアナスタシスで行われる務め、つまりささげ物」、42.1 は「務めが定めの順序どおりに祝われます」とする。43.3 の一度目の同じ句〔94, 3〕は索引では散会の群だけにあるが、後に朗読と務めが続くので「務め」に揃えた。27.7、27.9 の土曜日の朝の missa、39.1、41.1 の fit missa ordine suo は「散会」。どちらに取るかは索引の行番号で決める） |
 | operatio | 務め（24.1、24.7。索引の Gottesdienst） |
 | ymni / matutini ymni / antiphonae | 賛歌／朝の賛歌／交唱（15.5 と同じ）。psalmi responduntur（24.1）は「詩篇が応唱される」。cata singulos ymnos uel antiphonas は「賛歌と交唱のたびに」 |
 | hora decima, quod appellant hic licinicon, nam nos dicimus lucernare | 第十時の務めは、ここでは「リュクニコン」と呼ばれます。わたしたちの言う「ともしびの祈り」です（中性の quod は時刻ではなく、その時の務めを受けるので「第十時の務め」とする。時刻そのものを務めの名で呼ばない。licinicon は索引の見出しの lychnicon〔λυχνικόν〕の音で写す。lucernare、lucernarium は「ともしびの祈り」、psalmi lucernares は「ともしびの祈りの詩篇」で受ける） |
@@ -156,7 +156,7 @@
 | cicindela | 灯明（25.8。lucerna「灯火」、cereofala「燭台」と訳し分ける） |
 | superfluum fuit scribi | 書くまでもありません（25.8。続けて飾りを述べるので、言い尽くせないという含みで読む） |
 | quinquagesimae per pentecosten（25.6 の quinquagesimarum） | 五旬節の五十日目（の主の日） |
-| quadragesimae de epiphania | 公現祭から四十日目の祭り（26.1。複数でも一つの祭り。初出に訳注「当時のエルサレムでは公現祭に主の降誕を祝った。」） |
+| quadragesimae de epiphania / quadragesimae post pascha | 公現祭から四十日目の祭り（26.1。複数でも一つの祭り。初出に訳注「当時のエルサレムでは公現祭に主の降誕を祝った。」）／復活祭から四十日目（42.1。quinta feria quadragesimarum は「四十日目の木曜日」。何を記念する日かは原文が言わないので足さず、訳注も付けない） |
 | dies paschales / quadragesimae（複数） / eortae | 復活祭の時期（27.1。前の八週を含む季節）／四旬節（27.1 の sicut apud nos quadragesimae も「四旬節」）／「ヘオルタイ」（27.1 の quod hic appellant eortae, id est quadragesimas は、licinicon と同じ型で「ここでは「ヘオルタイ」と呼びます。つまり「四旬節」です」。ἑορταί の音。訳注は付けない） |
 | octo dies paschales / octauae（paschae） / usque ad octauas | 復活祭の八日間（39.1〜39.3。復活祭の当日からの八日。27.1 の dies paschales「復活祭の時期」と範囲が違う）／（復活祭の）八日目（39.2 の id est octauis は「つまり八日目」、40.1 の octauis paschae は「復活祭の八日目」）／八日目まで |
 | ordine suo（26.1、39.1、41.1） | 定めの順序どおりに |
@@ -176,6 +176,11 @@
 | populus | 民（27.6、29.4 以降。omnis populus は「民はみな」。「人々」としない。人々を広く言う omnes は「みな」） |
 | matronae / domini（31.4） | 身分の高い女の人／身分の高い男の人（domini を「主」「主人」としない） |
 | cum ymnis | 監督が導かれる文（ducitur、deducitur）は「賛歌とともに」、みなが自分で進む文（itur、subitur）は「賛歌を唱えながら」 |
+| spiritus（43.3 の ubi descendit spiritus） | 御霊（sanctus がないので「聖霊」とせず、口語訳使徒二・四 の「御霊」） |
+| quintana pars（43.7 の ualuae maiores, quae sunt de quintana parte） | 市場に面した側（陣営の市の立つ所を言う語。Bernard の脚注による。底本の索引は意味を言わない。メモに書いた） |
+| de plebe（39.3、44.3） | 民のうちから、民のうちでは（populus と同じく「民」。聖職者や世を捨てた人たちと並べて言う） |
+| benedicuntur cathecumini (et) sic fideles | まず洗礼志願者たちが、次に信徒たちが祝福されます（25.7 の形。43 章で何度も出る） |
+| lente et lente | ゆっくり、ゆっくり（36.2、43.6、43.7。二度重ねる） |
 | sacramenta（aguntur sacramenta） | 秘義（26.1。『秘義教話』の μυστήριον と同じ。説教の後の聖餐の儀式を指すとみられる） |
 
 ## 聖書
@@ -231,6 +236,9 @@
 - 体の部分を言う手段の de（37.2 の de manibus suis、37.3 の primum de fronte, sic de oculis）は「両手で」「まず額で、次に目で」と訳し、起点の「〜から」にしない。
 - affectus（37.7）は「心を動かされる」で受け（34.1 と同じ）、「心の高ぶり」としない。
 - in ecclesia maiore ad Martyrium（37.8）のように id est のない並びは「大きな教会のマルテュリウム」とし、「つまり」は id est があるとき（30.3、32.1）だけにする。
+- quomodo potest、prout potest、qui quomodo possunt（43.4、44.1、44.3）は能力の意味で「できるやり方で」「できるだけ」「行ける人が行けるように」と訳し、「思い思いに」としない。
+- 前に済んだことの繰り返しを言う denuo（43.5 の legitur et denuo de actus apostolorum）は「再び」を落とさない。
+- 数に付く uel（43.7 の candelae … uel ducentae）は「二百ほど」。36.2 の super ducentae は「二百以上」。
 - 時を言う Postmodum（36.5）、Post hoc（37.1、37.7）は「その後」。sedere modice（36.5、37.1）は「少し座って休む」。
 - hac sic ergo、ac sic ergo、itaque ergo のような話をつなぐ決まった言い方は、「こうして」「そこで」程度に軽く訳し、一つずつ訳し分けない。
 
