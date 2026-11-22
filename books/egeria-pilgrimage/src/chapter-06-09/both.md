@@ -9,11 +9,11 @@
 6:3 こうして帰り道、わたしたちは、行きに山あいへ入ったのと同じ所で、山あいを出ました。そしてまた海のほうへ向かいました。イスラエルの人々も、神の山シナイから引き返したとき、来た道を通ってこの所まで戻りました。つまり、わたしたちが山あいを出て、また紅海に出た所までです。そこからわたしたちは、来たときの自分たちの道を戻りました。一方、イスラエルの人々は、聖なるモーセの書に書いてあるとおり、その所から自分たちの道を進んで行きました（民数記一〇・一二、三三・三六）。
 // a monte は底本の改め。写本は ad montem（p. 46 校注 12）。reuersi sunt から usque ad eum locum までは、写本では写字生が落としてページの下に書き足した語（校注 13）。
 6.4 Nos autem eodem itinere et eisdem mansionibus, quibus ieramus, reuersi sumus in Clesma. In Clesma autem cum uenissemus ⟨denuo,⟩ necesse nos fuit et ibi denuo resumere, quoniam iter heremi arenosum ualde feceramus.
-6:4 わたしたちは、行きと同じ道を通り、同じ宿駅に泊まって、クレスマに戻りました。再びクレスマに着くと、そこでもまた体を休めなければなりませんでした。ひどい砂の荒野の道を通ってきたからです。
+6:4 わたしたちは、行きと同じ道を通り、同じ宿駅に泊まって、クレスマに戻りました。再びクレスマに着くと、そこでもまた体を休めなければなりませんでした。ひどく砂の多い荒野の道を通ってきたからです。
 // 底本の ⟨denuo,⟩ は補いではなく、写本で fuit の後にある denuo を、編者が uenissemus の後へ移した印（p. 46 校注 20 に transposui）。
 
 7.1 Sane licet terram Gesse iam nossem, id est qua primitus ad Egyptum fueram, tamen ut peruiderem omnia loca, quae filii Israhel exeuntes de Ramesse tetigerant euntes, donec peruenirent usque ad mare rubrum, qui locus nunc de castro, quod ibi est, appellatur Clesma: desiderii ergo fuit, ut de Clesma ad terram Gesse exiremus, id est ad ciuitatem, quae appellatur Arabia, quae ciuitas in terra Gesse est; nam inde ipsum territorium sic appellatur, id est terra Arabiae, terra Iesse, quae tamen terra Egypti pars est, sed melior satis quam omnis Egyptus est.
-7:1 ゴセンの地は、わたしはすでに知っていました。初めてエジプトへ行ったときのことです。それでも、イスラエルの人々がラメセスを出てから紅海に着くまでに通った場所を、すべて見ておきたかったのです。その紅海の所は、今はそこにある砦の名からクレスマと呼ばれています。そこで、わたしたちはクレスマからゴセンの地へ向かうことを願いました。つまり、アラビヤという町へです。この町はゴセンの地にあります。その地方そのものも、この町の名で、アラビヤの地、ゴセンの地と呼ばれているのです（創世記四六・三四）^[ゴセンをアラビヤの地と呼ぶのは、旧約のギリシア語訳による。]。この地はエジプトの一部ですが、エジプトのどこよりもはるかに良い所です。
+7:1 ゴセンの地は、わたしはすでに知っていました。初めてエジプトへ行ったときのことです。それでも、イスラエルの人々がラメセスを出てから紅海に着くまでに通った場所を、すべて見ておきたかったのです。紅海に着いたその場所は、今はそこにある砦の名からクレスマと呼ばれています。そこで、わたしたちはクレスマからゴセンの地へ向かうことを願いました。つまり、アラビヤという町へです。この町はゴセンの地にあります。その地方そのものも、この町の名で、アラビヤの地、ゴセンの地と呼ばれているのです（創世記四六・三四）^[ゴセンをアラビヤの地と呼ぶのは、旧約のギリシア語訳による。]。この地はエジプトの一部ですが、エジプトのどこよりもはるかに良い所です。
 // 七十人訳の創世記四五・一〇、四六・三四 は「アラビアのゴセンの地」と言う。底本の欄は cf. Gen. 46, 34 (Sept.)。底本は同じ地名を Gesse、Iesse、Gessen、Iessen と書き分けるが、みな「ゴセン」と訳す。
 7.2 Sunt ergo a Clesma, id est a mare rubro, usque ad Arabiam ciuitatem mansiones quattuor per heremo, sic tamen per heremum, ut cata mansiones monasteria sint cum militibus et praepositis, qui nos deducebant semper de castro ad castrum. In eo ergo itinere sancti qui nobiscum erant, hoc est clerici uel monachi, ostendebant nobis singula loca, quae semper ego iuxta scripturas requirebam; nam alia in sinistro, alia in dextro de itinere nobis erant, alia etiam longius de uia, alia in proximo.
 7:2 クレスマ、つまり紅海から、アラビヤの町までは、荒野を通って四宿駅あります。ただ、荒野とはいっても、宿駅ごとに詰め所があって、兵と隊長たちがいます。彼らが、砦から砦へと、いつもわたしたちを送ってくれました。この道のりでは、一緒にいた聖なる人たち、つまり聖職者たちと修道士たちが、場所を一つずつ示してくれました。わたしがいつも聖書に従って尋ね求めていた場所です。それらは道の左にも右にもあり、道から遠いものも近いものもありました。
@@ -30,13 +30,13 @@
 7.6 Pithona etiam ciuitas, quam aedificauerunt filii Israhel, ostensa est nobis in ipso itinere, in eo tamen loco ubi iam fines Egypti intrauimus, relinquentes iam terras Saracenorum; nam et ipsud nunc Phitona castrum est.
 7:6 イスラエルの人々が建てたピトムの町も、この道筋で示されました（出エジプト一・一一）。そこは、わたしたちがサラセン人の地をあとにして、エジプトの境に入った所です。そのピトムも、今は砦になっています。
 7.7 Heroum autem ciuitas, quae fuit illo tempore, id est ubi occurrit Ioseph patri suo Iacob uenienti, sicut scriptum est in libro Genesis, nunc est come, sed grandis, quod nos dicimus uicus. Nam ipse uicus ecclesiam habet et martyria et monasteria plurima sanctorum monachorum, ad quae singula uidenda necesse nos fuit ibi descendere iuxta consuetudinem, quam tenebamus.
-7:7 また、ヘロオンの町は、そのころの町です。つまり、創世記に書いてあるとおり、やって来た父ヤコブをヨセフが迎えた所です（創世記四六・二九）^[町の名は旧約のギリシア語訳による。日本語の聖書ではゴセン。]。その町が今は「コーメー」、つまりわたしたちの言う「村」になっています。ただし大きな村です。この村には教会があり、殉教者の記念堂と、聖なる修道士たちの修道の住まいもたくさんあります。わたしたちは、いつも守っていたならわしのとおり、それらを一つずつ見るために、そこに立ち寄らなければなりませんでした。
+7:7 また、ヘロオンの町は、そのころは町でした。つまり、創世記に書いてあるとおり、やって来た父ヤコブをヨセフが迎えた所です（創世記四六・二九）^[町の名は旧約のギリシア語訳による。日本語の聖書ではゴセン。]。その町が今は「コーメー」、つまりわたしたちの言う「村」になっています。ただし大きな村です。この村には教会があり、殉教者の記念堂と、聖なる修道士たちの修道の住まいもたくさんあります。わたしたちは、いつも守っていたならわしのとおり、それらを一つずつ見るために、そこに立ち寄らなければなりませんでした。
 // 七十人訳の創世記四六・二八〜二九 は、ヨセフが父を迎えた所を「ヘロオンの町（Ἡρώων πόλις）のあたり」とする。come はギリシア語の κώμη（村）。写本は comes で、come は Gamurrini の改め（p. 48 校注 5）。
 7.8 Nam ipse uicus nunc appellatur Hero, quae tamen Hero a terra Iesse miliario iam sexto decimo est, nam in finibus Egypti est; locus autem ipse satis gratus est, nam et pars quaedam fluminis Nili ibi currit.
 7:8 この村は、今はヘロと呼ばれています。ヘロはゴセンの地から十六マイルの所にあり、エジプトの境の内にあります。その場所はとても心地よい所です。ナイル川の流れの一部が、そこを流れているからです。
 7.9 Ac sic ergo exeuntes de Hero peruenimus ad ciuitatem, quae appellatur Arabia, quae est ciuitas in terra Iesse. Unde scriptum est dixisse Pharaonem ad Ioseph: In meliori terra Egypti colloca patrem tuum et fratres in terra Iessen, in terra Arabiae.
 7:9 こうして、わたしたちはヘロを出て、アラビヤという町に着きました。ゴセンの地にある町です。ですから、パロがヨセフにこう言ったと書いてあるのです。『エジプトの地の最も良い所に、あなたの父と兄弟たちとを住ませなさい。ゴセンの地、アラビヤの地に』（創世記四七・六）。
-// 原文は In meliori terra Egypti colloca patrem tuum et fratres in terra Iessen, in terra Arabiae。口語訳の創世記四七・六 の文言に揃え、口語訳にない「アラビヤの地に」は原文から足した（七十人訳の四五・一〇、四六・三四 の言い方）。
+// 原文は In meliori terra Egypti colloca patrem tuum et fratres in terra Iessen, in terra Arabiae。口語訳の創世記四七・六 の文言に揃え、口語訳にない「エジプトの地の」（terra Egypti）と「アラビヤの地に」は原文から足した（七十人訳の四五・一〇、四六・三四 の言い方）。
 
 8.1 De Arabia autem ciuitate quattuor milia passus sunt Ramessen. Nos autem, ut ueniremus ad mansionem Arabiae, per media Ramesse transiuimus, quae Ramessen ciuitas nunc campus est, ita ut nec unam habitationem habeat. Paret sane, quoniam et ingens fuit per girum et multas fabricas habuit; ruinae enim ipsius, quemadmodum collapsae sunt, in hodie infinitae parent.
 8:1 アラビヤの町からラメセスまでは四マイルです。わたしたちは、アラビヤの宿駅へ行くために、ラメセスの真ん中を通りました。そのラメセスの町は、今は野原になっていて、家が一軒もありません。それでも、かつてはまわりがとても広く、建物がたくさんあったことは、はっきり分かります。崩れたままの廃墟が、今日でも果てしなく広がって見えるからです。
@@ -50,7 +50,7 @@
 8:4 このことは、アラビヤの聖なる監督が話してくれたので知りました。監督は、この木のギリシア語の呼び名も教えてくれました。「デンドロス・アレーテイアス」、つまりわたしたちの言う「真理の木」です。この聖なる監督は、ラメセスまでわたしたちを迎えに来てくださいました。もう年配の人で、修道士の出の、本当に信仰の篤い、親しみやすい人です。旅人をとてもよくもてなし、神の聖書にもたいへん通じています。
 // dendros alethiae はギリシア語の δένδρος ἀληθείας（真理の木）。写本の欄外にギリシア文字でも書かれている（p. 49 校注 4）。
 8.5 Ipse ergo cum se dignatus fuisset uexare et ibi nobis occurrere, singula ibi ostendit seu retulit de illas statuas, quas dixi, ut etiam et de illa arbore sicomori. Nam et hoc nobis ipse sanctus episcopus retulit, eo quod Farao, quando uidit, quod filii Israhel dimiserant eum, tunc ille, priusquam post illos occuparet, isset cum omni exercitu suo intra Ramesse et incendisset eam omnem, quia infinita erat ualde, et inde post filios Israhel fuisset profectus.
-8:5 この監督は、わざわざ労をとって、そこまで迎えに来てくださいました。そして、さきに言ったあの像のことも、いちじく桑の木のことも、一つずつ示し、話してくれました。聖なる監督は、こんなことも話してくれました。パロは、イスラエルの人々が自分のもとを去ったのを見ました。そこで、その後を追う前に、全軍を率いてラメセスに入り、町をすっかり焼き払ったそうです。町はとても大きなものでした。それから、イスラエルの人々の後を追って出て行ったというのです。
+8:5 この監督は、わざわざ労をとって、そこまで迎えに来てくださいました。そして、さきに言ったあの像のことも、いちじく桑の木のことも、一つずつ示し、話してくれました。聖なる監督は、こんなことも話してくれました。パロは、イスラエルの人々が自分のもとを去ったのを見ました。そこで、その後を追う前に、全軍を率いてラメセスに入り、町をすっかり焼き払ったそうです。町がとても大きかったからです。それから、イスラエルの人々の後を追って出て行ったというのです。
 
 9.1 Nobis autem fortuitu hoc gratissimum euenit, ut ea die, qua uenimus ad mansionem Arabia, pridie a beatissimo die epiphania esset; nam eadem die uigiliae agendae erant in ecclesia. Ac sic ergo aliquo biduo ibi tenuit nos sanctus episcopus, sanctus et uere homo Dei, notus mihi iam satis de eo tempore, a quo ad Thebaidam fueram.
 9:1 わたしたちには、たまたま、とてもうれしいことがありました。アラビヤの宿駅に着いた日が、ちょうど幸いな公現祭の前日だったのです。その日には、教会で徹夜の祈りが行われることになっていました。そこで聖なる監督は、わたしたちを二日ほどそこに引きとめました。聖なる、本当に神の人で、わたしがテーバイスに行ったときから、もうよく知っている人です。
@@ -66,7 +66,7 @@
 9:5 こうして、アラビヤの町から二日のあいだ、ずっとゴセンの地を通って旅をし、ゾアンに着きました。聖なるモーセが生まれた町です。このゾアンの町は、かつてパロの都でした（民数記一三・二二）。
 // 底本は Tatnis、Tathnis と綴りを変えて刷る。底本の欄は cf. Num. 13, 23 を挙げてタニス（七十人訳の Τάνις、口語訳のゾアン）とみるので、口語訳の名と節の番号（一三・二二）で訳す。p. 50 校注 11 に、これをタパネスとみる Taphnis の推定（Bernard）がある。
 9.6 Et licet ea loca, ut superius dixi, iam nossem, id est quando Alexandriam uel ad Thebaidem fueram, tamen quia ad plenum discere uolebam loca, quae ambulauerunt filii Israhel proficiscentes ex Ramesse usque ad montem Dei sanctum Syna, ac sic necesse fuit etiam denuo ad terram Gessen reuerti et inde Tathnis: proficiscentes ergo de Tathnis, ambulans per iter iam notum perueni Pelusio.
-9:6 さきに言ったとおり、わたしはこれらの場所を、すでに知っていました。アレキサンドリヤとテーバイスに行ったときのことです。けれども、イスラエルの人々がラメセスから神の聖なる山シナイまで進んだ場所を、十分に知りたいと思ったのです。それで、もう一度ゴセンの地へ戻り、そこからゾアンへ行かなければなりませんでした。こうしてゾアンを出発し、すでに知っている道を通って、わたしはペルシゥムに着きました。
+9:6 さきに言ったとおり、わたしはこれらの場所を、すでに知っていました。アレキサンドリヤとテーバイスに行ったときのことです。けれども、イスラエルの人々がラメセスから神の聖なる山シナイまで進んだ場所を、十分に知りたいと思ったのです。それで、もう一度ゴセンの地へ戻り、そこからゾアンへ行かなければなりませんでした。こうしてわたしたちはゾアンを出発しました。わたしは、すでに知っている道を通って、ペルシゥムに着きました。
 9.7 Et inde proficiscens denuo, faciens iter per singulas mansiones Egypti, per quas iter habueramus, perueni ad fines Palestinae. Et inde in nomine Christi Dei nostri faciens denuo mansiones aliquot per Palestina regressa sum in Helia, id est in Ierusolimam.
 9:7 そこからまた出発し、来たときに通ったエジプトの宿駅を一つずつたどって、パレスチナの境に着きました。そこからまた、わたしたちの神キリストの名によって、パレスチナの宿駅をいくつか重ねました。そして、アエリア、つまりエルサレムに帰りました。
 // Helia は、ハドリアヌス帝がエルサレムに付けた名アエリア（Aelia Capitolina）。底本の索引も Aelia の項に挙げる。
