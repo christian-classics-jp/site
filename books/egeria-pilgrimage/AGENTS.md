@@ -124,7 +124,7 @@
 | spelunca（Anastasis の） / cancelli（cancellus） | ほら穴（主の墓。3.5 と同じ語）／仕切り（ほら穴の前の仕切り。intro cancellos は「仕切りの内」） |
 | basilica / ecclesia | 聖堂／教会（底本の索引が、エゲリアは二つを区別すると言う。24.10 の tota basilica Anastasis は「アナスタシスの聖堂全体」） |
 | Crux / ad Crucem / ante Crucem / post Crucem | 十字架／十字架の所（ゴルゴタ。初出の 24.7 に訳注「主が十字架にかけられたゴルゴタの場所。」。エウケリウスの Golgotha … locus est dominicae passionis による）／十字架の前（十字架とアナスタシスのあいだの中庭。索引の 89, 3）／十字架の後ろ（コンスタンティヌスの大きな教会。25.1 で原文が説明する）。場所の名として字どおり訳し、『』に入れない |
-| missa / fit missa | 散会／散会となる（底本の索引の missa＝dimissio。祝福の後に人々を帰すこと。「ミサ」としない。24.6 の missa Anastasi は「アナスタシスでの散会」、後の missa ecclesiae は「教会の散会」の形。底本の索引が oblatio の意味に分ける 80, 5 の missa は、そのページで決める） |
+| missa / fit missa | 散会／散会となる（底本の索引の missa＝dimissio。祝福の後に人々を帰すこと。「ミサ」としない。24.6 の missa Anastasi は「アナスタシスでの散会」、後の missa ecclesiae は「教会の散会」の形。底本の索引が oblatio の意味に分ける 80, 5〔27.8〕の Missa autem, quae fit sabbato …, hoc est oblatio だけは「務め」と訳し、「土曜日にアナスタシスで行われる務め、つまりささげ物」とする。27.7、27.9 の土曜日の朝の missa は「散会」） |
 | operatio | 務め（24.1、24.7。索引の Gottesdienst） |
 | ymni / matutini ymni / antiphonae | 賛歌／朝の賛歌／交唱（15.5 と同じ）。psalmi responduntur（24.1）は「詩篇が応唱される」。cata singulos ymnos uel antiphonas は「賛歌と交唱のたびに」 |
 | hora decima, quod appellant hic licinicon, nam nos dicimus lucernare | 第十時の務めは、ここでは「リュクニコン」と呼ばれます。わたしたちの言う「ともしびの祈り」です（中性の quod は時刻ではなく、その時の務めを受けるので「第十時の務め」とする。時刻そのものを務めの名で呼ばない。licinicon は索引の見出しの lychnicon〔λυχνικόν〕の音で写す。lucernare、lucernarium は「ともしびの祈り」、psalmi lucernares は「ともしびの祈りの詩篇」で受ける） |
@@ -142,7 +142,7 @@
 | uigilare（uicibus …） / ad uigilias | 夜を明かす／徹夜の祈りに（24.8、24.12） |
 | consuetudo / iuxta consuetudinem | ならわし／ならわしどおり（1〜23 章の訳と同じくひらく。「慣わし」としない） |
 | rugitus et mugitus | うめき声とうなり声（24.10。後の章の同じ組も同じ訳で受ける） |
-| ecclesia maior（quam fecit Constantinus … post Crucem） | 大きな教会（25.1 など。Martyrium の名は名が出るページで決める） |
+| ecclesia maior（quam fecit Constantinus … post Crucem） | 大きな教会（25.1 など。名は名前の表の Martyrium） |
 | procedere in … / proceditur in … / processio | …へ行列して行く（その日の典礼の場所へみなで行くこと。底本の索引の Prozession halten）／行列（26.1 の processio est in Anastase は「アナスタシスへの行列があり」） |
 | laetitia（celebratur） | 喜びの祝い（25.11、25.12。haec omnis laetitia は「この喜びの祝いはみな」） |
 | ornatus（hornatus） | 飾り（25.8〜25.12） |
@@ -152,6 +152,15 @@
 | superfluum fuit scribi | 書くまでもありません（25.8。続けて飾りを述べるので、言い尽くせないという含みで読む） |
 | quinquagesimae per pentecosten（25.6 の quinquagesimarum） | 五旬節の五十日目（の主の日） |
 | quadragesimae de epiphania | 公現祭から四十日目の祭り（26.1。複数でも一つの祭り。初出に訳注「当時のエルサレムでは公現祭に主の降誕を祝った。」） |
+| dies paschales / quadragesimae（複数） / eortae | 復活祭の時期（27.1。前の八週を含む季節）／四旬節（27.1 の sicut apud nos quadragesimae も「四旬節」）／「ヘオルタイ」（27.1 の quod hic appellant eortae, id est quadragesimas は、licinicon と同じ型で「ここでは「ヘオルタイ」と呼びます。つまり「四旬節」です」。ἑορταί の音。訳注は付けない） |
+| secunda feria … sexta feria | 月曜日……金曜日（土曜日の「土曜日」に合わせ、今の曜日で訳す。in medio quinta feria は「週の中ほどの木曜日」） |
+| martyrorum dies | 殉教者の記念の日（27.5） |
+| ebdomadarii / qui faciunt septimanas (ebdomadas) / facere integras septimanas ieiuniorum | 「週の人たち」（27.9。ここでの呼び名として「」に入れる）／週を通して断食する人たち（27.9、28.1。呼び名の説明の id est で受ける）／断食の週をまるごと通す（28.3） |
+| absoluere（目的語なし） | 断食を終える（27.9。底本の索引の finire ieiunium） |
+| biduanas facere / de sera ad seram manducare | 二日ずつの断食をする／晩から晩へと、晩に一度だけ食べる（28.3） |
+| psalmi responsorii | 応唱の詩篇（27.8） |
+| de pullo primo | 最初の鶏が鳴くと（27.2、27.4。「すぐに」を足すのは 24.9 の mox … statim のように原文に語があるときだけ） |
+| assidue（praedicant） | 欠かさず（27.6。「熱心に」としない） |
 | sacramenta（aguntur sacramenta） | 秘義（26.1。『秘義教話』の μυστήριον と同じ。説教の後の聖餐の儀式を指すとみられる） |
 
 ## 聖書
@@ -178,6 +187,9 @@
 - エゲリアがギリシア語の語を出して quod nos dicimus … と説明するところ（7.7 の come … quod nos dicimus uicus、8.4 の dendros alethiae, quod nos dicimus arbor ueritatis）は、ギリシア語を音で写して「」に入れ、説明の語も「」に入れる（「コーメー」、つまりわたしたちの言う「村」）。3.1 の「巻き貝のように」と同じ形。音はギリシア語の正しい形から写し、ラテン語の字の崩れに従わない（15.3 の cepos tu agiu iohanni は κῆπος τοῦ ἁγίου Ἰωάννου から「ケーポス・トゥー・ハギウー・ヨーアンヌー」）。台詞の中では『』に入れる（13.4、15.3）。
 - 地の人々や監督が語った言い伝えを eo quod … の間接話法で伝えるところ（8.5 の Farao … isset … et incendisset、19.17）は、「」に入れず、「〜そうです」「〜というのです」で受ける。その中の理由の quia、nam も「〜からです」で残す（8.5 の quia infinita erat ualde「町がとても大きかったからです」）。ただし、eo quod で始まっても、同じ話の中で語り手がエゲリアに二人称で語りかける（19.14〜19.15 の ut uides、uides）ときは、直接話法として「」に入れる。
 - 6.2、8.3 の ponent、tendent、uadent、tollent、8.2 の dicent は、底本の索引が言う -ent の現在形（未来ではない）。いつものならわしとして「〜します」で訳す。単数の -et（24 章の benedicet、dicet、colliget、descendet、mittet、prendet、uadet など。索引の Coniugationis formae insolentiores に挙がる）も同じく現在形で、同じ文の intrat、facit などと並べて「〜します」で訳す。
+- quemadmodum ＋未来完了（底本の索引の wenn, während）は「〜したら」「〜に入るまで」と、係る語の側で訳す（27.7 の usque in mane, … quemadmodum intratum fuerit in alia die mane は「次の日、すなわち土曜日の朝に入るまで」。28.1 の quemadmodum manducauerint は「食事をしたら」）。
+- sicut superius dixi（diximus）が名詞句や動作を受けるときは、受ける動作の直前に置き、人を修飾する「〜ような、〜人たち」の形にしない（28.3 の「断食の週を、先にわたしたちが述べたようにまるごと通すことのできない人たち」）。dixi は「先に言った」、diximus は「先にわたしたちが述べた」と数のとおりに訳し分ける。
+- uicibus … uicibus … の列挙（27.8）は、「代わる代わる」を列挙の頭に一度だけ置き、動詞を重ねない。
 - forsitan と数（10.8、12.7 の forsitan miliario sexto）は「六マイルほど」とし、「おそらく」と重ねない。
 - laborem (sibi) imponere は、意志の形（10.8 の si uolueritis）なら「労をいとわない」、能力の形（11.3 の qui potuerunt）なら「労に耐えられる」と訳し分ける。
 - 土地の修道士たちが言う maiores（12.2。前にその土地に住んだ人々）は「先人たち」とし、血筋の「先祖」としない。いま生きている修道士を言う maiores（20.5 の illos maiores, qui in solitudine sedebant）と、話に出る修道士を言う monachi maiores（20.13）は「すぐれた」（「すぐれた人たち」「すぐれた修道士たち」）と訳し分ける。
@@ -187,7 +199,7 @@
 - 16.7 の per quas ieramus tres annos は、底本の校注で Geyer が言う ante tres annos の意で「三年前に通った宿駅」と訳し、メモに書く。
 - 長老や土地の人がエゲリア一人に語る二人称単数（13.4 の quam uides、16.3 の quem uides）は「あなた」、一行に語る複数（14.2 の quae uidetis、15.3 の uos dicitis）は「あなたがた」と訳し分ける。
 - 並んだ二つの名詞の後の関係詞 qui（複数）は、両方を受けて「この人たちは」と訳し、片方に絞らない（21.5 の sancto episcopo et sanctis monachis, qui …）。
-- 程度の satis（21.4 の ingens satis、23.4 の satis pulchrum、satis mali）は「たいへん」と訳して落とさない。5.8 の satis fuit（訳語表）は別。
+- 程度の satis（21.4 の ingens satis、23.4 の satis pulchrum、satis mali）は「たいへん」と訳して落とさない。5.8 の satis fuit（訳語表）は別。qui minus と対になる 28.4 の qui satis fecerit は「多くした人」（底本の索引も程度の列から分ける）。
 - ne ＋接続法の目的の節（23.4 の ne forte conentur）は「〜させないため」「〜しないように」と訳し、「〜するかもしれない」という心配の文にしない。
 - deputo（23.4 の monasterium, quod ibi est deputatum）は「（そこに）属する、あてがわれた」と訳し、「建てられた」としない（底本の索引の deputare）。
 - 人の範囲を言う quicumque sunt（25.12 の loci ipsius monachi, quicumque sunt）は「〜はみな」と訳し、「何人いても」と人数の話にしない。
@@ -288,6 +300,7 @@
 | Cappadocia / Galatia / Bithinia | カパドキヤ／ガラテヤ／ビテニヤ（口語訳） |
 | Calcedon（Calcedona） / Eufimia | カルケドン／エウフェミア（『迫害者たちの死について』の「カルケドン」と同じ） |
 | Asia / Iohannes apostolus | アジヤ（口語訳使徒一九・一〇）／使徒ヨハネ |
+| Martyrium（Martyrio） | マルテュリウム（ゴルゴタの十字架の後ろの大きな教会の名。初出 27.3。音で写し、名の由来は 30 章の初め〔p. 83, 2〕で原文が述べるので訳注は付けない） |
 | Constantinus | コンスタンティヌス（25.9 の matris suae は「母」とし、原文にないヘレナの名を足さない） |
 | Eleona | エレオナ（オリブ山の教会。25.11 で原文が id est in ecclesia, quae est in monte Oliueti と説明するので音で写す） |
 | Lazarium（in Lazariu） | ラザリウム（ラザロの墓の教会。25.11。82, 3 で原文がベタニヤと言い換える） |
