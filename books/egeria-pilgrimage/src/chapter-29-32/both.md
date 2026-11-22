@@ -18,7 +18,7 @@
 29:6 この日にこれが行われるのは、福音書に書かれているとおり、このことが過越の祭の六日まえにベタニヤで起こったからです。土曜日から、晩餐の後、夜に主が捕らえられた木曜日までが、六日になります。こうして、みなは町へ、まっすぐアナスタシスへ帰り、ならわしどおりともしびの祈りが行われます。
 
 30.1 Alia ergo die, id est dominica, qua intratur in septimana paschale, quam hic appellant septimana maior, celebratis de pullorum cantu his, quae consuetudinis sunt in Anastase uel ad Crucem usque ad mane agi: die ergo dominica mane proceditur iuxta consuetudinem in ecclesia maiore, quae appellatur Martyrium. Propterea autem Martyrium appellatur, quia in Golgotha est, id est post Crucem, ubi Dominus passus est, et ideo Martyrio.
-30:1 次の日、つまり主の日には、復活祭の週に入ります。ここではこの週を「大いなる週」と呼びます。この日は、鶏の鳴くころから朝まで、アナスタシスと十字架の所で行うならわしのことが行われます。それから主の日の朝、ならわしどおり大きな教会へ行列して行きます。マルテュリウムと呼ばれる教会です。マルテュリウムと呼ばれるのは、ゴルゴタ、つまり十字架の後ろにあるからです。主が苦しみをお受けになった所です。それで、マルテュリウム^[殉教者が苦しんだ場所や、その記念堂を言う語。]と呼ぶのです。
+30:1 次の日、つまり主の日には、復活祭前の週に入ります。ここではこの週を「大いなる週」と呼びます。この日は、鶏の鳴くころから朝まで、アナスタシスと十字架の所で行うならわしのことが行われます。それから主の日の朝、ならわしどおり大きな教会へ行列して行きます。マルテュリウムと呼ばれる教会です。マルテュリウムと呼ばれるのは、ゴルゴタ、つまり十字架の後ろにあるからです。主が苦しみをお受けになった所です。それで、マルテュリウム^[殉教者の記念堂を言う語と同じ。]と呼ぶのです。
 30.2 Cum ergo celebrata fuerint omnia iuxta consuetudinem in ecclesia maiore, et antequam fiat missa, mittet uocem archidiaconus et dicit primum: ista septimana omni, id est de die crastino, hora nona, omnes ad Martyrium conueniamus, id est in ecclesia maiore. Item mittet uocem alteram et dicet: hodie omnes hora septima in Eleona parati simus.
 30:2 大きな教会で、ならわしどおりすべてが祝われると、散会となる前に、執事長が声を上げて、まずこう告げます。「この週は毎日、つまり明日から、第九時に、みなでマルテュリウム、つまり大きな教会に集まりましょう」。続けてもう一度声を上げて、「今日は第七時に、みなでエレオナに集まっていましょう」と告げます。
 30.3 Facta ergo missa in ecclesia maiore, id est ad Martyrium, deducitur episcopus cum ymnis ad Anastase et ibi completis, quae consuetudo est diebus dominicis fieri in Anastase post missa Martyrii et iam unusquisque hiens ad domum suam festinat manducare, ut hora inchoante septima, omnes in ecclesia parati sint, quae est in Eleona, id est in monte Oliueti, ubi est spelunca illa, in qua docebat Dominus.
@@ -31,9 +31,9 @@
 // マタイ二一・九 で叫ぶのは「群衆」。子供たちが叫ぶのは二一・一五、しゅろの枝はヨハネ一二・一三。原文どおり訳す。
 // Nam totus populus ante ipsum cum ymnis … respondentes には定動詞がない。Geyer は校注 30 で ante ipsum uadit を案として示し、本文には入れない。訳は「進み」を補う。
 31.3 Et quotquot sunt infantes in hisdem locis, usque etiam qui pedibus ambulare non possunt, quia teneri sunt, in collo illos parentes sui tenent, omnes ramos tenentes alii palmarum, alii oliuarum; et sic deducetur episcopus in eo typo, quo tunc Dominus deductus est.
-31:3 このあたりにいる子供たちはみな、まだ幼くて歩けない子供まで、親に肩に担がれて、枝を手にしています。しゅろの枝を持つ子供もいれば、オリブの枝を持つ子供もいます。こうして、かつて人々が主をお連れしたのと同じ形で、監督が導かれて行きます（マタイ二一・八）。
+31:3 このあたりにいる子供たちはみな、枝を手にしています。まだ幼くて歩けない子供たちまでそうで、その子たちは親が肩に担いでいます。しゅろの枝を持つ子供もいれば、オリブの枝を持つ子供もいます。こうして、かつて人々が主をお連れしたのと同じ形で、監督が導かれて行きます（マタイ二一・八）。
 31.4 Et de summo monte usque ad ciuitatem et inde ad Anastase per totam ciuitatem totum pedibus omnes, sed et si quae matronae sunt aut si qui domini, sic deducunt episcopum respondentes et sic lente et lente, ne lassetur populus, porro iam sera peruenitur ad Anastase. Ubi cum uentum fuerit, quamlibet sero sit, tamen fit lucernare, fit denuo oratio ad Crucem et dimittitur populus.
-31:4 山の頂から町まで、そしてそこから町じゅうを通ってアナスタシスまで、みなずっと歩いて行きます。身分の高い女の人や男の人がいても、その人たちも歩きます。こうして、応えながら監督を導いて行きます。民が疲れないように、ゆっくり、ゆっくり進みます。そのため、アナスタシスに着くのはもう夕方です。着くと、どれほど遅くなっていても、ともしびの祈りが行われます。十字架の所でもう一度祈りをし、民は帰されます。
+31:4 山の頂から町まで、そしてそこから町じゅうを通ってアナスタシスまで、みなずっと歩いて行きます。身分の高い女の人や男の人がいても、その人たちも歩きます。こうして、応えながら監督を導いて行きます。民が疲れないように、ゆっくり、ゆっくり進みます。そうして、アナスタシスに着くころには、もう夕方です。着くと、どれほど遅くなっていても、ともしびの祈りが行われます。十字架の所でもう一度祈りをし、民は帰されます。
 
 32.1 Item alia die, id est secunda feria, aguntur, quae consuetudinis sunt de pullo primo agi usque ad mane ad Anastase, similiter et ad tertia et ad sexta aguntur ea, quae totis quadragesimis. Ad nona autem omnes in ecclesia maiore, id est ad Martyrium, colligent se et ibi usque ad horam primam noctis semper ymni et antiphonae dicuntur, lectiones etiam aptae diei et loco leguntur, interpositae semper orationes.
 32:1 次の日、つまり月曜日には、最初の鶏が鳴いてから朝まで、アナスタシスで行うならわしのことが行われます。第三時と第六時にも、四旬節のあいだずっと行われていたことが、同じように行われます。第九時には、みなが大きな教会、つまりマルテュリウムに集まります。そこでは夜の第一時まで、ずっと賛歌と交唱が唱えられ、その日とその場所にふさわしい聖書の箇所も読まれます。あいだには、いつも祈りがはさまれます。
