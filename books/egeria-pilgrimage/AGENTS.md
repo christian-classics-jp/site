@@ -224,6 +224,10 @@
 - quasi homo hominem cognoscere（36.3）は「人がどうにか人の顔を見分けられるようになる時刻」と、決まった言い方として揃える。
 - 監督が民に語る言葉（36.5）は、年長の聖職者の敬体で「〜してください」とし、民を uos で呼ぶところも「皆さん」などと言い足さない（sedete uobis の再帰の与格は訳さない）。
 - 定動詞のない文（31.2 の Nam totus populus ante ipsum cum ymnis … respondentes。Geyer は校注で uadit を案として示す）は、動詞を補って訳し（「監督の前を進み」）、`// ` メモに原文に動詞がないことを書く。
+- 体の部分を言う手段の de（37.2 の de manibus suis、37.3 の primum de fronte, sic de oculis）は「両手で」「まず額で、次に目で」と訳し、起点の「〜から」にしない。
+- affectus（37.7）は「心を動かされる」で受け（34.1 と同じ）、「心の高ぶり」としない。
+- in ecclesia maiore ad Martyrium（37.8）のように id est のない並びは「大きな教会のマルテュリウム」とし、「つまり」は id est があるとき（30.3、32.1）だけにする。
+- 時を言う Post hoc（36.5、37.1、37.7）は「その後」。sedere modice（36.5、37.1）は「少し座って休む」。
 - hac sic ergo、ac sic ergo、itaque ergo のような話をつなぐ決まった言い方は、「こうして」「そこで」程度に軽く訳し、一つずつ訳し分けない。
 
 ## 名前の表
