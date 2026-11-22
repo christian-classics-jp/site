@@ -102,6 +102,12 @@
 | archiotipa（archiotepa） | 像（19.6、19.15。底本の索引の imago。大理石なので「大理石の像」） |
 | cursor（Ananias cursor） | 急使（エウセビオスの ταχυδρόμος に当たる。「急使アナニヤ」） |
 | nutus Dei / iussum Dei | 神のみこころ／神のご命令（19.13、19.12） |
+| gentes（20.8） | 異教徒（町の人々。底本の索引の Heiden。「異邦人」としない） |
+| scriptura canonis（20.10） | 正典の聖書 |
+| fabulae（20.13） | 話（底本の索引の fabula ＝会話。「作り話」「物語」としない） |
+| passus（mille passus） | 歩（20.8 の forte ad mille passus「千歩ほど」。6.1 の「百歩、二百歩」と同じ。マイルに直さない） |
+| 暦の日付（20.5 の nono k. maias） | 今の日付に直す（「四月二十三日」）。原文の言い方と換算はメモに書く |
+| orientalis（20.12 の Haec … specialiter orientalis appellatur） | 『東方』（地方の呼び名として『』に入れる） |
 
 典礼の語（Anastasis、Martyrium、Crux、missa、lucernare、ymni、cathecisis など）は、24 章以降を訳すページで、『秘義教話』の訳語表と照らして決め、ここに足す。
 
@@ -131,7 +137,7 @@
 - 6.2、8.3 の ponent、tendent、uadent、tollent、8.2 の dicent は、底本の索引が言う -ent の現在形（未来ではない）。いつものならわしとして「〜します」で訳す。
 - forsitan と数（10.8、12.7 の forsitan miliario sexto）は「六マイルほど」とし、「おそらく」と重ねない。
 - laborem (sibi) imponere は、意志の形（10.8 の si uolueritis）なら「労をいとわない」、能力の形（11.3 の qui potuerunt）なら「労に耐えられる」と訳し分ける。
-- 土地の修道士たちが言う maiores（12.2。前にその土地に住んだ人々）は「先人たち」とし、血筋の「先祖」としない。
+- 土地の修道士たちが言う maiores（12.2。前にその土地に住んだ人々）は「先人たち」とし、血筋の「先祖」としない。いま生きている修道士を言う maiores（20.5 の illos maiores, qui in solitudine sedebant）と、話に出る修道士を言う monachi maiores（20.13）は「すぐれた」（「すぐれた人たち」「すぐれた修道士たち」）と訳し分ける。
 - in hoc loco, ubi …（14.2）のように場所を受ける ubi の節は、場所の説明として訳し、「〜だからです」と理由にしない。
 - reuelo と ostendo は「啓示する」「示す」と訳し分ける（16.5 の iuxta quod ei fuerat reuelatum は「啓示を受けたとおりに」）。
 - 16.7 の per quas ieramus tres annos は、底本の校注で Geyer が言う ante tres annos の意で「三年前に通った宿駅」と訳し、メモに書く。
@@ -208,8 +214,14 @@
 | Batanis | バタニス（19.1。底本の綴りの音で写す。原文は聖書に名が出ると言うが、箇所は分からない） |
 | Mesopotamia / Syria | メソポタミヤ／スリヤ（口語訳。17.1、18.3 の Mesopotamia Syriae は七十人訳創世記二八・二 の形で「スリヤのメソポタミヤ」） |
 | Eufrates | ユフラテ（口語訳創世記一五・一八） |
-| Charra（Charram、Charris） | ハラン（口語訳創世記一一・三一。底本の Charra は当時の名。訳では「カラエ（ハラン）」とするかを、ページを訳すときに決める） |
-| Abraham / Naor（Nachor） / Bathuhel（Bathuhelem、Bathuhelis） / Laban / Iacob / Rachel | アブラハム／ナホル／ベトエル／ラバン／ヤコブ／ラケル（口語訳。リベカの綴りは OCR で見つかっていないので、ページを訳すときに確かめる） |
+| Charra（Charram） / Charris | ハラン（口語訳創世記一一・三一。20.1 で原文が聖書の名と言う Charra と、その後の Charra はみな「ハラン」）／カルラエ（20.1 の ad Charris, quia modo sic dicitur。今の名の Charrae〔Carrhae〕の形。底本の索引の Charra, modo Charrae dicitur。21.1 の a Charris も「カルラエ」） |
+| Abraham / Naor（Nahor、Nachor） / Bathuhel（Bathuhelem、Bathuhelis） / Laban / Iacob / Rachel / Rebecca / Ysaac | アブラハム／ナホル／ベトエル／ラバン／ヤコブ／ラケル／リベカ／イサク（口語訳） |
+| Thara / Sarra | テラ／サラ（20.9。アブラハムを「アブラハム」とするのに合わせ、創世記一一・三一 の口語訳の「サライ」にしない） |
+| Laban Syrus（Laban Syri） | アラムびとラバン（口語訳創世記二八・五。七十人訳の「スリヤ人」の形だが、人の呼び名は口語訳に揃える） |
+| Eleazar（puer Abrahae。20.4 の Eleazari） | エリエゼル（口語訳創世記一五・二。創世記二四章はしもべの名を言わない。綴りどおりの「エレアザル」は口語訳ではアロンの子なので使わず、メモに書く） |
+| Helpidius | ヘルピディウス（20.5。ハランの殉教者の記念堂の修道士） |
+| Chaldaei / Hur / Nisibis | カルデヤ人／ウル（口語訳創世記一一・二八 の「カルデヤのウル」）／ニシビス（20.12） |
+| Romani | ローマ人 |
 | Antiochia / Tharsus / Cilicia | アンテオケ／タルソ／キリキヤ（口語訳） |
 | Efesus | エペソ（口語訳） |
 | Ierusolima | エルサレム |
