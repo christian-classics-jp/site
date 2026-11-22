@@ -44,7 +44,7 @@
 
 - 地の文は敬体（「〜です」「〜ました」）。エゲリアが故郷の姉妹たちに宛てた手紙で、ところどころで読み手に語りかける（3.8 の Illud autem uos uolo scire, dominae uenerabiles sorores）。旅の記録も典礼の記録も敬体で通す（『アントニオス伝』と同じ）。過去のことは「〜ました」で語る。典礼の記録（24 章以降）の現在形は、いつも行われていることとして「〜します」「〜されます」で訳す。
 - 書き手のエゲリアは「わたし」。書き手と旅の仲間は「わたしたち」（原文の nos）。原文が一人称単数と複数を行き来するところは、原文の数のとおりに訳し分ける。
-- 読み手への呼びかけ：dominae uenerabiles sorores は「尊い姉妹の皆さま」、dominae sorores は「姉妹の皆さま」（『ペルペトゥアとフェリキタスの殉教』の Domina soror「尊い姉妹よ」に合わせ、複数の手紙の呼びかけとして「皆さま」にする）。読み手を指す uos は「皆さま」。affectio uestra（皆さまの愛情、の意で読み手を指す丁寧な言い方）は「皆さま」と訳し、必要なら「愛する皆さま」とする。sorores のない dominae uenerabiles（12.7）は「尊い皆さま」とし、ない語を足さない。そのほかの呼びかけ（19.19 の dominae animae meae、23 章の domnae, lumen meum など）は、初めて出るページで決めてここに書く。
+- 読み手への呼びかけ：dominae uenerabiles sorores は「尊い姉妹の皆さま」、dominae sorores は「姉妹の皆さま」（『ペルペトゥアとフェリキタスの殉教』の Domina soror「尊い姉妹よ」に合わせ、複数の手紙の呼びかけとして「皆さま」にする）。読み手を指す uos は「皆さま」。affectio uestra（皆さまの愛情、の意で読み手を指す丁寧な言い方）は「皆さま」と訳し、必要なら「愛する皆さま」とする。sorores のない dominae uenerabiles（12.7）は「尊い皆さま」とし、ない語を足さない。19.19 の dominae animae meae は「わたしの魂である皆さま」とし、同じく sorores を足さない（後の章にもう一度出る）。そのほかの呼びかけ（23 章の domnae, lumen meum など）は、初めて出るページで決めてここに書く。
 - 神とキリストの動作は尊敬語にする。受け身や可能と紛れる「〜られる」は避け、「お〜になる」にする（『秘義教話』と同じ）。監督、長老、修道士の動作に尊敬語は使わない。ただし、エゲリアが人々の好意を言う dignor（3.7 の dignati sunt singula ostendere）は「〜してくださる」と、受ける側の言い方で訳す。
 - 道案内の人々や監督の台詞は「」。監督や長老がエゲリアに語る言葉は、年長の聖職者がていねいに語る敬体にする（19 章の filia「娘よ」と呼ぶ監督の言葉など。人物ごとの口調は初めて出るページで決めてここに書く）。土地の長老や修道士たちが巡礼の一行に語る言葉も敬体で、一行を uos「あなたがた」と呼ぶ（12.2、12.3）。
 - 一人の話が節をまたいで続くとき（14.2〜14.3 の長老の言葉、16.5〜16.6 の欠けの後の言葉）は、「」を開いたまま次の節で閉じ、節ごとに閉じて開き直さない。
@@ -94,7 +94,14 @@
 | cata pascha（15.5） | 毎年の復活祭に（cata はギリシア語の κατά。7.2 の cata mansiones と同じ語） |
 | psalmi uel antiphonae（15.5） | 詩篇と交唱（uel は「と」。antiphonae はここで初めて出る典礼の語で、24 章以降も「交唱」） |
 | mature（15.5） | 朝早く（底本の索引の mature = mane） |
-| tribunus（16.6） | 将校（この時代の軍の指揮官。「護民官」としない） |
+| tribunus（16.6） | 将校（この時代の軍の指揮官。「護民官」としない。19.1 の miles … cum tribuno suo は「兵がその将校と一緒に」） |
+| in nomine Dei / in nomine Christi Dei nostri | 神の名によって／わたしたちの神キリストの名によって（5.11、9.7、17.1、18.1 など。旅の区切りに添える決まった言い方） |
+| martyrium（人名が付くとき） | 〜の記念堂（17.1 の martyrium sancti Thomae apostoli「聖なる使徒トマスの記念堂」。名のない martyria は「殉教者の記念堂」） |
+| confessor | 告白者（19.1、19.5、20 章。『キプリアヌス小品集』『リヨンの殉教者たち』と同じ。迫害で信仰を言い表し、生きている人。uir … monachus et confessor は「修道士で告白者でもある」） |
+| statiua / statiuam facere | とどまる（18.1。19.3 の statiua triduana facere は「三日間とどまる」） |
+| archiotipa（archiotepa） | 像（19.6、19.15。底本の索引の imago。大理石なので「大理石の像」） |
+| cursor（Ananias cursor） | 急使（エウセビオスの ταχυδρόμος に当たる。「急使アナニヤ」） |
+| nutus Dei / iussum Dei | 神のみこころ／神のご命令（19.13、19.12） |
 
 典礼の語（Anastasis、Martyrium、Crux、missa、lucernare、ymni、cathecisis など）は、24 章以降を訳すページで、『秘義教話』の訳語表と照らして決め、ここに足す。
 
@@ -113,11 +120,11 @@
 - 1.2 の ut tamen commonuerunt … dicentes のような、本筋の途中に挟む説明の文は、文を分けて地の文で訳してよい。
 - id est で言い換えるところは「つまり」「すなわち」で受け、言い換えの語を落とさない（3.3 の id est summitas montis、3.6 の id est seu circa …）。来た人の範囲を言い直す id est qui …（3.4）も「つまり」で受け、除外の「ただし」にしない。言い換えを述語にして受けられるとき（3.8 の「立っていた場所は、教会の壁のまわり、つまり…頂でした」）は、二つ続く id est の両方に接続の語を置かなくてよい。
 - 一文の中で nos と ego が切り替わるところ（2.7 の perueniremus … cognoueram）は、主語を補って「わたしたちが着く前から、わたしは知っていました」と訳し分ける。分詞の複数から動詞の単数へ移るところ（9.6 の proficiscentes ergo de Tathnis, ambulans … perueni）も、「わたしたちは…出発しました。わたしは…着きました」と文を分けて訳し分ける。複数の文から単数の文へ移るところ（12.1 の peruenimus … uidi）も、「わたしは」を補って数を示す。
-- 聖書の箇所を読むこと（lectus est ipse locus de libro …、legeretur）は受け身で「読まれました」「読んでもらう」と訳す。読むのは聖職者たちで、エゲリアが自分で読むようにしない。詩篇を唱えること（dictus est psalmus、diceretur psalmus）も同じく受け身で「唱えられました」「唱えられます」と訳す（4.4、10.7、11.3）。祈り（facta est oratio）だけは一行がするものとして「祈りをする」と能動で訳す。
+- 聖書の箇所を読むこと（lectus est ipse locus de libro …、legeretur）は受け身で「読まれました」「読んでもらう」と訳す。原文が一人称複数の能動で言うところ（19.2 の aliquanta ipsius sancti Thomae ibi legimus）は「わたしたちは…読みました」と原文どおりにする。読むのは聖職者たちで、エゲリアが自分で読むようにしない。詩篇を唱えること（dictus est psalmus、diceretur psalmus）も同じく受け身で「唱えられました」「唱えられます」と訳す（4.4、10.7、11.3）。祈り（facta est oratio）だけは一行がするものとして「祈りをする」と能動で訳す。
 - 前に済んだことを振り返る過去完了（5.2 の ubi manseramus et uideramus）は、「泊まった所です」「すでに見ていました」のように、新しい出来事と見分けられる形にする。
 - de quo locutus est Dominus (Deus) Moysi in igne（4.7、5.2）は「そのしばから、主は火の中でモーセにお語りになりました」のように「火の中で」と訳す。2.2 の de rubo in igne「燃えるしばの中から」は別の形。
 - エゲリアがギリシア語の語を出して quod nos dicimus … と説明するところ（7.7 の come … quod nos dicimus uicus、8.4 の dendros alethiae, quod nos dicimus arbor ueritatis）は、ギリシア語を音で写して「」に入れ、説明の語も「」に入れる（「コーメー」、つまりわたしたちの言う「村」）。3.1 の「巻き貝のように」と同じ形。音はギリシア語の正しい形から写し、ラテン語の字の崩れに従わない（15.3 の cepos tu agiu iohanni は κῆπος τοῦ ἁγίου Ἰωάννου から「ケーポス・トゥー・ハギウー・ヨーアンヌー」）。台詞の中では『』に入れる（13.4、15.3）。
-- 地の人々や監督が語った言い伝えを eo quod … の間接話法で伝えるところ（8.5 の Farao … isset … et incendisset）は、「」に入れず、「〜そうです」「〜というのです」で受ける。その中の理由の quia、nam も「〜からです」で残す（8.5 の quia infinita erat ualde「町がとても大きかったからです」）。
+- 地の人々や監督が語った言い伝えを eo quod … の間接話法で伝えるところ（8.5 の Farao … isset … et incendisset、19.17）は、「」に入れず、「〜そうです」「〜というのです」で受ける。その中の理由の quia、nam も「〜からです」で残す（8.5 の quia infinita erat ualde「町がとても大きかったからです」）。ただし、eo quod で始まっても、同じ話の中で語り手がエゲリアに二人称で語りかける（19.14〜19.15 の ut uides、uides）ときは、直接話法として「」に入れる。
 - 6.2、8.3 の ponent、tendent、uadent、tollent、8.2 の dicent は、底本の索引が言う -ent の現在形（未来ではない）。いつものならわしとして「〜します」で訳す。
 - forsitan と数（10.8、12.7 の forsitan miliario sexto）は「六マイルほど」とし、「おそらく」と重ねない。
 - laborem (sibi) imponere は、意志の形（10.8 の si uolueritis）なら「労をいとわない」、能力の形（11.3 の qui potuerunt）なら「労に耐えられる」と訳し分ける。
@@ -186,8 +193,17 @@
 | Iohannes baptista | バプテスマのヨハネ（口語訳。15.2 の sanctum Iohannem baptistam は「聖なるバプテスマのヨハネ」） |
 | Getha | ゲタ（16.1。底本の音で写し、欄の士師記一二・七 から「士師記のエフタを指すとみられる。」と訳注を付ける） |
 | Fenice | ピニケ（口語訳使徒一一・一九） |
-| Edessa / Aggarus | エデッサ／アブガル（エデッサの王。底本の綴りは Aggarus） |
-| Mesopotamia / Syria | メソポタミヤ／スリヤ（口語訳） |
+| Edessa / Aggarus / Magnus | エデッサ／アブガル（エデッサの王。底本の綴りは Aggarus）／マグヌス（アブガルの子。底本の綴りの音で写す） |
+| Thomas apostolus | 使徒トマス |
+| Ananias（cursor） | アナニヤ（口語訳使徒九・一〇 の表記） |
+| Persae / Persida | ペルシャ人／ペルシャ（口語訳エズラ記一・一 の「ペルシャ」） |
+| Constantinopolis | コンスタンティノポリス |
+| Siria Celen（prouincia） | コイレ・スリヤ州（18.1。Syria Coele。名前の表のスリヤに合わせる） |
+| Augustofratensis（prouincia） | アウグストフラテンシス州（18.1。底本の綴りの音で写す） |
+| Gerapolis / Ierapolis | ヒエラポリス（18.1、18.2。同じ町 Hierapolis で、底本の索引も一つの項にまとめる） |
+| Rodanus | ローヌ川（18.2） |
+| Batanis | バタニス（19.1。底本の綴りの音で写す。原文は聖書に名が出ると言うが、箇所は分からない） |
+| Mesopotamia / Syria | メソポタミヤ／スリヤ（口語訳。17.1、18.3 の Mesopotamia Syriae は七十人訳創世記二八・二 の形で「スリヤのメソポタミヤ」） |
 | Eufrates | ユフラテ（口語訳創世記一五・一八） |
 | Charra（Charram、Charris） | ハラン（口語訳創世記一一・三一。底本の Charra は当時の名。訳では「カラエ（ハラン）」とするかを、ページを訳すときに決める） |
 | Abraham / Naor（Nachor） / Bathuhel（Bathuhelem、Bathuhelis） / Laban / Iacob / Rachel | アブラハム／ナホル／ベトエル／ラバン／ヤコブ／ラケル（口語訳。リベカの綴りは OCR で見つかっていないので、ページを訳すときに確かめる） |
