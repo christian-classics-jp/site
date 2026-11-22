@@ -16,7 +16,7 @@ Mason は各ページの本文の下に異読の欄を置き、印刷ページ�
 - f：オックスフォード、Lincoln College のギリシア語写本 XX。11 世紀の終わりごろか（OCR l. 916–918）。
 - g：ケンブリッジ、Trinity College B. 9. 13。11 世紀の初めごろ。第 29〜31 講話だけを含む（OCR l. 921–928）。
 - El：クレタのエリアス（11 世紀半ば）の注解。当時の本文を示す証人として Mason が引く（OCR l. 961–970）。
-- 引用符（‘…’）の中：Benedictine 版（1778〜1842）の校注の写し。たとえば p. 5 の `εξικνειται bd ‘Or. 1 etc.’` は、Mason の照合で b と d が ἐξικνεῖται と読み、Benedictine 版の編者が「Oratoire 1 ほか」も同じと言う、という意味（OCR l. 990–1001）。Colb. などの Benedictine 版の略号を、Mason は展開していない（Coisl. 1 が b であることだけを書く）。‘in nonnullis’ は「いくつか（の写本）では」というラテン語。
+- 引用符（‘…’）の中：Benedictine 版（1778〜1842）の校注の写し。たとえば p. 5 の `εξικνειται bd ‘Or. 1 etc.’` は、Mason の照合で b と d が ἐξικνεῖται と読み、Benedictine 版の編者が「Oratoire 1 ほか」も同じと言う、という意味（OCR l. 990–1001）。Colb. などの Benedictine 版の略号を、Mason は展開していない（Coisl. 1 が b であることだけを書く）。‘in nonnullis’ は「いくつか（の写本）では」というラテン語。‘duo Reg.’ は王立図書館（Regius）の写本二つ、‘duo Colb.’ は Colbert 系の写本二つの意味とみられる（p. 15、p. 16。Mason は展開していない）。
 - Benedictine 版：Mason の本文の基になった刊本。Mason は、その読みと校注が満足できないとして、写本の照合で実質的に新しい本文を作った（OCR l. 831–836）。ほかの古い刊本は Hervagius（バーゼル 1550）、De Billy（Prunaeus。パリ 1569 以降、ラテン語訳つき）、Leuvenklaius（バーゼル 1571）、Morel（パリ 1630）（OCR l. 972–980）。
 
 ## 注解
