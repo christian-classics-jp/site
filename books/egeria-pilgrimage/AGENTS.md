@@ -171,7 +171,7 @@
 | de pullo primo | 最初の鶏が鳴くと（27.2、27.4。「すぐに」を足すのは 24.9 の mox … statim のように原文に語があるときだけ） |
 | assidue（praedicant） | 欠かさず（27.6。「熱心に」としない） |
 | archidiaconus / mittit uocem et dicit | 執事長／声を上げて、「…」と告げる（29.3、30.2。diaconus「執事」に揃える。告げる言葉の一人称複数の勧めは、parati simus「集まっていましょう」、conueniamus「集まりましょう」） |
-| septimana paschalis / septimana maior | 復活祭前の週／「大いなる週」（30.1。復活祭の前の第八週。「復活祭の週」だと復活祭の後の週と紛れるので「前の」を補う。septimana maior は quam hic appellant の呼び名として「」に入れ、47 章も同じ訳で受ける） |
+| septimana paschalis / septimana maior | 復活祭前の週／「大いなる週」（30.1。appellatur、appellant で示す行事や期間の呼び名は、ほかも「」に入れる：46.2 の「教話」、48.1 の「献堂の祭りの日々」。マルテュリウムなどの建物の名は入れない。復活祭の前の第八週。46.4 の octaua septimana は「第八週」、29 章の「第七週」と同じ形。「復活祭の週」だと復活祭の後の週と紛れるので「前の」を補う。septimana maior は quam hic appellant の呼び名として「」に入れ、47 章も同じ訳で受ける） |
 | pascha（復活祭の意） | 復活祭（29.5 の denuntiatur pascha「復活祭が告げられます」）。福音書の引用の中と、それを受ける地の文の ante sex dies paschae（29.6）は口語訳の「過越の祭」。二つが同じ語であることは、初めてぶつかる 29.5 に訳注「原文では『過越の祭』と『復活祭』は同じ語。」で示した |
 | populus | 民（27.6、29.4 以降。omnis populus は「民はみな」。「人々」としない。人々を広く言う omnes は「みな」） |
 | matronae / domini（31.4） | 身分の高い女の人／身分の高い男の人（domini を「主」「主人」としない） |
@@ -234,7 +234,7 @@
 - 長老や土地の人がエゲリア一人に語る二人称単数（13.4 の quam uides、16.3 の quem uides）は「あなた」、一行に語る複数（14.2 の quae uidetis、15.3 の uos dicitis）は「あなたがた」と訳し分ける。
 - 並んだ二つの名詞の後の関係詞 qui（複数）は、両方を受けて「この人たちは」と訳し、片方に絞らない（21.5 の sancto episcopo et sanctis monachis, qui …）。
 - 程度の satis（21.4 の ingens satis、23.4 の satis pulchrum、satis mali）は「たいへん」と訳して落とさない。5.8 の satis fuit（訳語表）は別。qui minus と対になる 28.4 の qui satis fecerit は「多くした人」（底本の索引も程度の列から分ける）。
-- ne ＋接続法の目的の節（23.4 の ne forte conentur）は「〜させないため」「〜しないように」と訳し、「〜するかもしれない」という心配の文にしない。
+- ne ＋接続法の目的の節（23.4 の ne forte conentur）は「〜させないため」「〜しないように」と訳し、「〜するかもしれない」という心配の文にしない。文の中で主文に係る ne ＋接続法（46.6 の et ne aestimetis、47.4 の ne contristentur）も、主文を先に訳して「〜しないようにするためです」「〜済むようにするためです」と後ろから受け、禁止の命令や結果の文にしない。目的の ut ＋接続法（46.4 の ut impleantur）も「〜ためです」で受け、「〜なければならない」と義務にしない。
 - deputo（23.4 の monasterium, quod ibi est deputatum）は「（そこに）属する、あてがわれた」と訳し、「建てられた」としない（底本の索引の deputare）。
 - 人の範囲を言う quicumque sunt（25.12 の loci ipsius monachi, quicumque sunt）は「〜はみな」と訳し、「何人いても」と人数の話にしない。
 - 章や段落の頭の Sane（26.1）は軽く訳すか訳さずにおき、「〜も」と前と並べる語を足さない。
@@ -248,7 +248,9 @@
 - 定動詞のない文（31.2 の Nam totus populus ante ipsum cum ymnis … respondentes。Geyer は校注で uadit を案として示す）は、動詞を補って訳し（「監督の前を進み」）、`// ` メモに原文に動詞がないことを書く。
 - 体の部分を言う手段の de（37.2 の de manibus suis、37.3 の primum de fronte, sic de oculis）は「両手で」「まず額で、次に目で」と訳し、起点の「〜から」にしない。
 - affectus（37.7）は「心を動かされる」で受け（34.1 と同じ）、「心の高ぶり」としない。
-- in ecclesia maiore ad Martyrium（37.8）のように id est のない並びは「大きな教会のマルテュリウム」とし、「つまり」は id est があるとき（30.3、32.1）だけにする。
+- in ecclesia maiore ad Martyrium（37.8）のように id est のない並びは、語順が逆でも（46.1 の ad Martyrium in ecclesia maiore）「大きな教会のマルテュリウム」とし、「つまり」は id est があるとき（30.3、32.1）だけにする。
+- non solum … sed et（49.1）は、何と何を対比しているか（人か場所か）を原文の並びで確かめ、「だけでなく」「だけではありません」を一度だけ置く。
+- accedere ad baptismum（45.4、46.1）は「洗礼に進む」。監督の言葉の中の accedet ad lauacrum（45.4）は「洗いを受けに来る」。
 - quomodo potest、prout potest、qui quomodo possunt（43.4、44.1、44.3）は能力の意味で「できるやり方で」「できるだけ」「行ける人が行けるように」と訳し、「思い思いに」としない。
 - 前に済んだことの繰り返しを言う denuo（43.5 の legitur et denuo de actus apostolorum）は「再び」を落とさない。
 - 数に付く uel（43.7 の candelae … uel ducentae）は「二百ほど」。36.2 の super ducentae は「二百以上」。
