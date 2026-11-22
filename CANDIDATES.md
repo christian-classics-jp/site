@@ -37,7 +37,6 @@
 
 | 作品 | 原語 | 底本 | 英訳 | 備考 |
 |---|---|---|---|---|
-| エゲリア『巡礼記』 | ラテン語 | 翻訳中（`books/egeria-pilgrimage/`）。Geyer 編、Itinera Hierosolymitana（CSEL 39、1898。archive.org `itinerahierosoly00geye`）。冒頭の欠けた本文は OCR の l. 4790（ostendebantur iuxta scripturas）から | M. L. McClure と C. L. Feltoe の英訳（1919。archive.org `pilgrimageofethe00mccliala`。McClure は 1918 年没、Feltoe は 1926 年没（CCEL の著者ページ）。ただし訳文の大半は没年不明の George Herbert の訳なので使わず、J. H. Bernard の英訳（1891。Palestine Pilgrims' Text Society 第 1 巻、archive.org `libraryofpalesti01paleuoft`。Bernard は 1927 年没）を使う） | 編者 Geyer は図書館の書誌で 1852 年生まれ（没年は見つからないが、生年から日本でも権利は切れている）。4 世紀末のエルサレムの典礼の記録。『秘義教話』と同じ町、同じころ |
 | キプリアヌス小品集 II（『死を免れぬことについて』『デメトリアヌスへ』『善行と施しについて』『忍耐の益について』『ねたみと嫉妬について』『処女の身なりについて』） | ラテン語 | Hartel 編（CSEL 3.1、1868。`sthascicaecilic00hartgoog`、cache にある）。題は OCR の l. 13794、16171、17164、18257、19177、8998 | ANF 5（l. 46680、45596、47359、48156、48876、42841） | 既訳の小品集の続き。『忍耐の益について』はテルトゥリアヌス『忍耐について』を下敷きにする |
 | テルトゥリアヌス小品集 II（『魂の証言について』『スカプラへ』『忍耐について』『悔い改めについて』） | ラテン語 | Oehler 編 I（1853。`quintiseptimiifl0001fanc`、cache にある）。柱の見出しは OCR の l. 49619、65357、71590、78381 ごろから | ANF 3（l. 15845、8665、69862、65143） | 既訳の小品集と同じ底本の巻。キプリアヌス小品集 II の前に訳すと訳語を引き継げる |
 | ノウァティアヌス『三位一体について』 | ラテン語 | Fausset 編（Cambridge, 1909。archive.org `novatianiromanae00novauoft`）。本文は OCR の l. 2541 から | ANF 5（l. 61065） | 編者の没年未確認 |
