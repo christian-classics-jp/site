@@ -68,5 +68,5 @@
 9.6 Et licet ea loca, ut superius dixi, iam nossem, id est quando Alexandriam uel ad Thebaidem fueram, tamen quia ad plenum discere uolebam loca, quae ambulauerunt filii Israhel proficiscentes ex Ramesse usque ad montem Dei sanctum Syna, ac sic necesse fuit etiam denuo ad terram Gessen reuerti et inde Tathnis: proficiscentes ergo de Tathnis, ambulans per iter iam notum perueni Pelusio.
 9:6 さきに言ったとおり、わたしはこれらの場所を、すでに知っていました。アレキサンドリヤとテーバイスに行ったときのことです。けれども、イスラエルの人々がラメセスから神の聖なる山シナイまで進んだ場所を、十分に知りたいと思ったのです。それで、もう一度ゴセンの地へ戻り、そこからゾアンへ行かなければなりませんでした。こうしてわたしたちはゾアンを出発しました。わたしは、すでに知っている道を通って、ペルシゥムに着きました。
 9.7 Et inde proficiscens denuo, faciens iter per singulas mansiones Egypti, per quas iter habueramus, perueni ad fines Palestinae. Et inde in nomine Christi Dei nostri faciens denuo mansiones aliquot per Palestina regressa sum in Helia, id est in Ierusolimam.
-9:7 そこからまた出発し、来たときに通ったエジプトの宿駅を一つずつたどって、パレスチナの境に着きました。そこからまた、わたしたちの神キリストの名によって、パレスチナの宿駅をいくつか重ねました。そして、アエリア、つまりエルサレムに帰りました。
+9:7 そこからまた出発し、わたしたちが来たときに通ったエジプトの宿駅を一つずつたどって、パレスチナの境に着きました。そこからまた、わたしたちの神キリストの名によって、パレスチナの宿駅をいくつか重ねました。そして、アエリア、つまりエルサレムに帰りました。
 // Helia は、ハドリアヌス帝がエルサレムに付けた名アエリア（Aelia Capitolina）。底本の索引も Aelia の項に挙げる。

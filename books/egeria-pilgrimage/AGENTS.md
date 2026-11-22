@@ -138,7 +138,7 @@
 | Helia | アエリア（ハドリアヌス帝がエルサレムに付けた名。9.7 の in Helia, id est in Ierusolimam は「アエリア、つまりエルサレム」。エリヤと紛れる「ヘリア」としない） |
 | Ramesse / Ramessen（OCR では Kamesse、Kamessen と崩れる） | ラメセス（口語訳民数記三三・五） |
 | Pithona（Phitona） / Socchoth / Oton | ピトム（口語訳出エジプト一・一一）／スコテ／エタム（口語訳民数記三三・五〜六。Oton は七十人訳出エジプト一三・二〇 の Ὀθόμ） |
-| Magdalum / Epauleum / Belsefon | ミグドル／ピハヒロテ（Epauleum は七十人訳出エジプト一四・二 がピハヒロテを ἔπαυλις と訳した形）／バアル・ゼポン（口語訳民数記三三・七。底本の綴りは Belsefon。Belsepbon、Belsephon は校注にある写本の直し前の形と推定） |
+| Magdalum / Epauleum / Belsefon | ミグドル／ピハヒロテ（Epauleum は七十人訳出エジプト一四・二 がピハヒロテを ἔπαυλις と訳した形）／バアル・ゼポン（口語訳民数記三三・七。底本の綴りは Belsefon。p. 47 校注 19 によれば、写本は belsepon から belsefon に直されている。Belsephon は Mommsen と Purser の推定の綴りで、OCR の Belsepbon はその読み誤り） |
 | Nabau / Arabot | ネボ山（口語訳申命記三四・一）／（ページを訳すときに決める） |
 | Iericho / Iordanis | エリコ／ヨルダン |
 | Fogor | ペオル（口語訳民数記二三・二八） |
