@@ -31,7 +31,7 @@
 - 底本の山括弧（2.3 の ⟨quia⟩。校注 l. 4869 に quia ipse addidi）は、編者が写本にない語を補ったもの。底本テキストでは `⟨ ⟩`（U+27E8、U+27E9）にして起こし（『迫害者たちの死について』と同じ）、訳は補いに従う。補いが訳の意味を決めるところは `// ` メモに補いであることを書く。山括弧は、写本にある語を編者が別の位置へ移した印にも使われる（6.4 の cum uenissemus ⟨denuo,⟩。p. 46 校注 20 に transposui）。そのときも同じく `⟨ ⟩` で起こし、移した位置で訳し、`// ` メモに移動の印であることを書く。ほかの学者の補いを Geyer が採ったもの（24.3 の de ⟨intro⟩ cancellos。p. 72 校注 3 に intro addidit Cholodniak）も、同じく `⟨ ⟩` で起こし、メモに補いの主を書く。
 - 底本の角括弧（20 章の終わり、p. 68 の 2 行目の monachorum aliquando [aliquando]。校注 l. 6315 に aliquando aliquando dittographia A）は、編者が取り除くべきとみた語なので、底本テキストに残して訳さず、`// ` メモに書く。
 - 底本の点線（29.1 の septimanarum .... uigiliae）は、編者が示した脱落の印。底本テキストには刷られた数のまま残す。訳は欠けた語を補わず、読者の理解が変わるところは訳注で語が欠けていることを示す。
-- 写本の葉の欠け（16 章の Unum folium excisum est、25 章の Deest unum folium）は、底本では本文の中に一行で刷られている。底本テキストでは欠けの前後で節を分けたまま、欠けの印は起こさない。訳では、欠けの位置に訳注を置いて、写本の一葉が失われていることを示す（英訳も [A leaf wanting] と示す）。16 章では、欠けの前の 16.4 の訳は文の途中（「山は長く延びていて」）で切り、16.5 の訳の頭に訳注「ここで写本の一葉が失われている。」を置いた。欠けの後が人の言葉の続き（16.5〜16.6 の uidetis）なら、残る部分の初めから「」に入れる。
+- 写本の葉の欠け（16 章の Unum folium excisum est、25 章の Deest unum folium）は、底本では本文の中に一行で刷られている。底本テキストでは欠けの前後で節を分けたまま、欠けの印は起こさない。訳では、欠けの位置に訳注を置いて、写本の一葉が失われていることを示す（英訳も [A leaf wanting] と示す）。16 章では、欠けの前の 16.4 の訳は文の途中（「山は長く延びていて」）で切り、16.5 の訳の頭に訳注「ここで写本の一葉が失われている。」を置いた。欠けの後が人の言葉の続き（16.5〜16.6 の uidetis）なら、残る部分の初めから「」に入れる。25 章の欠けは 25.6 の途中（p. 75 の 25 行目の maiorem の後）にあり、底本は欠けの後の Benedictus … lux fiat. も 25.6 に数える（25.7 は p. 76 の 1 行目の Ubi cum から）。このように欠けが節の中にあるときは、底本テキストは一行のままにし、訳の行の中で欠けの前の文を途中（「まず大きな教会で散会となり」）で切って、その直後に訳注「ここで写本の一葉が失われている。続きは公現祭の祝いの記録。」を置き、欠けの後の途中の句（「『主の御名によってきたる者に、祝福あれ』云々と、その後に続くことば」）を続ける。前後の切れ端が一文として数えられ、verify の 60 字の WARN が出るが、そのままにする。
 - 底本の短剣符 `†`（4.3 の uel maxime † ea desideraueram。p. 41 校注 23 に locum aperte corruptum）は、編者が本文の崩れを示した印。底本テキストに刷られた位置のまま残す。訳は写本に残る語を生かして大意で訳し、`// ` メモに崩れであることと推定（校注の Gamurrini や Geyer の案）を書く。大意が推定によって変わるときだけ訳注を付ける。
 - 編者が山括弧なしで補った語・改めた語（4.7 の Hic est autem rubus の est。p. 42 校注 17 に est ipse addidi）は、刷られたとおりに起こし、訳は底本に従う。意味が補いに頼るときだけ `// ` メモに書く。
 - ほかの記号は、初めて出てくるページで校注の意味を確かめてからここに書く。
@@ -141,6 +141,17 @@
 | uigilare（uicibus …） / ad uigilias | 夜を明かす／徹夜の祈りに（24.8、24.12） |
 | consuetudo / iuxta consuetudinem | ならわし／ならわしどおり（1〜23 章の訳と同じくひらく。「慣わし」としない） |
 | rugitus et mugitus | うめき声とうなり声（24.10。後の章の同じ組も同じ訳で受ける） |
+| ecclesia maior（quam fecit Constantinus … post Crucem） | 大きな教会（25.1 など。Martyrium の名は名が出るページで決める） |
+| procedere in … / proceditur in … / processio | …へ行列して行く（その日の典礼の場所へみなで行くこと。底本の索引の Prozession halten）／行列（26.1 の processio est in Anastase は「アナスタシスへの行列があり」） |
+| laetitia（celebratur） | 喜びの祝い（25.11、25.12。haec omnis laetitia は「この喜びの祝いはみな」） |
+| ornatus（hornatus） | 飾り（25.8〜25.12） |
+| uela / cortinae / auroclauus / holosericus（oloserica） / sericum（sirico） | 幕／垂れ幕／金の縞の入った／総絹の／絹（25.8） |
+| ministerium | 器具（25.8。底本の索引の Kirchengeräte） |
+| cicindela | 灯明（25.8。lucerna「灯火」、cereofala「燭台」と訳し分ける） |
+| superfluum fuit scribi | 書くまでもありません（25.8。続けて飾りを述べるので、言い尽くせないという含みで読む） |
+| quinquagesimae per pentecosten（25.6 の quinquagesimarum） | 五旬節の五十日目（の主の日） |
+| quadragesimae de epiphania | 公現祭から四十日目の祭り（26.1。複数でも一つの祭り。初出に訳注「当時のエルサレムでは公現祭に主の降誕を祝った。」） |
+| sacramenta（aguntur sacramenta） | 秘義（26.1。『秘義教話』の μυστήριον と同じ。説教の後の聖餐の儀式を指すとみられる） |
 
 ## 聖書
 
@@ -274,3 +285,7 @@
 | Cappadocia / Galatia / Bithinia | カパドキヤ／ガラテヤ／ビテニヤ（口語訳） |
 | Calcedon（Calcedona） / Eufimia | カルケドン／エウフェミア（『迫害者たちの死について』の「カルケドン」と同じ） |
 | Asia / Iohannes apostolus | アジヤ（口語訳使徒一九・一〇）／使徒ヨハネ |
+| Constantinus | コンスタンティヌス（25.9 の matris suae は「母」とし、原文にないヘレナの名を足さない） |
+| Eleona | エレオナ（オリブ山の教会。25.11 で原文が id est in ecclesia, quae est in monte Oliueti と説明するので音で写す） |
+| Lazarium（in Lazariu） | ラザリウム（ラザロの墓の教会。25.11。82, 3 で原文がベタニヤと言い換える） |
+| Ioseph / Maria / Symeon / Anna prophetissa filia Fanuhel | ヨセフ／マリヤ／シメオン／パヌエルの娘で女預言者のアンナ（口語訳ルカ二・二五、三六。26.1 の Symeon uel Anna の uel は「と」） |
