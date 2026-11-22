@@ -28,7 +28,7 @@
 - ページの組み：上が本文、その下に聖書の箇所（8 cf. Num. 11, 34 のように、行番号と箇所）、その下に校注。OCR は本文の行に行番号（5、10 … を io、lo、ao、i5 などと読む）、節の番号、写本のページの印を混ぜる。
 - 起こすのは本文だけ。章と節の番号、行番号、柱、聖書の箇所、校注は起こさない。本文の中の縦線 `|`（2.5 の illorum | omnium、3.4 の ueniens | de）と、欄外の角括弧の数字（[31]、[33] など。行の途中の縦線に対応する）も起こさない。写本のページの境の印で、底本の校注 l. 4823 が、欄外の角括弧の数字は写本のページを示すと言う。行末で分けられた語はつなぐ。
 - 綴り、大文字・小文字、句読点は刷られたとおり。底本は写本の後期ラテン語の綴りと語形をそのまま刷る（1.1 の uallem infinitam ingens、1.2 の per ualle illa、2.5 の per giro、2.4 の plecaremus、3.4 の ascitis）。古典ラテン語の形に直さない。底本は u と v を分けずに u と刷り（uallem、uidetur）、大文字は文の初めと固有名と Deus、Dominus などに使う。OCR がピリオドと読んで小文字が続くところ（2.5 の sunt. sed、2.7 の Domini. tamen）は、ほぼコンマの読み誤りなので、画像で確かめる。
-- 底本の山括弧（2.3 の ⟨quia⟩。校注 l. 4869 に quia ipse addidi）は、編者が写本にない語を補ったもの。底本テキストでは `⟨ ⟩`（U+27E8、U+27E9）にして起こし（『迫害者たちの死について』と同じ）、訳は補いに従う。補いが訳の意味を決めるところは `// ` メモに補いであることを書く。山括弧は、写本にある語を編者が別の位置へ移した印にも使われる（6.4 の cum uenissemus ⟨denuo,⟩。p. 46 校注 20 に transposui）。そのときも同じく `⟨ ⟩` で起こし、移した位置で訳し、`// ` メモに移動の印であることを書く。
+- 底本の山括弧（2.3 の ⟨quia⟩。校注 l. 4869 に quia ipse addidi）は、編者が写本にない語を補ったもの。底本テキストでは `⟨ ⟩`（U+27E8、U+27E9）にして起こし（『迫害者たちの死について』と同じ）、訳は補いに従う。補いが訳の意味を決めるところは `// ` メモに補いであることを書く。山括弧は、写本にある語を編者が別の位置へ移した印にも使われる（6.4 の cum uenissemus ⟨denuo,⟩。p. 46 校注 20 に transposui）。そのときも同じく `⟨ ⟩` で起こし、移した位置で訳し、`// ` メモに移動の印であることを書く。ほかの学者の補いを Geyer が採ったもの（24.3 の de ⟨intro⟩ cancellos。p. 72 校注 3 に intro addidit Cholodniak）も、同じく `⟨ ⟩` で起こし、メモに補いの主を書く。
 - 底本の角括弧（20 章の終わり、p. 68 の 2 行目の monachorum aliquando [aliquando]。校注 l. 6315 に aliquando aliquando dittographia A）は、編者が取り除くべきとみた語なので、底本テキストに残して訳さず、`// ` メモに書く。
 - 底本の点線（29.1 の septimanarum .... uigiliae）は、編者が示した脱落の印。底本テキストには刷られた数のまま残す。訳は欠けた語を補わず、読者の理解が変わるところは訳注で語が欠けていることを示す。
 - 写本の葉の欠け（16 章の Unum folium excisum est、25 章の Deest unum folium）は、底本では本文の中に一行で刷られている。底本テキストでは欠けの前後で節を分けたまま、欠けの印は起こさない。訳では、欠けの位置に訳注を置いて、写本の一葉が失われていることを示す（英訳も [A leaf wanting] と示す）。16 章では、欠けの前の 16.4 の訳は文の途中（「山は長く延びていて」）で切り、16.5 の訳の頭に訳注「ここで写本の一葉が失われている。」を置いた。欠けの後が人の言葉の続き（16.5〜16.6 の uidetis）なら、残る部分の初めから「」に入れる。
@@ -116,7 +116,28 @@
 | in corpore / extra corpus（23.10。欄は cf. II Cor. 12, 3） | からだのうちにあって／からだのままで、からだを離れて（口語訳第二コリント一二・三 の言い方に寄せる。20.13 の in corpore「この世に生きて」は欄に箇所がないので別） |
 | idola（21.4。創世記三一・一九） | テラピム（聖書の話に出る語として口語訳に寄せ、メモに原文と七十人訳の「偶像」を書く） |
 
-典礼の語（Anastasis、Martyrium、Crux、missa、lucernare、ymni、cathecisis など）は、24 章以降を訳すページで、『秘義教話』の訳語表と照らして決め、ここに足す。
+典礼の語（24 章で決めた。『秘義教話』の訳語表にはこれらの語がないので、底本の索引と後の章の用例を見て決めた。Martyrium、cathecisis などは初めて出るページで決めて足す）：
+
+| 原語 | 訳 |
+|---|---|
+| Anastasis | アナスタシス（主の墓の上の円い聖堂。音で写し、初出の 24.1 に訳注「『復活』の意。主の墓の上に建つ円い聖堂。」。底本の索引の illa rotunda ecclesia, quae Anastasis, hoc est resurrectio uocitatur と、エウケリウスの Anastasis in loco est resurrectionis による） |
+| spelunca（Anastasis の） / cancelli（cancellus） | ほら穴（主の墓。3.5 と同じ語）／仕切り（ほら穴の前の仕切り。intro cancellos は「仕切りの内」） |
+| basilica / ecclesia | 聖堂／教会（底本の索引が、エゲリアは二つを区別すると言う。24.10 の tota basilica Anastasis は「アナスタシスの聖堂全体」） |
+| Crux / ad Crucem / ante Crucem / post Crucem | 十字架／十字架の所（ゴルゴタ。初出の 24.7 に訳注「主が十字架にかけられたゴルゴタの場所。」。エウケリウスの Golgotha … locus est dominicae passionis による）／十字架の前（十字架とアナスタシスのあいだの中庭。索引の 89, 3）／十字架の後ろ（コンスタンティヌスの大きな教会。25.1 で原文が説明する）。場所の名として字どおり訳し、『』に入れない |
+| missa / fit missa | 散会／散会となる（底本の索引の missa＝dimissio。祝福の後に人々を帰すこと。「ミサ」としない。24.6 の missa Anastasi は「アナスタシスでの散会」、後の missa ecclesiae は「教会の散会」の形。底本の索引が oblatio の意味に分ける 80, 5 の missa は、そのページで決める） |
+| operatio | 務め（24.1、24.7。索引の Gottesdienst） |
+| ymni / matutini ymni / antiphonae | 賛歌／朝の賛歌／交唱（15.5 と同じ）。psalmi responduntur（24.1）は「詩篇が応唱される」。cata singulos ymnos uel antiphonas は「賛歌と交唱のたびに」 |
+| hora decima, quod appellant hic licinicon, nam nos dicimus lucernare | 「リュクニコン」、わたしたちの言う「ともしびの祈り」（licinicon は索引の見出しの lychnicon〔λυχνικόν〕の音で写す。lucernare、lucernarium は「ともしびの祈り」、psalmi lucernares は「ともしびの祈りの詩篇」で受ける） |
+| candelae / cerei / lucerna / lumen / luminaria / cereofala | ともしび（15.5 と同じ。24.7 の candelae uitreae は吊るすガラスの器で「ガラスのともしび」）／ろうそく／灯火（とうか。ほら穴の中で夜も昼もともる火。candelae の「ともしび」と字で見分けられるようにする）／光、火（24.4 の lumen de foris は「その火」）／明かり／燭台（語義は未確認。校注はデュ・カンジュの辞書を指すだけ） |
+| monazontes / parthenae | 修道士たち／おとめたち（24.1 の ut hic dicunt は「ここで言う」。3.4 の ascitis と同じく意味で訳す。索引は monazontes＝monachi, monachae とし、後の章で monachi と同じ人々を指すので、monachus の「修道士」と訳し分けない） |
+| fideles / laici | 信徒たち（洗礼を受けた人。cathecumini「洗礼志願者」と対になる）／一般の人たち（聖職者や修道士でない人。24.1 の laici … uiri aut mulieres は「一般の人たちも、男も女も」。fideles とぶつかる「信徒」にしない） |
+| ad manum accedere（episcopo） | 監督の手のもとに進み出る（24.2 など。手に何をするかは原文も索引も言わないので、Bernard の「接吻するために」を足さない） |
+| commemorare nomina / commemoratio | 名を挙げて思い起こす／祈りの中で思い起こすこと（『秘義教話』の μνημονεύω「思い起こす」。24.5 の facit commemorationem singulorum は「一人一人を祈りの中で思い起こす」。名簿のことは足さない） |
+| kyrie eleyson, quod dicimus nos: miserere Domine | 「キュリエ・エレエーソン」と応えます。わたしたちの言う「主よ、あわれんでください」です（24.5。ギリシア語の正しい形 κύριε ἐλέησον の音で写す。聖書の欄に箇所がないので出典は付けない） |
+| pisinni | 子供たち（24.5。底本の索引の pisinnus「小さい」。「聖歌隊の少年」と足さない） |
+| thymiataria | 香炉（24.10） |
+| commonetur episcopus / sedet susum | 監督が呼ばれる／上の席に座る（24.3、24.4） |
+| uigilare（uicibus …） / ad uigilias | 夜を明かす／徹夜の祈りに（24.8、24.12） |
 
 ## 聖書
 
@@ -133,7 +154,7 @@
 - 1.2 の ut tamen commonuerunt … dicentes のような、本筋の途中に挟む説明の文は、文を分けて地の文で訳してよい。
 - id est で言い換えるところは「つまり」「すなわち」で受け、言い換えの語を落とさない（3.3 の id est summitas montis、3.6 の id est seu circa …）。来た人の範囲を言い直す id est qui …（3.4）も「つまり」で受け、除外の「ただし」にしない。言い換えを述語にして受けられるとき（3.8 の「立っていた場所は、教会の壁のまわり、つまり…頂でした」）は、二つ続く id est の両方に接続の語を置かなくてよい。
 - 一文の中で nos と ego が切り替わるところ（2.7 の perueniremus … cognoueram）は、主語を補って「わたしたちが着く前から、わたしは知っていました」と訳し分ける。分詞の複数から動詞の単数へ移るところ（9.6 の proficiscentes ergo de Tathnis, ambulans … perueni）も、「わたしたちは…出発しました。わたしは…着きました」と文を分けて訳し分ける。複数の文から単数の文へ移るところ（12.1 の peruenimus … uidi）も、「わたしは」を補って数を示す。
-- 聖書の箇所を読むこと（lectus est ipse locus de libro …、legeretur）は受け身で「読まれました」「読んでもらう」と訳す。原文が一人称複数の能動で言うところ（19.2 の aliquanta ipsius sancti Thomae ibi legimus）は「わたしたちは…読みました」と原文どおりにする。読むのは聖職者たちで、エゲリアが自分で読むようにしない。詩篇を唱えること（dictus est psalmus、diceretur psalmus）も同じく受け身で「唱えられました」「唱えられます」と訳す（4.4、10.7、11.3）。祈り（facta est oratio）だけは一行がするものとして「祈りをする」と能動で訳す。
+- 聖書の箇所を読むこと（lectus est ipse locus de libro …、legeretur）は受け身で「読まれました」「読んでもらう」と訳す。原文が一人称複数の能動で言うところ（19.2 の aliquanta ipsius sancti Thomae ibi legimus）は「わたしたちは…読みました」と原文どおりにする。読むのは聖職者たちで、エゲリアが自分で読むようにしない。詩篇を唱えること（dictus est psalmus、diceretur psalmus）も同じく受け身で「唱えられました」「唱えられます」と訳す（4.4、10.7、11.3）。原文が唱える人や読む人を主語にして能動で言うところ（24.9 の dicet psalmum quicumque de presbyteris、24.10 の leget … episcopus ipse）は、19.2 と同じく能動で「長老のだれか一人が詩篇を唱え」「監督自身が…読みます」と訳す。祈り（facta est oratio）だけは一行がするものとして「祈りをする」と能動で訳す。
 - 前に済んだことを振り返る過去完了（5.2 の ubi manseramus et uideramus）は、「泊まった所です」「すでに見ていました」のように、新しい出来事と見分けられる形にする。人の動作も同じ（19.19 の quas nobis ibi legerat「先にそこでわたしたちに読んでくれていました」）。
 - 場所や範囲を絞る tamen（19.9 の foras ciuitatem tamen、19.10 の in miliario tamen tertio）は「ただ〜だけ」と限定に訳し、前を受けて逆らう tamen（19.10 の quam tamen custodierunt）の「それでも」と訳し分ける。
 - 町や建物の様子を述べる現在形（18.1 の abundans omnibus est、19.3 の ecclesia … ingens）は、旅の過去の語りの中でも今のこととして「〜です」「〜あります」で訳す。
@@ -141,7 +162,7 @@
 - de quo locutus est Dominus (Deus) Moysi in igne（4.7、5.2）は「そのしばから、主は火の中でモーセにお語りになりました」のように「火の中で」と訳す。2.2 の de rubo in igne「燃えるしばの中から」は別の形。
 - エゲリアがギリシア語の語を出して quod nos dicimus … と説明するところ（7.7 の come … quod nos dicimus uicus、8.4 の dendros alethiae, quod nos dicimus arbor ueritatis）は、ギリシア語を音で写して「」に入れ、説明の語も「」に入れる（「コーメー」、つまりわたしたちの言う「村」）。3.1 の「巻き貝のように」と同じ形。音はギリシア語の正しい形から写し、ラテン語の字の崩れに従わない（15.3 の cepos tu agiu iohanni は κῆπος τοῦ ἁγίου Ἰωάννου から「ケーポス・トゥー・ハギウー・ヨーアンヌー」）。台詞の中では『』に入れる（13.4、15.3）。
 - 地の人々や監督が語った言い伝えを eo quod … の間接話法で伝えるところ（8.5 の Farao … isset … et incendisset、19.17）は、「」に入れず、「〜そうです」「〜というのです」で受ける。その中の理由の quia、nam も「〜からです」で残す（8.5 の quia infinita erat ualde「町がとても大きかったからです」）。ただし、eo quod で始まっても、同じ話の中で語り手がエゲリアに二人称で語りかける（19.14〜19.15 の ut uides、uides）ときは、直接話法として「」に入れる。
-- 6.2、8.3 の ponent、tendent、uadent、tollent、8.2 の dicent は、底本の索引が言う -ent の現在形（未来ではない）。いつものならわしとして「〜します」で訳す。
+- 6.2、8.3 の ponent、tendent、uadent、tollent、8.2 の dicent は、底本の索引が言う -ent の現在形（未来ではない）。いつものならわしとして「〜します」で訳す。単数の -et（24 章の benedicet、dicet、colliget、descendet、mittet、prendet、uadet など。索引の Coniugationis formae insolentiores に挙がる）も同じく現在形で、同じ文の intrat、facit などと並べて「〜します」で訳す。
 - forsitan と数（10.8、12.7 の forsitan miliario sexto）は「六マイルほど」とし、「おそらく」と重ねない。
 - laborem (sibi) imponere は、意志の形（10.8 の si uolueritis）なら「労をいとわない」、能力の形（11.3 の qui potuerunt）なら「労に耐えられる」と訳し分ける。
 - 土地の修道士たちが言う maiores（12.2。前にその土地に住んだ人々）は「先人たち」とし、血筋の「先祖」としない。いま生きている修道士を言う maiores（20.5 の illos maiores, qui in solitudine sedebant）と、話に出る修道士を言う monachi maiores（20.13）は「すぐれた」（「すぐれた人たち」「すぐれた修道士たち」）と訳し分ける。
