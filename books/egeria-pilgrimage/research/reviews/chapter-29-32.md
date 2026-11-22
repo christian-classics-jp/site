@@ -2,9 +2,9 @@
 
 - 日付：2026-11-22
 - レビューした者：新しいサブエージェント（訳者の判断理由は渡していない）
-- 渡したもの：`both.md`、リポジトリと本の `AGENTS.md`（このページで決めた訳語を足す前のもの）、論点一覧 `research/cruxes/chapter-29-32.md`（略号は `research/cruxes/README.md`。冒頭の Bernard のラテン語本文と底本の違いの一覧を、英訳と照らす前に確かめるよう伝えた）、前のページの `src/chapter-27-28/jp.md`、印刷版の OCR `cache/archive.org/itinerahierosoly00geye/itinerahierosoly00geye_djvu.txt` l. 6902〜7060（本文と pp. 81〜83 の校注。p. 84 の校注は抜粋の外）、Bernard の英訳 `cache/archive.org/libraryofpalesti01paleuoft/libraryofpalesti01paleuoft_djvu.txt` l. 10164〜10341。
+- 渡したもの：`both.md`、リポジトリと本の `AGENTS.md`（このページで決めた訳語を足す前のもの）、論点一覧 `research/cruxes/chapter-29-32.md`（略号は `research/cruxes/README.md`。冒頭の Bernard のラテン語本文と底本の違いの一覧を、英訳と照らす前に確かめるよう伝えた）、前のページの `src/chapter-27-28/jp.md`、Bernard の英訳 `cache/archive.org/libraryofpalesti01paleuoft/libraryofpalesti01paleuoft_djvu.txt` l. 10164〜10341。
 - 結果：5 件（必須 2、提案 3）。4 件を採り、1 件（30.1 の訳注を外すか名前の表を直すか）は名前の表を直す側で決めた。底本と違う読みの指摘はなかった。聖句と出典（ヨハネ一一・二九、一二・一、マタイ二一・九、二一・八）は口語訳と底本の欄に合っているとされた。
-- 訳注：29.1 の点線（p. 81 校注 13）に「ここで写本の語がいくつか欠けている。続きは毎週の金曜日の徹夜の祈り。」、29.5 の denuntiatur pascha に「原文では『過越の祭』と『復活祭』は同じ語。」、30.1 の Martyrio に「殉教者の記念堂を言う語と同じ。」を付けた。29.1 の点線と校注は画像（n136）で、30.1 の語義は底本の索引の martyrium の項（l. 22989–23011。普通名詞を oratorium super sepulchrum martyris とする）で確かめた。
+- 訳注：29.1 の点線（p. 81 校注 13）に「ここで写本の語がいくつか欠けている。続きは毎週の金曜日の徹夜の祈り。」、29.5 の denuntiatur pascha に「原文では『過越の祭』と『復活祭』は同じ語。」、30.1 の Martyrio に「殉教者の記念堂を言う語と同じ。」を付けた。29.1 の点線は画像（n136）で、校注 13 は OCR（l. 6925〜6926）で、30.1 の語義は底本の索引の martyrium の項（l. 22989–23011。普通名詞を oratorium super sepulchrum martyris とする）で確かめた。
 - verify の WARN：なし。
 
 | 節 | 指摘 | 採否 | 理由・直した訳 |

@@ -211,7 +211,7 @@
 - deputo（23.4 の monasterium, quod ibi est deputatum）は「（そこに）属する、あてがわれた」と訳し、「建てられた」としない（底本の索引の deputare）。
 - 人の範囲を言う quicumque sunt（25.12 の loci ipsius monachi, quicumque sunt）は「〜はみな」と訳し、「何人いても」と人数の話にしない。
 - 章や段落の頭の Sane（26.1）は軽く訳すか訳さずにおき、「〜も」と前と並べる語を足さない。
-- 主が受け手になる受け身（31.3 の quo tunc Dominus deductus est）は、尊敬語と受け身の「られる」が紛れるので、「かつて人々が主をお連れしたのと同じ形で」と能動に直す。
+- 主が受け手になる受け身のうち、「導かれる」のように尊敬語と読み紛れる動詞（31.3 の quo tunc Dominus deductus est）だけは、「かつて人々が主をお連れしたのと同じ形で」と能動に直す。「捕らえられる」「十字架にかけられる」のように受け身としか読めない動詞は、受け身のまま訳す（29.6 の comprehenditur Dominus「主が捕らえられた」、24.7 の訳注の「主が十字架にかけられた」）。
 - 文の頭の porro（31.2、31.4）は軽いつなぎの語として「そうして」「そこから」程度に訳し、「そのため」と因果を足さない。
 - 定動詞のない文（31.2 の Nam totus populus ante ipsum cum ymnis … respondentes。Geyer は校注で uadit を案として示す）は、動詞を補って訳し（「監督の前を進み」）、`// ` メモに原文に動詞がないことを書く。
 - hac sic ergo、ac sic ergo、itaque ergo のような話をつなぐ決まった言い方は、「こうして」「そこで」程度に軽く訳し、一つずつ訳し分けない。
