@@ -35,6 +35,7 @@ Mason は各ページの本文の下に異読の欄を置き、印刷ページ�
 - 新約：Robinson & Pierpont のビザンティン本文の電子テキスト（`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/<書>.csv`。第二テモテだけ `…/master/csv-unicode/ccat/with-variants/2TI.csv`）。Nestle-Aland との違いが `{NA … > …}` で添えてある。
 - 口語訳：`node tools/bible.js`。
 - プラトン：Perseus Digital Library の canonical-greekLit（Burnet 版）。
+- アリストテレス『カテゴリー論』：First1KGreek の tlg0086.tlg006（Bekker、Oxford 1837 の電子化）。行番号はファイルの行。ファイルの `pb` は 1837 年版のページで、Bekker のページ番号（1a など）ではないので、章とファイルの行で示す。
 
 ## 未確認の点（全体）
 
