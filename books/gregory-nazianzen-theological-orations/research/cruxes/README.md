@@ -2,7 +2,7 @@
 
 『神学講話』の本文で、写本・古い刊本・注解者の読みが分かれる箇所と、聖書や古典の引用・暗示の形が訳に影響する箇所の一覧。ページ（`src/<節>/`）ごとに `<節>.md` を置き、節の順に並べる。訳は底本（Mason 1899 の本文）の読みのとおりに行い、ほかの読みは記録にとどめる。訳注は、ほかの読みを知ると一般の読者の理解が変わる箇所にだけ付ける。電子化の入力の誤り（電子化と印刷版の食い違い）は、ここではなく `research/collation/` で扱う。
 
-略号と資料の所在は次のとおり。資料の URL と取得情報は [../sources.md](../sources.md) にある。「OCR l.」は Mason 1899 のスキャンの OCR テキスト（`cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt`）の行番号。「TEI l.」は底本の電子化（`F1K/tlg2022/tlg007/…xml` など、講ごとのファイル）の行番号。画像は `cache/archive.org/thefivetheologic00greguoft/page/nN_w1600.jpg`（N＝印刷ページ＋27）。
+略号と資料の所在は次のとおり。資料の URL と取得情報は [../sources.md](../sources.md) にある。「OCR l.」は Mason 1899 のスキャンの OCR テキスト（`cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt`）の行番号。「TEI l.」は底本の電子化（`F1K/tlg2022/tlg007/…xml` など、講ごとのファイル）の行番号。画像は `cache/archive.org/thefivetheologic00greguoft/page/nN_w1600.jpg`（N＝印刷ページ＋27）か、IIIF で取った `cache/archive.org/thefivetheologic00greguoft/pages/00NN_full.jpg`（NN＝印刷ページ＋28。たとえば `0083_full.jpg` は p. 55 で、`page/n82_w1600.jpg` と同じページ）。
 
 ## 印刷版の異読の欄
 
@@ -16,7 +16,8 @@ Mason は各ページの本文の下に異読の欄を置き、印刷ページ�
 - f：オックスフォード、Lincoln College のギリシア語写本 XX。11 世紀の終わりごろか（OCR l. 916–918）。
 - g：ケンブリッジ、Trinity College B. 9. 13。11 世紀の初めごろ。第 29〜31 講話だけを含む（OCR l. 921–928）。
 - El：クレタのエリアス（11 世紀半ば）の注解。当時の本文を示す証人として Mason が引く（OCR l. 961–970）。
-- 引用符（‘…’）の中：Benedictine 版（1778〜1842）の校注の写し。たとえば p. 5 の `εξικνειται bd ‘Or. 1 etc.’` は、Mason の照合で b と d が ἐξικνεῖται と読み、Benedictine 版の編者が「Oratoire 1 ほか」も同じと言う、という意味（OCR l. 990–1001）。Colb. などの Benedictine 版の略号を、Mason は展開していない（Coisl. 1 が b であることだけを書く）。‘in nonnullis’ は「いくつか（の写本）では」というラテン語。‘duo Reg.’ は王立図書館（Regius）の写本二つ、‘duo Colb.’ は Colbert 系の写本二つの意味とみられる（p. 15、p. 16。Mason は展開していない）。同じく ‘Reg. a’ は Regius の写本の一つ、‘tres Colb.’ は Colbert 系の写本三つとみられる（p. 24、25、26）。‘Reg. Cypr.’ も Regius の写本の一つらしいが、Cypr. が何を指すかを Mason は展開していない（p. 38、41 ほか）。‘aliique’ は「ほか（の写本）も」というラテン語（p. 42）。
+- 引用符（‘…’）の中：Benedictine 版（1778〜1842）の校注の写し。たとえば p. 5 の `εξικνειται bd ‘Or. 1 etc.’` は、Mason の照合で b と d が ἐξικνεῖται と読み、Benedictine 版の編者が「Oratoire 1 ほか」も同じと言う、という意味（OCR l. 990–1001）。Colb. などの Benedictine 版の略号を、Mason は展開していない（Coisl. 1 が b であることだけを書く）。‘in nonnullis’ は「いくつか（の写本）では」というラテン語。‘duo Reg.’ は王立図書館（Regius）の写本二つ、‘duo Colb.’ は Colbert 系の写本二つの意味とみられる（p. 15、p. 16。Mason は展開していない）。同じく ‘Reg. a’ は Regius の写本の一つ、‘tres Colb.’ は Colbert 系の写本三つとみられる（p. 24、25、26）。‘Reg. Cypr.’ も Regius の写本の一つらしいが、Cypr. が何を指すかを Mason は展開していない（p. 38、41 ほか）。‘aliique’ は「ほか（の写本）も」というラテン語（p. 42）。‘Coisl. 2’ は Coislin の写本の一つ（p. 55。Coisl. 1 が b なので、b とは別の写本とみられる。Mason は展開していない）。‘in quibusd.’（in quibusdam）は「いくつか（の写本）では」というラテン語（p. 59、60）。
+- 欄のラテン語：`tantum` は「〜だけ」（p. 57 の `τα μεν ταχυτατα tantum a` は、a がその句だけをもち、対の片方を欠くこと）。`usque ad` は「〜まで」（p. 58 の `om μικρου usque ad ιδιοτητας f` は、f が μικροῦ から ἰδιότητας までを欠くこと）。
 - 上付きの数字（p. 21 の d¹、d²、c¹、p. 22 の ‘Or. 1¹’）：写本の第一の手と後の手（修正）を分けたものとみられる。序論（OCR l. 847–1001）に説明はない。第 28 講話の d は Barocc. 218 一つなので、二つの写本の区別ではない。
 - suprascr.：その語が行の上に書き加えられていること（p. 26 の `τω suprascr. c` は、c が τῷ を行の上に書き加えている）。
 - Benedictine 版：Mason の本文の基になった刊本。Mason は、その読みと校注が満足できないとして、写本の照合で実質的に新しい本文を作った（OCR l. 831–836）。ほかの古い刊本は Hervagius（バーゼル 1550）、De Billy（Prunaeus。パリ 1569 以降、ラテン語訳つき）、Leuvenklaius（バーゼル 1571）、Morel（パリ 1630）（OCR l. 972–980）。
