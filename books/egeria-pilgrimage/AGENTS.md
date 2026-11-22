@@ -138,6 +138,7 @@
 | thymiataria | 香炉（24.10） |
 | commonetur episcopus / sedet susum | 監督が呼ばれる／上の席に座る（24.3、24.4） |
 | descendere（監督や人々がアナスタシスなどへ） / exiens, exeunte episcopo | 下りて来る（24.1、24.3、24.4、24.9）／（仕切りの内から）出て来ると、出て行きながら（24.2、24.3、24.12） |
+| ingredi（intra cancellos、in Anastase） | 入る（24.3、25.3、25.7。「進む」と揺らさない） |
 | uigilare（uicibus …） / ad uigilias | 夜を明かす／徹夜の祈りに（24.8、24.12） |
 | consuetudo / iuxta consuetudinem | ならわし／ならわしどおり（1〜23 章の訳と同じくひらく。「慣わし」としない） |
 | rugitus et mugitus | うめき声とうなり声（24.10。後の章の同じ組も同じ訳で受ける） |
@@ -168,7 +169,7 @@
 - 1.2 の ut tamen commonuerunt … dicentes のような、本筋の途中に挟む説明の文は、文を分けて地の文で訳してよい。
 - id est で言い換えるところは「つまり」「すなわち」で受け、言い換えの語を落とさない（3.3 の id est summitas montis、3.6 の id est seu circa …）。来た人の範囲を言い直す id est qui …（3.4）も「つまり」で受け、除外の「ただし」にしない。言い換えを述語にして受けられるとき（3.8 の「立っていた場所は、教会の壁のまわり、つまり…頂でした」）は、二つ続く id est の両方に接続の語を置かなくてよい。
 - 一文の中で nos と ego が切り替わるところ（2.7 の perueniremus … cognoueram）は、主語を補って「わたしたちが着く前から、わたしは知っていました」と訳し分ける。分詞の複数から動詞の単数へ移るところ（9.6 の proficiscentes ergo de Tathnis, ambulans … perueni）も、「わたしたちは…出発しました。わたしは…着きました」と文を分けて訳し分ける。複数の文から単数の文へ移るところ（12.1 の peruenimus … uidi）も、「わたしは」を補って数を示す。
-- 聖書の箇所を読むこと（lectus est ipse locus de libro …、legeretur）は受け身で「読まれました」「読んでもらう」と訳す。原文が一人称複数の能動で言うところ（19.2 の aliquanta ipsius sancti Thomae ibi legimus）は「わたしたちは…読みました」と原文どおりにする。読むのは聖職者たちで、エゲリアが自分で読むようにしない。詩篇を唱えること（dictus est psalmus、diceretur psalmus）も同じく受け身で「唱えられました」「唱えられます」と訳す（4.4、10.7、11.3）。原文が唱える人や読む人を主語にして能動で言うところ（24.9 の dicet psalmum quicumque de presbyteris、24.10 の leget … episcopus ipse）は、19.2 と同じく能動で「長老のだれか一人が詩篇を唱え」「監督自身が…読みます」と訳す。祈り（facta est oratio）だけは一行がするものとして「祈りをする」と能動で訳す。
+- 聖書の箇所を読むこと（lectus est ipse locus de libro …、legeretur）は受け身で「読まれました」「読んでもらう」と訳す。原文が一人称複数の能動で言うところ（19.2 の aliquanta ipsius sancti Thomae ibi legimus）は「わたしたちは…読みました」と原文どおりにする。読むのは聖職者たちで、エゲリアが自分で読むようにしない。詩篇を唱えること（dictus est psalmus、diceretur psalmus）も同じく受け身で「唱えられました」「唱えられます」と訳す（4.4、10.7、11.3）。原文が唱える人や読む人を主語にして能動で言うところ（24.9 の dicet psalmum quicumque de presbyteris、24.10 の leget … episcopus ipse）は、19.2 と同じく能動で「長老のだれか一人が詩篇を唱え」「監督自身が…読みます」と訳す。祈り（facta est oratio）だけは一行がするものとして「祈りをする」と能動で訳す。主語を言わない能動の legent singulas lectiones（25.10）も、聖書の箇所を読むこととして受け身で「聖書の箇所が一つずつ読まれ」とし、「朗読が読まれ」と重ねない。説教・朗読・賛歌を並べる dum … uel … uel …（25.10）は、時を厳密に重ねずに並べて訳す。
 - 前に済んだことを振り返る過去完了（5.2 の ubi manseramus et uideramus）は、「泊まった所です」「すでに見ていました」のように、新しい出来事と見分けられる形にする。人の動作も同じ（19.19 の quas nobis ibi legerat「先にそこでわたしたちに読んでくれていました」）。
 - 場所や範囲を絞る tamen（19.9 の foras ciuitatem tamen、19.10 の in miliario tamen tertio）は「ただ〜だけ」と限定に訳し、前を受けて逆らう tamen（19.10 の quam tamen custodierunt）の「それでも」と訳し分ける。
 - 町や建物の様子を述べる現在形（18.1 の abundans omnibus est、19.3 の ecclesia … ingens）は、旅の過去の語りの中でも今のこととして「〜です」「〜あります」で訳す。
@@ -189,6 +190,8 @@
 - 程度の satis（21.4 の ingens satis、23.4 の satis pulchrum、satis mali）は「たいへん」と訳して落とさない。5.8 の satis fuit（訳語表）は別。
 - ne ＋接続法の目的の節（23.4 の ne forte conentur）は「〜させないため」「〜しないように」と訳し、「〜するかもしれない」という心配の文にしない。
 - deputo（23.4 の monasterium, quod ibi est deputatum）は「（そこに）属する、あてがわれた」と訳し、「建てられた」としない（底本の索引の deputare）。
+- 人の範囲を言う quicumque sunt（25.12 の loci ipsius monachi, quicumque sunt）は「〜はみな」と訳し、「何人いても」と人数の話にしない。
+- 章や段落の頭の Sane（26.1）は軽く訳すか訳さずにおき、「〜も」と前と並べる語を足さない。
 - hac sic ergo、ac sic ergo、itaque ergo のような話をつなぐ決まった言い方は、「こうして」「そこで」程度に軽く訳し、一つずつ訳し分けない。
 
 ## 名前の表
