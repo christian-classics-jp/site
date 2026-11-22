@@ -29,6 +29,7 @@ PG（Migne のギリシア教父全集）を底本にする本の共通の注意
 - 底本：A. J. Mason 編、The Five Theological Orations of Gregory of Nazianzus（Cambridge, 1899）。First1KGreek のコミット ed91552c52530c8f5a3ddf2dd767e899372a804c の `data/tlg2022/tlg007`〜`tlg011`（CC BY-SA 4.0、計約 25,300 語）。cache に取得済み（`cache/raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/ed91552c52530c8f5a3ddf2dd767e899372a804c/data/tlg2022/`）。訳のライセンスは `CC BY-SA`。印刷版のスキャンは start-book で archive.org から探し、電子化との照合に使う。
 - 英訳：NPNF 2-7「Oration XXVII. The First Theological Oration」（`cache/ccel.org/npnf207.txt` の l. 31377 から）。
 - 揃える本：三位一体の用語（ウーシア、ヒュポスタシス、本質、位格など）はこの本の AGENTS.md に訳語表を作って決め、次の gregory-of-nyssa-catechetical-oration に引き継ぐ。5 講は講ごとに節を分ける。
+- 27 ページ（講をまたがない）。印刷版は archive.org `thefivetheologic00greguoft`（cache に PDF・OCR・page_numbers）。画像の番号：IIIF＝印刷ページ＋28、`page/nN_w1600.jpg` の N＝印刷ページ＋27（IIIF は応答が遅いので `page/` の画像を使う）。底本テキストは全文を変換済み。電子化に紛れ込んだ注解の断片と行番号を除いたことは本の AGENTS.md の「底本の扱い」にある。
 
 ## gregory-of-nyssa-catechetical-oration　ニュッサのグレゴリオス『教理大講話』（ギリシア語）
 

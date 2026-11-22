@@ -1,0 +1,199 @@
+{
+  "title": "ナジアンゾスのグレゴリオス『神学講話』",
+  "language": "ギリシア語",
+  "base": "books/gregory-nazianzen-theological-orations/research/mason-1899.txt",
+  "digitized": true,
+  "english_name": "NPNF 第 2 集第 7 巻の英訳（C. G. Browne と J. E. Swallow、1894）。第 27〜31 講話（Oration XXVII〜XXX と The Fifth Theological Oration）。章の番号は底本と同じだが、第 27 講話の 10 章と第 29 講話の 18 章には英訳の見出しがなく、それぞれ IX 章と XVII 章の段落の途中から始まる（27.10 は「Attack the silence of Pythagoras」、29.18 は l. 33414 の「But in opposition to all these」から）。行の範囲は講の終わりの脚注まで含む",
+  "print_name": "Mason 1899 の印刷版（pp. 1〜190。ページの上にギリシア語の本文、下に異読の欄と英語の注解。OCR はギリシア語の行のあいだにアクセントの崩れた行を挟み、本文・異読・注解を順に並べる）",
+  "pages": [
+    {
+      "id": "01-oration-27-1-5",
+      "spec": "27.1-27.5",
+      "english": "cache/ccel.org/npnf207.txt:31383-31516",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:1023-2036",
+      "images": "thefivetheologic00greguoft:0029-0038"
+    },
+    {
+      "id": "02-oration-27-6-10",
+      "spec": "27.6-27.10",
+      "english": "cache/ccel.org/npnf207.txt:31517-31754",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:2037-3396",
+      "images": "thefivetheologic00greguoft:0038-0048"
+    },
+    {
+      "id": "03-oration-28-1-4",
+      "spec": "28.1-28.4",
+      "english": "cache/ccel.org/npnf207.txt:31759-31863",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:3397-4055",
+      "images": "thefivetheologic00greguoft:0049-0055"
+    },
+    {
+      "id": "04-oration-28-5-9",
+      "spec": "28.5-28.9",
+      "english": "cache/ccel.org/npnf207.txt:31864-31995",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:4056-5117",
+      "images": "thefivetheologic00greguoft:0055-0064"
+    },
+    {
+      "id": "05-oration-28-10-13",
+      "spec": "28.10-28.13",
+      "english": "cache/ccel.org/npnf207.txt:31996-32121",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:5118-5889",
+      "images": "thefivetheologic00greguoft:0064-0071"
+    },
+    {
+      "id": "06-oration-28-14-18",
+      "spec": "28.14-28.18",
+      "english": "cache/ccel.org/npnf207.txt:32122-32238",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:5890-6563",
+      "images": "thefivetheologic00greguoft:0071-0077"
+    },
+    {
+      "id": "07-oration-28-19-21",
+      "spec": "28.19-28.21",
+      "english": "cache/ccel.org/npnf207.txt:32239-32322",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:6564-7165",
+      "images": "thefivetheologic00greguoft:0077-0082"
+    },
+    {
+      "id": "08-oration-28-22-25",
+      "spec": "28.22-28.25",
+      "english": "cache/ccel.org/npnf207.txt:32323-32442",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:7166-7907",
+      "images": "thefivetheologic00greguoft:0082-0089"
+    },
+    {
+      "id": "09-oration-28-26-28",
+      "spec": "28.26-28.28",
+      "english": "cache/ccel.org/npnf207.txt:32443-32562",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:7908-8525",
+      "images": "thefivetheologic00greguoft:0089-0094"
+    },
+    {
+      "id": "10-oration-28-29-31",
+      "spec": "28.29-28.31",
+      "english": "cache/ccel.org/npnf207.txt:32563-32917",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:8526-9181",
+      "images": "thefivetheologic00greguoft:0094-0100"
+    },
+    {
+      "id": "11-oration-29-1-5",
+      "spec": "29.1-29.5",
+      "english": "cache/ccel.org/npnf207.txt:32924-33051",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:9182-10011",
+      "images": "thefivetheologic00greguoft:0101-0108"
+    },
+    {
+      "id": "12-oration-29-6-9",
+      "spec": "29.6-29.9",
+      "english": "cache/ccel.org/npnf207.txt:33052-33189",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:10012-10844",
+      "images": "thefivetheologic00greguoft:0108-0115"
+    },
+    {
+      "id": "13-oration-29-10-13",
+      "spec": "29.10-29.13",
+      "english": "cache/ccel.org/npnf207.txt:33190-33299",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:10845-11506",
+      "images": "thefivetheologic00greguoft:0115-0121"
+    },
+    {
+      "id": "14-oration-29-14-17",
+      "spec": "29.14-29.17",
+      "english": "cache/ccel.org/npnf207.txt:33300-33446",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:11507-12340",
+      "images": "thefivetheologic00greguoft:0121-0128"
+    },
+    {
+      "id": "15-oration-29-18-21",
+      "spec": "29.18-29.21",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:12341-13155",
+      "images": "thefivetheologic00greguoft:0128-0135",
+      "english": "cache/ccel.org/npnf207.txt:33414-33815"
+    },
+    {
+      "id": "16-oration-30-1-5",
+      "spec": "30.1-30.5",
+      "english": "cache/ccel.org/npnf207.txt:33820-33941",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:13156-13911",
+      "images": "thefivetheologic00greguoft:0136-0143"
+    },
+    {
+      "id": "17-oration-30-6-10",
+      "spec": "30.6-30.10",
+      "english": "cache/ccel.org/npnf207.txt:33942-34065",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:13912-14782",
+      "images": "thefivetheologic00greguoft:0143-0151"
+    },
+    {
+      "id": "18-oration-30-11-13",
+      "spec": "30.11-30.13",
+      "english": "cache/ccel.org/npnf207.txt:34066-34187",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:14783-15572",
+      "images": "thefivetheologic00greguoft:0151-0158"
+    },
+    {
+      "id": "19-oration-30-14-18",
+      "spec": "30.14-30.18",
+      "english": "cache/ccel.org/npnf207.txt:34188-34295",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:15573-16380",
+      "images": "thefivetheologic00greguoft:0158-0165"
+    },
+    {
+      "id": "20-oration-30-19-21",
+      "spec": "30.19-30.21",
+      "english": "cache/ccel.org/npnf207.txt:34296-34661",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:16381-17229",
+      "images": "thefivetheologic00greguoft:0165-0172"
+    },
+    {
+      "id": "21-oration-31-1-6",
+      "spec": "31.1-31.6",
+      "english": "cache/ccel.org/npnf207.txt:34666-34793",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:17230-18099",
+      "images": "thefivetheologic00greguoft:0173-0181"
+    },
+    {
+      "id": "22-oration-31-7-10",
+      "spec": "31.7-31.10",
+      "english": "cache/ccel.org/npnf207.txt:34794-34893",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:18100-18694",
+      "images": "thefivetheologic00greguoft:0181-0186"
+    },
+    {
+      "id": "23-oration-31-11-15",
+      "spec": "31.11-31.15",
+      "english": "cache/ccel.org/npnf207.txt:34894-35005",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:18695-19371",
+      "images": "thefivetheologic00greguoft:0186-0192"
+    },
+    {
+      "id": "24-oration-31-16-20",
+      "spec": "31.16-31.20",
+      "english": "cache/ccel.org/npnf207.txt:35006-35132",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:19372-20121",
+      "images": "thefivetheologic00greguoft:0192-0199"
+    },
+    {
+      "id": "25-oration-31-21-24",
+      "spec": "31.21-31.24",
+      "english": "cache/ccel.org/npnf207.txt:35133-35216",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:20122-20707",
+      "images": "thefivetheologic00greguoft:0199-0204"
+    },
+    {
+      "id": "26-oration-31-25-28",
+      "spec": "31.25-31.28",
+      "english": "cache/ccel.org/npnf207.txt:35217-35319",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:20708-21438",
+      "images": "thefivetheologic00greguoft:0204-0210"
+    },
+    {
+      "id": "27-oration-31-29-33",
+      "spec": "31.29-31.33",
+      "english": "cache/ccel.org/npnf207.txt:35320-35647",
+      "print": "cache/archive.org/thefivetheologic00greguoft/thefivetheologic00greguoft_djvu.txt:21439-22450",
+      "images": "thefivetheologic00greguoft:0210-0218"
+    }
+  ]
+}
