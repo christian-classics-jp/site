@@ -1,0 +1,48 @@
+# 21〜23 章　帰り道とコンスタンティノポリス
+
+21.1 Post biduo autem, quam ibi feceram, duxit nos episcopus ad puteum illum, ubi adaquauerat sanctus Iacob pecora sanctae Rachel; qui puteus sexto miliario est a Charris; in cuius putei honorem fabricata est ibi iuxta sancta ecclesia ingens ualde et pulchra. Ad quem puteum cum uenissemus, facta est ab episopo oratio, lectus etiam locus ipse de Genesi, dictus etiam unus psalmus competens loco atque iterata oratione benedixit nos episcopus.
+21:1 そこで二日過ごした後、監督はわたしたちを、あの井戸へ連れて行ってくれました。聖なるヤコブが、聖なるラケルの羊に水を飲ませた井戸です。その井戸は、カルラエから六マイルの所にあります。井戸をたたえて、そのすぐそばに、とても大きく美しい聖なる教会が建てられています。その井戸に着くと、監督が祈りをしました。創世記からその箇所が読まれ、その場所にふさわしい詩篇も一つ唱えられました。もう一度祈りをしてから、監督はわたしたちを祝福しました。
+// episopo は底本の印刷の誤りで、episcopo（監督）の意で訳した。底本の校注に注記はない。
+21.2 Vidimus etiam loco iuxta puteum iacentem lapidem illum infinitum nimis, quem mouerat sanctus Iacob a puteo, qui usque hodie ostenditur.
+21:2 わたしたちはそこで、井戸のそばに横たわる、とてつもなく大きなあの石も見ました。聖なるヤコブが井戸の口から転がした石で、今も示されているのです。
+// loco は底本の改め（p. 68 校注 11 の locum A emendaui）。写本は locum。loco は「そこで」の意に取った。
+21.3 Ibi autem circa puteo nulli alii commanent nisi clerici de ipsa ecclesia, quae ibi est, et monachi habentes iuxta monasteria sua, quorum uitam sanctus episcopus nobis retulit, sed uere inauditam. Ac sic ergo facta oratione in ecclesia accessi cum episcopo ad sanctos monachos per monasteria ipsorum et Deo gratias agens et ipsis, qui dignati sunt me per monasteria sua, ubicumque ingressa sum, libenti animo suscipere et alloqui illis sermonibus, quos dignum erat de ore illorum procedere. Nam et eulogias dignati sunt dare michi et omnibus, qui mecum erant, sicut est consuetudo monachis dare, his tamen, quos libenti animo suscipiunt in monasteriis suis.
+21:3 その井戸のまわりには、ほかにはだれも住んでいません。そこにある教会の聖職者たちと、近くに自分の修道の住まいを持つ修道士たちだけです。聖なる監督は、この修道士たちの暮らしぶりをわたしたちに話してくれましたが、本当に聞いたこともないようなものでした。こうして、教会で祈りをしてから、わたしは監督と一緒に、聖なる修道士たちの修道の住まいを訪ねました。神に感謝し、修道士たちにも感謝しました。この人たちは、わたしがその住まいに入るたびに、どこでも快く迎え入れ、話しかけてくださいました。その口から出るのにふさわしい言葉でした。そのうえ、わたしにも、わたしと一緒にいた人みなにも、祝福の品をくださいました。修道士たちが祝福の品を与えるならわしのとおりです。ただ、自分の修道の住まいに快く迎え入れる人たちにだけ与えるのです。
+21.4 Et quoniam ipse locus in campo grandi est, de contra ostensus est michi a sancto episcopo uicus ingens satis forte ad quingentos passos de puteo, per quem uicum iter habuimus. Hic autem uicus, quantum episcopus dicebat, fuit quondam uilla Laban Syri, qui uicus appellatur Fadana. Nam ostensa est michi in ipso uico memoria Laban Syri, soceri Iacob; ostensus est etiam michi locus, unde furata est Rachel idola patris sui.
+21:4 その場所は広い平野にあるので、向かい側に大きな村があるのを、聖なる監督が見せてくれました。井戸から五百歩ほどの所で、わたしたちはその村を通って行きました。監督の話では、この村はかつてアラムびとラバンの屋敷だった所で、ファダナ^[創世記のパダンアラムに当たる名とみられる。]と呼ばれています。その村では、ヤコブのしゅうと、アラムびとラバンの墓を見せてもらいました。ラケルが父のテラピムを盗み出した場所も見せてもらいました（創世記三一・一九）。
+// 原文は idola（偶像。七十人訳の創世記三一・一九 も τὰ εἴδωλα）。聖書の話に出る語として、口語訳の「テラピム」にした。
+// Fadana は底本の綴りの音で写した。創世記二八・二 などのパダンアラム（七十人訳は「スリヤのメソポタミヤ」と意味で訳す）に当たるとみる説による。
+21.5 Ac sic ergo in nomine Dei peruisis omnibus faciens uale sancto episcopo et sanctis monachis, qui nos usque ad illum locum deducere dignati fuerant, regressi sumus per iter uel mansiones, quas ueneramus de Antiochia.
+21:5 こうして神の名によって、すべてを見終えると、聖なる監督と聖なる修道士たちに別れを告げました。修道士たちは、わたしたちをその場所まで案内してくださっていたのです。わたしたちは、アンテオケから来た道と宿駅を通って帰りました。
+
+22.1 Antiochia autem cum fuissem regressa, feci postmodum septimana, quousque ea, quae necessaria erant itineri, pararentur. Et sic proficiscens de Antiochia faciens iter per mansiones aliquot perueni ad prouinciam, quae Cilicia appellatur, quae habet ciuitatem metropolim Tharso, ubi quidem Tharso et eundo Ierusolimam iam fueram.
+22:1 アンテオケに戻ると、わたしはその後一週間そこにとどまり、旅に要るものが整うのを待ちました。こうしてアンテオケを出発し、いくつかの宿駅を通って、キリキヤという州に着きました。この州の州都はタルソです。タルソには、エルサレムへ行くときにも、すでに来ていました。
+22.2 Sed quoniam de Tharso tertia mansione, id est in Hisauria, est martyrium sanctae Teclae, gratum fuit satis, ut etiam illuc accederem, praesertim cum tam in proximo esset.
+22:2 けれども、タルソから三つ目の宿駅の所、つまりイサウリアに、聖なるテクラの記念堂があります。それで、そこへも行けたらたいへんうれしいと思いました。とても近い所だったからなおさらです。
+
+23.1 Nam proficiscens de Tharso perueni ad quandam ciuitatem supra mare adhuc Ciliciae, quae appellatur Ponpeiopolin. Et inde iam ingressa fines Hisauriae mansi in ciuitate, quae appellatur Corico, ac tertia die perueni ad ciuitatem, quae appellatur Seleucia Hisauriae. Ubi cum peruenissem, fui ad episcopum uere sanctum ex monacho, uidi etiam ibi ecclesiam ualde pulchram in eadem ciuitate.
+23:1 そこで、タルソを出発して、まだキリキヤの内にある海辺の町に着きました。ポンペイオポリスという町です。そこからイサウリアの境に入り、コリュコスという町に泊まりました。三日目に、イサウリアのセレウキアという町に着きました。着くと、わたしはその町の監督を訪ねました。修道士から監督になった、本当に聖なる人です。その町では、とても美しい教会も見ました。
+// Seleucia Hisauriae は、使徒一三・四 の「セルキヤ」（スリヤのセレウキア）とは別の町なので、口語訳の表記にせず「セレウキア」と音で写した。
+23.2 Et quoniam inde ad sanctam Teclam, qui locus est ultra ciuitatem in colle sed plano, habebat de ciuitate forsitan mille quingentos passus, malui ergo perexire illuc, ut statiuam, quam factura eram, ibi facerem. Ibi autem ad sanctam ecclesiam nichil aliud est nisi monasteria sine numero uirorum ac mulierum.
+23:2 そこから聖なるテクラの所までは、町から千五百歩ほどありました。その場所は町の向こう、丘の上ですが、平らな所です。それで、わたしはそちらへ足を延ばし、とどまるつもりだった日々をそこで過ごすことにしました。そこには、聖なる教会のまわりに、男と女の数えきれないほどの修道の住まいがあるだけです。
+23.3 Nam inueni ibi aliquam amicissimam michi, et cui omnes in oriente testimonium ferebant uitae ipsius, sancta diaconissa nomine Marthana, quam ego aput Ierusolimam noueram, ubi illa gratia orationis ascenderat; haec autem monasteria aputactitum seu uirginum regebat. Quae me cum uidisset, quod gaudium illius uel meum esse potuerit, nunquid uel scribere possum?
+23:3 そこで、わたしのとても親しい人に会いました。聖なる女性の執事で、マルタナという名の人です。東方ではだれもが、この人の暮らしぶりをほめていました。わたしは、この人とエルサレムで知り合っていました。この人が祈りのためにエルサレムへ上って来ていたのです。この人は、世を捨てた人たち、つまりおとめたちの修道の住まいを治めていました。わたしを見たときの、この人とわたしの喜びがどれほどだったか、とても書き表せるものではありません。
+// aputactitae（ギリシア語の ἀποτακτῖται、世を捨てた者）は、修行の暮らしをする人々の呼び名。意味で「世を捨てた人たち」と訳した（23.6、24 章以降も同じ）。seu uirginum の seu は言い換えに取り、「つまりおとめたちの」とした。
+23.4 Sed ut redeam ad rem, monasteria ergo plurima sunt ibi per ipsum collem et in medio murus ingens, qui includet ecclesiam, in qua est martyrium, quod martyrium satis pulchrum est. Propterea autem murus missus est ad custodiendam ecclesiam propter Hisauros, quia satis mali sunt et frequenter latrunculantur, ne forte conentur aliquid facere circa monasterium, quod ibi est deputatum.
+23:4 話を戻しましょう。その丘一帯には、修道の住まいがたくさんあります。真ん中には大きな壁があって、教会を囲んでいます。その教会の中に記念堂があり、その記念堂はたいへん美しいものです。この壁が築かれたのは、イサウリア人から教会を守るためです。イサウリア人はたいへん性質が悪く、よく盗みを働きます。そこに建てられた修道の住まいに、何かしようとするかもしれないのです。
+23.5 Ibi ergo cum uenissem in nomine Dei, facta oratione ad martyrium nec non etiam et lectus omnis actus sanctae Teclae, gratias Christo Deo nostro egi infinitas, qui mihi dignatus est indignae et non merenti in omnibus desideria complere.
+23:5 こうして神の名によってそこに着くと、記念堂で祈りをし、聖なるテクラの行伝もすべて読まれました。わたしは、わたしたちの神キリストに限りなく感謝しました。ふさわしくなく、値しないわたしの願いを、何から何までかなえてくださったのです。
+23.6 Ac sic ergo facto ibi biduo uisis etiam sanctis monachis uel aputactitis, tam uiris quam feminis, qui ibi erant, et facta oratione et communione reuersa sum Tharso ad iter meum, ubi facta statiua triduana in nomine Dei profecta sum inde iter meum. Ac sic perueniens eadem die ad mansionem, quae appellatur Mansocrenas, quae est sub monte Tauro, ibi mansi.
+23:6 こうしてそこで二日過ごし、そこにいた聖なる修道士たちや世を捨てた人たちにも、男にも女にも会いました。祈りをして聖餐にあずかってから、わたしはタルソへ、もとの道に戻りました。そこに三日とどまってから、神の名によって、そこから旅を続けました。こうしてその日のうちに、マンソクレナスという宿駅に着きました。タウロス山のふもとにある宿駅で、そこに泊まりました。
+// Mansocrenas は底本の綴りの音で写した。
+23.7 Et inde alia die subiens montem Taurum et faciens iter iam notum per singulas prouincias, quas eundo transiueram, id est Cappadociam, Galatiam et Bithiniam, perueni Calcedona, ubi propter famosissimum martyrium sanctae Eufimiae ab olim michi notum iam, quod ibi est, mansi loco.
+23:7 次の日、そこからタウロス山を越え、行くときに通った州を一つずつ、すでに知っている道を進みました。カパドキヤ、ガラテヤ、ビテニヤです。そしてカルケドンに着き、そこに泊まりました。そこには聖なるエウフェミアのたいへん名高い記念堂があり、わたしは前からそれを知っていたからです。
+23.8 Ac sic ergo alia die transiens mare perueni Constantinopolim agens Christo Deo nostro gratias, quod michi indignae et non merenti praestare dignatus est tantam gratiam, id est, ut non solum uoluntatem eundi, sed et facultatem perambulandi, quae desiderabam, dignatus fuerat praestare et reuertendi denuo Constantinopolim.
+23:8 こうして次の日、海を渡って、コンスタンティノポリスに着きました。わたしたちの神キリストに感謝しました。ふさわしくなく、値しないわたしに、これほどの恵みを与えてくださったからです。つまり、行こうという思いばかりか、願っていた所を巡る力も与えてくださいました。コンスタンティノポリスにもう一度戻る力も与えてくださったのです。
+23.9 Ubi cum uenissem, per singulas ecclesias uel apostolos nec non et per singula martyria, quae ibi plurima sunt, non cessabam Deo nostro Iesu gratias agere, qui ita super me misericordiam suam praestare dignatus fuerat.
+23:9 そこに着くと、わたしはどの教会も、使徒たちの教会も、そこに数多くある殉教者の記念堂もみな巡りました。そして、わたしたちの神イエスに感謝し続けました。これほどまでに、わたしにあわれみを注いでくださったからです。
+// apostolos は原文では「使徒たち」の一語だけで、底本の索引に従って、使徒たちを記念する教会の意に取った。
+23.10 De quo loco, domnae, lumen meum, cum haec ad uestram affectionem darem, iam propositi erat in nomine Christi Dei nostri ad Asiam accedendi, id est Efesum, propter martyrium sancti et beati apostoli Iohannis gratia orationis. Si autem et post hoc in corpore fuero, si qua praeterea loca cognoscere potuero, aut ipsa praesens, si Deus fuerit praestare dignatus, uestrae affectioni referam aut certe, si aliud animo sederit, scriptis nuntiabo. Vos tantum, dominae, lumen meum, memores mei esse dignamini, siue in corpore, siue iam extra corpus fuero.
+23:10 わたしの光である皆さま、この地からこれを皆さまに書き送っている今、わたしは次の旅を考えています。わたしたちの神キリストの名によって、アジヤへ、つまりエペソへ行くつもりなのです。聖なる、幸いな使徒ヨハネの記念堂で祈るためです。この後も、わたしがなおからだのうちにあって、ほかにも知ることのできた場所があればお伝えします。神がかなえてくださるなら、わたし自身が皆さまにじかにお話しします。あるいは、もし心が別のほうに決まったなら、必ず書いてお知らせします。わたしの光である皆さま、ただわたしを覚えていてください。わたしがからだのままでいるにしても、もうからだを離れているにしても（第二コリント一二・三）。
+// domnae, lumen meum（初め）と dominae, lumen meum（終わり）は同じ呼びかけとして、どちらも「わたしの光である皆さま」とした。19.19 の dominae animae meae「わたしの魂である皆さま」と同じ形。
+// 引用ではなく暗示なので『』に入れず、口語訳の「からだのままで」「からだを離れて」の言い方に寄せた。初めの in corpore fuero も同じ語で受けて「からだのうちにあって」とした。

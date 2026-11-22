@@ -44,8 +44,8 @@
 
 - 地の文は敬体（「〜です」「〜ました」）。エゲリアが故郷の姉妹たちに宛てた手紙で、ところどころで読み手に語りかける（3.8 の Illud autem uos uolo scire, dominae uenerabiles sorores）。旅の記録も典礼の記録も敬体で通す（『アントニオス伝』と同じ）。過去のことは「〜ました」で語る。典礼の記録（24 章以降）の現在形は、いつも行われていることとして「〜します」「〜されます」で訳す。
 - 書き手のエゲリアは「わたし」。書き手と旅の仲間は「わたしたち」（原文の nos）。原文が一人称単数と複数を行き来するところは、原文の数のとおりに訳し分ける。
-- 読み手への呼びかけ：dominae uenerabiles sorores は「尊い姉妹の皆さま」、dominae sorores は「姉妹の皆さま」（『ペルペトゥアとフェリキタスの殉教』の Domina soror「尊い姉妹よ」に合わせ、複数の手紙の呼びかけとして「皆さま」にする）。読み手を指す uos は「皆さま」。affectio uestra（皆さまの愛情、の意で読み手を指す丁寧な言い方）は「皆さま」と訳し、必要なら「愛する皆さま」とする。sorores のない dominae uenerabiles（12.7）は「尊い皆さま」とし、ない語を足さない。19.19 の dominae animae meae は「わたしの魂である皆さま」とし、同じく sorores を足さない（後の章にもう一度出る）。そのほかの呼びかけ（23 章の domnae, lumen meum など）は、初めて出るページで決めてここに書く。
-- 神とキリストの動作は尊敬語にする。受け身や可能と紛れる「〜られる」は避け、「お〜になる」にする（『秘義教話』と同じ。17.1 の misit「お送りになった」、19.8 の rescripserat「お書きになった」）。監督、長老、修道士の動作に尊敬語は使わない。ただし、エゲリアが人々の好意を言う dignor（3.7 の dignati sunt singula ostendere、20.2 の ostendere dignatus est、20.13 の referre dignatus est）は、どの dignor も「〜してくださる」と、受ける側の言い方で訳す。dignor のない動詞（20.3 の duxit nos）は「〜してくれる」。
+- 読み手への呼びかけ：dominae uenerabiles sorores は「尊い姉妹の皆さま」、dominae sorores は「姉妹の皆さま」（『ペルペトゥアとフェリキタスの殉教』の Domina soror「尊い姉妹よ」に合わせ、複数の手紙の呼びかけとして「皆さま」にする）。読み手を指す uos は「皆さま」。affectio uestra（皆さまの愛情、の意で読み手を指す丁寧な言い方）は「皆さま」と訳し、必要なら「愛する皆さま」とする。sorores のない dominae uenerabiles（12.7）は「尊い皆さま」とし、ない語を足さない。19.19 の dominae animae meae は「わたしの魂である皆さま」とし、同じく sorores を足さない（後の章にもう一度出る）。23.10 の domnae, lumen meum と dominae, lumen meum は綴りが違っても同じ呼びかけとして、どちらも「わたしの光である皆さま」とする（19.19 と同じ形）。
+- 神とキリストの動作は尊敬語にする。受け身や可能と紛れる「〜られる」は避け、「お〜になる」にする（『秘義教話』と同じ。17.1 の misit「お送りになった」、19.8 の rescripserat「お書きになった」）。監督、長老、修道士の動作に尊敬語は使わない。ただし、エゲリアが人々の好意を言う dignor（3.7 の dignati sunt singula ostendere、20.2 の ostendere dignatus est、20.13 の referre dignatus est）は、どの dignor も「〜してくださる」と、受ける側の言い方で訳す。dignor のない動詞（20.3、21.1 の duxit nos）は「〜してくれる」。神が主語の dignor（23.5、23.8〜23.10 の dignatus est）も「〜してくださる」とし、尊敬語を重ねない。
 - 道案内の人々や監督の台詞は「」。監督や長老がエゲリアに語る言葉は、年長の聖職者がていねいに語る敬体にする（19 章の filia「娘よ」と呼ぶ監督の言葉など。人物ごとの口調は初めて出るページで決めてここに書く）。土地の長老や修道士たちが巡礼の一行に語る言葉も敬体で、一行を uos「あなたがた」と呼ぶ（12.2、12.3）。
 - 一人の話が節をまたいで続くとき（14.2〜14.3 の長老の言葉、16.5〜16.6 の欠けの後の言葉）は、「」を開いたまま次の節で閉じ、節ごとに閉じて開き直さない。
 - 修辞疑問は「〜でしょうか」「〜ではありませんか」で終え、「？」は使わない（3.4 の et quid plura? は「ほかに何を言いましょうか」）。
@@ -107,7 +107,14 @@
 | fabulae（20.13） | 話（底本の索引の fabula ＝会話。「作り話」「物語」としない） |
 | passus（mille passus） | 歩（20.8 の forte ad mille passus「千歩ほど」。6.1 の「百歩、二百歩」と同じ。マイルに直さない） |
 | 暦の日付（20.5 の nono k. maias） | 今の日付に直す（「四月二十三日」）。原文の言い方と換算はメモに書く |
-| orientalis（20.12 の Haec … specialiter orientalis appellatur） | 『東方』（地方の呼び名として『』に入れる） |
+| orientalis（20.12 の Haec … specialiter orientalis appellatur） | 『東方』（地方の呼び名として『』に入れる）。23.3 の in oriente は呼び名ではないので『』に入れず「東方では」 |
+| aputactitae（底本の綴りは aputactitum、aputactitis） | 世を捨てた人たち（23.3、23.6。ギリシア語の ἀποτακτῖται。修行の暮らしをする人々の呼び名で、24 章以降も同じ。23.3 の aputactitum seu uirginum は「世を捨てた人たち、つまりおとめたち」） |
+| diaconissa | 女性の執事（23.3。diaconus「執事」に揃え、口語訳ローマ一六・一 のフィベの「教会の執事」とも合う） |
+| metropolis | 州都（22.1 の ciuitatem metropolim Tharso） |
+| actus sanctae Teclae | 聖なるテクラの行伝（23.5。書の名） |
+| apostolos（23.9 の per singulas ecclesias uel apostolos） | 使徒たちの教会（底本の索引の取り方。メモに原文が一語であることを書く） |
+| in corpore / extra corpus（23.10。欄は cf. II Cor. 12, 3） | からだのうちにあって／からだのままで、からだを離れて（口語訳第二コリント一二・三 の言い方に寄せる。20.13 の in corpore「この世に生きて」は欄に箇所がないので別） |
+| idola（21.4。創世記三一・一九） | テラピム（聖書の話に出る語として口語訳に寄せ、メモに原文と七十人訳の「偶像」を書く） |
 
 典礼の語（Anastasis、Martyrium、Crux、missa、lucernare、ymni、cathecisis など）は、24 章以降を訳すページで、『秘義教話』の訳語表と照らして決め、ここに足す。
 
@@ -230,3 +237,13 @@
 | mons Oliueti | オリブ山（口語訳使徒一・一二） |
 | Bethleem / Bethania | ベツレヘム／ベタニヤ |
 | Golgotha | ゴルゴタ |
+| Fadana | ファダナ（21.4。ラバンの屋敷だった村。底本の綴りの音で写し、「創世記のパダンアラムに当たる名とみられる。」と訳注を付ける） |
+| Cilicia / Tharsus（Tharso） | キリキヤ／タルソ（口語訳） |
+| Hisauria / Hisauri | イサウリア／イサウリア人（『タティアノス』の「イサウリア人」と同じ） |
+| Thecla（底本は Tecla） | テクラ（『テルトゥリアヌス小品集』と同じ。口語訳にない） |
+| Ponpeiopolis / Corycus（Corico） / Seleucia Hisauriae | ポンペイオポリス／コリュコス／イサウリアのセレウキア（使徒一三・四 の「セルキヤ」〔スリヤのセレウキア〕とは別の町なので、音で写してメモに書く） |
+| Marthana | マルタナ（23.3。女性の執事） |
+| Mansocrenas / mons Taurus | マンソクレナス（底本の綴りの音で写す）／タウロス山 |
+| Cappadocia / Galatia / Bithinia | カパドキヤ／ガラテヤ／ビテニヤ（口語訳） |
+| Calcedon（Calcedona） / Eufimia | カルケドン／エウフェミア（『迫害者たちの死について』の「カルケドン」と同じ） |
+| Asia / Iohannes apostolus | アジヤ（口語訳使徒一九・一〇）／使徒ヨハネ |
