@@ -227,7 +227,7 @@
 - 体の部分を言う手段の de（37.2 の de manibus suis、37.3 の primum de fronte, sic de oculis）は「両手で」「まず額で、次に目で」と訳し、起点の「〜から」にしない。
 - affectus（37.7）は「心を動かされる」で受け（34.1 と同じ）、「心の高ぶり」としない。
 - in ecclesia maiore ad Martyrium（37.8）のように id est のない並びは「大きな教会のマルテュリウム」とし、「つまり」は id est があるとき（30.3、32.1）だけにする。
-- 時を言う Post hoc（36.5、37.1、37.7）は「その後」。sedere modice（36.5、37.1）は「少し座って休む」。
+- 時を言う Postmodum（36.5）、Post hoc（37.1、37.7）は「その後」。sedere modice（36.5、37.1）は「少し座って休む」。
 - hac sic ergo、ac sic ergo、itaque ergo のような話をつなぐ決まった言い方は、「こうして」「そこで」程度に軽く訳し、一つずつ訳し分けない。
 
 ## 名前の表
