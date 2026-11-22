@@ -59,7 +59,7 @@
 | ascitis（ἀσκητής） | 修行者（3.4 の ut hic dicunt ascitis は「ここで言う修行者」） |
 | sanctus（人の） | 聖なる（1.2 の deductores sancti illi「あの聖なる案内人たち」）。人名に付くとき（2.2 の sanctus Moyses）は「聖なるモーセ」。「聖〜」と称号にしない |
 | ecclesia | 教会（建物も） |
-| oblatio / oblationem facere / offero | ささげ物／ささげ物をささげる／ささげる（『秘義教話』の θυσία「ささげ物」、προσφέρω「ささげる」に合わせる） |
+| oblatio / oblationem facere / offero | ささげ物／ささげ物をささげる／ささげる（『秘義教話』の θυσία「ささげ物」、προσφέρω「ささげる」に合わせる）。修道士たちが典礼に来ることを言う ad oblationem faciendam（5.10）も「ささげ物をささげる」で受け、communico の「あずかる」と混ぜない |
 | communico | 聖餐にあずかる（3.6 の communicantibus nobis、3.7 の communicaueramus。『秘義教話』の κοινωνέω「あずかる」） |
 | eulogiae | 祝福の品（3.6 の dederunt nobis … eulogias, id est de pomis「祝福の品、つまり果物をくれました」。原文が id est で説明を添えるので、外来語のままにしない） |
 | catechumenus（底本の綴りは cathecuminus） | 洗礼志願者（『ペルペトゥアとフェリキタスの殉教』と同じ） |
@@ -92,6 +92,9 @@
 - 1.2 の ut tamen commonuerunt … dicentes のような、本筋の途中に挟む説明の文は、文を分けて地の文で訳してよい。
 - id est で言い換えるところは「つまり」「すなわち」で受け、言い換えの語を落とさない（3.3 の id est summitas montis、3.6 の id est seu circa …）。来た人の範囲を言い直す id est qui …（3.4）も「つまり」で受け、除外の「ただし」にしない。言い換えを述語にして受けられるとき（3.8 の「立っていた場所は、教会の壁のまわり、つまり…頂でした」）は、二つ続く id est の両方に接続の語を置かなくてよい。
 - 一文の中で nos と ego が切り替わるところ（2.7 の perueniremus … cognoueram）は、主語を補って「わたしたちが着く前から、わたしは知っていました」と訳し分ける。
+- 聖書の箇所を読むこと（lectus est ipse locus de libro …、legeretur）は受け身で「読まれました」「読んでもらう」と訳す。読むのは聖職者たちで、エゲリアが自分で読むようにしない。
+- 前に済んだことを振り返る過去完了（5.2 の ubi manseramus et uideramus）は、「泊まった所です」「すでに見ていました」のように、新しい出来事と見分けられる形にする。
+- de quo locutus est Dominus (Deus) Moysi in igne（4.7、5.2）は「そのしばから、主は火の中でモーセにお語りになりました」のように「火の中で」と訳す。2.2 の de rubo in igne「燃えるしばの中から」は別の形。
 - hac sic ergo、ac sic ergo、itaque ergo のような話をつなぐ決まった言い方は、「こうして」「そこで」程度に軽く訳し、一つずつ訳し分けない。
 
 ## 名前の表
