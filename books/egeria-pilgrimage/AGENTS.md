@@ -175,7 +175,7 @@
 | pascha（復活祭の意） | 復活祭（29.5 の denuntiatur pascha「復活祭が告げられます」）。福音書の引用の中と、それを受ける地の文の ante sex dies paschae（29.6）は口語訳の「過越の祭」。二つが同じ語であることは、初めてぶつかる 29.5 に訳注「原文では『過越の祭』と『復活祭』は同じ語。」で示した |
 | populus | 民（27.6、29.4 以降。omnis populus は「民はみな」。「人々」としない。人々を広く言う omnes は「みな」） |
 | matronae / domini（31.4） | 身分の高い女の人／身分の高い男の人（domini を「主」「主人」としない） |
-| cum ymnis | 監督が導かれる文（ducitur、deducitur）は「賛歌とともに」、みなが自分で進む文（itur、subitur）は「賛歌を唱えながら」 |
+| cum ymnis | 監督が導かれる文（ducitur、deducitur）は「賛歌とともに」、みなが自分で進む文（itur、subitur）と、民が監督を導く能動の文（ducunt、deducunt、ducent episcopum。39.4、40.1、40.2、43.2、43.8）は「賛歌を唱えながら」 |
 | spiritus（43.3 の ubi descendit spiritus） | 御霊（sanctus がないので「聖霊」とせず、口語訳使徒二・四 の「御霊」） |
 | quintana pars（43.7 の ualuae maiores, quae sunt de quintana parte） | 市場に面した側（陣営の市の立つ所を言う語。Bernard の脚注による。底本の索引は意味を言わない。メモに書いた） |
 | de plebe（39.3、44.3） | 民のうちから、民のうちでは（populus と同じく「民」。聖職者や世を捨てた人たちと並べて言う） |
