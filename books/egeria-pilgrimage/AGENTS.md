@@ -58,7 +58,7 @@
 | clerici | 聖職者たち |
 | monachus / monasterium | 修道士／修道の住まい（『アントニオス伝』と同じ。この時代のものは独りか少人数で住む庵で、後の大きな修道院と分ける）。例外は 7.2 の cata mansiones monasteria … cum militibus et praepositis で、「詰め所」と訳す（底本の索引がこの箇所だけを statio militum とする） |
 | castrum / praepositus / miles | 砦／隊長／兵（7.2、7.4。pro disciplina romana は「ローマの秩序のために」） |
-| martyrium（普通名詞） | 殉教者の記念堂（7.7 の ecclesiam habet et martyria。エルサレムの大聖堂の名の Martyrium は 24 章以降で決める） |
+| martyrium（普通名詞） | 殉教者の記念堂（7.7 の ecclesiam habet et martyria。エルサレムの大きな教会の名の Martyrium は名前の表の「マルテュリウム」） |
 | epiphania / uigiliae | 公現祭／徹夜の祈り（9.1 の pridie a beatissimo die epiphania「幸いな公現祭の前日」、uigiliae agendae erant「徹夜の祈りが行われることになっていました」） |
 | ager publicus | 公道（9.3。底本の索引の agger publicus。「公有地」と取らない） |
 | ascitis（ἀσκητής） | 修行者（3.4 の ut hic dicunt ascitis は「ここで言う修行者」） |
@@ -116,7 +116,7 @@
 | in corpore / extra corpus（23.10。欄は cf. II Cor. 12, 3） | からだのうちにあって／からだのままで、からだを離れて（口語訳第二コリント一二・三 の言い方に寄せる。20.13 の in corpore「この世に生きて」は欄に箇所がないので別） |
 | idola（21.4。創世記三一・一九） | テラピム（聖書の話に出る語として口語訳に寄せ、メモに原文と七十人訳の「偶像」を書く） |
 
-典礼の語（24 章で決めた。『秘義教話』の訳語表にはこれらの語がないので、底本の索引と後の章の用例を見て決めた。Martyrium、cathecisis などは初めて出るページで決めて足す）：
+典礼の語（24 章で決めた。『秘義教話』の訳語表にはこれらの語がないので、底本の索引と後の章の用例を見て決めた。cathecisis など、まだない語は初めて出るページで決めて足す）：
 
 | 原語 | 訳 |
 |---|---|
