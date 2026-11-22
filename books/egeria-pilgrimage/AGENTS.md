@@ -158,6 +158,9 @@
 | quinquagesimae per pentecosten（25.6 の quinquagesimarum） | 五旬節の五十日目（の主の日） |
 | quadragesimae de epiphania | 公現祭から四十日目の祭り（26.1。複数でも一つの祭り。初出に訳注「当時のエルサレムでは公現祭に主の降誕を祝った。」） |
 | dies paschales / quadragesimae（複数） / eortae | 復活祭の時期（27.1。前の八週を含む季節）／四旬節（27.1 の sicut apud nos quadragesimae も「四旬節」）／「ヘオルタイ」（27.1 の quod hic appellant eortae, id est quadragesimas は、licinicon と同じ型で「ここでは「ヘオルタイ」と呼びます。つまり「四旬節」です」。ἑορταί の音。訳注は付けない） |
+| octo dies paschales / octauae（paschae） / usque ad octauas | 復活祭の八日間（39.1〜39.3。復活祭の当日からの八日。27.1 の dies paschales「復活祭の時期」と範囲が違う）／（復活祭の）八日目（39.2 の id est octauis は「つまり八日目」、40.1 の octauis paschae は「復活祭の八日目」）／八日目まで |
+| quinquagesima, id est pentecosten（41.1） | 復活祭から五十日目、つまり五旬節（A pascha … usque ad … の形。25.6 の「五旬節の五十日目」と同じ語） |
+| infantes（38.1、39.3。洗礼を受けたばかりの人） / fons | 幼子たち（初出の 38.1 にだけ訳注「洗礼を受けたばかりの人たちを言う。」。39.3 は原文の id est qui baptidiati fuerint を「つまり洗礼を受けた人たち」で受ける。31.3、36.2 の年の幼い infantes は「子供たち」と訳し分ける）／洗礼盤（「泉」としない） |
 | secunda feria … sexta feria | 月曜日……金曜日（土曜日の「土曜日」に合わせ、今の曜日で訳す。in medio quinta feria は「週の中ほどの木曜日」） |
 | martyrorum dies | 殉教者の記念の日（27.5） |
 | ebdomadarii / qui faciunt septimanas (ebdomadas) / facere integras septimanas ieiuniorum | 「週の人たち」（27.9。ここでの呼び名として「」に入れる）／週を通して断食する人たち（27.9、28.1。呼び名の説明の id est で受ける）／断食の週をまるごと通す（28.3） |
@@ -198,7 +201,7 @@
 - de quo locutus est Dominus (Deus) Moysi in igne（4.7、5.2）は「そのしばから、主は火の中でモーセにお語りになりました」のように「火の中で」と訳す。2.2 の de rubo in igne「燃えるしばの中から」は別の形。
 - エゲリアがギリシア語の語を出して quod nos dicimus … と説明するところ（7.7 の come … quod nos dicimus uicus、8.4 の dendros alethiae, quod nos dicimus arbor ueritatis）は、ギリシア語を音で写して「」に入れ、説明の語も「」に入れる（「コーメー」、つまりわたしたちの言う「村」）。3.1 の「巻き貝のように」と同じ形。音はギリシア語の正しい形から写し、ラテン語の字の崩れに従わない（15.3 の cepos tu agiu iohanni は κῆπος τοῦ ἁγίου Ἰωάννου から「ケーポス・トゥー・ハギウー・ヨーアンヌー」）。台詞の中では『』に入れる（13.4、15.3）。
 - 地の人々や監督が語った言い伝えを eo quod … の間接話法で伝えるところ（8.5 の Farao … isset … et incendisset、19.17）は、「」に入れず、「〜そうです」「〜というのです」で受ける。その中の理由の quia、nam も「〜からです」で残す（8.5 の quia infinita erat ualde「町がとても大きかったからです」）。ただし、eo quod で始まっても、同じ話の中で語り手がエゲリアに二人称で語りかける（19.14〜19.15 の ut uides、uides）ときは、直接話法として「」に入れる。
-- 6.2、8.3 の ponent、tendent、uadent、tollent、8.2 の dicent は、底本の索引が言う -ent の現在形（未来ではない）。いつものならわしとして「〜します」で訳す。単数の -et（24 章の benedicet、dicet、colliget、descendet、mittet、prendet、uadet など。索引の Coniugationis formae insolentiores に挙がる）も同じく現在形で、同じ文の intrat、facit などと並べて「〜します」で訳す。
+- 6.2、8.3 の ponent、tendent、uadent、tollent、8.2 の dicent は、底本の索引が言う -ent の現在形（未来ではない）。いつものならわしとして「〜します」で訳す。単数の -et（24 章の benedicet、dicet、colliget、descendet、mittet、prendet、uadet など。索引の Coniugationis formae insolentiores に挙がる）も同じく現在形で、同じ文の intrat、facit などと並べて「〜します」で訳す。ただし 40.2 の arguet（福音書の箇所の要約の中）は、底本の索引が完了の形として挙げるので、過去で「お責めになった」と訳す。
 - quemadmodum ＋未来完了（底本の索引の wenn, während）は「〜したら」「〜に入るまで」と、係る語の側で訳す（27.7 の usque in mane, … quemadmodum intratum fuerit in alia die mane は「次の日、すなわち土曜日の朝に入るまで」。28.1 の quemadmodum manducauerint は「食事をしたら」）。
 - sicut superius dixi（diximus）が名詞句や動作を受けるときは、受ける動作の直前に置き、人を修飾する「〜ような、〜人たち」の形にしない（28.3 の「断食の週を、先にわたしたちが述べたようにまるごと通すことのできない人たち」）。dixi は「先に言った」、diximus は「先にわたしたちが述べた」と数のとおりに訳し分ける。
 - uicibus … uicibus … の列挙（27.8）は、「代わる代わる」を列挙の頭に一度だけ置き、動詞を重ねない。
@@ -216,7 +219,7 @@
 - deputo（23.4 の monasterium, quod ibi est deputatum）は「（そこに）属する、あてがわれた」と訳し、「建てられた」としない（底本の索引の deputare）。
 - 人の範囲を言う quicumque sunt（25.12 の loci ipsius monachi, quicumque sunt）は「〜はみな」と訳し、「何人いても」と人数の話にしない。
 - 章や段落の頭の Sane（26.1）は軽く訳すか訳さずにおき、「〜も」と前と並べる語を足さない。
-- 主が受け手になる受け身のうち、「導かれる」のように尊敬語と読み紛れる動詞（31.3 の quo tunc Dominus deductus est）だけは、「かつて人々が主をお連れしたのと同じ形で」と能動に直す。「捕らえられる」「十字架にかけられる」のように受け身としか読めない動詞は、受け身のまま訳す（29.6 の comprehenditur Dominus「主が捕らえられた」、24.7 の訳注の「主が十字架にかけられた」）。
+- 主が受け手になる受け身のうち、「導かれる」のように尊敬語と読み紛れる動詞（31.3 の quo tunc Dominus deductus est）だけは、「かつて人々が主をお連れしたのと同じ形で」と能動に直す。主の動作で、可能と紛れる「入って来られる」も使わず、ingredior は「お入りになる」とする（39.5、40.2 の「戸が閉じられていたのに、主が…お入りになった」）。「捕らえられる」「十字架にかけられる」のように受け身としか読めない動詞は、受け身のまま訳す（29.6 の comprehenditur Dominus「主が捕らえられた」、24.7 の訳注の「主が十字架にかけられた」）。
 - 文の頭の porro（31.2、31.4）は軽いつなぎの語として「そうして」「そこから」程度に訳し、「そのため」と因果を足さない。文の頭でなく場所の句に付く porro（36.3 の forsitan porro ad ciuitatem）は、距離を言う「遠く」と訳す（「遠く町まで聞こえるかと思うほど」）。
 - 職名に付く ipse（33.2 の stans ipse episcopus leget、24.10 の leget … episcopus ipse）は、読む・唱える動詞と結んで「監督自身が」と訳し、「自分で立って」のように別の動詞に係らせない。
 - 並ぶ複数の語に係る aptae diei (et loco)（35.4 の lectiones et ymni et antiphonae aptae diei）は、全部に係るように訳す（「どれもその日にふさわしいものです」）。語順で一つにだけ付けない。
