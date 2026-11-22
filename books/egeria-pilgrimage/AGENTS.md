@@ -31,7 +31,7 @@
 - 底本の山括弧（2.3 の ⟨quia⟩。校注 l. 4869 に quia ipse addidi）は、編者が写本にない語を補ったもの。底本テキストでは `⟨ ⟩`（U+27E8、U+27E9）にして起こし（『迫害者たちの死について』と同じ）、訳は補いに従う。補いが訳の意味を決めるところは `// ` メモに補いであることを書く。山括弧は、写本にある語を編者が別の位置へ移した印にも使われる（6.4 の cum uenissemus ⟨denuo,⟩。p. 46 校注 20 に transposui）。そのときも同じく `⟨ ⟩` で起こし、移した位置で訳し、`// ` メモに移動の印であることを書く。
 - 底本の角括弧（20 章の終わり、p. 68 の 2 行目の monachorum aliquando [aliquando]。校注 l. 6315 に aliquando aliquando dittographia A）は、編者が取り除くべきとみた語なので、底本テキストに残して訳さず、`// ` メモに書く。
 - 底本の点線（29.1 の septimanarum .... uigiliae）は、編者が示した脱落の印。底本テキストには刷られた数のまま残す。訳は欠けた語を補わず、読者の理解が変わるところは訳注で語が欠けていることを示す。
-- 写本の葉の欠け（16 章の Unum folium excisum est、25 章の Deest unum folium）は、底本では本文の中に一行で刷られている。底本テキストでは欠けの前後で節を分けたまま、欠けの印は起こさない。訳では、欠けの位置に訳注を置いて、写本の一葉が失われていることを示す（英訳も [A leaf wanting] と示す）。
+- 写本の葉の欠け（16 章の Unum folium excisum est、25 章の Deest unum folium）は、底本では本文の中に一行で刷られている。底本テキストでは欠けの前後で節を分けたまま、欠けの印は起こさない。訳では、欠けの位置に訳注を置いて、写本の一葉が失われていることを示す（英訳も [A leaf wanting] と示す）。16 章では、欠けの前の 16.4 の訳は文の途中（「山は長く延びていて」）で切り、16.5 の訳の頭に訳注「ここで写本の一葉が失われている。」を置いた。欠けの後が人の言葉の続き（16.5〜16.6 の uidetis）なら、残る部分の初めから「」に入れる。
 - 底本の短剣符 `†`（4.3 の uel maxime † ea desideraueram。p. 41 校注 23 に locum aperte corruptum）は、編者が本文の崩れを示した印。底本テキストに刷られた位置のまま残す。訳は写本に残る語を生かして大意で訳し、`// ` メモに崩れであることと推定（校注の Gamurrini や Geyer の案）を書く。大意が推定によって変わるときだけ訳注を付ける。
 - 編者が山括弧なしで補った語・改めた語（4.7 の Hic est autem rubus の est。p. 42 校注 17 に est ipse addidi）は、刷られたとおりに起こし、訳は底本に従う。意味が補いに頼るときだけ `// ` メモに書く。
 - ほかの記号は、初めて出てくるページで校注の意味を確かめてからここに書く。
@@ -86,11 +86,16 @@
 | pulpitus（12.1） | 壇（教会の中の、少し高い所。「説教壇」としない） |
 | memoriale（12.6） | 記念の場所（底本の索引の memoriale = memoria） |
 | titulus uxoris Loth（12.6） | ロトの妻の碑（12.7 の columna「柱」と訳し分ける。Geyer の Kritische Bemerkungen は「墓碑銘、墓」の意とする） |
-| notores loci（12.3） | この土地をよく知る人たち |
+| notores loci（12.3、16.3） | この土地をよく知る人たち |
 | facta est oratio / fieret oratio | 祈りをする（4.8、10.7 など。受け身と能動の線引きは「文型の訳し方」の聖書の箇所を読むことの項） |
 | dies dominica / sabbatum | 主の日／土曜日（3.1 の sabbato sera「土曜日の夕方」。安息日の意味で論じるところだけ「安息日」） |
+| hostiae Deo purae（13.4、14.2） | 神への清いささげ物（oblatio と同じく「ささげ物」で受け、「いけにえ」としない） |
+| cata pascha（15.5） | 毎年の復活祭に（cata はギリシア語の κατά。7.2 の cata mansiones と同じ語） |
+| psalmi uel antiphonae（15.5） | 詩篇と交唱（uel は「と」。antiphonae はここで初めて出る典礼の語で、24 章以降も「交唱」） |
+| mature（15.5） | 朝早く（底本の索引の mature = mane） |
+| tribunus（16.6） | 将校（この時代の軍の指揮官。「護民官」としない） |
 
-典礼の語（Anastasis、Martyrium、Crux、missa、lucernare、ymni、antiphonae、cathecisis など）は、24 章以降を訳すページで、『秘義教話』の訳語表と照らして決め、ここに足す。
+典礼の語（Anastasis、Martyrium、Crux、missa、lucernare、ymni、cathecisis など）は、24 章以降を訳すページで、『秘義教話』の訳語表と照らして決め、ここに足す。
 
 ## 聖書
 
@@ -110,12 +115,14 @@
 - 聖書の箇所を読むこと（lectus est ipse locus de libro …、legeretur）は受け身で「読まれました」「読んでもらう」と訳す。読むのは聖職者たちで、エゲリアが自分で読むようにしない。詩篇を唱えること（dictus est psalmus、diceretur psalmus）も同じく受け身で「唱えられました」「唱えられます」と訳す（4.4、10.7、11.3）。祈り（facta est oratio）だけは一行がするものとして「祈りをする」と能動で訳す。
 - 前に済んだことを振り返る過去完了（5.2 の ubi manseramus et uideramus）は、「泊まった所です」「すでに見ていました」のように、新しい出来事と見分けられる形にする。
 - de quo locutus est Dominus (Deus) Moysi in igne（4.7、5.2）は「そのしばから、主は火の中でモーセにお語りになりました」のように「火の中で」と訳す。2.2 の de rubo in igne「燃えるしばの中から」は別の形。
-- エゲリアがギリシア語の語を出して quod nos dicimus … と説明するところ（7.7 の come … quod nos dicimus uicus、8.4 の dendros alethiae, quod nos dicimus arbor ueritatis）は、ギリシア語を音で写して「」に入れ、説明の語も「」に入れる（「コーメー」、つまりわたしたちの言う「村」）。3.1 の「巻き貝のように」と同じ形。
+- エゲリアがギリシア語の語を出して quod nos dicimus … と説明するところ（7.7 の come … quod nos dicimus uicus、8.4 の dendros alethiae, quod nos dicimus arbor ueritatis）は、ギリシア語を音で写して「」に入れ、説明の語も「」に入れる（「コーメー」、つまりわたしたちの言う「村」）。3.1 の「巻き貝のように」と同じ形。音はギリシア語の正しい形から写し、ラテン語の字の崩れに従わない（15.3 の cepos tu agiu iohanni は κῆπος τοῦ ἁγίου Ἰωάννου から「ケーポス・トゥー・ハギウー・ヨーアンヌー」）。台詞の中では『』に入れる（13.4、15.3）。
 - 地の人々や監督が語った言い伝えを eo quod … の間接話法で伝えるところ（8.5 の Farao … isset … et incendisset）は、「」に入れず、「〜そうです」「〜というのです」で受ける。その中の理由の quia、nam も「〜からです」で残す（8.5 の quia infinita erat ualde「町がとても大きかったからです」）。
 - 6.2、8.3 の ponent、tendent、uadent、tollent、8.2 の dicent は、底本の索引が言う -ent の現在形（未来ではない）。いつものならわしとして「〜します」で訳す。
 - forsitan と数（10.8、12.7 の forsitan miliario sexto）は「六マイルほど」とし、「おそらく」と重ねない。
 - laborem (sibi) imponere は、意志の形（10.8 の si uolueritis）なら「労をいとわない」、能力の形（11.3 の qui potuerunt）なら「労に耐えられる」と訳し分ける。
 - 土地の修道士たちが言う maiores（12.2。前にその土地に住んだ人々）は「先人たち」とし、血筋の「先祖」としない。
+- 16.7 の per quas ieramus tres annos は、底本の校注で Geyer が言う ante tres annos の意で「三年前に通った宿駅」と訳し、メモに書く。
+- 長老や土地の人がエゲリア一人に語る二人称単数（13.4 の quam uides、16.3 の quem uides）は「あなた」、一行に語る複数（14.2 の quae uidetis、15.3 の uos dicitis）は「あなたがた」と訳し分ける。
 - hac sic ergo、ac sic ergo、itaque ergo のような話をつなぐ決まった言い方は、「こうして」「そこで」程度に軽く訳し、一つずつ訳し分けない。
 
 ## 名前の表
@@ -165,8 +172,17 @@
 | Fogor | ペオル（口語訳民数記二三・二八） |
 | Segor | ゾアル（口語訳創世記一九・二二） |
 | Ausitis（底本は Ausitidem、Ausitidi） / Iob | ウヅの地（口語訳ヨブ記一・一）／ヨブ |
-| Melchisedech / Salem | メルキゼデク／サレム（口語訳創世記一四・一八） |
-| Helias Thesbites / Corra（Cherith） | テシベびとエリヤ（口語訳列王紀上一七・一）／ケリテ（口語訳列王紀上一七・三。底本の綴りはページを訳すときに確かめる） |
+| Melchisedech / Salem / Abraam | メルキゼデク／サレム（口語訳創世記一四・一八）／アブラハム |
+| Helias Thesbites / Thesbe / Corra | テシベびとエリヤ（口語訳列王紀上一七・一）／テシベ／ケリテ（口語訳列王紀上一七・三。底本の綴りは Corra。七十人訳の Χορράθ） |
+| Achab | アハブ |
+| Carneas / Dennaba / Idumea | カルネアス（ヨブの町。口語訳にないので音で写す）／デナバ（口語訳創世記三六・三二）／エドム（13.2 の in finibus Idumeae et Arabiae「エドムとアラビヤの境」。旧約の地名として口語訳の「エドム」にし、新約の「イドマヤ」にしない） |
+| Sedima | セディマ（13.3。サレムがなまった名と原文が言う） |
+| opu Melchisedech（13.4）/ opus Melchisedech（15.5） | 「オプ・メルキゼデク」／「オプス・メルキゼデク」（同じ教会のギリシア語の名。13.4 は崩れていて短剣符があるので、刷られた字を音で写し、訳注で崩れを示す。15.5 も「わざ」と訳さず音で写す） |
+| Codollagomor rex gentium | 諸国の王ケダラオメル（14.3。口語訳の名に揃え、称号は原文どおり。聖書との違いはメモに書く） |
+| Enon / Salim | アイノン／サリム（口語訳ヨハネ三・二三。13.4 のサレムと書き分ける） |
+| Iohannes baptista | バプテスマのヨハネ（口語訳。15.2 の sanctum Iohannem baptistam は「聖なるバプテスマのヨハネ」） |
+| Getha | ゲタ（16.1。底本の音で写し、欄の士師記一二・七 から「士師記のエフタを指すとみられる。」と訳注を付ける） |
+| Fenice | ピニケ（口語訳使徒一一・一九） |
 | Edessa / Aggarus | エデッサ／アブガル（エデッサの王。底本の綴りは Aggarus） |
 | Mesopotamia / Syria | メソポタミヤ／スリヤ（口語訳） |
 | Eufrates | ユフラテ（口語訳創世記一五・一八） |
