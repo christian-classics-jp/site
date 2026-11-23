@@ -36,6 +36,7 @@ PG（Migne のギリシア教父全集）を底本にする本の共通の注意
 - 底本：J. H. Srawley 編、The Catechetical Oration of Gregory of Nyssa（Cambridge, 1903。編者は 1954 年没）。archive.org `TheCatecheticalOrationOf`。OCR は `cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt`（9d8f5af77425624f）。同じ版の `thecatecheticalo00greguoft` はギリシア語がラテン文字に化けていて使えない。序と 40 章。
 - 英訳：NPNF 2-5「The Great Catechism」（`cache/ccel.org/npnf205.txt` の l. 42016 から）。
 - 揃える本：gregory-nazianzen-theological-orations の訳語表。受肉と贖いの論じ方はアタナシオスに拠るので、人名と用語は athanasius-life-of-antony と incarnation に合わせる。
+- 20 ページ（章の途中では切らない。序だけで 1 ページ）。画像は archive.org の `page/nN_w1600.jpg` で N＝印刷ページ＋56（p. 1 と p. 150 で確かめた。IIIF は応答しなかった）。pages.json の `images` はこの N。底本テキスト（`research/srawley-1903.txt`）は、本を始めたときに序（0 章）だけ起こした。次のページからは、各ページのセッションが page-context を作る前に、そのページの章を画像から起こして足す（本の AGENTS.md の「底本の扱い」）。OCR の章の書き出しの行は本の `research/sources.md` にある。
 
 ## chrysostom-on-the-priesthood　ヨアンネス・クリュソストモス『司祭職について』（ギリシア語）
 

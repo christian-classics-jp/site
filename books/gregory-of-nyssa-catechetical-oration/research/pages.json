@@ -1,0 +1,150 @@
+{
+  "title": "ニュッサのグレゴリオス『教理大講話』",
+  "language": "ギリシア語",
+  "base": "books/gregory-of-nyssa-catechetical-oration/research/srawley-1903.txt",
+  "digitized": false,
+  "english_name": "NPNF 第 2 集第 5 巻の英訳「The Great Catechism」（W. Moore と H. A. Wilson、1893）。底本より前の刊本から訳したもので、脚注で Krabinger 版（1838）の読みにたびたび従う。底本と読みが違うところがあり、英訳と底本の違いは訳の誤りとは限らない。序（Prologue）と 40 章で、章の番号は底本と同じ。序の終わりも底本と同じところ（1 章の書き出しの前）。章の後にその章の脚注が続き、行の範囲は脚注まで含む",
+  "print_name": "Srawley 1903 の印刷版（pp. 1〜164。上にギリシア語の本文、下に異読の欄と英語の注解。OCR はギリシア語の行のあいだにアクセントだけの崩れた行を挟み、本文・異読・注解を順に並べる。行の範囲は、範囲の最後の章が終わる印刷ページの終わりまで取る）。images の番号は archive.org のページ画像 page/nN_w1600.jpg の N（＝印刷ページ＋56）。`_page_numbers.json` の leafNum と同じ数で、IIIF の番号も同じはずだが確かめていない",
+  "pages": [
+    {
+      "id": "chapter-00",
+      "spec": "0",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:2234-2880",
+      "english": "cache/ccel.org/npnf205.txt:42229-42366",
+      "images": "TheCatecheticalOrationOf:0057-0062"
+    },
+    {
+      "id": "chapter-01",
+      "spec": "1",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:2806-3631",
+      "english": "cache/ccel.org/npnf205.txt:42367-42604",
+      "images": "TheCatecheticalOrationOf:0062-0069"
+    },
+    {
+      "id": "chapter-02-04",
+      "spec": "2-4",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:3517-4264",
+      "english": "cache/ccel.org/npnf205.txt:42605-42761",
+      "images": "TheCatecheticalOrationOf:0069-0075"
+    },
+    {
+      "id": "chapter-05",
+      "spec": "5",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:4185-5238",
+      "english": "cache/ccel.org/npnf205.txt:42762-42912",
+      "images": "TheCatecheticalOrationOf:0075-0084"
+    },
+    {
+      "id": "chapter-06-07",
+      "spec": "6-7",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:5157-6620",
+      "english": "cache/ccel.org/npnf205.txt:42913-43139",
+      "images": "TheCatecheticalOrationOf:0084-0097"
+    },
+    {
+      "id": "chapter-08",
+      "spec": "8",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:6523-7712",
+      "english": "cache/ccel.org/npnf205.txt:43140-43365",
+      "images": "TheCatecheticalOrationOf:0097-0108"
+    },
+    {
+      "id": "chapter-09-12",
+      "spec": "9-12",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:7635-8398",
+      "english": "cache/ccel.org/npnf205.txt:43366-43531",
+      "images": "TheCatecheticalOrationOf:0108-0115"
+    },
+    {
+      "id": "chapter-13-15",
+      "spec": "13-15",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:8327-9112",
+      "english": "cache/ccel.org/npnf205.txt:43532-43681",
+      "images": "TheCatecheticalOrationOf:0115-0122"
+    },
+    {
+      "id": "chapter-16-17",
+      "spec": "16-17",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:9029-9939",
+      "english": "cache/ccel.org/npnf205.txt:43682-43844",
+      "images": "TheCatecheticalOrationOf:0122-0130"
+    },
+    {
+      "id": "chapter-18-20",
+      "spec": "18-20",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:9852-10721",
+      "english": "cache/ccel.org/npnf205.txt:43845-44037",
+      "images": "TheCatecheticalOrationOf:0130-0137"
+    },
+    {
+      "id": "chapter-21-23",
+      "spec": "21-23",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:10628-11687",
+      "english": "cache/ccel.org/npnf205.txt:44038-44233",
+      "images": "TheCatecheticalOrationOf:0137-0146"
+    },
+    {
+      "id": "chapter-24-25",
+      "spec": "24-25",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:11625-12330",
+      "english": "cache/ccel.org/npnf205.txt:44234-44342",
+      "images": "TheCatecheticalOrationOf:0146-0152"
+    },
+    {
+      "id": "chapter-26-27",
+      "spec": "26-27",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:12251-13235",
+      "english": "cache/ccel.org/npnf205.txt:44343-44537",
+      "images": "TheCatecheticalOrationOf:0152-0161"
+    },
+    {
+      "id": "chapter-28-30",
+      "spec": "28-30",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:13156-14059",
+      "english": "cache/ccel.org/npnf205.txt:44538-44683",
+      "images": "TheCatecheticalOrationOf:0161-0169"
+    },
+    {
+      "id": "chapter-31-32",
+      "spec": "31-32",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:13952-15106",
+      "english": "cache/ccel.org/npnf205.txt:44684-44868",
+      "images": "TheCatecheticalOrationOf:0169-0179"
+    },
+    {
+      "id": "chapter-33-34",
+      "spec": "33-34",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:15019-15749",
+      "english": "cache/ccel.org/npnf205.txt:44869-44986",
+      "images": "TheCatecheticalOrationOf:0179-0185"
+    },
+    {
+      "id": "chapter-35",
+      "spec": "35",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:15651-16736",
+      "english": "cache/ccel.org/npnf205.txt:44987-45199",
+      "images": "TheCatecheticalOrationOf:0185-0195"
+    },
+    {
+      "id": "chapter-36-37",
+      "spec": "36-37",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:16646-18262",
+      "english": "cache/ccel.org/npnf205.txt:45200-45418",
+      "images": "TheCatecheticalOrationOf:0195-0209"
+    },
+    {
+      "id": "chapter-38-39",
+      "spec": "38-39",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:18156-18972",
+      "english": "cache/ccel.org/npnf205.txt:45419-45553",
+      "images": "TheCatecheticalOrationOf:0209-0215"
+    },
+    {
+      "id": "chapter-40",
+      "spec": "40",
+      "print": "cache/archive.org/TheCatecheticalOrationOf/TheCatecheticalOrationOf_djvu.txt:18857-19449",
+      "english": "cache/ccel.org/npnf205.txt:45554-45654",
+      "images": "TheCatecheticalOrationOf:0215-0220"
+    }
+  ]
+}

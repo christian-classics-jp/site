@@ -41,7 +41,7 @@
 | ノウァティアヌス『三位一体について』 | ラテン語 | Fausset 編（Cambridge, 1909。archive.org `novatianiromanae00novauoft`）。本文は OCR の l. 2541 から | ANF 5（l. 61065） | 編者の没年未確認 |
 | スルピキウス・セウェルス『マルティヌス伝』 | ラテン語 | Halm 編（CSEL 1、1866。archive.org `sulpiciiseveril00halmgoog`）。OCR の l. 6037 から | NPNF 2-11（l. 212） | 編者 Halm の没年は書誌になく未確認。西方の最初の聖人伝の一つ |
 | レランスのウィンケンティウス『備忘録』 | ラテン語 | Jülicher 編（Freiburg, 1895。archive.org `vincenzvonlerin00jlgoog`。編者は 1938 年没）。本文は OCR の l. 794 から | NPNF 2-11（l. 11036） | Moxon 編（Cambridge, 1915。`commonitoriumofv00vinc`）は編者の没年未確認なので使わない。「どこでも、いつも、すべての人に信じられてきたこと」の出典 |
-| ニュッサのグレゴリオス『教理大講話』 | ギリシア語 | Srawley 編（Cambridge, 1903。archive.org `TheCatecheticalOrationOf`） | NPNF 2-5（l. 42016） | 編者 Srawley は 1954 年没。同じ版の別のスキャン `thecatecheticalo00greguoft` は、ギリシア語がラテン文字に化けていて使えない |
+| ニュッサのグレゴリオス『教理大講話』 | ギリシア語 | Srawley 編（Cambridge, 1903。archive.org `TheCatecheticalOrationOf`） | NPNF 2-5（l. 42016） | 翻訳中（`books/gregory-of-nyssa-catechetical-oration/`） |
 | ヨアンネス・クリュソストモス『司祭職について』 | ギリシア語 | PG 48（archive.org `patrologiae_cursus_completus_gr_vol_048`）。題は OCR の l. 13294 | NPNF 1-9（第 1 巻の見出し l. 1866） | Nairn 編（Cambridge, 1906。`desacerdotioofst00john`）は編者の没年未確認（書誌は 1874 年生まれとだけ）なので底本にしない。PG 48 のスキャンはギリシア語だけのページが続き、画像は読める |
 | アレクサンドリアのディオニュシオスの手紙 | ギリシア語 | Feltoe 編（Cambridge, 1904。archive.org `lettersandother00diongoog`） | ANF 6（l. 7067） | 編者 Feltoe の没年未確認。エウセビオスに引かれた手紙が中心で、断片が多い |
 | パトリキウス『告白』 | ラテン語 | White 編（1918。archive.org `librisanctipatr00patr`）。本文は OCR の l. 178 から。編者 White は 1936 年没 | 確かめていない | 保留。権利の切れた英訳を確かめるまで |
@@ -65,12 +65,10 @@ PG の 2 冊は、前は「OCR が崩れていて別の底本が要る」とし�
 | クレメンス『教育者』 | `F1K/tlg0555/tlg002/tlg0555.tlg002.1st1K-grc1.xml` | 03e6a03655189105 |
 | マルコス『ポルフュリオス伝』 | `F1K/tlg2806/tlg001/tlg2806.tlg001.1st1K-grc1.xml` | 5473f5da33469a59 |
 | ANF 6 | `cache/ccel.org/anf06.txt` | cd73917109089536 |
-| NPNF 2-5 | `cache/ccel.org/npnf205.txt` | cef974043e48a52d |
 | NPNF 2-6 | `cache/ccel.org/npnf206.txt` | 53fb977f33ea3d92 |
 | NPNF 2-7 | `cache/ccel.org/npnf207.txt` | 56d84cfa94dee313 |
 | NPNF 2-11 | `cache/ccel.org/npnf211.txt` | 8b1206d4e7488c65 |
 | NPNF 1-9 | `cache/ccel.org/npnf109.txt` | d6a51d22d996e02c |
-| Srawley『教理大講話』の OCR | `cache/archive.org/TheCatecheticalOrationOf/…_djvu.txt` | 9d8f5af77425624f |
 | Nairn『司祭職について』の OCR | `cache/archive.org/desacerdotioofst00john/…_djvu.txt` | fa324c04c2be8d5b |
 | Feltoe『ディオニュシオスの手紙』の OCR | `cache/archive.org/lettersandother00diongoog/…_djvu.txt` | f9d11760f02965cd |
 | Halm、CSEL 1 の OCR | `cache/archive.org/sulpiciiseveril00halmgoog/…_djvu.txt` | c7acde4662f601c8 |
