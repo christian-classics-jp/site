@@ -21,6 +21,7 @@ Mason は各ページの本文の下に異読の欄を置き、印刷ページ�
 - `(non -ῃς)`（p. 94 の `μεταβαινεις] -ης (non -ῃς) a`）：その写本が -ης と書き、-ῃς（iota subscript つき）ではないことを Mason が念を押したもの。‘nonnul.’（p. 95）は ‘in nonnullis’ の略で「いくつか（の写本）では」。‘aliiq.’（p. 98 の ‘Reg. Cypr. aliiq. Reg. et Colb.’）は ‘aliique’ の略で、「Reg. Cypr. と、ほかの Regius と Colbert 系の写本」の意味とみられる（Mason は展開していない）。
 - ‘tres Reg.’ は Regius の写本三つ、‘plures Reg. et Colb.’ は Regius と Colbert 系の写本の多く（plures は「より多くの」というラテン語）、‘quat. Colb.’（quattuor Colb.）は Colbert 系の写本四つとみられる（p. 113。Mason は展開していない）。
 - ‘unus Reg.’ は Regius の写本の一つ（p. 136）、‘duo Reg. quattuor Colb.’ は Regius の写本二つと Colbert 系の写本四つ（p. 131。p. 113 の ‘quat. Colb.’ と同じ）とみられる。‘Coisl. 3’ は Coislin の写本の一つ（p. 132。‘Coisl. 2’ と同じく、b とは別の写本とみられる）。どれも Mason は展開していない。
+- `+`（p. 157 の `δεχομαι]+και c`）：その写本が語を加えていること。`sec. loco`（secundo loco。p. 155 の `om διαφορον sec. loco e`）は「二つ目の箇所で」で、同じ語が続けて二度あるうちの後のほうを e が欠くこと。引用符つきの ‘Reg. a’ は Benedictine 版の Regius の写本の一つで、引用符なしの a（Paris. 510）とは別。
 - 略号の前の `?`（p. 70 の `παρακυψομεν ?cd`）：その写本の読みを Mason が確かめきれていないことを示すとみられる（序論に説明はない）。
 - 引用符の中の `'El.'`（p. 68 の `θαλποντος 'El.'`、p. 69 の `αληθεια de 'El.'`）：引用符の規則のとおり、クレタのエリアスの読みを Benedictine 版の校注から写したもの。El を引用符なしで挙げる箇所と区別する。
 - 上付きの数字（p. 21 の d¹、d²、c¹、p. 22 の ‘Or. 1¹’）：写本の第一の手と後の手（修正）を分けたものとみられる。序論（OCR l. 847–1001）に説明はない。第 28 講話の d は Barocc. 218 一つなので、二つの写本の区別ではない。
