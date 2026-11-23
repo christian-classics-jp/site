@@ -37,4 +37,5 @@
 
 - 英訳（NPNF 第 2 集第 5 巻、`cache/ccel.org/npnf205.txt`）：底本より前の刊本から訳し、脚注で Krabinger 版の読みに触れる。論点には、英訳がどの読みに立っているかという事実だけを書く。英訳の文は写さない。
 - 新約：Robinson & Pierpont の電子テキスト（`cache/raw.githubusercontent.com/byztxt/byzantine-majority-text/`。Nestle-Aland と違う箇所を `{NA … > …}` で添える）。
+- 七十人訳：Swete I〜III の OCR（`cache/archive.org/oldtestamentingr01swetuoft/`、`oldtestamentingr02swetuoft/`、`theoldtestamenti03swetuoft/`）。
 - 口語訳：`node tools/bible.js`。
