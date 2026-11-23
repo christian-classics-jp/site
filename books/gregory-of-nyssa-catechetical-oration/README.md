@@ -22,7 +22,7 @@ node tools/split-units.js <起こした章のファイル> books/gregory-of-nyss
 | chapter-01 | 1 章 | [x] |
 | chapter-02-04 | 2〜4 章 | [x] |
 | chapter-05 | 5 章 | [x] |
-| chapter-06-07 | 6〜7 章 | [ ] |
+| chapter-06-07 | 6〜7 章 | [x] |
 | chapter-08 | 8 章 | [ ] |
 | chapter-09-12 | 9〜12 章 | [ ] |
 | chapter-13-15 | 13〜15 章 | [ ] |
