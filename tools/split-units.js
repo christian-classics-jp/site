@@ -8,7 +8,8 @@ to a labeled base text (this translation's own section numbering).
 
 usage: node tools/split-units.js <chapters.txt> <base.txt>
 
-chapters.txt: one chapter per line, \`<chapter> <text>\` (e.g. \`2 Si certum est denique …\`).
+chapters.txt: one chapter per line, \`<chapter> <text>\` (e.g. \`2 Si certum est denique …\`). The chapter
+may carry the labels above it (\`3.2 …\` for book 3, chapter 2).
 Each chapter is cut at sentence ends (. ? ! and a closing quote after them; not at ; or :) into
 units of at least 25 words, numbered 1, 2, …; a last piece under 12 words joins the unit before it.
 A period after a praenomen abbreviation (M. Aemilius, Cn., Ti., Sex.), after Kal./Kalend., or after
@@ -52,19 +53,28 @@ function units (text) {
 }
 
 const existing = fs.existsSync(base) ? fs.readFileSync(base, 'utf8').split('\n').filter(Boolean) : []
-const have = new Set(existing.map((l) => l.split('.', 1)[0]))
-let last = existing.length ? parseInt(existing[existing.length - 1].split('.', 1)[0], 10) : -1
+const chapterOf = (l) => l.split(' ', 1)[0].split('.').slice(0, -1).join('.')
+const parts = (c) => c.split('.').map((n) => parseInt(n, 10))
+const after = (a, b) => {
+  const [x, y] = [parts(a), parts(b)]
+  for (let i = 0; i < Math.max(x.length, y.length); i++) {
+    if ((x[i] ?? -1) !== (y[i] ?? -1)) return (x[i] ?? -1) > (y[i] ?? -1)
+  }
+  return false
+}
+const have = new Set(existing.map(chapterOf))
+let last = existing.length ? chapterOf(existing[existing.length - 1]) : null
 
 const out = []
 for (const line of fs.readFileSync(src, 'utf8').split('\n')) {
-  const m = line.trim().match(/^(\d+)\s+(.+)$/)
+  const m = line.trim().match(/^(\d+(?:\.\d+)*)\s+(.+)$/)
   if (!m) {
     if (line.trim()) fail(`not \`<chapter> <text>\`: ${line.slice(0, 60)}`)
     continue
   }
-  const ch = parseInt(m[1], 10)
-  if (have.has(String(ch))) fail(`chapter ${ch} is already in ${base}`)
-  if (ch <= last) fail(`chapter ${ch} does not come after chapter ${last}`)
+  const ch = m[1].split('.').map((n) => String(parseInt(n, 10))).join('.')
+  if (have.has(ch)) fail(`chapter ${ch} is already in ${base}`)
+  if (last !== null && !after(ch, last)) fail(`chapter ${ch} does not come after chapter ${last}`)
   last = ch
   const text = m[2].replace(/\s+/g, ' ').trim()
   const us = units(text)

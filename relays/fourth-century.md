@@ -38,12 +38,13 @@ PG（Migne のギリシア教父全集）を底本にする本の共通の注意
 - 揃える本：gregory-nazianzen-theological-orations の訳語表。受肉と贖いの論じ方はアタナシオスに拠るので、人名と用語は athanasius-life-of-antony と incarnation に合わせる。
 - 20 ページ（章の途中では切らない。序だけで 1 ページ）。画像は archive.org の `page/nN_w1600.jpg` で N＝印刷ページ＋56（p. 1 と p. 150 で確かめた。IIIF は応答しなかった）。pages.json の `images` はこの N。底本テキスト（`research/srawley-1903.txt`）は、本を始めたときに序（0 章）だけ起こした。次のページからは、各ページのセッションが page-context を作る前に、そのページの章を画像から起こして足す（本の AGENTS.md の「底本の扱い」）。OCR の章の書き出しの行は本の `research/sources.md` にある。
 
-## chrysostom-on-the-priesthood　ヨアンネス・クリュソストモス『司祭職について』（ギリシア語）
+## chrysostom-on-the-priesthood　ヨアンネス・クリュソストモス『祭司職について』（ギリシア語）
 
 - 底本：PG 48。archive.org `patrologiae_cursus_completus_gr_vol_048`（Google のスキャン）。OCR は `cache/archive.org/patrologiae_cursus_completus_gr_vol_048/patrologiae_cursus_completus_gr_vol_048_djvu.txt`（a8f68c950d55b132、2026-11-21 取得）。この巻のスキャンはギリシア語だけのページが先に続き、ラテン語訳のページが後にまとまる。題（ΠΕΡΙ ΙΕΡΩΣΥΝΗΣ ΛΟΓΟΣ ΠΡΩΤΟΣ）は l. 13294、第 5・6 巻の題は l. 20486、21215。印刷の欄は 623〜692 で、画像は n96 が欄 617〜618（N ≒ 欄の番号 ÷ 2 − 213）。6 巻。長さは start-book で見積もる（8 冊でいちばん長い）。
 - J. A. Nairn 編（Cambridge, 1906。archive.org `desacerdotioofst00john`、cache に OCR あり）はよりよい校訂本だが、編者の没年を確かめられないので底本にしない。読みの違いという事実を論点一覧に使うのはよい。
 - 英訳：NPNF 1-9「Book I」（`cache/ccel.org/npnf109.txt` の l. 1866 から）。
 - 揃える本：バシレイオスとの対話の形をとる。二人の口調は本の AGENTS.md で決める。聖職の語彙（司祭、司教、主教、監督など）は ignatius と first-clement の訳語を確かめて決める。
+- 27 ページ（巻をまたがず、章の途中では切らない）。ラベルは `<巻>.<章>.<節>`（第 2 巻の頭の番号のない段落は 2.0）。書名は『祭司職について』（ἱερωσύνη＝祭司職、ἱερεύς＝祭司、ἐπίσκοπος＝監督。本の AGENTS.md の訳語表）。画像の並びは上の注意と違い、ギリシア語のページ 2 枚と同じ欄のラテン語訳のページ 2 枚が交互に来る（n103 が欄 623〜624、n104 が 625〜626、n105〜n106 がラテン語、n107 からまたギリシア語）。pages.json の `images` の範囲にはラテン語のページも入る。底本テキスト（`research/pg48.txt`）は、本を始めたときに第 1 巻 1〜5 章だけ起こした。次のページからは、各ページのセッションが page-context を作る前に、そのページの章を画像から起こして足す（本の AGENTS.md の「底本の扱い」）。第 3 巻 17 章と第 4 巻 1 章は、起こして 1,800 語を超えたらページを二つに割る（同じく「節の形」）。OCR の章の書き出しの行は本の `research/sources.md` にある。
 
 ## sulpicius-life-of-martin　スルピキウス・セウェルス『マルティヌス伝』（ラテン語）
 
