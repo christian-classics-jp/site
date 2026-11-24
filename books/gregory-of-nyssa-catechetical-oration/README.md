@@ -34,7 +34,7 @@ node tools/split-units.js <起こした章のファイル> books/gregory-of-nyss
 | chapter-28-30 | 28〜30 章 | [x] |
 | chapter-31-32 | 31〜32 章 | [x] |
 | chapter-33-34 | 33〜34 章 | [x] |
-| chapter-35 | 35 章 | [ ] |
+| chapter-35 | 35 章 | [x] |
 | chapter-36-37 | 36〜37 章 | [ ] |
 | chapter-38-39 | 38〜39 章 | [ ] |
 | chapter-40 | 40 章 | [ ] |
