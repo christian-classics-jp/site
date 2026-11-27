@@ -23,9 +23,9 @@
     {
       "id": "03-book-1-8-9",
       "spec": "1.8-1.9",
-      "english": "cache/ccel.org/npnf109.txt:2139-2351; cache/ccel.org/npnf109.txt:2320-2349",
-      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_048/patrologiae_cursus_completus_gr_vol_048_djvu.txt:14056-14529",
-      "images": "patrologiae_cursus_completus_gr_vol_048:0107-0111"
+      "english": "cache/ccel.org/npnf109.txt:2139-2276; cache/ccel.org/npnf109.txt:2320-2349",
+      "print": "cache/archive.org/patrologiae_cursus_completus_gr_vol_048/patrologiae_cursus_completus_gr_vol_048_djvu.txt:14056-14196; cache/archive.org/patrologiae_cursus_completus_gr_vol_048/patrologiae_cursus_completus_gr_vol_048_djvu.txt:14512-14601",
+      "images": "patrologiae_cursus_completus_gr_vol_048:0108-0111"
     },
     {
       "id": "04-book-2-0-2",
